@@ -8,7 +8,7 @@ from google.cloud import storage
 storage_client = storage.Client()
 
 # Define the bucket name
-bucket_name = "your-bucket-name"  # Replace with your actual bucket name
+bucket_name = "arbitration-text-search"  # Replace with your actual bucket name
 
 # Function to search for keywords in a given text
 def search_keywords(text, keywords):
