@@ -2,9 +2,13 @@ import os
 import pandas as pd
 import re
 import streamlit as st
+from google.cloud import storage
 
-# Define the folder path
-folder_path = "/home/ubuntu/investment-arbitration-research/case_files"
+# Create a Google Cloud Storage client
+storage_client = storage.Client()
+
+# Define the bucket name
+bucket_name = "your-bucket-name"  # Replace with your actual bucket name
 
 # Function to search for keywords in a given text
 def search_keywords(text, keywords):
@@ -27,14 +31,13 @@ def main():
         # Create a new DataFrame to store the results
         results_df = pd.DataFrame(columns=['file_name', 'paragraph'])
 
-        # Loop through all text files in the folder
-        for file_name in os.listdir(folder_path):
+        # Iterate through all files in the bucket
+        bucket = storage_client.bucket(bucket_name)
+        for blob in bucket.list_blobs():
             # Check if the file has a .txt extension
-            if file_name.endswith('.txt'):
-                # Read the text file
-                file_path = os.path.join(folder_path, file_name)
-                with open(file_path, 'r') as file:
-                    content = file.read()
+            if blob.name.endswith('.txt'):
+                # Read the text file from the bucket
+                content = blob.download_as_text()
 
                 # Split the content into paragraphs
                 paragraphs = content.split("\n\n")
@@ -50,7 +53,7 @@ def main():
                         paragraph = clean_text(paragraph)
 
                         # Remove the '.txt' extension from the file name
-                        file_name_short = os.path.splitext(file_name)[0]
+                        file_name_short = os.path.splitext(blob.name)[0]
 
                         # Add the file name (without the full path and without the extension) and the cleaned paragraph to a temporary DataFrame
                         temp_df = pd.DataFrame({'file_name': [file_name_short], 'paragraph': [paragraph]})
@@ -63,7 +66,7 @@ def main():
 
         if not results_df.empty:
             # Generate the Excel file name based on the search keyword
-            excel_file_name = f"/home/ubuntu/investment-arbitration-research/{keywords[0]}_search_results.xlsx"
+            excel_file_name = f"{keywords[0]}_search_results.xlsx"
 
             # Write the results DataFrame to an Excel file with the generated name
             results_df.to_excel(excel_file_name, index=False)
