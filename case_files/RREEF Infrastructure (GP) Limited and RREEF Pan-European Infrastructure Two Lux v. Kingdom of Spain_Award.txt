@@ -1,0 +1,1821 @@
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 5 of 315
+
+INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
+
+In the arbitration proceeding between
+
+RREEF Infrastructure (G.P.) Limited and
+RREEF Pan-European Infrastructure Two Lux S.a rl.
+
+Claimants
+
+and
+
+Kingdom of Spain
+
+Respondent
+
+ICSID Case No. ARB/13/30
+
+ 
+
+AWARD
+
+ 
+
+Members of the Tribunal
+Professor Alain Pellet, President
+Professor Pedro Nikken
+Professor Robert Volterra
+
+Secretary of the Tribunal
+Mr. Gonzalo Flores
+
+Date of dispatch to the parties: 11 December 2019
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 6 of 315
+
+REPRESENTATION OF THE PARTIES
+
+Representing RREEF Infrastructure (G.P.) Representing the Kingdom of Spain:
+Limited and RREEF Pan-European
+
+Infrastructure Two Lux S.a r.l.:
+
+Ms. Judith Gill QC* c/o Mr. José Manuel Gutiérrez Delgado
+Ms. Marie Stoyanov Mr. Antolin Fernandez Antufia
+
+Mr. Jeffrey Sullivan* Mr. Roberto Fernandez Castilla
+Ms. Virginia Allan Ms. Patricia Froehlingsdorf Nicolas
+Mr. Ignacio Madalena* Ms. Monica Moraleda Saceda
+
+Ms. Lauren Lindsay* Ms. Elena Ofioro Sainz
+
+Mr. Tomasz Hara Ms. Amaia Rivas Kortézar
+
+Ms. Stephanie Hawes* Ms. Maria José Ruiz Sanchez
+
+Allen & Overy LLP Mr. Diego Santacruz Descartin
+One Bishops Square Mr. Javier Torres Gella
+
+London El 6AD Mr. Pablo Elena Abad
+
+United Kingdom Mr. Rafael Gil Nievas
+
+Ms. Alicia Segovia Marco
+
+* no longer with the firm Mr. Alberto Torré Molés
+Abogacia General del Estado
+Departamento de Arbitrajes Internacionales
+c/ Marqués de la Ensenada, 14-16, 2* planta
+28004, Madrid
+Spain
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 7 of 315
+
+TABLE OF SELECTED ABBREVIATIONS/DEFINED TERMS
+
+ 
+
+Arbitration Rules
+
+ICSID Rules of Procedure for Arbitration
+Proceedings [2006]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C-[#] Claimants’ Exhibit
+
+cM Claimants’ Memorial on the Merits dated 21
+November 2014
+
+CNE National Energy Commission
+Claimants’ Post Hearing Brief dated 5 May
+
+CPHB 2017
+
+CPI Consumer Price Index
+
+CR Claimants’ Reply on the Merits dated 22
+December 2016
+Claimants’ Response to Respondent’s
+
+CRR Submission on Tribunal’s Information
+Request dated 26 March 2018
+
+cs Claimants’ Submission on Tribunal Request
+dated 5 March 2018
+
+CSP Concentrated Solar Power
+
+CL-[#] Claimants’ Legal Authority
+
+ECT Energy Charter Treaty
+
+DCF Discounted Cash Flow
+
+ 
+
+Decision on Jurisdiction
+
+The Tribunal’s Decision on Jurisdiction of 6
+
+June 2016
+
+ 
+
+FIT
+
+Feed in Tariffs
+
+ 
+
+ 
+
+Hearing
+
+Hearing on the Merits held on 20-24 March
+2017
+
+ 
+
+ 
+
+ 
+
+Case 1:19-cv-03783-CJN
+
+Document
+
+1-1 Filed 12/19/19 Page 8 of 315
+
+ 
+
+ICSID Convention
+
+Convention on the Settlement of Investment
+Disputes Between States and Nationals of
+
+Other States dated 18 March 1965
+
+ 
+
+ICSID or the Centre
+
+International Centre for Settlement of
+
+Investment Disputes
+
+ 
+
+ICSID Institution Rules
+
+ICSID Rules of Procedure for the Institution
+
+of Conciliation and Arbitration Proceeding
+
+ 
+
+Instituto para la Diversificacién y Ahorro de
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IDEA
+la Energia
+IRR Internal Rate of Return
+MOA Margin of Appreciation
+MITYC Ministry of Industry, Tourism and Commerce
+RREEF Pan-European Infrastructure Fund
+PEIF
+LP.
+PER Renewable Energy Plan
+PFER Renewable Energy Promotion Plan
+R-[#] Respondent’s Exhibit
+Registro Administrativo de Instalaciones de
+RAIPRE Producci6n de Energia Eléctrica [en régimen
+especial]
+REEF Infra RREEF Infrastructure (G.P.)
+
+ 
+
+RREEF Pan-European Two
+
+RREEF Pan-European Infrastructure Two
+Lux S.ar.l.
+
+ 
+
+RCM
+
+Respondent’s Counter-Memorial on the
+
+Merits dated 15 July 2016
+
+ 
+
+ 
+
+RE
+
+ 
+
+Spain’s Renewable Energy power generation
+
+sector
+
+ 
+
+iii
+
+ 
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 9 of 315
+
+ 
+
+Respondent’s Post Hearing Brief dated 5 May
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RPHB
+2017
+RR Respondent’s Rejoinder on the Merits dated 3
+February 2017
+Respondent’s Response to Tribunal Request
+RRR for Additional Information dated 5 March
+2018
+Respondent’s Reply to Claimants’
+RRS Submission to Tribunal’s Request for
+Additional Information dated 26 March 2018
+RL-[#] Respondent’s Legal Authority
+SES / SEE Spanish Electricity Sector
+Tax on the Value of the Production of Electric
+TVPEE
+Energy
+Treaty Energy Charter Treaty
+
+ 
+
+Tr. Day [#] [Speaker(s)] [page:line]
+
+Transcript of the Hearing
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tribunal Arbitral Tribunal constituted on 31 July 2014
+VCLT Vienna Convention on the Law of Treaties
+WACC Weighted Average Cost of Capital
+
+Yearbook of the International Law
+YBILC
+
+ 
+
+Commission
+
+ 
+
+ 
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 10 of 315
+
+LIST OF CASES
+
+ 
+
+AAPL vy. Sri Lanka
+
+Asian Agricultural Products Ltd v. Democratic Socialist
+Republic of Sri Lanka, ICSD Case No. ARB/87/3, Award,
+27 June 1990 (CL-165)
+
+ 
+
+Abengoa v. Mexico
+
+Abengoa, S.A. y COFIDES, S.A. v. United Mexican States,
+ICSID Case No. ARB(AF)/09/2, Award, 18 April 2013
+(RL-104)
+
+ 
+
+Antin v. Spain
+
+Antin Infrastructure Services Luxembourg S.a.r.l. and Antin
+Energia Termosolar B.V. v. Kingdom of Spain, CSTD Case
+No. ARB/13/31, Award, 15 June 2018 (CL-245)
+
+ 
+
+Chevron v. Ecuador
+
+Chevron Corporation and Texaco Petroleum Company v.
+Republic of Ecuador, UNCITRAL, PCA Case No. 34877,
+Final Award, 31 August 2011
+
+ 
+
+Eiser v. Spain
+
+Eiser Infrastructure Limited and Energia Solar
+Luxembourg S.a r.l. v. Kingdom of Spain, ICSID Case No.
+ARB/13/36, Award, 4 May 2017 (CL-242)
+
+ 
+
+Foresight v. Spain
+
+Foresight Luxembourg Solar 1 §.A.R.L., et al. v. Kingdom
+of Spain, SCC Case No. 2015/150, Final Award, 14
+November 2018
+
+ 
+
+Gold Reserve v. Venezuela
+
+Gold Reserve Inc. v. Bolivarian Republic of Venezuela,
+ICSID Case No. ARB(AF)/09/1, Award, 22 September
+2014 (CL-222)
+
+ 
+
+Maffezini v. Spain
+
+Emilio Agustin Maffezini v. Kingdom of Spain, ICSID Case
+No. ARB/97/7, Award, 13 November 2000 (CL-23)
+
+ 
+
+Metalclad v. Mexico
+
+Metalclad Corporation v. United Mexican States, 1CSID
+Case No. ARB(AF)/97/1, Award, 30 August 2000 (CL-36)
+
+ 
+
+Micula v. Romania
+
+Ioan Micula, Viorel Micula and others v. Romania, 1CSID
+
+Case No. ARB/05/20, Award, 11 December 2013 (RL-100)
+
+ 
+
+ 
+
+Middle East Cement v. Egypt
+
+ 
+
+Middle East Cement Shipping and Handling Co. S.A. v.
+Arab Republic of Egypt, ICSID Case No. ARB/99/6,
+
+ 
+
+v
+
+ 
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 11 of 315
+
+ 
+
+Award, 12 April 2002 (CL-37)
+
+ 
+
+Mobil v. Venezuela
+
+Venezuela Holdings B.V. and others v. Bolivarian Republic
+of Venezuela, ICSID Case No. ARB/07/27, Award, 9
+October 2014 (RL-84)
+
+ 
+
+Mondev v. USA
+
+Mondev International Ltd. v. United States of America,
+
+ICSID Case No. ARB(AF)/99/2, Award, 11 October 2002
+
+ 
+
+Murphy v. Ecuador
+
+Murphy Exploration & Production Company International
+v. Republic of Ecuador, PCA Case No. 2012-16, Final
+Award, 10 February 2017
+
+ 
+
+National Grid v. Argentina
+
+National Grid P.L.C. v. Argentine Republic, UNCITRAL,
+Award, 3 November 2008 (CL-40)
+
+ 
+
+Pezold v. Zimbabwe
+
+Bernhard von Pezold and others v. Republic of Zimbabwe,
+ICSID Case No. ARB/10/15, Award, 28 July 2015 (CL-
+218)
+
+ 
+
+Rusoro v. Venezuela
+
+Rusoro Mining Ltd. v. Bolivarian Republic of Venezuela,
+ICSID Case No. ARB(AF)/12/5, Award, 22 August 2016
+(RL-102)
+
+ 
+
+Santa Elena v. Costa Rica
+
+Compaiia del Desarrollo de Santa Elena S.A. v. Republic
+of Costa Rica, ICSID Case No. ARB/96/1, Award, 17
+February 2000 (CL-17)
+
+ 
+
+SGS v. Paraguay
+
+SGS Société Générale de Surveillance S.A. v. Republic of
+Paraguay, ICSID Case No. ARB/07/29, Award, 10
+February 2012 (CL-53)
+
+ 
+
+SPP v. Egypt
+
+Southern Pacific Properties (Middle East) Limited v. Arab
+Republic of Egypt, CSTD Case No. ARB/84/3, Award, 20
+May 1992
+
+ 
+
+ 
+
+TecMed v. Mexico
+
+ 
+
+Técnicas Medioambientales Tecmed S.A. v. United Mexican
+States, ICSID Case No. ARB (AF)/00/2, Award, 29 May
+2003 (CL-55)
+
+ 
+
+vi
+
+ 
+
+ 
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 12 of 315
+
+ 
+
+Teinver v. Argentina
+
+Teinver S.A. and others v. Argentine Republic, ICSID Case
+No. ARB/09/01, Award, 21 July 2017
+
+ 
+
+Vestey v. Venezuela
+
+Vestey Group Ltd v. Bolivarian Republic of Venezuela,
+ICSID Case No. ARB/06/4, Award, 15 April 2016 (RL-98)
+
+ 
+
+Wena Hotels v. Egypt
+
+ 
+
+Wena Hotels Ltd. v. Arab Republic of Egypt, ICSID Case
+No. ARB/98/4, Decision on Annulment, 5 February 2002
+
+ 
+
+ 
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 13 of 315
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+I. INTRODUCTION |
+Il. PROCEDURAL HISTORY. 2
+Ill. DAMAGES 3
+A. Calculation of Damages 3
+(a) CSP 4
+1. Applicable Discount Rate........ccccc cece eeeeeeeeeeeeesesteteteteseneneneeneeeiees 4
+a. The Positions of the Parties’ Experts ...0.0.0.0cccceeeeeeeeeeeeeeeees 4
+i. The Position of the Claimants’ Experts.........ccccseeesseseeeeneeees 4
+ii. The Position of the Respondent’s Experts 0.0.0.0... 5
+b. The Tribunal’s Analysis... ee escecseseeseeeeeeeeeenecenes 5
+2. Application of the Hliquidity Discount 0.0.0.0... eee eeeeeeneneneneeeeeeeees 7
+a. The Positions of the Parties’ Experts ...0.0.0.0cccceeeeeeeeeeeeeeeees 7
+i. The Position of the Claimants’ Experts.........ccccseeesseseeeeneeees 7
+ii. The Position of the Respondent’s Experts 0.0.0.0... 7
+b. The Tribunal’s Analysis... ee escecseseeseeeeeeeeeenecenes 8
+3. Offset Damages at the Andasol Plants with a Possible Gain at Arenales..... 10
+a. The Positions of the Parties’ Experts 00.0.0... cece 10
+i. The Position of the Claimants’ Experts.........cccccssesesseeteeeeeeees 10
+ii. The Position of the Respondent’s Experts .........0.ccccseeee 10
+b. The Tribunal’s Analysis .....0.0.0..ccccceseseseeee cece eeeeeeeeneneeeeeeteneeees 11
+(b) Wind Plants IL
+1. Applicable Discount Rate.........ccc cece eee eeceneeeeeeeeeeteceseteteneeeneeeeneeeee 11
+2. Inflation Indexing 11
+
+ 
+
+Vili
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 14 of 315
+
+ 
+
+a. The Positions of the Parties’ Experts
+
+ 
+
+ 
+
+ 
+
+ 
+
+i. The Position of the Claimants’ Experts.........cccccssesesseeteeeeeeees 11
+
+ii. The Position of the Respondent’s Experts .......::.sssssessesseseeeeeeeees 12
+
+b. The Tribunal’s Analysis .....0.0.0..ccccceseseseeee cece eeeeeeeeneneeeeeeteneeees 12
+
+B. The Requested Tax-Gross Up 13
+a. The Parties’ Positions...
+
+i. The Claimants’ Position ........0..ccescesesssessesseessesssessneeseeseesneente 13
+
+ii. The Respondent’s Position .........cccceesseseseeseseseeeenees 14
+
+b. The Tribunal’s Analysis .....0.0.0..ccccceseseseeee cece eeeeeeeeneneeeeeeteneeees 15
+
+C. Compensation due to the Clai 15
+
+D. Interest. 16
+
+a. The Parties’ Positions ...........c.ccccccsesceeeteseeteseeteseeeseeeseeneseeeseeneeeenes 16
+
+i. The Claimants’ Position ........0..ccescesesssessesseessesssessneeseeseesneente 16
+
+ 
+
+ii. The Respondent’s Position...
+
+ 
+
+b. The Tribunal’s Analysis .....0.0.0..ccccceseseseeee cece eeeeeeeeneneeeeeeteneeees 19
+
+Iv. COSTS 21
+a. The Parties’ Positions ...........c.ccccccsesceeeteseeteseeteseeeseeeseeneseeeseeneeeenes 21
+
+i. The Claimants’ Position oo... 21
+
+ii. The Respondent’s Position .........ssessscscseseeseeseeseeseestesneseeteeeeeetees 22
+
+b. The Tribunal’s Analysis .....0.0.0..ccccceseseseeee cece eeeeeeeeneneeeeeeteneeees 23
+
+V. AWARD 24
+
+ 
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 15 of 315
+
+I. INTRODUCTION
+
+This case concerns a dispute submitted to the International Centre for Settlement of
+Investment Disputes (“ICSID” or the “Centre’”’) on the basis of the Energy Charter Treaty
+which entered into force on 16 April 1998 (the “ECT” or “Treaty”) and the Convention on
+the Settlement of Investment Disputes between States and Nationals of Other States of 18
+
+March 1965, which entered into force on 14 October 1966 (the “ICSID Convention”).
+
+The Claimants are RREEF Infrastructure (G.P.) Limited (“RREEF Infra” or the “First
+Claimant”) and RREEF Pan-European Infrastructure Two Lux S.a r.l. (“RREEF Pan-
+
+European Two” or the “Second Claimant”), jointly referred as “the Claimants” or “RREEF.”
+
+RREEF Infra is a private limited liability company incorporated in 2005 under the laws of
+Jersey. REEF Pan-European Two is a private limited liability company (Société a
+
+responsabilité limitée) incorporated in 2006 under the laws of Luxembourg.
+
+As set forth under the Tribunal’s Decision on Jurisdiction, RREEF specialises in
+infrastructure investments, with experience across different sectors, including the power
+generation sector. RREEF is a member of the Deutsche Bank Group, and in 2013, RREEF
+was re-branded and now operates together with Deutsche Bank’s asset and wealth
+
+management divisions, under the unified name Deutsche Asset & Wealth Management.
+
+The First Claimant is the general partner of RREEF Pan-European Infrastructure Fund L.P.
+(“PEIF”). PEIF holds 100% of the share capital in RREEF Pan-European Infrastructure Lux
+8.41.1. ((RREEF Pan-European’) and an indirect 100% equity stake, through RREEF Pan-
+
+European, in the Second Claimant.
+
+The Respondent is the Kingdom of Spain (“Spain” or “the Respondent”).
+
+The Claimants and the Respondent are collectively referred to as the “Parties”. The Parties’
+
+representatives and their addresses are listed above on page (i).
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 16 of 315
+
+This dispute relates to renewable energy generation installations in Spain.
+
+The Tribunal refers to chapter IV of its Decision on Responsibility and on the Principles of
+Quantum dated 30 November 2018 for the description of the main facts relating to the merits
+of the dispute.
+
+II. PROCEDURAL HISTORY
+
+On 30 November 2018, the Tribunal issued a Decision on Responsibility and on the
+Principles of Quantum, with a Partially Dissenting Opinion from Prof. Volterra (together
+“the Decision”). The Tribunal refers to chapter III of this Decision for the previous
+
+procedural history.
+
+On that same date the Secretariat, in accordance with Section 23 of Procedural Order No.1,
+
+invited the Parties to consent to the publication of the Decision on the ICSID’s website.
+
+On 17 January 2019, the Tribunal issued Procedural Order No. 11 on Confidentiality. The
+Tribunal ordered the Parties to keep the Decision on Responsibility and on the Principles of
+Quantum and the attached Partial Dissenting Opinion of Prof. Robert Volterra confidential,
+until they reach an agreement on the pending matters of quantum set out in paragraph 600(5)
+
+of the Decision or have informed the Tribunal that they have been unable to do so.
+
+On 7 March 2019, pursuant to paragraph 596 of the Tribunal’s Decision on Responsibility
+and on the Principles of Quantum of 30 November 2018, the Tribunal received the Parties’
+
+Experts’ Joint Models quantifying the damages due to the Claimants.
+
+By communication of 12 March 2019, the Claimants asked the Tribunal to provide an
+indication of the next steps it intends to take (including the Parties’ submissions on costs),
+
+and their likely timeline.
+
+By communication of 12 March 2019, the Claimants argued that the Respondent was
+responsible for leaking the Decision and requested the Tribunal to review Procedural Order
+
+No. 11.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 17 of 315
+
+By communication of 12 March 2019, the Respondent objected to the Claimants’ allegations,
+accepted the disclosure of the Dissenting Opinion and requested the Tribunal to disregard
+
+the Claimants’ comments regarding the Respondent’s breach of the Confidentiality Order.
+
+On 1 April 2019, the Tribunal issued Procedural Order No. 12 on Termination of
+Confidentiality. The Tribunal found that the confidentiality it had ordered was no longer
+necessary and decided that there is no objection to the publication of its Decision on
+Responsibility and on the Principles of Quantum and the attached Partial Dissenting Opinion
+
+of Professor Robert Volterra.
+
+On 16 August 2018, the Parties filed simultaneous updated submissions on costs.
+
+Ill. DAMAGES
+A. CALCULATION OF DAMAGES
+The Parties’ Positions
+
+The Parties’ Experts agree on a number of points:
+
+- each of the CSP projects fail to obtain the Tribunal’s target 6.86% after-tax lifetime
+project return under the New Regulatory Regime;!
+
+- the incremental cash flow? that is necessary for each of the CSP plants to obtain the
+Tribunal’s target 6.86% after-tax lifetime project return;*
+
+- the damages analysis must translate the series of incremental cash flows into present
+value figures;*
+
+- using a discounted cash flow (“DCF”) model and adopting a “Valuation Date” of 30 June
+
+' Brattle-BDO Joint Memorandum, 6 March 2019, para. 4.
+? Tbid. “The annual incremental cash flow is the additional amount of cash flow needed in each year after 2013 for
+each of the CSP projects to achieve the target 6.86% lifetime return.”
+
+3 Ibid.
+
+4 Ibid., para. 15.
+
+20.
+
+21.
+
+22.
+
+5 Ibid.
+° Ibid.
+7 Ibid.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 18 of 315
+
+2014, matching their respective expert reports and financial models;>
+
+- projecting cash flows based on the expectations as of the Valuation Date, and discounting
+the projected cash flows to the Valuation Date using a discount rate based on market
+conditions as of the Valuation Date;°
+
+- Using the same DCF model for the CSP projects to estimate damages for Legitimate
+Expectations (CSP) and the same DCF model for the wind projects to estimate damages
+
+for Retroactivity (Wind).”
+
+The Tribunal considers that, even though it is not bound by the experts’ conclusions, there is
+
+no reason to deviate from their common positions.
+
+On the other hand, the Parties disagree on several points regarding the calculation of damages
+
+for CSP Plants and the wind plants.
+(a) CSP
+1. Applicable Discount Rate
+a. The Positions of the Parties’ Experts
+i. The Position of the Claimants’ Experts
+
+The Claimants’ Experts continue to apply the same discount rate than the one they proposed
+in the earlier phases of the proceedings.* They consider that the Tribunal only calculated a
+WACC for the purpose of calculating the reasonable return. According to them, the Tribunal
+did not in fact reach any conclusion on the appropriate discount rate in its Decision on
+
+Responsibility and on the Principles of Quantum.”
+
+* Brattle-BDO Joint Memorandum, 6 March 2019, para. 19.
+° Ibid., para. 20.
+
+4
+
+23.
+
+24.
+
+25.
+
+26.
+
+10 Ibid.
+" Ibid.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 19 of 315
+
+The views of the Claimants’ Experts are that their discounting assumptions are appropriate
+for the APV model because the APV requires a discount rate that accounts for the presence
+
+of debt financing in the way that the Claimants’ Experts are proposing. '°
+ii. The Position of the Respondent’s Experts
+
+The Respondent’s Experts are calculating the discount rate using the same methodology than
+the one the Tribunal used to calculate the reasonable return. They adjust this calculation by
+taking into consideration the valuation date agreed by the experts, June 2014, and by
+
+excluding the interest tax shield. They also agree with Claimants’ experts on that last point.!!
+
+The Respondent’s Experts do not discuss whether the methodology used by the Tribunal for
+
+the purpose of calculating the reasonable return would be appropriate for the APV model.
+b. The Tribunal’s Analysis
+
+The Tribunal has calculated a WACC for the purpose of determining what is the reasonable
+return for a project, taking “into consideration the financial structure of the whole project.”
+In their Joint Report, the Parties’ Experts are calculating a WACC but for a different purpose:
+to calculate the damages with the APV method.'* Both Brattle'* and BDO', without
+questioning the WACC calculated by the Tribunal, agree that for the purpose of calculating
+damages, the WACC should be calculated differently. To that end, they agree to base
+themselves on two different parameters: the valuation date'® and the withdrawal of the
+interest tax shield'’, There is no reason to oppose their common views, which do not
+
+contradict those of the Tribunal since these parameters are used for another purpose.
+
+, para, 21.
+
+2 Decision on Responsibility and on the Principles of Quantum, 30 November 2018, para. 577.
+
+'3 Both experts accept this method. Brattle-BDO Joint Memorandum, 6 March 2019,
+
+'4 Ibid.
+'S Ibid.
+16 Ibid.
+"" Ibid.
+
+ 
+
+, para, 20.
+, para, 21.
+, para, 15.
+, paras. 20 and 21.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 20 of 315
+
+27. However, the experts disagree on the methodology to calculate the WACC within the APV
+method. But it is to be noted that, while Brattle does propose a complete alternative WACC
+to that end, BDO, which agrees that the WACC calculated by the Tribunal for determining
+the reasonable return does not fit the APV method, nevertheless uses “the Tribunal’s
+valuation methodology and parameters, such as the beta, the financial leverage, cost of debt,
+income tax rate, etc”'*. As Brattle rightly states: “The Tribunal did not propose its WACC
+for the discount rate.”!? Therefore, there is no objection to adopt a different methodology to
+calculate the WACC for evaluating the damages and, in this regard, the Tribunal is of the
+
+view that the WACC calculated by Brattle is more appropriate:
+
+- The Tribunal notes that BDO only calculates its WACC with parameters used by the
+Tribunal in its Decision, while acknowledging that the Tribunal’s WACC was calculated
+for another purpose, without demonstrating why these parameters would also be relevant
+for the calculation of damages;
+
+- In particular, the method used by the Tribunal to calculate the reasonable return does not
+appropriately take into account the financing of the debt in a way which should, in all
+fairness, be taken into account when evaluating the damages;
+
+- As both Experts agree, it is also necessary to take into account (and deduct) the interest
+tax shield, which would not have been appropriate for calculating the return;
+
+- As explained by Brattle, the use of BDO’s WACC results in the appearance of a present
+value gain at Arenales under the New Regulatory Regime, while both experts “agree that
+each of the CSP projects fail to obtain the Tribunal’s target 6.86% after-tax lifetime
+project return under the New Regulatory Regime.””°
+
+- When applying the APV method, it is apposite to take June 2014 as the critical date for
+
+these calculations as both Experts agree.
+
+8 Thid., para. 23.
+ Thid., para. 20.
+2 Tbid., para. 4.
+
+28.
+
+29.
+
+30.
+
+2! Tid.
+> Ibid.
+3 Tid.
+4 Tbid.
+°5 Thid.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 21 of 315
+
+2, Application of the Illiquidity Discount
+
+a. The Positions of the Parties’ Experts
+
+The Parties’ Experts agree on the magnitude and application of the liquidity discount in the
+Actual scenario. Both Experts apply a liquidity discount of 18% when valuing RREEF’s
+interests under the New Regulatory Regime. However, the Experts disagree on the
+application of the liquidity discount in the scenario reflecting the Tribunal’s target return of
+
+6.86%.!
+i. The Position of the Claimants’ Experts
+
+The Claimants’ Experts do not apply a liquidity discount in a scenario assuming the
+Tribunal’s target return of 6.86%.” They consider that as the Tribunal calculated the target
+by using the WACC, it necessarily assumed the underlying investment interests were
+liquid. In other words, the Claimants’ position is that: “if one defines the reasonable return
+in a way that excludes an illiquidity premium, but then applies an illiquidity discount when
+calculating present values, the result will be the same as if one failed to compensate investors
+
+for the lack of liquidity.”
+
+ii. The Position of the Respondent’s Experts
+
+The Respondent’s Experts do not see any reason why the liquidity discount should not be
+applied in the But-For scenario. On the contrary, they consider that the discount should be
+applied in both scenarios in order to compare the fair market value of the two plants. In their
+opinion, the Tribunal only calculated the project IRR and did not take into account any equity
+
+related factors in its calculation.”>
+
+, para, 24.
+, para, 25.
+, para, 26.
+
+, para, 30.
+
+31.
+
+33.
+
+34.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 22 of 315
+
+b. The Tribunal’s Analysis
+
+When calculating the damages suffered by the Claimants, both Experts agree “that the
+damages should be quantified as the difference of the fair market value of the plants in 2
+different scenarios (the Actual and the But-for scenario).”*° In their respective first Reports
+both Brattle and BDO referred to the RD 661/2007 regime and applied an illiquidity discount
+in both scenarios.”” However, the Experts differed as to whether it was correct to apply an
+illiquidity discount in the context of the quantum calculation based on the 6.86% prescribed
+
+reasonable rate of return that was directed to be achieved in the Tribunal’s Decision.
+
+The But-for scenario to be retained at this stage is a scenario according to which the
+Claimants would have obtained a reasonable return, as defined by the Tribunal in its
+Decision. The opposition between the experts in this respect comes from the fact that the
+Claimants’ Experts consider that, since the reasonable return has been defined by the
+Tribunal without applying an illiquidity discount, such a discount should not be applied when
+calculating the fair market value of the Claimants’ investment in the But-for scenario while
+it would still apply in the Actual scenario. The Respondent’s Experts’ opinion on this point
+
+references a discounted cash flow valuation to net present value calculation.
+
+The Tribunal stresses that calculating a damage is a different exercise than calculating a
+reasonable return. The Tribunal made a calculation for the purpose of calculating a
+reasonable return for a project, not for the purpose of calculating a fair market value, which
+
+was the Experts’ task.
+
+The method of calculating damages is different. It consists in calculating first the value of
+the investment in the “but for” scenario without taking into account the breach of the treaty
+and then, in a second step, the value of the investment in the Actual scenario (taking into
+account the violations). The damage corresponds to subtracting this amount from the
+
+previous one. To calculate the value of the investment, it is normal to add an “illiquidity
+
+26 Ibid.
+27 Brattle Quantum Report, 21 November 2014, para. 182; Brattle Rebuttal Quantum Report, 22 December 2016, para.
+175; BDO First Report, 14 July 2016, Annex VII.
+
+8
+
+35.
+
+36.
+
+37.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 23 of 315
+
+discount” which adjusts the value of the company on the grounds that it is not, or only
+slightly, liquid (because it cannot be easily sold). But the illiquidity discount should only be
+added to calculate the fair market value, i.e. the estimated sale value of an asset. There is no
+reason to add one to calculate the internal rate of return of a project. Such an addition in only
+one of two scenarios totally distorts the comparison with the current scenario, keeping in
+mind that, in the present case, there is no expropriation or damages against the investment
+
+itself.
+
+When defining the methodology to calculate the reasonable return, the Tribunal explained:
+
+“There can be no doubt that the ECT protects shareholder interests. As
+
+such, it ensures to them the right to a fair and equitable treatment,
+
+including the respect of their legitimate expectations. As the Tribunal
+
+already explained, the only legitimate expectations the Claimants had
+
+in this case was to obtain the reasonable return that the Respondent was
+
+committed to. It is therefore necessary to look precisely at the
+
+Respondent’s commitment. Both the Claimants and the Respondent
+
+agree that the reasonable return targeted by the Spanish law is a project
+
+IRR. The Tribunal see no reason to decide otherwise.””*
+An illiquidity discount represents the lack of liquidity of an asset. The issue of the liquidity
+of an asset only arises when calculating the fair market value of an investment, from the
+investors’ point of view (the market). Therefore, as in the present case the Tribunal has
+considered that a reasonable return had to be calculated for a project, there was logically no
+basis for applying an illiquidity discount in the calculation of the reasonable return to the
+projects guaranteed by the Respondent. In the view of the Tribunal, there is no reason why
+
+the reasonable return calculation would “compensate” for a lack of liquidity.
+
+On the contrary, it is necessary to add this discount when calculating the fair market value in
+
+both scenarios as the Experts have done in all their previous calculations” and as BDO,*?
+
+28 Decision on Responsibility and on the Principles of Quantum, 30 November 2018, para. 545.
+2° Brattle-BDO Joint Memorandum, 6 March 2019, para. 30.
+3 Tbid., paras. 30-31.
+
+38.
+
+39.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 24 of 315
+
+contrary to Brattle,*! does in respect to the liquidity discount. Applying this discount only
+
+in one scenario completely biases the comparison of the two scenarios.
+
+3. Offset Damages at the Andasol Plants with a Possible Gain at Arenales
+
+a. The Positions of the Parties’ Experts
+i. The Position of the Claimants’ Experts
+
+The Claimants’ Experts point out that the Respondent’s Experts’ use of a lower discount rate
+artificially exaggerates the supposed difference between effects on different assets of the
+Claimants, under the principles enunciated by the Tribunal in the Decision. They point out
+that whether or not to include negative damages into a quantum calculation is a legal question
+
+and not an economic one.*”
+ii. The Position of the Respondent’s Experts
+
+The Respondent’s experts point out that as a consequence of the preferred share scheme in
+force, RREEF had the ability to collect cash distributions from Arenales prior to other
+shareholders. Taking into account that the damages are calculated as the sum of the impact
+on the three plants, they consider that all the elements, together those that increase the
+damages and those that reduce them, including the effect of the said preferred share scheme,
+
+should be taken into account in the damages’ calculation.
+
+3! [bid., paras. 25-29.
+® Tbid., para. 33.
+
+40.
+
+41.
+
+42.
+
+43.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 25 of 315
+
+b. The Tribunal’s Analysis
+
+The Tribunal notes that, when applying the discount rate proposed by Brattle as the Tribunal
+deems appropriate,*? it appears that Arenales did not earn money, and therefore the question
+of the deduction of its gain from the losses suffered by the Claimants with Andasol does not
+arise.
+
+(b) Wind Plants
+
+1. Applicable Discount Rate
+
+The Tribunal sees no reason to depart from the line of argument followed in respect to the
+applicable discount rate (under III.A.(a) 1. above). The same discount rate should be applied
+
+for both the CSP and the wind plants.
+
+2. Inflation Indexing
+
+a. The Positions of the Parties’ Experts
+
+While the Parties’ Experts agree that retroactivity damages should not reflect a change in the
+calculation of the return and that the relevant analysis should only attempt to eliminate the
+clawback of historical profits under the New Regulatory Regime, they disagree about
+precisely how to eliminate the claw-back of historical profits under the New Regulatory
+
+Regime.**
+i. The Position of the Claimants’ Experts
+
+The Claimants’ Experts note that the remuneration that the Claimants received under the
+previous regime was indexed on the inflation, contrary to the remuneration under the New
+Regime that is not indexed on inflation. They consider that given the same target rate of
+
+return, the choice to index for inflation affects the anticipated profile of payments over time
+
+33 See para. 27 supra.
+ Brattle-BDO Joint Memorandum, 6 March 2019, para. 4.
+
+ll
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 26 of 315
+
+and the implicit profile of capital repayment. According to them, the “treatment of inflation”
+
+is an inherent part of the retroactivity identified by the Tribunal as a breach.*>
+ii. The Position of the Respondent’s Experts
+
+44. The Respondent’s experts refer to the Tribunal’s Decision*® and note that the Tribunal did
+not indicate that any inflation matters had to be corrected and they consider that, as the
+reasonable return of 7.398% is a nominal rate of return, it already takes inflation into
+
+account.”
+b. The Tribunal’s Analysis
+
+45. Asareminder: the Tribunal found in its Decision that the New Regime is retroactive because:
+- It grants the investors a 7.398% return per year;
+- The Claimants received more in the early years (before 2014) as they were under the old
+regime;
+- As aresult, Spain considered that the Claimants will have less than 7.398% in the future
+
+(after 2014) in order to compensate for the surplus that they had under the old regime.
+
+46. In order to calculate the damages suffered by the Claimants, it is therefore necessary, as
+
+proposed by the Claimants’ Experts, to attribute to them the difference between:
+
+- what they earned under the old regime and;
+
+- the 7.398% target.
+
+38 [bid., paras. 5-7.
+% Tbid., para. 9, citing Decision on Responsibility and on the Principles of Quantum, para. 482.
+57 [bid., paras. 10-11.
+
+12
+
+47.
+
+48.
+
+49.
+
+50.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 27 of 315
+
+B. THE REQUESTED TAX-GRoss UP
+a. The Parties’ Positions
+i. The Claimants’ Position
+
+To achieve full reparation, the Claimants request that the Tribunal also order compensation
+including a tax gross-up of 29.22%, corresponding to the Luxembourg corporate tax rate
+applicable to any amounts received by the Claimants under the award.** Brattle estimated a
+
+tax gross-up of EUR 115 million.”
+
+The Claimants argue that Article 21 of the ECT is no obstacle for the Tribunal to award the
+tax gross-up. Contrary to Respondent’s assertion, Article 21 of the ECT is concerned with
+whether or not the Tribunal has jurisdiction over a dispute where a State measure can be
+characterized as taxation, which is a question unrelated to the application of a tax gross-up
+
+on damages under the Award.*?
+
+Also, the tax gross-up is not speculative. Contrary to the Respondent’s assertion, it does not
+fall under the EU’s participation exemption of profit distribution between subsidiaries within
+the EU. Moreover, the Claimants have computed a specific tax gross-up claim for a specific
+country, Luxembourg; unlike the claimants in Mobil v. Venezuela - the case referenced by
+the Respondent - whose claims were found to lack specificity when they contended that there
+
+was a risk that other jurisdictions seek to impose taxes.*!
+
+The Claimants then suggest three ways in which the Tribunal could address the issue of the
+tax gross-up. The Claimants suggest placing the full amount of the gross-up in escrow,
+
+pending the final determination by a tax authority; or the appropriate entity could provide a
+
+38 CM, para. 583.
+
+* Brattle Rebuttal Quantum Report, 22 December 2016, para. 41.
+4 CR, paras. 768 and 769.
+
+4 CR, paras. 770-774.
+
+51.
+
+53.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 28 of 315
+
+written undertaking that any amount not paid to the tax office would be returned to Spain; or
+
+order the Respondent to hold the Claimants harmless from any tax due.”
+ii. The Respondent’s Position
+
+Regarding the tax gross-up, the Respondent argues that it is excluded under Article 21 of the
+ECT, which establishes a tax gross-up carve out, by providing that nothing in the ECT shall
+create rights or impose obligations about taxation measures of the Contracting Parties. The
+Contracting Parties, according to the Respondent, should be understood here as either the
+home or the host country of the investor, which follows from the distinction made in Article
+15 of the ECT. Luxembourg is an ECT Contracting Party and has not consented to subject
+tax-related matters to arbitration upon signing the ECT. The Tribunal would lack jurisdiction
+to assess the tax gross-up, being a tax measure. Also, Article 21 states that in case of
+inconsistency, it prevails over other provisions of the ECT, including Articles 10 and 13 or
+Article 26. Also, consistent with Article 2 of the Draft Articles on Responsibility of States
+of the ILC and its Comment (1), pursuant to which the conduct or act must be attributable to
+the State under international law, no tax measure of Luxembourg could create an obligation
+for Spain based on the ECT. With support in Rusoro v. Venezuela, the Respondent argues
+that tax obligations derived from tax laws different from those of the host country do not
+
+qualify as consequential loss and the host country cannot be liable for them.*?
+
+Alternatively, no tax on the amount awarded would arise in Luxembourg. _ First,
+compensation for income that was not received falls under the EU’s participation exemption,
+which provides for the exemption of profit distributions between parent companies and
+
+subsidiaries of different EU Member States.**
+
+Alternatively, if the Tribunal does not find that Article 21 has a tax gross-up carve out and
+that no tax exemption applied, the Respondent argues that applying the tax gross-up is
+
+inappropriate, since it is speculative and uncertain. The Claimants have failed to supply legal
+
+2 CR, para. 775.
+3. RCM, paras. 1064-1067 and RR, paras. 1147-1161.
++ RCM, para. 1068 and RR, para. 1162.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 29 of 315
+
+basis with regard to Luxembourg’s hypothetical taxation and Claimants themselves say in
+their Reply that it is not possible to know with certainty the decision of the Luxembourg tax
+authority. With support on Mobil v. Venezuela, the Claimants argue that regarding foreign
+taxation, a tax gross-up claim is speculative and uncertain. Similarly, the Respondent argues
+that the tribunal in Abengoa v. Mexico found that the claimants had fail to provide any
+evidence of possible double taxation and the tribunal could not speculate on the tax
+
+treatment.*>
+b. The Tribunal’s Analysis
+
+54. The Tribunal agrees with the Claimants that Article 21 is irrelevant to the present discussion:
+the hypothetical taxes for which they ask compensation are not the consequences of the ECT,
+but would be the consequence of a more general obligation to pay taxes on benefits made by
+the Claimants and repatriated (if repatriated) in Luxembourg. However, the benefits from
+which the Claimants have been wrongfully deprived would, most probably, have been
+submitted to taxation had the Claimants integrally received the sum due to them in
+
+accordance with their legitimate expectations.
+
+55. Moreover, the Tribunal notes that the Claimants have not provided sufficient evidence of
+whether and in what amount any tax on the compensation determined by this Award would
+have to be paid by them*®. Accordingly, the harm the Claimants complain of is uncertain
+
+and hypothetical and cannot give rise to compensation.
+C. COMPENSATION DUE TO THE CLAIMANTS
+
+56. The Claimants are entitled to compensation for the harm caused by the Respondent’s
+wrongful acts as determined in the Tribunal’s Decision, that is, resulting from its breaches
+of its obligations under the ECT for the retroactive application of the New Regime with
+respect to the Wind plants and the CSP plants belonging to the Claimants and, with respect
+
+to each of the CSP Plants, of its obligation to insure a reasonable return to the Claimants’
+
+45 RCM, paras. 1061-1071 and RR, paras. 1164-1170.
+*© See e.g. Eiser v. Spain, para. 456.
+
+57.
+
+58.
+
+59.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 30 of 315
+
+investment. In view of the above, the Tribunal considers that the damages must be calculated
+in conformity with the Claimants’ Experts’ discount rate*” as well as by applying an
+illiquidity discount in both scenarios for CSP plants*® and by taking into account inflation
+
+indexation for wind plants.”
+
+According to the agreed Experts’ calculations, the damages that the Respondent shall pay to
+the Claimants are equivalent to EUR 58,5 million for the CSP plants*° and to EUR 1,1 million
+
+for the wind plants>!.
+D. INTEREST
+a. The Parties’ Positions
+i. The Claimants’ Position
+
+To achieve full compensation, the Claimants assert that the Tribunal must award pre- and
+post-award interest on the amounts due. The Claimants refer to Article 13 of the ECT, which
+provides for interest at a commercial rate established at a market basis from the date of
+expropriation until date of payment which, they argue, is also an appropriate benchmark for
+damages resulting from ECT breaches other than expropriation. The Claimants also refer to
+Article 38 of the ILC Articles, under which interest on a sum due shall be payable to ensure
+full compensation, running from the date when the sum is due until the date of payment.**
+The Claimants assert that the Respondent did not contest that the principle of full reparation
+
+requires that interest be paid on any damages awarded.**
+
+The Claimants maintain that the Tribunal should adopt different interest rates for pre- and
+
+post-award interest. Pre-award interest serves to achieve full reparation, while post-award
+
+47 See para. 27 supra.
+
++8 See para. 37 supra.
+
+* See para. 46 supra.
+
+5 Brattle-BDO Joint Memorandum, 6 March 2019, Table 4.
+5! [bid., Table 5.
+
+®2 CM, paras, 575-577.
+
+53 CR, para. 761.
+
+60.
+
+6l.
+
+62.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 31 of 315
+
+interest serves as incentive to promptly pay the amounts due under the award and prevent
+
+unjust enrichment.**
+
+For pre-award interest, the Claimants argue that the Tribunal should calculate the interest at
+Spain’s borrowing rate (based on the yield on Spanish 10-year bonds), which affords full
+reparation and corresponds to a commercial rate established on a market basis within the
+meaning of the ECT.» That rate for the relevant period amounts to 2.07%, compounded
+monthly.*® In Brattle’s Rebuttal Report, the amounts to pay for pre-award interest were
+
+calculated as EUR 14 million.*”
+
+The Claimants contest the 2-year borrowing rate suggested by the Respondent for pre-award
+interest, linked to the time elapsed between the valuation date as at June 2014 and the Award.
+The Claimants consider that such rate has no support, while the 10-year bond is a commercial
+rate established on a market basis and that even BDO used in several parts of its own reports.
+Also, Spain’s 10-year bond yields are considerably lower than the rates at which the Project
+Companies can borrow funds in Spain, so any interest rate lower than the one chosen by the
+Claimants would cease to be a commercial rate. Finally, in any case, more than 2 years have
+elapsed since June 2014 and more time will continue to elapse until the award is made,
+
+making the 2-year borrowing rate inappropriate.**
+
+For post-award interest, the Claimants request that the Tribunal uses a rate higher than 2.07%
+also compounded on a monthly basis. Contrary to Respondent’s assertion, the Claimants
+argue that payment of post-award interest is neither punitive nor inconsistent with Article 36
+of the ILC Articles. The Respondent, according to the Claimants, fails to distinguish between
+
+the nature of compensation — which includes payment of compensation and pre-award
+
+54 CM, paras. 578 and 582.
+
+55 CM, para. 581.
+
+5 Tbid.
+
+57 Brattle Rebuttal Quantum Report, 22 December 2016, para. 41.
+58 CR, para. 762.
+
+17
+
+63.
+
+64.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 32 of 315
+
+interest — and the purpose of post award interest to incentivize compliance with the award,
+
+as explained in Von Pezold v. Zimbabwe and in Gold Reserve v. Venezuela.”
+ii. The Respondent’s Position
+
+If the Tribunal found that there are damages, the Respondent asserts that for pre-award
+interest, the Tribunal should not opt for a 10-year bond, but instead consider the bond to a
+period of approximately 2 years, equivalent to the gap between the appraisal date and the
+date of the award, as considered in BDO’s report. Additionally, the Respondent argues
+that such rate should be a risk-free rate, as it is not logical to compensate for a risk that has
+
+not yet incurred.*!
+
+For post-award interest, the Respondent opposes to a rate higher than 2.07%, which would
+have a punitive character and lacks legal basis. With support on the Commentary (4) on
+Article 36 of the ILC Articles, the Respondent maintains that compensation should
+correspond to financially assessable damages and not to punish the responsible State.
+Further, the Respondent references the decision in Vestey v. Venezuela, according to which
+post-award interest seeks to account for the risk of repairing a hypothetical breach of ICSID
+Convention, while the tribunal has jurisdiction to decide on breaches of the relevant treaty.
+The Respondent also references National Grid v. Argentina according to which the function
+of post-award interest is to protect the value of the award from inflation and so a risk-free
+rate should apply. Finally, the Respondent referenced Micula v. Romania where the tribunal
+saw no reason to treat differently the cost of the deprivation of money before or after the
+
+award and applied the same rate to pre- and post-award interest.
+
+5° CR, paras. 763-766.
+
+© RCM, para. 1057 and RR, para. 1134.
+©! RR, para. 1135.
+
+© RCM, paras. 1058-1060.
+
+© Micula v. Romania, para. 1269.
+
+65.
+
+66.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 33 of 315
+
+b. The Tribunal’s Analysis
+
+Interests (whether pre or post award) are a necessary consequence of the principle of full
+reparation. They are a compensation for the damage suffered by the loss of use of the
+principal sum during the period for which the payment thereof continued to be withheld. As
+noted by the Middle East Cement v. Egypt tribunal, “[i]nternational jurisprudence and
+literature have recently, after detailed consideration, concluded that interest is an integral part
+of the compensation due.” Interests have the function to reimburse the Claimant(s) for the
+delay in the payment of funds owed because “compensation must not be eroded by the
+passage of time or by the diminution in the market value”®. Therefore, interests are awarded
+to ensure that the present value of the judgment equals the present value of the harm and the
+start date for the prejudgment interests should be the date of breach or loss®. In this matter,
+the Arbitral Tribunal shares the view of the tribunal in Micula v. Romania which did “not
+see why the cost of the deprivation of money (which interest compensates) should be
+different before and after the Award [...]. Both are awarded to compensate a party for the
+deprivation of the use of its funds.”©’ Consequently, interests should be paid from the date
+of the occurrence of the damages until that of the payment and there is no reason to make a
+distinction between the pre-Award and post-Award interests; in both cases, the purpose is to
+make good of the harm caused to the Claimants by the breaches of the Respondent’s
+
+obligations.
+
+This is in keeping with Article 38 of the ILC Articles on Responsibility of States for
+
+Internationally Wrongful Acts:
+
+“J. Interest on any principal sum due under this chapter shall be
+payable when necessary in order to ensure full reparation. The interest
+rate and mode of calculation shall be set so as to achieve that result.
+
+© Middle East Cement v. Egypt, para. 174; see also Teinver v. Argentina, para. 1121.
+
+© Wena Hotels v. Egypt, para. 52.
+
+© See e.g. SPP v. Egypt, para. 234; AAPL v. Sri Lanka, para. 114; Maffezini v. Spain, para. 96; TecMed v. Mexico,
+para. 196; National Grid v. Argentina, para. 294; SGS v. Paraguay, para. 184; or Antin v. Spain, para. 734.
+
+© Micula v. Romania, para. 1269.
+
+19
+
+67.
+
+68.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 34 of 315
+
+2. Interest runs from the date when the principal sum should have been
+paid until the date the obligation to pay is fulfilled.”
+
+Moreover, this has been the general practice of ICSID tribunals.
+
+Although it is conscious that there is no jurisprudence constante as to the choice between
+compound or simple interest, the Tribunal shares the view of the Santa Elena v. Costa Rica
+
+tribunal:
+
+“[W]here an owner of property has at some earlier time lost [whether
+fully or partly] the value of his asset but has not received the monetary
+equivalent that then became due to him, the amount of compensation
+should reflect, at least in part, the additional sum that his money would
+have earned, had it, and the income generated by it, been reinvested
+each year at generally prevailing rates of interest.”
+
+In other words, “compound interest better reflects current business and economic realities
+70
+
+and therefore the actual damage suffered by a party.
+The Tribunal notes the ICSID Convention gives no guidance concerning the question of the
+interest rate to be retained and the jurisprudence in this respect is anything but “constante”.
+Although Article 13(1) of the ECT, which provides for interest at a commercial rate
+established at a market basis, only applies in case of expropriation —which is not at stake in
+this case, this provision can constitute a guidance by analogy. And the Tribunal shares the
+view of the Claimants which suggest to calculate the interest at Spain’s borrowing rate (based
+on the yield on Spanish 10-year bonds), which is appropriate to afford full reparation in the
+framework of a private investment realized on a market basis (all the more so taking into
+consideration the time which has elapsed between the occurrence of the harm and the date of
+the Award). According to the Claimants’, that rate for the relevant period amounts to 2.07%,
+
+compounded monthly.”! This figure has not been challenged as such by the Respondent.
+
+8 International Law Commission’s Articles on the Responsibility of States for Internationally Wrongful Acts, annexed
+to General Assembly Resolution 56/83 of 12 December 2001 and corrected by document A/56/49 (Vol. I) Corr. 4
+(2002) (CL-86).
+
+© Santa Elena v. Costa Rica, para. 104.
+
+% Gold Reserve v. Venezuela, para. 854; Foresight v. Spain, para. 544,
+
+7! See para. 59 supra.
+
+20
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 35 of 315
+
+69. As a consequence, the Respondent shall pay interests on the sum awarded above from 30
+June 2014 to the date of payment of all sums due pursuant to this Award at a rate of 2.07%,
+
+compounded monthly.
+Iv. COSTS
+a. The Parties’ Positions
+i. The Claimants’ Position
+
+70. In their updated submission(s) on costs, the Claimants argue that the Respondent should bear
+the total arbitration costs incurred by Claimants, including legal fees and expenses, totalling
+
+£5,996,252.46.”
+
+71. The Claimants submit that the Tribunal has broad discretion to allocate the costs and that it
+should make an award on costs in their favour, taking into consideration that: (i) the
+Respondent committed several breaches of its obligations under the ECT in relation to the
+
+Claimants’ investment, and (ii) the Respondent’s jurisdictional challenges lacked merit.”
+
+72. The Claimants claim that, “as the Tribunal confirmed in its Decision on Responsibility and
+
+on the Principles of Quantum, the Respondent committed a number of breaches of its
+international law obligations under the ECT in relation to RREEF's investment in Spain.””*
+and that, they are entitled to their costs on a full indemnity basis, as such compensation is
+necessary to reinstate the Claimants to the position they would have been in but for the
+
+Respondent’s breaches of the ECT.”°
+
+” Claimants’ Updated Statement of Costs, 16 August 2019, para. 22.
+7 Claimants’ Statement of Costs, 6 June 2016, paras. 17-18.
+
+7 Claimants’ Updated Statement of Costs, 16 August 2019, para. 20.
+75 Claimants’ Statement of Costs, 6 June 2016, para. 19.
+
+21
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 36 of 315
+
+73. The Claimants have submitted the following claims for legal and other costs:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Costs Amount in GBP
+Legal fees £ 3,865,494.61
+Legal disbursements £ 162,582.41
+Translation costs £ 216,104.63
+Experts fees and expenses £ 944,976.39
+Other disbursements £ 40,524.01
+Claimants’ payments to ICSID £ 767,570.41
+
+ 
+
+ 
+
+ 
+
+ 
+
+ii. The Respondent’s Position
+
+74. In its submission(s) on costs, the Respondent argues that the Claimants should bear the total
+arbitration costs incurred by the Respondent, including legal fees and expenses, totalling
+
+EUR3,379,802.70."°
+
+75. The Respondent submits that the costs incurred by the Respondent should be paid by the
+Claimants in the case that the Tribunal decides not to uphold the Claimants’ claim. The
+
+Respondent considers that:
+
+“the Claimants would not be covered by International Law and the
+costs incurred by the Respondent for its defense come from Spanish
+taxpayers and could have been used in other public needs instead.
+Therefore, the result of this arbitration should be neutral for the Spanish
+public budget.”””
+
+76. The Respondents also argues that the Claimants’ behaviour has not been always presided by
+
+bona fide during the proceedings and points out several of the Claimants’ acts:7*
+
+- Not providing 24 hours prior to the commencement of the hearing on jurisdiction with
+
+the power point presentations which were going to be used by them, in violation of
+
+7 Respondent's Statement of Costs, 6 June 2017, para. VI
+1 Tbid., para. 19.
+78 Tbid., para. 20.
+
+22
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 37 of 315
+
+Section 16.7.1 of Procedural Order No.1;
+
+- Requesting 134 categories of documents during the production phase and only providing
+a few of them with their Statements;
+
+- Trying to submit new calculations by Brattle a few days before the hearings on the merits;
+
+-  Wilfully omitting to submit important facts until the direct examination of two of their
+witnesses without meeting the prerequisites established by Procedural Order No.1,
+Section 18.3;
+
+- Making baseless accusations that made Respondent’s counsel work more than required.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Costs Amount in EUR
+Advance on Costs paid to ICSID EUR 882,367.00
+Expert Report EUR 769,077.00
+Translation EUR 55,324.65
+Editing Services EUR 85,244.72
+Courier EUR 6,698.12
+Traveling expenses EUR 18,586.54
+Legal fees EUR 1,923,390.00
+
+ 
+
+ 
+
+ 
+
+77.
+
+7
+
+2
+
+b. The Tribunal’s Analysis
+
+Article 61 of the ICSID Convention gives the Tribunal complete discretion with respect to
+allocation of the costs among the parties but provides no guidance on how that discretion is
+to be exercised. Arbitration Rules 28 and 47 refer to costs, but they give no guidance either
+
+on how such costs are to be apportioned.
+
+. It is generally accepted that, in principle, the loser must pay all the costs. However, this
+
+principle hardly applies when neither party can be considered totally winning or totally
+losing. Likewise, when the outcome of the litigation is difficult to predict due to the novelty
+or difficulty of the dispute or because there is no established trend in case law. In such a
+case, it can hardly be considered that the Claimants acted frivolously when deciding to
+litigate and the principle “loser pays” has no support when neither party has been totally
+
+defeated and/or when the loser had well-grounded reasons to litigate.
+
+23
+
+79.
+
+80.
+
+81.
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 38 of 315
+
+These two reasons are valid in this case. Neither in matters of jurisdiction nor in questions
+of merit, neither party was totally defeated. Both were partly winners and partly losers on
+the various issues that the Tribunal had to resolve. Equally, the litigation has dealt with novel
+matters, with respect to which the arbitral case law has been quite inconsistent. Moreover,
+the discussion of the factual and legal issues by both Parties and their Experts have been
+extremely helpful and the Tribunal would like to acknowledge the special assistance
+provided by the parties’ Experts’ Joint Models quantifying the damages due to the Claimants.
+This is in line with an abundant case-law according to which “it is equitable in this matter
+for each party to bear its own costs and fees, as well as half the advance payments made to
+
+ICSID.””
+
+Accordingly, each party should share equally the costs of the arbitral proceeding and each
+
+shall bear individually the other legal costs and expenses that they have incurred.
+
+Vv. AWARD
+
+For the reasons stated in its Decision on Responsibility and on the Principles of Quantum of
+30 November 2018 and the body of this Award, the Tribunal hereby declares, orders and
+
+decides:
+
+(a) By majority: The Respondent shall pay a sum of EUR 59.6 million as compensation
+for the damages resulting from its wrongful acts as determined in the Tribunal’s
+
+Decision on Responsibility and on the Principles of Quantum.
+
+(b) Unanimously: The Respondent shall pay interests on the sum awarded above from 30
+June 2014 to the date of payment of all sums due pursuant to this Award at a rate of
+
+2.07%, compounded monthly.
+
+(c) By majority: All other claims and requests of the Parties are dismissed.
+
+7 See e.g. Metalclad v. Mexico, para. 130; Mondev v. USA, p. 58; Chevron v. Ecuador, para. 376; or Murphy v.
+Ecuador, para. 80.
+
+24
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 39 of 315
+
+(d) By majority: Each Party shall bear its legal and other expenses.
+
+(e) By majority: The fees and expenses of the members of the Tribunal and the charges for
+
+the use of the facilities of the Centre shall be borne equally between the Parties.
+
+25
+
+Case 1:19-cv-03783-CJN Document 1-1 Filed 12/19/19 Page 40 of 315
+
+allen  __ff
+
+Robert Volterra L_ 2ateoRikken
+Arbitrator Laan
+Date: 4 November 2019 Date: 26 October 2019
+
+ 
+
+Alain Pellet
+President of the Tribunal
+
+Date: 29 November 2019
+
+26
+

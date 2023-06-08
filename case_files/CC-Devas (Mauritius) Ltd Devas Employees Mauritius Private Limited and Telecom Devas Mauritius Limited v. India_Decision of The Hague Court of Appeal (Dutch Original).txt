@@ -1,0 +1,945 @@
+ECLI:NL:GHDHA:2021:180
+
+Instantie Gerechtshof Den Haag
+
+Datum uitspraak 16-02-2021
+
+Datum publicatie 10-06-2021
+
+Zaaknummer 200.259.875/01
+
+Formele relaties Eerste aanleg: ECLI:NL:RBDHA:2018:15532, Bekrachtiging/bevestiging
+Rechtsgebieden Civiel recht
+
+Bijzondere kenmerken Hoger beroep
+
+Inhoudsindicatie
+Republieck India vordert vernietiging arbitraal vonnis m.b.t. onteigening van
+
+investeringen in telecomnetwerk in India. Vordering afgewezen omdat niet voldaan
+is aan gronden voor vernietiging 0.g.v. artikel 1065 Rv.
+
+Vindplaatsen Rechtspraak.nl
+Uitspraak
+
+GERECHTSHOF DEN HAAG
+
+Afdeling Civiel recht
+
+Zaaknummer : 200.259.875/01
+
+Zaaknummer rechtbank : C/09/529140 / HA ZA 17-315
+arrest van 16 februari 2021
+
+inzake
+
+De Republiek India,
+zetelend te New Delhi, India,
+appellant,
+
+hierna: de Republiek India,
+
+advocaat: mr. T.L. Claassens te Rotterdam,
+
+tegen
+
+1 CC/Devas (Mauritius) Ltd.,
+2. Devas Employees Mauritius Private Limited,
+3. Telcom Devas Mauritius Limited,
+
+alle gevestigd te Port Louis, Mauritius,
+geintimeerden,
+hierna: Devas c.s.,
+
+advocaat: mr. G.J. Meijer te Amsterdam.
+
+1 De procedure in hoger beroep
+
+1.1 Bij dagvaarding van 12 februari 2019 heeft de Republiek India hoger beroep ingesteld tegen een
+door de rechtbank Den Haag tussen partijen gewezen vonnis van 14 november 2018. Bij memorie
+van grieven met producties heeft de Republiek India negen grieven aangevoerd. Bij memorie van
+antwoord met producties heeft Devas c.s. de grieven bestreden.
+
+1.2 Vervolgens hebben partijen op 3 december 2020 de zaak laten bepleiten, de Republiek India door
+haar advocaat en Devas c.s. door haar advocaat en mr. Van der Plas-Hoebeke, advocaat te
+Amsterdam, allen aan de hand van overgelegde pleitnotities. De Republiek India heeft daarbij nog
+een aantal aanvullende producties overgelegd. Een van deze producties (productie 163, een brief
+van de Additional Solicitor General of India van 30 november 2020) is geweigerd omdat zij niet
+tijdig voor de zitting aan het hof en de wederpartij was toegezonden. Ten slotte heeft het hof een
+datum voor arrest bepaald.
+
+2 Feiten
+
+2.1 De door de rechtbank in het vonnis van 14 november 2018 vastgestelde feiten zijn niet in geschil.
+Ook het hof zal daar van uitgaan. Het gaat in deze zaak om het volgende.
+
+2.2 Op 20 juni 2000 is een bilateraal investeringsverdrag (hierna: het Verdrag) tussen de Republiek
+India en de Republiek Mauritius (hierna ook: de Verdragsluitende staten) in werking getreden. Het
+Verdrag heeft als doel investeringen van Mauritiaanse investeerders in India en investeringen van
+Indiase investeerders in Mauritius te bevorderen. Artikel 8 van het Verdrag voorziet in een
+arbitrale procedure voor de beslechting van geschillen tussen een investeerder uit een van de
+Verdragsluitende staten en de andere Verdragsluitende staat.
+
+2.3 In artikel 1, eerste lid onder a van het Verdrag is het begrip ‘investering’ als volgt omschreven:
+“investment” means every kind of asset established or acquired under the relevant laws and
+regulations of the Contracting Party in whose territory the investment is made, and in particular,
+
+though not exclusively, includes:
+
+(i) movable and immovable property as well as other rights in rem such as mortgages, liens or pledges;
+
+2.4
+
+2.5
+
+2.6
+
+2.7
+
+2.8
+
+(ii) shares, debentures and any other form of participation in a company;
+(iii) claims to money, or to any performance under contract having an economic value;
+
+( iv) intellectual property rights, goodwill, technical processes, know-how, copyrights, trade-marks,
+trade-names and patents in accordance with the relevant laws of the respective Contracting Parties;
+
+( v) business concessions conferred by law or under contract, including any concession to search for,
+extract or exploit natural resources;"
+
+In artikel 11, derde lid van het Verdrag is ten aanzien van “essential security interests” het
+volgende bepaald:
+
+“The provisions of this Agreement shall not in any way limit the right of either Contracting Party to
+apply prohibitions or restrictions of any kind
+
+or take any other action which is directed to the protection of its essential
+
+security interests (...)."
+
+Devas c.s. zijn de (indirecte) aandeelhouders van de Indiase vennootschap Devas Multimedia
+Private Limited (hierna: Devas Multimedia). Devas c.s. zijn in Mauritius gevestigde
+vennootschappen. Antrix Corporation Limited (hierna: Antrix) is een commerciéle entiteit van de
+Indiase ruimtevaartorganisatie (Indian Space Research Organisation, hierna: ISRO) en houdt zich
+bezig met de commerciéle exploitatie van Indiase satellieten. De investeringen van Devas c.s. in
+Devas Multimedia zijn goedgekeurd door de Indiase Foreign Investment Promotion Board.
+
+Op 28 januari 2005 heeft Devas Multimedia een overeenkomst gesloten met Antrix met betrekking
+tot de lease van 70 MHz capaciteit van de S-band voor een periode van twaalf jaar met de
+mogelijkheid van verlenging (hierna: het Devas Contract). Hiervoor zouden transponders worden
+geplaatst op twee nog te ontwikkelen satellieten. Devas Multimedia wilde de satellieten en het
+bijbehorende spectrum, samen met een door haar te ontwikkelen netwerk van zendmasten,
+gebruiken voor het aanbieden van draadloze audiovisuele uitzendingen en breedbandtoegang
+aan haar klanten in India (hierna: de Devas Diensten).
+
+In de periode 2005-2010 heeft Devas Multimedia in samenwerking met onder andere Antrix en
+ISRO gewerkt aan de voorbereidingen van deze diensten. In dat kader heeft Devas Multimedia
+betalingen gedaan van ongeveer USD 13 miljoen voor de reservering van capaciteit op de twee
+satellieten. Deze betalingen werden gefinancierd met kapitaalstortingen van Devas c.s. in Devas
+Multimedia van ongeveer USD 32 miljoen. Daarnaast heeft Deutsche Telekom Asia (hierna: DT Azié)
+een bedrag van ongeveer USD 75 miljoen in Devas Multimedia geinvesteerd, waarvoor zij een
+belang van 20% in Devas Multimedia heeft verkregen.
+
+Op 17 februari 2011 heeft het Cabinet Committee on Security, bestaande uit de premier en de
+ministers van Defensie, Binnenlandse Zaken, Buitenlandse Zaken en Financién van de Republiek
+India (hierna: CCS), besloten het Devas Contract te beéindigen. Voorafgaand aan dit besluit
+hebben diverse overheidsinstanties en commissies geadviseerd. Het persbericht van dezelfde
+datum over het door het CCS genomen besluit luidt als volgt:
+
+CCS Decides to Annul Antrix-Devas Deal
+
+Cabinet Committee on Security (CCS) has decided to annul the Antrix-Devas deal. Following is the
+statement made by the Law Minister (. ..) on the decision taken by the CCS which met in New Delhi
+today:
+
+“Taking note of the fact that Government policies with regard to allocation of spectrum have undergone
+a change in the last few years and there has been an increased demand for allocation of spectrum for
+
+national needs, including for the needs of defence, para-military forces, railways and other public utility
+services as well as for societal needs, and having regard to the needs of the country's strategic
+requirements, the Government will not be able to provide orbit slot in S band to Antrix for commercial
+activities, including for those which are the subject matter of existing contractual obligations for S band.
+
+In light of this policy of not providing orbit slot in S Band to Antrix for commercial activities, the [Devas
+Contract, toevoeging hof] shall be annulled forthwith.”
+
+2.9 Op 25 februari 2011 heeft Antrix Devas Multimedia formeel op de hoogte gebracht van de
+beéindiging van het Devas Contract.
+
+2.10 Op 3 juli 2012 heeft Devas c.s. op grond van artikel 8 van het Verdrag een arbitrale procedure
+tegen India aanhangig gemaakt (hierna: de Arbitrale Procedure). De plaats van arbitrage was Den
+Haag.
+
+2.11 Bij arbitraal deelvonnis van 25 juli 2016 (hierna: Arbitraal Deelvonnis) heeft het scheidsgerecht
+als volgt beslist:
+
+- i) Unanimously, that the Claimants’ claims relate to an “investment” protected under the Treaty;
+
+- ii) Unanimously, that the notice of termination of the Devas Agreement sent by Antrix to Devas
+constituted an act of State attributable to the Respondent.
+
+- iii) By majority, that the Tribunal lacks jurisdiction over the Claimants’ claims insofar as the
+Respondent's decision to annul the Devas Agreement was in part directed to the protection of the
+Respondent's essential security interests;
+
+- iv) By majority, that the Respondent has expropriated the Claimants’ investment insofar as the
+Respondent's decision to annul the Devas Agreement was in part motivated by considerations other
+than the protection of the Respondent's essential security interests;
+
+- v) By majority, that the protection of essential security interests accounts for 60% of the
+Respondent's decision to annul the Devas Agreement, and that the compensation owed by the
+Respondent to the Claimants for the expropriation of their investment shall therefore be limited to 40%
+of the value of that investment;
+
+- vi) Unanimously, that the Respondent has breached its obligation to accord fair and equitable
+treatment to the Claimants between July 2, 2010 and February 17, 2011;
+
+- vii) Unanimously, that the Claimants’ other claims shall be dismissed;
+
+- viii) Unanimously, that any decision regarding the quantification of compensation or damages, as well
+as any decision regarding the allocation of the costs of arbitration, shall be reserved for a later stage of
+the proceedings."
+
+De Arbitrale Procedure is daarna ten aanzien van de omvang van de schade voortgezet.
+2.12 Op 28 juli 2016 is het Arbitrale Deelvonnis gedeponeerd bij de rechtbank Den Haag.
+
+2.13 Op 11 augustus 2016 heeft het Indiase Centra! Bureau of Investigation (hierna: CBI) een
+zogenaamde charge sheet ingediend bij de rechter, met het 00g op de opening van een
+strafrechtelijke procedure tegen voormalige Indiase ambtenaren die het Devas Contract hebben
+goedgekeurd alsmede tegen Devas Multimedia en enkele van haar voormalige en huidige
+bestuurders. Op 8 januari 2019 is een supplementary charge sheet ingediend. (De charge sheet en
+de supplementary charge sheet zullen hierna samen worden aangeduid als: de Strafklacht).
+
+2.14 Op 13 oktober 2020 heeft het scheidsgerecht een eindvonnis gewezen, waarbij het de waarde
+van Devas Multimedia op 17 februari 2011 heeft bepaald op USD 740 miljoen, en de Republiek
+India heeft veroordeeld schadevergoeding te betalen aan ieder van Devas c.s. gelijk aan 40% van
+USD 740 miljoen vermenigvuldigd met het percentage van het belang van ieder van Devas c.s. in
+Devas Multimedia.
+
+3 Procedure in eerste aanleg
+
+3.1 In eerste aanleg heeft de Republiek India vernietiging gevorderd van het Arbitrale Deelvonnis op
+grond van artikel 1065 van het Wetboek van Burgerlijke Rechtsvordering (Rv), met veroordeling
+van Devas c.s. in de proceskosten. Devas c.s. heeft verweer gevoerd. In het vonnis van 14
+november 2018 heeft de rechtbank de vordering van de Republiek India afgewezen en de
+Republiek India veroordeeld in de proceskosten. De belangrijkste overwegingen van het vonnis
+kunnen als volgt worden samengevat.
+
+3.2 De Republiek India heeft in eerste aanleg gesteld dat het scheidsgerecht zich ten onrechte
+bevoegd heeft verklaard om van de vorderingen van Devas c.s. kennis te nemen (artikel 1065,
+eerste lid onder a Rv), omdat Devas c.s. geen ‘investering’ in de zin van het Verdrag heeft verricht,
+en omdat de beslissing om het Devas Contract te vernietigen, gerechtvaardigd was op grond van
+“essential security interests”. Met betrekking tot de vraag of sprake was van een ‘investering’ in de
+zin van het Verdrag heeft de Republiek India betoogd dat de activiteiten van Devas c.s. uitsluitend
+bestonden uit voorbereidende maatregelen (“pre-investments”), mede gezien het feit dat Devas
+Multimedia niet beschikte over een vergunning voor het aanbieden van telecommunicatiediensten
+van de Wireless Planning and Coordination Wing van het Indiase Department of Telecommunications
+(hierna: WPC-vergunning). Dit verweer heeft de rechtbank niet gevolgd. Naar het oordeel van de
+rechtbank vertegenwoordigde het recht van Devas Multimedia op een deel van de S-band reeds
+een significante waarde. Daarnaast heeft Devas Multimedia vooruitbetalingen van USD 13 miljoen
+gedaan voor de reservering van capaciteit op de satellieten en heeft Devas c.s. toestemming
+gekregen van de Indiase autoriteiten voor zijn investering in Devas Multimedia. Ook zonder een
+WPC-vergunning is volgens de rechtbank dus sprake van een ‘investering’ in de zin van het
+Verdrag.
+
+3.3 De Republiek India heeft verder betoogd dat het scheidsgerecht zich niet aan zijn opdracht heeft
+gehouden (artikel 1065, eerste lid onder c Rv), zijn vonnis niet (voldoende) heeft gemotiveerd
+(artikel 1065, eerste lid onder d Rv) en/of het fundamentele recht van de Republiek India op hoor
+en wederhoor heeft geschonden (artikel 1065, eerste lid onder e Rv), door een aantal essentiéle
+stellingen en verweren van de Republiek India ten aanzien van het ontbreken van een
+‘investering’ niet te bespreken, althans de verwerping daarvan niet (voldoende) te motiveren. Ook
+dat standpunt heeft de rechtbank verworpen. Volgens de rechtbank heeft het scheidsgerecht wel
+degelijk gemotiveerd beslist op de essentiéle stellingen en verweren van de Republiek India. Naar
+het oordeel van de rechtbank staat het haar in het kader van artikel 1065 Rv niet vrij om deze
+motivering inhoudelijk te toetsen.
+
+3.4 Daarnaast heeft de Republiek India in eerste aanleg betoogd dat het Verdrag niet toelaat dat het
+scheidsgerecht zich gedeeltelijk bevoegd verklaart (artikel 1065, eerste lid onder a Rv). Deze
+stelling heeft de rechtbank verworpen op grond van de overweging dat het bestaan van “essential
+security interests” niet leidt tot onbevoegdheid van het scheidsgerecht, maar kan betekenen dat
+Devas c.s. zich niet op grond van het Verdrag kan verzetten tegen de beéindiging van het Devas
+Contract. De rechtbank heeft de Republiek India evenmin gevolgd in haar stelling dat het
+scheidsgerecht zich niet aan zijn opdracht heeft gehouden (artikel 1065, eerste lid onder c Rv)
+door het beroep op “essential security interests” voor 60% van het S-bandspectrum te honoreren.
+Volgens de rechtbank heeft het scheidsgerecht daarmee niet meer toegewezen dan gevorderd.
+Ook de stellingen van de Republiek India dat het scheidsgerecht zijn beslissing om het beroep op
+“essential security interests” voor 60% van het S-bandspectrum te honoreren niet (voldoende)
+heeft gemotiveerd (artikel 1065, eerste lid onder d Rv), en partijen in dit opzicht ten onrechte met
+
+een verrassingsbeslissing heeft geconfronteerd (artikel 1065, eerste lid onder e Rv), heeft de
+rechtbank verworpen. Volgens de rechtbank bevat het Arbitrale Deelvonnis een motivering, die zij
+niet inhoudelijk kan toetsen, en was het scheidsgerecht niet gehouden om partijen te horen over
+zijn voornemen dit verweer niet voor de volle 100% van het S-bandspectrum te honoreren.
+
+3.5 De Republiek India heeft haar vordering tot vernietiging van het Arbitrale Deelvonnis in eerste
+aanleg voorts gebaseerd op de Strafklacht. Zij heeft de rechtbank verzocht de procedure aan te
+houden totdat door een Indiase strafrechter over de Strafklacht is beslist. Dit verzoek heeft de
+rechtbank afgewezen omdat niet duidelijk was op welke termijn een dergelijke beslissing viel te
+verwachten, en de goede procesorde zich in die omstandigheden tegen aanhouding verzette. De
+Republiek India heeft verder gesteld dat het Devas Contract als gevolg van de gestelde strafbare
+gedragingen nietig is, en er dus geen sprake is van een rechtmatige ‘investering’ (artikel 1065,
+eerste lid onder a Rv). Volgens de rechtbank heeft de Strafklacht echter geen rechtsgevolg zolang
+deze niet heeft geleid tot een (onherroepelijke) strafrechtelijke veroordeling, en kan zolang dus
+ook geen nietigheid van het Devas Contract worden aangenomen in verband met de gestelde
+strafbare feiten. De rechtbank heeft de Republiek India evenmin gevolgd in haar stelling dat het
+Arbitrale Deelvonnis een motiveringsgebrek vertoont, omdat het scheidsgerecht niet is ingegaan
+op de stelling van de Republiek India dat Devas Multimedia ten onrechte heeft doen voorkomen
+dat zij over de vereiste intellectuele eigendomsrechten beschikte ten tijde van Devas contract.
+Deze stelling kwam slechts voor in een voetnoot in de processtukken van de Republiek India in de
+arbitrale procedure, en kan dus niet als een essentieel verweer worden beschouwd waarop het
+scheidsgerecht diende in te gaan, aldus de rechtbank. Ten slotte heeft de rechtbank de stelling
+van de Republiek India verworpen dat het Arbitrale Deelvonnis in strijd is met de openbare orde
+en de goede zeden, omdat het scheidsgerecht is uitgegaan van de geldigheid van het Devas
+Contract, terwijl bij de totstandkoming daarvan strafbaar is gehandeld. Volgens de rechtbank
+staat dat niet vast en heeft de Republiek India de gestelde strafbare feiten onvoldoende
+onderbouwd.
+
+4 De vordering in hoger beroep
+
+4.1 In hoger beroep vordert de Republiek India vernietiging van het vonnis van de rechtbank en
+toewijzing van haar vordering in eerste aanleg, met veroordeling van Devas c.s. in de
+proceskosten, inclusief nakosten en te vermeerderen met wettelijke rente. Daartoe heeft de
+Republiek India negen grieven tegen het vonnis van de rechtbank aangevoerd, die als volgt
+kunnen worden samengevat.
+
+4.2 Grieven 1 en 2 zijn gericht tegen de overwegingen van de rechtbank die betrekking hebben op de
+vraag of sprake is van een ‘investering’ die valt binnen de reikwijdte van het Verdrag. Volgens de
+Republiek India hebben het scheidsgerecht en de rechtbank ten onrechte het Devas Contract in
+plaats van het gehele project van Devas Multimedia als onderwerp van de arbitrale procedure
+aangemerkt. Het project van Devas Multimedia kon niet worden uitgevoerd zonder de vereiste
+vergunningen en omdat die niet waren verleend, kan niet van een ‘investering’ in de zin van het
+Verdrag worden gesproken. Daarbij hebben het scheidsgerecht en de rechtbank volgens de
+Republiek India een veel te ruime definitie van het begrip ‘investering’ gehanteerd, en hebben zij
+verschillende fouten gemaakt bij de toepassing van dit begrip (artikel 1065, eerste lid onder a Rv).
+Verder heeft de rechtbank volgens de Republiek India miskend dat het scheidsgerecht zijn
+opdracht en zijn motiveringsplicht heeft geschonden, door niet (gemotiveerd) in te gaan op acht
+essentiéle verweren van de Republiek India met betrekking tot het begrip ‘investering‘(artikel
+1065, eerste lid onder c en d Rv).
+
+4.3 Met grieven 3, 4 en 5 komt de Republiek India op tegen de overwegingen van de rechtbank ten
+
+aanzien van de vraag of de beéindiging van het Devas Contract kon worden gerechtvaardigd op
+grond van “essential security interests”. De Republiek India stelt in hoger beroep niet langer dat
+vanwege het bestaan van “essential security interests” het scheidsgerecht niet bevoegd was om
+over de vorderingen van Devas c.s. te oordelen. Wel betoogt zij dat (de rechtbank heeft miskend
+dat) het scheidsgerecht zich in meerdere opzichten niet aan zijn opdracht heeft gehouden (artikel
+1065, eerste lid onder c Rv). Het scheidsgerecht had moeten onderzoeken of de beslissing van de
+Republiek India tot beéindiging van het Devas Contract kon worden gerechtvaardigd op grond van
+“essential security interests”, in plaats van als uitgangspunt te nemen in hoeverre het S-
+bandspectrum voor “essential security interests” zou worden gebruikt. Daarbij heeft het
+scheidsgerecht het dichotome karakter van de uitzondering voor “essential security interests”
+miskend en het beroep op deze uitzondering ten onrechte vol getoetst. Ook heeft het
+scheidsgerecht een niet door partijen aangedragen beslissingsmaatstaf gehanteerd door ex aequo
+et bono te bepalen welk deel van het S-bandspectrum was bestemd voor de bescherming van
+“essential security interests”, en heeft het scheidsgerecht zelf de feiten aangevuld. Daarnaast
+betoogt de Republiek India dat (de rechtbank heeft miskend dat) het scheidsgerecht zijn
+beslissing om het beroep op “essential security interests” voor 60% van het S-bandspectrum te
+honoreren niet (voldoende) heeft gemotiveerd, en dat dit een ontoelaatbare verrassingsbeslissing
+was (artikel 1065, eerste lid onder d ene Rv).
+
+4.4 Grieven 6 tot en met 9 hebben betrekking op de Strafklacht en de stelling van de Republiek India
+dat Devas Multimedia ten onrechte heeft verklaard dat zij over intellectuele eigendomsrechten
+beschikte. De Republiek India betoogt dat de rechtbank ten onrechte heeft aangenomen dat (de
+feiten die ten grondslag liggen aan) de Strafklacht pas rechtsgevolgen kan (kunnen) hebben voor
+de geldigheid van het Devas Contract op het moment dat sprake is van een (onherroepelijke)
+strafrechtelijke veroordeling. Volgens de Republiek India is het Devas Contract nietig als gevolg
+van de gepleegde strafbare feiten, en is als gevolg daarvan geen sprake van een ‘investering’ in
+de zin van het Verdrag waarop het scheidsgerecht bevoegdheid kan baseren (artikel 1065, eerste
+lid onder a Rv). Verder is het Arbitrale Deelvonnis volgens de Republiek India niet (voldoende)
+gemotiveerd, omdat het scheidsgerecht niet is ingegaan op de gestelde onjuistheid van de
+garanties van Devas Multimedia met betrekking tot de intellectuele eigendomsrechten (artikel
+1065, eerste lid onder d Rv). De rechtbank is ten onrechte aan deze vernietigingsgrond
+voorbijgegaan op grond van de overweging dat het hier kennelijk niet ging om een essentieel
+verweer, nu de Republiek India in de arbitrale procedure slechts in een voetnoot een beroep op de
+onjuistheid van deze garanties heeft gedaan. Ten slotte is het Arbitrale Deelvonnis volgens de
+Republiek India in strijd met de openbare orde en goede zeden, omdat het scheidsgerecht
+ondanks de gepleegde strafbare feiten heeft aangenomen dat het Devas Contract geldig was
+(artikel 1065, eerste lid onder e Rv). De Republiek India verwijt de rechtbank dat zij aan deze
+strafbare feiten voorbij is gegaan op grond van de overweging dat niet is komen vast te staan dat
+bestuurders en functionarissen van Devas c.s. zich daaraan schuldig hebben gemaakt. De
+Republiek India verzoekt de behandeling van de zaak voor zover het betreft de
+vernietigingsgronden gebaseerd op de Strafklacht aan te houden tot een onherroepelijke
+uitspraak van de Indiase rechter over de gestelde strafbare feiten. Volgens de Republiek India zou
+eind 2019 een strafprocedure aanvangen tegen de in staat van beschuldiging gestelde personen.
+
+4.5 Devas c.s. voert verweer, dat hierna voor zover nodig aan de orde zal komen, en concludeert tot
+afwijzing van de vorderingen en veroordeling van de Republiek India in de proceskosten, inclusief
+nakosten en te vermeerderen met wettelijke rente.
+
+5 Beoordeling
+
+Opmerkingen vooraf
+
+5.1
+
+5.2
+
+5.3
+
+Aangezien de arbitrageprocedure vodr 1 januari 2015 is gestart, zijn de bepalingen van het Vierde
+boek van het Wetboek van Burgerlijke Rechtsvordering van toepassing zoals deze golden tot 1
+januari 2015. Verwijzingen naar artikelen van het Wetboek van Burgerlijke Rechtsvordering in dit
+arrest hebben op deze bepalingen betrekking.
+
+De plaats van arbitrage is Den Haag, zodat de rechtbank en in hoger beroep het hof op grond van
+artikel 1064 Rv bevoegd is van de vordering van de Republiek India kennis te nemen. Op grond
+van artikel 1073, eerste lid Rv zijn de bepalingen van Titel 1 van het Vierde boek van het Wetboek
+van Burgerlijke Rechtsvordering op de vordering tot vernietiging van toepassing.
+
+Op grond van artikel 1065, eerste lid Rv kan vernietiging van een arbitraal vonnis onder meer
+plaatsvinden op een van de navolgende gronden:
+
+a. een geldige overeenkomst tot arbitrage ontbreekt;
+
+b. (..)
+
+c. het scheidsgerecht heeft zich niet aan zijn opdracht gehouden;
+
+d. het vonnis is (...) niet met redenen omkleed;
+
+e. het vonnis, of de wijze waarop dit tot stand kwam, is in strijd met
+
+de openbare orde of de goede zeden.
+
+5.4 Op grond van artikel 1057, vierde lid onder e Rv dient het scheidsgerecht de gronden van zijn
+
+5.5
+
+beslissing te vermelden. Als een motivering ontbreekt, kan een arbitraal vonnis worden vernietigd
+op grond van artikel 1065, eerste lid onder d Rv. Met het ontbreken van een motivering wordt op
+één lijn gesteld het geval dat weliswaar een motivering gegeven is, maar daarin enige
+steekhoudende verklaring voor de beslissing niet valt te onderkennen.
+
+Als uitgangspunt bij de toepassing van artikel 1065 Rv geldt dat de overheidsrechter zijn
+bevoegdheid tot vernietiging van een arbitraal vonnis met terughoudendheid moet hanteren. De
+vereiste terughoudendheid hangt onder meer hiermee samen dat een procedure op de voet van
+artikel 1065 Rv niet mag worden gebruikt als een verkapt hoger beroep, vanwege het algemeen
+belang bij een effectief functionerende arbitrale rechtspleging. Dit is anders voor zover het betreft
+de beantwoording van de vraag of een geldige arbitrage-overeenkomst is gesloten (artikel 1065,
+eerste lid onder a Rv) en de vraag of het arbitrale vonnis in strijd is met de openbare orde en
+goede zeden (artikel 1065, eerste lid onder e Rv), wat onder meer het geval is indien bij de
+totstandkoming van het arbitrale vonnis is gehandeld in strijd met het fundamentele beginsel van
+hoor en wederhoor. Voor de beantwoording van deze vragen moet het arbitrale vonnis vol worden
+getoetst. Het hof volgt niet het standpunt van Devas c.s. dat een volle toetsing van de
+bevoegdheid van het scheidsgerecht niet aan de orde is in het geval dat een staat zich op
+onbevoegdheid van het scheidsgerecht beroept. Dit standpunt gaat uit van de onjuiste gedachte
+dat een staat zich niet zou kunnen beroepen op het fundamentele karakter van het recht op
+toegang tot de rechter. Ook ten opzichte van staten heeft dit recht een fundamenteel karakter. Dit
+fundamentele karakter brengt mee dat de bevoegdheid van het scheidsgerecht vol moet worden
+getoetst (vgl. Hoge Raad 26 september 2014, ECLI:NL:HR:2014:2837).
+
+ 
+
+5.6 Het hof zal hierna eerst de grieven behandelen die verband houden met het begrip ‘investering’ in
+
+het Verdrag (grieven 1 en 2), vervolgens de grieven die verband houden met de bescherming van
+“essential security interests” (grieven 3, 4 en 5) en ten slotte de grieven die zien op de Strafklacht
+en de (gestelde) onjuiste verklaringen van Devas c.s. ten aanzien van intellectuele
+eigendomsrechten (grieven 6, 7, 8 en 9).
+
+‘Investering’ in de zin van het Verdrag; bevoegdheid van het scheidsgerecht
+
+5.7 De grieven van de Republiek India die verband houden met het begrip ‘investering’ zien op de
+
+5.8
+
+5.9
+
+bevoegdheid van het scheidsgerecht en de beoordeling van in de optiek van de Republiek India
+aangevoerde essentiéle verweren.
+
+Het hof is met de rechtbank van oordeel dat het scheidsgerecht op juiste gronden heeft
+aangenomen dat sprake is van een ‘investering’ in de zin van het Verdrag, zodat het bevoegd was
+om over de vorderingen van Devas c.s. te oordelen. Devas c.s. heeft aandelen verkregen in de
+Indiase vennootschap Devas Multimedia. Daarmee is sprake van “shares, debentures and any other
+form of participation in a company" als bedoeld onder (ii) van de definitie van “investment” in artikel
+1 van het Verdrag. Tegenover de uitgegeven aandelen staan kapitaalstortingen van Devas c.s. van
+ongeveer USD 32 miljoen, waarvoor de Indiase Foreign Investment Promotion Board toestemming
+heeft verleend. De investeringen van Devas c.s. zijn dus verricht met inachtneming van de
+“relevant laws and regulations” van de Republiek India, zoals vereist onder (a) van de definitie van
+“investment”. Als aandeelhouder in Devas Multimedia is Devas c.s. indirect eigenaar van een aantal
+“assets” die eveneens als “investment” in de zin van het Verdrag kunnen worden beschouwd,
+zoals de rechten onder het Devas Contract met Antrix. Onder dit contract heeft Devas Multimedia
+voor een periode van 12 jaar capaciteit geleased op twee satellieten, waarvoor het
+vooruitbetalingen van USD 13 miljoen per satelliet heeft gedaan. In het Verdrag worden onder
+meer “claims to (...) any performance under contract having an economic value” en “business
+concessions conferred (...) under contract” als voorbeelden van “investments” genoemd. De
+investeringen van Devas c.s. vertegenwoordig(d)en een aanzienlijke waarde, zoals blijkt uit het
+feit dat DT Azié in maart 2008 voor een belang van 20% in Devas Multimedia ongeveer USD 75
+miljoen heeft betaald. Het betoog van de Republiek India dat het scheidsgerecht niet alleen naar
+het Devas Contract had moeten kijken, maar naar het Devas project mist in het licht hiervan
+relevantie. De annulering van het Devas Contract had zonder meer implicaties voor het Devas
+project, maar dat doet niet af aan het hiervoor vastgestelde karakter van de investeringen. Haar
+betoog dat slechts sprake is van een pre-investment stuit ook hierop af. Van een pre-investment
+was geen sprake aangezien door Devas c.s. daadwerkelijke investeringen zijn gedaan in de zin
+van het Verdrag.
+
+De Republiek India betoogt dat het scheidsgerecht een veel te ruime definitie van het begrip
+‘investering’ heeft gehanteerd. Volgens de Republiek India moet behalve aan de definitie van
+“investment” in het Verdrag, ook zijn voldaan aan vijf kenmerken van het autonome concept
+‘investering’, die zij ontleent aan arbitrale uitspraken op grond van het ICSID-Verdrag: (i) een
+bijdrage in het gastland in termen van (financiéle) middelen, (ii) een zekere duur van uitvoering
+van de betrokken activiteit in het gastland, (iii) een aanvaarding van risico’s door de investeerder,
+(iv) de verwachting van winst of opbrengsten, en (v) indien vermeld in de preambule van het
+betrokken verdrag, een bijdrage aan de economische ontwikkeling van het gastland. Het kan in
+het midden blijven of het scheidsgerecht verplicht was dit autonome concept toe te passen, omdat
+- zoals Devas c.s. terecht heeft betoogd - reeds met de kapitaalstortingen van Devas c.s. en de
+aanwending daarvan door Devas Multimedia aan de vijf door de Republiek India genoemde
+kenmerken is voldaan: de kapitaalstortingen en de vooruitbetalingen voor de reservering van
+capaciteit op de satellieten vormen een bijdrage in het gastland, de lease van capaciteit op de
+satellieten heeft een duur van minstens 12 jaar, aan de investeringen zijn risico’s verbonden en de
+investeringen kunnen een aanzienlijk rendement opleveren, gezien het bedrag dat DT Azié bereid
+was voor een belang van 20% in Devas Multimedia te betalen. In de preambule van het Verdrag
+wordt erkend dat investeringen kunnen bijdragen aan de economische ontwikkeling van het
+gastland, maar wordt een dergelijke bijdrage niet als voorwaarde gesteld ("RECOGNISING that the
+promotion and protection of such investments will lend greater stimulation (...)"). Hoe dan ook valt
+aan te nemen dat investeringen van deze omvang in telecommunicatie-infrastructuur aan de
+economische ontwikkeling van de Republiek India kunnen bijdragen. Daarmee is ook aan het vijfde
+kenmerk voldaan. Hoewel de wijze waarop de rechtbank toepassing heeft gegeven aan het
+Weens Verdragenverdrag juist is, kan de discussie die de Republiek India daarover in dit verband
+wil voeren reeds hierom onbesproken blijven. Ten overvioede overweegt het hof dat India
+onvoldoende steekhoudende argumenten heeft aangevoerd waarom het scheidsgerecht in
+afwijking van de duidelijke bewoordingen van artikel 1 van het Verdrag een binnen de kaders van
+
+  
+
+het ICSID-Verdrag ontwikkeld begrip had moeten toepassen.
+
+5.10 Het hof volgt de Republiek India evenmin in haar stelling dat eerst na verlening van alle
+vergunningen, vereist voor de uitvoering van de Devas Diensten van een ‘investering’, in de zin
+van het Verdrag kan worden gesproken. Voor die eis bestaat geen enkele grond. Mogelijke
+onzekerheid over de verlening van een WPC-vergunning, of andere noodzakelijke operationele en
+servicevergunningen, kan hoogstens betekenen dat aan de investering van Devas c.s. bepaalde
+risico’s waren verbonden. Dat kan, zoals het scheidsgerecht terecht heeft aangenomen, een effect
+hebben op de waarde van de investering die de Republiek India eventueel zou moeten
+vergoeden, maar het kan niet betekenen dat in het geheel niet van een investering sprake is. Dat
+zou anders kunnen zijn indien voor het project van Devas c.s. noodzakelijke vergunningen zouden
+zijn geweigerd, of op voorhand vast zou staan dat de noodzakelijke vergunningen niet zouden
+kunnen worden verkregen. Op het moment dat de Republiek India het Devas Contract vernietigde
+waren er echter geen noodzakelijke vergunningen geweigerd, en de Republiek India heeft
+onvoldoende gesteld om er vanuit te gaan dat zulke vergunningen zouden worden geweigerd. Zij
+heeft slechts aangevoerd dat met name de verkrijging van een WPC-vergunning een “extensief
+proces” zou zijn geweest (memorie van grieven, 214).
+
+5.11 De doctrine van de “general unity of an investment operation” waarop de Republiek India in dit
+verband een beroep heeft gedaan, leidt niet tot een ander oordeel. Die doctrine komt erop neer
+dat een transactie die op zichzelf niet als een ‘investering’ in de zin van het toepasselijke
+investeringsverdrag kwalificeert, toch als zodanig kan worden beschouwd als zij onderdeel
+uitmaakt van een operatie die in zijn geheel als investering kwalificeert (vgl. de uitspraak in de
+zaak CSOB v. Slovakia van 24 maart 1999, die in het artikel van Schreuer en Kriebaum, At What
+Time Must Legitimate Expectations Exist?, Liber Amicorum Thomas Wilde, p. 271 (productie G-59 van
+Devas c.s.) als standaard uitspraak op dit gebied wordt aangehaald). Het scheidsgerecht heeft
+geoordeeld dat de kapitaalstortingen van Devas c.s. en de vooruitbetalingen voor de reservering
+van capaciteit op de satellieten op zichzelf zijn te beschouwen als ‘investeringen’ in de zin van het
+Verdrag. Een beroep op de doctrine van de “general unity of an investment operation” is in dat geval
+niet nodig om deze investeringen als zodanig aan te merken. De Republiek India ontleent aan
+deze doctrine ten onrechte een argument dat eerst van een ‘investering’ in de zin van het Verdrag
+kan worden gesproken als de volledige investeringsoperatie is afgerond en alle benodigde
+vergunningen voor het realiseren van het doel van die investering zijn verkregen.
+
+  
+
+5.12 Op het voorgaande stuiten de grieven af die betrekking hebben op de bevoegdheid van het
+scheidsgerecht.
+
+Essentiéle verweren ten aanzien van het begrip ‘investering’
+
+5.13 De Republiek India stelt verder dat het scheidsgerecht zich niet aan zijn opdracht heeft
+gehouden (artikel 1065, eerste lid onder c Rv) en zijn motiveringsplicht heeft geschonden (artikel
+1065, eerste lid onder d Rv) door niet gemotiveerd in te gaan, dan wel niet gemotiveerd te
+beslissen op acht essentiéle verweren met betrekking tot het begrip ‘investering’ (onderverdeeld
+in twee groepen van drie en vijf essentiéle verweren). Een beroep op deze vernietigingsgronden
+moet het hof met terughoudendheid beoordelen. Alleen indien het scheidsgerecht heeft nagelaten
+te beslissen op een essentieel verweer, of indien iedere motivering voor de beslissing van het
+scheidsgerecht ontbreekt, kan het hof het Arbitrale Deelvonnis op een van deze gronden
+vernietigen.
+
+- Eerste groep van drie essentiéle verweren
+
+5.14 Volgens de Republiek India is het scheidsgerecht niet ingegaan op haar verweer dat alleen het
+project van Devas c.s. in zijn geheel, en niet het aandelenbelang van Devas c.s., of activa zoals
+het Devas Contract, als ‘investering’ in de zin van het Verdrag kunnen kwalificeren. De rechtbank
+heeft deze stelling verworpen onder verwijzing naar punten 199 tot en met 210 van het Arbitraal
+
+Deelvonnis. Het hof sluit zich aan bij het oordeel van de rechtbank dat het scheidsgerecht in deze
+punten op dit verweer is ingegaan. In punten 199 tot en met 210 van het Arbitraal Deelvonnis
+heeft het scheidsgerecht overwogen dat het belang van Devas c.s. in Devas Multimedia en de
+indirecte eigendom van Devas c.s. van het Devas Contract, als ‘investeringen’ in de zin van het
+Verdrag konden worden beschouwd. In dat verband heeft het scheidsgerecht onder meer
+overwogen: “(...) the Tribunal finds deficient the Respondent’s argument that the Claimant's activities
+were “only pre-investment activities” because their investment was the alleged right to proceed with
+the Devas project pursuant to the Devas Agreement and because said project could not proceed
+without the WPC License, which Devas had no right to receive under the Devas Agreement". Deze
+overweging is in de daaropvolgende overwegingen toegelicht. Het scheidsgerecht heeft dit
+verweer van de Republiek India dus wel degelijk geadresseerd. De inhoudelijke beoordeling van
+het scheidsgerecht kan door de rechter in een vernietigingsprocedure niet worden getoetst. De
+rechter kan slechts nagaan of het scheidsgerecht op een essentieel verweer is ingegaan. Dat
+heeft het scheidsgerecht in dit geval gedaan. De motivering van het scheidsgerecht is niet zo
+onbegrijpelijk dat gezegd kan worden dat in feite iedere motivering ontbreekt.
+
+5.15 Het tweede essentiéle verweer dat het scheidsgerecht niet zou hebben geadresseerd, betreft
+(arbitrale) uitspraken aangehaald door de Republiek India. Volgens de Republiek India heeft de
+rechtbank haar standpunt verkeerd uitgelegd. Het gaat de Republiek India niet om deze
+uitspraken als zodanig, maar om het met die rechtspraak ondersteunde verweer dat alleen het
+project van Devas in zijn geheel kan kwalificeren als ‘investering’. In dat geval richt het bezwaar
+van de Republiek India zich op de behandeling van hetzelfde essentiéle verweer als hiervoor
+besproken in 5.14, zodat het hof kan volstaan met te verwijzen naar die overweging. Overigens
+onderschrijft het hof het oordeel van de rechtbank dat het scheidsgerecht niet gehouden was om
+de door de Republiek India aangehaalde uitspraken inhoudelijk te bespreken.
+
+5.16 Het scheidsgerecht zou ook onvoldoende aandacht hebben besteed aan het verweer van de
+Republiek India dat Devas Multimedia zonder WPC-vergunning geen satellite-only diensten zou
+hebben kunnen uitrollen. Volgens de Republiek India heeft het scheidsgerecht dit verweer
+verworpen zonder enige motivering. Dat is niet juist. Het scheidsgerecht heeft overwogen: “foJn
+the basis of the evidence received by the Tribunal, it is satisfied that, even without a WPC license,
+Devas could have rolled out satellite-only services” (punt 209 van het Arbitraal Deelvonnis). Het
+bewijs dat in de arbitrale procedure is ingebracht, is door het scheidsgerecht genoemd in punt 181
+van het Arbitraal Deelvonnis. Het scheidsgerecht heeft ook nota genomen van de stukken die
+partijen ten aanzien van deze kwestie na de zitting hebben overgelegd (zie punten 46 tot en met
+54 van het Arbitraal Deelvonnis). Het scheidsgerecht heeft blijkens de aangehaalde overweging
+zijn beslissing mede op dit bewijsmateriaal gebaseerd. De waardering van het bewijsmateriaal
+door het scheidsgerecht onttrekt zich aan de toetsing door de rechter op grond van artikel 1065
+Rv. Daarbij komt dat de vraag of Devas Multimedia satellite-only diensten zou hebben kunnen
+uitrollen zonder vergunning, niet dragend is voor het oordeel van het scheidsgerecht dat sprake is
+van een ‘investering’ in de zin van het Verdrag.
+
+- Tweede groep van vijf essentiéle verweren
+
+5.17 Volgens de Republiek India is het scheidsgerecht niet ingegaan op het essentiéle verweer dat
+het aandelenbelang van Devas c.s. en de indirecte eigendom van de activa van Devas Multimedia
+niet door de Republiek India zijn onteigend, en Devas c.s. daarom met betrekking tot deze
+“assets” geen beroep op het Verdrag kan doen. Dit bezwaar is ongegrond. Het scheidsgerecht
+concludeert in punt 411 van het Arbitraal Deelvonnis dat sprake is van een onteigening van
+eigendommen van Devas c.s. in de zin van artikel 6, eerste lid van het Verdrag. Daarbij verwijst
+het scheidsgerecht naar zijn conclusie in punt 210, die steunt op de overwegingen in punten 199
+tot en met 209. Het scheidsgerecht heeft kennelijk geoordeeld dat de beslissing van de Republiek
+India om het Devas Contract te vernietigen, als gevolg waarvan Devas Multimedia haar rechten op
+het spectrum op de beide satellieten heeft verloren, gelijk kan worden gesteld aan een
+onteigening van de investeringen van Devas c.s. in Devas Multimedia. Dat oordeel, waarmee is
+
+ingegaan op dit verweer, is niet zodanig onbegrijpelijk dat het met het ontbreken van een
+motivering moet worden gelijkgesteld.
+
+5.18 Verder stelt de Republiek India dat het scheidsgerecht niet is ingegaan op haar essentiéle
+verweren dat het Devas Contract als zodanig geen kwalificerende ‘investering’ vormde en dat de
+omvang van de investeringen van Devas c.s. de aard ervan niet kon veranderen, waarbij de
+Republiek India opnieuw verwijst naar door haar aangehaalde (arbitrale) uitspraken. Dit komt neer
+op een herhaling van de stellingen van de Republiek India die hiervoor in 5.14 en 5.15 zijn
+verworpen.
+
+5.19 De laatste twee essentiéle verweren die het scheidsgerecht volgens de Republiek India niet
+heeft behandeld, hebben betrekking op (het ontbreken van) de WPC-vergunning. De Republiek
+India verwijt het scheidsgerecht dat het geen toelichting heeft gegeven bij zijn oordeel dat het
+ontbreken van een recht op een WPC-vergunning van belang kon zijn voor de waarde van de
+investering, maar niet voor de vraag of van een investering als zodanig sprake was. Dat verwijt is
+niet terecht, omdat het scheidsgerecht dit oordeel heeft gebaseerd op de overweging dat voor
+satellite only diensten geen WPC-vergunning nodig was en dat reeds het recht op het spectrum als
+zodanig een waarde vertegenwoordigde, aangezien daarmee het gebruik van dat spectrum door
+anderen uitgesloten was (zie punt 209 van het Arbitraal Deelvonnis). Ten slotte verwijt de
+Republiek India het scheidsgerecht dat het zijn oordeel dat Devas Multimedia zonder WPC-
+vergunning satellite only diensten zou kunnen uitrollen, niet heeft gemotiveerd. Dat verwijt is reeds
+hierboven in 5.16 besproken en verworpen.
+
+5.20 Het voorgaande betekent dat de grieven die betrekking hebben op de vraag of sprake is van een
+‘investering’ in de zin van het Verdrag (grieven 1 en 2 van de Republiek India), falen.
+
+“Essential security interests”
+
+5.21 Artikel 11, derde lid van het Verdrag bepaalt dat het Verdrag een Verdragsluitende staat (in dit
+geval de Republiek India) niet kan beperken in het treffen van maatregelen die zijn gericht op de
+bescherming van zijn “essential security interests”. In de arbitrale procedure heeft de Republiek
+India niet de onbevoegdheid van het scheidsgerecht ingeroepen op grond van deze bepaling. Het
+scheidsgerecht heeft het beroep op deze bepaling ook niet als zodanig opgevat in de
+overwegingen van het Arbitraal Deelvonnis (vgl. punten 293 e.v. van het Arbitraal Deelvonnis).
+Slechts in het dictum van het Arbitraal Deelvonnis heeft het scheidsgerecht gesteld: “(...) that the
+Tribunal lacks jurisdiction over the Claimants’ claims insofar as the Respondent's decision to annul the
+Devas agreement was in part directed to the protection of the Respondent's essential security
+interests.” Anders dan de rechtbank leidt het hof hier niet uit af dat het scheidsgerecht de
+stellingen van de Republiek India met betrekking tot “essential security interests” heeft opgevat als
+een bevoegdheidsverweer. Het dictum van het Arbitraal Deelvonnis moet immers worden uitgelegd
+in het licht van de overwegingen, en in die overwegingen heeft het scheidsgerecht dit niet als een
+bevoegdheidsverweer behandeld. In ieder geval is tussen partijen in hoger beroep niet langer in
+geschil dat artikel 11, derde lid van het Verdrag niet de bevoegdheid van het scheidsgerecht
+betreft, maar dat het hier gaat om een uitzondering op de bepalingen van het Verdrag voor
+maatregelen die zijn gericht op de bescherming van “essential security interests".
+
+5.22 De grieven van de Republiek India in verband met de bescherming van “essential security
+interests”, hebben dan ook geen betrekking op de bevoegdheid van het scheidsgerecht. Volgens
+de Republiek India heeft de rechtbank miskend dat het scheidsgerecht zich bij zijn beoordeling van
+het beroep op deze uitzondering niet heeft gehouden aan zijn opdracht (artikel 1065, eerste lid
+onder c Rv), dat het scheidsgerecht zijn oordeel niet heeft gemotiveerd (artikel 1065, eerste lid
+onder d Rv) en dat het oordeel van het scheidsgerecht een schending inhoudt van de openbare
+orde en goede zeden (artikel 1065, eerste lid onder e Rv). Zoals hiervoor overwogen, moet de
+rechter zijn bevoegdheid tot vernietiging op de eerste twee gronden met terughoudendheid
+hanteren. Alleen in geval van een schending van de openbare orde en goede zeden kan de
+
+rechter het oordeel van het scheidsgerecht vol toetsen.
+
+- Opdracht van het scheidsgerecht
+
+5.23 Volgens de Republiek India heeft het scheidsgerecht zich niet aan zijn opdracht gehouden door
+
+de “essential security interests"-bepaling toe te passen op het
+
+S-bandspectrum in plaats van de beslissing tot beéindiging van het Devas Contract. In deze
+stelling kan het hof de Republiek India niet volgen. Na een analyse van de behoefte van het
+gebruik van het S-bandspectrum voor strategische/militaire doeleinden overwoog het
+scheidsgerecht het volgende, in punt 351 van het Arbitraal Deelvonnis: “But this is not the end of
+the matter. While the events related above provide helpful information concerning the administrative
+process followed both before and after the CCS decision, what is the determinant factor for the Tribunal
+is that decision itself and whether it was directed to the protection of the Respondents essential
+security interests”. Het scheidsgerecht heeft dus wel degelijk de beslissing tot beéindiging van het
+Devas Contract tot uitgangspunt genomen.
+
+5.24 De Republiek India betoogt verder dat het scheidsgerecht het dichotome karakter van de
+
+“essential security interests”-bepaling heeft miskend. Met het dichotome karakter van de bepaling
+bedoelt de Republiek India dat “essential security interests” of wél, of niet aan de orde zijn. Ook dit
+betoog kan het hof niet volgen. Het staat vast dat verschillende delen van het S-bandspectrum
+voor verschillende doeleinden kunnen worden gebruikt. De rechtbank heeft overwogen dat deze
+mogelijkheid reeds volgt uit het Devas Contract, waarin Devas Multimedia en Antrix zijn
+overeengekomen dat 90% van het spectrum kon worden gebruikt voor civiele/commerciéle
+doeleinden en de overige 10% voor strategische/militaire doeleinden (overweging 4.50 van het
+vonnis van de rechtbank). Dit is door de Republiek India in hoger beroep niet bestreden. De
+“essential security interests”-bepaling sluit mogelijk uit dat eenzelfde deel van het S-bandspectrum
+zowel voor de bescherming van “essential security interests” als voor andere doeleinden wordt
+ingezet. In zoverre kan deze bepaling als dichotoom worden gezien. Maar de inzet van een deel
+van het S-bandspectrum voor de bescherming van “essential security interests” sluit niet uit dat
+een ander deel van het S-bandspectrum voor andere doeleinden wordt ingezet. In ieder geval
+heeft het scheidsgerecht op grond van het dossier die conclusie kunnen trekken.
+
+5.25 Volgens de Republiek India is het scheidsgerecht eveneens buiten de rechtsstrijd getreden door
+
+het beroep op “essential security interests” niet terughoudend maar vol te toetsen. Dit bezwaar is
+ongegrond, aangezien het scheidsgerecht wel degelijk een terughoudende toetsingsmaatstaf
+heeft gehanteerd. Dat blijkt onder meer uit de volgende overwegingen van het scheidsgerecht:
+
+“243. While, in the present case, the Respondent does not have to demonstrate necessity in the sense
+that the measure adopted was the only one it could resort to in the circumstances, it still has to
+establish that the measure related to its essential security interests; it cannot therefore be any
+security interest but it has to be an essential one (...)
+
+244, In performing this analysis, however, the Tribunal has also no difficulty in recognizing the “wide
+measure of deference” mentioned by the Respondent.”
+
+5.26 De Republiek India stelt dat het scheidsgerecht zich in zijn beoordeling niet aan deze
+
+terughoudende toetsingsmaatstaf heeft gehouden, doordat het uiteindelijk zelf heeft beslist dat
+voor de bescherming van “essential security interests” van de Republiek India niet het volledige S-
+bandspectrum nodig was. Dit oordeel berust volgens de Republiek India bovendien op een
+onjuiste verdeling van de bewijslast, waarbij de Republiek India de validiteit van haar beroep op
+“essential security interests” moest bewijzen.
+
+5.27 Ook dit bezwaar is ongegrond. Het scheidsgerecht heeft zijn oordeel dat voor de bescherming
+
+van “essential security interests" niet het volledige S-bandspectrum nodig was, gebaseerd op de
+beslissing van het CCS. Daarbij is het scheidsgerecht uitgegaan van het persbericht van 17
+
+februari 2011 waarbij deze beslissing is medegedeeld. In dat persbericht is de beslissing tot
+beéindiging van het Devas Contract gerechtvaardigd met een verwijzing naar een “increased
+demand for allocation of spectrum for national needs, including the needs of defence, para-military
+forces, railways and other public utility services as well as for societal needs”. Op grond van dat
+persbericht, waar het scheidsgerecht vanuit moest gaan nu het de enige mededeling is van de
+beslissing van het CCS, heeft het scheidsgerecht kunnen vaststellen dat de beslissing tot
+beéindiging van het Devas Contract niet uitsluitend de bescherming van “essential security
+interests” tot doel had.
+
+5.28 In het kader van een terughoudende toetsing van het Arbitraal Deelvonnis op grond van artikel
+1065, eerste lid onder c Rv is er geen ruimte voor een inhoudelijke beoordeling van de verdeling
+van de bewijslast door het scheidsgerecht. Overigens acht het hof het oordeel van het
+scheidsgerecht dat de Republiek India diende te onderbouwen (“establish”) dat de beslissing tot
+beéindiging van het Devas Contract verband hield met “essential security interests”, begrijpelijk
+(vgl. punt 242 van het Arbitraal Vonnis). De Republiek India deed immers een beroep op een
+bepaling waarbij een uitzondering werd gemaakt op de bescherming van investeringen ingevolge
+het Verdrag. Daarbij heeft het scheidsgerecht rekening gehouden met de discretionaire
+bevoegdheid (“wide measure of deference”) van de Republiek India, door zware eisen te stellen aan
+het verweer van Devas c.s. (vgl. punt 245 van het Arbitraal Vonnis).
+
+5.29 Verder stelt de Republiek India dat het scheidsgerecht zich niet heeft gehouden aan zijn
+opdracht om volgens de ‘regelen des rechts’ te beslissen, door het deel van het spectrum,
+bestemd voor de bescherming van “essential security interests”, ex aequo et bono te bepalen op
+maximaal 60%. Dit bezwaar mist feitelijke grondslag. Gezien de motivering van zijn beslissing
+heeft het scheidsgerecht geoordeeld naar de ‘regelen des rechts’. Uit de desbetreffende
+overweging (punt 373 van het Arbitraal Deelvonnis) blijkt niet dat het scheidsgerecht bij de
+vaststelling van het deel van het spectrum dat bestemd is voor de bescherming van “essential
+security interests” een andere (ex aequo et bono) beslissingsmaatstaf heeft gehanteerd dan uit het
+Verdrag voortvloeide. Het enkele feit dat het scheidsgerecht in deze overweging spreekt over een
+“reasonable allocation of spectrum" is daarvoor onvoldoende. Ook bij een beoordeling naar de
+‘regelen des rechts’ speelt de redelijkheid immers een rol.
+
+5.30 Ten slotte verwerpt het hof het betoog van de Republiek India dat het scheidsgerecht de feiten
+heeft aangevuld door zijn oordeel dat niet meer dan 60% van het S-bandspectrum bestemd is
+voor de bescherming van “essential security interests", te baseren op de overweging (punt 370 van
+het Arbitraal Deelvonnis): “(...) All around the world, governments are faced every year with very large
+demands for funds for various projects from their military establishment and, just as regularly,
+governments grant only a percentage of such requests." Dit betoog is gebaseerd op een verkeerde
+lezing van het Arbitraal Deelvonnis. Zoals vermeld in de openingszin van punt 373 van het
+Arbitraal Deelvonnis, heeft het scheidsgerecht zijn oordeel dat maximaal 60% van het S-
+bandspectrum bestemd is voor de bescherming van “essential security interests” gebaseerd op het
+aan haar voorgelegde bewijs en het gegeven dat de Republiek India reeds in het Devas Contract
+10% van het beschikbare spectrum voor zichzelf had gereserveerd (“fojn the basis of the evidence
+submitted to it as described above and bearing in mind that the Respondent had already reserved to
+itself 10% of the spectrum in question (...)". Het oordeel van het scheidsgerecht berust dus niet, of
+in ieder geval niet uitsluitend, op de door de Republiek India aangehaalde overweging.
+
+- Motivering
+
+5.31 Volgens de Republiek India heeft het scheidsgerecht zijn beslissing dat niet meer dan 60% van
+het S-bandspectrum bestemd is voor de bescherming van “essential security interests” niet
+gemotiveerd. Deze stelling is onjuist. Zoals hiervoor overwogen, heeft het scheidsgerecht de
+verdeling van het S-bandspectrum blijkens punt 373 van het Arbitraal Vonnis gebaseerd op het
+aan haar voorgelegde bewijs en het gegeven dat de Republiek India reeds in het Devas Contract
+10% van het beschikbare spectrum voor zichzelf had gereserveerd (“foJn the basis of the evidence
+
+submitted to it as described above and bearing in mind that the Respondent had already reserved to
+itself 10% of the spectrum in question (...)". Of deze motivering inhoudelijk juist is, onttrekt zich aan
+de beoordeling door het hof op grond van artikel 1065, eerste lid onder c Rv. Dat geldt ook voor de
+door de Republiek India aangevoerde additionele motiveringsgebreken (memorie van grieven, 457
+e.v.). Of inmiddels 100% van het S-bandspectrum voor militaire en paramilitaire doeleinden wordt
+gebruikt kan in het midden blijven. Het hof hoeft immers geen inhoudelijke beslissing te geven
+over de toepassing van het essential security interests-verweer, maar slechts te toetsen of het
+arbitraal vonnis vernietigd moet worden. Het bewijsaanbod van de Republiek India ten aanzien
+van het huidige gebruik van het S-bandspectrum is daarom niet ter zake doende en zal worden
+gepasseerd.
+
+- Verrassingsbeslissing
+
+5.32 Met de rechtbank is het hof van oordeel dat de beslissing van het scheidsgerecht dat niet meer
+dan 60% van het S-bandspectrum bestemd is voor de bescherming van “essential security
+interests” niet als een verrassingsbeslissing kan worden gezien. De Republiek India heeft in de
+arbitrale procedure (ruimschoots) de gelegenheid gekregen om haar standpunt te onderbouwen
+dat het S-bandspectrum voor 100% nodig was voor de bescherming van “essential security
+interests”. Het valt niet in te zien waarom het scheidsgerecht de Republiek India separaat had
+moeten horen over haar voornemen om het beroep van de Republiek India op de “essential
+security interests"-bepaling voor minder dan 100% van het S-bandspectrum te honoreren. De
+Republiek India geeft niet aan welke argumenten zij tegen dat voornemen had kunnen aanvoeren,
+die zij niet heeft kunnen aanvoeren om het gebruik van het S-bandspectrum voor de bescherming
+van “essential security interests" voor 100% te rechtvaardigen. Dit zou anders kunnen zijn als het
+scheidsgerecht rekening had moeten houden met de mogelijkheid dat een gebruik van
+verschillende delen van het S-bandspectrum voor verschillende doeleinden tot problemen zou
+leiden. Daarmee hoefde het scheidsgerecht echter geen rekening te houden, nu reeds in het
+Devas Contract was vastgelegd dat 90% van het spectrum zou worden gebruikt voor
+civiele/commerciéle doeleinden en de overige 10% voor strategische/militaire doeleinden.
+
+5.33 Op het voorgaande stuiten de grieven af die verband houden met het beroep op de
+
+“essential security interests”-bepaling (grieven 3, 4 en 5).
+Strafklacht en misleiding ten aanzien van intellectuele eigendomsrechten
+
+5.34 Als eerste vernietigingsgrond in dit verband heeft de Republiek India, onder verwijzing naar de
+Strafklacht, gesteld dat het Devas Contract tot stand is gekomen onder invloed van strafbare
+feiten, met als gevolg dat geen geldige ‘investering’ heeft plaatsgevonden en het scheidsgerecht
+niet bevoegd was om over de vorderingen van Devas c.s. te oordelen (artikel 1065, eerste lid
+onder a Rv). Volgens de Republiek India had de rechtbank niet aan de feiten vermeld in de
+Strafklacht voorbij mogen gaan op grond van de overweging dat zij nog niet tot een
+(onherroepelijke) strafrechtelijke veroordeling hebben geleid.
+
+5.35 Het hof stelt voorop dat de beide onderdelen van de Strafklacht (de charge sheet en de
+supplementary charge sheet) naar Indiaas recht nog geen officiéle tenlastelegging inhouden. De
+charge sheets worden bij de rechter ingediend en eerst wanneer de rechter vaststelt dat de daarin
+opgenomen klachten prima facie gegrond zijn, kunnen de klachten in een officiéle tenlastelegging
+worden opgenomen. De charge sheets zijn geruime tijd geleden bij de Indiase rechter ingediend
+(de charge sheet dateert van 11 augustus 2016 en de supplementary charge sheet van 8 januari
+2019). De advocaten van Devas c.s. hebben tijdens de pleidooien in hoger beroep gesteld dat de
+rechter het verzoek om de zaak in behandeling te nemen, inmiddels heeft afgewezen. Devas c.s.
+heeft echter geen kopie overgelegd van de beslissing of een ander stuk waaruit blijkt dat de
+rechter aldus heeft beslist. De advocaat van de Republiek India heeft desgevraagd niet kunnen
+bevestigen dat een beslissing op de Strafklacht is genomen.
+
+5.36 Ook als de Strafklacht nog aanhangig is, kan op grond daarvan niet aangenomen worden dat het
+Devas Contract onder invloed van strafbare feiten tot stand is gekomen. Het kan in het midden
+blijven of daar een (onherroepelijke) rechterlijke uitspraak voor nodig is, zoals de rechtbank heeft
+aangenomen. Zolang de Indiase rechter geen toestemming heeft verleend om de in de Strafklacht
+vermelde klachten op te nemen in een officiéle tenlastelegging, kan er zelfs niet van worden
+uitgegaan dat deze klachten prima facie gegrond zijn. Afgezien van haar beroep op de Strafklacht
+heeft de Republiek India slechts zeer globaal vermeld waaruit de gestelde strafbare feiten
+bestaan (memorie van grieven, 505). Daarmee heeft de Republiek India haar stelling dat het
+Devas Contract onder inviloed van strafbare feiten tot stand is gekomen, onvoldoende
+onderbouwd.
+
+5.37 De Republiek India heeft in de memorie van grieven nog verwezen naar een onderzoek naar
+Devas Multimedia onder de Prevention of Money Laundering Act 2002 en een onderzoek onder de
+Foreign Exchange Management Act, dat heeft geleid tot het opleggen van boetes aan Devas
+Multimedia, haar bestuurders en functionarissen en DT Azié. De Republiek India heeft deze
+onderzoeken echter alleen “voor de volledigheid” vermeld (memorie van grieven, 508), en niet ten
+grondslag gelegd aan haar vordering tot vernietiging, zodat het hof deze onderzoeken buiten
+beschouwing zal laten.
+
+5.38 Verder stelt de Republiek India dat het Arbitraal Deelvonnis moet worden vernietigd wegens het
+ontbreken van een motivering, omdat het scheidsgerecht niet is ingegaan op het argument van de
+Republiek India dat Devas Multimedia het ten tijde van de totstandkoming van het Devas Contract
+ten onrechte heeft doen voorkomen dat zij beschikte over bepaalde intellectuele
+eigendomsrechten (artikel 1065, eerste lid onder d Rv). De rechtbank heeft het beroep op deze
+vernietigingsgrond afgewezen omdat dit argument in de arbitrale procedure slechts in een
+voetnoot van een processtuk is opgenomen, zodat het scheidsgerecht het niet als een essentieel
+verweer hoefde te behandelen. De Republiek India brengt daar tegenin dat zij in de “document
+production phase” van de arbitrale procedure om stukken met betrekking tot intellectuele
+eigendomsrechten heeft gevraagd, en dat het scheidsgerecht Devas c.s. heeft gelast deze
+stukken te verstrekken. Devas c.s. heeft deze stukken niet overgelegd, naar haar zeggen omdat
+zij niet over deze stukken beschikte. Dat kan de Republiek India echter niet hebben belet om dit
+argument verder uit te werken, en het belang hiervan voor haar verweer te onderbouwen. Dat
+heeft de Republiek India niet gedaan. Devas c.s. heeft onweersproken gesteld dat de Republiek
+India dit argument behalve in de bewuste voetnoot niet naar voren heeft gebracht in de arbitrale
+procedure; niet in enig ander processtuk, niet tijdens de zitting en niet in het verhoor van
+verschillende getuigen aan de zijde van Devas c.s. Gezien die opstelling heeft het scheidsgerecht
+niet hoeven te begrijpen dat dit een essentieel verweer van de Republiek India was waarop het
+expliciet diende te beslissen. Het hof onderschrijft daarmee het oordeel van de rechtbank ten
+aanzien van deze vernietigingsgrond.
+
+5.39 Ten slotte stelt de Republiek India dat het scheidsgerecht de strafrechtelijke gedragingen van
+Devas Multimedia heeft “geheeld” in het Arbitraal Deelvonnis, door in weerwil van deze
+gedragingen het Devas Contract als een geldig en bindend contract aan te merken. Daarom is het
+Arbitraal Deelvonnis in strijd met de openbare orde en goede zeden en vernietigbaar op grond van
+artikel 1065, eerste lid onder e Rv, aldus de Republiek India. Het hof sluit zich aan bij het oordeel
+van de rechtbank dat het beroep op deze vernietigingsgrond faalt omdat niet in rechte vast is
+komen te staan dat bij de totstandkoming van het Devas Contract sprake is geweest van
+strafbaar handelen (overweging 4.74 van het rechtbankvonnis).
+
+5.40 Het verzoek van de Republiek India om aanhouding van deze procedure in afwachting van de
+uitkomst van de strafrechtelijke procedures in India wijst het hof af. In de memorie van grieven
+heeft de Republiek India in het vooruitzicht gesteld dat eind 2019 een strafrechtelijke procedure
+zou aanvangen tegen de in de Strafklacht genoemde personen. Er is echter nog steeds geen
+strafrechtelijke procedure aanhangig in India. De desbetreffende personen zijn nog niet eens
+
+officieel in staat van beschuldiging gesteld, en het is op zijn minst onzeker of dat nog zal gebeuren
+(vgl. hierboven onder 5.35). Evenals de rechtbank is het hof daarom van oordeel dat de goede
+procesorde zich tegen toewijzing van dit verzoek verzet.
+
+5.41 Het voorgaande betekent dat ook grieven 6 tot en met 9 worden verworpen.
+Bewijsaanbod
+
+5.42 Het bewijsaanbod dat de Republiek India aan het eind van haar memorie van grieven heeft
+geformuleerd, wordt gepasseerd. Voor zover het bewijsaanbod betrekking heeft op de stellingen
+van de Republiek India ten aanzien van de relevante vergunningen, volgt uit hetgeen hiervoor is
+overwogen dat die stellingen niet van een voldoende onderbouwing zijn voorzien of niet
+doorslaggevend zijn voor de beoordeling van de vordering in deze vernietigingsprocedure. Voor
+zover het bewijsaanbod betrekking heeft op het huidige gebruik van de GSAT-6 satelliet is het niet
+ter zake dienend (zie hiervoor, 5.31). Voor zover het betrekking heeft op het overleggen van
+stukken heeft te gelden dat de Republiek India stukken waarop zij zich nog wenst te beroepen
+zelfstandig in het geding had moeten brengen.
+
+Conclusie en proceskostenveroordeling
+
+5.43 Nu alle grieven falen, zal het vonnis van de rechtbank worden bekrachtigd. De Republiek India zal
+als de in het ongelijk gestelde partij in de proceskosten worden veroordeeld.
+
+6 Beslissing
+
+Het hof:
+
+- bekrachtigt het tussen partijen gewezen vonnis van de rechtbank van 14 november 2018;
+
+- veroordeelt de Republiek India in de proceskosten in hoger beroep, aan de zijde van Devas c.s.
+begroot op € 741,- aan griffierecht en € 3.342,- aan salaris voor de advocaat, en op € 163,- aan
+nasalaris voor de advocaat, nog te verhogen met € 85,- indien niet binnen veertien dagen na
+aanschrijving in der minne aan dit arrest is voldaan en vervolgens betekening van dit arrest heeft
+plaatsgevonden, en bepaalt dat deze bedragen binnen 14 dagen na de dag van de uitspraak dan wel,
+wat betreft het bedrag van € 85,-, na de datum van betekening, moeten zijn voldaan, bij gebreke
+waarvan deze bedragen worden vermeerderd met de wettelijke rente als bedoeld in artikel 6:119 BW
+vanaf het einde van genoemde termijn van 14 dagen;
+
+- verklaart dit arrest voor zover het betreft de proceskostenveroordeling uitvoerbaar bij voorraad.
+
+Dit arrest is gewezen door mrs. P. Glazener, J.J. van der Helm en D. Aarts en is uitgesproken ter
+openbare terechtzitting van 16 februari 2021 in aanwezigheid van de griffier.
+

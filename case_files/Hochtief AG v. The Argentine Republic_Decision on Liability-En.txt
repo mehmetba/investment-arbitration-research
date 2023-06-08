@@ -1,0 +1,4785 @@
+INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
+WASHINGTON, D.C.
+
+In the arbitration proceeding between
+
+HOCHTIEF AG
+
+Claimant
+
+and
+
+ARGENTINE REPUBLIC
+
+Respondent
+
+(ICSID Case No. ARB/07/31)
+
+ 
+
+DECISION ON LIABILITY
+
+ 
+
+Members of the Tribunal
+Professor Vaughan Lowe Q.C, President
+Judge Charles N. Brower, Arbitrator
+Mr. J. Christopher Thomas, Q.C., Arbitrator
+
+Secretary of the Tribunal
+Mrs. Mercedes Cordido-Freytes de Kurowski
+
+Date: December 29, 2014
+
+REPRESENTATION OF THE PARTIES
+
+Representing Hochtief
+
+Messrs. Paul F. Doyle and
+Philip D. Robben
+
+Kelley Drye & Warren LLP
+101 Park Avenue
+
+New York, NY 10178, USA
+
+Representing the Argentine Repulic
+
+Dra. Angelina Maria Esther Abbona
+Procuradora del Tesoro de la Nacién
+Procuracién del Tesoro de la
+
+Nacion Argentina
+
+Posadas 1641
+
+C1112ADC, Buenos Aires
+Argentina
+
+Ill.
+
+IV.
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INTRODUCTION AND PARTIES 1
+PROCEDURAL HISTORY. 1
+FACTUAL BACKGROUND 10
+(A) Preliminary Observations 10
+(B) Argentina’s Privatization Program ..........cccccceceee eee eeeeeeneeeeeestecstseeneeeeeneeeeeneee 10
+a) Background 10
+b) The Convertibility Regime and overview of the legal framework ..............00 10
+(C) The Project, the Bidding Process and the Concession Contract...........c ccc 12
+a) The Project and the Bidding Process ..0.......c.ccccceeeeseseeseeeteeseseseeeeteeeeeeeneeeeaeeeee 12
+b) The Concession Contract 13
+c) Capital Contributions and Project Funding... eects eeeeeeneeeneee 16
+(D) The Argentine Crisis 20
+(E) The Law 25,561 and its effects 21
+
+ 
+
+(F) Suspension of Constructions, Project Delay and Additional Capital Infusions by
+Hochtief (“‘inter-company loans") (2002), Argentina Provides Financing (February
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2003 Loan) 22
+
+(G) Further Capital infusions by Hochtief (2004-2005) and Total Loans and Capital
+Infusions 25
+(H) Renegotiations and PdL’s Insolvency Proceedings (Concurso Preventivo) .............000 25
+(I) Ballast Nedam 27
+(J) The Transitory Agr 30
+(K) Insurance provided by the German Government ............:.:cceeeseesee ects eeeeeeeeneeeneee 33
+JURISDICTION AND ADMISSIBILITY .........0:-ccccescessessessessesseeeeseeseeseesessssnsessesseneeneesee 33
+(A) The ‘PdL Questions’ 34
+a) PdL’s Rights and Hochtief’s Rights .......0.0.c ccc ee eeeeseeeeeees cette teeeeeeeneeeneeeee 35
+(i) Claimant’s investment as shareholder in PAL ...........cecececeeeeeceeeeeeeeeeeeeeeeeee 39
+(ii) PdL and the March 2012 Transitory Agreement.........0.00c cece 40
+(iii)‘Double Recovery’; Claimant’s profits as construction contractor............... Al
+(B) The temporal limits of the dispute... cece cece ee ee eereeeeeeetetetsteteteneneneeneeeed 42
+(C) Claimant’s political risk insurance ........ eee cece ee ee ee cence eeeeeeeteteteteteteeeneeneieaeed 43
+(D) Claimant’s claims as creditor 44
+(i) Article 22.2 of the Concession Contract .0.......c:ccececesceeeseceeeereeeeeseseeeeeeeeeeeee 44
+
+VI.
+
+(ii) Conformity of the loans with Argentine financial regulations
+
+ 
+
+(E) The ‘Ballast Nedam’ argument
+(F) CONCLUSIONS ON ADMISSIBILITY.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MERITS 50
+(A) FAIR AND EQUITABLE TREATMENT: Article 2(1).......c:cesesessessessesseeseseeseeneesee 51
+a) The failure to pay the Subsidy on time... cece tee ee cece ee teeeeeeeneeeeeeeee 51
+
+b) The pesification proce: s7
+
+c) The ‘Emergency Loan’ 64
+
+d) The renegotiation process 69
+
+(i) The unimplemented renegotiations 0.0.0.0... cece eee eeeeeeeee tte teeeeeeeeeees 70
+
+(ii) The excessive delay in the renegotiation... eee etter 72
+
+e) Conclusion on FET 74
+
+(B) FULL PROTECTION AND SECURITY: Articles 2(1) and 4(1) ....c.ecescesseeeeeseeeeeee 74
+
+(C) EXPROPRIATION: Article 4(2)
+(D) THE ‘OBSERVANCE OF OBLIGATIONS’ OR ‘UMBRELLA CLAUSE’: Article
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+7(2) 75
+(E) ARBITRARY OR DISCRIMINATORY MEASURES: Article 2(3) 75
+(F) BREACH OF BINDING UNILATERAL DECLARATIONS. 75
+(G) THE DURATION OF THE EMERGENCY AND THE OPERATIVE DATE OF THE
+
+BREACHES 16
+(H) CLAIMANT’S SHARE OF THE REPARATION j...ssssssssssssssssssssesssssssecsssssseeesesens 78
+(1) THE APPROACH TO THE DETERMINATION OF QUANTUM o..ssssssssscsssssesesee 80
+(J) COSTS 86
+(K) INTEREST 86
+(L) THE SUM TO BE PAID 87
+DECISION OF THE TRIBUNAL ON LIABILITY .ecsscccosssssssssssssssssssessssssssssnssssecceves 88
+
+iii
+
+FREQUENTLY USED ABBREVIATIONS AND ACRONYMS
+
+Arbitration Rules
+
+BIT or the Treaty
+
+ICSID Convention
+
+ICSID or the Centre
+
+E [CE] [RE]
+LA [CLA] [RLA]
+Mem. [Cl. Mem.] [Resp. Mem. Jur.]
+
+C-Mem. [Resp. C-Mem.] [Cl. C-Mem. Jur.]
+
+Rep. [Cl. Rep.] [Resp. Rep. Jur.]
+
+Rej. [Resp. Rej.] [Cl. Rej. Jur.]
+
+Tr. [J.] [Merits] [page:line]
+
+ICSID Rules of Procedure for Arbitration
+Proceedings
+
+Treaty between the Federal Republic of
+Germany and the Argentine Republic on the
+Encouragement and Reciprocal Protection of
+Investments dated 9 April 1991, that came into
+force on 8 November 1993.
+
+Convention on the Settlement of Investment
+Disputes Between States and Nationals of
+Other States dated 18 March 1965
+
+International Centre for Settlement of
+Investment Disputes
+
+Exhibit [Claimant] [Respondent]
+Legal Authority [Claimant] [Respondent]
+
+Memorial [Claimant on the merits]
+[Respondent on jurisdiction]
+
+Counter-Memorial [Respondent’s on the
+merits] [Claimant’s on jurisdiction]
+
+Reply [Claimant’s on the merits]
+[Respondent’s on jurisdiction]
+
+Rejoinder [Respondent’s on the merits]
+[Claimant’s on jurisdiction]
+
+Transcript of the hearing on jurisdiction/ on the
+merits
+
+I. INTRODUCTION AND PARTIES
+
+1. This case concerns a dispute submitted to the International Centre for Settlement of
+Investment Disputes (“ICSID” or the “Centre”) on the basis of the Treaty between the
+Federal Republic of Germany and the Republic of Argentina for the Promotion and
+Reciprocal Protection of Investments dated 9 April 1991 which entered into force on 8
+November 1993. The dispute concerns a concession for the construction of toll highway
+and a bridge between cities of Rosario and Victoria and Argentina’s alleged breaches of
+
+Claimant’s rights under the BIT.
+
+2. Claimant is Hochtief Aktiengesellschaft and is hereinafter referred to as “Hochtief” or
+“Claimant.”
+
+3. Claimant is a company incorporated under the laws of the Federal Republic of Germany.
+
+4. Respondent is the Argentine Republic and is hereinafter referred to as “Argentina” or
+
+“Respondent.”
+
+5. Claimant and Respondent are hereinafter collectively referred to as the “Parties.” The
+
+Parties’ respective representatives and their addresses are listed above on page (i).
+
+II. PROCEDURAL HISTORY
+
+6. On 7 November 2007, ICSID received a request for arbitration dated 5 November 2007
+from Hochtief against Argentina (the “Request” or “RFA”).
+
+7. On 18 December 2007, the Acting Secretary-General of ICSID registered the Request in
+accordance with Article 36(3) of the ICSID Convention and notified the Parties of the
+registration. In the Notice of Registration, the Acting Secretary-General invited the
+Parties to proceed to constitute an Arbitral Tribunal as soon as possible in accordance
+with Rule 7(d) of the Centre’s Rules of Procedure for the Institution of Conciliation and
+
+Arbitration Proceedings.
+
+8. By letter dated 19 February 2008, Claimant elected to submit the arbitration to a Tribunal
+
+constituted of three arbitrators, as provided in Article 37(2)(b) of the ICSID Convention.
+
+1
+
+On 23 April 2008, Claimant appointed Judge Charles N. Brower, a national of the United
+States of America, as arbitrator. On 2 May 2008, Respondent appointed Mr. J.
+
+Christopher Thomas, Q.C., a Canadian national, as arbitrator.
+
+By letter dated 24 April 2009, the Centre informed the Parties that in accordance with the
+method agreed by the Parties, Judge Charles N. Brower and Mr. J. Christopher Thomas,
+Q.C. had agreed on the appointment of Professor Vaughan Lowe, a national of the United
+
+Kingdom, as the third arbitrator and President of the Tribunal.
+
+On 30 April 2009, the Acting Secretary-General of the Centre, in accordance with Rule
+6(1) of the ICSID Arbitration Rules notified the Parties that all three arbitrators had
+accepted their appointments and that the Tribunal was therefore deemed to have been
+constituted on that date. Mr. Sergio Puig, ICSID Legal Counsel, was designated to serve
+
+as Secretary of the Tribunal.
+
+On 19 June 2009, the Tribunal held a procedural session with the Parties by telephone
+conference and, pursuant to the Parties’ agreement, on 16 April 2010, the Tribunal held a
+first session with the Parties at the seat of the Centre in Washington, D.C. The Parties
+confirmed that the Tribunal had been properly constituted and reached agreements on
+several procedural matters, inter alia, that the applicable Arbitration Rules would be those
+in force since 10 April 2006, and that the procedural languages would be English and
+Spanish.
+
+During the First Session, the Parties further agreed that Claimant would file a memorial
+on the merits on 29 April 2010, and that Respondent would file a memorial on
+jurisdiction within 120 days from its receipt of Claimant’s memorial on the merits. It was
+also agreed that the Tribunal would promptly instruct the Parties on the timetable for the
+further submissions. The Minutes were signed by the President of the Tribunal and Mr.
+
+Gonzalo Flores on behalf of the ICSID Secretariat, and circulated to the Parties.
+
+Claimant’s Memorial on the Merits was submitted on 29 April 2010, and Respondent
+
+submitted its Memorial on Objections to the Jurisdiction of the Centre and the
+
+20.
+
+Competence of the Tribunal on 30 July 2010. Claimant’s Counter-Memorial on
+
+Objections to Jurisdiction was submitted on 15 October 2010.
+
+On 25 June 2010, Respondent submitted a request for production of documents, followed
+
+by Claimant’s observations on Respondent’s request, on 21 July 2010.
+
+On 2 November 2010, after having considered the views of the Parties, the Tribunal
+decided, to deal with the objections to jurisdiction as a preliminary question, and decided
+
+on Respondent’s request for production of documents.
+
+On 10 November 2010, the Centre informed the Tribunal and the Parties that
+Ms. Mercedes Cordido-Freytes de Kurowski, ICSID Legal Counsel, would replace Mr.
+
+Sergio Puig as Secretary of the Tribunal.
+
+On 22 December 2010, Respondent filed its Reply on Jurisdiction, and on 10 February
+
+2011, Claimant filed its Rejoinder on Jurisdiction.
+
+A hearing on Jurisdiction took place at the World Bank’s Conference Centre in Paris on
+4-5 March 2011. In addition to the Members of the Tribunal and the Secretary of the
+
+Tribunal, present at the hearing were:
+
+For Claimant
+
+Mr. Paul F. Doyle
+
+Mr. Philip D. Robben
+
+Ms. Mellisa E Byroade
+Ms. Julia A. Garza Benitez
+
+Kelley Drye & Warren LLP
+Kelley Drye & Warren LLP
+Kelley Drye & Warren LLP
+Kelley Drye & Warren LLP
+
+For Respondent
+
+Ms. Angelina Abbona
+
+Mr. Gabriel Bottini
+
+Ms. Romina de los Angeles Mercado
+Ms. Verénica Lavista
+
+Mr Matias Osvaldo Bietti
+
+Mr. Ariel Martins
+
+Mr. Julian Santiago Negro
+
+Procuradora del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+
+The following persons were examined during the hearing:
+
+21.
+
+22.
+
+23.
+
+24.
+
+On behalf of Claimant
+
+Mr. Martin Lommatzsch Witness
+Mr. Héctor A. Mairal Expert witness
+
+On behalf of Respondent
+
+Mr. Ismael Mata Expert witness (via video conference
+from Buenos Aires)
+
+On 24 October 2011, the Tribunal issued its Decision on Jurisdiction. Attached to the
+Decision was a dissenting opinion by arbitrator Mr. J. Christopher Thomas, Q.C. The
+Tribunal, by majority, rejected Respondent’s submission that the Centre had no
+jurisdiction and the Tribunal had no competence over this case; asserted that the Centre
+had jurisdiction and the Tribunal had competence over this case; and indicated that it
+would decide upon the question of costs and fees at a later stage, along with the merits of
+
+the dispute.
+
+On 30 December 2011, Respondent renewed its request of 25 June 2010 for the Tribunal
+to decide on production of documents, and filed a response to Claimant’s observations of
+21 July 2010. On 12 January 2012, Claimant submitted a response to Respondent’s
+observations of 30 December 2011. On 18 January 2012, the Tribunal decided on
+
+production of documents.
+
+On 31 January 2012, Respondent supplemented its renewed request of 30 December
+2011 for the Tribunal to decide on production of documents. This was followed by
+Claimant’s observations on 8 February 2011. On 10 February 2011, Respondent further
+supplemented its request for production of documents, and on 15 February 2012,
+Claimant submitted its observations on Respondent’s request. On 22 February 2012, the
+
+Tribunal decided on production of documents.
+
+Respondent’s Counter-Memorial on the Merits was filed on 7 March 2012, and Claimant
+
+submitted its Reply on the Merits on 5 June 2012.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+On 20 July 2012, Respondent filed a further request for the Tribunal to decide on
+production of documents. This was followed by Claimant’s observations on 27 July 2012,
+
+and the Tribunal’s decision on 31 July 2012.
+
+On 17 August 2012, Respondent submitted a further request for the Tribunal to decide on
+production of documents. This was followed by Claimant’s observations on 21 August
+2012, and by a further document production request from Respondent of 27 August 2012.
+On 30 August 2012, Claimant also submitted a request for the Tribunal to decide on
+production of documents. On 3 September 2012, Claimant submitted observations on
+
+Respondent’s further request of 27 August 2012.
+On 3 September 2012, Respondent submitted its Rejoinder on the Merits.
+
+On 4 September 2012, the Tribunal decided on Respondent’s requests for production of
+documents of 17 and 27 August 2012.
+
+Also on 4 September 2012, Respondent filed observations on Claimant’s document
+production request of 30 August 2012, and the Tribunal decided on Claimant’s request on
+
+7 September 2012.
+
+The Tribunal held a two-week hearing on the merits in Paris. The first week was held on
+19-23 September 2012 at the International Chamber of Commerce, and the second week
+
+was held on 22-26 October 2012 at the World Bank Paris Conference Center.
+
+In addition to the Members of the Tribunal and the Secretary of the Tribunal, present
+
+during the first week of the hearing were:
+
+For Claimant:
+
+Mr. Paul F. Doyle Kelley Drye & Warren LLP
+Mr. Philip D. Robben Kelley Drye & Warren LLP
+Ms. Mellisa E. Byroade Kelley Drye & Warren LLP
+Ms. Julia A. Garza Benitez Kelley Drye & Warren LLP
+Ms. Ana Correa Kelley Drye & Warren LLP
+Ms. Tanya Green Kelley Drye & Warren LLP
+Ms. Cynthia Inés Graf Caride Leonhardt, Dietl, Graf & Von Der
+Fecht
+
+32.
+
+33.
+
+Mr. Hartmut Paulsen Hochtief Aktiengesellschaft
+Mr. Georg von Bronk Hochtief Aktiengesellschaft
+Mr. Christoph Boeninger Hochtief Aktiengesellschaft
+
+For Respondent:
+
+Ms. Angelina Abbona Procuracion del Tesoro de la Nacién
+Mr. Gabriel Bottini Procuracion del Tesoro de la Nacién
+Mr. Javier Pargament Director, Procuracién del Tesoro de la
+Nacion
+Mr. Carlos Mihanovich Subdirector, Procuracion del Tesoro de la
+Nacion
+Mr. Horacio Seillant Procuracion del Tesoro de la Nacién
+Ms. Verénica Lavista Procuracion del Tesoro de la Nacién
+Mr. Julian Negro Procuracion del Tesoro de la Nacién
+Mr. Manuel Dominguez Delucchi Procuracion del Tesoro de la Nacién
+Mr. Leandro Fernandez Procuracion del Tesoro de la Nacién
+Mr. Luis Rivarola Procuracion del Tesoro de la Nacién
+Ms. Mariana Lozza Procuracion del Tesoro de la Nacién
+Ms. Magdalena Gasparini Procuracion del Tesoro de la Nacién
+Ms. Adriana Cusmano Procuracion del Tesoro de la Nacién
+
+The following persons were examined during the first week of the hearing:
+
+On behalf of Claimant:
+
+Mr. Martin Lommatzsch Witness
+Mr. Hartmut Veigele Witness
+Mr. Bjorn Kénig Witness
+Mr. Héctor A. Mairal Expert witness
+
+On behalf of Respondent:
+
+Mr. Eduardo Ratti Witness
+Mr. Alfredo Villaggi Witness
+Mr. Sergio Cipolla Witness
+Mr. Roberto Lamdany Witness
+Mr. Andrés Aner Witness
+
+In addition to the Members of the Tribunal and the Secretary of the Tribunal, present
+
+during the second week of the hearing that took place on 22-27 October 2012, were:
+
+For Claimant:
+
+Mr. Paul Doyle Kelley Drye & Warren LLP
+
+Mr. Philip Robben Kelley Drye & Warren LLP
+Ms. Melissa Byroade Kelley Drye & Warren LLP
+Ms. Ana Correa Kelley Drye & Warren LLP
+Mr. Levi Downing Kelley Drye & Warren LLP
+Ms. Tanya Green Kelley Drye & Warren LLP
+Ms. Cynthia Inés Graf Caride Leonhardt, Dietl, Graf & Von Der
+Fecht
+Mr. Hartmut Paulsen Hochtief Aktiengesellschaft
+Mr. Martin Lommatzsch Hochtief Aktiengesellschaft
+Mr. Christoph Boeninger Hochtief Aktiengesellschaft
+
+For Respondent:
+
+Procuradora del Tesoro de la Nacién
+SubProcurador, Procuracion del Tesoro de la
+Nacion
+
+Director, Procuracion del Tesoro de la Nacién
+Director, Procuracion del Tesoro de la Nacién
+Subdirector, Procuracion del Tesoro de la
+Nacion
+
+Procuracion del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+Procuracion del Tesoro de la Nacién
+
+Ms. Angelina Abbona
+Mr. Horacio Diez
+
+Mr. Gabriel Bottini
+Mr. Javier Pargament
+Mr. Carlos Mihanovich
+
+Mr. Horacio Seillant
+
+Ms. Magdalena Gasparini
+
+Mr. Luis Rivarola
+
+Mr. Agustin Tupac Cifré Puig
+Ms. Verénica Lavista
+
+Ms. Mariana Lozza
+
+Ms. Alejandra Mackluf
+
+Mr. Nicolas Grosse
+
+Ms. Adriana Cusmano
+
+Mr. Julian Negro
+
+Mr. Manuel Dominguez Delucchi
+
+The following persons were examined during the second week of the hearing:
+
+On behalf of Claimant:
+
+Dr. Manuel A Abdala
+Mr. Marcelo Schoeters
+Mr. Gustavo de Marco
+Mr. Federico Villar
+
+Mr. Philip Bates
+
+Dr. Sergio Berensztein
+Dr. Sebastian Edwards
+Dr. W. Michael Reisman
+
+Expert Witness
+Expert Witness
+Expert Witness
+Expert Witness
+Expert Witness
+Expert Witness
+Expert Witness
+Expert Witness
+
+On behalf of Respondent:
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+Mr. Martin Bes Witness
+
+Mr. Ismael Mata Expert Witness
+Mr. Benedict Kingsbury Expert Witness
+Mr. Barry Eichengreen Expert Witness
+Mr. Alberto Miiller Expert Witness
+Mr. Guido Sandleris Expert Witness
+Mr. Ernesto Schargrodsky Expert Witness
+Mr. Bernardo Kliksberg Expert Witness
+Mr. Lucas Bertinatto Expert Witness
+Ms. Camila Rodriguez Bedoya Expert Witness
+
+On 12 November 2012, the Tribunal issued a procedural order concerning production of
+
+documents and the procedural calendar.
+
+On 30 November 2012, Respondent filed a request for the Tribunal to decide on
+production of documents. This was followed by Claimant’s observations on 14 December
+2012. On 7 January 2013, the Tribunal decided on production of documents and issued
+directions to the Parties concerning additional expert opinions to be submitted by the
+
+Parties on certain corporate governance issues under Argentine Law.
+
+On 17 January 2013, Claimant submitted a request for the Tribunal to reconsider its
+decision of 7 January 2013, and on 29 January 2013, Respondent submitted observations
+
+on Claimant’s request of 17 January 2013.
+
+On 1 February 2013, each Party submitted additional expert opinions in accordance with
+the Tribunal’s directions of 7 January 2013. On 12 February 2013, Claimant ratified its
+request of 17 January 2013. On 19 February 2013, the Tribunal decided on production of
+documents, and ordered Claimant to produce the Puentes del Litoral S.A. (“PdL”)
+shareholders’ agreement. The Tribunal also decided on the procedural calendar and posed
+
+questions to the Parties.
+
+On 27 February 2013, Claimant produced the PdL’s Shareholders’ Agreement, which had
+previously been provided to the Tribunal on 22 February 2013.
+
+40.
+
+Al.
+
+42.
+
+43.
+
+44.
+
+4S.
+
+46.
+
+47.
+
+48.
+
+On 28 February 2013, the Tribunal invited each Party to submit simultaneous comments
+on the PdL Shareholders’ Agreement within 14 days, with replies to be submitted seven
+
+days after the comments.
+
+On 6 March 2013, Claimant submitted a request for the Tribunal to decide on
+confidentiality of documents. On 11 March 2013, the Tribunal issued a procedural order
+concerning confidentiality of documents, and invited each Party to comment upon and
+
+propose any amendment to the wording of that order by 18 March 2013.
+
+On 14 March 2013, Claimant submitted observations on the relevance of PdL’s
+Shareholders’ Agreement, and Respondent filed a request for the Tribunal to order
+Claimant to provide certain information, noting that it would submit its comments on
+
+PdL’s Shareholders’ Agreement in its Post-Hearing Brief.
+
+On 18 March 2013, each Party submitted observations as requested by the Tribunal in its
+Procedural Order of 11 March 2013.
+
+On 21 March 2013, the Parties replied to each other’s communications of 14 March 2013.
+
+On 28 March 2013, each Party submitted a Post-Hearing Brief.
+
+On 11 April 2013, Respondent filed a request for the exclusion of evidence. This was
+followed by Claimant’s observations on 23 April 2013. On 25 April 2013, the Tribunal
+
+decided not to grant Respondent’s request.
+
+On 29 April 2013, the Tribunal informed the Parties that it was ready to issue a
+confidentiality order, but thought it preferable that the Parties should agree upon one
+
+between themselves. The Parties were invited to state their views on this matter.
+
+On 6 May 2013, Claimant informed the Tribunal that the Parties had been unable to agree
+on a proposed order, and submitted its proposed procedural order. On 7 May 2013, the
+Tribunal invited the Parties to submit any final comments on Claimant’s proposed order
+by 10 May 2013. Also on 7 May 2013, Respondent submitted its proposed procedural
+order. On 10 May 2013, Claimant submitted its final comments on this matter. No further
+observations were received from Respondent.
+
+9
+
+49.
+
+50.
+
+51.
+
+Il.
+
+52.
+
+53.
+
+54.
+
+55.
+
+On 23 May 2013, the Tribunal issued a Procedural Order concerning confidentiality of
+
+documents.
+
+The Parties filed their submissions on costs on 30 September 2013.
+
+The Members of the Tribunal have deliberated by various means of communication and
+have taken into consideration the Parties’ entire submissions filed during this arbitration
+
+proceeding.
+
+FACTUAL BACKGROUND
+
+Preliminary Observations
+
+The facts summarized hereafter are those considered and debated in the Parties’ written
+
+pleadings and oral arguments.
+
+Argentina’s Privatization Program
+
+a) Background
+
+During the 1980s, Argentina experienced widespread economic instability and a number
+of economic crises, large foreign debt, and hyperinflation. A number of governmental
+
+regulations were in place that restrained or prohibited foreign investments in Argentina.'
+
+b) — The Convertibility Regime and overview of the legal framework
+
+Beginning in 1991, the Government of Argentina (“the Government”), enacted a variety
+of economic reforms to change its policy toward foreign investors, took steps to privatize
+
+many of its services, and created laws to encourage foreign investment.”
+
+Law 23,928, known as the “Convertibility Law”, became effective on 1 April 1991, and
+pegged the Argentine peso to the US dollar by providing that the Argentine peso was
+convertible by law at a rate of US$ 1:AR $ 1, and that the Argentine Central Bank was
+
+‘Cl. Mem. 65-66, Cl. Rep. { 36, Claimant’ s Post-Hearing Brief (“Cl. PHB”) { 19.
+2 Cl. Mem4 67, Cl. PHB 19.
+
+56.
+
+57.
+
+obliged to sell dollars at that rate of exchange. The Convertibility Law also provided that
+
+contracts could be denominated and legally enforced in Argentina in US dollars.*
+
+According to Claimant, Argentina promoted its reforms to potential foreign investors. It
+created an Undersecretariat of Investment as part of its Ministry of Economy and Public
+Works and Services to facilitate the entry of foreign investment, which prepared and
+distributed a publication in English entitled “Argentina, a Growing Country, A
+Compendium for Foreign Investors,” dated November 1993. Claimant further asserts that
+in this Compendium Argentina made several representations, amongst them, that the
+Convertibility Law, which was described in the Compendium as the “cornerstone of a
+very strict stabilization plan” had “virtually removed currency risk”,* and that, under
+Argentine law, “[c]ontracts can be denominated and legally enforced in foreign
+currencies.”* According to Hochtief, it relied upon the representations contained therein
+
+in making its decision to invest.*
+
+On 9 April 1991, Argentina and Germany signed the Treaty. It entered into force on 8
+November 1993. The Preamble of the Treaty provides that it is intended “to create
+favourable conditions for investments” and that it recognizes “that the encouragement
+and contractual protection of such investments are apt to stimulate private business
+initiative...”’ Claimant cites the Executive Letter, dated 9 January 1992, through which
+Argentina sought legislative approval of the Treaty, which stated that “under the said
+agreements, the States undertake to maintain unchanged during the life thereof some
+tules on treatment of investments, with which they hope to establish an atmosphere of
+
+stability and trust to attract investments”’.*
+
+3 Cl. Mem4 68, Cl. Rep. 37, Cl. PHB { 21. Convertibility Law, Art. 7 (Exh. CX-9).
++ Argentine Investment Compendium, at 8-9 (Exh. CX-20).
+
+> Ibid., at 8 (emphasis added). See also Argentine Investment Update, at 1 (“Contracts may also be denominated and
+enforced in foreign exchange.”)(Exh. CX-22).
+
+© Cl. Mem. 175.
+7 Cl, PHB 22. CLA 179, UNTS German — Argentine BIT.
+
+* Cl. Mem 90-93. Cl. PHB 4 22-23. Letter from Guido Di Tella, Leén C. Arslanién and Domingo F. Cavallo to
+the Honorable Congress of Argentina, 9 January 1992 (hereinafter the “Executive Letter”), at 2— 4 (Exh. CX-12).
+
+11
+
+58. According to Claimant, highly placed Argentine officials, including Presidents,
+represented to Hochtief and other prospective investors that the Convertibility Law was
+permanent, and had also highlighted the protections afforded to investors by the German-
+
+Argentine BIT.°
+
+59. On 21 May 1991, Argentina signed the ICSID Convention. The ICSID Convention
+
+entered into force in Argentina on 18 November 1994.'°
+
+60. In 1993, Argentina enacted a “Foreign Investment Act”.'' This law permitted foreign
+investors to repatriate capital and remit earnings abroad at any time, and to invest in
+Argentina without registration or prior governmental approval, on the same terms as
+investors domiciled in Argentina. Investors were free to invest in Argentina through
+
+merger, acquisition or joint venture. '*
+
+(C) The Project, the Bidding Process and the Concession Contract
+
+a) The Project and the Bidding Process
+
+61. Bidding for the Project opened on 15 July 1997. The object of the concession was to
+construct, maintain, and operate a 608-meter long, four lane, cable-stayed bridge, 12
+smaller bridges and embankments, and a toll road linking the cities of Rosario, in Santa
+Fe province, and Victoria, in Entre Rios province, through a crossing over the Parana
+
+river (the “Project”). This entailed the construction of 59.4 kilometers of roads. '°
+
+° Cl. Mem. { 78-86. Cl. PHB 20. Lommatzsch Stmt. {ff 13-20. Satil Carlos Menem, Ultima Oportunidad para la
+Grandeza, Actualidad Energética, Edicién Latinoamérica, 27 November 1990 (Exh. CX-7).
+
+© Cl, Mem 103. Cl. PHB 4 24.
+
+"Cl. Mem{ 73, Cl. PHB { 29. Ministry of Economy, Argentine Investment Update, Vol. 1, No. 1, at 8 — 9 (setting
+forth the Argentine Foreign Investment Act, as codified on 8 September 1993 by Executive Order 1852) (Exh. CX-
+22).
+
+2 Cl. Mem4{ 73, Cl. PHB {{ 29. Argentine Investment Update, 8 (Exh. CX-22).
+
+3 Cl, Mem{ 115, Cl. PHB 35. Lommatzsch Stmt. | 29; National Executive Order No. 650/97 (Exh. CX-28).
+Resp. C-Mem. 90.
+
+62. Argentina published the terms of the concession and solicited bids through the Pliego de
+Bases y Condiciones del Concurso y sus Circulares [Bidding Terms and Conditions, and
+
+Related Circular Letters] (the “Bidding Terms”).'*
+
+63. This was a subsidized concession, meaning that a substantial portion of the construction
+would be funded by State subsidies.'* The Concession would be awarded to the project
+
+requesting the smallest total subsidy.!°
+
+64. Hochtief formed a Consortium together with Impregilo S.p.A., Techint Compaiiia
+Técnica Internacional S.A.C. I., Benito Roggio e Hijos S.A., and Iglys S.A. to bid for the
+
+Project (together “the Consortium”)."”
+
+65. There were several bidding processes. Argentina noted that because there was a technical
+tie in the second call for bids, the bidders were invited to improve their offers, and that
+
+the best bid would be the one requesting the lowest subsidy. '*
+
+66. The Consortium was the Successful Bidder, as indicated in Resolution MEyOSP No.
+1039, dated 13 November 1997.'°
+
+b) — The Concession Contract
+
+67. The Concession Contract was signed on 28 January 1998”, and was ratified by Argentina
+
+by Decree No. 581/1998 of 14 May 1998.7!
+
+4 Cl, Rep. { 27. Bidding Terms (Exh. CX-31).
+
+'5 Cl. Mem 116. Resp. C-Mem. {91
+
+6 Resp. C-Mem. {91
+
+"7 Cl. Mem 119. Resp. C-Mem. {| 102.
+
+'8 Resp. C-Mem. { 106.
+
+© Cl. Mem{ 121. Resp. C-Mem. { 108. Resp. PHB{ 42. Resolution MEOySP No. 1039, 13 November 1997, Art. 2
+(Exh. RA 121).
+
+2 Resp. C-Mem. 108.
+
+2 Cl. Mem. 12. Cl. PHB 46. Ministry of Economy Resolution No. 581/98, 14 May 1998 (Exh, CX-35). Resp. C-
+Mem. { 110. Decree No. 581/1998 dated 14 May 1998, section | (Exh. RA 124). Concession Contract (Exh. RA
+12).
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+723.
+
+As required by Article 5 of the Concession Contract, the Consortium formed Puentes del
+Litoral S.A. (“PdL” or “the Concessionaire”), a local corporation with the sole purpose
+
+of performing under the Concession Contract, incorporated on 1 April 1998.”
+
+The current members of the Consortium are the sole current shareholders of PdL.
+Hochtief is the largest shareholder of PdL, holding 26% of its shares. Impregilo is the
+second largest shareholder, holding 22% of shares in PdL directly and 4% through Iglys
+S.A., which it wholly controls. It is followed by Benito Roggio e Hijos S.A. (20%),
+Sideco Americana S.A. (19%), Iecsa S.A. (1%) and Techint Cia Técnica Internacional
+
+S.A. (8%). Sideco and Iecsa were not part of the original Consortium.”
+
+On 17 June 1998, the Consortium members assigned all of their rights and obligations
+under the Concession Contract to PdL.?4 The legal consequences in the context of this
+
+claim of this assignment is a matter of dispute between the Parties.
+
+On 14 September 1998, the Concessionaire signed the Acta de Toma de Posesién, and
+
+took possession of the Project site.
+
+The term of the Concession would be 25 years as from Taking of Possession.** The
+Concessionaire was to build, operate and maintain the road and bridges, and the rights
+
+and responsibilities would be transferred to Argentina at the end of the Concession.”’
+
+Respondent notes that in order to obtain the promised financing from the Republic of
+
+Argentina the Concessionaire had to comply with two duties within 90 days from the
+
+Cl. Rep. { 28, Respondent’s PHB. {[ 43. Deed of Incorporation: Puentes del Litoral $.A., 1 April 1998 (Exh. RA
+
+122).
+
+23 Cl. Mem.{ 133. Lommatzsch Stmt. { 47.
+
+* Cl. Mem{ 131, Cl. Rep. 28, Cl. PHB {fj 42, 51. FLT, § 5.2 (Exh. CX-32). Acta Cesién, 17 June 1998
+(translation by counsel) (Exh. CX-36); see also Lommatzsch Stmt., {ff 45, 46. Resp. C-Mem. §{ 111; Resp. PHB J,
+43. Rights and Duties Transfer Deed: —Impregilo S.p.A.| and others to —Puentes del Litoral $.A., dated 17 June
+1998 (Exh. RA 126). Decision on Jurisdiction { 117.
+
+25 Cl. Mem. ¥ 145, Lommatzsch Stmt., | 56, Resp. C-Mem. {j 113, Resp. PHB {{ 44. Certificate of 14 September
+1998 (Exh. RA 131).
+
+26 Resp. C-M { 129. Concession Contract, section 4 (the date of taking of possession was 14 September 1998
+(Record dated 14 September 1998, Record of Taking of Possession) (Exh. RA 131).
+
+27 Cl. Mem { 125. Cl. PHB 4 47
+
+74.
+
+75.
+
+execution of the Contract by Argentina: (i) the filing of Firm and Irrevocable Financing
+Agreements (“AFFIs” or “FIFAs”) to evidence the availability to the Concessionaire of
+the funds required to comply with its duties under the Concession Contract; and (ii) the
+filing of a stand-by letter of credit issued by a banking institution to secure that the
+amount indicated in sections 8.2 and 22.1.b of the Concession Contract (i.e., the
+difference between the projected total construction costs and the subsidy requested from
+the State, plus 20%) would be immediately transferred to the Government of Argentina
+on the demand so that the Government might, either directly or through third parties,
+
+complete the works.”
+
+On 30 October 1998, the shareholders of PdL posted a standby letter of credit dated 15
+October 1998 (the “Letter of Credit’) in favour of Argentina in the amount of US $143.1
+million (ARS 143,102,193) to guarantee PdL’s performance and financing for the
+Project. Hochtief’s share amounted to 26% or US $37 million (ARS 37,206,570).”
+
+Once construction was completed, the Concessionaire would be entitled to collect toll
+revenue, which would be the sole source of revenue for the Concessionaire under the
+Concession*. The basic toll rate would be equal to the peso equivalent of US$ 7.40 for a
+2-axle vehicle*'. For other vehicles, the toll would be calculated as a multiple of this
+rate.” The toll was to be denominated in US dollars and adjusted periodically for
+inflation pursuant to the US Consumer Price Index.** In accordance with Law No. 23,696,
+which amended Law No. 17,520, the toll amount “was required to comply with two
+restrictions: (i) not to exceed the average economic value of the service rendered; and (ii)
+profitability was not to exceed a reasonable relation between the investments actually made
+
+9934
+
+by the concessionaire and the net profits obtained through the concession.
+
+28 Resp. C-Mem. 141.
+
+2° Cl. Mem. { 144, Cl. Rep. 1 50. Cl. PHB 455. Resp. C-Mem. { 146.
+3 Cl. Mem. { 125, Cl. PHB 39.
+
+351 CL. Rep. 31.
+
+2 Cl. Mem. {ff 126-127, Cl. PHB {ff 47-48.
+
+3 Cl. Mem. { 127, Cl. PHB {{f 47-48.
+
+4 Resp. CM 122.
+
+76.
+
+77.
+
+78.
+
+79.
+
+The estimated volume of traffic was not guaranteed by Argentina. In accordance with
+Decree 650/97, “there will be no guaranteed minimum revenues or traffic volume. The
+concession will be for all purposes a risk contract, except for the subsidy to be granted to
+
+0935
+
+the Concessionaire.
+
+The toll rate was calculated in US dollars, to be collected from users paying in Argentine
+pesos, and would be adjusted monthly based on the average buyer-seller exchange rate
+between dollars and pesos of the Banco de la Nacién Argentina. Claimant expected that
+
+the exchange rate would generally be US $1 to AR $1.
+
+c) Capital Contributions and Project Funding
+
+Under the terms of the Concession Contract, the funding of the Project was to come from
+three sources: (a) Argentina was to provide a subsidy (the “Subsidy”), which was the
+initial source of funding for the construction, to be paid in monthly tranches.*’ According
+to Respondent, the amount of the Subsidy accounted for more than 60% of the Project;**
+(b) PdL was to provide US$ 30 million of its own capital (shareholders’ equity); and (c)
+the balance was to come from funds borrowed by PdL.* According to the Claimant, after
+several revisions, the final funding plan provided for approximately US $234 million” of
+Subsidy, approximately US $59 million of equity, and a loan from the Inter-American
+
+Development Bank (the “IDB”) in the amount of approximately US $74 million.*!
+
+The Concession Contract also contemplated that the first funds to finance the Project
+
+would be those provided by Argentina through the Subsidy, and that once the Subsidy
+
+35 Cl. PHB  53.Resp. C-M. 125. Decree No. 855/95 issued by the Argentine Executive, section 3, as amended by
+Decree No. 650/97 (Exh. RA 97); Villagi Stmt. 16.
+
+36 Cl. Mem. { 127, Cl. PHB 148.
+
+57 Resp. PHB 4 58. Final Technical Document, Sec. 36.2 (Exh. CX-33).
+38 Resp. PHB 158.
+
+Cl. Mem. {if 137-138, Cl. PHB {ff 52-54.
+
+“0. Cl. Mem 137.
+
++! Jbid., 137. CL. Rep. 1 55. Cl. PHB {ff 52, 54.
+
+80.
+
+81.
+
+82.
+
+was depleted, Concessionaire should continue the Project with its own funds (including
+
+third-party loans).**
+
+According to Claimant, Hochtief made capital contributions to PdL, consistent with the
+requirements of the Concession Contract, of US $594,930 in May 1998 and US
+$1,355,070 in August 1998, for a total of US$ 1,950,000, or 26% of the US $ 7.5 million
+capital that PdL was required to have in place upon the start of the Project.*? Hochtief
+made further contributions to PdL of US $1,638,000 in March 2000 and US $4,212,000
+in July 2000, amounting to a total of US$ 5,850,000, or 26% of the remaining balance of
+US $22,500,000 in capital that PdL was required to raise. The other shareholders made
+similar equity contributions in proportion to their shareholdings. Also, in addition to the
+initial contribution of US $30 million made by the PdL shareholders, in January 2001
+PdL’s shareholders made an additional equity investment of US $13.65 million.
+Hochtief’s 26% share of this additional equity was US $3.549 million.
+
+On 31 July 2000, PdL entered into a loan agreement with the Inter-American
+Development Bank (the “IDB”) in the amount of US $73,751,000 (the “IDB loan”).**
+However, disbursements were never made under this agreement. The reasons for that are
+
+disputed between the Parties.
+
+According to Claimant, during the entire construction phase of the Project, Argentina was
+in default of its legal and contractual obligation to pay the Subsidy“ in a timely manner,
+and those delays impacted the financing of the Project.*’ Claimant asserts that under the
+Concession Contract, PdL was to access third-party funding for the Project only after the
+
+Subsidy was paid, and that a condition precedent to the first disbursement of the IDB
+
+2.Cl. Mem. {{ 138. FTD at 36.2 (Exh. CX-33).
+3.Cl. Mem. { 135. Lommatzsch Stmt. 450.
+
+Cl. Mem. {if 135-136, Cl. Rep. 1 34, Cl. PHB 4 50.
+
+45. Cl. Mem. {{ 142. CL. Rep. 58. IDB Loan Agreement (Exh. CX-46).
+461. Mem. 9 150, Cl. PHB 159.
+
+“7 Cl. PHB 59.
+
+83.
+
+84.
+
+85.
+
+86.
+
+loan, scheduled for 1 March 2001, was that Argentina had paid no less than 90% of the
+Subsidy.**
+
+Respondent, on the other hand, asserts that because the Concessionaire had failed to show
+the AFFIs, as an assurance that the Project would be carried out“, the Respondent
+temporarily suspended® the payment of the Subsidies until the AFFIs were presented.*!
+Respondent further asserts that Argentina resumed payment of the Subsidy in September
+
+2000. The Parties dispute whether or not the IDB loan constitutes an AFFI.
+
+According to Claimant, another of the conditions precedent to the disbursement of the
+IDB loan in March 2001 was the injection into PdL as equity of 40% of any loan
+disbursement until the total paid-in capital amounted to US$ 59,039,000.** Claimant
+asserts that because Argentina had failed to pay the Subsidy in a timely manner, PdL’s
+shareholders, including Hochtief, were forced to inject equity into PdL in January 2001,
+
+two months before it was scheduled.
+
+With regard to the IDB agreement, Respondent notes that it had been negotiated since
+May 1998 for a higher amount, but that it had been reduced twice because, among other
+factors, the IDB considered the Project “extremely risky” and a capital increase of PdL,
+
+that was required, never took place. *
+
+On 20 October 2000, PdL and Argentina entered into an agreement, titled Acta Acuerdo,
+(the “October 20 Agreement”). This Agreement provided renegotiated deadlines for
+
+payment of the Subsidy, with the last payment due on 28 February 2001. According to
+
+“8 Cl. Mem. ff 152-153. Cl. Rep. 159. Cl. PHB 4 61.
++ Resp. PHB 458. Final Technical Document, Sec. 22.1.b (Exh. CX-33).
+
+50 Resp. PHB {{ 59, fn 77. Letter Secretariat of Public Works (SOP) 1020, 1 September 2000 (Exh. RA 149). Letter
+SOP 723/2000, 4 July 2000, p. 2 (Exh. RA 148).
+
+51 Resp. C-M [ 160. Respondent’s PHB 41 59.
+
+52 Resp. C-M [ 162. Letter SOP No. 1020/2000 dated 1 September 2000 (Exh. RA 149).
+53. Cl. Mem. { 154.
+
+ Thid., 4 154.
+
+55 Resp. PHB { 62-64. Memorandum from PdL to the Secretariat of Public Works, 13 April 1999, p. 1 (Exh. RA
+139). Letter from IDB to PdL, 17 October 2001 (Exh. RA 286). Shareholders’ Agreement, 11 April 2002 (Exh. RA
+502). Letter from PdL to the Chief of the Cabinet of Ministers, 25 July 2001, p. 2 (Exh. RA 162).
+
+18
+
+the Claimant, compliance with this agreement would have permitted the first
+
+disbursement of the IDB loan scheduled for 1 March 2001.*
+
+87. By letter of 26 February 2001, PdL asked the IDB for a six-month extension of the
+
+deadline*’. Respondent’s witness asserted that the IDB did not deny the extension.*
+
+88. By letter of 14 May 2001, PdL notified the IDB than over 90% of the Subsidy had
+
+already been paid*®.
+
+89. On 27 August 2001, shortly before the six-month extension was to expire, PdL made a
+
+disbursement request to the IDB.©
+
+90. By letter of 28 February 2002, the IDB informed PdL that there were various issues that
+
+prevented the disbursement.
+
+91. According to Respondent, the disbursements under the IDB loan were never made
+because there were many major conditions set forth in the IDB Agreement— which had
+nothing to do with the Subsidy- that remained unfulfilled until at least February 2002.
+Respondent further asserts that PdL’s impossibility of obtaining financing to complete
+
+the Project was prior to the economic emergency declared in January 2002.%
+
+92. According to Respondent, the Project was essentially financed with funds provided by
+Argentina (the Subsidy), noting that the Argentine State also provided financial aid in
+
+order to finish the work.“
+
+56 Cl. Mem. 156. Cl. Rep. ff 52-53. Cl. PHB {{ 62. Acta Acuerdo, 20 October 2000, Agreement between PdL and
+Argentina resolving financial disputes (Exh. CX-137).
+
+57 Cl. PHB {[ 63. Letter from PdL to the Inter-American Development Bank, 26 February 2001 (Exh. CX-166);
+Transcript Vol. 2, 454:3 — 455:10 (translated on the record).
+
+58 Ty, Hear. Merits, day 11, 2700:21-2701:3(Bes) (Spanish version).
+
+5 Resp. Rej. 95. Letter from PdL to the IDB, 14 May 2001 (Exh. RA 279). Resp. PHB. 4 68.
+
+© Resp. PHB {{ 67.
+
+°! Resp. PHB. 72. Letter from IDB to PdL, 28 February 2002 (Exh. CX-70).
+
+© Resp. PHB {{ 66. Tr. Hear. Merits, day 11, 2734:4-2737:11 (Bes) (Spanish version). Letter from PdL to the IDB,
+25 October 2001 (Exh. RA 287).
+
+© Resp. C-M [ 180. Aner Stmt. 4 6.
+
+© Resp. PHB. 1 8. Resp. C-M {132-136 and 179-191 and Resp. Rej. 53-61, 113-118 and 122-145.
+
+ 
+
+19
+
+93.
+
+94.
+
+(D)
+
+The Argentine Crisis
+
+The Respondent argues that since mid-1998, Argentina underwent a recession period and
+decrease of its domestic product that triggered an economic, financial, institutional,
+political and social crisis, which reached its peak in December 2001.% Respondent asserts
+that the crisis also had an impact on the provinces of Santa Fe and Entre Rios.“The
+impact, duration and legal significance of that recession period is a matter of dispute
+
+between the Parties.
+
+The Tribunal heard evidence from Dr. Bernardo Kliksberg, Professor Barry Eichengreen,
+Dr. Sebastian Edwards, as well as from the witnesses Ratti, Cipolla, Lamdany and
+Llorens, on various aspects of these issues. Dr. Kliksberg referred to the origins and
+social consequences of the crisis, how the crisis evolved, and the possible scenarios that
+could have unfolded if the measures subject matter of these proceeding had not been
+taken®’. Professor Eichengreen expressed that the crisis was the result of a series of
+external factors that were difficult to predict.* Professor Nouriel Roubini, who was not
+cross-examined during the hearing, had referred in his report to the external shocks
+affecting the Argentine Republic since 1998, which caused exchange parity to become
+increasingly difficult to sustain. Dr. Edwards expressed his disagreement with Prof.
+Eichengreen and Prof. Roubini with respect to the impact of external shocks, and asserted
+that the analysis that both have provided “is incomplete and thus incorrect.” According
+to Dr. Edwards, “there [were] a number of ways of dealing with [the crisis], .that did not
+require pesification””. Dr. Edwards asserts that “Argentina contributed significantly to
+
+the crisis by these mistakes of omission [...]””'.
+
+© Cl. Mem. ff 16-73. See in general Tr. Merits, Day 10, 2193:15-2235:3 (English version).
+
+© Resp. C-M. 1 74-85.
+
+© Resp. Rej. | 295. Kliksberg Report, 6 March 2012, and Supplementary Report, 3 September 2012.
+
+© Ty. Merits, Day 9, 2067:16-2070:09 (English version). In general, Eichengreen Report, 3 September 2012.
+Tr. Merits, Day 6, 1280:4-6 (English version).
+
+% Tr. Merits, Day 6, 1284:7-8 (Lamdany) (English version).
+
+7 Tr. Merits, Day 6, 1279:19-20 (English version).
+
+20
+
+95.
+
+96.
+
+97.
+
+98.
+
+99.
+
+(E)
+
+The Law 25.561 and its effects
+
+ 
+
+On 6 January 2002, Argentina passed Law 25,561, the Public Emergency and Foreign
+
+Exchange System Reform Law (“the Emergency Law” or “Law 25,561”).”
+The Emergency Law abrogated several provisions of the Convertibility Law.”
+
+Respondent asserts that Argentina had to adopt certain measures in order to attempt to
+
+remedy the worst economic, social and institutional crisis in the history of the country.”
+
+The Emergency Law a) set forth the conversion into Argentine pesos of all obligations
+expressed in foreign currency that were connected with the financial system; b) abrogated
+adjustment clauses in US dollars or other foreign currencies and indexation clauses based
+on price indexes of other countries, as well as any other indexation mechanism provided
+for in the contracts entered into by the Government under public law; c) with regard to
+contracts between private persons not related to the financial system, it provided that
+—all considerations [would] be paid in Argentine pesos at an exchange rate of ONE
+ARGENTINE PESO (ARS 1) = ONE US DOLLAR (USD 1), as payment for the amount
+to be ultimately agreed upon by the parties, or such amount as might be determined
+through court proceedings if the parties failed to reach an agreement. The Emergency
+Law additionally provided for the renegotiation of both private and public contracts in
+
+order to adapt them to the new foreign exchange system.”°
+
+Days later, by Decree No. 214/02, Argentina additionally ordered the conversion into
+Argentine pesos of —all the obligations to pay a sum of money, whatever their cause or
+origin —whether arising from court proceedings or otherwise— expressed in US dollars or
+other foreign currencies, existing when the Emergency Law was enacted and which have
+
+not yet been converted into Argentine pesos.”
+
+2 Cl. Mem. if 27, 185. Law 25,561, 6 January 2002 (“Emergency Law”) (Exh. CX-63).
+7 Cl. Mem. {ff 28, 189. Cl. Rep. { 43. Resp. C-Mem. 425.
+
+4 Resp. C-Mem. 1.
+
+5 Tbid., | 28. Cl. Mem. { 189, 191. Emergency Law, at 3-4 (Exh. CX-63).
+
+% Resp. C-Mem. § 29. Decree No. 214/02, 3 February 2002 (Exh. RA 194).
+
+21
+
+100.
+
+101.
+
+102.
+
+103.
+
+104.
+
+As a result, PdL’s contractual rights to set the basic toll rate in US dollars for its 25-year
+Concession and to have the rate adjusted for inflation pursuant to the U.S. Consumer
+
+Price Index, were eliminated.”
+
+According to the Claimant, because of the impact of the Emergency Law on the toll
+revenues under the Concession Contract, the Project was no longer viable and IDB
+refused to continue to negotiate the loan. By letter of 28 February 2002, the IDB
+
+informed PdL of its decision to cease discussion concerning the loan.”*
+
+(F) Suspension of Constructions, Project Delay and Additional Capital Infusions by
+Hochtief (“inter-company loans") (2002), Argentina Provides Financing (February 2003
+
+Loan)
+
+According to Claimant, at the time the Emergency Law was enacted, the Project was
+approximately 93% complete, but the bridge could not be left incomplete and the work
+suspended until the structure was complete, because it could collapse. Hochtief and
+Impregilo had therefore to inject additional funds, into PdL by means of inter-company
+loans. Hochtief’s one-half share of these loans was US$ 5.4 million in 2002. The bridge
+
+span was closed on 5 February 2002.”
+
+On 18 January 2002, PdL requested that in light of the impact of the Emergency Law on
+the Project, Argentina provide PdL with an advance on compensation. Since there was no
+response from Argentina, in early March 2002, PdL’s Board decided to suspend
+
+construction on the Project.**
+
+On 22 March 2002, PdL again sought assistance from Argentina in financing the Project
+because, according to Claimant, the Emergency Law had made the Project unviable and
+
+eliminated PdL’s ability to obtain third-party financing.*'
+
+7 Cl. Mem. ¥ 192, 202.
+78 Cl. Mem. { 204. Lommatzsch Stmt. | 88, n. 4; 28 February 2002 letter IDB (Exh. CX-70).
+7 Cl. Mem. {ff 205-207.
+
+80 Thy
+81 Thy
+
+id., 209-211.
+id., | 214. Lommatzsch Stmt. | 100; PdL’s 22 March 2002 letter (Exh. CX-72).
+
+22
+
+105. On 22 October 2002, the Argentine Republic and the Provinces of Santa Fe and Entre
+Rios entered into an Agreement as an effort to complete the Project. It was agreed that
+
+the Argentine Ministry of Economy was to provide the funds required to such effect.*
+
+106. By letter No. 962/2002, dated 26 November 2002, the Secretariat of Public Works
+pledged to provide PdL with assistance in funding for the completion of the Project, in
+the form of an advance against future compensation due to PdL because of the
+
+pesification of the US dollar toll provided for in the Contract.*
+
+107. The text of the Financial Aid Agreement was approved by Decree No. 172 dated 3
+February 2003, in the amount of AR $51,648,352, granted by the Road Infrastructure
+Fund.* Claimant asserts that this was just enough to complete construction and open the
+Project to traffic.** According to Claimant, PdL was advised that if it did not agree to the
+terms of the “Financial Aid” Loan, Argentina would declare PdL to be in default, cancel
+
+the Concession resulting in a drawdown of the Letter of Credit in place.*°
+
+108. On 21 February 2003, the Argentine Ministry of Economy and PdL signed the “Financial
+Aid” Loan (the “February 21 Agreement” or “Financial Aid Agreement”). Under Section
+3 of the February 21 Agreement, PdL agreed to secure repayment of the amount of the
+financial aid, by assigning its toll collection rights to the Fondo Fiduciario de
+Infraestructura Vial, from the date of commercial operation until the entire amount has
+been repaid, including financial expenses, net of the Concession’s operation and
+maintenance expenses.*’ Respondent notes that the assignment of the toll collection rights
+
+was contemplated by section 33 of the Concession Contract.** Respondent asserts that the
+
+82 Resp. C-M { 182. Agreement executed by and between the Argentine State and the Provinces of Entre Rios and
+Santa Fe, 22 October 2002 (Exh. RA 213).
+
+3 Cl. Mem. { 218. Secretariat of Public Works’ 26 November 2002 letter (Exh. CX-76).
+
+* Resp, CM { 185.
+
+85 Cl. Mem. { 219. Lommatzsch Stmt. | 109; PdL’s 21 February 2003 letter (Exh. CX-78).
+
+8 Cl. Mem. 220. Lommatzsch Stmt. 4] 112-114.
+
+*7 Cl. Mem. { 222. Lommatzsch Stmt. | 115. Resp. C-M. J 186. Financial Aid Agreement, section 3 (Exh. CX-78).
+88 Resp. C-M. 186. Concession Contract, section 33 (Exh. RA 12).
+
+23
+
+109.
+
+110.
+
+111.
+
+112.
+
+Argentine Government made a significant effort to finance the completion of the Project,
+
+even if the Concessionaire was exclusively responsible for such financial resources.*®
+
+PdL received the initial tranche of funds under the February 21 Agreement on 28
+February 2003, and resumed work to complete the Project.*° The Project was opened to
+
+traffic on 23 May 2003.”
+
+Claimant asserts that Argentina had only paid PdL AR $39.6 million from the agreed AR
+$52 million loan, when Argentina abruptly stopped disbursements under the February 21
+Agreement. According to Argentina, it stopped payment because a subcontractor, who
+had worked on the Project, made a claim against PdL for unpaid work, to which PdL
+replied that it had been unable to pay the subcontractor because of the loss of the third
+
+party funding resulting from Argentina’s failure to timely pay the Subsidy.”
+
+Claimant claims that because Argentina failed to make all required payments under the
+February 21 Agreement in a timely fashion, Hochtief and Impregilo were forced to make
+further inter-company loans to PdL to complete the Project, not called for in the Contract.
+
+Hochtief’s share of the contribution made in 2003 was of US$ 4,172,565.”
+
+In early July 2003, PdL received Public Works Resolution 14 dated 30 June 2003, from
+the Secretariat of Public Works (“Resolution 14”), that changed the terms of the February
+21 Agreement. It modified the applicable interest rate; interest was to be compounded on
+a daily basis; maintenance and operation expenses were pesified and would be deemed
+equal to the pesified amount of the projected costs in 1997; collections under the loan
+would be made on a daily basis; amounts that PdL could not pay would be added to the
+
+principal amount of the loan on a daily basis. According to Claimant, after one year of
+
+* Resp. CM. { 190.
+°0 Cl. Mem. {{ 223. Lommatzsch Stmt. | 116
+
+° Cl. Mem. J
+* Cl. Mem. ¥
+
+224
+
+I
+I
+[ 225. Lommatzsch Stmt. 119
+I
+
+°3 Cl. Mem. {{ 226. Lommatzsch Stmt. [120
+
+24
+
+daily payments, and daily compounding and capitalization of interest, the principal
+
+balance of the loan grew to over AR $41 million.
+
+113. On 26 August 2003, PdL formally appealed Resolution 14, and requested that operation
+of Resolution 14 be stayed pending resolution of the appeal. According to Claimant, as of
+PdL’s insolvency proceeding in April 2007, PdL was forced to comply with Resolution
+
+14 since neither the appeal nor the stay were acted upon by the Public Administration.*
+
+(G) Further Capital infusions by Hochtief (2004-2005) and Total Loans and Capital
+Infusions
+
+114. According to Claimant, because of the shortfall resulting from the daily collection of loan
+interest, and the reduced allowance for maintenance and operating expenses, PdL had not
+had funds to maintain the Project or pay daily expenses. As a result, Hochtief and
+Impregilo had to make further inter-company loans throughout 2004 and 2005 to fund
+
+part of those expenses.”
+
+115. Claimant asserts that the total of Hochtief’s equity contributions, inter-company loans
+
+and accrued interest on those loans up to 31 December 2009 was US $117.8 million.”
+
+(H) Renegotiations and PdL’s Insolvency Proceedings (Concurso Preventivo
+
+116. Section 9 of the Emergency Law and its related decree ordered the renegotiation of all
+public works contracts in order to mitigate the detrimental effects of the currency
+devaluation and mandated that contracts be renegotiated within 120 days of 1 March
+2001. The Argentine Congress has subsequently ratified and amended the general
+
+stipulations of Law 25,561°.
+
+°% Cl. Mem. §f 227-230. Lommatzsch Stmt. {ff 122-124. Resolution 14 of 30 June 2003 (Exh. CX-79).
+°5 Cl. Mem. {{ 231. Lommatzsch Stmt. {f 125-127.
+
+°6 Cl. Mem. { 232. Cl. Rep. | 71. Lommatzsch Stmt. {| 128.
+
+°” Cl. Mem. 234. LECG Report, 1 6, 37, 62, 83; Tables V and IX.
+
+°8 Law 25.561, at § 9 (Exh. CX-63).
+
+25
+
+117. By Decree No. 311/03 the Unidad de Renegociacion y Andlisis de Contratos de Servicios
+Piiblicos (“UNIREN”) was created.*? UNIREN is the agency charged with coordinating
+the renegotiation proceedings provided for by Article 9 of the Emergency Law, Law
+
+25,561.
+
+118. On 16 May 2006, UNIREN and PdL subscribed the first Letter of Understanding (Carta
+de Entendimiento) (“the May 2006 CdE” or “First Letter of Understanding”).' Claimant
+notes that Argentina’s approval under the May 2006 CdE was conditioned on a public
+hearing and other procedures!"', which Argentina never attempted to hold.'° Respondent
+asserts that the public hearing requirement was in compliance with the regulations
+ordering the renegotiation process'. Respondent notes that the May 2006 CdE modified
+the conditions for reimbursement of the February 21 Financial Aid Agreement,'™ and
+asserts that the validity of the May 2006 CdE was subject to the payment of PdL’s debt to
+
+the subcontractor.'°
+
+119. A second Carta de Entendimiento was sent by UNIREN on 12 February 2007 (“the
+February 2007 CdE” or “Second Letter of Understanding”). This revised letter also
+required, as a precondition to the renegotiations, for PdL to waive the rights against
+Argentina of two-thirds of its shareholders under international investment law, including
+the BIT, and for PdL to indemnify Argentina for any such claims brought against
+Argentina by PdL shareholders. According to Claimant, although the February 2007 CdE
+
+was less favorable, and PdL had indicated that it could accept Argentina’s proposal,
+
+%® Resp. C-M. | 195. Decree No. 311/03 issued by the Argentine Executive (Exh. RA 222).
+
+0 C], Mem. 242. May 2006 CdE (Exh. CX-94). Resp. C-M. { 200. Lamdany Stmt. ff 45-47. Respondent’s PHB
+143. Resp. Rej. 152.
+
+101 Resp. Rej 149.
+
+102 Cl. Mem. {242
+
+103 Resp. Rej. {| 149. Section 9.b of Presidential Decree No. 311/2003 provides: —The execution of [integral or
+partial contract renegotiation] agreements must be preceded by a public hearing which helps users become involved
+in the decision-making process, in the form of the Unit of Renegotiation and Analysis of Public Service Contracts,
+to determine the procedures and mechanisms fit to implement such public hearing. (Exh. RA 222).
+
+104 Resp. C-M. {{ 202. Letter of Understanding of 16 May 2006, Nos. five and six (Exh. CX-94). Lamdany Stmt. {9
+48-49,
+
+105 Resp. PHB § 143.
+
+196 Cl, Mem. 4 244. Cl. Rep. {| 85. February 2007 CdE (Exh. CX-100). Resp. C-M. 204.
+
+26
+
+120.
+
+121.
+
+122.
+
+Argentina nevertheless failed to implement the plan.'’ Respondent confirmed that the
+February 2007 CdE was executed on 27 February 2007,'* stating that it was more
+
+advantageous to the Concessionaire than the previous one.'°°
+
+On 24 April 2007, PdL received notice that one of its subcontractors, the joint venture of
+Boskalis-Ballast Nedam Baggeren, had initiated bankruptcy proceedings against PdL as a
+
+result of an unpaid arbitral award.'°
+
+On 2 May 2007, PdL initiated insolvency proceedings, as previously approved on 26
+April 2007 by its board of directors''', to avoid the liquidation of PdL and the loss of the
+Concession.'!? The Court granted PdL’s insolvency petition on 22 May 2007, which was
+ratified by PdL’s shareholders on 24 May 2007. Claimant notes that the viability of the
+insolvency payment scheme would depend on the Government’s renegotiation of the
+
+Concession Contract.!4
+
+By letter of 10 May 2007, UNIREN notified PdL that the February 2007 CdE was no
+longer effective, in view of the petition that had been filed by PdL to commence an
+
+insolvency proceeding. ''5
+
+(DD Ballast Nedam
+
+123. Ballast Nedam Baggeren B.V. together with Boskalis International B.V. (“Boskalis”)
+formed a joint venture (the “Joint Venture’’) that entered into a dredging subcontract with
+107 Cl. Mem. 244.
+
+108 Resp, C-M. 4 204. Resp. PHB {{ 144. Letter of Understanding of 27 February 2007 (Exh. CX-100).
+109 Resp. PHB 144.
+
+410 Cl, Mem. 251. Cl. PHB 96.
+
+41 Resp, PHB { 147. Exh. RA 320.
+
+112
+
+Cl. Mem. § 251. Lommatzsch Stmt. {f 159-161. Cl. PHB { 96. Concession Contract, section 30.1 (Exh. RA 12).
+
+13 Cl, Mem. ¥ 251.
+
+“4 Cl, PHB 97.
+
+45 Resp, C-M. {if 205-206. Resp. Rej. {| 163. Resp. PHB 4 147. Letter from UNIREN No. 262/07 of 10 May 2007
+(Exh. RA 232).
+
+27
+
+PdL dated 18 December 1998''’. Respondent notes that the Joint Venture was PdL’s main
+subcontractor in the Project, and that it played a prominent role at critical moments of the
+
+Concession Contract'”’.
+
+124. Boskalis and Ballast Nedam Baggerem commenced an ICC arbitration on 15 January
+2002 on account of PdL’s inability to pay the Joint Venture for dredging services,''* and a
+
+bankruptcy action against PdL in December 2005 due to the ICC award going unpaid.'"”
+
+125. Hochtief confirmed that it “did at one point hold a non-controlling, minority interest in
+Ballast Nedam N.V., the parent company of Ballast Nedam Baggeren”. The
+consequences thereof, if any, in respect of the issue of causation of PdL’s claimed losses
+
+is a matter of dispute between the Parties.
+
+126. According to Claimant, it was not involved in the ownership or management of Ballast
+Nedam Baggeren when the Joint Venture commenced ICC arbitration. Hochtief asserts
+that in November of 2001, Ballast Nedam Baggeren merged with a subsidiary of
+Hollandsche Beton Groep N.V. (“HBG”), to form a new company, Ballast HAM
+Dredging (“BHD”). Claimant further asserts that Ballast Nedam sold its interest in BHD
+in late 2002'”, and that Hochtief had no interest in Ballast Nedam after 2004.'*! Claimant
+concludes that Hochtief’s one-time ownership in Ballast Nedam has no relevance to any
+
+claim or defense in this proceeding. '
+
+116 Cl, PHB. {{ 303. Contrato de Locacién de Obra, 18 December 1998 (Contract for Works between Puentes del
+Litoral and the Joint Venture Boskalis — Ballast Nedam) (Exh. RA 497). Contrato de Uni6n Transitoria de
+Empresas, 10 June 1998 (Joint Venture Agreement between Boskalis International by Sucursal Argentina and
+Ballast Nedam Baggeren by Sucursal Argentina) (Exh. RA 494).
+
+117 Resp. PHB § 100.
+
+118 Cl. PHB qf 303, 305.
+
+119 Thid., J 306.
+
+120 Tbid., J 305. Ballast Nedam Annual Report, 2002, at 4, 15, 17, 20, 31 — 32 (Exh. RA 495.5); Ballast Nedam
+Annual Report, 2003, at 43, 66 (Exh. RA 495.6).
+
+21 Cl. PHB 4 305-306. HT_01156, Hochtief Annual Report (2004), at 59. According to Claimant, this sale, and the
+retirement from the Ballast Nedam board of two individuals appointed by Hochtief, is also reported in Ballast
+Nedam’s annual report for 2004 (Exh. RA 495.7 at 5, 12).
+
+122 C]. PHB ¥ 307.
+
+ 
+
+28
+
+127.
+
+128.
+
+129.
+
+130.
+
+131.
+
+Respondent notes that it only learnt about Hochtief’s participation in Ballast Nedam
+during the examination of a witness on the fifth day of the hearing on the merits, and
+accuses Claimant of having concealed such relationship, as well as of depriving the
+Tribunal and Respondent of the possibility of analysing any evidence in relation to
+
+Hochtief’s participation in the decision-making process of Ballast Nedam.'3
+
+According to Respondent, Claimant failed to meet certain obligations concerning
+transparency and conflicting interests during the selection processes conducted by the
+
+Concessionaire.'!*
+
+Respondent notes that PdL contracted the debt with the Joint Venture, at the beginning of
+the Concession, while Hochtief was still a shareholder of both companies, and that such
+debt was a fundamental cause for the difficulties experienced by PdL’s Concession, that
+culminated with the Joint Venture’s claim before the ICC, and the subsequent bankruptcy
+
+petition against PdL. 5
+
+Respondent notes that the IDB was not notified of Hochtief’s shareholding in Ballast
+Nedam either,'° even though in various letters from PdL to the IDB, reference had been
+made to “some subcontractors hav[ing] announced their intention to file a petition for
+bankruptcy against PdL”;!”’ to the need of the financing resources from the IDB to “stop the
+filing of lawsuits against it by subcontractors.”'?* Respondent further notes that in its
+letter to the IDB of 15 November 2001, PdL had mentioned owing more than $60 million
+to its subcontractors and providers, but had still failed to inform that such debt had been
+
+incurred with a related company”.
+
+According to Respondent, the few documents submitted by Hochtief show that its
+
+influence on Ballast Nedam was decisive in the decision-making of that company, from
+
+3 Resp. PHB 9] 99, 115.
+
+24 Tid., 101-103.
+
+25 rid., {| 110-112.
+
+26 Tbid., 4 105.
+
+"27 Tbid., 124. Letter from PdL to the IDB, 4 October 2001, p. 2 (Martin Bes Stmt. Exh. MB 4).
+8 Resp. PHB {[ 124. Letter from PdL to the IDB, 15 November 2001, p. | (Exh, RA 283).
+
+29 Resp. PHB {| 125. Letter from PdL to the IDB, 15 November 2001, p. 2 (Exh. RA 283).
+
+29
+
+132.
+
+133.
+
+134.
+
+1993 until at least mid-2004, when it held almost 50% of the shares and had nearly 48%
+
+of the votes of Ballast Nedam.'*®
+
+On 28 January 2003, the Joint Venture sought an order of attachment of PdL’s accounts
+in connection with the claim filed against PdL for unpaid sums.'*! According to
+Respondent, this precluded the disbursements relating to certificates 5 to 13 provided for
+
+in the Financial Aid Agreement. '*
+
+(J) The Transitory Agreements
+
+As part of the renegotiation process, in December 2009, a First Transitory Agreement
+was reached (“the December 2009 Transitory Agreement”), which was signed by PdL on
+December 17, 2009'**. Claimant notes that this agreement could be terminated by either
+party if it was not implemented within 60 days (i.e. by 15 February 2010), and that, like
+the May 2006 and February 2007 CdEs, the December 2009 Transitory Agreement
+required PdL to waive the rights against Argentina of two-thirds of its shareholders, but it
+did not contain an indemnification requirement. According to Claimant, the December
+
+2009 Transitory Agreement was never implemented.'*
+
+The December 2009 Transitory Agreement contemplated a transitory modification of the
+rate, as well as several aspects of the contract binding the parties, taking into account the
+PdL’s insolvency proceedings.'** The execution of the December 2009 Transitory
+Agreement was approved by PdL’s shareholders’ and Board of Directors. Respondent
+asserts that “UNIREN included in the records the letters issued by the company and its
+
+shareholders representing more than two thirds (2/3) of the capital stock, as well as
+
+30 Resp, PHB { 120. Shareholders’ Agreement of Ballast Nedam B.V., p. 6. (Exh. RA 503).
+5! Resp, PHB { 137.
+32 Tbid., f 137, 152.
+
+133
+
+Cl. Rep. { 88. Resp. Rej. { 167.
+
+84 Cl. Mem. fff 245-246.
+85 Resp, CM. 210.
+
+30
+
+135.
+
+136.
+
+137.
+
+138.
+
+139.
+
+140.
+
+certified copies of the registry of shareholders’ and the minutes of the Board of Directors
+
+whereby the said company approved the execution of the Transitory Agreement”. !°°
+
+Upon approval of PdL’s creditors’ agreement (30 December 2009), a Second Transitory
+Agreement was agreed upon and executed by PdL on 14 June 2010'” (“the June 2010
+
+Transitory Agreement’).
+
+A public hearing took place in the city of Victoria on 17 June 2011, where a petition to
+
+amend the agreement’s transitional tariff regime was debated.'*
+
+This amendment resulted in a Third Transitory Agreement, (the “October 2011
+Transitory Agreement’), signed by PdL on 13 October 2011." Such agreement was
+submitted to the Procuracién del Tesoro de la Nacién for an opinion, as required by the
+
+applicable regulations. '”
+
+Pursuant to Opinion No. 40 of 29 February 2012, certain adjustments were made to the
+agreement, and UNIREN presented a Fourth Transitory Agreement to PdL in March
+2012, which PdL signed on 6 March 2012. (the “March 2012 Transitory Agreement”) "*!.
+
+The March 2012 Transitory Agreement was signed by the decision of the majority of
+PdL’s shareholders”.
+
+In this context, reference has been made to PdL’s Shareholders’ Agreements of 15 May
+1999 (“the 1999 Shareholders’Agreement”)', and of 11 April 2002 (“the 2002
+
+Shareholders’ Agreement’”)'*.
+
+136 Tbid., 211.
+
+'57 Resp, Rej. {{ 169. Second Transitory Agreement, 14 June 2010 (Exh. CX-150).
+
+38 Resp. Rej. ff 170.
+
+'89Cl, Rep. | 90. Resp. Rej. J 171. Lommatzsch Supp. Stmt., {{ 15. Third Transitory Agreement, October 2011 (Exh.
+CX-156).
+
+40 Resp, Rej. ff 171. Cl. Rep. 1 90.
+
+441.Cl, Rep. 1 91. Lommatzsch Supp. Stmt., | 18. Fourth Transitory Agreement, March 2012 (Exh. CX-160). As the
+
+March 2012 Transitory Agreement is in Spanish, Claimant submitted an English translation that was added to the
+record as Exh. CX-160(b).
+
+\2 Resp. PHB if 169-171.
+
+31
+
+141.
+
+142.
+
+143.
+
+144.
+
+The relevance of the March 2012 Transitory Agreement and of PdL’s Shareholders’
+Agreements is a matter of dispute between the Parties. The Parties’ respective experts, at
+request of the Tribunal'**, addressed the corporate governance issue concerning the extent
+to which Hochtief’s rights or interests in PdL could lawfully be removed, compromised,
+or otherwise materially and adversely affected by a decision of the majority shareholders
+in PdL and of any remedies available under Argentine law for the protection of the
+
+interests of minority shareholders'*°.
+
+Claimant contends that the Shareholders’ Agreements have no bearing, as a legal or
+factual matter, on the Tribunal’s determination of Hochtief’s Treaty claims or the
+damages that should be awarded to Hochtief.'*’According to Claimant, Hochtief has not
+waived any claims, and PdL has not compromised, settled or waived any of Hochtief’s
+
+claims in the March 2012 Transitory Agreement. '*
+
+Respondent claims that by PdL signing the March 2012 Transitory Agreement, PdL
+accepted, by the majority of its shareholders, the validity of one of the two measures to
+
+which this case relates, the Emergency Law.”
+
+Claimant asserts that Respondent has failed to implement any of the transitory
+agreements PdL entered into, and that there has been no comprehensive renegotiation of
+the Concession Contract.'° Claimant further asserts that the basic toll rate remains frozen
+at the pesified contract rate (where they stood since the Project opened to traffic on 23
+
+May 2013).'*!
+
+ 
+
+43 Shareholders’ Agreement, 25 May 1999 (Exh. RA 501).
+\44 Shareholders’ Agreement, 11 April 2002. (Exh. RA 502).
+45 Tribunal’s letter of 7 January 2013.
+
+446 Nissen Supp. Report, Mata Second Supp. Report, and Mairal Expert Opinion of 1 February 2013.
+47 Claimant’s letter of 14 March 2013 1.
+
+48 Cl, PHB {ff 276-279. Claimant’s letter of 14 March 2013 4 11.
+
+49 Resp, PHB if 169, 171.
+
+150 Tbid., | 276.
+
+5! Cl, Mem. 4 247. Cl. Rep. | 92. Lommatzsch Stmt. 157.
+
+32
+
+(K) Insurance provided by the German Government
+
+145. Hochtief received an indemnification under the German Government’s Federal
+Guarantees for Direct Investments in Foreign Countries program (Guarantee Policies No.
+GKE 3947 of 20 September 1999 and No. GKE 4151 of 6 September 2001), against
+political risks'*, in the amount of EUR 11,359,773.20 relating to Hochtief’s capital
+
+contributions to PdL.'*
+
+146. The grounds for requesting compensation under these guarantees were the same as those
+of this arbitration: the adoption of regulatory measures implemented by the Argentine
+Republic in the beginning of 2002 in connection with the Emergency Law,'™ the non-
+
+disbursement of the IDB loan,'* and the financial aid for 2003.'*°
+
+147. The relevance of these payments to this proceeding is a matter of dispute between the
+
+Parties.
+
+IV. JURISDICTION AND ADMISSIBILITY
+
+148. In its Decision on Jurisdiction dated 24 October 2011, the Tribunal decided by a
+
+majority:
+
+“(i) to reject the Respondent’s submission that the Centre has no
+jurisdiction and the Tribunal has no competence over this case;
+
+(ii) to assert that the Centre has jurisdiction and the Tribunal has
+competence over this case; and
+
+(iii) to decide upon the question of costs and fees at a later stage, along
+with the merits of the dispute.”
+
+'52 Resp, PHB { 233.
+
+153 Cl. PHB J 299. See Letter from PriceWaterhouse Coopers to Hochtief, 7 December 2007 (agreeing to pay
+indemnification in the amount of approximately EUR 11.4 million relating to Hochtief’s capital contributions to
+PdL) (Exh. CX-142). Resp. PHB { 233.
+
+154 Resp. PHB { 233. Hochtief*s Request for Compensation of 5 March 2007, pp. 2 and 6 (Exh. RA 358) and
+Annexes to the Request for Compensation (Exh. RA 473).
+
+155 Resp. PHB { 233. Hochtief’s Request for Compensation of 5 March 2007, p. 2 (Exh. RA 358)
+
+156 Resp. PHB { 233. Hochtief’s Request for Compensation of 5 March 2007, p. 3 (Exh. RA 358)
+
+33
+
+149. The reasoning of the majority in that Decision distinguished between questions of
+jurisdiction and questions of admissibility.'°? The Decision settled the question of
+jurisdiction in the present case, but did not address questions of the admissibility of each
+element of the claims except in so far as that was necessary in the course of the analysis
+of the question of jurisdiction. Accordingly, this Decision on Liability begins with an
+analysis of the challenges that were raised by Respondent to the admissibility of
+Claimant’s case. Those objections fall under five broad headings: (A) matters arising
+from the separate personality of PdL; (B) temporal limitations upon the claims; (C)
+Claimant’s recovery under political risk insurance; (D) Claimant’s claims qua creditor;
+
+and (E) the ‘Ballast Nedam’ arguments.
+
+(A) The ‘PdL Questions’
+
+150. Respondent raised three arguments that bear upon the admissibility of the claims, and
+which are rooted in the relationship between Claimant and PdL. They flow from
+Respondent’s contention that this case is based upon Claimant’s allegations that
+Respondent acted unlawfully towards PdL as the holder of the Concession and, in
+
+essence, that PdL stood between Claimant and Respondent.
+
+151. Specifically, Respondent argued: (i) that the Tribunal should not admit a claim made by
+Claimant in respect of rights that belong to PdL;'** (ii) that the Tribunal should not admit
+a claim made by Claimant in respect of measures that were consented to by PdL;'*? and
+(iii) that a ruling in favour of Claimant would, in light of the agreement reached between
+Respondent and PdL, lead either to double recovery or to recovery by a shareholder
+(Claimant) at the expense of the company (PdL) and its other creditors and
+
+shareholders. ©
+
+157 Decision on Jurisdiction, | 90 ff.
+158 Resp. Rej. {if 18-24.
+
+59 Resp. PHB { 1.
+
+160 Thid., 4 2.
+
+34
+
+152.
+
+153.
+
+154.
+
+155.
+
+156.
+
+Before turning to these three specific arguments, the Tribunal will set out its analysis of
+
+the relationship between PdL’s rights and Claimant’s rights.
+
+a) _ PdL’s Rights and Hochtief’s Rights
+
+The Tribunal has already decided in the context of its Decision on Jurisdiction that
+Hochtief is an investor. It is a shareholder in PdL, and it can bring a claim for any breach
+of the terms of the Treaty that has damaged its shareholding in PdL. That follows from
+the definition of an ‘investment’ in Article 1.1 of the Treaty, which includes “shares,
+stocks in companies and other forms of participation in companies.” But in the present
+case all of the alleged breaches arose from Respondent’s conduct in its dealings with
+PdL, and not from Respondent’s conduct in its dealings directly with Claimant or other
+shareholders in PdL or with their shareholdings. The question is whether that renders
+
+Claimant’s claim inadmissible.
+
+The harm for which Claimant seeks redress is the “losses to Hochtief AG’s investments
+in PdL”, to use the words of the title of the LECG First Report, dated 29 April 2010. In
+other words, the harm to Claimant alleged to have resulted from Respondent’s breach of
+the Treaty is the diminution in the value of Claimant’s investments in PdL caused by
+
+Respondent’s treatment of PdL: it is what is sometimes called ‘reflective loss’.'°!
+
+PdL has signed what might be characterized as a settlement of its claims against
+Respondent: the 2012 Transitory Agreement. Respondent argues that the Treaty
+obligations were owed to PdL,that any harm suffered was suffered by PdL and that, as a
+shareholder in PdL, Claimant has no right to opt out of the settlement accepted by PdL.
+On this view, redress has been offered by Respondent and accepted by the injured party,
+PdL; and Claimant as a minority shareholder in that injured party is bound by that
+
+settlement.
+
+Were those the only material facts there would be a strong argument for concluding that
+Claimant has no basis to protect its rights and interests as a minority shareholder in PdL
+
+by rejecting the settlement that was reached by a majority of PdL shareholders with
+
+'6! See the LECG Report, 29 April 2010, {44 and Executive Summary, { 1.
+
+35
+
+157.
+
+158.
+
+159.
+
+Respondent and pursuing a separate claim. This is the conclusion that would appear
+almost axiomatic from the perspective of company law. Anyone who invests as a
+minority shareholder runs the risk that the decisions properly taken by majority
+shareholders will be undesirable, or even inimical, to them: that is a consequence of
+
+shareholder democracy, and a price of being a minority shareholder.
+
+In the present case, however, the analysis does not focus on the question of whether the
+company — PdL — is a separate legal entity (which it plainly is) and on what rights are
+held as a matter of Argentine law by the company and what rights are held by Claimant
+as a shareholder. The analysis starts instead with the question of what rights Claimant has
+as a matter of treaty law as an investor under the BIT; and that question must be
+addressed within the particular context of the BIT, and not by proceeding from principles
+of municipal company law, no matter how widely or how firmly those municipal law
+principles are established or may otherwise be relevant to issues of corporate governance
+that may arise in the course of considering a treaty claim. In this context, the Tribunal
+
+attaches particular importance to two material facts.
+
+First, the initial investment was made by members of a consortium, which bid for the
+Project as a consortium. The Concession was awarded by Respondent to that consortium:
+not to PdL or to some other single company, but to the members of the Consortium. The
+incorporation of PdL was required by the terms of the bid offer in order to implement the
+
+terms of the Concession.
+
+The Concession Contract!
+
+was signed by each one of the Consortium members,
+including Claimant, on 28 January 1998. The Ministry, too, signed on that day, and time
+then started to run on the obligations under the Concession Contract.'®? The Tribunal
+considers that the investment was made no later than that date, and that the Claimant’s
+own investment at that time took the form of the obligations under the Concession
+Contract accepted by Claimant in return for the right to participate in the Consortium
+
+Project as agreed with the Respondent.
+
+162 Exh, CX-32.
+'63 Cf, Villagi’s Testimony, Tr. Day 4, p. 725.
+
+36
+
+160.
+
+161.
+
+162.
+
+163.
+
+164.
+
+Claimant’s rights as an investor were at that time its own rights in relation to the Project
+as a member of the Consortium, and not its rights gua shareholder in PdL; and
+Respondent’s obligations to Claimant under the BIT date from that time. Among
+
+Claimant’s rights at that time was the right to be treated fairly and equitably.
+
+PdL was incorporated on 1 April 1998; and on 17 June 1998 all the rights and duties set
+out in the Concession Contract were transferred by and from the Consortium to PdL (‘the
+transfer’). '64 On 17 June 1998, as a result of the transfer, Claimant’s investment changed
+
+its legal form; but Claimant nonetheless continued to hold an investment in Argentina.
+
+This is not a case where the State has dealt with a single company throughout the relevant
+time, and a claimant shareholder has subsequently emerged from behind a hitherto-intact
+corporate veil and announced that it is seeking redress for alleged injuries to the
+
+company.
+
+Nor is this a case where it can be said that Claimant is trying to obtain the benefits —
+chiefly, limited liability — of the corporate form while seeking to avoid its disadvantages.
+The Concession Contract itself ensured that the Consortium members would secure the
+transfer to PdL of what the Parties to the Concession Contract regarded as adequate
+financial resources for the Project, so that the incorporation of PdL cannot be regarded as
+
+an improper attempt to avoid financial liability.
+
+Secondly, the Concession Contract itself (in Article 5.2) stipulated that PdL would
+assume all obligations and rights of the Consortium members under the Concession
+Contract. Both Respondent and Claimant entered into the Project knowing that for the
+purposes of pursuing the Project PdL would be the vehicle and the nominal actor, while
+behind PdL the commercial interests would remain in the hands of the individual
+members of the Consortium. The legal form of the investments would change; but the
+
+underlying commercial reality would not.
+
+14 Exh, CX-36; Exh. RA 126.
+
+37
+
+165. It is plainly possible in circumstances such as these to transfer to a locally-incorporated
+corporation all of the substantive contractual rights (here, the rights under the Concession
+Contract) initially held individually by the investors who collectively own that locally-
+incorporated corporation. Indeed, that is what was done when PdL was established.
+Equally, the Tribunal does not doubt that in the context of BIT rights a State and an
+investor can, by agreement between them, extinguish the right of an investor, as a
+member of a consortium, to take action in its own name to enforce against the State the
+rights that it had previously possessed under the BIT.'® But the question here is different.
+It is whether the individual investors can transfer to the local corporation their rights
+under an applicable BIT'® to protect their substantive rights under the Concession
+
+Contract; and if so, whether they did so transfer their rights.
+
+166. It is evident that there can be no simple substitution of PdL for the individual Consortium
+members. In the present circumstances, for example, the transfer could not confer upon
+PdL (an Argentine company most of whose shares were owned by investors of other,
+non-German nationalities) the rights that the Germany-Argentina BIT conferred on
+German companies, including the Claimant. That effect cannot be brought about within
+the provisions of the Germany-Argentina BIT. At most, the procedural rights of the
+Consortium members under the BIT could be extinguished, and supplanted by whatever
+
+procedural rights were available to PdL.
+
+167. There is no evidence that Claimant’s rights under the BIT were extinguished here. There
+is no indication in the terms of the invitation to bid, or in the Concession Contract, or in
+the various unimplemented settlement agreements, that the legal right and capacity of
+each investor under an applicable BIT to sue to uphold its substantive BIT rights was
+altogether extinguished by the very fact of the creation of PdL. Section 5.2 of the
+Concession Contract refers only to the assumption by PdL of “all obligations, liabilities
+
+and rights hereunder as well as all loans and guarantees applied for and obtained by the
+
+'65 The rights in question under the BIT are those of the investor, so that there is no question of an attempt by an
+investor to waive the right of its national State to exercise diplomatic protection on its behalf.
+
+166 Of all of the Consortium members, Hochtief alone was German. The balance of the Consortium therefore had no
+rights under the Germany-Argentina BIT.
+
+38
+
+168.
+
+169.
+
+170.
+
+171.
+
+167
+
+Successful Bidder in connection herewith” (emphasis added). Rights and obligations
+under the Concession Contract were transferred to PdL: but there is no provision that
+purports to transfer to PdL Claimant’s rights and obligations under the Germany-
+
+Argentina (or any other) BIT or to extinguish such treaty rights.
+
+The Tribunal accordingly considers that Claimant retains its standing to bring claims in
+respect of the treatment of its shareholding in PdL in a situation such as the present,
+where (i) the investment was clearly made at a date before the establishment of PdL and
+the Claimant acquired rights under the BIT at that date, and (ii) the bidding terms
+required the transfer of consortium rights to a company to be established and maintained
+for the purpose of holding the concession rights so transferred, and (iii) the actual
+commercial obligations (of financing, of commitment of materials, technology, labour
+and skills, and of organization of work, etc) remained unchanged by the transfer of rights
+to PdL, and (iv) there is no evidence that the Claimant had waived or renounced its rights
+
+of action against Respondent under the BIT.
+
+This is the general reason in principle why the Tribunal does not regard the claims in this
+case as inadmissible by reason of Respondent’s arguments based upon the separate legal
+
+personalities of Claimant and of PdL.
+
+Against the background of this explanation of its reasoning, the Tribunal now turns to the
+
+three specific arguments noted in paragraph [151] above.
+
+@ Claimant’s investment as shareholder in PdL,
+
+The Tribunal will first address the argument that the Tribunal should not admit a claim
+made by Claimant in respect of rights that belong to PdL. As was noted in the Decision
+on Jurisdiction,'® Article 1(1)(b) of the BIT is unequivocal in stipulating that an
+
+investment includes “Shares, stocks in companies and other forms of participation in
+
+Decision on Jurisdiction, J 115.
+
+39
+
+172.
+
+173.
+
+174.
+
+175.
+
+168 This
+
+ 
+
+companies.” !*
+
+Further, the Protocol to the BIT specifies that the definition of an
+investment includes “specifically those capital investments that do not entitle their
+
+holders to voting or control rights.”!©? Minority shareholdings are thus clearly included.
+
+Claimant owns 26% of the shares in PdL and is plainly entitled to bring a claim in respect
+
+of that shareholding, !”
+
+which constitutes an ‘investment’ in Argentina within the
+meaning of the BIT. The question of the extent of those rights — the question of precisely
+what rights attach to the shareholding — is distinct; and it is raised also by the second of
+
+the arguments distinguished in paragraph [151], above.
+
+It is said that under Article 5 of the Concession Contract, Claimant assigned to PdL all of
+its rights and obligations in respect of the Project, and that Claimant therefore retains no
+rights for which it can seek protection under the BIT. The Tribunal does not accept that
+
+argument.
+
+The rights and obligations under the Concession Contract may belong to PdL to the
+exclusion of the Claimant; but the claim in this case is not made in order to vindicate any
+of those rights but in order to vindicate rights under the BIT that attach to Claimant’s
+investment in the shares of PdL. The precise extent of PdL’s own rights and obligations
+under the Concession Contract will plainly affect the value of Claimant’s investment in
+the shares of PdL; but, whatever the extent of PdL’s rights under the Concession Contract
+may be, Claimant as a shareholder in PdL has an interest in the shares of PdL which it is
+
+entitled to protect under the BIT.
+
+(ii) PdL and the March 2012 Transitory Agreement
+
+The second argument is that the Tribunal should not admit a claim made by Claimant in
+respect of measures that were consented to by PdL. This argument focuses not on the
+
+initial assignment of rights by Claimant to PdL but on PdL’s subsequent agreement with
+
+is the English translation in the United Nations Treaty Series (‘UNTS’). Vol. 1910, at p. 198. The English
+
+translations submitted by the Parties differ in certain details from that in the UNTS, but the Tribunal has examined
+the authentic German and Spanish texts and is satisfied that there are no material differences.
+169 Protocol, Ad Section 1(c).
+
+10 Which distinguishes the situation in this case from that in Barcelona Traction: see Resp. PHB, { 54.
+
+40
+
+176.
+
+177.
+
+178.
+
+179.
+
+180.
+
+the Respondent on the settlement of outstanding claims, in the March 2012 Transitory
+
+Agreement (‘Acuerdo Transitorio’).!7!
+
+Respondent’s argument here is that since PdL held all of the rights that were allegedly
+violated, PdL was competent, and PdL alone was competent, to agree upon a settlement
+of any and all claims concerning the violation of those rights, and that PdL did so in the
+
+March 2012 Transitory Agreement. !7
+
+For its part, Claimant asserts that the March 2012 Transitory Agreement has not been
+
+implemented, and in any event contains no waiver of its Treaty claims.!”
+
+At this point in the analysis we are concerned only with the question whether the
+argument is applicable as a bar to the admissibility of the claims in this case. We are not
+concerned at this stage with the question of the implications of PdL’s signature of the
+March 2012 Transitory Agreement for the substantive question of Respondent's liability:
+
+that is a merits question, not a preliminary question of admissibility.
+
+Whatever those implications might be, PdL’s signature of the March 2012 Transitory
+Agreement cannot operate in limine to bar the admissibility of the claim and prevent its
+consideration by the Tribunal. Claimant contends that PdL was not entitled to settle
+claims concerning the violation of Claimant’s rights, and that it was unfair and
+inequitable of Respondent to purport to settle those rights of Claimant by means of its
+agreement with PdL. That contention is put forward by Claimant in respect of its
+investment in PdL. It is a contention that Claimant is entitled to have considered, and
+
+which can be appraised only in the context of a consideration of the merits of the case.
+
+(iii) | ‘Double Recovery’; Claimant’s profits as construction contractor
+
+Third, Respondent argues that there is a possibility of double recovery.'”* Even assuming
+
+that such a possibility exists, however, that is a matter concerning the remedy rather than
+
+"71 See above, 155.
+
+12 Resp. PHB ff 42-55.
+"3 Tbid., | 276 — 279.
+174 Resp. PHB 2.
+
+4l
+
+181.
+
+182.
+
+183.
+
+the claim. It is not a bar to the admissibility of a claim — unless, perhaps, it arises as an
+aspect of an argument based upon the principle of res judicata, which is not the case here.
+To the extent that there may be a possibility of double recovery, that is a matter to be
+taken into account in the context of the need to prove and to quantify loss, and in the
+drafting of any Order by the Tribunal. The Tribunal accordingly rejects this objection to
+
+the admissibility of the claim.
+
+Similarly, Respondent submits that the fact that Claimant derived benefits from its
+involvement in the actual construction of the highway and bridge bears upon the
+admissibility of its claim.'> The Tribunal does not consider that submission to have any
+legal basis. The fact that an investor has earned profits in the capacity of a contractor
+working on the physical construction of the project in question cannot operate to bar the
+admissibility of that investor’s claim, although it may bear upon the merits of the claim
+and / or upon questions of quantum. The Tribunal accordingly rejects this objection to the
+
+admissibility of the claim.
+
+(B) The temporal limits of the dispute
+
+Over the course of the proceedings, Hochtief supplemented its claims by reference to the
+continued unfolding of events in Argentina. Respondent asks the Tribunal to limit its
+consideration to the claims as they stood at 18 December 2007, which is the date of the
+registration of the Request for Arbitration (the Request for Arbitration itself being dated 5
+November 2007).!7°
+
+The Tribunal considers it to be axiomatic that the scope of the claims that Respondent is
+called upon to answer is fixed by the terms of the Request for Arbitration and the
+
+Submissions set out in the Memorial. Subject to the possibility of the making of ancillary
+
+"5 Resp, Rej., {if 13, 183-186, 194-196; Sandleris and Schargrodsky Valuation Report, {{ 5, 43, 104; Sandleris and
+Schargrodsky Supplementary Valuation Report, {| 24, 138-139, 269, where the experts observed that Hochtief had
+
+faile
+phas
+
+d to provide access to information pertaining to the revenues it received as a contractor during the construction
+e.
+
+"6 Resp. PHB, 231.
+
+42
+
+184.
+
+185.
+
+'"7 those instruments define
+
+claims arising directly out of the subject-matter of the dispute,
+the case that the Respondent has to answer, and the case in respect of which Preliminary
+Objections must be made.!’8 No ancillary claims have been made in this case; and the
+difference between the date of the Request for Arbitration and the date of its registration
+by ICSID is not material. Nor is there any suggestion that the scope of the claims as set
+
+out in the Memorial differs from that set out in the Request for Arbitration.
+
+As long as the claims remain within the limits thus described, the facts that a tribunal
+may take into account in order to decide the claims are not confined to those facts that
+occurred prior to the date of the signature or registration of the Request for Arbitration
+and / or the Memorial. The guantum claimed may clearly need to be updated in the light
+of later events; and even matters bearing upon liability may be affected by developments
+up to the date of the hearing — for example, if action by the Respondent amounts to timely
+reparation for an earlier action that had caused injury to the Claimant.'”? As long as
+Respondent has been given a proper opportunity to respond to all factual allegations, the
+consideration of events occurring after the filing of the Request for Arbitration and the
+Memorial is permissible, and it will be for the Tribunal to determine the relevance of
+such references for the claims that are properly before it. Respondent had that opportunity
+to respond in the present case. This appears not to be contested.'*? This objection to the
+
+admissibility of the claims is accordingly dismissed.
+
+Claimant’s political risk insurance
+
+Respondent asserts that on 7 December 2007, the German Government agreed to pay
+Claimant EUR 11,359 million under a political risk insurance policy that covered the
+
+losses encompassed within the claims made in the present case, and that in consequence,
+
+"77 ICSID Convention Article 46; ICSID Arbitration Rules (2006), Rule 40.
+
+178 ICSID Convention Articles 36, 41; ICSID Rules (2006), Rule 41.
+
+"79 See, for example, Swisslion DOO Skopje v Macedonia (ICSID Case No. ARB/09/16), Award, 6 July 2012, 1
+3
+
+133-139.
+
+'89 See Resp. PHB, {fff 231- 232.
+
+43
+
+by virtue of Article 6 of the BIT, Germany is now subrogated to the rights of Hochtief so
+
+that Claimant can no longer pursue its claim. '*!
+
+186. The Tribunal does not agree with that analysis. Article 6 is phrased in terms that do not
+require that the insuring State succeed to and extinguish the rights of the insured investor
+once payment is made on the insurance policy. Much less does Article 6 itself bring about
+that legal result. Article 6 merely obliges the respondent State to recognize or admit
+(‘reconocerd, ‘erkennt’) such a transfer of rights if and when the transfer is in fact
+effected by provision of law or by a legal act. In the present case no such transfer has
+been shown to have occurred. The Tribunal accordingly dismisses this objection to the
+
+admissibility of the claim.
+
+(D) Claimant’s claims as creditor
+
+(i) Article 22.2 of the Concession Contract
+
+187. Respondent raises objections to the elements of the claim that arise from Claimant’s
+position as a creditor of PdL. The first objection concerns Article 22.2 of the Concession
+Contract.'*? Respondent submits that this provision bars claims against Argentina by
+lenders to PdL, despite the arbitration clause in the Treaty.'** In so far as the claims in
+this case relate to Claimant’s loans to PdL, it is said that the claims are made by Claimant
+
+as a creditor of PdL.
+188. Article 22.2 provides that:
+
+“Loans entered into by the Successful Bidder and Concessionaire, as the
+case may be, to finance the construction, maintenance and operation of the
+Project shall not be secured by Grantor, nor shall the lenders be entitled to
+any claim against Grantor or the Provinces, all of which shall be indicated
+in the relevant agreements.”
+
+8! [bid., 4 233.
+2 Exh, RA 12.
+83 Resp, Rej. 214, 275; Resp. PHB { 19.
+
+44
+
+The evident purpose of Article 22.2 of the Concession Contract is to limit the extent of
+Respondent’s liability for loans procured by the Concessionaire. It is a means of ensuring
+that the State (the Grantor) makes its agreed financial contribution to the Project and that
+thereafter it faces no further financial exposure: it is for the concessionaire, through what
+was plainly expected to be a mix of equity and loan financing, to contribute the remaining
+finance needed for the Project. It may be that Article 22.2 was drafted with third party
+lenders, rather than inter-company loans, in mind. But the provision does not express any
+such limitation upon its scope of application, and the majority of the Tribunal sees no
+
+basis for reading such a limitation into Article 22.2.'*+
+
+189. Article 22.2 provides that lenders are not entitled to “any claim against the Grantor or the
+Provinces.” The question is whether “any claim” includes both claims under the law
+applicable to the loan contract and claims under the BIT. ‘Any claim’ means, on the face
+of it, any claim. The precise legal basis of a claim is not material. The question is whether
+
+this is effective to bar BIT claims.
+
+190. It is necessary to decide if an investor can be bound by an agreement with a host State
+that it will not invoke the protection of the Treaty in relation to a limited and specified
+range of issues. In the present case, the issues in question are loans by Claimant to PdL,
+which are legal arrangements to which Respondent is not a party, and whose terms were
+
+not agreed by Respondent.
+
+191. The Tribunal considers that there is no legal reason why effect should not be given to an
+agreement between an investor and a host State either to limit the rights of the investor or
+to oblige the investor not to pursue any remedies, including its BIT remedies, in certain
+circumstances. Such an agreement does not purport to alter the terms of the Treaty. Nor
+does it necessarily purport to bar action in respect of extant responsibilities of the
+Grantor: it may constitute an agreement by a particular investor to limit the range of
+
+matters for which the Grantor carries the risk and responsibility. It may also be regarded
+
+184 Tt is noted that other sections of the Concession Contract, such as Sections 11.1 and 11.3, do expressly provide
+for the position of third parties.
+
+45
+
+192.
+
+193.
+
+194.
+
+185
+
+as an agreement by the investor not to rely upon certain treaty provisions and extant
+
+rights in the specified circumstances.
+
+The majority of the Tribunal considers that Article 22.2 is such a provision, and that it
+operates so as to bar “any claim”, including claims under the Treaty, by a signatory to the
+Concession Contract, such as Claimant, against the Respondent in so far as the claim is
+made by the signatory in its capacity as a lender. Neither the Concession Contract nor the
+BIT contains any provision that expressly nullifies Article 22.2 or subordinates it to the
+protections afforded by the Treaty. The Concession Contract is governed by Argentine
+law,'®> and there is no suggestion that Argentine law imposes any such nullification or
+
+subordination upon Article 22.2.
+
+In the view of the majority, Article 22.2 takes effect so as to limit the range of matters for
+which the Grantor carries the risk and responsibility. Under the Concession Contract, the
+Grantor was to provide a subsidy to the Project and once that subsidy was paid in full, the
+Grantor bore no further financial exposure. In the case of loans, the parties to the
+Concession Contract agreed that the Lender and the Successful Bidder and
+Concessionaire, and not the Grantor, should carry that business risk and responsibility.
+The Successful Bidder and Concessionaire agreed in the Concession Contract that the
+Grantor will not carry any liability to any lender for any loans covered by Article 22. In
+this way, the Concession Contract underlined the basic principle that, having paid the
+totality of its promised subsidy, Respondent had no further financial exposure: the
+obligation to arrange finance for the Project lay with the Successful Bidder and
+Concessionaire, whether by capital contributions, third-party loans, inter-company loans
+
+or other arrangements made by the Successful Bidder and Concessionaire.
+
+Article 22.2 relates only to claims made by ‘lenders’, which the Tribunal understands to
+mean claims made by lenders in their capacity as such, relying upon their rights under the
+relevant loan agreement. The Tribunal accordingly decides, by a majority, that claims
+
+made in this arbitration by Claimant in its capacity as a lender to PdL are precluded by
+
+Concession Contract, Article 35.1; and the Bilateral Investment Treaty, Article 10(5).
+
+46
+
+195.
+
+196.
+
+197.
+
+198.
+
+the terms of Article 22.2 of the Concession Contract. When valuing Claimant’s interests
+as a shareholder in PdL, however, it will take into account all of the inter-company loans
+made by Claimant in the same way that all other financial transactions are counted on the
+balance sheet as corporate assets or liabilities of PdL; but they will not be counted as
+
+individual interests of particular lenders.
+
+(ii) Conformity of the loans with Argentine financial regulations
+
+Respondent argues further that Claimant’s loan transactions were not all recorded as
+required by Argentine financial regulations,'*° and that the loans were accordingly not
+made in accordance with the laws and regulations of Argentina and are excluded from the
+
+scope of the Treaty protection by Article 2(2) of the Treaty. !87
+
+Given the Tribunal’s prior finding, strictly speaking it is not necessary to dispose of this
+objection. However, the Tribunal will make a few comments because the questions raised
+
+by the objection are important ones.
+Article 2(2) reads as follows:
+
+“Investments made by nationals or companies of either Contracting Party
+
+in the territory of the other Contracting Party in accordance with the laws
+
+and regulations of the latter Party shall enjoy full protection under this
+
+Treaty.”'88
+Claimant suggested that the loans were not subject to the reporting requirement because
+PdL was not a financial institution. Respondent did not accept that view; but the Parties
+did not adduce expert evidence focused on the regulatory requirements, nor did they
+make detailed submissions on the legal consequences of any failure to make reports
+required by Argentine regulations. It is also notable that Respondent did not suggest that
+the loans violated Argentine law in any respect other than a failure to fulfil the reporting
+
+requirement that was said to apply to them.
+
+186 Respondent maintains that Claimant reported only one foreign-currency loan transaction to the Argentine Central
+Bank: Resp. PHB {[ 21; Exh. RA 451.
+
+187 See Tr., Day 11, pp. 2694 - 2695.
+
+188 English translation from the version in vol. 1910 of the United Nations Treaty Series.
+
+47
+
+199.
+
+200.
+
+201.
+
+202.
+
+The Tribunal notes that in previous cases, tribunals have focused upon compliance with
+“fundamental principles of the host State’s law”.!*° This Tribunal considers that to be the
+correct focus when the question is addressed in the context of questions of jurisdiction
+and admissibility. Investments that are forbidden, or dependent upon government
+approvals that were not in fact obtained, or which were effected by fraud or corruption
+can be caught by a provision such as Article 2(2) of the Argentina-Germany BIT. But
+not every technical infraction of a State’s regulations associated with an investment will
+operate so as to deprive that investment of the protection of a Treaty that contains such a
+
+provision.
+
+Having considered the facts in the present case, and the submissions of the Parties on this
+point, the Tribunal does not consider that there is a sufficient basis for rejecting the
+claims concerning the loans on the basis of their non-registration under Argentine
+regulations. This decision concerning the effect of the alleged breaches of reporting
+requirements in Argentina’s financial regulations on the question of the admissibility of
+the claims is, however, taken without prejudice to the possibility that such breaches
+might, by virtue of Article 2(2) of the Treaty, limit the substantive rights enjoyed by the
+
+Claimant.
+
+The Tribunal’s decision concerning the admissibility of claims in respect of Claimant’s
+loans to PdL thus remains based upon the majority decision concerning Article 22.2 of
+the Concession Contract, as explained above. The Tribunal accordingly concludes, by a
+majority, that claims made by Claimant in its capacity as a lender to PdL are inadmissible
+
+in this arbitration.
+
+The ‘Ballast Nedam’ argument
+
+Ballast Nedam, a Netherlands company, was part of a joint venture (with Boskalis
+
+International BV, another Netherlands company) which was the main subcontractor of
+
+'8 The term used in Desert Line Projects LLC v. Republic of Yemen (ICSID Case No. ARB/05/17), Award, 6
+February 2008, { 104, citing Inceysa Vallisoletana S.L. v. Republic of El Salvador (ICSID Case No. ARB/03/26)
+and Fraport AG Frankfurt Airport Services Worldwide v. Philippines (ICSID Case No. ARB/03/25).
+
+48
+
+203.
+
+204.
+
+205.
+
+206.
+
+PdL on the Rosario-Victoria Project. Respondent argues that Claimant attempted to
+conceal the true nature and extent of its relationship with Ballast Nedam, as part of a plan
+to recover as much as possible of its investment in Argentina by means that would remain
+
+outside the purview of this arbitration and the sight of this Tribunal.
+
+In essence, Respondent suggests that Claimant had a financial interest as a shareholder in
+Ballast Nedam, and that Ballast Nedam colluded in threatening to force PdL into
+insolvency in order to put pressure on Respondent to provide financial benefits to PdL.
+Further, there is some suggestion that the plan was that Ballast Nedam, in its ostensible
+capacity as a third-party creditor of PdL, would recover sums from PdL which would
+
+enure to the benefit its shareholders, including Claimant.
+
+Respondent argues that these arrangements and plans amount to an improper attempt by
+Claimant to mislead observers, including the Tribunal, as to the real economic interests in
+play in this case.!°° It argues that Claimant should, in consequence, be deprived of the
+
+protection of the Treaty by having its claim declared inadmissible.
+
+The facts underlying these allegations and arguments are complex. They also emerged at
+a late stage: Respondent asserts that it was only on the fifth day of the merits hearing that
+it became aware that Claimant held 48% of the shares in Ballast Nedam.!*! The matter
+was, however, addressed during that hearing and in post-hearing submissions, and the
+Tribunal is satisfied that it has sufficient information on this matter for the purposes of
+
+reaching a decision in this arbitration.
+
+The Tribunal considers that the principles governing the admissibility of claims are
+rooted not only in the notion of a claim that is inherently ripe and properly made, but also
+in the proper administration of justice. Admissibility is concerned both with the claim
+itself and with the arbitral process. In a case where an allegation of impropriety, made in
+the context of a plea of inadmissibility, is based upon facts that are inextricably bound up
+
+with the range of facts upon which the substantive claim is based, it will usually not be
+
+19 Resp. PHB ¥] 99-157.
+"1 bid., 99.
+
+49
+
+207.
+
+208.
+
+Vv.
+
+209.
+
+210.
+
+192
+45-
+
+practicable to decide upon the question as a preliminary issue. If the tribunal has
+
+jurisdiction to hear the case, it should in such circumstances do so. 192
+
+The Tribunal considers this to be the case in these proceedings, and accordingly rejects
+the argument that the claim be dismissed in limine on the ground that it is inadmissible
+
+because of the relationship between Claimant and Ballast Nedam.
+
+(F) CONCLUSIONS ON ADMISSIBILITY
+
+For the reasons given above, the Tribunal, having already determined (by a majority)
+that it has jurisdiction over the claims in this case, rejects all except one of the objections
+to their admissibility. That one exception concerns claims made in this arbitration by
+Claimant in its capacity as a lender to PdL: these are precluded by the terms of Article
+22.2 of the Concession Contract. The Tribunal will identify the precise scope of those
+‘creditor claims’ at the points in its analysis where the matter arises and can most clearly
+
+be addressed.
+
+MERITS
+
+Claimant invokes several provisions of the Treaty: (A) Fair and Equitable Treatment
+(‘FET’) under Article 2(1) of the Treaty); (B) Full Protection and Security, under Articles
+2(1) and 4(1)); (C) Expropriation (Article 4(2)); (D) the ‘observance of obligations’ or
+‘Umbrella Clause’ (Article 7(2)); (E) Arbitrary or Discriminatory Measures (Article
+2(3)). In addition, Claimant asserts (F) that Respondent breached binding unilateral
+
+declarations in violation of international law. These are considered in turn.
+
+It may assist in the reading of the following paragraphs to say at this point that, in broad
+terms, the majority of the Tribunal has decided that the initial steps taken by Argentina to
+address the financial crisis by the pesification process do not amount in themselves to a
+violation of the Treaty but that Argentina’s failure to renegotiate the contract with PdL,
+
+as provided for in Argentine law, in a timely and final fashion does amount to a breach of
+
+Cf., the approach of the International Court of Justice to this general issue: Avena, I.C.J. Reports 2004, p. 12, 19
+
+47.
+
+50
+
+211.
+
+212.
+
+213.
+
+214.
+
+the FET standard, for which reparation is due. Argentina’s actions in respect of the
+payment of the Subsidy agreed with PdL do not amount to a breach of the FET standard.
+The terms of the ‘Emergency Loan’ made by Argentina to PdL, however, are not
+compatible with the FET standard. The Tribunal does not find that any other independent
+breaches of the BIT have been established.
+
+(A) FAIR AND EQUITABLE TREATMENT: Article 211)
+
+ 
+
+The claim based upon the FET principle has four components, each based upon a
+different aspect of conduct for which Respondent is said by Claimant to be responsible.
+They are (1) the failure to pay the Subsidy on time; (2) the ‘pesification process’; (3) the
+‘Emergency Loan’; and (4) the failed renegotiation attempts. These are considered in
+
+turn.
+
+a) The failure to pay the Subsidy on time
+
+A central element of Claimant’s case is the argument that Respondent failed to make the
+Subsidy payments as and when they were due; that this failure violated the fair and
+equitable treatment (“FET”) provision in the Treaty; and that this violation caused
+Claimant financial loss. The Subsidy was intended to finance the first stages of the
+Project up to a capped amount, with the balance to be financed by the Concessionaire.!*°
+According to the Concession Contract, the Subsidy was to be paid out in full, in
+scheduled monthly instalments, before the duty to finance the continuation and
+
+completion of the Project passed across to the Concessionaire. !+
+
+It is not disputed that there were in fact delays in the payment of the scheduled
+
+instalments of the Subsidy.
+
+Respondent’s position is that the acknowledged delays do not constitute a breach of the
+
+Treaty because (i) Respondent complied with its contractual obligations by paying
+
+3 Resp. Rej., 14.
+'°4 Concession Contract, §7.2; Final Technical Document (Exh. CX-33), §36.2.
+
+51
+
+215.
+
+216.
+
+217.
+
+218.
+
+interest in respect of those delays,'*> and (ii) the obligations were a purely contractual
+
+matter and a breach of them could not rise to the level of a breach of the Treaty.!°°
+
+It is evident that, in this part of its claim, what Claimant relies on to establish a breach of
+its rights under the Treaty is the alleged breach by Respondent of an obligation based in
+contract. Respondent was initially under no obligation other than the obligation under the
+Concession Contract to make those Subsidy payments. There is no suggestion that PdL
+was without access to the normal legal procedures for the enforcement of contracts.
+Moreover, Respondent paid interest on the late instalments in accordance with the
+
+Contract. !°”
+
+Contractual breaches are not ipso facto treaty breaches
+
+The Tribunal does not consider that a contractual breach necessarily amounts to a breach
+of the Treaty’s FET standard. In the particular circumstances of the present case, having
+regard to the 2000 Acta Acuerdo and to the payment by Respondent of interest in respect
+of delays in the payment of instalments of the Subsidy, the Tribunal does not consider
+that Respondent’s failures to meet the contractual dates for payments of the Subsidy rise
+
+to the level of a violation of the FET standard.
+
+Claimant argues that the FET standard requires more than the ‘minimum standard’ of
+protection prescribed by customary international law, and that it requires ‘stability,
+predictability and consistency’ and the protection of an investor’s ‘legitimate
+
+expectations’ .!°8
+
+In Waste Management II the tribunal (there addressing the FET standard in NAFTA
+Article 1105) said that even the persistent non-payment of contractual debts by a
+municipality was not to be equated with a violation of Article 1105, provided that it did
+
+not amount to “an outright and unjustified repudiation of the transaction and provided
+
+95 Resp. C-M. {if 117, 135; Resp. PHB { 10.
+96 Resp. C-M. {ff 388- 389.
+
+57 Resp. PHB 4 10.
+
+8 Cl, Rep. 4 188-206.
+
+52
+
+219.
+
+220.
+
+221.
+
+that some remedy is open to the creditor to address the problem.”!°? The Waste
+Management II tribunal observed that otherwise the treaty “would become a mechanism
+of equal resort for debt collections and analogous purposes in respect to all public
+
+(including municipal) contracts, which does not seem to be its purpose.”?
+
+This Tribunal agrees with the approach taken in the Waste Management IT award. The
+Tribunal is mindful of the controversy concerning the precise definition and content of
+the FET standard. The Treaty does not define the FET standard, and the decisions of
+other tribunals (to which both Parties referred) are not in themselves binding sources of
+international law.?°! But the Tribunal notes that the threshold for a treaty breach set by
+Waste Management II is representative of the approach taken by investment tribunals to
+this question, and agrees that this is the proper approach to the interpretation of the FET
+obligation. The Waste Management II approach is particularly apposite in a case where
+the treaty breach is said to be constituted by a breach of contract. The conduct in this case
+
+falls, in the view of the Tribunal, very clearly short of a violation of that threshold.
+
+That is sufficient reason for dismissing the claim that the failure to pay the instalments of
+the Subsidy on time violated Claimant’s Treaty right to Fair and Equitable treatment; and
+
+it is not necessary to consider additional arguments leading to the same conclusion.
+
+The wider consequences of late subsidy payments did not cause the collapse of the
+Project
+
+It might be argued that although the simple failure to pay Subsidy instalments according
+to the contractual timetable is not a breach of the FET standard under the BIT, the late
+payment of the Subsidy caused the failure of the first IDB loan disbursement,” and that
+this had a domino effect that led to the problems encountered by the Project, and that
+
+these wider consequences constituted a breach of the FET standard.
+
+189 Waste Management, Inc. v. United Mexican States (ICSID Case No. ARB(AF)/00/3), Award, 30 April 2004, 4
+115; and cf., ibid., | 98. (Waste Management Il)
+
+200 Phid., | 116.
+201 Resp. C-M. i 335-339. Cl. Rep., {41 196-203. Such decisions are only “subsidiary means for the determination of
+
+rules of law.’
+
+22 See letter from PdL to IDB dated 26 February 2001 (Exh. CX-166).
+
+53
+
+222.
+
+223.
+
+224.
+
+The Tribunal does not understand the evidence in that way. It does not consider that
+Claimant has shown that it was the delay in paying the Subsidy that caused the IBD to
+withdraw its support. On the contrary, it considers that the evidence on the record
+strongly points to the fact that there were “many issues” that prevented the IBD from
+
+disbursing the loan in the manner anticipated by the Consortium.
+
+Particularly significant, in the view of the Tribunal, were the doubts generated by the
+results of a traffic study undertaken in 2001 (well prior to the enactment of the
+
+Emergency Law) with a view to confirming the financial projections that had been made
+
+by PdL to support its application for the loan.?° A traffic study was deemed to be
+
+critically important to disbursing the loan proceeds because it would assist the lending
+parties in ascertaining the prospects of their being repaid if they were to permit the loan
+to be disbursed. The IDB thus explicitly made its offer of finance subject to there being
+“no material adverse change in the financial condition, operations or prospects of the
+
+Rosario-Victoria Bridge Project prior to the execution of ... final commitment by the
+
+Bank.”204
+
+The position is well illustrated by the terms of the letter from the IDB to PdL dated 28
+
+February 2002.?°> That letter is sufficiently important to warrant its quotation in full:
+
+“Thank you for your letter dated February 1, 2002, in which you outline
+your concerns regarding the disbursement of the loan from the Bank and
+its participating banks. We can assure you that the Bank has employed
+good faith efforts. We have tried to address in a mutually satisfactory
+manner among all parties the various issues that have been identified over
+the course of negotiating the remaining documentation and the satisfaction
+of the Conditions Precedent for disbursement. Therefore, it is unfortunate
+that all of our efforts have been perceived by Puentes del Littoral and its
+Sponsors as simply delay tactics.
+
+2°3 Letter from the IDB to the President of PdL, dated 28 February 2002: Lommatzsch Stmt., Exh. R. Article 5 of the
+IDB loan agreement with PdL (Exh. CX-46) set out the conditions precedent to disbursement, which included
+(Section 5.1.(t) ) the delivery to IDB of a traffic study demonstrating that the Debt Service Coverage Ration
+following Technical Completion would be not less than 1.5 at any time.
+
+204 IDB letter to Financial Director, Impregilo S.p.A. and General Manager PdL, dated 4 August 1999 (Exh. RA
+
+143).
+
+205 Exh. CX-70.
+
+54
+
+225.
+
+226.
+
+As_you_are_ aware, the Loan Agreement executed in July of 2000
+contemplated that certain financial projections had to be confirmed at the
+time of the disbursement by a traffic study. The results of the traffic study
+called into question the Company’s economic and financial viability. The
+Bank has undertaken considerable effort to restructure the financial plan to
+address this issue. Moreover, all of the Bank’s and the Borrower’s hard
+work to ensure the Borrower’s compliance with the Disbursement
+Conditions have been further complicated by the enactment of the
+Emergency Law No. 25561 by the Argentine government on January 6,
+2002 (the “Emergency Law”) as well as other related governmental
+measures. At a minimum, the Emergency Law has complicated the
+Borrower’s ability to meet a number of Disbursement Conditions.
+
+Following the successful re-negotiation of the Concession Agreement, the
+Bank and the participating banks will be in a better position to evaluate the
+Company’s economic and financial viability. In this regard, we have just
+received your proposal of February 27, 2002, are in the process of
+analysing it and will revert to you shortly.
+
+As_we_have_indicated_on numerous occasions, we would welcome
+reaching a conclusion with the Borrower and the Sponsors regarding the
+many _issues_that have _prevented_the Bank from disbursing to
+date.””°°[Emphasis added.]
+
+ 
+
+ 
+
+The Tribunal draws from this letter the conclusions: (i) that not only the non-payment of
+the Subsidy but “many issues”, including in particular the results of the traffic study, led
+the IDB not to make the disbursements of the loan as planned, (ii) that the position was at
+that time recoverable and that the IDB remained willing to make loans to the Project,
+
+albeit on renegotiated terms,2””
+
+and (iii) that the one act of Respondent that was
+particularly identified as further complicating disbursement was not the non-fulfilment of
+the planned timetable to Subsidy payments but rather the adoption of the Emergency Law
+
+and related governmental measures.
+
+The Tribunal accordingly considers that the failure to pay the Subsidy on time did not
+
+violate the FET standard established by the BIT. The Emergency Law and other measures
+
+206 Letter from the IDB to the President of PdL, dated 28 February 2002: Lommatzsch Stmt., Exh. R. A similar
+impression was given in the evidence of Mr Martin Bes, the only witness with direct knowledge of what transpired
+within the IDB in relation to PdL: see Tr., Day 11, pp. 2604-2612.
+
+207 Tt may also be noted that even in Section 6 of the ‘Financial Aid’ Loan signed on 21 February 2003, it was still
+envisaged that the IDB might make a loan to PdL (Exh. CX-78).
+
+55
+
+227.
+
+228.
+
+229.
+
+adopted during the ‘pesification process’ are considered in the next section of this
+
+Decision.
+
+The Claimant’s inability to demonstrate that the late payments were in themselves a
+breach of the FET standard, or that the late payments caused the collapse of the Project, is
+sufficient reason for dismissing the claim that the failure to pay the instalments of the
+Subsidy on time violated Claimant’s Treaty right to Fair and Equitable treatment. It is not
+
+necessary to consider additional arguments leading to the same conclusion.
+
+Respondent’s argument based on Claimant’s alleged breach of contract
+
+For the sake of completeness, it should be said that Respondent also asserts, by way of a
+defence, that PdL acted in bad faith and was itself in breach of its contractual obligations
+in the performance of the Concession Contract, notably by failing to obtain the Firm and
+Irrevocable Financing Agreements (variously described as ‘FIFAs’ or ‘AFFIs’) required
+by Section 22.1.a) of the Concession Contract.?°* Respondent says that Claimant was
+
+consequently not entitled to rely upon its rights under the Concession Contract.
+
+The Tribunal notes that in Clause 1 of the Acta Acuerdo of 20 October 2000, Respondent
+agreed to deem “the obligation under Section 22.1.a) of the Concession Agreement to
+have been fully met.”?°? The 2000 Acta Acuerdo was a settlement of the dispute between
+the Parties as to whether or not PdL had provided the necessary FIFAs; and the effect of
+the settlement is that as between Respondent and Claimant, Claimant cannot be regarded
+by Respondent as being in breach of Section 22.1.a). In making this finding, the Tribunal
+rejects the Respondent’s objections to the Tribunal’s relying upon the Acta Acuerdo. It
+was entered into by a senior official of the State and in the circumstances of this case
+there is no basis for its now being repudiated. The Acta Acuerdo did not merely provide
+that Respondent would take no action in respect of any breach of Section 22.1.a) that
+might have occurred: it provided that the Parties agreed as of the date of the Acta
+
+Acuerdo that any such breach had been cured. Respondent cannot, therefore, rely upon
+
+208 Resp, Rej. 1 65.
+2 Exh, CX-48, Exh, CX-137.
+
+56
+
+230.
+
+231.
+
+232.
+
+233.
+
+any alleged breach by PdL of Section 22.1.a) as a justification for any of Respondent’s
+
+own acts that took place after 20 October 2000.
+
+That does not necessarily mean that Respondent’s actions prior to 20 October 2000 could
+not be justified by reference to any failure by PdL to comply with Section 22.1.a) of the
+Concession Contract; but it is not necessary to decide this question because the Tribunal
+has determined that in any event the late payment of the Subsidy was not a breach of the
+
+FET obligation under the BIT.
+
+b) The pesification process
+
+The next body of conduct to be considered is the ‘pesification process’: i.e., the departure
+of the Argentinian peso from the statutory regime which secured parity with the US
+dollar. That process rested on the enactment on 6 January 2002 of Law 25,561, the Public
+Emergency and Foreign Exchange System Reform Law (“the Emergency Law”), and the
+adoption on 3 February 2002 of Decree No. 214/02. Those measures abrogated the
+Convertibility Law and converted into Argentine pesos money obligations that had
+previously been expressed in foreign currency, and abrogated indexing mechanisms tied
+to foreign currencies or economies. They also provided for the renegotiation of public
+
+works contracts in order to mitigate the detrimental effects of this pesification.?!°
+
+It may be helpful to outline at the outset of this section of the analysis the broad approach
+of the Tribunal to the pesification question. The pesification process was part of a major
+economic and commercial upheaval. There is much that can be said about its causes and
+much that can be said about its consequences, both generally and in the context of this
+particular case. But the question to be addressed here is straightforward: as a matter of
+legal principle, does the Argentinian pesification process amount to a violation of
+
+Argentina’s BIT obligations?
+
+There are three layers of legal analysis involved in that question. Taking the matter for
+the moment in the context only of FET, the first is the question whether pesification is
+
+prima facie incompatible with the FET standard in circumstances where it has been
+
+210 See below, #9 241, 248.
+
+s7
+
+234.
+
+235.
+
+236.
+
+represented to investors by the Government that dollar-peso parity would be maintained
+(or to put it in another way, represented that pesification would not take place). If it is, the
+second question is whether there is any provision within the Treaty itself that can affect
+the question whether pesification is in principle a breach of the Treaty. The third
+question, which arises only if pesification is in principle a breach of the Treaty, is
+whether the wrongfulness of pesification under the Treaty can be precluded by the plea of
+
+necessity under customary international law.
+
+Was pesification in itself a breach of the BIT?
+
+The first question is whether the pesification was in itself a breach of the FET standard
+
+secured by the BIT.
+
+Claimant pointed to many statements by the authorities in Argentina, and to reports of
+such statements, made prior to and after Claimant made its investment, to the effect that
+parity between the peso and the dollar would be maintained.?!! There can be no serious
+doubt that all of the Parties to the Contract (including the Government of Argentina)
+
+assumed that dollar / peso parity would continue.
+
+On the other hand, neither the Bidding Terms?!” nor the Concession Contract stipulated
+that there could be no departure from dollar / peso parity.?!> Rather, the position of the
+Concessionaire was protected by provisions that in effect tied the Concessionaire’s
+revenues to US dollars and the US economy. Thus, Section 24 of the Contract stipulated
+that “In consideration of all its obligations hereunder, Concessionaire shall receive only
+the toll rates set forth in the following Section, the Subsidy granted by the National
+Government, and the contributions of the Provinces of Santa Fe and Entre Rios.” Those
+toll rates were, according to Section 25.2 of the Contract, to be adjusted by “the
+percentage change in the United States All Items Consumer Price Index (hereafter CPI)
+
+officially published by the United States Department of Commerce (Business Statistics
+
+21 Cl. Mem. { 75- 88.
+22 Exh, CX-31.
+
+213,
+
+Section 3(i) of the Bidding Terms, and Section 2 of the Contract, set out the laws that govern the Agreement, and
+
+do not include the Convertibility Law, Law 23,928, which established parity between the dollar and the peso.
+
+58
+
+237.
+
+238.
+
+239.
+
+Branch).” In this way, the commercial balance of the Contract was secured, with the
+
+value of the tolls being tied, in effect, to the value of the US dollar.
+Further, Section 25.3 of the Contract provided that:
+
+“The Toll Rate to be collected by Concessionaire from users shall be
+stated in Pesos and be calculated as follows:
+
+a) The toll rate, stated in United States dollars, shall be translated into
+
+pesos on a monthly basis with the assistance of the Oversight Agency,
+
+using the dollar/peso parity based on the average bid/offered exchange rate
+
+quoted by Banco de la Nacién Argentina FIVE (5) days prior to the
+
+application date. If the peso/dollar parity based on the quote of Banco de
+
+la Nacién varies upward or downward by more than ONE PERCENT
+
+(1%) of the parity used to calculate the Basic Toll Rate in effect, the latter
+
+shall be readjusted by the total percentage of such excess commencing on
+
+the first day of the following month.”
+In these circumstances, the majority of the Tribunal considers that what Respondent
+promised, and what Claimant had the right to expect, was the maintenance of the value,
+in dollar terms, of the revenues under the Contract. Precisely how that value was
+maintained was, in the view of the majority of the Tribunal, not specified. Claimant did
+not have a legal right specifically to have that value maintained by means of constant
+adherence to peso-dollar parity. If parity were abandoned but Claimant was compensated
+fully and timeously for the fall, in dollar terms, in the value of its revenues, Claimant’s
+rights and expectations would have been fulfilled, and Claimant could not complain that
+
+it had been treated unfairly or inequitably in violation of the BIT.
+
+In the view of the majority of the Tribunal, this analysis accords with the facts and the
+practical realities of the situation. While there was a clear expectation that the
+commercial balance of the Contract would be maintained by the continuation of peso-
+dollar parity, no specific promise or undertaking to maintain that parity was explicitly
+made by Respondent to Claimant. Neither the Bidding Terms nor the Concession
+Contract, nor any other instrument presented to the Tribunal, contains any specific and
+
+absolute undertaking not in any circumstances to pesify the Contract.
+
+59
+
+240. There can be no doubt of Claimant’s intention to secure and to rely upon binding
+guarantees that the dollar-value of its revenues would be maintained. But equally, there is
+insufficient factual evidence upon which to base a finding that it would be unfair and
+inequitable to Claimant to fulfil that obligation to maintain of the dollar value of
+Claimant’s revenues by some mechanism that involved a change in the peso-dollar
+exchange rate. Indeed, there are indications in Claimant’s pleadings that it would have
+accepted some such change, although not a change involving pesification.?!*
+
+241. The majority of the Tribunal has therefore concluded that while the Claimant had the
+right to the maintenance of the commercial balance secured by the Contract on the
+supposition that peso-dollar parity would continue, it had no absolute right to have that
+commercial balance maintained specifically by the continuation of peso-dollar parity in
+all circumstances. If parity ceased to exist, Claimant had the right to expect that the
+resulting disruption of the commercial balance would be corrected fully and timeously, so
+that it would not be materially disadvantaged. Indeed, that expectation was reflected in
+the right to apply for renegotiation set out in Section 31.2 of the Contract. But Claimant
+did not have the right to expect that there would never, in any circumstances, be any
+
+departure from parity.?!>
+
+242. The majority has thus concluded that pesification of debts alone did not breach the treaty,
+and that if appropriate and timely steps had been taken by Respondent to restore Claimant
+to the position (in terms of the commercial balance of the Contract) that had been secured
+in the Contract, there would have been no breach of the duty to treat Claimant fairly and
+
+equitably.
+
+214 Cl, PHB qf 224- 225.
+
+2!5 Section 25.3 of the Contract in fact provides for (minor) variations in the exchange rate: “The toll rate, stated in
+United States dollars, shall be translated into pesos on a monthly basis with the assistance of the Oversight Agency,
+using the dollar/peso parity based on the average bid/offered exchange rate quoted by Banco de la Nacién Argentina
+FIVE (5) days prior to the application date. If the peso/dollar parity based on the quote of Banco de la Naci6én varies
+upward or downward by more than ONE PERCENT (1%) of the parity used to calculate the Basic Toll Rate in
+effect, the latter shall be by the total of such excess on the first day of the
+following month.”
+
+60
+
+243. The position might have been different if Respondent had made a deliberate choice to
+abandon peso-dollar parity in circumstances in which parity could have been maintained
+
+and Respondent had freedom of choice in determining its exchange-rate policy. But in the
+
+216
+
+view of the Tribunal,~'° that was not the case in Argentina during the period in question.
+
+The majority of the Tribunal accepts that although the abandonment of parity was
+obviously effected by a deliberate act of the Respondent — the enactment of the
+pesification law — and was in that narrow sense Respondent’s ‘choice’, that act was an
+acceptance of what foreign exchange markets had already shown to be an economic fact:
+the unsustainability of parity.?!’ The IMF had endorsed the economic policies pursued by
+
+Argentina prior to the crisis;?!* and the Emergency Law adopted in January 2002 by the
+
+219
+
+Respondent was regarded by a range of expert commentators~'” as a sound and coherent
+
+approach to the unavoidable facts of the extraordinary financial crisis then confronting
+
+Argentina.”
+
+244. The majority of the Tribunal accordingly does not find that the adoption and pursuit of
+the policy of pesification was per se a breach of the FET standard. The policy was not in
+
+itself unfair, and it was not in itself inequitable, to the Claimant.
+
+216 And other tribunals: see, e.g., Total S.A. v. Argentine Republic (ICSID Case No. ARB/04/1), Decision on
+Liability, 27 December 2010, {| 160, 163 (Exh. AL RA180).
+
+2'7 The Tribunal notes the chart at | 26 of Resp. C-Mem, which shows the peso-dollar exchange rate in the foreign
+exchange market of the Montevideo, Uruguay, Stock Exchange. That chart shows that the dollar-value of the peso
+was falling in Uruguay from the first week of December 2001 onwards, several weeks before the enactment of the
+Emergency Law in Argentina. Cf, Roubini Report, 7 March 2012, | 15: “Effectively, the Argentine government did
+not ‘choose’ to abandon convertibility and repeal the currency board as there was no effective economic choice or
+means or option left to maintain such regime. Rather, the economic facts on the ground led to its effective demise
+and abandonment in December 2001 and its formal legal abandonment in January 2002.”
+
+218 International Monetary Fund, News Brief 99/24, 26 May 1999, cited in Andrés Velasco, Ricardo Hausmann,
+Kennedy School of Government, Harvard University - Hard Money‘s Soft Underbelly: Understanding the Argentine
+Crisis, 2002 (Exh. RA 500); Eichengreen Report, 3 September 2012, {| 10; Roubini Report, 7 March 2012, 23.
+
+219 See Roubini Report, 7 March 2012, especially {f 31- 49, 53-55, and Eichengreen Report, 3 September 2012,
+especially {{ 26- 40.
+
+0 To avoid any possible doubt, it should be emphasized that although these factors are similar to those that would
+be taken into account in the context of a consideration of the defence of necessity, they are here wholly independent
+of the necessity defence. The factors do not bear upon the issue raised in the context of necessity: namely, whether
+in the circumstances the Respondent should be excused for what is on the face of it a breach of its international
+obligations. Here they bear on the question whether, in order to treat the Claimant with fairness and equity, it was
+absolutely essential that Respondent maintain parity at all costs. That is a question as to the precise scope of the
+obligation that was owed by Respondent to Claimant. Was it unfair or inequitable to Claimant for Argentina to
+depart from parity? In particular, was it unfair to do so in circumstances where Respondent undertook to rebalance
+the commercial contract in order to address the losses sustained by Claimant as a consequence of pesification?
+
+  
+
+ 
+
+ 
+
+61
+
+245.
+
+246.
+
+247.
+
+248.
+
+In view of that decision, it is not necessary to consider whether the position in respect of
+
+221
+
+the abandonment of parity is affected by any other provision in the Treaty,’ or by the
+
+plea of necessity in customary international law.
+
+That is, however, not an end of the matter. As has been indicated above, while the act of
+pesification was, in the view of the majority of the Tribunal, not per se a violation of the
+FET standard, it was the direct cause of financial losses to the Claimant. That leads to the
+question whether the manner in which the pesification process was implemented
+
+amounted to a breach of the FET standard.
+
+Was the manner in which the pesification process was implemented a breach of the
+BIT?
+
+It has been noted above that the preservation of the US dollar value of Claimant’s
+revenues was undoubtedly a premise upon which the investment was made, and both
+Parties entered into the Concession Contract; and it was a principle to which the
+
+222
+
+provisions of the Concession Contract“~ were intended to give effect.
+
+Respondent recognized from the outset the enormously disruptive effect that pesification
+would have on public works contracts that had been concluded upon the basis of the
+premise of constant dollar-peso parity or payment in dollars. Respondent provided, in the
+Emergency Law itself, for the renegotiation of such contracts.??? The Tribunal considers
+that provision to be a wholly appropriate, and necessary, response to the inevitable results
+of pesification upon dollarized contracts. If those contracts were left unrevised, one party
+would suffer a radical deterioration in the commercial position that it had secured by
+
+means of the express terms of the contract.
+
+221 Such as Article XI of the US-Argentina BIT, which provides that the provisions of the BIT do not “preclude the
+
+application by either Party of measures S necessary for the maintenance of public order ... or the protection of i
+essential security interes
+
+ 
+
+own
+
+ 
+
+if >. The effect of any such provision
+
+sar
+would have to be considered before the effect of the defence of necessity in customary international law is
+considered. There is, however, no such provision in the Germany-Argentina BIT.
+
+2 Notably Sections 6, 13, 24-33 and 31.2 of the Contract.
+
+23 Emergency Law, Section 9 (Exh. RA 187).
+
+62
+
+249.
+
+250.
+
+251.
+
+The Tribunal considers that the terms of the commitment that Respondent had made to
+Claimant did not require Respondent to take action during the time of the crisis actually
+to restore the commercial balance secured by peso-dollar parity. But it did require
+Respondent to make provision for restoring the commercial balance after the crisis had
+ended (as, indeed, it did, in the Emergency Law itself); and restoration of the commercial
+balance required that Claimant be compensated for losses incurred during the crisis, as
+
+well as thereafter.
+
+224 the
+
+As is explained below, in the section dealing with the renegotiation process,
+process provided for in the Emergency Law has not in fact led to the rebalancing of the
+commercial relationship between Claimant and Respondent in this case. Due to
+Argentina’s failure to timeously adjust the contract in a manner satisfactory to PdL,
+Claimant was accordingly deprived of the protection that the dollarization of PdL’s tariffs
+was designed to secure, and the value of its interest in PdL was thereby reduced, causing
+
+it financial loss.
+
+The Tribunal thus finds that the manner in which the process for agreeing on the
+contractual adjustment to offset the effects of pesification was implemented, and
+specifically Respondent’s failure to implement the promised renegotiation process
+timeously, constitute a breach of the FET standard under the BIT, for which Respondent
+is liable to make reparation. More precisely, the pesification caused the Claimant to
+sustain losses; and the breach of the FET in the BIT consists in the failure to implement
+within a reasonable period of time a renegotiated agreement to replace the security that
+had been provided by the dollarization provisions in the original Concession Contract and
+thereby restore the commercial balance of the Concession Contract between Respondent
+and the members of the Consortium, including Claimant, and to remedy the losses
+
+already sustained.
+
+224 qi 268-287, below.
+
+63
+
+252.
+
+253.
+
+254.
+
+c) The ‘Emergency Loan’
+
+At the time when the funding for the Project ran out, construction of the bridge span was
+not complete. Both parties agreed that it could not be left in its incomplete state because
+of the danger of collapse. At this point in time, funds were needed to complete the Project
+and without a completed Project, PdL was not yet in a position to collect the toll revenues
+
+on which the payment of its share of the financing as well as any profit could be realized.
+
+Claimant argued that if an adequate renegotiation had been agreed during the first half of
+2002, work on the Project could have been completed on time, and that the failure to
+secure such a renegotiation obliged it to accept a loan from Respondent to enable it to
+complete the Project. The Tribunal notes, however, that there is evidence that PdL was in
+financial difficulties even before pesification occurred. In particular: (i) PdL was
+informing the Grantor in August 2001, four months before pesification, that it was going
+to have to suspend construction of the bridge at the end of the month; (ii) PdL
+appeared to be unable to pay its creditors (Boskalis/Ballast Nedam)”**; (iii) PdL told the
+IDB in October 2001 that it could be petitioned in bankruptcy by its creditors?*’; and (iv)
+PdL’s smaller shareholders’ were apparently unable or unwilling to make further capital
+
+contributions in September 2001.??*
+
+PdL requested financial assistance from Respondent; and in February 2003 Respondent
+offered a loan of AR $51,648,352 which was sufficient to complete the Project.?2°
+Claimant’s witness, Mr Lommatzsch, testified that PdL was advised that if it did not
+
+accept the loan and finish the Project, Respondent would declare PdL to be in default and
+
+25 Exh. RA 167.
+226 LECG Exh. 26 (ICC Award, pp. 88-89).
+27 Exh. RA 170.
+
+28 Document HT_01540 produced by the Claimant on 22 February 2013 (Agreement of 11 April 2002 between
+Impregilo S.p.A., IGLYS S.A., Hochtief Aktiengesellschaft, SIDECO Americanas S.A. and IECSA S.A., Benito
+
+Roggio y Hijos S.A., Techint Compaiia Técnica Internacional $.A., the “Whereas
+
+* recitals notes that certain
+
+ 
+
+shareholders did not make the contributions requested of them).
+29 Cl. PHB if 83-84.
+
+64
+
+255.
+
+256.
+
+257.
+
+258.
+
+terminate the Concession Contract, which would necessarily have entailed a drawdown
+
+by Argentina on a US $143 million Letter of Credit posted by PdL’s shareholders.7*”
+
+The Loan Agreement, which secured the loan by the assignment of PdL’s toll collection
+rights, was signed on 21 February 2003.7*! The possibility of the assignment of tolls for
+the purpose of obtaining finance for the Project was expressly provided for by Section 33
+
+of the Concession Contract.?*
+
+According to Section 2 of the Loan Agreement, the loan was to be repaid “on the terms
+prevailing in the local market for similar loans, thus subject to the applicable lending
+interest rate and other terms by way of financial expenses, in accordance with the
+
+applicable data to be provided by the Central Bank of Argentina.”
+
+The evidence of the circumstances and reasoning behind PdL’s decision in February 2003
+to accept the loan and not to obtain alternative sources of funding, such as additional
+capital injections or further inter-company loans, does not enable the Tribunal to reach a
+clear conclusion as to the specific reasons for which PdL accepted the Emergency Loan,
+rather than to make some other arrangement to obtain additional finance. It appears that
+
+at this time alternative loan funding was scarce in Argentina.
+
+It was the responsibility of the Consortium and then of PdL to arrange financing for the
+Project beyond the Subsidy provided by Respondent.” PdL was at liberty to obtain
+finance from other sources on better terms, if it could find them. Claimant says that in
+fact PdL had no alternative source of funding available from third party banks,”™ and that
+
+it was the drastic reduction in toll revenues, resulting from the Pesification Law, Law
+
+230 Lommatzsch Stmt., {ff 109 - 116.
+
+231 Exh, CX-78.
+
+22 Exh, RA 12.
+
+233 Concession Contract, Sections 8, 22, 30.3.b).
+24 Cl. PHB 85.
+
+65
+
+259.
+
+260.
+
+25,561, that undermined PdL’s creditworthiness and was the cause of its inability to
+
+obtain finance elsewhere.”*>
+
+Claimant asserts that in early July 2003, following a change in the Government of
+Argentina, it received notice that the terms of that emergency loan had been unilaterally
+altered by the Secretariat of Public Works through the adoption of Public Works
+Resolution 14 (‘Resolution 14’) on 30 June 2003.?*° Claimant says that Resolution 14
+had three material effects: (i) it changed the repayment terms from “those prevailing in
+
+the local market for similar loans”?*7
+
+to a rate (which Claimant says was higher) charged
+for 30-day unsecured loans; (ii) it provided for the repayment of the loan through the
+daily collection of toll revenues; and (iii) it pesified the operation and maintenance costs
+
+which PdL was entitled to deduct from the toll revenues.”°*
+
+Claimant’s case is that the terms stipulated in June 2003 by Resolution 14 left PdL in an
+unsustainable financial position. The daily revenues appropriated to repayment of the
+loan were inadequate to cover interest payments and PdL’s operating expenses; and the
+interest owing was capitalized, so that the sum owed was constantly increasing.?°?
+Claimant says that because of PdL’s repayments under the loan from Respondent, PdL
+was unable to maintain the Project or pay daily expenses. In 2004 and 2005 those
+expenses were largely funded through inter-company loans made by Claimant and
+Impregilo. Claimant made loans totalling US $5,481,833 in 2004, and US $297,000 in
+2005.74
+
+235 Thid., | 85. Cl. Rep., | 74: “What HOCHTIEF correctly objects to is the unfair and unnecessary pesification of
+the toll rate, and the extremely protracted renegotiation process that is preventing HOCHTIEF from getting the
+expected and bargained for return on its investment. Cf., Lommatzsch Stmt., {| 134.
+
+236 Exh. CX-79.
+
+°37 Exh. CX-78, Section 2. That rate was identified in Resolution 14 as “the General Portfolio Lending Rate for
+Miscellaneous Transactions, a variable rate published each day by the Banco de la Nacién Argentina.
+
+238 Cl. PHB {ij 86 -90; Exh. CX-79.
+
+239 Cf, the evidence of Mr Andrés Aner, Transcript, Day 5, pp. 1018-1030.
+
+240 Cl, PHB, J 90; LECG First Report, Exh. 034, pp. 28-29.
+
+66
+
+261.
+
+262.
+
+263.
+
+264.
+
+Respondent does not challenge the essential facts concerning the effect of the provisions
+of Resolution 14.74! Respondent submitted that Resolution 14 was, however, a measure
+implementing, rather than unilaterally altering, the terms of the Loan Agreement of 21
+
+February 2003,7* and that it adopted “a fair market interest rate”.?47
+
+From a comparison of the wording of the Loan Agreement and Resolution 14, it appears
+to the Tribunal that Resolution 14 purported to give specificity to the vague terms in the
+21 February 2003 Loan Agreement regarding interest rates. Resolution 14 identified the
+repayment terms that were to be treated as corresponding to the “the terms prevailing in
+the local market for similar loans”, as it was put in Section 2 of the Loan Agreement.
+Those terms corresponded to the interest rates paid by top-tier companies on 30-day
+
+unsecured loans.
+
+The Tribunal does not consider that the specification under Resolution 14 of an interest
+rate appropriate for 30-day unsecured loans to the radically different case of a loan
+secured by the assignment of tolls from a public highway operating under a long-term
+concession, can reasonably be regarded as an implementation of a contractual provision
+stipulating the application of “the terms prevailing in the local market for similar loans.”
+The circumstances of the loans are not ‘similar’. No clear justification was offered for
+application of the 30-day unsecured loan rate to the 2003 loan to PdL,”* although it was
+said that one constraint was the inability of Respondent to engage in a transaction that
+would, by charging too low an interest rate, in effect increase the Subsidy to the Project
+provided by the Government beyond that settled when the Consortium’s bid was
+
+accepted.745
+
+The Tribunal is satisfied that the use of rates for unsecured loans as the comparator for
+the interest rate charged under the Loan Agreement was inappropriate, and that it is likely
+
+that, at least at some points, the interest rate charged was excessively high. The Tribunal
+
+241 Resp, Rej., $4 132-147.
+
+22 Resp. C-Mem. { 409; Resp. Rej., if 132-133.
+
+243 Resp, Rej., ff 142.
+
+24 See the testimony of Mr. Aner, Transcript, Day 5, pp. 1026-1034.
+25 Lommatzsch Stmt. { 110. Cf., Resp. PHB, {[ 10-13, 56-58.
+
+67
+
+265.
+
+266.
+
+267.
+
+notes, however, that the rate of interest charged was not uniformly high. It dropped from
+the high of 30% to 18.85% as from 26 September 2003,”*° and stayed around that lower
+rate until the commencement of insolvency proceedings in May 2007. (During the period
+2001-2005, all the inter-company loans made by Claimant and other PdL shareholders
+were set at the significantly lower rate of 15%.) Furthermore, the evidential record
+does not provide sufficient data to enable the Tribunal to determine by how much (if at
+all) the actual rate of interest charged day-by-day under Resolution 14, compared with an
+appropriate Argentine market rate for secured long-term debts, exceeded the maximum
+
+interest rate that would have been fair and equitable.
+
+The Tribunal considers that the use of an inappropriate comparator for the determination
+of interest rates under Resolution 14 was not compatible with Claimant’s rights under
+Article 2 of the Treaty, but the majority of the Tribunal also considers that Claimant has
+not proved a quantifiable loss under this heading. The majority of the Tribunal
+accordingly decides not to make an award of damages specifically to compensate
+Claimant for losses arising from any excessive interest rates charged under the
+
+Emergency Loan.
+
+Turning to the treatment of PdL’s expenses, the Tribunal does not consider that the
+pesification of operation and maintenance costs which PdL was entitled to deduct from
+its toll revenues was a step that had been agreed in (or was compatible with) the Loan
+Agreement of 21 February 2003. The text of the Loan Agreement does not evidence any
+such agreement. This was a further step taken in Resolution 14 on 30 June 2003, which
+
+adversely affected PdL, and hence adversely affected the value of Claimant’s investment.
+
+It is clear that the pesification of operation and maintenance expenses, much of which
+
+required the importation of expensive equipment involving expenditure in US dollars,”
+
+46 Resp. Rej., J 140. Resp. notes that Hochtief itself already talked of an annual 20% rate in a document it submitted
+to the German government on 5 March 2007 (Request for Compensation from Hochtief to the German government,
+5 March 2007, p. 3 (Exh. RA 358)), and not the 30% rate contended by Claimant in its Reply of 5 June 2012. Cl.
+Rep., { 69: Resp. Rej., fn 200.
+
+247 LECG First Report, {| 57; and Exh. 034, p. 85
+
+248 Cl. PHB, fn. 160.
+
+68
+
+268.
+
+269.
+
+270.
+
+reduced the value of the expenses that PdL was entitled to deduct before making its loan
+repayments and left it making a loss on the maintenance and operation of the Project. The
+Tribunal thus finds that the pesification of operation and maintenance expenses was a
+
+violation of Article 2 of the BIT, for which reparation is due.
+
+The Tribunal accordingly considers that the specific terms imposed by Resolution 14 on
+30 June 2003 cannot reasonably be said to have been previously agreed in the February
+Loan Agreement or to be consistent with it. When those terms are considered in the
+context of PdL’s frozen tariffs, pesified and not adjusted for inflation, they are, in the
+
+view of the Tribunal, unfair and inequitable and a violation of Article 2 of the BIT.
+
+d) The renegotiation process
+
+The Tribunal has decided that the manner in which the pesification process was
+implemented, and in particular Respondent’s failure to implement the promised
+renegotiation process timeously, constitute a breach of the FET standard under the BIT
+
+for which Respondent is liable to make reparation.“?
+
+It is more accurate to speak of the unacceptable delay in the implementation of the
+renegotiation process, because even now it remains possible that the process might be
+implemented in the future. Renegotiation of many public contracts inevitably takes time;
+and some will be renegotiated before others. The limit of what would be an acceptable
+delay in the context of an alleged breach of the FET standard is a matter of appreciation.
+Some delay would not have been incompatible with Fair and Equitable Treatment; but at
+a certain point, the to-be-expected time that it takes for a complex renegotiation to occur
+becomes unacceptably unfair and inequitable. Claimant pointed to the recent award in
+
+EDF International SA & Ors v. Argentine Republic,?° in which liability for breach of a
+
+29 4 251, above.
+280 EDF International S.A., SAUR International S.A. and Leén Participaciones Argentinas S.A. v. Argentine
+Republic (ICSID Case No. ARB/03/23), Award, 11 June 2012; CLA 238.
+
+69
+
+271.
+
+272.
+
+273.
+
+251
+
+BIT was founded upon delays in renegotiation; but each case turns on its facts?’ and
+
+must be appraised separately.
+
+(i) The unimplemented renegotiations
+
+It was in January 2002 that Law No. 25,5617? provided, in Article 9, for the
+renegotiation of public works contracts, a category that included the Concession
+Contract. Claimant’s witness, Mr Lommatzsch, recalled in his first Witness Statement”,
+dated 29 April 2010, that he had been a director of PdL since 1998 and its President from
+March 2005 to August 2007.7°* He referred to his personal involvement in numerous
+discussions and other meetings between PdL and the Argentine Government between
+2003 and 2009. He testified that PdL had continually tried to engage Respondent in
+“negotiations aimed at reaching agreement on a renegotiated contract that would
+compensate PdL for its losses and re-establish the toll rates so that the concession will
+earn PdL and its shareholders the expected return that Argentina’s actions have prevented
+
+them from receiving.”?°°
+
+In May 2006 PdL signed a Carta de Entendimiento (the ‘May 2006 CdE’)?*° which
+provided for an increased toll rate and adjusted the economics of the Project. Mr
+Lommatzsch said that it was not a perfect solution, and not sufficient fully to compensate
+PdL for all of the losses attributable to Law No. 25,561, but that PdL had nonetheless
+
+signed it and awaited the approval of the new terms by the Government.?*”
+
+The necessary Government approvals for the May 2006 CdE were not obtained and it
+
+was not implemented. A second CdE was sent to PdL by Respondent in February 2007
+
+5! In EDF the iation was the ibility of a provincial g within Argentina, rather than of the
+federal Government of the Republic.
+
+252 Exh. CX-63.
+
+253 Lommatzsch Stmt., {| 137ff.
+
+254 Tbid., (1.
+
+255 Thid., | 136. See generally Lommatzsch Stmt. §{[ 130-158; Supp. Lommatzsch Stmt., {{] 4-22.
+
+256 Lommatzsch Stmt., Exh. JJ.
+
+257 Thid., 145 — 146.
+
+70
+
+274.
+
+275.
+
+276.
+
+277.
+
+288 bid.,
+2° bid.,
+20 Tbid.,
+261 Thid.,
+2 See |
+
+(the ‘February 2007 CdE’).?** According to Mr Lommatzsch, its terms were less
+favourable to PdL than the terms of the May 2006 CdE: nevertheless, in his words,
+“desperate to finalize a renegotiation, and moderate the financial squeeze it had been put
+in due to Argentina’s actions, PdL signed the February 2007 CdE on February 27,
+2007.”?°? The February 2007 CdE also remained unimplemented.
+
+PdL signed another agreement on renegotiation, the ‘December 2009 Acuerdo
+Transitorio’ 7° on 17 December 2009.”°! Claimant Hochtief abstained from participating
+in the vote by PdL shareholders on the decision to sign this agreement, and indicated that
+it would not suspend or renounce its ICSID claim (which had been filed at the end of
+2007)? against Respondent.”°? That agreement, too, remained without Government
+
+approval and unimplemented.
+
+On 14 June 2010, the ‘June 2010 Acuerdo Transitorio’?™ was sent by UNIREN to PdL.
+It was substantially identical to the December 2009 Acuerdo Transitorio. PdL signed it,
+
+though again Hochtief abstained from voting.” It was not implemented.
+
+On 13 October 2010, the ‘October 2011 Acuerdo Transitorio’*®© was sent by UNIREN to
+PdL. It was similar but not identical to the June 2010 Acuerdo Transitorio. PdL signed it,
+
+but again Hochtief abstained from voting.?* It was not implemented.
+
+A fourth Acuerdo Transitorio, the ‘March 2012 Acuerdo Transitorio’ 7° was sent to PdL
+
+on 6 March 2012. Yet again, PdL approved the agreement; but Claimant abstained.”
+
+Exh, MM.
+
+q isi.
+
+Exh. 00.
+
+qa 154 — 155.
+6 above.
+
+263 Exh, RA 433.
+264 Exh, CX-150.
+265 Mairal Supp. Opinion, Exh. 2; Cl. PHB {| 100.
+266 Exh, CX-156.
+261 Mairal Supp. Opinion, Exh. 3; Cl. PHB {{ 101.
+268 Exh, CX-160.
+
+71
+
+278.
+
+279.
+
+280.
+
+281.
+
+Each Acuerdo Transitorio was intended to be an interim agreement, to be replaced within
+twelve months by a Comprehensive Contract Renegotiation Agreement.?”” No such
+
+Comprehensive Agreement has been made.
+
+According to Mr Lommatzsch, whose evidence in this respect was not disputed,
+UNIREN renegotiated 92% of the public works contracts within its jurisdiction by April
+2009.77! It is not to be expected that every eligible contract could be renegotiated at once,
+or even within a short time of the start of the renegotiation process; and it is obvious that
+one contract or another must be the last to be renegotiated. The question is whether there
+is anything in the particular treatment of the PdL that breaches the FET standard. The
+
+Tribunal considers that there is.
+
+(ii) The excessive delay in the renegotiation
+
+The most salient of the particular factors that mark out this case are (i) a need for
+renegotiation both occasioned by, and recognized and provided for, by Respondent’s own
+pesification legislation, (ii) Respondent’s awareness of the precarious position of the
+Project and of PdL, evident at least from the time of the conclusion of the Loan
+Agreement on 21 February 2003; (iii) Respondent’s awareness of the damages claim in
+this case, whose registration by ICSID was notified to the Parties on 17 December 2007;
+and, against this background, (iv) Respondent’s repeated failure to implement the
+agreements on renegotiation that had been signed by PdL in 2006, 2007, 2009, 2010,
+2011, and 2012.
+
+The renegotiation process was a necessary element — the key element — of the fulfilment
+of Respondent’s obligation under the Treaty to treat PdL in a fair and equitable manner
+following the 2002 pesification and the complete disruption of the premises upon which
+
+the Concession Contract was based.””” The failure to proceed expeditiously to implement
+
+ 
+
+269 Mairal Supp. Opinion, Exh. 4; Cl. PHB {| 102.
+270 Article 1.3 in each of the texts.
+271 Lommatzsch Stmt., { 158.
+
+2? The preamble to Decree 214/02 refers to the “strong interference with the legal relationships, both of public law
+and of private law” that resulted from the crisis (Exh. CX-68).
+
+72
+
+282.
+
+283.
+
+284.
+
+285.
+
+the renegotiated terms agreed with PdL, in a situation where the urgency of the
+rebalancing of the economic relationship after the Respondent’s legislative intervention
+was clear, and in particular when the Claimant’s Memorial in this case focused attention
+upon the compatibility or lack thereof of the continuing delays and abandonments of
+agreed terms with Respondent’s obligations under the Treaty, all combine to persuade the
+Tribunal that Respondent’s failure to secure the implementation of the renegotiated terms
+
+was unfair to PdL.
+
+Respondent’s conduct amounts to more than the disappointment of the hopes and
+expectations of the Project Consortium. It crosses the line between what is merely sub-
+optimal administration and bureaucratic delay, and it becomes a failure to remedy the
+adverse consequences of governmental measures that is so prolonged and so complete as
+
+to infringe the investor’s rights under the Treaty.
+
+It is not easy to identify a precise date by which renegotiation should have been
+completed, but there are three indications that the renegotiation was not completed within
+
+what was a reasonable time in the context of the Argentine laws.
+
+First, renegotiation was mandated by the Emergency Law, Law No. 25,5617”
+
+in January
+2002. Title IV (and in particular Article 9) of the Emergency Law provided for the
+renegotiation of public works contracts, and Article 8 of Decree 214/02 provided for
+adjustments of contracts to be made annually (and in some circumstances, more
+frequently) so as to “preserve the continuity of the contractual relationship in a way
+
+equitable for the parties.”?”*
+
+Secondly, during the PdL insolvency proceedings, in June 2008, the Argentine Court
+took the view that UNIREN’s refusal to continue the renegotiation of the concession
+
+agreement was contrary to the aims of Argentine law, and that more than six years after
+
+273 Exh. CX-63.
+274 Exh. CX-68.
+
+73
+
+286.
+
+287.
+
+288.
+
+275 B
+
+the enactment of Emergency Law 25,561 “the grave imbalance in the terms of the
+
+[Concession] agreement persists”.?”>
+
+Third, the Tribunal notes that it was practicable for the Parties to conclude a negotiated
+settlement by 2006 or 2007 at the latest. PdL was prepared in 2006 to accept — and,
+indeed, did accept — a negotiated settlement, and the Claimant was also willing to accept
+that settlement as a shareholder in PdL. But the 2006 CdE was repudiated by the
+presentation of the 2007 CdE to PdL by Respondent on 12 February 2007.?”°
+
+The Tribunal considers that Respondent’s failure to conclude an agreement on
+renegotiation was a violation of the FET standard in the BIT. While the Tribunal is
+satisfied that the violation had occurred by 26 February 2007, when Claimant sent to
+Respondent its notice regarding the existence of a dispute under the BIT,?”’ that is not the
+date that will be relevant to the calculation of the reparation due in respect of injury
+caused by the breach. The breach consists in the failure to redress the commercial balance
+that had been disrupted by the pesification Law, Law 25,561 on 6 January 2002; and the
+
+injury for which reparation is due includes losses suffered on and after 6 January 2002.
+e) Conclusion on FET
+The Tribunal has thus concluded that there were violations of the FET standard in Article
+
+2 of the BIT, in respect of which reparation is due, constituted by:
+
+(1) the failure to restore and redress the commercial balance that had been
+secured by the Concession Contract, after that balance had been disrupted
+by the pesification Law, Law 25,561, on 6 January 2002; and
+
+(2) the pesification of operation and maintenance expenses in Resolution
+14 of 30 June 2003.
+
+(B) FULL PROTECTION AND SECURITY: Articles 2(1) and 40)
+
+ 
+
+(C) EXPROPRIATION: Article 4(2
+
+xh. CX-106.
+
+26 Cl, Rep. | 85; CdE (February 2007) (Exh. CX- 100).
+
+277 B
+
+xh. CX-101.
+
+74
+
+(D)
+
+(E)
+
+(F)
+
+289.
+
+290.
+
+291.
+
+THE ‘OBSERVANCE OF OBLIGATIONS’ OR ‘UMBRELLA CLAUSE’: Article
+72)
+
+ARBITRARY OR DISCRIMINATORY MEASURES: Article 2(3
+
+BREACH OF BINDING UNILATERAL DECLARATIONS
+
+ 
+
+Having considered and decided upon Respondent’s liability for breach of the FET
+standard in Article 2 of the BIT, the Tribunal now turns to the other BIT standards upon
+
+which Claimant relied.
+
+Not all BIT standards are the same; nor is the FET standard, despite its undoubted
+breadth, capable of subsuming every other BIT standard. As a matter of fact, however, it
+may be evident that where the same facts are said to constitute breaches of more than one
+BIT standard, and where the alleged losses are the same in each case, equally detailed
+analysis of the application of each of the treaty standards to the facts of the case is
+
+redundant.
+
+So it is here; and especially because the terms of the protections accorded under Articles
+2, 3 and 4 of the BIT appear to overlap. The claims concerning Full Protection and
+Security [BIT Articles 2(1) and 4(1)],7”* the claims concerning expropriation [BIT Article
+
+280
+
+4(2)],?” the claims concerning arbitrary or discriminatory measures,”*° and the claims
+
+concerning the ‘observance of obligations’ or ‘umbrella clause’,”*! are all based on
+essentially the same facts and same arguments as the claims based upon the FET
+standard. It is not argued that these other standards entail a different approach to
+causation or to determination of quantum, or to liability for a different range of losses;?°?
+and the Tribunal considers that these additional grounds for the claims are adequately
+
+addressed by its decisions in respect of the FET standard. The same is true of claims
+
+278 See Cl. Mem. | 426-437.
+
+29 See Ibid., Wf 454-508.
+
+280 See Ibid., | 438-447, 448-453
+
+281 See Ibid., 1 509-527.
+
+282 See Ibid., | 536- 549, 550-551. See also the LECG Report, Losses to Hochtief AG’s Investments in Puentes del
+Litoral S.A., 29 April 2010, submitted by Claimant.
+
+75
+
+(G)
+
+292.
+
+293.
+
+294.
+
+based upon general international law obligations and the breach of binding unilateral
+
+commitments made by Respondent.?*?
+
+THE DURATION OF THE EMERGENCY AND THE OPERATIVE DATE OF
+THE BREACHES
+
+The Tribunal has decided that (1) Respondent’s failure to implement timeously the
+renegotiation process (i.e., by 2006 or 2007, but taking account of prior losses: see
+paragraph 286 above) and (2) the adoption of Resolution 14 in June 2003, violated the
+BIT. The next question is whether either breach might be excused or rendered unlawful
+by the defence of necessity. That would be possible only if the emergency persisted at the
+
+relevant time,
+
+Fixing a date for the ‘end’ of an economic crisis is a highly subjective exercise,
+overwhelmingly influenced by the precise factors or indicia upon which one focuses and
+the degree of change or stability that one regards as qualifying as a return to a normal,
+
+non-crisis situation.
+
+The Tribunal found persuasive the expert evidence suggesting that 2003 saw a
+
++ and that the worst of the crisis in macro-
+
+resumption of growth in the economy”*
+economic terms was over by mid-2003 (although the Tribunal accepts that the social and
+other effects on Argentine society identified by Dr Kliksberg persisted well after that
+time).?*° Other tribunals have found significant dates in this period, such as the date of the
+election of President Kirchner on 26 April 2003.7*° The selection of such a date does not
+signify the possibility of making a precise objective determination of a date on which the
+economic crisis ended: rather, it signifies the exercise by a tribunal of its power to decide
+
+a case on the evidence before it, and the need to stipulate a particular date in order to give
+
+283 See Cl. Mem. ff 528- 536.
+28 Eichengreen Report, | 26.
+285 Edwards Report, 208.
+
+28 LG&E Energy Corp., LG&E Capital Corp. and LG&E International Inc. v. Argentine Republic (ICSID Case No.
+ARB/02/1), Decision on Liability, 3 October 2006, 229-230.
+
+76
+
+295.
+
+296.
+
+297.
+
+298.
+
+effect to the tribunal’s reasoned judgment. No more and no less can be expected than a
+serious attempt by a tribunal to identify a suitable date on the basis of the evidence
+
+provided by the Parties.
+
+87 in this case
+
+The evidence presented by the respective experts, for both Parties,”
+indicates that the crisis was over by the mid-2003, the time during which President
+Kirchner was elected. Bearing in mind the practicalities of financial accounting and
+calculation, this Tribunal accordingly fixes 1 May 2003 as the date at which the crisis
+
+ended.
+
+The road and the bridges were opened to toll-paying traffic on 23 May 2003.7** The
+Tribunal has found no compelling evidence that the delay in the opening of the Project
+was caused by conduct that is attributable to Respondent and is in breach of the BIT.
+PdL’s income stream accordingly began to flow on 23 May 2003; and it was that income
+stream whose dollar value is protected by the FET provision in Article 2 of the BIT. But
+
+that flow begins after the end of the crisis, as determined by the Tribunal.
+
+To be precise, the actions of Respondent, in breach of its obligations under the BIT, that
+produced the reduction in value of PdL’s income stream were the failure to correct the
+imbalance caused by the pesification introduced by the Emergency Law, Law No. 25,561
+in January 2002, and the imposition of the terms of the Emergency Loan by Resolution
+
+14 on 30 June 2003.
+
+The effects of the non-correction of the Emergency Law upon which the Tribunal bases
+its calculation of reparation due to PdL are in principle all losses sustained after and as a
+result of the enactment of the Emergency Law on 6 January 2002. In practice, the
+majority of the Tribunal has found no quantifiable losses of this kind that arose prior to
+23 May 2003. It was after the opening of the road and bridges to toll-paying traffic on
+that date, that the impact of the pesification and the Emergency Loan upon PdL’s income
+
+stream from tolls began to be felt. The Tribunal accordingly decides by a majority that
+
+287 Edwards Report, {{ 208, and Tr., Day 6, p. 1140. Eichengreen Report, | 26, and Tr. pp. 2122-2123.
+288 Cl. Mem. 4.
+
+77
+
+299.
+
+300.
+
+301.
+
+302.
+
+303.
+
+289 g,
+
+while the renegotiation and ‘rebalancing’ should have occurred by 2006 or 2007,7*? the
+duty to restore the balance extended back to cover all ‘unbalancing’ losses resulting from
+
+the 2002 Emergency Law, and thus covered the losses arising after 23 May 2003.
+
+While it is theoretically possible that some type of damage arose prior to 23 May 2003 —
+for example, the value of the difference between the terms of the Emergency Loan
+granted by Argentina to PdL and whatever loan or other financing might have been
+available to PdL had it been able to show the lender that the Contract had been
+satisfactorily readjusted to offset the effects of pesification — the majority of the Tribunal
+
+finds that no such losses have been proven.
+
+The adoption of Resolution 14 occurred after 23 May 2003. Its impact similarly postdates
+both the end of the economic crisis and the opening of the road and bridges to toll-paying
+
+traffic.
+
+The Tribunal accordingly rejects the submission that either breach can be excused or
+exculpated by reason of the economic crisis and the doctrine of ‘necessity’ under
+customary international law. That rejection inevitably follows from the chronology of the
+facts in this case. The economic crisis had ended by the time that the losses for which
+
+reparation is due were sustained.
+
+(A) CLAIMANT’S SHARE OF THE REPARATION
+
+The analysis has proceeded thus far by focusing on the reparation due in respect of the
+breach of the FET standard in the BIT, but without addressing the question of Claimant’s
+
+entitlement to a part of that reparation.
+
+The Tribunal has found, in summary, that Claimant is entitled as an investor within the
+meaning of the BIT to sue in respect of breaches of the BIT committed by Respondent in
+its dealings with PdL, in which Claimant had an investment at the material times. Further,
+
+the Tribunal has determined that the adoption of Resolution 14 on 30 June 2003 and
+
+ee above, Hf 286-287.
+
+78
+
+304.
+
+305.
+
+306.
+
+307.
+
+Respondent’s failure to implement the renegotiated agreements timeously violated the
+
+BIT.
+
+It does not follow that just because Claimant is entitled to sue in its own name, without
+bringing PdL into the proceedings, it is also entitled to take away all or part of the
+reparation without bringing PdL into the picture. As a shareholder in PdL, Claimant has
+obligations as well as rights; and one of those obligations is to accept that the assets of
+PdL would be properly applied to satisfy the legitimate demands of all PdL’s creditors
+
+and all PdL’s shareholders, according to the priorities laid down by law.
+
+In the view of the Tribunal, it cannot be assumed that Claimant has an unencumbered
+right to a share of the reparation due to PdL that corresponds to the share of the stock in
+PdL held by Claimant. Other shareholders and creditors of PdL may have claims on sums
+paid by way of reparation. The question is, whether this is a matter for the Tribunal in
+this case, or whether any such claims are a matter between Claimant and persons not
+
+party to these proceedings.
+
+The Tribunal has decided that it is beyond both its responsibilities and its powers to make
+dispositive orders in this respect. Neither PdL nor any other persons are parties to this
+arbitration or subject to its jurisdiction. The Tribunal accordingly proceeds on the basis of
+the approach adopted by other tribunals, and makes an award for reparation of which
+Claimant will be entitled to a share corresponding to the proportion of its shareholding.
+But it does so with the proviso that Claimant must disclose this award to the board of
+
+PdL, drawing the board’s attention specifically to this Section (H).
+
+The Tribunal has accordingly decided that Claimant is entitled to 26% of the damages
+caused to PdL by Respondent, as the share corresponding to its share in the equity of
+
+PdL.
+
+79
+
+308.
+
+309.
+
+310.
+
+@
+
+Claimant asks for full reparation for all of its losses caused by Respondent.” It submits
+that there should be no deduction made in respect of the payment that it received under
+
+the political risk insurance that it had arranged with the German Government.”?!
+
+The Tribunal decides that the insurance payment, which is understood to amount to EUR
+11,359 (US$ 17.7 million?°”) should not be deducted from the amount due to Claimant.
+The insurance payment is a benefit which Claimant arranged on its own behalf, and for
+which it paid. It does not reduce the losses caused by Respondent’s actions in breach of
+the BIT: it is an arrangement that had been made by Claimant with a third party in order
+to provide a hedge against potential losses. The Tribunal does not consider that any
+principle of international law requires that such an arrangement, to which Respondent
+was not a party, should reduce Respondent’s liability.?°? It may be that under such
+insurance policies the protected investors are obliged to hand over to the insurer all or
+part of any sums recovered as damages: but that is a matter of private contract, into which
+
+the Tribunal has no cause to inquire.
+
+The Tribunal has already determined that amounts received by Claimant in its capacity as
+a contractor on the Project do not affect its entitlement to compensation for injury to its
+
+investment in the Project.”
+
+THE APPROACH TO THE DETERMINATION OF QUANTUM
+
+ 
+
+The general approach: the reduction in value of Claimant’s shareholder interest in PdL
+
+311.
+
+The Tribunal has considered carefully the arguments in the reports of the Parties’
+respective experts, and their respective approaches to the determination of quantum. In
+their 2010 report Claimant’s experts Messrs Abdala and Spiller of LECG (later
+
+Compass/Lexecon) estimated damages as of 31 December 2009, at US$ 74.6 million,
+
+2 Cl. Rep., Section XIV, ‘Damages’.
+291 Cl. Rep., 435 ff.
+282 See the Sandleris and Schargrodsky Valuation Report, | 173.
+
+283 Cf., Joannis Kardassopoulos and Ron Fuchs v. Georgia (ICSID Cases Nos. ARB/05/18 and ARB/07/15), Award,
+3 March 2010, | 691 (a decision on third party funding and liability for costs.)
+
+24 Above, { 181.
+
+80
+
+312.
+
+313.
+
+using the Discounted Cash Flow (‘DCF’) approach, and at US$ 109.0 million using the
+Net Capital Contribution (‘NCC’) approach. Those figures were revised in their 2012
+report to US$ 109.4 million and US$ 157.2 million respectively, as of 31 May 2012.
+Respondent’s experts Messrs Sandleris and Schargrodsky estimated damages as of late
+December 2010 at sums within a range from negative US$ 3.83 (i.e., damages owed to
+
+the Respondent)?” to a positive US$ 1.07 million.
+
+The wide gap between the experts’ estimates is largely attributable to the different
+assumptions concerning key issues on which they based their work. For example,
+Claimant’s experts valued damages as at later dates (2010, 2012), and on the basis that
+sums recovered under the political risk insurance that Claimant had taken out should be
+disregarded, that but for Respondent’s measures tariffs and expenses would have been
+dollarized and revised, so that Respondent is responsible for losses resulting from
+pesification, and that Respondent was responsible for the non-payment of the IDB loan
+and for delays in completing the Project and that Respondent is liable to repay the loans
+advanced to PdL by Hochtief. Claimant's experts also assume that but for Respondent’s
+actions PdL would have been profitable, and that Claimant would have received
+dividends and have seen the value of its equity share in PdL increase, and would have
+
+had its loans to PdL repaid.
+
+On the other hand, Respondent’s experts assumed that the date for valuation should have
+been early 2002, when the pesification measures were enacted; that Claimant’s receipts
+under the political risk insurance should be deducted; that there was no possibility of
+maintaining dollarized tariffs after 2002, even in a ‘but for’ scenario; and that Respondent
+was not responsible for the non-payment of the IDB loan (and Claimant was therefore in
+breach of its contractual obligation to obtain FIFA) or for delays in completing the
+Project. Respondent’s experts assume that PdL would not have been profitable and that
+
+no dividends could have been paid to the shareholders.
+
+285 See the explanation in Resp. PHB {{{ 77-80.
+
+81
+
+314.
+
+315.
+
+316.
+
+317.
+
+318.
+
+There is little common ground between the experts; and the Tribunal finds that the
+approach of neither set of experts is entirely satisfactory. Indeed, where there were great
+differences between the scenarios contemplated by the experts, comparison of their
+reports was an exercise of regrettably limited utility. The Tribunal does, however, have a
+
+clear view on the losses for which compensation is due.
+
+In broad terms, the measure of the damage is the amount by which the value of
+Claimant’s 26% shareholding in PdL was reduced by Respondent’s conduct in violation
+of the BIT. It is to be assumed that this amount is equivalent to 26% of the reduction in
+
+value of PdL caused by Respondent’s breaches of the BIT.
+
+The main element in the reduction in the value of PdL is the difference between the sums
+that PdL actually received from tolls and the sums that it should have received if
+pesification had not occurred and if the toll rates had been revised annually in line with
+
+the US Consumer Price Index, as the Concession Contract provided.
+
+Claimant’s experts have taken a relatively conservative approach to the determination of
+toll receipts. They have, of course, the actual figures for receipts up until recent months;
+and in calculating the toll revenues as they would have been ‘but for’ the pesification and
+toll freeze they have assumed that the higher ‘dollarized’ tolls would have reduced
+demand, and therefore toll income, because of the elasticity of demand.?°° Respondent’s
+experts challenge, inter alia, the elasticity values, and the validity of any assumption that
+PdL could (even in the absence of Respondent’s actions) have maintained dollarized
+
+tariff rates after 2002.
+
+The Tribunal finds the approach of Claimant’s experts to the estimation of the estimation
+of toll receipts in the ‘but for’ scenario to be persuasive. In their Second (2012) Report,?””
+Claimant’s experts revised their estimate of toll receipts in the ‘but-for’ scenario, in the
+light of the analysis of elasticities in the study ‘Rosario to Victoria Bridge Traffic and
+
+Revenues’ (1 June 2012), by Mr Philip Bates of Buro Happold. Mr Bates proposed an
+
+296 LECG First Report, i 138-151.
+27 Compass Lexecon, Second Report, 5 June 2012, Section III.1.6.
+
+82
+
+319.
+
+320.
+
+321.
+
+322.
+
+323.
+
+‘envelope’ of elasticity values. The initial values used by Messrs Abdala and Spiller lay
+comfortably within the envelope; but the Tribunal considers that it is appropriate, given
+the burden that lies upon Claimant to prove its case, to prefer the experts’ calculations
+
+based on Mr Bates’ lower bound figures.”
+
+The other element driving the reduction in value of PdL is the pesification of operation
+
+and maintenance expenses imposed by Resolution 14.
+
+The Tribunal has given careful consideration to the question of the claims for
+consequential costs. Claimant claimed for losses flowing from its inability to obtain the
+IDB loan, and the delay in beginning operations.” These include the extra costs incurred
+as a result of the failure of the IDB loan to materialize, and the allegedly excessive costs
+
+of the 2003 Emergency Loan.
+
+The factual evidence is, in the view of the Tribunal, not adequate to support the
+conclusion that Respondent is responsible for the non-materialization of the IDB loan.
+Nor is the evidence of the market rate for loans to companies in the position of PdL in
+Argentina in 2003 sufficiently clear to warrant the making of an order for compensation
+
+specifically related to the alleged increases in PdL’s costs of borrowing.
+
+The pesification of operation and maintenance costs in Resolution 14, in contrast, is a
+clear departure from the basic principles on which the Concession Contract was
+concluded, and notional reparation for those losses is to be counted in the ‘but for’
+
+scenario, from which Claimant’s entitlement to reparation will be calculated.
+
+Claimant also asserts that it suffered damage to its investment as a result of the fall of
+PdL towards bankruptcy. The evidence on this point is not clear. Prior to the onset of the
+financial crisis, the Consortium’s members’ own invoices as contractors were paid,*°
+
+evidently enabling them to recoup their own capital contributions; but PdL’s principal
+
+288 Thid., | 109.
+2% See e.g., the LECG Report, 2.
+
+30 In a letter dated 4 December 2002 from the Boskalis International BV-Ballast Nedam Baggeren BV joint venture
+to the Argentinean Ministry of Economy, it was alleged that PdL gave priority to paying its own
+shareholder/contractors before paying its principal subcontractor, the joint venture. (Exh. RA 460)
+
+83
+
+324.
+
+325.
+
+subcontractor, the Boskalis-Ballast Nedam joint venture, was not paid, setting in motion
+the events that led to the ICC award against PdL rendered on 28 November 2003 and the
+insolvency proceedings initiated against PdL in April 2007, first by Boskalis-Ballast
+Nedam on the ground of non-payment of the ICC award and then by PdL’s own board.
+But evidence is lacking to prove that PdL did not receive sufficient monies from
+Respondent to have been able to pay the invoices received from Boskalis-Ballast Nedam
+
+if PdL had chosen to give priority to the payment of those invoices.
+
+Given the Project’s difficult financial straits in the deteriorating financial conditions of
+Argentina in the months leading up to the Emergency Law’s enactment, the Tribunal
+finds that there is insufficient evidence to warrant the conclusion that the bankruptcy
+proceedings against PdL were caused by the pesification process or any other breach of
+the BIT for which Respondent was responsible; and it declines to order the payment of
+any reparation in respect of PdL’s fall towards bankruptcy. Indeed, the Tribunal’s
+assumption must be that if it requires a revenue stream to be calculated in dollars, in
+order to avoid any unjust enrichment, it must equally assume that all of PdL’s liabilities
+are similarly to be calculated in dollars. On this basis, and having regard to the normal
+priority of creditors over shareholders, PdL must be assumed to have been placed in a
+position to fully repay all of its debts, including to Boskalis-Ballast Nedam, to Argentina
+(for the Emergency Loan), and to those shareholders such as Hochtief who advanced
+loans to the company. It follows that the valuation exercise must assume no insolvency
+
+and the full repayment of sums owing to creditors without any discount.
+
+The Tribunal has accordingly decided that for the purpose of calculating the reparation
+due to Claimant in this case, the reduction in value is to be Claimant’s 26% share of the
+difference in US dollars between the actual value of PdL at the date of this Decision, and
+the value that PdL would have had if all other factors had remained as they stand in the
+
+‘actual scenario’ except that:
+
+a) Peso-dollar parity had been maintained; and
+
+b) The tolls had been revised in accordance with the US Consumer Price Index, as
+provided in Article 25 of the Concession Contract;
+
+84
+
+c) The numbers of each kind of toll payments had been the actual numbers reduced to
+take into account the impact of the elasticity of demand as estimated in the lower
+bounds of Mr Bates’ report, as indicated by Claimant’s experts in paragraph 109 of
+their Second Report (2012) ; and
+
+d
+
+The actual operation and maintenance costs and all other financial liabilities incurred
+by PdL, including all of its debts, had not been pesified or reduced in the insolvency
+proceedings.
+
+Temporal limitations on recovery
+
+326.
+
+327.
+
+As far as the temporal limitations on damages are concerned, as noted above, since the
+Respondent has not effected a proper readjustment of the Concession Contract, the actual
+losses in the present case begin when the income stream began to be affected, on 23 May
+2003, because no earlier loses have been proven. Respondent’s liability arises from its
+failure after the end of the economic crisis to restore PdL to the economic position upon
+which the Parties had agreed at the beginning of the Project, and to maintain PdL in that
+position. That is a continuing failure, and the losses resulting from it continue to accrue.
+The Tribunal accordingly decides by a majority that damages are to be assessed as at the
+
+date of this Decision.
+
+The calculation is therefore to be effected by reference to the reduced value of PdL as it
+stands at the date of the Decision. The Tribunal would reject the claims for the recovery
+of anticipated losses that may arise after the date of the Award, because the Tribunal has
+no reason to suppose that Respondent will ignore the implications of this Decision for its
+continuing obligations towards PdL and Claimant.**! The approach adopted here does not
+violate that principle. It is the present value of PdL that has been reduced, albeit by taking
+into account present expectations as to the future treatment of the Project. It is that loss in
+
+the present value of PdL that is the basis of the compensation in this Decision.
+
+81 See in this respect, Mobil Investments Canada and Murphy Oil Corporation v. Canada (ICSID Case No.
+ARB(AF)/07/4), Decision on Liability and on Principles of Quantum, 22 May 2012, {9 473 et seq: cf., Navigational
+and Related Rights (Costa Rica v. Nicaragua), Judgment, 13 July 2009, 1.C.J Reports 2009, p. 267, 150.
+
+85
+
+328.
+
+329.
+
+330.
+
+331.
+
+332.
+
+333.
+
+The Tribunal accordingly decides that damages are to be assessed as at the date of this
+Decision. As noted above, the damages begin when the income stream begins to be
+
+affected, on 23 May 2003.
+
+() COSTS
+
+The Tribunal has considered the submissions of the Parties on the question of costs, and
+
+the manner in which the litigation has been pursued.
+
+Although the Tribunal has not ordered the payment of reparation under every one of the
+heads of claim presented by the Claimant, the core of the claim has been upheld and the
+Tribunal has held that Claimant is entitled to reparation for the losses caused by
+Respondent’s violation of Claimant’s rights under the BIT. Those losses include
+
+Claimant’s reasonable costs in pursuing this claim, payable as at the date of this Decision.
+
+The Tribunal considers that the costs, including legal costs and the costs of expert
+witnesses, are high, but not excessively high given the length and complexity of these
+proceedings. It starts from the principle that the successful Party should recover its costs,
+but considers that a substantial part of the Claimant’s case was not accepted and that in
+the circumstances it would not be fair to impose the entire costs upon the Respondent.
+Accordingly, it reduces the costs claimed (US $9,233,758) by 25% and decides that the
+Respondent should reimburse the Claimant in the sum of US $6,925,318.50.
+
+(K) | INTEREST
+
+The Tribunal has decided that compound interest is payable on sums due to Claimant
+from the date on which the payment should have been made to Claimant (e.g., each day
+on which there was a difference between the actual rate toll revenues and the non-
+
+pesified, revised toll revenues).
+
+Compound interest is payable on any and all sums due under this Decision from the date
+
+of the Decision until the date when the payment of such sums is made.
+
+86
+
+334. Interest is payable at the rates of short-term US Treasury Bills at the relevant times,
+
+compounded quarterly.
+
+(L) THE SUM TO BE PAID
+
+335. The Tribunal has not been able, on the basis of the information submitted by the Parties,
+to calculate the actual sum that results from the application of the principles set out
+above. This Decision orders the payment of that sum; and if the Parties are unable to
+agree within three months on the actual sum in US dollars payable as a result of this
+Decision, the Tribunal will invite each Party to submit, simultaneously and within a
+further two months, a brief setting out that Party’s calculation of each element of the sum
+due in accordance with paragraph 325, and an explanation of the points on which there is
+
+disagreement. The Tribunal will then fix the actual sum payable.
+
+87
+
+VI.
+
+DECISION OF THE TRIBUNAL ON LIABILITY
+
+336.
+
+On the basis of the foregoing, the Tribunal DECIDES as follows:
+
+Having already determined (by a majority) that it has jurisdiction over the claims in this
+case, the Tribunal concludes, by a majority, that claims made by Claimant in its capacity
+as a lender to PdL are inadmissible. All the other objections by Respondent to the
+
+admissibility of Claimant’s claims, are rejected;
+
+As explained in paragraphs 209-288, Respondent breached its obligations under Article 2
+of the BIT to grant to Claimant fair and equitable treatment, by (1) the failure to restore
+and redress the commercial balance that had been secured by the Concession Contract,
+after that balance had been disrupted by the pesification Law, Law 25,561, on 6 January
+2002; and (2) the pesification of operation and maintenance expenses in Resolution 14 of
+
+30 June 2003, and reparation is due in respect of those breaches;
+
+The Tribunal finds that it does not need to resolve Claimant’s claims concerning Full
+Protection and Security [BIT Articles 2(1) and 4(1)], expropriation [BIT Article 4(2)],
+arbitrary and discriminatory measures, and ‘observance of obligations’ or ‘umbrella
+clause’, because they are all based on essentially the same arguments as the claims based
+upon the FET standard. As noted under paragraph 291, it has not been argued that these
+other standards entail a different approach to causation or to determination of quantum, or
+to liability, and the Tribunal considers that these additional grounds for the claims are
+
+adequately addressed by its decisions in respect to the FET standard;
+
+As is explained in paragraphs 292-301, Respondent’s submission that the breaches in the
+present case can be excused or exculpated by reason of the economic crisis and
+
+‘necessity’ under customary international law, is rejected;
+
+Claimant is entitled to 26% of the damages caused to PdL by Respondent, corresponding
+to its share in the equity of PdL, and the Tribunal decides, by a majority, that such
+
+damages are to be assessed as at the date of this Decision;
+
+88
+
+The political risk insurance payment that Claimant had arranged with the German
+Government should not be deducted from the amount due to Claimant, as explained in
+
+paragraph 309;
+
+Since the Tribunal has not been able, on the basis of the information provided by the
+Parties, to calculate the actual compensation to be paid, the Parties are to calculate and
+submit, in accordance with the principles set out in paragraph 325, the information
+
+required under paragraph 335, in the manner and within the time limits indicated therein;
+
+As decided in paragraphs 332-334, interest on all sums due to Claimant from the date on
+which the payment should have been made to Claimant, and on any and all sums due
+under this Decision from the date of the Decision until the date when the payment of such
+sums is made is payable at the rates of short-term US Treasury Bills at the relevant times,
+
+compounded quarterly.
+
+As to costs, and as explained in paragraphs 329-331, Respondent should reimburse the
+
+Claimant in the sum of US$6,925,318.50.
+
+Done in English and in Spanish, both versions being equally authentic.
+
+89
+
+[signed] [signed]
+
+ 
+
+Honorable Charles N. Brower Mr. J. Christopher Thomas, Q.C.
+Arbitrator Arbitrator
+
+[signed]
+
+Professor Vaughan Lowe
+President
+

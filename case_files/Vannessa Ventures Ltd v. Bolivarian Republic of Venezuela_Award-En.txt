@@ -1,0 +1,3779 @@
+INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
+WASHINGTON, D.C.
+
+IN THE PROCEEDING BETWEEN
+
+VANNESSA VENTURES LTD.
+(CLAIMANT)
+
+AND
+
+THE BOLIVARIAN REPUBLIC OF VENEZUELA
+(RESPONDENT)
+
+(ICSID Case No. ARB(AF)/04/6)
+
+ 
+
+AWARD
+
+ 
+
+Members of the Tribunal
+Professor Vaughan Lowe QC, President
+Hon. Charles N. Brower, Arbitrator
+Professor Brigitte Stern, Arbitrator
+
+Secretary of the Tribunal
+Ms Ann Catherine Kettlewell
+
+Representing Claimant Representing Respondent
+
+Mr John B. Laskin Dra Cilia Flores
+
+Mr John A. Terry Procuradora General de la Republica
+Torys LLP Paseo Los Ilustres c/e Av. Lazo Marti
+79 Wellington Street West, Suite 3000 Ed. Sede Procuraduria General de la
+Toronto, Ontario MSK 1N2 Republica, Piso 8
+
+Canada Urb. Santa Monica
+
+Caracas 1040
+
+Venezuela
+
+and
+
+Mr Ronald E.M. Goodman
+Ms Janis H. Brennan
+
+Mr Alberto Wray
+
+Ms Mélida Hodgson
+
+Foley Hoag LLP
+
+1875 K Street, N.W., Suite 800
+Washington, DC 20006
+United States of America
+
+Date of Dispatch to the Parties: January 16, 2013
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page
+TABLE OF CONTENTS i
+TABLE OF ABBREVIATIONS iii
+L PROCEDURAL HISTORY. 1
+Il. THE FACTS 10
+Ill. JURISDICTION 31
+A. Definition of “Investment” Step One: “any kind of asset...” ....c.ccseceeeseeeeeeee 33
+1. Respondents Position........ccccsecseseesesecseseeeseeeseeeseesseessessseeseeeeseneees 33
+2. Claimant’s Position 33
+3. The Tribunal’s Decision .............cccesseesesseessessesseeseeseeseeseeseseeseseeneeneenees 34
+B. Definition of “Investment” Step Two: “asset owned or controlled . . . in
+accordance with” the host State’s laws 36
+1. Respondent’s Position
+2. Claimant’s Position
+3. The Tribunal’s Decision
+C. Constraints on the Transfer of the Shareholding under Venezuelan
+Contract Law. 39
+1. Respondents Position........ccccsecseseesesecseseeeseeeseeeseesseessessseeseeeeseneees 39
+2. Claimant’s Position Al
+3. The Tribunal’s Decision .............cccessesseeseessesesseeseeseesessessesseeesseneeneenees 43
+D. In Accordance with the Law on Public Procurement and Administrative
+Contracts 46
+1. Respondents Position.........ccccesecseseeseseeseseeseseeeseeeseeseeesseeseeeeeeeeseeeees 46
+2. Claimant’s Position 47
+3. The Tribunal’s Decision .............cccessesseeseessesesseeseeseesessessesseeesseneeneenees 47
+E. In Accordance With Good Faith and Public Policy.........csccsesseeseseeseeeeeeeeeees 48
+1. Respondents Position.........ccccesecseseeseseeseseeseseeeseeeseeseeesseeseeeeeeeeseeeees 48
+2. Claimant’s Position 49
+3. The Tribunal’s Decision .............cccesseesesseessessesseeseeseeseeseeseseeseseeneeneenees 50
+F. In Accordance With Venezuelan Decree 2095 ..........ceccecseseeeesessesseeseseeeeseenee 50
+1. Respondents Position........ccccsecseseesesecseseeeseeeseeeseesseessessseeseeeeseneees
+2. Claimant’s Position
+3. The Tribunal’s Decision
+G. The Tribunal’s Conclusion on Jurisdiction..........0.cecescesseceeseesesseeseseeeeeeseenee 51
+IV. MERITS 52
+A. Expropriation 52
+
+ 
+
+VI.
+
+VIL.
+
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Claimant’s Position: Gold Rights 52
+2. Claimant’s Position: Copper Rights 54
+3. Respondent’s Position: Gold Right
+4. Respondent’s Position: Copper Rights .
+5. The Tribunal’s Decision
+B. Fair and Equitable Treatment and Full Protection and Security ............ccse 66
+1. Claimant’s Position 66
+2. Respondents Position........ccccsecseseesesecseseeeseeeseeeseesseessessseeseeeeseneees 67
+3. The Tribunal’s Decision .............cccesseesesseessessesseeseeseeseeseeseseeseseeneeneenees 68
+CONCLUSION 71
+COSTS 71
+DISPOSITIF 72
+
+ 
+
+TABLE OF ABBREVIATIONS
+
+ 
+
+Additional Facility Rules
+
+Rules Governing the Additional Facility for the
+Administration of Proceedings by the
+Secretariat of the International Centre for
+Settlement of Investment Disputes in effect
+from January 1, 2003
+
+ 
+
+Arbitration Rules
+
+Schedule C to the Additional Facility Rules (as
+defined above)—Arbitration (Additional
+Facility) Rules
+
+ 
+
+Canada-Venezuela BIT or the BIT or the
+Treaty
+
+The Agreement Between the Government of
+Canada and the Government of the Republic of
+Venezuela for the Promotion and Protection of
+Investments dated July 1, 1996, which entered
+into force on January 28, 1998
+
+ 
+
+Claimant or Vannessa
+
+Vannessa Ventures Ltd.
+
+ 
+
+Claimant’s Memorial
+
+Memorial on the Merits of Vannessa Ventures
+Ltd., January 13, 2006
+
+ 
+
+Claimant’s Reply
+
+Reply on the Merits of Vannessa Ventures
+Ltd., August 21, 2009
+
+ 
+
+Copper Concessions
+
+Concessions for the exploitation of copper on
+the Las Cristinas sites issued in 1996
+
+ 
+
+CVG
+
+Corporacién Venezolana de Guayana.
+
+ 
+
+Decision on Jurisdiction
+
+Decision on Jurisdiction of August 22, 2008
+
+ 
+
+Ex. C-
+
+Exhibit filed by Claimant
+
+ 
+
+Ex. R-
+
+Exhibit filed by Respondent
+
+ 
+
+Extension Agreement
+
+Agreement between Corporacion Venezolana
+de Guayana, Placer Dome, Inc., Placer Dome
+de Venezuela, C.A. and Minera Las Cristinas,
+C.A. of August 8, 2000
+
+ 
+
+FET
+
+Fair and equitable
+
+ 
+
+ 
+
+First Pinedo Witness Statement
+
+First Witness Statement of José Antonio
+Pinedo, January 10, 2006
+
+ 
+
+First Rauguth Witness Statement
+
+First Witness Statement of Erich Rauguth, July
+22, 2009
+
+ 
+
+FPS
+
+Full protection and security
+
+ 
+
+ 
+
+ICSID or the Centre
+
+ 
+
+International Centre for Settlement of
+Investment Disputes
+
+ 
+
+iii
+
+ 
+
+ 
+
+MEM
+
+Ve la’s Ministry of Energy and Mines
+
+ 
+
+ 
+
+MINCA
+
+Minera Las Cristinas C.A.
+
+ 
+
+MINCA Bylaws
+
+Minera Las Cristinas C.A. Bylaws dated
+August 28, 1997
+
+ 
+
+Original Transaction Agreement
+
+Transaction Agreement between Placer Dome
+B-V Limited, Vannessa Ventures Ltd. and
+Vannessa Holdings Corporation dated July 25,
+2001
+
+ 
+
+PBV
+
+Placer B-V Limited
+
+ 
+
+PDV
+
+Placer Dome de Venezuela, C.A.
+
+ 
+
+Phoenix Project
+
+Las Cristinas Project Staged Development
+Feasibility Study dated April 2000
+
+ 
+
+Placer Dome or PDI
+
+Placer Dome Inc.
+
+ 
+
+REMINCA
+
+Relaves Mineros Las Cristinas S.A.
+
+ 
+
+Respondent or Venezuela
+
+Bolivarian Republic of Venezuela
+
+ 
+
+Respondent’s Counter-Memorial
+
+Counter-Memorial on Merits and Jurisdiction
+of the Bolivarian Republic of Venezuela,
+March 13, 2009
+
+ 
+
+Respondent’s Memorial on Jurisdiction
+
+Memorial on Jurisdiction of the Bolivarian
+Republic of Venezuela, August 28, 2006
+
+ 
+
+Respondent’s Rejoinder
+
+Rejoinder on Merits and Jurisdiction of the
+Bolivarian Republic of Venezuela, February 1,
+2010
+
+ 
+
+Scotia
+
+Scotia Capital Inc.
+
+ 
+
+Second Patines Witness Statement
+
+Second Witness Statement of Franqui Patines,
+March 3, 2009
+
+ 
+
+Tr. [day:page: line]
+
+Transcript of the hearing on jurisdiction and
+merits held from October 3 to 6, 2011
+
+ 
+
+Work Contract
+
+Work Contract entered by CVG and MINCA
+on March 3, 1992
+
+ 
+
+1991 Shareholders Agreement
+
+Shareholders Agreement between Corporacion
+Venezolana de Guayana and Placer Dome, Inc.
+of July 25, 1991
+
+ 
+
+ 
+
+1997 Amended Shareholders Agreement
+
+ 
+
+Amended Shareholders Agreement between
+Corporacién Venezolana de Guayana and
+Placer Dome, Inc. of July 31, 1996
+
+ 
+
+ 
+
+PROCEDURAL HISTORY
+
+1. On July 9, 2004, the International Centre for Settlement of Investment Disputes
+(“ICSID” or the “Centre”) received a request from Vannessa Ventures Ltd. (the “Claimant” or
+“Vannessa”) for arbitration against the Bolivarian Republic of Venezuela (the “Respondent” or
+“Venezuela”) (jointly, the “Parties”) under the Rules Governing the Additional Facility for the
+Administration of Proceedings by the Secretariat of the International Centre for Settlement of
+Investment Disputes (Additional Facility Rules) in effect as of January 1, 2003 (the “Additional
+Facility Rules”). The proceeding was brought under the Agreement Between the Government
+of Canada and the Government of the Republic of Venezuela for the Promotion and Protection of
+Investments dated July 1, 1996 (the “Canada-Venezuela BIT” or the “BIT” or the “Treaty”),
+
+which entered into force on January 28, 1998.
+
+2. By letters dated August 23, 2004, and September 15, 2004, Claimant
+
+supplemented its Request for Arbitration.
+
+3. On October 28, 2004, the Secretary-General of ICSID approved Claimant’s
+access to the Additional Facility in accordance with Article 4 of the Additional Facility Rules.
+On the same day, the Secretary-General registered the Request for Arbitration in accordance with
+Article 4 of Schedule C to the Additional Facility Rules—the Arbitration (Additional Facility)
+Rules (the “Arbitration Rules”)—and pursuant to Article 5 of the Arbitration Rules invited the
+
+Parties to constitute an arbitral tribunal.
+
+4. No agreement was reached between the Parties on the constitution of the tribunal.
+Accordingly, Claimant invoked Article 6(1) of the Arbitration Rules according to which the
+tribunal would be composed of three arbitrators—one appointed by each party, and the third, the
+
+presiding arbitrator, appointed by agreement of the Parties.
+
+5. By letter dated January 26, 2005, Claimant appointed Judge Charles N. Brower, a
+national of the United States of America, as arbitrator. On February 15, 2005, Respondent
+
+appointed Mr Jan Paulsson, at that time, a national of France, as arbitrator.
+
+6. On May 20, 2005, the Parties informed the Centre that they had jointly appointed
+Mr V.V. Veeder, a national of the United Kingdom, as the third and presiding arbitrator.
+
+7. On June 7, 2005, the ICSID Secretary-General notified the Parties and the
+arbitrators that the Tribunal had been constituted and that the proceeding was deemed to have
+commenced on that date in accordance with Article 13(1) of the Arbitration Rules. On the same
+date, the Parties were informed that Mr José Antonio Rivas, ICSID Counsel, had been appointed
+
+as Secretary of the Tribunal.
+
+8. On July 29, 2005, the Tribunal held its First Session with the Parties in London,
+
+U.K. The following individuals were present at the First Session:
+
+Members of the Tribunal
+
+Mr V.V. Veeder, President
+Judge Charles N. Brower, Arbitrator
+Mr Jan Paulsson, Arbitrator
+
+ICSID Secretariat
+Mr José Antonio Rivas, Secretary of the Tribunal
+
+Representing Claimant
+
+Mr John Terry, Torys LLP
+
+Ms Julie Maclean, Torys LLP
+
+Representing Respondent
+
+Dr Ronald E.M. Goodman, Winston & Strawn LLP
+
+9. During the First Session, the Tribunal decided on several procedural matters and,
+with the Parties’ agreement, set a timetable for the Parties to make their submissions and produce
+documents. This timetable was later amended on several occasions in accordance with the
+Parties’ requests. It was also confirmed that Additional Facility Arbitration Rules in effect from
+
+January 1, 2003 were applicable to the proceeding.
+
+10. On December 23, 2005, the Centre informed the Tribunal and the Parties that
+Mr Martin M. Serrano, ICSID Counsel, had been appointed as Secretary of the Tribunal in
+
+replacement of Mr José Antonio Rivas.
+
+11. On January 13, 2006, Claimant submitted its Memorial.
+
+12. On February 28, 2006, Claimant submitted an amendment to its Request for
+Arbitration. By letter dated March 3, 2006, Respondent stated its opposition to Claimant’s
+request to introduce an amendment. After considering the Parties’ observations on the matter,
+the Tribunal decided on March 15, 2006, pursuant to Articles 47 and 35 of the Arbitration Rules,
+to grant Claimant’s request and to introduce the amendment as an ancillary claim and to treat it
+
+as having been made and pleaded on February 28, 2006.
+
+13. On April 4, 2006, the Centre informed the Tribunal and the Parties that
+Ms Claudia Frutos-Peterson, ICSID Counsel, had been appointed as Secretary of the Tribunal in
+
+replacement of Mr Martin M. Serrano.
+
+14. On July 5, 2006, Respondent raised objections to the Tribunal’s jurisdiction and
+requested a suspension of the proceedings in accordance with Article 45(4) of the Arbitration
+
+Rules. On July 10, 2006, Claimant objected to the suspension of the proceedings.
+
+15. On July 14, 2006, the Centre informed the Parties that the Tribunal had suspended
+the proceeding in accordance with Article 45(4) of the Arbitration Rules, and had established a
+schedule for the Parties’ submissions on jurisdiction. The schedule was modified twice
+
+subsequently pursuant to requests by the Parties.
+
+16. Pursuant to the revised schedule, on August 28, 2006, Respondent submitted its
+Memorial on Jurisdiction. On December 15, 2006, Claimant submitted its Counter-Memorial on
+Jurisdiction. On February 16, 2007, Respondent filed its Reply on Jurisdiction. On April 16,
+
+2007, Claimant submitted its Rejoinder on Jurisdiction.
+
+17. On April 25, 2007, the Tribunal was provided with a revised list of individuals
+who would participate in the hearing on jurisdiction. Among the persons listed as representing
+Claimant was Professor Christopher Greenwood. On April 27, 2007, the Centre transmitted to
+the Parties declarations by two Tribunal members with respect to Professor Greenwood. On
+May 3, 2007, Respondent submitted observations on the further declarations. On May 4, 2007,
+the Tribunal invited Claimant to provide its comments on Respondent’s observations. Claimant
+
+provided its observations on May 4, 2007.
+
+18. | On May 7, 2007, the hearing on jurisdiction took place in London, U.K. The
+
+following individuals were present at the hearing:
+
+Members of the Tribunal
+
+Mr V.V. Veeder, President
+Judge Charles N. Brower, Arbitrator
+Mr Jan Paulsson, Arbitrator
+
+ICSID Secretariat
+Ms Claudia Frutos-Peterson, Secretary of the Tribunal
+For Claimant
+
+Mr John Laskin, Torys LLP
+
+Mr John Terry, Torys LLP
+
+Ms Julie Maclean, Torys LLP
+
+Prof. Christopher Greenwood, Essex Court Chambers
+Ms Marianna Almeida, Vannessa Ventures Ltd.
+
+Mr John Morgan, Vannessa Ventures Ltd.
+
+Mr Ross Melrose, Vannessa Ventures Ltd.
+
+For Respondent
+
+Dr Ronald E.M. Goodman, Winston & Strawn LLP
+
+Mr Paolo Di Rosa, Arnold & Porter LLP
+
+Ms Gaela Gehring Flores, Arnold & Porter LLP
+
+Mr Dmitri Evseev, Winston & Strawn LLP
+
+Ms Cristina Sorgi, Winston & Strawn LLP
+
+Mr Bonard Molina-Garcia, Winston & Strawn LLP
+
+Mr Kelby Ballena, Winston & Strawn LLP
+
+Ms Margarita Sanchez, Winston & Strawn LLP
+
+Mr Gustavo Alvarez, Asesor adjunto al Despacho de la Procuradora General de la
+Reptiblica
+
+Mr Tulio F. Cusman, Asesor externo de la Procuraduria General de la Republica
+
+19. During the hearing, having heard the Parties’ positions regarding the participation
+of Professor Greenwood in the case, the President of the Tribunal submitted his resignation. His
+resignation was accepted by his two co-arbitrators, Judge Brower and Mr Paulsson. Before the
+session ended, Mr Paulsson also submitted, with the Parties’ consent, his resignation for personal
+reasons. The proceeding was suspended in accordance with Article 16(2) of the Arbitration
+
+Rules.
+
+20. On June 21, 2007, Respondent appointed Professor Brigitte Stern, a national of
+France, as arbitrator to replace Mr Paulsson. On October 18, 2007, Respondent and Claimant
+separately informed the Centre that the Parties had agreed to appoint Dr Robert Briner, a national
+
+of Switzerland, as the presiding arbitrator to replace Mr Veeder.
+
+21. On October 29, 2007, after Dr Briner had accepted his appointment, the Tribunal
+
+was deemed to have been reconstituted and the proceeding resumed.
+
+22. On November 29, 2007, the Tribunal informed the Parties that a hearing on
+jurisdiction would be held in Paris, France on February 14 and 15, 2008. On December 28,
+2007, the Tribunal confirmed these dates, and noted that a further date, February 16, 2008, would
+be made available for the hearing, if necessary. On January 31, 2008, the Parties informed the
+Tribunal of their proposed agreed schedule for the hearing. On February 7, 2008, the Tribunal
+
+confirmed its approval of the Parties’ proposed agreed schedule.
+
+23. The hearing on jurisdiction was held in Paris, France on February 14 and 15,
+
+2008. The following individuals were present at the hearing:
+
+Members of the Tribunal
+
+Dr Robert Briner, President
+Judge Charles N. Brower, Arbitrator
+Prof. Brigitte Stern, Arbitrator
+
+ICSID Secretariat
+Ms Claudia Frutos-Peterson, Secretary of the Tribunal
+For Claimant
+
+Mr John Laskin, Torys LLP
+
+Mr John Terry, Torys LLP
+
+Ms Julie Maclean, Torys LLP
+
+Prof. Christopher Greenwood, Essex Court Chambers
+Ms Marianna Almeida, Vannessa Ventures Ltd.
+
+Mr John Morgan, Vannessa Ventures Ltd.
+
+Mr Ross Melrose, Vannessa Ventures Ltd.
+
+For Respondent
+
+Dr Ronald E.M. Goodman, Foley Hoag LLP
+
+Mr Paul Reichler, Foley Hoag LLP
+
+Ms Janis Brennan, Foley Hoag LLP
+
+Ms Geraldine Fischer, Foley Hoag LLP
+
+Ms Angélica Villagran-Agiiero, Foley Hoag LLP
+
+Ms Gaela Gehring Flores, Arnold & Porter LLP
+
+Mr Dmitri Evseev, Arnold & Porter LLP
+
+Mr Bonard Molina-Garcia, Arnold & Porter LLP
+
+Mr Kelby Ballena, Arnold & Porter LLP
+
+Mr Gustavo Alvarez, Procuraduria General of the Bolivarian Republic of Venezuela
+Mr Tulio F. Cusman, Asesor externo de la Procuraduria General de la Republica
+
+24. On August 22, 2008, the Tribunal issued its decision on jurisdiction. It held that:
+
+a) The defense raised by the Respondent that the Arbitral Tribunal lacks
+jurisdiction because the Claimant has never acquired any right to the Las
+Cristinas or did so in a manner not in accordance with the laws of Venezuela,
+as required by Article 1(f) of the applicable bilateral investment treaty, is
+joined to the merits.
+
+b) The other three objections to jurisdiction of the Arbitral Tribunal are
+denied.
+
+c) The allocation of the costs of this phase of the proceeding is reserved for
+later.
+
+d) The Arbitral Tribunal, after consultation with the Parties, will issue an
+Order for the further procedure."
+
+25. By letter dated August 27, 2008, the Tribunal invited the Parties to consult
+
+regarding a timetable for the organization of the merits phase.
+
+26. By letter dated October 16, 2008, the Centre informed the Tribunal and the Parties
+
+that Ms Katia Yannaca-Small, ICSID Counsel, had been appointed as Secretary of the Tribunal
+
+in replacement of Ms Claudia Frutos-Peterson. The same day, the Tribunal informed the Parties
+
+that the hearing on the merits would take place from December 7 through 17, 2009.
+
+27. By letter dated February 12, 2009, Claimant informed the Tribunal that the Parties
+
+had reached an agreement regarding the schedule for the submission of written pleadings. By
+
+Vannessa Ventures Ltd. v. Bolivarian Republic of Venezuela, (CSID Case No ARB(AF)/04/6, Dec. on
+
+Jurisdiction (“Decision on Jurisdiction”), August 22, 2008, p. 33.
+
+letter dated February 18, 2009, the Tribunal informed the Parties that it had no objection to the
+
+proposed schedule for the submission of written pleadings.
+
+28. On March 13, 2009, Respondent submitted its Counter-Memorial on Merits and
+
+Jurisdiction.
+
+29. By letter dated July 7, 2009, Claimant informed the Tribunal that the Parties had
+reached an agreement to amend the schedule for the submission of written pleadings. The
+
+Tribunal informed the Parties on July 8, 2009 that it accepted the schedule as amended.
+
+30. By letter dated July 28, 2009, the Centre informed the Parties of the resignation of
+Dr Briner as arbitrator and president of the Tribunal due to ill health, and confirmed that the
+proceeding was suspended pursuant to Article 16 of the Arbitration (Additional Facility) Rules.
+The Parties were invited to consult in order to proceed with the appointment of another presiding
+
+arbitrator.
+
+31. On August 21, 2009, Claimant submitted its Reply on Merits and Jurisdiction.
+
+32. As two months had elapsed since the resignation of Dr Briner as President of the
+Tribunal, by letter dated October 1, 2009, the Centre reminded the Parties that arrangements had
+been made for the hearing on the merits to take place from December 7 through 17, 2009, and
+requested that the Parties furnish an update regarding their discussions concerning the
+
+appointment of a presiding arbitrator by October 5, 2009.
+
+33. The same day, Claimant informed the Centre on behalf of both Parties that the
+discussions for the replacement of Dr Briner were on going and, therefore, that it would be
+impossible to hold the hearing from December 7 through 17, 2009. Claimant requested that the
+arrangements for the hearing be cancelled. On October 2, 2009, the Centre informed the Parties
+that it would cancel the hearing arrangements and would notify the other Tribunal members
+
+accordingly.
+
+34. By email dated December 15, 2009, Claimant informed the Centre that the Parties
+
+continued to seek agreement on a new presiding arbitrator.
+
+35. | Respondent submitted its Rejoinder on Merits and Jurisdiction on February 1,
+
+2010.
+
+36. By letter dated May 4, 2010, Respondent requested the discontinuance of the
+proceeding pursuant to Article 50 of the Arbitration Rules alleging a lack of interest on
+Claimant’s part to continue its claims. By letter of even date, Claimant objected to the
+
+discontinuation of the proceeding.
+
+37. By letters dated May 7, 2010, Claimant and Respondent indicated their renewed
+intention to seek agreement on appointment of a presiding arbitrator. On May 27, 2010,
+Claimant advised the Centre, on behalf of both Parties, that an agreement had been reached to
+appoint Professor Vaughan Lowe QC, a national of the United Kingdom, as President of the
+
+Tribunal.
+
+38. By letter dated June 25, 2010, the Centre informed the Parties that Professor
+
+Lowe had accepted his appointment and that the proceeding was resumed.
+
+39. By letter dated September 9, 2010, the Centre informed the Tribunal and the
+Parties that Ms Janet Whittaker, ICSID Counsel, had been appointed as Secretary of the Tribunal
+
+in replacement of Ms Katia Yannaca-Small.
+
+40. On November 3, 2010, the Tribunal made a proposal to the Parties to hold a two-
+week hearing from September 26 through October 7, 2011. On January 12, 2011, the Tribunal
+invited the Parties to confirm their availability for the hearing during the proposed dates. By
+correspondence dated January 18, 2011, and January 26, 2011, the Parties informed the Tribunal
+of their availability for a hearing on the proposed dates in Washington, D.C., United States of
+
+America.
+
+41. From September 2010 to February 2011, the Parties exchanged observations
+regarding Claimant’s request to submit additional evidence in response to evidence submitted by
+Respondent with its Rejoinder on Merits and Jurisdiction. On February 23, 2011, the Tribunal
+issued a decision regarding Claimant’s request. On March 14, 2011, the Tribunal accorded
+
+Respondent the opportunity to respond to the additional evidence submitted by Claimant.
+
+42. By letter dated March 25, 2011, Respondent objected to the admission of an
+expert report submitted by Claimant on March 21, 2011. By letter of June 2, 2011, the Tribunal,
+
+having considered the submissions of the Parties, permitted Claimant to submit the expert report.
+
+43. On July 27, 2011, the Tribunal provided the Parties with an indication of areas
+where the Tribunal considered that it would have a particular interest in hearing further
+
+submissions or might wish to put questions to the Parties.
+44. On September 20, 2011, the Tribunal held a pre-hearing call with the Parties.
+
+45. The hearing on the merits was held in Washington, D.C., United States of
+America from October 3 to October 6, 2011. The following individuals were present at the
+
+hearing:
+
+Members of the Tribunal
+
+Prof. Vaughan Lowe QC, President
+Judge Charles N. Brower, Arbitrator
+Prof. Brigitte Stern, Arbitrator
+
+ICSID Secretariat
+Ms Janet M. Whittaker, Secretary of the Tribunal
+For Claimant
+
+Mr John Laskin, Torys LLP
+
+Mr John Terry, Torys LLP
+
+Mr Yousuf Aftab, Torys LLP
+
+Ms Rita Villanueva Meza, Torys LLP
+Ms Marianna Almeida, MINCA
+
+Mr Eric Rauguth, MINCA
+
+Mr John Morgan, Infinito Gold
+
+Mr John Amunrud, Infinito Gold
+
+For Respondent
+
+Dr Ronald E.M. Goodman, Foley Hoag LLP
+Ms Janis Brennan, Foley Hoag LLP
+
+Mr Alberto Wray, Foley Hoag LLP
+
+Ms Mélida Hodgson, Foley Hoag LLP
+
+Ms Tafadzwa Pasipanodya, Foley Hoag LLP
+Ms Analia Gonzalez, Foley Hoag LLP
+
+Mr Diego Cadena, Foley Hoag LLP
+
+Dr Constantinos Salonidis, Foley Hoag LLP
+
+Mr Yuri Parkhomenko, Foley Hoag LLP
+
+Ms Diana Tsutieva, Foley Hoag LLP
+
+Ms Oonagh Sands, Foley Hoag LLP
+
+Ms Martha Madero, Foley Hoag LLP
+
+Mr Timothy H. Hart, Credibility Consulting LLC
+
+46. On November 22, 2011, the Parties filed their submissions on costs.
+
+47. By letter dated November 16, 2012, the Centre informed the Tribunal and the
+Parties that Ms Ann Catherine Kettlewell, ICSID Counsel, had been appointed as Secretary of
+the Tribunal in replacement of Ms Janet Whittaker. By letter dated December 18, 2012, the
+
+Tribunal declared the proceeding closed in accordance with Article 44 of the Arbitration Rules.
+48. The Tribunal, having deliberated fully, makes the determinations set forth below.
+THE FACTS
+
+49. In 1990, Corporacién Venezolana de Guayana (“CVG”), a Venezuelan
+Government agency which had been created in 1960 to oversee development of the Guayana
+region in Bolivar State, wrote to Placer Dome Inc. (“Placer Dome” or “PDI”’), a Canadian
+corporation. The letter, dated March 30, 1990, was addressed to Placer Dome in Toronto,
+
+Canada; and it said:
+
+Please be informed that CORPORACION VENEZOLANA DE GUAYANA
+is interested in developing a mining prospectus of low law and high tonnage
+located in the concessions of Las Cristinas 4, 5, 6 and 7, State of Bolivar,
+Venezuela.
+
+In order to develop this prospectus, we will work with a joint public-private
+company with the participation of a company of recognized experience in
+similar exploitation, which must be commercially and financially solvent,
+and it must provide the technology for the open pit and underground
+exploitation and metallurgical processing of ores.
+
+We believe that the potential of the LAS CRISTINAS deposits (stockworks
+and major veins) is more than 50,000,000 tons > 3 g/t of gold.
+
+If this proposal is of interest to you, please notify us and send credentials, in
+order to consider your prequalification for the referenced project. The
+deadline for receipt of notification will be April 30, 1990, and you may
+notify us via fax, as indicated below.
+
+This invitation shall not create any obligation on the part of
+CORPORACION VENEZOLANA DE GUAYANA or its subsidiary
+companies.
+
+Very truly yours,
+[Illegible signature]
+
+Dr Vicente Mendoza
+Vice President — Mining Sector
+
+CREDENTIALS REQUIRED:
+
+1. LEGAL ASPECT:
+- Legal registration of the Company.
+
+2. TECHNICAL ASPECT:
+- Report regarding experience in exploiting and processing metallurgical
+ores, similar to that proposed above.
+
+3. COMMERCIAL ASPECT:
+- Commercial and financial aspects of the company
+- profit and loss statements of the company for the past three (3) years.”
+
+50. Placer Dome was among the companies that submitted pre-qualification
+information and was one of four companies (the other three being Venezuelan)’ that participated
+in a meeting with CVG in July 1990.4 Those four interested companies were subsequently
+narrowed down to two by CVG, and those two were the subject of a detailed evaluation report by
+
+CVG dated November 14, 1990.5
+
+51. In the evaluation report, the companies were rated according to a weighted scale,
+in which 25% of the points were allocated on the basis of “general information” concerning the
+company. That 25% was broken down under the headings of: 1) Technical Capacity —
+Research, Technicians / professionals, proprietary technologies; 2) International Experience — in
+mining, in gold (underground and open pit exploitation), other; 3) Exploration and Development
+
+/ Gold Exploitation — exploration investments, development investments, production and trends;
+
+“ Ex. R-1.
+Memorial of Vannessa Ventures Ltd., January 13, 2006 (“Claimant’s Memorial”) 4 27.
+
+Counter-Memorial on Merits and Jurisdiction of the Bolivarian Republic of Venezuela, March 13, 2009
+(“Respondent’s Counter-Memorial”) { 23.
+
+Ex. R-3. Cf, Respondent's Counter-Memorial §[ 29.
+
+4) Level of Company Integration; 5) International Assoc. Method (Joint Public-Private
+Companies); 6) Financial Aspects — consolidated capital, revenue from sales of gold, profits,
+indebtedness, investments in new development, production costs; and 7) Motivation to Invest in
+
+Venezuela.°
+
+52. The remaining 75% of the points available to be awarded in the evaluation report
+were allocated in respect of “relevant aspects of the offer.” That 75% was broken down under
+the headings of: 1) Conditions — offer vs. contract, requirements and conditions; 2) Evaluation-
+Exploration Programs of Lodes, Alluvia and Veins — schedule, estimated amount of investments,
+proposed activities; 3) Expectations from Exploitation and Benefit from Lodes, Alluvia and
+Veins; 4) Environmental Recovery Program; 5) Financial Support; 6) Project Management
+
+Method; and 7) Special Benefits.’
+
+53. Out of a possible 100 points, Placer Dome scored 86.55, and the other company
+
+scored 76.75, in the evaluation report.
+
+54. On November 30, 1990, CVG awarded the bid to Placer Dome.* Placer Dome’s
+understanding of the relationship into which it was entering with CVG was recorded in a letter
+
+from Placer Dome to CVG dated May 17, 1991. Placer Dome wrote as follows:
+
+In regards to the position of chairman, we have been guided by our
+understanding that CVG chose Placer Dome as the majority partner for its
+proven technical and commercial capacity to develop large-scale mines and
+not as a provider of technical services under contract, or as a simple technical
+adviser. If this is the case, it seems logical and normal that Placer Dome
+would take on the majority of the operational decisions. In January we
+agreed that CVG would appoint the Director of Human Resources, the
+Controller and the Secretary, but we reserved the right to appoint the general
+manager, the primary finance officer and the mine manager. We assume that
+CVG would like to appoint the chairman, although the operational authority
+of this position is, to a certain extent, only a formality, because for the joint
+company public relations and lobbying will be of great importance, and we
+
+believe that these tasks could be best carried out by a Venezuelan appointed
+by CVG?
+
+There is no suggestion or indication that CVG disagreed with this view.
+
+55. In April 1991, a Venezuelan company, Placer Dome de Venezuela, C.A. (“PDV”)
+was incorporated by Placer B-V Limited (“PBV”), a wholly-owned subsidiary of PDI
+incorporated in Barbados.'° PDV was to act as the vehicle for PDI’s investment and
+
+participation in the exploitation of Las Cristinas.
+
+56. On July 25, 1991, CVG and PDI entered into the 1991 Shareholders
+Agreement,'' in which they agreed to form two Venezuelan companies. One, Minera Las
+Cristinas C.A. (“MINCA”), was to explore and, if economically feasible, produce gold from Las
+Cristinas 4, 5, 6, and 7. The other, Relaves Mineros Las Cristinas S.A. (“REMINCA”), was to
+
+evaluate and, if economically feasible, process existing tailings at Las Cristinas 4 and 5.'”
+
+57. The 1991 Shareholders Agreement entered into between CVG and Placer Dome
+provided that 70% of the MINCA shares would be subscribed by PDV and 30% of the MINCA
+shares by a wholly-owned subsidiary of CVG. In the case of REMINCA, 51% of the shares
+would be subscribed by PDV and 49% by CVG. In the case of both MINCA and REMINCA,
+each of PDI and CVG was stipulated to be “jointly and severally liable for the obligations of its
+
+investor.”"?
+
+58. The 1991 Shareholders Agreement included the following provision, in Article V:
+
+D. Assignment; Binding Effect
+
+Except as otherwise provided in this Agreement, neither party may assign
+any of its rights or delegate any of its duties under this Agreement without
+first obtaining the prior written consent of the other party which shall not be
+unnecessarily withheld. This Agreement shall enure to and be binding upon
+
+LRA,
+
+.R-117. Cf, Respondent’s Counter-Memorial, 39.
+Ex. C-5A.
+
+2 Ex. C-5A, Preamble and Art. I.
+
+Ex. C-SA, Art. I.A.2 and Art. 1.B.2.
+
+each of the parties hereto and their respective successors and permitted
+assigns."
+
+59. On March 3, 1992, CVG and MINCA entered into a contract (the “Work
+Contract”) under which CVG agreed that MINCA exclusively would explore, develop, and
+exploit, under MINCA’s “own account and risk,” Las Cristinas 4, 5, 6, and 7.5 Clause Twenty
+Eighth of the Work Contract provided that: “The parties may not assign in any manner this
+agreement, except by prior written approval of the other party."
+
+60. The Work Contract was stipulated to continue in full force for 20 years,
+
+extendable in specified circumstances for additional 10 year terms.'7
+
+61. In 1996, concessions for the exploitation of copper on the Las Cristinas sites (the
+“Copper Concessions”) were issued by Venezuela’s Ministry of Energy and Mines (the
+“MEM”) to CVG.'* This was necessary because the recovery of copper was an integral part of
+the commercial plan for, and the commercial viability of, the recovery of the gold. The Copper
+Concessions were subject to detailed conditions in respect of matters such as reporting to the
+MEM, the training of Venezuelan personnel, the improvement of the physical, cultural, social,
+and economic conditions of the population in the neighbourhood of the concessions, and the
+protection and renewal of the environment. It was understood that the holding of copper rights
+in the legal form of copper concessions was necessary in order that Placer Dome could arrange
+guarantees for loans necessary for the exploitation of Las Cristinas.'? Rights under the Copper
+Concessions were transferred to CVG in 1996, and then transferred in turn to MINCA”? in
+
+19997!
+
+Ex. C-5A, Art. V.D.
+
+Ex. C-20A, Clause First.
+
+Ex. C-20A, Clause Twenty Eighth,
+
+Ex. C-20A, Clause Thirty First.
+
+Ex. C-39A.
+
+Respondent’s Counter-Memorial 4] 55-56.
+
+Respondent’s Counter-Memorial {f] 73-76. See also Ex. R-67; First Witness Statement of José Antonio
+Pinedo, January 10, 2006 (“First Pinedo Witness Statement”) { 51.
+
+* Ex. C-40A.
+
+62. Between 1992 and 1998, PDV, on behalf of MINCA, prepared a number of
+feasibility studies.” By August 1, 1996, PDV had spent over US$ 50 million on the exploratory
+phase and feasibility studies, and in July 1996 it estimated that the total cost for the construction
+
+and exploitation of the Las Cristinas mine would be US$ 536.5 million.
+
+63. CVG, which had committed to provide a power transmission line for Las
+Cristinas at a cost to Venezuela of US$ 45 million, and which was due to contribute another US$
+40 million, was unable to contribute further funds. Accordingly, in 1997, the 1991 Shareholders
+Agreement was revised in order to increase the financial commitment and shareholding of PDV
+
+and decrease that of CVG.
+
+64. | MINCA was reorganized, so that PDV’s share was increased to 95% and CVG’s
+share was reduced to 5%, though CVG had the option to increase its share up to 30% in the
+future by making contributions. The reorganization was formalized in the 1997 Amended
+Shareholders Agreement™ entered into by CVG, PDI, and PDV “in its capacity as PDI’s
+
+i 92!
+investor.”
+
+65. — Article X of the 1997 Amended Shareholders Agreement read as follows:
+
+ASSIGNMENT; BINDING EFFECT
+
+Section 10.01. Assignment_of Amended Agreement: Unless otherwise
+provided herein, the parties cannot assign their rights or delegate their
+obligations hereunder without the other party’s prior written consent. This
+Amended Agreement shall be binding upon and inure to the benefit of each
+contracting party, and their permitted assignees.
+
+66. The Canada-Venezuela BIT entered into force on January 28, 1998.
+
+67. After time spent arranging further financing, large-scale construction at Las
+
+Cristinas was inaugurated at a ceremony attended by President Hugo Chavez on May 2, 1999.
+
+~ First Pinedo Witness Statement { 8.
+First Pinedo Witness Statement 4 16, 31.
+- Ex. C-30.
+
+“ Description of PDV given in the Preamble to the Amended Shareholders Agreement, see Ex. C-30.
+
+At that time the price of gold had fallen to under US$ 300 per ounce.”* The falling gold price
+affected the profitability of the Las Cristinas project.
+
+68. Six weeks later, on July 15, 1999, a meeting of the MINCA Board of Directors,
+which had been called by PDV, resolved to suspend the Las Cristinas project in accordance with
+the 1997 Shareholders Agreement and the MINCA Bylaws (the “MINCA Bylaws”). The CVG-
+appointed director voted against the suspension and MEM officials expressed their displeasure at
+
+the decision.” It appears that exploitation of the mine never in fact began.
+
+69. In the view of CVG, because the suspension was a unilateral, unauthorized step,
+CVG had the contractual right to rescind the Work Contract if the suspension continued for more
+than one year,”* i.e., beyond July 15, 2000. This view of the Work Contract appears to have been
+shared by MINCA.”
+
+70. Placer Dome sought to devise alternative plans, including a ‘staged development
+plan’ (the “Phoenix Project”), for the development of Las Cristinas,*” and discussed the matter
+
+with CVG. CVG did not accept the staged development plan. No new plan was agreed.
+
+71. Placer Dome regarded the exploitation of the mine as not economically viable
+and, according to a Placer Dome press release dated June 14, 2000, decided to suspend the
+project until technology or market conditions improved. That press release also stated that
+“Placer Dome will write off the carrying value of its investment in Las Cristinas, totalling $116
+million, and will reclassify the property’s 7.4 million ounces of gold reserves as resources. >”
+
+72. | MINCA sought the agreement of CVG to the extension of the suspension for a
+
+further year, and CVG gave its agreement. An Extension Agreement was concluded by CVG,
+
+First Pinedo Witness Statement f] 54-58.
+First Pinedo Witness Statement 4 60.
+See Ex. C-20A, Clause Nineteenth.
+
+See “Las Cristinas Project. Staged Development Feasibility Study. Volume 4 — General Matters. April
+2000,” prepared by MINCA in collaboration with Placer Dome Technical Services Limited, Ex C-277: p.
+4.2, “The Work Contract allows MINCA to suspend the project for a period of up to 12 months. After such
+period, CVG can unilaterally rescind the Work Contract.”
+
+See, for example, Ex. R-10.
+See Ex. R-15.
+
+PDI, PDV, and MINCA on August 8, 2000 (“Extension Agreement”).*” Under the Extension
+Agreement, the property would be maintained and the social programs in the Guyana region
+undertaken, and the Las Cristinas project would continue; however, the mining project would be
+suspended until July 14, 2001.°° CVG considered that, under this agreement, it would again be
+entitled to exercise its right to cancel the Work Contract on July 15, 2001, because of the earlier
+
+unauthorised suspension.**
+
+73. The MINCA Board retained Scotia Capital Inc. (“Scotia”), an investment bank, in
+order to locate an investor by January 31, 2001 that would complete the transaction by June 30,
+2001, i.e., before the expiry of the agreed extension. The process was not smooth. In November
+2000, Scotia submitted a list of 28 possible investors (Vannessa’s name was not on that list).**>
+PDV considered that CVG was failing to cooperate in this effort°° CVG considered that Scotia
+was insisting upon the offering of incentives to investors that were beyond CVG’s powers to
+offer and that were, in CVG’s opinion, unnecessary to attract an investor.*’ Scotia suspended its
+activities on March 18, 2001, and its contract was cancelled on May 18, 2001 38
+
+74. | Subsequent events need to be read against the background of Article 9 of the
+MINCA Bylaws, which established a right of pre-emption in the event that one of the
+shareholders wished to sell all or part of its shareholding in MINCA. It provided that:
+
+[...] The Shareholders shall have a preferential right to purchase the shares
+that other Shareholders wish to sell for a consideration, in the proportion
+which the number of shares held by each shareholder at the time the sale
+offer is known bears to the total number of shares of the Company. For these
+purposes, the selling Shareholder shall send a letter to the Board of Directors
+of the Company informing it of the number of shares it wishes to sell, the
+name of the intended buyer and the purchase price. The Board of Directors
+
+Ex. C-60A.
+First Pinedo Witness Statement 4 62-68.
+
+Second Witness Statement of Franqui Patines, March 3, 2009. (“Second Patines Witness Statement”)
+q19.
+
+Second Patines Witness Statement 24.
+First Pinedo Witness Statement 4 69-73.
+Second Patines Witness Statement 4] 24-26, 32.
+
+First Pinedo Witness Statement | 73.
+
+shall give immediate notice of the offer to the other Shareholders, who shall
+have a term of thirty (30) calendar days to exercise their preferential right.
+
+If the other Shareholders do not exercise their preferential right, or exercise it
+partially, the selling Shareholder may sell the remaining shares for a price no
+lower than the price informed to the Board of Directors.
+
+Any transfer made in violation of this Clause shall be deemed to be void and
+without any effect upon the Company. Notwithstanding the foregoing,
+transfers of shares to related companies, wholly-owned by Shareholders,
+directly or indirectly, or by the Shareholder’s parent Company are hereby
+authorized.”
+75. The need to bring a new investor into MINCA remained. Mr José Antonio
+Pinedo, the in-house counsel for PDV at the time and now Vice-President, General Counsel, and
+
+Secretary of Placer Dome America, testified that:
+
+Placer Dome decided that while it still wanted to retain an interest in Las
+Cristinas and maintain the possibility of re-entering the project at some future
+date, it could no longer feasibly develop the project on its own in Venezuela.
+Placer Dome decided that it would seek an investor to purchase its shares in
+Placer Dome Venezuela while still retaining back-in and royalty rights to the
+[Las Cristinas] project.*°
+
+Before entering into negotiations with any third party, Placer Dome offered
+to sell its interest in Las Cristinas to CVG...
+
+76. On April 17, 2001, William Hayes [sic then Placer Dome’s Executive Vice
+President — United States & Latin America] attended a meeting with the president of CVG,
+
+General Rangel Gomez, to propose the sale.*”
+
+77. One week later, on April 25, 2001, Mr Hayes wrote to the President of CVG as
+
+follows:
+
+[...] I would like to confirm the interest of Placer Dome (Placer) in exploring
+the possibility of an agreement with the Corporation that you preside (CVG)
+to transfer to CVG the economic interest of Placer in MINCA.-
+
+Ex. C-6A.
+First Pinedo Witness Statement 4 74.
+First Pinedo Witness Statement {| 75.
+
+Id.
+
+Ex. C-74A.
+
+As a preliminary step, we have anticipated a viable alternative to facilitate a
+transition of the Project in the form of a sale or transfer of the economic
+interest of Placer in MINCA to CVG, so that CVG would become the sole
+owner of MINCA.-
+
+Placer has thought that the sale of the economic interest could be for a
+determined amount which would be paid in deferred payments with the
+income from the Project, if it is indeed developed by CVG, on its own, in
+combination with third parties, by third parties related to it, or completely on
+its own. The calculation and payment of said amount would be on the basis
+of a percentage of the income from the Project, the value of the mineral
+extracted, or a similar formula. To this end, Placer proposes that it be paid
+5% of the income from the sale of the Project mineral, in quarterly
+payments.-
+
+It is very important that, in the event that this proposal should prove feasible,
+and once both parties have defined the proposal in all its conditions
+(including the approval by the respective corporate entities of CVG and
+Placer), it be executed before July 15, 2001, the date on which the suspension
+period of the Project expires. Beyond this date, Placer cannot continue to
+cover the cost of infrastructure, facilities and social programs of the Project.-
+
+In order for it to be completed within the desired time period this proposal
+requires joint, full time, diligent and sustained work by the negotiation teams
+of the parties. The Project involves many legal aspects and businesses that
+need to be taken into consideration in order to resolve the aforementioned
+proposal. Therefore, if CVG is interested in pursuing conversation on the
+proposal, we think that the best way to do so is to immediately designate the
+negotiation teams and instruct them on the need to give priority to the
+discussion on this subject in order to close it on the date that we spoke of,
+next May 31.-
+
+Placer is at the disposal of CVG to initiate the negotiation of this alternative.
+The aforementioned notwithstanding, Placer would like to leave other Project
+negotiation options open until such a time as this operation is concluded.-
+
+As we have stated, Placer believes that current conditions do not allow the
+development of the Project as it was conceived and, as you know, MINCA
+contacted Scotia Capital in search of alternatives for developing the Project,
+but the results of this search were negative. However, these conditions could
+change in the future. Therefore, Placer wants to offer the possibility that if no
+mining project is developed in Las Cristinas after a certain period of time
+past the date of the Placer interest in MINCA to CVG, Placer could reacquire
+this interest for the same price as was negotiated with CVG.*
+
+78. CVG was interested in considering Placer Dome’s proposal. On May 14, 2001,
+CVG replied to Placer Dome, stating that it would create a team to evaluate the offer.* There is
+no evidence that a sale price or other precise terms of sale were at any time proposed by Placer
+Dome to CVG. On June 7, 2001, Placer Dome wrote again to CVG, noting that the extended
+suspension would soon expire (on July 15, 2001) and proposing a meeting in Venezuela on June
+
+14 or 15, 2001, to discuss the matter.**
+
+79. On July 11, 2001, the president of CVG wrote to the Minister at the MEM to
+make it aware of the situation with MINCA. He observed that Placer Dome had a 70% stock
+participation in MINCA, and that CVG had 30%. He noted that: (i) CVG had invested US$ 110
+million in the project; (ii) Placer Dome had notified CVG of its intention not to continue with the
+project (including the cost of the electric transmission lines); and (iii) CVG and the MEM had
+held meetings in search of an institutional consensus on ways to preserve and reactivate the
+project. He noted the imminent expiry of the extended deadline, which would occur on July 15,
+and said that “we find ourselves in urgent need of continuing the execution of the Las Cristinas
+
+Mining project through the company MINCA, assuming total stock control of said company.”*°
+
+80. On the same day, July 11, 2001, Mr Pinedo, for PDV, met Mr Franqui Patines,
+then President of MINCA. Mr Patines testified that the purpose of the meeting was to inform
+Placer Dome of CVG’s decision to consider Placer Dome’s proposal. He said that he was
+“astonished” when he “heard Mr Pinedo’s news, that Placer Dome was about to sign an
+agreement with a third party,” and that he was unaware that Placer Dome was negotiating with a
+
+third party.*”
+
+81. | Mr Pinedo testified that a Scotia representative had suggested that a deal with
+
+Vannessa might be possible, that Vannessa had contacted Placer Dome with a potential offer in
+
+First Pinedo Witness Statement 4 75.
+Ex. C-76A.
+
+Ex. C-90A (stating in Spanish at Ex. C-90: “nos vemos en la imperiosa necesidad de continuar con la
+ejecucién del proyecto Minero Las Cristinas a través de la empresa MINCA, asumiendo el control
+accionario total de la misma”).
+
+Second Patines Witness Statement 35.
+
+20
+
+April 2001, and that Placer Dome and Vannessa had met that month in New York. He wrote
+
+that:
+
+We met for the entire day and by the end of the meeting we had worked out
+the essential elements of a deal for Placer Dome to transfer its shares in
+Placer Dome de Venezuela to Vannessa. Placer Dome understood that once
+the deal was in place Vannessa would begin work on the Las Cristinas
+Project immediately through a $50 million staged development plan.
+Vannessa had a workable plan that could be implemented immediately. ...
+Placer Dome had confidence in Vannessa because Placer Dome had entered
+into a deal with it in the past for a mine in Costa Rica....
+
+During this negotiation period, Placer Dome maintained its offer with the
+CVG. Placer Dome told Vannessa that until a deal was finalized between
+Placer Dome and Vannessa, the CVG retained its option to accept Placer
+Dome’s offer. Placer Dome told the CVG that it was considering offers from
+third parties and, as a result, the CVG should act upon its offer quickly. But
+it did not specifically advise the CVG of its negotiations with Vannessa and
+was not required to do so under any of its agreements with the CVG.
+
+There is no evidence in the record of any detailed technical or financial
+
+presentation made by Vannessa to Placer Dome before July 2001. Indeed, there is no document
+
+in evidence that records Vannessa’s detailed technical or financial plans for the Las Cristinas
+
+project at all. Questioned by the Tribunal, counsel for Claimant was unable to identify any such
+
+presentation or plans.
+
+The only document in evidence that indicates even the possibility of financial
+
+backing for Vannessa is a letter dated May 25, 2001, from Mr L. B. Gordon, President of Coril
+
+Holdings Ltd, a Canadian global investment and management company, which had received
+
+assets worth in excess of $2 billion in 1998 and 1999.” The letter, which contains no firm
+
+undertaking to finance Vannessa, read as follows:
+
+To Project Owner
+Dear Sirs,
+
+Re:__Vannessa Ventures Ltd (Vannessa’
+
+First Pinedo Witness Statement {ff 80-81.
+
+Ex. R-18, see also Respondent's Rejoinder § 959.
+
+21
+
+84.
+
+Coril Holdings Ltd (“Coril”) is interested in providing financing to Vannessa
+regarding the development projects of Vannessa ranging from US$ 15
+million and higher, in accordance with a feasibility study acceptable to Coril
+and on terms satisfactory to Coril.
+
+Coril, through predecessor subsidiary companies, has a lengthy and
+successful history in the mining industry in North America and has the
+experience and financial capacity to invest in mining development projects.
+
+Coril is a major shareholder of Vannessa and as such is very interested in
+providing support to Vannessa in its initiatives to develop resources. In an
+agreement with Vannessa, Coril has a right of first refusal to provide any
+future debt, equity or other financing proposed to be undertaken by
+Vannessa. Coril remains committed to maintaining this position in
+Vannessa.
+
+Should you require any further information, please do not hesitate to contact
+me at [telephone number].
+
+Yours truly,
+[sgd]
+
+L.B. Gordon
+President™®
+
+July 13, 2001 was a Friday and the last business day before the expiry of the
+
+extended suspension on July 15, 2001. On July 13, 2001, Placer Dome finalized its agreement
+
+with Vannessa in the Original Transaction Agreement. According to Section 1.01 of this
+
+Agreement, all of the shares of PDV held by PBV, together with loans of over $68,000,000 made
+by PDV to MINCA, were bought for a total of US$ 50.*! Section 2.04 of the Agreement
+
+recorded that:
+
+85.
+
+[E]ach of the Vannessa Signatories acknowledges that the purchase of the
+PBV Interests is on an ‘as-is/where-is’ basis and ‘with all faults’ and that the
+consideration for the purchase of the PBV Interests is a reasonable and
+adequate valuation thereof.”
+
+In the Original Transaction Agreement, Vannessa agreed that it would
+
+“automatically assume all obligations of Placer, PBV, and all other Indemnified Persons” (i.e.,
+
+Id.
+
+Ex. C-4, Art. II, Section 2.02(a). To be precise, the shares were bought for US$ 25, and the loans advanced
+by PDV to MINCA, totaling over £68m, were bought for US$ 25.
+
+Ex. C-4, Art. II, Section 2.04,
+
+22
+
+all past, present and future Subsidiaries and Affiliates of PDI other than PDV and MINCA, and
+
+all officers, directors, shareholders, counsel, etc.)
+
+86. The Original Transaction Agreement made provision for a number of possible
+scenarios. It provided for payment of a percentage of revenues to PBV if Vannessa exploited
+Las Cristinas.** It gave PBV irrevocable options to repurchase the MINCA interests in certain
+
+circumstances, including (according to Section 4.01 (a)(i)):
+
+(B) the occurrence of any of the following, other than as a result, direct or
+indirect, of any act or omission by Vannessa or any of its affiliates
+(including, without limitation, MINCA, PDV and Vannessa Barbados) and
+provided that Vannessa is not then using its best efforts to cure or to
+vigorously contest the validity or consequence of such matter, or is not
+pursuing or exercising all rights and remedies with respect thereto to the best
+of its ability: any loss or material breach of the Work Contract or the Copper
+Concession, or any cancellation, revocation, rescission or termination
+thereof, or any determination or claim that the Work Contract or the Copper
+Concession was void ab initio, unconstitutional, invalid, unenforceable,
+illegal or ultra vires, or any notice, claim or allegation of any of the
+foregoing; (C) a Change of Control or proposed Change of Control of
+Vannessa ....*°
+
+87. The Original Transaction Agreement also gave PBV an irrevocable right of first
+
+refusal in the event of a proposed sale by Vannessa of its interests.*°
+
+88. The final section of the Original Transaction Agreement contemplated, not
+exploitation of Las Cristinas under the Work Contract, but rather suing Venezuela for breach of
+the Work Contract. It provided for the division between Vannessa and PBV of any damages
+
+recovered by Vannessa in litigation such as the present. It read as follows:
+
+Section 8.19 Distribution of Recovery Proceeds. If Vannessa (or any of its
+Affiliates) is permitted to contest or otherwise exercise rights or pursue
+remedies with respect to any Action referred to in Section 4.01 (a)(i)(B), the
+Parties hereby agree that (a) no settlement or compromise with respect
+thereto shall be made except with the prior consent of PVB; (b) Vannessa (or
+
+Ex. C-4, Art. II, Section 2.02(b).
+Ex. C-4, Art. III, Section 3.01.
+
+Ex. C-4, Art. IV, Section 4.01(a)(i). The term “Change of Control” is defined in great detail in Art. I of the
+Original Transaction Agreement.
+
+Ex. C-4, Art. IV, Section 4.01(a)(ii).
+
+23
+
+its Affiliates) shall be solely responsible for all legal and other costs and
+expenses relating to the conduct of such contest, exercise of rights or pursuit
+of remedies, as the case may be (collectively, “Action Costs”); and (c) all
+damages, settlement or compromise amounts, costs and expenses
+(collectively, the “Recovered Amounts”) recovered by Vannessa and all of
+its Affiliates with respect to such Action shall be applied in the following
+order of priority: (i) to pay all Action Costs, (ii) any Recovered Amounts
+remaining thereafter shall be shared equally between Vannessa and PBV;
+provided that the aggregate amount of all Recovered Amounts applied in the
+manners described in sub-clauses (i) and (ii) shall not exceed U.S. $
+10.000.000 and (iii) any remaining Recovered Amounts remaining thereafter
+shall be shared between Vannessa and PBV ina ratio equal to 1:3.°7
+
+The broad aim of the Original Transaction Agreement appears to have been that
+
+PDI would transfer its responsibilities in respect of Las Cristinas to Vannessa, but retain a right
+
+to resume its participation in the project or to share in any profits from the Project or to share in
+
+any damages resulting from the present case or similar litigation.
+
+with Vannessa by fax.*
+
+8
+
+Vannessa’s letter read as follows:
+
+37
+
+58
+
+Mr Alvaro Silva Calderén
+
+Minister of Energy and Mines,
+
+His Office.
+
+Greetings from the company directors.
+
+We hereby wish to introduce ourselves. We are a Canadian public company,
+with investments in Venezuela since 1993, and we are very pleased to
+expand our interests in the country through the purchase of the Placer Dome
+de Venezuela company by Vannessa Ventures.
+
+We made this purchase for the purpose of developing the Las Cristinas
+project, and make it profitable, sustained and sustainable in time, adapting
+ourselves to the disadvantages of the current economy.
+
+Our company has not been heavily promoted in the country. However, we
+have the necessary technical and financial capability, in addition to the
+corporate mentality, to develop the project and reach the required levels. We
+
+Ex. C-4, Art. VIIL, Section 8.19.
+First Pinedo Witness Statement {ff 83-85.
+
+On the same day, July 13, 2001, Placer Dome informed CVG of the transaction
+Again on July 13, 2001, Vannessa Ventures Ltd. wrote to the MEM.
+
+24
+
+are sure that you will be satisfied with our achievement of the social and
+economic interests in the region.
+
+Although Vannessa Ventures is a young company, our directors have more
+than thirty (30) years experience in ‘large scale’ mining in several countries
+around the world.
+
+We would like to set up, through this channel, a meeting with you and some
+of your directors,* in order to present our company, and acquaint you with
+our work plans.
+
+We are sure that we can rely on your support to achieve the proposed goals
+and benefits.
+
+Sincerely
+[Sed]
+
+91. Aslightly more detailed account appeared on Canada Newswire on the same day:
+
+Placer Dome Inc. is pleased to announce that its indirect wholly owned
+subsidiary, Placer B-V Limited (PBV), has entered into an agreement to sell
+all of the shares of Placer Dome de Venezuela C.A. (PDV) to a subsidiary of
+Vannessa Ventures Ltd. of Vancouver, Canada. PDV holds a majority
+interest in Mineras Las Cristinas (MINCA), the corporation formed to
+develop the Las Cristinas property in Bolivar State, Venezuela.
+
+PBV will retain an interest in the gold and copper revenues generated by the
+Las Cristinas property and will, under certain circumstances, have the right to
+re-acquire the shares. If PBV re-acquires the shares, Vannessa will be
+entitled to an interest in the gold and copper revenues. MINCA suspended
+construction on Las Cristinas in 1999 due to low metal prices and Placer
+Dome wrote off the carrying value of its investment in mid-2000."'
+
+92. On Saturday July 14, 2001, Mr Rauguth, for Vannessa, wrote to CVG. The letter
+
+read as follows:
+
+I respectfully write to you in order to notify you that, in addition to the
+content of the correspondence sent this past Friday, in which we state our
+decision to develop the mining concession Las Cristinas, Kilometer 88, State
+of Bolivar. I would also like to apologize for the delay in making you aware
+
+The Tribunal notes that the English translation provided by Respondent of Ex. R-145 is different as to the
+reference to “your directors” in the Spanish original which says “Nos gustaria, a través de esta
+comunicacién, concretar una reunién con su persona y algunos de nuestros directivos,...” (emphasis
+added). Therefore, this part should be translated as “our directors.”
+
+ 
+
+Ex. R-145.
+Ex. C-93.
+
+25
+
+of our existence and intention vis-a-vis the project of the aforementioned
+mining concession. The delay in signing the negotiation between our parent
+company Vannessa Ventures Ltd., and the selling company Placer Dome,
+which was totally out of our control, prevented us from any public statement.
+
+Therefore, we are asking for a vote of confidence toward our company and
+offer the assurance of our wish for a peaceful and prosperous coexistence
+between Vannessa Ventures Ltd. and the national community at large.
+
+[Sgd]
+Erich Rauguth.
+
+93. On the same day, July 14, 2001, Mr Rangel Gomez of CVG wrote to Mr Hayes of
+
+Placer Dome. The letter read as follows:
+
+TO: Board of Directors, Placer Dome de Venezuela, Caracas.
+
+In relation to communication WMH-C-072/2001 of July 13 of this year,
+signed by Mr. William M Hayes, President of Placer Dome for Latin
+America, in which he informs this Corporation of a transaction between
+Placer Dome de Venezuela and ICH [sic. sc. IHC] Corp., the latter a
+subsidiary of Vannessa Ventures Ltd. I would like to inform you that the
+Venezuelan Guyana Corporation does not acknowledge or agree with the
+share sales agreement with the aforementioned company, or any other
+company, that may have taken place in violation of the terms and conditions
+established in the Modified Shareholders Agreement, the Extension
+Agreement and the legal norms that regulate the matter and, therefore, the
+relations in our country of this transnational company could be seriously
+impaired.°
+
+94. On July 16, 2001, Mr Rauguth, for Vannessa, wrote to Mr Pinedo, for MINCA, as
+
+follows:
+
+Please undertake to inform the CVG that MINCA has made, subject to
+approval of the MINCA Board of Directors, a management decision on
+request of IHC Corp, a subsidiary of Vannessa Ventures Ltd and the new
+owner, the shares of Placer Dome de Venezuela, to undertake all necessary
+steps to place the Cristinas Property in commercial production with financing
+arranged by Vannessa Ventures Ltd. [sic].
+
+Ex. C-96A.
+Ex. C-98.
+
+Ex. C-100 and cf, Ex. C-101A (communicating MINCA’s decision by Mr Pinedo to the Principal and
+Alternate MINCA Directors).
+
+26
+
+95. Mr Pinedo summoned members of the MINCA Board to hear the IHC Corp
+proposal, but Mr Patines and Mr Madeo, the Directors representing CVG, did not attend “since
+CVG does not acknowledge and rejects the sale agreement of shares regarding the
+
+aforementioned company.”*
+
+96. On July 20, 2001, Mr Rangel Gémez wrote to Mr Hayes, saying that: (i) he had
+met MINCA representatives that morning; (ii) he considered that “Placer Dome unilaterally, and
+in our opinion, behind the back of the Republic ... negotiated in an indirect and biased manner
+with third parties” to sell its shares in MINCA “without informing [CVG] or making any formal
+
+and legal offers;” and (iii) “it would be desirable for Placer Dome to take a look at such an
+
+unpleasant and insincere negotiation so that we may resume conversations, if you so desire, in a
+
+more transparent manner.”°°
+
+97. Later in July 2001, further agreements were made by Placer Dome and Vannessa
+to complete the sale of Placer Dome’s interests to Vannessa, and PDV was renamed Vannessa de
+
+Venezuela C.A.°”
+
+98. On August 6, 2001, CVG gave 90 days’ notice of its intention to rescind the Work
+Contract with MINCA. CVG’s letter enumerated various acts and omissions that it considered
+to be justifications for this rescission, including: (i) the failure to file reports as required by
+Clause Ninth of the Work Contract; (ii) MINCA’s failure to end the suspension of work at Las
+Cristinas in accordance with Clause Nineteenth of the Work Contract and the subsequent
+extension, which expired on July 15, 2001; and (iii) the transfer by Placer Dome of its shares in
+PDV to Vannessa Ventures Ltd, without the written authorization of CVG, which CVG said was
+
+required by the Work Contract.”
+
+Ex. C-103A.
+
+Ex. C-284A.
+
+Ex. C-4; Ex, C-286A; Ex. R-21; Ex. R-138; Ex. R-139; and Ex. R-140.
+Ex. C-109A. See also Ex. C-20A, Clause Twenty Sixth.
+
+Ex. C-20A, Clause Ninth.
+
+The letter refers to Clause Twenty Fifth of the Work Contract, which deals with waiver of breaches and the
+voiding of contractual provisions. The requirement for written authorization in fact appears in Clause
+
+27
+
+99. There were several exchanges of views between the interested parties, but the
+dispute was not settled. In one such exchange, Mr Rauguth, writing as President of MINCA,
+requested arbitration of the dispute under Clause Twenty Sixth of the Work Contract; but that
+
+request was not taken up.”! It is not necessary to rehearse those exchanges in detail here.
+
+100. On November 6, 2001, CVG formally notified MINCA of the termination of the
+Work Contract and gave it seven days to vacate the Las Cristinas site.” On November 16, 2001,
+
+CVG took physical possession of the site and of certain associated physical assets.”
+
+101. In 2002, various measures were taken under the law of Venezuela to cancel the
+concessions and transfer control of the rights under them to the Government of Venezuela. It is
+
+not necessary to rehearse them in detail.”
+
+102. In May 2002, the MEM authorized CVG to enter into operation agreements with
+third parties for the exploitation of Las Cristinas. In July 2002, CVG considered bids from five
+companies and, in September 2002, CVG announced that it had reached an agreement with
+
+Crystallex, a Canadian company, for the exploitation and development of Las Cristinas.”
+
+103. | MINCA, now controlled by Vannessa, brought ten sets of legal proceedings in the
+Venezuelan courts to protect its rights to Las Cristinas and to nullify the CVG-Crystallex
+
+agreement as follows:
+
+(i) a constitutional petition filed on September 11, 2001, to protect
+MINCA’s property and enforce the arbitration provisions in the work
+contract. On November 8, 2001, the court held the application inadmissible;
+and on March 19, 2002, that decision was confirmed by the Supreme Court.
+
+(ii) a constitutional petition filed on November 16, 2001, to prevent CVG
+taking over the Las Cristinas site. On February 19, 2002, the court held that
+
+ 
+
+Twenty Eighth, which stipulates that “[t]he parties may not assign in any manner this agreement, except by
+prior written approval of the other party.” See Ex. C-20A, Clause Twenty Eighth.
+
+Ex. C-145,
+Ex. C-148A.
+
+First Witness Statement of Erich Rauguth, July 22, 2009 (“First Rauguth Witness Statement”) {| 87.
+Ex. C-166A; Ex. C-167A; Ex. C-172A; and Ex. C-173A.
+
+Claimant’s Memorial $f] 180-84.
+
+28
+
+it was the wrong forum; and on April 30, 2002, the second court declined to
+admit the application.
+
+(iii) a constitutional petition filed on January 18, 2002, challenging
+MINCA’s termination of the Work Contract and seeking an injunction to
+prevent CVG disposing of MINCA’s rights. On March 20, 2002, the court
+held the application inadmissible because it was a contractual and not a
+constitutional matter. An appeal was rejected on February 26, 2003.
+
+(iv) an action filed on May 3, 2002, with requests for interim relief, seeking
+nullification of CVG’s decision to terminate the Work Contract. The case
+was withdrawn in July 2004, by which time it had proceeded to the
+evidentiary stage.
+
+(v) an action filed on May 13, 2002, with requests for interim relief, seeking
+nullification of a MEM decision of March 8, 2002, reassuming rights to the
+Las Cristinas gold concessions. The case was admitted by the court on July
+7, 2004.
+
+(vi) an action filed on May 15, 2002, with requests for interim relief, seeking
+nullification of the Presidential Decree of April 2002 relating to the gold
+concessions. The case was admitted on July 17, 2002. On May 11, 2004, the
+court decided that the case should proceed to the evidentiary stage.
+
+(vii) an action filed on May 30, 2002, seeking to compel CVG to attend
+arbitration. On July 15, 2004, the court declined to admit the application.
+
+(viii) an action filed on September 26, 2002, with requests for interim relief,
+seeking nullification of an MEM decision of March 8, 2002, cancelling
+MINCA’s copper concession. The court had made no decision on
+admissibility by the time that Vannessa filed its Request for Arbitration on
+July 9, 2004.
+
+(ix) an action filed on November 14, 2002, seeking to nullify the
+CVG/Crystallex agreement. The case was admitted by the court on March
+27, 2003. An appeal by Crystallex had not been dealt with by the time that
+Vannessa filed its Request for Arbitration on July 9, 2004.
+
+(x) an action filed on September 11, 2003, seeking nullification of the
+Presidential Decree of March 2003 relating to the Copper Concessions.”°
+
+104. | Between December 2001 and 2003, MINCA also made a series of requests to the
+
+Venezuelan National Assembly and to the Fiscalia (Prosecutor’s Office)” to investigate various
+
+16
+
+Claimant’s Memorial {fj 185-200.
+
+See Respondent’s Counter-Memorial {¥] 221f, 489f. Claimant refers to the “Fiscalia” as the “Attorney
+
+General.”
+
+29
+
+aspects of the Las Cristinas matter.’* None led to any report or action that Vannessa regarded as
+
+an impartial and satisfactory upholding of its rights.
+
+105. On July 9, 2004, Vannessa filed its Request for Arbitration. It claimed monetary
+
+damages in an amount not less than US$ 1,045,000,000 plus compound interest.”
+106. In paragraph 344 of its Memorial, Claimant requested:
+
+(a) a declaration that Venezuela had unlawfully expropriated Vannessa’s
+investments in Venezuela contrary to Article VII of the BIT;
+
+(b) a declaration that Venezuela had failed to accord investments of
+Venezuela [sic. sc. of Vannessa] fair and equitable treatment and full
+protection and security contrary to Article II(2) of the BIT;
+
+(c) restitution of its unlawfully expropriated investments as well as monetary
+damages for deterioration or loss of those assets, for lost profits caused by
+delay of the development of Las Cristinas, and for expenses incurred by
+MINCA, Vannessa Venezuela and Vannessa to defend their rights and
+interests, plus compound interest;
+
+(d) in lieu of restitution, monetary damages in an amount to be determined
+plus compound interest;
+
+(e) all of its costs, including tribunal costs, in bringing these proceedings; and
+
+(f) such further and other relief that Vannessa may claim and the Tribunal
+grant.
+
+107. Similarly, in paragraph 639 of its Reply, Claimant reiterated
+
+[...] its requests for relief set out at paragraph 344 of its Memorial, including
+its request for restitution of MINCA’s right to mine gold and copper at Las
+Cristinas, or, in lieu of restitution, an award equal to its past and future losses
+as at the date of the Tribunal’s award, calculated by reference to current
+information, for the damages caused by Venezuela’s breaches of the Bilateral
+Investment Treaty described in this Reply. Vannessa also claims all of its
+costs, including Tribunal costs, in bringing these proceedings.
+
+108. In paragraph 588 of its Counter-Memorial, Respondent requested that “Claimant’s
+
+claims should be dismissed in their entirety and Venezuela should be awarded compensation for
+
+% Claimant’s Memorial 4] 209-30.
+
+” Request for Arbitration | 102.
+
+30
+
+all the expenses and costs associated with defending against these claims.” The same request
+
+was made in paragraph 1013 of Respondent’s Rejoinder.
+I. JURISDICTION
+109. In its Decision on Jurisdiction, the Tribunal (then differently constituted):
+
+[N]ote[d] that the main defense of the Respondent, namely that the transfer
+of the PDV shares constituted a breach of the Shareholders Agreement of the
+MINCA By-Laws and therefore rendered the transfer null and void with the
+result that the Claimant never acquired property in the MINCA shares is
+likely to constitute a defense on the merits of the case. At the same time, the
+Respondent alleges as a jurisdictional objection that this transfer was
+unlawful under Venezuelan law within the meaning of the BIT according to
+which the investment must be “in accordance with the laws of Venezuela.”
+
+For convenience, we refer to the requirement set out in the italicized words as the “legality
+requirement.” The requirement derives from Article I(f) of the BIT, which stipulates that:
+‘[I]Jnvestment’ means any kind of asset owned or controlled by an investor of
+one Contracting Party either directly or indirectly, including through an
+
+investor of a third State, in the territory of the other Contracting Party in
+accordance with the latter’s laws.
+
+110. In light of the complexity of the issues of Venezuelan law involved and the
+possible relevance of Venezuelan law to both jurisdictional and merits questions, the Tribunal
+concluded in its Decision on Jurisdiction that “justice is better served if this objection to the
+
+competence of the Tribunal is joined to the merits.”*!
+
+111. The present Tribunal has considered the position in light of the law applicable to
+each of the instruments relevant to its decision. The Tribunal is satisfied that it is the law of
+Venezuela that is the governing law of the Shareholders’ Agreement, of the Amended
+Shareholders’ Agreement, of the Work Contract and of the Extension Agreement, as well as of
+the MINCA By-Laws. It was not argued that any other legal system operated as the governing
+
+law in respect of these instruments. The BIT is governed by public international law.
+
+so Decision on Jurisdiction, p. 22.
+
+st Id., p. 23.
+
+31
+
+112. The Tribunal is unanimous in deciding that Claimant’s claims are to be rejected in
+their entirety. As is explained below, the Tribunal finds that Placer Dome’s sale and Claimant’s
+acquisition of its interest in MINCA was incompatible with the legal relationship between PDI
+and Venezuela, reflected in the Shareholders’ Agreements of 1991 and 1997, and confirmed by
+Article 9 of the MINCA Bylaws (set out above.).** The termination of the Work Contract and
+the taking of the associated steps to terminate PDI’s interests in Las Cristinas were measures
+justified by PDI’s breach of its agreements with CVG, from which Claimant’s legal interests in
+this case derived, and in particular from PDI’s breach of the Extension Agreement. None of the
+
+steps taken by Venezuela amounted to a breach of the BIT.
+
+113. | While the Tribunal is unanimous in holding that Claimant’s claims are to be
+rejected in their entirety, it is not unanimous in all of the steps in the reasoning that lead to that
+conclusion. The majority of the Tribunal considers that the Tribunal has jurisdiction in this case
+and that the claims fail because, on the facts of this case, Respondent’s treatment of the
+investment does not constitute a breach of the Treaty. One of us considers that, on the facts of
+this case, there was no good-faith investment and that the BIT does not cover investments not
+made in good faith, and accordingly the Tribunal lacks jurisdiction. The majority accepts that
+good faith has an important role in the analysis but considers that, in the absence of a treaty
+provision ascribing some different effect to the principle of good faith, it is only in circumstances
+where the application of good faith as a principle of national law invalidates the acquisition of
+the investment that a lack of good faith means that there is no “investment” for jurisdictional
+purposes. In other circumstances, the question of good faith does not go to jurisdiction but is a
+matter to be considered by the Tribunal when exercising its jurisdiction and to be applied in the
+context of admissibility and/or the application of the substantive protections of the Treaty at the
+
+merits phase.
+
+114. | These divergences in view are reflected in the following paragraphs. However,
+all members of the Tribunal have subscribed to this Award, on the basis that the decision on
+jurisdiction is carried by the majority, and that the member who dissented on the question of
+
+jurisdiction considers that, on the premise that jurisdiction exists, Claimant’s claims are to be
+
+See 474 above.
+
+32
+
+rejected in their entirety for the reasons that are set out below in the section of the analysis that
+
+addresses the merits of this case.
+
+115. The analysis begins by addressing the jurisdictional issues. It addresses the
+question whether there was an investment within the meaning of the BIT, and it does so in two
+steps, starting with the question whether there was an “investment” in “any asset”, and then
+moving to the question whether the alleged investment was “owned or controlled . . . in
+
+accordance with the [host State’s] laws.” The merits of the claim are considered afterwards.
+A. Definition of “Investment” Step One: “any kind of asset...”
+1. Respondent’s Position
+
+116. At the outset, Respondent considers that the issue of the existence of an
+“investment” has not yet been decided by the Tribunal. It also takes the view that the definition
+of an “investment” in the ICSID Convention can be applied in this particular arbitration. It says
+that while the Additional Facility Rules differ from the ICSID Convention in important respects
+(particularly regarding ratione personae jurisdiction), the Additional Facility Rules do not bar,
+and in fact require, the application of the definition of “investment” that is applicable under the
+ICSID Convention. It says that Claimant’s investment does not satisfy the so-called “Salini”
+criteria for an investment to exist:** i.e., “contributions, certain duration of performance of the
+contract and a participation in the risks of the transaction ... [and a] contribution to the economic
+
+development of the host State.”*4
+
+2. Claimant’s Position
+
+117. Claimant argues that the definition of “investment” under the ICSID Convention
+is irrelevant for the present arbitration, which is conducted under the Additional Facility Rules.
+It emphasises the legal and conceptual distinctiveness of arbitration under the ICSID Convention
+
+and arbitration under the Additional Facility Rules, which it says precludes the transposition of
+
+8 Rejoinder on Merits and Jurisdiction of the Bolivarian Republic of Venezuela, February 1, 2010
+
+(“Respondent’s Rejoinder”) §| 600-50. See also Respondent’s Counter-Memorial {| 368-80; Tr. Day
+3:722-31 (Goodman).
+
+Salini Costruttori S.p.A. v. Kingdom of Morocco, ICSID Case No. ARB/00/4, Decision on Jurisdiction, July
+23, 2001, 452. Cf, Schreuer et al, The ICSID Convention. A Commentary, 2"! ed. (2009), | 152-74.
+
+33
+
+the definition of “investment” from the former regime to the latter. In any event, Claimant
+
+asserts that its investment would satisfy even the strictest version of the definition.*°
+3. The Tribunal’s Decision
+
+118. The question whether there is an “investment” within the meaning of the BIT is a
+
+question that must be answered by reference in the first place to the BIT.
+
+119. There is no doubt that Claimant, a Canadian company, bought shares in PDV, a
+Venezuelan company, for the price of US$ 50 and “owned or controlled” those shares in PDV
+within the meaning of Article I(f) of the BIT. Ownership or control of shares is listed in Article
+I(f)(ii) of the BIT as one of the examples of an asset whose ownership or control can constitute
+
+an investment.
+
+120. Accordingly, it appears on the face of it that Claimant’s ownership of shares in
+PDV could amount to an “investment” in PDV. There are, however, other aspects of Claimant’s
+interest that must be considered before the question of the existence of jurisdiction under the BIT
+
+in respect of the claim in this case is definitively answered.
+
+121. The Tribunal had serious concerns about the nature and extent of Claimant’s
+interest in Venezuela, and about the distinction between the making of an investment and the
+buying of a legal claim against the host State. The purely nominal purchase price (US$ 50) of its
+
+shareholding in PDV and its interest in the loans to MINCA® is a notable feature of this case.
+
+122. The nominal purchase price does not of itself necessarily indicate that there was
+no real investment by Claimant. It is not unusual for the bulk of costs and benefits of an
+investment in a licence or concession to arise after the date of the licence or concession contract,
+in the form of contractually-obligated expenditure on the investment and of royalty and tax
+payments. (That possibility does, however, underline the importance of the continuing
+confidence of the contracting partners in one another, and emphasizes the great importance of the
+identity of the contracting partners.)
+
+85
+
+Claimant’s Reply Memorial 4 479-85; Tr. Day 2:370-77 (Terry); Tr. Day 4:837 (Terry).
+
+* See fn. 51 above.
+
+34
+
+123. In the present case, however, Claimant’s nominal payment for the shareholding
+occurred in a context that included the terms of the Original Transaction Agreement (and, in
+particular, Section 8.19 thereof, providing for the distribution between Vannessa and PBV of any
+proceeds recovered in this litigation),*’ and the absence of any concrete technical or financial
+preparations on the part of Claimant such as could have enabled it at least to begin the
+resumption of operations at the Las Cristinas site promptly after its acquisition of the shares in
+PDV. Taken together, these factors make it debatable whether Claimant can properly be
+
+regarded as having made an investment in mining in Venezuela.
+
+124. Consideration of the commercial stature and position of Vannessa at that time
+does not assuage this concern. Claimant says that Mr Rauguth, the founder of Vannessa, was a
+mining engineer with knowledge and experience of the mining industry in Venezuela. It says
+that Vannessa, while a small company lacking in-house financial and technical capabilities, and
+having no track record of commercially-successful mining, did possess experience and contacts
+that could have made it possible for it to draw together the resources required to exploit the
+opportunities in Las Cristinas. Respondent, on the other hand, viewed Vannessa as a small,
+speculative enterprise, noting that it had not been included among the 28 potential investors
+identified by Scotia in November 2000, and that it was lacking in mining and processing
+experience and had no operating revenues, cash flow, or relevant technical expertise.** It was
+accepted by both sides that Vannessa had put forward no detailed plans of work whatever for Las
+Cristinas, and had secured neither the funding nor the equipment necessary to begin immediate
+
+work at the site in the summer of 2001.
+
+125. There is more than one way in which these factors might be addressed, and more
+than one way in which any lack of good faith might put a putative “investment” outside of the
+scope of BIT protections. The “reality” or “genuineness” of the investment and the good faith of
+the investor are matters that might bear upon questions of jurisdiction, upon questions of
+
+admissibility, and upon questions of merits.
+
+"7 See 4 88 above.
+
+Memorial on Jurisdiction of the Bolivarian Republic of Venezuela, August 28, 2006 (“Respondent’s
+
+Memorial on Jurisdiction”) { 6.
+
+35
+
+126. Article I of the BIT requires that in order to qualify as an “investor” a national or
+enterprise of one BIT Contracting Party must own or control, directly or indirectly, an asset of
+any kind (including shares or any other form of participation in a company, business enterprise
+or joint venture) in the territory of the other Contracting Party in accordance with the latter’s
+laws. Article I does not explicitly assert that there is, beyond the requirement that the asset be
+owned or controlled in accordance with the host State’s laws, a further requirement that the
+putative investment must qualify as a “genuine” or “substantial” investment in order to fall
+
+within the definition in Article I(f) of the BIT.
+
+127. The Tribunal considers that the requirement in Article I(f) of the BIT that the
+asset be “owned or controlled ... in accordance with the latter’s laws” is the next focus of
+attention in the analysis. As was explained above,” one of us would have rejected the claim on
+the ground that there was no good-faith investment made by the Claimant in this case—good
+faith being a principle of Venezuelan law—and that the alleged investment fell, therefore,
+outside the scope of Article I of the BIT. The majority considers that the claim should not be
+rejected on the ground that the Claimant's investment was not made in good faith, because good
+
+faith is not an independent element of the definition of a protected investment in the BIT.
+
+B. Definition of “Investment” Step Two: “asset owned or controlled ... in
+accordance with” the host State’s laws
+
+1. Respondent’s Position
+
+128. Respondent considers that Claimant’s interpretation of Article I(f) (see below) as
+a provision that is concerned only with the ownership of the asset is contrary to the duty to
+interpret the Treaty in good faith. Respondent argues that investments that are “unlawful” under
+domestic law cannot be protected under international investment law, and that the entitlement of
+investments to MEN treatment does not affect the prior question of the definition of the term
+
+“investment” itself.°? Respondent further emphasises that the ‘legality requirement’ demands
+
+* See 4113 above.
+
+Respondent's Rejoinder 460-71. See also Tr. Day 3:706-10 (Goodman on why the argument about
+investments “owned” rather than “made” should be rejected); Tr. Day 3:710-12 and Tr. Day 3:715-16
+(Goodman on the MEN treatment argument).
+
+36
+
+conduct in good faith, both under Venezuelan Civil Law and, more broadly, as a paramount
+
+principle governing contractual relations.”!
+
+129. In the oral proceedings, Respondent argued that the expression “laws of
+Venezuela” is not restricted to the type of legal rules formally defined as law (i.e., statutes,
+decrees, efc.), which is what Claimant had submitted, but includes “all of the legal system.”
+That inclusive view would extend to contractual obligations in instruments such as the
+Shareholders’ Agreement and Amended Shareholders’ Agreement, the Work Contract, and the
+August 8, 2000 agreement (Extension Agreement) to suspend the performance of the Work
+
+Contract for one year beginning on July 15, 2000.
+2. Claimant’s Position
+
+130. In Claimant’s Reply on Merits and Jurisdiction, two preliminary points are raised
+regarding the requirement under Article I(f) of the Canada-Venezuela BIT that the investment be
+“in accordance with the latter’s [the other contracting party’s] laws.” Claimant points out that
+the BIT requires the investment to be “owned”, rather than “made”, in accordance with the laws
+of the host State,”’ and argues that this requirement was satisfied in this case by the registration
+with the Venezuelan Mercantile Registry of the books of the company recording the transfer of
+shares in Placer Venezuela to Vannessa Barbados and the renaming of Placer Venezuela as
+
+Vannessa Venezuela, without any objection by Venezuela, in July 2006.”
+
+131. | Moreover, Claimant invokes the MFN treatment rules in Article III(1) and (2) of
+the Canada-Venezuela BIT to rely on what it says is the more favourable treatment in the
+Venezuela-UK BIT, which does not have the “legality requirement” in its definition of an
+
+“investment.”
+
+Respondent's Rejoinder §f] 472-79; Tr. Day 3:713-15 (Goodman).
+Tr. Day 2:478-79 (Wray).
+
+Claimant’s Reply $f 287-91.
+
+Claimant’s Reply $f] 292-96. See also Tr. Day 1:29-33 (Laskin).
+
+Claimant’s Reply $f] 297-98. See also Tr. Day 1:33-37 and 1:67-69 (Laskin).
+
+37
+
+132. At the oral proceedings, in response to a question by the Tribunal, Claimant
+argued specifically that “a violation of a contract is not, ipso facto, a violation of the law.””°
+Claimant also argued that the “legality requirement” is limited in its application to breaches of
+fundamental principles of law and of laws concerning foreign investments, and that it does not
+apply so as to bar the existence of jurisdiction in circumstances where that would be a
+disproportionate response to a breach of the law.”’ An example might be late compliance with a
+requirement for registration of a share transfer that is not otherwise forbidden by the local law:
+
+such a breach, in Claimant’s view, should not necessarily bar jurisdiction under the BIT.
+3. The Tribunal’s Decision
+
+133. As far as the MFN provision is concerned, the Tribunal considers that the MFN
+treatment under the Canada-Venezuela BIT is promised to investments as defined in Article I of
+the BIT. The benefit of the MFN provision in Article III of the Canada-Venezuela BIT can only
+be asserted in respect of investments that are within the scope of Article I(f) of the Canada-
+Venezuela BIT to begin with. The MFN clause cannot be used to expand the category of
+
+investments to which the Canada-Venezuela BIT applies.
+
+134. The Tribunal considers that the reference to a host State’s “laws” (“lois de
+[l'autre partie contractante],” “leyes de [la otra Parte Contratante]”) in Article I(f) of the BIT
+is a reference to the laws and regulations made by, or under the authority of, the public
+authorities of the State, and does not extend to purely contractual obligations. The Tribunal
+reaches this conclusion by giving the term “laws” / “lois” / “leyes” its plain and ordinary
+meaning, in circumstances where Respondent did not demonstrate that the term should be given
+
+a different meaning.
+
+135. That ordinary meaning points to laws made by the host State, and not to
+obligations created under the law by private persons. The Tribunal accordingly decides that,
+
+even if the transfer of shares in PDV to Claimant involved a breach of the contractual
+
+*° Tr. Day 1:38 (Laskin). See generally Tr. Day 1:37-43 (Laskin).
+
+” Tr. Day 1:43-47 (Laskin).
+
+38
+
+stipulations in the Shareholders Agreement, such breaches would not constitute a violation of
+
+Venezuela’s “laws” for the purposes of BIT Article I(f).
+
+136. The arguments relating to the “legality requirement” were developed further by
+the Parties in the specific contexts of: (i) constraints applicable as a matter of Venezuelan
+contract law and the doctrine of intuitu personae contracts; (ii) Venezuelan law on public
+procurement and administrative contracts; (iii) the principles of good faith and public policy; and
+(iv) Venezuelan Decree 2095. We address these in turn, in light of our decision on the meaning
+
+of “[host State] laws.”
+
+Cc. Constraints on the Transfer of the Shareholding under Venezuelan Contract
+Law
+1. Respondent’s Position
+
+137. For Respondent, the starting point of the analysis of the contractual issues is that
+Placer Dome was “selected as a result of a private bid process [and] signed several instruments
+with the CVG to achieve a common public objective ... All of these agreements are instrumental
+to the objective pursued, that is, they were signed as a means of achieving the expressed public
+objective — a joint venture to develop Las Cristinas.”°* One of the consequences of this joint
+venture, as a matter of Venezuelan law, is the legal indivisibility of related contracts; namely,
+that all of the contracts instrumental to the development and exploitation of Las Cristinas have an
+
+identical objective, are interrelated, and cannot be considered in isolation.”
+
+138. | Respondent argues that, as a matter of Venezuelan law, the contracts instrumental
+to the development of Las Cristinas were of an intuitu personae nature and that “this is a
+characteristic inherent to the economic operations in which all of the contracts are related and
+which therefore must be considered in interpreting them.”!° It emphasises that Placer Dome
+
+“was chosen specifically because of its characteristics to be the partner of CVG and, with CVG’s
+
+Respondent's Rejoinder § 486. See generally Respondent's Rejoinder {ff 480-87. See also Tr. Day 2:404-
+33 (Brennan).
+
+ 
+
+Respondent’s Rejoinder fj 489-501. With respect to indivis
+Day 2:452-57 (Brennan); Tr. Day 2:485-504 (Wray).
+
+lity, see Tr. Day 2:435-43 (Brennan); Tr.
+
+100 Respondent’s Rejoinder 4 503.
+
+39
+
+consent it participated in MINCA through PDV, its vehicle, through which Placer Dome was
+going to exercise and perform its intuitu personae rights and obligations.”'°' PDV is not the real
+
+party in this matter; it is the continued participation by Placer Dome that is critical.
+
+139. | Respondent rejects Claimant’s argument that the 1991 Shareholders Agreement
+was superseded by the 1997 Amended Shareholders’ Agreement. According to Respondent, the
+1997 Agreement cancelled only the provisions of earlier agreements relating to its purpose (i.e.,
+the amendment of the financing terms), rather than the whole of the earlier agreements. In any
+event, the 1997 Amended Shareholders Agreement was itself an intuitu personae agreement and
+could not be assigned or delegated without the consent of CVG. Further, PDV is described in
+the preamble to the 1997 Amended Shareholders Agreement as being a party to that 1997
+
+> 102
+
+agreement “in its capacity as PDI’s investor. Finally, the participation of Placer Dome was
+
+so intertwined with that of PDV that, for Claimant to argue that they were different legal entities,
+would be to ignore reality.!°°
+
+140. | Respondent argues that the Original Transaction Agreement breached Venezuelan
+law by violating the intuitu personae nature of the obligations of Placer Dome with respect to the
+development of Las Cristinas. The rights and obligations acquired intuitu personae could not be
+transferred to Claimant without the express consent of CVG.'" The practice of CVG regarding
+changes of control in other mining companies, to which Claimant referred, is irrelevant: in those
+cases, unlike in this one, the “creditor” (in casu, CVG) was satisfied with the personal
+qualifications of the third party.'°> Moreover, the transfer to Claimant of the shares effectively
+
+106
+
+constituted an unauthorised transfer of the contract,” in breach of the rules of Venezuelan
+
+contract law on non-assignment.'”
+
+Respondent’s Rejoinder 4513.
+we Ex. C-30.
+
+Respondent's Rejoinder f 489-515. On the relationship between the 1991 and 1997 agreements, see Tr.
+Day 4:895-921 (Brennan).
+
+Respondent's Rejoinder | 776. See also Respondent’s Counter-Memorial | 232-46.
+Respondent's Rejoinder §] 535.
+
+Respondent's Rejoinder if] 536-41.
+
+Respondent's Rejoinder if] 542-46.
+
+40
+
+2. Claimant’s Position
+
+141. As far as the restraints arising under Venezuelan contract law on the transfer of
+the shares in PDV are concerned, Claimant starts from the proposition that “[i]t is a fundamental
+
+principle of both Venezuelan commercial and public law that shares of companies are freely
+
+9108 109
+
+transferable, and that restrictions on transferability must be explicitly provided for.
+
+Claimant argues that a provision that prohibits the assignment of contractual rights held by a
+company should not be presumed to prohibit the transfer of shares in that company or a change
+in the control of that company. Accordingly, the transfer of ownership or change of control of
+the company (MINCA) does not amount to a violation of the prohibition on the assignment of
+the company’s contractual rights. Further, Claimant says that the application of these principles
+
+is not changed by labelling the relationship between CVG and PDV in MINCA as a “joint
+
+venture”, as Respondent does.'!°
+
+142. Claimant says that there were no explicit prohibitions applicable to the share
+purchase. While the Work Contract!'' and the 1997 Amended Shareholders’ Agreement!’
+
+contained non-assignment provisions, neither they nor the MINCA Bylaws!" contained change
+
+10s Claimant’s Reply 4308. See also Tr. Day 1:51-52 and 1:136-37 (Laskin).
+
+109 Tr. Day 1:51-55 (Laskin).
+
+no Tr. Day 1:60-61 (Laskin).
+Ex. C-20A, Clause Twenty Eighth (“The parties may not assign in any manner this agreement except by
+prior written approval of the other party.”).
+
+Ex. C-30, Art. X (Assignment; Binding Effect) (“Assignment of Amended Agreement: Unless otherwise
+provided herein, the parties cannot assign their rights or delegate their obligations hereunder without the
+other party’s prior written consent. This Amended Agreement shall be binding upon and inure to the
+benefit of each contracting party, and their permitted assignees.”).
+
+The Bylaws did, however, give a right of first refusal. See Ex. C-6A, Art. 9 (“[...]:The Shareholders shall
+have a preferential right to purchase the shares that other Shareholders wish to sell for a consideration, in
+the proportion which the number of shares held by each shareholder at the time the sale offer is known
+bears to the total number of shares of the Company. For these purposes, the selling Shareholder shall send
+a letter to the Board of Directors of the Company informing it of the number of shares it wishes to sell, the
+name of the intended buyer and the purchase price. The Board of Directors shall give immediate notice of
+the offer to the other Shareholders, who shall have a term of thirty (30) calendar days to exercise their
+preferential right.
+
+If the other Shareholders do not exercise their preferential right, or exercise it partially, the selling
+Shareholder may sell the remaining shares for a price no lower than the price informed to the Board of
+Directors.
+
+4l
+
+of control clauses, unlike certain other contracts concluded by Venezuelan governmental
+agencies in the mining and oil sector which do include specific provisions on change of
+
+control.''4
+
+143. Claimant, challenging the view that these were intuitu personae contracts, says
+that the information provided in the private bidding process that led to the choice of Placer Dome
+was incomplete, and that there was accordingly nothing unique about Placer Dome.'!® Counsel
+for Claimant submitted in the oral proceedings that “[bJoth the bidding process and the fact of
+the broad assignment provision really are inconsistent with any suggestion of intuitu
+
+personae.”' 6
+
+144. Further, Claimant rejects even the possibility that the intuitu personae nature of
+the Las Cristinas contracts (which it denies) could render the share transfer to Vannessa contrary
+to Venezuelan law. In Claimant’s view, “[t]he doctrine of intuitu personae ... provides that some
+obligations under a contract are so personal in nature that they can only be performed expressly
+by the party that has assumed the obligations under the contract.”''’ However, the doctrine has
+no broader implications regarding other related contracts by the same party or contracts by its
+
+shareholders.'!*
+
+145. In terms of the contractual obligations, Claimant says that at the time of the
+transfer of shares from Placer Dome to Claimant (i.c., on July 13, 2001) Placer Dome itself was
+(and continued to be) bound only by the 1997 Amended Shareholders’ Agreement, and further
+that it only had one narrow obligation under that agreement, namely, to assist in resolving
+
+financial issues.''? The 1991 Shareholders’ Agreement was not applicable because it had been
+
+ 
+
+Any transfer made in violation of this Clause shall be deemed to be void and without any effect upon the
+Company. Notwithstanding the foregoing, transfers of shares to related companies, wholly-owned by
+Shareholders, directly or indirectly, or by the Sharcholder’s parent Company are hereby authorized.”).
+
+Claimant’s Reply {¥ 308-12. See also Tr. Day 1:55-56 (Laskin). With respect, in particular, to the general
+practice on change of control clauses, see Tr. Day 1:118-21 (Laskin).
+
+Tr. Day 1:58-59 (Laskin) and Tr. Day 1:69-76 (Laskin).
+
+Tr. Day 1:123 (Laskin). See generally Tr. Day 1:123-27 (Laskin).
+Claimant’s Reply 41319. See also Tr. Day 1:121 (Laskin).
+Claimant’s Reply {ff 316-21.
+
+Claimant’s Reply ff 322-26.
+
+42
+
+120
+
+replaced by the 1997 Shareholders’ Agreement (and not merely amended by it), ~" as is stated in
+
+the 1997 Amended Agreement itself'”!
+
+and confirmed by the practice of CVG, Placer Dome, and
+PDV.'” In any event, even the 1991 Shareholders’ Agreement did not contain any restrictions
+
+on ownership of the shares of PDV.'*
+
+146. Claimant also rejects the argument that Placer Dome could have been jointly
+liable for the obligations of PDV. While conceding Placer Dome’s ownership and factual
+involvement in the affairs of PDV, it says that, in the absence of explicit contractual language to
+the contrary, Placer Dome and PDV maintained their separate personalities for the purposes of
+the analysis of their legal rights and obligations.'* Finally, the acquisition by Claimant of the
+shares of PDV accorded with the general practice of other mining companies that had
+
+exploration agreements with CVG.'?°
+3. The Tribunal’s Decision
+
+147. In the view of the Tribunal, the evidence demonstrates that as a matter of fact the
+identity of Placer Dome was a material element in the conclusion of the contracts relating to the
+exploitation of the Las Cristinas mines, and in particular of the 1991 Shareholders Agreement
+and the 1997 Amended Shareholders Agreement, the 1992 Work Contract, and the Copper
+Concessions. It cannot plausibly be argued that CVG was indifferent to the identity of the other
+
+party to the concessions and the Work Contract.
+
+148. | Two key indicators point to this conclusion. The first is the process by which
+Placer Dome was selected from among the companies that had expressed an interest in Las
+
+Cristinas. It is evident that PDI was selected after a deliberate, detailed, and careful
+
+120 Claimant’s Reply {{[ 340-42. On the relationship between the 1991 and 1997 agreements, see generally Tr.
+
+Day 1:127-33 (Laskin).
+Claimant’s Reply 4 328-34 (citing Art. XIII (Entire Agreement) of the 1997 Amended Agreement).
+
+122
+
+Claimant’s Reply 4 335-39.
+
+123 Claimant’s Reply 4 343.
+
+124
+
+Claimant’s Reply 9] 344-55.
+
+125
+
+Claimant’s Reply $f 356-64.
+
+43
+
+consideration of its technical and financial capacity and experience, and which had been planned
+
+in advance.'*°
+
+149. Second, it is apparent that the Parties themselves considered that Placer Dome had
+been chosen, not as an anonymous or generic supplier of services, but for its own particular
+qualities. Placer Dome wrote to CVG on May 17, 1991, not long after it had succeeded in the
+private bid process, on the subject of the organization of the project through what became
+
+MINCA:
+
+In regards to the position of chairman, we have been guided by our
+understanding that CVG chose Placer Dome as the majority partner for its
+proven technical and commercial capacity to develop large-scale mines and
+not as a provider of technical services under the contract, or as a simple
+technical advisor. If this is the case, it seems logical and normal that Placer
+Dome would take on the majority of the operational decisions. In January we
+agreed that CVG would appoint the Director of Human Resources, the
+Controller and the Secretary, but we reserved the right to appoint the general
+manager, the primary finance official and the mine manager. We assume
+that CVG would like to appoint the chairman, although the operational
+authority of this position is, to a certain extent, only a formality, because for
+the joint company public relations and lobbying will be of great importance,
+and we believe that these tasks could be best carried out by a Venezuelan
+appointed by CVG.'?”
+
+It is no less clear that CVG understood the relationship to have an intuitu personae character. It
+had the same view as Placer Dome, as evidenced by a memorandum to the President of
+Venezuela dated November 30, 1990, before the approval of the overall scheme by the cabinet in
+July 1991, in which the CVG stated: “[nJone of the parties can transfer their rights or delegate
+obligations without prior consent by the other party, in writing, which cannot be denied without
+justifiable cause.”!”*
+
+150. All of the evidence that the Tribunal has seen is consistent with this view of the
+relationship between CVG and Placer Dome. While it may be true that CVG’s description of the
+
+relationship as a “joint venture” could not change the legal nature of the relationship, the
+
+126
+
+See $f] 50-54 above.
+
+127
+
+Ex. R-4.
+
+128 Ex. C-I7A. The original Spanish version provided by Claimant does not include the following phrase
+
+which is included in the English version of the document, also provided by Claimant: “which cannot be
+denied without justifiable cause”.
+
+44
+
+description could reflect the clear and consistent understanding of CVG and Placer Dome as to
+the nature of the enterprise that Placer Dome had applied to undertake with CVG, and for which
+
+it had been selected. The Tribunal finds that it did reflect such an understanding.
+
+151. In that context, the Tribunal was assisted by the expert evidence of Professor Luis
+
+Garcia Montoya concerning the intuitu personae nature of the relationship and the contracts.'””
+
+152. Further, it is plain that PDV was regarded as Placer Dome’s vehicle for the
+purposes of this investment, so that it stood in the same relationship to CVG as did Placer Dome
+itself. Indeed, the preamble to the 1997 Amended Shareholder Agreement records explicitly that
+its provisions are the product of the agreement of “CVG, PDI, and PDVEN, in its capacity as
+PDI’s Investor” (emphasis added).'*°
+
+153. It is also evident that Vannessa had a radically different technical and financial
+profile from that of Placer Dome. Placer Dome was a very large mining company, specializing
+in gold mining, with mining operations in several countries. At the time when the transfer to
+Vannessa took place, within hours of the expiry of the agreed suspension period, Vannessa, in
+contrast, had no firm financial or technical capacity in place which could have made immediate
+resumption of operations at Las Cristinas even a possibility. When it took over the shares in
+PDV, Vannessa was not in a position to discharge the obligations that Placer Dome had assumed
+in respect of Las Cristinas. Moreover, the “staged development plan”, which Vannessa was
+apparently contemplating into 2001, appears to have been essentially the same as the staged
+development plan that CVG had refused to accept when it was proposed by Placer Dome in
+
+2000."*!
+
+154. Nonetheless, the intuitu personae character of the contracts does not itself put
+Claimant’s ownership of shares in PDV outside the scope of the Canada-Venezuela BIT. As was
+
+132
+
+indicated above, ~~ the Tribunal has decided that the ordinary meaning of the reference to “the
+
+a See the Expert Reports of Professor Luis Garcia Montoya dated August 10, 2006, February 14, 2007,
+March 10, 2009, and January 27, 2010.
+
+Be Ex. C-30. PDI is defined as Placer Dome Inc., and PDVEN is defined as Placer Dome de Venezuela C.A.
+See 70 above.
+
+2 See 4] 133 above.
+
+45
+
+[host State’s] laws” is a reference to laws imposed by public authority. It is a corollary of this
+decision that obligations created by persons in the exercise of their powers under the general
+laws of contract are not “laws”, and should not be treated as creating “requirements” which, if
+not satisfied, will automatically place ownership of an asset outside the scope of the definition of
+an investment in Article I(f) of the Canada-Venezuela BIT. The Tribunal’s view that the
+participation of Placer Dome, rather than any other company, was an essential part of the
+contractual arrangements in respect of Las Cristinas does not, therefore, preclude Claimant’s
+ownership of shares in PDV from satisfying the BIT’s definition of “investment.” That is not,
+however, to say that the intuitu personae character of the contracts relating to Las Cristinas is
+without any legal effect, as is explained below.'* The point is plainly relevant to the question
+
+whether Claimant acquired an interest in MINCA and Las Cristinas that is protected by the BIT.
+
+D. In Accordance with the Law on Public Procurement and Administrative
+Contracts
+
+1. Respondent’s Position
+
+155. | Respondent takes the view that Claimant’s investment was made in violation of
+the Venezuelan law of public procurement. That law limits a private party’s ability to transfer
+rights and obligations under a contract awarded in a bid process so that they would not wind up
+in the hands of unreliable third parties (as indeed happened, in Respondent’s opinion, in this
+
+particular instance).'*4
+
+156. Respondent notes Claimant’s recognition that the Work Contract is an
+administrative contract.'** Respondent rejects the argument by Claimant that the Shareholders’
+Agreements and MINCA Bylaws, in contrast, are not administrative contracts. In Respondent’s
+view, the test is whether the contract has a “public purpose”, and there is no requirement under
+Venezuelan public law for an administrative contract to have a direct, rather than an indirect,
+public purpose. In any event those Shareholder Agreements and MINCA Bylaws would, in
+
+Respondent’s view, satisfy even a “direct purpose” requirement, because they address the
+
+133 See 4 164 below.
+
+14 Respondent’s Rejoinder {| 547-51.
+
+135 Respondent’s Rejoinder 4 362.
+
+46
+
+adoption of provisions concerning the mining operations at Las Cristinas.'** Respondent argues
+that the transfer of rights and obligations arising under an administrative contract would breach
+Venezuelan public law, by rendering meaningless the bidding process and the nature of
+
+administrative contracts. '°”
+
+2. Claimant’s Position
+
+157. Claimant challenges the assertion by Respondent that Placer Dome had been
+selected for the Las Cristinas project through a public bidding process. Claimant disagrees with
+Respondent’s argument on two levels: first, as a general matter, the bidding process was
+conducted in private and not in public;'** second, in any event, the public nature of the bidding
+process could not turn the contracts into administrative contracts, or make the conditions of the
+
+bid an inherent part of the contract, or give greater rights of revocation to CVG.'?
+
+158. Claimant accepts that the Work Contract could be considered to be an
+administrative contract, because its purpose was directly to carry out mining activity (assuming
+
+140
+
+that mining is a public service under Venezuelan law). However, the Shareholders’
+
+Agreements and MINCA Bylaws do not themselves satisfy the cumulative criteria under
+
+141
+
+Venezuelan law which identifies administrative contracts. Further, the administrative nature
+
+of the Work Contract would not have any effect on the transferability of the shares in PDV.'*
+3. The Tribunal’s Decision
+
+159. The Tribunal recalls that in Section 3.2.4 of the Decision on Jurisdiction, the
+
+(differently-constituted) Tribunal in this case said that:
+
+Respondent's Rejoinder $f] 516-23.
+Respondent's Rejoinder {ff 547-51.
+Claimant’s Reply $f 367-73.
+Claimant’s Reply $f 374-77.
+Claimant’s Reply 4 387.
+Claimant’s Reply $f 388-93.
+Claimant’s Reply $f 395-96.
+
+47
+
+[I]t is obvious from the file that [the Respondent] never ruled on the
+permissibility or lack thereof of the share transfer. What it complained of
+and acted accordingly was that it considered the behaviour of PDI and the
+Claimant to constitute a breach of the agreements binding PDI to the Las
+Cristinas Project. It, however, never stated that it did not authorize the
+transfer of the shares which, after all, were transferred and have remained
+with the Claimant.
+
+160. That observation was made in the context of Section II(3)(b) of the Annex to the
+Canada-Venezuela BIT, according to which decisions of a Contracting Party not to permit
+establishment of a new business enterprise or acquisition of an existing business enterprise or a
+share of such enterprise by investors or prospective investors are not subject to the dispute
+settlement provisions of Article XII of the BIT. Though the transfer of shares had not been
+barred for the purposes of that provision, it is necessary to consider here whether the (legally
+effective) transfer of the shares constitutes a breach of Venezuelan law on public procurement
+and administrative contracts that would take the shareholding outside the scope of the definition
+of an investment in Article I(f) of the BIT so as to deprive the Tribunal of jurisdiction in this
+case. The Tribunal finds that the public procurement law does not impact whether Claimant’s
+shareholding amounts to an “asset owned or controlled . . . in accordance with” Venezuelan law
+as required to satisfy the BIT’s definition of “investment.” Respondent does not deny that
+Vannessa Barbados legally owned, and continues to own, the shares in question in accordance
+with the Venezuelan Commercial Code, as recorded in the Venezuelan Mercantile Registry.'*?
+The question whether the acquisition by Claimant of that shareholding also had the legal effect
+of validly transferring to Claimant an interest in MINCA and in Las Cristinas that is protected by
+the BIT is a question that relates to the stage at which the Tribunal considers the admissibility
+
+and the merits of the claim.
+E. In Accordance With Good Faith and Public Policy
+1. Respondent’s Position
+
+161. | Respondent argues that Claimant violated both Venezuelan and international law
+
+by consciously engaging in conduct equivalent to fraud on the law, i.e., “a performance of
+
+Ms Respondent’s Rejoinder, §§] 465-564; Claimant’s Reply, { 293.
+
+48
+
+actions that are legitimate in form or appearance, but are illicit in their object and purpose.”!4
+
+Respondent says that the agreements were concluded behind CVG’s back, against its opposition
+and ignoring its interests.'*° Respondent argues that bad-faith investments are not protected by
+the BIT as a matter of international law. It says that Claimant’s bad-faith conduct fits the
+characteristics identified in earlier arbitral decisions, in that it involved: acting in secrecy or
+without transparency; misrepresentation and false statements; disavowal of obligations and
+
+circumvention of agreements; and the abuse of legal process for improper purposes.'*°
+
+2. Claimant’s Position
+
+162. Claimant argues that the acquisition of shares took place in good faith. It says
+that it is up to Respondent to prove Claimant’s bad faith, that the burden of proof is a demanding
+one, and that Respondent has not met it.'*” In terms of arbitral decisions addressing fraud and
+good faith, Claimant distinguishes this particular dispute as not involving any of the aspects
+considered decisive in other decisions (e.g., falsification of documents, breach of domestic law
+against the advice of the investor’s counsel, or misrepresentation).'** In factual terms, Claimant
+rejects the argument that Placer Dome acted in bad faith, arguing that Placer Dome met and even
+exceeded its contractual obligations, and that it had reasonable prudential business reasons not to
+disclose the identity of the prospective purchaser of shares to CVG.'”” It says that, in any event,
+Placer Dome is not a claimant in this case, and its possible bad faith should not affect the
+
+Arbitral Tribunal’s jurisdiction.'?
+
+163. Claimant also challenges Respondent’s argument that, as a matter of fact,
+Vannessa had no capacity to develop the Las Cristinas property and only acquired the shares to
+
+bring this arbitral claim. Claimant acknowledges that it is a small company but argues that it was
+
+Respondent's Rejoinder §] 552.
+Respondent's Rejoinder if] 553-64.
+Respondent's Rejoinder if] 565-99.
+Tr. Day 1:140 (Laskin).
+Claimant’s Reply {f] 408-10.
+Claimant’s Reply ff 412-25.
+
+150
+
+Claimant’s Reply 4 411; Tr. Day 1:140-41 (Laskin).
+
+49
+
+able to undertake that particular project, and that it had taken the mining project seriously.'*!
+Claimant also noted in the oral proceedings that Crystallex, an investor that subsequently signed
+an agreement with CVG regarding Las Cristinas, appeared not to be substantially better qualified
+
+than Claimant.’
+3. The Tribunal’s Decision
+
+164. In the view of the majority of the Tribunal, the arguments about good faith and
+public policy that have been advanced in this case are not determinative of whether Claimant’s
+shares in PDV were owned or controlled in accordance with Venezuelan law. Instead, good faith
+and public policy bear upon the question whether the acquisition by Claimant of its shareholding
+in PDV was effective to transfer to Claimant an interest in MINCA and in Las Cristinas that is
+protected by the BIT. Accordingly, the majority of the Tribunal does not consider that in the
+circumstances of this case the principles of public policy and good faith place Claimant’s
+
+ownership of shares in PDV beyond the BIT’s definition of investment.
+F. In Accordance With Venezuelan Decree 2095
+1. Respondent’s Position
+
+165. Respondent argues that Claimant failed to give notice of the transfer of the shares
+in PDV, and also to register the investment (which had apparently not been registered by the
+original owner, Placer Dome), as required under Venezuela’s Decree 2095, and that the failure to
+comply with this mandatory legal requirement means that the investment was not in accordance
+
+with law.'?
+2. Claimant’s Position
+
+166. Claimant takes the view that it did in fact comply with the requirements for
+
+providing notice about share purchases to the Foreign Investments Commission, as required by
+
+Claimant’s Reply $f 427-50.
+2 ‘Tr. Day 4:746-54 (Laskin).
+Respondent's Rejoinder $f] 284-87.
+
+50
+
+the Venezuelan Decree 2095.'™ In any event, the failure to comply with the Decree would not
+make the transfer of shares invalid, as demonstrated by the lack of Venezuela’s response to
+
+widespread failures of notification during the 1990s.'°°
+3. The Tribunal’s Decision
+
+167. | The Tribunal considers that reporting obligations concerning the registration of
+foreign investments, which do not entail any application for permission or approval and which
+are not expressed as conditions of the making of an investment, are not relevant to the question
+whether the investment exists. Further, the jurisdictional significance of the “legality
+requirement” in the definition of an investment in Article I(f) is exhausted once the investment
+has been made. It accordingly rejects the jurisdictional challenge based on the provisions of
+
+Decree 2095.
+G. The Tribunal’s Conclusion on Jurisdiction
+
+168. For the reasons stated above, the majority of the Tribunal is satisfied that
+Claimant has an “investment” within the meaning of Article I of the Canada-Venezuela BIT, and
+that the Tribunal has jurisdiction to decide the merits of this dispute. While the majority of the
+Tribunal rests its decision on that ground, it recognizes that there are different ways in which the
+principle of good faith might be applied in the context of decisions on jurisdiction and
+
+admissibility.
+
+169. One of us takes the view that if an investment is acquired in bad faith, this is a
+factor that goes to the existence of the Tribunal’s jurisdiction. That member would have rejected
+the claim on the basis that it falls outside the jurisdiction of the Tribunal because the investment
+was not made in good faith. As was noted above (and is explained further below), however, all
+
+three members agreed that, in light of the manner in which Vannessa was substituted for Placer
+
+154
+
+Claimant’s Reply ff 451-60.
+
+155
+
+Claimant’s Reply f] 451-58; Tr. Day 1:144-46 (Laskin).
+
+Sl
+
+156
+
+Dome in the project for the exploitation of Las Cristinas, °” the treatment of the investment by
+
+Respondent does not amount to a breach of the standards of treatment required by the Treaty.
+Il. MERITS
+
+170. The Tribunal is unanimously of the view that the claim in this case must fail
+because of the manner in which the transfer of shares to Claimant occurred. Its reasoning is set
+
+out in the following paragraphs.
+
+171. Claimant alleges that Respondent’s actions breach the obligations: (a) not to
+expropriate the investment except in accordance with the conditions set out in Article VII of the
+Treaty; and (b) to treat the investment in a fair and equitable manner and to accord it full
+
+protection and security under Article II(2).
+A. Expropriation
+1. Claimant’s Position: Gold Rights
+
+172. Claimant argues that the standard for finding an expropriation of contractual
+rights is that “the State has gone beyond its role as a mere party to the contract and relied on its
+superior governmental power. [...] [T]he State uses its public authority and steps out of the role
+of the contracting party.”'*’ In the oral proceedings, Claimant argued that “there is culmination
+of the State acting in terminating the contract for reasons that are not legitimate contractual
+considerations; plus the State stepping out of the contractual framework and exercising State
+powers to terminate in a way that a private party can’t; plus, thirdly, the CVG in the particular
+
+case acting in conjunction with other State agencies.”'**
+
+173. Claimant argues that expropriation is evidenced in three instances. The first is
+when CVG rescinded the Work Contract on November 6, 2001. It says that Venezuelan law
+precludes unilateral termination of a contract without first resorting to the agreed mechanism of
+186 See 4 201 below.
+Claimant’s Reply {| 492 (internal footnotes omitted).
+
+Tr. Day 1:182 (Terry). See more generally, the discussion of the test of expropriation of contractual rights
+at Tr. Day 1:161-86 (Terry).
+
+52
+
+dispute settlement, whether in court or via arbitration. Though the Work Contract provided for
+ICC arbitration, CVG did not resort to it but rather relied on its exorbitant administrative law
+powers that allegedly exempted it from this requirement regarding administrative contracts.’
+Therefore, the case is distinguishable from those investment arbitrations where the State
+committed a merely contractual breach and other remedies were available to the investor.'° In
+the oral proceedings, Claimant also relied on its legitimate expectations regarding the
+
+competence of the government to submit contractual disputes to arbitration.'*!
+
+Further, it also
+clarified its position by suggesting that termination and failure to arbitrate constituted two
+
+. an «162
+separate bases for its expropriation claim.'”
+
+174. Secondly, according to Claimant, CVG relied on exorbitant administrative powers
+to seize MINCA’s assets on November 16, 2001. The seizure of assets by a squadron of the
+Venezuelan National Guard to enforce an administrative act without resorting to judicial
+assistance could not have been carried out by a party exercising merely its commercial
+
+prerogatives.'©
+
+175. Thirdly, and more broadly, Claimant argues that the Ministry of Energy and the
+President of the Republic had assisted CVG in carrying out its expropriation. Rather than merely
+disposing of the mining rights after the rescinding of the Work Contract, the Ministry and the
+President were necessary and active participants in the expropriation.
+
+176. Claimant considers that the expropriation was unlawful because it did not satisfy
+
+the criteria of lawfulness set out in Article VII(1) of the BIT.'® First, while Venezuelan law
+
+Claimant’s Reply #4 494-508. Counsel for Claimant emphasized that there was agreement between experts
+and probably parties that “the termination, whether it was lawful or not as a matter of Venezuelan law was
+carried out by a State agency using its exorbitant power. As Dr. Grau says, to quote him again, using a
+public power, not a power having a contractual source.” See Tr. Day 4:820 (Terry). See also Tr. Day
+4:822 (Terry).
+
+Claimant’s Reply 44] 494-508; Tr. Day 4:81 1-27 (Terry).
+Tr. Day 2:258-60 (Terry).
+
+Tr. Day 2:311-13 (Terry).
+
+Claimant’s Reply ff 520-27.
+
+160
+
+Claimant’s Reply ff 515-19.
+
+See Ex. R-39 (ie., that the expropriation be for a public purpose, under due process of law, in a non-
+discriminatory manner and against prompt, adequate and effective compensation).
+
+353
+
+provides that contracts may be terminated for reasons of general or public interest, rather than on
+the basis of the breach, so long as compensation is paid, CVG never invoked reasons of such a
+nature. Secondly, due process was not provided either in the contractually agreed arbitral forum
+or in the domestic courts. Thirdly, the expropriation was discriminatory because no other
+company or property received this treatment. Fourthly, no compensation was paid to
+Claimant.'%
+
+177. Finally, Claimant rejects Respondent’s argument that the allegedly expropriated
+contractual rights were already null and void. Claimant says that the Venezuelan authorities had
+never sought to nullify Claimant’s ownership of the shares, and the attempt to terminate the
+
+Work Contract necessarily presupposed that the Work Contract continued to exist.'°7
+
+2. Claimant’s Position: Copper Rights
+
+178. In Claimant’s view, MINCA had valid and binding rights to the Las Cristinas
+Copper Concessions, assigned by CVG in January 1999 in accordance with the 1997 Amended
+Shareholders’ Agreement. These rights were expropriated when the Ministry of Energy and
+Mines cancelled the concession on March 8, 2001. The failure of MINCA to file reports and
+feasibility studies could not justify the cancellation because the Ministry itself had not obtained
+for MINCA the necessary land use permit, without which exploration could not begin.'®
+
+179. Claimant argues that the expropriation of the right to mine copper was unlawful
+because of the discriminatory nature of the cancellation, which affected only Claimant; because
+the alleged public purpose disguised the real reason — which was to transfer rights to CVG (and
+eventually to Crystallex); because of the failure of due process; and because of the clear absence
+
+of compensation.'®
+
+Claimant’s Reply fj 528-40. On due process, see also Tr. Day 2:290-302 (Terry), Tr. Day 2:313-14
+(Terry). In the context of due process, Claimant explained that the nullity action was withdrawn in July
+2004 because of the time limits for BIT claims and the requirement to discontinue other proceedings. See
+Tr. Day 2:302-03 (Terry).
+
+Claimant’s Reply $f 541-42.
+Claimant’s Reply §§ 543-46; Tr. Day 2:320-23 (Terry).
+Claimant’s Reply $f 547-50.
+
+54
+
+3. Respondent’s Position: Gold Rights
+
+180. | Respondent states that “the key question in assessing whether a State’s taking of a
+claimant’s property constitutes an expropriation is not whether the State acted as only a private
+party could act, but rather, did the State step out of its role as a contracting party and interfere
+with the contract on the basis of its sovereign authority.”'’ Claimant errs in setting the criterion
+as whether a State has acted as a “private party”, because the State is never simply a private
+party; and even in its contractual capacity the State retains such inherent capabilities as acting
+through resolutions and decrees.'”! Also, Claimant is wrong in alleging that the availability of a
+pre-agreed forum for the resolution of disputes is necessary if the wrongful termination of a
+concession or similar agreement is to be treated as a contractual dispute and not as an
+expropriation; and, in any event, MINCA could have referred, but did not refer, the termination
+
+of the Work Contract to ICC arbitration.”
+
+181. Respondent argues that it has rightfully terminated MINCA’s rights to exploit
+gold in response to MINCA’s breaches of contract. CVG had the right under the Work Contract
+to terminate the contract in case of an uncorrected contractual breach by the other party. Three
+breaches warranted the termination: (i) suspension by MINCA of exploitation works without a
+duly justified reason for more than 12 months; (ii) failure by MINCA to submit detailed reports
+on its activities for a period of two years; and (iii) most importantly, the breach of the obligation
+
+of non-assignment without approval by the other party.!”*
+
+182. Regarding the particular instances of expropriation alleged by Claimant,
+Respondent takes the view that it had acted only as a State contracting party to an administrative
+
+contract, and not on the basis of an unlawful exercise of sovereign authority. Respondent rejects
+
+170 Respondent’s Rejoinder | 664. On the standard, see also, Tr. Day 3:536-51 and Tr. Day 3:561-83
+
+(Goodman).
+
+As Respondent's counsel put it, “if you sign up for a footrace with a three-legged person, you know that
+that person will have that kind of attribute and that they may in that sense outperform you. .... [I]t’s a
+question of the CVG having that authority. It’s not something that it’s exerting in order to interfere with
+the contractual process. It can’t do otherwise. It’s part of the administrative law scheme.” See Tr. Day
+3:540 (Goodman).
+
+Respondent's Rejoinder if] 653-67.
+
+ 
+
+172
+
+5 Respondent’s Rejoinder §f] 668-76.
+
+55
+
+the argument that contractual termination by CVG without resort to ICC arbitration amounted to
+expropriation. The Work Contract does not include such a requirement, and Venezuelan law
+does not provide such a rule for administrative contracts.' The fact that CVG terminated the
+contract by means of a decree is, on its own, irrelevant: State organs commonly act through
+decrees and resolutions. What is important is that termination took place in response to a
+contractual breach, and was promulgated within the contractual framework rather than in
+contravention of it.'°
+
+183. Secondly, Respondent rejects the argument that CVG’s recovery of MINCA’s
+assets amounted to expropriation. In its view, Claimant has asked the wrong question — could a
+private party have done it? — rather than whether “the CVG’s actions exceed the normal conduct
+that other State entities party to an administrative contract would have taken in executing its
+termination.”!”° By applying this criterion, the recovery of property was within the four corners
+
+of CVG’s rights to recover the property in accordance with the administrative contract.”
+
+184. Thirdly, the involvement of the Ministry of Energy and Mining and the President
+
+would not amount to expropriation. It has not been demonstrated that their acts breached the
+
+Work Contract, and in any event their involvement occurred after its termination.!”*
+
+185. Respondent rejects the argument that there was discriminatory treatment of
+Claimant, arguing that the transfers of shares of other mining companies, which the State had
+
+accepted, took place in significantly different circumstances.'”
+
+Respondent denies any
+obligation to pay compensation.'*®’ Respondent argues that any expropriation would not have
+
+been unlawful in any event because the challenged acts pursued a public purpose, were not
+
+As the counsel for Respondent put it at the hearing, “[T]he decision made by the public administration is
+self-imposed. ... [T]he public administration has the power of self-protection ... [A] decision made by the
+administration is imperative. There is no need to resort to a court.” See Tr. Day 3:517 (Wray).
+
+Respondent's Rejoinder $f] 680-96.
+Respondent's Rejoinder § 698.
+
+Respondent's Rejoinder {ff 697-708; Tr. Day 3:589-94 (Hodgson).
+Respondent's Rejoinder §f] 709-15; Tr. Day 3:594-98 (Hodgson).
+Respondent's Rejoinder $f] 677-78.
+
+180 Respondent’s Rejoinder §f] 780-86.
+
+56
+
+1
+
+discriminatory, and complied with due process,'*' and the lack of compensation alone does not
+
+render expropriation unlawful.'*?
+
+186. Finally, Respondent takes the view that the unlawful assignment of the
+contractual rights to Claimant invalidated both the Work Contract and the transfer of shares. The
+invalidation of the underlying contractual relationships that have been allegedly expropriated, by
+reason of the conduct of Claimant and of Placer Dome, provides an alternative ground for
+
+rejecting the expropriation claim.'*?
+
+4. Respondent’s Position: Copper Rights
+
+187. Respondent argues first, that MINCA did not hold any valid Copper Concession
+rights in the first place; and secondly, that the Ministry of Energy and Mining lawfully
+extinguished any residual concessionary rights of MINCA that might have existed. The lack of
+any valid concession rights flows from four considerations: (i) the absence of mandatory permits
+for land use and exploration; (ii) the invalidation of the incidental rights to copper by the
+termination of the Work Contract; (iii) the invalidity of the assignment of the Copper
+Concessions; and (iv) the absence of serious plans by Claimant to mine copper.'*! In any event,
+the cancellation of the Copper Concessions took place on the basis of MINCA’s non-compliance,
+and the alleged governmental involvement neither is demonstrated in factual terms nor would
+amount to expropriation by the application of the correct standard of expropriation.'** Finally,
+
+6
+
+Respondent notes that Claimant had been provided with due process,'®* and denies any
+
+obligation to pay compensation.'*”
+
+Respondent's Rejoinder $f] 862-73.
+Respondent's Rejoinder $f] 874-77.
+Respondent's Rejoinder $f] 772-79.
+Respondent's Rejoinder {ff 716-38; Tr. Day 3:598-600 (Hodgson).
+Respondent's Rejoinder {fj 739-62; Tr. Day 3:600-05 (Hodgson).
+Respondent's Rejoinder $f] 763-71.
+Respondent's Rejoinder $f] 780-86.
+
+57
+
+5. The Tribunal’s Decision
+
+188. The Tribunal considers that the rights in respect of gold and the rights in respect
+of copper were so closely interrelated and interdependent that they can be considered together in
+relation to the arguments that Claimant’s rights under the Canada-Venezuela BIT have been
+violated. That conclusion follows both from the history and structure of the commercial
+
+relationship between the Parties, and from a close reading of the relevant legal instruments.
+
+189. | While the Work Contract of March 4, 1992 does not specifically mention copper,
+it appears to the Tribunal that the Copper Concessions were granted in such a way that they were
+covered by the Work Contract. The Amended Shareholders Agreement of July 31, 1997 stated
+that:
+
+CVG, at MINCA's request, has filed applications with MEM for copper
+concessions at Las Cristinas, in performing the provisions relating to new
+minerals set forth in the [Work Contract dated] March 4, 1992. CVG hereby
+undertakes to transfer said concession to MINCA, by means of direct
+assignment, as soon as the same are awarded by MEM to CVG ....'
+
+190. Indeed, on April 7, 1999, the Work Contract was amended to reflect, among other
+things, that the royalty scheme for gold would apply to copper as well.'®? Finally, the Copper
+Concession Agreement (made between CVG and MINCA on April 19, 1999) itself also
+explained that MINCA would pay CVG a royalty for ”copper under the same terms and
+conditions as specified in Annex III of the [Work Contract of March 1992].” Thus, viewing
+these agreements together, it is clear that the copper concession was interrelated with the Work
+Contract in such a way that termination of the Work Contract operated to terminate it as well.
+As far as the termination of the Work Contract itself is concerned, the Tribunal finds that
+
+Venezuela’s action was both justified and legitimate.
+
+Ex. C-30 at Section 4.02.
+
+189 Ex. C-21A at pp. 3-4. In addition, it should be noted that the sixth paragraph of the Copper Concession
+
+Agreement states that the property “will be reverted ... if for any cause the Republic decides to revoke the
+CONCESSIONS, or if they lapse with the expiration of the term for which they were granted” (emphasis
+added), see Ex. R-67.
+
+58
+
+191. On 8 August 2000, CVG, Placer Dome, PDV, and MINCA entered into an
+agreement to suspend the performance of the Work Contract for a period of one year beginning
+on 15 July 2000 (Extension Agreement).'°
+
+192. The Extension Agreement had a very clear purpose: to grant the parties time “to
+find an investor interested in participat[ing] in MINCA and/or in the Project”'”! and to do so “by
+
+mutual agreement.”!”?
+
+193. Specifically, the parties to the Extension Agreement agreed that, within 30 days
+following its execution, they would hire an investment bank “by mutual agreement;”'”? prepare a
+schedule of activities “by mutual agreement” together with an investment bank “chosen by the
+Parties” to establish the parameters for locating an investor;'” and in the event that a third party
+expressed its interest in participating in MINCA and/or the Project and met the standards jointly
+determined, “the Parties shall make their best efforts to favour the incorporation of such third
+
+party to the Project."
+
+194. Thus, the Extension Agreement, which necessarily modified the Work Contract,
+spelled out that Placer Dome and the CVG would work together to find either an entirely new
+
+party to replace Placer Dome, or a third party to join Placer Dome and CVG in the Project.
+
+195. Yet although the Extension Agreement plainly required mutual cooperation and
+agreement in selecting an investor, Placer Dome engaged in secret negotiations and share
+
+transfers with Vannessa, only to “inform” CVG after the fact, on July 13, 2001, that it had been
+
+190 See Ex. C-60A. The Work Contract is referred to as “the Agreement” in the Extension Agreement, but is
+elsewhere in the pleadings and this award referred to as the Work Contract.
+
+Id. at 2.
+
+Id. at 3-5.
+
+Td. at 4.
+
+Id. at 3.
+
+Id. at 3-5 (emphasis added).
+
+59
+
+its’
+
+successful in search for a new investor within the period governed by the Extension
+
+Agreement.’
+
+196. Since that Agreement extended until July 14, 2001, Placer Dome was obligated to
+work with CVG up until the end of the extension to find a mutually-acceptable new investor, and
+it was not open to Placer Dome to thrust a new investor on CVG without its consent. Thus the
+failure of Placer Dome to work mutually under the Extension Agreement to insert a new investor
+provided a legitimate basis upon which CVG could terminate the Work Contract. In other
+words, the term on which the one-year extension was granted was breached by Placer Dome and
+
+hence the Extension Agreement was voided.'*”
+
+197. As Claimant has pointed out, the Extension Agreement “was a consensual 12-
+month suspension, not the kind of unjustified 12-month stoppage that would give the CVG the
+right to rescind under Article 19 of the [Work] Contract.”!°* As this consensual suspension was
+rendered void by Placer Dome’s actions in incorporating Vannessa as the putative new investor,
+
+Venezuela’s right to rescind under Article 19 was revived.
+
+198. Claimant acknowledges that the breach of the Extension Agreement was one of
+the main bases upon which CVG sought to terminate the Work Contract. In a letter to MEM,
+General Rangel Gémez stated that the decision was “essentially based on the conduct of the
+company Placer Dome ... to transfer its shares in PDV to the company I.H.C. Corp., a subsidiary
+of Vanesa [sic] Ventures L.T.D., as a way of evading the C.V.G.’s ... right to participate in the
+
+selection of a new (third-party) shareholder in MINCA, as expressly stipulated in contractual
+
+See Ex. C-95A, Letter from W. Hayes, Placer Dome Executive Vice President for the United States and
+Latin America to F. Rangel Gomez, CVG President (July 13, 2001) at 1. See also Ex. R-105, Letter from
+E, Rauguth, Vannessa Ventures, Ltd Executive Vice President, to F. Rangel, CVG President (October 30,
+2001) (English translation) at 1 (“Our negotiation with Placer Dome was governed by strict rules of
+confidentiality, forbidding the parties from discussing or sharing it with any third party. That is the reason
+why Vannessa did not contact the CVG prior to the purchase.”).
+
+It is of no moment that Scotia Capital, the investment bank chosen to find a new investor, suspended its
+activities in May 2001 by agreement of the CVG and Placer Dome. The Extension Agreement itself was
+never terminated and its spirit still underlay the parties’ search for a new investor. Indeed, that the “spirit”
+of the Extension Agreement still governed the parties’ behavior is admitted by Placer Dome in its July 13,
+2001 letter. See infra. Furthermore, even if Vannessa’s allegations are true that the CVG failed to act
+diligently in attempts to find a new investor, this is insufficient justification for Placer Dome to have acted
+in excess of its power in order to incorporate a new investor unilaterally.
+
+See Claimant’s Reply 4 82.
+
+60
+
+provisions signed by both parts of that company ... .”!” In its Reply, Claimant states that “(t]he
+contracts to which General Rangel Gomez was referring were the MINCA Bylaws ..., the 1997
+Shareholders’ Agreement ..., and the Extension Agreement.”
+
+199. Moreover, in its July 13, 2001 letter to CVG, Placer Dome implicitly admitted
+that it was required to comply with the Extension Agreement, taking the position (without
+elaboration) that its agreement to sell its shares in PDV to Vannessa fell “within the spirit” of the
+
+. 2
+Extension Agreement.”"!
+
+Yet, as just explained, far from falling “within the spirit” of the
+Extension Agreement, Placer Dome’s actions in incorporating Vannessa as a third-party investor
+unilaterally, and without CVG’s input, were in fact directly contrary to that spirit and, what is
+
+more, to the Extension Agreement’s plain language.
+
+200. Such a violation of the Extension Agreement amounts to a breach, rendering
+Venezuela’s subsequent decision to terminate the Work Contract both justified and legitimate. It
+destroyed the basis of the relationship upon which the exploitation of Las Cristinas by CVG and
+
+its partner in the project was premised.
+
+201. The Tribunal has already explained that it considers that the evidence shows
+clearly that the identity and specific experience and characteristics of Placer Dome were material
+factors in its selection as the foreign investor in the Las Cristinas project.” That is evident from
+the process by which Placer Dome came to be selected, and is a factor of central importance in
+this case. There is no basis on which it could reasonably be supposed that Venezuela was
+indifferent to the identity or the technical and commercial characteristics and experience of its
+partner in the Las Cristinas project, or that it would be consistent with the nature of the
+
+relationship as understood by the Parties simply to substitute one company for another in that
+
+199 Ex. R-48 (emphasis added).
+
+200 Claimant’s Reply at {208-09 (emphasis added).
+
+201 See Ex. C-95A, Letter from W. Hayes, Placer Dome Executive Vice President for the United States and
+
+Latin America to F. Rangel Gomez, CVG President (July 13, 2001) at 1 (“Este acuerdo [celebrado entre
+Placer Dome y Vannessa] que por este medio le participamos se encuentra dentro del espiritu del tiltimo
+convenio de prérroga ...) (emphasis added). It should be noted that the English translation Claimant
+provided does not contain the words “within the spirit” (though they are plainly contained in the Spanish
+version), but translates the phrase simply thus: “The agreement [entered into by Placer Dome and
+Vannessa] that we are notifying you of at this time falls within the last extension agreement ... .”
+
+202
+
+See $f] 50-54 above.
+
+61
+
+role, without Venezuela’s consent.
+
+Besides having been recognized by both parties, as
+
+mentioned in paragraph 54 of this Award, the intuitu personae character of the relationship was
+
+also acknowledged through provisions in a series of documents.
+
+202.
+
+First, both Shareholders’ Agreements included an article restricting the transfer of
+
+the rights of their signatories under them. In the 1991 Shareholders’ Agreement, entered into
+
+between Placer Dome and CVG, Article V.D. stated:
+
+Except as otherwise provided in this Agreement, neither party may assign
+any of its rights or delegate any of its duties under this Agreement without
+first obtaining the prior written consent of the other party which shall not be
+unreasonably withheld. This Agreement shall enure to and be binding upon
+each of the parties hereto and their respective successors and permitted
+assigns.”
+
+In the 1997 Shareholders’ Agreement, entered into between Placer Dome, PDV, and CVG,
+
+Section 10.01 stated:
+
+203.
+
+Unless otherwise provided herein, the parties cannot assign their rights or
+delegate their obligations hereunder without the other party’s prior written
+consent. This Amended Agreement shall be binding upon and inure to the
+benefit of each contracting party, and their permitted assignees.”
+
+Second, the MINCA By-laws also included an article by which the shares
+
+belonging to one of the shareholders could not be sold before they had first been offered to the
+
+other shareholders, which means that any such transfer also needed a kind of implied
+
+authorization of the other shareholder, constituted by its refusal to buy the shares. Article 9 of
+
+the MINCA By-laws provided that:
+
+203
+
+204
+
+Ex. C-5A.
+Ex. C-30.
+
+[...] The Shareholders shall have a preferential right to purchase the shares
+that other Shareholders wish to sell for a consideration, in the proportion
+which the number of shares held by each shareholder at the time the sale
+offer is known bears to the total number of shares of the Company. For these
+purposes, the selling Shareholder shall send a letter to the Board of Directors
+of the Company informing it of the number of shares it wishes to sell, the
+name of the intended buyer and the purchase price. The Board of Directors
+shall give immediate notice of the offer to the other Shareholders, who shall
+have a term of thirty (30) calendar days to exercise their preferential right. If
+the other Shareholders do not exercise their preferential right, or exercise it
+
+62
+
+partially, the selling Shareholder may sell the remaining shares for a price no
+lower than the price informed to the Board of Directors.
+
+Any transfer made in violation of this Clause shall be deemed to be void and
+without any effect upon the Company. Notwithstanding the foregoing,
+transfers of shares to related companies, wholly-owned by Shareholders,
+directly or indirectly, or by the Shareholder’s parent Company are hereby
+authorized.”
+
+204. While in this case it was not PDV that was selling its shares in MINCA, but rather
+a senior wholly owned subsidiary of Placer Dome that was selling its shares in PDV, this does
+not detract from the indication that is implicit in Article 9 of the MINCA Bylaws that it mattered
+who the partners in the project were, and that new shareholders could not be introduced without
+
+the consent of the other shareholders.
+
+205. Third, Clause Twenty Eighth of the Work Contract stipulated that “the parties
+may not assign in any manner this agreement except by prior written approval of the other
+party.” Article X (Assignment; Binding Effect) of the 1997 Amended Shareholders’
+
+Agreement?”
+
+2206
+
+made by CVG and Placer Dome stipulated:
+
+Unless otherwise provided herein, the parties cannot assign their rights or
+delegate their obligations hereunder without the other party’s prior written
+consent. This Amended Agreement shall be binding upon and inure to the
+benefit of each contracting party, and their permitted assignees.
+
+The fact that an assignment “in any manner” was forbidden unless prior written consent was
+obtained from the other party means, in the understanding of the Tribunal, that an assignment
+
+could not be made indirectly by a change of the owner of the shares of MINCA.
+
+206. Moreover, as was noted above, the only clear way in which a change of control
+could be effected in accordance with the MINCA Bylaws, through the Article 9 pre-emption
+procedure, was not followed.”°* Placer Dome clearly sought to withdraw from the partnership
+that was secured by the structure of MINCA and to insert another company in its place. But
+
+Placer Dome did not present CVG with the price of the deal with Vannessa before it was
+208 Ex. C-6A.
+
+206 Ex. C-20A, Clause Twenty Eighth.
+
+207 Ex. C-30.
+
+208 See 474 above.
+
+63
+
+completed and allow 30 days for CVG to meet that price. Indeed, at the very meeting at which
+the President of MINCA met Mr Pinedo, in-house counsel for PDV, to inform Placer Dome of
+CVG’s decision to consider Placer Dome’s proposal, Mr Pinedo advised MINCA’s President for
+the first time of the impending sale to Vannessa. Despite Placer Dome’s proposal to sell to
+CVG, and CVG’s interest in considering the proposal, Claimant disrupted this process by
+thrusting on CVG the deal that it had agreed with Vannessa.
+
+207. The unavoidable conclusion is that this series of provisions shows clearly that the
+whole operation had to remain inside the joint venture between Placer Dome and CVG, without
+the introduction by either party, through one device or another, of a new party without the
+
+consent of the other party.
+
+208. Though it was apparent that Placer Dome was actively seeking a new investor to
+step into the Las Cristinas project, it is not disputed that Placer Dome did not inform CVG of its
+intention to transfer its interests in PDV to Vannessa until a matter of hours before the expiry of
+the agreed period of suspension on July 15, 2001. Nor is it disputed that CVG had the right to
+terminate the Work Contract with MINCA in the event of any further unauthorized suspension.
+Further, it is evident that the termination of the Work Contract would have terminated the basis
+
+upon which Placer Dome had made its investment.
+
+209. It is well established that, in order to amount to an expropriation under
+international law, it is necessary that the conduct of the State should go beyond that which an
+ordinary contracting party could adopt.” In the present case, although in 2002 various legal
+measures were adopted to cancel rights in respect of Las Cristinas, those measures were all
+consequent upon the initial termination of the Work Contract — as was the physical occupation of
+
+the Las Cristinas site by CVG.
+
+210. The evidence points to the termination being a step for which CVG and Placer
+Dome had made contractual provision, motivated by the unauthorised continuation of the work
+suspension and the withdrawal of Placer Dome from its participation (via PDV) in the Las
+
+209 See, e.g., Impregilo SpA v. Islamic Republic of Pakistan, ICSID Case No. ARB/03/3, Decision on
+
+Jurisdiction, April 22, 2005 (hereinafter, Impregilo v. Pakistan), 4 260; Consortium RFCC v. Kingdom of
+Morocco, \CSID Case No. ARB/00/6, Award, December 22, 2003, 4 51; ILC Articles on State
+Responsibility, Commentary on Article 4, 6.
+
+64
+
+Cristinas project.7"° Claimant has not shown that Respondent’s actions were more than
+
+legitimate contractual responses to what the Tribunal considers to be contractual breaches.
+
+211. The Tribunal takes note that the notice of the breach,”! dated August 6, 2001,
+invokes three contractual breaches by MINCA: (1) the violation of its obligation to submit
+detailed reports to CVG; (2) the failure to resume work on the mine, after the expiration of the
+last extension on July 15, 2001; (3) the entry into a transaction with Claimant for the transfer of
+all of the shares of MINCA “thus contravening express contractual provisions contained in
+Clause Twenty-fifth [in fact, Twenty Eighth] of the above referenced Contract [i.e., the Work
+Contract], by virtue whereof it was bound to obtain due written authorization by CVG therefor in
+
+view of the scope such transfer has over MINCA ... .”
+
+212. The three same violations were also asserted in the notice of cancellation of the
+Work Contract”'? on 6 November 2001, after the lapse of the 90 day period given to Claimant to
+
+remedy the violations.
+
+213. The Tribunal finds no evidence that termination was motivated by an intention to
+confer benefits upon CVG, Crystallex (with whom Respondent subsequently made an agreement
+
+concerning Las Cristinas), or any other entity.
+
+214. The Tribunal does not consider that the termination of the Work Contract rises
+above the “high threshold’*" that separates a contractual dispute from a violation of a treaty
+prohibition on expropriation. The claim that Respondent has violated Article VII of the Canada-
+Venezuela BIT by the termination of the Work Contract and the steps consequential upon that
+
+termination is accordingly rejected.
+
+210 Respondent also cited the failure of MINCA to file reports as a reason for termination of the Work
+Contract. See Ex. C-109A, Ex. R-85.
+
+Ex. C-109A (emphasis added).
+
+Ex. C-148A.
+
+Impregilo v. Pakistan, § 267.
+
+65
+
+215. As to the taking of physical assets in the context of the November 2001 takeover
+
+214
+
+of the Las Cristinas site,"” the Seventeenth Clause of the Work Contract provided that those
+
+assets would revert to Venezuela (or CVG) upon termination of the Contract:
+Permanent works done by the Company [MINCA], including facilities,
+accessories, equipment and any other goods acquired in ownership to be used
+for the exploration, development and exploitation subject hereof shall pass in
+
+full title to the Corporation [CVG], free of encumbrances and charges, and
+without any indemnity, once this Agreement terminates, whatever the cause.
+
+While the Seventeenth Clause of the Work Contract was modified on April 7, 19997! to change
+the reference to “the Corporation“ to “the Nation,” this change does not affect the analysis
+because, either way, Placer Dome had no right to them, and consequently Vannessa could have
+
+no right to claim damages for them.
+B. Fair and Equitable Treatment and Full Protection and Security
+
+216. Claimant’s submissions regarding alleged violations of the provisions on fair and
+equitable treatment (“FET”) and full protection and security (“FPS”), both contained in Article
+II(2) of the Canada-Venezuela BIT, are both considered in this section, although they are two
+
+distinct standards of protection of an investor’s rights.
+1. Claimant’s Position
+
+217. Claimant claims a breach of the right to fair and equitable treatment through the
+unilateral termination by CVG of the Work Contract without first resorting to “arbitration
+according to the Venezuelan Civil Procedural Code, performed in accordance with the arbitration
+tules of the International Chamber of Commerce in Paris” as provided in Clause Twenty Sixth of
+the Work Contract, and also in the conduct of CVG and the Venezuelan courts which, it says,
+prevented MINCA from commencing the ICC arbitration in respect of the contractual
+disputes.*"° Claimant rejects Respondent’s argument that MINCA itself had failed to present a
+
+case to the ICC and instead chose to pursue a process of “formalisation” of arbitration before the
+
+214 See 4 100 above.
+21s Ex. C-21A.
+216
+
+Tr. Day 2:291-305 (Terry).
+
+66
+
+Venezuelan courts, arguing that the formalisation process was required by the applicable rules of
+the Venezuelan Civil Procedure Code. Claimant says that CVG had explicitly rejected the
+possibility of arbitrating disputes in respect of (allegedly) administrative contracts. More
+broadly, Claimant argues that it was mistreated by the judicial system because delays and
+dismissals of its claims by courts, which were less than independent and impartial and were
+acting against the background of political controversy, had the effect of denying its right to
+arbitration.?'’ Claimant also invokes its reasonable and legitimate expectations that CVG would
+
+respect the contractual right to go to arbitration.”"*
+
+218. Claimant considers that the standard of FPS applies to the protection by the State
+of foreign investments from actions of the State’s officials and agencies. Claimant argues that
+Respondent failed to provide full protection and security to its investment by not exercising due
+diligence in protecting Claimant from injurious acts of Respondent’s officials and agencies.
+Claimant argues that “full protection and security” is not limited to cases involving civil strife
+and also applies to a situation such as that in the present dispute. In particular, Claimant argues
+that: the Ministry of Energy and Mines failed to exercise its obligations of supervision and
+control in respect of the Las Cristinas project; the Venezuelan Fiscalia failed to properly
+investigate the unlawful expropriations of Claimant’s rights; and the National Assembly
+
+committees failed to properly investigate its complaints.”!°
+
+2. Respondent’s Position
+
+219. Respondent denies that it breached the obligation to provide fair and equitable
+treatment. It argues that Claimant’s position is fundamentally flawed in two respects: first,
+MINCA itself prevented the Venezuelan courts from ordering arbitration, by the procedures that
+it chose to pursue before those courts; secondly, MINCA never tried to initiate the arbitration
+with the ICC. More broadly, Claimant’s arguments, even if true, would not satisfy “[t]he
+
+standard for denial of justice [that] requires evidently arbitrary, unjust, idiosyncratic,
+
+27 Claimant’s Memorial §§ 190-208; Claimant’s Reply 4 551-64.
+218 Tr. Day 4:837-38 (Terry). For a broader view, see Tr. Day 2:314-19 (Terry).
+219
+
+Claimant’s Reply f] 565-74. See also Tr. Day 2:319-20 (Terry).
+
+67
+
+9220
+
+discriminatory acts. In the oral proceedings, Respondent rejected Claimant’s arguments
+
+about its legitimate expectations as being vague and unsubstantiated.””!
+
+220. Respondent considers that the FPS standard is in principle limited to the duty of
+the State to protect investors against physical violence, and notes the uncertainty about the
+application of the standard outside the context of protection from physical violence.”
+Respondent says that it has not denied full protection and security to Claimant. In any event, it
+says that the Ministry of Energy and Mines did not have any obligation to prevent CVG from
+exercising its contractual rights, and that the events alleged could not establish a breach of an
+obligation to protect.”* Claimant did not have any right to an investigation by the Fiscalia or
+
+any right to have committees of the National Assembly investigate its complaints.”~*
+3. The Tribunal’s Decision
+
+221. The Tribunal has found that the decision to terminate the Work Contract, and the
+consequent steps to take over the Las Cristinas site and to bring rights in respect of Las Cristinas
+under the control of Respondent, did not amount to an expropriation. They were contractual
+responses to what the Tribunal considers to be contractual breaches. The questions here are
+whether Respondent violated the Treaty by treating the investment unfairly or inequitably, and
+
+whether there was any failure to accord full protection and security to the investment.
+
+222. The Tribunal recognizes that there are different formulations of the precise
+content of the FET standard, but observes that they all have in common the requirement that the
+standard does not guarantee the success or profitability of an investment but requires that the
+treatment of investments not fall below a minimum standard of fairness and equitableness that all
+investors have a right to expect. The Tribunal agrees that in this case the treatment of Claimant’s
+
+investment by Respondent, in light of the manner in which the investment was made and of the
+
+220
+
+Respondent's Rejoinder 813. See generally Respondent’s Rejoinder {| 792-832; Tr. Day 3:605-14
+(Hodgson).
+
+221
+
+Tr. Day 3:564-69 (Goodman); Tr. Day 3:585-87 (Hodgson).
+
+222
+
+22 Tr. Day 3:615-17 (Hodgson).
+
+223
+
+Respondent's Rejoinder {fj 833-48; Tr. Day 3:618-19 (Hodgson).
+
+24
+
+2 Respondent's Rejoinder 4 849-53; Tr. Day 3:614-15 (Hodgson).
+
+68
+
+contractual framework that had been agreed for the development of Las Cristinas, cannot be
+regarded as falling below that minimum standard, however the standard might be formulated in
+
+its precise details.
+
+223. Similarly, as far as the content of the FPS standard is concerned, the Tribunal is
+broadly in agreement that it applies at least in situations where actions of third parties involving
+either physical violence or the disregard of legal rights occur, and requires that the State exercise
+due diligence to prevent harm to the investor, it being understood that the FPS standard does not
+grant the investor an “insurance against all and every risk.” While members of the Tribunal do
+not consider that there is a more precise formulation of the content of the standard that is
+
+225
+
+universally accepte they are in agreement that even the most demanding formulation of the
+
+FPS standard for which Claimant contended was not violated in the present case.
+
+224. More specifically, the Tribunal does not accept that the termination of the Work
+Contract without first resorting to arbitration constitutes a violation of either the right to fair and
+
+equitable treatment or the right to full protection and security.
+
+225. Having considered the evidence concerning Venezuelan law that was put before
+it, the Tribunal is not persuaded that arbitration was an essential precondition to termination of
+the contract, although under Clause Twenty Sixth of the Work Contract arbitration was plainly
+
+an option for the resolution of disputes arising out of the termination of the contract.
+
+226. Furthermore, in the view of the Tribunal, Claimant has not proved its claim that
+Respondent has violated Claimant’s right to fair and equitable treatment or its right to full
+protection and security under the BIT by obstructing the access of Claimant to the Venezuelan
+
+courts or to arbitration in order to pursue its claims. It is true that in the ten sets of proceedings
+
+226
+
+listed above” there are instances in which the Venezuelan Courts failed to deal promptly, or at
+
+all, with applications for interim relief; and it is true that there were considerable delays in
+
+225 For example, the different approaches in Occidental Exploration and Production Company v. The Republic
+
+of Ecuador, LCIA Case No. UN 3467, Award, July 1, 2004, 4] 183-87, and in El Paso Energy
+International Company v. Argentine Republic, 1CSID Case No. ARB/03/15, Award, October 31, 2011,
+522-23 both command support.
+
+226
+
+See 4] 103 above.
+
+69
+
+dealing with many of the applications. The Tribunal does not, however, consider that the delays
+
+are of an order that violates Respondent’s obligations under the Treaty.
+
+227. Tribunals in other cases have pointed to the high threshold in this regard. In
+Waste Management, the award referred to “a lack of due process leading to an outcome which
+offends judicial propriety — as might be the case with a manifest failure of natural justice.””””
+The Tribunal considers that to be the correct approach. The question is not whether the host
+State legal system is performing as efficiently as it ideally could: it is whether it is performing so
+badly as to violate treaty obligations to accord fair and equitable treatment and full protection
+and security. The Tribunal does not consider that the delays in this case are of an order that
+
+constitute conduct that falls below the minimum standard demanded by the Treaty.
+
+228. Allegations of a lack of independence and impartiality are more difficult to deal
+with. They often amount to allegations of violations of professional rules, or even of criminal
+laws, and it is not to be expected that evidence will be readily available. Such allegations would,
+if proven, constitute very serious violations of the State’s treaty obligations. But they must be
+properly proved; and the proof must, at least ordinarily, relate to the specific cases in which the
+impropriety is alleged to have occurred. Inferences of a serious and endemic lack of
+independence and impartiality in the judiciary, drawn from an examination of other cases or
+from anecdotal or circumstantial evidence, will not ordinarily suffice to prove an allegation of
+impropriety in a particular case. The evidence in this case does not warrant a conclusion that the
+decisions of the courts in Venezuela in the proceedings instituted by Claimant demonstrate a lack
+of independence or impartiality, and the Tribunal does not accept that they amount to breaches of
+
+either the right to fair and equitable treatment or the right to full protection and security.
+
+229. As far as concerns Claimant’s submissions concerning access to ICC arbitration
+are concerned, the Tribunal notes that Claimant did not file an application directly with the ICC,
+but chose to seek an order from the Venezuelan courts that CVG must accept ICC arbitration.
+Claimant had also sought to litigate various aspects of the dispute before the Venezuelan courts,
+
+27
+
+2 Waste Management v. United Mexican States, ICSID Case No. ARB(AF)/00/3, Award, April 30, 2004,
+4198. Cf, Loewen Group v. United States of America, \CSID Case No. ARB(AF)/98/3, Award, June 26,
+2003, § 132; Alex Genin v. The Republic of Estonia, ICSID Case No. ARB/99/2, Award, June 25, 2001,
+4371.
+
+70
+
+but eventually decided to waive its right to continue its proceedings before the Venezuelan courts
+in order to pursue the present arbitration. Such a waiver is a necessary precondition of access to
+arbitration under the Canada-Venezuela BIT, stipulated by Article XII(3)(b). That provision also
+requires that Claimant waive its rights to initiate or continue “a dispute settlement procedure of
+any kind” to which the dispute has been referred. The right to ICC arbitration had, therefore, to
+
+be waived in order that Claimant could bring the case before this Tribunal.
+
+230. Further, the Tribunal notes that a three-year time limit is imposed by Article
+XII(3)(d) of the BIT, in respect to arbitration under the Treaty. Access to this Tribunal is an
+agreed alternative to the pursuit of remedies in national courts or in contractual arbitrations, in
+
+relation to complaints of conduct that is alleged to amount to a violation of the Treaty.
+
+231. Claimant did not support its allegations that its treatment by Respondent was
+discriminatory. No evidence of dissimilar treatment of investors in a position similar to that of
+Claimant was adduced. Similarly, no further evidence to support the allegation of a breach of the
+“fair and equitable treatment” provision or the “full protection and security” provision in the BIT
+
+was adduced. The Tribunal does not consider that Claimant has substantiated either allegation.
+
+232. In these circumstances, the Tribunal finds that there has been no violation of the
+duty to accord Claimant’s investment fair and equitable treatment or the duty to accord it full
+
+protection and security under the BIT.
+Ill. CONCLUSION
+
+233. For the reasons given above, the Tribunal concludes that there has been no
+
+violation of the rights of Claimant under the Canada-Venezuela BIT.
+Iv. COSTS
+
+234. The Tribunal having found that there has been no violation of Claimant’s rights
+under the BIT, the question of costs remains. The Decision on Jurisdiction reserved the
+allocation of costs for later determination, and the Tribunal accordingly has to decide on the
+
+allocation of costs for both the jurisdiction and the merits phases of this case.
+
+71
+
+235. The Tribunal notes that both Parties employed outside counsel and experts. It
+notes further that the total costs exceeded US $20 million and that Claimant’s costs were under
+one-half of Respondent’s costs. While it understands the magnitude of the issues at stake, and
+that each Party took its own decisions on how best to protect its interests, the Tribunal considers
+it regrettable that the costs of what should be an efficient and reasonably expeditious procedure
+
+are so high.
+
+236. In this case, Claimant was in effect the winner of the jurisdiction phase and the
+loser of the merits phase of this case. Given the logistics of case preparation and the extent to
+which issues are intertwined, it is practically impossible to separate out the costs of the two
+phases. Taking account of the extent to which each side has prevailed, and the respective
+expenditures of each Party, the Tribunal has decided that each side should bear its own costs and
+
+one-half of the costs of the Tribunal and of ICSID.
+Vv. DISPOSITIF
+
+237. For the above reasons, and pursuant to Article 52 of the Arbitration Rules, the
+Arbitral Tribunal:
+
+i) by a majority rejects the objections to jurisdiction made by the Bolivarian
+
+Republic of Venezuela, and decides that it has jurisdiction to determine the dispute;
+
+ii) unanimously dismisses all of the claims made by Claimant against Respondent
+under the Canada-Venezuela Bilateral Investment Treaty in this case, summarized in
+
+paragraph 344 of Claimant’s Memorial and paragraph 639 of Claimant’s Reply; and
+
+iii) unanimously decides that each Party shall bear its own costs and one-half of the
+
+costs of the Tribunal and of ICSID.
+
+72
+
+Signed [Signed]
+
+Hon. Charles N. Brower, Arbitrator Professor Brigitte Stern, Arbitrator
+
+Date: 12-17-2012 Date: 12-10-2012
+
+Signed
+
+Professor Vaughan Lowe QC, President
+
+Date: 12-14-2012
+
+73
+

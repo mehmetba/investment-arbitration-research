@@ -1,0 +1,686 @@
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 1 of 222
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+ 
+
+Beijing Shougang Mining Investment Company
+Ltd., China Heilongjiang International
+Economic & Technical Cooperative Corp., and Civil Action Number
+Qinhuangdaoshi Qinlong International
+Industrial Co. Ltd., 17 CV 7436
+plaintiffs,
+
+against -
+
+Mongolia,
+
+defendant.
+
+ 
+
+ 
+
+PETITION TO VACATE ARBITRAL AWARD
+DECLINING TO EXERCISE
+ARBITRAL JURISDICTION
+
+AND COMPEL ARBITRATION
+
+PROVENZANO GRANNE & BADER LLP
+43 West 43rd Street, Suite 197
+New York, New York, 10036
++1.212.859.3516
+
+attorneys for petitioners
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 2 of 222
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+Page
+TABLE OF AUTHORITIES ii
+PRELIMINARY STATEMENT 1
+STATEMENT OF FACTS 3
+ARGUMENT 5
+
+ 
+
+ 
+
+I. This Court Has Jurisdiction Over This Petition...
+
+I. This Court Reviews De Novo the Question Whether
+
+ 
+
+Petitioners’ Claims Are Arbitrable.......ccccccceecseceeeseeteneseeeseeeeeseseee 8
+
+Ii. Petitioners’ Claims Are Arbitrable under Article 8(3) of the
+Treaty 9
+REQUEST FOR AN ORAL HEARING wu... ecececeeesseseeseeeeeesseseeeeseeesaeseeeeeeeseneeaeeetaeenene 15
+
+CONCLUSION. 15
+
+ 
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 3 of 222
+
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+
+Beijing Urban Construction Grp. Co. v. Yemen,
+ICSID Case No. ARB/14/30, [| 78-87 (2017), available at
+www.italaw.com/sites/default/files/ case-documents/italaw8968. pdf..........::ee 13
+
+Berschader v. Russian Federation,
+SCC Case No 080/2004, Award, 21 April 2006, available at
+https://www.italaw.com/sites/ default/files/case-
+documents/ita0079_0.pdf 14
+
+BG Group PLC v. Argentina,
+134 S. Ct. 1198 (2014) 9
+
+ 
+
+Blue Ridge Investments LLC v. Argentina,
+735 F.3d 72 (2d Cir. 2013) 7
+
+ 
+
+Cargill Int'l S.A. v. M/T Pavel Dybenko,
+991 F.2d 1012 (2d Cir. 1993) 7
+
+ 
+
+Czech Republic v. European Media Ventures SA
+[2007], EWHC 2851, § 44 (English Comm’] Coutrt)......cccecccesseseseeteeeeeteeeeeeeenees 14
+
+Ecuador v. Chevron Corp.,
+638 F.3d 384 (2d Cir. 2011) 6
+
+ 
+
+First Options of Chicago, Inc. v. Kaplan,
+514 U.S. 938 (1995) 8,9
+
+Maritime Ventures Intl, Inc. v. Caribbean Trading & Fidelity, Lid.,
+689 F. Supp. 2d 1340 (S.D.N.Y. 1988) .....cccececsssseceeeeeenseseteeseeecseseceeeeeeeeeaeeeeaeeeeaeee 7
+
+Renta 4 S.V.S.A. et al v. Russian Federation,
+SCC Case No. V 024/2007, Award on Preliminary Objections, {| 33
+(2009), available at https://www.italaw.com/sites/default/files/case-
+documents/ita0714.pdf; 12
+
+RosInvest UK Ltd v. Russian Federation,
+SCC Case No V 079 14
+
+Sanum Investments Limited v. Lao People’s Democratic Republic,
+[2016], SGCA 57, § 147 12
+
+ 
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 4 of 222
+
+Sanum Investments Ltd. v. Lao People’s Democratic Republic,
+PCA Case No. 2013-13,
+https://www.italaw.com/sites/default/files/case-documents/
+italaw3322.pdf 12
+
+ 
+
+Schneider v. Thailand,
+688 F.3d 68 (2d Cir. 2012) 8
+
+ 
+
+Tza Yap Shum v. Republic of Peru,
+ICSID Case No. ARB/07/6, at { 148, ICSIDCase No. ARB/O7/6,
+Decision on Annulment, 12 February 2015, available at
+https://www.italaw.com/ sites/default/files/case-
+
+ 
+
+ 
+
+ 
+
+ 
+
+documents/italaw4371.pdf (English original). ....0....cccscesssesseeeeeteeseneeeeneesenees 11, 12
+Statutes
+28 U.S.C. § 1330(a) 5
+28 U.S.C. § 1605(a)(1) 7
+28 U.S.C. § 1605(a)(6) 6
+FAA § 10, 9 U.S.C. § 10 8
+
+Other Authorities
+
+2012 United States Model Bilateral Investment Treaty, art. 24(3),
+https://www.state.gov/documents/organization/ 188371.pdf
+
+ 
+
+Agreement Between the Government of the Mongolian People’s Republic
+and the Government of the People’s Republic of China Concerning
+the Encouragement and Reciprocal Protection of
+Investments,http://tfs.mofcom.gov.cn/aarticle/h/at/201002/20100206
+778627.html 4
+
+H.R. Rep. No. 1487, 94th Cong., 2d Sess., 18 (1976), reprinted in 1976
+U.S.S.C.A.N. 6604, 6617 7
+
+ 
+
+Separate Opinion of Hon. Charles N. Brower, available at
+https://www.italaw.com/ sites/default/files/case-
+documents/ita0715.pdf 12
+
+ 
+
+Jan Paulsson, Arbitration Without Privity, ICSID Rev. — Foreign
+Investment L.J. 232 (1995). 6
+
+ 
+
+iii
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 5 of 222
+
+Petitioners Beijing Shougang Mining Investment Company Ltd., China
+Heilongjiang International Economic & Technical Cooperative Corp., and
+Qinhuangdaoshi Qinlong International Industrial Co. Ltd. (collectively,
+“Petitioners”) respectfully petition this Court for an order: (1) vacating an arbitral
+award rendered by an ad hoc tribunal (the “Tribunal”) on June 30, 2017 (the
+“Award”), which, among other things, declined to exercise jurisdiction over the
+Petitioners’ claims that Mongolia had expropriated their investments without
+compensation in violation of the bilateral investment treaty (the “BIT” or the
+“Treaty”) between Mongolia and the People’s Republic of China (“PRC”); and (2)
+
+directing the parties to submit to arbitration Petitioners’ claims under the BIT.
+
+PRELIMINARY STATEMENT
+
+Petitioners are three companies organized under the laws of the PRC, which
+invested in a joint venture with a Mongolian company to develop an iron ore mine
+in Mongolia. Petitioners bring this petition because, when Mongolia unlawfully
+expropriated their investment and they sought recourse through arbitration
+pursuant to the BIT, the Tribunal erroneously declined to exercise jurisdiction. It
+determined that the question of whether an expropriation had occurred was not
+arbitrable. The Tribunal interpreted the Treaty, the purpose of which was to
+provide incentives for investment from the PRC into Mongolia, to require that the
+national courts of Mongolia first declare that other arms of the government of
+
+Mongolia had expropriated the assets of Chinese investors; only then could there be
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 6 of 222
+
+arbitration, and the only arbitrable question would be the amount of compensation
+
+for the taking.
+
+Because the Treaty does not explicitly assign the question of arbitrability to the
+Tribunal, this Court exercises de novo review of the Tribunal’s decision to decline
+jurisdiction over the expropriation claims. It is well settled that, unless the relevant
+arbitration agreement (whether a contract or a treaty) clearly and unmistakably
+commits the question of an arbitral tribunal’s jurisdiction to that tribunal, the
+arbitrability of a claim is a matter of law for a court to determine independently,
+
+without deference to the arbitrators’ decision.
+
+Here, the question of whether Mongolia expropriated Petitioners’ investment must
+be submitted to arbitration. The contrary result reached by the Tribunal makes
+little sense. Among the central purposes of BITs is to afford to investors the
+certainty of access to an impartial tribunal other than the national courts of one of
+the contracting states. The Award deprives Petitioners of one of the essential
+benefits to which they were entitled. For that reason, together with the texts of the
+relevant treaties, the clear majority of other tribunals have reached the contrary
+conclusion under similar BITs. Indeed, every other tribunal to address this question
+
+under PRC BITs has rejected the narrow interpretation adopted by this Tribunal.
+
+It is for this Court to determine whether, under the BIT at issue, Petitioners are
+entitled to have their expropriation claim decided by arbitration. Because the
+
+Tribunal erroneously determined that the consideration of expropriation was
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 7 of 222
+
+outside its jurisdiction, leaving that question to the government of the very state
+that Petitioners contend committed the expropriation, Petitioners seek an order
+from this court vacating the Award and compelling Mongolia to proceed to
+
+arbitration of their claims.
+
+STATEMENT OF FACTS
+The underlying facts of the dispute are complex—the Award takes 153 pages to
+decline to exercise jurisdiction over the essential question. Fortunately, they are
+largely irrelevant to this petition. A great deal more detail is contained in the
+Award, attached to the Declaration of Michael A. Granne, dated September 28, 2017
+(the “Granne Decl.”) as Exhibit A, and in the Petitioners’ request for arbitration
+(the “RFA”), attached to the Granne Declaration as Exhibit B. All references to
+
+exhibits are to the exhibits to the Granne Declaration.
+
+BLT LLC, a Mongolian company, held a license to exploit certain iron ore deposits
+located in Mongolia (the “939A License”). At the time this license was obtained, the
+price of iron ore was low and there was little interest in commercial development.
+See Ex. B at § 7. In 2002, the Petitioners formed a joint venture with BLT LLC
+called Tumturei Ltd (“Tumturei”) to commercially develop these deposits,
+collectively owning 70% of Tumturei. See id. at | 10. The 939A License was duly
+transferred from BLT LLC to Tumturei in 2005. See id. at {| 10. Iron ore production
+commenced at the beginning of 2006, see id. at § 15, and exports to the PRC began,
+
+see id. at | 17.
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 8 of 222
+
+In 2006, a new government took power in Mongolia. See id. at | 15. Significantly,
+with the then-higher price of iron ore, the new Mongolian government began efforts
+to find a way to take back their now-valuable mining concession. See Ex. B at {J 16
+— 21. Among other things, the executive director of Tumturei was jailed for about
+two weeks, ostensibly on charges related to tax evasion. See id. at §/ 20. Mongolia
+ultimately revoked the license on a variety of grounds, none of which have merit,
+determining that it properly belonged to a state-owned enterprise called the
+Darkhan Metallurgical Plant (“Darkhan”). See id. at jj 22 — 44. BLT LLC and
+Tumturei were unable to obtain relief through proceedings in Mongolia, see id. at 4
+45, and Tumturei’s executive director continued to suffer from official harassment.
+
+See id. at § 46.
+
+On February 12, 2010, the Petitioners served their RFA pursuant to the operative
+BIT — the Agreement Between the Government of the Mongolian People’s Republic
+and the Government of the People’s Republic of China Concerning the
+Encouragement and Reciprocal Protection of Investments signed on 26 August 1991,
+
+available at http://tfs.mofcom.gov.cn/aarticle/h/at/201002/20100206778627.html
+
+ 
+
+An ad hoc tribunal was duly constituted, and the Permanent Court of Arbitration
+was selected to administer the proceedings. A detailed summary of the procedural
+history of the arbitration may be found in the Award. See Ex. A at {7 — 88. The
+
+Award was rendered on June 30, 2017. See id. at p. 153.
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 9 of 222
+
+The Tribunal concluded (correctly) that the Petitioners are investors entitled to
+invoke the protections of the Treaty. See id. at |] 404 — 22. However, the Tribunal
+erroneously concluded that it lacked jurisdiction over the fundamental question of
+whether Mongolia had expropriated Petitioners’ investment. Instead, according to
+the Tribunal, it could have jurisdiction only if Mongolia admitted that it had
+expropriated the investment (for example, by a declaration from its courts to that
+effect); in that theoretical event, the Tribunal would have jurisdiction only to
+resolve any controversy over the amount of compensation Mongolia should pay. See
+
+id. at 4 423 — 76.
+
+Petitioners have therefore commenced this proceeding, pursuant to the FAA, to
+vacate this erroneous decision and compel Mongolia to arbitrate its claims under
+
+the Treaty.
+
+ARGUMENT
+I. This Court Has Jurisdiction Over This Petition
+The FSIA governs whether Mongolia, a foreign sovereign, is subject to suit in the
+
+courts of the United States. 28 U.S.C. § 1330(a) provides that:
+
+The district courts shall have original jurisdiction without
+regard to amount in controversy of any nonjury civil
+action against a foreign state .. . as to any claim for relief
+in personam with respect to which the foreign state is not
+entitled to immunity either under sections 1605 — 1607 of
+this title or under any applicable international
+agreement.
+
+or
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 10 of 222
+
+Subject matter jurisdiction therefore exists so long as Mongolia is not entitled to
+
+immunity under sections 1605 — 1607 of the FSIA.
+
+Two separate provisions of the FSIA permit this Court to exercise jurisdiction over
+Mongolia. First, 28 U.S.C. § 1605(a)(6) provides in relevant part that Mongolia is
+not immune from suit in any case
+
+in which the action is brought, either to enforce an
+
+agreement made by the foreign state with or for the benefit
+
+of a private party to submit to arbitration all or any
+
+differences which have arisen or which may arise between
+
+the parties with respect to a defined legal relationship,
+
+whether contractual or not, concerning a subject matter
+
+capable of settlement by arbitration under the laws of the
+
+United States, or to confirm an award made pursuant to
+
+such an agreement to arbitrate, if (A) the arbitration takes
+
+place or is intended to take place in the United States ....
+28 U.S.C.A. § 1605(a)(6) (emphasis added). In a BIT, the two states make an offer to
+each other’s nationals to arbitrate disputes. An investor accepts the offer by
+commencing arbitration. See Ecuador v. Chevron Corp., 638 F.3d 384, 392 (2d Cir.
+2011) (“Unlike the more typical scenario where the agreement to arbitrate is
+contained in an agreement between the parties to the arbitration, here the BIT
+merely creates a framework through which foreign investors, such as Chevron, can
+initiate arbitration against parties to the Treaty. In the end, however, this proves to
+be a distinction without a difference, since Ecuador, by signing the BIT, and
+Chevron, by consenting to arbitration, have created a separate binding agreement
+
+to arbitrate.”); Jan Paulsson, Arbitration Without Privity, 10 ICSID Rev. — Foreign
+
+Investment L.J. 232 (1995). The initial terms of the arbitration agreement between
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 11 of 222
+
+Petitioners and Mongolia were set out in Article 8 of the BIT and were augmented
+by, inter alia, the agreement that New York would be the place of arbitration, see
+Beijing Shougang Mining Investment Company Ltd., China Heilongjiang
+International Economic & Technical Cooperative Corp., and Qinhuangdaoshi
+Qinlong International Industrial Co. Ltd. v. Mongolia, Permanent Court of
+Arbitration, Permanent Court of Arbitration, Procedural Order No. 1 (November 2,
+
+2010), Granne Decl., Ex. C at 4 27-28.
+
+Second, 28 U.S.C. § 1605(a)(1) permits this court to exercise jurisdiction in any case
+“in which the foreign state has waived its immunity either explicitly or by
+implication.” As the Second Circuit has observed, the House Report that
+accompanied FISA specifically listed three examples of an implied waiver—one of
+which is agreeing to arbitrate in another country. See Cargill Intl S.A. v. M/T
+Pavel Dybenko, 991 F.2d 1012, 1017 (2d Cir. 1993) (citing H.R. Rep. No. 1487, 94th
+Cong., 2d Sess., 18 (1976), reprinted in 1976 U.S.S.C.A.N. 6604, 6617). When a
+foreign sovereign agrees to arbitration in the United States, it implicitly waives
+immunity from the jurisdiction of United States courts. Maritime Ventures Intl, Inc.
+v. Caribbean Trading & Fidelity, Ltd., 689 F. Supp. 2d 1340, 1351 (S.D.N.Y. 1988);
+see also Blue Ridge Investments LLC v. Argentina, 735 F.3d 72, 83-85 (2d Cir. 2013)
+(applying both implied waiver and arbitration FSIA exceptions). At the outset of the
+arbitral proceeding, the parties and the Tribunal discussed where the legal seat of
+arbitration should be and Mongolia consented to New York as the seat. See Ex. C at
+
+{|| 27-28. Jurisdiction is therefore proper in this Court.
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 12 of 222
+
+Il. This Court Reviews De Novo the Question Whether Petitioners’
+Claims Are Arbitrable
+
+This Court has the power to vacate an arbitral award rendered in New York
+pursuant to § 10 of the FAA, 9 U.S.C. § 10. Review of arbitral awards on the merits
+under the FAA is normally deferential. The situation is entirely different, however,
+when it comes to the question whether the dispute is arbitrable in the first place —
+
+the question at hand here. “Question[ ] of arbitrability’ is a term of art covering ...
+disagreements about whether an arbitration clause ... applies to a particular type of
+controversy.” Schneider v. Thailand, 688 F.3d 68, 71 (2d Cir. 2012) (citations
+omitted). Here, the question is whether the arbitration clause in Article 8(3) of the
+
+BIT applies to a particular type of controversy — namely a dispute over whether an
+
+expropriation has occurred. It is thus a “question of arbitrability.”
+
+Courts must decide questions of arbitrability “independently” and without deference
+to the arbitrators, unless there is “clear and unmistakable evidence” that the
+parties agreed to submit the question of arbitrability to the arbitrators. See First
+Options of Chicago, Inc. v. Kaplan, 514 U.S. 938, 943-44 (1995). There is no such
+
+evidence here.
+
+The language that governs the establishment and procedures of the tribunal is
+found in Article 8 of the BIT. It provides for an ad hoc tribunal, see Ex. C at Art.
+8(3), without a single reference to the power of that panel to decide arbitrability,
+despite several paragraphs dedicated to the makeup and procedures that the
+
+tribunal must follow, see id. at Art. 8(4) — (9). The presumption of an “independent”
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 13 of 222
+
+judicial determination of that question, therefore, is not overcome. See Kaplan, 514
+
+USS. at 943-44.
+
+The Treaty in this case is distinguishable from many other BITs, which do commit
+the question of arbitrability to the arbitrators. They do so, typically, by
+incorporating arbitration rules that themselves explicitly give the arbitrators
+authority to determine their own jurisdiction. See BG Group PLC v. Argentina, 134
+S. Ct. 1198, 1210 (2014) (treaty permitting arbitration pursuant to rules of the
+International Centre for Settlement of Investment Disputes (“ICSID”) or
+UNCITRAL); 2012 United States Model Bilateral Investment Treaty, art. 24(3),
+available at https://www.state.gov/documents/organization/ 188371.pdf (ICSID and
+UNCITRAL rules). The PRC and Mongolia had many options to choose from, had
+they wanted to commit the question of arbitrability to the arbitrators; they chose
+not to. Having left unmentioned the question of arbitrability, this Court reviews
+
+the Award de novo with regards to findings related to arbitrability.
+
+Ill. Petitioners’ Claims Are Arbitrable under Article 8(3) of the Treaty
+
+Dispute-resolution provisions giving the investor access to arbitration are a “critical
+element” of modern BITs. BG Grp., 134 S. Ct. at 1206 (quoting K. Vandevelde,
+Bilateral Investment Treaties: History, Policy & Interpretation 430-432 (2010)).
+The Tribunal’s decision to refuse jurisdiction effectively wrote that critical element
+
+out of the Mongolia-PRC Treaty.
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 14 of 222
+
+Article 8 of the Treaty provides for settlement of disputes between either of the
+sovereign signatories (i.e., Mongolia or the PRC) and an investor who is a national
+of the other sovereign. Its text is typical of BITs concluded with various states by
+the PRC during the period when the Mongolia-PRC BIT was concluded. The
+Tribunal in this case adopted an extremely narrow construction, in which the only
+matter that is arbitrable is the amount of compensation for an expropriation.
+According to the Tribunal, only the allegedly offending state itself can determine
+whether it expropriated property; if it denies having done so, the independent
+tribunal established by the BIT can never come into existence. See Ex. A at {jj 435
+— 54. Thus, an investor is left in the perverse position that only if the state’s
+executive or legislature admits that it has expropriated the investment, or if the
+state’s own courts can be persuaded so to declare, can that investor then proceed to
+
+international arbitration.
+
+This interpretation defeats the purpose of investor-state arbitration and deprives
+the investor of much of the benefit of the Treaty — a Treaty intended to provide
+security to investors so as to entice them to invest in the host state, whose courts
+the investor may (quite reasonably) not trust to be evenhanded in an dispute with a
+foreign investor. The conclusion of other tribunals and courts, which have held that
+such arbitration clauses give tribunals jurisdiction to determine, inter alia, whether
+an expropriation has occurred and whether it was effected legally, is therefore the
+
+correct one.
+
+10
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 15 of 222
+
+Article 8(3) provides for arbitration if “a dispute involving the amount of
+compensation for expropriation cannot be settled” through negotiations. As this is
+an international treaty, it is interpreted according to rules set out in the
+Vienna Convention on the Law of Treaties (the “Vienna Convention”), opened for
+signature May 28, 1969, 1155 U.N.T.S. 331, reprinted in 8 I.L.M. 679, to which both
+Mongolia and the PRC are party (although the United States is not). Fortunately,
+we are not left to review the Vienna Convention without guidance; there are several
+international judicial and arbitral decisions applying the Vienna Convention to
+
+other treaties that similarly provide for arbitration of disputes “involving,” “
+
+relating
+to,” or “concerning” the amount of compensation. The majority of these decisions
+
+concerning the scope of such provisions have held that the scope of arbitration may
+
+include the question whether an expropriation has occurred.
+
+These cases include those that interpret other BITs concluded by the PRC. Indeed,
+in Tza Yap Shum v. Republic of Peru, the tribunal interpreted a BIT that contains
+the same operative language. The tribunal found that a narrow interpretation of
+“involving the amount of compensation” would “invalidate” the arbitration clause.
+Thus, the host state’s consent to arbitration would be illusory, because the investor
+could not actually have access to arbitration clause unless the host state agreed to
+allow it. See Tza Yap Shum v. Republic of Peru, ICSID Case No. ARB/07/6, at 4 148,
+available at https://www.italaw.com/sites/default/files/case-documents/ita0880.pdf
+(Spanish original). This finding makes eminent sense as it would undermine a
+
+central purpose of any BIT to so invalidate the arbitration clause. Leaving the
+
+11
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 16 of 222
+
+availability of arbitration in the host state’s hands, after a dispute has arisen,
+would exacerbate the “central concern of investors who are averse to allowing the
+host State to act as judge and party in measuring the monetary extent of its own
+liability.” Renta 4 S.V.S.A. et al v. Russian Federation, SCC Case No. V 024/2007,
+Award on _ Preliminary Objections, q 33 (2009), available at
+https://www.italaw.com/sites/default/files/case-documents/ita0714.pdf; see also
+Separate Opinion of Hon. Charles N. Brower, available at https://www.italaw.com/
+sites/default/files/cease-documents/ita0715.pdf (concurring in part and dissenting in
+part). The decision of the Tza Yap Shum tribunal was upheld by an annulment
+committee, which is the body that reviews applications to vacate awards in the
+ICSID system. Tza Yap Shum v. Republic of Peru, ICSID Case No. ARB/07/6,
+Decision on Annulment, 12 February 2015, available at https://www.italaw.com/
+
+sites/default/files/case-documents/italaw4371.pdf (English original).
+
+The other case concerning the same language as the Treaty in this case — the
+“involving” formulation — reached the same conclusion and was upheld in national
+court. The arbitrators concluded that the clause made the existence of an
+expropriation arbitrable. See Sanum Investments Ltd. v. Lao People’s Democratic
+Republic, PCA Case No. 2013-18, Award on Jurisdiction, § 342 (Dec. 13, 2013),
+available at https://www.italaw.com/sites/default/files/case-documents/
+italaw3322.pdf. A first-instance court in Singapore disagreed, but the Court of
+Appeal of Singapore reinstated the arbitrators’ decision. Sanum Investments
+
+Limited v. Lao People’s Democratic Republic, [2016] SGCA 57, § 147. Thus, where
+
+12
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 17 of 222
+
+PRC BITs are concerned, it appears that all three tribunals (other than the
+Tribunal in this case) preferred the broader interpretation; the ICSID annulment
+(reviewing) committee did so as well; and so did the Singapore appellate court. This
+Tribunal is thus an outlier with regard to PRC BITs, its only companion being the
+
+Singaporean judge whose decision was reversed on appeal.
+
+An even more recent award further supports a broad interpretation of the BIT’s
+language. In the PRC-Yemen BIT, under which the parties consented to arbitrate
+“any dispute relating to the amount of compensation for expropriation,” the tribunal
+found that, in the context of the BIT as a whole, a narrow interpretation limiting
+arbitral jurisdiction to the amount of damages alone would contradict the treaty’s
+object and purpose. See Beijing Urban Construction Grp. Co. v. Yemen, ICSID Case
+No. ARB/14/30, §[ 78-87 (2017), available at www.italaw.com/sites/default/files/
+case-documents/italaw8968.pdf. This was apparent to the tribunal because the host
+state could unilaterally eliminate the investor's option to go to arbitration, simply
+by contesting any element of the underlying question of whether an expropriation
+had actually occurred. The tribunal therefore held that it had jurisdiction to
+determine the ultimate question of the existence of an expropriation. See id. at 4
+
+78-87.
+
+In other related contexts, similarly broad conclusions have been reached. In EMV v.
+Czech Republic, the tribunal decided that, under a dispute-resolution clause
+providing that in a treaty providing for arbitration for disputes “concerning
+
+compensation due by virtue of Article 3 paragraphs (1) and (8) [pertaining to
+
+13
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 18 of 222
+
+expropriation],” the questions of whether and how an expropriation had occurred
+were arbitrable. The Czech Republic sought to vacate the award in the English
+courts — which upheld the award (and its inherent decision on arbitrability), saying:
+
+The word ‘concerning’, however, is broad. The word is not
+linked to any particular aspect of ‘compensation’.
+‘Concerning’ is similar to other common expressions in
+arbitration clauses, for example ‘relating to’ and ‘arising
+out of. Its ordinary meaning is to include every aspect of
+its subject: in this case ‘compensation due by virtue of
+Paragraphs (1) and (3) of Article 3’. As a matter of
+ordinary meaning this covers issues of entitlement as well
+as quantification.
+
+Czech Republic v. European Media Ventures SA [2007] EWHC 2851, §j 44 (English
+Comm’! Court).! The same holds true for “involving,” at used in Article 8(3) of the
+
+Treaty in the instant case.
+
+In light of the plain language of the BIT, and the wealth of judicial and arbitral
+authority and undeniable policy considerations in favor of the broad interpretation
+of the relevant language, this Court should vacate the Award and hold that Article
+
+8(8) supports the arbitrability of questions of whether expropriation occurred.
+
+1 While there are occasional decisions going the other way, in the context of Russian
+and Eastern European treaties, see, e.g., Berschader v. Russian Federation (SCC
+Case No 080/2004) Award, 21 April 2006, available at https://www.italaw.com/sites/
+default/files/case-documents/ita0079_0.pdf; RosInvest UK Ltd v. Russian Federation
+(SCC Case No V 079) Award on Jurisdiction, 5 October 2007, available at
+https://www.italaw.com/sites/ default/files/case-documents/ita0719.pdf, the weight of
+authority, however, favors the broader interpretation of clauses of this nature and
+the policy rationale, too, argues for breadth; the narrow interpretation essentially
+deprives the clauses of any practical significance.
+
+14
+
+Case 1:17-cv-07436-ER Document5 Filed 09/29/17 Page 19 of 222
+
+REQUEST FOR AN ORAL HEARING
+This petition raises important issues concerning the interests of foreign nationals
+and a foreign state; therefore, Petitioners respectfully request that the Court
+
+schedule oral argument on this petition.
+
+CONCLUSION
+
+For all of the foregoing reasons, the Award should be vacated and the parties
+
+compelled to arbitrate Petitioners’ claims.
+
+Dated: September 28, 2017
+New York, NY
+
+Respectfully Submitted,
+
+/s/_S. Christopher Provenzano
+
+Michael A. Granne (Partner-MG8877)
+
+S. Christopher Provenzano (Partner)
+
+J.J. Gass (Of Counsel)
+
+PROVENZANO GRANNE & BADER LLP
+43 West 43*4 Street, Suite 197
+
+New York, NY 10036
+
+(212) 859-3516
+
+Michael.
+
+granne@pgbfirm.com
+
+chris.provenzano@pgbfirm.com
+
+15
+

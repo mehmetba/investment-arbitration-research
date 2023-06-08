@@ -1,0 +1,982 @@
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 1 of 27
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ANATOLIE STATI; GABRIEL STATI,
+
+ASCOM GROUP, S.A.; TERRA RAF
+TRANS TRAIDING LTD.,
+
+Petitioners,
+v.
+REPUBLIC OF KAZAKHSTAN,
+
+Respondent.
+
+)
+)
+)
+)
+)
+Civil Action No. 1:14-cv-1638-ABJ
+)
+)
+)
+)
+)
+
+RESPONDENT REPUBLIC OF KAZAKHSTAN’S SUR-REPLY IN SUPPORT OF
+OPPOSITION TO PETITION TO CONFIRM ARBITRAL AWARD
+
+Matthew H. Kirtland (D.C. Bar No. 456006)
+matthew.kirtland @ nortonrosefulbright.com
+Kara L. Petteway (D.C. Bar No. 975541)
+kara.petteway @ nortonrosefulbright.com
+Benjamin Hayes (D.C. Bar application pending)
+benjamin.hayes @nortonrosefulbright.com
+NORTON ROSE FULBRIGHT US LLP
+801 Pennsylvania Avenue, NW
+Washington, D.C. 20004-2623
+
+Tel: 202-662-0200
+
+Fax: 202-662-4643
+
+Attorneys for Respondent Republic of Kazakhstan
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 2 of 27
+
+TABLE OF CONTENTS
+
+Table of Contents i
+B Tae cole C616 (0) 0 EEE ESSE SSSSESS 1
+I. Petitioners’ Violation of the ECT’s Cooling-Off Period
+A. The ECT Provides That The Cooling-Off Period Is a Condition of
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kazakhstan’s Agreement to Arbitrate........c. ccc ceseseeeeesceceeeceseeeseeeeeseeeenenenenees 2
+B. Petitioners’ Violation of Article 26(2) Renders the Award Unenforceable ...............06 3
+C. Compliance with the Cooling-Off Period is Jurisdictional......0.0.0.ccc cette 5
+D. Under Any Standard of Review, the Cooling-Off Period Was Not Satisfied.................. 6
+E. Kazakhstan Did Not “Waive” Its Objection to the Cooling-Off Period...........0.ccce 7
+F. Kazakhstan was Substantially Prejudiced by Petitioners’ Violation of the
+Cooling-Off Period 10
+Il. The SCC Violated Its Arbitration Rules When It Appointed Professor Lebedev ............ 11
+A. The SCC Secretariat’s August 2010 Letters Did Not Notify Kazakhstan That
+Tt Should Appoint an Arbitrator. 12
+1. Articles S and 12 Did Not Provide Kazakhstan with Notice That There
+Necessarily Would Be Three Arbitrators or the Manner of the Chair’s
+Appointment 12
+2. The Board Failed to Set a Timeline, Even Though It Was Required To Do
+So Pursuant to Article 13 14
+
+ 
+
+B. Kazakhstan Did Not Receive Notice of Petitioners’ Request That The SCC
+Appoint Kazakhstan’s Arbitrator Until Too Late...
+
+ 
+
+C. Kazakhstan’s Objections to the SCC’s Appointment of Professor Lebedev
+
+ 
+
+Were Not Untimely. 19
+D. Petitioners Would Have the Court Improperly Ignore the Special
+
+Circumstances of This Case That Determine What Process Was DuE..........:.ccceees 19
+E. The SCC Should Have Vacated Professor Lebedev’s Appointment..............ceeee 23
+
+F. Kazakhstan was Substantially Prejudiced by Professor Lebedev’s
+Appointment 23
+
+Conclusion 25
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 3 of 27
+
+INTRODUCTION
+
+Pursuant to the Court’s May 6, 2015 Order, Respondent Republic of Kazakhstan
+(“Respondent” or “Kazakhstan’”’) respectfully submits this response to the reply brief (the
+“Reply”) filed by Anatolie Stati, Gabriel Stati, Ascom Group, S.A., and Terra Raf Trans Traiding
+Ltd. (collectively, “Petitioners”). Attached hereto as Exhibit A is a Second Report from
+Kazakhstan’s expert, Professor Horacio A. Grigera Naon.!
+
+Nothing in the Reply changes the two dispositive facts in this case: (1) Petitioners
+initiated the underlying arbitration against Kazakhstan in violation of the three month cooling-off
+period required by the Energy Charter Treaty (“ECT”); and (2) the Stockholm Chamber of
+Commerce (the “SCC”) denied Kazakhstan its paramount right to appoint its own arbitrator, in
+violation of both the SCC Rules of Arbitration and due process. As set forth in Kazakhstan’s
+Opposition, these two facts, measured against the provisions of the New York Convention and
+other applicable law, require denial of the Petition to Confirm because: (1) compliance with the
+three month cooling-off period was a condition of Kazakhstan’s consent to arbitrate under the
+ECT, and in the absence of such consent there was no valid arbitration agreement between
+Kazakhstan and Petitioners (Article V(1)(a)); (2) Kazakhstan was not given proper notice of the
+appointment of its arbitrator by the SCC (Article V(1)(b)); (3) the composition of the arbitral
+authority and the arbitral procedure were not in accordance with the parties’ purported agreement
+to arbitrate (Article V(1)(d)); and the Award resulted from procedures contrary to public policy
+(Article V(2)(b)).
+
+' Petitioners’ expert repeatedly notes in his report that Professor Na6n did not opine on whether the Award is
+enforceable under the New York Convention. This is correct but it is not, as Petitioners’ expert would have it, a
+result of any reticence by Professor Naén. Rather, it comes from his correct recognition that this is not a proper
+question for expert opinion but rather a matter to be resolved through application of the law to the existing factual
+record, i.e., one for argument from counsel and a decision by the Court. In any event, Professor Na6n confirms in
+
+his Second Report that he disagrees with Petitioners’ expert, and agrees with Kazakhstan that the Award should not
+be enforced under the New York Convention. See Naén Second Op. { 34, and reasons stated therefore.
+
+ 
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 4 of 27
+
+L PETITIONERS’ VIOLATION OF THE ECT’S COOLING-OFF PERIOD
+
+Petitioners attempt to minimize the importance the ECT’s required three month cooling-
+off period by arguing that it was not a condition to Kazakhstan’s agreement to arbitrate, it was a
+procedural rather than jurisdictional requirement, Kazakhstan waived its right to challenge the
+Award on this basis, and in any event the Tribunal held that this requirement was satisfied when
+the parties voluntarily agreed to a three month stay in February 2011. These arguments ignore
+the express text of the ECT, overstate the scope of the Supreme Court’s ruling in BG Group, and
+misrepresent the parties’ correspondence and the Tribunal’s holdings.
+
+A. The ECT Provides That The Cooling-Off Period Is a Condition of
+Kazakhstan’s Agreement to Arbitrate
+
+According to Petitioners’ argument, Kazakhstan, by signing the ECT, unconditionally
+consented to arbitration with Petitioners, whether or not Petitioners complied with the ECT’s
+three month cooling-off period. See Reply at 5-7. This is illogical, and would have the Court
+ignore clear provisions of the ECT, and in particular render ECT Article 26 a nullity.
+
+The law is clear that “arbitration is a matter of contract and a party cannot be required to
+submit to arbitration any dispute which he has not agreed so to submit.” United Steelworkers of
+Am. v. Warrior & Gulf Nav. Co., 363 U.S. 574, 582 (1960). ECT Article 26(3) provides in
+pertinent part that each sovereign state (“Contracting Party’) joining the ECT “hereby gives its
+unconditional consent to the submission of a dispute to international arbitration or conciliation in
+accordance with the provisions of this Article.” (emphasis added). In turn, ECT Article 26(1)
+requires amicable settlement of all disputes and, to implement this, Article 26(2) further requires
+that before private parties such as Petitioners may initiate an arbitration they must (1) request
+amicable settlement from a Contracting Party and (2) wait three months thereafter before filing.
+
+By definition, a party that submits a dispute for arbitration without complying with this cooling-
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 5 of 27
+
+off period has not submitted the dispute “in accordance with the provisions” of Article 26, and a
+Contracting Party therefore has not consented under the ECT to arbitrate that dispute.
+
+According to Petitioners, however, the provisions of Article 26(3) are irrelevant and a
+sovereign state can be compelled to arbitrate under the ECT whether or not the submission to
+arbitration in fact occurred “in accordance with the provisions of” Article 26. The premise of
+this argument is the assertion that the wording, “in accordance with the provision of this Article”
+in Article 26(3) is only aimed at arbitration and/or mediation per se (i.e. that such proceedings
+should follow the provisions of Article 26) and that the exceptions from consent only relate to
+the two exceptions specified in Article 26(3). This makes no sense given (1) the reference in
+Article 26(3) to “this Article” is, by definition, to the entirety of Article, not just sub-paragraph
+(3) of the Article; and (2) this ignores that Article 26(1) and 26(2) are mandatory “gateway”
+provisions. It is only if these gateway provisions are satisfied that an arbitration “may” be
+initiated under the ECT, and the consent provisions of Article 26(3) then come into effect. The
+contrary reading of Article 26(3) advocated by Petitioners would render Articles 26(1) and (2) a
+nullity, and Petitioners have no valid answer for this obviously incorrect result. Compare Opp.
+at 29-30 with Reply at 5-7.”
+
+B. Petitioners’ Violation of Article 26(2) Renders the Award Unenforceable
+
+While Petitioners argue that arbitral tribunals have permitted “the ex post facto curing”
+of alleged noncompliance with a cooling-off period by imposing a stay of the arbitral
+
+proceedings at their outset, see Reply at 12, United States federal courts have held awards are
+
+> The authority cited by Petitioners, Chevron v. Rep. of Ecuador, 949 F. Supp. 2d 57 (D.D.C. 2013), see Reply at 6-
+7, is inapplicable. That case addr s the Bilateral Investment Treaty (“BIT”) between the United States and
+Ecuador, not the ECT. Unlike the ECT, the U.S.-Ecuador BIT’s provision concerning consent to arbitration does
+not incorporate that Treaty’s cooling-off period. See Ex. B hereto, U.S.-Ecuador BIT, Article VI(2), VI(4).
+
+   
+ 
+
+ 
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 6 of 27
+
+unenforceable when “the arbitral procedure was not in accordance with the agreement of the
+parties[.]” New York Convention, Art. V(1)(d). That is precisely what occurred here.
+
+As a preliminary point, contrary to the cases cited by Petitioners, the stay in the
+underlying arbitration here was not entered at the outset of the proceedings. Specifically, the
+SCC upon receipt of Petitioners’ Request for Arbitration in July 2010 did not, but easily could
+have, stayed the arbitral proceedings for three months. The SCC did not do this. Instead, it
+proceeded and then, to make matters far worse, appointed Kazakhstan’s arbitrator at the request
+of Petitioners without proper notice and in violation of the SCC Rules. These actions — first by
+Petitioners in violating the cooling-off provision and then as compounded by the SCC —
+permanently deprived Kazakhstan of one of the chief advantage of the cooling-off period, i.e.,
+three months advance notice of the precise claims being submitted to arbitration, and the
+opportunity to settle such claims, before the arbitral proceedings are initiated. The subsequent
+stay of proceedings agreed to by the parties and the Tribunal nearly seven months later — after
+the arbitral proceedings were in full swing and the SCC already had appointed Kazakhstan’s
+arbitrator — did nothing to remedy the deprivation of this right. See Award {J 6, 830.
+
+Furthermore, as Petitioners acknowledge, the Second Circuit in Encyclopaedia
+Universalis S.A. v. Encyclopaedia Britannica, Inc., 403 F.3d 85 (2d Cir. 2005), refused to
+confirm an Award where “the co-arbitrators had not followed the specific steps set forth in the
+agreement to arbitrate.” Reply at 12 n.10. Specifically, the Second Circuit concluded that the
+tribunal’s failure to abide by the temporal order established in the arbitral agreement meant that
+the award was invalid, and specifically held that a stay imposed by the Tribunal “had no
+remedial effect.” 403 F.3d at 91 (emphasis added); see also id. (“‘the Tribunal’s premature
+
+appointment of Decker irremediably spoiled the arbitration process.””) (citation omitted).
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 7 of 27
+
+Indeed, even though there is a strong public policy in favor of international arbitration, the
+Second Circuit noted that it has “never held that courts must overlook agreed-upon arbitral
+procedures in deference to that policy.” Jd. Likewise here, the mandatory cooling-off
+requirements of Article 26(2) were not satisfied, and the after-the-fact stay of proceedings could
+not, and did not, remedy this defect.
+
+Similarly, in Polimaster Ltd. v. RAE Systems, Inc., 623 F.3d 832 (9th Cir. 2010), the
+Ninth Circuit refused to confirm an award where the procedures used were contrary to the
+parties’ agreement. Citing a publication of Petitioners’ own expert, Professor Born, the court
+noted that “[t]he New York Convention ‘recognizes the central role of the parties in fashioning
+the arbitration procedure, and provides sanctions for failure to adhere to the agreed
+procedures.’” Id. at 841 (emphasis added) (citation omitted). Accordingly, the court held that
+the arbitrator could not “override the parties’ express agreement” regarding where claims were to
+be filed, and refused to confirm the Award. Id.
+
+The same result follows here. Petitioners assert that Encyclopaedia and Polimaster are
+inapposite because they “involve decisions by arbitral tribunals that contradict express language
+in the arbitration agreement,” whereas here, “there is no contradiction with the language of ECT
+Article 26.” Reply at 12 n.10. This has no merit. As set forth above, the ECT unequivocally
+requires that private parties comply with the three month cooling-off period before they “may”
+initiate arbitral proceedings against sovereign states such as Kazakhstan that have signed the
+ECT. This condition was not satisfied by Petitioners. The “sanction for failure to adhere to
+[this] agreed procedure” is denial of enforcement under New York Convention Article V(1)(a).
+
+Cc. Compliance with the Cooling-Off Period is Jurisdictional
+
+The Reply misstates the scope of the Supreme Court’s holding in BG Group, PLC v.
+
+Republic of Argentina, 134 S. Ct. 1198 (2014), in arguing that compliance with the cooling-off
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 8 of 27
+
+period is a procedural rather than jurisdictional requirement. Petitioners fail to acknowledge that
+in BG Group, the Court expressly declined to decide whether a “condition on consent” to enter
+into an arbitration agreement is procedural or jurisdictional. See BG Grp., 134 S. Ct. at 1208-10.
+While the Court noted that “the word ‘consent’ could be attached to a highly procedural
+precondition to arbitration, such as a waiting period of several months,” the Court “le[ft] the
+matter open for future argument,” because the treaty at issue in BG Group did not state that the
+local litigation requirement in that case was a condition of consent to arbitration. Id. at 1209
+(“We leave for another day the question of interpreting treaties that refer to ‘conditions of
+consent’ explicitly.”). The language in ECT Article 26(3), however, is a “condition on consent”
+because it explicitly references what a party is unconditionally consenting to: “the submission of
+the dispute to international arbitration ... in accordance with the provisions of [Article 26].” The
+cases and secondary authorities cited by Petitioners, none of which interpret the ECT’s
+“condition on consent,” are thus irrelevant.* Cf. Reply at 7-11.
+
+D. Under Any Standard of Review, the Cooling-Off Period Was Not Satisfied
+
+Regardless of whether compliance with the cooling-off period is deemed a procedural
+rather than jurisdictional requirement, and thus whether the Tribunal’s ruling on this issue is
+given a deferential rather than de novo standard of review, the Tribunal’s ruling cannot be
+accepted.
+
+Petitioners miss the point when they argue that the following three communications
+satisfied the cooling-off period: (1) a March 18, 2009 letter from Anatoli Stati to the Kazakh
+Ministry of Energy and Mineral Resources (“MEMR”) (Reply Ex. A); (2) a March 19, 2009
+meeting between executives of Terra Raf, Ascom and executives of the MEMR (Reply Ex. B);
+
+* Moreover, the Court in BG Group did not purport to lay down an all-inclusive rule that all cooling-off periods (or
+similar provisions) are procedural. Indeed, it could not have because, as the Court noted, arbitration is a matter of
+contract and a contract’s interpretation is dependent on the parties’ intent. 134 S. Ct. at 1208.
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 9 of 27
+
+and (3) a May 7, 2009 letter from Anatolie Stati to Kazakhstan President Nazarbayev (Reply Ex.
+C). See Reply at 13. Petitioners made exactly this same argument to the Tribunal, see Award
+818, but it was not accepted. See Award {| 828-830; compare Opp. at 31 with Reply at 13-14.
+Instead, the Tribunal only found (incorrectly) that the three month stay agreed to by the parties in
+February 2011 (seven months after the arbitration was initiated) satisfied the required pre-
+arbitration cooling-off period. Jd. { 830. In the absence of a Tribunal ruling on Petitioners’
+argument regarding the three 2009 communications, there is nothing to which the Court can
+apply any standard of review — whether deferential or de novo. Thus, the three communications
+referenced by Petitioners are irrelevant.*
+
+The only proper question for the Court is whether the Tribunal’s actual ruling was
+correct. For the reasons set forth in Kazakhstan’s Opposition, this cannot be the case because
+under BG Group, supra, regardless of whether reviewed under a highly deferential or de novo
+standard, the Tribunal’s ruling that the ECT’s pre-arbitration cooling-off period was “excused”
+by an after-the-fact stay of proceedings cannot be correct. See Opp. at 27-30.
+
+E. Kazakhstan Did Not “Waive” Its Objection to the Cooling-Off Period
+
+Likewise incorrect are Petitioners’ arguments that Kazakhstan “waived” its challenge to
+Petitioners’ violation of the cooling-off period, and that Kazakhstan purportedly stated that the
+February 2011 stay would “cure” this jurisdictional defect. Cf: Reply at 3 & 5n.1. Nothing
+
+could be further from the truth.
+
+* The Tribunal likely did not accept Petitioners’ argument because the three communications they rely upon did not,
+on their face, satisfy the ECT’s cooling-off provision. None of these communications requested “amicable
+settlement” under the ECT as required by ECT, Article 26(2). Their generic references to “international arbitration”
+meant nothing given that the underlying contracts between the parties provided an independent right to submit a
+dispute to international arbitration, i.e., arbitration outside of the ECT. Compare Opp. at 31-22 with Reply at 13-14.
+Nor could any of these three communications — all in 2009 — have provided Kazakhstan with notice of the specific
+claims which Petitioners submitted to arbitration more than one year later given that the submitted claims were
+based on Kazakhstan’s termination of Petitioners’ contracts on July 21, 2010, just five days before the arbitration
+was filed, and more than a year after the communications upon which Petitioners attempted to rely. See Opp. at 31
+(citing Award, {[ 823); see also Opp. Ex. 26 (1-18-2011 letter) at 1-2.
+
+  
+
+ 
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 10 of 27
+
+First, Petitioners point to Kazakhstan’s January 18, 2011 letter, where it proposed a mid-
+arbitration stay “in satisfaction of [the] jurisdictional requirement” as a “practical solution.”
+Reply at 4 (quoting Opp. Ex. 26 at 3). However, the Reply omits the language from the same
+sentence in which Kazakhstan expressly reserved its right to challenge jurisdiction: “We offer
+this as a practical solution that best serves the interests of the parties notwithstanding the fact
+that this jurisdictional defect could result in dismissal after full briefing and hearing on the
+merits.” Opp. 26 at 3 (emphasis added). Petitioners further ignore (and do not disclose to the
+Court) that Kazakhstan again expressly reserved its right to challenge the violation of the
+cooling-off period in a subsequent January 28, 2011 email. Ex. C hereto (“The Republic
+reserves its rights to assert all defenses and applicable jurisdictional objections at the appropriate
+time in this case, including claimants’ failure to comply with the requirements of the Energy
+Charter Treaty.”).
+
+Moreover, the January 18, 2011 letter cited by Petitioners was only the first of several
+pieces of correspondence exchanged between the parties concerning the terms of the proposed
+three month stay. The January 18, 2011 letter was not a final “offer” and its terms were not
+“accepted” by Petitioners. To the contrary, on January 24, 2011, Petitioners rejected the
+proposals made in Kazakhstan’s January 18, 2011 letter, and made a counter-offer.> See Opp.
+Ex. 24 at 2 (“[O]ur clients are not willing to accept the proposal set forth in your letter for a
+three-month suspension of the arbitration.”). As a term of their counter-offer, Petitioners
+proposed that “Kazakhstan formally withdraw[] and waive[] its objection regarding the notice
+period ... .” Opp. Ex. 24 at 2. But this was expressly rejected by Kazakhstan. See Opp. Ex. 25
+
+at 1 (“We also refer to our letter of January 24, 2010 [sic], in which our clients made a proposal
+
+5 Ina typographical error, Petitioners’ January 24, 2011 letter is misdated January 24, 2010. See Opp. Ex. 24 (letter
+dated January 24, 2010, responding to “your letter of January 18, 2011”).
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 11 of 27
+
+on this issue that was rejected by Kazakhstan.”). In response to this rejection, Petitioners
+responded by letter dated February 2, 2011, and dropped their request that Kazakhstan agree to
+waive its jurisdictional objections. See generally id. This correspondence makes clear that
+Kazakhstan did not waive, and in fact expressly reserved, its right to challenge the Award
+because of Petitioners’ failure to comply with the cooling-off period.
+
+Second, in support of its “waiver” argument, Petitioners rely on a phrase ostensibly
+excerpted from Kazakhstan’s February 6, 2011 letter. See Reply at 5 (“the ROK reserved its
+right to raise ‘other’ unrelated jurisdictional objections”). Cf: Opp. Ex. 27. Again, this is a
+material misrepresentation of the correspondence. What the February 6, 2011 letter specifically
+states is that if the parties were not able to reach an agreement regarding a stay of the
+proceedings then Kazakhstan would agree that the Tribunal should determine its “jurisdictional
+objection under Article 26 of the ECT on a bifurcated basis, with briefing and argument on that
+sole question ... .” Jd. at 3. It was only under this hypothetical scenario that Kazakhstan went
+on to state: “This is without prejudice to the Republic’s right to assert other jurisdictional
+objections and substantive defenses at the appropriate time, all of which are expressly reserved.”
+Id. (emphasis added). Thus, Kazakhstan’s reference to raising “other jurisdictional objections”
+did not in any way imply that Kazakhstan had waived its jurisdictional challenge based on
+Petitioners’ failure to comply with the cooling-off period — quite the opposite.
+
+Finally, contrary to Petitioners’ argument, see Reply at 4, Kazakhstan expressly raised
+Petitioners’ failure to comply with the cooling-off period with the Tribunal. See, e.g., Award J
+820 (arguments by Kazakhstan, “Claimants have not fulfilled the waiting period prior to
+initiating arbitral proceedings, and this is fatal to Claimants’ case.”); {| 830 (“According to
+
+[Kazakhstan], ... the settlement period proposed by the Republic was without prejudice to the
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 12 of 27
+
+jurisdictional issues that this defect could later cause.”); {{[ 820-27 (noting Kazakhstan’s
+jurisdictional objection based on Petitioners’ non-compliance with the cooling-off period). For
+these reasons, the waiver cases cited by Petitioners are inapposite. Cf. Dean v. Sullivan, 118
+F.3d 1170 (7th Cir. 1997) (challenge to arbitral award based on argument not asserted during
+underlying arbitration); Hawkins v. Hooters of Am., Inc., 2011 WL 2648602 (D.D.C. July 6,
+2011) (party who submitted a dispute to arbitration could not subsequently contest the
+arbitrability of the dispute).°
+
+F. Kazakhstan was Substantially Prejudiced by Petitioners’ Violation of the
+Cooling-Off Period
+
+Petitioners claim that Kazakhstan cannot demonstrate substantial prejudice from their
+failure to comply with the cooling-off period because Kazakhstan “proposed the stay as a
+‘practical solution’ ... .” Reply at 28. This is a non-sequitur. That Kazakhstan, after the
+arbitration proceedings were improperly commenced, proposed a three month stay of
+proceedings to see if a settlement could be reached, while reserving its rights, does not in any
+way eliminate the substantial prejudice caused by Petitioners’ deliberate failure to comply with
+the ECT’s cooling-off period before instituting the arbitral proceedings.
+
+Likewise irrelevant is that “the parties met in person during this three month period and
+attempted settlement in good faith.” Reply at 28. Parties can hold settlement discussions any
+time during an international arbitration (or civil or criminal proceeding), and if they so choose
+agree to a stay of the proceedings to advance this purpose. Articles 26(1) and (2) of the ECT,
+however, require that investors such as Petitioners, before they “may” submit a dispute to
+
+arbitration, “shall” first issue a request for amicable settlement and then observe the three month
+
+° The Reply also fails to acknowledge that Petitioners made the same “waiver” argument to the Tribunal (see Award
+4M 814, 828-830), and it too was not accepted.
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 13 of 27
+
+cooling-off period. No amount of settlement discussions or procedural stays after the
+proceedings are commenced and ongoing can give Kazakhstan back the three months advance
+notice of the arbitration to which it was legally entitled and, in this case, deprived. This
+substantially prejudiced Kazakhstan by depriving it of the three months it would have had,
+before the arbitration was initiated, to investigate Petitioners’ allegations, retain counsel and
+evaluate potential nominees for its arbitrator — all of which could have mitigated the SCC’s
+tushed and illegal constitution of the Tribunal.’
+
+IL. THE SCC VIOLATED ITS ARBITRATION RULES WHEN IT APPOINTED
+PROFESSOR LEBEDEV
+
+Kazakhstan agreed in the ECT to arbitrate disputes before the SCC under the SCC Rules.
+Kazakhstan did not agree that the SCC could violate its own arbitration rules in administering an
+arbitration, and certainly did not agree that the SCC could in so doing deprive Kazakhstan of one
+of its most critical rights — the right to appoint its own arbitrator.
+
+The Reply does not dispute that in international arbitration a party’s right to appoint its
+own arbitrator is paramount. Cf. Opp. at 2. That right is so important that it gives rise to two
+bases for non-recognition of an award — Articles V(1)(b) and V(1)(d) of the New York
+Convention. Petitioners, however, argue that the SCC’s appointment of Professor Lebedev
+“resulted from the ROK’s inaction, was consistent with the SCC Rules, and was thus consistent
+with the parties’ agreement.” Reply at 26-27. All of these assertions are contradicted by the
+
+undisputed facts and plain language of the SCC Rules.
+
+7 Further, while the settlement talks were held, Petitioners’ deadline for the Statement of Claim was running. The
+deadline had been moved from March 1, 2011 to May 16, 2011, see Award {] 29, but as spension of the
+proceedings was only agreed in February 2011, this meant that while engaging in settlement talks, Petitioners at the
+same time had to prepare their Statement of Claim, which was accompanied by several witness statements and by
+expert reports. This clearly is not conducive to reaching an amicable settlement.
+
+ 
+
+ 
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 14 of 27
+
+A. The SCC Secretariat’s August 2010 Letters Did Not Notify Kazakhstan That
+It Should Appoint an Arbitrator
+
+Petitioners do not dispute that the August 2010 letters from the SCC Secretariat to
+Kazakhstan requesting the submission of an Answer did not expressly request that Kazakhstan
+appoint an arbitrator. See Opp. Ex. 2,4. Nor could they, given that the SCC’s August 5, 2010
+letter expressly asked Kazakhstan to comment on the “proposition of [Petitioners] that the
+Chairperson be selected by the party-appointed arbitrators,” and nothing else. See Opp. Ex. 2 at
+1. Likewise, the SCC’s August 27, 2010 letter made no mention of Kazakhstan appointing an
+arbitrator. See Opp. Ex. 4. These were the only two communications from the SCC that
+Kazakhstan received before the SCC unilaterally deprived Kazakhstan of its right to appoint its
+arbitrator.
+
+In the absence of any express notice from the SCC that Kazakhstan should appoint an
+arbitrator, Petitioners are left with an argument that Kazakhstan should have inferred that it was
+supposed to appoint its arbitrator based on the provisions of two Articles of the SCC Rules —
+Articles 5 (“Answer”) and 12 (“Number of Arbitrators”). These arguments ignore that the
+appointment of arbitrators is plainly governed by Article 13 (“Appointment of Arbitrators’).
+
+dL. Articles 5 and 12 Did Not Provide Kazakhstan with Notice That There
+Necessarily Would Be Three Arbitrators or the Manner of the Chair’s
+Appointment
+
+Petitioners incorrectly argue that having received the August 5 and August 27, 2010
+letters from the SCC Secretariat, Kazakhstan should have inferred that it was required to appoint
+an arbitrator because Petitioners had themselves requested that the Tribunal be composed of
+three members. This ignores two points. First, Petitioners confirmed that the number of
+arbitrators was not yet fixed when they proposed in their Request for Arbitration that the
+
+Tribunal consist of three members and that, in deviation from SCC Article 13(3), the
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 15 of 27
+
+Chairperson be appointed by the two party-nominated arbitrators rather than the SCC Board. If,
+as Petitioners now would have it, the arbitral tribunal had been fixed at three persons instead of
+one at the time the Request for Arbitration was submitted, no proposal would have been
+required; rather, Petitioners simply would have named their arbitrator for the agreed three-person
+tribunal.
+
+Second, it is precisely because the parties had not previously agreed on the number of
+arbitrators that it was for the SCC Board to first determine under Article 12 the number of
+arbitrators, and how the Chairperson would be appointed, before Kazakhstan was required to
+appoint an arbitrator. Until the SCC Board confirmed the number of arbitrators and how the
+Chairperson was to be appointed — which was never done — it would have been illogical for
+Kazakhstan to “infer” that there necessarily would have been a three-person arbitral tribunal or
+that it had to nominate an arbitrator.* Cf. Reply at 14-17; Born Op. { 91(a). Indeed, not until the
+SCC Board confirmed how the Chairperson was to be appointed, could Kazakhstan properly
+have selected an arbitrator. This is because it is one thing, as an arbitrator, to simply decide a
+case. It requires quite different skills and qualities to also participate, in conjunction/negotiation
+with the adverse party’s nominee, in the selection of the Tribunal Chair. And, given the
+significance of the Chairperson in a three-person Tribunal, it is thus critical for a party to know
+whether its arbitrator will be selecting the Chair before it can select the proper nominee.
+
+In the absence of confirmation from the SCC as to the number of arbitrators, and how the
+Chair would be appointed, Petitioners’ argument that Article 5(1)(v) required Kazakhstan to
+appoint an arbitrator in its response to the Request fails. This is because, as expressly stated in
+
+the SCC Rules, Article 5(1)(v) only is triggered “if applicable.” A party’s obligation to nominate
+
+® Certainly, it would have been illogical to infer from the Request for Arbitration and two August 2010 letters from
+the SCC Secretariat that the SCC was going to proceed to appoint Kazakhstan's arbitrator without further notice.
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 16 of 27
+
+an arbitrator only becomes “applicable” when the number of arbitrators is fixed, as well as the
+manner of each of their appointments. Here, both were in flux as of August-September 2010, as
+confirmed by Petitioners’ proposal on the number of arbitrators and manner of appointment of
+the Chairperson. This was confirmed by the SCC Secretariat’s August 2010 correspondence to
+Kazakhstan requesting that it comment in its Response on Petitioner’s proposal that the
+Chairperson be selected in deviation from the SCC Rules, with no mention made of appointing
+an arbitrator.” Certainly the Request for Arbitration combined with the communications from
+the SCC Secretariat did not, as Petitioners’ expert now says (Born Op. {| 96), make it “perfectly
+clear” that Kazakhstan was required to appoint its arbitrator in its Answer.
+
+2. The Board Failed to Set a Timeline, Even Though It Was Required To
+Do So Pursuant to Article 13
+
+While Article 5 governs the submission of a respondent’s answer, and Article 12 governs
+the number of arbitrators, it is Article 13 that governs the appointment of arbitrators. Petitioners
+conceded this point in their September 13, 2010 letter to the SCC, when they requested the
+appointment of an arbitrator on Kazakhstan’s behalf “[p]ursuant to Article 13(3) of the
+Arbitration Rules[.]” Opp. Ex. 6. Even in their Reply, Petitioners insist that the “SCC Board
+plainly possessed the authority to appoint the ROK’s arbitrator under Article 13(3) of the SCC
+Rules.” Reply at 18.
+
+Article 13(3) addresses the procedure to be used where the tribunal is to consist of more
+
+than one arbitrator, and it provides that it is only if a party fails to appoint an arbitrator within the
+
+° Petitioners fault Kazakhstan for not seeking clarification or an extension from the SCC Secretariat as to whether it
+was required to appoint its arbitrator. See Reply at 18-19, 23 n.20. Kazakhstan, however, was under no obligation
+to seek clarification or an extension from the SCC Secretariat when the communications of Petitioners and the SCC
+Secretariat made clear that the requirements of Article 5(1)(v) had not yet become applicable, and certainly there
+had been no communication that the SCC Board had set the deadline required by SCC Articles 13(1) and (3) for
+Kazakhstan to appoint an arbitrator. Given these circumstances, combined with the SCC’s express communications
+in the prior Sudima Arbitration, Kazakhstan could not reasonably have inferred that the SCC would appoint an
+arbitrator for Kazakhstan without further notice.
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 17 of 27
+
+“stipulated” time period for doing so that the SCC Board is empowered to make the appointment.
+As confirmed by Article 13(1), this “stipulated” time period can be either the time period agreed
+by the parties or, absent that, the time period set by the SCC Board. Here, it is undisputed that
+the parties did not agree on the time period for appointing arbitrators, either in the ECT or
+otherwise, and that the SCC Board never set a time period for appointing arbitrators. The time
+period for each party to appoint their arbitrator therefore was never “stipulated,” and the SCC
+Board thus had no authority under the SCC Rules to appoint an arbitrator for Kazakhstan under
+Article 13(3). The SCC’s appointment of Professor Lebedev therefore violated the SCC
+Arbitration Rules, and this violation deprived Kazakhstan of its fundamental right to select its
+own arbitrator, as well as proper notice of the same.
+
+Petitioners incorrectly argue that Article 13(1) was not applicable in this matter, and the
+SCC Board was not required to designate a time period within which Kazakhstan was required to
+appoint its arbitrator. See Reply at 16 n.15. The basis of this argument is the assertion that the
+first sentence in Article 13(1) (“The parties may agree on a different procedure for appointment
+of the Arbitral Tribunal than as provided under this Article.”), limits the application of the
+second sentence of this provision (“In such cases, if the Arbitral Tribunal has not been appointed
+within the time period agreed by the parties or, where the parties have not agreed on a time
+period, within the time period set by the Board, the appointment shall be made pursuant to
+paragraphs (2)-(6).”). Id. According to Petitioners, Article 13(1) thus only applies when the
+parties have “agree[d] on a different procedure for appointment of the Arbitral Tribunal.” This
+argument fails on the facts and the plain terms of the SCC Rules.
+
+First, Petitioners have ignored that they themselves triggered the application of Article
+
+13(1) in this case by proposing in their Request for Arbitration that the parties agree “on a
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 18 of 27
+
+different procedure for appointment of the Arbitral Tribunal than as provided under” Article 13.
+Specifically, Petitioners proposed that the Tribunal Chairperson be appointed by the two
+arbitrators nominated by the parties instead of by the SCC Board, as provided by Article 13(3).
+It was in reliance on this proposal that the SCC Secretariat requested in its August 5, 2010 letter
+that Kazakhstan comment on Petitioners’ proposed deviation from Article 13(3). Having
+deliberately invoked the authority granted under Article 13(1) for the parties to agree on a
+“different procedure” for appointing the Tribunal, Petitioners cannot now properly come back
+and claim that the provisions of Article 13(1) did not apply to constitution of the Tribunal.
+Second, even if Article 13(1) had not been triggered by Petitioners, Article 13(3) only
+empowers the SCC Board to appoint an arbitrator where a party fails to appoint an arbitrator
+within the “stipulated time period.” As set forth above, this “stipulated time period” refers back
+to Article 13(1), which provides for the two scenarios in which a time period can be “stipulated”:
+(1) where there is a “time period agreed by the parties”; or (2) “where the parties have not agreed
+on a time period, within the time period set by the Board.” The disjunctive “or” in this sentence
+makes clear that it applies in all cases, i.e., both “in such cases” where the parties have agreed on
+a “different procedure” for appointment of the Tribunal or “where the parties have not agreed on
+a time period,” as here, in which case it is “the time period set by the Board.” If Article 13(1)
+has no application, as Petitioners now assert, the language “within the stipulated time period” in
+Article 13(3) would have no meaning. Indeed, if, as Petitioners now contend, the “stipulated
+time period” in Article 13(3) for when the Board could appoint a party’s arbitrator necessarily
+
+corresponded with the deadline for submitting an Answer unless otherwise agreed by the parties,
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 19 of 27
+
+Article 13(1)’s requirement that the Board set a timeline would be superfluous. '° This
+fundamental error in Petitioners’ logic dooms their argument.
+
+For all of these reasons, Petitioners are incorrect that the August 27, 2010 letter from the
+SCC somehow resolved whether Kazakhstan was required to appoint an arbitrator. See Born Op.
+q 122 (arguing that the letter’s quotation of Article 5(3) “dispelled” any notion that “RoK
+retained rights in relation to . . . appointment of an arbitrator”). While it is true that “failure to
+submit an answer does not prevent the arbitration from proceeding,” see id. {| 122 (citing SCC
+Art. 5(3)), this fact does not change the mandate of SCC Article 13(1) and 13(3) that the SCC
+Board first must establish the time period within which Kazakhstan was to appoint its arbitrator
+before the SCC Board is empowered to appoint Kazakhstan’s arbitrator. Because the SCC
+Board (and even the Secretariat) never did this, the SCC’s appointment of Professor Lebedev
+was not done with “proper notice” and was “not in accordance with the agreement of the
+parties.” See New York Convention Art. V(1)(b) and V(1)(d).
+
+B. Kazakhstan Did Not Receive Notice of Petitioners’ Request That The SCC
+Appoint Kazakhstan’s Arbitrator Until Too Late
+
+It is undisputed that Kazakhstan did not receive notice of Petitioners’ September 13, 2010
+request that the SCC appoint an arbitrator on Kazakhstan’s behalf until after the SCC already had
+acted on this request. This alone deprived Kazakhstan of due process because it had no
+
+opportunity to respond to Petitioners’ request, and certainly no opportunity to oppose it.
+
+'© ‘The only way that Petitioners’ interpretation of Article 13(1) and (3) could make any sense would be to read
+Article 13(1)’s reference to the “time period set by the Board” to apply only where the parties have reached a
+“different agreement” as to the procedure for appointing the arbitrators except as to the time period for appointing
+the arbitrators. Such a strained interpretation of Article 13 underscores why Petitioners’ argument cannot be
+accepted. There is no reason why the SCC would specifically craft a rule to address such a unique situation; nor do
+Petitioners offer an explanation. Indeed, the lack of such an explanation is perhaps the reason why Petitioners”
+expert did not address this point, despite it clearly being raised in Kazakhstan’s Opposition. See Opp. at 49-52. Cf.
+Born Op. {91(c) (stating only that “it is obvious that Article 5(1)(v) will be ‘applicable’ whenever there is a three-
+person Tribunal” without considering Kazakhstan’s Article 13(1) argument).
+
+ 
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 20 of 27
+
+Notice of a request must be received by a party before it is acted on by an adjudicative
+body -- whether court or arbitral tribunal — in order to provide notice “in a meaningful time and
+in a meaningful manner.” Mathews v. Eldridge, 424 U.S. 319, 333 (1976). Here, the SCC acted
+on Petitioner’s September 13, 2010 request, without providing any notice of this request to
+Kazakhstan or any opportunity to respond, much less meaningful notice and opportunity. This
+complete violation by the SCC of proper notice requirements, and its needlessly rushed
+appointment of Kazakhstan’s arbitrator,'! constitutes the “significant, material” violation of due
+process that even Petitioners’ expert concedes “will permit non-recognition under Article
+V(1)(b).” Born Op. J 83; see also Parsons & Whittmore Overseas Co., Inc. v. Societe Generale
+De L’Industrie Du Papier, 508 F.2d 969, 975 (2d Cir. 1974) (Article V(1)(b) incorporates the
+forum state’s standards of due process); Born Op. { 80 (same).
+
+In international arbitration, the right to receive “proper notice of the appointment of the
+arbitrator or of the arbitral proceeding” requires that a party be notified “of any request for the
+appointment of an arbitrator[.]” See Maxi Scherer, The New York Convention on Recognition
+and Enforcement of Foreign Arbitral Awards, A Commentary 292 (C.H. Beck Miinchen & Hart
+Publishing, Oxford, 2012) (emphasis added). This right, which is necessary to the right to
+receive notice of the appointment of the arbitrator, exists for the same reason; namely, to ensure
+that a party is not wrongly deprived of its paramount right to appoint its own arbitrator. See, e.g.,
+Stef Shipping Corp. v. Norris Grain, 209 F. Supp. 249, 253 (S.D.N.Y. 1962) (“The right to
+appoint one’s arbitrator . . . is [] the essence of tripartite arbitration[.]”). The Reply and
+
+Professor Born completely miss the point of this argument, instead arguing that Kazakhstan
+
+"' Petitioners did not submit their Statement of Claim (equivalent to their Complaint) until May 2011, almost a year
+after the arbitration was initiated, and more than eight (8) months after the SCC unilaterally appointed Professor
+Lebedev as Kazakhstan’s arbitrator. This timeline demonstrates that it cannot credibly be argued that the SCC
+providing K; with i notice of Petitioners” ber 13, 2011 request, and adequate time to
+respond, would have in any way unduly delayed the arbitral proceedings.
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 21 of 27
+
+being given notice of Lebedev’s appointment after-the-fact satisfies the notice requirements of
+due process. Compare Opp. at 37-38, 41 with Reply at 18 and Born Op. {J 104-08. This cannot
+be correct and, for the reasons stated above and in Kazakhstan’s opening brief, the lack of proper
+notice of Petitioners’ September 13, 2010 request that the SCC appoint Kazakhstan’s arbitrator
+alone compels non-recognition of the Award.
+
+Cc. Kazakhstan’s Objections to the SCC’s Appointment of Professor Lebedev
+Were Not Untimely
+
+Petitioners incorrectly argue that Kazakhstan’s objections to Professor Lebedev were
+untimely. See Reply at 20-21; Born Op. {J 172-82. The flawed premise of this argument is that
+SCC Article 15 — and its fifteen-day deadline — applies to Kazakhstan’s challenge to Professor
+Lebedev’s appointment. In fact, Article 15 applies only to challenges based on an arbitrator’s
+lack of “impartiality or independence.” This is confirmed in its text, which provides as follows:
+
+A party may challenge any arbitrator if circumstances exist which give rise to
+
+justifiable doubts as to the arbitrator’s impartiality or independence or if he/she
+
+does not possess qualifications agreed by the parties. A party may challenge an
+
+arbitrator whom it has appointed or in whose appointment it has participated,
+
+only for reasons of which it becomes aware after the appointment was made.
+
+SCC Article 15(1).
+
+Here, Kazakhstan’s challenge to Professor Lebedev was not based on doubts as to his
+impartiality or independence but rather on the manner in which the SCC appointed him, i.e., that
+it was done both in violation of the SCC Rules of Arbitration and without any notice of
+Petitioners’ request that an arbitrator be appointed for Kazakhstan. These are not Article 15
+
+challenges and therefore the fifteen-day deadline set out in Article 15 is inapplicable. R
+
+D. Petitioners Would Have the Court Improperly Ignore the Special
+Circumstances of This Case That Determine What Process Was Due
+
+!? Notably, Petitioners, when requested by the SCC to comment on Kazakhstan’s challenge to Professor Lebedev’s
+appointment, see Opp. Ex. 15-16, did not assert that Kazakhstan’s objections were untimely. See Opp. Ex. 17. Nor
+did the SCC make any such assertion in denying Kazakhstan's challenge. See Opp. Ex. 18.
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 22 of 27
+
+Petitioners argue that the SCC’s representations to Kazakhstan in the prior arbitration are
+irrelevant to New York Convention Article V(1)(b) because “the SCC Board followed the plain
+language of the rules when appointing Professor Lebedev.” See Reply at 20 n.18. This
+argument misses the point. Not only did the SCC Board violate the plain language of the rules in
+appointing Professor Lebedev, the SCC’s express representations to Kazakhstan in the prior
+Sudima Arbitration are relevant to a due process analysis because the difference between (1)
+those representations and the SCC’s conduct in that prior case, and (2) the SCC’s actions in this
+case, demonstrate that the SCC acted in an arbitrary manner in depriving Kazakhstan of its right
+to appoint an arbitrator. Because New York Convention Article V(1)(b) subjects the SCC’s
+conduct to review under the forum’s standards of due process, the SCC’s actions in the prior
+arbitration are highly relevant. See Iran Aircraft Indus. v. Avco Corp., 980 F.2d 141, 142-46 (2d
+Cir. 1992) (reversing arbitral award on due process grounds where tribunal reneged on a prior
+representation to a parties’ detriment). 8B
+
+Here, it was wholly arbitrary for the SCC to represent to Kazakhstan in the prior
+arbitration that it would only find waiver of the right to appoint an arbitrator where such waiver
+is “explicit,” see Opp. Ex. 31 at 1, but then to proceed in the present arbitration on the basis of
+some purportedly implied waiver where the SCC did not either (1) set a time period for
+appointing the arbitrators pursuant to Article 13, or (2) provide any notice of Petitioners’ request
+
+that an arbitrator be appointed for Kazakhstan before unilaterally acting on that request.
+
+' Petitioners attempt to distinguish /ran Aircraft on immaterial grounds. In that case a party relied on an arbitral
+tribunal’s representation and was prejudiced when the tribunal later changed its position. 980 F.2d 143-46. It makes
+no difference for purposes of due process that the change of position here was by the SCC Board — not the arbitral
+tribunal. What matters is that the SCC made a representation to Kazakhstan in the prior arbitration on the precise
+point now at issue — waiver of a right to appoint an arbitrator — and then reversed course in this arbitration without
+any prior notice. Importantly, the SCC’s prior representation was in no way limited to that particular dispute. See
+Opp. Ex. 31 at 1 (“The SCC Rules empower the SCC Institute to make an appointment only where a party explicitly
+fails to make an appointment.”); see also Opp. at 42-44 (discussing SCC’s prior representation in the Sudima Time
+arbitration).
+
+ 
+
+ 
+
+20
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 23 of 27
+
+In this respect, Petitioners’ expert draws exactly the wrong conclusion when he posits the
+following:
+
+123. IT understand that the RoK has been party to at least one other SCC
+
+Arbitration. The RoK has also been party to other ECT arbitrations, under the
+
+ICSID Rules. The Rok is therefore experienced in ECT proceedings, including
+
+proceedings conducted under the SCC Rules, and more generally, in responding
+
+to requests for arbitration in investor-State proceedings.
+
+124. Therefore, in the circumstances, the RoK must have known, or be
+
+presumed to have known, what was expected of it under the SCC Rules, and
+
+known the consequences of failing to submit an Answer within the stipulated time
+
+period.
+
+Born Op. { 124. In fact, it is precisely because this identical issue had arisen in a prior
+arbitration, and the SCC had expressly confirmed to Kazakhstan that only an “explicit” waiver of
+a party’s right to appoint its own arbitrator would constitute waiver, that Kazakhstan could not
+have inferred from the SCC’s August 2010 correspondence that the SCC would appoint
+Kazakhstan’s arbitrator without further, express notice.
+
+Petitioners’ argument that Kazakhstan’s status as a sovereign state is irrelevant fails for
+the same reason. See Reply at 23. It is not the SCC Rules, but rather the requirements of due
+process — applicable to the SCC’s actions via New York Convention Article V(1)(b) — that
+dictate that sufficient notice will depend on the context of each situation. See, e.g., Mullane v.
+Central Hanover Bank & Trust Co., 339 U.S. 306, 314 (1950) (sufficient notice must be
+“reasonably calculated, under all the circumstances, to apprise interested parties of the
+pendency of the action and afford them an opportunity to present their objections”) (emphasis
+added). Petitioners’ own expert, Professor Born, concedes this point when he emphasizes that
+
+due process must take into consideration “the practicalities and peculiarities of the case.” See
+
+Born Op. { 82 (quoting Mullane, 339 U.S. at 314).
+
+21
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 24 of 27
+
+While recognizing the contextual nature of due process, Petitioners and their expert
+refuse to apply that principle to the actions of the SCC. See Born Op. {| 100, 129-32. As noted
+by Professor Na6n, the process and considerations attendant to selecting an arbitrator are
+particularly sensitive (and therefore time consuming) for a sovereign state as compared to a
+private actor. See Na6n First Op., {| 31(b). This is one of the very important reasons the ECT
+requires a three month cooling-off period before arbitral proceedings may be instituted. See
+generally Na6n Second Op. {J 18-33. Given the contextual differences between private parties
+on the one hand, and a sovereign state on the other, “same” treatment may, in fact, not be equal
+treatment. In other words, a timeline completely “fair” as applied to a private party may not be
+so for a sovereign state. Id. Recognizing such contextual differences does not amount to
+“special treatment,” cf. Born Op. {J 143-48, but rather is a recognition of the important
+differences that the SCC should have taken into account — and was required to under due process
+standards — in order to ensure that Kazakhstan received a truly equal opportunity to exercise its
+fundamental right to appoint its own arbitrator. See Nadn Second Op. {{18-33.
+
+Lastly, Petitioners argue that Kazakhstan should not be permitted to challenge the actions
+of the SCC because “[t]he ROK agreed to arbitrate under the SCC Rules,” “those rules . . .
+govern the arbitration” and Kazakhstan is bound by the SCC’s application of these rules. See
+Reply at 22; Born Op. {{{[ 69-74. This entirely circular argument misses the point. Nowhere in
+the SCC Rules is the SCC Board or Secretariat given the authority to violate the SCC Rules of
+Arbitration, and certainly not with respect to depriving a party of proper notice concerning its
+paramount right to appoint its own arbitrator. See SCC Art. 5, 7.'4 Such a violation, per se,
+
+renders an award unenforceable under Articles V(1)(b) and V(1)(d) of the New York
+
+' For the same reasons that the SCC’s conduct violated fundamental principles of due process, its conduct conflicts
+with basic notions of United States public policy. See New York Convention, Art. V(2)(b); Opp. at 57-58.
+
+22
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 25 of 27
+
+Convention, which expressly police whether there is “proper notice” of an arbitrator’s
+appointment and the arbitral procedure was in “accordance with the agreement of the parties.”
+See also Born Op. { 86 (conceding that these articles “both deal with alleged procedural defects).
+This point, and the incorrect view provided by Petitioner’s expert that the SCC may violate the
+SCC Rules of Arbitration with impunity, is addressed at length in the Second Expert Report of
+Professor Naén. See Na6n Second Op. (Ex. A hereto) at {{] 2-17.
+
+E. The SCC Should Have Vacated Professor Lebedev’s Appointment
+Petitioners also incorrectly claim that the SCC did not have the authority to vacate
+Professor Lebedev’s appointment because the “ROK did not challenge Professor Lebedev on any
+of the grounds specified in Article 15 of the SCC Rules, which provides the exclusive grounds
+for challenging an arbitrator.” See Reply at 19. This is nonsensical. If an arbitral institution has
+
+violated its own procedural rules in appointing an arbitrator it of course has the inherent
+authority to correct this violation. That the SCC in particular has such authority was confirmed
+in the prior Sudima Arbitration when the SCC, on Kazakhstan’s application, reversed its
+appointment of an arbitrator on Kazakhstan’s behalf because Kazakhstan had not “explicitly”
+waived this right. See Opp. Ex. 30; Opp. at 43. The basis for the vacatur in the Sudima
+Arbitration, just as here, was not SCC Article 15 but rather the fundamental nature of a party’s
+right to appoint its arbitrator, and the SCC’s own position that it would only find waiver of this
+right if such waiver was “explicit.” See Opp. Ex. 31 at 1. Petitioners have no meaningful
+response to this critical point. See Reply at 20 n. 18. Is
+
+F. Kazakhstan was Substantially Prejudiced by Professor Lebedev’s
+
+Appointment
+
+'S Petitioners’ argument would have the Court accept the untenable proposition that even with an undisputed
+violation of a party’s right to appoint its own arbitrator (or any other violation by an arbitral institution of a
+fundamental right under the applicable rules), the arbitral institution is powerless to correct this violation.
+
+23
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 26 of 27
+
+Kazakhstan was substantially prejudiced by Professor Lebedev’s invalid appointment
+because the SCC’s actions wrongly deprived Kazakhstan of its ability to appoint the arbitrator of
+its choice, which is “the essence of tripartite arbitration[.]” Stef Shipping, 209 F. Supp. at 253. It
+makes no difference how Professor Lebedev ruled on any particular issue. See Reply at 27
+(noting that Professor Lebedev ruled in favor of Kazakhstan’s jurisdictional arguments).
+Petitioners do not point to any authority that requires a party asserting substantial prejudice to
+demonstrate a “but for” causal connection between the agreement’s violation and subsequent,
+prejudicial errors, nor does any such authority exist.
+
+Further, as noted in Kazakhstan’s Opposition, see Opp. at 53-57, the Tribunal here did
+commit numerous procedural errors,'° which occurred without a “judge of [Kazakhstan’s] choice
+to listen to its case.”!” Alan Redfern & Martin Hunter, Law and Practice of International
+Commercial Arbitration 250 (5th ed. 2009).'8
+'© Kazakhstan is not asking this Court to re-weigh the evidence since the record strongly suggests that the Tribunal
+never considered the testimony of Mr. Khalelov. Cf. Reply at 29. Petitioners incorrectly argue that the Tribunal
+considered Mr. Khalelov’s testimony and allege that he was mentioned “in multiple places.” However, Petitioners
+only refer to two sections of the Award, both of which are irrelevant. The first citation (Award J 125) simply notes
+that Kazakhstan “submitted the English version of Mr. Khalelov’s witness statement to the Tribunal.” This says
+nothing about whether the Tribunal actually considered that testimony. Petitioners’ second citation (Award {| 632)
+does not address the LPG Plant at all. The point is that the Tribunal should have, but did not, consider Mr.
+
+Khalelov’s testimony and if it had, it could not reasonably have relied solely on two links to webpages to assume
+that Kazakhstan had been willing to invest further in the LPG Plant, see Award {| 1745. See Opp. at 55.
+
+ 
+
+Petitioners are also wrong to argue that Kazakhstan’s argument was a red herring because the Tribunal allegedly
+ultimately relied on different evidence, namely contemporaneous bids. Cf. Reply at 30. Instead, the Tribunal
+clearly treated separately, as a preliminary question, whether it considered Kazakhstan's argument that the LPG
+Plant could only be valued as scrap to be correct. In this assessment, it did not look at the contemporaneous bids at
+all; it only looked at the two webpages and the alleged further investments, arguing that Kazakhstan’s argument
+must be wrong as otherwise, it would not have been willing to invest further in the LPG Plant. See Award {| 1745.
+Only once it had thereby satisfied itself that some value should be attributed to the LPG Plant, did the Tribunal
+decide a precise value.. See Award {| 1746. In sum, the Tribunal failed to consider Kazakhstan’s only evidence
+regarding the allegation of further investments into the LPG Plant, and Kazakhstan was thereby prejudiced. See
+Hoteles Condado Beach v. Union De Tronquistas Local 901,763 F.2d 34, 40 (1st Cir. 1985) (arbitrator’s “refusal to
+ascribe any weight” to relevant testimony warranted setting aside the award).
+
+ 
+
+ 
+
+ 
+
+'" For these same reasons, Kazakhstan suffered substantial prejudice under New York Convention Article V(2)(b)
+because the SCC’s due process violations deprived Kazakhstan of its ability to appoint the arbitrator of its choice.
+
+ 
+
+'8 Petitioners’ arguments with respect to the exercise of jurisdiction over Terra Raf were anticipated and addressed
+in the Opposition. See Opp. at 58-60.
+
+24
+
+Case 1:14-cv-01638-ABJ Document 28 Filed 05/26/15 Page 27 of 27
+
+Petitioners also would incorrectly limit substantial prejudice to only those instances in
+which an arbitrator demonstrates a lack of independence or impartiality — the grounds listed in
+SCC Article 15 for challenging an arbitrator. Cf: Reply at 27. However, Petitioners do not point
+to a single authority that indicates that “substantial prejudice” under New York Convention
+Article V(1)(d) can only result from a basis identified in the governing arbitration rules for
+challenging an arbitrator. Moreover, Petitioners’ argument would lead to absurd results. Just as
+the SCC confirmed to Kazakhstan in the prior Sudima Arbitration that it is authorized to reverse
+the appointment of arbitrator for reasons other than “impartiality or independence,” so too does
+the prejudice that results from that invalid appointment support refusing enforcement under New
+York Convention Article V(1)(d).
+
+CONCLUSION
+For these reasons, and those set forth in its Opposition, Kazakhstan respectfully requests
+
+that this Court deny the Petition to Confirm.
+
+Dated: May 26, 2015 Respectfully submitted,
+/s/ Matthew H. Kirtland
+
+Matthew H. Kirtland (D.C. Bar No. 456006)
+matthew.kirtland @nortonrosefulbright.com
+Kara L. Petteway (D.C. Bar No. 975541)
+kara.petteway @ nortonrosefulbright.com
+Benjamin Hayes (D.C. Bar application pending)
+benjamin.hayes @nortonrosefulbright.com
+NORTON ROSE FULBRIGHT US LLP
+801 Pennsylvania Avenue, NW
+Washington, D.C. 20004-2623
+
+Tel: 202-662-0200
+
+Fax: 202-662-4643
+
+Attorneys for Respondent Republic of Kazakhstan
+
+25
+

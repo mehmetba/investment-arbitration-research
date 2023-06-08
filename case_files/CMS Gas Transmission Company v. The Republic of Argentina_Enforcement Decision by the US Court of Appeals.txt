@@ -1,0 +1,736 @@
+12-4139-cv
+Blue Ridge Investments, L.L.C. v. Republic of Argentina
+
+UNITED STATES COURT OF APPEALS
+FOR THE SECOND CIRCUIT
+
+August Term, 2012
+
+(Argued: June 19, 2013 Decided: August 19, 2013)
+
+Docket No. 12-4139-cv
+
+ 
+
+BLUE RIDGE INVESTMEN’
+
+ 
+
+Petitioner-Appellee,
+
+REPUBLIC OF ARGENTINA,
+
+Respondent-Appellant.
+
+ 
+
+Before: CABRANES and B.D. PARKER, Circuit Judges.
+
+This appeal arises from an order of United States District Court for the Southern District of
+New York (Paul G. Gardephe, Judge) that denied a motion to dismiss filed by respondent-appellant
+the Republic of Argentina (“Argentina”). In that motion, Argentina sought dismissal, on, inter alia,
+foreign sovereign immunity grounds, of a petition to confirm an arbitration award filed by
+
+petitioner-appellee Blue Ridge Investments, L.L.C. (“Blue Ridge”). Because the denial of
+
+' Judge Guido Calabresi, originally assigned to the panel, recused himself from this case shortly before oral argument.
+The two remaining members of the panel, who are in agreement, have determined the matter in accordance with Second
+Circuit Internal Operating Procedure E(b). See 28 U.S.C. § 46(d) & nul; of United States v. Desimone, 140 F.3d 457 (2d Cir.
+1998).
+
+Argentina’s motion to dismiss is an interlocutory order, we must first decide whether, and to what
+extent, we have jurisdiction to consider the issues raised in this appeal.
+
+Argentina asserts that: (1) we have jurisdiction under the “collateral order doctrine” to
+consider whether the District Court erred in concluding that Argentina had waived its foreign
+sovereign immunity; and (2) we should exercise “pendent appellate jurisdiction” to consider whether
+the District Court erred in concluding that Blue Ridge, as an assignee, could state a claim to confirm
+the underlying award of the International Centre for the Settlement of Investment Disputes
+(“ICSID”). We conclude that we do have jurisdiction to consider the District Court’s foreign
+sovereign immunity decision pursuant to the collateral order doctrine, but we decline to exercise
+pendent appellate jurisdiction over the District Court’s decision that Blue Ridge could state a claim
+to confirm the ICSID award because that issue is not “inextricably intertwined” with the foreign
+sovereign immunity decision. See Swint v. Chambers Cnty. Comm'n, 514 U.S. 35, 50-51 (1995).
+
+Because our appellate jurisdiction is limited to reviewing the District Court’s foreign
+sovereign immunity decision, we reach the merits of that issue only and hold that the District Court
+correctly found that Argentina waived its immunity from suit under two exceptions to the Foreign
+Sovereign Immunities Act: (1) the so-called implied waiver exception, described in 28 U.S.C.
+
+§ 1605(a)(1), and (2) the so-called arbitral award exception, described in 28 U.S.C. § 1605(a)(6).
+
+Accordingly, we affirm the September 30, 2012 order of the District Court insofar as it
+concluded that Argentina waived its foreign sovereign immunity, and we remand the cause to the
+District Court for further proceedings consistent with this opinion.
+
+EDWARD SCARVALONE (GABRIEL BOTTINI, argued
+pro hac vice), Doar Rieck Kaley & Mack, New
+York, NY, for Republic of Argentina.
+
+JOHN N. THOMAS (Clifton S. Elgarten, Birgit Kurtz,
+
+on the brief), Crowell & Moring LLP, New
+York, NY, for Blue Ridge Investments, L.L.C.
+
+Josb A. CABRANES, Circuit Judge:
+
+This appeal arises from an order of the United States District Court for the Southern
+District of New York (Paul G. Gardephe, Judge) that denied a motion to dismiss filed by respondent-
+appellant the Republic of Argentina (“Argentina”). In that motion, Argentina sought dismissal, on,
+inter alia, foreign sovereign immunity grounds, of a petition to confirm an arbitration award filed by
+petitioner-appellee Blue Ridge Investments, L.L.C. (“Blue Ridge”). Because the denial of
+Argentina’s motion to dismiss is an interlocutory order, we must first decide whether, and to what
+extent, we have jurisdiction to consider the issues raised in this appeal.
+
+Argentina asserts that: (1) we have jurisdiction under the “collateral order doctrine” to
+consider whether the District Court erred in concluding that Argentina had waived its foreign
+sovereign immunity; and (2) we should exercise “pendent appellate jurisdiction” to consider whether
+the District Court erred in concluding that Blue Ridge, as an assignee, could state a claim to confirm
+the underlying award of the International Centre for the Settlement of Investment Disputes
+(“ICSID”). We conclude that we do have jurisdiction to consider the District Court’s foreign
+sovereign immunity decision pursuant to the collateral order doctrine, but we decline to exercise
+pendent appellate jurisdiction over the District Court’s decision that Blue Ridge could state a claim
+to confirm the ICSID award because that issue is not “inextricably intertwined” with the foreign
+sovereign immunity decision. See Swint v. Chambers Cnty. Comm'n, 514 U.S. 35, 50-51 (1995).
+
+Because our appellate jurisdiction is limited to reviewing the District Court’s foreign
+sovereign immunity decision, we reach the merits of that issue only and hold that the District Court
+correctly found that Argentina waived its immunity from suit under two exceptions to the Foreign
+Sovereign Immunities Act: (1) the so-called implied waiver exception, described 28 U.S.C.
+
+§ 1605(a)(1),° and (2) the so-called arbitral award exception, described in 28 U.S.C. § 1605(a)(6).’
+
+> Title 28
+
+ 
+
+S.C. § 1605(a)(1) provides that:
+
+Accordingly, we affirm the September 30, 2012 order of the District Court insofar as it
+concluded that Argentina waived its foreign sovereign immunity, and we remand the cause to the
+District Court for further proceedings consistent with this opinion.
+
+BACKGROUND
+A. The Underlying Dispute
+
+The following facts are drawn from the written May 12, 2005 Arbitration Award of the
+ICSID and, unless otherwise noted, are undisputed by the parties.
+
+In 1989, Argentina undertook several economic reforms, including the privatization of
+
+yA
+
+several state-owned industries. One of those industries was the “gas transportation” indust
+
+ 
+
+consequence of this privatization was that Gas del Estado, a state-owned entity, was divided into
+two gas transportation companies and eight gas distribution companies; one of the new gas
+transportation companies was Transportadora de Gas del Norte (“T'GN”). In 1992, investment in
+TGN (as well as in the other newly-created companies) was opened to investors. As relevant to this
+case, CMS Gas Transmission Company (“CMS”) purchased shares of TGN from the Argentine
+government in 1995, acquiring a 25% ownership interest in TGN.*
+
+Pursuant to the legislation and regulations enacted during this period of “privatization” in
+
+were able to adjust gas tariffs “every six months in
+
+ 
+
+Argentina, licensees of public utilities, like TG!
+
+ 
+
+fa] foreign state shall not be immune from the jurisdiction of courts of the United States or of the
+States in any case... in which the foreign state has waived its immunity either explicitly or by
+implication, notwithstanding any withdrawal of the waiver which the foreign state may purport to
+effect except in accordance with the terms of the waiver...
+
+   
+
+3 Title 28 U.S.C. § 1605(a)(6) provides, in relevant part, that:
+fa] foreign state shall not be immune from the jurisdiction of courts of the United States or of the
+States in any case . . . in which the action is brought. .. to confirm an award made pursuant to... an
+agreement to arbitrate, if . . . the agreement or award is or may be governed by a treaty or other
+international agreement in force for the United States calling for the recognition and enforcement of
+arbitral awards.
+
+ 
+
+* CMS later purchased an additional 4.42% of TGN for a total ownership interest of 29.42%.
+
+4
+
+accordance with the United States Producer Price Index.” Joint App’x 82. But in late 1999,
+following Argentina’s economic crisis of the late 1990s,’ the Argentine government called a meeting
+“with representatives of the gas companies in order to discuss a temporary suspension of the
+[United States Producer Price Index] adjustment on gas tariffs.” Id. at 83. Although the gas
+companies agreed to a temporary suspension of the adjustment of gas tariffs for a period of six
+months, the agreement reached with the Argentine government provided that “the costs of the
+deferral [of the adjustment date] would be recouped” within a year.’ Id. The Argentine government
+did not indemnify the losses, however, and instead froze the United States Producer Price Index
+adjustment of gas tariffs indefinitely. Argentina ultimately terminated the rights of licensees of
+public utilities to adjust tariffs at all.
+
+On July 26, 2001, CMS initiated arbitration before an ICSID tribunal to recover the income
+lost by the decrease in gas tariff revenue following Argentina’s suspension of the adjustment of gas
+tariffs. In particular, CMS asserted that Argentina had breached its obligations to CMS as a U.S.
+investor in Argentina, including the obligation to accord it “fair and equitable treatment.” See Treaty
+Concerning the Reciprocal Encouragement and Protection of Investment, U.S.-Arg., Nov. 14, 1991,
+S. Treaty Doc. No. 103-2 (1993) (hereinafter, “Treaty”). The Treaty holds Argentina to certain
+standards of conduct toward U.S. investors and provides for the resolution of certain disputes
+between U.S. investors and Argentina through arbitration administered by the ICSID.
+
+On May 12, 2005, the ICSID tribunal entered an award in favor of CMS, requiring Argentina
+to pay compensation in the amount of $133.2 million plus interest (the “Award”). In particular, the
+> We have seen much litigation arising from Argentina’s economic crisis in the late 1990s and early 2000s and its
+corresponding defaults on various sovereign obligations. See, eg, NML Capital, Ltd. v. Banco Central de la Republica
+“Argentina, 652 F.3d 172, 175 (2d Cit. 2011) (noting “the preeminence of the Republic of Argentina . .. in the sorry
+history of defaults on sovereign debt”); EM Ltd. v. Republic of Argentina, 473 F.3d 463, 466 n.2 (2d Cir. 2007) (noting, inter
+
+alia, “that Argentina has made many contributions to the law of foreign insolvency through its numerous defaults on its
+sovereign obligations”).
+
+ 
+
+6 ‘This agreement was approved by the Argentine public regulatory agency of the gas industry, ENARGAS.
+
+5
+
+ICSID tribunal found that Argentina “breached its obligations to accord [CMS] the fair and
+equitable treatment guaranteed in Article II (2)(a) of the [Bilateral Investment] Treaty and to observe
+the obligations entered into with regard to the investment guaranteed in Article II (2)(c) of the
+Treaty.” Joint App’x 206. On September 8, 2005, Argentina sought to have the Award annulled,
+but the ICSID Annulment Committee rejected Argentina’s application and instead confirmed the
+Award.
+B. The Initial District Court Proceedings
+
+In March 2008, CMS filed a “Petition to Enforce Foreign Arbitral Award” in the United
+States District Court for the Southern District of New York, and sought to attach certain Argentine
+assets. The proceedings took place before Judge Loretta A. Preska. During the course of that
+proceeding, Judge Preska determined that CMS had not identified the assets it sought to attach with
+the specificity required by the FSIA. As a result of that ruling, CMS filed a notice of voluntary
+dismissal without prejudice pursuant to Federal Rule of Civil Procedure 41(a)(1)(A)().”
+
+In June 2008, Blue Ridge notified Argentina that it had purchased CMS’s interest in the
+Award and, on March 13, 2009, it filed a petition to confirm the Award in the Southern District of
+New York. The case was assigned to then-District Judge Gerard E. Lynch. In mid-August 2009,
+Blue Ridge informed Judge Lynch’s chambers that it did not intend to move forward with the
+confirmation proceeding at that time, and wished to withdraw its petition without prejudice. On
+August 31, 2009, Judge Lynch, noting that the parties stated they had “reached a settlement in
+principle,” issued a so-called “thirty-day order,” which stated “that this action is dismissed without
+costs and without prejudice to restoring the action to the Court’s calendar, provided the application
+to restore the action is made within thirty days.”
+7 Federal Rule of Civil Procedure 41 (a)(1)(A)(j) provides: “Subject to Rules 23(¢), 23.1(6), 23.2, and 66 and any
+applicable federal statute, the plaintiff may dismiss an action without a court order by filing. . . a notice of dismissal
+
+before the opposing party serves either an answer or a motion for summary judgment. ...”
+
+6
+
+C. The Present Confirmation Petition
+
+On January 8, 2010, Blue Ridge filed the present petition to confirm the Award pursuant to
+Article 54 of the Convention on the Settlement of Investment Disputes between States and
+Nationals of Other States, Mar. 18, 1965, 17 U.S.T. 1270, 575 U.N.T.S. 159 (the “ICSID
+Convention”). Argentina then moved to dismiss the petition on several grounds, arguing that: (1) it
+was immune from suit pursuant to the FSIA; (2) Blue Ridge, as an assignee, could not state a claim
+under the ICSID Convention to confirm the Award; (3) the petition was barred by res judicata
+because Blue Ridge’s prior confirmation petition had been dismissed with prejudice pursuant to the
+“thirty-day order” issued by Judge Lynch; and (4) the petition was time-barred under New York’s
+applicable one-year statute of limitations. Judge Gardephe, now presiding, denied Argentina’s
+motion to dismiss and rejected each of its arguments. See Blve Ridge Invs., LLC v. Republic of Argentina,
+902 F. Supp. 2d 367, 375 (S.D.N.Y. 2012).
+
+With regard to Argentina’s foreign sovereign immunity defense, Judge Gardephe held that
+
+Argentina had waived its immunity from suit pursuant to two exceptions to the FSIA: (1) the
+
+ 
+
+implied waiver exception, see 28 U.S.C. § 1605(a)(1), and (2) the arbitral award exception, see id.
+§ 1605(a)(6). Blue Ridge Invs., 902 F. Supp. 2d at 375. Specifically, he found that Argentina had
+waived its foreign sovereign immunity under the implied waiver exception because it had signed the
+ICSID Convention, “which provides for the automatic recognition and enforcement of awards in
+Contracting States.” Id. He also found that Argentina had waived its foreign sovereign immunity
+under the arbitral award exception because “Argentina’s agreement to submit its dispute with CMS
+to [an] arbitration governed by the ICSID Convention constituted a waiver of immunity under
+Section 1605(a)(6)(B) with respect to [the] recognition and enforcement of the Award.” Id.
+
+With regard to Argentina’s other arguments, Judge Gardephe held that: (1) Blue Ridge, as an
+assignee, could state a claim to confirm the Award because nothing in the language of the ICSID
+
+7
+
+Convention prevented an assignee from doing so, and because, under New York law,’ the Award is
+assignable; (2) the petition was not barred by res judicata because the previous dismissals were without
+prejudice, inasmuch they did not provide the clarity required of a dismissal with prejudice under Fed.
+R. Civ. P. 41(a)(2)’; and (3) the petition was not time-barred because the appropriate statute-of-
+limitations period is twenty years pursuant to N.Y. CPLR § 211(b). Ble Ridge Invs., 902 F. Supp. 2d
+at 375 n.7, 381-82, 385, 387.
+
+Argentina filed this appeal, and subsequently sought a certificate of appealability pursuant to
+
+28 US.
+
+ 
+
+>. § 1292(b) in the District Court."” To date, the District Court has not issued a certificate of
+appealability, and therefore our initial inquiry must be whether (and to what extent) we have
+jurisdiction to consider the District Court’s denial of Argentina’s motion to dismiss under the
+collateral order doctrine. See Liberty Synergistics Inc. v. Microflo Ltd., 714 F.3d 138, 146-47 (2d Cir.
+
+2013) (discussing the collateral order doctrine).
+
+8 Because an ICSID Convention award is entitled to “the same full faith and credit” as a final judgment of a state court,
+see 22 U.S.C. § 1650a(a), district courts in this Circuit have, at times, relied on the procedures of the New York Civil
+Practice Law and Rules to determine whether an ICSID award is enforceable. See Siag v. Arab Republic of Egypt, No. M-
+82, 2009 WL 1834562, at *2-3 (S.D.N.Y. June 19, 2009); see also N.Y. CPLR § 5401 (providing procedures to enforce
+“any judgment .. . of a court of the United States or any other court which is entitled to full faith and credit in this state”)
+(emphasis supplied).
+
+° In relevant part, Federal Rule of Civil Procedure 41(a)(2) provides:
+
+Except as provided in Rule 41(a)(1), an action may be dismissed at the plaintifP’s request only by court
+order, on terms that the court considers proper. If a defendant has pleaded a counterclaim before
+being served with the plaintiff's motion to dismiss, the action may be dismissed over the defendant’s
+objection only if the counterclaim can remain pending for independent adjudication. Unless the order
+states otherwise, a dismissal under this paragraph (2) is without prejudice.
+
+© Title 28 U.S.C. § 1292(b) provides:
+
+When a district judge, in making in a civil action an order not otherwise appealable under this section,
+shall be of the opinion that such order involves a controlling question of law as to which there is
+substantial ground for difference of opinion and that an immediate appeal from the order may
+materially advance the ultimate termination of the litigation, he shall so state in writing in such order.
+The Court of Appeals which would have jurisdiction of an appeal of such action may thereupon, in its
+discretion, permit an appeal to be taken from such order, if application is made to it within ten days
+after the entry of the order: Provided, however, That application for an appeal hereunder shall not stay
+proceedings in the district court unless the district judge or the Court of Appeals or a judge thereof
+shall so order.
+
+8
+
+DISCUSSION
+A. Jurisdiction
+Argentina first asserts that we have jurisdiction under the collateral order doctrine to review
+the District Court’s conclusion that Argentina waived its foreign sovereign immunity.'' It then
+asserts that we should exercise pendent appellate jurisdiction’* and review whether the District Court
+erred in concluding that Blue Ridge, as an assignee, could state a claim to confirm the Award
+because, in Argentina’s view, the latter issue is “inextricably intertwined” with the former. In other
+words, Argentina contends that “[a]s a foreign state, [it] is presumptively immune from suit. . . .
+[and] [nJeither the ICSID Convention, nor any other instrument that Blue Ridge has invoked,
+contains a waiver (express or implied) by [Argentina] of its immunity with respect to Blue Ridge’s
+claim, which is based on an assignment of an ICSID award.” Reply Br. 1-2.
+i. The Collateral Order Doctrine
+Our appellate jurisdiction is limited to “final decisions” of district courts. 28 U.S.C. § 1291."
+“The purpose of this rule ‘is to provide the parties with an opportunity for a single review of all the
+questions raised at the trial level .. . and thereby to avoid the waste of time and the delay in reaching
+trial finality which ensue when piecemeal appeals are permitted.” Nedson v. Unum Life Ins. Co. of Am.,
+
+468 F.3d 117, 119 (2d Cir. 2006) (quoting Paliaga v. Luckenbach S.S. Co., 301 F.2d 403, 406-07 (2d Cir.
+
+1962)).
+
+"Argentina concedes (and Blue Ridge agrees) that, absent a certificate of appealability from the District Court, we lack
+jurisdiction to review the District Court’s order of September 30, 2012 insofar as it concerns Argentina’s res judicata and
+statute of limitations defenses. See Reply Br. 23, 27; see also Blue Ridge Br. 30-31. As the District Court has not issued a
+certificate of appealability, we do not consider those two issues for lack of appellate jurisdiction.
+
+2 Exercising pendent appellate jurisdiction allows us to “review a non-final order if it is ‘inextricably intertwined’ with
+or otherwise ‘necessary to ensure meaningful review’ of an appealable order.” Swama r, Al-Amadi, 622 F.3d 123, 141 (2d
+Cir. 2010) (quoting Toussie x. Powell, 323 F.3d 178, 184 (2d Cir, 2003)).
+
+5 Title 28 U.S.C. § 1291 provides, in relevant part: “The courts of appeals . . . shall have jurisdiction of appeals from all
+final decisions of the district courts of the United States ....”
+
+9
+
+ 
+
+Although the District Court’s decision concluding that Argentina waived its foreign
+sovereign immunity is an interlocutory order, Argentina argues that we have jurisdiction to review
+that decision under the collateral order doctrine, “which provides for appellate jurisdiction over a
+small class of ‘collateral’ rulings that do not terminate the litigation in the court below but are
+nonetheless sufficiently ‘final’ and distinct from the merits to be appealable without waiting for a
+final judgment to be entered.” Microflo, 718 F.3d at 146; see Cohen v. Beneficial Indus. Loan Corp., 337
+USS. 541, 546 (1949) (describing the collateral order doctrine as permitting appeals from “a small
+class [of orders] which finally determine claims of right separable from, and collateral to, rights
+asserted in the action, [and which are] too important to be denied review and too independent of the
+cause itself to require that appellate consideration be deferred until the whole case is adjudicated”).
+“The requirements for collateral order appeal have been distilled down to three conditions: that an
+order [1] conclusively determine the disputed question, [2] resolve an important issue completely
+separate from the merits of the action, and [3] be effectively unreviewable on appeal from a final
+judgment.” Will v. Hallock, 546 U.S. 345, 349 (2006) (brackets in original; internal quotation marks
+omitted); see also Digital Equip. Corp. v. Desktop Direct, Inc., 511 U.S. 863, 867 (1994).
+
+We previously have held that a denial of foreign sovereign immunity satisfies the conditions
+necessary to invoke the collateral order doctrine. See USAA Cas. Ins. Co. v. Permanent Mission of
+Republic of Namibia, 681 F.3d 102, 107 (2d Cir. 2012); Kensington Int'l Ltd. v. Itona, 505 F.3d 147, 153
+(2d Cir. 2007). Other circuits have arrived at the same conclusion. See, ¢.g., Abelesz v. Erste Grp. Bank
+AG, 695 F.3d 655 (7th Cir. 2012); Terenkian v. Republic of Iran, 694 F.3d 1122, 1130 (9th Cir. 2012);
+Hansen v. PT Bank Negara Indonesia (Persero), TBK, 601 F.3d 1059, 1062 (10th Cir. 2010).
+
+Despite this general rule, Blue Ridge argues that the circumstances of this appeal do not
+satisfy the collateral order doctrine because the justifications for the doctrine—e.g, allowing a foreign
+sovereign to avoid trial and the attendant burdens of litigation—are not relevant here insofar as the
+
+10
+
+underlying proceeding only involves confirming the Award. Put another way, Blue Ridge contends
+that “[w]here the denial of immunity subjects the sovereign simply to entry of [a] judgment .. . , the
+sovereign can just as easily and effectively appeal after entry of a final order.” Blue Ridge Br. 18.
+
+Blue Ridge’s argument relies on three cases from this Circuit. See Kensington Int'l Ltd. v.
+Republic of Congo, 461 F.3d 238, 240-41 (2d Cir. 2006); Transaero, Inc. v. La Fuerza Aerea Boliviana, 99
+F.3d 538, 541 (2d Cir. 1996); Caribbean Trading ¢ Fid. Corp. v. Nigerian Nat'l Petroleum Corp., 948 F.2d
+111, 113-14 (2d Cir. 1991). In Kensington and Caribbean Trading, we declined to exercise jurisdiction
+over appeals from orders requiring foreign governments to post security for costs. See Kensington,
+461 F.3d at 240; Caribbean Trading, 948 F.2d at 115. In doing so, “[w]e distinguished between claims
+of FSIA immunity from suit under Section 1604, denials of which are appealable collateral orders, and
+claims of FSIA immunity from attachment, denials of which are not appealable.” Kensington, 461 F.3d
+at 240. In Transareo, we held that we lacked jurisdiction to consider the denial of a motion to vacate
+a default judgment under Rule 60(b)(4),* holding that the sovereign’s “right not to be subject to a
+binding judgment may be effectively vindicated following final judgment.” 99 F.3d at 541.
+
+Despite the surface appeal of Blue Ridge’s arguments, we are not persuaded by them
+because, unlike the circumstances presented here, Kensington, Caribbean Trading, and Transareo did not
+involve a “threshold determination of FSIA immunity” from suit. Reply Br. 8. This case therefore
+is more akin to our recent decision in Figueiredo Ferraz E Engenharia de Projeto Ltda. v. Republic of Pern,
+665 F.3d 384 (2d Cir. 2011), which addressed whether the denial of foreign sovereign immunity in a
+confirmation proceeding was an appealable order under the collateral order doctrine. Id. at 388. In
+that case, we specifically noted that “[t]he Appellants filed an interlocutory appeal . . . from the
+
+denial of their motion to dismiss, predicating appellate jurisdiction on the collateral order doctrine,
+
+'4 Federal Rule of Civil Procedure 60(b)(4) provides: “On motion and just terms, the court may relieve a party or its
+legal representative from a final judgment, order, or proceeding... . [because] the judgment is void ....”
+
+which is applicable to an order denying a motion to dismiss that had sought FSIA immunity.” Id.
+The fact that Figueiredo Ferraz involved a confirmation proceeding did not factor into our analysis.
+
+Accordingly, in light of the general rule that the denial of foreign sovereign immunity is
+immediately appealable and our recent decision in Figueiredo Ferraz, we conclude that we have
+jurisdiction under the collateral order doctrine to review the District Court’s threshold determination
+that Argentina waived its foreign sovereign immunity pursuant to 28 U.S.C. § 1605(a)(1) (the implied
+waiver exception) and 28 U.S.C. § 1605(a)(6) (the arbitral award exception).
+
+ii. Pendent Appellate Jurisdiction
+
+Having concluded that we have jurisdiction to review the District Court’s conclusion that
+Argentina waived its foreign sovereign immunity, we next consider Argentina’s request for us to
+exercise pendent appellate jurisdiction and consider whether the District Court erred in concluding
+that Blue Ridge, as an assignee, could state a claim to confirm the Award. As we have noted, we
+have discretion to exercise pendent appellate jurisdiction over related rulings that are otherwise
+
+unappealable as long as the related rulings are “inextricably intertwined’ with an issue over which
+
+   
+
+the court properly has appellate jurisdiction.” Lamar Adver. of Penn, LLC v. Town of Orchard Park,
+
+-51
+
+ 
+
+356 F.3d 365, 371 (2d Cir. 2004) (quoting Swint v. Chambers Cnty. Comm'n, 514 USS. 3:
+
+ 
+
+(1995).
+
+Pendent appellate jurisdiction is available only (1) when an issue is “inextricably intertwined”
+with a question that is the proper subject of an immediate appeal; or (2) when review of a
+jurisdictionally insufficient issue is “necessary to ensure meaningful review” of an immediately
+appealable issue. Swint, 514 U.S. at 51. These conditions are not met when “we are confronted with
+two similar, but independent, issues, and resolution of the non-appealable order would require us to
+15 The Figueiredo Ferraz Court also considered the other issues decided by the district court—forum selection, comity, and
+forum non conveniens—because the district court had certified those issues for appeal. 665 F.3d 390-91. As noted
+
+above, no such certification has been made in this case.
+
+12
+
+conduct an inquiry that is distinct from and broader than the inquiry required to resolve solely the
+issue over which we properly have appellate jurisdiction.” Myers v. Hertz Corp., 624 F.3d 537, 553-54
+(2d Cir. 2010) (internal quotation marks omitted). Indeed, the Seventh Circuit has cautioned that
+“[t}his room for the ‘inextricably intertwined’ use of pendent appellate jurisdiction should not be
+stretched to appeal normally unappealable interlocutory orders that happen to be related—even
+closely related—to the appealable order.” Abelesz, 695 F.3d at 660.
+
+Despite Argentina’s clever framing of the issues presented—/e., asserting that whether it has
+waived its foreign sovereign immunity depends on the “party” attempting to confirm the award, see
+Reply Br. 15—we agree with Blue Ridge that whether Argentina has waived its foreign sovereign
+immunity and whether Blue Ridge, as an assignee, can state a claim to enforce the Award, are two
+separate issues that are not “inextricably intertwined,” see Chevron Corp. v. Republic of Ecuador, --- F.
+Supp. 2d -—-, No. 12-1247 (JEB), 2013 WL 2449172, at *4 (D.D.C. June 6, 2013) (“Inquiring into
+the merits of .. . the arbitrability of the underlying claims . . . would involve an inquiry into the
+contractual rights of the parties to arbitration and would thus be beyond the reach of the FSIA’s
+cabined jurisdictional inquiry.” (internal quotation marks omitted)).
+
+We find the Fourth Circuit’s decision in Ru v. Republic of Sudan, 461 F.3d 461 (4th Cir.
+2006), instructive in reaching this conclusion. In that case, the Republic of Sudan (“Sudan”) argued,
+inter alia, that (1) the district court erred by rejecting its assertion of foreign sovereign immunity and
+that (2) the Fourth Circuit should exercise its pendent appellate jurisdiction to consider whether the
+plaintiff had standing to bring a claim under the Death on the High Seas Act (“DOHSA”), 46 U.S.C.
+§§ 30301-30308. Rux, 461 F.3d at 475. Although the Fourth Circuit considered the district court’s
+foreign sovereign immunity decision under the collateral order doctrine (as we do here), it held that
+
+the DOHSA standing issue was “not sufficiently interconnected to justify pendent appellate
+
+jurisdiction.” Id. at 476. In particular, the Fourth Circuit refused to exercise pendent appellate
+jurisdiction because
+
+[resolution of Sudan’s FSIA argument neither required us first to decide nor
+necessarily decides the issue of standing under DOHSA. In fact, our analysis of the
+FSIA issue did not address, or even refer to, the issue of standing. Each issue
+involves a distinct legal concept that does not affect analysis of the other.
+
+ 
+
+Like Sudan in Rux, Argentina asserts that we have jurisdiction to consider whether Blue
+Ridge, as an assignee, can state a claim to confirm the Award because “resolution of [the assignee]
+issue is necessary to ensure meaningful review of the issue of subject matter jurisdiction [under the
+FSIA].”"° Id. But as will become apparent, we (like the District Court) are able to determine
+conclusively whether Argentina waived its foreign sovereign immunity without discussing, much less
+deciding, whether Blue Ridge, as an assignee, can state a claim to confirm the Award.'” We are able
+to do so because the waiver of foreign sovereign immunity is a “jurisdictional” waiver of immunity
+
+from suit. See 28 U.S.C. § 1605(a). Whether a certain “party” can state a claim and prevail against
+
+ 
+
+such a sovereign is a separate inquiry.
+
+Moreover, if we were to accept Argentina’s argument about the supposedly “inextricably
+intertwined” nature of these two issues, then little would prevent Argentina (or other foreign
+sovereigns) from arguing that avy affirmative defense is “inextricably intertwined” with the issue of
+whether it waived its foreign sovereign immunity.'* For instance, if we held that the question of
+16 Indeed, Argentina describes this issue in terms of “standing.” See Reply Br. 14 (“The district court erred in not
+dismissing the petition for lack of standing under the ICSID Convention.” (emphasis and capitalization omitted)).
+
+7 Although the District Court noted Argentina’s argument that “[it] did not make an agreement to arbitrate ‘with’ .
+[or] for the benefit oP [Blue Ridgel,” Bite Ridge Invs, 902 F. Supp. 2d at 373 (frst alteration in original), it held that
+“{nothing in she plain language of thle} [FSLA] provision suggests that an action ‘to confirm an award made pursuant to .
+
+an agreement to arbitrate” must be brought by the party that entered into the arbitration agreement with the foreign
+state.” Id, at 375 n.7 (emphasis supplied) (omission in original) (quoting 28 U.S.C. § 1605(a)(6)).
+
+ 
+
+ 
+
+18 Indeed, in Rue, Sudan argued that the Fourth Circuit should exercise pendent appellate jurisdiction and consider the
+DOHSA standing issue because “{i]f Plaintiffs have no standing to bring the claims asserted, the Court’s decision on the
+FSIA issue will be an advisory opinion.” 461 F.3d at 476 (internal quotation marks omitted). But, as the Fourth Circuit
+
+14
+
+whether Blue Ridge could state a claim to confirm the Award was “inextricably intertwined” with
+whether Argentina waived its sovereign immunity, then little would prevent Argentina from arguing
+that it also only waived its sovereign immunity with regard to claims that were brought within the
+appropriate statute-of-limitations period. We conclude that such a result would permit the limited
+exception of exercising pendent appellate jurisdiction to swallow the general rule that we lack
+jurisdiction to consider non-appealable orders of district courts.
+
+In sum, because we can conclusively decide whether Argentina waived its foreign sovereign
+immunity without addressing whether Blue Ridge, as an assignee, can state a claim to confirm the
+Award, we conclude that these two issues are not “inextricably intertwined.” We therefore refuse to
+exercise pendent appellate jurisdiction over the latter, non-appealable issue.”
+
+B. The Merits
+
+Because we do not exercise pendent appellate jurisdiction, we only consider, under the
+jurisdiction conferred by the collateral order doctrine, whether the District Court was correct in
+holding that Argentina waived its immunity from suit pursuant to two exceptions to the FSIA: (1)
+the implied waiver exception, see 28 U.S.C. § 1605(a)(1); see a/so note 2, ante, and (2) the arbitral award
+exception, see 28 U.S.C. § 1605(a)(6); see also note 3, ante. We review de novo a district court’s legal
+conclusions regarding subject matter jurisdiction under the FSIA. See In re Terrorist Attacks on
+September 11, 2001 (Saudi Joint Relief Comm., et al.), 714 F.3d 109, 113 (2d Cir. 2013).
+
+The only source of subject matter jurisdiction over a foreign sovereign or its
+
+instrumentalities in the courts of the United States is the FSIA, and once a defendant “presents a
+
+ 
+
+recognized, the same argument could be made with regard to any affirmative defense. See id, (“We have decided the
+issue of subject matter jurisdiction based on a concrete set of facts in the context of a live controversy between the
+parties. The fact that Plaintiffs’ case might eventually succumb to a dispositive defect, such as lack of standing, does not
+alter the concrete nature of the dispute before us today or the propriety of our ruling.”).
+
+  
+
+Because we do not exercise pendent appellate jurisdiction to consider the District Court’s decision that Blue Ridge, as
+an assignee, can state a claim to confirm the Award, we, of course, express no view as to the merits of that conclusion.
+
+15
+
+prima facie case that it is a foreign sovereign .. . , the plaintiff has the burden of going forward with
+evidence showing that, under exceptions to the FSIA, immunity should not be granted, although the
+ultimate burden of persuasion remains with the alleged foreign sovereign.” Id. at 114 (internal
+quotation marks omitted). In other words, the FSIA “establishes a general rule of immunity from
+the jurisdiction of the courts in the United States, except as provided by certain statutory
+exceptions.” Id.; see 28 U.S.C. § 1604. The exceptions to the FSIA’s jurisdictional immunity from
+
+suit are described in 28 U.S.
+
+   
+
+-C. § 1605(a). For the purposes of this appeal, only 28 U.S.C
+
+ 
+
+§ 1605(a)(1) (describing the implied waiver exception) and 28 U.S.C. § 1605(a)(6) (describing the
+arbitral award exception) are relevant.
+i. The Implied Waiver Exception
+The implied waiver exception provides that:
+[a] foreign state shall not be immune from the jurisdiction of courts of the United
+States or of the States in any case . . . in which the foreign state has waived its
+immunity either explicitly or by implication, notwithstanding any withdrawal of the
+waiver which the foreign state may purport to effect except in accordance with the
+
+terms of the waiver... .
+
+28 U.S.C. § 1605(a)(1). Although this exception “must be construed narrowly,” Cabiri . Gov't of
+
+ 
+
+Republic of Ghana, 165 F.3d 193, 201 (2d Cir. 1999), we agree with the District Court, Ble Ridge Invs.,
+
+902 F. Supp. 2d at 374-74, that our decision in Seetransport Wiking Trader Schiffarhtsgesellschaft MBH &
+Co., Kommanditgesellschaft v. Navimpese Centrala Navala, 989 F.2d 572 (2d Cir. 1993), compels the
+conclusion that Argentina waived its sovereign immunity by becoming a party to the ICSID
+
+Convention.”
+
+2” We are mindful that courts, including our own, have unintentionally used certain terms of art of public international
+law interchangeably, but we take this opportunity to recall that, “[u]nder general principles of treaty law, a State’s signing
+of a treaty serves only to authenticate its text; it does not establish the signatory’s consent to be bound. A State only
+becomes bound by—that is, becomes a party to—a treaty when it ratifies the treaty.” Flores v. S. Peru Copper Corp., 414
+F.3d 233, 256 (2d Cir. 2003) (emphasis in original) (internal quotation marks, citation, and alteration marks omitted). As
+a general matter, “[t]he United States becomes a ‘party’ to a treaty—that is, becomes contractually bound to obey its
+terms—only when, upon concurrence of ‘two thirds of the Senators present,’ U.S. Const. art. II, § 2, cl. 2, the President
+
+16
+
+In Seetransport, we held that by becoming a party to the Convention on the Recognition and
+Enforcement of Arbitral Awards (“CFREAA”), a foreign sovereign implicitly waived its immunity
+because the terms of the CFREAA provided, in¢er alia, that “‘[eJach Contracting State shall recognize
+arbitral awards as binding and enforce them in accordance with the rules of procedure of the
+territory where the award is relied upon... .”” 989 F.2d at 578 (quoting 9 U.S.C. § 201). In other
+words, we held that “when a country becomes a [Contracting State] to the [CFREAA], by the very
+provisions of the [CFREAA], the [Contracting] State must have contemplated enforcement actions
+in other [Contracting] States.” Id.
+
+The provisions of the ICSID Convention require us to reach the same conclusion here. As
+the District Court noted, “[p]ursuant to Article 54 of the Convention, [e]ach Contracting State shall
+recognize an award rendered pursuant to th[e] Convention as binding and enforce the pecuniary
+obligations imposed by that award within its territories as if it were a final judgment of a court in
+that State.” Blue Ridge Invs., 902 F. Supp. 2d at 374 (internal quotation marks omitted). In light of
+the enforcement mechanism provided by the ICSID Convention, we agree with the District Court
+that Argentina “must have contemplated enforcement actions in other [Contracting] [S]tates,”
+
+including the United States. See¢ransport, 989 F.2d at 578."
+
+ 
+
+ratifies the treaty.” Id, at 256 n.32 (emphasis supplied). It is only upon ratification that the United States, or any other
+country, becomes bound by a treaty—that is, becomes a “contracting state.”
+
+Argentina has been a party to the ICSID Convention since 1994. The United States has been a party to the
+ICSID Convention since 1966. See List of Contracting States and Other Signatories to the Convention, Int Ctr. for the
+Settlement of Inv. Disputes, available at https:/ /icsid.worldbank.org/ICSID /FrontServlet?requestType=
+ICSIDDocRH&action Val=ContractingStates&ReqFrom=Main.
+
+21 In reaching this conclusion, we note that the only other court in this Circuit to have considered this issue reached the
+same conclusion. See Liberian E, Timber Corp. v. Gov't of Republic of Liberia, 650 F. Supp. 73, 76 (S.D.N.Y. 1986), afd
+without opinion, 854 F.2d 1314 (2d Cir. 1987) (“Libetia, as a [party] to the [ICSID] Convention, waived its sovereign
+immunity in the United States with respect to the enforcement of any arbitration award entered pursuant to the
+Convention.”).
+
+17
+
+ii. The Arbitral Award Exception
+
+In addition to the implied waiver exception, the District Court also correctly concluded that
+Argentina waived its sovereign immunity pursuant to the arbitral award exception. The arbitral
+award exception provides, in relevant part, that
+
+[a] foreign state shall not be immune from the jurisdiction of courts of the United
+
+States or of the States in any case . . . in which the action is brought . . . to confirm
+
+an award made pursuant to . . . an agreement to arbitrate, if . . . the agreement or
+
+award is or may be governed by a treaty or other international agreement in force for
+
+the United States calling for the recognition and enforcement of arbitral awards.
+28 U.S.C. § 1605(a)(6).
+
+To our knowledge, every court to consider whether awards issued pursuant to the ICSID
+Convention fall within the arbitral award exception to the FSIA has concluded that they do. See, e.g,
+Cont'l Cas. Co. v. Argentine Republic, 893 F. Supp. 2d 747, 751 (E.D. Va. 2012) (“Nor, as several courts
+
+have noted, is there any doubt that ICSID arbitral awards fall within th[e] [arbitral award] immunity
+
+exception.”); Funnekotter v. Republic of Zimbabwe, No. 09 Civ. 8168(CM), 2011 WL 666227 at *2
+
+ 
+
+ 
+
+(SDNY. Feb. 10, 2011) (similar); Siag ». Arab Republic of Egypt, No. M-82, 2009 WL 1834562
+(S.D.N.Y. June 19, 2009) (entering a judgment recognizing an ICSID Convention award against
+Egypt). We agree. Indeed, inasmuch as (1) the Award was issued pursuant to the ICSID
+Convention, which is “a treaty or other international agreement in force for the United States calling
+
+for the recognition and enforcement of arbitral awards,” 28 U.S.C. § 1605(a)(6)(B),” and (2) the
+
+United States and Argentina are both parties to the ICSID Convention, see note 20, ante, Argentina’s
+
+2 After the United States became a party to ICSID Convention, Congress passed “implementing legislation,” which
+provided that “a]n award of an arbitral tribunal rendered pursuant to chapter IV of the [ICSID Convention] shall create
+a right arising under a treaty of the United States. The pecuniary obligations imposed by such an award shall be
+enforced and shall be given the same full faith and credit as if the award were a final judgment of a court of general
+jurisdiction of one of the several States.” 22 U.S.C. § 1650a(a).
+
+18
+
+agreement to submit its dispute to arbitration under the ICSID Convention constituted a waiver of
+immunity from suit pursuant to 28 U.S.C. § 1605(a)(6)(B).”
+CONCLUSION
+
+To summarize, we hold that:
+
+(1) We have jurisdiction to consider the District Court’s rejection of Argentina’s
+assertion of foreign sovereign immunity under the collateral order doctrine;
+
+(2) We decline to exercise pendent appellate jurisdiction to consider whether the District
+Court erred in concluding that Blue Ridge, as an assignee, could state a claim to
+confirm the ICSID award because that issue is not “inextricably intertwined” with
+the District Court’s foreign sovereign immunity decision;
+
+(3) The District Court correctly concluded that Argentina waived its foreign sovereign
+immunity pursuant to two separate and independent exceptions to the immunity
+from suit provided by the Foreign Sovereign Immunities Act: (1) the implied waiver
+exception described in 28 U.S.C. § 1605(a)(1), and (2) the arbitral award exception
+described in 28 U.S.C. § 1605(a)(6).
+
+For the reasons stated, the September 30, 2012 order of the District Court is AFFIRMED
+
+insofar as it concluded that Argentina waived its foreign sovereign immunity. The cause is
+
+REMANDED 6o the District Court for further proceedings consistent with this opinion.
+
+2 Of course, in concluding that awards issued pursuant to the ICSID Convention fall within the arbitral award
+exception to the FSIA under 28 U.S.C. § 1605(a)(6), we have no reason to consider the distinct question of whether
+Argentina may assert immunity from the execution of judgment over specific assets. See, ¢.g, NML Capital, Ltd. v. Republic
+of Argentina, 680 F.3d 254, 257 (2d Cir. 2012) (“As a general matter, the property of a foreign state present in the United
+States is immune from execution in satisfaction of a debt. Such property may be attached and executed upon only when
+one of the FSIA’s exceptions applies.” (citing 28 U.S.C. § 1609)).
+
+19
+
+ 
+

@@ -1,0 +1,2835 @@
+INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
+WASHINGTON, DC
+
+MILLICOM INTERNATIONAL OPERATIONS B.V. AND SENTEL GSM SA
+Claimants
+
+Vv.
+
+The Republic of Senegal
+Respondent
+
+(ICSID CASE NO. ARB/08/20)
+
+DECISION
+ON
+JURISDICTION OF THE ARBITRAL TRIBUNAL
+
+Arbitral Tribunal
+Prof. Pierre Tercier, President
+
+Judge Ronny Abraham, Arbitrator
+Prof. Kaj Hobér, Arbitrator
+
+Secretary of the Arbitral Tribunal
+Ms. Aurélia Antonietti
+
+For the Claimants
+
+Mr. Stephen Jagusch
+
+Mr. Mark Levy
+
+Mr. Andrew Battisson
+Mr. Anthony Sinclair
+ALLEN & OVERY LLP
+London, United Kingdom
+
+For the Respondent
+
+Mr. Abdoulaye Dianko
+
+State Judicial Officer
+
+Ministry of Economy and Finances, Republic of
+Senegal
+
+and
+
+Mr. Rémi Sermier, Esq.
+
+BRANDFORD-GRIFFITH & ASSOCIES
+
+Paris, France
+
+and
+
+Mr. Francois Sarr, Esq.
+
+S.C.P. D’ AVOCATS FRANCOIS SARR & ASSOCIES
+Dakar, Republic of Senegal
+
+and
+
+Prof. Thomas Clay
+
+Dean of the Faculty of Law and Political Sciences,
+University of Versailles
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I. The Facts 3
+A. The Parties 3
+B. Summary of the fact: 4
+C. Summary of Arbitration Proceedin 10
+
+Il. THE LAW 16
+A. In general 16
+
+1. The arbitration proceeding and constitution of the Arbitral Tribunal
+2. The submissions of the Parties and the structure of the decision
+2.1. | The submissions of the Parties
+2.2. The subject matter and structure of the decision ...
+B. The jurisdiction of the Arbitral Tribunal in respect of MIO
+1. The issue
+2. The existence of Senegal's consent to the arbitration ........0.0..0.0.0c eee
+2.1. In general
+2.2. The requirement of specific consent
+2.3. Limitation of protection to natural person:
+2.4. Conclusion
+3. The existence of a protected investment ........0..0.0...cc ccc eeeeseeeeseeeeeeneeeeeees
+3.1. In general
+3.2. The existence of an investment
+3.3. The existence of a protected investment
+4. Conclusi
+C. The jurisdiction of the Arbitral Tribunal in respect of sentel.........000 ccc 32
+1. The issue
+2. The existence of valid consent to the arbitration..
+2.1. In general
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.2. The existence Of COMSEML...........ccccccccesestesestesestesesesesesesseseeseseeneseeneseeneneane 34
+
+2.3. The validity of the Consent .........0 cece eee tees eeeeseeeeeeeteteteteneeenenes 4l
+
+2.4. Conclusion 43
+
+3. Sentel as investor 43
+3.1. The issue 43
+
+3.2. The control of Sentel ............ccccccscsceseeseseeseseesesteseseeseseeseseesssneseseesssneseanenees 43
+
+3.3. The Respondent's Consent...........cccceccceessseseseeseeeeesesseeeeeeeneseeeeeeeenenenes 44
+
+3.4 Conclusion 46
+
+D. Costs and expenses 47
+E. The continuation of the proceeding... cece ceeeeee eee eeeeeeeeneneeeeeeeeneeees 48
+
+I. The Facts
+
+The following presentation of the facts is intentionally summary in nature due, in
+particular, to the subject matter of the decision, which does not address the merits of the
+dispute. To the extent necessary certain material factual issues shall be discussed in
+greater detail in the Part “In Law”.!
+
+A. THE PARTIES
+
+The first claimant, MILLICOM INTERNATIONAL OPERATIONS B.V. (hereinafter
+referred to as “Millicom”, or “Claimant 1”, or alternatively “MIO”), is a limited
+liability company with authorized capital of 100 shares of 1,000 NLG each, of
+which only 40 have been issued and paid up, organized and existing under Dutch
+law. It has its registered address at Sockholm 26, 1993 LM Barendrect, the
+Netherlands (Claim. 22.12.08, exhibit C-26).
+
+The second Claimant, Sentel GSM (hereinafter referred to as “Sentel”, or
+“Claimant 2”) is a limited company with a share capital of 60,000,000 CFAF,
+organized and existing under Senegalese law (Claim. 11.11.08, no. 11; Claim.
+12.02.10, exhibit C-50). It has operated a mobile telephony network in Senegal
+(“Tigo”) since 1999 (Claim. 14.12.09, no. 6).
+
+Both Millicom and Sentel are part of the Millicom International Cellular S.A.
+Group (hereinafter referred to as “MIC”), a company established under
+Luxembourg law in 1990. It arose from the merger between Millicom, an
+American company, and Industrif6rvaltnings AB Kinnevik, a Swedish company,
+both active in the mobile telephone sector (Claim.14.12.09, exhibit C-42). MIC is
+not a party to these arbitration proceedings.
+
+The following abbreviations are used concerning the submissions and exhibits:
+
+Claim. 11.11.08:
+Claim. 22.12.08:
+
+Claim. 24.08.09:
+Resp. 05.10.09:
+
+Resp. 29.10.09:
+Decision 09.12.09:
+
+ 
+
+Claim. 14.12.09:
+Resp. 15.01.10:
+
+Claim. 12.02.10:
+Exhibit C-:
+Exhibit R-:
+Exhibit CL-:
+
+Transcript 09.11.09:
+Transcript 01.04.10:
+
+Claimants’ “Request for Arbitration” of 11 November 2008
+
+Claimants’ “Response to ICSID’s letter dated 26 November 2008 and
+Clifford Chance’s letter dated 5 December 2008” of 22 December 2008
+Claimants’ “Provisional Measures Application” of 24 August 2009
+Respondent’s “Mémoire en réponse a la demande de mesures
+conservatoires” of 5 October 2009
+
+Respondent’s “Mémoire sur l’incompétence” of 29 October 2009
+Decision of the Arbitral Tribunal on the Application for
+
+provisional measures of 9 December 2009
+
+Claimants’ “Counter-memorial on jurisdiction” of 14 | December 2009
+Respondent's “Mémoire en réplique sur l’incompétence” of 15 January
+2010
+
+Claimant’s “Rejoinder on jurisdiction” of 12 February 2010
+
+Exhibits produced by the Claimants
+
+Exhibits produced by the Respondent
+
+Legal authorities produced by the Claimants
+
+Minutes of the fi ssion of 9 November 2009
+
+Minutes of the hearing of 1 April 2010
+
+3
+
+ 
+
+  
+
+ 
+
+ 
+ 
+
+ 
+
+MIC is a global telecommunications company. Via its subsidiaries it provides
+telecommunication services in sixteen countries, in Asia, Latin America and
+Africa (Claim. 11.11.08, no. 12). Millicom (Claimant 1) is a wholly-owned
+subsidiary of MIC, and Sentel (Claimant 2) is a wholly-owned (less one share)
+subsidiary of Claimant | (see no. 83 below).
+
+Claimant 1 and Claimant 2 are jointly referred to as the “Claimants” in this
+decision.
+
+The Respondent is the Republic of Senegal (hereinafter referred to as “Senegal”,
+“the Republic” or the “Respondent’”).
+
+B. SUMMARY OF THE FACTS
+
+On 9 March 1998, the Republic of Senegal launched a call for tenders for
+“lautorisation d'établissement et d'exploitation de systeémes mobiles terrestres
+cellulaires numériques de télécommunications sur le territoire national” (Claim.
+14.12.09, exhibit C-34). Terms and Conditions were drawn up at this time
+(“Cahier de Charges relatif a l'établissement d'un réseau de téléphonie publique
+terrestre sur le territoire national”, Claim. 14.12.09, exhibit C-43).
+
+ 
+
+In the month of April 1998, a consortium named “Sentel gsm” tendered a bid
+entitled “Proposition pour un réseau de Télécommunications” (Claim. 14 12.09,
+exhibit C-42). The Consortium tendering the bid was comprised of MIC to which,
+in particular, the Kinnevik Group belongs (“Résumé administratif’, p. 4, exhibit
+C-42), and Groupe Soserca/C.F.I. Soserca S.A. is a 100 percent Senegalese
+insurance company formed in 1978, whereas C.F.I. is a real estate company
+founded in 1926. Mr. Pape Abdoul Ba is the Chairman and Managing Director of
+Groupe Soserca/C.F.I. (Claim.14.12.09, exhibit C-42, “Résumé administratif’, ch.
+2, p. 6).
+
+On 18 June 1998, the Minister of Telecommunications informed the
+representatives of MIC that their bid had been provisionally accepted (letter of
+18.6.98, Claim. 14.12.09, exhibit C-44). Negotiations were carried out in June and
+July 1998. They lasted approximately three weeks (Mr. Rosh Statement, p. 5) and
+were carried out based on a draft prepared by the Respondent (‘Projet de
+Concession entre l'Etat du Sénégal et la Société pour l'exploitation d'un réseau
+public de radiotéléphonie mobile cellulaire numérique GSM au Sénégal”
+hereinafter the “Draft”, Claim. 14.12.09, exhibit C-41).
+
+On 3 July 1998, the Republic of Senegal granted Sentel a concession for its
+mobile telephony services entitled: “Convention de concession entre l|’Etat du
+Sénégal et la Société Sentel GSM S.A. pour l’exploitation d’un réseau public de
+radiotéléphonie mobile cellulaire numérique GSM au Sénégal” (hereinafter the
+“Concession”; Claim. 11.11.08, exhibit C-2).
+
+11.
+
+The Concession was concluded “entre le Gouvernement de la République du
+Sénégal et la sociéte Sentel GSM S.A., filiale du Groupe Millicom International
+Cellular (MIC), élisant domicile au Sénégal [...)” (Resp. 05.10.09, no. 8). It was
+signed for the Concessionaire by Mr. Youval Rosh, the Managing Director of
+Sentel GSM, and by Mr. Peter Macnee for the Chairman of Millicom International
+Cellular. It should be noted that at the time of signing the Sentel limited company
+had not yet been formally created but that the Concession had already been
+entered into in its name.
+
+This Concession was concluded under the Senegalese Telecommunications Code
+of 1996, which was in force at the time (Resp. 05.10.09, no. 8). It granted Sentel
+the right to operate a (first) mobile telephony network in Senegal. Sentel
+undertook to abide by the terms and conditions of operation (Article 2) and to pay
+a part of the licence fee to the Respondent (Article 9).
+
+The term of the Concession was set at twenty years, beginning as of the
+publication of the Decree approving it (Article 1). As “Décret no. 98-719 portant
+approbation de la Concession entre l'Etat du Sénégal et la société Sentel” was
+published on 2 September 1998 (Claim. 11.11.08, no. 18, exhibit C-6), the
+Concession was intended to lapse on 2 September 2018.
+
+On 30 July 1998, “Sentel GSM” was created in Dakar (Resp. 15.01.10, exhibit R-
+32; Claim. 22.12.08, C-26) and was registered the following day (Claim. 22.12.08,
+exhibit C-23). Its share capital is 60,000,000 CFAF, divided into 6,000 shares of
+10,000 CFAF each. Its shareholders were the following (Resp. 15.01.10, exhibit
+R-32; Claim. 22.12.08, exhibits C-26 and C-23; Claim. 12.02.10, exhibit C-50):
+- “Tucan Corporation NV”, a company domiciled in the Netherlands
+Antilles, represented by Mr. Youval Rosh, which thereafter became
+“Millicom Senegal NV” (4,498 shares),
+- Mr. Peter Macnee (one share),
+- Mr. Mark Lewis (one share), and
+- Mr. Pape Abdoul Ba (1,500 shares).
+
+The shareholding of the company and its subsequent changes shall be described in
+detail and discussed further on (see no. 83 below).
+
+Since 1999, Sentel operated the Concession and has provided mobile telephone
+services to the Senegalese population under the “Tigo” brand (Claim. 11.11.08,
+no. 19).
+
+On 17 July 2000, Sentel was given a formal warning by the Respondent for
+serious breaches of the Concession (Resp. 05.10.09, exhibit R-6). The document
+accused Sentel of having failed to pay the licence fee due on 1 January 2000; of
+being responsible for blatant violations of its obligation to provide technical,
+administrative and financial information; and of failing to respect the schedule for
+the radio electric coverage of the National Territory (Resp. 05.10.09, exhibit R-6).
+According to the Respondent, Sentel was given one month to respond to the
+allegations made against it (Resp. 05.10.09, no. 13).
+
+12.
+
+On 29 September 2000, Mr. Bernard Sambou, bailiff, acting for the Respondent,
+visited the premises of Sentel to serve notice that, in accordance with Article 7.4
+of the Concession, the Concession was being formally terminated, since Sentel
+had failed to comply within the period allotted to it in the formal warning and had
+failed to remedy the defects of which is was accused (Resp. 05.10.09, nos. 14 and
+15).
+
+On 19 October 2000, Sentel informed the Judicial Officer of Senegal via Mr.
+Aloyse Ndong, bailiff that it was formally contesting the reasons set out in the
+notice served on 29 September 2000 (Resp. 05.10.09, no. 16; exhibit R-8).
+
+On 17 January 2001, the Respondent passed “Décret no. 2001-23 mettant fin a la
+convention de concession entre l'Etat du Sénégal et la sociéte SENTEL GSM S.A.”
+(Resp. 05.10.09, exhibit R-3), intended to be the final stage in the proceedings
+terminating the Concession (Resp. 05.10.09, no. 17). This text was not however
+published at the time in the Official Journal. According to the Respondent, it was
+nonetheless announced in the press (Transcript 09.11.09, p. 26). According to the
+Claimants, this Decree was merely a draft which was never promulgated (Claim.
+11.11.08, no. 20).
+
+On 13 March 2001, the Managing Director of Sentel filed an administrative
+appeal (“‘recours gracieux’”) with the President of the Republic of Senegal against
+Decree no. 2001-23 of 17 January 2001. He contested therein the reasons for
+termination and emphasized that Sentel had respected all the terms and conditions
+of use of the Concession (Resp. 05.10.09, no. 21; exhibit R-11). On 15 March
+2001, the Managing Director of Sentel sent to the Judicial Officer of Senegal a
+“preliminary application”, the contents of which were identical to the contents of
+the filing submitted to the President of the Republic of Senegal (Resp. 05.10.09,
+no. 22; exhibit R12).
+
+According to the Respondent, neither of these letters received any response from
+the authorities to whom they were addressed. According to the Respondent, who
+is relying on Article 729 of the Senegalese Code of Civil Procedure, the silence
+kept for over four months by the authorities is equivalent to a decision of
+dismissal (Resp. 05.10.09, no. 23; exhibit R-21).
+
+Also according to the Respondent, Sentel allegedly accepted the end of the
+Concession, since it was fully aware of Decree no. 2001-23 (“Décret n° 2001-
+23”) and had failed to bring any court proceedings (“recours contentieux”) in
+respect of that Decree. This situation is alleged to have become definitive on 17
+August 2001 (Resp. 05.10.09, no. 25).
+
+On 27 December 2001, the new Senegalese Telecommunications Code came into
+force (Claim. 11.11.08, no. 22; Resp. 05.10.09, exhibit R-4). Its transitional
+provisions include inter alia the following:
+
+“Les titulaires de concession d’établissement et d’exploitation de réseaux
+de télécommunications ouverts au public et de fourniture de services de
+télécommunications en place a la date d’entrée en vigueur du présent Code,
+
+bénéficient de plein droit de l'exploitation des réseaux et services de
+télécommunication qui leur ont été concédés.
+
+Ils bénéficient, en outre, des droits d'utilisation des fréquences
+radioélectriques relatives a exploitation de leurs réseaux et services visés ci-
+dessus. Cependant, ils sont soumis aux nouvelles conditions relatives aux licences
+notamment au paiement de contre partie financiére, de redevances et de
+contributions prévues dans les cahiers de charge prévues par le présent Code.
+Toutefois, pour les besoins de la mise en euvre du présent Code, l'ART [Agence
+de Régulation des Télécommunications] peut procéder a des modifications des
+assignations de fréquences existantes.
+
+Dans un délai de six mois, un cahier des charges, approuvé par
+décret, fixera les nouvelles conditions dans lesquelles les services de
+télécommunications seront rendus.” (Article 76).
+
+On 9 August 2002, Senegal and MIC concluded an agreement (Resp. 05.10.09,
+no. 26), the content of which is as follows:
+
+“Le Groupe Millicom International adhére a la politique de l’Etat du
+Sénégal relative a la modernisation et la régulation du secteur des
+télécommunications du Sénégal et traduite récemment par la promulgation d’une
+nouvelle loi sur les télécommunications, la naissance d’une Agence de Régulation
+des Télécommunications et l’annonce de larrivée prochaine d’un nouvel
+opérateur.
+
+Ainsi, soucieuse de se conformer a ce nouveau processus, le Groupe
+Millicom International accompagné de sa filiale Sentel a informé l’Etat du
+Sénégal de sa volonté de négocier de bonne foi les nouvelles conditions
+mutuellement acceptables devant régir ses opérations au Sénégal.
+
+A la suite de cet engagement, le groupe Millicom International, a travers
+sa filiale Sentel continuera d’opérer en toute légalité sous le cadre juridique de la
+Convention de 1998.”
+
+This agreement, with respect to the scope of which the Parties have differing
+opinions, was signed by Mr. Abdoulaye Balde for Senegal and by Mr. David
+Kimche for MIC (Claim. 11.11.08, no. 22; Resp. 05.10.09, no. 28; exhibits C-9;
+exhibit R-13).
+
+Throughout this period and despite the documents that were served to it, Sentel
+has continued to operate the Concession, developing its service and extending its
+subscriber base (Resp. 05.10.09, nos. 51 et seq.; Transcript 01.04.10, French
+version, p. 25, English version, p. 56; Claim. 12.02.10, exhibit C-48, p. 2). Sentel
+claims that it also regularly paid Senegal a part of the licence fee in connection
+with the subscriptions it received during this period, in accordance with the
+Concession.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+On 28 February 2008, a “credit facility agreement” was entered into between MIO
+and Sentel. The lender (MIO) granted a loan to Sentel in the amount of US$
+19,115,250 (Claim. 12.02.10, exhibit C-48).
+
+On 24 September 2008, the Respondent wrote to MIC inviting it to submit a
+tender for a second licence, informing it that a reasonable tender would be around
+two hundred million USD (Claim. 11.11.08, exhibit C-13). This amount
+corresponded to the amount that “Sudan Telecom Company Ltd. (Sudatel)” had
+accepted to pay, when the latter obtained a full licence in the autumn of 2007
+(Decree no. 2007-1333 of 7 November 2007, Resp. 05.10.09, exhibit R-15).
+Correspondence was subsequently exchanged (Claim. 11.11.08, exhibit C-14 and
+Resp. 05.10.09, exhibit R-16).
+
+On 10 October 2008, Sentel submitted a tender stipulating the payment of twenty-
+one million USD, in preparation for the improvement of the network covered by
+the Concession (Claim. 11.11.08, exhibit C-7).
+
+The Respondent informed MIC by letter dated 22 October 2008 that it rejected
+this offer (Claim. 11.11.08, no. 29). It added: “[...] le Gouvernement a décidé de
+mettre fin a cette situation provisoire. Aussi je vous informe que, faute par vous de
+vous ressaisir et de nous proposer un montant de contrepartie financiére tenant
+compte du prix plancher que représente le versement effectué par Sudatel pour
+une 3éme licence, la publication du décret n° 2001-23 du 17 janvier 2001, dont
+vous trouverez ci-joint une copie, interviendra au Journal Officiel de la
+République du Sénégal, le vendredi 31 octobre 2008.” (Claim. 11.11.08, exhibit
+C-15). Another exchange of correspondence took place following this (Claim.
+11.11.08, exhibits C-19 and C-20 and Resp. 05.10.09, exhibit R-17).
+
+ 
+
+On 3 November 2008, Decree no. 2001-23 terminating the Concession (see no. 14
+above) was published in the Official Journal (Resp. 05.10.09, exhibit R-3).
+
+That same day, the Respondent issued a press release stating that it had brought
+legal proceedings before the Dakar Regional Court requesting it to ascertain the
+termination of Sentel’s licence (Claim. 11.11.08, exhibit C-17).
+
+On 11 November 2008, the Respondent brought proceedings against Sentel and
+MIC (which is not a party to these proceedings) before the Dakar Regional Court
+(Claim. 24.08.09, exhibit C-31A). It requested the Court on the one hand to order
+Sentel to cease and desist its illegal activity immediately and on the other hand to
+compel Sentel and MIC to pay damages for the harm that the two companies had
+caused the State, on the grounds that they allegedly used false promises to ensure
+that Senegal allowed Sentel to continue operating under a provisional framework
+since 2000 (Resp. 05.10.09, nos. 59 and 60).
+
+It must be noted that on the same day, Millicom International Operations (MIO)
+and Sentel, the two Claimants, instituted these arbitration proceedings before
+ICSID (see no. 26 below).
+
+Hence, Claimant 1 (MIO) is not a party to the proceedings before the Dakar
+Regional Court whereas MIC, which is a party to the proceedings before the
+Dakar Regional Court, is not party to these arbitration proceedings.
+
+8
+
+24. The proceedings before the Dakar Regional Court continued as follows in parallel
+to this proceeding:
+
+- On 28 January 2009, MIC and Sentel submitted their requests for relief to
+the Dakar Regional Court (Claim. 24.08.09, exhibit C-31B). They confined
+themselves to contesting the Court’s jurisdiction, and did not submit any
+arguments on the merits of the case. According to them, Article 11 of the
+Concession grants exclusive jurisdiction to international arbitration
+institutions, such as the OHADA Apbitration Court, ICSID or the ICC in
+Paris (Claim. 24.08.09, exhibit C-31B, p. 6).
+
+- On 10 February 2009, the Republic of Senegal submitted its response
+(Claim. 24.08.09, exhibit C-31C). With regard to jurisdiction, the
+Respondent replied to the objections of MIC and Sentel by alleging that
+Article 11 of the Concession would not contain an arbitration clause, and
+that, if it did, the clause would not be valid, and that in any event it would
+fall to the Court before which proceedings were brought to rule on its own
+jurisdiction.
+
+- On 11 March 2009, MIC and Sentel submitted their reply, in which they
+confined themselves to confirming their jurisdictional objection to the
+Dakar Regional Court, without making any submissions as to the merits
+(Claim. 24.08.09, exhibit C-31D).
+
+- On 7 April 2009, the Republic of Senegal filed its summary submissions in
+its reply (Claim. 24.08.09, exhibit C-31E). It maintained its previous
+submissions with respect to the issue of jurisdiction of the Dakar Regional
+Court.
+
+- On 13 May 2009, MIC and Sentel filed their summary submissions in their
+rejoinder (Claim. 24.08.09, exhibit C-31F). They once again raised the lack
+of jurisdiction of the Dakar Regional Court in favor of ICSID.
+
+- On 27 May 2009, the Republic of Senegal made additional submissions
+with respect to the jurisdictional objection (Claim. 24.08.09, exhibit C-
+31G). It concluded that the Dakar Regional Court has jurisdiction.
+
+- On 24 June 2009, MIC and Sentel indicated that they did not intend to reply
+to the Republic of Senegal's latest submissions on the grounds that they
+were merely a repetition of previous submissions. They stated that they
+were upholding all of their requests, allegations and claims as they had been
+set out in their previous written submissions (Claim. 24.08.09, exhibit C-
+31H).
+
+- On 22 July 2009, the Dakar Regional Court, according to the statements of
+the Respondent, is alleged to have closed the proceedings (Transcript
+09.11.09, French version, pp. 48 and 49, English version, p. 134).
+
+25.
+
+26.
+
+The Dakar Regional Court had set a hearing for 23 September 2009. Under the
+tules of the Senegalese Code of Civil Procedure, during this hearing the parties
+would have been informed that the judgment was being deliberated, which meant
+that the Court could issue its decision on any date to be communicated to the
+parties. Following the joint interventions of the two Parties to this proceeding,
+recommended by this Arbitral Tribunal during the first session held on 7
+September 2009 (see below no. 31), the Dakar Regional Court accepted to
+postpone the hearing until 23 December 2009.
+
+Two successive postponements were thereafter accepted under the same
+conditions (see nos. 40 and 45 below):
+
+- one on 23 December 2009, postponed to 26 May 2010 (e-mail from Mr.
+Sermier, dated 23 December 2009),
+
+- the other on 23 May 2010, postponed to 28 July 2010 (letter from Mr.
+Sermier, dated 28 May 2010).
+
+Notwithstanding the letters sent to it and the proceedings that were brought, Sentel
+continues to operate the Concession.
+
+C. | SUMMARY OF ARBITRATION PROCEEDINGS
+
+On 11 November 2008, the date on which the Respondent brought proceedings
+before the Dakar Regional Court (see no. 23 above), the Claimants jointly
+submitted a “Request for Arbitration” (hereinafter the “Request for
+Arbitration”) to the Secretariat of the International Centre for Settlement of
+Investment Disputes (hereinafter referred to as the “Secretariat’’).
+
+In that Request they made the following requests for relief:
+
+“The Claimants request the following relief:
+(i) a declaration that the Respondent has violated Articles 3, 4 and 8
+of the Treaty;
+
+(ii) a declaration that the Respondent has violated the Licence, as well
+as applicable rules of Senegalese and international law;
+
+(iii) an order that the Respondent make full reparation to the Claimants
+for the injury or loss to their investment arising out of the
+Respondent’s violation of any of the Treaty, the Licence, and
+applicable rules of Senegalese and international law, such full
+reparation being in the form of damages or compensation paid to
+the Claimants in an amount to be determined, including interest
+thereon;
+
+(iv) compensation for the moral damages done to the Claimants, in an
+amount to be determined by the Arbitral Tribunal;
+
+(v) an order that the Respondent pay the costs of these arbitration
+proceedings including the costs of the arbitrators and ICSID, as
+
+10
+
+27.
+
+28.
+
+29.
+
+well as the legal and other expenses incurred by the Claimants
+including but not limited to the fees of their legal counsel, experts
+and consultants as well as the Claimants’ own employees, on a full
+indemnity basis, plus interest thereon at a reasonable commercial
+rate; and
+
+(vi) any other relief the Arbitral Tribunal may deem appropriate in the
+circumstances. “
+
+They based their claims,
+
+- with regard to Claimant 1, on Article 10 of the “Accord relatif a
+l'encouragement et la protection des investissements entre le Royaume
+des Pay-Bas et la République du Sénégal du 3 aoit 1979” (hereinafter
+the “Accord’), and
+
+- with regard to Claimant 2, on Article 11 of the Concession,
+
+- moreover, with regard to both Claimants, on the “Convention (of
+Washington) of 18 March 1965 on the Settlement of Investment
+Disputes between States and Nationals of Other States” (hereinafter
+the “ICSID Convention” or the “Washington Convention’).
+
+On 26 November 2008, the Secretariat invited the Claimants to provide additional
+information about Sentel’s incorporation in Senegal, Sentel’s representation,
+Millicom’s ownership of Sentel, Millicom’s status as a “national” in connection
+with the Accord and the consent of Senegal to submit this dispute to the
+jurisdiction of the Centre.
+
+On 5 December 2008, the Respondent invited the Secretariat to refuse to register
+the Request for Arbitration in the ICSID Arbitration Register on the grounds that
+the Centre lacked jurisdiction. On 19 December 2008, the Claimants replied to the
+queries from the Secretariat in a document entitled “Observations on the
+jurisdiction of the Centre”. On_31 December 2008, the Secretariat registered the
+Request for Arbitration.
+
+ 
+
+On 14 January 2009, the Claimants proposed a method for constituting the
+Arbitral Tribunal. Following an exchange of correspondence dated 19 January, 23
+February, 26 February and 2 March 2009, the Parties agreed to constitute a
+tribunal of three members, the Respondent and the Claimants each appointing an
+arbitrator, and the two arbitrators thereby appointed, nominating a president. On 1
+April 2009, the Claimants appointed Professor Kaj Hobér as an arbitrator, who
+accepted his appointment. On 7 April 2009, the Respondent appointed Judge
+Ronny Abraham as an arbitrator, who accepted his appointment. On 5 June 2009,
+the two co-arbitrators appointed Professor Pierre Tercier as president of the
+Arbitral Tribunal, who accepted his appointment. On 12 June 2009, the Arbitral
+Tribunal was constituted and this proceeding was deemed to have begun.
+
+On 24 August 2009, the Claimants sent the Arbitral Tribunal an application for
+provisional measures (“Provisional Measures Application”), in which they
+requested the Arbitral Tribunal in particular to prohibit the Respondent from
+continuing the proceeding brought before the Dakar Regional Court, and in the
+
+30.
+
+31.
+
+32.
+
+alternative, to invite the Respondent to stay such proceedings during the present
+proceedings.
+
+On 27 August 2009, the Arbitral Tribunal held a telephone conference with the
+Parties to discuss the Provisional Measures Application submitted by the
+Claimants and the agenda for the first session that it intended to hold. On 28
+August 2009, following a telephone conference between the members of the
+Arbitral Tribunal, the President invited the Respondent to apply to the Dakar
+Regional Court to postpone the hearing scheduled for 23 September 2009 (see
+above no. 24). On 1 September 2009, the Respondent informed the Arbitral
+Tribunal by letter that the Application submitted by the Claimants was the
+Claimants’ latest tactic to gain time, but that it would not be opposed to
+postponing the hearing.
+
+On 7 September 2009, the Arbitral Tribunal held its first session with the Parties,
+in Paris. It discussed various procedural issues with them, stating that it would
+settle them in its first procedural order (see Minutes of the session, p. 14).
+
+  
+
+With respect to the Provisional Measures Application, the Arbitral Tribunal
+acknowledged that the Respondent was not opposed to a joint letter being drafted
+with the Claimants in order to apply to have the hearing scheduled for 23
+September 2009 postponed. The Parties furthermore agreed that whichever of
+them would subsequently win would not execute any decision by the Dakar
+Regional Court (see Minutes of the first session, p. 15). That_same day, the
+Respondent confirmed by letter the undertaking it had made. Following the
+intervention of the Parties, the hearing scheduled for 23 September 2009 was in
+fact postponed (see no. 24 above).
+
+On 14 September 2009, the Arbitral Tribunal issued its Procedural Order no. 1,
+in which it ruled as follows:
+
+«J,
+In principle, hearings of the Tribunal will take place in Paris, unless the
+Parties agree on another venue and inform the Arbitral Tribunal in a
+timely fashion.
+
+2.
+The proceeding will be conducted simultaneously in French and in
+English. All documents from the Arbitral Tribunal or the Centre will be
+written in both languages and all hearings will be subject to simultaneous
+interpretation.
+Each Party is entitled to write its submissions (with annexes) and its
+correspondence in the language of its choice without having to provide a
+translation into the other language;
+The Arbitral Tribunal will decide at a later stage and in accordance with its
+assessment on the allocation of costs generated by this decision.
+
+The Parties are invited to file a first round of written submissions limited
+to objections to jurisdiction;
+
+33.
+
+34,
+
+35.
+
+36.
+
+37.
+
+The Respondent is invited to submit its memorial on jurisdiction by
+October 29, 2009, at the latest;
+
+The Claimants are invited to file their counter-memorial within forty-five
+days upon receipt of the first submission, or by December 14, 2009, at the
+latest;
+
+Upon receipt of the counter-memorial, the Arbitral Tribunal will decide if
+it continues to address this issue as a preliminary matter or if it intends to
+address the case altogether;
+
+In either case, the Arbitral Tribunal will fix a timetable after consultation with
+the Parties.
+
+4.
+The Parties' undertakings with regard to the proceeding pending before the
+Court in Dakar are noted
+
+The Respondent has until October 5, 2009, to respond to the request for
+provisional measures;
+
+If they so wish, the Claimants may file their comments on this response
+within ten days upon receipt of the response;
+
+If it so wishes, the Respondent may file its observations on these comments
+within ten days upon their receipt;
+
+A hearing will take place in Paris on November 9, 2009, to hear the
+Parties’ oral arguments on this issue.”
+
+On 5 October 2009, the Respondent submitted its “Mémoire en réponse sur la
+demande de measures conservatoires”. It concluded, in particular “a ce qu'il
+plaise au Tribunal arbitral rejeter dans son intégralité la demande de mesures
+conservatoires présentée par MIO et Sentel.”
+
+On 29 October 2009, the Respondent submitted its “Mémoire sur
+l'incompétence” (see no. 52 below in respect of the requests for relief).
+
+ 
+
+On 9 November 2009, the Arbitral Tribunal held a hearing on the provisional
+measures in Paris with the Parties (see Transcript 09.11.09). The representatives
+of the Parties were given the opportunity to submit their arguments orally and to
+respond to questions from the Arbitral Tribunal. Following this hearing, the
+representatives of the two Parties stated that they did not wish to make any new
+applications with regard to this stage of the proceedings.
+
+On 7 December 2009, the Arbitral Tribunal rendered its Procedural Order no. 2
+in which the text of the corrected transcript from the hearing held on 9 November
+2009 was approved (Transcript 09.11.09), based on the proposals made and
+positions taken by the Parties concerning the draft that had been submitted to
+them.
+
+ 
+
+On 9 December 2009, the Arbitral Tribunal rendered its “Decision on the
+Application for provisional measures submitted by the Claimants on 24
+August 2009” in which it was recommended:
+
+ 
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+“I. The Respondent is invited to send jointly with Claimant 2, an application to
+the Dakar Regional Court to have the pending proceedings in Senegal
+suspended.
+
+2. This measure shall be valid until the decision of this Arbitral Tribunal is
+taken concerning its own jurisdiction.
+
+3. In modification to the Order it issued on 14 September 2009, the Arbitral
+Tribunal decides that it will rule in priority on the objections to jurisdiction
+raised by Respondent; the timetable for this stage of the proceedings will be
+communicated to the Parties in an Order that will be sent to them once this
+decision has been notified, on the basis of the timetable envisaged during the
+hearing of 9 November 2009.
+
+w
+
+The other applications will, if necessary, be examined later, upon the express
+request of the Claimants.
+
+5. The Tribunal reserves its ruling on the costs of the proceedings.”
+
+On_14 December 2009, the Arbitral Tribunal rendered its Procedural Order no.
+3, in which it decided:
+
+“I. As agreed at the first session, the Claimants will file their counter-memorial
+on jurisdiction by December 14, 2009.
+
+2. The Respondent will file its reply on jurisdiction by January 15, 2010.
+3. The Claimants will file their rejoinder on jurisdiction by February 12, 2010.
+
+4. A conference call will be held with the President of the Tribunal at a date to
+be determined to discuss with the Parties the organization of the forthcoming
+hearing.
+
+5. A hearing will take place in Paris on March 31 and/or April I, 2010, it being
+specified that if the hearing lasts only one day, it will be held on April 1,
+2010.”
+
+On 14 December 2009, the Claimants submitted their “Counter-memorial on
+jurisdiction” (see no. 52 in respect of the requests for relief).
+
+On 23 December 2009, the Respondent's counsel informed the Arbitral Tribunal
+that the Dakar Regional Court upheld the Respondent's request and postponed the
+matter to 26 May 2010.
+
+On 15 January 2010, the Respondent submitted its “Mémoire en réplique sur
+Vincompétence” (see no. 52 below in respect of the requests for relief).
+
+On 12 February 2010, the Claimants submitted their “Rejoinder on jurisdiction”
+(see no. 52 below in respect of the requests for relief).
+
+43.
+
+44.
+
+45.
+
+On 1 April 2010, the Arbitral Tribunal held the principal hearing on questions
+of jurisdiction in Paris with the Parties. No witnesses were heard (see no. 49
+below). The Parties’ counsel were given the opportunity to present oral arguments.
+Following such hearing the Parties stated that they had no other applications to
+make concerning this phase of the proceeding (Transcript 01.04.10, French
+version, p. 58, English version, p. 140).
+
+On 19 April 2010, the President of the Arbitral Tribunal invited the Parties’
+counsel to formulate their submissions concerning the costs of the proceeding for
+the case where it lacks jurisdiction. The Claimants did so in a letter dated 30
+April; the Respondent in a letter dated 30 April 2010. On 7 May 2010 Claimants’
+counsel formulated objections to the list submitted by the Respondent.
+
+On 11 May 2010, the Arbitral Tribunal requested the Respondent to request
+postponement of the hearing scheduled for 26 May 2010 before the Dakar
+Regional Court, in order to allow it sufficient time to render (in two languages) its
+decision on jurisdiction. The Respondent again accepted such request and
+informed the Arbitral Tribunal that the hearing of the Dakar Regional Court was
+scheduled for 28 July 2010 (letter of 28 May 2010 from Mr. Sermier; see no 24
+above).
+
+46.
+
+47.
+
+48.
+
+49.
+
+Il. THE LAW
+
+A. — INGENERAL
+
+The arbitration proceeding and constitution of the Arbitral Tribunal
+
+The Claimants submitted their Request for Arbitration on 11 November 2008 (see
+no. 26 below). This Request was registered by the Secretariat of ICSID on 31
+December 2008 following receipt of additional information requested to the
+Claimants (see no. 27 above).
+
+The Arbitral Tribunal was constituted on 12 June 2009 (see no. 28 above). Neither
+Party has raised any objections in this regard.
+
+The proceedings have been conducted in accordance with the ICSID Rules.
+
+In its Procedural Order no. 3 (see no. 38 above), the Arbitral Tribunal decided to
+tule specially and firstly on the issues involving its own jurisdiction. Accordingly,
+in this phase of the proceeding the Arbitral Tribunal shall rule on such issues only,
+deferring examination of the issues on the merits to a subsequent date in the event
+that it were to find it had jurisdiction.
+
+As stated earlier (see no. 37 above), the Arbitral Tribunal already ruled on an
+application by the Claimants for provisional measures. The Parties had ample
+opportunity, both at that phase as well as the present phase, to make written and
+oral arguments.
+
+The Claimants produced the testimony of six witnesses with their written
+submissions:
+— Mr. Pape Abdoul Ba, the founder of SOSERCA (“Attestation” of
+10 December 2009; “Seconde Attestation” of 12 February 2010),
+
+— Mr. Youval Rosh, Senior Managing Director of Sentel from June 1998 to
+the year 2000 (“‘Attestation” of 9 December 2009; “Seconde Attestation” of
+12 February 2010),
+
+— Mr. Kemal Shefik, who worked for Netcom, a MIC group company, and
+who took part in preparing Sentel's tender (“Witness Statement” of
+9 December 2009),
+
+— Mr. Marc Beuls, CEO of MIC from 1 January 1998 to 1 March 2009, and a
+member of Sentel's board of directors from 2002 to 2003 (“Witness
+Statement” of 12 February 2010),
+
+Mr. Kevin Koch, “General Manager” of Sentel since April 2008 (“Witness
+Statement” of 12 February 2010), and
+
+Mr. Lars Svenningsson, “Corporate Secretary” of MIC since July 2007
+(“Witness Statement” of 12 February 2010).
+
+50.
+
+Sl.
+
+21.
+
+52.
+
+The Respondent waived producing witness statements. It also expressly waived
+cross-examination of the Claimants' witnesses who had submitted written witness
+statements.
+
+Following the hearing held on 1 April 2010 the Parties expressly confirmed that
+they had no objections with respect to the proceedings up until then (Transcript
+01.04.10, French version, p. 58, English version, p. 140).
+
+In accordance with the decision of the Arbitral Tribunal in its Procedural Order
+no. 1 (see no. 32 above), the entire proceeding was conducted simultaneously in
+French and English. Furthermore, this decision was drafted in one of the
+languages and then translated into the other; consequently, both versions shall be
+deemed authentic.”
+
+The submissions of the Parties and the structure of the decision
+
+The submissions of the Parties
+
+In their final versions, the Parties make the following requests for relief (the
+numbers in brackets have been added by the Arbitral Tribunal in order to facilitate
+the references thereto):
+
+For the Respondent (Resp. 15.01.10, no. 393):
+
+“Pour les raisons développées dans son déclinatoire de compétence et dans le
+présent mémoire, la République du Sénégal demande au Tribunal arbitral de :
+
+a. [Resp. 1] Se déclarer incompétent pour examiner la demande de
+Sentel et la demande de MIO ;
+
+b. [Resp. 2] Condamner ces deux sociétés a payer a la République du
+Sénégal les frais de l’arbitrage ainsi que les frais engagés pour
+
+assurer sa défense.”
+For the Claimants (Claim. 14.12.09, no. 422):
+“For the foregoing reasons, the Claimants request the following relief:
+
+(i) [Claim. 1] a declaration that the Tribunal has jurisdiction and is
+competent to decide the claims before it brought by Sentel ;
+
+(ii) [Claim. 2] a declaration that the Tribunal has jurisdiction and is
+competent to decide the claims before it brought by MIO;
+
+(iii) (Claim. 3] without prejudice to any final determination of the
+merits of the parties’ dispute, an order that Senegal pays all costs
+incurred in relation to the objections to jurisdiction it raised,
+
+? Note of the Arbitral Tribunal: Texts that were originally drafted in French are hereinafter kept in their
+original language. However, for ease of reference, the Accord will also be referred to in its translated
+version in English.
+
+17
+
+2.2.
+53.
+
+54.
+
+including the costs of the arbitrators and ICSID, as well as the
+legal and other expenses incurred by the Claimants including but
+not limited to the fees of their legal counsel, experts and
+consultants as well as the Claimants’ own employees, on a full
+indemnity basis, plus interest thereon at a reasonable commercial
+rate;
+
+(iv) [Claim. 4] any other relief the Arbitral Tribunal may deem
+appropriate in the circumstances; and
+
+(v) [Claim. 5] order in respect of the procedure for the next phase of
+this case.”
+
+The subject matter and structure of the decision
+
+Save for the requests for relief concerning the determination and allocation of
+costs and expenses of the arbitration, the sole subject matter of this decision is to
+decide on the objections to jurisdiction raised by the Respondent concerning the
+claims instituted against it by the Claimants. The competence of the Arbitral
+Tribunal to so judge is undeniable, arising from Article 41(1) of the ICSID
+Convention pursuant to which “[f]he Tribunal shall be the judge of its own
+competence”.
+
+As stated above (see no. 37 above), the Arbitral Tribunal decided to give priority
+to this issue: if it finds it has jurisdiction with respect to at least one of the claims,
+the proceeding shall continue; in the opposite case it shall end.
+
+Based on the submissions the Arbitral Tribunal is justified in examining the issues
+in the following order:
+
+- the jurisdiction of the Arbitral Tribunal in respect of MIO, Claimant 1 (B
+below),
+
+- the jurisdiction of the Arbitral Tribunal in respect of Sentel, Claimant 2 (C
+below),
+
+- the determination and allocation of costs and expenses (D below), according
+to the conclusions that the Arbitral Tribunal shall reach concerning the first
+
+two issues,
+
+- the determination in respect of the continuation of the proceeding (E below).
+
+B.
+
+55.
+
+56.
+
+57.
+
+THE JURISDICTION OF THE ARBITRAL TRIBUNAL IN RESPECT OF MIO
+
+The issue
+
+According to the Respondent, the Arbitral Tribunal does not have jurisdiction in
+this matter in respect of Claimant 1, MIO, which allegation is contested by the
+Claimants.
+
+The Respondent in fact makes the following request for relief [Resp. 1]:
+
+“[...] la République du Sénégal demande au Tribunal arbitral de:
+Se déclarer incompétent pour examiner [...] la demande de MIO”.
+
+The Claimants put forward the following request for relief [Claim. 2], requesting
+that the Arbitral Tribunal make:
+
+“a declaration that the Tribunal has jurisdiction and is competent to
+decide the claims before it brought by MIO”.
+
+As concerns MIO, the Claimants base their allegations on Article 10 of the
+Accord, which is worded as follows:
+
+“La Partie Contractante sur le territoire de laquelle un ressortissant de
+l'autre Partie Contractante effectue ou envisage d'effectuer un
+investissement, devra consentir a toute demande de la part de ce
+ressortissant en vue de soumettre, pour arbitrage ou conciliation, tout
+différend pouvant surgir au sujet de cet investissement au Centre institué
+en vertu de la Convention de Washington du 18 mars 1965 pour le
+réglement des différends relatifs aux investissements entre Etats et
+ressortissants d'autres Etats.”
+
+(“The Contracting Party in the territory of which a national of the other
+Contracting Party makes or intends to make an investment shall assent to
+any request on the part of such national to submit, for arbitration or
+conciliation, any dispute that may arise in connection with that investment,
+to the centre established by the Washington Convention of 18 March 1965
+on the l of inves disputes L States and ionals of
+other States.”)
+
+When the conditions of this Article are fulfilled, an investor alleging having been
+injured may rely on Article 25 of the ICSID Convention, whose first paragraph
+(sentence 1) is worded as follows:
+
+“The jurisdiction of the Centre shall extend to any legal dispute arising
+directly out of an investment, between a Contracting State (or any
+constituent subdivision or agency of a Contracting State designated to the
+Centre by that State) and a national of another Contracting State, which
+
+the parties to the dispute consent in writing to submit to the Centre.”
+
+a) It is traditionally deduced therefrom, sometimes presented in different
+ways due to the inevitable cross-referencing between them, that an arbitral
+
+19
+
+b)
+
+c)
+
+tribunal to which a request is made based on such provision combined
+with the arbitration clause provided for in a treaty, has jurisdiction under
+the following conditions:
+
+- (1) the claimant has consented in writing to the arbitration,
+
+- (2) the State against which the action is brought has also agreed
+thereto in writing,
+
+- (3) the claimant is a national of the other Contracting State,
+
+- (4) it asserts a legal dispute that falls within the scope of the
+arbitration clause of the treaty, and
+
+- (5) this dispute arises directly out of an investment.
+The following conditions do not appear disputed and cannot be disputed:
+
+- Claimant | consented in writing to the arbitration (condition 1). A
+long line of case law holds that such consent necessarily ensues from
+the request submitted by it to the Centre (in particular Chr. Schreuer
+et al. The ICSID Convention, a Commentary, gn edition, Cambridge
+2009, article 25, nos 416 et seg. with references). Indeed, such
+measure cannot be understood otherwise.
+
+- The Respondent does not dispute that Claimant 1 is a national of the
+other Contracting State, that is, the Netherlands where it is registered
+(condition 3). However, Respondent disputes that the protection
+extends to it, but for other reasons.
+
+- Claimant | asserts a legal dispute (condition 4); it bases its action on
+the fact that the Respondent violated the rules of the Accord, in
+particular the prohibition on expropriation by terminating the
+Concession that had been granted to Sentel, which it indirectly owns.
+These facts are presumably not established at this stage, but they are
+at least alleged; the Arbitral Tribunal cannot rule on them as it has
+not carried out any investigation.
+
+The Respondent, however, asserts that the other conditions necessary for
+the jurisdiction of the Arbitral Tribunal have not been fulfilled, namely
+that:
+
+- it did not give its written consent to an action of the type which is
+brought against it (condition 2) (Resp. 29.10.09, nos. 17 et seq.),
+which issue shall be examined below under number 2; and
+
+- Claimant 1 has not proved that it made a protected investment
+
+(condition 5) (Resp. 29.10.09, nos. 137 et seq.), which issue shall be
+examined below under number 3.
+
+20
+
+58.
+
+59.
+
+21.
+
+60.
+
+The answer to the issues posed requires that the Arbitral Tribunal interpret the
+Accord and the ICSID Convention. It must do so by applying the “Vienna
+Convention on the Law of Treaties of 23 May 1969” (hereinafter the “Vienna
+Convention”), to which the two States have acceded: the Netherlands on 9 May
+1985, and Senegal on 11 May 1986.
+
+The basic principle expressed in Article 31, paragraph 1 of the Vienna Convention
+states that “/a] treaty shall be interpreted in good faith in accordance with the
+ordinary meaning to be given to the terms of the treaty in their context and in light
+of its object and purpose”. This principle, just as the other rules supplementing it,
+applies in a general manner to the interpretation of treaties, without it being
+necessary to make distinctions. Undoubtedly its first aim is the interpretation of
+treaties in order to resolve difficulties that could be generated by a provision, in
+relations between the States that are bound by it. Nothing, however, prevents it
+from also being raised by third parties, to which a treaty grants particular rights, as
+in the case at hand, the Accord and the ICSID Convention.
+
+In the alternative, the Claimant invokes the most favored nation clause as
+expressed in Article 3 of the Accord and solutions established by other bilateral
+treaties entered into with Senegal, notably those entered into with Korea and the
+United Kingdom (Claim. 14.12.2009, no. 371; Claim. 12.02.2010, nos. 33 and
+228; Transcript 01.04.10, French version, pp. 39-43, English version, pp. 96-107).
+The Respondent deems that this clause cannot be invoked in order to extend
+jurisdictional protection (Resp. 29.10.2009, nos. 94-109; Resp. 15.01.2010, nos.
+332 et seq.; Transcript 01.04.10, French version, p. 11, English version, p. 18).
+The Arbitral Tribunal shall examine this argument only if the others do not suffice
+as a basis for its jurisdiction.
+
+The existence of Senegal's consent to the arbitration
+
+In general
+
+The Arbitral Tribunal concurs with the Respondent (Resp. 29.10.2009, no. 19)
+that no presumption exists according to which a State would have consented to an
+ICSID arbitration. It is up to the party who so alleges to prove it and to the
+Arbitral Tribunal to convince itself thereof, ex officio if needed.
+
+According to the Respondent, two arguments, both based on the Accord, militate
+against a finding that Senegal accepted to submit itself to ICSID jurisdiction in the
+present case:
+
+- firstly, because consent would not arise solely from conclusion of the
+Accord but would require a specific manifestation in relation to the
+instituted proceeding; a specific consent would be missing in the present
+case (number 2.2 below);
+
+- secondly, because the Accord would acknowledge the right of recourse to
+
+ICSID arbitration to natural persons only, to the exclusion of juridical
+persons, which MIO undeniably is (number 2.3. below).
+
+21
+
+2.2.
+
+61.
+
+62.
+
+63.
+
+The requirement of specific consent
+
+a) According to the Respondent, no special consent was given for this
+arbitration. It bases its argument on the text of Article 10 of the Accord, asserting
+that in ratifying the Accord Senegal did not agree to submit its itself, in a general
+and abstract matter, to all proceedings that potential investors might bring against
+it, but that it would be necessary that it specifically consents to each of them when
+such request is made to it (Resp. 29.10.2009, nos. 29 et seq.).
+
+It argues indeed that the text provides that the State, here Senegal, “[...] devra
+consentir & toute demande de la part de ce ressortissant en vue de soumettre [un
+différend], pour arbitrage ou conciliation [...)’. It deduces therefrom that a
+national who intends to act must first make a request to the State and that it would
+dispose of discretionary power to consent or not consent thereto (Resp. 1.01.2010,
+no. 316).
+
+b) According to the Claimants, the Article cannot be interpreted otherwise
+than as a generic consent given by Senegal to submission to the Centre of all
+requests that could be made against it (Claim. 14.12.2009, no. 352; Claim.
+12.02.2010, no. 198).
+
+According to the Arbitral Tribunal, the interpretation of the provision according to
+the principles of the Vienna Convention requires all factors that express and
+explain the content thereof be taken into account. There is no hierarchy amongst
+such factors; they combine with each other and complete each other so as to give
+it the meaning that objectively best corresponds to the solution of the issue posed.
+
+In the present case, the Arbitral Tribunal relies on the following factors:
+
+a) The wording of Article 10 is not unequivocal. Even if it is in principle
+possible to agree in a Treaty that an action is subjected to the prior consent of the
+contracting State, it seems appropriate to give the clause the meaning given by the
+Claimants. In the most restrictive version, the use of the verb “devra” (“shall”)
+(“devra consentir’) (“shall assent”) may be understood as meaning that it would
+certainly afford the Contracting State the power to specially decide, in view of “la
+demande” (‘the request”) that the party which intends to act would make to it.
+Even in such hypothesis, however, it is prescribed that the State not only “pourra”
+(“may’’) but “devra” (“shall”) give its consent. Nothing in the wording leads to the
+conclusion that such decision could be left up to the discretion of the State.
+
+It is more likely that in spite of the wording of the rule, Senegal's ratification of
+the Accord entails consent to the ICSID arbitration system. The Arbitral Tribunal
+does not see why it would be necessary, as the Respondent asserts (Resp.
+15.01.2010, no. 312), to adopt a two-step procedure pursuant to which, before
+submitting a request, the party intending to act would have to request
+authorization from the Contracting State which it would have no right to refuse,
+unless otherwise specifically stated. It is more reasonable to view this as a
+unilateral offer and a commitment by Senegal to submit itself to ICSID
+jurisdiction; the request of Claimant 1 constitutes the “demande” (“request”) and
+
+22
+
+64.
+
+65.
+
+66.
+
+2.3.
+
+67.
+
+amounts to acceptance of the offer made by the State; it does not create such
+consent, it consummates it.
+
+b) The origin of the rule, according to the Claimants, confirms this
+interpretation (Claim. 14.12.09, nos. 359 et seq.). Indeed, the former Article 5 ter
+of the Accord de 1965 sur la coopération économique (as amended in 1972)
+provided for a moral obligation only that the text of Article 10 of the Accord has
+elevated to a legal obligation. This rule undoubtedly primarily establishes an inter-
+State obligation (Resp. 15.01.2010, no. 318), but there is no reason why the
+establishment by the new rule of its mandatory nature could not be extended to
+investors, who are precisely those for whom the provision concerning the
+resolution of disputes is intended.
+
+c) The spirit of the rule confirms this interpretation. The purpose of a treaty
+such as that in question is indeed to guarantee efficient and full protection. This
+purpose is made clear, in particular, by Articles 3 and 4 of the Accord, whose
+objective is “sécurité intégrale” (“full security”) (Article 4, paragraph 1). Such
+objective, however, cannot be truly attained unless investors, the primary
+beneficiaries of the protection, dispose of legal means enabling them to obtain
+compliance therewith. To admit the contrary would amount to making the Accord
+a “lex imperfecta” whose application in the end would be left to the discretion of
+the State benefiting from the investment, since it could give or refuse its consent
+as it pleases. This could not have been the intention of the Contracting Parties.
+
+Moreover, there is nothing extraordinary about the rule to the extent that it implies
+nothing else for the State involved except to agree to submit itself to an arbitration
+proceeding under the aegis of ICSID by independent arbitrators, in a proceeding
+during which it shall have every opportunity to defend its positions.
+
+On the grounds that have just been set out, the Arbitral Tribunal concludes that in
+ratifying the Accord, the Republic of Senegal gave its general consent to any
+arbitration that could be subsequently instituted against it in an ICSID proceeding
+under the conditions prescribed by Article 10.
+
+Limitation of protection to natural persons
+
+a) According to the Respondent, even if its consent is deemed to have been
+given, it would not apply to juridical persons (Resp. 29.10.2009, no. 53). The
+Respondent bases its argument also on the text of Article 10 of the Accord in
+order to assert that its consent would be limited to natural persons. It argues
+indeed that the text of Article 10 grants protection to a “ressortissant de l’autre
+partie” (“national of the other party”). Article 1, paragraph 3 of the Accord
+provides a clear definition thereof: “/e terme ‘ressortissants’ comprend a l’égard
+de l’une et l’autre des Parties contractantes les personnes physiques ayant la
+nationalité de cette Partie contractante conformément a la législation de celle-ci.”
+(“The term ‘nationals' shall comprise with regard to either Contracting Party
+natural persons having the nationality of that Contracting Party in accordance
+with its law.”). As Claimant 1 is a company, it cannot rely on the rule for the
+resolution of disputes.
+
+23
+
+68.
+
+69.
+
+70.
+
+71.
+
+b) According to the Claimants, on the contrary, the omission of any mention
+of companies was an inadvertency that it would be up to the Arbitral Tribunal to
+correct. The protection aimed at by Article 10 should encompass companies, in
+accordance with the structure of the Accord, its purpose and its origin. Regardless,
+Article 8 of the Accord establishes the principle of the most favored nation, which,
+in light of the treaties subsequently signed by Senegal, would be an additional
+reason to broadly construe it (Claim. 14.12.09, nos. 191 et seq.).
+
+According to the Arbitral Tribunal, the following factors must be taken into
+account:
+
+a) The text of Article 10 of the Accord, combined with the definition provided
+in Article 1 would appear at first view at least to be clear: since the first Article
+mentions “ressortissants” (“nationals”) only and the second unambiguously
+defines such notion, the solution appears obvious.
+
+Nevertheless, contrary to what the Respondent appears to assert (Resp.
+29.10.2009, no. 64; Resp. 15.01.2010, no. 288), this conclusion, provided that it
+applies, is not conclusive in determining the meaning of the rule. Indeed, in
+accordance with Article 31, paragraph 1 of the Vienna Convention, the “terms of
+the treaty” must be interpreted “in good faith” in accordance with the meaning to
+be given them “in their context and in light of its object and purpose”. It follows
+therefrom that the text, even if apparently “clear”, is not the only factor to be used
+in interpreting a rule, which assertion is confirmed by the following paragraphs of
+the provision listing the factors that the interpreting party may and must take into
+account “in addition to the text’. Moreover, if needed, Article 32 of the Vienna
+Convention allows recourse to supplementary means of interpretation, in
+particular when the interpretation made in accordance with Article 31 “(b) leads to
+a result which is manifestly absurd or unreasonable”.
+
+The significance of the other factors available to the Arbitral Tribunal must be
+considered in light of these principles.
+
+b) The function of Article 10 in the system of the Accord is fundamental. A
+provision cannot be understood unless integrated into the body of the text of
+which it forms a part and constitutes one of the parts. The Article establishes the
+only means contractually agreed to by the Contracting Parties to guarantee to
+investors the effectiveness of the rest of the Accord. All the material provisions —
+excepting one which shall be discussed below — affirm the granting of special
+protection both to “ressortissants” (“nationals”) (within the meaning of Article 1)
+as well as “sociétés de l’autre Partie” (“companies of the other Party”); all of
+them therefore place natural persons and companies on the same footing. It cannot
+be seen for what reason the principles extended to all investors, regardless of their
+nature, would justify judicial protection for natural persons only.
+
+This function appears more clearly upon reading of other parts of the Accord:
+- The Preamble of the Accord expressly affirms the intention of the
+
+Contracting Parties “de créer des conditions favorables a l’investissement
+de capitaux par des ressortissants et des sociétés de l'un des deux Etats
+
+24
+
+sur le territoire de l’autre Etat’ (“creating conditions favourable to
+capital investments by nationals and companies of one of the two States in
+the territory of the other State”), without being able to detect the least
+intent to restrict such purpose to natural persons. Quite to the contrary, this
+Preamble, intended to summarize the object and purpose of the Accord,
+clearly militates in favor of the contrary intent by excluding any difference
+between the two types of investors.
+
+Article 4, paragraph 1 of the Accord is a perfect illustration of this,
+according to which “Jes investissements de capitaux effectués par des
+ressortissants et des sociétés d’une Partie contractante jouiront, sur le
+territoire de lautre Partie Contractante, d’une protection et d’une
+sécurité intégrale” (“capital investments made by nationals and companies
+of one Contracting Party shall enjoy full protection and security in the
+territory of the other Contracting Party”) (underscored by the Arbitral
+Tribunal). It can be deduced therefrom (1) that there cannot be “protection
+et de sécurité intégrale’ (“full protection and security”) unless the
+functioning of the Accord is armed with the possibility for every investor
+to go before an arbitral tribunal if he alleges to be the victim of a violation,
+and (2) that this “protection et sécurité intégrale” (“protection and
+security”) must be guaranteed both to natural persons and companies,
+without differentiation.
+
+It would also not be possible to reconcile the restrictive version of the
+Article with the text of Article 4, paragraph 2 of the Accord intended to
+protect “les ressortissants et sociétés d’une Partie Contractante”
+(‘nationals and companies of one Contracting Party’) against the risks of
+expropriation (sentence 1) and which expressly reserves in such context
+the possibility for (all) the specified entities to have recourse, in particular,
+to the proceedings provided for by Article 10 (sentence 3).
+
+It is true that the same distinction is made by the text of Article 9 of the
+Accord, the provision immediately preceding Article 10, relating to tax
+treatment; this rule also appears reserved to natural persons only since the
+only mention therein is of “ressortissants” (“nationals”). This is not the
+place to interpret such provision. At any rate, this exception is not
+sufficient to explain why Article 10 would deprive companies, which are
+expressly protected by the remainder of the Accord, of the only means
+available to them to obtain recognition of their rights.
+
+The object and the purpose of the rule fully support this interpretation. The
+
+assimilation made in principle in the Accord between natural persons and juridical
+persons is fully understandable since one cannot see why an investment should be
+less protected depending on whether it is made by a natural person or a company.
+Furthermore, it would be established in practice that it is infinitely more frequent
+that investments made in the fields specified in the Accord are made by companies
+and not directly by natural persons. Furthermore, in its definition of juridical
+persons the Accord targets through them the “ressortissants” (“nationals”) who
+directly or indirectly control them (see Article 1, paragraph 4, letter b). It would
+
+25
+
+72.
+
+73.
+
+74.
+
+2.4,
+
+75.
+
+therefore be possible for a natural person holding a few shares in an investment
+company to act, whereas a company having the same shares would be prohibited
+from so doing.
+
+The general purpose is to encourage investments, regardless of who takes the risk.
+It shall furthermore be noted in passing that it would be surprising at the very least
+that a text that is precisely intended by its nature to prohibit any form of
+unfounded discrimination establishes one as fundamental as that one.
+
+d) The understanding of the rule by the Kingdom of the Netherlands also
+confirms this analysis. Indeed, in support of their thesis, the Claimants invoked
+the “travaux préparatoires” having surrounded the adoption of the Accord by the
+Dutch Parliament (Claim. 14.12.2009, no. 358, “Explanatory Memorandum”,
+Claim. 22.12.08, exhibit C-30). It results therefrom that this was understood as
+acknowledging an equivalent protection for natural persons and companies. It is
+not necessary for the Arbitral Tribunal to determine whether, as alleged by the
+Respondent (Resp. 29.10.2009, no. 80; Resp. 15.01.2010, no. 325), no conclusive
+significance should be given to such documents since, although certainly linked to
+the adoption of the Accord, this was by one of the parties only. Nothing prohibits
+the Arbitral Tribunal from relying on them in order to confirm how this text was
+actually understood by one of the Contracting Parties.
+
+e) Finally, the relation of Article 10 with the ICSID system of arbitration
+allows for completion of the understanding of the rule by the connection it creates
+with the ICSID Convention. The term “ressortissant” (“national”), as used in the
+first and third lines of the provision, must be put back in its immediate context by
+taking into consideration all of the terms of the Article, which comprise one and
+the same sentence. The term “ressortissant” (“national”) is used three times: the
+first two times to designate the person who, having made or intended to make an
+investment, may take the initiative to bring arbitration proceedings; the third time
+in the last line in the title of the Washington Convention which is reproduced. It is
+certain that the third time the term must encompass natural persons and juridical
+persons since what is mentioned are “ressortissants” (“nationals”) within the
+meaning of the Washington Convention. It is indeed the definition given by this
+Convention which is relevant, of which Article 25(2) provides a broad definition.
+
+According to the Arbitral Tribunal, the use of the term “ressortissants”
+(“nationals”) in Article 10 must be understood in accordance with the general
+meaning of the Convention, and not the special meaning of Article 1, which is
+adapted to the other provisions of the Accord.
+
+For these reasons, and without need to discuss the other arguments put forth by
+the Claimants in support of their position, the Arbitral Tribunal finds that the
+protection afforded by Article 10 of the Accord extends to companies and,
+consequently, MIO may rely on it.
+
+Conclusion
+
+It follows from the preceding discussion that the Arbitral Tribunal finds that the
+Republic of Senegal gave its consent to the actions brought against it by a
+
+26
+
+3.1.
+
+76.
+
+3.2.
+
+77.
+
+company before an ICSID Arbitral Tribunal. From this angle, and subject to the
+other conditions that shall still be examined, the Arbitral Tribunal holds that it has
+jurisdiction to rule on the submissions of the Claimants in the present proceeding.
+
+For such reason, the Arbitral Tribunal finds that it would be superfluous to
+furthermore examine, but for the other arguments discussed, whether the same
+conclusion should not be deduced from the - disputed - consequences drawn from
+the application of the most favored nation clause.
+
+The existence of a protected investment
+
+In general
+
+The Arbitral Tribunal has jurisdiction only if the action is based on the violation
+of the Accord relating to protected investments within the meaning of such Accord
+and the ICSID Convention.
+
+a) According to the Respondent (Resp. 15.01.10, nos. 272 et seg. in respect of
+Sentel and nos. 359 et seq. in respect of MIO), this condition is not fulfilled for
+two reasons above all; indeed, the Respondent argues that:
+
+- there would be no investment within the meaning of the texts on which the
+action is based, and
+
+- even if this were to be the case, Claimant 1 could not be deemed as being
+the investor.
+
+b) According to the Claimants (Claim. 12.02.10, nos. 156 et seq. in respect of
+Sentel and nos. 178 et seg. in respect of MIO), these two objections do not
+withstand scrutiny.
+
+It is therefore up to the Arbitral Tribunal to rule on this by successively
+examining:
+
+- if an investment exists within the meaning of the invoked texts (number
+3.2 below.), and, if so,
+
+- if MIO's investment is protected (number 3.3. below).
+
+The existence of an investment
+
+Detached from the other aspects relating to other conditions, the issue to be settled
+is whether the services that Claimant 1 claims to have carried out in relation with
+the Sentel company in Senegal constitute an investment within the meaning of the
+applicable texts. The Claimants affirm this (Claim. 14.12.2009, nos. 338 et seq.;
+Claim. 12.02.2010, nos. 29 and 178 et seq.), whereas the Respondent denies it
+(Resp. 15.01.10, nos. 369 et seq.).
+
+27
+
+78.
+
+79.
+
+80.
+
+a) The facts are not disputed concerning this point. Initially, it was indeed the
+MIC company that directly or by its Group's companies, set up the Sentel
+company. The launching and operation thereof was largely financed by it. It was
+able to establish and operate a mobile telephone network in Senegal through its
+subsidiary. This is not the place to discuss whether the conditions under which the
+operation and application of the Concession were carried out met relevant
+requirements; if the Arbitral Tribunal asserts jurisdiction, this may be the subject
+matter of the phase devoted to examining the issues on the merits. At this stage it
+suffices to note that the provision of services as such is not disputed.
+
+It is true that MIC made this investment through one of its Group’s companies and
+that the shares on which this investment is based were thereafter partially
+transferred. The Arbitral Tribunal shall come back to this further on (see no. 83
+below). This does not change the fact that with respect to the issue now under
+discussion the MIC Group companies were the founders and are still the
+shareholders of the Sentel company.
+
+It is admitted that in order for an investment to be protected, it must fulfill both the
+definition of the special Agreement entered into between the two Contracting
+States as well as that of the ICSID Convention. This was held, for example, in the
+award of 24 May 1999 in the case Ceskoslovenska obchodni banka, a.s. v. Slovak
+Republic (ICSID Case no. ARB/97/4, ICSID Rev.—FILJ 251 (1999), pp. 14 et
+seq., no. 68, exhibit CL-17).
+
+b) The Accord's definition of an investment is extremely broad. According to
+Article 1, paragraph 1, “Je terme ‘investissements de capitaux’ comprend toutes
+les catégories de biens, y inclus toutes les catégories de droit” (“the term ‘capital
+investments’ shall comprise every kind of asset, including all kinds of rights”). A
+foreign company setting up and financing a mobile telephone company that will
+operate a mobile telephone network obviously comes within the definition. It is
+evident that the services are also made for the purpose of drawing “produits”
+(“proceeds”) therefrom that Article 1, paragraph 2 designates as “Jes montants
+réalisés a titre de bénéfice ou d’intérét sur l'investissement de capitaux” (“the
+amounts realized from profit or interest on capital investment”).
+
+ 
+
+According to the Arbitral Tribunal, there can be no doubt about this conclusion
+and no additional arguments are called for.
+
+c) The ICSID Convention also contains no definition of an investment. In
+general, in practice a broad concept is applied, even in decisions where special
+criteria have been used, such as those set out in the decision of 23 July 2001,
+Salini Costruttori S.p.A. and Italstrade S.p.A. v. Kingdom of Morocco (ICSID
+Case no. ARB/00/4, Journal du droit international 196 (2002), p. 124, exhibit
+CL-27). This is also not the place for the Arbitral Tribunal to discuss the relevance
+of each of these conditions, since it appears obvious that, regardless of the list
+relied on, they are all fulfilled in the present case:
+
+- there were contributions made by a party in the territory of Senegal; in the
+
+present case the setting up and financing of a company operating a mobile
+telephone network;
+
+28
+
+81.
+
+3.3.
+
+82.
+
+83.
+
+these contributions were made for a certain duration since the Concession
+was granted to the local company for twenty years (Article 1, paragraph 5
+of the Concession);
+
+these contributions were such as to generate income for the
+Concessionaire, and therefore indirectly for its shareholder or
+shareholders;
+
+these contributions contained a certain risk, going beyond a mere business
+risk;
+
+these contributions allowed for encouraging the economic development of
+Senegal through the concessionary company.
+
+For these reasons, the Arbitral Tribunal finds that the setting up of Sentel, and its
+financing and operation by Claimant 1 fulfill the conditions of an investment both
+by virtue of the Accord as well as the ICSID Convention.
+
+The existence of a protected investment
+
+Even if the Arbitral Tribunal concludes that an investment exists, it must also be
+in a position to confirm, for MIO to rely on the Accord, that it was in fact MIO
+that made all or part of the investment.
+
+4)
+
+According to the Respondent, the investment was made by MIC, which is
+a Luxembourg company and not by MIO (Resp. 29.10.2009, no. 125);
+moreover, even if it were to appear in fact that it is MIO that indirectly
+controlled Sentel, at no time did it inform the Respondent of this, contrary
+to what the Concession prescribes, pursuant to which the Concessionaire
+has such an obligation.
+
+According to the Claimants, the investment was indeed made by a MIC
+Group company in which there was Dutch capital from the beginning
+(Claim. 12.02.2010, no. 233) and the only change that formally took place
+in the shareholding was formally notified to the Republic (Claim.
+12.02.10, no. 171).
+
+The facts surrounding the financing and the direct or indirect shareholding
+
+of Sentel are not easy to reconstitute based on the file. According to the Arbitral
+Tribunal, the transactions appear to have been made under the following
+conditions:
+
+The shareholding of Sentel went through the following phases:
+
+- On 30 July 1998 (Resp. 15.01.10, exhibit R-32; Claim. 22.12.08,
+exhibits C-26 and C-23; Claim. 12.02.10, exhibit C-50), SENTEL
+GSM was created in Dakar. Its share capital was 60,000,000 CFAF,
+divided into 6,000 shares of 10,000 CFAF each. At the time of its
+creation the shareholders were the following:
+
+29
+
+- for 4,498 shares, Tucan Corporation NV, a company
+incorporated in the Netherlands Antilles, which on 11
+December 1998 became Millicom Senegal NV, a company
+also incorporated in the Netherlands Antilles;
+
+- for 1,500 shares, Mr. Pape Abdoul Ba;
+
+- for one share each, Mr. Peter Gordon Macnee (whose share
+was transferred on 9 October 1998 to Mr. Christophe Vicic),
+and Mr. Mark Christopher Lewis (whose share was
+transferred on 2 February 1999 to Mr. David Kimche).
+
+- On_ 14 March 2006, Sentel informed the Minister for Postal
+Services, Telecommunications and New Information Technologies
+and Communication of a change in the shareholding: “This change,
+which does not create any change in the control of the Sentel
+company, took place following the sale of 25% of the shares held
+by Mr. Abdoul Ba to the principal shareholder of Sentel gsm,
+Millicom Senegal N.V., pursuant to an agreement dated 14 March
+2006” (Claim. 12.02.2010, exhibit C-46).
+
+- In_2007, according to the report of Price Waterhouse Coopers
+concerning Sentel, 5,999 shares of Sentel were held by Millicom
+Senegal N.V. and one share by Mr. Pape Abdoul Ba (Claim.
+12.02.10, exhibit C-47, p. 26).
+
+The role of MIO in this structure went through the following phases:
+
+- Millicom Senegal N.V. (formerly Tucan Corporation NV), the
+principal shareholder of Sentel, belonged to Holland Intertrust
+(Antilles) N.V. from 21 May 1992 to 22 June 1993, then to
+Millicom Holding B.V, and since 9 December 1999 to MIC Africa
+B.V., whose registered office is in Rotterdam. On 2 August 2002,
+Millicom Senegal N.V. was the owner of 5,984 shares of Sentel,
+presumably following a transfer of part of Mr. Pape Abdoul Ba's
+shares.
+
+- MIC Africa B.V. (formerly named Keurslagerij B.V.), the principal
+shareholder of Millicom Senegal N.V., has authorized capital of
+100 shares of 1,000 NLG each, of which only 40 have been issued
+and paid up. Twenty-five shares were issued as of 1987 and
+successively belonged to Mr. H. Veenstra from 1978 to 29 January
+1997, to the Towerbridge B.V. company up until 4 December 1998
+and to the Cardinal Holding B.V. company up until 29 April 1999.
+
+- Millicom Holding B.V. (having its registered office at Westblaak
+89, 3012 KG, Rotterdam) then became the owner of the 25 shares,
+as well as 15 others issued on 10 June 1999.
+
+- On 3 February 2000, the 40 shares were transferred to Millicom
+
+International Operations S.A. (registered office in Luxembourg)
+pursuant to a “deed of distribution and transfer’.
+
+30
+
+b)
+
+d)
+
+- On 13 December 2000, the Millicom International Operations B.V.
+company (having its registered office at Locatellikade 1, 1076 AZ,
+Amsterdam), became owner of the 40 shares pursuant to a “deed of
+issue and contribution”.
+
+In summary, it appears that Sentel is wholly owned (less one share):
+
+- by Millicom Senegal N.V., a company incorporated in the
+Netherlands Antilles,
+
+- which is wholly owned by Millicom Africa B.V., whose registered
+office is in Rotterdam,
+
+- which is wholly owned by MIO, which also has its registered office
+in Rotterdam.
+
+Thus, within the MIC Group, MIO is the general structure to which the
+business operating company in Africa (Millicom Africa B.V.) belongs, to
+which the business operating company in Senegal (Millicom Senegal N.V.)
+belongs, and which is the owner of Sentel.
+
+MIO's indirect control of Sentel is undeniable. MIO is a Dutch company
+within the meaning of Article 1(4)(a) of the Accord. As the Netherlands is
+a Contracting State to the Washington Convention, MIO is a national of
+another Contracting State as required by Article 25 of the Washington
+Convention.
+
+It is true that such control is indirect only since it goes through the African
+operating company then through the Senegalese operating company. But
+these two companies are also connected to the Netherlands; the first has its
+registered office in Rotterdam and the second in the Netherlands Antilles,
+which are also covered by Article 12 of the Accord (“En ce qui concerne
+le Royaume des Pays-Bas, le présent Accord s’appliquera au territoire du
+Royaume situé en Europe et aux Antilles néerlandaises.” (“In the case of
+the Kingdom of the Netherlands, this Agreement shall apply to the
+territory of the Kingdom in Europe and to the Netherlands Antilles”).
+
+As from the incorporation of Sentel, its shares have been in the hands of
+companies connected to the Kingdom of the Netherlands. The fact was
+public knowledge since it appears from Sentel's formation and
+incorporation documents. The transfers that took place were between
+entities that were nationals of the Netherlands, which fact was also
+public knowledge.
+
+MIC was indeed never the direct shareholder of Sentel, but always
+through other companies as intermediaries.
+
+MIO is the owner of the aforementioned shares since December 2000,
+
+that is, a period prior to the institution of proceedings before the Dakar
+Regional Court and before this Arbitral Tribunal.
+
+31
+
+84.
+
+85.
+
+86.
+
+87.
+
+The Respondent also maintains that the purpose of MIO's acquisition of control of
+Sentel was very probably to “créer artificiellement la compétence du CIRDI’, for
+which reason its standing to bring an arbitration proceeding should not be
+recognized (Resp. 15.01.2010, no. 384). Violation of the principle of good faith —
+as a general principle of law — should lead the Arbitral Tribunal to sanction the
+conduct of the Claimants, as an investment must be made in good faith in order to
+be protected (Resp. 15.01.2010, nos. 385 et seq.).
+
+It is a fact that the protection afforded by an agreement of the type which is
+invoked and by the ICSID Convention must be refused if contrary to good faith.
+The Arbitral Tribunal does not, however, deem it necessary to discuss here in
+detail situations in which such condition is fulfilled. It suffices, indeed, to find
+that, as from the creation of Sentel, its shares were held by subsidiary companies
+of the MIC Group, which were Dutch nationals that the transfers made involved
+only companies domiciled in the Netherlands, that these facts pre-date this
+proceeding by several years. Even if it is possible, or even likely that the choice of
+the subsidiaries was also made considering the protection that their domicile could
+afford them, this fact alone could not constitute an abusive solution, as long as
+circumstances have not been established which would demonstrate that such
+choice was made unknown to the other party and under artificial conditions; all
+conditions are not met in the present case.
+
+For these reasons, and without need to discuss the other arguments put forth by
+the Claimants in support of their thesis, the Arbitral Tribunal finds that in the
+present case Claimant 1 made an investment entitling it to the protection afforded
+by the Accord.
+
+Conclusion
+
+It follows from the preceding discussion that:
+
+The Arbitral Tribunal has jurisdiction to entertain the action that Claimant 1 is
+bringing against the Republic of Senegal.
+
+THE JURISDICTION OF THE ARBITRAL TRIBUNAL IN RESPECT OF SENTEL
+
+The issue
+
+According to the Respondent, the Arbitral Tribunal would not have jurisdiction to
+tule on the requests for relief of Claimant 2, which the Claimants dispute.
+
+The Respondent makes the following request for relief [Resp. 1]:
+
+“[...] la République du Sénégal demande au Tribunal arbitral de :
+se déclarer incompétent pour examiner la demande de Sentel [...].”
+
+The Claimants make the following opposing request for relief [Claim. 1], inviting
+the Arbitral Tribunal to make:
+
+32
+
+88.
+
+89.
+
+21.
+
+90.
+
+“a declaration that the Tribunal has jurisdiction and is competent to
+decide the claims before it brought by Sentel”.
+
+As concerns Sentel, the Claimants base their action on Article 11 of the
+Concession, whose wording is the following (the brackets have been added by the
+Arbitral Tribunal to facilitate the references thereafter):
+
+“Tsentence 1] Les parties feront tout leur possible pour régler a l’amiable
+tout différend résultant de l’exécution de la présente convention. [sentence
+2] Elles devront, au préalable si les lois et réglements en vigueur le
+permettent, recourir a tout organisme de conciliation de réglementation et
+d’arbitrage compétent en matiére de télécommunications. [sentence 3] Il
+en sera de méme en cas de conflit entre opérateurs notamment lors des
+accords d’interconnections. [sentence 4] Si le litige persiste, les parties
+pourront en définitive recourir a l’arbitrage d’organismes internationaux
+tels que la cour d’arbitrage de l’OHADA, le Centre international de
+réglement des différends sur les investissements (CIRDI) ou la Chambre de
+Commerce international de Paris (CCIP) etc. “
+
+Making use of the option which, according to them, this provision affords them,
+the Claimants seized this Arbitral Tribunal pursuant to Article 25 of the ICSID
+Convention, the text of which was reproduced above (see number 57 above). This
+Article indeed also allows an ICSID arbitration proceeding to be instituted
+provided that certain conditions are fulfilled.
+
+The Parties' opinions totally differ concerning the fulfillment of these conditions.
+In particular, the Respondent disputes the fact that the rule of Article 11 of the
+Concession contains consent from the Republic of Senegal to an arbitration
+proceeding which, what is more, is an ICSID arbitration. Independently of this, it
+argues that in any event the conditions of Article 25 of the ICSID Convention are
+not fulfilled since Sentel is not a foreign investor.
+
+It is therefore up to the Arbitral Tribunal to verify:
+
+- whether the Respondent validly consented to an arbitration proceeding of
+this type (number 2 below.), and if so,
+
+- whether Sentel is a foreign investor (number 3 below).
+The existence of valid consent to the arbitration
+
+In general
+
+The first issue is therefore whether the 1998 Concession constitutes valid consent
+to the arbitration, which consent is necessary for Sentel's bringing an ICSID
+proceeding against the Respondent.
+
+33
+
+91.
+
+92.
+
+2.2.
+
+93.
+
+94.
+
+The Republic disputes this forthwith on the ground that the Concession would
+have ended as of 29 September 2000 and that the Claimants would have done
+nothing to object to this (Resp. 05.10.09, no. 24).
+
+According to the Arbitral Tribunal the argument does not withstand scrutiny:
+
+- Firstly, since it is undisputed that an arbitration clause is autonomous and
+that the end of a contract in which it is incorporated does not eliminate its
+effects; on the contrary, the arbitration which is agreed to therein also
+covers the principle and effects of the end of the contract. To admit the
+contrary would amount to depriving it of an important part of its practical
+effect since it would suffice for a party to abandon a contract in order to
+escape from it. This reasoning must apply also to the Concession.
+
+- Moreover, it has not at all been established that the Concession actually
+and validly ended; on the contrary, the issue is the crux of this dispute on
+the merits, and is disputed between the Parties; the Arbitral Tribunal might
+have to examine if it were to uphold its jurisdiction.
+
+ 
+
+According to the Respondent (Resp. 29.10.09, nos. 34 et seqg.; Resp. 15.01.10,
+nos. 15 et seq.), Article 11 of the Concession would not contain a real consent
+and, if this were the case, such consent would not be valid since it would be
+contrary to the mandatory rules of Senegalese domestic law. The Claimants
+maintain opposing opinions in this regard (Claim. 11.11.08, no. 43; Claim.
+14.12.09, nos. 235 et seg.; Claim. 12.02.10, nos. 37 et seq.).
+
+It is therefore up to the Arbitral Tribunal to successively to examine:
+
+- whether Article 11 of the Concession contains consent by the
+Republic of Senegal to an ICSID arbitration (number 2.2. below)
+and, if so,
+
+- whether this consent is valid (number 2.3. below).
+
+The existence of consent
+
+a) According to the Respondent, Article 11 of the Concession does not
+constitute consent to arbitration but a “simple clause indicative qui se
+contente[rait] de prévoir la possibilité d’un recours & l’arbitrage, parmi d’autres
+procédés, sans poser aucune obligation a la charge des parties au contrat” (Resp.
+29.10.2009, nos. 158 et seg. and no. 178; Resp. 15.01.2010, no. 67). The Parties
+did not agree either on the principle of recourse to arbitration nor on the arbitral
+body to be involved (Resp. 29.10.2009, no. 176).
+
+b) According to Claimant 2 on the contrary, Article 11 of the Concession
+could only be understood as a valid arbitration clause; the fact that there is
+ambiguous wording and above all the fact that it affords an option in respect of the
+choice of the institution is not an obstacle to its validity.
+
+The Arbitral Tribunal relies on the following factors in reaching its conclusion:
+
+34
+
+95.
+
+a) The origin of the rule. The evidentiary proceeding established that the
+Parties began by negotiating their contractual relation based on a draft Concession
+prepared by the Respondent (hereinafter the “Draft”, exhibit C-41, see no. 7
+above). Concerning the provision in question, it provided for the exclusive
+jurisdiction of the Dakar Regional Court: “Si le litige persiste, le Tribunal
+régional de Dakar statuant en matiére administrative sera compétent.” (last
+sentence of Article 7 of the Draft).
+
+During such negotiations the Claimants would have opposed the adoption of such
+provision. The issue would have been the subject of long discussions, which
+would have continued for several hours (one half day and a morning) (Mr. Rosh
+Statement, para. 17). The assertion seems plausible; otherwise one could not
+understand how it was possible for the Parties to go from the clear text of the
+Draft to the complex text of the Concession, without making numerous detours.
+
+In particular, it was alleged that the Claimants refused to sign the Concession
+without a clause affording the Parties recourse to international arbitration (Claim.
+14.12.2009, no. 283; Claim 14.12.2009, no. 285; Transcript, 01.04.10, p. 27 citing
+the testimony of Mr. Rosh). The assertion was confirmed by two witness
+statements produced by the Claimants:
+
+- Mr. Rosh stated that: “Je suis certain qu'au moment des négociations, tant
+le Sénégal que MIC entendaient conclure un engagement d’avoir recours a
+Varbitrage international ayant force obligatoire.” (Mr. Rosh Statement,
+para. 19);
+
+- Mr. Pape Ba, in turn stated: “Nous avons été trés clairs sur le fait que nous
+ne voulions pas que les différends soient portés devant les juridictions de
+Dakar, car cela serait revenu a faire du Sénégal a la fois un juge et une
+partie.” (Mr. Pape Ba Statement, para. 18).
+
+The Respondent waived cross-examination of these witnesses; their statements
+appear plausible when comparing the version of the Draft with that of the final
+text and they were not formally contested by the Respondent. It results therefrom
+that indeed the Parties to the Concession Agreement agreed to eliminate the
+exclusive jurisdiction of the Dakar Regional Court, of which no further mention is
+made, and accepted a solution that, following unsuccessful negotiations, makes
+exclusive reference to arbitration. It is difficult to conclude therefrom that the
+consent finally given by the Claimants amounted to leaving the Respondent the
+right to unilaterally to decide to refuse any form of arbitration, as it sees fit, and
+consequently to maintain the jurisdiction of the Dakar Regional Court.
+
+Indeed, the solution reached makes no further mention of State courts, but
+exclusively establishes two contractual means, both of which call upon, according
+to different methods it is true, conciliation bodies or bodies whose decisions are
+independent of any State structure and, a fortiori, Senegalese judicial authorities.
+
+35
+
+96.
+
+That said, it is evident that the text resulting from the negotiations is complicated,
+it mixes up the two procedures and, above all, it refers to arbitration in a manner
+which generated the controversies between the Parties to this proceeding.
+
+In support of its thesis, the Respondent invokes the argument, which shall be
+examined later on (see no. 102 below) according to which its domestic rules
+prohibit it from being bound by an arbitration clause and that the purpose was to
+reserve what remained possible, namely recourse to a subsequent arbitration
+agreement (“compromis arbitral’) to settle existing disputes (Resp. 29.10.2009,
+no. 179). According to the Arbitral Tribunal, the argument is not decisive. The
+testimonies produced by the Claimants do not mention that that was the position
+taken by the Respondent during negotiations and that the text arrived at was the
+explanation thereof. On the contrary, they insist on the understanding of the rule
+that the individuals who directly and personally took part in the negotiation of the
+clause had of the rule (Mr. Pape Ba Statement, p. 4, Mr. Youval Rosh Statement,
+pp. 5-6; Mr. Kemal Shefik Statement, pp. 2-3). If the idea had been to exclude
+arbitration, whereas the entire spirit of the rule militates in favor of contractual
+solutions, in order to replace it by the mere reservation of a possible subsequent
+agreement, the text could and should have expressed this more clearly.
+
+According to the Arbitral Tribunal, the origin of the rule, although not decisive,
+enables it to be established that the Claimants rejected a purely judicial solution
+and that they finally accepted a more complex, contractual solution.
+
+b) The_system_of the_rule. The dispute resolution system established by
+Article 11 of the Concession uses wording that is more and more widely used,
+which connects two complementary procedures over time (“multi-tiers
+procedure”):
+
+- Firstly, negotiations. It appears from the first sentence of the provision
+that, “ [IJes parties feront tout leur possible pour régler a V'amiable tout
+différend résultant de l’exécution de la présente convention”. The
+statement is a classic one and does not call for any special comment at this
+stage.
+
+In reality, the rule is more precise and complete to the extent that, in the
+following sentence [sentence 2], it obligates “au préalable” the Parties to
+turn, if permitted by law, to specialized bodies which would be competent
+to settle the dispute by conciliation and arbitration. “Elles devront, au
+préalable si les lois et reglements en vigueur le permettent, recourir a tout
+organisme de conciliation de réglementation et d’arbitrage compétent en
+matiére de télécommunications.”. The significance of this last rule escapes
+the Arbitral Tribunal since it does not see what kind of body this would be;
+it would apparently follow from the rules governing telecommunications
+since it is furthermore specified in the following sentence [sentence 3], that
+the method would also apply to disputes between operators, which issue at
+first view is unrelated to the purpose of the Concession: “JI en sera de
+méme en cas de conflit entre opérateurs notamment lors des accords
+d@ interconnections.”
+
+36
+
+97.
+
+Without wishing to go further in the analysis of this rule which is not in
+question, two things can be deduced therefrom: on the one hand, it
+establishes contractual methods for the settlement of disputes outside of
+State procedures and, on the other hand, it affirms, at least at first view,
+that disputes arising between the Parties may be settled by arbitration
+without the State being able to rely on the prohibitions that it raises vis a
+vis the Claimants.
+
+- Arbitration thereafter. In its last sentence [4], Article 11 treats arbitration
+as a natural supplement in case of a breakdown in negotiations; it is
+necessary but it suffices that “Je litige persiste”. The procedure apparently
+comes within the scope of the prolongation and spirit of the negotiation
+procedure, without any reference to a judicial procedure which the
+Respondent today alleges would be the only procedure available absent an
+additional agreement between the Parties.
+
+According to the Arbitral Tribunal, the system apparently selected by the Parties
+establishes a two-tier procedure, both of which are contractual, without any
+reference to a judicial solution.
+
+c) The wording of the rule. As stated, the decisive part of the rule is the last
+sentence which reads as follows: “ Si le litige persiste, les parties pourront en
+définitive recourir a l’arbitrage d’organismes internationaux tels que la cour
+darbitrage de l'‘OHADA, le Centre international de réglement des différends sur
+les investissements (CIRDI) ou la Chambre de Commerce international de Paris
+(CCIP) etc...”. Several of the terms or expressions used call for comments:
+
+  
+
+ 
+
+- “pourront recourir [...] a l’arbitrage’”. The possibility indicated in the rule
+is understood by the Claimants as an option afforded to each of the Parties
+to initiate an arbitration proceeding, even without the agreement of the
+other (Claim. 14.12.2009, nos. 239 et seg.; Claim. 12.02.2010, no. 22 and
+no. 43), whereas the Respondent understands it as a possible option, not
+afforded to one party individually but to both Parties mutually, to enter into
+an agreement for the purpose of resolution of the dispute (Resp.
+15.01.2010, no. 68).
+
+The Arbitral Tribunal must concur with the Claimants that in the second
+version the rule is devoid of any practical significance. Without wanting to
+make any judgment, the Arbitral Tribunal does not see why and how the
+Republic of Senegal would agree to prefer arbitration over its own courts
+in a situation that became contentious. The practical, financial and
+psychological advantages clearly argue in favour of a judicial procedure. It
+is actually the choice made in its dispute with Sentel and MIC.
+
+Moreover, the chosen wording does not establish such intent. The text does
+not provide that the Parties could “convenir’ to have recourse to
+arbitration, but that they could “recourir” thereto, which implies that an
+additional agreement is not necessary. The solution provided is not
+presented as one of the options of an alternative of which the other would
+remain a judicial procedure which, in spite of the fact that according to the
+
+37
+
+Respondent constitutes the normal procedure, is not even mentioned
+although it was still in the Draft. The Claimants also raise the fact that
+other provisions of the Concession provide the Parties with the possibility
+to provide for a further agreement, albeit in other contexts, whereas this is
+not the case in an area as essential as the resolution of disputes.
+
+- “les parties”. The Respondent makes an argument based on the fact that
+the text does not entitle each party (singular) of such right, but both parties
+(plural), which would establish that a concerted action by the two Parties is
+necessary. The argument is not decisive since the plural may also be
+understood as a right given not only to the two Parties, but unilaterally to
+each of them.
+
+- “en définitive’. The expression, which means “when all is said and done”
+(“en fin de compte”), does not only signify the fact that this is a subsequent
+phase (already expressed by “si le litige persiste”), but the last phase,
+which would end a dispute. It is difficult to reconcile this wording with the
+idea that recourse to arbitration would be merely a possibility dependent on
+the agreement of the other Party.
+
+- the listing of the arbitration bodies. The text clearly indicates that what is
+involved is not an ad hoc arbitration but institutional arbitration. On the
+other hand, it does not designate a particular body but lists several.
+According to the Respondent, the clause is a pathological clause to the
+extent that it lists several different institutions.
+
+Nothing, however, prevents an arbitration clause from affording several
+options, from amongst which the party initiating the proceeding has the
+right to choose. The solution is current practice in investment treaties and
+its validity is not disputed since it is not contrary to the spirit of arbitration,
+especially since the mentioned bodies are all highly reputed. In the present
+case, Claimant | made use of this right by deciding to go to ICSID
+arbitration, which solution is expressly mentioned by the clause.
+Accordingly, it is not necessary to decide whether the choice by a party of
+an arbitration body which is not mentioned by the clause would be covered
+by it.
+
+- The open nature of the clause expressed at the end of the sentence by
+“etc...” is invoked by the Respondent to establish that in any event the rule
+is incomplete and that it necessarily calls for a choice which the Parties
+could only make by means of an additional agreement. It cannot be denied
+that the wording is special even if it does not necessarily militate in favor
+of the suggested solution since this choice would in any event be limited to
+[international arbitration] organisms of an equivalent type and quality as
+those bodies which are mentioned.
+
+In the view of the Arbitral Tribunal, the wording of the rule is awkward and leaves
+
+lingering doubts, but it does not unequivocally conflict with the results of the
+interpretation that the other factors dictate.
+
+38
+
+d) The basis of the rule. The Arbitral Tribunal cannot fail to take into account
+the international trend in respect of dispute resolution in agreements of the type
+involved, in particular given the general evolution that has occurred and is
+continuing. Three aspects may be pointed out in this respect:
+
+- The classic nature of the clause. Even if arbitration had been considered to
+be an exceptional system for a long time, the recent evolution establishes
+that on the contrary this system has become the usual method of dispute
+resolution in international commerce. For such reason the requirements
+laid down in the wording of the clause which provides for the application
+thereof are not as strict as they might have been before. What matters, in
+fact, is ensuring that the parties have sufficiently clearly manifested their
+intention to submit themselves to arbitration and not to State courts. The
+fact that a clause is not absolutely clear, the fact that it contains omissions
+or uncertainties, does not suffice to make it inoperative.
+
+- The presumption in favor of arbitration. Even if the expression may appear
+excessive, we can indeed speak, in case of serious doubts, of a presumption
+in favor of arbitration. This must, however, be assessed according to the
+specificities of the case. The principle will be more easily admitted if the
+parties involved are experienced in international business practices or if the
+nature of the agreement objectively calls for a solution of this type,
+provided always that the terms and conditions provided guarantee adequate
+protection of the parties.
+
+In the present case, it is evident that what is involved is an agreement
+binding the Parties, who cannot be unaware of the importance, nature and
+risks of arbitration; the agreement in which the clause is inserted is of
+considerable importance, justifying recourse to a perfectly neutral
+mechanism for resolution of disputes. Even though it might appear
+differently, the business relation is international in nature for which
+recourse to arbitration appears adequate. As has been seen, due to its
+origin, system and wording, the clause can be understood as expressing the
+intent of the Parties to submit to arbitration.
+
+- The pathological nature of the clause. In extension of the first principle
+arbitral tribunals and State courts, very much encouraged by learned
+writers, developed simple therapies to correct the imperfections of clauses
+referred to as pathological (“in favorem arbitrii”). It is necessary but it
+suffices per se that the principle of arbitration be recognized and that the
+additions and corrections may be made without distorting the original
+intent of the parties.
+
+In the present case the Respondent raises two essential ambiguities:
+
+- The first is in respect of the “caractére éventuel” (‘possible
+nature”) of the clause and the use of the verb “pouvoir” (“can”’
+the Arbitral Tribunal has indicated the reasons for which the clause
+could and should be interpreted differently. The defect does not
+affect the recognition of the principle of the arbitration.
+
+39
+
+99.
+
+100.
+
+- The second is in respect of the “caractére optionnel” (“optional
+nature”) of the clause, which allows the party at whose initiative
+the action is taken to choose the institution under whose aegis the
+arbitration shall be carried out. It has been held for some time now
+that the existence of a choice is not contrary to the system, to the
+extent that at least each of the contemplated solutions affords a
+guarantee that is adequate. In the present case, the three specified
+institutions entirely fulfill these conditions and the choice of ICSID
+cannot reasonably call for any comment. The list is not exhaustive;
+even in such form, the choice of another institution could be
+envisaged if it afforded guarantees that were comparable to the
+other mentioned institutions. The issue, however, is not posed in
+the present case.
+
+- The effectiveness of the clause. Contrary to the Respondent (Resp.
+15.01.2010, no. 114), the Arbitral Tribunal is of the opinion that preference
+must be given to the version which gives the rule real significance. In case
+of a dispute, it is always possible for parties to agree to submit it to
+arbitration, but it is obvious and the mention thereof superfluous if it is not
+accompanied at least by a moral, conditional or even legal commitment. If
+the meaning was indeed the Respondent’s one, it is hard to see why,
+following several hours of negotiations, the Claimants would have
+accepted a solution that grants them a prior guarantee of negotiation only,
+which obviously entails no mandatory effect for those parties who submit
+themselves to it.
+
+The solution reached by the Arbitral Tribunal corresponds largely to international
+case law and other decisions taken by other courts and tribunals in cases that are
+very comparable. Contrary to the assertion of the Respondent (Resp. 15.01.2010,
+nos. 71 and 115; Resp. 05.10.2010, nos. 73-141), it cannot be seen why these
+decisions could not be invoked in the present case, since they all concern
+arbitration clauses included in agreements. In particular, the Arbitral Tribunal sees
+no reason why the fact that the present proceeding was instituted in the context of
+ICSID would justify any different conclusions. These decisions were amply
+commented on and approved by doctrine. In order to spare itself from a detailed
+review, the Arbitral Tribunal refers to one of the main authorities, Gary Born, in
+his most recent and undoubtedly complete publication (G. BORN, Jnternational
+Commercial Arbitration, Vol. 1, London 2009, pp. 570 et seq.). More particularly,
+it is confirmed therein that in international matters there is a presumption of
+validity of clauses which is justified by contemporary tendencies in respect of
+methods of dispute resolution, which are very favorable to arbitration.
+
+According to the Arbitral Tribunal, the preceding arguments justify confirmation
+of the intent of the Parties to submit to ICSID arbitration if one of them takes the
+initiative for the action according to such procedure.
+
+For these reasons, and without it being necessary to discuss the other arguments
+
+put forward by the Claimants in support of their thesis, the Arbitral Tribunal finds
+that in spite of the doubts justified by its wording, Article 11 can and must be
+
+40
+
+2.3.
+
+101.
+
+102.
+
+103.
+
+understood as consent by the Republic of Senegal to ICSID arbitration
+proceeding.
+
+The validity of the consent
+
+There is also the issue of whether Article 11 of the Concession, as construed by
+the Arbitral Tribunal, validly binds the Republic of Senegal.
+
+In this respect, the Parties also maintain diametrically opposed positions.
+
+a) According to the Respondent (Resp. 29.10.09, nos. 164 et seg.; Resp.
+15.01.2010, nos. 148 et seg.), it would have been prohibited by Senegalese law
+from binding itself to an arbitration clause, and the international principles
+established in the area of international arbitration do not change this fact.
+
+b) According to the Claimants (Claim. 14.12.2009, nos. 89 et seqg.; Claim.
+12.02.2010, nos. 105 ef seq.), it would be inaccurate to assert that Senegalese
+domestic law is an obstacle to the validity of consent given by the Republic and
+that in any event the principles applied in international matters allow it to be
+ignored.
+
+It is undisputed that, as expressly provided in Article 12, the Concession is
+governed first of all by Senegalese law. According to the Respondent, the law of
+Senegal in force at the time of the Concession excluded the possibility for the
+Republic of Senegal to validly enter into an arbitration clause concerning the
+subject matter of the Concession since it concerns prerogatives of public power,
+partially in any case (see in particular Article 11 of the Senegalese Code sur les
+obligations administratives, law n° 65-51 of 19 July 1965; Article 10 of the
+Senegalese Code des obligations administratives, Article 819-29 of the Code de
+procédure civile, in the version given it by Decree n° 98-492 of 5 June 1998;
+Article 826-3 of the Code des obligations civiles et commerciales, law n° 98-30
+of 14 April 1998).
+
+This conclusion is disputed by the Claimants. They furthermore note that
+Senegalese law has evolved over the last few years and that it is more and more
+amenable to the possibilities afforded the Republic to be bound by arbitration
+clauses (see Article 12 of the Code des investissements; Article 136 of the Code
+des marchés publics).
+
+According to the Arbitral Tribunal, these rules are not decisive due to the
+principles developed in the area of international arbitration in this regard.
+
+a) The Arbitral Tribunal starts from the assumption that this proceeding
+involves an international arbitration. The Respondent admittedly objects that
+Sentel is a company registered in Senegal (see no. 2 above). The Arbitral Tribunal
+will explain below (see no. 109 below) that this connection is formal in nature,
+required for the operation of the Concession, but that in reality the stakes are
+foreign due to the control that the MIC Group companies exercise over Sentel.
+Independently of this argument, it must be pointed out that even for the
+Respondent, the Concession is international in nature; it itself brought its action
+before the Dakar Regional Court not only against Sentel but also against MIC,
+
+41
+
+104.
+
+105.
+
+which it deems bound by the Concession. Moreover, the very wording of Article
+11 of the Concession expressly refers to “l’arbitrage d’organismes
+internationaux’, mentioning institutions therein which are all international and of
+which certain, in particular ICSID, presupposes a foreign element.
+
+b) The principle today is firmly established in international arbitration that a
+State is prohibited from invoking its own domestic law in order to avoid
+arbitration and its capacity to enter into arbitration clauses. Such an attitude would
+violate the principles of good faith and of “international public policy”. This rule
+has been admitted in various cases by international courts and tribunals as well as
+by numerous learned writers of doctrine (reference in relation with Claim.
+14.12.2008, nos. 109 et seq.). Thus a famous award of 1971 held: “L’ordre public
+international s’opposerait avec force a ce qu’un organe étatique, traitant avec des
+personnes étrangéres au pays puisse passer ouvertement, le sachant et le voulant,
+une clause d’arbitrage qui met en confiance le co-contractant et puisse ensuite,
+que ce soit dans la procédure arbitrale ou dans la procédure d’exécution, se
+prévaloir de la nullité de sa propre parole.” (ICC Case no. 1939 [1973] Rev. Arb.
+145; exhibit CL-59). It has thereafter been regularly upheld (for example, Cour
+d’Appel de Paris, re chambre, section C, 17 December 1991; Gatoil
+International Incorporate v. la Société National Iranian Oil Company, no. 90-
+1957; exhibit CL-54; Cour d’Appel de Paris, ye chambre, section C, 24
+February 1994, Ministére tunisien de l’Equipement v. société Bec Freres [1995]
+Rev. Arb. 275; exhibit CL-56).
+
+This solution has itself been confirmed by doctrine (for example J. PAULSSON,
+May a State Invoke its Internal Law to Repudiate Consent to International
+Commercial Arbitration? Reflections on the Benteler v. Belgium Preliminary
+Award [1986] 2 Arb. Intl. 90, exhibit CL-58). In other words, the domestic law of
+the State that invokes it in order to dispute the validity of an arbitration clause is
+“irrelevant” (GAILLARD/SAVAGE (eds.), Fouchard, Gaillard and Goldman on
+International Commercial Arbitration, The Hague 1999, p. 61, exhibit CL-55).
+
+In the present case it has already been found above that the Parties spent a long
+time negotiating Article 11 of the Concession (see no. 7 above). It has also been
+confirmed that the intent of the Claimants at the time of such negotiations was to
+insert an arbitration clause (see no. 95 above). The Claimants also alleged that
+during such negotiations the Respondent never invoked a prohibition against
+arbitration clauses. The Respondent waived “cross examining” the Claimants’
+representatives who were present at the time of such negotiations, and it has not
+adduced any evidence that would establish the contrary.
+
+For these reasons, and without it being necessary to discuss the other arguments
+put forward by the Claimants in support of their thesis, the Arbitral Tribunal finds
+that even if domestic law prohibited the Republic of Senegal from being bound by
+an arbitration clause, this argument cannot be raised against Claimant 2 in the
+present case.
+
+42
+
+2.4,
+
+3.1.
+
+106.
+
+107.
+
+3.2.
+
+108.
+
+Conclusion
+
+It follows from the preceding discussion that:
+
+The Arbitral Tribunal has jurisdiction to entertain the action that Claimant 2 is
+bringing against the Republic of Senegal.
+
+Sentel as investor
+
+The issue
+
+In order for ICSID and the Arbitral Tribunal constituted to settle a dispute under
+its aegis to have jurisdiction, the conditions of Article 25 of the ICSID Convention
+must also be fulfilled.
+
+The Arbitral Tribunal shall not discuss again whether Sentel made an investment
+within the meaning found within such context; it suffices, in this respect, to refer
+to the discussion devoted thereto concerning the same subject relating to the
+indirect control that MIO exercises over Sentel (see no. 79 above).
+
+On the other hand, a special verification must be made as to whether the
+Convention may be invoked in a proceeding brought by Sentel. In order to do so,
+the conditions of Article 25(2) of the ICSID Convention must also be fulfilled and
+a “national of another Contracting State” must exist.
+
+As juridical persons are involved, the letter b of the same Article provides the
+following definition:
+
+“any juridical person which had the nationality of a Contracting State
+other than the State party to the dispute on the date on which the parties
+consented to submit such dispute to conciliation or arbitration and any
+juridical person which had the nationality of the Contracting State party to
+the dispute on that date and which, because of foreign control, the parties
+have agreed should be treated as a national of another Contracting State
+for the purposes of this Convention.”
+
+Only the second hypothesis must be analysed here since Sentel is indisputably
+registered in Senegal. We must therefore ascertain:
+
+- that it is controlled by foreign interests (see number 3.2. below), and
+
+- that the State party to the dispute consented to it acting on such basis (see
+number 3.3.below).
+
+The control of Sentel
+The Parties maintain fundamentally different opinions concerning this issue.
+a) According to the Respondent (Resp. 29.10.2009, no. 186, nos. 121 and
+
+188; Resp. 15.01.2010, no. 209 and nos. 250 ef seg.), Sentel would be a
+Senegalese company registered as such in the territory of Senegal and would not
+
+43
+
+109.
+
+3.3.
+
+110.
+
+fulfill the conditions laid down by Article 25(2)(b) of the ICSID Convention. The
+Parties would have expressly desired and agreed to this by setting up the
+company. In addition, it would not been established that Sentel was under foreign
+control.
+
+b) According to the Claimants, on the contrary, Sentel would be registered in
+Senegal solely for purposes of performance of the Concession. It would always
+been and is still controlled by foreign companies, of which the Respondent would
+always been informed. Furthermore, Respondent would have admitted submission
+to Article 25 of the ICSID Convention, in particular by agreeing to Article 11 of
+the Concession. Lastly, at no time would Sentel have acted in bad faith in respect
+of the constitution of its capital and the information it furnished the Respondent.
+
+The idea that is at the basis of Article 25(2)(b) (second hypothesis) is obvious. For
+purposes connected to an investment in a foreign State, it may be expedient,
+necessary or even required that a company be incorporated in the territory of the
+other Contracting State. If a strict and formal interpretation of nationality were
+adhered to, it would not be possible in such cases to have recourse to the dispute
+resolution mechanisms afforded by the ICSID Convention since all the parties
+would be nationals of the same State.
+
+However, the need to be protected may be at least as necessary if the company is
+in fact controlled by foreign interests. This is why in such case it may be
+necessary to extend protection. Without this addition, the Convention would have
+failed in its primary purpose since it would deprive investors that are forced de
+facto or de jure to have recourse to a local company from being protected (Claim.
+14.12.2009, nos. 143 et seq.).
+
+It is from this point of view that the first condition for application of the rule must
+be understood: that the company be controlled by foreign interests. The notion
+must be interpreted broadly. It is necessary, but it suffices that the major part of
+the means made available to the local company come from foreign funds. This
+indirect control by means of financing most often entails indirect powers of
+management assumed by those who have made the investment.
+
+It would therefore have to be verified whether this condition was fulfilled in
+respect of Sentel. The Arbitral Tribunal may, however, limit itself to referring
+back to the facts and arguments that it set forth above relating to MIO's status (see
+no. 83 et seq. above). It is evident that as from the beginning, Sentel was for the
+most part held by foreign interests pertaining to nationals of ICSID Contracting
+States.
+
+The entire issue thus becomes that of whether the Republic gave its consent.
+
+The Respondent's consent
+
+In order that Article 25(2)(b) of the ICSID Convention be invoked, it is lastly
+necessary that the State being sued gave its consent in order that a company,
+though a national of the same State but controlled by foreign interests, can sue it
+on this basis.
+
+44
+
+111.
+
+This implies first of all that the Respondent had knowledge thereof, and then
+agreed to submission to international arbitration.
+
+In the view of the Arbitral Tribunal, the facts that have been established make it
+clear that the State could not have been unaware that Sentel was under foreign
+control:
+
+a) Since the tender and the initial negotiations, the Republic of Senegal could
+not have been unaware that the Sentel company, which was in the process of being
+incorporated, was under foreign control since it was part of the Millicom Group
+and was under the control of MIC (Claim. 14.12.2009, nos. 165 ef seg.; Claim.
+12.02.2010, nos. 115, 127 et seg.). Messrs. Ba and Rosh maintain this position
+(cited Statements in Claim. 14.12.2009, nos. 166 et seq.). According to the tender,
+“la réussite de Sentel gsm [serait] une étape importante de la stratégie
+d’expansion sur le continent africain, adoptée par MIC” (Claim. 14.12.2009, no.
+177); the tender is an integral part of the Concession (Annex 3) (Claim.
+14.12.2009, no. 180).
+
+b) After having been selected as the successful bidder, MIC was required to
+set up a Senegalese company in order to obtain the Concession, which was
+provided for by the 1996 Code des Télécommunications, appended to the
+Concession (Annex 4) (Claim. 14.12.2009, no. 157). Indeed, Senegal and MIC
+could not have legally entered into a concession agreement without MIC setting
+up a local company, since this is expressly required by Article 6 of the Code des
+Télécommunications (Claim. 14.12.2009, no. 158; Claim. 12.02.2010, no. 121). It
+was clearly stated in the bid documents that this company would be set up and
+controlled by foreign interests connected to the MIC Group.
+
+c) The terms of the Concession themselves indicate the foreign control since
+mention is made of “la société Sentel gsm SA, filiale du group Millicom
+International Cellular (MIC).”
+
+d) In the tender process, Senegal stated that it was looking for a foreign
+investor, which could alone satisfy the requirements of the bid; as evidenced by
+the fact that an “expérience dans le développement des réseaux des Pays Tiers”
+was expressly mentioned among the major criteria used in evaluating the bids
+(Claim. 14.12.2009, nos. 169 et seg.). The Sentel company was to become a
+member of the Millicom Group (Claim. 14.12.2009, no. 156).
+
+e) The fact that the shareholding within the Group could have changed over
+the years is irrelevant in this respect and changes nothing to the basic finding,
+since it was well known from the beginning that Sentel was predominantly held by
+companies domiciled in the Netherlands or regions connected thereto (see no. 83
+et seg. below). ICSID case law does not require that the nationality of such
+interests be mentioned in the agreement concerning nationality (Claim.
+14.12.2009, nos. 140 et seq.).
+
+f) Senegal confirmed by its correspondence its knowledge of the foreign
+control of Sentel. The Senegalese government continued to deal with MIC even
+
+45
+
+112.
+
+113.
+
+114.
+
+3.4
+
+115.
+
+following Sentel's incorporation, which would confirm that it had knowledge of
+MIC's control of Sentel (Claim. 14.12.2009, no. 183).
+
+In order for the provision to be applied it implies not only the existence of control,
+but also that the parties agreed to it, which implies the consent of each of them.
+Sentel's consent is not in question; it must now be verified whether the Republic
+also gave its consent. It disputes it, the Claimants affirm it.
+
+It is undisputed that consent need not be in any special form. Consequently,
+consent may not only be explicit but also implicit. Consent in respect of
+nationality could be contained in the agreement concerning the investment or in a
+“compromis’or joint request under Article 1(2) of the Institution Rules. Such
+consent appears to exist when a State enters into an agreement with a local
+company containing an ICSID clause.
+
+For this purpose, it appears in light of the circumstances that by its behavior the
+party involved manifested its consent or, failing this that its behavior justified that
+the other party had been convinced that it consented.
+
+- An initial argument resides in the fact that the Concession makes express
+reference in Article 11 to the jurisdiction of the ICSID tribunal, the
+mention of which makes no sense unless it is admitted that the Republic
+gave its consent to an action in accordance with the ICSID procedure
+(Claim. 14.12.2009, no. 190; Claim. 12.02.2010, nos. 16 and 115). As in
+the decision in the LETCO v. Liberia case (Claim. 14.12.2009, no. 189),
+no argument can be made — and the Respondent did not raise any — based
+on the fact that MIC could also be a party to the Concession and that in
+respect of it the condition of nationality would be fulfilled in any event.
+
+- The Respondent alleges that it was by design, and precisely to avoid such
+tisk, that the Republic of Senegal required that the Concession be
+concluded with a company specially set up in Senegal for such purpose
+and incorporated in Senegal (Resp. 29.10.2009, nos. 188 et seq.; Resp.
+15.01.2010, nos. 208 and 372). The argument is not convincing since the
+requirement of incorporation in Senegal was imposed by the Republic for
+reasons which are undoubtedly understandable, but nothing allows it to be
+concluded therefrom that this in fact amounted to intent to exclude
+recourse to an ICSID arbitral tribunal. On the contrary, it is due to the
+requirements of this sort, which are relatively common in practice, that
+with respect to nationality, the notion of protected investor had been
+extended by Article 25(2)(b) in fine. The fact that the incorporation also
+provided certain benefits for the Claimants is not an obstacle thereto.
+
+ 
+
+Conclusion
+
+In light of the preceding discussion:
+
+The Arbitral Tribunal finds that it also has jurisdiction to entertain the action
+brought by Sentel against the Republic.
+
+46
+
+116.
+
+117.
+
+118.
+
+119.
+
+D. | COSTS AND EXPENSES
+
+In their pleadings, each of the Parties makes requests with respect to the costs and
+expenses of the arbitration.
+
+The Respondent [Resp. 2] requests the Arbitral Tribunal to:
+
+“condamner ces deux sociétés [les Demanderesses] a payer a la
+République du Sénégal les frais de lV’arbitrage ainsi que les frais engagés
+pour assurer sa défense.”
+
+The Claimants [Claim. 3] are expecting from the Arbitral Tribunal,
+
+“without prejudice to any final determination of the merits of the parties’
+dispute, an order that Senegal pays all costs incurred in relation to the
+objections to jurisdiction it raised, including the costs of the arbitrators
+and ICSID, as well as the legal and other expenses incurred by the
+Claimants including but not limited to the fees of their legal counsel,
+experts and consultants as well as the Claimants’ own employees, on a full
+indemnity basis, plus interest thereon at a reasonable commercial rate”.
+
+In light of such requests for relief the Arbitral Tribunal invited the Parties,
+following this phase of the proceeding, to submit their submissions concerning the
+costs of the arbitration. They have produced them.
+
+In light of the decisions made in this decision by the Arbitral Tribunal, the
+proceeding shall continue on the merits at the initiative of the Claimants. It is
+therefore not necessary at this stage to decide on the allocation and apportioning
+of the costs and expenses.
+
+The Claimants deem nevertheless that even in the hypothesis where the Arbitral
+Tribunal would find that it has jurisdiction, which hypothesis has been found here
+to be true, it must make a determination in respect of the costs and expenses
+generated by this jurisdictional phase.
+
+The Arbitral Tribunal considers that this is not appropriate. Firstly since it is
+difficult at this stage clearly to make the difference between the preparatory work
+and phases that are exclusively limited to jurisdiction. Thereafter and above all it
+is more natural that the Arbitral Tribunal makes decisions of this type at the end,
+taking all of the proceeding into account.
+
+It ensues from this argument that:
+
+The decisions concerning the determination and allocation of the costs and
+expenses of the arbitration shall be made by the end of the proceeding.
+
+47
+
+120.
+
+121.
+
+122.
+
+E. THE CONTINUATION OF THE PROCEEDING
+
+In their submissions the Claimants made two other requests for relief:
+
+“[Claim. 4] any other relief the Arbitral Tribunal may deem appropriate in the
+circumstances; and
+
+[Claim. 5] order in respect of the procedure for the next phase of this case.”
+
+The Arbitral Tribunal does not consider it necessary to order other measures with
+respect to the present decision.
+
+It is true that the proceeding shall continue with respect to the merits and that the
+Arbitral Tribunal may jointly entertain both actions brought against the
+Respondent, one based on the Treaty and the other on the Concession, but based
+on the same facts. All Parties shall thus have the opportunity to make their cases
+in a complete manner and the Arbitral Tribunal shall decide after having carried
+out all necessary analysis.
+
+The procedural rules in respect of this second phase and, in particular, the
+timetable, shall be determined in an additional procedural order that the Arbitral
+Tribunal shall render after consulting the Parties. Such order concerns the
+proceeding and is outside the scope of this decision.
+
+The Arbitral Tribunal, however, is not competent to influence the outcome of the
+proceeding brought before the Dakar Regional Court.
+
+Consequently:
+
+The continuation of the proceeding shall be determined by the Arbitral Tribunal
+in an order after consultation with the Parties.
+
+48
+
+On these grounds, the Tribunal decides as follows:
+
+The Arbitral Tribunal has jurisdiction to entertain the action that
+Claimant 1 is bringing against the Republic of Senegal.
+
+The Arbitral Tribunal has jurisdiction to entertain the action that
+Claimant 2 is bringing against the Republic of Senegal.
+
+The decisions concerning the determination and allocation of the costs
+and expenses of the arbitration shall be made by the end of the
+proceeding.
+
+The continuation of the proceeding shall be determined by the
+Arbitral Tribunal in an order, after consultations with the Parties.
+
+Date: 16 July 2010
+
+[Signed] [Signed]
+
+ 
+
+Kaj Hobér Ronny Abraham
+
+[Signed]
+
+Pierre Tercier
+
+49
+

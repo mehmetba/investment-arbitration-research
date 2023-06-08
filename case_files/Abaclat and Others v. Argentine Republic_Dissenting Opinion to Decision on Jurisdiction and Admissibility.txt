@@ -1,0 +1,3048 @@
+Abaclat and Others v. Argentina
+Dissenting Opinion, Georges Abi-Saab
+
+Table of Contents Paras.
+I - Introductory Remarks 1-19
+II - The Fourth Preliminary Objection 20-33
+III - The Ninth Preliminary Objection 34-117
+A - Investment under the ICSID Convention in General 38-61
+
+B - Applying the BIT and the Convention to the Alleged Investment 62-72
+
+C- The Territorial Link 73-119
+
+- 1) The Legal Criteria 78-87
+
+- 2) The Material Criteria for Determining the Situs of the 88-117
+
+“Investment”
+
+IV - The First Preliminary Objection : Mass Claims, Collective Actions
+and the Consent of the Respondent 120-273
+
+A-A Plea to Jurisdiction or to Admissibility ? 122-127
+
+B - The Legal Nature and Specificities of Mass Claims Actions and their
+Bearing on the “Consent to Arbitrate” 128-145
+
+C - Judicial Innovation, Collective Proceedings and “Consent to
+
+Arbitrate” 146-153
+D - The Interpretation of Silence 154-175
+E - Mass Claims Processes in International Law 176-189
+F - The Limits of Procedural Improvisation 194-262
+1) On Filling Gaps 210-220
+2) The Scope of the Proposed “Adaptations” and their Incidence
+on the Rights of the Parties 221-244
+3) Balancing of Interests Redux 245-262
+G - Epilogue on Policy Considerations 263-274
+
+V - Conclusion 275-277
+
+Abaclat and Others
+(Case formerly known as Giovanna A Beccara and Others)
+(Claimants)
+and
+The Argentine Republic
+
+(Respondent)
+
+Decision on Jurisdiction and Admissibility
+
+Dissenting Opinion
+
+Professor Georges Abi-Saab
+
+I - Introductory Remarks
+
+1 - In spite of my great respect and esteem for my co-arbitrators, I am compelled to part ways
+with their majority award for imperative reasons of principle, pertaining to substance and
+
+method.
+
+2 - Substantively, I consider that this Tribunal faces two glaringly insuperable obstacles that
+prevent it from taking jurisdiction over the collective mass claims action submitted to it,
+namely:
+
+a- that the sovereign debt instruments (whether we call them “bonds”, “obligaciones”,
+“security entitlements” or otherwise) that are at the basis of these claims, do not constitute a
+“protected investment” under the ICSID Convention and the Argentina-Italy Treaty (see
+Section III below), and
+
+b - that this ad hoc ICSID International Arbitral Tribunal has no jurisdiction under the
+ICSID Convention and the BIT over the present collective mass claims action, absent
+Argentina’s consent, nor does it have the power to elaborate new procedures to handle such
+
+an action (See Section IV below).
+
+3 - Saying that does not mean that I accept the rest of the majority award. Indeed, one of the
+
+basic reasons of my unease with this excessively long award, is its style of turning around the
+
+main issues and drowning them into an ocean of minutia and elaborated details, rather than
+confronting them frontally and treating them thoroughly. This is why I shall not, in this
+opinion, enumerate and analyze all the “objects” of my objections, but - while reserving my
+position on the other preliminary objections of Argentina - shall limit my remarks and
+analysis mainly to the two fundamental points mentioned above, which overshadow all the
+
+others; not, however, before addressing my second level of disagreement.
+
+4 - The second ground of my disagreement with the majority award, is situated at a further
+remove, at the level of legal method and reasoning, as well as the understanding of some
+basic principles, rules and concepts of international law, such as jurisdiction and
+admissibility, and the principles and methods of interpretation ; that which I shall illustrate by
+using the example of the handling by the majority award of the fourth preliminary objection,
+based on the requirement of prior consultations and resort to national courts for 18 months
+
+before going to arbitration. (See Section II below).
+
+5 - However, before turning to these objections, I have to articulate some basic premises and
+
+concepts from which my analysis proceeds.
+
+6 - i) This is technically an international ad hoc arbitral Tribunal. It is “ad hoc” because
+specially established to hear one specific case, suit or action. It is “international” because it is
+rooted in two layers of international treaties : the ICSID Convention and the Bilateral
+Investment Treaty between Italy and Argentina. As such it functions under, and is governed
+
+by international law, and has to be clearly distinguished from “international” commercial
+
+arbitration tribunals, such as those established within the framework of the International
+Chamber of Commerce, which function under national law and ultimate national judicial
+control. It is necessary to keep this distinction in mind, as solutions may vary at these two
+distinct levels; and what is sometimes permissible in municipal law, is not necessarily
+
+acceptable in international law.
+
+7 - ii) In international law, all tribunals - not only arbitral, but even judicial - are tribunals of
+attributed, hence limited jurisdiction (juridictions d’attribution). There is no tribunal or
+system of tribunals of plenary or general jurisdiction (juridiction de droit commun) that
+covers all cases and subjects, barring exceptions falling under - i.e. attributed to - the
+jurisdiction of a specialized tribunal. This is because, in the absence of a centralized power
+on the international level that exercises the judicial function through a judicial system
+empowered from above (or rather incarnating the judicial power as part of the centralized
+power), all international adjudicatory bodies are empowered from below, being based on the
+consent and agreement of the subjects (i.e. the litigants, les justiciables) themselves (with the
+very limited exception of tribunals created by international organizations in the exercise of
+their powers under their constitutive treaties, which are also ultimately based on the consent
+
+of the subjects that concluded or adhered to these constitutive treaties).
+
+8 - iii) This is the reason why, the fundamental principle and basic rule in international
+adjudication, is that of the consensual basis of jurisdiction. It also explains the prominent
+place of questions of jurisdiction both in the jurisprudence and in the writings on
+
+international adjudication. It explains as well the widely shared perception that the first task
+
+of an international tribunal is to ascertain its jurisdiction; and the great care international
+tribunals take in establishing from the outset, the existence and limits of the consent of the
+
+parties before them, on which their jurisdiction is founded.
+
+9 - iv) Jurisdiction as a concept in international law, partakes of its generic meaning in the
+general theory of law; but is further specified and particularized in function of the
+
+fundamental principle of the consensual basis of international adjudication.
+
+10 - The term “jurisdiction” (from the latin “jurisdictio”, literally to “pronounce” or
+“enunciate the law”, dire le droit), when used in the judicial or adjudicative context, denotes
+“the legal power of an organ to decide cases (in general) or a case (in particular) by
+application of law’. In other words, it is the empowerment to exercise the judicial function.
+Thus, jurisdiction refers first and foremost to a legal power to exercise a certain type of
+activity, the judicial function’.
+
+11 - In English, however, the term “jurisdiction” is also used to designate the “ambit” or
+“sphere” within or over which this power is exercised, though in other languages, such as
+French and Spanish, another term is used to designate the “ambit”, which is “competence”.
+
+Some writers and arbitral decisions seem to be oblivious of the primary and more
+
+' See different definitions of the term (putting emphasis on power), in Black’s Law
+Dictionary (6th ed., 1990) : Jurisdiction : A term of comprehensive import embracing every kind
+of judicial action...It is the power of the court to decide a matter in controversy and presupposes
+the existence of a duly constituted court with control over the subject matter and the parties...
+Jurisdiction defines the powers of courts to inquire into facts, apply the law, make decisions, and
+declare judgment... The legal right by which judges exercise their authority...Power and
+authority of a court to hear and determine a judicial proceeding; and a power to render particular
+judgment in question...” (emphasis added).
+
+fundamental meaning of jurisdiction as power, limiting the term to the ambit of this power.
+Jurisdiction as ambit is defined as a four-dimensional sphere, by its extent and limits in time
+(ratione temporis) and space (ratione loci), and over subjects (ratione personae) and objects
+
+or subjects-matters (ratione materiae).
+
+12 - v) In international law, because of its consensual basis, jurisdiction as an ambit is
+analyzed and scrutinized at two different levels, where adjudication is not intended for one
+case only, but takes place within an institutional setting, either of a standing organ (such as
+the ICJ) or a framework within which ad hoc tribunals are established (such as the PCA and
+the ICSID) :
+
+a) - “general jurisdiction” which defines the objective range and outer limits of the
+ambit for all cases, according to the constitutive instrument of the organ (e.g. the ICJ Statute),
+or the framework convention (e.g. the ICSID Convention;.
+
+b) - “special jurisdiction” which defines the subjective range and limits of the ambit of
+jurisdiction of the organ in a particular case, according to the specific jurisdictional title
+
+bearing the consent of the parties, on the basis of which the case is brought before the organ.
+
+13 - The consent of the parties cannot go beyond the objective limits of the general
+jurisdiction of the organ, but can restrict its jurisdiction further within these objective limits,
+by the parties subjecting their consent to additional limits, conditions or reservations. These
+can relate to any of the four dimensions of the ambit. But they can also relate to the powers
+of the organ as such (the primary meaning of jurisdiction), as long as this does not touch the
+
+hard core requirements of the judicial function, for example by excluding from its powers the
+
+indication of provisional measures.
+
+14 - In case of ICSID arbitration, the jurisdictional title for general jurisdiction is the
+Convention itself. For “special jurisdiction”, the title is usually two-tiered : the BIT between
+
+the two States and the consent in writing of the two parties to the dispute.
+
+15 - Thus, for an ICSID ad hoc tribunal, a triple-layered consent is usually required. For such
+a Tribunal to take jurisdiction over a case, it has to ascertain :
+
+a - that the case falls within the jurisdiction of the ICSID as defined by the ICSID
+Convention and related instruments (Rules of Procedure, etc.);
+
+b - that it falls within the bounds defined by the BIT between the State party to the
+ICSID arbitration and the national State of the investor (which usually - but not necessarily -
+also carries the consent of the two states to arbitrate);
+
+c - and that the case is covered by the specific written consent of the parties to the
+dispute (which can be for the State party, the BIT or another unilateral act bearing its
+consent. But it can also be a compromissory clause in a contract between the parties; and for
+the investor it can be the request of arbitration itself).
+
+The Tribunal has to ascertain the existence and scope of the consent of the parties within the
+
+limits prescribed by them in each of the above-mentioned instruments.
+
+16 - vii) The requirement to ascertain the existence and scope of consent, while strict and
+exacting in international law, does not mean the restrictive interpretation of the jurisdictional
+
+title (the old theory of interpretation in favour of sovereignty, as far as the State party is
+
+concerned). But it does not mean either its extensive interpretation beyond “the horizon of
+foreseeability”; i.e. extending jurisdiction to what the party or parties could not have
+foreseen at the time the treaty was concluded or consent was given. Interpretation is limited
+here to the establishment of the reality and extent of the consent of the party or parties, at the
+
+time it was given.
+
+17 - viii) As with jurisdiction, the concept of admissibility in international law partakes of its
+generic meaning in the general theory of law, but is further particularized in function of the
+
+specificities of international adjudication, including its consensual basis.
+
+18 - Generically, the admissibility conditions relate to the claim, and whether it is ripe and
+capable of being examined judicially, as well as to the claimant, and whether he or she _ is
+
+legally empowered to bring the claim to court.
+
+19 - It is true that these conditions were adjusted to the specificities of international law, and
+some additional ones were developed, by way of custom. But none of these conditions has
+anything to do with the determination of the scope of consent whether to the general or the
+special jurisdiction of tribunals, contrary to what the majority award asserts (para. 496); these
+
+questions being jurisdictional by essence.
+
+Il- The Fourth Preliminary Objection
+
+20 - This objection is based on the non-fulfilment by the Claimants of the requirements of
+prior consultations (or negotiations) and, in case they fail to settle the dispute, resort to local
+courts for 18 months before going to arbitration. These two conditions are stipulated in
+paragraphs 1 to 3 of article 8 of the BIT dealing with the settlement of disputes, which
+constitutes the second layer of the jurisdictional title in the present case (para. 15 above), and
+the preliminary objection based on them is presented by the Respondent as a plea to
+
+jurisdiction.
+
+21 - The majority award rejects this legal characterization on the basis of an
+incomprehensible distinction between “conditioning its [a State party’s] consent to ICSID
+jurisdiction to the fulfilment of a pre-condition” - which, I presume, would constitute a
+jurisdictional limitation according to the majority award - and “conditioning the effective
+implementation of such consent, i.e. the possibility to resort to ICSID arbitration, to the
+fulfilment of such a pre-condition” (para. 494), which can lead “only - if at all - to a lack of
+
+admissibility of the claim” (para. 496).
+
+22 - Abstruseness and the absence of any suggested criterion to effect this distinction apart, I
+can see no legal or logical objective reason to distinguish between the different conditions,
+reservations or limitations that parties attach to their consent in the jurisdictional title, be it
+one or a multi-layered one, as in the present case, and be these reservations or conditions
+
+related to the general or the special jurisdiction of the tribunal.
+
+23 - It is true that, under general international law, the two requirements in question are
+
+considered as conditions of admissibility. But when such conditions are included in the
+jurisdictional title, they condition, like any other reservation inserted in the jurisdictional
+title, the consent of the party or parties making them, to submit to the jurisdiction of the
+judicial or arbitral organ, and limit by that much the exercise by the organ of its jurisdiction.
+In other words, in this case these conditions become conventionally jurisdictional, in addition
+
+to being admissibility conditions by their legal nature.
+
+24 - But the fatal blow to the majority opinion’s distinction comes from much closer quarters.
+For the non-adepts at legal analysis, it suffices to read the second sentence of Article 26 of
+the ICSID Convention (“A contracting State may require the exhaustion of local
+administrative or judicial remedies as a condition of its consent to arbitration under this
+Convention”), to discover that such a stipulated requirement conditions the consent to
+arbitrate and not merely “the effective implementation of such consent”, whatever that
+means. As such, it is a limit to jurisdiction, and the plea based on it is a plea to jurisdiction
+
+and not to admissibility.
+
+25 - Be that as it may, and regardless of the classification of the objection as a plea to
+jurisdiction or to admissibility, the result of the non-fulfilment of the requirements should
+have been the same, the dismissal of the case. But what is even more striking in the treatment
+by the majority award of these two conditions (under admissibility), is the short shrift it gives
+
+them and the cavalier way it disposes of them.
+
+26 - Thus, the requirement of prior consultations, in spite of the peremptory “shall” of article
+
+10
+
+8/1 of the BIT’, and the clear text of this paragraph, the majority award practically strikes it
+
+out of the treaty, together with the paragraph that stipulates it, on the ground, inter alia, that:
+“Tn the view of the Tribunal, the consultation requirement set forth in Article 8(1) BIT
+is not to be considered of a mandatory nature but as the expression of the good will of
+the Parties to try firstly to settle any dispute in an amicable way” (para. 564).
+
+And this is because the provision contains the proviso “to the extent possible”. But this
+
+proviso is inherent to all “obligations of means” or of “best efforts” (obligations de moyen),
+
+which would be, according to the majority award’s reasoning, devoid of any legal effect and
+
+can be simply ignored, rendering the provisions stipulating them totally useless (with no effet
+
+utile)!
+
+27 - More aggravating still, is the manner in which the majority award treated the second of
+these requirements, that of resorting to Argentinean tribunals for 18 months before initiating
+arbitration. Here, the majority award admits that this requirement should have been, but was
+not complied with by the Claimants. But it immediately adds, at para. 579 : “At the same
+time, the wording of Article 8 BIT itself does not suffice to draw specific conclusions with
+regard to the consequence of non compliance with the order established by Article 8", and, at
+para. 580, that “Claimants’ disregard of the...requirement is in itself not yet sufficient to
+
+preclude Claimants from resorting to arbitration”.
+
+Article 8 :
+1. Any dispute relating to investments that may arise between an investor from one of the
+Contracting Parties and the other Party, with respect to matters regulated by this Agreement,
+shall be, insofar as possible, resolved through amicable consultations between the parties to the
+dispute” (emphasis added).
+
+28 - These last two sentences are very odd indeed. For no instrument, laying down
+jurisdictional limits or admissibility conditions, specifies the legal consequences of non
+observance of these limits or non fulfilment of these conditions. These consequences are
+embedded in the very legal classification of these as jurisdictional limits or admissibility
+conditions. According to the general rules of law and rules of general international law, non
+compliance begets the inevitable legal sanction of dismissing the case, as falling outside the
+jurisdiction of the tribunal or as inadmissible. Only if the parties want to waive or vary this
+sanction do they address the effect of non compliance in the instrument. Otherwise, in case
+
+of silence, it is the rules of general international law that apply.
+
+29 - Instead, and in spite of its admission that the requirement is obligatory and that it was
+not fulfiled, the majority award decides to proceed to a “weighing of the interests of the
+Parties” (para. 582), it concludes that “it would be unfair to deprive the investor of its right to
+resort to arbitration based on the mere disregard of the 18 months litigation requirement”
+(para. 583); adding : “[T]his conclusion derives more from a weighing of the specific
+interests at stake than from the application of the general principle of futility” (para. 584);
+
+before rejecting the preliminary objection.
+
+30 - Here again, the majority award takes the liberty of striking out a clear conventional
+requirement, on the basis of its purely subjective judgment; that which calls for three
+
+remarks.
+
+31 - First, the “balancing of interests”, that the majority award arrogates to itself the right to
+go behind the text (or across the mirror) in order to operate, has already been done, at the
+appropriate legislative level, by the parties themselves, introducing the requirement in the
+Treaty, but limiting it to 18 months. And it was reflected or registered in the clear text. It is
+not open to the Tribunal, which is now called upon to apply it, to put it into question in the
+name of a rebalancing of interests more to its liking, at the expense of the one agreed by the
+
+parties.
+
+32 - Secondly, both the language (“it would be unfair”) and the stance of the argument, are
+those of a tribunal judging ex aequo et bono, which is prohibited by the rules of general
+international law and the ICSID Convention, except by agreement of the parties (Article
+
+42/3); absent which, the judgment is ultra vires.
+
+33 - Thirdly, the presumed unfairness derives, according to the majority award, from the fact
+that “the deprivation of the investor’s right to resort to arbitration would, in effect, deprive
+him of an important and efficient dispute settlement means” (para. 583). Elsewhere in the
+award, it is even contended that the dismissal of the case would deprive the securities holders
+of any effective means of dispute settlement. But I beg to differ. For, apart from the
+Argentinean courts that the Claimants had not even tried, they could have gone to the chosen
+fora in the security entitlement instruments, which are neutral fora of major financial centers;
+or to Italian courts, against the banks that sold them the security entitlements in the bonds,
+and whose ambiguous role, when later grouped as Task Force Argentina, is strongly
+
+contested by the Respondent as having diverted the bondholders from those normal fora for
+
+13
+
+this type of disputes, towards the extraordinary forum of ICSID arbitration, in order to
+
+circumvent their own responsibility.
+
+Ill - The Ninth Preliminary Objection
+
+34 - This objection is based on the contention that the security entitlements in the
+Argentinean bonds held by the Claimants, do not constitute a covered or protected
+“investment” under the ICSID Convention and the Bilateral Investment Treaty between Italy
+and Argentina; and that, in consequence, the Tribunal has no jurisdiction ratione materiae
+
+over the case.
+
+35 - This is, to my knowledge, the first ICSID case that involves a sovereign debt bond (or a
+security entitlement therein), totally unrelated to a specific project or economic operation or
+enterprise in the borrowing State. It raises a major issue as to the jurisdiction of ICSID
+
+tribunals over a vast new field, with incalculable economic and political ramifications.
+
+36 - The assessment of this preliminary objection requires defining what is a protected or
+covered “investment” under the ICSID Convention and the BIT, and whether the financial
+
+security entitlements in question fall within this definition.
+
+37 - In what follows, I shall proceed to address these questions by successive
+
+approximations, indicating, where appropriate, the points of my divergence from the majority
+
+14
+
+award.
+
+Investment under the ICSID Convention in General
+
+38 - Starting with the ICSID Convention, the task is to identify the purport of the term
+“investment” in paragraph 1 of article 25, which defines the scope of jurisdiction of the
+Centre as extending “to any legal dispute arising directly out of an investment...”. It is to be
+noted, however, that beyond this mention, the Convention does not provide expressly a
+
+definition of what is meant by “investment” for its purposes.
+
+39 - This led to one opinion according to which, since the ICSID Convention does not define
+“investment”, this task is totally abdicated or left to the BIT (or another jurisdictional title, on
+the basis of which the case is brought before an ICSID arbitral tribunal). In consequence,
+according to this opinion, there is no need for a “double-barreled” test the claim has to pass,
+under both the ICSID Convention and the BIT, in order to qualify as an investment. It
+suffices to qualify only under the BIT (or another jurisdictional title reflecting the consent of
+
+the Parties).
+
+40 - This opinion does not withstand scrutiny. That the ICSID Convention does not provide
+an express definition of investment does not automatically imply that the definition is totally
+left to the BITs. This is because words have an intrinsic meaning, hence a limited and
+limiting one, however large and vague it may be (although there is always a penumbra
+
+around the limits which provides the margin of interpretation). Without limits, words would
+
+15
+
+be meaningless, because undistinguishable from one another. The intrinsic meaning of a
+word, which is its “ordinary” meaning, is further specified by the way it is used and the
+
+context in which it is used; and if it figures in a treaty, by the object and purpose of the treaty.
+
+41 - A clear distinction has to be made between the use of the term “investment” in the
+financial context and in the ICSID context. In financial markets, “investment” covers the
+acquisition of any kind of assets such as deposit accounts, debt and equity securities, credit
+
+default swaps and derivatives.
+
+42 - This over-wide financial concept of investment is fundamentally different from the
+concept of investment envisaged when drafting the ICSID Convention and followed in its
+context since. And in the words of the Annulment Committee in Mitchell v. Democratic
+Republic of Congo :
+“It is obvious that the special and privileged arrangements established by the
+Washington Convention can be applied only to the type of investment which the
+
+Contracting States to the Convention envisaged”.
+
+43 - The Travaux Préparatoires of the ICSID Convention reveal the limiting or restricting
+intent behind the introduction and further qualification of the term “investment” in the
+provision that became article 25. Thus, in response to concerns about the over-broad
+jurisdiction ratione materiae in the Working Paper which simply referred to “disputes”, the
+
+> Decision on the Application for Annulment of the Award of 9 February 2004 (1 Nov.
+2006). ICSID case No ARB/99/7, para. 25.
+
+Preliminary Draft introduced the term “investment” as a qualifier before “disputes”, in
+defining the ambit of jurisdiction (“any existing or future investment dispute of a legal
+
+nature”)’.
+
+4 History of the ICSID Convention, vol. 1, pp. 110-112.
+
+17
+
+44 - This was further narrowed in the First Draft : “all legal disputes...arising out of or in
+
+995
+
+connection with any investment”. This formula was in turn strongly attacked as too wide,
+
+particularly the clause “in connection with”, which was struck out by a vote of 26 to 8, while
+
+adding the further qualifier “directly” into the Second (revised) Draft that became the actual
+
+formula : “any dispute arising directly out of an investment”.
+
+45 - The purpose for using the term “investment” in article 25/1 was thus to set objective
+outer-limits to the types of disputes that can be treated within the ICSID’; and that is enough
+to refute the opinion referred to in paragraph 38 above. It is true that these outer-limits bound
+
+a vast ambit, to the point of not being clearly visible to some. But they exist all the same.
+
+° Ibid. p. 116.
+° Ibid. p. 118.
+
+’ The exclusion of certain types of transactions, starting with ordinary commercial
+transactions, i.e. the purchase of goods and services in the normal course of business, was clearly
+on the mind of the drafters of the Convention, particularly its main architect, A. Broches (ibid.
+Vol II, p. 83). It was frequently reiterated by ICSID Tribunals, e.g. SGS v. Pakistan, (Decision
+on Jurisdiction, 6 August 2003, para. 133) : “...investment...embod[ies] certain core meaning
+which distinguishes it from ‘an ordinary commercial transaction’ such as a simple, stand alone,
+sale of goods or services”; Phoenix Action v. Czech Republic (Award 15 April 2009, para. 96) :
+“There is nothing like a total discretion, even if the definition [of investment] developed by
+ICSID case law is quite broad and encompassing. There are indeed some basic criteria and
+parties are not free to decide in BITS that anything - like a sale of goods or a dowry for example
+- is an investment”.
+
+46 - Differently put, the term “investment” in article 25/1 of the ICSID Convention, whilst
+flexible enough, is not infinitely elastic®. It leaves much latitude and a wide margin of
+interpretation and further specification to States in their BITs; but not to the point of
+rendering it totally vacuous, without any legal effect. In other words, the term has a hard-core
+
+that cannot be waived even by agreement of States parties to a BIT’.
+
+47 - To identify this hard-core, one has to look further into the general context of the ICSID
+
+Convention and the circumstances surrounding its elaboration as well as to its object and
+
+purpose.
+
+48 - It is most significant that the ICSID Convention was elaborated and the Centre
+established on the initiative and within the framework of the International Bank for
+Reconstruction and Development; an institution which concentrated its activities since the
+early sixties almost exclusively to the second facet of its mandate according to its title, i.e.
+
+the “development” of the less developed countries.
+
+49 - The Preamble of the Convention clearly reveals its “developmental” object and purpose,
+
+® See Michael Waibel, “Opening Pandora’s Box : Sovereign Bonds in International
+Arbitration” 101 AJIL (2007, No. 4), p. 711 at p. 722.
+
+° See Phoenix Action v. Czech Republic, supra note 7. The Tribunal adds : “...BITs which
+are bilateral arrangements between two States parties, cannot contradict the definition of the
+ICSID Convention. In other words, they can confirm the ICSID notion or restrict it, but they
+cannot expand it in order to have access to ICSID. A definition included in a BIT being based on
+a text agreed between two States cannot set aside the definition of the ICSID Convention, which
+is a multilateral agreement”.
+
+as a means of encouraging “international cooperation for development, and the role of private
+international investment therein”; and this by making available “facilities for international
+conciliation or arbitration”, besides the national courts of host States, to settle potential
+
+disputes arising from such investments between private foreign investors and those States.
+
+50 - The investment that the Convention seeks to encourage by providing it with an
+international procedural guarantee is that which contributes to the economic development of
+the host country, i.e. to the expansion of its productive capacity, a contribution that
+presupposes a commitment to this task not only of economic resources, but also in terms of
+duration in time and the taking of risk, with the expectation of reaping profits and/or
+
+revenue in return.
+
+51 - The different attempts by ICSID tribunals to capture the essence of this hard-core
+concept of investment in article 25 and formulate it in terms of criteria or conditions -
+
+10. but also in Phoenix Action v. Czech Republic' ' as
+
+particularly the classical Salini criteria
+well as in the recent Romak S.A. v. Uzbekistan case’ - all turn around the same idea, with
+
+minor variations.
+
+10 salini Construttori v. Morocco, Decision on Jurisdiction, 23 July 2001, ICSID case No.
+ARB/09/4, para. 55-56).
+
+" Supra, note 7, at para. 82.
+"2 BCA case No. AA 280, Award of 26 Nov. 2009, para. 180, 207, quoted in the majority
+award, para. 370.
+
+20
+
+52 - The fact that the Salini criteria or the other similar formulations are not expressly laid
+down in the ICSID Convention does not mean that they do not articulate, perhaps
+imperfectly, an obligatory requirement of article 25, or that this requirement has no
+constraining effect if States parties to the ICSID Convention chose to ignore it in their BITs,
+as the muddled analysis of this issue in the majority award seems at one point to suggest
+(para. 364, also 351). But the award hedges the issue by contending that in any case, the
+investment in question satisfies the requirement, at least as formulated in the Romak v.
+
+Uzbekistan case (para.371); a contention subject to verification below.
+
+53 - What type of investment corresponds to this requirement ? It is worth recalling that the
+main object and purpose of the Convention was to encourage the flow of private foreign
+investment into developing countries, by making available an additional international
+procedural facility or guarantee that counter-balances the host State’s regulatory authority
+over investment and economic activities in its territory; in other words, by providing a neutral
+international forum in case of dispute, as an alternative to submitting to the jurisdiction of the
+
+tribunals of the host State.
+
+54 - Such facility is basically needed by private foreign direct investment, for it is this type of
+investment that once it is carried out in the host country, for example by building factories or
+establishing enterprises, falls under the imperium of the host State in terms of legislation and
+
+adjudication.
+
+55 - Direct foreign investment is then the “ideal type” of investment (in the Weberian sense
+
+21
+
+of the term) for ICSID purposes. But does it exhaust the ambit of ICSID jurisdiction ratione
+materiae ? And if not, how far can an alleged investment depart from the ideal type and still
+be covered by the Convention, i.e. and still be considered as falling within the objective
+
+outer- limits set by article 25 ?
+
+56 - This question arises particularly in relation to “portfolio investments” and other financial
+negotiable products traded in the financial markets, which cover a wide spectrum ranging
+from standardized instruments such as shares, bonds and loans to structured and derivative
+
+products, such as hedges (of currencies, oil, etc.) and credit default swaps.
+
+57 - Such widely dispersed off-the shelf financial products, with their high velocity of
+circulation and their remoteness, the same as their holders, from the State in whose territory
+the investment is supposed to take place (being traded within seconds at the touch ofa button
+in capital markets, with no involvement or knowledge of the borrowing country, nor passage
+through the territory or the legal system of that State), seem at first blush to be worlds apart
+from the direct foreign investment model, which is usually long negotiated and extensively
+
+embedded in the legal environment of the host State.
+
+58 - This raises acutely the question of the conformity of these financial products with the
+requirements of article 25 and evokes a kind of informal presumption that, because of their
+intrinsic characteristics described above, they are excluded per se, i.e. automatically, from the
+
+protected or covered investments under the Convention.
+
+22
+
+59 - All the same, the empirical evidence reveals that whilst the vast majority of transactions
+considered by ICSID tribunals to constitute covered or protected investments under the
+Convention consisted of direct foreign investment, some of these tribunals have also
+considered negotiable financial products, in certain circumstances, as covered investments.
+Some BITs also include financial products, or some of them, in their illustrative list of
+
+investment.
+
+60 - This practice goes against the presumption that financial products are disqualified per se
+and automatically as protected investment under the Convention; that which led a learned
+
+commentator to observe that “[p]ortfolio investment(s)...are not excluded as a rule”,
+
+61 - “Not [being] excluded as a rule” simply means that they are not excluded automatically,
+
+per se. But it also means that they can be excluded in certain cases. In other words, it means
+that the exclusion or inclusion cannot be operated automatically, on the basis of the mere
+classification of the instruments per se, but has to be done on a case by case basis, depending
+on other factors and criteria that lie beyond the mere categorization of the instrument in
+question; factors and criteria that I examine below in relation to the alleged investment in the
+
+present case.
+
+Applying the BIT and the Convention to the Alleged Investment
+
+'8 G. Sacerdoti “Bilateral Treaties and Multilateral Instruments on Investment
+Protection”, Recueil des Cours, Hague Academy of International Law, vol. 269 (1997), p. 251, at
+p. 307.
+
+23
+
+62 - Article 1 (“Definitions”) of the BIT between Italy and Argentina provides in its first
+paragraph (in the unofficial English translation of Argentina) :
+“For the purposes of this Agreement :
+1. The term ‘investment’ shall mean, in conformity with the legal system of the
+receiving Country and independently from the legal form adopted or from any other
+connected legal system, any contribution or asset invested or reinvested by physical or
+juridical persons of one Contracting Party in the territory of the other, in accordance
+with the laws and regulations of the latter.
+Within this general context, the following are specifically, but not exclusively,
+
+considered to be investments :
+
+c. debt obligations, public or private securities or any other right to benefits or
+
+services with an economic value, as well as capitalized income;”
+
+63 - The Claimants’ English translation of lit. c. is somewhat different :
+“c. bonds, private or public financial instruments or any other right to performances or
+
+services having economic value, including capitalized revenues;”
+
+64 - The Tribunal’s English translation is as follows :
+
+“c. obligations, private or public titles or any other right to performances of services
+
+having economic value, including capitalized revenues;”
+
+24
+
+65 - Having examined the wording of this provision and the nature of the alleged investment
+in casu, the majority award concludes that : “Claimants purchase of security entitlements in
+Argentinean bonds constitute a contribution which qualifies as ‘investment’ per se under
+
+Article 1(1) of the BIT” (para. 371).
+
+66 - Before reaching this conclusion, the majority award dispenses with the requirements of
+Article 25 of the ICSID Convention, by examining three alternative theories or views (which
+it paradoxically counts as two) (para.368). The first is to apply the double-barreled test; but if
+the alleged investment or contribution satisfies the BIT test, but not the Salini test, the former
+test should prevail, i.e. discarding the requirements of Article 25, according to Salini (paras.
+363-368). The second view is simply to discard the double-barreled test and require only a
+BIT test, discarding formally and totally any requirements by the ICSID Convention in this
+regard! (para. 369). The third view, pays lip service to Article 25 of the Convention by
+maintaining that, if need be, the term “investment” per se in Article 1/1 of the BIT can be
+analyzed in the same manner as in Article 25 of the Convention, as interpreted in the Romak
+v. Uzbekistan case (para. 371). From which statement the majority award presumably expects
+the reader to infer and assume that the alleged investment satisfies the criteria of Romak,
+without any further proof or demonstration on the part or the award, which jumps directly to
+the conclusion that “Claimants’ purchase of security entitlements in Argentinean bonds
+constitute a contribution which qualifies as investment per se under Article 1(1) of the BIT”
+
+(para. 371).
+
+67 - Be that as it may, this conclusion or finding of the majority award calls for verification
+
+25
+
+on several levels, namely, (by ascending order of importance) :
+
+i- Do the securities in question really correspond to Article 1/1/c of the BIT ?
+
+ii - Could they be considered as protected investments in Argentina in view of their
+legal remoteness, the same as their present holders, from Argentina, and the bonds it initially
+issued ?
+
+iii - Assuming that both preceding questions are answered in the affirmative, do these
+securities fulfil the substantive conditions of the Convention and the BIT relating to the
+
+contribution, particularly the territorial link ?
+
+68 - (i) Concerning the first question : whether the alleged investment is covered by Article
+1/l/e of the BIT or not, there is no need to revisit here the controversy over the correct
+English translation of “obligaciones”, and whether it is “bonds” (Claimants), or “debt
+obligations” (Respondent), or merely “obligations” (Tribunal). On this question I agree with
+the majority analysis that Article 1/1/c covers financial instruments, and that its language is
+
+large enough to encompass the security entitlements in the Argentinean bonds.
+
+69 - (ii) The problem raised by the second question is much more complicated than transpires
+from the simplistic argument by which the majority award brushes it asides, simply affirming
+that the bonds and the security entitlements “are part of one and the same economic
+
+operation” (para. 359).
+
+70 - The award fails clearly to distinguish between purchases on the primary market,
+
+involving the issuer (Argentina) and the first buyers of the issue (the underwriters), and the
+
+26
+
+secondary market, where previously issued securities are traded, without any involvement of
+the sovereign debtor. An ICSID Tribunal cannot look only at the economics of a transaction,
+without taking into consideration its legal framework and structure, in order to determine
+
+whether it qualifies as a protected “investment” or not.
+
+71 - Even from a purely economic point of view (not to mention the legal perspective), the
+passage from the primary to the secondary market is neither automatic nor certain. The
+underwriters of the bonds bear the risk of not attracting enough demand, which is one reason
+why they receive an underwriting spread. Moreover, they may want to keep bonds as part of
+their portfolio. Similarly, and also from an exclusively economic point of view, the position
+of Argentina in these two markets is totally different. In the primary market, Argentina
+received the proceeds of the initial issuance of the bonds from the underwriters. By contrast,
+the flow of funds triggered by transactions in the secondary market is exclusively between
+the buyer and seller of the security entitlements, its volume depending on the conditions
+prevailing in that market, and bearing no visible relation to the lump-sum received by
+
+. . . 4
+Argentina from the underwriters at issuance °.
+
+72 - The Tribunal is thus bound to look at the circumstances of the individual purchases of
+security entitlements, and their traceability to - i.e. the strength or tenuousness of their legal
+nexus with - Argentina, before it can decide whether the dispute over each of them “aris[es]
+
+directly out of an investment”; in other words whether they satisfy the requirements of a
+
+'4 See, Waibel, “Opening Pandora’s Box”, supra note 8. p.727.
+
+27
+
+covered or protected “investment” under the Convention and the BIT, on which hinges its
+
+jurisdiction ratione materiae.
+
+The Territorial Link
+73 - Assuming, arguendo, that the answer to the first two questions calling for verification is
+in the affirmative (an assumption that I refute regarding the second question, as just
+explained above), there remains the third, and more problematic question, namely : do these
+security entitlements satisfy the other, substantive, conditions of the Convention and the BIT,
+
+particularly that of a territorial nexus or link with Argentina ?
+
+74 - A territorial link or nexus is inherent in the concept of “investment” in article 25 of the
+ICSID Convention. The whole idea behind the Convention was to encourage the flow of
+private foreign investment to developing countries by offering an international guarantee in
+the form of an alternative neutral adjudication of disputes arising out of such investment in
+
+the territory of the host States, typically subject to its laws and courts.
+
+75 - In addition, the Argentina-Italy BIT unambiguously requires a territorial link between
+the alleged investment and the host country. The Preamble of the Argentina-Italy BIT
+expresses the State parties’ intentions to “create favourable conditions for investments by
+nationals and companies of either State in the territory of the other” - a standard formulation
+found in many BITs. The definition of investment in Article 1 refers to “any contribution or
+asset invested or reinvested by physical or juridical persons of one Contracting Party in the
+
+territory of the other”, and Article 1/4 carefully delimits the BIT’s territorial ambit.
+
+28
+
+76 - The BIT’s substantive provisions are also conditioned on a territorial link, including :
+
+- Article 2 (protection and promotion of investments) calls on each contracting party
+to “encourage the making of investments in its territory by investors of the other Contracting
+Party”;
+
+- Article 2/2 (full protection and security) obliges each party to refrain from “adopting
+unjustified or discriminatory measures that impair the management, maintenance, enjoyment,
+transformation, cessation and liquidation of investments made in its territory by investors of
+the other Contracting Party”;
+
+- Article 3 (national and most favoured treatment) likewise contains the qualifier
+“within its own territory”;
+
+- Article 4 (compensation for damage or loss) refers to “the Contracting Party in
+
+whose territory the investment was made”.
+
+77 - This requisite territorial link is clearly absent in the present case. The alleged investment,
+the security entitlements, are not located in Argentina by applying either the legal or the
+
+material criteria for determining such location
+
+78 - 1) The legal criteria : the financial securities instruments that constitute the alleged
+investment, i.e. the security entitlements in Argentinean bonds, have been sold in
+international financial markets, outside Argentina, with choice of law and forum selection
+clauses subjecting them to laws and fora foreign to Argentina. In fact, they were
+intentionally situated outside Argentina and out of reach of its laws and tribunals. There is no
+
+way then to say (and no legal basis for saying) that they are legally located in Argentina.
+
+29
+
+79 - The majority award contests this clear conclusion on two grounds :
+
+a) The first is that the above conclusion “would mean that forum selection clauses
+determine the place where contractual performance is supposed to take place”, whilst they
+are merely “of a procedural nature aiming to determine the place of settlement of a dispute
+relating to contractual performance”, but “have nothing to do with the place where a party is
+
+supposed to perform its obligations” (para. 379).
+
+80 - The majority award appears thus to suggest that the determinative factor is the place of
+performance. If this criterion is applied, there can be no doubt that the place of performance
+under the securities instruments at issue is invariably outside Argentina, given the use of
+fiscal agents, paying agents, depositories and places of payment all situated outside
+Argentina. Factors other than the place of performance also point to the location of the
+
+securities in question outside Argentina.
+
+81 - Among these other factors, I consider a clause selecting courts external to the host State,
+as a prominent one in determining where the security instruments, and the underlying right to
+
+repayment of the debt, are located’.
+
+'S Bayview v. Mexico, Preliminary Objections, Award of 19 June 2007, paras 101-102.
+
+30
+
+82 - To answer the question whether the securities in question are located in Argentinean
+territory, this Tribunal needs to determine the situs of the debt - i.e. the alleged investment -
+using a systematic approach consistent with well founded and established precedents and
+drawing on private international law rules. The foreign governing law and foreign forum,
+while not determinative by themselves, are important factors in determining situs. Other
+factors include the currency of payment, the place of payment and the residence of the
+intermediaries. On any of these criteria, the transactions at issue here were deliberately
+
+structured so as to have their situs outside Argentina’®.
+
+83-  b) - The other argument by which the majority award tries to counter the obvious
+conclusion that the alleged investment is legally located outside Argentina, is that forum
+selection clauses (ignoring the other numerous connecting factors and criteria mentioned
+above) are contractual stipulations and as such they are irrelevant for locating the
+“investment” for the purposes of a “treaty claim”, which is based on other rights and
+
+obligations derived from the BIT (para. 379).
+
+84 - But this facile escape route (échappatoire) is to no avail in the instant case. A treaty
+claim is necessarily based on a right that has been allegedly violated; here, the debt that was
+not repaid. If this right is created by contract, it is the contract that governs its legal existence
+
+and the modalities of this existence, including the location of this right (and its reciprocal
+
+'© See, Zachary Douglas, The International Law of Investment Claims, (Cambridge
+University Press, 2009), p. 171; Michael Waibel, Sovereign Defaults before International Courts
+and Tribunals (Cambridge University Press, 2011), p. 239.
+
+31
+
+obligation). And the right in the present case has been purposefully located outside
+
+Argentina.
+
+85 - The treaty claim cannot by-pass or circumvent this right, or change its modalities of
+existence, including its situs according to its legal title - the contract and the applicable law
+under which it exists - as this right, in its fixed legal configuration, serves as the legal basis
+
+underlying the treaty claim.
+
+86 - A treaty claim cannot allege a violation of a right, while ignoring the specific legal
+configuration of this right. The treaty may define the kinds of violation, but the underlying
+right subject to these violations, is defined only by its legal title, and the applicable law that
+
+governs its existence.
+
+87 - In conclusion, the alleged investment, i.e. the financial securities and their underlying
+debt, by all legally recognized connecting factors and criteria, have their situs outside
+Argentina; a treaty claim based on the nonpayment of this debt, or other violations of the
+right it represents, cannot change the legal configuration of this right, including its situs
+outside Argentina. In consequence, the alleged investment does not constitute an “investment
+in the territory of Argentina”, and thus falls outside the ambit of jurisdiction of the Tribunal
+
+ratione materiae.
+
+88 - 2) The material criteria for determining the situs of the “investment” : As was just
+
+explained, the majority award discards the contractual clauses and arrangements stipulated in
+
+32
+
+the securities instruments as relevant factors for the location of the situs of the investment
+under the BIT and the ICSID Convention, whilst proposing other material or economic
+criteria. It is noteworthy in this respect that the section under which this question is addressed
+in the majority award is entitled “Made in Argentina” (i.e. investment “made in Argentina”)
+and not “Made in the territory of Argentina”, following the language of article 1/1 of the
+
+BIT, an omission symptomatic of the result-oriented style of the whole award.
+
+89 - The majority award starts by an affirmation that “the determination of the place of the
+investment... depends on the nature of such investment” (para. 374); to reach the conclusion
+that an “investment of purely financial nature” need not be “linked to a specific economic
+enterprise or operation taking place in the territory of the host State” (para. 375), basing itself
+on arguments it draws from a) Article 1/1/c of the BIT, and b) the nature of the investment.
+
+These arguments are examined in what follows.
+
+90 - a) Arguments drawn from article 1/1/c of the BIT : The majority award states that :
+i- Article 1/1/c “designates financial instruments as an express kind of investment
+covered by the BIT”, i.e. as a covered investment per se, or as such; in consequence,
+ii - “it would be contrary to the BIT’s wording and aim to attach a further condition to
+
+the protection of financial investment instruments” (para. 375)
+
+91 - First of all, it is necessary to explain what the qualification “ per se” (frequently used by
+the award) exactly means in this context. As was already explained (paras. 56-61 above),
+
+financial instruments, because of the intrinsic characteristics that appear to be incompatible
+
+33
+
+with the type of investment envisaged in article 25 of the ICSID Convention, suffered from a
+kind of informal presumption that they are disqualified per se (or as such) from constituting a
+covered investment under the ICSID Convention (para. 58 above). But once a BIT includes
+these financial instruments in its enumeration of investments covered by the treaty, this
+presumption is obviously rebutted. However, if these financial instruments are not excluded
+per se (or automatically) that does not mean that they are included per se, in the sense of
+being automatically considered as legally self-sufficient to constitute a protected investment.
+We have here to recall the distinction (dating back to Roman law) between the instrumentum
+and the negotium, the instrument that registers and vehicles a legal act or transaction and the
+legal transaction itself'’. Article 1/1/c recognizes the financial securities per se as valid
+instrumenta for investment. But the investment itself, as a legal act or transaction that is
+attested and vehicled by these instruments, has to satisfy the substantive requirements for
+
+investment, in article 25 of the ICSID Convention as well as in the BIT, if any.
+
+92 - Leaving aside the requirements of article 25 of the Convention discussed above (para.
+47-52), does the BIT impose any other substantive conditions ? And is linking the investment
+“to a specific economic enterprise or operation taking place in the territory of the host State”
+one of them?
+
+93 - Here, the majority award interjects its second argument drawn from article 1/1/c, namely
+
+'7 This distinction between the instrumentum and the negotium was clearly on the mind
+of the drafters of Article 1/1 of the BIT. Thus, in their enumeration, where they considered that
+confusion between the two may arise, they expressly made the distinction e.g., under (a)
+“including, to the extent they may be used as investments, security interests on the property of
+third Party; under (d) “credits directly related to an investment...” (emphasis added).
+
+34
+
+that, given the designation, in this provision, of financial instruments as covered investments,
+“it would be contrary to the BIT’s wording and aim to attach a further condition to the
+
+protection of financial investment instruments” (para. 375).
+
+94 -This argument disregards a major fact. Of course, one cannot introduce a “further
+condition” into the Treaty. However, two such conditions are already writ large therein. It is
+true that they do not figure in Article 1/1/c itself. But all one has to do is to raise his sight a
+few lines above this provision to the chapeau of Article 1/1, which applies to all the types and
+vehicles of investment enumerated under it, including (c), and which defines investment inter
+alia as that made by nationals “of one Contracting Party in the territory of the other [Party],
+
+in accordance with the laws and regulations of the latter” (emphasis added).
+
+95 - The ordinary meaning of the emphasized words could not be clearer. And how can the
+fact that the investment has been made or realized in the territory of the host country be
+proved or demonstrated, except by tracing it to a specific project, enterprise or activity in that
+territory that corresponds to the economic meaning of investment in article 25 of the ICSID
+
+Convention (i.e. that it contributes to the expansion of the country’s productive capacity)?
+
+96-  b) Arguments drawn from the nature of the investment : Against this clear “territorial
+imperative” of the Convention and the BIT, the majority award develops a second line of
+argument or defense, consisting of four mutually supporting affirmations, namely :
+
+i - “The determination of the place of investment depends.... on the nature of such
+
+investment”; and for “an investment of a purely financial nature, the relevant criteria cannot
+
+35
+
+be the same as those applying to an investment consisting of business operations and/or
+involving manpower and property”;
+
+ii - For “investments of a purely financial nature the relevant criteria should be where
+and/or for the benefit of whom the funds are ultimately used, and not the place where the
+funds were paid out or transferred”;
+
+iii - “This is also the view taken by other arbitral tribunals”;
+
+iv - “Thus, the relevant question is where the invested funds ultimately made available
+
+to the Host State [sic], and did they support the latter’s economic development” (para. 374).
+
+97 - None of these affirmations withstands scrutiny.
+
+i- There is absolutely no basis in the ICSID Convention for drawing such a distinction
+between “investments of a purely financial nature” and other types of investment in this or
+other respects. Investment under ICSID is a unified category corresponding to the economic
+meaning of investment. The question that is raised about financial instruments under ICSID
+concern their high velocity of circulation which distends their link, as well as that of their
+last holders, with the ultimate economic enterprise or activity that materializes the investment
+in the economic, i.e. ICSID, sense of the term, within the territory of the host State. The
+question is not about the necessity of locating this enterprise or activity in the territory of the
+
+host State.
+
+98 - Indeed, the most persuasive legal justification for admitting financial instruments as
+protected investments, in spite of their stark contrast to the ideal type of investment under
+
+ICSID, the direct foreign investment (see para 55 above), is that these investments finance,
+
+36
+
+be it at several removes, specific economic projects, enterprises or activities which, had they
+been undertaken directly by these foreign financial investors, would have constituted foreign
+
+direct investment; which of course can only take place within the territory of the host State.
+
+99-  ii- The governing texts, particularly article 1/1 of the BIT, are clear as to the relevant
+criterion for locating the situs of the investment. It is “where” the investment is made or
+
+realized, and not “for the benefit of whom”.
+
+100 - It is ironic that the majority award cites the SGS v. Republic of the Philippines decision
+in support of its position; an award enunciating that : “In accordance with normal principles
+of treaty interpretation, investments made outside the territory of the Respondent State,
+however beneficial to it, would not be covered by the BIT”'’; a dictum repudiating in no
+
+uncertain terms the criterion of “for the benefit of whom” proffered by the majority award.
+
+'S SGS Société Générale de Surveillance SA v. Republic of the Philippines, 1CSID Case
+No. ARB/02/6 , Decision on Jurisdiction and Admissibility, 24 January 2004, para. 99; see also
+Canadian Cattleman for Fair Trade v. United States, NAFTA, Award on Jurisdiction, 28
+January 2008, para. 127.
+
+37
+
+101- iii- Indeed, the cases cited by the majority award do not lend it as much support as it
+contends and are all quite distinguishable from the present case. The majority opinion cites
+three awards'’. Only one of them involves financial instruments, namely Fedax v. Venezuela.
+And it is the only one of the three (as well, to my knowledge, of all other ICSID arbitral
+decisions) that carries a dictum suggesting the over-loose, ultimate beneficiary test which is
+followed by the majority award in the present case (but Fedax is distinguishable from the
+
+present case on facts as explained below).
+
+102 - The Fedax decision was widely criticized both by other tribunals and in the literature,
+including by Professor Dolzer, one of the leading legal experts of the Claimants in the
+present case, who commented in an article that “the Fedax decision is not without ambiguity
+
+o>
+
+in its construction of ‘investment””; and in relation to the “territorial dimension of foreign
+investments”, that :
+“the Fedax decision (paragraph 41)...assumed that the absence of a physical transfer
+of funds will not stand in the way of the existence of an ‘investment’. Without
+explaining the rationale for this view in any detail, the Fedax tribunal considered
+
+apparently that it is sufficient that the funds made available by the investor are utilized
+
+by the host country as the beneficiary of the transaction so as to finance its various
+
+'° In note 147 to paragraph 374. The three awards are : Fedax N.V. v. Republic of
+Venezuela (ICSID Case No. ARB/96/3), Decision of the Tribunal on Objections to Jurisdiction
+of 11 July 1997, para. 41; SGS Société Générale de Surveillance S.A. v. Islamic Republic of
+Pakistan (ICSID Case No. ARB/01/13), Decision of the Tribunal on Objections to Jurisdiction
+of 6 August 2003, paras. 136-140; SGS v. Republic of the Philippines, para. 111.
+
+38
+
+governmental needs”.
+
+20 Rudolf Dolzer, “The Notion of Investment in Recent Practice”, in Charmovitz et al.
+(eds) Law in the Service of Human Dignity : Essays in Honour of Florentino Feliciano (CUP,
+2005), p. 261 at pp. 269, 272.
+
+39
+
+103 - Similarly, the SGS v. The Republic of the Philippines’ decision - that the majority
+award cites in support of its position! - apart from its flat repudiation of the Fedax test in the
+dictum reproduced above (para. 100), spared no effort to distance itself from that case, not
+only by distinguishing it, but also by pointing to certain factors that severely limit its general
+relevance (if any). Thus, after noting that “[t]he Tribunal in the Fedax case gave a very broad
+definition of territoriality”, it observes in a footnote to that sentence that :
+
+“The territorial requirement in the BIT [Venezuela-Netherlands] was. ...less
+
+categorical. It referred to the protection in its territory of investments of nationals of
+
+the other Contracting Party...and this only in a clause dealing with entry, not in a
+
+general clause defining the scope of the Treaty as a whole”.
+
+104 - Just after the general remark about the “very broad definition of territoriality” ,the
+Tribunal proceeds to distinguish Fedax :
+“but the focus of the decision was whether the endorsee of a promissory note issued
+with respect to an investment had itself made an investment, and whether the dispute
+over non-payment of the note arise ‘directly’ out ofan investment within the meaning
+
+of Article 25(1) of the ICSID Convention””.
+
+*! Cited in note 18 above.
+
+> Thid. at para. 110 and footnote 41 in that decision. The Tribunal hints that it would
+have gone further in the critical analysis (or rather criticism) of Fedax, were it not that “Counsel
+for the Respondent declined to argue that Fedax was in this respect wrongly decided, but at any
+rate the circumstances of the Fedax case were very different from the present” (Ibid. ).
+
+40
+
+105 - Fedax is an isolated case. It is an outlier. But I need not expand further on whether it
+was correctly decided or not, as it is clearly distinguishable in this respect (of territorial link)
+from the present case on facts; primarily by two significant facts. The promissory notes at
+issue in Fedax were governed by the host State’s law. They were not free-standing or
+unhinged from any specific project or economic activity in the host country, as they were
+initially given in exchange for the provision of specific services in Venezuela. The issue in
+that case was whether an endorsement of six promissory notes outside Venezuela severed
+their link with the underlying transaction, and not about the necessity of the existence of such
+
+underlying transaction’.
+
+106 - The other two cases cited by the majority award, SGS v. Pakistan and SGS v. the
+Republic of the Philippines, have nothing to support the majority award’s position, either in
+their reasoning and dicta or in their facts. Indeed, one can say the opposite as far as SGS v.
+the Republic of the Philippines, given its critical and distant position vis a@ vis Fedax, as
+exposed above. In both SGS cases the issue was whether services provided by SGS and
+attendant expenses largely undertaken outside the territory of the host State, could be
+considered as an investment “in the territory” of the host State. And in both cases the
+Tribunals found that a reasonable part of the service and the expenses, though perhaps not the
+major part, took place in the territory of the host State; and that the service was not
+constituted of two operations : one outside and the other inside the territory of the host State,
+
+but one overall service straddling the frontier of that State, and as such well anchored in its
+
+3 See Waibel, Sovereign Defaults, supra note 16, p. 225.
+
+41
+
+territory.
+
+107 - In none of these cases, including Fedax, or others in which the question of territoriality
+was raised, was the need to trace the alleged investment to an underlying specific project or
+activity within the territory of the host State, questioned. The issue in all these cases was
+whether what takes place outside the territory of the host State, such as the payment of funds
+or the endorsement of the promissory notes, distends this link to the point of legally severing
+
+it.
+
+108 - The situation in the present case is totally different. The security entitlements in
+question are free-standing, and totally unhinged. They do not form part of an economic
+project, operation or activity in Argentina. Nor are they issued in support of a public project
+or a commercial undertaking there. In other words, they have no specific economic
+anchorage in Argentina, allowing them to be seen and considered as an investment “in the
+
+territory of Argentina”.
+
+109 - The inescapable conclusion of this rapid survey of cases invoked by the majority award
+in support of its position, is that, unlike these cases, there is a missing link in the present case
+that prevents the alleged investment from being recognized as covered or protected
+investment under the BIT and article 25 of the Convention, namely the traceability of the
+alleged investment (or its link, be it tenuous) to an underlying specific economic project or
+
+operation taking place in the territory of Argentina.
+
+110- iv - In order to surmount this tough obstacle, the majority award resorts to an
+
+42
+
+astounding exercise of logical gymnastics, operating a double logical somersault that ends up
+standing the sequence of legal reasoning on its head, by way of two unverifiable (and for one
+
+totally untenable) assumptions,
+
+111- a) As concerns the first of these assumptions, the majority award asserts that : “There
+is no doubt that the funds generated through the bonds issuance process were ultimately made
+available to Argentina [and here comes the first logical jump dissimulated by the first
+assumption] and served to finance Argentina’s economic development” (para. 378, emphasis
+added). Thus, according to the majority award, any loan or funds made available to a
+government (and regardless of the way it uses them, which is “irrelevant”) must be deemed,
+by virtue of an unrebuttable presumption, to be contributing to the development of the
+country of that government, and thus corresponding to the economic concept of investment
+of article 25 of the ICSID Convention (i.e. contributing to the expansion of the productive
+
+capacities of the country).
+
+112 - But this presumption is rebuttable on two grounds. First, not every loan can constitute
+an investment in the sense of the Convention. A simple loan in itself is merely an “ordinary
+commercial transaction”. For it to become an investment, it has to fulfil the conditions
+discussed above. This is why, for example, in the enumeration of the various types of
+protected investment in article 1/1 of the BIT, under (d), “credits”, which are a species of
+
+loans, are qualified by the clause “which are directly linked to an investment”.
+
+113 - The other ground on which this first presumption is rebuttable is the mere fact that not
+
+4B
+
+all funds made available to governments are necessarily used as “investment” in projects or
+activities contributing to the expansion of the productive capacities of the country. Such
+funds can be used to finance wars, even wars of aggression, or oppressive measures against
+restive populations, or even be diverted through corruption to private ends. This is why, for
+such loans to constitute investments under the ICSID Convention, they have to be concretely
+traced, even at several removes, to a particular productive project or activity in the territory
+of the host country; and not merely by postulating a stop-gap abstract assumption that does
+
+not hold its ground.
+
+114- — b) The second assumption is even more remarkable than the first, and totally
+dependent on it. In fact, it is undetachable from it; thus one has to formulate them together, in
+something like the following : Because the funds were made available to Argentina and used
+by it (whatever the use which is “irrelevant” and which is not traceable or proven, but
+assumed), these funds “as such, must be considered to have contributed to Argentina’s
+economic development [first assumption] and thus [and here comes the second assumption
+dissimulating the second logical jump] to have been made in Argentina” (para. 378, emphasis
+added). Put in straight forward language, without the ellipsis, the proposition would be : As
+the funds made available to Argentina must be considered (i.e. assumed) to have contributed
+to Argentina’s economic development, they also, and as a necessary consequence, must be
+
+considered (or assumed) to have been made in Argentina.
+
+115 - Thus, by assuming a contribution to the economic development of Argentina, one
+
+necessarily assumes also its location in Argentina, without having to demonstrate or prove
+
+44
+
+either. The falsity of such reasoning is too evident to need further elaboration.
+
+116 - Moreover, the presumed logical necessity of drawing or deducing the second
+presumption from the first is also false. It suffices to recall in this regard the dictum of SGS v.
+the Republic of the Philippines that “investment made outside the territory of the Respondent
+State, however beneficial to it, would not be covered by the BIT”, and the example it gives of
+“the construction of an embassy in a third State or the provision of security services to such
+an embassy” which “would not involve investments in the territory of the State whose
+
+embassy it was, and would not be protected by the BIT”.
+
+117 - Here again, the logical legal sequence is stood on its head. Rather than demonstrating
+the contribution by tracing the alleged investment to (or proving its link with) a productive
+project or activity in the territory of the host State, the majority award deduces a situs froma
+
+presumed contribution hanging in the air.
+
+118 - In conclusion, the present case is, to my knowledge, the first one to come before an
+ICSID tribunal in which the alleged investment is totally free-standing and unhinged, without
+any anchorage, however remote, into an underlying economic project, enterprise or activity
+in the territory of the host State. None of the logical short-cuts put forward by the majority
+
+award to palliate this absence, holds water.
+
+*4 Case cited in note 16 above, at para. 99.
+
+45
+
+119 - As both the ICSID Convention and the BIT require that the investment be made in the
+territory of the host State for the investment to be covered by the treaty and fall within the
+jurisdictional ambit of ICSID, and as this territorial link is lacking in the present case, I
+conclude that in the absence of a “protected investment”, the case has to be dismissed, as
+
+falling outside the jurisdiction ratione materiae of the Tribunal.
+
+IV - The First Preliminary Objection : Collective Mass Claims Actions and
+
+the Consent of the Respondent
+
+120 - This preliminary objection is based on the contention of the Respondent that its consent
+to arbitrate by acceding to the ICSID Convention and concluding the BIT does not cover
+collective mass claims actions, including the present one; that handling mass claims in a
+single arbitral case or proceeding, or as one arbitral suit or action, necessarily undermines
+the due process rights of the Respondent and would be unmanageable; and that, in any case,
+the Tribunal is not empowered, under the Convention and the Rules of Procedure, to effect
+
+the procedural changes enabling it to handle such an action.
+
+121 - The preliminary objection raises three issues :
+
+1 - Does the consent of Argentina cover collective mass claims actions ? and is this a
+question of jurisdiction or of admissibility as contended by the majority award ?
+
+2 - What is the legal nature of collective mass claims actions or suits, and what are the
+
+problems and questions they raise, particularly as to the due process rights of the parties and
+
+46
+
+to the interpretation of the scope of arbitral clauses - i.e. the jurisdictional title - both in
+municipal and in international law.
+3 - Finally, does the Tribunal have the power to effect the procedural changes, or
+
+“adaptations” as it calls them, that it needs to be able to handle the case (para. 491).
+
+A -A Plea to Jurisdiction or to Admissibility ?
+122- The majority award adopts, “for distinguishing issues of jurisdiction from issues of
+admissibility”, the following criterion :
+“If there was only one Claimant, what would be the requirements for ICSID’s
+jurisdiction over its claim ? If the issue raised relates to another aspect of the
+proceedings, which would not apply if there was just one Claimant, then it must be
+
+considered a matter of admissibility and not of jurisdiction” (para. 249).
+
+123 - Applying this criterion to the present case, the majority award “answers in the
+negative” the question “whether a specific consent regarding the specific conditions in
+which the present arbitration would be conducted is required”, on the basis of the following
+argument :
+“Assuming the Tribunal has jurisdiction over claims of several individual claimants
+. itis difficult to conceive why and how the Tribunal could ‘loose’ jurisdiction where
+the number of claimants outgrows a certain threshold...what is the relevant threshold?
+And can the Tribunal really ‘loose’ jurisdiction it has when looking at Claimants
+
+individually ?” (paras. 484-490).
+
+47
+
+124 - On that basis, the majority award dismisses Argentina’s objection :
+“Issue 1(a) : Argentina’s consent to jurisdiction of the Centre includes claims
+
+presented by multiple Claimants in a single proceeding” (para. 502).
+
+125 - The majority award considers that :
+“the relevant question is not ‘has Argentina consented to the mass proceedings’, but
+rather ‘can ICSID arbitration be conducted in the form of ‘mass proceedings’
+considering that this would require an adaptation and/or modification by the Tribunal
+of certain procedural rules provided for under the current ICSID framework’’?
+
+(para.491); “which is a question of admissibility” (para. 492).
+
+126 - This legal recharacterization of Argentina’s plea by the majority award is, in my view,
+conceptually wrong. It adopts an extremely narrow, in fact partial, concept of jurisdiction,
+limiting it to the ambit within which jurisdiction is exercised. But, as explained above (para.
+10 ff), jurisdiction is first and foremost a power, the legal power to exercise the judicial or
+arbitral function. Any limits to this power, whether inherent or consensual, i.e. stipulated in
+the jurisdictional title (consent within certain limits, or subject to reservations or conditions
+relating to the powers of the organ) are jurisdictional by essence. They are no less
+jurisdictional, in fact more so, than the limits relating to one of the four dimensions of the
+
+ambit within which jurisdiction is exercised (para. 13 above).
+
+127 - The preliminary objection of Argentina draws precisely upon this category of limits to
+
+jurisdiction as a power, maintaining that Argentina’s consent cannot be interpreted to cover
+
+48
+
+the power of the Tribunal to hear collective mass claims actions requiring resort to atypical or
+abnormal procedures. If that is the purport of the preliminary objection, then finding that the
+Tribunal has jurisdiction ratione materiae over the subject-matter of one claim or even the
+60.000 claims (a finding that I already refuted, for absence of a protected investment in the
+previous section), neither disposes of this preliminary objection, nor does it address it in
+
+anyway.
+
+B - The Legal Nature and Specificities of Collective Mass Claims Actions and their
+
+Bearing on the “Consent to Arbitrate”
+
+128 - To address this preliminary objection, one has first to examine the legal nature and
+specific characteristics of mass claims actions, and the abnormal or atypical procedures their
+handling requires, to be able to evaluate whether a mere consent to submit to arbitration can
+
+be construed as extending to include them or not.
+
+129 - In their pleadings, particularly during the oral phase, the Parties and their legal experts
+paid special attention to the legal characterization of the present proceedings. The
+Respondent considered it not a simple multi-party action, but a collective mass claims action;
+one of the leading experts in the field called by the Respondent, Professor Richard Nagareda,
+classified it as a class action. Counsel to the Claimants, by contrast, argued that it is a mere
+multi-party action; as there is no limit to the number of parties in such an action and no
+known threshold that separates a multi-party from a collective mass claims action. Later on,
+
+Counsel to the Claimants spoke of a non-class aggregate proceeding.
+
+49
+
+130 - The majority award tries to skirt round the subject (in order not to tie its hands) by
+using the neutral expression “ ‘mass proceedings’ ...as referring simply to the high number of
+Claimants appearing together as one mass, and without any prejudgement on the procedural
+classification of the present proceedings as a specific kind of ‘collective proceedings’
+recognized under any specific legal order” (para. 480). But it does not quite succeed in
+keeping this neutral stance; for after summarizing part of a recent article surveying different
+types of collective proceedings”, it ends up classifying the present proceedings as a hybrid,
+partaking of two species. But this exercise in legal genetic engineering, like all genetic
+engineering, risks producing a monster. In any case, it does not work here for reasons
+
+expounded below.
+
+131 - The survey of different types of collective proceedings, based on Strong’s article,
+
+classifies them in two categories :
+
+°5 Stacy I. Strong, “From Class to Collective : The De-Americanization of Class
+Arbitration”. Arbitration International, vol. 26, No 4(2010), pp. 493-548. Footnote 176 of the
+Award, wrongly cites the author’s name as Stark, and not Strong.
+
+50
+
+i - Aggregate procedures : | use advisedly “procedures” rather than “proceedings”,
+because the aggregation takes place before the “proceedings” properly speaking, i.e. the
+adjudicative or judicial phase of examining the claims. It consists of aggregating or
+centralizing the different individual claims arising “out of the same fact pattern”, as in the
+present case, in different ways. In England, the Group Litigation Order establishes a judicial
+registry of these claims, which are then assigned to the same judge for management purposes.
+In the US, such related claims are “consolidated in a single federal venue to ensure
+efficiencies of scale during the pre-trial period”, beyond which “the cases are separated and
+
+heard individually regarding issues of liability and/or damages””®.
+
+132 - Both methods are legal techniques for rationalizing the distribution of individual
+claims arising from the same events, upstream, at the pre-trial or pre-judicial stage. But once
+the individual claims are before the tribunals for judgment, they are handled as such i.e. as
+individual claims, according to the normal procedures, though the tribunals can use
+procedural devices normally available to them, such as joinder and consolidation, for
+purposes of procedural economy. But there is no change or alteration of the procedure
+followed to handle these claims other than as normal individual claims. And it is on this last
+
+point that the “aggregate procedures” model does not suit the purposes of the majority award.
+
+133 - ii - Representative proceedings : This is the most important type of collective
+
+proceedings, its prime example being “class actions” that emerged relatively recently in the
+
+°6 Strong, ibid. p. 504.
+
+Sl
+
+US and elsewhere. The other species of representative proceedings are in fact minor
+
+variations on the theme of class actions.
+
+134 - Class actions or representative proceedings can be brought either by a member of the
+class, acting as a kind of negotiorum gestor on behalf of the other members of the class (who
+can join in or take their distance from the action through the techniques of “opting in” or
+“opting out”) or by an agent representing the whole class, such as a consumers association or
+
+the Sierra Club.
+
+135 - What makes class actions or representative proceedings (unlike aggregate claims
+subject to aggregate procedures only at the pre-trial or pre-judicial stage), feasible or
+amenable to be treated judicially or adjudicatively in one single proceedings or as one action,
+is that in a class actions or representative proceedings there is, in the final analysis, only one
+claim, albeit with many, or even a mass of claimants. The tribunal deals thus with one claim
+and can examine every aspect of it specifically, through adversarial debate and scrutiny that
+
+guarantees to the parties, particularly the respondent, all their due process rights.
+
+136 - The first attempts to introduce class actions, which are the prime model of
+representative proceedings, were related to issues of public interest such as the protection of
+the environment or the consumers. In this, they recall (at least in their rationale, without
+necessarily assimilating them to) an ancient ancestor, the institution of actio popularis,
+whereby a citizen, in the name of the community, acts in defense of an indivisible public
+
+good. And the remedies sought in class actions were geared to the nature of these types of
+
+52
+
+public interest claims, namely declaratory judgments and injunctive relief, i.e. orders to cease
+and desist, that are the same for all claimants and which are formulated as a function of the
+subject-matter of the claim, and not as a function of the personality, or the number of the
+
+claimants, or their individual subjective grievances.
+
+137 - It is true, as is stated in the majority award, that in some jurisdictions, the relief “can
+take the form of individual damages or representative relief (e.g. declaratory or injunctive
+relief)” (para. 483). But the majority award omits to reproduce from Strong’s article it
+excerpts the following comment on the cumulation of the two types of relief :
+“One approach allows class claimants to pursue individual damages as well as other
+types of relief. This technique, which is common in the US, has met with a great deal
+of criticism internally, since the provision of individual damages in a representative
+suit is seen in many (but not all) civil law systems as violating the defendant’s right to
+defend against individualized, as opposed to generalized claims, as well as the rights
+of individualized members of the collective to conduct their own individualized
+
+9927
+
+cases
+
+138 - After this brief survey of the two main types of “collective proceedings”, the majority
+award proposes a legal characterization of the present case as “a sort of hybrid kind of
+collective proceedings, in the sense that it starts as aggregate proceedings, but then continues
+
+with features similar to representative proceedings due to the high number of claimants
+
+>7 Strong, ibid, at p. 504.
+
+53
+
+involved” (para. 488).
+
+139 - However, as mentioned above, this exercise of legal genetic engineering does not work.
+First of all, there is no explanation whatever of the reason or cause nor of the trigger of such
+a transmutation of the proceedings, starting as one thing that no sooner transforms itself into
+quite another. It is understandable that the case starts as aggregate proceedings, in the sense
+explained above and in the majority award, considering that it groups a multitude of
+individual claims arising out of the same fact pattern. But these remain individualized claims.
+Following the aggregate procedures model simply means that they would be collected and
+managed during the pre-trial or strictly pre-judicial or pre-arbitral phase, in order to
+rationalize their funneling to other tribunals that will examine them judicially as individual
+claims. But they would not change nature or characteristics as a result of their prior
+
+aggregation. They remain individualized claims.
+
+140 - For the proceedings to change suddenly into a representative one, the individual claims
+have to be cast into one claim or transformed into identical fungible claims, which comes
+down to the same thing (one claim, multiplied by the number of claimants) to enable the
+tribunal to treat them judicially as one. But this is not possible here, as the claims retain their
+
+individualized character.
+
+141 - To skirt round this fundamental problem, the majority award resorts to the slippage
+technique, considering that “group examination of claims is acceptable where claims raised
+
+by a multitude of claimants are to be considered identical or at least sufficiently
+
+54
+
+homogeneous” (para 540; emphasis added ).
+
+142 - However, homogeneity is in the eyes of the beholder. One can always reach a sufficient
+level of homogeneity, i.e. common denominators, by climbing up the ladder of abstraction
+and/or by weeding out all the specificities of the claims that appear inconvenient. And that is
+
+precisely what the majority award does with the claims under consideration.
+
+143 - Indeed, the majority award sets aside all the specificities of the claims concerning the
+security entitlements (price, date of purchase, place of purchase, in which currency,
+applicable law, chosen forum, etc.) as characteristics relevant only to the contractual rights of
+their holders, i.e. to contract claims; while what counts here, according to the majority award,
+are the treaty claims, which are homogeneous (paras. 541-543). And the majority award
+harps on the adjective “homogeneous”, by repeating it throughout this part in almost every
+line. But no amount or repetition can exorcize the fundamental flaws in this line of argument.
+Indeed, it suffices to ask, how can the Tribunal for example evaluate a treaty claim for
+compensating damages caused to an asset, without knowing (or while making abstraction of)
+
+the time the asset was acquired, the price paid for it and the currency of denomination ?
+
+144 - If one examines what the majority award calls “the claims deriving from the BIT”
+(para. 543), which it considers “homogeneous”, the result is clear. They are claims related to
+the Argentinean economic crisis that led to Argentina’s cessation of payment. In other words,
+this crisis constitutes “the same fact pattern” out of which the claims arose, and which is the
+
+criterion used for resorting to “aggregate proceedings”, according to the majority award. But
+
+55
+
+as the award itself states, this aggregation takes place only at the pre-trial, or pre-judicial
+phase. By contrast, during the judicial phase, the claims are treated individually. In other
+words, the “level of homogeneity” resulting from the circumstance that the claims arose “out
+of the same fact pattern”, is sufficient for aggregating and registering them for purposes of
+pre-trial management and rationalizing their funneling towards the tribunals that will
+ultimately examine them as individual claims; but not sufficient for what the majority award
+calls “group examination”, i.e. their examination as if they are one claim (as in a class action
+
+or a representative proceedings), which they are not, either in fact or in law.
+
+145 - The efforts of the majority award at legal genetic engineering lead nowhere. The hybrid
+proceedings, brain-child of the majority award’s legal imagination, lacks a theoretical basis
+to stand on, let alone a solid legal basis. It also raises the question of the extent to which such
+an imaginary “hybrid action” and, for that matter, the particularities of collective proceedings
+
+in general, have a bearing on the interpretation of the “consent to arbitrate”.
+
+C - Judicial Innovation, Collective Proceedings and “Consent to Arbitrate”
+
+146 - In their pleadings, counsel and legal experts for the Claimants argued - to incite this
+Tribunal to do the same - that in the US, courts foreshadowed class actions and devised their
+procedures, before they were formally adopted by legislation and integrated in the codes of
+
+civil procedure.
+
+147 - Regardless of the veracity of this narrative and assuming it is true, it does not help
+
+56
+
+much supporting the conclusion sought to be drawn from it, i.e. that the same can be done by
+this ad hoc international arbitral Tribunal. This is because courts in general are part of the
+judiciary, the judicial branch or arm of the State. Their judicial power, i.e. jurisdiction, thus
+stems from above, and not from the consent of the parties or litigants before them. As
+repositories of the judicial power of the State, they have some leeway, particularly in
+common law jurisdictions, to develop the law and engage, within reasonable limits, in legal
+experimentation; unlike arbitral tribunals that draw their jurisdiction from the consent of the
+
+parties and have to confine their judicial activities within the bounds of this consent.
+
+148 - Even in the U.S, the national jurisdiction where it is contended that the courts
+foreshadowed class action and devised procedures for them before they were enshrined in
+legislation, the US Supreme Court, in two successive decisions in 2010 and 2011, has been
+quite strict in interpreting consent and underscoring the need to respect its bounds, when it
+came to arbitration, in response to exactly the same question that is put to this Tribunal, i.e.
+
+“Does a regular arbitration clause cover class actions ?”
+
+149 - | realize that the majority award, following in this the Claimants, refuse to consider the
+present collective mass claims action as a class action, although its “hybrid model” ends up
+being a “representative proceeding”, which is more or less the same thing. But the US
+Supreme Court’s reasoning and answer turns on the “mass” character of the action rather
+
+than on its characterization as a class action or otherwise.
+
+57
+
+150 - In the first of these cases, Stolt-Nielsen S.A. v. Animal Feeds International Corp’, the
+Court held :
+“An implicit agreement to authorize class-action arbitration... is not a term that the
+arbitrator may infer solely from the fact of the parties’ agreement to arbitrate. This is
+so because class action arbitration changes the nature of arbitration to such a degree
+that it cannot be presumed the parties consented to it by simply agreeing to submit
+
+their disputes to an arbitrator”.””
+
+151 - The Court also noted that the “changes brought about by the shift from bilateral
+arbitration to class-action arbitration [are] fundamental”; and concluded that consent to
+
+class-action arbitration cannot be “presumed” from the parties “mere silence”, given the
+
+fundamental differences between class-action arbitration and bilateral arbitration™’.
+
+8 130 S.Ct.1758 (2010).
+> Ibid. at 1774.
+
+> Slip Opinion, at 22-23.
+
+58
+
+152 - In the second case AT&T Mobility LLC v. Concepcion ET UX (2011)*', the Court,
+while referring to Stolt-Nielsen, and building on it, goes even further, in highlighting the
+difference between the two types of arbitration :
+“Class arbitration...interferes with fundamental attributes of arbitration...class
+arbitration greatly increases risks to defendants. The absence of multilayered review
+makes it more likely that errors will go uncorrected. That risk of error may become
+unacceptable when damages allegedly owed to thousands of claimants are aggregated
+
+and decided at once. Arbitration is poorly suited to these higher stakes”*’.
+
+153 - The powerful reasoning of these two judgments and the strong arguments they put
+forward - the fundamental differences between the two modes of arbitration, the regular
+bilateral one and the class action or representative proceedings arbitration; differences that
+“change the nature of arbitration”; and the great risks to which the later mode exposes
+defendants - all converge to highlight the necessity of a special consent of the parties in order
+to resort to class action or representative proceedings arbitration; consent that cannot be
+
+merely deduced or assumed from a simple consent to go to arbitration.
+
+D- The Interpretation of Silence
+
+154 - The majority award totally ignores this widely known and commented upon
+
+31.563 US (2011), (decision of 27 April 2011).
+
+» Slip Opinion, at 2.
+
+59
+
+jurisprudence and arguments. Instead, it goes into a cursory “interpretation of the silence of
+the ICSID Framework”.
+
+155 - The reasoning of the majority award can be summarized as follows : given the “object”
+of the BIT and the “spirit” of the ICSID Convention, which are presumably, according to the
+majority award, reduced solely to affording “effective protection” to investments and
+investors, “where the BIT covers investments which are susceptible to involve a high number
+of investors...it would be contrary to the purpose of the BIT and the spirit of ICSID to require
+in addition to the consent to ICSID arbitration in general a supplementary express consent to
+the form of such arbitration” (para. 518); i.e. “it would be contrary to the purpose of the BIT
+and to the spirit of ICSID to interpret this silence as a ‘qualified silence’ categorically
+prohibiting collective proceedings, just because it was not mentioned in the ICSID
+Convention” (para. 519). And if consent to ICSID arbitration covers collective proceedings,
+it has also - presumably by necessity or necessary implication - to cover the power of the
+Tribunal to devise the adequate procedures to deal with them, in derogation of “the standard
+
+procedure” (para. 519).
+
+156 - This wobbly line of argument by affirmation, assumption and reasoning by necessity,
+does not withstand scrutiny. In the first place, it is premissed on the assumption that the
+Tribunal has jurisdiction ratione materiae over the subject-matter of the mass claims; an
+
+assumption that I have refuted in the previous section.
+
+157 - Secondly, the reasoning is also premissed on and proceeds from a purely subjective,
+
+truncated and partial representation of the object and purpose of the ICSID Convention and
+
+60
+
+the BIT, which is a recurrent theme throughout the award. The reader cannot but be struck by
+the repetition expressis verbis in two successive paragraphs (para. 518 and 519), at a few
+lines interval, of the reference to the “spirit” of the ICSID Convention and the “purpose” of
+the BIT. Spiritism apart, the object and purpose of these two treaties - the ICSID Convention
+and the BIT - are described as being exclusively to afford maximum protection to foreign
+investment and foreign investors; as if these treaties were “unilateral contracts” creating
+rights for the benefit of one party only. In consequence, according to this vision, all the
+
+provisions of these treaties have to be interpreted exclusively with this aim in mind.
+
+158 - Viewed from this perspective, all the limitations to the jurisdiction of ICSID tribunals,
+whether inherent or patiently and carefully negotiated and stipulated in the treaty to protect
+the interests of the State party (which are after all, the collective interests of its population)
+are seen as obstacles in the way of achieving the “purpose” of the treaties, which have to be
+
+overcome at any price and by whatever argument.
+
+159 - This unilateral vision is in stark contrast to the “object and purpose” of the ICSID
+Convention, as expressed in the Report of the Executive Directors in the following terms :
+“While the broad objective of the Convention is to encourage a larger flow of private
+international investment, the provisions of the Convention maintain a careful balance
+
+between the interests of investors and those of host States”.*?
+
+33 Report of the Executive Directors on the Convention, para. 13.
+
+61
+
+160 - Proceeding from these premisses, the majority award simply affirms that “it would be
+contrary to the purpose of the BIT and to the spirit ICSID to interpret this silence [of the
+ICSID Convention or Framework as it calls it] as a ‘qualified silence’ categorically
+prohibiting collective proceedings, just because it was not mentioned in the ICSID
+
+Convention” (para. 519).
+
+161 - The majority award does not explain at any length what it exactly means here by
+“qualified silence”, nor why it considers that this concept does not apply in the present case
+or the consequences of its application or non application. This results in confusion at two
+levels, the first of which relates to the meaning and relevance of the term in casu. “Qualified
+silence” is not a term of art; for example, it does not appear in law dictionaries. Occasionally,
+however, one encounters, in writings on American constitutional law, such expressions as
+“the qualified silence of the law-maker” (or “the intentional imperfection of the law”). They
+describe, in a piece of legislation dealing with a particular subject, its silence over certain
+substantive issues falling within the subject treated, that were left intentionally open (for
+future legislative treatment, for lack of consensus, etc.). In consequence, analogy cannot be
+used to extend the legal regulation to these issues by those who subsequently interpret and
+apply the law, as this would go against the intent of the law-maker. But this is a completely
+different context, poles apart from that of establishing the existence and scope of the
+
+individual consent of a State to submit to arbitration, which is what is at issue here.
+
+162 - This brings me to the second level of confusion in the majority award. Indeed, the
+
+award, in its analysis, confuses here two layers of consent (see above para.15) :
+
+62
+
+a) the consent or acceptance to be bound by the ICSID Convention as such, by
+ratifying or acceding to it, which by itself does not contain any consent or obligation to
+arbitrate; and
+
+b) the specific acceptance by a State to submit a dispute or certain disputes to
+arbitration within ICSID, whether by way of a BIT or otherwise (a compromissory clause,
+etc.), which constitutes the specific jurisdictional title.
+
+The two do not coincide in time nor necessarily in their scope (para. 13 above).
+
+163 - Argentina’s jurisdictional plea is directed more specifically to the second layer of
+consent, though it covers both layers; whilst the majority award addresses only the first
+layer, ignoring almost totally the second layer of consent, which is the crux of Argentina’s
+
+plea.
+
+164 - If what is at issue here is Argentina’s specific consent to arbitrate, then what counts
+most in the interpretation of the jurisdictional title is the establishment of the validity and
+scope of that consent at the time it was given. It is thus paradoxical, that in order to support
+its affirmation that the ICSID Convention’s silence over “collective proceedings”, is not a
+“qualified silence’ categorically prohibiting [such] proceedings”, the majority award
+advances the argument that “at the time of conclusion of the ICSID Convention, collective
+proceedings were quasi inexistent, and although some discussions seem to have taken place
+with regard to multi-party arbitrations, these discussions were not conclusive on the intention
+to either accept or refuse multi-party arbitrations, and even less so with regard to
+
+admissibility of collective proceedings” (para. 519).
+
+63
+
+165 - It is paradoxical because this argument supports exactly the opposite proposition to that
+which the award is attempting to prove. The fact that class actions or representative
+proceedings were almost unknown in national jurisdictions, and more so on the international
+level, at the time of the conclusion of the ICSID Convention in the mid-sixties of the last
+century, proves that these representative proceedings were way beyond the “horizon of
+foreseeability” of the drafters of the ICSID Convention. Those drafters could not have
+envisaged such proceedings; nor is there any basis to assume that they would have included
+them, had they envisaged them, given the fundamental differences between these proceedings
+and the arbitration model familiar to them (as discussed below). Those drafters were simply
+creating a framework for ad hoc international arbitration, within the parameters of ad hoc
+international arbitration as they knew them at that time, particularly its specific consensual
+basis for every case, as with all international adjudication. They were not establishing an
+open-ended standing court of general jurisdiction (juridiction de droit commun) covering all
+possible present and future disputes. This is clearly reflected in the last paragraph of the
+Preamble of the ICSID Convention :
+
+“Declaring that no Contracting State shall by the mere fact of its ratification,
+
+acceptance or approval of this Convention and without its consent be deemed to be
+
+under any obligation to submit any particular dispute to conciliation or arbitration”
+
+166 - Thus, the above argument of the majority award based on the unforeseeability of
+collective actions at the time of drafting the Convention, paradoxically bears in favour of
+
+interpreting the silence of the ICSID Convention as not extending to cover such an extra-
+
+64
+
+ordinary type of judicial activity as representative proceedings or class actions. However,
+even if we assume arguendo that the ICSID Convention can be over-stretched by subsequent
+interpretation, pushing back its outer-limits to accommodate collective proceedings, this
+would not apply to the second layer of consent, the specific consent to arbitrate within the
+
+ICSID framework.
+
+167 - Here, the interpretation of the jurisdictional title has to establish the reality, validity and
+scope of consent, as it was given, at the time it was given, by each party. And it is here that
+the “interpretation of silence” of the jurisdictional title becomes crucial : Does the mere
+“consent to arbitrate” within the ICSID framework cover mass claims actions and
+
+proceedings (whatever we call them) ?
+
+168 - As arule, silence does not have a meaning in itself. It cannot be made to speak one way
+or another; unless it is surrounded by circumstances that impregnate it with a certain
+meaning; what is called in civil law and in French “silence circonstancié’, a more expressive
+term than “qualified silence” which is also used, on rare occasions, in international law in the
+same sense™’.
+
+169 - The circumstances that surround and impart meaning to silence, can be factual or legal.
+
+Both these types of circumstances exist and can easily be identified in casu.
+
+4 See for example the WTO Panel Report Guatemala - Definitive Anti-Dumping
+Measures on Grey Portland Cement from Mexico, Report of the Panel of 24 October 2000, at
+para. 8.23 : “We note that ‘acquiescence’ amounts to ‘qualified silence’, whereby silence in the
+face of events that call for a reaction of some sort may be interpreted as a presumed consent”.
+See also, in the same sense, Mark Villiger, Customary International Law and Treaties (The
+Hague, Kluwer, 1977), p. 39.
+
+65
+
+170 - The elements of fact or factual circumstances that qualify the silence of a jurisdictional
+title by which a State consents to ICSID arbitration, in the sense of limiting it to normal bi-
+lateral (or limited multiparty) arbitration, thus excluding collective mass claims actions or
+representative proceedings, are simply the great differences between these two types of
+
+proceedings.
+
+171 - The sheer difference in volume and number of claims and claimants between the
+bilateral or even the limited multiparty arbitration (14 Claimants in the largest case in
+ICSID)**, which permits an individual, detailed and adversarial examination of every claim
+and claimant, and the 60.000 claimants in the instant case, is staggering. It constitutes what is
+called in physics a “quantum leap” (saut qualitatif) which transforms quantitative change
+beyond a certain point into qualitative change*’. The change here is from the micro-analysis
+
+and treatment of individual phenomena (i.e. claims and claimants) individually, into the
+
+5 Bernardus Henricus Funnekotter and others v. Zimbabwe. ICSID Case No. ARB/05/6,
+Award of 22 April 2009.
+
+5° The argument raised at one point by the Claimants, but not taken up by the majority
+award (though occasionally it seems to imply it), that collective mass claims actions are mere
+multi-party actions as there is no recognized threshold that separates them, is extremely tenuous,
+verging on the absurd. International law knows several such situations. For example, up to now
+there is no agreed or generally recognized threshold that separates air space, which is part of the
+territory of the State, from outer-space which is a res communis. Similarly, until the Montego
+Bay UN Convention on the Law of the Sea of 1982, there was no general agreement on the width
+of the territorial sea, i.e. on the threshold that separates that sea, which is part of the territory of
+the State, from the high seas. But here again, the absence of an agreed threshold did not mean
+that these two areas did not have, or prevented them from having two radically different legal
+status. In any case, whatever the threshold that separates, or the criterion for distinguishing,
+multi-party actions from collective mass claims actions, it is obvious that 60.000 claims fall on
+the side of collective mass claims actions.
+
+66
+
+macro-analysis and treatment of large masses of individual phenomena as an impersonal
+
+whole, that cannot take into consideration the individuality of the components.
+
+172 - It is precisely this fundamental difference that the US Supreme Court highlighted in the
+Stolt Nielsen judgement when it found that representative proceedings or “class action
+arbitration changes the nature of arbitration to such a degree that it cannot be presumed the
+
+parties consented to it by simply agreeing to submit their disputes to an arbitrator”’’.
+
+173 - The other type of circumstances that can surround silence and impart it with meaning
+and significance, are of a legal nature, pertaining to the legal context of the interpreted
+instrument, such as the concepts of “course of performance”, “course of dealing” and “trade
+usages”, in interpreting contracts, or other legal concepts and principles that form part of the
+legal environment of the interpreted instrument. One such legal concept or rule which is well
+known in the arbitration environment but over which the majority award passes in silence, is
+
+described in a very recent article by the same author quoted by the majority award, S.1.
+
+Strong** , as follows :
+
+37 Supra note 29, and accompanying quotation.
+38 § 1. Strong, “Does Class Arbitration ‘Change the Nature’ of Arbitration ? Stolt Nielsen,
+
+AT&T and Return to First Principles”, 17 Harvard Negotiation Law Review , (forthcoming
+2012), available electronically at http://ssm/abstract=179128.
+
+67
+
+“[T]he first question raised in every arbitration is whether the parties have agreed to
+arbitrate this particular dispute. This issue ... can be termed ‘primary consent’...
+Instead, class arbitration focuses for the most part on what can be called ‘secondary
+consent’, meaning consent to this particular type of procedure”. She adds : “This
+concept is by no means unique to class disputes, since traditional multiparty
+arbitrations are also required to establish secondary consent in cases where the
+
+ve . . - 39
+arbitration agreements are silent or ambiguous as to multiparty treatment”.
+
+174 - According to this concept or rule, the need to establish secondary consent applies to
+both multi-party arbitration and a fortiori to collective mass claims actions or representative
+
+proceedings.
+
+» Ibid, pp. 55-56, emphasis added, footnotes omitted. In footnote 255, Strong cites Lew
+et al, Comparative International Commercial Arbitration (2003), on the need to establish
+secondary consent in both class and traditional multiparty arbitration; and in note 256 she cites
+numerous cases on the requirement of secondary consent in multiparty arbitrations.
+
+68
+
+175 - This applies also in the ICSID context. That we have no precedents or writings about
+the subject is simply because the issue did not arise until now before an ICSID tribunal as
+concerns collective mass claims actions. Concerning multi-party arbitrations, as the majority
+award states, the issue was raised during the drafting of the ICSID Convention, but the
+question was left open. It was debated during the latest revision of the Rules, but again was
+not expressly addressed in the revised Rules of 2006. But the absence of written regulation
+does not mean absence of rules. Indeed, the few cases of multi-party arbitrations that took
+place within the ICSID framework (and also NAFTA), were always either with the clear
+agreement of the parties or with no objection from the Respondent, which amounts to an
+implied consent. Thus, the rule of “secondary consent” was consistently upheld in multi-
+party arbitration®’, And if this is the case in multi-party arbitrations, a fortiori it has also to be
+
+the case for collective mass claims actions.
+
+E - Mass Claims Processes in International Law
+
+176 - Most of the analysis up to now has been of the “consent to arbitrate” and its limits in
+national legal systems, including international commercial arbitration which is, in the final
+analysis, subject to national law and national judicial control. But of course ICSID arbitration
+is situated on the international level, i.e. in international law, which is, as described above
+(paras. 8,16) much more strict and exacting as regards the requirement of consent and its
+* Schreuer, The ICSID Convention. A Commentary (2d edition, 2009), p. 163, para. 279,
+cites the Kléckner v. Cameroon case, where Cameroon initially raised the objection that the use
+
+of the word “national” in singular in Article 25(1) of the ICSID Convention barred an arbitration
+with multiple parties on the Claimants side, but subsequently dropped the objection.
+
+69
+
+ascertainment as basis of jurisdiction.
+
+177 - The foregoing analysis thus applies a fortiori and with greater legal force when it
+comes to ad hoc international arbitral tribunals, such as the ICSID tribunals, and the
+interpretation of the “consent to arbitrate” before them. The analysis leads inexorably to the
+conclusion that a mere “consent to arbitrate” does not cover the fundamentally different and
+atypical proceedings of collective mass claims actions, such as the present one (whether we
+qualify them as collective, class, representative, aggregate or otherwise), and that a
+
+“secondary consent” is required for such proceedings to be covered.
+
+178 - In their written and oral pleadings, counsel and legal experts for the Claimants argue
+that several mass claims processing programs took place on the international level in recent
+time, with a view to convincing the Tribunal a) that such procedures are possible and
+admissible on the international level; and_b) that the Tribunal, by analogy, has jurisdiction
+and is empowered to do the same, which also implies, according to them, the Tribunal’s
+
+power to devise the appropriate procedures to handle such mass claims.
+
+179 - Although the majority award chose to ignore this aspect, I consider it important and
+highly relevant to examine the other experiences of processing mass claims in international
+
+law, in order to establish what can or cannot be done in the present case.
+
+180 - The analogy that counsel and legal experts for the Claimants sought to draw between
+
+the mass claims processing programs that existed up to now on the international level and the
+
+70
+
+present collective mass claims action, is a false analogy. It glosses over fundamental
+
+differences between these programs and the present case.
+
+181 - First and foremost among these differences is the legal basis on which these programs
+were established, and which is the crux of the matter here under discussion, namely whether
+the Respondent, by merely consenting to arbitration within the ICSID framework, has also
+consented to arbitrate the present collective mass claims action.
+
+182 - If we examine all the examples of international mass claims programs that have been
+mentioned by counsel and legal experts for the Claimants, and which are discussed in one of
+the Claimants legal annexes to which recurrent reference was made"’, covering indeed all the
+known instances, we note the following common major features that distinguish them from
+
+the present case :
+
+183 - a) Each one of them, without exception, was specifically established to process a
+particular set of mass claims. None of them was set in motion by an application to a standing
+Tribunal, or on the basis of a prior compromissory clause (or another prior jurisdictional title)
+
+as in the present case.
+
+184 - b) In all these cases, with one exception, the program, as a specific response to a
+
+specific crisis (“the same set of facts” giving rise to the claims), was established by an
+*" CLA 185. In fact, it is an excerpt of a book edited by Judge Howard Holtzman and
+
+Edda Kristjansdottir, International Mass Claims Processes : Legal and Practical Perspectives
+
+(OUP 2007), prepared under the auspices of the PCA Steering Committee on International Mass
+Claims.
+
+71
+
+agreement between the parties, i.e. on the basis of the consent of all parties concerned. The
+one exception is the United Nations Compensation Commission (the UNCC), which was
+established by the Security Council, using its exceptional powers (mandatory on all member
+
+States) under Chapter VII of the UN Charter.
+
+185 - The fact that all known cases, save for the UNCC, which is of no relevance to the
+present case, are based on a special agreement between the parties, is of particular
+significance to the present case, and to the point under discussion here, namely whether a
+mere consent to arbitrate within the ICSID framework covers subsequent collective mass
+claims actions. If in all known international cases (barring the fiat of the Security Council) a
+special agreement is needed, then, in the absence of such agreement, but within an already
+
+existing arbitral framework, at least a “secondary consent” is needed.
+
+186 -  c) All these mass claims processing programs on the international level, with one
+notable exception (and another minor one, see below note 42) took the form of administrative
+compensation commissions, quasi-judicial bodies rather than fully judicial or arbitral
+tribunals. Of course, they are subject to certain due process requirements, but this is not the
+same as judicial or arbitral due process. Thus, the procedure is normally non-adversarial, and
+the remedies can be in terms of flat-rate compensation, etc. The treatment of claims is not
+necessarily individual. Although, in the UNCC for example, for State claims and large
+individual claims, the examination was individual. This type of procedure is not relevant to
+the present case, where the requirements of the judicial or arbitral function and the judicial
+
+or arbitral due process have to be completely and strictly observed.
+
+72
+
+187 - The one notable exception is the Iran-US Claims Tribunal. And this exception proves
+the rule. Claims are dealt with individually, though occasionally related claims were dealt
+with in one case (as is done in all ordinary tribunals). The Iran-US Claims Tribunal was
+established by special agreement to deal with a specific set of claims. And it functions not as
+an ad hoc tribunal dealing with all these claims at one go, in one suit or action, but as a
+standing regular Tribunal examining claims individually and adversarially”, the same as the
+
+old Mixed-Arbitral Tribunals of the 19th and early 20th century.
+
+188 - d) None of these mass claims processing programs, whether called Tribunal,
+Commission or otherwise, took on itself or was authorized to invent its own procedures from
+scratch. The main parameters of these procedures, particularly the ones that deviate from the
+normal patterns and are thus more controversial, were set out in the agreement or the legal
+instrument establishing the body (or their drafting and revision were kept in the hands of the
+
+Parties or the organ that established the program).
+
+189 - On all these crucial points, the international precedents and experiences make it
+abundantly clear the necessity of the agreement of all parties in order to establish a
+mechanism with jurisdiction to process a particular set of mass claims - or collaterally, to
+endow an already existing body or framework with such jurisdiction - and to devise the
+procedures for so doing; in stark contradiction with the findings of the majority award in the
+
+© The other minor exception is the first phase of The Claims Resolution Tribunal for
+Dormant Accounts in Switzerland (CVRT-D, which also functioned along similar lines.
+
+73
+
+present case.
+
+190- My conclusion on the first preliminary objection of Argentina is that, in conformity
+with what is followed both on the national law level, including in international commercial
+arbitration, and on the international law level, which is the applicable law in the present case,
+a mere acceptance to arbitrate does not cover collective mass claims actions (regardless of
+the denomination) and that a special or secondary consent is needed for such collective
+
+actions.
+
+191 - In consequence, Argentina’s consent to the ICSID Convention and the BIT does not
+extends to collective mass claims actions, and this Tribunal lacks jurisdiction to hear the
+
+present case.
+
+192 - And if the Tribunal has no jurisdiction to hear the case, the question of whether it has
+
+the power to devise, revise or adapt the rules of procedure to handle it, becomes moot.
+
+193 - But as the majority award found that the Tribunal has jurisdiction over the present
+collective mass claims action and that, in consequence - reasoning by necessity - it also has to
+have the power to devise or “adapt” the rules of procedure to handle it, I feel duty bound to
+
+address this last question.
+
+F - The Limits of Procedural Improvisation
+
+14
+
+194 - Even if arguendo the Tribunal had jurisdiction to hear the present collective mass
+claims action (which I already refuted), it still faces a fundamental obstacle that prevents it
+from proceeding as the majority award proposes to do. This insuperable obstacle is that the
+Tribunal is not authorized, nor has the power, under the ICSID Convention and the
+Arbitration Rules, to adopt proprio motu (on its own motion or initiative), a whole set of
+tules of procedure, replacing the normal “Arbitration Rules” or large segments thereof,
+without the agreement of the Parties or the approval of the Administrative Council, even if it
+
+is only for the purposes of handling the present case.
+
+195 - Two points of clarification are here in order. First, although this question was raised as
+part of Argentina’s first preliminary objection, it is based on different grounds, as it assumes
+arguendo that Argentina’s double consent to the ICSID Convention and the BIT covers
+collective mass claims actions, which is precisely what Argentina contests in its first
+preliminary objection. If Argentina’s consent is also mentioned here, it is as a third type or
+layer of consent envisaged in Article 44 of the ICSID Convention, when it refers to rules of
+procedure “agreed by the parties”, in the context of elaborating rules of procedure for a
+specific case; on the assumption that the Tribunal has already established its jurisdiction over
+the case. The distinction between these three layers of consent (to Convention, BIT and
+within Article 44), should always be kept in mind, which is not the case of the majority
+
+award.
+
+196 - The second point of clarification concerns the legal nature of this preliminary point.
+
+What is in question here is the inherent and institutional limitations on the power of the
+
+75
+
+Tribunal to devise, revise or “adapt” the rules of procedure in a specific case, i.e. certain
+limits on its powers in exercising its judicial or arbitral function. As such, it is essentially a
+question of jurisdiction - jurisdiction in its first and foremost sense of the legal power to
+exercise the judicial or arbitral function (see above para.10) - and not a question of
+
+admissibility as maintained by the majority opinion.
+
+197 - Be that as it may, the results of the examination of this issue must be the same. For if it
+leads to a finding that the Tribunal is not empowered to undertake the “revisions” or
+“adaptations” set out in the majority award, the award would be ultra vires, regardless of the
+
+legal characterization by the award of this preliminary issue.
+
+198 - The majority award, having determined that the silence of the “ICSID framework” over
+collective mass claims actions constitutes a “gap” - i.e. an unintended omission - and not a
+“qualified silence” - i.e. a deliberate exclusion or limitation (while glossing over the limits of
+Argentina’s consent to arbitrate), seeks to rest its power to fill this so-called “gap” on Article
+44 of the ICSID Convention and Article 19 of the Arbitration Rules, describing them as “the
+mere expression of the inherent power of any tribunal to resolve procedural questions in the
+
+event of lacunae” (para. 521).
+
+199 - Article 19 of the Arbitration Rules, entitled “Procedural Orders”, provides :
+“The Tribunal shall make the orders required for the conduct of the proceedings”.
+This Article has nothing to do with filling gaps. It merely states the obvious, that the Tribunal
+
+controls and directs the unfolding of the proceedings through procedural orders, frequently
+
+76
+
+reflecting also the agreement of the parties. It thus decides such matters as fixing the time-
+limits, the language or languages used, whether the case will have one or two phases, etc., as
+
+well as deciding on the different requests of the parties and the incidents of procedure.
+
+200 - Article 44 of the ICSID Convention is more to the point here under discussion.
+Enunciating the applicable procedural law, it provides, in its second sentence :
+“If any question of procedure arises which is not covered by this Section or the
+Arbitration Rules or any rules agreed by the parties, the Tribunal shall decide the
+
+question”.
+
+201 - It is clear from this text that the situation envisaged in that provision is that of an issue
+arising in the course of the proceedings which is not addressed by any specific rule of the
+applicable procedural law. In other words, it is a situation where no rule exists at all; and not
+one where a rule exists, but may not provide the best or most suitable solution to the issue at
+hand, which raises the question of revising or replacing the existing rule rather than filling a
+
+gap.
+
+202 - It is also clear from the text that what is envisaged in terms of “filling a gap” is the odd
+missing rule (by inadvertence or oversight) or a small missing element or cog of a rule
+necessary for its implementation, what is called in the general theory of law a “technical
+gap”; and not whole sets or chapters of rules that cover complete segments of procedure
+(such as the administration of proof or the role and due process rights of the parties in the
+
+proceedings). Such major subjects require a “legislative jurisdiction” (the jurisdiction of the
+
+77
+
+parties or the organ that adopted the initial legal regulation), going far beyond the limited
+
+power of filling gaps that can be encompassed within the judicial or arbitral function.
+
+203 - Indeed, all the examples that can be found of the exercise of such a power, whether in
+the ICSID framework or by other international tribunals, never go beyond such limited gaps
+calling for one specific norm or rule to fill it. Thus, in the ICSID context, the examples that
+can be found of decisions taken in the exercise of the power granted by Article 44 are limited
+to admitting an amicus curia submission (in Suez and AWG v. Argentina); or staying
+proceedings pending the determination, by some other competent forum, of an issue relevant
+
+to the tribunal’s own decision (SGS v. the Republic of the Philippines)”.
+
+204 - The majority award is conscious of these limitations. Thus, after affirming its power to
+fill gaps under article 44, it adds : “...this does not mean that the scope of this power is
+unlimited...the Tribunal is bound by the limits set forth by Article 44" (para. 520). It then
+proceeds to articulate these limits as follows :
+“[T]his power is limited to filling gaps left by the ICSID Convention and the
+Arbitration Rules...[i]n contrast [to] a modification of existing rules [which] can only
+be effected subject to the parties’ agreement..”(para. 522, emphasis added). It is
+“further limited to the filling of gaps... in the specific proceedings at hand... [i.e.]
+limited to the design of specific rules to deal with specific problems arising in the
+proceedings at hand” (para. 523). Thus, “the Tribunal cannot i) modify the current
+
+See Schreuer, The ICSID Convention. A Commentary (2nd ed. 2009), Art. 44, paras 57,
+58).
+
+78
+
+arbitration rules [presumably in a specific case] without the Parties consent; ii) adopt a
+full set of procedure unless the Parties have agreed that the Arbitration Rules....
+
+should not apply without substituting their own rules” (para. 524).
+
+205 - Problems however arise when the majority award tries to demonstrate how what it
+proposes to do, by designing specific rules to replace a good part of the “Arbitration Rules”,
+falls within these limits. The award starts by posing the key question :
+“Can the Tribunal fill the gap created by the collective aspect of the claim on an ad
+hoc basis and through the design of specific rules, or would this require the creation
+and/or modification of general rules which are under the competence of the
+
+Administrative Council ?” (para. 526, emphasis added).
+
+206 - Responding to this question by the simple application of the limits on the power of the
+Tribunal under Article 44, as formulated by the majority award itself, leads logically, and
+
+inescapably in my submission, to a clear negative answer.
+
+207 - But the majority award tries to fudge this clear answer by considering that “[t]his
+question cannot (and should not) be answered in the abstract...[but] in a concrete manner, i.e.
+asking itself (i) what are the [needed] specific rules...and (ii) can [they] be considered to
+
+fall within [the power of] Article 44 ?” (para. 527).
+
+208 - The majority award then embarks on a tortuous argumentation , ending with the
+
+Tribunal arrogating to itself the power to set aside, in large measure, the existing Rules of
+
+79
+
+Procedure, and replacing them by another set of rules of its own; acting as a legislator, be it
+
+for one case.
+
+209 - In order critically to examine the reasoning of the majority award in a comprehensible
+manner, rather than analyzing it statement by statement, I propose to divide the arguments
+into three categories, corresponding to the three lines of the shifting strategy of justification
+followed by the award in defense of its proposed course of action :
+
+i) that it is merely filling a gap;
+
+ii) that in any case it is introducing innocuous changes that do not affect the
+substantive rights of the parties and only minimally their procedural rights;
+
+iii) and to the limited extent to which these latter rights are affected, their limitation is
+
+justified by a balancing of the interests of the parties.
+
+a) - On Filling Gaps :
+210 - Having declared that the power of the Tribunal under Article 44 of the Convention “is
+limited to filling gaps” and does not extend to “a modification of existing rules” (para. 522),
+the majority award proceeds to describe the method it proposes to fill the gap, consisting in
+“the design of the specific rules... that would be necessary in order to be able to conduct the
+present proceedings” (para. 526-527); “...the adaptations required relat[ing] strictly to the
+manner of conducting the present proceedings” (para. 534). In other words, “it is the manner
+in which the Tribunal will conduct such examination [of the claims, i.e. the controverted
+rights and obligations of the Parties] which may diverge from the usual ICSID proceedings”
+
+(para. 534).
+
+80
+
+211 - But ifthe new specific rules cover “the manner in which the Tribunal will conduct [the]
+examination of the [claims]” or “the conduct of the present proceedings”, this obviously
+covers most of what is usually covered by the rules of procedure, including those in the
+Convention and the Arbitration Rules. And these new rules “diverge from the usual ICSID
+proceedings”, i.e. Rules of Procedure (emphasis added). In other words, they set them aside
+
+and replace them in casu.
+
+212 - Obviously, this has nothing to do with filling gaps. First we are not speaking here of a
+gap, in the current sense in rules of procedure of a “technical gap” - the odd, inadvertently
+unprovided for contingency, or the small missing detail (like a cog or a screw) necessary for
+implementing a rule - which can be filled by a tribunal or another implementing organ. We
+are speaking here of whole chapters, segments or sections of regulation. Technically, this is
+an “unauthentic” or “legislative gap”, calling not for filling a small gap, but for a complement
+of the legal regulation, which needs a “legislative jurisdiction”, belonging to the organ or the
+parties who adopted the original instrument to be complemented, but which lies beyond the
+
+“adjudicative jurisdiction” of the implementing organ.
+
+213 - Secondly, what the majority award proposes to do is not “filling a gap”, but modifying
+(“diverging from’) the existing rules of procedure. A gap or lacuna is a void, an empty legal
+space not covered by any rule. But here we have a complete legal regulation, covering almost
+every instance of the proceedings. What the majority award proposes is to replace most of it
+
+by another set of rules, which cannot be seen, by any stretch of imagination, as filling a void.
+
+81
+
+It is clearly a modification or revision of the existing rules, though limited to the current
+
+case.
+
+214 - The majority award tries to defend its position as follows :
+“The Tribunal...can and ought to fill gaps left where the application of existing rules
+are not adapted to the specific dispute submitted to ICSID arbitration. In such a case,
+the filling of the gap does not consist of an amendment of the written rule itself, but
+rather of an adaptation of its application in a specific case” (para. 525, emphasis
+
+added).
+
+215 - This statement is extraordinary in at least two ways : first, it insists on using the
+language of “filling gaps”, in the presence of norms dealing with the matter, i.e. where no
+gap exists, while realizing full well that the suitability of the existing rules is another matter
+
+that raises the question of their amendment, and not of filling gaps.
+
+216 - Whence the second extraordinary feature of this argument, the distinction between “an
+amendment of the written rule itself” and “an adaptation of its application in a specific case”
+by “deviating” from its prescriptions, i.e. replacing it by another “specific rule”, as
+abundantly described in the majority award. This baffling distinction is reminiscent of that
+other mystifying one between “conditioning... consent to ICSID jurisdiction to the fulfillment
+of a condition” and “conditioning the effective implementation of such consent... to the
+
+fulfillment of such a precondition” (discussed above, paras. 21-24).
+
+82
+
+217 - But no amount of sophistry and playing on words or newspeak can conceal the fact that
+the proposed adaptations “diverge from the usual ICSID proceeding” (para.533), i.e. from the
+existing Rules of Procedure. Nor can they transform the legal nature of this act or operation,
+dubbed here as “adaptation” which does not consist of providing for an inadvertently
+overlooked minor contingency or a small missing detail in an existing rule needed for its
+implementation that would correspond to the meaning of “filling a gap”; but of changing or
+substituting the existing rules by other “specific rules”, which clearly constitute an
+amendment, modification or revision of the existing rules; an operation which lies beyond the
+
+limited power granted to the Tribunal under Article 44 of the Convention.
+
+218 - Nor does the fact that this so-called “adaptation” is effected only for the purposes of the
+current case, change the legal nature of the act or operation. After all, the jurisdiction of the
+Tribunal is limited to the case before it and its powers and even existence, do not extend
+beyond that. But in the specific case before it, the Tribunal will not follow the normative
+prescriptions of the written rule, but will substitute for them other normative prescriptions
+that “diverge” from them (rather than merely complement something that is missing in the
+normative prescriptions, which would correspond to the description of “filling a gap”). This
+means that in this specific case, the existing rule or rules have been “amended”, “modified”,
+“revised” or more radically discarded and totally replaced. In other words, the arbitrators
+would have exercised a “legislative jurisdiction” or “power”, that lies beyond what is
+
+provided for in Article 44 of the Convention.
+
+219 - And if in every case or whenever the arbitrators in a specific case consider that there
+
+83
+
+are more suitable or appealing rules of procedure, according to their will of whim, these
+arbitrators can brush aside the written rules of procedure in deciding the case before them,
+what would remain of the “written rule” and its binding normative effect ? It would be
+reduced to a mere recommendatory directive at the discretion of the Tribunal. It is true that
+the “Arbitration Rules” are largely jus dispositivum. But they can be replaced in a specific
+case only by the agreement of the parties, and not by the fiat of the Tribunal over the
+
+objection of a party.
+
+220 - The artificial and tenuous character of this argument of the majority award, concerning
+the legal nature of the operation or act of “adaptation” (and whether it is “filling a gap” or an
+“amendment” of the Rules of Procedure), explains the slippage of the award’s reasoning to a
+second line of defense, namely that, in any case, the “adaptations” envisaged are innocuous,
+
+with no or negligible consequence on the rights of the parties.
+
+b) The Scope of the Proposed “Adaptations” and their Incidence on the Rights of the
+Parties
+221 - In its second line of defense or justification, the majority award starts by trying to
+minimize the magnitude of the “adaptations” it proposes to undertake by such statements as:
+“the adaptations...relate strictly to the manner of conducting the present proceedings, and in
+
+particular how to collect and weigh evidence” (para. 534; see also paras. 530,531,533).
+
+222 - But once the rules governing the manner in which the proceedings are conducted
+
+84
+
+throughout a case (particularly the presentation and adversarial examination of the
+controverted claims and their supporting evidence by the parties and the assessment of these
+claims and the weighing of the evidence by the Tribunal) are covered by the “specific rules”
+designed by the Tribunal for the particular case under consideration, how much else is left to
+be governed by the regular rules of procedure ? In fact, the proposed “adaptations” cover
+
+large expanses, if not most of what is included in any rules of procedure.
+
+223 - Another argument in the same vein of minimizing the import of the proposed changes
+or “adaptations” of the rules of procedure, is the insistence of the majority award that these
+“adaptations” do not affect the merits, i.e. the controverted claims, but only the manner in
+which they will be examined and the way the Tribunal will conduct the proceedings. In other
+terms, the majority award contends that these “adaptations” will not affect the substantive
+rights and obligations of the parties (para. 530-534). This implies, however, that by contrast
+they may touch their procedural rights (which the award acknowledges, and tries to justify
+later on, as discussed below). And after briefly describing the proposed “adaptations” in
+terms of simplification of the marshalling and weighing of evidence and the examination of
+the claims“, the award states that “such simplification of the examination process is to be
+
+distinguished from the failure to proceed with such examination” (para. 531).
+
+4 T1]t is undeniable that the Tribunal will not be in a position to examine all elements and
+related documents in the same way as if there were only a handful of Claimants... [but will
+resort to] a simplified verification of evidentiary material concern[ing] either the depth of
+examination of a ducument... or the number of documents to be examined, and if so their
+selection process...” (Para. 531).
+
+85
+
+224 - These affirmations and statements are properly baffling, for several reasons : first,
+Article 44, which is here under discussion, deals exclusively with rules of procedure. It goes
+without saying that the Tribunal has no power under this article or in general to touch the
+controverted substantive rights and obligations of the parties, that constitute the “object” or
+“subject-matter” of the claims before the Tribunal. The Tribunal is here to judge, not to
+retouch, these rights and obligations. If what the Tribunal does on the procedural level affects
+these substantive rights and obligations, such action of the Tribunal is clearly both illegal
+
+and ultra vires.
+
+225 - Secondly, the implication that as long as the “adaptations” by the Tribunal are confined
+to “‘set[ting] strict boundaries to certain of the Parties’ procedural rights” (para. 538), in fact
+abridging or curtailing these rights, without touching directly the Parties’ substantive rights,
+such adaptation would be justified, is based on a clear fallacy. This fallacy consists of the
+radical distinction between substantive and procedural rights, and the treatment of the later as
+a second class category of rights at the disposal and discretion of the Tribunal (a distinction
+reminiscent of the manner in which the majority award distinguishes between jurisdiction
+
+and admissibility).
+
+226 - This radical distinction is false because if a substantive right, or a right tout court, is
+defined in the general theory of law as “an interest (or a value) protected by law”, then the
+procedural rights or guarantees that back it up are an essential part of this legal protection;
+their curtailment, abridgement, or violation in any way, automatically puts in serious
+
+jeopardy the substantive rights they protect. It is a sheer aberration to try radically to separate
+
+86
+
+the two the way proposed by the majority award, pretending that the limitation of one (the
+
+procedural rights) does not affect the other (the substantive rights).
+
+227 - In the third place, the statement that the “simplification” of the examination of the
+claims and the evidence should be distinguished from failure to operate such an examination
+at all, is off the mark. Obviously, if the Tribunal does not examine the claims and the
+evidence, it would have totally failed to exercise its judicial or arbitral function. The question
+is not whether it has undertaken such an examination or not, but whether the so-called
+“simplified examination” it proposes to do, meets the judicial and arbitral standards of due
+process. The answer to this question depends on the extent to which the simplification affects
+
+the procedural rights of the parties, particularly the defense rights of the Respondent.
+
+228 - The majority award tries to minimize the impact of its proposed “simplification” of the
+procedure (linguistic slippage again from the more alarming “adaptations” to the rather
+virtuous “simplification’), to hide the real legal nature of the operation, i.e. “modification”.
+It does so by describing briefly the effects of the “adaptation” on the respective rights of the
+
+two parties.
+
+229 - Starting with the Claimants, which is the easier case, the majority award states that the
+adaptation would concern only “the way [they] are represented” (para. 530), acknowledging
+“that TFA has been provided with powers which may go beyond the power granted to a
+normal agent under Rule 18 ICSID Arbitration Rules” (para.532). But the award immediately
+
+adds : “Admitting the present collective proceedings would thus also mean accepting TFA’s
+
+87
+
+role as due representative of Claimants” (para. 532).
+
+230 - This last sentence is yet another extraordinary statement. By which leap of faith, does
+the taking of jurisdiction by the Tribunal over the case, even in the form of a collective
+action, (assuming that the Tribunal has jurisdiction, an assumption I refuted above), justify
+and render legal and acceptable to the Tribunal the exorbitant status and powers of TFA ?
+
+Again reasoning by necessity that is not evident.
+
+231 - Later on, the majority award justifies the exorbitant character of “the TFA Mandate
+Package [which] has the effect to depriving [sic] Claimants of a substantial part of their
+procedural rights”, by the fact that it “has been consciously accepted by Claimants” (para.
+546). This can be a valid justification, subject to public policy limitations, if this consent
+were fully informed and not tainted by fraud or forgery; that which is ascertained by the
+majority award, but which is contradicted by certain recent criminal condemnations for
+forgery (of the signatures of the mandates given to TFA) by Italian courts, that the majority
+
+award refused to take into consideration.
+
+232 - Be that as it may, what counts most here is the effects of the new “specific rules” or
+“adaptations” on the rights of the Respondent, who has contested throughout the power of the
+Tribunal to introduce these “adaptations”; unlike the Claimants who have defended the
+power of the Tribunal to do so, and thus can be legitimately presumed to have accepted the
+
+incidence of these adaptations on their procedural rights, in their own self-interest.
+
+88
+
+233 - The “[elffects on Argentina’s defense rights” of the proposed “adaptations” are
+assessed by the majority award as follows :
+“Tt appears that the effect of such examination method and procedure on Argentina’s
+defense rights is limited and relative. Whilst it is true that Argentina may not be able
+to enter into full length and detail into the individual circumstances of each Claimant,
+it is not certain that such approach is at all necessary to protect Argentina’s
+procedural rights in the light of the homogeneity of Claimants’ claims’ (para. 545,
+
+emphasis added; see also para. 536).
+
+234 - This minimalist representation of the effects of the “adaptations” on the rights of the
+Respondent - which contrasts with their more constraining description elsewhere in the
+
+majority award (e.g. para. 538) - calls for the following critical comments :
+
+235 - i) Justifying the abridgement and curtailment of the procedural rights of the
+Respondent, particularly as concerns the individual examination of claims (and claimants) by
+the argument that the mass claims in question are sufficiently homogeneous, does not stand
+
+scrutiny (see above, paras. 139-142).
+
+236 - This is because it is an absolute due process right of a respondent in a judicial or
+arbitral proceeding, to have every element of the claim or claims presented against him,
+examined by the tribunal, through adversarial debate that affords him full opportunity to
+
+contest and refute these elements one by one, if he can..
+
+89
+
+237 - This procedural right of respondents does not necessarily preempt any and all “group
+examination of claims” (para. 540). For as long as the mass claims are cast into one claim
+(with a mass of claimants) or are identical claims (which comes to the same thing as the
+tribunal, by examining one, would have examined them all) - which is the case for example
+of “class actions” - the tribunal can examine adversarially all the aspects and components of
+this one claim, in spite of the multitude of the claimants, totally safeguarding the due process
+
+rights of the respondent*.
+
+238 - But in the present case, the Claimants vigourously refute the characterization of their
+collective mass-claims action as class action. And although these mass-claims can be
+considered as arising “out of the same fact pattern”, and thus share some common features
+(whence a degree of homogeneity), they are not identical and preserve some individualized
+features that distinguish them from one another. To the extent that the individual claims in
+the mass differ from each other, it is the absolute due process right of the defense, and the
+obligation of the Tribunal, to have them examined individually and adversarially by the
+Tribunal. The Tribunal has also to address and pass judgement on each of them and state the
+reasons on which it bases its judgement (Article 48/3 of the ICSID Convention). Failure to
+
+meet these requirements is a cause of annulment under the ICSID Convention (Art. 52/d).
+
+239 - A “group examination” of mass claims that feature certain individual differences
+
+45 Even in class actions, as noted by the US Supreme Court in the AT&T Mobility LLC v.
+Concepcion ET UX case, “class arbitration greatly increases risks to defendants” (see above para.
+152). These risks are exponentially greater when the mass is composed of differentiated claims.
+
+90
+
+among themselves, can at best deliver rough or approximate justice. It may satisfy the due
+process requirements of an emergency mass claims program or an administrative
+compensation commission. But it definitely falls well below the stringent due process
+
+standard of judicial or arbitral proceedings.
+
+240 - ii) One cannot but note the hesitant and guarded language of the above-quoted
+assessment by the majority award of the effect of the “adaptations” on Argentina’s defense
+rights : - “it appears” that the effect “is limited and relative”; “it is not certain that such
+approach” of individual examination of differentiated claims “is at all necessary to protect
+
+Argentina’s defense rights” (above, para. 234).
+
+241 - This language of “appearance” (of an effect being “limited and relative”) and of
+“uncertainty” (whether a due process guarantee is “at all necessary” to protect a right),
+reflects an evident unease of the majority award with its own argument, and its awareness of
+its frail and risky character. For good reason. For here, the majority award is treading rather
+
+heavily on the highly sensitive due process grounds.
+
+242 - In the first place, the individual adversarial examination of differentiated (or non-
+identical) claims is an essential part of the very “object” or “subject-matter” of the
+Respondent’s procedural defense rights, and is not a mere “approach”, as the majority award
+calls it, which it has decided to dispense with, because it considers that “it is uncertain” that
+such an examination “is at all necessary to protect Argentina’s procedural rights”. In other
+
+words, according to the majority award, “it is not certain” that the subject-matter of a right -
+
+91
+
+what it prescribes and legally guarantees for its holder - “is at all necessary” for the
+
+protection of that same right!
+
+243 - Apart from logical confusion, this statement of the majority award reveals something
+even more serious, namely, that the Tribunal has substituted itself for the Respondent and
+decided in his place the question whether it is necessary for him to exercise some of his
+procedural defense rights or not. Moreover, it has answered the question on the basis of
+impressions and “appearance”, almost by guesswork - “it is uncertain” - in order to reach the
+
+result it wanted to reach.
+
+244 - Procedural rights, the same as substantive rights, are not at the disposal and the
+discretion of the Tribunal. If they are ascertained, they have to be upheld and enforced by the
+Tribunal; not confiscated, scuttled, abridged or curtailed by it. But this is exactly what the
+majority award has done in the present case. By imposing the “adaptation” or “simplified
+procedures”, that deny Argentina an individual adversarial examination of the differentiated
+mass claims, the majority award has unlawfully curtailed the Respondent’s defense rights
+and thus flagrantly violated the due process arbitral standards, apart from being manifestly
+
+ultra vires.
+
+c) Balancing of Interests Redux
+245 - The majority award tries to evade this inexorable conclusion by shifting its argument,
+through yet another slippage, to a third line of defense or justification of the “adaptations”, to
+
+wit, the balancing of the interests of the Parties. A balancing that the majority award operates
+
+92
+
+by comparing the consequences or effects of the “adaptations” on the rights of the Parties
+“with the consequences of rejecting the claims for lack of admissibility” (para. 537), in order
+to answer the question “whether it would be justified to set strict boundaries to certain of the
+Parties’ procedural rights, so as to give actual effective protection to the investment” (para.
+
+538).
+
+246 - According to the majority award, the consequences of admitting the “adaptations”
+(“special rules, “simplified examination”, etc.) on the procedural rights of the Parties are
+minimal, and the outcome beneficial (“the effective protection of the investment”). The
+“adaptations” pose no problem for the Claimants, who have requested and defended them all
+along, and accept their consequences in their own self-interest of protecting their investment.
+As far as the Respondent is concerned, according to the majority award (discussed above,
+para.232ff.), “[i]t appears that the effect of such [simplified] examination... on Argentina’s
+defense rights is limited and relative”, and “it is not certain” that the due process guarantees
+curtailed by the “adaptations” are “at all necessary to protect Argentina’s procedural rights”
+
+(para. 545).
+
+247 - By contrast, the consequences of dismissing the case on grounds of inadmissibility
+would be serious and prejudicial, according to the majority award. The “only alternative” left
+to Claimants would be for each of them “to file an individual ICSID claim” which would be
+“cost prohibitive to many claimants...[and] may equal a denial of justice” (para. 537). It
+would also “be a much bigger challenge to Argentina’s [the Respondent’s] effective defense
+
+rights...to conduct 60.000 separate proceedings... than [their] mere limitation” by the
+
+93
+
+“adaptations” (para. 545).
+
+248 - On the basis of this exercise of “balancing the interests” of the Parties’ at stake,
+according to its own subjective representation and evaluation of these stakes, the majority
+award finds that the “adaptations”, i.e. “the procedure necessary to deal with Claimants’
+claims in a collective way”, are “admissible and acceptable under Article 44 ICSID
+Convention, Rule 19 Arbitration Rules, as well as under the more general spirit, object and
+aim of the ICSID Convention” (para. 547).
+
+249 - This exercise of balancing of interests calls for critical examination. It is intrinsically
+wrong, lies beyond the powers of the Tribunal and is based on wrong premises, as shown in
+
+what follows.
+
+250 - The “balancing of interests” as operated by the majority award is intrinsically wrong
+because, by making the admissibility of the “adaptations” depend on the comparison of the
+consequences of their admission on the procedural rights of the Parties “with the
+consequences of rejecting the claims for lack of admissibility” (para. 537), the majority
+award is treating these rights as “variables” (or rather as dependant variables), whose
+recognition, scope and enforceability by the Tribunal are to be determined as a function of
+the Tribunal’s subjective evaluation of the right balance of interests between the parties,
+which thus becomes, according to this logic, the parametric gauge of these rights. This is
+standing the legal logic on its head. A tribunal is duty bound to apply the law, i.e. to enforce
+rights not to put them in question, according to its own evaluation of extra-legal (or
+
+opportunity) considerations, be they its subjective representation of the interests of the
+
+94
+
+Parties.
+
+251 - Such “balancing of interests” lies beyond the powers of the Tribunal. For, as explained
+earlier (para. 31), the Tribunal thus acts as if the rules do not exist, and are not themselves the
+result or outcome of a balancing of interests by those who adopted them. It is at that level, the
+legislative or conventional level, that the balance of interests takes place, the level of
+establishing the rules, not of applying them, which is that of tribunals. It is not open to the
+Tribunal to arrogate to itself the legislative jurisdiction or power of re-examining the rules in
+order to revise of refashion them, in the name of a rebalancing of interests of its own,
+according to its will or whim. In other words, such an exercise of “balancing of interests” is
+
+clearly ultra vires the powers of the Tribunal.
+
+252 - Apart from the illegality and ultra vires character of the “balancing of interests”, as
+represented and operated in the majority award, substantively the exercise is based on false
+
+premisses of law and fact.
+
+253 - i- To say that the only alternative open to the securities holders if the present
+collective action is found inadmissible would be for each of them to file an individual ICSID
+claim, is wrong in fact. For as already shown (above para 33), apart from the Argentinean
+tribunals, that were not even tried, all the emphasis in the securities entitlement instruments
+was put on the chosen forum therein for dispute settlement, i.e. the tribunals of some of the
+major financial centres of the world as the judicial guarantee of the financial investment,
+
+beyond the reach of Argentina’s law and tribunals. ICSID arbitration was never mentioned in
+
+95
+
+these instruments, nor in the advertisements and the road-shows for the sale of the
+instruments (as abundantly shown in the pleadings). The one judicial guarantee or recourse
+
+that stood out was the chosen forum.
+
+254 - Moreover, one should not forget the Italian courts which were seized by some of the
+securities entitlement holders who succeeded on numerous occasions in obtaining relief
+against the banks that sold them the securities. This largely explains the creation by these
+very banks of the TFA and their belated discovery of ICSID arbitration as a way of deflecting
+
+responsibility from themselves.
+
+255 - ii- To say that dismissing the case for inadmissibility of the adaptations, “may equal a
+denial of justice” is triply wrong, because it is based on three false assumptions. In the first
+place, to imply that this would deprive the claimants from any efficient dispute settlement
+
+means, is wrong as just explained.
+
+256 - Secondly, in order to speak of a denial of justice, a tribunal must first have jurisdiction
+over the case. But this Tribunal lacks jurisdiction ratione materiae over the claims (Part III
+above). It lacks jurisdiction to hear collective mass claims actions, as falling outside
+Argentina’s consent to arbitrate (Part IV, A to E above), and it lacks the power to revise the
+Arbitration Rules in the instant case, in the absence of both Parties consent, as just discussed.
+
+Speaking of “denial of justice” in these circumstances is out of place.
+
+257 - Thirdly, it is also out of place and even odd in international law to speak in general of
+
+96
+
+an absence of a competent forum (which is not the case here, as per para 253-254 above), in
+terms of “denial of justice”. This is because international law, given its a-centralized
+character, has no system of courts or tribunals of plenary or general jurisdiction (juridictions
+de droit commun) covering all cases and litigants, barring a specific exception attributing
+jurisdiction over a particular type of matter or litigant to another specialized organ, and where
+every dispute or every claim can ultimately and necessarily find a competent forum to handle
+it. By contrast, as explained earlier (para 7), all international courts and tribunals are tribunals
+of attributed jurisdiction (juridictions d’ attribution), a jurisdiction based on the consent of the
+
+parties or litigants and confined within the limits of this consent.
+
+258 - iii - In fact, the majority award tries to claim the same powers as a tribunal of plenary
+or general jurisdiction through interpretation by calling on the “spirit”, “aim” and/or “object
+and purpose” of the ICSID Convention and the BIT, “in accordance with the principles of
+interpretation of treaties” (para. 528). But the principles of treaty interpretation, as codified in
+articles 31 and 32 of the Vienna Convention on the Law of Treaties of 1969, prescribe
+starting with the text in its context and be guided by the object and purpose of the treaty, if
+need be, to clarify any subsisting ambiguity. These principles do not prescribe nor justify, the
+invocation left and right by the Tribunal, of the object and purpose, as subjectively
+represented by it, in order to deduce directly from them the solutions it seeks to reach,
+jumping over text, context and general rules of international law applicable to the matter.
+
+Yet, this is exactly what the majority award does all along, as already noted (see e.g. para. 24,
+
+157-159 above).
+
+97
+
+259 - In the specific context of “balancing of interests” discussed here, the majority award
+sollicites the object and purpose of the ICSID Convention and the BIT, according to its
+subjective and partial interpretation of them as being exclusively the effective protection of
+the investment, notwithstanding the legitimate interests of the host State, in order to answer
+in the affirmative the rhetorical question it put at the outset. To recall, this question was
+“whether...it would be justified to set strict boundaries to [i.e. abridge] certain of the Parties’
+procedural rights [but in fact only to the Respondent’s, as the Claimants requested the
+“adaptations” in their self-interest]... so as to give actual effective protection to the
+investment”, i.e. the Claimants (para 538). And the answer, reached through the involved
+reasoning discussed above, is the award’s finding that the “adaptations” are “admissible and
+acceptable under article 44 ICSID Convention, Rule 19 Arbitration Rules, as well as under
+
+the more general spirit, object and aim of the ICSID Convention (para. 547).
+
+260 - Put in simple words, the answer is that the Tribunal can abridge the procedural rights of
+one party, the Respondent, against its will, in order to give greater (“actual effective”)
+protection to the investment, i.e. to the other Party, the Claimants’ investors. The one-
+
+sidedness of this alleged balancing of interests is too glaring to need any further elaboration.
+
+261 - This is symptomatic of a general strategy followed throughout by the majority opinion,
+consisting of three stages :
+
+i - starting with a subjective, partial and truncated representation of the object and
+purpose of the ICSID Convention and the BIT, as being exclusively the effective protection
+
+of investment, all but totally disregarding the legitimate interests of the host State;
+
+98
+
+ii - considering, in consequence, that all limitations on the jurisdiction and powers of
+the Tribunal are obstacles in the way of achieving this object and purpose, that should be
+“down-graded”, (even with untenable arguments) from “jurisdictional” to “admissibility”
+issues; wrongly assuming that admissibility is less important in its function and legal effects
+than jurisdiction;
+
+iii - assuming wrongly again that questions of admissibility, are at the discretion of the
+Tribunal, which can dismiss them at will as a result of its own subjective “balancing of
+interests” in the light of “the more general spirit, object and aim of the ICSID Convention”
+(para. 547), as interpreted by the Tribunal.
+
+Needless to say, this strategy has very little to do with rigourous legal reasoning and
+
+deciding by law and all the characteristics of sheer policy.
+
+262 - My conclusion on this sub-section (IV F) in general is that the “adaptations” of the
+Arbitration Rules that the majority award prescribes for hearing the present case are
+manifestly ultra vires the powers of the Tribunal under Article 44 of the Convention and
+
+Rule 19 of the Arbitration Rules.
+
+G - Epilogue on Policy Considerations
+
+263 - Considering what has just been said, it is ironic that the majority award dismisses
+offhand the “Respondent’s arguments regarding the appropriateness of ICSID proceedings in
+
+the context of sovereign debt restructuring” (para. 548); adding that
+
+99
+
+“[P]olicy reasons are for States to take into account when negotiating BITs and
+consenting to ICSID jurisdiction in general, not for the Tribunal to take into account
+
+in order to repair an inappropriately negotiated or drafted BIT” (para. 550).
+
+264 - The majority award should have heeded its own directive, rather than read, or in effect
+write, into the Convention, the BIT and the Arbitration Rules, what is not there, but what it
+
+wishes to see there.
+
+265 - Indeed, the majority award accepts, in full and without reasoning, the Claimant’s
+contention that Argentina’s policy arguments are “outdated and irrelevant” (para. 514),
+calling them - in only slightly varied terms - “irrelevant and inaccurate” (para. 429(v). It also
+seemingly subscribes to the Claimant’s policy argument that “opening the door to ICSID
+arbitration would create a supplementary leverage against such rogue debtors and therefore
+be beneficial to the efficiency of foreign debt restructuring” (ibid.). In order to create such
+leverage over sovereign debtors, which the ICSID Convention did not foresee and which
+financial markets did not contemplate, then or now, the majority award fashions an
+unprecedented procedure for adjudicating the present claim of more than 60.000 holders of
+Argentinean debt, out of the thin air of the tribunal’s gap-filling powers under article 44 of
+the ICSID Convention. Driven in part by controversial policy considerations, hidden behind
+references to the spirit of the ICSID Convention and the purpose of the BIT, the majority
+award blows hot and cold at the same time, uncritically adopting the Claimant’s policy
+
+arguments over the Respondent’s, to which it hardly gave any attention.
+
+100
+
+266 - Up to this point, the reasoning in this dissenting opinion has kept to strict law, and this
+is how a judicial or arbitral decision should be. But a judge or an arbitrator, particularly an
+international one, cannot be totally blind to the social, economic and political environment
+which constitutes the larger context of the case. Policy considerations should never be
+determinative of a judicial or arbitral decision. But, within the permissible margin of
+interpretation, they can shed light on what makes sense or nonsense among possible
+
+alternative solutions, when seen against the larger background.
+
+267 - In this respect, the following three major policy issues or queries, collaterally raised
+and necessarily affected by any decision taken in this case, should have been given more
+
+attention:
+
+268 - i - As noted earlier (para. 35), this is the first ICSID case that involves a sovereign
+debt financial instrument (but I leave the sovereign debt aspect to the following point), that is
+totally unhinged and detached from any specific economic activity or project in the host
+country; in other words, completely detached from any form of investment in the economic
+sense of the term, which is also that of ICSID Convention. Affirming the jurisdiction of
+ICSID Tribunals over such instruments, would extend it over a vast new field. It would cover
+virtually all capital market transactions, ranging from standardized financial instruments,
+such as shares and bonds to structured and derivative products, such as hedges and credit
+default swaps. It would thus open the way to converting them from specialized tribunals,
+dealing with disputes arising out of a special type of investment, into commercial tribunals of
+
+general jurisdiction, covering all manners of financial transactions, including the most
+
+101
+
+speculative varieties, which have nothing to do, in fact are light years away from the
+
+economic investment for the encouragement of which the ICSID Convention was concluded.
+
+Is this the direction for ICSID tribunals to follow?
+
+269 - ii - This is also the first ICSID case, to my knowledge, that involves sovereign debt. It
+raises prima facie a crucial question : do ICSID tribunals have jurisdiction over sovereign
+debt instruments issued internationally, expressed in foreign currency and payable abroad,
+governed by various external laws and subject to the jurisdiction of various external courts,
+
+and traded as dematerialised security entitlements in global capital markets ?
+
+270 - The majority award evades addressing this question frontally and on its merits, by
+purportedly deciding the issue on another ground, i.e. finding that these are financial
+instruments that are, as such, covered by the BIT (a finding refuted in Section III above). But
+evading the question does not dispose of it. For it remains central not only for the
+jurisdictional reach of ICSID arbitration in this particular case, but in relation to financial
+market transactions in general, as discussed in the previous point. The answer also matters
+greatly for the larger problem of sovereign debt crisis management, i.e. for the manner in
+which the international community and countries borrowing abroad will resolve the present
+and future sovereign debt crises and how the burden for such crises will be shared between
+taxpayers and creditors; a perennial challenge that is now occupying the daily headlines and
+
+confronting countries at all levels of development.
+
+102
+
+271 - Indeed, in view of the actual profound structural crisis of the international financial
+system; the absence of agreed international procedures regulating State bankruptcy; and the
+intense international discussions and efforts to improve the sovereign debt restructuring
+process, the present case raises, in an accute manner, an international public policy issue
+about the workability of future sovereign debt restructuring, should ICSID tribunals intervene
+in sovereign debt disputes. It suffices to ponder the potential disrupting effect of different ad
+hoc tribunals following separate ways or deciding at cross purposes with the desperate
+international efforts to reconstruct a semblance of a coherent international financial
+architecture. Such decisions can also potentially unravel patiently negotiated settlements
+(through the effect of the most favoured creditor clause inserted in most settlements).
+Ramifications that are depicted in a recent article as “opening Pandora’s box” for sovereign
+debt’.
+Is this a proper role for ICSID’s tribunals ?
+
+272 - iii - Finally, the third policy consideration is a cautionary one. It is to caution against
+the tendency of certain ICSID tribunals to consider any limitation on their jurisdiction -
+whether inherent in the adjudicative function or carefully negotiated and stipulated in the
+ICSID Convention or the BITs, to protect the legitimate interests of State parties - as an
+obstacle in the way of achieving the object and purpose of these treaties, which they interpret
+as being exclusively to afford maximum protection to investment, notwithstanding the
+legitimate interests of the host State.
+
+273 - Viewed as such, these limitations have to be disposed of, according to the tribunals in
+
+4© Michael Waibel, supra note 8.
+
+103
+
+question, at any price, be it the proper interpretation of the law. This leads to tenuous and
+untenable interpretations, particularly of jurisdictional titles, over-stretching the text beyond
+the breaking point, in order to extend jurisdiction to where it does not exist, particularly
+
+beyond its underlying consent.
+
+274 - This misguided tendency, purporting to serve progress by expanding the rule of law
+and the role of adjudication in international society, is the worst disservice that can be
+rendered to the very positive movement that has characterized the last two decades towards
+increasing resort to adjudication and the multiplication of adjudicative fora on the
+international level. It is undermining the credibility not only of the ICSID system, but of the
+very idea of objective international adjudication, by eroding the confidence of States, whose
+consent remains the basis of jurisdiction, in the objectivity and good judgement of those to
+whom they may entrust the ascertainment of their rights. The risk of a back-lash is already
+pointing its head, it threatens to stop net, if not roll back the movement of progressive
+judicialisation of international law.
+
+What is the proper and prudential course for ICSID tribunals to take in this regard?
+V - Conclusion
+275 - In conclusion, and while reserving my position on the other preliminary objections
+
+raised by Argentina, I consider and find that the first and ninth objections are valid and
+
+104
+
+should have been accepted and given effect by the Tribunal.
+
+276 - In consequence, I consider and find
+a) that this Tribunal has no jurisdiction ratione materiae over the sovereign debt
+instruments (security entitlements in Argentinean bonds) that are at the basis of the mass
+claims before the Tribunal, because they do not constitute a covered or protected investment
+under the ICSID Convention and the BIT, in the absence of a territorial link with Argentina;
+b) that this Tribunal has no jurisdiction under the ICSID Convention and the BIT over
+the present collective mass claims action, absent the consent of Argentina, nor does it have
+
+the power to devise new procedures to hear such an action.
+
+277 - For these reasons, and with all due respect for my co-arbitrators, I cannot concur in the
+
+majority award and enter this dissenting opinion.
+
+[signed]
+Georges Abi-Saab
+
+105
+

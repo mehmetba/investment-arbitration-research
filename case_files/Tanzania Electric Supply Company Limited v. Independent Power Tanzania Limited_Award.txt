@@ -1,0 +1,938 @@
+DATE OF DISPATCH TO THE PARTIES: JULY 12, 2001
+
+BEFORE THE INTERNATIONAL CENTRE FOR SETTLEMENT
+
+OF INVESTMENT DISPUTES
+
+ICSID Case No. ARB/98/8
+
+ESE INO. ARB/93/8
+
+TANZANIA ELECTRIC SUPPLY COMPANY LIMITED
+
+Claimant
+
+-and-
+
+INDEPENDENT POWER TANZANIA LIMITED
+
+Respondent
+
+ 
+
+FINAL AWARD
+
+ 
+
+N
+
+BEFORE THE INTERNATIONAL CENTRE FOR SETTLEMENT
+OF INVESTMENT DISPUTES
+
+ICSID Case No. ARB/98/8
+
+ 
+
+TANZANIA ELECTRIC SUPPLY COMPANY LIMITED
+Claimant
+-and-
+INDEPENDENT POWER TANZANIA LIMITED
+
+Respondent
+
+ 
+
+FINAL AWARD
+
+ 
+
+The Claimant, Tanzania Electric Supply Company Limited (“TANESCO”), is a
+Tanzanian corporation, being a public utility wholly owned by the United Republic of
+Tanzania, and charged with responsibility for the generation, supply and transmission of
+
+electric power throughout the country.
+
+The Respondent, Independent Power Tanzania Limited (“IPTL”), is similarly a
+corporation incorporated in Tanzania. It was formed as a “joint venture” company
+between VIP Engineering & Marketing Limited, a Tanzanian engineering company, and
+
+Mechmar Corporation (Malaysia) Berhard, a Malaysian corporation.
+
+This arbitration arises out of a Power Purchase Agreement (“PPA”) dated “as of” 26 May
+1995 between TANESCO and IPTL, whereby IPTL agreed to design, construct, own,
+operate and maintain an electricity generating facility with a nominal net capacity of 100
+megawatts, to be located in Tegeta, Tanzania (approximately 25 kilometres north of Dar
+es Salaam) (the “Facility”), and to operate the Facility and deliver electricity generated
+thereby to TANESCO for an initial period of 20 years, subject to extension for further
+
+periods as therein provided. We refer to the project as “the Project”.
+
+Under Article V of the PPA, the price to be paid after the Initial Operations Date of the
+
+first unit comprised three basic elements, namely:
+
+qd) A “Capacity Payment”;
+(2) An “Energy Payment”;
+(3) A “Test Energy Payment”, to be applied before the applicable Commercial
+
+Operations Date.
+
+Under Appendix B, a “Reference Tariff” was to be established, comprising a “Capacity
+Purchase Price” (which in turn consisted of two elements, namely a“C. ‘apital Component”
+and a “Debt Component”), and an “Energy Purchase Price” (also consisting of two
+elements, namely a “Fuel Cost Component”, and a “Variable Operations and
+Maintenance Costs Component”), which was subject to escalation/variation in
+accordance with the detailed provisions of Appendix B so as to arrive at the actual price
+or tariff to be payable.
+
+Under Article IV it was a condition precedent to the obligation of TANESCO to purchase
+
+electrical energy and capacity from IPTL that IPTL should have fulfilled certain
+
+conditions, including in particular under Article 4.1(b) the submission, not less than 30
+
+days prior to the Commencement Date of a certificate from the Independent Engineer
+
+stating that the Facility, when constructed in accordance with the general layout drawings
+
+submitted therewith would (inter alia) conform with the Description of the Facility; and
+
+under Article 4.1(c) the provision, as soon as available but in any event prior to the Initial
+
+Operations Date of each unit, of a certificate from the Independent Engineer stating that
+
+the Facility has been designed and constructed (inter alia) in all material respects in
+
+accordance with the terms of the Agreement and the general layout drawings.
+
+Addendum No. | to the PPA, dated 9 June 1995. provided (inter alia):
+
+“Before commencement of commercial operations the Reference Tariff
+mentioned in Table I of Appendix B will be adjusted upwards or downwards
+depending on the effect of changes that will have taken place on any or all the
+underlying assumptions stated in the Power Purchase Agreement".
+
+On 8 June 1995, an Implementation Agreement and a Guarantee Agreement were entered
+
+into between the Government of the United Republic of Tanzania and IPT.
+
+The above contractual relationship was entered into against the background of a severe
+
+shortage of electric power within Tanzania, which was apparently due in part to
+
+developments in the economy which stimulated significant growth in the demand for
+
+electricity, coupled with problems experienced within Tanzania’ s existing hydro-
+
+generated power system. A firm of international consultants, Acres International Limited
+
+(“Acres”), had been involved in advising the Government of Tanzania and TANESCO on
+
+acontinuing basis since the late 1970's. By 1995, the need for further generating capacity
+
+was regarded as urgent.
+
+Article XVIII of the PPA provided (inter alia) agreed machinery for the resolution of
+disputes. By Article 18.3, it was agreed that any dispute arising out of or in connection
+with the PPA should be settled by arbitration in accordance with the Rules of Procedure
+for Arbitration Proceedings of the International Centre for the Settlement of Investment
+Disputes (the “ICSID Arbitration Rules”) established by the Convention on the
+Settlement of Investment Disputes between States and Nationals of other States (the
+“ICSID Convention”), and that for the purposes of consenting to the jurisdiction of the
+Centre it was agreed that IPTL was a foreign-controlled entity, unless the amount of the
+voting stock in IPTL held by non-Tanzanian investors should decrease to less than fifty
+per cent of its voting stock. Such arbitration was to be conducted in London, England
+
+and, unless otherwise agreed by the parties, before a tribunal of three arbitrators - one to
+
+be nominated by TANESCO, one to be nominated by IPTL, and the third to be nominated
+
+by the party - nominated arbitrators or failing their agreement by the High Court of
+
+England and Wales.
+
+Disputes did arise between the parties, as hereinafter more particularly defined, which
+were duly referred to arbitration pursuant to the aforesaid contractual provision - the
+Request for Arbitration being lodged with ICSID on 25 November 1998, and formally
+
+registered by the Secretary-General on 7 December 1998.
+
+TANESCO and IPTL nominated the Honorable Charles N Brower of Messrs White &
+
+Case LLP, 601 Thirteenth Street, NW, Suite 600 South, Washington, DC, United States
+of America, and the Honourable Andrew Rogers QC of 233 Macquarie Street, Level 7, .
+Sydney NSW 2000, Australia respectively as arbitrators, and the two arbitrators so
+nominated agreed to the appointment of Kenneth Rokison QC of 20 Essex Street, London
+WC2R 3AL, United Kingdom to be third arbitrator and President of the Tribunal. The
+Tribunal was fully constituted on 24 March 1999.
+
+The arbitral p dings have been conducted rf in di with the ICSID
+Convention and the ICSID Arbitration Rules, under the auspices and administration of
+the Centre in Washington, DC. Jurisdiction in this case has at no time been contested by
+either party. TANESCO was designated by Tanzania as an agency of that state pursuant
+to Article 25(1) of the Convention on 24 September 1998, and TANESCO’s consent to
+arbitrate disputes with IPTL in accordance with the ICSID Arbitration Rules as provided
+by Article XVIII of the PPA was expressly approved by the Government of Tanzania by
+Article 21.2 of the Implementation Agreement. IPTL, although a Tanzanian corporation,
+has at all material times been owned and controlled to the extent of at least 70% by
+
+nationals of Malaysia. Both Tanzania and Malaysia are parties to the ICSID Convention.
+
+In due course, on 4 February 1997, an Engineering, Procurement and Construction
+Contract (the "EPC Contract") was concluded between IPTL and Stork-Wartsila Diesel
+B.V. (“Stork-Wartsila”), a company established in The Netherlands, for the purpose of
+constructing the generation plant required to perform the PPA. In addition, on 21 May
+1997, IPTL entered into a Fuel Supply Agreement (the “FSA”) with Galana Petroleum
+
+Limited (“Galana”) and Total International Limited (“Total”) for an initial term of 5 years
+
+5
+
+to supply the fuel necessary to operation of the Facility.
+
+As the Facility was being constructed and the prospect of commencing commercial
+operations came nearer, the disagreements between the parties which ultimately led to
+this arbitration developed. In particular, TANESCO took issue with the fact that the EPC
+Contract with Stork-Wartsila called for the provision of ten 10 MW medium speed diesel
+engines, instead of the five 20 MW slow speed diesels originally envisioned under the
+terms of the PPA. Further, it was becoming necessary for the parties to discuss
+
+adjustment of the Reference Tariff as foreseen in Addendum No. | to the PPA.
+
+These events took place against the background of apparent controversy within Tanzania
+regarding a competing project, known as the SONGO-SONGO Gas-to-Electricity or
+“SONGAS” Project, in respect of which agreements had been initialed on 23 March 1997
+between (inter alia) the Government of Tanzania, TANESCO, and two Canadian
+companies, Ocelot Energy Inc. (“Ocelot”) and TransCanada Pipelines Limited. This rival
+project was to be built by Canadian interests and financed by the International Bank for
+Reconstruction and Development. There was evidence in the arbitration that,
+notwithstanding the urgency with which the PPA had been concluded in 1995, pressures
+were thereafter exerted both on and within the Government of Tanzania and TANESCO
+
+to defer it, if not eliminate it, in favour of the SONGAS Project.
+
+On 9 April 1998, on the eve of scheduled discussions between TANESCO and IPTL on
+the adjustment of the Reference Tariff TANESCO served on IPTL a Notice of Default
+
+asserting that IPTL was “in default on its obligation to supply and install slow speed
+
+6
+
+20.
+
+diesel generating sets in accordance with Section 1.1 of Appendix A to the PPA” and
+calling upon IPTL to cure such default within 90 days as required under Article 16.3 of
+
+the PPA
+
+Negotiations proceeded somewhat sporadically during the course of the summer and early
+autumn of 1998 with the participation of the Tanzanian Government, TANESCO, and its
+legal and technical advisers, Hunton & Williams and Acres respectively, together with
+IPTL. However the parties remained at loggerheads regarding both adjustment of the
+
+Reference Tariff and the substitution of medium speed diesels for slow speed diesels.
+
+On 25 November 1998 the Request for Arbitration was lodged on behalf of TANESCO,
+
+asserting two claims:
+
+qd) That medium speed diesel engines had been substituted for the required slow
+speed diesels without obtaining the prior written consent of TANESCO, thus
+
+entitling TANESCO to terminate the PPA; alternatively
+
+(2) That, pursuant to Addendum No. 1 the Capacity Purchase Price was to be “cost
+based”, but IPTL was refusing to share relevant information with TANESCO and
+the cost seemed excessive. so that in the event that the PPA could not be
+
+terminated the tariff should be adjusted.
+
+On 14 December 1998, TANESCO gave to IPTL Notice of Intent to Terminate pursuant
+
+to Article 16.3(a) of the PPA, which was copied to IPTL’s lenders, stating that, barring
+consensual resolution of the matter, TANESCO reserved its right to terminate the PPA.
+
+pursuant to Article 16.3(c).
+
+Meanwhile on 30 November 1998, five days after lodging of the Request for Arbitration
+with the Centre, IPTL filed a petition in the High Court of Tanzania in Dar es Salaam.
+directed against TANESCO and three officials of the Government of Tanzania, seeking
+both a declaration that commercial operations of IPTL’s facility should be deemed as
+having commenced 15 September 1998 and an order for payment to IPTL by TANESCO
+
+of a “Capacity Payment” in the amount of $3,623,000 monthly beginning on that date.
+
+On7 December 1998, being the same day the Request for Arbitration was registered by
+the Secretary-General, TANESCO petitioned the Tanzanian High Court to stay the
+
+proceedings recently commenced against it.
+
+On the following day, 8 December 1998, IPTL submitted to the same Court a “Notice of
+Objection ona Preliminary Point of Law” asserting in effect that TANESCO had waived
+
+its right to pursue this arbitration.
+
+On 5 March 1999 the High Court of Tanzania sustained the preliminary objections of
+IPTL and proceeded immediately to grant the relief requested by IPTL in its original
+petition. Leave was given to TANESCO to appeal and it sought a stay of execution
+
+pending such appeal.
+
+25.
+
+In response, on 7 April 1999, IPTL applied for an order of execution in the amount of
+$23,670,266.67, that being the accumulated sum of the monthly “Capacity Payments” dug
+pursuant to the High Court's Order up to 1 April 1999. Thereafter IPTL agreed that it
+
+would not execute for a limited period of time.
+
+When the Tribunal convened its initial session with the parties on 14 June 1999,
+TANESCO had already issued a request for an order of provisional measures from the
+
+Tribunal directed at a cessation of all the above proceedings in the Courts of Tanzania.
+
+In the course of that session, it was clarified that IPTL was willing further to stay its hand
+in relation to the proceedings in Tanzania, but that it would itself seek provisional
+measures from this Tribunal substantially to the same effect as it had obtained from the
+
+High Court of Tanzania.
+
+Thereafter, on 28 June 1999, IPTL filed with the Tribunal a request for the following
+
+provisional measures:
+
+(1) Permitting commercial operations of the Facility to commence;
+
+(2) Requiring TANESCO to make monthly Capacity Payments in the amount of
+$3,623,000, or, in the alternative, in the amount of $3,400,000 (an interim
+monthly payment which TANESCO previously had agreed with IPTL, subject
+however to approval of the Government of Tanzania, which had not been
+
+forthcoming); and
+
+30.
+
+(3) Requiring Tanzania to pay forthwith a lump sum of $32,607,000, being the
+accumulated monthly Capacity Payments due from 15 September 1998 to May
+
+1999 in accordance with the order of the High Court of Tanzania.
+
+On 18 October 1999 the Tribunal convened to hear both parties’ applications for
+provisional measures. In the meantime, on 8 July 1999, the order of the High Court of
+Tanzania had been stayed by a single Justice of the Court of Appeal of Tanzania, pending
+determination of the appeal thereof, and the parties then requested the Tribunal to defer
+consideration of TANESCO’s request for provisional measures directed at the Tanzanian
+
+court proceedings.
+
+At this hearing IPTL revised its request by (1) withdrawing its demand for a lump sum
+payment of the alleged “arrears” accumulated in respect of the order of the High Court of
+Tanzania, and (2) requesting that the requested order permitting commercial operations
+also enjoin TANESCO to co-operate with IPTL, including conducting operational tests
+and connecting the Facility to the Tanzanian power grid. The demand for a monthly
+
+Capacity Payment remained.
+
+On 20 December 1999 the Tribunal issued its Decision On The Respondent's Request
+For Provisional Measures, a copy of which is attached hereto as Appendix A and which is
+incorporated herein by reference. The relief that had been requested by IPTL was denied
+by the Tribunal on the ground that it would change rather than maintain the status quo by
+
+ordering performance of the PPA, and thus was outside the scope of Arbitration Rule 39,
+
+10
+
+we
+Dp
+
+and that there was insufficient demonstration of urgency in that IPTL, should it prevail on
+the merits, would in any event receive tariff payments over 20 years as foreseen by the.
+PPA and would lose only the interim use of funds, for which an award of damages would
+
+on the face of it be an adequate remedy.
+
+The conclusions of the Tribunal in relation to the Request for Provisional Measures, in
+common with the conclusions of the Tribunal in relation to other matters which were
+submitted to the Tribunal for its decision in the course of the proceedings, were published
+in the form of “Decisions”, to be incorporated into our Final Award by reference in due
+course. The Tribunal adopted this course because the ICSID Arbitration Rules contain no
+provisions which permit or even contemplate “Partial” or “Interim” awards, and, indeed,
+it seemed to the Tribunal that the Rules contemplated only one, Final Award. The course
+
+which the Tribunal adopted was not challenged or objected to by either party.
+
+By the time of the hearing resulting in the Tribunal’s Decision On The Respondent's
+Request For Provisional Measures, it had become clear that it would be appropriate to
+determine as a preliminary matter certain issues of construction of the PPA and law. It
+was ordered, therefore, that the parties should make written submissions with respect to
+
+the following preliminary issues:
+
+1. Was or is TANESCO entitled to terminate the PPA?
+
+2. If not, what are the effects (if any) on the parties’ respective rights and
+obligations under the PPA of:
+
+qd) the change from low speed to medium speed diesel
+engines; and/or
+
+11
+
+(2) any other alleged differences between the Facility as built
+and that provided for in the PPA and/or any other
+agreements between the parties? :
+
+3. How is the final Reference Tariff to be calculated, in the light of the said
+
+change and any other differences which may be established?
+
+4. What was the effect on the parties’ respective rights and obligations of
+
+Addendum No. 1 dated 9 June 1995, and, in particular, did Addendum
+No. I on its true construction have the effect that the final Reference
+Tariff was to be calculated by reference to the reasonable and prudently
+incurred cost of the Facility as built; and what were “the underlying
+assumptions stated in the PPA”?
+
+A hearing was held 13, 14, 15 and 16 March 2000 on these preliminary issues, and on 22
+
+May 2000 the Tribunal issued its Decision On Preliminary Issues of Construction/Law, a
+
+copy of which is attached hereto as Appendix B and which is incorporated herein by
+
+reference. As set forth in paragraph 19 of that Decision, the “Conclusions” of the
+
+Tribunal on the Preliminary Issues were as follows:
+
+a)
+
+Q)
+
+That the PPA was not subject to an unsatisfied condition precedent as alleged or
+at all, and was not void for uncertainty; and accordingly was a valid and effective
+contract between the parties;
+
+That TANESCO was not entitled to serve Notice of Default and was and is not
+entitled to give notice of termination pursuant thereto;
+
+That the Reference Tariff should be adjusted in accordance with Addendum No. 1
+by reference to changes that had taken place, before commercial operations would
+have commenced but for TANESCO’s purported Notice of Default, in any of the
+assumptions listed in Mr Rugemalira’s letter to the Principal Secretary of the
+Ministry of Water, Energy and Minerals dated 31 May 1995, with the following
+qualifications, namely:-
+
+(1) that the figure of 23% for “IRR” should be amended to read
+22.31%":
+
+(2) that it is open to TANESCO to prove that any costs incurred by
+IPTL relating to any of the listed assumptions were not reasonably
+and prudently so incurred.
+
+12
+
+35.
+
+36.
+
+The Tribunal went on to answer the Preliminary Issues listed in paragraph 33 above as
+
+follows:
+
+qd) Not on any grounds argued and dealt with in this decision.
+
+(2) None, save that there may be consequences on the cost of the
+Facility and therefore on the adjustment to the Reference Tariff to
+be carried out pursuant to Addendum No. | to the PPA.
+
+(3) & (4) The “underlying assumptions stated in the PPA” were those listed
+in Mr Rugemalira’s letter to the Principal Secretary of the
+Ministry of Water, Energy and Minerals dated 31 May 1995, and
+the effect of Addendum No. 1 dated 9 June 1995 was as
+summarised in sub-paragraph (3) above."
+
+At the time of the hearing on Preliminary Issues, and at the date of our Decision on those
+issues, a date had already been fixed for what was hoped would be the final hearing in
+
+this matter, to consider remaining issues in relation to the fixing of the tariff, to take place
+
+during the last week in July 2000.
+
+Between the date of the hearing on Preliminary Issues and the date of our Decision, on 20
+April 2000 TANESCO submitted a request to the Tribunal for an order for discovery
+concerning alleged payments and/or gifts made or given, offered or promised by agents of
+IPTL to officials of the Government of the Republic of Tanzania or TANESCO,
+including the provision of Answers to Interrogatories and a Request for Admissions in
+
+relation to such payments or gifts.
+
+Reference to allegations of bribery or attempted bribery had been made earlier in the
+course of the proceedings, but TANESCO had never formally pleaded such allegations or
+
+13
+
+38.
+
+40.
+
+41.
+
+sought to raise them by way of claim or defence.
+
+The request was supported by the unsworn statements of Mr. Patrick Rutabanzibwa, the
+Permanent Secretary of the Ministry of Energy and Minerals of the Republic of Tanzania
+and formerly the Commissioner for Energy and Petroleum Affairs in that Ministry; Mr.
+Prosper A.M. Victus, the Assistant Commissioner for Energy (Petroleum and Gas); and
+
+Mrs. Esther Masunzu, the Assistant Commissioner for Energy (Electricity).
+
+The Tribunal declined to make any of the orders requested, on the ground that no
+allegation of bribery had been pleaded, and that it would in any event not be right to order
+the answering of questions on oath when the only basis for the allegations upon which the
+
+questions were based was unswom statements.
+
+The request was renewed on 26 May 2000, when TANESCO submitted its Reply on the
+Merits, in which it pleaded for the first time a claim to be entitled to rescind the PPA on
+the basis of its allegations of bribery, which it purported to raise as an “Ancillary Claim”
+pursuant to Rule 40 of the ICSID Arbitration Rules (which by its paragraph (2) must be
+presented not later than in the Reply). The renewed application was supported by the
+Statutory Declaration of Mr Victus, and swom statements of Mrs Masunzu and Mr
+
+Rutabanzibwa.
+
+On 6 June 2000 IPTL raised objection to the assertion of the bribery claim and the
+
+renewed request for discovery, on the grounds (inter alia):
+
+42.
+
+() That it was not an “ancillary” claim, but was a claim which should have been
+
+asserted, if at all, in TANESCO's Memorial on the Merits in January 2000;
+
+(2) That, even assuming the truth of the facts alleged in the witness statements,
+TANESCO had failed to make out a prima facie case for rescission of the PPA;
+
+and
+
+(3) That if the plea were to be allowed, it would jeopardise the July hearing date.
+
+Alternatively, in the event that the Tribunal was minded to permit TANESCO to proceed
+with its plea of bribery, IPTL sought an order for immediate production by TANESCO of
+
+all documents relevant to the plea.
+
+On 12 June 2000 the Tribunal informed the parties of its decision that it would permit
+TANESCO to raise the bribery issue pursuant to Rule 40 of the ICSID Arbitration Rules,
+and ordered both parties to produce any documents in their possession, custody or power
+relating to that issue. It declined to order the wide-ranging Interrogatories or the Request
+for Admissions proposed, which sought the answers to questions concerning possible
+bribery and attempts at bribery by employees and agents of IPTL generally, on the ground
+that no allegations of bribery or attempted bribery had been made against any
+representatives of IPTL except Mr. Rugemalira. The Tribunal made it clear that the
+addition of the bribery allegations would not be permitted to delay the July hearing,
+
+which had been scheduled for some time.
+
+44,
+
+45.
+
+46.
+
+On 27 June 2000 the Tribunal ruled that TANESCO should produce relevant documents
+in the files of its counsel emanating from the Government of Tanzania, even though the.
+original documents had never been in the possession, custody or power of TANESCO
+
+itself.
+
+These documents were produced by TANESCO’s Counsel, Hunton & Williams, under
+cover of a letter dated 5 July 2000, on the basis of an express agreement as to their
+confidentiality (which in the view of the Tribunal would have applied in any event). In
+
+the penultimate paragraph of its letter, Hunton & Williams stated:
+
+The investigation in Tanzania is not complete. In the light of this fact, we have
+been instructed to advise that TANESCO will not proceed further at this time
+with respect to its bribery allegations but will make oral application at the hearing
+later this month for an extension of time to present its case with respect to the
+bribery claims.
+
+TANESCO further purported to “reserve all rights regarding its bribery claim” under the
+
+ICSID Convention and Arbitration Rules and under Tanzanian law.
+
+Meanwhile, on 29 June 2000 IPTL served its Reply Counter Memorial (or “Rejoinder”)
+on the Merits and on 10 July 2000 served its Memorial on the Calculation of the Tariff.
+
+On 11 July 2000 TANESCO served its Memorial on the Calculation of the Tariff.
+
+An oral hearing took place before the Tribunal at the International Dispute Resolution
+
+Centre, 8 Breams Buildings, London on 21, 21, 24, 25 and 26 July 2000.
+
+47.
+
+48.
+
+49.
+
+‘After the close of the oral hearing, and pursuant to the invitation of the Tribunal, IPTL
+filed a written submission dated 18 August 2000 on its claim for Damages for Breach of ~
+Contract, and each party filed a Post-Hearing Memorial dated 12 September 2000.
+Thereafter, on 2 October 2000, each party filed a written submission on the Award of
+
+Arbitration Costs.
+
+At the start of the July hearing and upon the application of TANESCO, the Tribunal
+received “information” from Mr. Rutabanzibwa (although he was not formally called as a
+witness) as to the progress of the investigation in Tanzania of the allegations of bribery,
+which had apparently started in late 1997, had thereafter proceeded somewhat
+sporadically, but which was said to be continuing. On the basis of this information,
+Counsel for TANESCO asked for an extension of time of 3 months to make additional
+
+filings in relation to these issues.
+
+Mr. Hawkins declined the invitation of the Tribunal to apply to withdraw the allegation,
+and. after considering the application, the Tribunal refused to grant the extension
+requested, and indicated that since the allegation remained on the record, it must be dealt
+
+with on its merits on the basis of the material put before it.
+
+The issues which were canvassed before the Tribunal at the July hearing and which we
+
+were called upon to determine included the following:
+
+qd) The issue of alleged bribery:
+
+(2)
+
+GB)
+
+(4)
+
+()
+
+(6)
+
+Did IPTL and/or the parties fail to perform conditions precedent to Commercial
+
+Operations, including:
+
+(1) Failing to provide a certificate from the Independent Engineer stating that
+the Facility when constructed would conform with the Description of the
+Facility, or that the Facility had been designed and constructed in all
+material respects within the terms of the PPA and the general layout
+
+drawings?
+
+(2) Failing to agree the Reference Tariff?
+
+Was TANESCO in breach of its obligation to act in good faith in relation to the
+negotiations concerning the fixing of the tariff, and if so what are the
+
+consequences?
+
+Was IPTL in breach of its obligation to act in good faith in relation to the
+negotiations and in particular to the disclosure of relevant documents and
+
+information, and if so what are the consequences?
+
+Did IPTL and Stork-Wartsila conspire together falsely to inflate the EPC price?
+
+Was IPTL in breach of its obligation to act reasonably and prudently in relation to
+any costs and expenses which it would have input into the amount prima facie
+
+payable by TANESCO as the Capacity Payment element of the tariff, and in
+
+18
+
+particular in relation to the procurement of the EPC Contract?
+
+(7) Was IPTL in breach of its implied obligation to act reasonably and prudently in
+
+relation to the procurement of the FSA, and if so what consequences flow?
+
+(8) Were any breaches on the part of either party waived, or is any complaint or
+
+remedy barred by estoppel?
+
+(9) What adjustment should be made to the Reference Tariff stated in the PPA?
+
+(10) What if any further orders should be made?
+
+(11) What if any order should be made in respect of the costs of the arbitration
+(including the fees and expenses of the Tribunal), and/or the legal and other costs
+
+of the parties?
+
+In considering these issues and insofar as any issue depended on an application of
+principles of law, the Tribunal sought to apply the law of the Republic of Tanzania, as it
+has sought to do throughout this arbitration, that being the governing law of the contract
+
+expressly designated by the parties by Article 19.4 of the PPA.
+
+By its Decision On Tariff And Other Remaining Issues dated 9 February 2001, a copy of
+which is attached hereto as Appendix C, and which is incorporated herein by reference,
+the Tribunal, for the reasons set out therein, concluded that:
+
+19
+
+(yy
+
+(2)
+
+GB)
+
+(4)
+
+(5)
+
+The allegation of bribery failed and should be dismissed; in this connection, the
+Tribunal repeated its conclusion to the effect that the PPA was an effective
+
+contract between the parties.
+
+IPTL did not fail to perform a condition precedent to commercial operations by
+failing to produce an Independent Engineer’s Certificate in accordance with
+
+Article 4.1.(b) or (c) of the PPA.
+
+Although commercial operations could not commence until the Reference Tariff
+had been adjusted to take account of changes in the underlying assumptions stated
+in the PPA, in the absence of agreement between the parties, it was for the
+Tribunal to decide what, if any, adjustments were appropriate and for commercial
+
+operations then to commence in accordance with that decision.
+
+IPTL had not made out its allegation that TANESCO failed and refused to
+negotiate in good faith after April 1998, and that, at all events, any such failure or
+refusal was not the sole or effective cause of the failure of the parties to agree on
+the adjusted Reference Tariff so that commercial operations could commence,
+that IPTL’s claim for damages for such alleged failure should be dismissed, and
+that TANESCO’s parallel claim against IPTL was academic insofar as it claimed
+
+no damages for breach.
+
+IPTL and Stork-Wartsila did not conspire together falsely to inflate the EPC
+
+20
+
+Contract price.
+
+(6) IPTL was in breach of its implied obligation to act reasonably and prudently in
+relation to a number of items of costs and expenses which would have an input
+into the amount prima facie payable by TANESCO as the Capacity Purchase
+Price element of the Reference Tariff, including the procurement of the EPC
+Contract (as more particularly set out in our Decision), and that accordingly a
+number of adjustments would have to be made for the purposes of arriving at the
+
+initial Reference Tariff.
+
+(7) IPTL was not in breach of its implied obligation to act reasonably and prudently
+
+in relation to the procurement of the Fuel Supply Agreement.
+
+(8) There was no relevant waiver or estoppel.
+
+In its Decision of 9 February 2001, the Tribunal recorded its understanding that the
+parties were confident that, armed with that Decision, they would be able to agree on the
+“financial model” originally produced by Mr. Willy Lim, and which had already been
+subjected to agreed adjustments, and the Reference Tariff which should be derived as a
+consequence; but communicated separately that, if this were not the case, further
+application must be made to the Tribunal. It was not the intention of the Tribunal to
+
+invite further submissions on matters which had already been dealt with in its Decision.
+
+The Tribunal further indicated that it considered it appropriate to order that the parties
+
+21
+
+should co-operate in taking whatever steps would be necessary to achieve the
+
+commencement of commercial operations as soon as possible after our Decision.
+
+Finally, the Tribunal concluded that it would be fair to order that each party should bear
+its own legal and other costs and to share the costs of the arbitration, including the fees
+
+and expenses of the Tribunal and of ICSID, on a 50/50 basis.
+
+Following the publication of our Decision On Tariff And Other Remaining Issues,
+TANESCO raised a number of further matters going to the calculation of the Reference
+Tariff; and IPTL invited the Tribunal to fix a date by which the commencement of
+
+commercial operations should be achieved.
+
+After the exchange of written Memorials and Reply Memorials, and at the request of
+
+TANESCO, a further oral hearing took place before the Tribunal on 29 April 2001 at the
+
+offices of the World Bank in Washington DC, United States of America, when the
+
+following issues were referred to the Tribunal for decision:
+
+qd) How the Construction Contingency Reserve should be dealt with.
+
+qd) What, if any, adjustment should be made to the figure for Sovereign Risk and
+
+other insurances?
+
+22
+
+60.
+
+(2) What, if any, adjustment should be made to the Lenders' Participation Fee portion
+of “Financing and Agency” fees in consequence of the Tribunal's conclusions as
+
+to the deductions to be made from the claimed Project Costs.
+
+(3) What, if any, adjustment should be made to the Reference Tariff by reason of the
+
+alleged reduction in IPTL's deemed equity in the project?
+
+(4) What, if any, further orders should be made in relation to the Commencement of
+
+Commercial Operations?
+
+At the hearing, the Tribunal was informed that the parties had reached agreement on
+issues (2) and (3); and subsequently, pursuant to the invitation of the Tribunal, the parties
+submitted the agreed terms of their agreement to be incorporated into the Tribunal’s
+
+Decision, and, by reference, this Final Award.
+
+The parties further invited the Tribunal to note and incorporate in its Decision and its
+Final Award the terms of the agreement between the parties concerning the Cost of Gas
+
+Conversion.
+
+On 24 May 2001 the Tribunal published its Decision On All Further Remaining Issues, a
+
+copy of which is attached hereto as Appendix D, and which is incorporated herein by
+
+reference.
+
+23
+
+61.
+
+In addition to recording the agreements of the parties referred to in paragraphs 58 and 59
+above, the Tribunal concluded that the financial model must be calculated on the basis .
+that the Construction Contingency Reserve should be included as part of the Project Cost,
+but that it should be released at the date when commercial operations commenced, with a
+consequent adjustment to the Project Cost and the Reference Tariff, save to the extent to
+which any variation order would be made under the EPC Contract before the
+of ‘ial operati which IPTL ded should be funded out
+of the Construction Contingency Reserve. The Tribunal recorded in its Decision the
+agreement between the parties that any dispute as to whether and to what extent the
+Construction Contingency Reserve should be utilized in such a case should be referred to
+an ICSID Tribunal comprised of Messrs Charles N. Brower, Andrew Rogers, and
+Kenneth Rokison, with Mr. Rokison serving as President, for subsequent decision and
+award as necessary. A copy of the parties-agreed Stipulation, submitted on 23 May 2001,
+
+is attached hereto as Appendix E.
+
+The Tribunal rejected TANESCO’s submission that there should be a further adjustment
+to the Reference Tariff by reason of the alleged reduction in IPTL’s equity contribution to
+
+the project.
+
+Finally, in relation to the timing of the commencement of commercial operations, the
+Tribunal amended and refined the order which it had indicated it was minded to make in
+paragraph 168 of its Decision of 9 February 2001, and ordered the parties to comply with
+their respective obligations under the PPA, and to use their best endeavours and to co-
+
+operate together to achieve the commencement of commercial operations as soon as
+
+24
+
+64.
+
+65.
+
+practicable and with a view to commercial operations commencing within 90 days of the
+
+publication of our Final Award.
+
+Following publication of our Decision On All Further Remaining Issues, the parties
+agreed on the adjustments to be made to the financial model to take account of the
+Tribunal’s various decisions, and submitted to the Tribunal an agreed financial model in
+both hard copy and electronic form to be used for the calculation of the initial Reference
+Tariff. That financial model which forms part of this award, is appended hereto as
+
+Appendix F (both hard copy and electronic form) and incorporated herein by reference.
+
+Finally, the Tribunal wishes to repeat its appreciation to the legal representatives on each
+side for their considerable industry and assistance, and to the ICSID Centre in
+
+Washington for its efficient and very helpful administration of the arbitration.
+
+THEREFORE, THE TRIBUNAL AWARDS AS FOLLOWS:
+
+1,
+
+Nn
+
+The Tribunal decides as set forth above and in Appendices A, B, C, D, E and F hereto.
+
+In particular:
+
+A. The Power Purchase Agreement between the parties dated “as of” 26 May 1995 is
+
+and remains a valid and effective contract between them;
+
+B. The Reference Tariff under the Power Purchase Agreement between the parties dated
+
+“as of” 26 May 1995 is as set forth in Appendix F hereto;
+
+25
+
+C. As agreed by the parties and submitted by them in accordance with ICSID
+
+Arbitration Rule 43(2):
+
+Gas Conversion:
+
+“Pursuant to Section 7.1 of the Power Purchase Agreement (“PPA”) dated 26 May
+1995, between Tanzania Electric Supply Company Limited (“TANESCO”) and
+Independent Power Tanzania Limited (“IPTL”), IPTL is required to convert the
+Tegeta facility to operate on Natural Gas upon the occurrence of certain conditions
+precedent.
+
+Accordingly, the Engineering Procurement and Construction Agreement (the
+“EPC Contract”), dated February 1997, between IPTL and Stork-Wartsila Diesel
+B.V. (“wartsila”) contains provisions pursuant to which Wartsila shall convert the
+facility to Natural Gas operation for a fixed price of US$11,583,000.
+
+TANESCO hereby agrees that upon fulfilment of the conditions precedent
+contained in Section 7.1 of the PPA, TANESCO will fully fund the costs of
+conversion at the fixed price and under the payment terms contained in the EPC
+Contract.”
+
+The parties shall comply with their respective obligations under the Power
+Purchase Agreement between them dated “as of’ 26 May 1995 and shall use their
+best endeavours and co-operate together to achieve the commencement of
+commercial operations of the Facility under said Agreement as soon as practicable
+and with a view to commercial operations commencing with ninety (90) days of
+
+the publication to them by the Centre of this Final Award.
+
+Each party shall bear its own legal and other costs, and the cost of the arbitration,
+including the fees and expenses of the Tribunal and of ICSID, shall be borne as to
+
+50 per cent by each party.
+
+26
+
+Dated this ad day of June 2001
+
+The Honorable Charles N. Brower The Honourable Andrew Rogers QC
+
+ 
+
+Kenneth Rokison QC
+
+Low
+
+ 
+

@@ -1,0 +1,1160 @@
+PUBLIC DOCUMENT
+
+IN THE MATTER OF AN ARBITRATION UNDER CHAPTER ELEVEN
+OF THE NORTH AMERICAN FREE TRADE AGREEMENT AND THE 1976 UNCITRAL
+ARBITRATION RULES
+
+between
+
+WESTMORELAND MINING HOLDINGS LLC
+
+Claimant
+
+and
+
+GOVERNMENT OF CANADA
+
+Respondent
+
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+PROCEDURAL ORDER NO. 3
+
+DECISION ON BIFURCATION
+
+ 
+
+ARBITRAL TRIBUNAL
+
+Ms. Juliet Blanch (Presiding Arbitrator)
+Mr. James Hosking
+Professor Zachary Douglas QC
+
+Secretary of the Tribunal
+
+Dr. Veronica Lavista
+
+20 October 2020
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+Procedural Order No. 3
+
+ 
+
+TABLE OF CONTENTS
+L PROCEDURAL HISTORY. -2-
+Il. THE DISPUTING PARTIES’ ARGUMENTS ......ccccee cee ceceeeees estes neeeeeeeeeeneieee -4-
+A. The Respondent’s Position .........ccccseceseesessesesseseseeesseesseeseesssetseetsesiseesseeeets -4-
+
+i. Was the Claimant a Protected Investor at the time of the alleged breaches
+as required by NAFTA Articles 1116(1) and 1117(1)?......0.....
+
+ii. The Claimant has not made out a prima facie damages claim under
+NAFTA Articles 1116(1) and 1117(1)
+
+iii. Did the challenged measures “relate to” the Claimant or its investment as
+required by NAFTA Article 1101(1)? oo. eee neeeee eet teteeeeeeeees -7T-
+
+iv. Time limits under NAFTA Articles 1116(2) and 1117(2).
+v. Inadmissibility due to NAFTA Article 1108(7)(b)..
+
+B. The Claimant’s Position
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i. The temporal objection
+
+ 
+
+ 
+
+ii. Time limits under NAFTA Articles 1116(2) and 1117(2)..... eee -1l-
+
+iii. Inadmissibility due to NAFTA Article 1108(7)(D)........cesceseeseesseseeeeeseeeee -12-
+
+C. The Respondent’s Reply -13-
+
+D. The Claimant’s Rebuttal -13-
+
+TH. THE TRIBUNAL’S ANALYSIS ...0..c.cccccessecececseesessneseeeeieeseeseeseesessnessssenseneeneenees -13-
+IV. DECISION - 18-
+
+ 
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+Procedural Order No. 3
+
+PROCEDURAL HISTORY
+
+On 24 July 2020, the Respondent filed Canada’s Request for Bifurcation together with
+Exhibits R-001, R-002 and R-029 and Legal Authorities RLA-002 to RLA-035
+(“Bifurcation Application’).
+
+On 14 August 2020, the Claimant submitted Claimant’s Response to Canada’s Request
+for Bifurcation together with Exhibits C-019, C-023, C-026 and C-027, Legal
+Authorities CLA-001 to CLA-007, and certain Legal Authorities submitted by the
+Respondent (“Claimant’s Opposition’).
+
+On 28 August 2020, the Respondent filed Canada’s Reply to the Claimant’s Response
+regarding Bifurcation together with Exhibit R-041 and Legal Authorities RLA-036 to
+RLA-041 (“Respondent’s Bifurcation Reply”).
+
+On 11 September 2020, the Claimant filed Claimant’s Rejoinder to Canada’s Reply in
+Support of its Request for Bifurcation together with Exhibits C-009, C-019, C-023,
+C-028 to C-031, Legal Authorities CLA-002, CLA-004, CLA-008 to CLA-012, and
+certain Exhibits and Legal Authorities submitted by the Respondent (“Claimant’s
+Opposition Rejoinder”).
+
+On 16 July 2020, the Disputing Parties further agreed that a Hearing on Bifurcation (the
+“Hearing”) would be held on 24 September 2020 via the video streaming platform
+WebEx.
+
+The following individuals attended the Hearing on behalf of the Disputing Parties:
+
+For Claimant:
+
+ 
+
+Counsel
+
+Mr. Elliot Feldman Baker & Hostetler, LLP
+
+Mr. Michael Snarr Baker & Hostetler, LLP
+
+Mr. Paul Levine Baker & Hostetler, LLP
+
+Ms. Analia Gonzalez Baker & Hostetler, LLP
+
+Mr. Alexander Obrecht Baker & Hostetler, LLP
+
+Party
+
+Mr. Jeremy Cottrell Westmoreland Mining Holdings LLC
+
+For Respondent:
+
+Counsel
+
+Mr. Adam Douglas Trade Law Bureau, Global Affairs Canada,
+Government of Canada
+
+Ms. Krista Zeman Trade Law Bureau, Global Affairs Canada,
+
+-2-
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+Ms
+
+Ms
+
+Mr.
+
+Mr.
+
+Ms
+
+Ms
+
+Procedural Order No. 3
+
+. Megan Van den Hof
+. Alexandra Dosman
+
+. Mark Klaver
+
+. Benjamin Tait
+
+. Nadine Robinson
+
+. Jennifer Sadaka-Alberti
+
+Parties
+
+ 
+
+Mr.
+
+Ms.
+
+Mr.
+
+Mr.
+
+Kyle Dickson-Smith
+Landy Zhao
+
+Peter Ciechanowski
+
+s. Sheri Anderson
+
+s. Marieke Dube
+
+s. Julie Boisvert
+
+Don McDougall
+
+s. Elena Lapina
+
+Government of Canada
+Trade Law Bureau, Global Affairs Canada,
+Government of Canada
+Trade Law Bureau, Global Affairs Canada,
+Government of Canada
+Trade Law Bureau, Global Affairs Canada,
+Government of Canada
+Trade Law Bureau, Global Affairs Canada,
+Government of Canada
+Trade Law Bureau, Global Affairs Canada,
+Government of Canada
+Trade Law Bureau, Global Affairs Canada,
+Government of Canada
+
+Ministry of Justice and Solicitor General,
+Government of Alberta
+
+Ministry of Justice and Solicitor General,
+Government of Alberta
+
+Ministry of Justice and Solicitor General,
+Government of Alberta
+
+Trade Policy International Unit, Ministry of Jobs,
+Economy and Innovation, Government of Alberta
+Climate Partnerships and Initiatives, Regulatory
+and Compliance Branch, Ministry of Environment
+and Parks, Government of Alberta
+
+Investment Trade Policy Division, Global Affairs
+Canada, Government of Canada
+
+Investment Trade Policy Division, Global Affairs
+Canada, Government of Canada
+
+Investment Trade Policy Division, Global Affairs
+Canada, Government of Canada
+
+7. In addition, the following attended on behalf of the Non-Disputing Parties:
+
+The United Mexican States
+Mr. Antonio Nava
+
+Ms.
+
+The United States of America
+
+Ms.
+
+. Cindy Rayo
+
+. Nicole C. Thornton
+
+Mr. John I. Blanck
+
+Director de Consultoria Juridica de Comercio
+Internacional
+
+Directora General de Comercio Internacional de
+Servicios e Inversién
+
+U.S. Department of State
+U.S. Department of State
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+Procedural Order No. 3
+
+Each Party gave an opening presentation, the Respondent then gave its reply followed
+by the Claimant’s rebuttal, and questions were asked of each Party by the Tribunal.
+
+On 2 October 2020 the Claimant filed a note, in accordance with the Tribunal’s
+direction, providing its submissions on the Sastre v. Mexico case,! which was
+incorporated into the record as RLA-42 by the Tribunal at the commencement of the
+Hearing.
+
+This Procedural Order sets out the Tribunal’s decision on the Respondent’s Bifurcation
+Application.
+
+THE DISPUTING PARTIES’ ARGUMENTS
+
+The Disputing Parties’ positions, insofar as relevant to the issue of bifurcation, are set
+out below.
+
+A. THE RESPONDENT’S POSITION
+
+The Respondent makes four objections that it characterises as relating to jurisdiction
+and one with respect to admissibility:
+
+i. the Claimant was not a protected investor at the time of the alleged breaches;
+ii. the Claimant has not made out a prima facie damages claim;
+
+iii.
+
+the challenged measures do not “relate to” the Claimant or its investments
+pursuant to NAFTA Article 1101(1);
+
+iv. the Claimant has not made a timely claim; and
+v. NAFTA Article 1102 does not apply by virtue of NAFTA Article 1108(7)(b).
+
+As a preliminary point, the Respondent says that Article 21(4) of the applicable
+procedural rules, the 1976 UNCITRAL Arbitration Rules (the “1976 UNCITRAL
+Rules”) establishes a presumption that questions of jurisdiction should be heard in a
+preliminary phase to ensure fairness and efficiency in the arbitral proceedings such that
+the Tribunal’s discretion is fettered. In determining whether bifurcation is fair and
+efficient it is necessary to consider the resources which would be expended in litigating
+an ultimately unsuccessful claim, such resources extending to the “significant time and
+resources....at both the federal and provincial levels that will not be captured in a Costs
+
+' Email from the Tribunal to the Disputing Parties on 24 September 2020.
+
+-4-
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+Procedural Order No. 3
+
+Award.”? If some of the Respondent’s objections warrant bifurcation then it would be
+procedurally unfair and inefficient not to hear all the objections together.
+
+The Respondent’s objection with respect to Article 1108 is being brought pursuant to
+the Tribunal’s general powers granted under Article 15(1) of the 1976 UNCITAL
+Rules.
+
+The Respondent next says it is common ground that the factors to be considered by the
+Tribunal in determining whether to exercise its discretion in favour of ordering
+bifurcation are those set out in Philip Morris v. Australia,* (the “Philip Morris
+factors”) namely:
+
+i. Is the objection prima facie serious and substantial: the Respondent contends an
+objection is prima facie serious and substantial if it is not frivolous or vexatious,
+citing the only four NAFTA cases proceeding under the 1976 UNCITRAL
+Rules which have had to consider the question of bifurcation as well as the
+decisions of many other investment tribunals operating under the 1976
+UNCITRAL Rules. The Respondent says it is important to apply the same
+standard to ensure consistency for all future disputing parties but it further notes
+that were the Tribunal minded to apply a higher standard, the Respondent’s
+objections would meet such higher standard.
+
+Can the objection be determined without prejudging or entering the merits: the
+test is not, the Respondent notes, whether there is any overlapping of issues.
+Whilst some evidence may need to be reviewed both with respect to
+jurisdictional objections as well as the merits, this is not sufficient of itself to
+avoid bifurcation.*
+
+ 
+
+iii
+
+. If successful, will the objection dispose of all or any essential part of the claims
+raised.
+
+The Respondent makes three temporal jurisdictional objections as detailed in paragraph
+12(i)-(iii) above (the “temporal objections”). At the heart of each of the Respondent’s
+temporal objections is the fact that the Claimant did not come into existence until
+January 2019 and did not acquire the Canadian business the subject of the claim until
+March 2019. The Respondent says that the Claimant “is a new company owned by a
+former creditor of Westmoreland Coal Company, or WCC. WCC sold its Canadian
+
+2 Transcript, 14:11-14.
+
+3 RLA-002, Philip Morris Asia Limited v. The Commonwealth of Australia, UNCITRAL, PCA Case No. 2012-
+12, Provisional Order No. 8 (14 April 2014), {{ 109.
+
++ RLA-041, Lighthouse Corporation Pty Ltd and Li C ion Ltd., IBC v. Di ic Republic of
+Timor-Leste, ICSID Case No. ARB/15/2, Provisional Order No. 3, Decision on Bifurcation and Related Requests
+(8 July 2016), { 25(b).
+
+ 
+
+-5-
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+20.
+
+Procedural Order No. 3
+
+business to the Claimant in an arms-length purchase as part of WCC’s bankruptcy
+proceedings. Now WCC is set to dissolve.”>
+facts, they are three independent objections which must be determined individually but
+it would be efficient for all three to be determined as preliminary issues.
+
+Whilst each of these emanate from similar
+
+The Respondent’s temporal objections are the first three set out below.
+
+i. Was the Claimant a Protected Investor at the time of the alleged breaches as
+required by NAFTA Articles 1116(1) and 1117(1)?
+
+Given the Claimant did not acquire the Canadian businesses until March 2019 when it
+purchased them at arm’s length as part of Westmoreland Coal Company (“WCC”)’s
+restructuring, the Claimant’s status as an investor in Canada can only have commenced
+at that date. At the time of the measures complained of, it could not, therefore have
+been a protected investor nor could it have had protected investments. The Claimant is
+not WCC; indeed, this is clearly demonstrated by the Claimant’s act, upon acquiring
+the Canadian businesses, of initiating new arbitration proceedings in its own name and
+filing its own consent and waiver as required by NAFTA rather than continuing the
+arbitration proceedings commenced by WCC. The Claimant is a new entity seeking to
+claim for losses allegedly suffered by WCC, the seller of the Canadian investments.
+
+The Respondent contends that this objection meets each of the Philip Morris factors:
+(i) it is clearly serious and substantial given the Tribunal only has jurisdiction if the
+Claimant can demonstrate it was protected by NAFTA at the time of the alleged
+breaches; (ii) it requires consideration of a discrete issue, namely when did the Claimant
+become an ‘investor of a Party’ (the Respondent says March 2019 when it acquired the
+investments) whereas the merits require consideration of WCC’s treatment in 2015 and
+2016 (the fact that the Respondent asserts in its substantive defence that the Claimant
+has not been accorded treatment under Articles 1102 and 1105 does not mean there is
+any overlap with the merits, it just highlights the absurdity of the Claimant claiming a
+breach that predates its investment in Canada); and (iii) it is common ground that if
+successful it disposes of the entirety of the Claimant’s claims.
+
+ii. The Claimant has not made out a prima facie damages claim under NAFTA
+Articles 1116(1) and 1117(1)
+
+The Claimant is claiming for damages suffered by WCC; it itself could not have
+incurred damage by reason of the alleged breaches as (i) they predate its existence as
+an investor of a Party and (ii) it did not own or control an enterprise at the time such
+enterprise incurred damages. Again determining this objection will not require the
+prejudgement of the merits as, for the purposes of the jurisdictional challenge, the
+
+5 Transcript, 25:10-14.
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+21.
+
+22.
+
+23.
+
+24.
+
+Procedural Order No. 3
+
+Claimant need only show as a matter of law that either it or its enterprise could have
+incurred the claimed loss or damage by reason of the alleged breach given it only
+became an investor and acquired the investment in March 2019, whereas at the merits
+stage, the Claimant will have to prove causation and quantum. Finally, if the
+Respondent succeeds with this jurisdictional challenge, the claim is disposed of as no
+loss will have been suffered by the Claimant.
+
+iii. Did the challenged measures “relate to” the Claimant or its investment as
+required by NAFTA Article 1101(1)?
+
+The Claimant has failed to show that the challenged measures relate to it. NAFTA
+Article 1101(1) is a gateway provision, limiting access to NAFTA Chapter Eleven to
+circumstances where a challenged measure relates to a claimant and its investment. At
+the time the challenged allocation of Transition Payments was made in 2016 the
+Claimant neither existed nor had any investments in Canada. The same is true with
+respect to Alberta’s 2015 Climate Leadership Plan (the “Climate Plan”). The objection
+is clearly serious and substantial, does not enter the merits nor require the Tribunal to
+prejudge the merits as again it merely requires consideration of, on the one hand, when
+the Claimant became an investor of a party and acquired its investment and on the other
+hand when the challenged measures occurred. It does not require any analysis of
+whether the alleged damages have a causal link to each of the claimed breaches but is
+a distinct enquiry.
+
+iv. Time limits under NAFTA Articles 1116(2) and 1117(2)
+
+The Respondent’s fourth jurisdictional objection arises out of the three year time
+limitation period under NAFTA Articles 1116(2) and 1117(2). As a matter of NAFTA
+practice, such an objection is usually determined as a preliminary issue. The
+Respondent accepts that the temporal objections must be established before this fourth
+objection can be determined.
+
+The critical date pursuant to Articles 1116(2) and 1117(2) is 12 August 2016 as the
+Notice of Arbitration was received on 12 August 2019. To determine this jurisdictional
+challenge it is only necessary to identify the date on which the Claimant acquired actual
+or constructive knowledge of the alleged breach and loss: there is no prejudging of the
+merits in undertaking this analysis.
+
+The Claimant now says it is not challenging the Climate Plan (which was announced
+on 22 November 2015, being outside this limitation period) but its Request for
+Arbitration is replete with references to the Climate Plan, identifying it as the
+challenged measure and noting that the value of its investment was reduced as a result
+of the Climate Plan. The Claimant now refers to “Albertan Measures that breached the
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+25.
+
+26.
+
+° Tra
+
+  
+
+Procedural Order No. 3
+
+minimum standard of treatment”,® but those measures are unidentified, the Claimant
+asserting that “What the Measure is cannot be identified without an examination of
+Alberta’s action and their impacts on Westmoreland.”’ This suggests that the Claimant
+will be using the document production phase as a fishing exercise to identify possible
+NAFTA breaches. However pursuant to Article 18(2) of the 1976 UNCITRAL Rules,
+a Claimant must identify the facts supporting the claim and the points at issue.
+By saying that it is not challenging the Climate Plan but equally not identifying the
+measure in issue, the Claimant is in breach of Article 18(2). The reason the Claimant
+has not identified the measure out of which its claim arises is because the only relevant
+measure is the Climate Plan and the Claimant is seeking to create ambiguity over its
+claim to circumvent this limitation period. This evidences that the objection is serious
+and substantial. It would be unfair and inefficient to proceed to the merits phase before
+the Claimant identifies the measure it challenges. Determining this question will not
+require the Tribunal to prejudge the merits as the only question to be resolved is one of
+timing. As the Climate Plan was announced before the critical date, no investigation
+will be required into the effect of the Climate Plan (to the extent consideration of the
+Climate Plan is required as part of considering background facts, this is not an issue)
+and if the objection were resolved in the Respondent’s favour, it would result in a
+material reduction in the scope of the merits phase, leaving just the Transition Payments
+as a disputed measure.
+
+y. Inadmissibility due to NAFTA Article 1108(7)(b)
+
+The Respondent also raises an admissibility objection pursuant to Article 1108(7)(b)
+which provides that, inter alia, Article 1102 does not apply to “subsidies or grants
+provided by a Party or a state enterprise, including government-supported loans,
+guarantees and insurance.” As an objection to inadmissibility as opposed to
+jurisdiction, the Tribunal is asked to exercise its discretion to bifurcate under Article
+15(1) of the 1976 UNCITRAL Rules, however the Respondent submits that in any
+event the objection meets the Philip Morris factors and says that the Disputing Parties
+both agree that this is the test the Tribunal should apply to determine this objection.
+
+The wording of the Article indicates that Article 1108(7) objections should be
+determined prior to turning to the merits. Considering the ordinary meaning of the
+words used in this Article, it should be interpreted broadly. The dictionary definitions
+of a “subsidy” and “grant” together with the fact that the payments were made
+voluntarily under the Alberta Grants Regulations, expressly on the basis that “the
+Province is under no legal obligation to compensate or otherwise pay any amount to
+[the recipients]” and were publicly described as ‘grants’ are all highly probative of the
+fact that the Transition Payments under the Off Coal Agreements (““OCAs”) were
+
+ 
+
+pt, 43:9-10.
+
+7 Transcript, 43:14-17.
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+27.
+
+28.
+
+Procedural Order No. 3
+
+indeed grants or subsidies. This objection is serious and substantial. No investigation
+into the merits will be required because the issue for the purposes of the Respondent’s
+admissibility objection is whether “the transition payments [were] assignments of
+money by Alberta? Were they sums of money granted by Alberta to support something
+held to be in the public interest?” whereas the issue to be considered for the merits is
+whether “the Claimant [was] discriminated against because Canadian companies
+received payments relating to their coalmine assets? Was the Claimant inequitably or
+arbitrarily excluded from receiving a transition payment?”*® The questions for
+determining admissibility therefore do not require prejudgement of the questions for
+determining the merits of whether there was a breach of Article 1102. The Respondent
+accepts that the OCAs are contracts but says that is irrelevant — government-supported
+loans, guarantees and insurance are all affected by contracts.
+
+The fact the Tribunal may need to review the OCAs in both analyses is not on point;
+rather it will not need to make any determinations which prejudge the merits. How the
+Government decided to whom Transition Payments should be made is not a question
+that needs to be answered to determine the Article 1108(7)(b) objection. Examining
+the OCAs to determine whether or not the Transition Payments were ‘grants’ or
+‘subsidies’ for the purposes of Article 1108(7)(b) does not require any examination into
+the questions of whether domestic companies received payment for their coal assets or
+into how Alberta decided to allocate the Transition Payments. For the purposes of the
+Article 1108(7)(b) analysis, the OCAs speak for themselves. There is not a sufficient
+overlap to deny bifurcation of this question. There are just two questions for the
+Tribunal to address: (i) determining the correct meaning of ‘grant’ and ‘subsidy’ and
+then (ii) applying that meaning to the Transition Payments to determine if they come
+within it.? Finally, if the objection were resolved in the Respondent’s favour it would
+dispose of the Claimant’s claim that the Transition Payments were in breach of NAFTA
+Article 1102, which would “eliminate the need for a factually complex, inherently
+comparative national treatment analysis.”!°
+
+B. THE CLAIMANT’S POSITION
+
+As a preliminary point, whilst the Claimant accepts the application of the Philip Morris
+factors, it notes that the Tribunal always retains discretion as to whether or not to order
+bifurcation, irrespective of whether the three Philip Morris factors are met. Each case
+turns on its own facts and the Tribunal should not be bound by the “straitjacket” of only
+
+® Transcript, 54:5-14.
+° Transcript, 66:1-14.
+© Transcript, 57:18-19.
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+Procedural Order No. 3
+
+considering whether bifurcation should be ordered by reference to the Philip Morris
+factors.!!
+
+Turning to the first of these three factors, the Claimant says the Respondent is wrong
+to say serious and substantial equates to frivolous and unworthy: there is a threshold
+between these two positions which the Tribunal should apply.
+
+The Claimant further says that the facts necessary to examine each of the Respondent’s
+objections are intertwined with the facts necessary to determine the merits. For
+example, “Canada’s argument that the Claimant is not an investor of another Party
+with a foreign investment to which the alleged breaches relate under Article 1101 is a
+Merits question” and “Canada’s theory that Westmoreland was not accorded treatment
+
+because [the Claimant] purchased the assets after the Measures were enacted is the
+12
+
+ 
+
+same argument that Canada has advanced in its jurisdictional objection.
+necessitate the determination of facts which fall to be considered both with respect to
+jurisdictional objections and the merits.
+
+Further, the questions to be answered are not entirely legal and will require significant
+resources and delay in the procedural timetable. In any event, even were the
+Respondent’s objections to be determined in its favour, not all of the Claimant’s claims
+would be disposed of. Thus bifurcation will not lead to efficiency.
+
+Finally, the Claimant says that there is no efficiency to be gained in hearing any of the
+objections in a bifurcated hearing. Were the Claimant to successfully defeat the
+Respondent’s objections significant time and resources would have been wasted.
+Bifurcation may be appropriate where the question is entirely legal and is a clear issue
+but that is not the case here where the facts pertinent for the jurisdictional objections
+are intertwined with the merits and the bifurcated issues would require factual
+development.
+
+i. The temporal objections
+
+The Claimant concedes it is a new entity from WCC but the change from WCC was not
+a complete change; there was a consistent connection between the two entities. When
+WCC filed for bankruptcy protection in 2018 it owned Prairie Mines and Royalty. As
+part of the restructuring, the Claimant was created as a wholly owned subsidiary of
+‘WCC. Prairie Mines and Royalty were transferred from WCC to Westmoreland Mining
+Holdings LLC (“WMH”) and WCC then transferred its equity ownership in WMH to
+the first lienholders of WCC. “The Westmoreland that emerged from bankruptcy was
+
+4 Transcript, 98:9-99:16, CLA-003, Gavrilovic v. Republic of Croatia, ICSID Case No. ARB/12/39, Decision on
+Bifurcation (21 January 2015), 4 66.
+2 Transcript, 97:3-18.
+
+-10-
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+34.
+
+35.
+
+36.
+
+37.
+
+Procedural Order No. 3
+
+substantially the same as the Westmoreland that entered.”'? At all relevant times
+Prairie Mines and Royalty were owned by a U.S. investor such that the nationality of
+the investment and the investor remained the same, the only material change was the
+restructured entity.
+
+The Respondent recognised this continuity and did not require adherence by the
+Claimant to the NAFTA formalities, for example consultation, on the basis these had
+already been carried out by WCC. Upon commencing arbitration, the Claimant did not
+materially change the Statement of Claim or the Notice of Intent from that issued by
+‘WCC and it merely changed the waiver letters to change the name of the Claimant. It
+cannot be the case that “NAFTA ’s drafismen intended to deny fundamental investment
+protections for foreign investors undergoing restructuring, whether it be an
+intracompany transfer of assets, bankruptcy, or, as here, both.”'*
+
+The investigation the Tribunal would need to undertake to determine if the
+Westmoreland of 2019 is the same as the Westmoreland of 2018 “would be a deep
+.a fairly complicated process .....introducing probably Expert Witnesses
+es, on corporate reorganizations, on an explanation of why we think that
+
+inquiry into...
+on bankrupte
+the Claim survived the corporate reorganization, which at the time was, indeed, the
+
+ 
+
+  
+
+advice of a small army of specialized lawyers. So, the Tribunal would have to examine
+that, and that would also be at the heart of how Westmoreland was being distinguished
+because we don’t know for sure exactly what the Government of Alberta’s reasoning
+was in excluding Westmoreland from payment. So, perhaps it perceived a different
+company or perhaps at that time when it made the decision not to compensate
+Westmoreland it had some sense of a character of Westmoreland that’s different that
+we don’t know about yet. So, it is one thing to examine whether the Company was the
+same and that — but that’s a deep and complicated examination, but also, knowing what
+the company is, is, it seems to us, central to the Merits of the Claim.”'> No prior cases
+have considered this issue and the Claimant contends there would be no efficiency in
+bifurcating this issue.
+
+Whilst the Claimant concedes that, were the Respondent to succeed in these temporal
+objections, its claims would all be disposed of, they are not serious or substantial and
+they cannot be examined without prejudging or entering the merits.
+
+ii. Time limits under NAFTA Articles 1116(2) and 1117(2)
+
+The measure the Claimant asserts as the basis of its claim is the disparate treatment
+occasioned by the Transition Payments and not the announcement of the Climate Plan.
+
+3 Transcript, 93:15-17.
+4 Transcript, 93:6-11.
+'S Transcript, 110:21-111:20.
+
+-1ll-
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+38.
+
+39.
+
+40.
+
+Procedural Order No. 3
+
+Whilst the Climate Plan is “an important contextual fact”’,'° it is a statement of intent
+and not a measure for which the Claimant seeks redress. The Claimant was not directly
+damaged by the announcement of the Climate Plan: the date for the Claimant’s actual
+or constructive knowledge must be the point at which it knew or should have known
+that it was damaged. It “arises when the Government started handing out money. And
+even then, it was not yet a closed matter as to whether Westmoreland was going to see
+some of that money. They were continuing behind-the-scenes conversations, and it is
+not until Westmoreland knows it’s damaged and knows it’s not going to get any money
+that there’s a measure to be challenged here.”'” This was July 2017. “[WJhat the
+character of these transition payments is, is central to determining how [the Claimant]
+was treated compared to the others. That is the — that’s our Claim.”'®
+
+    
+
+ 
+
+This objection is not serious or substantial, it cannot be considered without prejudging
+or entering the merits and if successful it would not dispose of all of the claim, leaving
+the claim arising out of the Transition Payments to be determined.
+
+iii. Inadmissibility due to NAFTA Article 1108(7)(b)
+
+Article 21(4) of the 1976 UNCITRAL Rules does not apply to this claim and the burden
+shifts to the Respondent: it has failed to meet this burden. The relevant words in Article
+1108(7)(b) must be construed narrowly as it is an exception. The fact the Transition
+Payments were described by the Respondent as grants is irrelevant; the ordinary
+definition of ‘grant’ is a “giff’ and these Transition Payments were not gifts. The
+express terms of the OCAs note there was consideration for the Transition Payments,
+providing that:
+
+“7(a) Subject to the provisions of Section 7(b), neither the
+Company nor any Plant Owner shall commence any legal action
+against the Province or any provincial agency, including the
+Independent System Operator and the coal facilitator, with
+respect to the mines, coal supply agreements, mining contracts
+or mining equipment related to the coal used to fuel the Plants,
+or alleging any other cause of action in relation to the phase out
+of Coal Fired Emissions from the Plants.”!
+
+To understand whether the Transition Payments were indeed grants or subsidies, the
+Tribunal will need to look behind the words of the OCAs, review the negotiations
+leading to their conclusion, their intent, whether the Albertan Government’s conduct
+was consistent with the payment of a grant or subsidy, and consider how they were
+
+'6 Transcript, 90:6-15.
+
+"” Transcript, 107:19-108:4.
+
+'8 Transcript, 107:15-18.
+
+9 ©.023, Off-Coal Agreement between Capital Power et al. and Her Majesty the Queen In Right of Alberta
+(represented by Ministry of Energy), 24 November 2016, § 7(a).
+
+-12-
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+Al.
+
+42.
+
+43.
+
+Ill.
+
+44.
+
+4S.
+
+46.
+
+Procedural Order No. 3
+
+administered and how the money was distributed pursuant to the OCAs. In any event
+even if the Respondent were successful with respect to this objection, it would have no
+effect on the Claimant’s Article 1105 claim.
+
+Again, this objection is neither serious or substantial, it cannot be examined without
+prejudging or entering the merits and will not dispose of the entire case, leaving the
+Article 1105 claim to be determined.
+
+C. THE RESPONDENT’S REPLY
+
+The Respondent noted the Claimant’s apparent withdrawal in its oral submissions of its
+allegation that the coal phase out programme denied it the reasonable expectation of its
+investments in breach of Article 1105 (as stated in paragraph 105 of its Notice of
+Arbitration), such that the only measure it now challenges is the Transition Payment.
+The Respondent sought the Claimant’s confirmation of this but otherwise reiterated its
+submission that the Climate Plan was outside the limitation period.
+
+D. THE CLAIMANT’S REBUTTAL
+
+In its rebuttal, the Claimant explained there is nothing to withdraw: its claim relates to
+“the limitation of the policy, and that policy is implemented when these payments begin
+to be paid out, and when they are paid out, to the exclusion of Westmoreland, and we
+learned that we are not going to receive any.”
+
+THE TRIBUNAL’S ANALYSIS
+
+The Tribunal has considered all the relevant factual and legal arguments presented in
+the Disputing Parties’ written submissions and oral presentations. The fact that any
+argument, allegation or specific piece of evidence is not mentioned in the following
+analysis does not mean that the Tribunal has not considered it.
+
+The decision in this Procedural Order 3 only relates to bifurcation. The Tribunal’s
+considerations and decisions regarding bifurcation do not prejudice any future decision
+the Tribunal will make with respect to the substance of the Respondent’s preliminary
+objections or the Disputing Parties’ submissions on the merits.
+
+Article 21(4) of the 1976 UNCITRAL Rules provides as follows: “In general, the
+arbitral tribunal should rule on a plea concerning its jurisdiction as a preliminary
+question. However, the arbitral tribunal may proceed with the arbitration and rule on
+such a plea in their final award.” It follows that when a party raises an objection to
+jurisdiction, the presumption is that such objection will be determined as a preliminary
+
+2 Transcript, 134:5-10.
+
+-13-
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+47.
+
+48.
+
+49.
+
+50.
+
+Procedural Order No. 3
+
+issue. Having said that, this is a matter for the Tribunal’s discretion and we are not
+bound by that presumption; it is after all only a presumption. There will be
+circumstances where this presumption will not be followed, in particular where the
+matters raised by the objection are inextricably interlinked with the merits.
+
+Before we turn to consider each of the Respondent’s objections, we first consider the
+test we should apply in determining whether each objection should be heard as a
+preliminary issue. Both Disputing Parties referred to the Philip Morris factors but
+disagree as to the meaning of the first one, namely whether the objection is prima facie
+serious and substantial. The Respondent says we should follow the meaning used in all
+four NAFTA arbitrations under the 1976 UNCITRAL Rules such that an objection is
+serious and substantial if not frivolous or vexatious. This would ensure consistency of
+decisions and also comport with the presumption to bifurcate under the 1976
+UNCITRAL Rules. The Respondent says it has cited authorities and case law and has
+demonstrated that each objection, on its face, is serious and substantial. The Claimant
+on the other hand points to other decisions where tribunals have applied a test which
+sets a higher threshold than non-frivolous, being “a shade grayer than Canada’s black-
+and-white description” ?'
+
+In applying the first factor against each of the Respondent’s objections, we find that
+each is, on its face, certainly not frivolous or vexatious and, moreover, satisfies the
+higher threshold of prima facie serious and substantial if indeed that is a higher
+threshold, as the Claimant appears to submit.
+
+We therefore turn to the first three objections raised by the Respondent: the temporal
+objections. The Respondent submits that the three temporal objections must be
+considered independently being based on different aspects of the language used in the
+relevant NAFTA Articles, however for the purposes of considering the application of
+the Philip Morris factors we consider the three together as the question of the legal
+status of the Claimant at the time of the alleged breaches of NAFTA Articles 1102 and
+1105 is at the heart of each of these objections.
+
+The first of the Respondent’s temporal objections is that the Claimant was not a
+protected investor at the time of the alleged breach. The Claimant clarified its position
+during the oral hearing, explaining that the measure out of which its claims arise is the
+payment of the Transition Payments which commenced in July 2017. The Claimant
+does not dispute that it had not been incorporated at that time. As explained during the
+oral hearing, its case rests on the fact that both the investment and investor were at all
+
+2! Transcript, 96:1-2, see RLA-007, Gran Colombia Gold Corp. v. Republic of Colombia, 1CSID Case No.
+ARB/18/23, Procedural Order No. 3 (Decision on the Respondent’s Request for Bifurcation) (17 January 2020)
+427; CLA-008, Glencore Finance (Bermuda) Limited v. Plurinational State of Bolivia, PCA Case No. 2016-39,
+Procedural Order No. 2 (Decision on Bifurcation) (31 January 2018) 5; CLA-009, Red Eagle Exploration
+Limited v. Republic of Colombia, ICSID Case No. ARB/18/12, Decision on Bifurcation (3 August 2020) { 42.
+
+-14-
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+51.
+
+52.
+
+53.
+
+54.
+
+Procedural Order No. 3
+
+material times United States nationals and that the Westmoreland that went into
+bankruptcy in 2018 is materially the same as the Westmoreland that emerged from
+restructuring in 2019. The U.S. bankruptcy restructuring was intended to preserve
+assets and rework liabilities so that the Westmoreland assets could function as an
+ongoing concern. Whilst the Claimant submits that determination of this issue may
+require evidence from several specialised experts as to, inter alia, U.S. bankruptcy and
+restructuring law, and that these issues may be complex, we do not accept that that is
+of itself grounds for refusing bifurcation. We further do not accept the Claimant’s
+submission that determination of this issue would require any consideration of how the
+Claimant was perceived by the Government of Alberta and on what basis payment to it
+was declined. These are issues which, whilst they may be relevant to the merits, do not
+impinge on the legal status of the 2018 and 2019 Westmoreland companies.
+
+We next turn to the second temporal objection: can the Claimant (i) claim for a loss
+suffered before it came into existence and/or (ii) claim on behalf of an enterprise it did
+not own or control at the time of the alleged breach. Again, we do not accept that
+determination of this issue will require prejudging or entering the merits. The issue to
+be determined is again a legal question: could the Claimant or its enterprise have
+incurred the claimed loss or damage by reason of the alleged breach where the Claimant
+only became an investor and acquired the investment in March 2019. Determination of
+this question will again likely require expert evidence on U.S. bankruptcy and
+restructuring law but again will not require a factual analysis that overlaps with the
+merits; nor does it present a risk of prejudging or entering the merits.
+
+The third temporal objection, whether the challenged measure(s) relate to the Claimant
+or its investment, again turns on the legal effects of the restructuring process undertaken
+by WCC and the status of the Westmoreland that entered into bankruptcy as opposed
+to the Claimant when it was incorporated. Again, we do not accept that determination
+of this objection will require a factual analysis that overlaps with the merits; nor does
+it present a risk of prejudging or entering the merits. Accordingly, the second Philip
+Morris factor is satisfied with respect to each of the Respondent’s temporal objections.
+
+Finally, it is common ground between the Disputing Parties that if any of the three
+temporal objections is successful, it would dispose of the entirety of the claims raised.
+Accordingly, the third Philip Morris factor is satisfied with respect to the temporal
+objections.
+
+We next turn to the Respondent’s fourth jurisdictional objection, that the Claimant’s
+actual or constructive knowledge of the alleged breach and loss occurred more than
+three years before it commenced this arbitration, in breach of the time limitation period
+under NAFTA Articles 1116(2) and 1117(2). The Respondent says the cut-off date for
+the purposes of the limitation period is 12 August 2016. The Claimant explained in the
+
+-15-
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+55.
+
+56.
+
+57.
+
+Procedural Order No. 3
+
+oral hearing that the measure it complains of was the entry into the OCAs in November
+2016 by the Government of Alberta and the payments made thereunder that started in
+July 2017, not the publishing of the Climate Plan. Further, the Claimant says that the
+Respondent’s fourth objection cannot be examined without the risk of prejudging or
+entering the merits. Determining the date on which the Claimant acquired actual or
+constructive knowledge of the alleged breach and loss is not a simple issue. Whilst it
+had awareness of the content of the Climate Plan as announced and of the fact the OCAs
+were being concluded and even that Transition Payments were being made, it was not
+aware at the time that Transition Payments were first made that it would be excluded
+from such payments. Therefore, determining the date on which it acquired constructive
+knowledge will require investigation inter alia into: (i) the Government of Alberta’s
+decision-making process in deciding to which companies Transition Payments should
+be made; (ii) how and when those decisions were reached; and, (iii) consideration of
+the wider factual matrix. Such analysis will clearly require traversing issues relating to
+the merits of the dispute.
+
+We accept the Claimant’s submission as to the scope of the exercise that will likely be
+required to determine the date on which it acquired actual or constructive knowledge
+of the breach and loss suffered and accordingly we agree that this fourth objection
+cannot be determined without traversing the merits. With respect to the third Philip
+Morris factor, it is accepted by both Disputing Parties that a successful determination
+will not dispose of all of the claims raised. Indeed it seems to us that it would not in
+any event determine any claims arising out of the payment of the Transition Payments
+given that the first of the OCAs pursuant to which the payments were made were only
+entered into three months after the cut-off point of 12 August 2016.
+
+We turn finally to Canada’s objection as to the admissibility of the claims premised on
+NAFTA Article 1108(7)(b). Without specifically addressing the utility of applying the
+Philip Morris factors to admissibility objections, the Disputing Parties both made
+reference to these factors whilst considering whether or not this objection should be
+determined as a preliminary issue. In determining whether to exercise our discretion to
+order that this objection be heard as a preliminary issue, we therefore also take note of
+the Philip Morris factors.
+
+We accept that determining the correct meaning of the words ‘grant’ and ‘subsidy’ as
+contained in the article is purely a question of law, however, we do not accept that
+applying that interpretation to the OCAs to determine whether the Transition Payments
+were a grant or subsidy can be undertaken solely by considering the OCAs on their
+face. The fact that the payments were made pursuant to the Alberta Grants Regulation
+and publicly disclosed as grants is relevant but not conclusive and we accept that it may
+be necessary to go beyond the wording used in the OCAs and consider the wider factual
+matrix existing at the time the OCAs were concluded in order to determine whether
+
+-16-
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+58.
+
+59.
+
+Procedural Order No. 3
+
+these Transition Payments come within the meaning of a ‘grant’ or ‘subsidy’ for the
+purposes of NAFTA Article 1108(7)(b). Accordingly, to the extent relevant, the second
+Philip Morris factor is not satisfied. With respect to the third factor, if this objection
+were decided in the Respondent’s favour, it would dispose of the Claimant’s Article
+1102 claim and the necessarily complex and expensive analysis of “like circumstances”
+but it would not dispose of the Claimant’s Article 1105 claim.
+
+Having completed our analysis of the five objections applying the Philip Morris factors,
+and having found that those factors weigh in favour of bifurcating the temporal
+objections but against bifurcation of the remaining objections, we turn now to whether
+the presumption contained in Article 21(4) of the 1976 UNCITRAL Rules should be
+followed. In considering this question we note the Claimant’s submissions that it would
+not be fair if the Respondent’s objections were heard before it were able to present its
+case in a merits hearing, particularly in the circumstances that Transition Payments
+were made to three Canadian companies whereas the Claimant, being the only non-
+Canadian company, did not receive any payment. We also understand the Claimant’s
+submissions that efficiency would not be achieved if the Respondent’s objections were
+unsuccessful, leading only to delay. However, we have found that the Philip Morris
+factors support bifurcation of the three temporal objections and we do not accept there
+would be any potential duplication of issues or evidence in determining these objections
+as a preliminary issue. Accordingly, we see no reason either in terms of fairness or
+efficiency not to follow the presumption that the three temporal objections should be
+determined as preliminary issues.
+
+The position is different with the fourth and fifth objections. Whilst we appreciate that,
+as a matter of NAFTA practice, the limitation objection is usually determined as a
+preliminary issue, we are concerned that determining both it and the fifth objection
+would likely stray into areas of the merits. We understand the Respondent’s concerns
+with respect to the need to expend federal and provincial time and resources which
+could not adequately be captured by a costs award and its submissions that if we are to
+determine any of the objections it would be procedurally efficient to determine them
+all. However, given that there is no linkage between the investigation and analysis we
+would need to undertake to determine the three temporal objections and that required
+with respect to the fourth and fifth objections, we do not believe there to be any
+efficiency to be gained in also hearing these two final objections: indeed it appears to
+us to be likely that it would only lead to inefficiency and delay. Accordingly, we do
+not exercise our discretion to order that the fourth and fifth objections should be heard
+as preliminary issues.
+
+-17-
+
+Westmoreland Mining Holdings LLC v. Government of Canada
+(ICSID Case No. UNCT/20/3)
+
+ 
+
+Procedural Order No. 3
+
+IV. DECISION
+
+60. For the reasons set out above, the Tribunal:
+
+a. Grants the Respondent’s request to bifurcate the present proceedings between
+(i) the temporal jurisdictional objections and (ii) the merits of the case and any and
+all other jurisdictional or admissibility objections;
+
+b. Directs the Disputing Parties to confer as to whether the proposed timetables set out
+in the Disputing Parties’ 31 July 2020 email to the Tribunal should be followed or
+whether a revised timetable should be agreed in the light of this order; and
+
+c. Reserves costs for subsequent determination.
+
+Date: 20 October 2020
+
+On behalf of the Tribunal:
+
+[Signed]
+
+Ms. Juliet Blanch
+Presiding Arbitrator
+
+-18-
+

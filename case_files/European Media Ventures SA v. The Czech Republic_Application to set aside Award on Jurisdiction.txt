@@ -1,0 +1,859 @@
+Neutral Citation Number: 2007 EWHC 2851 (Comm)
+Case No: 2007 Folio No: 974
+IN THE HIGH COURT OF JUSTICE
+QUEEN'S BENCH DIVISION
+Commercial Court
+And in the matter of the Arbitration Act 1996
+
+ 
+
+Royal Courts of Justice
+Strand, London, WC2A 2LL
+
+ 
+
+Date: 5 December 2007
+
+Before: The Hon Mr Justice Simon
+
+Between :
+
+The Czech Republic Claimant
+and
+European Media Ventures SA Defendant
+
+Lord Brennan QC and Mr Zachary Douglas (instructed by Linklaters LLP) for
+the Claimant
+Mr Toby Landau (instructed by Salans) for the Defendant
+
+Hearing date: 6 September 2007
+Further written submissions received on: 7 September, 5 and 18 October 2007
+
+Approved Judgment
+I direct that pursuant to CPR PD 39A para 6.1 no official shorthand note shall be taken of this
+Judgment and that copies of this version as handed down may be treated as authentic.
+
+ 
+
+MR JUSTICE SIMON
+
+Mr Justice Simon:
+
+Introduction!. In this claim the Czech Republic applies to set aside an Award on Jurisdiction
+dated 15 May 2007 pursuant to section 67(1)(a) of the Arbitration Act 1996, on the
+grounds that the arbitral tribunal lacked substantive jurisdiction. The Award was made in
+arbitration proceedings between a Luxembourg company, European Media Ventures S.A.
+(‘EMV’), which is the claimant in the arbitration, and the Czech Republic, which is the
+respondent.
+
+2.The arbitration was begun by EMV against the Czech Republic under the arbitration provision
+(Article 8) of a Bilateral Investment Treaty (‘the Treaty’) between the Czechoslovak
+Socialist Republic and the Belgian-Luxembourg Economic Union. The full title of the
+Treaty is, ‘Agreement Between the Belgian-Luxembourg Economic Union and the
+Czechoslovak Socialist Republic Concerning the Reciprocal Promotion and Protection of
+
+Investments’. The Treaty was concluded on 24 April 1989; and, in accordance with its
+terms, came into force on 13 February 1992. From | January 1993 the Czech Republic
+succeeded to the rights and obligations of the Czechoslovak Socialist Republic and became
+a Contracting Party.
+
+3.The arbitration is governed by the UNCITRAL Arbitration Rules and the seat of the arbitration
+is London. The arbitral tribunal comprises Lord Mustill (Chairman), Dr Julian Lew QC,
+and Professor Christopher Greenwood QC, CMG.
+
+4.In the arbitration EMV claims for loss and damage against the Czech Republic arising out of the
+indirect expropriation of its investment in a Czech television station ‘TV3’. The facts of the
+dispute are otherwise largely immaterial to this application.
+
+5. Although a large amount of learning and authority was deployed at the hearing of the
+application and subsequently, the challenge to the award raises a single and discrete
+question of law concerning the scope of the Tribunal’s jurisdiction under Article 8 of the
+Treaty.
+
+The terms of the Treaty
+
+6. The relevant provisions of the Treaty for interpreting the scope of the Tribunal’s
+jurisdiction are:
+
+Article 3
+
+1. Investments made by investors of one of the Contracting Parties
+in the territory of the other Contracting Party may not be
+expropriated or subjected to other measures of direct or indirect
+dispossession, total or partial, having a similar effect, unless such
+measures are:
+
+(a) taken in accordance with a lawful procedure and are not
+discriminatory;
+
+(b) accompanied by provisions for the payment of compensation,
+which shall be paid to the investors in convertible currency and
+without delay. The amount shall correspond to the real value of the
+investments on the day before the measures were taken or made
+public.
+
+3. The provisions of paragraphs | and 2 are applicable to investors
+of each Contracting Party, holding any form of participation in any
+company whatsoever in the territory of the other Contracting Party.
+
+Article 7
+
+1. Any dispute relating to the interpretation or the application of the
+present Agreement shall be settled, as much as possible, between
+the Contracting Parties by means of diplomatic channels.
+
+2. Failing settlement by such means, the dispute shall be submitted
+to a mixed Commission, composed of representatives from the
+Contracting Parties. This commission shall meet without delay, at
+the request of one or other of the Contracting Parties.
+
+3. If the dispute cannot be settled in this manner within a period of
+six months from the date of the start of negotiations, it shall be
+submitted to an arbitral tribunal, at the request of one of the
+Contracting Parties.
+
+Article 8
+
+1. Disputes between one of the Contracting Parties and an investor
+of the other Contracting Party concerning compensation due by
+virtue of Article 3 Paragraphs (1) and (3), shall be the subject of a
+written notification, accompanied by a detailed memorandum,
+addressed by the investor to the concerned Contracting Party. To
+the extent possible, such disputes shall be settled amicably.
+
+2. If the dispute is not resolved within six months from the date of
+the written notification specified in Paragraph (1), and in the
+absence of any other form of settlement agreed between the parties
+to the dispute, it shall be submitted to arbitration before an ad hoc
+tribunal.
+
+The Preamble of the Treaty records that the Contracting States desired, among other things:
+
+... to strengthen their economic cooperation by creating conditions
+favourable for the making of investments by the investors of one
+of the Contracting Parties in the territory of the other Contracting
+Party ...
+
+The issue in the case is the extent of the Tribunal’s jurisdiction under Art.8(1). This
+involves the meaning of the words:
+
+[d]isputes between the Contracting Parties and an Investor of the
+
+other Contracting Party concerning compensation due by virtue of
+Art.3 paragraph (1) and (3) of the Treaty’. (emphasis added).
+
+In short summary, the Czech Republic contends that the Tribunal’s jurisdiction is limited to
+disputes as to the amount of compensation to be paid to an investor following
+expropriation; in other words, it is limited to issues of quantification. EMV contends that
+the Tribunal is conferred with jurisdiction to make an award of compensation following
+expropriation; in other words, the jurisdiction extends not simply to the amount of
+compensation, but to whether compensation should be paid to the investor.
+
+The Tribunal found, in relation to the words of Art.8(1), that the phrase ‘concerning
+compensation’ was clearly intended to limit the jurisdiction of a tribunal established under
+Art.8. Having found that this phrase operated so as to limit the jurisdiction of an arbitral
+tribunal, it was necessary to identify the proper scope of that limitation. The Tribunal
+provided its interpretation of that limitation as follows:
+
+ 
+
+It would seem to exclude from that jurisdiction any claim for relief
+other than compensation (e.g. a claim for restitution or a declaration
+that a contract was still in force).
+
+The Czech Republic criticises this conclusion as short on reasoning and unsupported by
+authority. EMV submits that the Tribunal’s conclusion was correct and fully justified both
+on analysis and authority.
+
+The parties’ submissions on the issue, in summary
+
+Each side submitted that its interpretation:
+
+i) accorded with the rules on interpretation of treaties contained in the Vienna
+
+Il.
+
+Convention and customary International law; and
+
+ii) gave effect to the ordinary meaning of the words of Article 8.
+
+The Czech Republic further submitted as follows.
+
+i) The Treaty was signed by the Czechoslovak Socialist Republic in 1989 before the
+political changes which brought about democratic elections and market reforms. It
+was the policy of Communist States at the time to agree to arbitration with private
+investors in relation to disputes as to the amount of compensation following
+expropriation. The wider agreements to arbitrate with investors, which are now
+usual in modern Bilateral Investment Treaties (‘BITs’) were avoided by
+Communist States as impermissible intrusions on their sovereignty. During
+sessions of the Belgian Parliament dealing with the incorporation of the Treaty into
+Belgian law, the policy of the Czechoslovak Socialist Republic was expressly
+acknowledged on behalf of the Belgian Government; and the fact that it was
+reflected in the terms of Art.8 of the Treaty was recognised by the Belgian Senate.
+Following the political changes which led to the ending of Communist power in
+Czechoslovakia, the Czech Republic adopted consent to arbitration in wide terms:
+for example, consent regarding ‘any disputes arising out of an investment’ and ‘all
+investment disputes’.
+
+ii) The circumstances in which the Treaty was concluded show an intention to confine
+the right to arbitrate in Art8 to disputes about the level of compensation to be
+awarded.
+
+iii) The terms of Art.7 of the Treaty provide the mechanism for dispute resolution and
+were intended to apply to the determination of liability in a case of expropriation of
+the investment. The usual considerations of diplomatic protection would apply to
+any resort to Art.7 and, for this reason, was more acceptable to the Czechoslovak
+Socialist Republic at the relevant time. It is unnecessary for liability for an
+expropriation under Art.3 to be actionable before an arbitral tribunal constituted
+pursuant to Art.8 in order to give effect to Article 3. First, Art.3 is actionable
+before an arbitral tribunal constituted pursuant to Article 7. Secondly, since the
+Treaty has direct effect in the municipal law of the Czech Republic, an investor can
+challenge the legality of any State expropriation in the municipal courts.
+
+iv) The terms of Art.8(1) of the Treaty confirm the limited scope of the Contracting
+Parties’ consent to arbitration. If the Contracting Parties had intended that an
+arbitral tribunal constituted under Art.8 should have jurisdiction to determine the
+liability of a Contracting Party for an expropriation, the words ‘compensation due
+by virtue of would have been omitted.
+
+EMV submitted in answer.
+
+i) The object of the BIT was the promotion and protection of investments. This was
+achieved by providing direct rights between investors and host States. A key
+element of effective protection was the provision of a direct and effective right to
+arbitrate.
+
+ii) There was no immutable policy of the Czechoslovak Socialist Republic to confine
+Arbitration Agreements to the amount of compensation to be paid. This may have
+been the position from which negotiations began; but it was not always the position
+where negotiations ended. The background material relied on by the Czech
+Republic did not throw any significant light on the proper interpretation of Art.8.
+
+iii)
+
+iv)
+
+Art.7 did not assist in the interpretation of Art.8 since it was concerned with
+different issues: disputes which might arise between the Contracting Parties. Such
+issues were susceptible to settlement by customary diplomatic means, whereas Art.
+8 was expressly concerned with disputes between a Contracting Party and
+investors from the other Contracting Party. There was no reason to approach the
+construction of Arts.3, 7 and 8 on the basis that the primary route to settlement of a
+dispute was intended to be by diplomatic means. On the contrary, the underlying
+commercial intent was that BITs were intended to provide directly enforceable
+rights to investors.
+
+Although it was common ground that the terms of Art.8(1) of the Treaty confined
+the agreement to arbitration, the Contracting Parties had used a phrase ‘concerning
+compensation due by virtue of’ the expropriation provisions contained in Art.3(1)
+and (3) which was very much wider in ambit than was found in other BITs. As a
+matter of ordinary meaning the phrase encompassed direct and_ indirect
+expropriation, both as to the nature and amount of compensation and whether any
+compensation was due pursuant to Art.3(1) and/or (3).
+
+The Court’s Approach to the Tribunal’s award
+
+Both sides agreed that the correct approach to the Tribunal’s decision on substantive
+jurisdiction was correctly summarised by Aikens J in Republic of Ecuador v Occidental
+Exploration & Production Co (No 2) at §7 (see above)
+
+It is now well-established that a challenge to the jurisdiction of an
+arbitration panel under section 67 proceeds by way of a re-hearing
+of the matters before the arbitrators. The test for the court is: was
+the tribunal correct in its decision on jurisdiction? The test is not:
+was the tribunal entitled to reach the decision that it did.
+
+The rules of interpretation of Treaties
+
+A Treaty is governed by International law, which includes the rules on interpretation. The
+international rules on treaty interpretation are set out in Articles 31 and 32 of the Vienna
+Convention.
+
+Article 31 General rule of interpretation
+
+1. A treaty shall be interpreted in good faith in accordance with the
+ordinary meaning to be given to the terms of the treaty in their
+context and in the light of its object and purpose.
+
+2. The context for the purpose of the interpretation of a treaty shall
+comprise, in addition to the text, including its preamble and
+annexes:
+
+(a) any agreement relating to the treaty which was made
+between all the parties in connexion with the conclusion of the
+treaty;
+
+(b) any instrument which was made by one or more parties in
+connexion with the conclusion of the treaty and accepted by the
+other parties as an instrument related to the treaty.
+
+3. There shall be taken into account, together with the context:
+
+(a) any subsequent agreement between the parties regarding the
+interpretation of the treaty or the application of its provisions;
+
+(b) any subsequent practice in the application of the treaty which
+establishes the agreement of the parties regarding its
+interpretation;
+
+(©) any relevant rules of international law applicable in the
+relations between the parties.
+
+4. A special meaning shall be given to a term if it is established that
+the parties so intended.
+
+It will be necessary to consider the terms, ‘ordinary meaning’ and ‘object and purpose’
+later in this judgment.
+
+Article 32 Supplementary means of interpretation
+
+Recourse may be had to supplementary means of interpretation,
+including the preparatory work of the treaty and the circumstances
+of its conclusion, in order to confirm the meaning resulting from
+the application of article 31, or to determine the meaning when the
+interpretation according to article 31:
+
+(a) leaves the meaning ambiguous or obscure; or
+
+(b) leads to a result which is manifestly absurd or unreasonable.
+
+The rules set out in Articles 31 and 32 of the Vienna Convention have been accepted by
+the International Court of Justice as being an accurate statement of customary International
+law; and English courts have applied the rules on the basis that they represent customary
+International law and are therefore part of English law.
+
+It is clear that the proper approach to the interpretation of Treaty wording is to identify
+what the words mean in their context (the textual method), rather than attempting to
+identify what may have been the underlying purpose in the use of the words (the
+teleological method). The disadvantages of this latter approach have been described by Sir
+Gerald Fitzmaurice KCMG QC (former Legal Adviser to HM Foreign and
+Commonwealth Office, Judge of the International Court of Justice and Judge of the
+
+European Court of Human Rights) as follows,
+
+One method (and perhaps the one that has the most direct natural appeal) is
+to ask the question, ‘What did the parties intend by the clause?’ This
+approach has, however, been felt to be unsatisfactory, if not actually
+unsound and illogical, for a number of reasons ...
+
+One of the reasons that the approach is unsatisfactory is that,
+
+It ignores the fact that the treaty was, after all, drafted precisely in order to
+give expression to the intentions of the parties, and must be presumed to
+do so. Accordingly, this intention is, prima facie, to be found in the text
+itself, and therefore the primary question is not what the parties intended
+by the text, but what the text itself means: whatever it clearly means on an
+ordinary and natural construction of its terms, such will be deemed to be
+what the parties intended.
+
+Another reason is that
+
+... the aim of giving effect to the intentions of the parties means, and can
+only mean, their joint or common intentions ... This means that, faced
+with a disputed interpretation, and different professions of intention, the
+tribunal cannot in fact give effect to any intention which both or all the
+parties will recognise as representing their common mind.
+
+The search for a common intention is likely to be both elusive and unnecessary. Elusive,
+because the contracting parties may never have had a common intention: only an agreement
+as to a form of words. Unnecessary, because the rules for the interpretation of international
+treaties focus on the words and meaning and not the intention of one or other contracting
+party, unless that intention can be derived from the object and purpose of the treaty [Art.31
+
+18.
+
+21.
+
+of the Vienna Convention], its context [Art.31.1 and 31.2] or a subsequent agreement as to
+interpretation [Art.31.3(a)] or practice which establishes an agreement as to its
+interpretation [Art.31.3(b)]. As Professor O’Connell has noted,
+
+... the ‘intentions’ of the parties may never have crystallised or been
+formulated beyond a certain point. Every lawyer knows that the parties to a
+contract contemplate only performance; they enter into the transaction with
+optimism, and do not ordinarily advert to the problems raised by, for
+example, frustration. The courts pretend that the parties intended what
+they, the court, believe they would have intended had they reflected on the
+matter. It is clear, then that ‘intention’ is very often a fiction, and even
+when there was a conscious intention the words designed to be expressive
+of it may not be particularly helpful for this purpose. The same is true of
+treaty interpretation with the added difficulty that the parties may never
+really have wanted to come to an agreement and may have deliberately left
+the area of operation of the treaty opaque.
+
+A similar point is made by Sir Ian Sinclair KCMG QC (former Legal Advisor to HM
+Foreign and Commonwealth Office),
+
+. a dispute as to treaty interpretation arises only when two or more
+parties place differing constructions upon the text; by doing so they are in
+reality professing differing intentions in regard to that text and, of
+necessity, professing to have had differing intentions from the very start. If
+this is the case, there can be no common intentions of the parties aside or
+apart from the text they have agreed upon. The text is the expression of the
+intention of the parties; and it is to that expression of intent that one must
+first look.
+
+The proper approach is to interpret the agreed form of words which, objectively and in
+their proper context, bear an ascertainable meaning. This approach, no doubt reflecting the
+experience of centuries of diplomacy, leaves open the possibility that the parties might have
+dissimilar intentions and might wish to put different interpretations on what they had
+agreed. When considering the object and purpose of a Treaty a Court should be cautious
+about taking into account material which extends beyond what the Contracting Parties have
+agreed in the Preamble or other common expressions of intent, see Art 31.2(a) and (b).
+
+Object and Purpose
+
+EMV submitted that, in evaluating a treaty’s context, a court or tribunal may be guided by
+the treaty’s preamble. In the present case the preamble recorded the desire of the
+Contracting Parties to create favourable conditions for investment. EMV argued that an
+important feature of investor protection is the availability of recourse to international
+arbitration as a safeguard for the investor; and that, in so far as the objective of a BIT is to
+provide effective protection for investors, it is permissible to resolve uncertainties in the
+interpretation of a BIT in favour of the investor. Mr Landau relied on decisions of
+Arbitration tribunals in BIT cases which have approached the issue of interpretation by
+referring to the preamble of the BIT and have adopted interpretations that ensure its
+effectiveness: an approach exemplified by the award in SGS Société Générale de
+Surveillance SA v Republic of the Philippines (2004) 8 ICSID Reports 515 at §116
+[C5/20], where the Tribunal said:
+
+The object and purpose of the BIT supports an effective interpretation of
+Article X(2) [the “umbrella clause” of the Philippines-Switzerland BIT].
+The BIT is a treaty for the promotion and reciprocal protection of
+investments. According to the preamble it is intended ‘to create and
+maintain favourable conditions for investments by investors of one
+Contracting Party in the territory of the other’. It is legitimate to resolve
+uncertainties in its interpretation so as to favour the protection of covered
+investments
+
+Mr Landau also relied on the decision of the Court of Appeal in Ecuador v. Occidental
+(No.2) [2007] 1 Lloyd’s Rep 64 at §28 [B/4]:
+
+We accept Mr Greenwood's submission that the object and purpose of a
+
+22.
+
+BIT (including this BIT) is to provide effective protection for investors of
+one state (here OEPC) in the territory of another state (here Ecuador) and
+that an important feature of that protection is the availability of recourse to
+international arbitration as a safeguard for the investor. In these
+circumstances it is permissible to resolve uncertainties in its interpretation
+in favour of the investor: see eg the views of the arbitrators in para 116 of
+their award in SGS Société Générale de Surveillance SA v Republic of the
+Philippines (2004) 8 ICSID Reports 515.
+
+The Czech Republic submitted that the Court should be careful in identifying object and
+purpose and avoid giving too much weight to them (the ‘teleological approach’). Reference
+was made to a passage in Sinclair:
+
+There is ... the risk that the placing of undue emphasis on the
+object and purpose of the treaty will encourage teleological
+methods of interpretation. The teleological approach ... in effect is
+based on the concept that, whatever the intentions of the parties
+may have been, the convention as framed has a certain object and
+purpose, and the task of the interpreter is to ascertain that object
+and purpose and then interpret the treaty so as to give effect to it.
+
+The Court of Appeal in Ecuador v. Occidental (No.1) [2006] QB 432 at §§14-20 and
+32-35 described the nature of the legal relationship created and the rights generated by
+BITs. Under these treaties investors are given substantive and procedural rights, which
+may be pursued in their own right rather than by the State on their behalf. BITs give rise to
+consensual agreements to arbitrate between an investor and a State, arising out of (but
+distinct from) the treaty itself. In these circumstances it seems to me plain that in
+interpreting a BIT the Court is entitled to take into account that one of the objects of the
+treaty was to confer rights on an investor, including a valuable right to arbitrate. If the
+suggestion made in Ecuador v. Occidental (No.2) at §28, that it is permissible to resolve
+uncertainties in the interpretation of a BIT in favour of an investor, who is not a party to
+the treaty, is said to amount to a rule of interpretation, the suggestion goes rather further
+than appears to be justified in International law.
+
+‘Contextual’ Material
+
+As already indicated the parties’ researches were extensive.
+
+The Czech Republic deployed much material relating to the politico-economic background
+to the BIT. Some of this material was relatively uncontroversial, although the conclusions
+which might properly be drawn were disputed. The material demonstrated as follows.
+
+i) At the time the Treaty was signed by Czechoslovakia (on 24 April 1989) the
+Communist Government was still in power. The Czechoslovak Socialist Republic
+(like other Communist States) objected to any interference by Capitalist States in its
+internal affairs. The preference of Western States for binding third party dispute
+settlement procedures was seen as intrinsically linked to such interference; and
+Communist States insisted that disputes with foreign parties were submitted to
+domestic courts. BITs between Communist and non-Communist States very
+frequently, if not invariably, limited the ambit of the arbitration clause. Thus in the
+period 1989-1990 the arbitration provisions in BITs to which the USSR was a
+party were limited to disputes concerning the amount or method of calculating
+compensation to be paid following an expropriating act.
+
+ii) After the fall of Communist power in Czechoslovakia, the successor States, the
+Czech and Slovak Federal Republics, reversed the policy and signed BITs which
+did not limit the jurisdiction of independent arbitration tribunals. From this time the
+consent to arbitration between the investor and the State was generally expressed in
+the widest possible terms such as ‘any dispute arising out of an investment’ or ‘all
+investment disputes’. Thus, of the 68 BITs signed by the Czech and Slovak
+
+Federal Republic and then the Czech Republic after the fall of Communism, 65 of
+them record the Contracting State Parties’ consent to investor/State arbitration in
+broad terms.
+
+Mr Landau did not dispute this historic analysis in so far as it described the doctrinal
+position of Communist States. However he noted that there were a number of BITs to
+which Communist States were parties where the doctrinal position had ceded to the
+requirement of promoting international trade. He pointed out that before the fall of
+Communism in Easter Europe, the majority of BITs specifically restricted the arbitral
+jurisdiction to ‘the amount’ and ‘method’ of compensation due with respect to an
+expropriation. He pointed out that no such delimiting words appeared in the present Treaty.
+
+The Czech Republic initially relied on 3 matters in support of its interpretation.
+
+ii)
+
+The Explanatory Statement dated 2 April 1990 in the Belgian Parliamentary
+Record. For international treaties to have effect under Belgian municipal law, they
+must be approved and adopted as law by the Belgian Parliament (House of
+Representatives and Senate). A contemporaneous official record of the sessions of
+the Belgian Parliament on the ratification of the Treaty stated that the Czechoslovak
+Socialist Republic had succeeded in extracting concessions from the Belgian-
+Luxembourg Economic Union to reflect its Socialist policy at the time. One of the
+concessions related to a departure from the Model BIT of the Belgian-Luxembourg
+Economic Union, in relation to the dispute resolution mechanism in the Treaty.
+The Record of the Session of the Chamber of Deputies of the Belgium Parliament,
+dated 2 April 1990, noted that
+
+At the beginning of the negotiations however, three
+specific points had revealed some divergences of opinion
+between the two delegations.
+
+The third divergence of opinion was as to the ‘scope’ of the submission to
+arbitration and the ‘procedure’ for arbitration in Article 8 of the Treaty. On this the
+Record of the Session notes:
+
+There exists a divergence of opinion between the
+delegations more with regards to the field of applications
+than as to the procedure. The Czechoslovaks were not
+accepting at the beginning of the negotiations the idea that
+“the State’ should be subject to an international arbitration.
+Nevertheless, after examining similar agreements with
+other countries from the East, the concept of an ‘ad hoc’
+arbitration has been accepted.
+
+The 6 December 1990 Belgian Parliamentary Record. The relevant record of the
+Belgian Parliament reads:
+
+ 
+
+The Mi
+confirmation of a typical bilateral investment treaty. It is
+true that the treaty itself was concluded with
+Czechoslovak Republic, which was at the time ‘Socialist’.
+The qualifying adjective ‘Socialist’ has in the meantime
+been replaced by ‘Federal’ and ‘Czechoslovak’ by
+“Czech-Slovak’. A certain continuity is however
+necessary in interstate relations.
+
+ister calls the Bill under discussion as the
+
+ 
+
+The commissioner notes that the treaty under discussion
+contains a certain amount of exceptions to the normal
+provisions generally found in these types of treaties.
+According to the explanatory report, these exceptions are
+due to the objections from the Czechoslovak side, which
+
+were in turn attributable to the regime which at that time
+was still communist. Since then, the Czech and Slovak
+Republic is no longer a communist regime. The petitioner
+asks whether in the circumstances such exceptions still
+make sense.
+
+The Minister states that the derogations to the usual
+protection are minimal. They are limited to the following:
+
+(1) Recourse to international arbitration is limited to
+disputes relating to compensation due in the event of
+expropriation (Article 8);
+
+... The petitioner ends the discussion by asking if it
+would not be desirable to remedy the imperfections
+existing in the treaty under discussion and a few others
+concluded with previously communist States by an
+additional treaty which would this time correspond
+perfectly to normal practice on this point as between
+Western countries.
+
+The Minister considers that it is indeed desirable.
+
+Lord Brennan QC submitted that this passage shows that Article 8(1) of the Treaty
+was recognised as a departure from the Model BIT of the Belgian-Luxembourg
+Economic Union Model which was insisted upon by the Communist Regime in
+power in Czechoslovakia when the Treaty was signed. Mr Landau submitted that
+while the Minister is reported to have stated that the derogations from the usual
+protections were ‘minimal’, the derogations for which the Czech Republic
+contends were significant given the impact on the effectiveness of Art.3.
+
+iii) The Record of the Federal Assembly of the Czech and Slovak Federative
+Assembly on 18 September 1990. This shows that the Minister was advising the
+Assembly that the Treaty was similar to other BITs entered into under the
+Communist Regime. There had been suggestions that the Treaty was too narrow in
+the light of political developments since the negotiations and that it should be
+cancelled prior to ratification.
+
+However, the Belgian party is interested in immediate ratification
+of the Agreement as it was concluded, it does not want to reopen
+the whole complex process of internal (sic) negotiations ....
+
+Following the conclusion of the hearing a number of additional documents were deployed
+by the Czech Republic. These had been discovered in the National Archive. No objection
+was made to the reference to these documents by EMV. Four of these documents are
+potentially relevant: (a) Government Resolution 328 of 1988, dated 8 December 1988
+[Doc.9]; (b) The Joint Report of the Minister of Finance and the Minister of Trade, dated
+31 October 1988 [Doc.10]; (c) Draft Explanatory Note by the Ministry of Finance for the
+Government, dated sometime in 1989 [Doc.4]; and (d) Letter from the Minister of Finance
+to the Deputy Prime Minister, dated 3 May 1989 [Doc.7]
+
+The documents which pre-date the signing of the Treaty on 24 April 1989 [Docs 9 and 10]
+show an intention on the part of Czechoslovakia to restrict the ambit of Art 8 as far as it
+could.
+
+Upon considering all circumstances, it has been proposed that the
+Czechoslovak side agrees with implementing the issues of diagonal
+disputes in the agreement. However, it is necessary to enforce that
+the relevant article is of the agreement is formulated in such manner
+so that this agreement does not interfere with the fundamental
+
+rights of a sovereign country (namely the right of a country to limit
+or to interfere with assets located within its sovereign territory in
+compliance with the law).
+
+However, the new documentation viewed overall is equivocal. For example Doc 4, refers
+to part of Art 8 in terms which are different to the Treaty:
+
+In the event of any dispute between the investor and the State
+pertaining to the amount of compensation for intervention with
+property rights [emphasis added].
+
+The same document also shows that the negotiations in relation to Art 8 were difficult and
+that Czechoslovakia had been unable to maintain its intended position.
+
+Czechoslovakia had to take a more flexible approach to so-called
+diagonal disputes, i.e. disputes between an investor and the State
+on whose territory the investment was made.
+
+Conclusion on the contextual material
+
+It seems to me that the court or tribunal’s task is to interpret the Treaty rather than to
+interpret the supplementary means of interpretation. If the material relied on is unclear or
+equivocal it is unlikely to confirm or determine a meaning. In this case the contextual
+material throws no clear light on the proper interpretation of the disputed terms of Art.8,
+according to the principles set out in Art.31 and Art.32 of the Vienna Convention. The
+most that can be said is that, at the time the Treaty was negotiated, certain Communist
+States showed reluctance, for ideological reasons, to agree to international arbitration as the
+forum for dispute resolution. However, the practice between states (and on the part of
+individual states) has varied, and seems to have depended on individual negotiations. In
+some cases identified by EMV, Communist States were prepared to concede the issue. In
+other cases they plainly have not. In each case the issue was likely to depend on the relative
+negotiating strength of each Contracting State and its doctrinal interest in the issue. As
+Paulsson has noted:
+
+... the contents of BITs vary greatly: as much as any individual
+country might like to impose its own idea of a standard BIT, the
+varying negotiating strength of the other side has the effect of
+rendering most countries’ portfolios of BITs quite heterogeneous
+in particular, the scope of and nature of third party access to
+international arbitration through BIT mechanisms are so different
+from one BIT to the next that one cannot speak of a dominant
+practice: each BIT must be examined on its own.
+
+ 
+
+ 
+  
+
+In the present case each side appears to have adopted opposing negotiating positions, and
+there was a degree of compromise. In my view the arbitration provision of this Treaty fell
+into a further category, in which the width of the arbitration clause was left unclear:
+possibly to the satisfaction of both sides. I would add that I did not find material in which
+commentators sought to describe and explain the terms of the Treaty, by way of précis, to
+be of any significant assistance in the task of interpretation.
+
+The approach to interpretation
+
+In interpreting this Treaty the Court must have in mind a number of preliminary matters.
+
+First, the importance of an ‘independent’ interpretation. A treaty
+
+... must be given independent meaning derivable from the sources
+mentioned in articles 31 and 32 and without taking colour from
+distinctive features of the legal system of any individual contracting
+state. In principle therefore there can only be one true interpretation
+
+40.
+
+41.
+
+42.
+
+43.
+
+44,
+
+of a treaty.
+
+Secondly, it must be bon in mind that, simply as a matter of the wording of Art8, the
+arbitral jurisdiction is the same whether the ‘concerned Contracting Party’ referred to in
+Art is the Czech Republic or Belgium/Luxemburg.
+
+Thirdly, the ‘ordinary meaning’ is the meaning attributed to those terms at the time the
+treaty is concluded. Sir Gerald Fitzmaurice, expressed the principle (the Principle of
+Contemporaneity) as follows:
+
+The terms of the treaty must be interpreted according to the
+meaning which they possessed, or which would have been
+attributed to them, and in light of current linguistic usage, at the
+time when the treaty was originally concluded.
+
+Fourthly, as a normal principle of interpretation a Court or Tribunal should endeavour to
+give a meaning to each of the words being interpreted.
+
+Conclusions
+
+It is in the light of these factors that I approach the question of interpretation in this case.
+
+Before doing so, I can deal shortly with the large amount of material which was deployed
+by the parties for the purpose of showing that the other side’s construction could have
+been (and in other BITs had been) clearly and unambiguously expressed. In almost any
+dispute over interpretation or construction it is possible to postulate a form of words which
+is clearer or more emphatic; and to argue that the failure to use such words supports a
+particular construction. That does not usually assist in the task of interpretation, and it did
+not in the present case. The material, which was photocopied exhaustively, was mutually
+self-defeating.
+
+So far as the Object and Purpose of the Treaty is concerned, I accept (for the reasons
+already stated and subject to the qualification already noted) that these included an intention
+to confer on the investor a valuable right to arbitrate.
+
+As a matter of the language of Article 8(1) there are four preconditions to arbitral
+jurisdiction: (a) a ‘dispute’, which (b) must be ‘concerning compensation’ , which (c) must
+be ‘due by virtue of’ something, and (d) an event under Article 3(1) and (3) must have
+occurred.
+
+So far as precondition (a) is concerned, there is no issue that there is a dispute ; and that
+this precondition is therefore satisfied.
+
+It is the ambit of precondition (b) and the phrase ‘concerning compensation’ which gives
+rise to the most difficulty. The starting point is, in my judgment, the width of the ordinary
+meaning of the phrase. I am unable to accept that the phrase must be read as meaning
+‘relating to the amount of compensation’ as a matter of its ordinary meaning. On the other
+hand the phrase clearly provides some limit to the jurisdiction of the Arbitral Tribunal.
+
+The use of the word ‘compensation’ limits the scope of the arbitration. It may be
+contrasted with broad phrases such as ‘any disputes’ which may be found in other BITs.
+Its impact is to restrict the jurisdiction of the tribunal to one aspect of expropriation. The
+word ‘concerning’, however, is broad. The word is not linked to any particular aspect of
+‘compensation’. ‘Concerning’ is similar to other common expressions in arbitration
+clauses, for example ‘relating to’ and ’arising out of’. Its ordinary meaning is to include
+every aspect of its subject: in this case ‘compensation due by virtue of Paragraphs (1) and
+(3) of Article3’. As a matter of ordinary meaning this covers issues of entitlement as well
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+as quantification.
+
+So far as precondition (c) is concerned, ‘due by virtue of’, this connects entitlement to
+compensation to events specified in Articles 3(1) and (3). The Tribunal is not conferred
+with any jurisdiction unless the asserted right to compensation arises out of one of the
+specified events. In other words, in determining any claim ‘concerning compensation’, the
+tribunal must necessarily consider whether the events in Articles 3(1) and (3) have
+occurred, and their precise nature.
+
+As Mr Landau noted, Article 3(1) may involve a number of considerations:
+
+i) whether there has been an ‘expropriation’;
+
+ii) whether there have been ‘other measures’;
+
+iii) whether such measures are ‘taken in accordance with a lawful procedure and are
+not discriminating’;
+
+iv) whether the measures are ‘accompanied by provisions for the payment of
+compensation’;
+
+v) whether the payment of compensation is ‘paid to the investor is convertible
+currency and without delay’; and
+
+vi) whether the amount of compensation ‘corresponds to the real value of the
+investment ...”?
+
+In addition, the reference to Article 3(3) may involve the question whether or not an
+investor holds ‘any form of participation in any company ... in the territory of the other
+Contracting State’.
+
+In my view the ordinary meaning of the words of Article 8, with its specific cross-
+reference to the terms of Article 3(1) suggests strongly that the jurisdiction is not confined
+to a single issue arising under Art 3(1) (ie item vi). The cross-reference to Article 3(3)
+reinforces the impression that the jurisdiction relates to issues or entitlement and not simply
+to issues of quantification.
+
+Such an interpretation both gives effect to all the words of Art.8, and ‘creates conditions
+favourable to the making of investments by Investors’ (see the preamble to the BIT).
+
+As the Tribunal noted, the effect of the Czech Republic’s argument is that a tribunal is
+precluded from considering or making any determination on any of the elements of Art.
+3(1) or (3), despite what may be the need for a close examination of the nature of the
+conduct in question and the circumstances when considering the question of the amount of
+compensation. This favours an interpretation in favour of determination by the tribunal and
+against parallel or duplicative proceedings.
+
+One of the issues between the parties was the extent of the limitation to the arbitration
+clause. EMV’s argument, which the Tribunal accepted, was that the effect of the limitation
+is to exclude from the jurisdiction any claim for relief other than compensation (ie. a claim
+for restitution or a declaration that a contract was still in force). The Czech Republic argued
+that it is ‘highly improbable’ that the parties intended that issues as to the recovery of
+damages should be dealt with by the arbitral tribunal, but that the question of restitution
+and of declaratory judgments should not, since Restitution as a remedy in International
+
+Law is rarely ordered against a state and has never been ordered in the context of a BIT.
+
+It is clear that, despite being rare, restitution and declaratory relief are available remedies in
+International Law. I am very doubtful as to whether the Contracting Parties intended that
+claims for compensation fell within the jurisdiction of the tribunal and claims for restitution
+and declarations fell without. However that is not determinative of the issue. As already
+noted, the task of the Court is not to search for a notional common intention; but to give a
+meaning to the words used in the context in which they came to be agreed. As Mr Landau
+submitted, this is an unusual form of words and therefore it is not surprising that the
+interpretive solution may be unusual.
+
+The Czech Republic also relies on the existence of Article 7 as showing that the
+appropriate means of resolving the Article 3 issues are either inter-state arbitration or the
+local courts. However, as the Tribunal noted, the promise of redress in local courts for the
+actions of a government which had expropriated its property does not lie easily with one of
+the objects of the BIT: the conferring of valuable rights to arbitrate. The material advanced
+by the Czech Republic as to Communist ideology on the subject of foreign ownership
+provides good reason for the suspicions of investors who might be offered local redress.
+Article 7 is a means of resolving disputes ‘relating to the interpretation or the application’
+between the Contracting Parties. As already noted BITs were intended to confer rights on
+investors which were not dependant on the interest in or support for their disputes by their
+Governments. The means of vindicating those rights was the direct right to arbitrate given
+to investors: in the present Treaty by means of Article 8.
+
+For these reasons I have concluded that the Tribunal was conferred with substantive
+jurisdiction to determine the question whether compensation should be awarded. In
+coming to this view I have not overlooked the published commentaries of Willem Van de
+Voorde and Paul Peters, both of whom concluded that Article 8 was restricted to disputes
+as to the amount of compensation. Both of these writers are entitled to the respect due to
+those who carefully study these matters. However, their conclusions necessarily were
+based on limited material and without the benefit of the extensive argument that has been
+available to me.
+
+The application is accordingly dismissed.
+

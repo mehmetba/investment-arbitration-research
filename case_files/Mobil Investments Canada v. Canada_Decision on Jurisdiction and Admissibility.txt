@@ -1,0 +1,3254 @@
+INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
+
+IN THE ARBITRATION
+UNDER CHAPTER ELEVEN OF THE NAFTA
+AND THE ICSID CONVENTION
+
+BETWEEN:
+
+MOBIL INVESTMENTS CANADA INC.
+
+Claimant
+
+GOVERNMENT OF CANADA
+Respondent
+
+(ICSID Case No. ARB/15/6)
+
+ 
+
+DECISION ON
+JURISDICTION AND ADMISSIBILITY
+
+ 
+
+Members of the Tribunal
+Sir Christopher Greenwood, GBE, CMG, QC, President
+Mr J. William Rowley, QC
+Dr Gavan Griffith, QC
+
+Secretary of the Tribunal
+Ms Lindsay Gastrell
+
+Date of dispatch to the Parties: 13 July 2018
+
+REPRESENTATION OF THE PARTIES
+
+Representing Mobil Investments Canada Inc.: Representing Canada:
+
+Mr Kevin O’Gorman Mr Mark Luz
+
+Mr Paul Neufeld Mr Adam Douglas
+
+Mr Denton Nichols Ms Heather Squires
+
+Ms Katie Connolly Ms Melissa Perrault
+
+Norton Rose Fulbright US LLP Ms Valantina Amalraj
+
+1301 McKinney Ms Michelle Hoffmann
+
+Suite 5100 Trade Law Bureau (JLT)
+
+Houston, Texas 77010 Global Affairs Canada
+
+United States of America Lester B. Pearson Building
+and 125 Sussex Drive
+
+Ottawa, Ontario KIA 0G
+Mr Tom Sikora Canada
+Exxon Mobil Corporation
+1301 Fannin Street, Corp-FB-1460
+Houston, Texas 77002
+United States of America
+
+and
+
+Ms Stacey L. O’Dea
+
+ExxonMobil Canada Ltd.
+
+Suite 1000, 100 New Gower Street
+
+St. John’s, Newfoundland and Labrador AlC6K3
+Canada
+
+Ill.
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+INTRODUCTION 1
+Parties 1
+Overview of the Pr i 1
+Procedural History 2
+
+FACTUAL BACKGROUND 11
+
+ 
+
+The Regulatory Framework for Offshore Oil Production
+
+ 
+
+ 
+
+ 
+
+The Hibernia and Terra Nova Projects 13
+(1) Hibernia 13
+(2) Terra Nova 14
+
+ 
+
+ 
+
+The Effects of the 2004 Guidelines on the Hibernia and Terra Nova Projects.
+
+ 
+
+THE MOBIL I AWARD AND ITS AFTERMATH .......cccccssssesssseseseeseseeneseeneneeees 15
+The Claims in Mobil I 15
+The Mobil I Decision and Award 16
+
+ 
+
+Developments Following the Mobil I Award
+
+ 
+
+THE CLAIMS IN THE PRESENT PROCEEDING ..........csssssssssseseeseseeseseeseneeees 20
+THE ISSUES BEFORE THE TRIBUNAL ......cccssssssssssesssseesesesesneseseeseseeneseeneneeees 21
+The Three Issues Before the Tribunal 21
+
+ 
+
+The Tribunal’s Decision to Deal Separately with the First and Second Issues
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE TEMPORAL ISSUE 24
+Canada’s Position ”
+Mobil’s Position 28
+The Hearing and Post-Hearing Briefs 29
+
+iii
+
+D. The issions of the Ne isputing Partie: 30
+
+ 
+
+ 
+
+ 
+
+ 
+
+E. The Tribunal’s Analysi: 32
+(1) The Relevant NAFTA Provisions 2
+(2) Is Compliance with the Requirements of Article 1116(2) and Article 1117(2) a Jurisdictional
+i 1? 5,
+(3) The Mobil I Pr di 5
+
+ 
+
+(4) Is Mobil’s Claim barred by Articles 1116(2) and 1117(2)?...
+
+ 
+
+VIL THE RES JUDICATA ISSUE..
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A. Canada’s Position 45
+B. Mobil’s Position n
+C. The Hearing. 48
+D. The Tribunal’s Analysi: 49
+VIII. CONCLUSIONS 57
+
+ 
+
+L INTRODUCTION
+
+A. Parties
+
+1. The Claimant is Mobil Investments Canada Inc. (“Mobil”), a company incorporated in
+Delaware, United States of America (“United States”).! Mobil is an indirect subsidiary
+of Exxon Mobil Corporation, a publicly traded energy company incorporated in New
+
+Jersey, United States.
+
+2. The Claimant brings its claims on its own behalf and on behalf of two subsidiaries: (a)
+ExxonMobil Canada Resources Company,” a corporation organized under the laws of
+Nova Scotia, Canada; and (b) ExxonMobil Canada Properties,’ a partnership organized
+
+under the laws of the Province of Alberta, Canada.
+3. The Respondent is Canada.
+
+4. The Claimant and the Respondent are collectively referred to as the “Parties.” The
+
+Parties’ representatives and their addresses are listed above on page (ii).
+
+B. Overview of the Proceedings
+
+5. This case concerns a dispute submitted to the International Centre for Settlement of
+Investment Disputes (“ICSID”) on the basis of Chapter Eleven of the North American
+Free Trade Agreement (“NAFTA”) and the Convention on the Settlement of
+Investment Disputes between States and Nationals of Other States (the “ICSID
+
+Convention’).
+
+6. The dispute arises out of the Claimant’s investment in the Hibernia and Terra Nova oil
+field development projects located off the coast of the Canadian province of
+
+Newfoundland and Labrador (together, the “Projects”). In an earlier arbitration
+
+! C-4, Delaware Certificate of Good Standing for Mobil Investments Canada Inc., 5 January 2015.
+
+2 Initially, Claimant brought its claims on behalf of its subsidiary ExxonMobil Canada Hibernia Company Ltd.,
+which directly owned a 5% participation interest in the Hibernia project at issue in this arbitration. In 2017, that
+company amalgamated with ExxonMobil Canada Resources Company. Through this amalgamation, ExxonMobil
+Canada Resources Company became the direct owner of the 5% interest in the Hibernia project. See Claimant’ s
+letter to the Tribunal of 19 June 2017.
+
+3 ExxonMobil Canada Properties directly owns a 28.125% participation interest in the Hibernia project and a 19%
+participation interest in the Terra Nova project, also at issue in this arbitration.
+
+   
+
+ 
+
+  
+
+involving the same disputing Parties (“Mobil I”),‘ the Claimant challenged Canada’s
+implementation in 2004 of the Guidelines for Research and Development Expenditures
+(the “2004 Guidelines”), which introduced mandatory research and development
+(“R&D”) expenditure requirements relating to the Projects. The majority of the tribunal
+in Mobil I held that Canada had breached the performance requirement prohibition in
+NAFTA Article 1106, and awarded the claimants a portion of the damages they sought
+for expenditures incurred under the 2004 Guidelines. In this proceeding, the Claimant
+seeks damages for expenditures it allegedly incurred in 2012-2015 as a result of
+Canada’s continued enforcement of the 2004 Guidelines. The Decision and Award in
+
+the Mobil I proceedings are summarized in Part III, below.
+
+Procedural History
+
+On 16 January 2015, Mobil filed a Request for Arbitration, including Annexes A to F
+(the “Request’”’), with ICSID.
+
+On 2 February 2015, the ICSID Secretariat wrote to the Claimant with a question about
+the Request. In response, on 6 February 2015, the Claimant submitted a letter to
+
+supplement the Request.
+
+On 18 February 2015, in accordance with Article 36(3) of the ICSID Convention, the
+Secretary-General of ICSID registered the Request as supplemented and notified the
+Parties of the registration. In the Notice of Registration, the Secretary-General invited
+the Parties to proceed to constitute an arbitral tribunal as soon as possible pursuant to
+
+Articles 37 to 40 of the ICSID Convention.
+
+By letter of 24 February 2015, the Respondent acknowledged receipt of the Request
+and the Notice of Registration, and confirmed that it would be in contact with the
+
+Claimant regarding next steps.
+
+On 24 July 2015, the Parties informed ICSID that, pursuant to NAFTA Article 1123,
+the tribunal would consist of three arbitrators, one to be appointed by each Party and
+the third, presiding arbitrator, to be appointed by agreement of the Parties. Mobil
+
+appointed Mr J. William Rowley, QC (a national of the United Kingdom and Canada)
+
+4 Mobil Investments Canada Inc. and Murphy Oil Corporation v. Canada, \CSID Case No. ARB(AF)/07/4:
+Decision on Liability and on Principles of Quantum, 22 May 2012 (“Mobil I Decision”); Award, 20 February
+2015 (“Mobil I Award”).
+
+as arbitrator, and Canada appointed Dr Gavan Griffith, QC (a national of Australia).
+
+Both arbitrators accepted their appointments.
+
+By agreement of the Parties, Sir Christopher Greenwood, QC (a national of the United
+Kingdom) was appointed President of the Tribunal, and he accepted his appointment
+on 11 September 2015. On the same day, in accordance with ICSID Arbitration Rule
+6(1), the Secretary-General notified the Parties that all three arbitrators had accepted
+their appointments and that the Tribunal was therefore deemed to have been constituted
+on that date. ICSID provided the Parties with the signed declaration and statement of
+
+each Member of the Tribunal.
+
+In consultation with the Parties, the Tribunal scheduled the first session to be held by
+teleconference on 3 November 2015. The Secretary of the Tribunal provided the Parties
+with a draft agenda for the session and a draft Procedural Order No. 1, which had been
+approved by the Tribunal. The Parties were invited to confer on procedural matters and
+to inform the Tribunal of any agreements they reached or, in the absence of agreement,
+
+their respective positions.
+
+On 20 October 2015, the Claimant informed ICSID and the Tribunal that Norton Rose
+Fulbright US LLP would replace Debevoise & Plimpton LLP as the Claimant’s
+representative in this matter. The Claimant subsequently provided the corresponding
+
+powers of attorney.
+
+On 3 November 2015, during the first session teleconference, the Tribunal heard the
+Parties’ oral argument on the confidentiality of the proceedings and procedural issues,
+including the Claimant’s request for bifurcation to allow the Tribunal to “consider and
+tule on the issue of the binding and preclusive effect of the decisions and Award” in
+Mobil I as a preliminary matter. This request was opposed by the Respondent.
+Following the session, the Tribunal provided the Parties with an updated draft
+Procedural Order No. | and a draft Confidentiality Order, reflecting the Tribunal’s
+decisions on issues addressed by the Parties during the hearing. The Tribunal invited
+any final comments from the Parties, which the Parties submitted on 11 and 12
+
+November 2015.
+
+On 24 November 2015, the Tribunal issued Procedural Order No. 1, recording the
+
+Parties’ agreements and the Tribunal’s decisions on procedural matters. Procedural
+
+20.
+
+21.
+
+Order No. 1 provided, inter alia, that the applicable Arbitration Rules were those in
+effect from 10 April 2006, that the procedural language was English, and that the place
+of proceedings was Washington, D.C. It also recorded the Tribunal’s decision not to
+bifurcate the proceedings. The corresponding Procedural Timetable for the
+
+proceedings (the “Procedural Timetable’) was included as Annex A to the Order.
+
+On the same date, the Tribunal issued Procedural Order No. 2, governing the
+confidentiality of the proceedings. This Order set out a procedure by which the Parties
+were to identify and redact confidential information contained in case documents. The
+Parties agreed that redacted versions of decisions and orders would be published, but
+Mobil objected to the publication of pleadings. Procedural Order No. 2 also provided
+that all hearings were to be open to the public through closed-circuit video link, except
+that the Tribunal would hold in camera sessions at the request of either Party to protect
+
+confidential information.
+
+In accordance with the Procedural Timetable, on 4 December 2015, Mobil served
+Canada with a request for document production. The Respondent objected to certain
+document requests, and on 10 February 2016, the Tribunal issued Procedural Order No.
+
+3, including Annex A, containing its decision on each disputed document request.
+
+On 11 March 2016, the Claimant submitted its Memorial on the Merits (the
+“Memorial”), accompanied by witness statements from eight witnesses, 352 factual
+
+exhibits and 68 legal authorities.
+
+On 29 March 2016, Canada served Mobil with a request for document production. On
+12 April 2016, the Claimant objected to certain document requests. After considering
+the Parties’ submissions set out in the form of a Redfern Schedule, on 18 May 2016,
+the Tribunal issued Procedural Order No. 4, including Annex A, containing its decision
+on each disputed document request, together with its decision on a dispute regarding
+
+confidentiality and the redaction of documents.
+
+On 30 June 2016, the Respondent submitted its Counter-Memorial on the Merits (the
+“Counter-Memorial’), together with an expert report, 238 factual exhibits and 45 legal
+
+authorities.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+In accordance with the Procedural Timetable, on 15 July 2016, Mobil served Canada
+with a request for document production. On 1 August 2016, the Respondent objected
+to certain document requests and, after considering the Parties’ submissions set out in
+the form of a Redfern Schedule and the agreement of the Parties on a number of
+requests, on 19 August 2016 the Tribunal issued Procedural Order No. 5, including
+
+Annex A, containing its decision on each disputed document request.
+
+On 23 September 2016, the Claimant filed its Reply on the Merits (the “Reply”),
+together with five witness statements, an expert report, a further 43 factual exhibits and
+
+a further 23 legal authorities.
+
+On 2 September 2016, the Parties informed the Tribunal that they had been unable to
+agree on a number of Mobil’s proposed confidential designations to the Counter-
+Memorial, and requested a decision from the Tribunal on the disputed designations.
+Together with this request, the Parties provided the Tribunal with a schedule of each
+disputed designation and each Party’s position thereon. After considering the Parties’
+positions, on 4 October 2016, the Tribunal issued Procedural Order No. 6, including
+
+Annex A, containing its decision on each disputed designation.
+
+By letter of 7 October 2016, Canada applied for leave to submit an additional request
+for document production based on the content of the Reply. Together with its
+application, Canada submitted a Redfern Schedule containing the proposed document
+requests. After hearing from Mobil on 12 October 2017, the Tribunal granted the
+Respondent leave to proceed with the document request and fixed a schedule to address
+
+the request.
+
+In accordance with that schedule, Mobil provided its objections on 2 November 2016,
+and the Respondent provided its responses to those objections on 8 November 2016.
+By the agreement of the Parties, certain requests were withdrawn on 16 November
+2016. On 17 November 2016, the Tribunal issued Procedural Order No. 7, including
+
+Annex A, containing its decision on the four outstanding document requests.
+
+On 16 December 2016, the Respondent filed its Rejoinder on the Merits (the
+“Rejoinder’), together with a witness statement, a second report from its expert, a
+
+further 58 factual exhibits and a further 59 legal authorities.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+On 22 December 2016, the ICSID Secretariat notified the United Mexican States
+(“Mexico”) and the United States of the deadline for written submissions by the non-
+disputing NAFTA Parties pursuant to NAFTA Article 1128. On the same day, an
+announcement was posted on the ICSID website to inform the public of the deadline
+and instructions for submitting an application for leave to file a non-disputing party
+
+(amicus) submission.
+
+On 13 January 2017, the United States informed the Tribunal that it did not intend to
+make a submission pursuant to NAFTA Article 1128 at that stage of the proceeding,
+but reserved the right to do so during the hearing. On the same date, Mexico similarly
+informed the Tribunal that it did not intend to make a submission under NAFTA Article
+1128 at that stage of the proceeding, but reserved the right to present a future
+submission on any issue of interpretation that might arise at the hearing or during the
+
+post-hearing submissions of the Parties.
+
+The Tribunal did not receive any applications for leave to file a non-disputing party
+
+(amicus) submission.
+
+In preparation for the oral hearing on jurisdiction, merits and quantum, the Tribunal
+scheduled a pre-hearing teleconference to be held on 20 June 2017. On 6 June 2017,
+the Parties informed the Tribunal that they had exchanged the names of the witnesses
+whom each Party intended to call for cross-examination, and that they would be
+prepared to discuss additional procedural and scheduling matters during the pre-hearing
+
+teleconference.
+
+On 15 June 2017, the Tribunal provided the Parties with a draft Procedural Order No.
+8 addressing the organization of the hearing. The Parties were invited to confer and to
+inform the Tribunal of any agreements they reached or, in the absence of agreement,
+
+their respective positions on the items in the draft.
+
+Also on 15 June 2017, the President of the Tribunal wrote to the Respondent in
+reference to footnote 62 of the Rejoinder, concerning the Claimant’s expert witness,
+Professor Dan Sarooshi. In that footnote Canada stated that it “must register [its]
+objection to the inappropriate selection of Professor Sarooshi by the Claimant, whose
+close ties to members of this Tribunal could raise a perception of bias and unnecessarily
+
+taint the arbitration proceedings”. The President took note of the objection and also
+
+34.
+
+35.
+
+36.
+
+37.
+
+invited the Respondent to set out for the record, during the pre-hearing conference call,
+whether or not it intended to make any application with regard to the membership of
+the Tribunal or the participation of Professor Sarooshi. The President also confirmed
+that neither he nor Dr Griffith had any connection with Professor Sarooshi regarding
+the present proceedings and that they would approach the case in an entirely
+independent and impartial fashion. No suggestion had been made of any ties between
+
+Mr Rowley and Professor Sarooshi.
+
+Later on 15 June 2017, Mobil informed the Tribunal of an unrelated disagreement that
+had arisen between the Parties relating to the testimony of Professor Sarooshi. Mobil
+sought to call Professor Sarooshi for direct examination, and Canada objected because
+it had opted not to call him for cross-examination. Upon the invitation of the Tribunal,
+
+Canada provided its comments on the issue by letter of 20 June 2017.
+
+On 19 June 2017, the Parties submitted their comments on the draft Procedural Order
+No. 8. This draft reflected inter alia the Parties’ agreement that the public would be
+permitted to attend the hearing through closed-circuit video link, but that this link would
+
+be closed for all witness and expert examination.
+
+As scheduled, on 20 June 2017, the President of the Tribunal held a pre-hearing
+teleconference with the Parties to discuss the organization of the hearing, including the
+issue of Professor Sarooshi’s participation in the proceeding and his appearance at the
+hearing. Canada confirmed for the record that it did not intend to challenge either of
+the Members of the Tribunal referred to in connection with Professor Sarooshi’s expert
+report, or to object to Professor Sarooshi’s expert report being admitted into the record
+
+(see para. 33, above).
+
+On the following day, the Tribunal issued Procedural Order No. 8 concerning the
+organization of the hearing. This order set out the daily hearing schedule, rules for oral
+argument and witness examination, the Parties’ agreement on public access, and
+directions to the Parties regarding the hearing materials to be provided to the Tribunal.
+With respect to the Parties’ disagreement over Professor Sarooshi’s appearance at the
+hearing, the Tribunal decided that Professor Sarooshi should not be called to testify
+because, under paragraph 18 of Procedural Order No. 1, the scope of direct examination
+
+was limited to addressing “new facts or other evidence that have only come to light
+
+38.
+
+39.
+
+40.
+
+Al.
+
+42.
+
+since the report was submitted,” and no such new facts or evidence were present. The
+Tribunal confirmed that it would take full account of Professor Sarooshi’s report as part
+
+of the legal case advanced by Mobil.
+
+Pursuant to Procedural Order No. 8, any request to file new documents and evidence
+was to be submitted by 12 July 2017. On that date, Canada requested leave to introduce
+three new legal authorities, and Mobil requested leave to introduce three new fact
+
+exhibits and four new legal authorities.
+
+A disagreement arose between the Parties with respect to the four legal authorities
+proposed by Mobil; the Respondent objected because those authorities predated the
+Respondent’s Reply. By letter of 18 July 2017, the Tribunal informed the Parties that
+all the new exhibits and authorities would be admitted into the record, including the
+authorities that predated the Reply. The Tribunal stated that each Party would have the
+opportunity to respond to the authorities introduced by the other Party, including by
+
+submitting any responsive authorities of its own, by 21 July 2017.
+
+In the meantime, each Party submitted its list of participants for the upcoming hearing.
+In doing so, Mobil included Mr Paul Phelan under the category of party representative.
+By letter of 13 July 2017, Canada objected to this designation on the basis that it would
+evade the rule on witness sequestration contained in Procedural Order No. 8. The
+Tribunal then received further comments from both Parties on Canada’s objection, and
+in particular on the question of whether Mr Phelan should be permitted to attend the
+opening statements. On 18 July 2017, the Tribunal informed the Parties that Mr Phelan,
+as the Claimant’s principal representative, could be present in the hearing room during
+
+opening statements.
+
+Pursuant to the Tribunal’s instructions of 18 July 2017, the Respondent submitted one
+
+responsive legal authority as RL-104 on 21 July 2017.
+
+The Tribunal held the hearing on jurisdiction, merits and quantum from 24 July to 28
+July 2017 at the World Bank Headquarters in Washington D.C. (the “Hearing”). The
+
+following individuals were present at the Hearing:
+
+Tribunal
+
+Sir Christopher Greenwood, QC, President
+
+Dr Gavan Griffith, QC, Arbitrator
+Mr J. William Rowley QC, Arbitrator
+
+ICSID Secretariat
+
+Ms Lindsay Gastrell, Secretary of the Tribunal
+Mr Alex Kaplan, Legal Counsel
+
+Ms Phoebe Ngan, Paralegal
+
+Claimant
+
+Counsel:
+
+Mr Kevin O’Gorman, Norton Rose Fulbright US LLP
+Mr Paul Neufeld, Norton Rose Fulbright US LLP
+Mr Denton Nichols, Norton Rose Fulbright US LLP
+Mr Rafic Bittar, Norton Rose Fulbright US LLP
+
+Ms Katie Connolly, Norton Rose Fulbright US LLP
+Ms Lawri Lynch, Norton Rose Fulbright US LLP
+Ms Alice Brown, Exxon Mobil Corporation
+
+Mr Tom Sikora, Exxon Mobil Corporation
+
+Ms Stacey O’Dea, ExxonMobil Canada Ltd.
+
+Parties:
+
+Mr Paul Phelan, ExxonMobil Canada Ltd., seconded to Syncrude Canada Limited
+
+Witnesses / Experts:
+Mr Ryan Noseworthy , Exxon Mobil Corporation
+Mr Krishnaswamy Sampath, Retired
+
+Mr Robert Dunphy, ExxonMobil Canada Ltd., seconded to Hibernia Management and
+Development Company Ltd.
+
+Mr Paul Durdle, ExxonMobil Canada Energy, seconded to Newfoundland
+Transshipment Limited
+
+Respondent
+
+Counsel:
+
+Mr Mark A. Luz, Senior Counsel, Trade Law Bureau, Government of Canada
+Mr Adam Douglas, Counsel, Trade Law Bureau, Government of Canada
+
+Ms Heather Squires, Counsel, Trade Law Bureau, Government of Canada
+
+Ms Michelle Hoffmann, Counsel, Trade Law Bureau, Government of Canada
+Ms Valantina Amalraj, Counsel, Trade Law Bureau, Government of Canada
+
+Ms Melissa Perrault, Senior Paralegal, Trade Law Bureau, Government of Canada
+
+43.
+
+44.
+
+Ms Darian Parsons, Paralegal, Trade Law Bureau, Government of Canada
+
+Parties/Other Attendees:
+Ms Julie Boisvert, Global Affairs Canada, Government of Canada
+Ms Lisa Mullins, Department of Natural Resources, Government of Canada
+
+Ms Meaghan McConnell, Department of Justice & Public Safety, Government of
+Newfoundland & Labrador
+
+Mr Gerard Collins, Department of Natural Resources, Government of Newfoundland
+& Labrador
+
+Mr Chris Reynolds, Core Legal (trial graphics/technical expert)
+Mr Raymond Froklage, Global Affairs Canada, Government of Canada
+
+Witnesses / Experts:
+
+Mr Jeff O’ Keefe, Canada-Newfoundland & Labrador Offshore Petroleum Board
+Mr Richard (Rory) E. Walck, Global Financial Analytics
+
+Ms Carolyn Witthoft, Global Financial Analytics
+
+Non-Disputing NAFTA Party Representatives
+
+Mr Aristeo Lopez Sanchez, Office of the Ministry of Economy of the United Mexican
+States in Washington D.C.
+
+Ms Nicole C. Thornton, U.S. Department of State
+Mr J. Benton Heath, U.S. Department of State
+
+Court Reporter
+Mr David Kasdan, B&B Reporters
+
+In its written pleadings and on the first day of the hearings, Canada advanced two legal
+arguments. First, Canada argued that the Tribunal lacked jurisdiction on the ground
+that Mobil had commenced the present proceedings more than three years after Mobil
+had first become aware of the alleged breach of NAFTA with the result that the
+proceedings were barred by the provisions of NAFTA Articles 1116(2) and 1117(2)
+(see paras. 96-108, below). Secondly, Canada maintained that Mobil’s claim for
+compensation had been advanced before, and rejected by, the Mobil I Tribunal, so that
+
+the claim was barred by the principle of res judicata (see paras. 174-178, below).
+
+On the second day of the hearings, the Tribunal informed the Parties that it would first
+determine these two preliminary matters. If it accepted either of them, it would do so
+
+in the form of an award which would put an end to the proceedings. If, however, Mobil
+
+4S.
+
+46.
+
+47.
+
+Il.
+
+48.
+
+49.
+
+were to prevail on both preliminary issues, the Tribunal would issue a decision to that
+
+effect and then request a post-hearing briefing on damages from the Parties.
+
+The Tribunal invited both Parties to submit short post-hearing briefs regarding the two
+issues. The Parties submitted their post-hearing briefs on 11 August 2017 and replies
+on 8 September 2017. On 26 September 2017, the United States informed the Secretary
+that it was considering making a non-Party submission under Article 1128 of NAFTA.
+Having obtained the views of the Parties, the Tribunal informed the United States that
+it might make an Article 1128 submission by 24 October 2017 dealing with the
+interpretation of Articles 1116(2) and 1117(2) of NAFTA. The United States filed its
+submission on 24 October 2017. On 25 October 2017, Mexico indicated that it wished
+to file a submission on the same issue and was given until 7 November 2017 to do so.
+
+Mexico filed its submission on 7 November 2017.
+
+The Tribunal gave the Parties an opportunity to file observations on the submissions of
+Mexico and the United States. The Parties’ observations on those submissions were
+
+filed on 14 December 2017.
+
+In its Response to the Article 1128 Submissions, Mobil informed the Tribunal that the
+Parties had agreed that they should receive one month’s notice of the date of dispatch
+of the decision or award. Accordingly, the Secretary informed them, on 13 June 2018,
+
+that they would receive the Tribunal’s ruling on the two legal issues on 13 July 2018.
+
+FACTUAL BACKGROUND
+
+Since the present decision is concerned only with the two legal issues raised by Canada,
+the Tribunal makes no findings of fact at this stage. Nevertheless, some account of the
+factual background is necessary for a proper understanding of the way in which these
+two issues arise. Accordingly, and without prejudice to the findings which it will need
+to make in its final Award, the Tribunal sets out a brief summary of the factual
+background which is largely based upon the more detailed account in paras. 34-75 of
+
+the Mobil I Decision.
+
+The Regulatory Framework for Offshore Oil Production
+
+The exploitation of offshore petroleum resources in the waters off the coast of
+
+Newfoundland is based upon an agreement between the Government of Canada and the
+
+50.
+
+51.
+
+52.
+
+Government of the Province of Newfoundland known as the Atlantic Accord. Pursuant
+to that Accord, parallel federal and provincial legislation was adopted to regulate the
+conduct of petroleum development projects in the relevant area.> The Accord Acts, as
+the two pieces of legislation are known, established the Canada-Newfoundland and
+Labrador Offshore Petroleum Board (the “CNLOPB” or the “Board”), whose mandate
+was to “interpret and apply the provisions of the Atlantic Accord and the [Accord Acts]
+to all activities of operators in the Newfoundland and Labrador Offshore Area; and to
+
+oversee operator compliance with those statutory provisions”.°
+
+In order to develop a field in the relevant area, an operator was required to submit to
+the Board a development plan, which had to include a “benefits plan” describing how
+Canadians, and in particular, members of the labour force of the Province, would have
+a full and fair opportunity to participate on a competitive basis in the supply of goods
+and services. Under the Accord Acts, an operator was required to obtain from the Board
+a valid Operations Authorization in order to extract oil. Such authorizations normally
+covered a period of three to five years, after which a new authorization had to be
+
+obtained.
+
+In 1986 the Board issued a set of Guidelines (the “1986 Guidelines”) regarding the
+requirements for an operator to report on research and development expenditure and
+the extent to which this was to be spent on activities within the Province. The
+
+Guidelines were revised in 1987 (the “1987 Guidelines”).
+When NAFTA was adopted in 1984, Article 1106(1)(c) provided that:
+
+No party may impose or enforce any of the following requirements,
+or enforce any commitment or undertaking, in connection with the
+establishment, acquisition, expansion, management, conduct or
+operation of an investment of a Party or of a non-party in its
+territory:
+
+> The federal legislation is the Canada-Newfoundland Atlantic Accord Implementation Act 1987, c. 3 (the
+“Federal Accord Act”), while the Newfoundland legislation is the Canada-Newfoundland and Labrador Atlantic
+Accord Implementation Newfoundland and Labrador Act, R.S.N.L. 1990, c. 2 (the “Provincial Accord Act”).
+
+© C-36, CNLOPB, About CNLOPB: Mandate and Objectives.
+
+12
+
+53.
+
+54.
+
+55.
+
+56.
+
+(c) to purchase, use or accord a preference to goods produced or
+services provided in its territory, or to purchase goods or services
+from persons in its territory.
+
+However, under NAFTA Article 1108, a NAFTA Contracting Party was entitled to
+enter a reservation regarding non-conforming measures which it specifically identified.
+Article 1108(1) provided that certain provisions of NAFTA, including Article 1106,
+
+were not to apply to:
+
+(a) any existing non-conforming measure that is maintained by
+
+a Party at the Federal level, as set out in its Schedule to Annex
+Tor Ill;
+
+a state or province, for two years after the date of entry into
+force of this agreement, and thereafter as set out by a Party in
+its Schedule to Annex I in accordance with paragraph 2 ...
+
+(c) an amendment to any non-conforming measure referred to in
+sub-paragraph (a) to the extent that the amendment does not
+decrease the conformity of the measure, as it existed immediately
+before the amendment, with Articles 1102, 1103, 1106 and 1107.
+
+Canada entered a reservation under Article 1108 in respect of the benefits plans
+required by the Federal Accord Act and the consequent requirements regarding research
+
+and development and education and training expenditure in the Province.
+
+In 2004 the Board adopted new Guidelines (the “2004 Guidelines”). The 2004
+Guidelines, which were effective from 1 April 2004, required that a percentage of the
+revenue derived from oil produced in the offshore area adjacent to the coast of
+Newfoundland and Labrador was henceforth to be spent on research and development
+
+activities and education and training in the province.
+
+The Hibernia and Terra Nova Projects
+
+() Hibernia
+
+The Hibernia oilfield was the first oil project in the relevant area. It was constructed
+between 1990 and 1997 and began production in November 1997. The project is owned
+
+by a consortium and, at all relevant times, operated by Hibernia Management and
+
+Development Company (“HMDC”), a Canadian company owned by the members of
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+the consortium. HMDC operates as an agent of the consortium members who
+contribute to its expenses in proportion to their shares in the consortium. Mobil controls
+
+the largest share (33.125%) of the consortium.
+
+The Hibernia project participants submitted a development plan, including benefits
+plans, to the Board in 1986, in accordance with the Accord Acts and the 1986
+Guidelines. The benefits plans contained a commitment that research and development
+activity would be conducted as needed and that local providers would be given priority
+consideration. The plans were approved by Board Decision 86.01 in June 1986.
+
+Operating authorizations for Hibernia were issued in 1997 and 2000.
+The Hibernia oilfield is predicted to be operational until 2040.
+
+(2 Terra Nova
+
+The Terra Nova project was constructed between 1999 and 2001 and production
+commenced in January 2002. The project is organized as an unincorporated joint
+venture. Operation is carried out by Suncor, which owns the largest share, on behalf of
+
+all of the members of the venture. ExxonMobil indirectly owns a 19% interest.
+
+Suncor’s predecessor, Petro-Canada, submitted the development plan and benefits plan
+for Terra Nova in August 1996 in accordance with the Accord Acts and the 1987
+
+Guidelines. The plans were approved by Board Decision 97.02.
+The Terra Nova oilfield is predicted to be operational until 2026.
+
+The Effects of the 2004 Guidelines on the Hibernia and Terra Nova Projects
+
+According to the claimants in Mobil I (see para. 64, below), the 2004 Guidelines
+brought about a substantial change in the requirements which they, and the other
+participants in the Hibernia and Terra Nova Projects, had to observe. In particular,
+following the adoption of the 2004 Guidelines, the Board required the expenditure in
+the Province of specified sums of money with regard to research and development and
+education and training, irrespective of whether such expenditure was commercially
+necessary in respect of either project. Moreover, for individual items of expenditure to
+count towards this requirement, project operators were required to obtain approval for
+
+those items from the Board. While the 2004 Guidelines were not themselves legally
+
+63.
+
+64.
+
+Ill.
+
+65.
+
+66.
+
+67.
+
+binding, the claimants maintained that failure to comply would have resulted in the
+Board refusing to renew the operating authorizations without which production could
+
+not have continued.
+
+The claimants maintained that the result was that they were required to bear a share of
+expenditures (proportionate to their stake in each oil field) for which there was no
+
+commercial necessity.
+
+The 2004 Guidelines were challenged before the courts of Newfoundland and Labrador
+but those challenges were rejected in September 2008.’ The Supreme Court of Canada
+dismissed an application for leave to appeal on 19 February 2009.* Thereafter, the 2004
+Guidelines, enforcement of which had been suspended pending the outcome of the
+
+litigation, were enforced by the Board.
+THE MOBIL I AWARD AND ITS AFTERMATH
+
+The Claims in Mobil I
+
+On 2 November 2007, Mobil and Murphy Oil Corporation filed a request for arbitration
+under the ICSID Additional Facility alleging that the enforcement of the 2004
+Guidelines with respect to Hibernia and Terra Nova constituted a breach of NAFTA
+Article 1106(1) by Canada. Since Murphy Oil Corporation is not involved in the
+
+present proceedings, references will be to Mobil alone.
+
+Mobil claimed that the 2004 Guidelines introduced a material change into the
+regulatory regime for offshore oil projects and thus fell outside the Canadian
+reservation under Article 1108 (see para. 53, above). Moreover, according to Mobil,
+the 2004 Guidelines imposed requirements for local expenditure which were more
+onerous and consequently, in the words of NAFTA Article 1108(1)(c) (see para. 52,
+above) “did not decrease the conformity” of the regime in respect of which Canada had
+
+made that reservation.
+
+Mobil claimed damages for the cost of its share of the increased expenses undertaken
+
+in respect of Hibernia and Terra Nova in order to comply with the 2004 Guidelines.
+
+7 €-153, Hibernia and Petro-Canada v. CNLOPB, Supreme Court of Newfoundland and Labrador Court of
+Appeal, 2008 NLCA 46.
+8-154, Judgment No. 32866 of the Supreme Court of Canada.
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+ 
+
+The claim was for damages already incurred in the period in respect of which the 2004
+
+Guidelines had been enforced and for future damages.
+
+Canada maintained that the 2004 Guidelines were a refinement of the regime already
+in place at the time NAFTA entered into force and were therefore covered by Canada’s
+
+reservation under Article 1108(1). Canada denied that Mobil had suffered any loss.
+
+The Mobil I Decision and Award
+
+In its Decision on Liability and on principles of Quantum of 22 May 2012, the Mobil I
+Tribunal held, unanimously, that the 2004 Guidelines fell within the scope of Article
+1106(1) of NAFTA,” and, by a majority (Professor Philippe Sands QC dissenting) that
+the 2004 Guidelines were not covered by Canada’s reservation under Article 1108(1)
+and were therefore a violation of Article 1106(1).!° While Canada makes plain that it
+disagrees with the majority’ s decision,'' it quite rightly concludes that the matter is res
+judicata and does not seek to reopen the question of the compatibility of the 2004
+
+Guidelines with Article 1106(1) in the present proceedings. '*
+
+It is the Mobil I Tribunal’ s decision regarding damages that is the principal focus of the
+present proceedings and which is directly relevant to the issues before the Tribunal in
+the current phase of those proceedings. Accordingly, a more detailed summary of that
+
+part of the Decision and the subsequent Award is required.
+
+The Mobil I Tribunal held, in its 2012 Decision, that it had jurisdiction to consider
+damages pursuant to Article 1116(1) of NAFTA." It went on to hold that the claimants
+were “entitled to recover damages incurred as a result of the Respondent’s breach
+provided that the Claimants submit evidence of any such damages no later than 60 days
+
+of receipt of this Decision and that the Tribunal finds such evidence persuasive”. '*
+
+This decision regarding entitlement to damages has to be read in light of the reasoning
+in paras. 414-489 of the 2012 Decision. The majority of the Mobil I Tribunal there
+
+distinguished between past and future damages. They held that Mobil was entitled to
+
+n, para. 490 (2) (dispositif) and paras. 210-246 (reasoning).
+
+'© Mobil I Decision, para. 490 (3) (dispositif) and paras. 247-413 (reasoning).
+" Canada Counter-Memorial, paras. 110-135.
+2 Transcript, 24 July 2017, pp. 185-186
+
+'3 Mobil I Decision,
+
+a. 490(4).
+
+ 
+
+'4 Mobil I Decision, para. 490(5).
+
+be compensated only when there was sufficient evidence that a call for payment had
+actually been made or that damages have otherwise occurred, “i.e. that they are
+‘actual’”.!5 The majority accepted that it was not necessary to prove the quantum of
+damages with absolute certainty and held that they would apply a standard of
+“reasonable certainty”.'° That reasoning plainly could apply only in respect of past
+
+damages.
+
+73. With regard to damages for future losses, the position is more complicated. The
+majority of the Mobil J Tribunal held that “for jurisdictional purposes, [NAFTA] Article
+1116(1) requires inter alia that the investor must have incurred ‘loss or damage by
+reason of, or arising out of, that breach’ of Chapter XI”.'7 It went on, however, to hold
+
+that
+
+There is nothing in the language of Article 1116(1) that convinces
+us that the provision is directed only to damages that occurred in the
+past and does not extend, in principle, to damages that are the result
+of a breach which began in the past (the adoption of the 2004
+Guidelines) and continues (the implementation of the 2004
+Guidelines) resulting in the incurring of losses which crystallise (i.e.
+become quantifiable) and must be paid sometime in the future
+(hereafter “future damages”). We consider by extension that the
+same reasoning applies to damages in the past which are already
+identified or quantified, but must be paid in the future.'*
+
+74. The majority then made an important observation about the scope of this part of its
+
+decision, in paragraph 427:
+
+In the present case, the introduction of the 2004 Guidelines triggered
+an obligation to make expenditures that would continue over the life
+of the projects. It amounts to a continuing breach resulting in
+ongoing damage to the Claimants’ interests in the investment. Thus,
+Article 1116(1) does not, in our view, as a jurisdictional matter,
+preclude the Tribunal from deciding on appropriate compensation
+for future damages. However, this conclusion only determines
+whether a claim for damages is admissible. It does not determine
+how compensation for future damage is to be assessed or whether it
+is appropriate for this Tribunal to consider damages or make an
+
+'8 Mobil I Decision, para.
+
+'6 Mobil I Decision,
+"7 Mobil I Decision,
+'8 Mobil I Decision, para. 427.
+
+ 
+
+award of compensation with regard to the future damages claimed
+in this particular case. Those matters remain to be addressed. '?
+
+75. The Tribunal turned to those matters in paras. 473-478 from which it is necessary to
+
+quote at some length:
+
+473. Turning to future damages, under the facts before us, we are
+not yet able to properly assess the Claimants’ claim for future
+damages; too many critical questions remain open. Although the
+Majority recognizes that the Claimants are likely to incur a legal
+liability that would give rise to potentially compensable losses, the
+claim for such losses is not yet ripe for determination.
+
+474. As detailed above, we were presented with evidence relating
+to at least two types of variables on which the Claimants base their
+assumptions for their incremental expenditure analysis. One group
+of variables consists of objective, market-based factors, and the
+second consists of the results of the Board’s regulatory decisions.
+The critical market-based variables, oil production forecasts for each
+of Hibernia and Terra Nova as well as future oil prices and exchange
+rates (inter alia), routinely experience considerable fluctuations.
+The contents of the second group of variables are derived from
+regulatory outcomes and require an estimation of the deductible
+R&D expenditures which have not yet been made or even identified
+from 2010 onwards. Ultimately, after undertaking a critical
+examination of these variables, the Majority considers that there is
+insufficient certainty and too many questions still remain
+unanswered to allow it to assess with sufficient certainty the
+amounts of damages incurred under the 2004 Guidelines for the
+2010-2036 period. The Tribunal has applied the reasonable
+certainty standard discussed above, which has not led to a
+conclusion per se, but rather to a finding that there is too much
+uncertainty at this stage for the tribunal to make a determination.
+
+477. As we have noted, in considering and distinguishing the
+practice of other tribunals, the fact that the damages in this case will
+eventually be “actual” (thereby removing the necessity to forecast
+losses which has been present in other cases) is a decisive
+distinguishing factor. However, it is also worth noting some of the
+differing circumstances under which other cases concerning future
+damages have been determined. The number of variables that have
+to be taken into account in determining the incremental expenditure
+requirements are much greater in this dispute than was the case of
+the relevant markets in Cargill and S.D. Myers. ... While some
+variables in the current case may be more amenable to assessment
+
+'9 Mobil I Decision, para. 429.
+
+than others (e.g. production level estimates for developed
+production sites in the near term may be more likely to be accurate
+than those that focus on longer term production forecasts), looking
+at the totality of relevant and necessary variables that would
+comprise the calculation of damages, we are simply unable to have
+confidence that the estimation of the entire picture is one that meets
+a test of “reasonable certainty”. The evaluation of future damages
+for such a long period is extremely hazardous and it does not, on
+balance, seem to us that the estimates are more probable than not.
+
+478. With regard to the 2010-2036 period, we have discussed how
+estimated future losses caused by “one off” breaches are
+compensable. However, this principle does not apply here because
+in the present case the breach (i.e. the application and enforcement
+of the 2004 Guidelines) gives rise to continuing losses which are
+typically not known until well after the relevant year has passed.
+Although ultimately it is not strictly relevant given that we are not
+inclined to compensate for expenditures not paid or levied (i.e.
+required to be paid), we have also highlighted the uncertainty of the
+evidence pertaining to the amount of incremental expenditures in
+this largely future period. In our view, there is no basis at present to
+grant compensation for uncertain future damages. Given that the
+implementation of the 2004 Guidelines is a continuing breach, the
+Claimants can claim compensation in new NAFTA arbitration
+proceedings for losses which have accrued but are not actual in the
+current proceedings.
+
+76. In the 2015 Award, the Mobil I Tribunal went on to award damages which it held to be
+“actual” in respect of both Hibernia and Terra Nova. It held that damages had become
+actual with regard to Terra Nova up to | January 2012 and with regard to Hibernia up
+
+to 1 May 2012. Mobil was awarded damages totalling 13,893,013 Canadian dollars,
+
+plus pre-award interest.?°
+
+Cc. Developments Following the Mobil I Award
+
+77. Canada challenged the Mobil I Award before the courts of Ontario on the ground that
+the Mobil I Tribunal had exceeded its jurisdiction. That challenge was pending at the
+time that the present Tribunal was constituted. On 16 February 2016, the Ontario
+
+Superior Court of Justice dismissed Canada’s application to set aside the Award.”!
+
+20 Mobil I Award, para. 178.
+2! ©-173, Attorney-General of Canada v. Mobil Investments Canada Inc. and Murphy Oil Corporation, CV-15-
+11079-00CL (Conway J.).
+
+78.
+
+79.
+
+80.
+
+Iv.
+
+81.
+
+82.
+
+On 5 July 2012, i.e. some six weeks after the Mobil I Decision, Mobil wrote to the
+Board. After drawing attention to the Decision, the letter requested that the Board
+waive Mobil’s portion of Hibernia and Terra Nova’s outstanding shortfall under the
+
+2004 Guidelines. The letter continued:
+
+We also seek the Board’s assurance that the Guidelines will not be
+applied to ExxonMobil Canada Properties, ExxonMobil Canada
+Ltd. and ExxonMobil Canada Hibernia Company Ltd. for 2012 or
+any future period. We appreciate your assistance in providing the
+requested clarification.”
+
+The Board replied on 9 July 2012 in the following terms:
+
+In response to your correspondence of July 5, 2012, the validity of
+the Board’s guidelines has been affirmed by the Courts and we will
+continue to verify an Operator’s obligation to ensure that research
+and development and education and training projects, initiatives and
+expenditures are aligned with the eligibility criteria and benchmarks
+established by these guidelines.
+
+There is no intention to “waive” in whole or in part any of the
+Operator’s obligations respecting research and development or
+education and training for any of the projects that fall under the
+Board’s jurisdiction.”
+
+Mobil commenced the present proceedings by submitting its Request for Arbitration on
+
+16 January 2015.
+
+THE CLAIMS IN THE PRESENT PROCEEDINGS
+
+The Mobil I Tribunal having awarded Mobil damages in respect of the Terra Nova
+Project up to 1 January 2012 and in respect of Hibernia up to 1 May 2012, in the present
+proceedings, Mobil seeks damages caused by the continued application of the 2004
+
+Guidelines from those dates until the end of 2015.
+
+Unlike the position in Mobil I, therefore, the present case is concerned solely with a
+claim for damages which it is said have already become “actual”; there is no claim in
+
+respect of future losses.
+
+® C-174, Letter from Mr Paul Sacuta, Operations Manager, ExxonMobil Canada Ltd to Mr Jeffrey Budgen,
+Manager, Industrial Benefits, Policy and Regulatory Coordination CNLOPB.
+3 C-176, Letter from Mr Jeffrey Budgen to Mr Paul Sacuta.
+
+20
+
+83.
+
+84.
+
+85.
+
+86.
+
+87.
+
+In its Memorial, Mobil describes the present proceedings in the following terms:
+
+This arbitration, therefore, is effectively a second quantum phase of
+a prior arbitration, required because of Canada’s ongoing breach of
+the NAFTA, as well as the manner in which the earlier Tribunal
+approached the question of the losses suffered by Mobil. The
+question of liability can and should be resolved summarily by this
+tribunal by reliance upon the awards issued by the competent first
+tribunal.”
+
+Mobil initially claimed 20,845,708 Canadian dollars as compensation, together with
+54,209 Canadian dollars as the cost of letters of credit which it alleges it was obliged
+
+25 That claim was later
+
+to place or maintain during the period to which its claims relate.
+reduced, and in its Rejoinder, Mobil claims 19,883,897 Canadian dollars, together with
+
+pre-award and post-award interest and costs.”°
+
+In addition to contesting the jurisdiction of the Tribunal and the admissibility of the
+claim, Canada contests the damages claimed by Mobil. It is, however, unnecessary to
+enter into the differences between the Parties on the issues of quantum at this stage of
+
+the proceedings.
+THE ISSUES BEFORE THE TRIBUNAL
+
+The Three Issues Before the Tribunal
+Canada challenges the jurisdiction of the Tribunal, or the admissibility of the claim, on
+
+two grounds.
+
+First, Canada maintains that Mobil’s claim fails to comply with the provisions of Article
+1116 of NAFTA. Article 1116, which forms part of Section B of Chapter 11 of
+NAFTA, provides as follows:
+
+Article 1116: Claim by an Investor of a Party on its Own Behalf
+
+1. An investor of a Party may submit to arbitration under this
+Section a claim that another Party has breached an obligation under:
+
+(a) Section A [of Chapter 11] ...
+
+24 Memorial, para. 1.
+25 Memorial, para. 322.
+26 Rejoinder, para. 177.
+
+21
+
+88.
+
+89.
+
+90.
+
+91.
+
+and that the investor has incurred loss or damage by reason of, or
+arising out of, that breach.
+
+2. An investor may not make a claim if more than three years
+have elapsed from the date on which the investor first acquired, or
+should have first acquired, knowledge of the alleged breach and
+knowledge that the investor has incurred loss or damage.
+
+According to Canada, the breach in respect of which Mobil claims is the adoption of
+the 2004 Guidelines, something of which Mobil became aware in 2004. Canada
+therefore contends that the time limit set by Article 1116(2) expired in 2007, so that
+Mobil’s present claim is time barred. To the extent that Mobil claims not on its own
+behalf but on behalf of companies which it owns or controls (see para. 2, above), and
+thus relies upon Article 1117 of NAFTA, Canada maintains that the claim is similarly
+time barred, because of Article 1117(2), the provisions of which are substantially
+
+identical to those of Article 1116(2).
+
+Secondly, Canada contends that Mobil’s claim is barred by the doctrine of res judicata.
+According to Canada, Mobil has already advanced, in the Mobil I proceedings, a claim
+for damages allegedly caused by the 2004 Guidelines in the period covered by its
+present claim. Canada maintains that the Mobil J Tribunal considered and rejected that
+claim and that its decision is binding upon Mobil. In Canada’s submission, the doctrine
+of res judicata thus precludes Mobil from renewing the same claim in the present
+
+proceedings.
+
+Mobil, as will be seen, rejects both of these arguments. It accepts, however, that if
+Canada succeeds on either of them, then the proceedings are at an end and the Tribunal
+
+will be unable to consider its claim for damages.
+
+Conversely, Canada accepts that, if the Tribunal rejects both of its preliminary
+arguments, the res judicata effect of the Mobil I Decision and Award means that
+Canada cannot contest liability, since it is bound by the Mobil [ruling that enforcement
+of the 2004 Guidelines is contrary to NAFTA Article 1106.2’ Nevertheless, Canada
+
+maintains that Mobil has failed to discharge the burden of showing that the entirety of
+
+27 Canada Counter-Memorial, para. 8; Transcript, Day 1, pp. 185-186.
+
+22
+
+92.
+
+93.
+
+94.
+
+the expenditure for which it claims would not have been incurred but for the 2004
+
+Guidelines.
+The Tribunal thus has three issues before it:
+
+(1) whether Mobil has failed to comply with the provisions of Articles 1116(2) and
+1117(2) of NAFTA and, if so, whether the consequence is that the Tribunal
+
+lacks jurisdiction or the claim is inadmissible (“the temporal issue”);
+
+(2) whether Mobil’s claim is barred by the doctrine of res judicata as a result of the
+
+decision and award in the Mobil I proceedings (“the res judicata issue”); and
+
+(3) whether the losses claimed by Mobil were caused by the enforcement of the
+
+2004 Guidelines during the relevant period (“the causation issue”).
+
+The Tribunal’s Decision to Deal Separately with the First and Second Issues
+
+On the third issue, each party has produced extensive documentary material in support
+of its case. In addition, Mobil has submitted witness statements from eight witnesses,
+while Canada submitted one witness statement and two expert reports from a damages
+expert. Five of Mobil’s witnesses, together with Canada’s witness and its expert,
+appeared for cross-examination at the July 2017 Hearing. The Tribunal has found this
+evidence, and the Parties’ accompanying submissions, very helpful, but it became clear
+during the Hearing that further briefing on the third issue would be necessary before it
+
+could be the subject of a final determination.
+
+As noted above, it is common ground that, if Canada succeeds on either of the first two
+issues, the third issue will never be reached. The Tribunal therefore concluded, for
+reasons of procedural economy, that it should give a preliminary ruling on the first two
+issues. Accordingly, the Tribunal informed the Parties, during the Hearing, that it
+proposed to set to one side the third issue while it reached its conclusions on the first
+and second issues. In the event that the Tribunal found in favour of Canada on either
+the first or the second issue, it would set out its reasoning and conclusions in an award
+which would bring the proceedings to an end. On the other hand, if the Tribunal
+concluded that Canada failed on both the first and second issues, its reasoning and
+
+conclusions would be given in a decision. The Tribunal would then request post-
+
+23
+
+95.
+
+96.
+
+VI.
+
+97.
+
+98.
+
+hearing briefs on aspects of the third issue, after receipt of which it would proceed to
+
+an award. Neither Party made any objection to this approach.
+
+In deciding to proceed in this way, the Tribunal was mindful of the fact that, shortly
+after it was constituted, it rejected a request for bifurcation made by Mobil.?* The
+course of action now taken, however, was quite different from that then proposed by
+Mobil. At the time that the Mobil made its request, Canada had yet to indicate the
+submissions which it intended to make, so that neither the first nor the second issue was
+then in contemplation. Mobil had requested that the Tribunal decide, as a preliminary
+matter, that the decision of the Mobil I Tribunal on liability was res judicata, a matter
+
+which, as indicated in paragraph 68, above, is not now contested.
+
+The Tribunal will, therefore, first consider the temporal issue (Part VI) and then turn to
+
+the res judicata issue (Part VII). The Tribunal’s conclusions are set out in Part VIII.
+THE TEMPORAL ISSUE
+
+Canada’s Position
+
+Canada maintains that compliance with the relevant provisions of NAFTA Articles
+1116(2) and 1117(2) is a jurisdictional requirement in respect of which Mobil bears the
+burden of proof. That follows from NAFTA Articles 1121 and 1122. Article 1122(1)
+provides that each NAFTA Contracting Party consents to the submission of a claim in
+accordance with the procedures set out in NAFTA, while Article 1121(1) provides that
+an investor may submit a claim only if it consents to arbitration in accordance with the
+procedures set out in NAFTA. According to Canada, an essential part of those
+procedures is the requirement, in Articles 1116(2) and 1117(2) that a claim must be
+brought within three years of the date on which the investor (or, under Article 1117, the
+enterprise on whose behalf the investor claims) first acquires knowledge (or should first
+have acquired knowledge) of the alleged breach and of the fact that the investor (or
+
+enterprise) has incurred loss or damage.
+Canada relies, in this regard, on the award in Methanex v. United States, which states:
+
+In order to establish the necessary consent to arbitration, it is
+sufficient to show (i) that Chapter 11 applies in the first place, i.e.
+
+°8 Procedural Order No. 1, para. 14.1.
+
+24
+
+99.
+
+100.
+
+101.
+
+102.
+
+103.
+
+that the requirements of Article 1101 are met, and (ii) that a claim
+has been brought by a claimant investor in accordance with Articles
+1116 or 1117 (and that all pre-conditions and formalities required
+under Articles 1118-1121 are satisfied). Where these requirements
+are met by a claimant, Article 1122 is satisfied; and the NAFTA
+Party’s consent to arbitration is established.”°
+
+Canada considers that these requirements are strict. They exist because the NAFTA
+Contracting Parties were determined to ensure finality and not to be exposed to claims
+being brought years after the investor or enterprise acquired knowledge of the alleged
+
+breach and damage.
+
+In the present case, Canada argues, the relevant breach is the promulgation of the 2004
+Guidelines, a fact of which Mobil became aware on 5 November 2004, with the result
+that the three-year limitation period expired on 5 November 2007, long before the filing
+
+of the Request for Arbitration in the present proceedings.
+
+Mobil cannot get around that time limit, Canada maintains, by portraying the breach as
+
+a “continuing breach”. It argues that
+
+[nJot only would such an interpretation contradict the plain language
+of [Articles 1116(2) and 1117(2)] and the long-standing and
+consistent position of all three NAFTA Parties that a continuing
+course of conduct does not renew the limitations period, it would
+have an impact for the Chapter Eleven NAFTA regime far beyond
+the present dispute.*”
+
+So far as the text is concerned, Canada emphasizes that an investor cannot first acquire
+knowledge of a breach on more than one occasion, so that the “continuing breach”
+
+theory would make a nonsense of the provision.*!
+
+Canada argues that the “long-standing and consistent position” of the three NAFTA
+States has to be taken into account by the Tribunal because of Article 31(3)(b) of the
+Vienna Convention on the Law of Treaties, 1969, which provides that, in the
+interpretation of a treaty, “there shall be taken into account, together with the context ...
+
+(b) any subsequent practice in the application of the treaty which establishes the
+
+2° RL-2, Methanex Corporation v. United States of America (UNCITRAL), Partial Award of 7 August 2002, para.
+
+ 
+
+‘anada Counter-Memori:
++! Canada Counter-Memorial
+
+   
+  
+
+. 152,
+aras. 145-151; Rejoinder, paras. 56-80.
+
+ 
+
+25
+
+9932
+
+agreement of the parties regarding its interpretation. While the Vienna Convention
+
+is not, as such, applicable to NAFTA,** it is generally agreed that its provisions on
+interpretation reflect customary international law and are therefore of general
+
+application (something which is common ground in the present case).
+
+104. According to Canada, the three NAFTA Contracting Parties in their submissions to
+other NAFTA tribunals, whether as parties to the proceedings or as non-disputing
+parties making a submission under Article 1128, have consistently adopted the position
+that whether a breach is to be regarded as continuing does not affect the application of
+Articles 1116(2) and 1117(2). In this regard, it points to the submissions by Mexico
+and the United States in Merrill and Ring v. Canada,™ and subsequent submissions in
+DIBC v. Canada,*> Bilcon v. Canada,*® Apotex v. United States,°’ Mercer v. Canada*®
+
+and Eli Lilly v. Canada.*°
+
+105. Canada points to a number of NAFTA arbitration awards which it maintains support its
+position regarding the interpretation and application of Articles 1116(2) and 1117(2).
+In particular, it invokes Grand River v. United States, which described the two
+provisions as having “introduced a clear and rigid limitation defense — not subject to
+
+any suspension, prolongation or other qualification” and added that:
+
+[an analysis that led to] not one limitations period but many ...
+[would] render the limitations provisions ineffective in any situation
+involving a series of similar and related actions by a respondent
+
+*? CL-35, Vienna Convention on the Law of Treaties, 1969.
+
+* Under Article 4 of the Vienna Convention, the Convention is applicable to a multilateral treaty only if, at the
+time of the conclusion of that treaty, all of its contracting parties were also parties to the Vienna Convention. That
+is not the case with NAFTA.
+
+4 RL-14, Merrill & Ring Forestry L.P. v. Government of Canada (UNCITRAL), 1128 Submission of the United
+States, 14 July 2008, para. 5 and RL-15, Merrill & Ring Forestry L.P. v. Government of Canada (UNCITRAL)
+Submission of Mexico Pursuant Article 1128 of NAFTA, 2 April 2009.
+
+35 RL-11, Detroit International Bridge Company v. Government of Canada (UNCITRAL), Submission of the
+United States Pursuant Article 1128 of NAFTA, 14 February 2014, para. 3 and RL-12, Detroit International
+Bridge Company v. Government of Canada (UNCITRAL), Submission of Mexico Pursuant Article 1128 of
+NAFTA, 14 February 2014, para. 21.
+
+3© RL-17, William Ralph Clayton, William Richard Clayton, Douglas Clayton, Daniel Clayton, and Bilcon Of
+Delaware Inc. v. Government of Canada (UNCITRAL) (“Bilcon v. Canada”), Submission of the United States
+of America, 19 April 2013, para. 12.
+
+37 RL-18, Apotex Inc. v. United States of America (UNCITRAL), Memorial on Objections to Jurisdiction of
+Respondent United States of America, 16 May 2011, paras. 46-49.
+
+38 RL-19, Mercer International Inc. v. Government of Canada, 1CSID Case No. ARB(AF)/12/3, Submission of
+the United States of America, 8 May 2015, para. 5 and RL-20, Mercer International Inc. v. Government of
+Canada, ICSID Case No. ARB(AF)/12/3, Canada’s Rejoinder Memorial, 31 March 2015, paras. 223-228.
+
+3° RL-21, Eli Lilly and Company v. Government of Canada (UNCITRAL), Submission of the United States of
+America, 18 March 2016, para. 4.
+
+26
+
+state, since a claimant would be free to base its claim on the most
+recent transgression, even if it had knowledge of earlier breaches
+and injuries.*°
+
+106. Canada also cites Apotex*! and Bilcon*® as adopting the same approach. According to
+Canada, the only award which comes to the opposite conclusion is UPS v. Canada,**
+which has not been followed and which is treated as wrongly decided on this point by
+
+all three NAFTA Parties.
+
+107. Canada further argues that this interpretation of Articles 1116(2) and 1117(2) is
+supported by Mobil’s own arguments before the Mobil J Tribunal, before which Mobil
+argued that it was obliged to bring its claim for damages for future losses in the Mobil I
+
+arbitration, because of the three-year limitation period in those provisions.
+
+108. Canada maintains that Mobil’s alternative argument that the time limit starts to run from
+
+the moment when the Board made clear, in its letter of 9 July 2012, that it would
+
+ 
+
+continue to enforce the Guidelines notwithstanding the Mobil I Decision is artificial.
+The breach is still the 2004 Guidelines. Canada’s refusal to revoke or cease to enforce
+the Guidelines following the Mobil I Decision is irrelevant, because a Chapter 11
+Tribunal has power only to award monetary damages or restitution of property (NAFTA
+
+Article 1135) and may not order a NAFTA Party to repeal or cease to enforce a measure.
+
+109. Finally, Canada dismisses the sentence in the Mobil I Decision that Mobil would be
+able to claim for future losses in subsequent proceedings.“* Since Articles 1116(2) and
+1117(2) lay down a jurisdictional requirement, Canada maintains that statements made
+by the Mobil I Tribunal cannot operate to confer upon the present Tribunal a jurisdiction
+
+which NAFTA does not grant to it.
+
+ 
+
+4° RL-3, Grand River Enterprises Six Nations, Ltd., et al. v. United States of America (UNCITRAL), Decision on
+Objections to Jurisdiction, paras. 29 and 81.
+
+41 RL-5, Apotex Inc. v. United States of America (UNCITRAL), Award on Juri
+2013, para. 325.
+
+*# RL-6, Bilcon vy. Canada, Award on Jurisdiction and Liability, 17 March 2015, para. 268.
+
+48 RL-25, United Parcel Service of America v. Government of Canada (UNCITRAL) Award on the Merits, 24
+May 2007 (“UPS”), paras. 26-28.
+
++4 Mobil I Decision, final sentence of para. 478.
+
+   
+  
+
+ 
+
+  
+
+iction and Admissibility, 14 June
+
+27
+
+110.
+
+111.
+
+112.
+
+113.
+
+114.
+
+115.
+
+Mobil’s Position
+
+Mobil denies that the time limits in Articles 1116(2) and 1117(2) amount to a
+jurisdictional requirement and contends that they are, instead, a matter of admissibility.
+
+Consequently, the burden of proof is on Canada, rather than on Mobil.
+
+According to Mobil, the requirements of Articles 1116(2) and 1117(2) have to be
+interpreted in light of the object and purpose of the NAFTA and the fundamental
+condition of fairness. To bar Mobil from recovery in the present proceedings, given
+what occurred in the Mobil I proceedings, and what was said by the Mobil I Tribunal
+
+in paragraph 478 of its Decision, would be grossly unfair.
+
+Mobil’s principal argument, which is supported by the expert report of Professor
+Sarooshi, is that the enforcement of the 2004 Guidelines is a continuing breach and,
+according to Professor Sarooshi (whose views Mobil adopts), “there is good authority
+that where there is a continuing breach, then time does not begin to run for the purposes
+of a limitation period until the breach in question ceases to exist”.*°
+
+Professor Sarooshi and Mobil maintain that this interpretation is supported by the only
+two NAFTA arbitrations which are truly in point: UPS v. Canada and Feldman v.
+Mexico. In UPS, the tribunal held that “the generally applicable ground for our decision
+is that ... continuing courses of conduct constitute continuing breaches of legal
+obligations and renew the limitation period accordingly”.“© While Canada has
+submitted in the present proceedings that the UPS award is wrong on this point, Mobil
+points out that Canada had expressly relied on this very passage in UPS in its
+
+submissions to the Mobil J Tribunal.
+
+Mobil dismisses the awards on which Canada relies on the basis that none of them is
+truly in point, since none concerned continuing breaches comparable to the one alleged
+by Canada in the present case and none “involved a prior tribunal establishing liability
+
+and directing the claimant to file another arbitration for damages incurred in the future”.
+
+Mobil rejects Canada’s reliance on the submissions of the three NAFTA Parties as
+
+subsequent practice establishing their agreement on the interpretation of Articles
+
+45 Sarooshi Report, para. 47.
+46 RL-25, UPS, para. 28.
+
+28
+
+116.
+
+117.
+
+118.
+
+1116(2) and 1117(2). It points to the fact that, had the three NAFTA Parties wished to
+establish a definitive interpretation of those provisions, they could have done so by
+means of an interpretation by the Free Trade Commission established by Article 2001
+of NAFTA. Under Article 1131(2), the Free Trade Commission, which is comprised
+of representatives of the three NAFTA Parties, is empowered to adopt interpretations
+of provisions of NAFTA which are then binding on Chapter Eleven tribunals. The fact
+that it has not done so with regard to the effect of Articles 1116(2) and 1117(2) in cases
+of continuing breach, despite having been faced with arguments regarding that issue in
+
+a number of cases, Mobil maintains, is telling.
+
+Mobil also advances an alternative argument to the effect that the letter of 9 July 2012,
+by which the Board made clear that it would continue to enforce the 2004 Guidelines
+notwithstanding the Mobil I Decision, and/or the adoption in 2012 (Hibernia) and 2014
+(Terra Nova) of new operating agreements which required compliance with the 2004
+Guidelines amounted to new breaches with the result that the three-year limitation
+
+period began to run afresh.
+
+The Hearing and Post-Hearing Briefs
+
+At the Hearing on 28 July 2017, a member of the Tribunal posed the following question:
+
+Has there been a new breach following the decision, by the Board,
+to continue to impose or enforce the Guidelines after the Decision
+of the earlier Tribunal? And on that question, the issue arguably is
+this: there is an obligation in international law to perform a treaty,
+including NAFTA, in good faith, and can it not be said that a
+decision by the Board to continue to enforce the Guidelines after the
+Decision of the Mobil I Tribunal constitutes a breach of that
+obligation?
+
+And that gives rise to a couple of questions: ... first of all, is a breach
+of the obligation to perform in good faith a breach of an obligation
+under the NAFTA? And, secondly, is an allegation of such a breach
+properly before us? For example, I don’t recall it being pleaded as
+such, but can it be said to have been pleaded in the pleading that is
+before us on abuse of process?*”
+
+The Tribunal invited the Parties to file post-hearing briefs on this question.
+
+47 Transcript, 28 July 2017, p. 1122 (Mr Rowley).
+
+29
+
+119.
+
+120.
+
+121.
+
+ 
+ 
+  
+
+In its post-hearing briefs, Canada replied, first, that the principle of good faith, while
+undoubtedly part of international law, did not give rise to a free-standing obligation.**
+Secondly, Canada maintained that an allegation of a breach of the obligation to perform
+a treaty in good faith was not properly before the Tribunal, since Mobil had based its
+Request for Arbitration and its Memorial on the breach being the 2004 Guidelines and
+could not now be allowed to alter the entire basis of its claim.*? Lastly, Canada argued
+that there was no obligation owed to an investor to repeal or cease application of the
+2004 Guidelines. Any obligation arose under customary international law and not from
+NAFTA as such, still less from NAFTA Chapter Eleven, and could not therefore form
+
+the subject of a claim by an investor under Chapter Eleven.*”
+
+Mobil replied to the question posed at the Hearing by first repeating its principal
+argument concerning continuing breach.*! However, it then developed an alternative
+argument that the decision of the Board to continue enforcing the 2004 Guidelines
+manifested in its 9 July 2012 letter,** and the subsequent adoption of the 2012 operating
+authorization for Hibernia and the 2014 operating authorization for Terra Nova>>
+amounted to distinct acts each of which triggered the application of Articles 1116(2)
+and 1117(2) afresh. Mobil also argued that this alternative argument was properly
+
+before the Tribunal, having first been canvassed in the Memorial.>*
+
+The Submissions of the United States and Mexico
+
+On 24 October 2017, the United States filed, pursuant to NAFTA Article 1128, a
+submission regarding the interpretation of NAFTA. The United States submitted that
+consent to arbitration under Chapter Eleven was confined to disputes concerning claims
+for breach of provisions of Chapter Eleven and did not extend to “consent to arbitrate
+disputes based on alleged breaches of obligations found in other articles or chapters of
+the NAFTA or alleged breaches of other treaties or other international obligations”.*>
+
+The United States further maintained that (a) the principle that every treaty is binding
+
+on the parties to it and must be performed in good faith is derived from customary
+
+ 
+
+la Post-Hearing Brief, paras. 6-9.
+la Reply Post-Hearing Brief, paras. 8-21.
+
+5! Mobil Post-Hearing Brief, paras. 1-2.
+
+52 Mobil Post-Hearing Brief, paras. 9-19
+
+53 Mobil Post-Hearing Brief, paras. 20-24.
+
+54 Mobil Post-Hearing Brief, paras. 25-33 and Mobil Reply Post-Hearing Brief.
+°5 United States submission, para. 2.
+
+30
+
+122.
+
+123.
+
+124.
+
+   
+
+*© United States submiss
+
+international law, not NAFTA Chapter Eleven;*° (b) the principle of good faith is not
+
+in itself a source of obligation where none would otherwise exist;>7
+
+and (c) there is no
+specific treaty obligation under NAFTA to repeal or cease enforcement of a measure in
+
+response to an adverse arbitral award.**
+
+On 7 November 2017, Mexico filed a submission pursuant to Article 1128. In its
+submission, Mexico agreed with Canada and the United States that the principle of
+good faith is not a source of obligation where none otherwise exists.°? Mexico further
+stated that it agreed with Canada that there was no separate obligation to perform in
+good faith under NAFTA Chapter Eleven and that claims alleging breach of the good
+faith principle do not fall within the jurisdiction conferred by Chapter Eleven on an
+arbitral tribunal. Finally, Mexico concurred with the United States that there is no
+specific treaty obligation under NAFTA to repeal or cease enforcement of a measure in
+
+response to an adverse arbitral award or decision.®!
+
+The Tribunal accorded the Parties an opportunity to respond to the Article 1128
+
+submissions.
+
+In its response, filed on 14 December 2017, Canada drew attention to the fact that all
+three NAFTA Contracting Parties agreed that (a) an alleged failure to perform the
+provisions of NAFTA in good faith does not fall within the jurisdiction conferred by
+Chapter Eleven; and (b) Mobil is wrong to suggest that NAFTA does not merely
+include a remedy for unlawful conduct but also an obligation to end it and that there is
+no specific NAFTA obligation to repeal or cease enforcement of a measure in response
+to an adverse arbitral award.®? Canada further maintained that the concordant views of
+the three States on this issue should be given significant weight by the Tribunal in
+
+interpreting the NAFTA provisions in issue.
+
+6! Mexico submission, para. 5.
+® Canada response to the Article 1128 submissi
+
+Canada response to the Article 1128 subi
+
+   
+
+Canada response to the Article 1128 submissions, paras. 10-11.
+
+31
+
+125.
+
+126.
+
+127.
+
+© Mobil response to the Article 1128 subi
+7 Mobil response to the Article 1128 subi
+
+Mobil also filed a response to the Article 1128 submissions on 14 December 2017. In
+that response, it noted that neither Mexico nor the United States had addressed the
+interpretation of Articles 1116(2) and 1117(2) as such,® nor did they go to the essence
+of Mobil’s claim, which is for breach of Article 1106(1) of NAFTA, not a free-standing
+obligation of good faith or a duty to cease and desist that is separate and apart from
+NAFTA. Mobil noted, however, that the submissions affirmed the existence of a
+principle of good faith in international law®’ and contended that the Tribunal had the
+
+jurisdiction and the mandate to apply customary international law.*
+The Tribunal’s Analysis
+@ The Relevant NAFTA Provisions
+It is useful to begin by recalling the relevant NAFTA provisions. Article 1116 reads
+(in relevant part) as follows:
+Article 1116: Claim by an Investor of a Party on its Own Behalf
+
+1. An investor of a Party may submit to arbitration under this
+Section a claim that another Party has breached an obligation under:
+
+(a) Section A [of Chapter 11] ...
+
+and that the investor has incurred loss or damage by reason of, or
+arising out of, that breach.
+
+2. An investor may not make a claim if more than three years
+have elapsed from the date on which the investor first acquired, or
+should have first acquired, knowledge of the alleged breach and
+knowledge that the investor has incurred loss or damage.
+
+Article 1117 contains substantially the same requirement where an investor claims on
+behalf of an enterprise:
+Article 1117: Claim by an Investor of a Party on behalf of an
+Enterprise
+
+1. An investor of a Party, on behalf of an enterprise of another
+Party that is a juridical person that the investor owns or controls
+
+ 
+   
+
+32
+
+directly or indirectly, may submit to arbitration under this Section a
+claim that another Party has breached an obligation under:
+
+(a) Section A [of Chapter 11]...
+
+and that the enterprise has incurred loss or damage by reason of, or
+arising out of, that breach.
+
+2. An investor may not make a claim on behalf of an enterprise
+described in paragraph 1| if more than three years have elapsed from
+the date on which the enterprise first acquired, or should have first
+acquired, knowledge of the alleged breach and knowledge that the
+enterprise has incurred loss or damage.
+
+128. Since Mobil claims both on its own behalf, as an investor of the United States, and on
+behalf of ExxonMobil Canada Resources Co. and ExxonMobil Canada Properties,
+
+both provisions are relevant.
+
+129. Articles 1116 and 1117 appear in Section B of Chapter Eleven. Other material
+provisions of Section B are Articles 1121 and 1122. Article 1121 provides in relevant
+
+part:
+
+Article 1121: Conditions Precedent to Submission of a Claim to
+Arbitration
+
+1. A disputing investor may submit a claim under Article 1116
+to arbitration only if:
+
+(a) the investor consents to arbitration in accordance with the
+
+procedures set out in this Agreement;
+
+2. A disputing investor may submit a claim under Article 1117
+to arbitration only if the investor and the enterprise:
+
+consent to arbitration in accordance with the procedures set out in
+this Agreement; ...
+
+130. Article 1122 provides:
+
+Article 1122: Consent to Arbitration
+
+Each Party consents to the submission of a claim to arbitration in
+accordance with the procedures set out in this Agreement. ...
+
+® See paras. | and 2, above.
+
+33
+
+131. It is also important to keep in mind the relevant part of Article 1106, the provision with
+which the Mobil I Tribunal found the 2004 Guidelines to be inconsistent. Article
+1106(1) provides:
+
+No Party may impose or enforce any of the following requirements,
+or enforce any commitment or undertaking, in connection with the
+establishment, acquisition, expansion, management, conduct or
+operation of an investment of an investor of a Party or of a non-Party
+in its territory:
+
+(c) to purchase, use or accord a preference to goods produced, or
+services provided in its territory, or to purchase goods or services
+from persons in its territory; ...
+
+132. Finally, it is useful to recall two of the more general provisions of NAFTA. The
+
+objectives of NAFTA are set out in Article 102, which provides:
+
+1. The objectives of this Agreement, as elaborated more specifically
+through its principles and rules, including national treatment, most
+favored-nation treatment and transparency, are to:
+
+(a) eliminate barriers to trade in, and facilitate the cross-border
+movement of, goods and services between the territories of the
+Parties;
+
+(b) promote conditions of fair competition in the free trade area;
+
+(c) increase substantially investment opportunities in the territories
+of the Parties;
+
+(d) provide adequate and effective protection and enforcement of
+intellectual property rights in each Party's territory;
+
+(e) create effective procedures for the implementation and
+application of this Agreement, for its joint administration and for the
+resolution of disputes; and
+
+(f) establish a framework for further trilateral, regional and
+multilateral cooperation to expand and enhance the benefits of this
+Agreement.
+
+2. The Parties shall interpret and apply the provisions of this
+
+Agreement in the light of its objectives set out in paragraph | and in
+accordance with applicable rules of international law.
+
+133. Also relevant is Article 105, which provides:
+
+34
+
+134.
+
+135.
+
+136.
+
+137.
+
+138.
+
+139.
+
+140.
+
+The Parties shall ensure that all necessary measures are taken in
+order to give effect to the provisions of this Agreement, including
+their observance, except as otherwise provided in this Agreement,
+by state and provincial governments.
+
+This provision requires that Canada ensure that the CNLOPB act in conformity with
+
+NAFTA.
+
+(2) Is Compliance with the Requirements of Article 1116(2) and Article 1117(2)
+
+a Jurisdictional Requirement?
+
+As noted above, Canada maintains that compliance with the time limits laid down in
+Articles 1116(2) and 1117(2) is a precondition for the jurisdiction of a Chapter Eleven
+tribunal. Mobil, on the other hand, considers it a matter of admissibility, not
+
+jurisdiction, and contends that the burden of proof is therefore on Canada, not on Mobil.
+
+The Tribunal does not consider it necessary to decide this question. Whether the
+requirement that a claim be brought within the three-year period stipulated in the two
+provisions is treated as a matter of jurisdiction or admissibility, the practical
+consequences in the present case are the same. If Mobil has failed to comply with that
+
+requirement, then the case cannot proceed.
+
+Moreover, since what is at issue is essentially a question of law, not evidence, the
+Tribunal does not consider it helpful to think in terms of burden of proof. It will
+examine carefully the arguments submitted by both parties, without any preconceptions
+
+as to burden.
+
+3) The Mobil I Proceedings
+
+Both Parties have made much of what was said during the Mobil I proceedings.
+
+Canada emphasizes the submissions made by Mobil in respect of the claim it advanced
+in those proceedings for damages for future losses, suggesting that the position then
+taken by Mobil confirms the interpretation which Canada now seeks to place on
+
+Articles 1116(2) and 1117(2).
+
+The Tribunal is not persuaded by this argument. It is true that, in the Mobil I
+proceedings, Mobil sought to justify its claim for future damages by pointing to what it
+
+regarded as the danger that it might be held to be time-barred if it had to bring a fresh
+
+35
+
+claim for damages arising after the beginning of 2012.” Yet the recognition that there
+was a danger that a future tribunal might come to such a conclusion is not at all the
+same thing as an acceptance that it would, or should, do so. The Tribunal does not
+consider that Mobil is estopped from arguing that it has met the time limits requirements
+in Articles 1116(2) and 1117(2) merely because it advanced in Mobil I an argument
+
+that a future tribunal might take the view that it could not meet those requirements.
+
+141. More importantly, what is at issue here is the proper interpretation of provisions of
+NAFTA which govern when and how claims may be made by investors. While the
+practice of the NAFTA Parties is undoubtedly relevant as an aid to the interpretation of
+those provisions,”! the arguments advanced by an investor in an earlier case offer no
+
+such assistance.
+
+142. Mobil advanced an argument that Canada was now arguing the opposite, with regard
+to the UPS award, of the position it had taken in Mobil I. Again, the Tribunal does not
+find this argument persuasive. Just as Mobil was entitled to point out that a future
+tribunal might read Articles 1116(2) and 1117(2) as precluding it from bringing a fresh
+claim, even though it now maintains that such a conclusion would be wrong in law, so
+Canada was entitled to point out to the Mobil J Tribunal that, in the light of the decision
+of the UPS tribunal, a future tribunal might accept the continuing act approach to those
+
+provisions for which Mobil is now contending.
+
+143. Nor is the Tribunal convinced by Mobil’s reliance on the following passage in the
+
+Mobil I Decision:
+
+Given that the implementation of the 2004 Guidelines is a
+continuing breach, the Claimants can claim compensation in new
+NAFTA arbitration proceedings for losses which have accrued but
+are not actual in the current proceedings. ”
+
+144. Whatever the relevance of this passage to the res judicata issue (a matter to which the
+
+Tribunal will turn in Part VI), it is of little importance in relation to the decision which
+
+the Tribunal must make regarding the interpretation and effects of Articles 1116(2) and
+
+7 Mobil stated that the three-year limitation period “may well prevent Claimants from bringing future claims”.
+R-87, Mobil I, Claimants’ Post-Hearing Brief of 3 December 2010, para. 67.
+
+7! See paras. 157-159, below.
+
+™ Mobil I Decision, para. 478.
+
+36
+
+1117(2). Those provisions determine either the extent of the jurisdiction of the present
+Tribunal or, at the least, the admissibility of the claim brought before it. The brief
+passage in the Mobil I Decision on which Mobil now relies cannot confer upon the
+present Tribunal a jurisdiction which it would not otherwise possess, or render
+admissible a claim which, under a proper interpretation of the relevant NAFTA
+provisions, would not otherwise be admissible. Whether the present claim complies
+with the requirements of Articles 1116(2) and 1117(2) is a matter which the Tribunal
+
+must determine for itself.
+
+(4) Is Mobil’s Claim barred by Articles 1116(2) and 1117(2)?
+
+145. The Tribunal will therefore turn to the central question before it, namely whether or not
+the claim brought by Mobil in the present proceedings, which relates to the losses it
+claims to have sustained as a result of the application of the 2004 Guidelines is barred
+by the application of Articles 1116(2) and 1117(2). At the outset, the Tribunal wishes
+to say that it has found the submissions of the Parties and the Article 1128 submissions
+from Mexico and the United States of great assistance. To the extent that it does not
+deal in detail with every point made in those various submissions, that is only because
+it considers that some are concerned with points which the Tribunal is not compelled
+
+to decide.
+
+146. The Tribunal considers that the requirement, in Articles 1116(2) and 1117(2), that any
+claim in respect of a breach of Section A of Chapter Eleven must be brought within
+three years of the investor (or enterprise) first acquiring knowledge of the alleged
+breach and first acquiring knowledge that it has suffered loss or damage as a result of
+that breach plays an important role within the scheme of Chapter Eleven. By preventing
+claims being brought against a NAFTA Party after more than three years, it guarantees
+for all three States a degree of certainty and finality. Their submissions in several
+earlier NAFTA arbitrations make clear the importance which they attach to that
+guarantee while the awards themselves highlight that the limitation period is “clear and
+
+rigid”.”>
+
+3 See RL-8, Marvin Roy Feldman Karpa v. United Mexican States, CSID Case No. ARB(AF)99/1, Award, 16
+December 2002, para. 63 and RL-3, Grand River Enterprises Six Nations, Ltd,, et al. v. United States of America
+(UNCITRAL), Decision on Objections to Jurisdiction, para. 29, and the references at notes 34-39, above.
+
+37
+
+147.
+
+148.
+
+149.
+
+150.
+
+151.
+
+152.
+
+Moreover, the Tribunal accepts Canada’s argument that the fact that the limitation
+period begins to run when a would-be claimant first acquires (or should first have
+acquired) the requisite knowledge is significant; as Canada points out, an investor
+
+cannot first acquire knowledge of the same matter on more than one occasion.
+
+It is, however, important to identify precisely what it is of which the investor or
+enterprise must acquire knowledge in order for the limitation period in Articles 1116(2)
+and 1117(2) to begin to run. First, there must be knowledge of the alleged breach.
+Secondly, there must be knowledge that the investor or enterprise has suffered loss or
+
+damage as a result of that alleged breach.
+
+For Canada the application of that test to the facts of the present case is simple. The
+alleged breach is the 2004 Guidelines, promulgated on 5 November 2004 and the
+existence of which became known to Mobil on that date. The three-year period must,
+therefore, have started to run from that date, and thus expired on 5 November 2007,
+whereas the present arbitration was not commenced until 16 January 2015. However,
+
+that approach overlooks a number of important considerations.
+
+First, it misunderstands the nature of the breach on which Mobil’s claim is based.
+Mobil asserts — and the Mobil I Tribunal, in a decision which both Parties accept is res
+judicata on this point, decided — that the breach is a breach of Canada’s obligations
+
+under Article 1106 of NAFTA.
+
+Article 1106(1) provides that no Party may:
+
+e impose or enforce a requirement to purchase, use or accord a preference to goods
+produced, or services provided in its territory, or to purchase goods or services from
+
+persons in its territory; or
+
+e enforce a commitment or undertaking in connection with, inter alia, the
+management, conduct or operation of an investment to purchase, use or accord a
+preference to goods produced, or services provided in its territory, or to purchase
+
+goods or services from persons in its territory.
+
+While the imposition of the 2004 Guidelines took place on 5 November 2004, their
+enforcement was a different matter. Due to the challenge brought by Mobil in the
+
+Canadian courts, it was not until 19 February 2009, when the Supreme Court of Canada
+
+38
+
+dismissed Mobil’s petition for leave to appeal and thus ended the challenge in the
+Canadian courts, that the Guidelines were actually enforced (albeit with retrospective
+effect)”* against Mobil or that Mobil could have acquired knowledge that they would
+be enforced. Canada’s approach, which elides the promulgation of the 2004 Guidelines
+
+with their subsequent enforcement, is thus an over-simplification.
+
+153. | Secondly, Canada’s approach fails to take proper account of the fact that the limitation
+period starts to run only when the investor or enterprise has not only acquired (or ought
+to have acquired) knowledge of the alleged breach but also has acquired (or ought to
+have acquired) knowledge that it has incurred loss or damage as a result. The date on
+which an investor or enterprise first acquires (or ought to have acquired) knowledge
+that it has suffered loss or damage may not be the same as the date on which it first
+acquires (or ought to have acquired) knowledge of the alleged breach which causes that
+
+damage.
+
+154. Moreover, the language of Article 1116(2) and Article 1117(2) is quite clear in
+requiring knowledge that loss or damage has been incurred. It is impossible to know
+that loss or damage has been incurred until that loss or damage actually has been
+incurred. Thus, even if Mobil had first acquired knowledge of the enforcement of the
+2004 Guidelines in 2004, it could not have acquired knowledge that it had incurred loss
+
+or damage in consequence until that loss or damage had actually been sustained.
+
+155. Even if it is possible to read the requirement in Articles 1116(2) and 1117(2) that the
+investor must have acquired knowledge that loss or damage has been incurred as
+embracing a case in which the investor knows that loss or damage will be incurred, the
+time limit imposed in those provisions could not start to run until the investor had
+knowledge that it would suffer such loss or damage. To suspect that something will
+happen is not at all the same as knowing that it will do so. Knowledge entails much
+more than suspicion or concern and requires a degree of certainty. While the Tribunal
+agrees with Canada that it is not necessary that the quantum of loss or damage be
+known, it is clear that there must be at least a reasonable degree of certainty on the part
+of the investor that some loss or damage will be sustained. Thus, although Mobil knew
+
+about the 2004 Guidelines on 5 November 2004, when they were promulgated, it could
+
+4 See para. 63, above.
+
+39
+
+156.
+
+157.
+
+158.
+
+159.
+
+not have had the requisite knowledge that it would incur loss or damage as a result of
+those Guidelines until the Canadian courts had finally disposed of its challenge to the
+
+Guidelines.
+
+Mobil maintains that the enforcement of the 2004 Guidelines is a continuing breach
+and, as such, there is no single date from which the limitation period in Articles 1116(2)
+and 1117(2) can run. That argument is supported by the expert report of Professor
+Sarooshi and by the UPS award.
+
+The Tribunal nevertheless sees certain difficulties with this argument. It would render
+Articles 1116(2) and 1117(2) largely ineffective in cases of a change in regulatory
+framework, since it could always be argued that each day’s instance of application or
+
+enforcement of a measure was a separate act.
+
+In addition, such an approach has clearly been rejected by all three NAFTA Parties in
+their practice subsequent to the adoption of NAFTA. In accordance with the principle
+enshrined in Article 31(3)(b) of the Vienna Convention on the Law of Treaties, 1969,
+the subsequent practice of the parties to a treaty, if it establishes the agreement of the
+parties regarding the interpretation of the treaty, is entitled to be accorded considerable
+
+weight.
+
+The Tribunal notes Mobil’s argument that the significance of concordant submissions
+by the three NAFTA Parties to different Chapter Eleven tribunals has to be assessed in
+light of the fact that, unusually, NAFTA contains an express provision concerning the
+subsequent agreement of the Contracting Parties regarding the interpretation of the
+treaty. Article 1131 of NAFTA provides that if such agreement is adopted in the form
+of a decision of the Free Trade Commission, it becomes binding on all Chapter Eleven
+tribunals. Mobil therefore argues that the availability of this process means that very
+little weight should be attached to other instances of subsequent practice; in effect
+Mobil says that, if the NAFTA Parties want their views on interpretation to be effective,
+they can, and should, incorporate those views into a Commission decision. Moreover,
+Mobil argues that submissions to Chapter Eleven tribunals must be treated with
+particular caution, given the danger that those submissions will be affected by the
+
+circumstances of the arbitrations involved, and notes that tribunals have been wary of
+
+40
+
+attaching much weight to such submissions when considering the correct interpretation
+
+of a NAFTA provision.
+
+160. In the present case, there is no pertinent decision of the Free Trade Commission. The
+Tribunal is not, however, wholly persuaded by Mobil’s argument. The Tribunal accepts
+that there is a difference between the importance of a Free Trade Commission decision
+on interpretation and the importance of other forms of subsequent practice. The former
+is binding upon the Tribunal by virtue of NAFTA Article 1131, whereas Article
+31(3)(b) of the Vienna Convention directs only that the latter kind of practice should
+be “taken into account” in relation to interpretation. Moreover, the Tribunal accepts
+that the fact that the three States have not elected to move to a decision of the Free
+Trade Commission is significant. Nevertheless, it considers that there might be many
+reasons for the absence of a Free Trade Commission decision and it does not believe
+that the subsequent practice of the three NAFTA Parties can be disregarded merely
+
+because it takes forms different from a Commission decision.
+
+161. Finally, apart from UPS, Mobil’s continuing breach argument has attracted
+comparatively little support in the jurisprudence of NAFTA arbitration tribunals. While
+Mobil rightly points out that none of the awards on this subject concerned facts directly
+comparable to those in the present case, it is now over ten years since the award in UPS
+and the absence of any subsequent endorsement of that tribunal’s views on continuing
+
+breach means that, at the very least, they should be treated with caution.
+
+162. The Tribunal sees no need, however, to enter into the difficult question whether every
+continuing breach has the effects suggested by Mobil. What the Tribunal is called upon
+to decide is how the limitation period in Articles 1116(2) and 1117(2) is to be applied
+to the actual facts of the present case. What sets those facts apart from the more general
+hypothetical instances of continuing breach is the decision in Mobil I, which was
+handed down on 22 May 2012. According to Mobil, once the Mobil I Tribunal had
+decided that the imposition and enforcement of the 2004 Guidelines contravened
+NAFTA Article 1106, Canada was obliged to cease enforcing them against Mobil and
+it wrote to the CNLOPB to that effect on 5 July 2012.”> When the Board replied on
+
+9 July 2012 that it had no intention of waiving the Guidelines and continued to enforce
+
+75 C-174, Letter from Paul Sacuta of ExxonMobil Canada Ltd. to Jeffrey Bugden of the CNLOPB.
+
+4l
+
+163.
+
+164.
+
+165.
+
+166.
+
+16
+
+the requirements held by the Mobil J Tribunal to be a breach of Article 1106, there was
+a fresh breach of which Mobil acquired knowledge on receipt of the letter, and shortly
+
+afterwards it incurred loss or damage in consequence.
+
+Canada disputes this approach. It maintained in its Rejoinder that “there is no
+obligation on the part of a NAFTA party vis 4 vis a claimant investor to remove a
+measure which has been found to violate NAFTA Chapter Eleven”,’° and repeated that
+argument at the Hearing. According to Canada, the only remedy is the payment of
+monetary compensation and NAFTA Article 1135 gives a Chapter Eleven tribunal no
+
+power to order any remedy other than monetary damages.””
+
+The Tribunal considers that Canada’s response confuses the right with the remedy. It
+is true that Article 1135 confers no power on a Chapter Eleven tribunal to order that an
+offending measure be repealed or that it cease to be enforced. But that does not mean
+that the State which has adopted such a measure is not under such an obligation, only
+
+that such an obligation cannot be derived from the decision of the tribunal.
+
+The Tribunal considers that, as a matter of general international law the position is quite
+straightforward. NAFTA Article 1106(1) prohibits Canada from imposing or enforcing
+measures which are contrary to its terms. That obligation is a continuing one and, like
+any treaty obligation, must be performed in good faith.”* Once a Chapter Eleven
+tribunal found that the imposition and enforcement of the 2004 Guidelines was contrary
+to Article 1106, it is difficult to see how Canada could discharge its duty to perform its
+obligations under Article 1106 in good faith while still enforcing the Guidelines. That
+conclusion is reinforced by the ILC Articles on State Responsibility, Article 30 of
+which provides that a State which is responsible for an internationally wrongful act is
+
+under an obligation to cease that act if it is a continuing one.
+
+Tt was for that reason that one Member of the Tribunal, with the consent of the other
+Members (see para. 116, above), put a number of points to the Parties on the last day
+of the hearing for post-hearing briefing. Those points sought to elucidate the views of
+
+the parties on the significance — if any — of the Mobil J ruling and the subsequent
+
+Canada Rejoinder, para. 32.
+
+77 Article 1135 also provides for restitution of property but that has no application here.
+
+78 Article 26, Vienna Convention on the Law of Treati
+
+s, 1969, which is entitled “Pacta sunt Servanda”, provides
+
+ 
+
+that “every treaty in force is binding upon the parties to it and must be performed by them in good faith”.
+
+42
+
+decision of the Board to continue enforcing the 2004 Guidelines for the application of
+
+Articles 1116(2) and 1117(2) in the present proceedings.
+
+167. In light of the answers to those questions from the Parties and the submissions of the
+
+two non-disputing NAFTA States, it is possible to draw certain conclusions.
+
+168. First, both Parties, as well as Mexico and the United States are clear that the principle
+of good faith forms part of international law and is relevant to the manner in which a
+State is required to perform its treaty obligations, but that it does not constitute a
+separate source of obligation where none would otherwise exist. The Tribunal agrees
+with this view which is based upon clear statements to that effect by the International
+
+Court of Justice. As the Court explained in a 1988 passage cited by Canada:
+
+The principle of good faith is ... “one of the basic principles
+
+governing the creation and performance of legal obligations” ... it
+
+is not in itself a source of obligation where none would otherwise
+ist.79
+
+exist.
+
+169. In the context of the law of treaties, however, the principle of good faith is not called
+upon to be “a source of obligation where none would otherwise exist”. A party to a
+treaty is under a specific obligation to perform its obligations under the treaty, derived
+from the principle pacta sunt servanda, which can reasonably be described as one of
+the cornerstones of international law. Good faith is pertinent to the manner in which
+
+that obligation is to be performed; it is not put forward as a free-standing obligation.*°
+
+170. Secondly, that obligation is derived from customary international law, not from
+NAFTA, for the binding force of a treaty cannot be derived from the treaty itself but
+must reside in some rule of international law which exists independently of the treaty.
+That conclusion has a particular importance for the present case, because Chapter
+Eleven of NAFTA confers upon the Tribunal jurisdiction only with regard to disputes
+concerning alleged breaches of Chapter Eleven itself. While the Tribunal is empowered
+by Article 1131(1) of NAFTA to “decide the issues in dispute in accordance with this
+
+agreement and applicable rules of international law”, that does not give it the
+
+9 Border and Transborder Armed Actions (Nicaragua v. Honduras), I.C.J. Reports 1988, p. 69, para. 94, quoting
+Nuclear Tests (Australia v. France), 1.C.J. Reports 1974, p. 268, para. 46. See also Land and Maritime Boundary
+between Cameroon and Nigeria (Cameroon v. Nigeria), Preliminary Objections, I.C.J. Reports 1998, p. 275,
+para. 38.
+
+8° Article 26 of the Vienna Convention on the Law of Treaties, 1969.
+
+43
+
+171.
+
+172.
+
+173.
+
+jurisdiction to hear a dispute concerning an alleged breach not of Chapter Eleven but
+of other rules of international law. Quite apart, therefore, from whether the duty to
+repeal, or at least cease to enforce, the 2004 Guidelines is a duty owed to Mobil (as
+opposed to one owed by Canada to Mexico and the United States), a breach of that duty
+
+could not, by itself, give rise to a claim falling within the jurisdiction of the Tribunal.
+
+In the Tribunal’s view, however, that is not the end of the matter. When the Mobil I
+Tribunal ruled that the 2004 Guidelines were contrary to Article 1106(1) of NAFTA,
+the legal environment in which those Guidelines existed was altered. Canada’s
+obligation under customary international law to perform its obligations under Article
+1106(1) of NAFTA in good faith, even if not enforceable by Mobil through Chapter
+Eleven arbitration, was nonetheless a highly relevant factor in that changed legal
+environment. Mobil could not have known that Canada would continue to enforce the
+2004 Guidelines against it; indeed, Mobil could reasonably have expected that Canada
+
+would not do so.
+
+In these circumstances, the Tribunal considers that the decision of the Board to continue
+enforcing the 2004 Guidelines notwithstanding the decision of the Mobil I Tribunal was
+an act separate and distinct from the promulgation of the 2004 Guidelines and their
+enforcement until that date. In the immediate aftermath of the Mobil I Decision, Mobil
+could not have known that the Guidelines would have been enforced in the future and
+that it would incur loss as a result of their future enforcement. It first acquired
+knowledge that the Guidelines would be enforced in the future, and that it had suffered
+loss as a result, at the earliest when it received the 9 July 2012 letter. The Tribunal
+therefore concludes that the limitation period in Articles 1116(2) and 1117(2) began to
+run again from the time of receipt of that letter. Since the present arbitration was
+commenced on 16 January 2015, the Tribunal concludes that Mobil’s claim was not
+
+barred by the limitation provisions of Articles 1116(2) and 1117(2).
+
+In reaching that conclusion, the Tribunal is not endorsing Mobil’s “continuing breach”
+argument, with which the Tribunal has already explained it has some difficulties. In
+the present case, the Tribunal considers that the particular importance of the 9 July 2012
+letter in the context of the Mobil I Decision makes it unnecessary to decide whether the
+
+continuing breach theory is correct or not as a matter of law.
+
+44
+
+174.
+
+VII.
+
+175.
+
+One final point which needs to be considered is whether or not the issues examined
+above are properly before the Tribunal. The Parties devoted considerable attention to
+this question both at the hearing and in their post-hearing briefs. The Tribunal has
+concluded that the essence of Mobil’s case all along has been that the decision of the
+Board in July 2012 to continue to enforce the 2004 Guidelines after the adoption of the
+Mobil I Decision was contrary to Article 1106(1). The Tribunal has concluded that that
+case is essentially correct. In making its case, Mobil’s reasoning has differed from the
+manner in which it was originally framed, but that difference concerns aspects of the
+legal reasoning in support of the claim, not the nature of the claim itself. The Tribunal
+accordingly concludes that the claim is properly before it. It is unnecessary for the
+Tribunal to consider whether that would have been the case had the Tribunal been
+tempted to adopt any of the other ways in which Mobil put its case in its final
+
+submissions.
+THE RES JUDICATA ISSUE
+
+Canada’s Position
+
+Canada maintains that the doctrine of res judicata is a well established general principle
+of international law, which has been recognized in the jurisprudence of a wide range of
+
+' Canada
+
+international courts and tribunals and in the literature of international law.*
+refers, in particular, to the decisions of NAFTA arbitration tribunals which have applied
+the doctrine of res judicata, specifically the tribunals in Apotex Holdings Inc. v. United
+States (Apotex IID** and Waste Management v. Mexico,* as well as the decisions of
+other investment tribunals, such as that in Vivendi v. Argentina.** As this argument
+
+was set out in Canada’s Counter-Memorial, it was summarized as follows:
+
+The doctrine of res judicata stipulates that a final decision made by
+a competent international court or tribunal is conclusive between
+those same parties. This means that the same question or dispute
+cannot be raised again by the same parties before another
+international tribunal. The doctrine is intended to assure consistency
+
+*! Canada Counter-Memorial, paras. 173-200; Canada Rejoinder, paras, 133-219; Transcript, 24 July 2017, pp.
+277-315; Transcript, 28 July 2017, pp. 1070-1117.
+
+® CL-22, Apotex Holdings Inc. and Apotex Inc. v. United States of America, (CSID Case No. ARB(AF)/12/1,
+Award, 25 August 2014.
+
+83 CL-23, Waste Management Inc. v. United Mexican States, ICSID Case No. ARB(AF)/00/3, Decision on
+Preliminary Objections, 26 June 2002.
+
+“4 RL-36, Compaiid de Aguas del Aconquija S.A. and Vivendi Universal S.A. v. Argentine Republic, ICSID Case
+No. ARB/97/3, Decision on Jurisdiction, 14 November 2005.
+
+45
+
+176.
+
+177.
+
+178.
+
+85 Canada Counter-Memor'
+Canada Counter-Memorial, par:
+87 Canada Counter-Memorial, paras. 181-199.
+
+86
+
+amongst decisions, efficiency in decision-making, and finality of
+disputes.
+
+For aclaim to be barred by the res judicata effect of a prior decision,
+three criteria have to be satisfied: the proceedings must have been
+conducted (1) before international courts or arbitral tribunals in the
+same legal order, that is, both decision-making bodies are
+international courts or international tribunals; (2) between the same
+parties; (3) concerning the same subject matter. These requirements
+are met in the present case.*>
+
+Canada refers to the passage in Mobil’s Memorial quoted in para. 82, above as
+indicating that Mobil’s claim in the present proceedings was identical to that advanced
+in the Mobil I proceedings, with the same cause of action and a claim for the same
+relief.*° The only difference is that the claim for damages allegedly sustained during
+the period 2012 to 2015 was there advanced as a claim for future losses and is here put
+forward as a claim for damages already incurred. In Canada’s view, the Mobil I
+Tribunal held that it had jurisdiction to consider Mobil’s claim for these damages,
+considered them on the merits and rejected that claim because the evidence advanced
+
+in support was found to be insufficient.*”
+
+Canada’s argument was developed in much greater detail in the Rejoinder. Canada
+
+there sets out what it regards as the two branches of res judicata:
+
+(a) issue estoppel, which “prevents re-litigation of specific issues that were decided
+
+upon by a previous tribunal”;** and
+
+(b) cause of action estoppel, which “has the broader effect of barring a second claim
+based on an identical cause of action or subject-matter as was previously
+
+adjudicated”.*?
+
+In its Rejoinder, Canada argues that cause of action estoppel is applicable because
+Mobil is advancing the same claim, based on the same cause of action, as it had
+
+advanced in Mobil I.°° In this context, it relies upon the decision of the Appellate Body
+
+179-180.
+182.
+
+ 
+
+8 Canada Rejoinder, para. 134,
+
+8 Canada Rejoinder, par:
+
+134.
+
+ 
+
+% Canada Rejoinder, paras. 138-165.
+
+46
+
+of the World Trade Organization in the 2003 EC-India case,°! and the awards of the
+Spain-US Claims Commission in Machado** and Delgado®* as authority for the
+
+proposition that
+
+the mere fact that an arbitral tribunal did not make a decision on a
+specific issue or sub-issue relating to a claim or cause of action does
+not impair the operation of res judicata such that a claimant can
+commence another arbitration relying on the same underlying injury
+or cause of action and undecided issues.™*
+
+179. Nevertheless, Canada also maintains, in its Rejoinder, its earlier argument that the claim
+is barred by issue estoppel, because it was decided by the Mobil I Tribunal.> Both
+arguments were confirmed by Canada at the Hearing. At the Hearing, Canada’s counsel
+
+told the Tribunal:
+
+... our core submission is this: The Mobil/Murphy Tribunal decided
+that it had jurisdiction over Mobil’s entire claim for damages,
+including the period before this Tribunal, 2012 to 2015, and that the
+claim was admissible.
+
+The evidence produced by the Claimant in support of quantification
+of its future damages was examined extensively on the merits. Both
+sides had full and fair opportunity to plead their case, but it was the
+Claimant’s burden to prove quantification.
+
+After extensive submissions, the Tribunal found and came to the
+conclusion that the Claimant simply did not reach its burden of proof
+to a standard of reasonable certainty. That finding has res judicata
+effect as a matter of international law. It is a substantive decision
+on the merits that extinguishes the claim forever.”
+
+B. Mobil’s Position
+
+180. Mobil accepts that the doctrine of res judicata is a well established principle of
+international law; indeed it relies upon that doctrine itself in support of its contention
+
+(which is not disputed by Canada) that the decision of the Mobil I Tribunal finding
+
+°! RL-80, European Communities — Anti-Dumping Duties on Imports of Cotton-Type Bed Linen, Report of the
+Appellate Body, 8 April 2003 (WT/DS141/AB/RW) AB-2003-1.
+
+* RL-37, 3 Moore’s International Arbitrations 2193 (1880).
+
+°3 RL-38, 3 Moore’s International Arbitrations 2196 (1880).
+
+°4 Canada Rejoinder, para. 154.
+
+°5 Canada Rejoinder, paras. 175-198.
+
+°© Transcript, 24 July 2017, pp. 278-279.
+
+47
+
+181.
+
+182.
+
+183.
+
+184.
+
+°7 Mobil Reply, pa
+°8 CL-18, Rachel
+
+Canada in breach of Article 1106(1) of NAFTA cannot be reopened in the present
+
+proceedings.
+
+For Mobil, however, the real question before the Tribunal is “was the issue at the heart
+of this arbitration, namely the determination of the quantum of losses suffered by Mobil
+
+from 2012 through 2015, finally determined by the Mobil I Tribunal such as to render
+
+it res judicata between the parties? The answer is no.”°”
+
+Referring to the award in Grynberg v. Grenada,** Mobil summarizes the res judicata
+
+doctrine in the following terms:
+
+a finding [of a prior competent tribunal] concerning a right, question
+or fact may not be re-litigated (and, thus, is binding on a subsequent
+tribunal) if, in a prior proceeding: (a) it was distinctly put in issue;
+(b) the court or tribunal actually decided it; and (c) the resolution of
+the question was necessary to resolving the claim before that court
+or tribunal.”
+
+According to Mobil, the second part of this test is not satisfied, because the Mobil I
+Tribunal did not decide the question of damages for the period 2012 to 2015. On the
+
+contrary, it stated that the matter was “not ripe for determination” and concluded:
+
+In our view, there is no basis at present to grant compensation for
+uncertain future damages. Given that the implementation of the
+2004 Guidelines is a continuing breach, the Claimants can claim
+compensation in new NAFTA arbitration proceedings for losses
+which have accrued but are not actual in the current proceedings.
+
+ 
+
+The Hearing
+
+During the Hearing, the Tribunal drew the attention of the Parties to the Judgment of
+the International Court of Justice of 17 March 2016 in Question of the Delimitation of
+the Continental Shelf between Nicaragua and Colombia beyond 200 Nautical Miles
+from the Nicaraguan Coast (Nicaragua v. Colombia).'°' In that case, the International
+Court of Justice had been faced with an argument advanced by Colombia that the
+
+question of whether Nicaragua was entitled to a continental shelf beyond 200 nautical
+
+96.
+Grynberg, Stephen M. Grynberg, Miriam Z. Grynberg and RSM Production Corporation v.
+
+  
+   
+
+Grenada, ICSID Case No. ARB/10/6, Award, 10 December 2010, para. 7.1.1.
+% Mobil Reply, para. 100.
+
+100 Mobil I Decision, p
+
+478.
+
+ 
+
+101 1. C.J. Reports 2016, p. 100.
+
+48
+
+185.
+
+186.
+
+187.
+
+miles from its coast was res judicata as between the two States, because of the
+Judgment of the Court of 2012 in earlier proceedings between them.'° The Court
+concluded that res judicata did not operate as a bar in the 2016 case, because the Court
+had not, in its 2012 Judgment, actually decided the issue. The Parties made submissions
+
+regarding the effect of this 2016 Judgment at the Hearing on 28 July 2017.
+
+For Mobil, the Court’s 2016 Judgment confirmed its argument that res judicata did not
+operate with regard to a question unless the earlier court or tribunal had actually decided
+that issue; it was not enough that the issue had been put before it. Indeed, Mobil
+considered the case against the application of res judicata in the present proceedings to
+be stronger than that in the proceedings before the International Court of Justice, since
+the Court, in the operative part of its 2012 Judgment, had made an express finding that
+it could not uphold Nicaragua’s claim,'°* whereas there was no such finding in the
+Mobil I Decision or Award. Moreover, while the Mobil J Tribunal had expressly stated
+that Mobil could bring its claim for damages for future losses in fresh NAFTA
+proceedings, the International Court of Justice had said nothing in its 2012 Judgment
+
+about the possibility of Nicaragua bringing a new case before the Court.!°*
+
+Canada, on the other hand, denied that the International Court of Justice’s 2016
+Judgment ran counter to its submission that a party could not be allowed to advance in
+a second set of proceedings a claim that had been advanced in earlier proceedings
+between the same parties and which was based upon the same cause of action. Canada
+also affirmed its case that the Mobil I Tribunal had in fact ruled upon, and rejected,
+
+Mobil’s claim for future losses.
+
+The Tribunal’s Analysis
+
+The principle of res judicata has long formed part of many — if not most — systems of
+national law. That is not to say that the scope and application of the principle is the
+same in every national legal system.!°> Nevertheless, whatever its origins, it is now an
+
+established principle of international law. In the words of Bin Cheng, “[t]here seems
+
+'©2 Territorial and Maritime Dispute (Nicaragua v. Colombia), C.J. Reports 2012 (II), p. 624.
+"93 .C.J. Reports 2012 (II), p. 719, para. 251(3).
+‘04 Transcript, 28 July 2017, pp. 1002-1003.
+
+105
+
+See Zuener and Koch, “Res Judicata” in Cappelletti (ed.) International Encyclopaedia of Comparative Law,
+
+vol. XVI (2014), Chapter 9.
+
+49
+
+188.
+
+189.
+
+190.
+
+191.
+
+little, if indeed any, question as to res judicata being a general principle of law or as to
+
+its applicability in international judicial proceedings”. !°°
+
+An international law principle of res judicata can be traced back to the decisions of the
+various mixed claims commissions more than one hundred years ago. As the French-
+Venezuelan Mixed Claims Commission put it in the Orinoco case, “a right, question or
+fact distinctly put in issue and directly determined by a court of competent jurisdiction,
+
+as a ground of recovery, cannot be disputed”. !°7
+
+The principle has long been accepted and applied by the International Court of Justice
+and its predecessor, the Permanent Court of International Justice. In its Judgment of
+2007 in the Bosnia v. Serbia and Montenegro case, the International Court of Justice
+
+observed:
+
+Two purposes, one general, the other specific underlie the principle
+of res judicata, internationally as nationally. First, the stability of
+legal relations requires that litigation come to an end. The Court’s
+function, according to Article 38 of its Statute, is to “decide”, that
+is, to bring to an end “such disputes as are submitted to it”.
+Secondly, it is in the interest of each party that an issue which has
+already been adjudicated in favour of that party be not argued again.
+Article 60 of the Statute articulates this finality of judgments.
+Depriving a litigant of the benefit of a judgment it has already
+obtained must in general be seen as a breach of the principles
+governing the legal settlement of disputes. !°*
+
+This decision was followed by the Court in its 2016 Judgment in Nicaragua v.
+Colombia, to which reference has already been made, and, most recently, in its
+
+Judgment of 2018 in two joined cases between Costa Rica and Nicaragua.'? The
+
+principle has also been applied in NAFTA arbitrations and other investment cases.!!°
+
+The question, therefore, is not whether a principle of res judicata is embodied in
+international law but rather what is its extent. In a dissenting, but nonetheless
+
+influential, opinion in the Permanent Court of International Justice, Judge Anzilotti
+
+106 CL-17, Bin Cheng, General Principles of Law as Applied by International Courts and Tribunals (1953), p-
+
+336.
+
+07 CL-88, Company General of the Orinoco
+
+, 31 July 1905, X UNRIAA 276 (emphasis in the original).
+
+ 
+
+108 Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia and
+Herzegovina v. Serbia and Montenegro), I.C.J. Reports 2007 (1), pp. 90-91, para. 116.
+
+10° Maritime Delimitation in the Caribbean Sea and Pacific Ocean and Land Boundary in the Northern Part of
+the Isla Portillos (Costa Rica v. Nicaragua), Judgment of 2 February 2018, para. 68 (not yet reported).
+
+110 See Apotex III, Waste Management and Vivendi, cited above at notes 82-84, above.
+
+50
+
+maintained that res judicata required identity of parties, object and legal ground
+(personae, petitum and causa petendi). The subsequent case law of the International
+Court has, however, made clear that these are necessary but not sufficient conditions.
+
+As the Court put it in its 2016 Nicaragua v. Colombia Judgment:
+
+59. It is not sufficient, for the application of res judicata, to identify
+the case at issue, characterized by the same parties, object and legal
+ground; it is also necessary to ascertain the content of the decision,
+the finality of which is to be guaranteed. The Court cannot be
+satisfied merely by an identity between requests successively
+submitted to it by the same Parties; it must determine whether and
+to what extent the first claim has already been definitively settled.
+
+60. The Court underlined in its Judgment of 26 February 2007,
+rendered in the case concerning Application of the Convention on
+the Prevention and Punishment of the Crime of Genocide (Bosnia
+and Herzegovina v. Serbia and Montenegro), that “[i]f a matter has
+not in fact been determined, expressly or by necessary implication,
+then no force of res judicata attaches to it; and a general finding may
+have to be read in context in order to ascertain whether a particular
+matter is or is not contained in it” (I.C.J. Reports 2007 (I), p. 95,
+para. 126).!!!
+
+192. While the 2016 Judgment was adopted on the casting vote of the President, the principal
+focus of the dissenting opinions was upon the application of the above test to the earlier
+Judgment of 2012. The test laid down in paragraphs 59 and 60 of the 2016 Judgment
+was repeated and applied in the 2018 Judgment in Costa Rica v. Nicaragua, the relevant
+
+part of which was adopted by fifteen votes to one.!!?
+
+193. A similar approach has been taken by other international tribunals. The passage from
+the Orinoco case which requires that the right, question or fact must have been “directly
+determined” by the prior tribunal has already been quoted.''* In the context of investor-
+State arbitration, the requirement that, for res judicata to apply in respect of a particular
+
+issue, that issue must actually have been decided by the prior court or tribunal was
+
+"1 LCJ. Reports 2016, p. 126.
+
+'2 Maritime Delimitation in the Caribbean Sea and Pacific Ocean and Land Boundary in the Northern Part of
+the Isla Portillos (Costa Rica v. Nicaragua), Judgment of 2 February 2018, para. 205(1) (not yet reported).
+
+113 See para. 187, above.
+
+51
+
+5 116
+
+expressly affirmed in Amco v. Indonesia,''* Grynberg,''> Waste Management''® and
+
+Apotex III!"
+
+194. There is no doubt that there is an identity of parties between the present case and
+Mobil I. It also clear that the claim presently advanced by Mobil was also advanced by
+it in the Mobil I proceedings, since Mobil asked the Mobil I Tribunal to award it
+damages for the same period for which it seeks damages in the present proceedings and
+in respect of the same losses. The only difference is that in the present case the damages
+are sought for losses which, in the words of the Mobil I Tribunal are now “actual”,
+
+whereas they were found not to be “actual” at the time of the Mobil I decision.''®
+
+195. The question, therefore, is whether, in the words of the International Court of Justice,
+the claim for damages for the period 2012 to 2015 was “definitively settled” by the
+Mobil I Tribunal. Canada maintains that it was. It notes that the Mobil J Tribunal held
+that it had jurisdiction to determine the claim for future damages which had been
+submitted to it and that that claim was admissible.'!? Canada considers that, in Part
+VIII of the Decision and, in particular, in paragraphs 473-478, the Mobil J Tribunal then
+assessed the evidence advanced by Mobil in support of its claim for future damages and
+found it wanting, and that its decision must, therefore, be treated as a definitive rejection
+of the claim, precluding Mobil from having what Canada terms “a second bite at the
+
+cherry” by renewing its claim in the present proceedings.
+
+196. The Tribunal considers that Part VIII of the Mobil I decision is not as clear as might be
+wished. The Mobil J Tribunal certainly did consider the evidence of future loss put
+before it and commented thereon, highlighting the uncertainty of that evidence'”° and
+
+observing that “the evaluation of future damages for such a long period is extremely
+
+114 CL-87, Amco Asia Corporation and others v. Republic of Indonesia, \CSID Case No. ARB/81/1, Decision on
+Jurisdiction (Resubmitted), para. 30 (quoting an expert opinion by Professor Reisman which in turn relied upon
+the passage from the Orinoco case quoted above at para. 187, above).
+
+''5 See note 98, above.
+
+16 CL-89, Waste Management, Inc. v. United Mexican States, ICSID Case No. ARB(AF)/00/3, Decision on
+Preliminary Objections, 26 June 2002, para. 45 (“a decision on a particular point constitutes a res judicata as
+between the parties to that decision if it is a necessary part of the eventual determination and is dealt with as such
+by the tribunal”).
+
+"7 CL-22, Apotex Holdings Inc. and Apotex Inc. v. United States of America, (CSID Case No. ARB(AF)/12/1, 25
+
+ 
+
+ 
+
+120 Mobil I Decision, para. 478.
+
+52
+
+197.
+
+198.
+
+199.
+
+200.
+
+hazardous and it does not, on balance, seem to us that the estimates are more probable
+
+than not”.!?!
+
+Nevertheless, on a close reading of Part VIII of the Decision, there are several factors
+which the present Tribunal considers show that the Mobil I Tribunal did not in fact
+
+arrive at a definitive settlement of the claim.
+
+First, that Tribunal said on more than one occasion that it was not making a final
+
+determination. Thus, the Mobil J Tribunal observed that
+
+(a) “Turning to future damages, under the facts before us, we are not yet able to
+properly assess the Claimants’ claim for future damages; too many critical
+questions remain open ... the claim for such losses is not yet ripe for
+
+determination” ;!7? and
+
+(b) “The Tribunal has applied the reasonable certainty standard discussed above,
+which has not led to a conclusion per se, but rather to a finding that there is too
+
+much uncertainty at this stage for the Tribunal to make a determination”. !?7
+
+The present Tribunal is neither required, nor entitled, to rewrite the Mobil I Decision
+and we find it very difficult to conclude that that Tribunal was in fact deciding an issue
+
+when it said in terms that it was not doing so.
+
+Secondly, the Mobil I Tribunal said that the claim for future damages was “not yet ripe
+for determination”.'?* Canada has tried to represent this statement as meaning that the
+evidence for the claim was not sufficient and that the Mobil I Tribunal was therefore
+finding that Mobil had failed to discharge its burden of proof. But that is not the
+ordinary meaning of the words used. To say that something is “not yet ripe” implies
+that it will, or, at least, may be expected to, become “ripe” at a later stage. That is true
+
+whether one is talking about an apple being “ripe for eating” or a claim being “ripe for
+
+determination”.
+
+ 
+
+'24 Mobil I Decision, para. 473; see also paras. 470 and 472.
+
+53
+
+201.
+
+202.
+
+203.
+
+204.
+
+205.
+
+225 Mobil I Decision, p
+126 Mobil I Decision,
+
+Thirdly, a passage on which Canada particularly relies does not seem to us to support
+
+Canada’s interpretation of what the Mobil I Tribunal decided. That passage is:
+
+Although ultimately it is not strictly relevant given that we are not
+inclined to compensate for expenditures not paid or levied (i.e.
+required to be paid), we have also highlighted the uncertainty of the
+evidence pertaining to the amount of incremental expenditures in
+this largely future period. In our view, there is no basis to grant at
+present compensation for uncertain future damages. !2>
+
+This passage is certainly suggestive of a weakness in the evidence advanced by Mobil
+in support of its claim but it is not a finding that Mobil had failed to meet its burden of
+proof. The Tribunal states that its observation is “not strictly relevant”. It then goes on
+to say that it has “highlighted” the uncertainty of the evidence. That is not the language
+of a “final determination” or “definitive settlement” of the claim. Moreover, the
+passage quoted should not be taken out of context. It has to be read in the light of the
+other statements quoted in which the Mobil I Tribunal denied that it was making a
+
+decision on the evidence.
+
+Lastly, the passage quoted in para. 201 above was immediately followed by this
+
+statement:
+
+Given that the implementation of the 2004 Guidelines is a
+continuing breach, the Claimants can claim compensation in new
+NAFTA proceedings for losses which have accrued but are not
+actual in the current proceedings. !7°
+
+This statement is wholly incompatible with an interpretation of the Mobil I Decision as
+a finding that against the claim for future damages on the ground that the evidence was
+insufficient. The very experienced members of the Mobil J Tribunal would have known
+
+full well that, because of the doctrine of res judicata, such a finding would have
+
+precluded any future claim.
+
+It can of course be argued that, having heard evidence and argument in support of the
+claim for future damages, held that it had jurisdiction to determine that claim, and
+
+(seemingly) '?’ that the claim was admissible, the Mobil J Tribunal should have decided
+
+  
+
+para. 478.
+'27 The only reference to admissibility is in para. 429 but the reasoning in that paragraph addresses the different
+
+issue of jurisd
+
+ 
+
+54
+
+206.
+
+207.
+
+208.
+
+the claim on its merits and, if it considered that the evidence was insufficient, have
+dismissed the claim. But it did not do so and res judicata requires that the previous
+court or tribunal did decide a question, not that it should have done so. This Tribunal
+is no more entitled to substitute its view of what the Mobil I Tribunal should have
+decided for what it did decide on this issue than it is to substitute its view as to the
+
+merits of whether there was a breach of Article 1106 for that of the Mobil J Tribunal.
+
+The Tribunal cannot, therefore, accept Canada’s principal argument based on the “issue
+
+estoppel” branch of res judicata.
+
+That leaves Canada’s alternative argument based on what it terms the “cause of action”
+branch of res judicata. As outlined above (paras. 176-177), this argument, which was
+first advanced in Canada’s Rejoinder, is that even if a prior tribunal did not definitively
+decide on a claim, if that claim was put before it and the tribunal held that it possessed
+jurisdiction, the same claim based on the same cause of action cannot be advanced
+
+before a later tribunal.
+
+The Tribunal is not persuaded by this argument. First, it runs counter to a long line of
+authority. As has been seen, the International Court of Justice has consistently insisted
+that a matter must have been decided by the earlier judgment in order to give rise to a
+res judicata. That is particularly clear in the 2016 Nicaragua v. Colombia Judgment.
+In those proceedings, Nicaragua was advancing a claim which it had already put before
+the Court in the earlier proceedings which had culminated in the 2012 Judgment. Its
+cause of action was the same. Yet the Court held that res judicata did not bar the later
+claim, because the Court, in its 2012 Judgment, had not ruled upon it. Indeed, as Mobil
+points out, the Court reached that conclusion notwithstanding the fact that, in the
+operative part of the 2012 Judgment, the Court had expressly concluded that it could
+not uphold Nicaragua’s claim (a decision that has no counterpart in the Mobil I
+Decision). It is difficult to see how Canada’s alternative argument can be reconciled
+
+with the Court’s 2016 Judgment.
+
+55
+
+209.
+
+210.
+
+211.
+
+212.
+
+Similarly, the majority of the arbitration awards which discuss res judicata, as has
+already been shown, emphasize the need for a matter to have been “distinctly
+
+determined” before res judicata can apply.!
+
+Secondly, the authorities on which Canada particularly relies do not afford much
+support for its position. The Decision of the WTO Appellate Body in the EC-India case
+was that the European Commission was barred by res judicata from advancing a claim
+in the later proceedings when the Panel in the earlier proceedings had held that it had
+failed to establish even a prima facie case in support of the same claim. There was no
+suggestion that the claim was “not yet ripe for determination”. Of the older authorities
+cited by Canada, the award of the Spain-US Claims Commission in Machado
+concerned a claim which had earlier been dismissed for want of prosecution. Such a
+decision can reasonably be considered to have definitive effect and to bar the bringing
+of a fresh claim but it is quite different from the circumstances of the present case. The
+award of the same Commission in Delgado comes closer to providing support for
+Canada’s argument but the Tribunal considers that this award, given in 1880, cannot
+prevail against the long series of modern awards and judgments of the International
+
+Court of Justice.
+
+Finally, the Tribunal considers that Canada’s alternative argument does not reflect the
+principles on which the International Court said, in its 2007 Bosnia Judgment, the
+international law doctrine of res judicata rests.'?? The stability of legal relations is not
+threatened by allowing a litigant to pursue a claim when the previous tribunal had
+expressly stated that that claim was not yet ripe for determination and should be pursued
+in later proceedings. On the contrary, to hold in such circumstances that the litigant
+was barred from bringing such a claim would be to work a considerable injustice. Nor
+is there any question of depriving Canada of the benefit of a judgment it has already
+obtained, since the Mobil I Decision expressly states that no judgment was being given
+
+in favour of Canada on this point.
+
+The Tribunal therefore rejects Canada’s res judicata argument.
+
+28 See para. 192, above.
+'29 See para. 188, above.
+
+56
+
+VII.
+
+213.
+
+CONCLUSIONS
+
+Accordingly, the Tribunal:
+
+(1) rejects Canada’s argument that the claim is barred by Articles 1116(2) and
+1117(2);
+
+(2) rejects Canada’s argument that the claim is barred by the doctrine of res judicata;
+
+(3) decides to proceed to post-hearing briefing on the remaining questions and to
+issue an award thereon. The Tribunal will consult the Parties regarding the
+
+schedule for such pleading which will then be embodied in a procedural order;
+
+(4) decides that the question of costs will be reserved to be dealt with in the final
+
+award.
+
+s7
+
+[signed] [signed]
+
+ 
+
+Dr Gavan Griffith, QC Mr J. William Rowley, QC
+Arbitrator Arbitrator
+Date: 28 June 2018 Date: 26 June 2018
+[signed]
+
+Sir Christopher Greenwood, CMG, QC
+President of the Tribunal
+
+Date: 2 July 2018
+
+58
+

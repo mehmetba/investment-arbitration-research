@@ -1,0 +1,575 @@
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 1 of 17
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+ 
+
+PREBLE-RISH HAITI, S.A.,
+Petitioner, 21-cv-6704 (PKC)
+-against-
+OPINION AND ORDER
+REPUBLIC OF HAITI, BUREAU DE
+MONETISATION DE PROGRAMMES D’ AIDE AU
+DEVELOPPEMENT,
+
+Respondents.
+
+ 
+
+CASTEL, U.S.D.J.
+
+Before this Court is a petition by petitioner Preble-Rish Haiti, S.A. (“PRH”) to
+recognize, confirm, and enforce a Partial Final Award of an international arbitration panel in its
+favor against the respondents Republic of Haiti and the Bureau de Monétisation des Programmes
+d’ Aide au Développement, a Haitian governmental agency (collectively, “BMPAD”).! BMPAD
+opposes the petition, primarily arguing that (1) the Court lacks jurisdiction to decide the case
+because the Convention on the Recognition and Enforcement of Foreign Arbitral Awards (“New
+York Convention”) does not apply and (2) even if the New York Convention did apply,
+enforcement would be precluded by several enumerated defenses under the New York
+Convention. (Doc 19 (BMPAD Br.) at 2-3.)
+
+For the following reasons, PRH’s petition is granted. Familiarity with the filings
+
+' The Court notes that the agency’s name appears to be written with “des Programmes,” and not with “de
+Programmes.” BUREAU DE MONETISATION DES PROGRAMMES D’ AIDE AU DEVELOPPEMENT, https://bmpad.gouv.ht.
+(See also Doc 25-1 (PRH's Nov. 4, 2020 Letter to BMPAD) (The French version of the letter is addressed to "
+Bureau de monétisation des programmes d’aide au développement (BMPAD)). The Clerk of the Court is
+respectfully directed to amend the caption accordingly.
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 2 of 17
+
+and the Court’s orders in this matter and the related matters (21-cv-4960 (PKC) and 21-cv-9040
+(PKC)) is presumed.
+BACKGROUND
+
+PRH is a company organized under the laws of Haiti with a principal place of
+business in Pétion-Ville, Haiti. (Doc 8 (Petition) { 2.) PRH provides infrastructure-project
+management and material supply, and as related to the at-issue claims against BMPAD, also
+acted as a marine transportation fuel supplier and importer of record. (Id.) BMPAD are foreign
+entities organized under the laws of Haiti with a principal place of business in Port-au-Prince,
+Haiti. (Id. J 3.)
+
+On May 13, 2020, PRH and BMPAD entered into three contracts whereby PRH
+agreed to source, ship, and deliver fuel to BMPAD for a fee. (21-cv-04960 (PKC), Doc 60 (the
+“Sept. 2021 Order”) at 2; Petition {| 7-8 (citing 21-cv-04960 (PKC), Doc 14-1 (Leconte Aff.) {
+2).) Specifically, PRH agreed to make six monthly shipments of certain fuels, based on the total
+monthly quantity requested by BMPAD. (Sept. 2021 Order at 2.) The first four fuel orders
+proceeded uneventfully, but BMPAD allegedly fell behind on payments on the fifth order. (Id.)
+Though payment had yet to be received, PRH continued with the sourcing and shipping process,
+sending reminders to BMPAD as the invoices became due and ships were loaded with BMPAD’s
+fuel. (Id.) BMPAD acknowledged receipt of shipping documents for the Haiti-bound ships
+carrying the unpaid fuel and took possession of the fuel as the ships arrived in Haiti. However,
+payment was never sent to PRH. Eventually, PRH halted all fuel shipments to BMPAD and
+alleges that BMPAD now owes approximately $27.2 million dollars in damages from the unpaid
+invoices for fuel delivered, including lost profits. (Id.)
+
+The three contracts at issue contained identical arbitration clauses, which read as
+
+follows:
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 3 of 17
+
+Article 20. ARBITRATION AND LEGISLATION
+
+In the event of a dispute between the Buyer [BMPAD] and Seller
+[PRH] under this Contract, the dispute shall be submitted by either
+party to arbitration in New York before three arbitrators. The
+Party initiating the arbitration shall provide written notice of its
+intention to submit the matter to arbitration. Such notification
+shall contain a statement identifying the request for arbitration and
+specifying the arbitrator appointed by the initiating Party. Within
+ten (10) days of such notice of arbitration, the other Party will
+identify its appointed arbitrator. If such Party fails to appoint an
+arbitrator within the applicable 10-day period and fails to give
+timely notice of such appointment to the Initiating Party, then the
+initiating Party shall also be entitled to appoint this second
+arbitrator. The third arbitrator will be chosen by the two arbitrators
+thus selected. . . . The decision of the arbitrators shall be final,
+conclusive and binding on all Parties. Judgment upon such award
+may be entered in any court of competent jurisdiction. ... No
+arbitrator shall be an employee, representative or agent of a Party
+and each shall reasonably believe that the selecting Party has the
+experience, education and expertise in the matters to which the
+claim relates to enable that person to competently perform such
+arbitration function.
+
+(Leconte Aff. { 6.)
+
+Pursuant to the arbitration clauses in the three contracts, PRH served a notice
+
+demanding arbitration of its claims against BMPAD on November 20, 2020. (Petition {| 83;
+
+Sept. 2021 Order at 2.) The arbitration notice identified Robert G. Shaw as PRH’s appointed
+
+arbitrator, called upon BMPAD to appoint its own arbitrator, and indicated that if “BMPAD fails
+
+to appoint an arbitrator within 10 days, PRH will select an arbitrator on [BMPAD’s] behalf.
+
+Both arbitrators will then appoint a third arbitrator.” (Doc 5-1 (Partial Final Award) { 4.)
+
+BMPAD did not appoint the second arbitrator by the required deadline of November 30, 2020
+
+and PRH appointed LeRoy Lambert as the second arbitrator. (Id. [ 5.) On December 1, 2020,
+
+Mr. Shaw and Mr. Lambert appointed Louis Epstein as the third and final arbitrator on the panel,
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 4 of 17
+
+and Mr. Epstein notified the parties of his appointment. (Id.) In response, on December 22,
+2020, BMPAD filed a petition in the Supreme Court of New York to stay the arbitration pursuant
+to N.Y. C.P.L.R. § 7503(b) (Case Index No. 657237/2020). (Partial Final Award {| 6; Doc 20-1
+at 9.)
+
+On March 24, 2021, PRH submitted its Initial Claim Statement and Request for
+an Interim Partial Award of Security to the arbitration panel. (Petition { 84; Partial Final Award
+4.7.) On March 27, 2021, BMPAD responded via e-mail to PRH's Initial Claim Statement and
+Request for an Interim Partial Award, stating that BMPAD did not recognize the panel's
+jurisdiction and had filed in state court a petition for a stay and request for a temporary
+restraining order and preliminary injunction. (Petition { 84; Partial Final Award { 8.) On April
+5, 2021, in the absence of injunctive relief from state court, the panel ruled that the arbitration
+would proceed. (Sept. 2021 Order at 2; Partial Final Award {J 6-11.) The panel directed
+BMPAD to "respond fully and substantively" to PRH's Initial Claim by April 23, 2021. (Petition
+| 85; Partial Final Award { 11.) BMPAD submitted its response on April 23, 2021, PRH
+submitted its reply on April 30, 2021, and on May 20, 2021, the panel scheduled a remote oral
+hearing for June 21-23, 2021. (Petition J 85; Partial Final Award {J 14-16.)
+
+On June 2, 2021, BMPAD emailed the arbitration panel, (1) repeating its
+jurisdictional objections, (2) asserting that "due process would require that any hearing take
+place live and in-person" and that "various technical issues (including a recent Covid surge) in
+Haiti" would make a remote hearing and preparations for any hearing a "practical impossibility,"
+and (3) informing the panel that BMPAD "will not be attending any ‘hearings' [the panel has]
+scheduled." (Partial Final Award § 17.) On June 4, 2021, the panel responded that the scheduled
+
+hearing would proceed as scheduled, noting that (1) sufficient notice had been given, (2) remote
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 5 of 17
+
+proceedings would not violate due process, (3) depositions are not normally part of arbitration
+proceedings, (4) BMPAD was free to request document production from PRH for use at the
+hearing, (5) the panel would require further evidence of technical issues and their effects on
+BMPAD's preparation for the hearing, and (6) BMPAD may still participate in the hearing while
+reserving its position that the agreement to arbitrate was invalid under Haitian law. (Id. { 18.)
+
+On June 9, 2021, BMPAD advised that Ignace Saint-Fleur, BMPAD's director
+and principal witness, had contracted COVID-19. (Id. { 19.) On June 12, 2021, the panel
+requested further details about Mr. Saint-Fleur's condition and prognosis, and on June 17, 2021,
+following communications regarding updates on Mr. Saint-Fleur's condition and ability to
+remotely participate in the hearing, the panel adjourned the hearing to new dates, which were
+later finalized for July 28-29, 2021. (Id. {{[ 19-23, 26.) On June 30, 2021, BMPAD advised the
+panel that Mr. Saint-Fleur had recovered from COVID-19, but on July 16, 2021, requested a 60-
+day further adjournment. (Id. {{] 26, 28.) BMPAD cited the July 7, 2021 assassination of the
+Haitian president—who allegedly had been overseeing and directing work on the arbitration—.
+and that plaintiff's then attachment of approximately $29 million in a Haitian bank account
+rendered the arbitration moot.* (Id. { 28.) On July 21, 2021, the panel denied BMPAD's request
+for a 60-day adjournment, in essence questioning whether the assassination of President Moise
+actually hindered the hearing preparation and noting that should BMPAD successfully vacate the
+maritime attachment in the federal case, it could leave PRH without any security for a potential
+award. (Id. {J 30-31.)
+
+From July 23, 2021 to July 27, 2021, BMPAD and the panel discussed BMPAD's
+
+attendance at the hearing scheduled to begin on July 28, 2021—BMPAD maintained its position
+
+? The Court later vacated this attachment in the Sept. 2021 Order.
+
+5
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 6 of 17
+
+that it could and would not attend the hearing, while the panel retained the July 28, 2021 start
+date, rejected BMPAD's allegations of bias from the panel and violations of due process, and
+encouraged BMPAD to attend the hearing to contest PRH's application, cross-examine PRH's
+witnesses under oath, and present its own witnesses while still preserving any rights it may have.
+(Id. {[ 32-34.) The hearing took place as planned on July 28, 2021—although the lawyers for
+BMPAD were given a link to the remote session, they did not participate. (Id. { 35.) On July 29,
+2021, having received no response from BMPAD as to their participation on the second day of
+the hearing, the panel informed the parties that the second day of the hearing was cancelled. (Id.
+36.) On August 6, 2021, the arbitration panel issued a Partial Final Award granting PRH’s
+petition for a pre-award security and directing BMPAD to deposit $23,043,429.79 into an escrow
+account. (Partial Final Award { 119.)
+
+PRH commenced the instant action pursuant to the New York Convention, June
+10, 1958, 21 U.S.T. 2517, 330 U.N.T.S. 38, and Chapter Two of the Federal Arbitration Act, 9
+U.S.C. §§ 201 et seq. (the “FAA”), seeking an order recognizing, confirming and enforcing the
+Partial Final Award against BMPAD. (Petition at 1-2.)
+DISCUSSION
+
+L Applicable Law
+
+Where an arbitration "involve[s] parties domiciled or having their principal place
+of business [outside of the United States,]" it is subject to the New York Convention as codified
+in 9 U.S.C. §§ 201-08. Yusuf Ahmed Alghanim & Sons, W.L.L. v. Toys 'R' Us, Inc., 126 F.3d
+15, 19 (2d Cir. 1997) (internal quotations omitted). Where an arbitration is conducted in the
+United States, "the domestic provisions of the FAA also apply, as is permitted by Articles
+
+V(1)(e) and V(2) of the New York Convention." Scandinavian Reins. Co. Ltd. v. St. Paul
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 7 of 17
+
+Marine & Fire Ins. Co., 668 F.3d 60, 71 (2d Cir. 2012); see also Sole Resort, S.A. de C.V. v.
+
+ 
+
+Allure Resorts Mgmt., LLC, 450 F.3d 100, 102 n.1 (2d Cir. 2006) ("[T]he FAA and the New
+York Convention work in tandem, and they have ‘overlapping coverage’ to the extent that they do
+not conflict.") Under Chapter 2 of the FAA, which implements the United States’ obligations
+under the New York Convention, actions or proceedings that fall under the New York
+Convention include "arbitration agreement{[s] or arbitral award[s] arising out of a legal
+relationship, whether contractual or not, which is considered as commercial." CBF Indtistria de
+Gusa S/A v. AMCI Holdings, Inc., 850 F.3d 58, 71 (2d Cir. 2017) (quoting 9 U.S.C. § 202).
+
+PRH and BMPAD are entities organized under the laws of Haiti and have their
+principal places of business in Haiti, which is also a party to the New York Convention. The
+arbitration between PRH and BMPAD occurred in the United States, specifically in New York as
+directed by the contracts at issue, contracts which created a legal and commercial relationship
+between PRH and BMPAD. Furthermore, the Partial Final Award here is “not considered
+domestic,” because the arbitration “involv[ed] parties domiciled or having their principal place
+of business [in Haiti,] outside the enforcing jurisdiction” of the United States. Bergesen v.
+Joseph Muller Corp., 710 F.2d 928, 932 (2d Cir. 1983). Accordingly, the Court will apply the
+New York Convention, its implementing legislation, 9 U.S.C. § 201 et seq., and the domestic
+provisions of the FAA, to the extent not in conflict with the Convention. This Court has subject
+matter jurisdiction over the petition pursuant to Section 203 of Title 9 and BMPAD’s arguments
+to the contrary are rejected.* (BMPAD Br. at 16-21.)
+
+IL. PRH's Petition to Confirm the Partial Final Award
+A petition to confirm an arbitration award should be “treated as akin to a motion
+
+5 The implementing legislation grants original jurisdiction to a district court, regardless of the amount in
+controversy, for actions and proceedings brought under the New York Convention. 9 U.S.C. § 203.
+
+7
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 8 of 17
+
+for summary judgment based on the movant’s submissions.” D.H. Blair & Co., Inc. v.
+
+ 
+
+Gottdiener, 462 F.3d 95, 110 (2d Cir. 2006). Summary judgment is appropriate where the record
+reveals that there is “no genuine dispute as to any material fact and the movant is entitled to
+judgment as a matter of law.” Rule 56(a), Fed. R. Civ. P.; see also McElwee v. Cnty. Of Orange,
+700 F.3d 635, 640 (2d Cir. 2012). “Normally, confirmation of an arbitration award is a summary
+proceeding that merely makes what is already a final arbitration award a judgment of the court,
+and the court must grant the award unless the award is vacated, modified, or corrected.” D.H.
+Blair & Co., 462 F.3 at 110 (quotation marks omitted). “Only a barely colorable justification for
+the outcome reached by the arbitrators is necessary to confirm the award.” Id. (quotation marks
+omitted).
+
+In a case governed by the New York Convention, “[t]he court shall confirm the
+award unless it finds one of the grounds for refusal or deferral of recognition or enforcement of
+the award specified in the said Convention.” Scandinavian Reins. Co., 668 F.3d at 78. “[T]he
+party opposing enforcement of an arbitral award has the burden to prove that one of the seven
+defenses under the New York Convention applies. Art. V(1). The burden is a heavy one, as the
+showing required to avoid summary confirmance is high.” Zeiler v. Deitsch, 500 F.3d 157, 164
+(2d Cir. 2007) (internal quotation marks and citation omitted). The New York Convention sets
+out seven grounds for refusing to confirm an award—grounds relevant here are provided below:
+
+1. Recognition and enforcement of the award may be refused, at
+
+the request of the party against whom it is invoked, only if that
+
+party furnishes to the competent authority where the recognition
+
+and enforcement is sought, proof that:
+
+(a) The parties to the agreement referred to in article II were, under
+
+the law applicable to them, under some incapacity, or the said
+
+agreement is not valid under the law to which the parties have
+
+subjected it or, failing any indication thereon, under the law of the
+country where the award was made; or
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 9 of 17
+
+(b) The party against whom the award is invoked was not given
+proper notice of the appointment of the arbitrator or of the
+arbitration proceedings or was otherwise unable to present his
+case; or...
+
+(d) The composition of the arbitral authority or the arbitral
+procedure was not in accordance with the agreement of the parties,
+or, failing such agreement, was not in accordance with the country
+where the arbitration took place... .
+
+2. Recognition and enforcement of an arbitral award may also be
+refused if the competent authority in the country where recognition
+and enforcement is sought finds that: . . .
+
+(b) The recognition or enforcement of the award would be contrary
+to the public policy of that country.
+
+New York Convention art. V.
+
+Here, BMPAD argues that even if the New York Convention did apply,
+enforcement of the Partial Final Award would be precluded under the defenses of “illegality of
+agreement,” “lack of due process in arbitration,” an “improper arbitration panel,” and “public
+policy.” (BMPAD Br. at 18 (quoting Schlumberger Tech. Corp. v. United States, 195 F.3d 216,
+217 (Sth Cir. 1999).) BMPAD's arguments are unavailing.
+
+A. Arbitrability
+
+BMPAD’s assertion that the arbitration provision is illegal under Haitian law—
+because Haitian law allegedly precludes arbitration between a Haitian domestic entity and a
+Haitian governmental agency—goes to the arbitrability issue raised and decided in the New York
+state court proceeding.* There, Justice Andrew Borrok of New York County’s Commercial
+
+Division denied the petition to stay the parties’ arbitration, concluding that the “petitioners
+
+4 Article II(3) of the New York Convention requires a Court of a contracting state to the New York Convention to
+refer the parties to arbitration upon a party’s request “unless it finds that the said agreement is null and void,
+inoperative or incapable of being performed.”
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 10 of 17
+
+fail[ed] to establish that the arbitration provisions are illegal under Haitian law.” (Doc 29-1
+(noting that “Article 973, which supersedes Article 956, provides that the prohibition on
+arbitration does not apply to international arbitration’) (emphasis in original).)°
+
+"Under the doctrine of res judicata, or claim preclusion, '[a] final judgment on the
+merits of an action precludes the parties or their privies from relitigating issues that were or
+could have been raised in that action." EDP Med. Comput. Sys., Inc. v. United States, 480 F.3d
+621, 624 (2d Cir. 2007). "Thus, the doctrine bars ‘later litigation if [an] earlier decision was (1) a
+final judgment on the merits, (2) by a court of competent jurisdiction, (3) in a case involving the
+same parties or their privies, and (4) involving the same cause of action." Id. Justice Borrock's
+decision from September 27, 2021 is a final judgment on the merits by a court of competent
+jurisdiction in a case involving the same parties and cause of action as the instant case. (Doc
+29-1.) The Appellate Division, First Department, may affirm or reverse Justice Borrok's order,
+but as the issue stands before this Court, the doctrine of res judicata applies against BMPAD.
+See Town of Poughkeepsie v. Espie, 02 Civ. 6995 (CLB), 2006 WL 236787, at *2 (S.D.N.Y.
+Jan. 27, 2006) (“[T]he pendency of an appeal does not detract from the preclusive nature of the
+judgment appealed from, when relied on in collateral proceedings.”); Brown v. Mfrs. Hanover
+
+Tr. Co., 602 F. Supp. 549, 551 (S.D.N.Y. 1984) (“[P]endency of an appeal does not alter the res
+
+ 
+
+judicata effect of the challenged judgment.”).
+Accordingly, BMPAD may not relitigate the issue of arbitrability here, nor can it
+defend against enforcement under the New York Convention premised upon a claim of an illegal
+
+or invalid arbitration agreement.
+
+5 BMPAD appealed the decision, and on December 7, 2021, a full panel of the Appellate Division, First Department,
+vacated an interim stay on the enforcement of Justice Borrok’s order pending the hearing and determination of
+BMPAD’s appeal. (Doc 34-1.)
+
+10
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 11 of 17
+
+B. Notice and Due Process
+
+BMPAD also argues that "there has been a lack of due process in the arbitration,
+given that PRH served defective notice of the arbitration and then leveraged that lack of notice to
+choose all three arbitrators." (BMPAD Br. at 19.) Specifically, BMPAD alleges that the notice
+was defective because it "was not properly served on BMPAD because Haiti is not a signatory to
+. .. the Hague Service Convention, so formal service requires letters rogatory as defined by 22
+CFR § 92.54,"° and because PRH attempted to initiate the arbitration by serving notice in
+English, rather than French—the language of the contract, the parties, and the applicable law."
+(BMPAD Br. at 6.) The Court interprets this argument as invoking Article V(1)(b) of the New
+York Convention, which provides for refusal of enforcement if "[t]he party against whom the
+award is invoked was not given proper notice of the appointment of the arbitrator or of the
+arbitration proceedings or was otherwise unable to present his case." New York Convention art.
+V(1)(b). As part of this issue, the Court also considers BMPAD's argument that “PRH and its
+arbitrators held a purported security hearing in the middle of a COVID-19 surge in Haiti, less
+than three weeks after the assassination of Haiti’s President, and despite BMPAD’s reasonable
+request that any hearing be stayed until .. . BMPAD’s counsel could communicate with its client
+and witnesses.” (BMPAD Br. at 3.)
+
+First, as to the language of the notice, PRH responds that in addition to the request
+for arbitration sent in English on November 20, 2020 (Doc 20-1), PRH also provided BMPAD
+with notice of an intent to arbitrate the dispute in both English and French on November 4, 2020.
+
+(PRH Reply Br. at 1 (citing Doc 25-1).). Furthermore, PRH notes that French was not the
+
+"In its broader sense in international practice, the term /etters rogatory denotes a formal request from a court in
+which an action is pending, to a foreign court to perform some judicial act. Examples are requests for the taking of
+evidence, the serving of a summons, subpoena, or other legal notice, or the execution of a civil judgment." 22 CFR
+$92.54.
+
+ll
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 12 of 17
+
+exclusive language of the contracts—the amendment to the contract was written in English—and
+BMPAD chose New York as the seat of arbitration for any disputes arising under the contracts.
+Even putting aside the fact that a petition to confirm an arbitration award is “treated as akin to a
+motion for summary judgment based on the movant’s submissions.” D.H. Blair & Co., 462 F.3d
+at 110, the record supports PRH's claim that they provided sufficient notice as to the language of
+the notice. The French version of the November 4, 2020 letter, with a BMPAD receipt stamp for
+the same day, notes that "[c]ette lettre constitue une notification officielle de notre intention
+d'entamer l'arbitrage 4 New York sur une base accélérée," presumably meaning "[t]his letter
+constitutes an official notice of our intention to commence the arbitration in New York on an
+expedited basis," as written in the English version of the letter. (See Doc 25-1.)
+
+PRH does not appear to specifically respond to BMPAD's other argument that for
+BMPAD, "because Haiti is not a signatory to the Convention on the Service Abroad of Judicial
+and Extrajudicial Documents in Civil or Commercial Matters, more commonly known as the
+Hague Service Convention, [] formal service requires letters rogatory as defined by 22 CFR §
+92.54." (BMPAD Br. at 5-6.) But for the same reasons as res judicata applies to the arbitrability
+issue, BMPAD may not relitigate the propriety of service here—Justice Borrock's ruling appears
+to resolve the issue of whether service was proper, noting that "[iJnasmuch as the agreements
+contained an alternate method for service of the demand for arbitration, service under the Hague
+Convention was not required." (Doc 29-1 at 2.) Because the issue of whether service by letter
+rogatory instead was required "could have been raised" in the state proceeding as part of
+determining whether notice was proper, EDP Med. Comput. Sys., Inc., 480 F.3d at 624, Justice
+Borrok's ruling precludes relitigation over proper service before this Court.
+
+BMPAD also alleges that it "was otherwise unable to present [its] case," New
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 13 of 17
+
+York Convention art. V(1)(b), noting that “PRH and its arbitrators held a purported security
+hearing in the middle of a COVID-19 surge in Haiti, less than three weeks after the assassination
+of Haiti’s President, and despite BMPAD’s reasonable request that any hearing be stayed until
+... BMPAD’s counsel could communicate with its client and witnesses.” (BMPAD Br. at 3.)
+While the COVID-19 surge in Haiti and the political turmoil surrounding the assassination of
+Haiti's president are certainly significant and relevant factors to consider, based on the available
+record, the Court concludes that in the context of confirming an arbitration award under the New
+York Convention, BMPAD did have an opportunity to present its case at the arbitration hearing
+conducted in New York, but it declined to do so.
+
+For example, shortly after finding out that Mr. Saint-Fleur, BMPAD's director and
+principal witness, had contracted COVID-19, the panel adjourned the scheduled hearing. (Partial
+Final Award J 19.) And while the panel, following Mr. Saint-Fleur’s recovery, refused to
+adjourn the conference for 60 days despite the assassination of the Haitian president, the Court
+concludes that this refusal did not deprive BMPAD of the ability to present its case before the
+panel because the record indicates that it was Mr. Saint-Fleur who was directing BMPAD's
+response efforts in this dispute, not the assassinated president. Furthermore, the panel repeatedly
+suggested to BMPAD that it participate in the arbitration hearing while preserving any rights it
+may have, such as litigating the arbitrability of the dispute, as it has done so in the state
+proceeding. (Id. {{[ 32-34.) The panel also only canceled the second day of the hearing on the
+very day of the hearing once it was clear that BMPAD would not attend—even after BMPAD
+had already failed to attend the first day of the hearing. (Id. {{] 35-36.)
+
+Accordingly, the Court concludes that BMPAD has failed to establish a defense
+
+under the New York Convention that it was "not given proper notice of the appointment of the
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 14 of 17
+
+arbitrator or of the arbitration proceedings or was otherwise unable to present [its] case." New
+York Convention art. V(1)(b).
+
+Cc. Arbitration Panel Composition
+
+BMPAD also alleges that "there is an improper arbitration panel here" because
+"there is unquestionably the appearance of a conflict of interest when two of the arbitrators are
+former partners of PRH's counsel at Blank Rome LLP, and the other arbitrator is directly
+associated with PRH's counsel via membership in an organization together." (BMPAD Br. at
+19.)
+
+To establish a defense, the New York Convention specifically requires a showing
+that the "composition of the panel . . . was not in accordance with the agreement of the parties."
+New York Convention art. V(1)(d). Based on the Court's review, the arbitration panel was
+chosen according to the contractual provisions agreed to by the parties: (1) PRH provided a
+request for arbitration on November 20, 2020, specifying the first arbitrator; (2) BMPAD
+"fail[ed] to appoint an arbitrator within the applicable 10-day period,” at which point PRH as the
+initiating party was also "entitled to appoint [the] second arbitrator"; and (3) PRH's two
+appointed arbitrators then appointed the third arbitrator on the panel per the arbitration
+provisions of the contracts. (Partial Final Award {J 4-5; Leconte Aff. 6.) This is the relevant
+inquiry as to the arbitration panel composition under the New York Convention, and BMPAD
+fails to make out a case for invoking it in its defense here.
+
+The carefully chosen words of the New York Convention merely require that the
+arbitrators be selected in accordance with the terms of the arbitration agreement and these
+
+arbitrators were so selected. But even if this Court were to more generously consider bias of an
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 15 of 17
+
+arbitrator as a ground for non-enforcement,’ the outcome would be no different. The sum total
+of BMPAD’s evidentiary showing of purported bias consists of the following from the
+declaration of BMPAD’s outside counsel: “... PRH selected a panel of three arbitrators, one of
+whom was formerly a partner at the law firm of PRH’s counsel and another of whom apparently
+shares membership with PRH’s counsel in a small association. The third arbitrator apparently did
+not participate in the drafting of PRH’s purported arbitral award.” (Doc 20 (McDonald Decl.)
+3.) First, the parties’ contracts allowed each side to designate one arbitrator and the two
+selected arbitrators to select the third and final arbitrator. The reason that PRH selected two of
+the arbitrators was because it was the designated default selection method in the parties’
+agreement. The 31-page award reflects that it was signed by all three arbitrators, including the
+one who BMPAD claims “did not participate in the drafting of” the Partial Final Award.
+Second, the contracts explicitly contemplated what types of affiliation would be impermissible
+for proposed arbitrators, specifically that “[n]o arbitrator shall be an employee, representative or
+agent of a Party.” (Leconte Aff. 46.) The parties could have written a more sweeping provision
+addressing conflicts of interest, but they did not. Third, while BMPAD disagrees with the
+procedural rulings of the panel and its Partial Final Award, there has been no showing of evident
+partiality by the panel. Finally, there is nothing untoward raised by the vaguely worded claim
+that at some unknown point in time one arbitrator was “formerly a partner at the law firm of
+PRH’s Counsel. . . .”* Nor is there anything necessarily sinister that one or more arbitrators
+
+7 See UNCITRAL Guide to the New York Convention (2016) at 197 acknowledging that one article has suggested
+that arbitrator bias may be a ground for non-enforcement under either Article V(1)(d) or V(2)(b) of the Convention.
+8 In his pre-hearing disclosure statement, one of the two PRH-designated arbitrators stated that “I have no, and have
+had no, attorney-client relationship with Blank Rome, either directly or through any business with which I am
+affiliated. I know a number of lawyers at Blank Rome. Some of them were my colleagues at Healy & Baillie, a
+maritime law firm in New York, from 1980 until 2000, that merged into Blank Rome, some eight or so years after I
+left Healy & Baillie and the private practice of law.” (Doc 25-7 at 4-5 of 6.) The other arbitrator disclosed that
+
+“[f]rom 1984 to 2006, I was an associate and then partner at Healy & Baillie LLP ("HB") and from 2006 to 2009 a
+partner in the law firm of Blank Rome ("BR") in New York.” (Doc 25-7 at 6 of 6.) All three arbitrators are
+
+15
+
+ 
+
+  
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 16 of 17
+
+“apparently shares membership with PRH’s counsel in a small association” that is unnamed.
+None of these circumstances have been demonstrated to be evident partiality or corruption on the
+part of the arbitrators. See, e.g., Scandinavian Reins. Co., 668 F.3d at 722
+
+Accordingly, BMPAD has not shown that the composition of the arbitration panel
+was not in accordance with the parties’ agreements, or any other reason relating to the panel for
+not enforcing the award.
+
+D. Public Policy Exception
+
+Finally, BMPAD argues under the public policy exception in Article V(2)(b) of
+the New York Convention that "[e]nforcement of PRH's improperly procured arbitration award
+against a longstanding U.S. ally is contrary to the public policy of the United States." (BMPAD
+Br. at 19.)
+
+It is the law of this Circuit that the public policy exception in Article V(2)(b)
+“must be 'construed very narrowly' to encompass only those circumstances 'where enforcement
+would violate our most basic notions of morality and justice." Telenor Mobile Commc'ns. AS v.
+Storm LLC, 584 F.3d 396, 411 (2d Cir. 2009). Based on the foregoing, the Court concludes that
+enforcement of the Partial Final Award here would not violate our most basic notions of morality
+and justice, and that enforcement would actually further our country’s "strong public policy in
+favor of international arbitration." Id. at 405.
+CONCLUSION
+
+The Court has considered all the arguments of the parties, whether or not they are
+
+members of the Society of Maritime Arbitrators, apparently the “small association” to which BMPAD refers. (Doc
+25-7 at 5 of 6.)
+
+° [A] court applying the New York Convention may vacate an arbitration award based on the grounds provided in
+the FAA.” KT Corp. v ABS Holdings, Ltd., 784 Fed. App’x 21, 24 (2d Cir. 2019 (citing Scandinavian Reins. Co.,
+668 F.3d at 70). Notably, BMPAD did not move to vacate under section 10(a)(2) of the FAA.
+
+16
+
+Case 1:21-cv-06704-PKC Document 48 Filed 01/26/22 Page 17 of 17
+
+expressly referenced here. The petition to recognize, confirm, and enforce the Partial Final
+Award of August 6, 2021 is granted as against BMPAD. The Clerk of the Court is respectfully
+
+directed to amend the caption (see footnote 1), enter final judgment for PRH as against BMPAD,
+
+ZZ Pees AL
+
+United States District Judge
+
+terminate the motion (Doc 4) and close the case.
+
+SO ORDERED.
+
+Dated: New York, New York
+January 26, 2022
+

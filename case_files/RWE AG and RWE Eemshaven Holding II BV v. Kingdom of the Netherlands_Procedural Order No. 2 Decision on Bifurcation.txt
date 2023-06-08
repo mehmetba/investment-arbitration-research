@@ -1,0 +1,842 @@
+INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
+
+RWE AG and RWE Eemshaven Holding II BV
+v.
+
+Kingdom of the Netherlands
+
+(ICSID Case No. ARB/21/4)
+
+ 
+
+PROCEDURAL ORDER NO. 2
+DECISION ON BIFURCATION
+
+ 
+
+Members of the Tribunal
+Ms. Lucy Reed, President of the Tribunal
+Mr. James Boykin, Arbitrator
+Mr. Toby Landau QC, Arbitrator
+
+Secretary of the Tribunal
+Dr. Jonathan Chevry
+
+Assistant to the Tribunal
+Ms. Lindsay Gastrell
+
+25 February 2022
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CONTENTS
+I INTRODUCTION 3
+Il. BACKGROUND 3
+Ill. SUMMARY OF THE PARTIES’ POSITIONS ON THE APPLICATION .........ceeeeee 6
+A. The Claimants’ Position 6
+B. The Respondent’s Position 9
+IV. THE TRIBUNAL’S ANALYSIS 12
+A. Applicable Standards 12
+B. The Intra-EU Objection 14
+C. RWE?’s Ancillary Merits Claim 16
+D. Conclusion 17
+V. ORDER 17
+
+ 
+
+Page 2
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+IL. INTRODUCTION
+
+1. This Order addresses the Application for Bifurcation submitted by RWE AG and RWE
+Eemshaven Holding II BV (together, the Claimants or RWE) on 28 January 2022, in which
+the Claimants ask the Tribunal to resolve two issues on a preliminary and accelerated basis
+(the Application). The Respondent, the Kingdom of the Netherlands (the Respondent or
+the Netherlands), opposes the Application.
+
+IL. BACKGROUND
+
+2. On 20 January 2021, RWE filed its Request for Arbitration with the ICSID Secretariat
+pursuant to Article 26 of the Energy Charter Treaty (the ECT) and Article 36 of the
+Convention on the Settlement of Investment Disputes between States and Nationals of
+Other States (the ICSID Convention). The Secretary-General of ICSID registered the
+Request for Arbitration on 2 February 2022.
+
+3. In May 2021, the Netherlands commenced proceedings against one of the Claimants, RWE
+AG, before the Higher Regional Court of Cologne (the German Proceedings), seeking a
+declaration pursuant to Section 1032(2) of the German Code of Civil Procedure, which
+provides that:!
+
+Until the arbitral tribunal has been formed, a petition may be filed with the
+
+court{] to have it determine the admissibility or inadmissibility of
+arbitration proceedings.
+
+4. Citing the judgment of the Court of Justice of the European Union in Achmea B.V. v. The
+Slovak Republic (Achmea), the Netherlands argues in the German Proceedings that there
+is no agreement to arbitrate between RWE AG and the Netherlands under Article 26 of the
+
+ECT, because arbitration clauses in investment protection agreements between Member
+
+States of the European Union (the EU) are incompatible with EU law.”
+
+' English translation of the German Federal Ministry of Justice, available at https://www.gesetze-im-
+internet.de/englisch_zpo/englisch_zpo.html. See Memorial, n 292.
+? See C-117, Petition by the Netherlands to the Cologne Court, 10 May 2021.
+
+Page 3
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+5. By letter of 17 May 2021, the Dutch Minister of Economic Affairs and Climate Policy
+informed the Lower House of the Dutch Parliament of the German Proceedings, explaining
+that:?
+
+The initiation of proceedings before the German court is in line with the
+Netherlands’ position that intra-EU investment arbitration is contrary to
+EU law. These proceedings will be conducted in parallel with the ISDS
+proceedings. This means that, until that time, the ICSID arbitration
+proceedings will continue. This will involve challenging both the
+jurisdiction of the tribunal and the substance of the dispute. These
+procedures in Germany are primarily aimed at averting the arbitration. If
+it proves impossible to avert the proceedings, a defence on the merits will
+then be put forward.
+
+6. In a letter of 21 May 2021, the Netherlands informed ICSID of the German Proceedings,
+noting that the Netherlands would “continue to diligently take part in the present
+proceedings before ICSID while the proceedings in Germany are pending.”* RWE
+responded on 27 May 2021 and asserted that the Netherlands’ “action is in grave breach of
+Article 26 ICSID Convention.”
+
+7. The Tribunal was constituted on 2 June 2021. As an initial procedural step, on 23 July
+2021, the Tribunal invited the Parties to confer regarding the procedural matters addressed
+in a draft Procedural Order No | by | August 2021, later extended until 13 August 2021.
+The Parties submitted their comments on the draft on 13 August 2021, indicating areas of
+agreement and their respective positions on certain points of disagreement. In its
+comments, RWE proposed that if the Netherlands wished to raise an intra-EU jurisdictional
+objection in this arbitration, that objection should be bifurcated and heard on an expedited
+basis. The Netherlands opposed RWE’s proposal, stating that it would not be in a position
+to determine whether to request bifurcation of any of its jurisdictional objections before
+
+seeing RWE’s full case on the merits.
+
+8. During the first session on 30 August 2021, the Tribunal and the Parties discussed RWE’s
+
+bifurcation proposal among other procedural matters.
+
+5 C-113, Letter from Minister Bastiaan vant Wout to the Lower House, 17 May 2021.
+4 Letter from the Respondent to ICSID, 21 May 2021.
+
+Page 4
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+9. On 15 October 2021, the Tribunal issued Procedural Order No 1, including the Procedural
+Timetable as Annex B. Although the Tribunal did not adopt RWE’s bifurcation proposal,
+it included in the Timetable a procedure whereby either Party could request bifurcation
+after RWE had filed its Memorial and the Netherlands had indicated whether it intends to
+raise an intra-EU objection. The Timetable provided two scenarios: Scenario A, to apply
+in the case of no request for bifurcation or a decision not to bifurcate; and Scenario B to
+
+apply in the case of a decision to bifurcate the intra-EU objection.
+
+10. In accordance with the Procedural Timetable, on 18 December 2021, RWE filed its
+Memorial, which included a claim relating to the German Proceedings and request that the
+Tribunal:°
+
+(©) (1.) DECLARE that the Kingdom of the Netherlands has violated the
+ICSID Convention by initiating the German court proceedings currently
+
+pending under docket number 19 Sch 15/21 before the Higher Regional
+Court of Cologne;
+
+(2.) ORDER the Kingdom of the Netherlands to withdraw its petition
+currently pending under docket number 19 Sch 15/21 before the Higher
+Regional Court of Cologne; and
+
+(3.) ORDER the Kingdom of the Netherlands to compensate Claimants for
+their damages suffered as a result of this violation, in particular Claimants’
+litigation costs including but not limited to attorneys and experts fees.
+
+11. On 14 January 2022, the Netherlands notified the Tribunal that it intends to raise an intra-
+
+EU objection in this arbitration.
+
+12. On 28 January 2022, RWE filed the Application, while the Netherlands did not file a
+
+request for bifurcation.
+13. The Netherlands filed its response to the Application on 11 February 2022 (the Response).
+
+14. The German Proceedings have progressed alongside this arbitration. RWE AG filed a
+response to the Netherlands’ petition on 9 July 2021, the Netherlands filed a reply
+
+submission on 27 September 2021,° and both sides made their final submissions on 21 and
+
+5 Memorial, para 689(2).
+6 Memorial, para 362; C-115, Second Submission by the Netherlands to the Cologne Court, 27 September 2021.
+
+Page 5
+
+Ill.
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+26 January 2022 respectively.’ In its final submission, the Netherlands asked the court to
+render a decision before 25 February 2022, the expected date of the Tribunal’s decision on
+
+bifurcation.*
+
+SUMMARY OF THE PARTIES’ POSITIONS ON THE APPLICATION
+A. THE CLAIMANTS’ POSITION
+
+RWE submits that the Tribunal should bifurcate this arbitration and resolve the following
+two issues in an initial, expedited phase of the proceeding as set out in Scenario B of the
+Procedural Timetable: (a) the Netherlands’ intra-EU objection; and (b) RWE’s “ancillary
+
+claim” that the German Proceedings violate the ICSID Convention.”
+
+L. Applicable Standards
+
+According to RWE, Articles 41 and 44 of the ICSID Convention and Rule 41 of the ICSID
+Arbitration Rules give the Tribunal wide discretion in deciding whether to bifurcate this
+proceeding, and the Tribunal should be guided by the overarching considerations of
+
+procedural efficiency and fairness. !°
+
+More specifically, RWE states that ICSID tribunals take into account the following factors
+when deciding whether to bifurcate jurisdictional objections: '!
+
+* Whether the objection to jurisdiction is substantial in the sense that it is
+not made frivolously or as a dilatory tactic;
+
+* Whether the objection to jurisdiction, if granted, results in a material
+reduction of the proceedings at the next phase, and in particular could
+dispose of the case as such;
+
+7 Application, para. 10.
+
+* C-116: Third Submission by the Netherlands to the Cologne Court, 21 January 2022, paras 37-38.
+
+° Application, para 3.
+
+‘© Application, para 14.
+
+4! Application, para 15, citing CL-139, Glamis Gold Ltd. v. USA, UNICTRAL / NAFTA, Procedural Order No. 2
+(Revised), 31 May 2005, para 12; CL-140: Emmis et al. v. Hungary, ICSID Case No. ARB/12/2, Decision on
+Respondent's Application for Bifurcation, 13 July 2013, paras 47-56; CL-141: Tulip Real Estate v. Turkey, 1CSID
+Case No. ARB/I1/28, Decision on the Respondent’s Request for Bifurcation under Art. 41(2) of the ICSID
+Convention, 2 November 2012, paras 37 and 44; CL-142: Philip Morris v. Australia, UNCITRAL, PCA Case No.
+2012-12, Procedural Order No. 8, 14 April 2014, para. 109; CL-143: Lighthouse Corp. v. Timor-Leste, ICSID Case
+No. ARB/15/2, Procedural Order No. 3 on Bifurcation and Related Requests, 8 July 2016, para 23.
+
+Page 6
+
+20.
+
+21.
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+* Whether bifurcation is practical in that the relevant jurisdictional issue
+identified is not so intertwined with the merits that an early resolution of
+the question is impossible.
+
+RWE adds that “tribunals have at times also considered whether bifurcation would
+prejudice the claimants, in particular beyond a simple delay that could be compensated for
+
+in costs.”!?
+
+Although RWE acknowledges that the case law addressing bifurcation beyond
+jurisdictional objections has not produced a clear list of factors to be weighed, RWE asserts
+that procedural efficiency and fairness remain the paramount considerations in deciding
+
+whether to bifurcate merits claims.'
+
+Applying these standards in the present case, RWE argues that bifurcation of both the intra-
+EU objection and the ancillary merits claim would promote efficiency and fairness,
+
+whereas RWE would suffer unjustifiable prejudice in the absence of bifurcation. '*
+
+2 Bifurcation of the Intra-EU Objection
+
+In RWE’s view, “the intra-EU objection completely conforms to all criteria that speak in
+favour of bifurcation.”'> First, the intra-EU objection is substantial, in the sense that the
+Tribunal cannot prima facie exclude its success, especially because the Netherlands has
+still failed to raise the objection in this arbitration.'° Second, if the Netherlands were to
+succeed on its objection, the arbitration would end without the need for further proceedings.
+Third, the intra-EU objection relates to a legal issue that is entirely separate from RWE’s
+
+main claims on the merits and thus constitutes a “text book case of an objection appropriate
+
+2 Application, para 16, citing CL-143: Lighthouse Corp. v. Timor-Leste, ICSID Case No. ARB/15/2, Procedural
+Order No. 3 on Bifurcation and Related Requests, 8 July 2016, para 20; CL-140: Emmis et al. v. Hungary, 1CSID
+Case No. ARB/12/2, Decision on Respondent’s Application for Bifurcation, 13 July 2013, para 56.
+
+3 Application, para 17.
+
+4 Application, para 3.
+
+'S Application, para 21.
+
+'6 Application, para 22, citing CL-142, Philipp Morris v. Australia, UNCITRAL, PCA Case No. 2012-12,
+Procedural Order No. 8, 14 April 2014, para 111.
+
+Page 7
+
+22.
+
+23.
+
+24.
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+v7
+
+for bifurcation. Indeed, by raising this legal issue before the German court, the
+
+Netherlands has acknowledged that it is ripe for decision. '*
+
+Moreover, RWE says it would be seriously prejudiced by a decision not to bifurcate the
+intra-EU objection. RWE stresses that the Netherlands has described the German
+Proceedings as “anti-arbitration proceedings” that are “primarily aimed at averting the
+arbitration,” thereby preventing RWE from pursuing its claims at ICSID.'? In RWE’s
+view, the Netherlands’ current strategy is to obtain a decision from the German court before
+the Tribunal has an opportunity to rule on the matter.?? However, RWE considers that it
+has “‘a right to have the jurisdiction of this Tribunal determined authoritatively by this
+
+1.72!
+
+Tribunal, and only by this Tribunal
+
+3. Bifurcation of RWE’s Ancillary Merits Claim
+
+RWE argues that bifurcation of its ancillary merits claim would also promote efficiency
+and fairness. RWE sees this claim and the intra-EU objection as “inextricably linked both
+factually and legally, like two sides of the same coin.” In contrast, RWE says the claim
+is not intertwined with its main claims and can be decided irrespective of the merits of the
+
+Parties’ underlying dispute.
+
+Additionally, RWE considers that “[t]he ancillary claim concerns purely legal issues,
+which are neither complicated nor novel, but rather well-settled in arbitral jurisprudence
+and literature.” It follows for RWE that the claim could easily be integrated into the
+existing briefing schedule for the intra~-EU objection under Scenario B of the Procedural
+
+Timetable. Deciding these matters in a preliminary phase would, in RWE’s view, serve
+
+17 Application, para 24, citing CL-5: Vattenfall v. Germany, ICSID Case No. ARB/12/12, Decision on the Achmea
+Issue, 31 August 2018, para 3 (“The Achmea issue is a distinct matter, unrelated to the remainder of the issues
+between the Parties to this arbitration. The Tribunal considers it appropriate and in the interests of efficiency and
+procedural economy to issue this separate Decision prior to any further ruling in these proceedings, in order to
+address the specific jurisdictional objection by Respondent with respect to the Achmea issue.”).
+
+18 Application, para 20.
+
+!9 Application, para 26, quoting C-113: Letter from Minister Bastiaan vant Wout to the Lower House, 17 May 2021.
+20 Application, para 19.
+
+2! Application, para 27.
+
+22 Application, para 6.
+
+2 Application, para 30.
+
+Page 8
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+procedural fairness and “allow the Parties to focus on the real issues in dispute” later in the
+
+proceeding.”*
+
+4, Request for Relief
+Therefore, RWE requests that the Tribunal:?>
+
+bifurcate these proceedings and hear Respondent’s intra-EU objection and
+Claimants’ ancillary claim in an expedited manner in accordance with the
+briefing schedule set out in Annex B — Scenario B of Procedural Order
+No. 1.
+
+B. THE RESPONDENT’S POSITION
+
+The Netherlands submits that the Application is contrary to procedural efficiency and
+
+fairness and should be rejected.”°
+
+L. Applicable Standards
+
+The Netherlands agrees with RWE that the Tribunal has wide discretion to decide whether
+bifurcation is warranted in this case, and that the guiding considerations are procedural
+efficiency and fairness.*” However, the Netherlands diverges from RWE on the application
+
+of those considerations in the factual circumstances of this case.
+
+2 Bifurcation of the Intra-EU Objection
+
+The Netherlands urges the Tribunal not to bifurcate the intra-EU objection for several
+
+reasons.
+
+First, the Netherlands says bifurcation would not serve procedural fairness because it
+“could preclude the Tribunal from taking account of a ruling on a question of EU law
+rendered by the competent EU court that is at the core of the intra-EU objection.””*
+
+Specifically, if the German court has not rendered its judgment before briefing on the intra-
+
+24 Application, para 31.
+25 Application, para 32.
+
+26
+
+Response, para 2.
+
+27 Response, para 9.
+28 Response, para 12.
+
+Page 9
+
+30.
+
+31.
+
+32.
+
+33.
+
+34,
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+EU objection in a bifurcated scenario has completed, the Tribunal will have an incomplete
+
+record on which to make its decision.”
+
+Second, the Netherlands advances a related argument that bifurcation could lead to
+procedural inefficiency because the Tribunal would need to revisit its decision on the intra-
+
+EU objection once the court renders its judgment in the German Proceedings.*”
+
+Third, the Netherlands asserts that bifurcation is inefficient on RWE’s own case. Given
+RWE’s position that the intra-EU objection must fail, there can be no efficiency gained in
+
+debating that issue first, rather than in parallel with the merits.*!
+
+Fourth, the Netherlands alleges that the Application is motivated by RWE’s desire to
+prevent the Tribunal from considering the German court’s decision, which is not a valid
+basis on which to seek bifurcation. According to the Netherlands, RWE has
+mischaracterized the German Proceedings, which are in fact “concerned with a question of
+EU law only, and do not affect the Tribunal’s power to rule on its own competence under
+
+Article 41 [of the] ICSID Convention.”*?
+
+Finally, the Netherlands emphasizes the principle that a Party has the right to present its
+case as it sees fit. In this case, the Netherlands says that absent concerns of procedural
+efficiency or fairness, it is entitled to proceed with its plan “to present in its Counter-
+Memorial a full picture of why RWE’s case should be rejected, both on the jurisdiction and
+
+933
+
+on the merits. The Netherlands notes that RWE has not cited any case in which a
+
+jurisdictional objection was bifurcated over the respondent’s opposition.**
+
+3. Bifurcation of RWE’s Ancillary Merits Claim
+
+The Netherlands similarly presents several reasons why, in its view, RWE’s ancillary
+
+merits claim should not be bifurcated.
+
+2 Response, para 12.
+39 Response, paras 13-14.
+3! Response, paras 15-16.
+® Response, para 19.
+3 Response, para 20.
+4 Response, para 21.
+
+Page 10
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+First, the Netherlands asserts that RWE’s request to bifurcate this claim was neither
+contemplated in Procedural Order No. 1 nor referenced by RWE in the discussions
+surrounding that Order. Thus, RWE’s request falls outside the scope of Procedural Order
+
+No.1 and lacks any basis.*°
+
+Second, the Netherlands notes the language of Article 41(3) of the ICSID Arbitration
+Rules, which states that the Tribunal may “suspend the proceeding on the merits” pending
+consideration of jurisdictional issue. For the Netherlands, it follows that this provision
+
+does not provide a basis for bifurcation of a merits issue.*°
+
+Third, in the Netherlands’ view, there is no procedural efficiency to be gained from
+bifurcating this specific claim, which is not dispositive of the arbitration or any significant
+
+portion of it.*”
+
+Fourth, the Netherlands contends that RWE’s claim is not substantial, because: (a) the
+German Proceedings are about the operation of EU law, which do not in any way inhibit
+the Tribunal from determining its own jurisdiction under the ICSID Convention; and
+(b) there is no concern about exclusivity pursuant to Article 26 of the ICSID Convention,
+as “issues of EU law are not exclusively for an ICSID tribunal to determine but rather for
+the EU courts under the supervision of the CJEU.”** In fact, says the Netherlands, “[t]o
+the extent Article 26 of the ICSID Convention is engaged at all, RWE has waived ICSID
+exclusivity and/or consented to non-exclusivity” by initiating parallel proceedings before
+the Dutch courts regarding the same purported investment and the same regulatory measure
+
+at issue in this arbitration.*?
+
+Finally, the Netherlands considers that Scenario B of the Procedural Timetable is not
+
+suitable for merits claims and would give RWE more opportunities to brief the issue than
+
+35 Response, para 23.
+
+36
+
+Response, para 24, citing RL-2, Christoph Schreuer, Loretta Malintoppi, August Reinisch and Anthony Sinclair.
+
+The ICSID Convention: A Commentary (2nd ed. Cambridge University Press 2009), Article 41, para 63 (*ICSID
+tribunals have routinely suspended proceedings on the merits upon receipt of an objection to jurisdiction.”).
+
+37 Response, para 25.
+
+38 Response, para 27.
+
+39 Response, para 28, citing RL-2, Christoph Schreuer, Loretta Malintoppi, August Reinisch and Anthony Sinclair.
+The ICSID Convention: A Commentary (2nd ed. Cambridge University Press 2009), Article 26, para 54.
+
+Page 11
+
+40.
+
+41.
+
+42.
+
+43.
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+the Netherlands would have, violating the Netherlands’ right to be heard and right to equal
+
+treatment.*°
+
+4, Request for Relief
+
+Therefore, the Netherlands requests that the Tribunal:*!
+
+(a) REJECT the Request for Bifurcation of the Intra-EU objection and one
+of RWE’s merits claims;
+(b) ORDER Claimants to bear the costs incurred in connection with the
+
+Request for Bifurcation.
+
+THE TRIBUNAL’S ANALYSIS
+
+At the outset, the Tribunal emphasizes that the purpose of this Order is to decide whether
+to bifurcate the present proceedings. The Tribunal takes no decision at this stage on the
+merits of the two issues identified in the Application. Further, the Tribunal’s analysis is
+necessarily based on the Tribunal’s understanding of the record as it presently stands and
+
+should not be understood to preempt any later finding of fact or conclusion of law.
+
+A. APPLICABLE STANDARDS
+
+In ICSID proceedings, requests for bifurcation of one or more jurisdictional objections are
+common. The applicable standards are well known and uncontested in this case. Both
+sides acknowledge that the Tribunal has broad discretion under the ICSID Convention and
+
+Arbitration Rules to determine whether bifurcation is warranted here.
+To recall, Article 41(2) of the ICSID Convention provides that:
+
+Any objection by a party to the dispute that the dispute is not within the
+jurisdiction of the Centre, or for other reasons is not within the competence
+of the Tribunal, shall be considered by the Tribunal which shall determine
+whether to deal with it as a preliminary question or to join it to the merits
+of the dispute.
+
+ICSID Arbitration Rule 41(4) provides in relevant part that the Tribunal:
+
+*° Response, paras 29-30.
++ Response, para 32.
+
+Page 12
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+may deal with the objection as a preliminary question or join it to the merits
+of the dispute. If the Tribunal overrules the objection or joins it to the
+merits, it shall once more fix time limits for the further procedures.
+
+44. Neither the ICSID Convention nor the Arbitration Rules set forth specific criteria to be
+considered in deciding whether to bifurcate objections, leaving the decision entirely to the
+discretion of a tribunal. In exercising this discretion, ICSID tribunals have identified
+certain factors as important to the analysis, including: (a) whether the objection is
+substantial and not frivolous; (b) whether the objection, if granted, has the potential either
+to dispose of the entire case or to result in a material reduction of scope in the next phase
+of proceedings; and (c) whether the jurisdictional issue is sufficiently discrete and not so
+intertwined with the merits that it may be fairly resolved separate from the merits and
+without the risk of duplicative proceedings.*? More generally, as noted by both sides, the
+analysis should be driven by the overarching considerations of procedural fairness and
+
+efficiency. The Tribunal fully agrees with this framework.
+
+45. That being said, there are important aspects of the present Application that set it apart from
+a common request for bifurcation. First, in most cases it is the respondent State that seeks
+bifurcation of jurisdictional objections, whereas here it is the Claimants that are seeking
+bifurcation, and that over the objection of the Netherlands. Second, the Claimants seek
+preliminary resolution not only of a jurisdictional objection, but also a merits claim. Third,
+it is clear to the Tribunal that the key driving factor for both the Application and the
+Netherlands’ opposition is the potential impact of the German Proceedings on the
+arbitration — not the traditional considerations of procedural efficiency set out above.
+Although none of these characteristics of the Application weighs automatically in favor of
+
+or against bifurcation, each of them must factor into the Tribunal’s analysis.
+
+* See, e.g., CL-139, Glamis Gold Ltd. v. USA, UNICTRAL / NAFTA, Procedural Order No. 2 (Revised), 31 May
+2005, para 12; CL-140: Emmis et al. v. Hungary, \CSID Case No. ARB/12/2, Decision on Respondent’s
+Application for Bifurcation, 13 July 2013, paras 47-56; CL-141: Tulip Real Estate v, Turkey, (CSID Case No.
+ARB/11/28, Decision on the Respondent’s Request for Bifurcation under Art. 41(2) of the ICSID Convention, 2
+November 2012, paras 37 and 44; CL-142: Philip Morris v. Australia, UNCITRAL, PCA Case No. 2012-12,
+Procedural Order No. 8, 14 April 2014, para. 109; CL-143: Lighthouse Corp. v. Timor-Leste, ICSID Case No.
+ARB/15/2, Procedural Order No. 3 on Bifurcation and Related Requests, 8 July 2016, paras 20-21.
+
+Page 13
+
+46.
+
+47.
+
+48.
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+B. THE INTRA-EU OBJECTION
+
+In approaching the question of whether bifurcation is warranted in this case, the Tribunal
+begins with the nature of the intra-EU objection. Although the precise contours of the
+Netherlands’ objection will not be known until later in the proceeding, it is already apparent
+that the objection meets many of the criteria identified above weighing in favor of
+bifurcation. The question presented is likely to be purely legal and capable of resolution
+without a detailed investigation of the underlying facts of this case.*? The objection is
+substantial, as RWE acknowledges, and a decision upholding the objection would dispose
+of the entire case. In the Tribunal’s view, the Netherlands has provided no persuasive
+reason why the nature of this jurisdictional issue is not appropriate for bifurcation. Thus,
+
+the traditional test for bifurcation would appear to be satisfied.
+
+As already noted, however, the Application is not a traditional request for bifurcation. The
+Claimants address procedural efficiency only briefly, focusing instead on their main
+argument that the German Proceedings are designed to undermine the integrity of the
+arbitration and prevent RWE from pursuing claims at ICSID. The purpose of the
+Application is, in the Claimants’ words, to preserve their “right to have the jurisdiction of
+
+this Tribunal determined authoritatively by this Tribunal, and only by this Tribunal.”
+
+The Tribunal fully understands RWE’s concerns, particularly in light of statements by the
+Dutch Minister of Economic Affairs and Climate Policy that the German Proceedings are
+“primarily aimed at averting the arbitration.”*° At the same time, the Tribunal understands
+that the Minister’s statements do not reflect the Netherlands’ position in this arbitration.
+To the contrary, the Netherlands states in its Response that:
+
+a. “The German proceedings are concerned with a question of EU law only, and do
+
+not affect the Tribunal’s power to rule on its own competence under Article
+41 ICSID Convention.”*°
+
+43 See CL-5: Vaitenfall v. Germany, ICSID Case No. ARB/12/12, Decision on the Achmea Issue, 31 August 2018,
+para 3 (“The Achmea issue is a distinct matter, unrelated to the remainder of the issues between the Parties to this
+arbitration.”).
+
+4 Application, para 27.
+
+45 C-113: Letter from Minister Bastiaan vant Wout to the Lower House, 17 May 2021.
+
+46
+
+Response, para 19 (emphasis added).
+
+Page 14
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+b. “The German proceedings moreover result in a declaratory judgment, which
+affirms what applies under EU law in any event, i.e. regardless whether the German
+courts render their decision. No prejudice can result from such an affirmation.”*”
+
+c. “the Netherlands does not deny the Tribunal’s competence to decide its own
+competence under the ICSID Convention.”**
+
+49. The Tribunal understands these statements by the Netherlands as assurances that it will not
+take any steps to interfere with the Tribunal’s kompetenz-kompetenz. Given these
+assurances, and absent any indication from the Claimants as to precisely how the German
+Proceedings might be used to prevent them from pursuing their claims at ICSID, the
+Tribunal is not persuaded that RWE would be prejudiced by a decision not to bifurcate the
+
+intra-EU objection.
+
+50. Also as noted, another significant aspect of the Application is that it is the Claimants that
+are requesting bifurcation of the Respondent’s forthcoming objection. This unusual
+procedural posture gives rise to the Netherlands’ main argument against bifurcation — that
+it deserves the right to argue its intra-EU objection as it sees fit. Specifically, the
+Netherlands wishes to address the outcome of the German Proceedings — whatever the
+outcome — when asserting its intra-EU objection, which it plans to do with its full defense
+in the Counter-Memorial. Without taking any view on the various questions surrounding
+the German Proceedings, including whether those proceedings have any bearing on the
+intra-EU objection, the Tribunal considers the Netherlands’ position to be reasonable. In
+the Tribunal’s view, a respondent State is entitled to the opportunity to frame its
+jurisdictional objections as it wishes, absent overriding considerations of efficiency or
+
+fairness.
+
+51. Taking all these points together, the Tribunal finds the balance to be against bifurcation of
+the intra-EU objection, particularly because: (a) it is the Claimants that have made the
+Application; (b) the Claimants have done so on the basis of concerns about procedural
+integrity that do not appear to be justified at this stage; (c) the Netherlands’ stated desire to
+address the outcome of the German Proceedings when briefing the intra-EU objection is
+
+credible and reasonable in light of its indication that those proceedings will not be used to
+
+71d,
++8 Response, para 26.
+
+Page 15
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+undermine the Tribunal’s kKompetenz-kompetenz; and (d) ultimately, if it transpires that the
+Netherlands’ opposition to bifurcation has resulted in wasted costs, any harm to RWE can
+
+be remedied through the Tribunal’s allocation of costs.
+
+52. For the avoidance of doubt, the Tribunal does not consider that a claimant’s application to
+bifurcate a jurisdictional objection is per se unacceptable. To the contrary, the Tribunal’s
+view is that considerations of fairness and procedural efficiency apply equally irrespective
+of whether the respondent or the claimant applies for bifurcation. In the specific
+circumstances of this case, the Tribunal finds that those considerations, viewed holistically,
+
+weigh against bifurcation.
+
+Cc. RWE’s ANCILLARY MERITS CLAIM
+
+53. Turning to RWE’s ancillary merits claim, the Tribunal can be brief.
+
+54. | As RWE appears to acknowledge, this claim does not fall within the legal framework of
+Article 41(2) of the ICSID Convention and ICSID Arbitration Rule 41(4), which concerns
+only preliminary jurisdictional and competence objections. Rather, as embodied in Article
+44 of the ICSID Convention, the authority of an ICSID tribunal to bifurcate a merits claim
+falls within its residual power to decide procedural matters not covered by the Arbitration
+
+Rules.
+
+55. Given that requests to bifurcate merits claims are relatively rare, the applicable standards
+are less developed than those set out above for jurisdictional objections. That being said,
+the Tribunal has no doubt that fairness, justice and procedural efficiency remain paramount
+
+considerations.
+
+56. In the Tribunal’s view, these considerations do not support bifurcation of RWE’s merits
+claim, particularly in light of the Tribunal’s decision not to bifurcate the intra-EU objection.
+As RWE explains, its claim and the intra-EU objection are “inextricably linked both
+factually and legally, like two sides of the same coin.”*? Thus, it is evident that hearing
+
+the ancillary merits claim and the intra-EU jurisdictional objection in separate phases of
+
+*° Application, para 6.
+
+Page 16
+
+ICSID Case ARB/21/4
+Procedural Order No 2
+
+the proceeding would lead to duplicative proceedings. The Tribunal sees no reason to put
+
+that burden on the Parties.
+
+D. CONCLUSION
+
+57. To conclude, the Tribunal determines that, in the unusual circumstances of this case,
+separate preliminary resolution of the Netherlands’ intra-EU objection and RWE’s
+ancillary claim would not serve the overall interests of justice, the interests of the Parties,
+or the integrity of the proceedings. The Claimants’ Application is therefore denied. The
+case will move forward on the schedule for non-bifurcated proceedings in the Procedural
+Timetable.
+
+58. Again, the Tribunal underscores that its decision is taken in light of the Netherlands’
+assurances that it will not take any steps to interfere with the Tribunal’s kompetenz-
+kompetenz.
+
+Vv. ORDER
+
+59. For the reasons stated above, the Tribunal DECIDES and ORDERS as follows:
+
+(A) | The Claimants’ Application is denied.
+(B) The arbitration is to proceed in accordance with the schedule for non-bifurcated
+proceedings set out in Scenario A of the Procedural Timetable at Annex B of
+Procedural Order No 1, unless subsequently modified by the Tribunal.
+(C) _ The issue of costs is reserved to a later stage of the arbitration.
+For the Tribunal
+[Signed]
+Lucy Reed
+
+President of the Tribunal
+
+Page 17
+

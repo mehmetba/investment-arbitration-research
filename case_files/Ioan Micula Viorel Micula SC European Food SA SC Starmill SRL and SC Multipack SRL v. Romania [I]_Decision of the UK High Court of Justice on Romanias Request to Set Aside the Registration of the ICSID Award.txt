@@ -1,0 +1,2379 @@
+Case No: CL-2014-000251
+Neutral Citation Number: [2017] EWHC 31 (Comm
+THE HIGH COURT OF JUSTICE
+
+QUEEN'S BENCH DIVISION
+COMMERCIAL COURT
+
+ 
+
+IN THE MATTER OF THE ARBITRATION (INTERNATIONAL INVESTMENT
+DISPUTES) ACT 1966
+
+Royal Courts of Justice, Rolls Building
+Fetter Lane, London, EC4A_ 1NL
+
+ 
+
+Date: 20/01/2017
+
+Before:
+MR JUSTICE BLAIR
+Between:
+(J) VIOREL MICULA Claimants/
+(2) IOAN MICULA Respondents
+
+(3) S.C. EUROPEAN FOOD S.A.
+(4) S.C. STARMILL S.R.L.
+(5) S.C. MULTIPACK S.R.L.
+
+ 
+
+- and -
+ROMANIA Defendant/
+A
+- and -
+EUROPEAN COMMISSION Intervener
+
+ 
+
+Sir Alan Dashwood QC, Patrick Green QC, and Matthieu Grégoire (instructed by
+Shearman & Sterling (London) LLP) for the First Claimant
+Marie Demetriou QC and Hugo Leith (instructed by White & Case LLP) for the Second to
+Fifth Claimants
+Robert O’Donoghue and Emily MacKenzie (instructed by Thrings LLP) for the Defendant
+
+Nicholas Khan for the European Commission
+
+Hearing dates: 1-3 November 2016
+
+Judgment
+
+Mr Justice Blair:
+
+Introduction
+
+1.
+
+The 1° and 2" claimants are nationals of Sweden, and the 3™ to 5 claimants are
+Romanian companies owned directly or indirectly by them. The defendant/applicant
+is Romania, and the intervening party is the European Commission.
+
+This application arises out of an ICSID arbitration award (Case No. ARB/05/20)
+rendered against Romania in favour of the claimants on 11 December 2013 (the
+“Award”). ICSID is the International Centre for Settlement of Investment Disputes
+set up under the Convention on the Settlement of Investment Disputes between States
+and Nationals of Other States (the “ICSID Convention”). According to the claimants,
+as at 31 August 2016 and including interest, the outstanding amount of the Award
+converted into sterling is about £173m.
+
+The Arbitral Tribunal that rendered the Award was established pursuant to the
+bilateral investment treaty entered into between the Government of the Kingdom of
+Sweden and the Government of Romania on the Promotion and Reciprocal Protection
+of Investments on April 1, 2003 (the “Sweden/Romania BIT”).
+
+On 17 October 2014, the Award was registered in the High Court by Order of Burton
+J pursuant to the provisions of the Arbitration (International Investment Disputes) Act
+1966, which implemented the ICSID Convention in the UK (the “Registration
+Order”).
+
+By this application, Romania (supported by the European Commission) applies to set
+aside the Registration Order, alternatively to stay the Registration Order, alternatively
+that the questions which arise should be submitted to the Court of Justice of the
+European Union (CJEU) for a preliminary ruling.
+
+In summary, the issue that arises is as follows. Reflecting the terms of the ICSID
+Convention, registration of an ICSID award is an entitlement under the 1966 Act.
+There is no equivalent in the 1966 Act of s. 103 of the Arbitration Act 1996 which
+incorporates the grounds for the refusal of recognition or enforcement of a New York
+Convention Award set out in Article V of the Convention. Accordingly, the claimants
+argue that the court should dismiss the application and enforce the Award as a
+judgment in the normal way.
+
+The complication in the present case is most easily shown by decisions issued by the
+European Commission. Following an injunction addressed to Romania dated 26 May
+2014, a final d ion was issued by the European Commission on 30 March 2015
+(Commission Decision (EU) 2015/1470 of 30 March 2015 on State aid SA.38517)
+(the “Final Decision”). By the Final Decision, the Commission found that
+
+  
+
+implementation or execution of the Award by Romania (including payment) would
+constitute new incompatible State aid. (In very broad terms, the European Union
+rules on State aid are rules which prohibit state subsidies that distort competition.)
+
+Supported by the European Commission, Romania argues that consequent on the
+Final Decision, this court is duty-bound, as a matter of domestic constitutional law
+which incorporates EU law, to refuse registration or execution of the Award, and
+therefore to set aside any Order which has already purported to register or execute the
+Award.
+
+ 
+
+In summary, Romania’s case supported by the Commission (except as to paragraph
+(1)(i) below in respect of which the Commission does not take a position) is that:
+
+(1) The Registration Order be set aside because:
+(i) | Romania has in fact paid the Award in full; and/or
+
+(ii) This court is obliged to refuse recognition (and any further enforcement) of
+the Award, given the terms of the Final Decision.
+
+(2) Alternatively, that the court vary the Registration Order so as to stay proceedings
+until:
+
+(i) | The claimants’ applications to annul the Final Decision are determined by
+the EU Courts; or
+
+(ii) The CJEU issues a preliminary ruling pursuant to Art. 267 TFEU (assuming
+that this court makes a preliminary reference, as Romania supported by the
+Commission submits in the alternative that it should).
+
+On their part, the claimants invite the court to assume for the purposes of this hearing
+that the Commission’s Final Decision is valid (though they are challenging it in
+annulment proceedings (equivalent to an appeal) in the General Court of the European
+Union, the “GCEU”). They submit that, even on the premise of the decision’s
+validity, the court is under a duty to recognise and enforce the Award. There is no
+basis for setting aside the Registration Order, or for a stay, or for a reference to the
+CJEU, the claimants submit, because:
+
+    
+
+(1) The Award is res judicata.
+(2) The terms of the 1966 Act are clear and allow no derogation.
+
+(3) Art.351 TFEU applies because the ICSID Convention imposes applicable prior
+multilateral international obligations on the UK owed to non-EU Member States
+which take precedence.
+
+(4) The European Communities Act 1972 was not intended to put the UK in breach of
+pre-accession international obligations nor confer primacy on EU law in the
+relevant respect.
+
+(5) Rejecting the application would not infringe the UK’s EU law obligations of
+“sincere cooperation” under Art. 4(3) TEU (nor any other EU law duty).
+
+(6) The Award has not been paid in full.
+
+11. | The Commission further argues that upon Romania’s accession to the EU in 2007, at
+which point both parties to the treaty were members of the EU, the Sweden-Romania
+BIT became invalid. It submits that this issue should be included in a reference to the
+CJEU. The claimants say that the question is irrelevant to this case.
+
+12. In this regard, it is to be noted that the question of the validity of BITs entered into
+between Member States of the EU (as in the present case between Sweden and
+Romania) has a wider significance for the Commission, raising questions as to the
+proper discharge of its duties in this situation. On 3 March 2016, in the case of
+Achmea B.V. v Slovak Republic, the Bundesgerichtshof (the Federal Court of Justice
+of Germany) requested a preliminary ruling from the CJEU on the compatibility of
+investor-state arbitration clauses in investment treaties between EU Member States.
+The Commission has recently issued a reasoned opinion under the infringement
+procedure under Article 258 TFEU to a number of EU Member States to the effect
+that they must terminate their intra-EU bilateral investment treaties.
+
+13. The key issues that arise on the parties’ submissions have been agreed in a joint table
+submitted by the parties after the close of the hearing.
+
+14. If contrary to the claimants’ primary contention, the court finds that a stay should be
+ordered, by application issued on 29 September 2016 the claimants ask the court to
+make the grant of such stay conditional upon the grant of full or substantial security
+for the Award.
+
+The facts
+15. The facts are largely not in dispute, though the parties interpret them differently.
+
+16. The claimants maintain that they have made investments in Romania which were and
+still are protected by the Sweden/Romania BIT, and that they have a valid arbitration
+award in their favour which has been subject to an ex post attempt to nullify it. They
+maintain further that in its dealings towards them Romania has not behaved in good
+faith.
+
+17. Romania denies bad faith on its part, and maintains that its actions are dictated by the
+necessity to comply with the legal regime of the European Union of which the
+claimants have at all times been aware.
+
+18. The facts up to the date of the Award are set out fully and carefully in the ICSID
+Award of 11 December 2013 which is available on the internet. What is set out below
+is an outline. It is not for present purposes usually necessary to distinguish between
+the claimants.
+
+19. In 1975, the ICSID Convention came into force in Romania. This was during the
+Communist period, which came to an end at the end of 1989.
+
+20. Following Romania’s application for membership in 1993, in 1995 the Europe
+Agreement between the European Community and Romania entered into force. This
+required the eventual adoption of the European rules on State aid.
+
+21.
+
+22.
+
+23.
+
+24,
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+In 1997, Romania was urged by the Commission to pursue “rapid privatisation”,
+secure foreign direct investment and restructure the industrial and agricultural sectors.
+The Commission’s 1998 Annual Report also emphasised the importance of regional
+development for Romania.
+
+In 1998, Romania adopted an investment incentive scheme in the form of Emergency
+Government Ordinance No. 24/1998 (“EGO 24”).
+
+In 1999, the Stei-Nucet region of Romania was designated as a disfavoured region for
+a 10-year period commencing 1 April 1999. It was later extended to include
+Draganesti.
+
+At the beginning of 2000, and in preparation for eventual accession to the EU,
+Romanian Law no. 143/1999 on State aid entered into force.
+
+During the early 2000s, and (as explained in the Award) in reliance on the investment
+incentives, the claimants heavily invested in a large, highly integrated food production
+operation in the Seti-Nucet-Draganesti region as part of a 10-year business plan.
+
+In 2002, Romania and Sweden (which was an existing member of the EU) signed the
+Sweden-Romania bilateral investment treaty which came into force in 2003. The BIT
+provided reciprocal protections for investments, and consent to investor-state dispute
+resolution under the ICSID Convention. The claimants say that Romania was being
+encouraged by the Commission to enter into such agreements at this time.
+
+In 2004, Romania passed a Government Ordinance repealing all but one of the tax
+incentives provided under EGO 24, effective 22 February 2005. This was because it
+was seen as State aid.
+
+On 28 July 2005, the claimants filed a Request for Arbitration with ICSID under the
+terms of the Sweden-Romania BIT. In due course, the European Commission
+participated as amicus in the arbitration, making submissions on EU law. Both
+Romania and the Commission argued that “any payment of compensation arising out
+of this Award would constitute illegal State aid under EU law and render the Award
+unenforceable in the EU”.
+
+On 1 January 2007, Romania became a member of the EU.
+
+On 11 December 2013, the ICSID Tribunal issued the Award in the claimants’ favour.
+It found by a majority that Romania had violated the claimants’ legitimate
+expectations and had failed to act transparently. It did not deal with the issue of
+enforceability under the EU State aid rules, stating that it was “not desirable to
+embark on predictions as to the possible conduct of various persons and authorities
+after the Award has been rendered, especially but not exclusively when it comes to
+enforcement matters”.
+
+The Award orders Romania to pay RON 376,433,229 (the RON is the Romanian Leu)
+as damages, together with interest of RON 424,159,150 and further interest accruing
+until the defendant satisfies the Award in full. The court was told that this was the
+equivalent of the assistance which it would have received but for the measures taken
+by the State to withdraw the aid which had been extended.
+
+  
+
+40.
+
+On 14 January 2014, Romania purported to set-off RON 337,492,864 in respect of the
+third claimant’s unpaid taxes against the Award. The claimants subsequently
+challenged the set-off in the Romanian courts in one of a number of court proceedings
+in Romania, including in the Romanian Supreme Court. The set-off was the first of
+various such steps which are relied on by Romania as constituting payment of the
+Award, and which are further identified in the relevant section of this judgment.
+
+On 9 April 2014, and in accordance with ICSID procedures, Romania filed an
+application for the annulment of the Award to the ICSID “ad hoc Committee” and
+requested a stay of enforcement of the Award, which was granted provisionally.
+
+The position of the European Commission was that implementation of the Award
+would constitute new State aid. On 26 May 2014, the Commission issued a
+suspension injunction to restrain Romania from taking any action to execute or
+implement the Award until it had taken a final decision on the compatibility of State
+aid (the “Injunction Decision”).
+
+On 7 August 2014, the ICSID ad hoc Committee agreed to a continuation of the stay
+of enforcement of the Award, provided that Romania filed an assurance that it would
+pay the Award in full and subject to no conditions whatsoever if the annulment
+application was dismissed. Romania did not give this assurance, and the stay was
+revoked.
+
+On 2 September 2014, the claimants applied to the GCEU to annul the Commission’s
+Injunction Decision.
+
+Pursuant to an application made by the 1‘ claimant on 2 October 2014, (Claim No
+2014-000251, which constitutes these proceedings), on 17 October 2014 the Award
+was registered in the English High Court pursuant to the Order of Mr Justice Burton.
+The Registration Order was made on the documents in the usual way, giving the
+defendant (Romania) the right to apply to vary or set it aside.
+
+On 30 March 2015, the Commission adopted Final Decision 2015/1470 in which it, in
+summary: (i) declared that payment of the Award by Romania constituted new State
+aid within the meaning of Article 107(1) of TFEU (the Treaty on the Functioning of
+the European Union); (ii) prohibited Romania from making any payment under the
+Award to the claimants; (iii) demanded that Romania recover any sums already paid
+out under the Award; (iv) provided that the claimants, together with S.C. European
+Drinks S.A., S.C. Rieni Drinks S.A., S.C. Scandic Distilleries S.A., , S.C.
+Transilvania General Import Export S.R.L. and S.C. West Leasing International
+S.R.L. (being entities owned directly or indirectly by the 1% and 2"4 claimants), shall
+be jointly liable to repay any sums received by any one of them as part-payment of the
+Award.
+
+ 
+
+On 28 July 2015, the defendant filed its application to set aside or vary the
+Registration Order. By consent, the 2™ to 5 claimants joined the proceedings.
+Shortly afterwards, the Commission decided to intervene.
+
+On 6 November 2015, the 3™ to 5‘ claimants commenced proceedings before the
+GCEU seeking annulment of the Commission’s Final Decision (each of the parties
+
+41.
+
+42.
+
+43.
+
+44,
+
+45.
+
+46.
+
+sometimes refer to this as the claimants’ “appeal” against the decision). The other
+claimants commenced similar proceedings shortly afterwards.
+
+On 26 February 2016, the ICSID ad hoc Committee rejected Romania’s Annulment
+Application.
+
+On 29 September 2016, the claimants filed a cross-application for security for
+damages in these proceedings in the event of the court acceding to Romania’s
+application.
+
+To complete the picture, it should be noted that there are ongoing enforcement
+proceedings by the claimants in the United States, France, Belgium, Luxembourg and
+Sweden, though none has so far yielded any recovery.
+
+The court was told that the Belgian court set aside the initial garnishment order
+obtained on the Award, and that this is currently being appealed.
+
+At the time of this judgment, an appeal to US Court of Appeals for the Second Circuit
+is pending by Romania against certain decisions of the District Court for the Southern
+District of New York recognising the Award.
+
+Further ICSID proceedings were begun on 24 November 2014 by the 1* and 2"4
+
+claimants and their companies, but the court was told that these proceedings are not
+relevant for present purposes.
+
+The ICSID Award of 11 December 2013
+
+47.
+
+The Tribunal decided (see para 1329) that:
+
+i) The claimants’ claim that Romania violated Art. 2(4) of the Sweden/Romania
+BIT by failing to observe obligations entered into with the claimants with
+regard to their investments was dismissed by majority.
+
+ii) The claimants’ claim that Romania had violated Art. 2(3) of the BIT by failing
+to ensure fair and equitable treatment of the claimants’ investments was upheld
+by majority.
+
+iii) In view of its decision, the Tribunal did not need to determine whether
+Romania had breached the BIT by impairing the claimants’ investments
+through unreasonable or discriminatory measures (Art. 2(3) of the BIT) or by
+expropriating the claimants’ investments without the payment of prompt,
+adequate, and effective compensation (Art. 4(1) of the BIT).
+
+iv) The Award ordered Romania to pay RON 376,433,229 as damages, together
+with interest of RON 424,159,150 and further interest accruing until the
+defendant satisfies the Award in full.
+
+The principles as regards registration of ICSID awards
+
+ 
+
+48.
+
+The Arbitration (International Investment Disputes) Act 1966 implemented the ICSID
+Convention in the UK.
+
+49.
+
+Section 1(2) of the 1966 Act provides that a person seeking recognition or
+enforcement of a Convention award “shall be entitled to have the award registered in
+the High Court”.
+
+The award is not to be registered, however, if the pecuniary obligations it imposes
+have been wholly satisfied (s. 1(5)). There is an issue between the parties on this
+point.
+
+Section 2(1) of the 1966 Act provides for the effects of registration in accordance with
+Art. 54 of the ICSID Convention, effectively equating a registered Convention award
+to a judgment of the High Court:
+
+i) As respects the pecuniary obligations which it imposes, the award is “of the
+same force and effect for the purposes of execution as if it had been a
+judgment of the High Court given when the award was rendered pursuant to
+the Convention and entered on the date of registration under this Act, ...”.
+
+ii) So far as relates to such pecuniary obligations, “(a) proceedings may be taken
+on the award, (b) the sum for which the award is registered shall carry interest,
+[and] (c) the High Court shall have the same control over the execution of the
+award, as if the award had been such a judgment of the High Court”.
+
+There is no equivalent in the 1966 Act of s. 103 of the Arbitration Act 1996, which
+contains grounds for the refusal of recognition or enforcement of a New York
+Convention award, reflecting the grounds provided for in Article V of the 1958
+Convention on the Recognition and Enforcement of Foreign Arbitral Awards (the
+New York Convention).
+
+The ICSID Convention operates so as to bind the State signatories, including the
+United Kingdom, so that “unless an ICSID award is revised or annulled under
+ICSID’s own internal procedures, each contracting state must recognise an ICSID
+award as if it were a final judgment of its own national courts and enforce the
+obligation imposed by that award...only an ICSID annulment committee may annul
+the award. Setting aside or any other review of ICSID awards by domestic courts is
+not available” (Nigel Blackaby, Constantine Partasides, et al. Redfern and Hunter on
+International Arbitration (6th ed, 2015), §11.125-11.127; and see Rudolf Dolzer and
+Christoph Schreuer, Principles of International Investment Law, (2nd ed., 2012),
+p-310-311, and A/G Capital Partners Inc v Republic of Kazakhstan [2006] 1 W.L.R.
+1420 at [71], Aikens J).
+
+In the present case, the ICSID ad hoc Committee upheld the Award on 12 February
+2016. It is common ground that there is no further recourse available to Romania
+under the ICSID Convention. As a matter of English law, therefore, the claimants are
+entitled to be in the same position as if there was a judgment of the High Court in
+their favour. The term “judgment” in this context means “final judgment” (Art. 54(1)
+of the ICSID Convention). This is an important part of the fulfilment of the UK’s
+international obligations in respect of investment disputes decided under the
+Convention.
+
+  
+
+The Final Decision of the European Commission of 30 March 2015
+
+On 30 March 2015, the Commission issued a Final Decision (EU 2015/1470), in
+which it found that payment under the Award would constitute new incompatible
+State aid within the meaning of Art. 107(1) TFEU. The Final Decision is a lengthy
+document in which the history (as the Commission sees it) is set out in recitals.
+
+The Commission found that:
+
+i) The implementation or execution of the Award “re-establishes the situation the
+claimants would have, in all likelihood, found themselves in if the EGO 24
+[investment incentive] scheme had never been repealed” and therefore it grants
+the claimants an economic advantage not otherwise available on the market.
+
+ii) This is a selective advantage because (i) it only awards compensation to the
+claimants and the Sweden/Romania BIT only confers the right of
+compensation to a certain group of investors (i.e., those from Sweden and
+Romania), and (ii) the Award compensates the claimants for the repeal of
+investment incentives “which themselves are selective in nature”.
+
+iii) | Paying the Award would be imputable to Romania notwithstanding that it is an
+automatic and involuntary consequence of Romania’s obligations under the
+ICSID Convention.
+
+iv) It would be a measure liable to distort competition and affect trade between
+Member States because the claimants actively compete on a “liberalised
+
+market” and the Award relieves them of their “ordinary operating expenses”.
+
+The operative part of the Final Decision:
+
+i) Prohibited Romania from making any payment under the Award to the
+claimants.
+ii) Required Romania to recover any incompatible aid already paid out.
+
+iii) Provided that the claimants shall be jointly liable to repay the State aid
+received by any one of them.
+
+iv) Provided that recovery of the aid “shall be immediate and effective” and that
+Romania shall ensure that the Decision is implemented within four months.
+
+v) Required Romania to submit within two months information as to (i) the total
+amount of aid received by each entity; (ii) a detailed description of the
+measures already taken and planned to comply with the Decision; and
+(iii) submit documents demonstrating that the beneficiaries have been ordered
+to repay the aid.
+
+The validity of the Commission’s Final Decision is the subject of annulment
+proceedings before the GCEU (there are three sets of such proceedings), which (as
+noted above) is sometimes referred to by the parties as the claimants’ appeal against
+the Final Decision.
+
+The claimants argue, among other things, that the Final Decision was ultra vires, since
+the international wrongs for which the Award compensates were crystallised upon the
+
+cancellation of the EGO 24 incentives in February 2005, some two years before
+Romania acceded to the EU. By treating payment of the Award as the granting of
+illegal ‘new’ State aid, the Final Decision effectively applies the EU State aid rules
+retrospectively, to a time when the rules, and the Commission’s powers under them,
+were not yet applicable in Romania — Romania was not a Member State and the EU
+had no relevant competence under the Treaties, or the power to adopt the Final
+Decision on which Romania and the Commission now rely. The claimants contend
+that the decision represents an extravagant and unfounded assertion of a jurisdiction
+which the Commission plainly does not have, designed to manufacture a competence
+over events before Romania joined the EU, thereby protecting Romania against the
+consequences of its wrongdoing.
+
+ 
+
+60. | The Commission has filed defences asserting the validity of the Final Decision, the
+claimants have filed replies, and the Commission has filed rejoinders in response to
+the replies.
+
+61. As stated elsewhere, the claimants invite the court to assume, for the purposes of this
+hearing, that the Commission’s Final Decision is valid.
+
+The relevant principles of EU la regards State licable in National courts
+
+The principles
+
+62. Supported by Romania, the Commission argues that this court cannot assist the
+
+63.
+
+64.
+
+claimants by preventing or impeding Romania’s compliance with its EU law
+obligations as regards State aid.
+
+The principles are mainly not in dispute, and can be stated as follows. Art. 107(1)
+TFEU provides that “State aid” is, in principle, incompatible with the internal market.
+The Commission's role is to examine the compatibility of aid measures with the
+internal market, based on the criteria laid down in Arts. 107(2) and (3) TFEU. This
+compatibility assessment is the exclusive responsibility of the Commission, subject to
+review by the EU Courts. National courts have a complementary role, and must not
+disregard the limits of their own jurisdiction to prejudice the effectiveness of these
+articles—see the recent decision of the CJEU in Case C-590/14 P, Dimosia
+Epicheirisi Iektrismou AE (DEI), EU:C:2016:797.
+
+This is based on the duty of sincere cooperation contained in Art. 4(3) TEU which
+provides that:
+
+“Pursuant to the principle of sincere cooperation, the Union and
+the Member States shall, in full mutual respect, assist each
+other in carrying out tasks which flow from the Treaties.
+
+  
+
+The Member States shall take any appropriate measure, general
+or particular, to ensure fulfilment of the obligations arising out
+of the Treaties or resulting from the acts of the institutions of
+the Union.
+
+65.
+
+66.
+
+67.
+
+68.
+
+The Member States shall facilitate the achievement of the
+Union's tasks and refrain from any measure which could
+jeopardise the attainment of the Union's objectives.”
+
+As appears from Art. 4(3) TEU, the ambit of the “principle of sincere cooperation” is
+broad; it implies both positive and negative duties and may be engaged irrespective of
+to whom the relevant EU act is addressed. As the CJEU has held in Case C-344/98,
+Masterfoods, EU:C:2000:689, paragraphs 45 to 60 (in the case of antitrust law), and
+in Case C-284/12 Deutsche Lufthansa, EU:C:2013:755, paragraph 41 (in the case of
+State aid law), that duty is as follows:
+
+“The application of the European Union rules on State aid is
+based on an obligation of sincere cooperation between the
+national courts, on the one hand, and the Commission and the
+Courts of the European Union, on the other, in the context of
+which each acts on the basis of the role assigned to it by the
+Treaty. In the context of that cooperation, national courts must
+take all the necessary measures, whether general or specific, to
+ensure fulfilment of the obligations under European Union law
+and refrain from those which may jeopardise the attainment of
+the objectives of the Treaty, as follows from Article 4(3) TEU.
+Therefore, national courts must, in particular, refrain from
+taking decisions which conflict with a decision of the
+Commission.” (Deutsche Lufthansa para 41).
+
+This was reiterated by the CJEU in Dimosia Epicheirisi Ilektrismou AE (DEI), ibid, (a
+judgment of 26 October 2016) at paragraph 105 as follows:
+
+“It must be borne in mind that the application of the EU State
+aid rules is based on a duty of sincere cooperation between the
+national courts, on the one hand, and the Commission and the
+European Union courts, on the other, in the context of which
+each acts on the basis of the role assigned to it by the FEU
+Treaty. In the context of that cooperation, national courts must
+take all the measures, whether general or specific, necessary to
+ensure fulfilment of the obligations under EU law and must
+refrain from those that may jeopardise the attainment of the
+objectives of the Treaty, as follows from Article 4(3)
+TEU. Accordingly, national courts must, in particular, refrain
+from taking decisions that conflict with a decision of the
+Commission (judgment of 21 November 2013, Deutsche
+Lufthansa, C-284/12, EU:C:2013:755, paragraph 41).”
+
+Article 288 TFEU provides that a decision “shall be binding in its entirety” and
+Article 278 TFEU provides that the bringing of actions for annulment before the
+GCEU (as the claimants have) does not suspend the obligations flowing from an act
+of the EU.
+
+The principle as regards State aid law as stated by the CJEU is, therefore, that national
+courts must refrain from taking decisions which conflict with a decision of the
+Commission.
+
+ 
+
+69.
+
+70.
+
+71.
+
+72.
+
+73.
+
+In reliance on these and other authorities, the general principle has been stated in the
+same terms by the Court of Appeal in Air Canada v Emerald Supplies [2015] EWCA
+Civ 1024 at [70]:
+
+“The duty under Article 4(3) TEU is binding on all authorities
+of the Member States, including the courts: see Case C-344/98
+Masterfoods Ltd v HB Ice Cream Ltd [2000] ECR I-11369
+("Masterfoods") at [49]. The general principle of legal
+certainty, which underpins the duty of sincere cooperation,
+requires Member States to avoid making decisions that could
+conflict with a decision contemplated by the Commission: see
+Case C-234/89 Delimitis v Henniger Brau [1991] ECR 1-935 at
+[47] ("Delimitis"); Masterfoods at [51] and National Grid
+Electricity Transmission vy ABB Ltd [2009] EWHC 1326 at
+[24.] It is only where, in the words of the Commission in
+Delimitis at [50], there is "scarcely any risk" of a conflict
+between decisions of domestic and EU institutions, that the
+national authorities should proceed. Where the EU and
+domestic authorities have overlapping jurisdictions i.e.
+considering the same or similar matters, the risk of conflicting
+decisions will be high.”
+
+ 
+
+This is the jurisprudential basis for the case made by the Commission and Romania
+that the court should set aside the registration of the Award since, they maintain, it
+conflicts with a decision of the Commission.
+
+Similar principles arise on their alternative case as to a stay. They submit that the
+duty on national courts to refrain from taking steps which conflict with a decision of
+the Commission may require a national court to stay proceedings pending the
+resolution of a challenge to that decision in the European Court. This is so as to avoid
+the risk of the national court coming to a different conclusion.
+
+As noted earlier, in November 2015 the claimants commenced proceedings before the
+GCEU seeking annulment of the Commission’s Final Decision, and a ruling by the
+GCEU is awaited.
+
+The position in such a case was analysed by the English court in Jberian U.K. Ltd. v
+B.P.B. Industries Plc [1997] 1.C.R. 164 (a competition case), in which it was said at
+p.186F:
+
+“In my view these cases reinforce and support the following
+propositions. (1) The courts here should take all reasonable
+steps to avoid or reduce the risk of arriving at a conclusion
+which is at variance with a decision of, or on appeal from, the
+Commission in relation to competition law. (2) Except in the
+clearest cases of breach or non-breach, it will be a proper
+exercise of discretion to stay proceedings here to await the
+outcome of the Community proceedings.”
+
+ 
+
+The same approach applies in relation to State aid law (Kelyn Bacon, European
+Union Law of State Aid (2nd edn. OUP, 2013), para 20.49).
+
+74.
+
+75.
+
+76.
+
+This is subject to a materiality threshold: in other words, the risk of a potential
+conflict with a decision of the European Court must be a real one (see e.g. Crehan v
+Inntrepreneur Pub Co [2007] 1 A.C. 333). This does not apply where there is
+“scarcely any risk” of a conflict between decisions of domestic and EU institutions
+(see the passage cited from Emerald Supplies above).
+
+In summary and so far as relevant, as Romania and the Commission submit, in cases
+concerning State aid (1) a national court must refrain from taking decisions which
+conflict with a decision of the European Commission, and (2) where proceedings are
+on foot in the European Court (i.e. the GCEU or CJEU) to annul such a decision, a
+national court should stay domestic proceedings where there is a material risk of
+conflict with the decision of the European Court pending its decision.
+
+The question is as to the application of these principles in this case.
+
+The parties’ submissions
+
+77.
+
+78.
+
+79.
+
+The claimants largely accept the above statements of principle, accepting that the UK.
+courts bear duties under Art. 4(3) TEU not to take decisions in conflict with decisions
+of the Commission. However, their submission is that no conflict arises by upholding
+the registration of the Award with the prospect of the Award’s eventual execution
+against commercial property held by Romania in the UK. This would not entail any
+infringement of obligations binding the UK under EU law primarily because of the
+principle of res judicata as upheld in the European case law, and because Art. 351
+TFEU preserves the force of a Member States’ pre-accession international
+obligations. So far as there is any conflict, their submission is that the UK court must
+put its obligation under the ICSID Convention first.
+
+ 
+
+Romania and the Commission on the other hand submit that court is obliged to refuse
+recognition and any further enforcement of the Award because of the terms of the
+Commission’s Final Decision. Applying the principles set out above, the court cannot
+act in a way contrary to the decision, and the questions of law raised by the claimants
+are already before the GCEU in the claimants’ appeal against the Final Decision, and
+it is the European court that is the correct forum in which to resolve them, not this
+court.
+
+The claimants contest the applicability of the principles set out above based on Art.
+4(3) TEU on two grounds:
+
+(1) The UK’s duty of sincere cooperation is not engaged at all. Any satisfaction of
+the Award, or part of it, achieved as a consequence of execution pursuant to
+registration would not amount to an act imputable to Romania because it would
+be involuntary, and not pursuant to an autonomous decision by Romania. It could
+not, therefore, entail the granting of illegal State aid by Romania to the claimants.
+It appeared at one point in the hearing that this argument would not be pursued by
+the claimants, but it was later clarified that the argument stood, but would not be
+developed beyond the claimants’ written submissions. It is dealt with further
+below.
+
+80.
+
+81.
+
+82.
+
+83.
+
+84.
+
+(2) Invocation of the duty of sincere cooperation against the UK in the circumstances
+of this case would constitute an unprecedented and exorbitant application of Art.
+4(3) TEU.
+
+As to (2), the claimants submit that there is no authority to support the proposition
+that a court of Member State A can be prevented by that State’s duty of sincere
+cooperation under Art. 4(3) from awarding or enforcing an award of damages because
+the effect of such a decision would be to enable Member State B to circumvent the
+EU rules on State aid, particularly where (as they submit) this would put State A in
+violation of international obligations. All of the State aid cases cited by Romania and
+the Commission were ones in which the courts obliged to refrain from determining a
+certain matter belonged to the same Member State whose authorities were responsible
+for the granting of the State aid in question.
+
+ 
+
+ 
+
+However, as Romania and the Commission point out, the effect of the claimants’
+submissions would be that a Commission decision on State aid would be observed
+only in the country directly concerned, and in no other Member State. The court
+agrees that this would run contrary to the underlying principles as to State aid, which
+on this basis could be readily circumvented. Whilst, as the claimants say, the decided
+cases involve the courts of the country whose authorities were responsible for
+granting the State aid, this reflects the fact situation that arose in those ca: It may
+well be, as Romania and the Commission put it, that the precise obligations of the
+national courts would vary from country to country depending on the particular action
+which is sought. But no EU national court can take measures which run contrary to a
+final, binding Commission decision on unlawful State aid, and there is no reason to
+apply a different approach where the issue arises as regards enforcement elsewhere in
+the EU, which is the fact situation that arises in this case.
+
+ 
+
+ 
+
+ 
+
+In oral argument, it was accepted on behalf of the claimants that Art. 4(3) applies both
+vertically and horizontally, but submitted that when applied with the principle of
+conferral, the constraint comes from the ancillary character of the duty of sincere
+cooperation. The principle, it is submitted, always has to be read in context, and is
+not an independent source of rights and duties.
+
+Reliance is placed by the claimants on Koen Lenaerts and Piet van Nuffel, European
+Union Law (3 ed, 2011), where it is stated at §7-042:
+
+“Article 4 (3) does not have direct effect in itself, but it can be
+used as an additional argument where the Member State in
+question is alleged to have breached an unconditional and
+sufficiently precise obligation. In such a case, the national
+court, as an institution of the Member State, has to refrain from
+applying the provisions of domestic law which prevent EU law
+from having its full effect.”
+
+However, in the present case breach of the Commission’s Final Decision by Romania
+paying the Award would clearly be a breach of an unconditional and sufficiently
+precise obligation set out in the decision. That is the context in which this court, as a
+national court, albeit of a different Member State, has to consider and apply the duty
+of sincere cooperation. The duty has been called the most important general principle
+of Community law (Edward and Lane on European Union Law, para 2.24, p.45).
+
+85.
+
+86.
+
+87.
+
+89.
+
+The claimants further submit that Romania and the Commission have failed to
+demonstrate that rejection of the Application by the court would amount to a
+“measure” within the meaning of Art. 4(3) TEU.
+
+However, the Commission’s Final Decision establishes that (i) payment under the
+Award would constitute new incompatible State aid; and (ii) that such State aid is
+incompatible with Art. 108 TFEU. Romania emphasised, correctly in the court’s
+view, that the relevant measure for these purposes is the satisfaction of the Award,
+and not (as the claimants submitted) the ratification of the ICSID Convention by the
+
+The claimants submit that Art. 4(2) which obliges the Union to respect “the equality
+of Member States before the Treaties, as well as their national identities...” and also
+“their essential state functions”, must be taken to include the good standing of
+Member States as subjects of the international legal order. This raises the question
+whether the application of the principles stated above would create a conflict between
+the EU rules as to State aid and the obligations of the UK under the ICSID
+Convention so far as relevant to this case. The question is considered below.
+
+ 
+
+The key issues that arise on the parties’ submissions have been agreed in a joint table
+submitted by the parties after the close of the hearing.
+
+The issues do not seem to be ordered entirely logically in the table. For example, in
+the 1‘ claimant’s skeleton argument the question, “Does the ECA 1972, properly
+interpreted, mean that this Court should give priority to its obligations under the
+Arbitration Act 1966 over its obligations under EU law?”, is treated as “necessarily
+anterior”, whereas in the joint table, the issue comes in the middle of the list. But for
+convenience, the issues are addressed below in the order in the table. Some of the
+arguments raised under particular issues repeat or refer to the same points under
+different issues: each has been considered under the relevant issue whether expressly
+referred to or not. In the light of the court’s overall conclusion, the court has not
+expressed a final view on the substance of the issues where to do so would risk
+creating a possible conflict with the proceedings before the GCEU.
+
+Issue 1: finality of decisions
+
+90.
+
+91.
+
+92.
+
+Issue 1 is formulated by the parties as follows. Does the Award have the status of res
+judicata? If so, does EU law require this court to disregard national law rules as to
+finality of decisions, or does the Klausner exception apply?
+
+The essence of the issue is whether the Commission’s Final Decision of 30 March
+2015 can affect the validity of the Award issued on 11 December 2013, since it
+postdates it. (The Commission’s Injunction Decision of 26 May 2014 also postdates
+it.)
+
+ 
+
+The claimants contend that the Award has the status of res judicata and that the rule
+in Case C-234/04 Kapferer [2006] ECR I-2605 applies. This case draws attention “to
+the importance, both for the Community legal order and national legal systems, of the
+principle of res judicata. In order to ensure both stability of the law and legal relations
+
+93.
+
+94,
+
+95.
+
+96.
+
+97.
+
+ 
+
+and the sound administration of justice, it is important that judicial decisions which
+have become definitive after all rights of appeal have been exhausted or after the
+expiry of time-limits provided for in that connection can no longer be called into
+question” (paragraph 20).
+
+The claimants submit that:
+
+i) The content of the Award’s findings as to application of State aid law to
+enforcement is irrelevant to the status of the Award as res judicata.
+
+ii) The Award was binding and res judicata when rendered on 11 December 2013
+(see ss. 1 and 2 of the 1966 Act, and CPR 40.7), which is when the obligation
+on States to recognise it arose.
+
+iii) The assertion of EU law rights was clearly possible in this case, meeting the
+requirements of the principle of effectiveness. This is not a case of
+circumvention of State aid law (as in the cases of Case C-505/14 Klausner
+Holz Niedersachsen v Land Nordrhein- Westfalen, EU:C:2015:742 and Case C-
+119/05 Lucchini [2007] ECR 1-6199 relied on by Romania and the
+Commission).
+
+Romania and the Commission submit that the Award does not have the status of res
+judicata because:
+
+i) There is no res judicata because the Award expressly refused to make any
+findings on enforcement (see Award, para 330/ff).
+
+ii) The Commission’s Injunction Decision of 26 May 2014 and Final Decision of
+30 March 2015 pre-date the res judicata of the Award, which was 26 February
+2016, so that the Kapferer principles do not apply.
+
+iii) | The Klausner exception applies: in Lucchini, the CJEU ruled that EU law
+precludes the application of a provision of national law which seeks to lay
+down the principle of res judicata in so far as the application of that provision
+prevents the recovery of State aid granted in breach of EU law which has been
+found to be incompatible with the common market in a final Commission
+decision.
+
+The court’s view on these issues is as follows.
+
+The claimants’ argument as to the applicability of the res judicata principle gains
+weight from cases upholding the finality of arbitration awards generally (Case C-
+126/97 Eco Swiss [1999] ECR 1-3079, and Case C-40/08 Asturcom [2012] 1 CMLR
+34). (As to finality of awards under English law principles, see Emirates Trading
+Agency LLC v Sociedade de Fomento Industrial Private Ltd [2015] EWHC 1452
+(Comm)).
+
+ 
+
+However, the immediate issue for the court is as to the effect of the Commission’s
+Final Decision in this regard. The claimants’ submission is that the respect accorded
+by EU law to the finality of decisions applies even if an EU institution makes a
+directly inconsistent finding. So even where the Commission finds a measure to be a
+
+98.
+
+99.
+
+100.
+
+101.
+
+102.
+
+State aid, the status of a contrary prior final decision of a national court as res judicata
+and thus enforceable is unaffected. Reliance is placed on Case C-507/08 Commission
+v Slovak Republic [2010] ECR 1-13512.
+
+The question is as to when the Award became res judicata, in the sense of acquiring
+finality.
+
+The claimants submit that this occurred on the date of the Award, which was 11
+December 2013, before either of the Commission’s Decisions. This is supported by s.
+2(1) of the Arbitration (International Investment Disputes) Act 1966, which provides
+that:
+
+“., an award registered under section 1 above shall, as respects
+the pecuniary obligations which it imposes, be of the same
+force and effect for the purposes of execution as if it had been a
+judgment of the High Court given when the award was
+rendered pursuant to the Convention and entered on the date of
+registration under this Act, ...”.
+
+ 
+
+Though nothing seems to turn on this, a judgment of the English High Court would
+usually be considered as “given” when it is handed down, and “entered” on the date of
+the formal order recording the court’s decision.
+
+ 
+
+Romania and the Commission submit that finality did not occur until 26 February
+2016 when the ICSID ad hoc Committee rejected Romania’s Annulment Application.
+Reliance is placed on Christoph Schreuer et al, The ICSID Convention: A
+Commentary (2nd edn, 2009), at p.1105, which states that:
+
+“The exclusion of another remedy [that is, other than under the
+ICSID Convention review procedures] means that a party to
+ICSID proceedings that is dissatisfied with the Award may not
+turn to another forum to seek relief for the same claim. Once
+the ICSID tribunal has rendered its award and the review
+procedures under the Convention have been exhausted, the case
+is res judicata. The principle ne bis in idem precludes resort to
+any national or international remedy.”
+
+Romania points out that the review procedures under the Convention are not
+exhausted until after the decision of the ICSID ad hoc Committee, which happened
+on 26 February 2016.
+
+The court begins by considering Commission v Slovak Republic (ibid), where the
+issue was as to the recovery of a tax claim the writing off of which was confirmed by
+the Slovak court in 2004 as part of an arrangement with creditors. On the expiry of the
+period for an appeal, the decision of the Slovak court acquired the force of res
+judicata (see para 7). By a decision issued in 2007, it was found by the Commission
+to be State aid granted in breach of European Union law, and the Slovak Republic was
+required to recover it.
+
+The CJEU considered (at para 55) whether, where, as part of a procedure for
+arrangement with creditors under court supervision, a national court judgment decides
+
+103.
+
+104.
+
+on an arrangement which involves a debt to a public authority being partly written off,
+and that write-off is thereafter categorised by the Commission as State aid, the finality
+of that judgment can prevent the recovery of that aid.
+
+In that regard, the Fourth Chamber stated as follows:
+
+“56 In that regard, it must, first, be stated that the situation at
+issue here is distinguishable from that in Lucchini, relied on by
+the Commission, where the Court held that European Union
+law precludes the application of a provision of national law
+which seeks to lay down the principle of res judicata in so far
+as the application of that provision prevents the recovery of
+State aid granted in breach of European Union law which has
+been found to be incompatible with the common market in a
+decision of the Commission which has become final (see, to
+that effect, paragraph 63 of Lucchini).
+
+57 In the present case, the court judgment possessed of the
+force of res judicata relied on by the Slovak Republic precedes
+the decision whereby the Commission requires the recovery of
+the aid at issue.
+
+58 Consequently, as maintained by the Slovak Republic,
+Lucchini cannot be of direct relevance to this case.
+
+59 Secondly, attention should be drawn to the importance,
+both in the European Union legal order and in the national legal
+orders, of the principle of res judicata. In order to ensure
+stability of the law and legal relations, as well as the sound
+administration of justice, it is important that judicial decisions
+which have become definitive after all rights of appeal have
+been exhausted or after expiry of the time-limits provided to
+exercise those rights can no longer be called into question
+(Case C-224/01 Kébler [2003] ECR I-10239, paragraph 38;
+Case C-234/04 Kapferer [2006] ECR I-2585, paragraph 20; and
+Case C-2/08 Fallimento Olimpiclub [2009] ECR 1-7501,
+paragraph 22).
+
+60 Accordingly, European Union law does not in all
+circumstances require a national court to disapply domestic
+rules of procedure conferring the force of res judicata on a
+judgment, even if to do so would make it possible to remedy an
+infringement of European Union law by the judgment in
+question (see, to that effect, Kapferer, paragraph 21, and
+Fallimento Olimpiclub, paragraph 23).”
+
+ 
+
+Turning to the present case, as explained above, the European Commission
+participated as amicus in the ICSID arbitration, both Romania and the Commission
+arguing that “any payment of compensation arising out of this Award would
+constitute illegal state aid under EU law and render the Award unenforceable in the
+EU”. As explained above, the Tribunal did not decide that question.
+
+105.
+
+106.
+
+107.
+
+108.
+
+109.
+
+110.
+
+111.
+
+An asserted failure to decide whether Romania was prohibited from paying
+compensation for the repeal of illegal State aid was one of Romania’s annulment
+grounds. The Commission participated as amicus in the annulment proceedings as
+well. The challenge was rejected by the ICSID ad hoc Committee, which decided that
+“... it is clear that the Tribunal dealt with the issue posed by Romania. The Tribunal
+gave reasons for its conclusion that it was not useful to determine whether the Award
+would be unenforceable: it considered that this was not an issue before the Tribunal
+because it was not its duty to address the potential non-enforceability of the Award
+after it had been rendered” (para 230).
+
+Drawing these points together, the court accepts that there is force in Romania’s
+contentions that the issue of non-enforceability has never been decided in the ICSID
+proceedings, and that the Award only achieved finality for ICSID purposes after the
+Annulment Application was decided against Romania on 26 February 2016, so post-
+dating the Commission’s Final Decision.
+
+As a matter of English law, however, s. 2(1) of the 1966 Act provides that as respects
+the pecuniary obligations which it imposes, the Award is “of the same force and effect
+for the purposes of execution as if it had been a judgment of the High Court given
+when the award was rendered pursuant to the Convention and entered on the date of
+registration under this Act, ...”. A judgment or order takes effect from the day when
+it is given (CPR 4.40.7). Read with Art. 54 of the ICSID Convention, this shows that
+finality occurs at the time of the Award, because that is the time at which a final
+judgment of the High Court is deemed to be given for enforcement purposes, and not
+at the time of the resolution of annulment proceedings under the Convention.
+
+ 
+
+ 
+
+It is true that the term “res judicata” may have several different meanings. But in the
+court’s view the claimants are correct to submit that, as a matter of English law, the
+Award became res judicata in the sense of acquiring finality on 11 December 2013,
+not on 26 February 2016, and so pre-dated both the Commission’s Decisions.
+
+The question is what follows from this conclusion. If the court proceeds to enforce
+the Award against the assets of Romania as if it were a judgment of the court, as the
+claimants invite it to do, it would be acting in direct contradiction with the
+Commission’s Final Decision the effect of which is to prohibit payment by Romania.
+In this regard, the case is different from Commission v Slovak Republic, where the
+proceedings in the national court had closed, and the issue was as to recovery (see
+para 10). In the present case, enforcement has not yet begun in the English court, and
+court-sanctioned steps to enforce the Award would appear to engender a direct
+conflict between the court and the Commission.
+
+ 
+
+ 
+
+Further, account has to be taken of the claimants’ annulment proceedings in respect of
+the Final Decision. The claimants’ position is that the res judicata principle is not
+addressed in the Final Decision (this is not in dispute), and is not in issue in the
+claimants’ proceedings in the GCEU to annul that decision. In that regard, the
+claimants have two points, first that res judicata is not a ground that they advance for
+annulment of the Final Decision, and second that it does not arise for consideration
+before the GCEU.
+
+ 
+
+ 
+
+The first point is not in dispute. However, the second point is in dispute. In its
+defence in the annulment proceedings, the Commission relies on the K/ausner case,
+
+contending that it shows that the courts will not accept an outcome that produces a
+circumvention of the State aid rules by way of res judicata. Whilst the claimants do
+not raise res judicata as a ground on annulment of the Commission’s Final Decision,
+therefore, the issue of res judicata in the context of the decisions of national courts is
+raised by the Commission. In the court’s view, Romania and the Commission are
+correct to say that the meaning and scope of Klausner forms part of GCEU appeals,
+and because it forms part of the argument in these proceedings, there would be a real
+risk of inconsistent decisions if this court were now to decide as a matter of European
+law that the Award can be enforced.
+
+  
+
+112. On this basis, applying the principles set out above, the court considers that the final
+determination of the issue should be stayed pending the decision of the European
+Court.
+
+Issue 2: the effect of the Arbitration (International Investment Disputes) Act 1966
+
+113. Issue 2 is formulated by the parties as follows. Leaving aside questions of EU law,
+does this court have a duty under the 1966 Act to register/enforce the Award?
+
+114. The claimants submit that the 1966 Act requires the court to enforce the Award.
+
+i) The terms of the 1966 Arbitration Act (implementing Art. 54 of the ICSID
+Convention) are clear and allow for no derogation—especially in not
+providing a public policy exception.
+
+ii) Romania’s argument flies in the face of the purpose of the 1966 Act, especially
+as interpreted in light of the UK’s clear underlying international obligatio
+
+ 
+
+iii) In any event, if the Award were a High Court judgment it would be enforced,
+applying Kapferer (ibid).
+
+115. The claimants submit that enforcement of the Award is therefore mandatory under the
+1966 Act, and that EU law provides no ground for departing from this position, for
+the reasons set out in the claimants’ submissions on issues | and 3-5. Romania’s
+application should be dismissed.
+
+116. Romania and the Commission submit that the 1966 Act only requires that the Award
+be treated in the same way the court would treat a judgment of the High Court, and
+that the obligation is one of non-discrimination, not result. The High Court would
+also give priority to EU law and refuse to enforce a judgment in these circumstances,
+so no conflict arises. The 1966 Act imposes no requirement on this court to
+register/enforce the Award, and the Order of 17 October 2014 registering the Award
+must be set aside, alternatively stayed.
+
+117. In setting out the court’s reasons, it is convenient to consider these alternative
+submissions as to setting aside registration and staying enforcement separately.
+
+(i) The submission that the registration of the Award must be set aside
+
+118. The primary case of Romania and the Commission is that the Order of the English
+court made on 17 October 2014 registering the Award must be set aside.
+
+119.
+
+120.
+
+121.
+
+122.
+
+123.
+
+124.
+
+125.
+
+This submission, if correct, would (in the court’s view) conflict with the terms of s.
+1(2) of the Arbitration (International Investment Disputes) Act 1966, which provides
+for what has been called “automatic” registration of an ICSID award:
+
+“A person seeking recognition or enforcement of such an award
+shall be entitled to have the award registered in the High Court
+subject to proof of the prescribed matters and to the other
+provisions of this Act.”
+
+Romania and the Commission have placed emphasis on the fact that at the time of
+registration, the Commission had already issued its Injunction Decision of 26 May
+2014 restraining Romania from taking any action in execution or implementation of
+the Award until it had taken a final decision on the compatibility of State aid. At this
+time, Romania itself had purported to satisfy the Award by a set-off against taxes.
+
+ 
+
+However, in the court’s view, it is important to note the scope of the Injunction
+Decision. It is addressed to Romania, the requirement in the operative part of the
+decision being that “Romania shall immediately suspend any action which may lead
+to the execution or implementation or execution of the Award of 11 December 2013
+
+. as the execution of the award appears to constitute unlawful State aid, until the
+Commission has taken a final decision on the compatibility of that State aid with the
+internal market”.
+
+In the usual way, the registration of the Award by the English court was on the
+application of the claimants as the holders of the Award in their favour. The
+application was submitted by the claimants to the judge ex parte on the documents,
+and Romania took no action, and indeed played no part in the process at that time.
+The Registration Order entitled Romania to apply to set aside or vary the Registration
+Order, which it does in the present application.
+
+Clearly therefore, the registration of the Award did not place Romania in breach of
+the Injunction Decision, and the claimants were not in breach by registering the
+Award. The operative part of the Injunction Decision (which consists of a single
+article) is directed solely at Romania not the claimants (c.f. the operative part of the
+Commission’s Final Decision set out above).
+
+ 
+
+Of course, registration is a step that may lead to enforcement action in due course.
+The claimants make clear (as one would expect) that leaving the Registration Order
+intact carries with it “the prospect of the Award’s eventual execution against
+commercial property held by Romania in the UK”.
+
+However, in the court’s view, just as there is a distinction between the giving of a
+judgment and the enforcement of it, so there is a distinction between registering an
+award, and enforcing it. Registration is not necessarily a precursor to execution,
+though it may lead to it. In commercial terms, there may be good reason to register an
+award aside from imminent enforcement, for example for reasons of priority as
+against other creditors, or as a precaution. So in this case, the claimants who have a
+binding award in their favour could be prejudiced by setting aside the registration
+whilst the State aid issue is resolved in the European courts. In the court’s view, care
+should be taken not to derogate from the entitlement to have an award registered as a
+judgment outside the confines of the 1966 Act (as to such confines, see for example
+
+ 
+
+126.
+
+127.
+
+128.
+
+129.
+
+130.
+
+the provisions as to proving authenticity (s.1(6)(b)), and where there has been prior
+satisfaction of the award in part or in whole (s.1(5)).
+
+The issue can be resolved on the facts of the present case. As both Romania and the
+Commission have been at pains to emphasise, the prohibited State aid measure is
+payment of the Award, whether by implementation or execution. Thus, the
+Commission’s Final Decision stipulates that “Romania shall not pay any incompatible
+aid ...” (italics added). Registration of the Award is not comprehended within the
+Final Decision, and there is no reason to read it in. Registration in itself does not
+create a risk of conflict between decisions of domestic and EU institutions in the sense
+established in the case law. The court does not accept the submissions of Romania
+and the Commission in this respect.
+
+ 
+
+ 
+
+(ii) The submission that enforcement proceedings should be stayed
+
+ 
+
+The alternative submission of Romania and the Commission is that enforcement
+proceedings on the Registration Order should be stayed until the claimants’
+applications to annul the Commission’s Final Decision are determined by the EU
+Courts.
+
+The court’s conclusion is as follows. It is correct, as the claimants say, that the 1966
+Act is clear, and unlike the Arbitration Act 1996, it does not provide a public policy
+exception. As explained above, subject to narrow exceptions, a party holding an
+ICSID award is entitled to have it registered in England and Wales, and is thereafter
+in the same position as regards enforcement of pecuniary obligations as if the award
+was a final judgment of the High Court.
+
+ 
+
+Enforcement is subject to the law applicable to enforcing such a judgment (see e.g.
+AIG Capital Partners Inc v Republic of Kazakhstan, ibid, at [87], in which it was held
+that enforcement of an ICSID award was subject to the restrictions in the State
+Immunity Act 1978). In other words, by registration, the Award is equated to a final
+domestic judgment for these purposes, but is not in a better (or worse) position. As is
+recorded in Schreuer, The ICSID Convention: A Commentary, ibid, at p.1124, the
+1965 Report of the Executive Directors on the Convention confirms in paragraph 42
+that, “... Article 54 requires every Contracting State to recognize the award as binding
+and to enforce the pecuniary obligations imposed by the award as if it were a final
+decision of a domestic court”.
+
+The constraint on enforcement inherent in sovereign immunity was specifically
+
+recognised in the Report. In paragraph 43 it reads:
+“The doctrine of sovereign immunity may prevent the forced
+execution in a State of judgments obtained against foreign
+States or against the State in which execution is sought. Article
+54 requires Contracting States to equate an award rendered
+pursuant to the Convention with a final judgment of its own
+courts. It does not require them to go beyond that and to
+undertake forced execution of awards rendered pursuant to the
+Convention in cases in which final judgments could not be
+executed. In order to leave no doubt on this point Article 55
+provides that nothing in Article 54 shall be construed as
+derogating from the law in force in any Contracting State
+
+131.
+
+132.
+
+133.
+
+134.
+
+135.
+
+relating to immunity of that State or of any foreign State from
+execution.”
+
+In the present case, a judgment of the High Court is subject to the EU rules as to State
+aid as explained above. Applying the case law referred to above, the court must
+refrain from taking a decision which conflicts with a decision of the Commission.
+Whilst this case law may be consonant with what is seen as public policy, it is not
+based on it. As the Court of Appeal put it in the passage from Emerald Supplies cited
+above, “The general principle of legal certainty, which underpins the duty of sincere
+cooperation, requires Member States to avoid making decisions that could conflict
+with a decision contemplated by the Commission”. This applies to the court itself:
+“., national courts must, in particular, refrain from taking decisions which conflict
+with a decision of the Commission” (Deutsche Lufthansa, ibid, para 41).
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+This court cannot therefore proceed to enforce the judgment consequent on
+registration of the Award in circumstances in which the Commission has prohibited
+Romania from making any payment under the Award to the claimants because in
+doing so, the court would, in effect, be acting unlawfully. This does not (in the
+court’s view) create a conflict with the international obligations of the UK as
+contained in the 1966 Arbitration Act implementing the ICSID Convention in UK
+law, because a purely domestic judgment would be subject to the same limitation.
+
+The court accepts the submission of Romania and the Commission in this respect.
+Contrary to the claimants’ submissions, there is no question of this being “tantamount
+to granting states a power of full review of an ICSID Award”. There is no such
+review available on grounds of public policy or otherwise. The question is a very
+limited and specific one of legality in enforcement.
+
+This can be seen from the Award itself. The question of the effect of the State aid
+tules on the claimants’ claim was an issue in the arbitration. Submissions were made
+to the Tribunal by the European Commission as well as the parties. Understandably,
+the Tribunal felt it right not to rule on them. In paragraph 340 of the Award, the
+Tribunal left the position open, saying:
+
+“The Tribunal finds that it is not desirable to embark on
+predictions as to the possible conduct of various persons and
+authorities after the Award has been rendered, especially but
+not exclusively when it comes to enforcement matters. It is thus
+inappropriate for the Tribunal to base its decisions in this case
+on matters of EU law that may come to apply after the Award
+has been rendered. It will thus not address the Parties’ and the
+Commission’s arguments on enforceability of the Award.”
+
+ 
+
+The position that the Tribunal foreshadowed as regards enforcement has in fact
+happened.
+
+Similarly, as set out above, where proceedings are on foot in the European Court (i.e.
+the GCEU or CJEU) to annul a decision of the Commission, a national court may be
+required to stay domestic proceedings where there is a material risk of conflict with
+the decision of the European Court pending the resolution of the challenge: this is as
+
+to avoid the risk of inconsistent conclusions. The principle is not in dispute. Again, a
+purely domestic judgment is subject to this limitation.
+
+Issue 3: Article 351 TFEU
+
+136.
+
+137.
+
+138.
+
+139.
+
+140.
+
+141,
+
+Issue 3 is formulated by the parties as follows. Is the UK and this Court obliged to
+enforce the Award under the ICSID Convention, and if so is that obligation unaffected
+by EU law, by reason of Art. 351 TFEU?
+
+The claimants’ case is that EU law contemplates the case of a conflict arising between
+duties under EU law and an international agreement entered by a Member State
+before its accession to the Union. Art. 351 TFEU provides for the Member State’s
+obligations under a prior international agreement with a non-Member State to
+continue despite its subsequent accession to the EU, and in the case of the UK, the
+ICSID Convention is such a prior international agreement.
+
+ 
+
+Art. 351 TFEU provides that:
+
+“The rights and obligations arising from agreements concluded before 1
+January 1958 or, for acceding States, before the date of their accession,
+between one or more Member States on the one hand, and one or more third
+countries on the other, shall not be affected by the provisions of the
+Treaties.”
+
+Art. 351 goes on to provide that, “To the extent that such agreements are not
+compatible with the Treaties, the Member State ... concerned shall take all
+appropriate steps to eliminate the incompatibilities established”.
+
+The claimants’ case is that Art. 351 reflects the general principle of public
+international law that an agreement between two states cannot affect the obligations
+that those parties may have under prior agreements with third parties: Case C-205/06
+Commission v Austria [2009] 2 CMLR 50, at para 33. Where Art. 351 applies, the
+national courts of Member States may apply national legislation implementing
+international obligations, even if this would otherwise be contrary to a provision of
+EU law: see Case C-158/91 Levy [1993] ECR 1I-4300, at para 22. The ECJ has
+repeatedly held that Art. 351 “is of general scope and applies to any international
+agreement, irrespective of subject-matter, which is capable of affecting application of
+the Treaty”: see Case C-466/98 Commission v UK [2002] ECR 1-9496, para 23.
+
+The claimants’ case is that Art. 351 plainly applies in this case:
+
+i) The UK signed the ICSID Convention in 1965, and enacted the 1966 Act to
+implement the obligations contained in it. The ICSID Convention has more
+than 150 State parties, most of which are not EU Member States, and which
+were parties prior to the UK’s accession to the then European Economic
+Community in 1973.
+
+ii) Art. 54(1) of the ICSID Convention establishes obligations for all parties to
+recognise and enforce awards: “Each Contracting State shall recognize an
+award rendered pursuant to this Convention as binding and enforce the
+
+142.
+
+143.
+
+iii)
+
+iv)
+
+9)
+
+pecuniary obligations imposed by that award within its territories as if it were
+a final judgment of a court in that State.”
+
+The 1966 Act in turn implements this international obligation in domestic law
+in the provisions set out above.
+
+The UK’s membership of the ICSID Convention and the 1966 Act both took
+effect in 1967, several years prior to the UK joining the EEC.
+
+The UK accordingly bears obligations to non-Member States to recognise and
+enforce any award rendered under the ICSID Convention, including the Award
+here, and has created under national law parallel duties on this court to register
+such awards. The existence of this obligation engages Art. 351.
+
+The claimants’ case as summarised in the joint table is that enforcement is required
+under the ICSID Convention and Art.351 applies:
+
+i)
+
+ii)
+
+iii)
+
+The ICSID Convention requires the court to enforce the Award as if it were a
+final judgment of a UK court. Such a judgment would be enforced, applying
+Kapferer (for the same reasons as contended for in Issues 1 and 2).
+Enforcement of the Award is therefore mandatory under the ICSID
+Convention.
+
+Art. 351 applies because the ICSID Convention imposes applicable prior
+multilateral international obligations on the UK owed to non-EU Member
+States, and creates an enforcement system in which all ICSID parties have a
+shared interest.
+
+EU law imposes no requirement on this court to disregard the ICSID
+Convention or the 1966 Act, which require enforcement here, even if
+enforcement would otherwise be incompatible with EU law duties (as to which
+see Issue 4 below).
+
+Romania and the Commission submit in summary that Art. 351 TFEU does not apply
+because:
+
+i)
+
+ii)
+
+iii)
+
+The UK’s ICSID obligations do not require enforcement for the same reasons
+as contended for under Issue 2: that is, a final judgment of a UK court would
+not be enforced, so that no conflict of the UK’s international obligations with
+EU law arises.
+
+Art. 351 does not apply because this is a case of “intra~-Community relations”
+(i.e. no third country State is involved), and EU law does not require priority to
+be given to the ICSID Convention in such a case (Case T-69/89, RTE v
+Commission, EU:T:1991:39).
+
+EU law requires this court to give priority to its duties under EU law, over
+those under the 1966 Act, so that the Registration Order must be set aside or
+stayed.
+
+144.
+
+145.
+
+146.
+
+147.
+
+148.
+
+149.
+
+150.
+
+151.
+
+152.
+
+So far as the parties’ reasoning refers to other issues, reference is made to the parts of
+the judgment dealing with those other issues. Otherwise, the court’s conclusion is as
+follows.
+
+Romania and the Commission rely on the Final Decision, in which the Commission
+determined that Art. 351 TFEU “is not relevant for this case”. The reasons given are
+that (1) the BIT is a treaty concluded between two Member States of the Union
+(Sweden and Romania), and is not a treaty “between one or more Member States on
+the one hand, and one or more third countries on the other”, and (2) no third country
+Contracting Party to the ICSID Convention is party to the BIT.
+
+ 
+
+Romania and the Commission submit that the “short, but complete answer to the
+claimants’ argument under this heading is that unless and until the Commission’s
+Final Decision is annulled by the EU Courts, it is not open to a national court to find
+that the Commission’s conclusions in this regard are wrong”.
+
+The claimants’ response is that the issue before the court is different, because the
+court is concerned solely with the UK’s obligations to enforce the Award under the
+ICSID Convention.
+
+However in the court’s view, much the same considerations arise in that regard as are
+set out above. If the court enforces the Award, Romania will be required to pay the
+Award, which is what the Commission’s Final Decision prohibits.
+
+As Romania put it, although the claimants’ position is that they are not seeking to call
+into question the validity of the Commission’s Final Decision, in substance that is
+what they are doing. On their own appeal to the GCEU, this point, if they are correct,
+is a complete answer to the validity of the decision. (And as Romania submitted,
+these are not questions of fact, but are legal issues.)
+
+ 
+
+Much the same considerations arise as regards possible conflict with the decision of
+the GCEU in the annulment proceedings brought by the claimants. There is no
+question in this regard that the claimants raise the Art. 351 issue: it is one of the
+grounds on which they seek annulment of the Commission’s Final Decision.
+
+ 
+
+The claimants argue that the Art. 351 issue in the GCEU is different, focusing on the
+Sweden/Romania BIT which is not relevant in this court and involving only
+Romania’s ICSID duties, not those of the UK. The GCEU will not make any ruling
+on UK’s ICSID duties.
+
+ 
+
+However, even accepting that there is a difference in how the Art. 351 issue arises in
+the two proceedings, it is difficult to see how the risk of conflicting decisions could be
+avoided if this court was now to rule on the issue. As Romania and the Commission
+point out, at the minimum the GCEU will be considering the same cases and the same
+principles decided under Art. 351 (including the RTE case) as this court is being asked
+to consider. In the circumstances, applying the principles set out above, the case for a
+stay of these proceedings while the annulment action goes forward is a strong one.
+
+  
+
+Issue 4: European Communities Act 1972
+
+153.
+
+154.
+
+155.
+
+156.
+
+The European Communities Act 1972 (the “ECA 1972”) is the Act which legislated
+for the accession of the United Kingdom to what is now the European Union.
+
+Issue 4 is formulated by the parties as follows. Does the ECA 1972, properly
+interpreted, mean that this Court should give priority to its obligations under the
+Arbitration Act 1966 over its obligations under EU law?
+
+The claimants’ submissions as to the ICSID Convention are set out above. They
+submit further that the implicit premise of the case of Romania and the Commission is
+that the UK and the court are subject to binding EU law obligations enjoying
+supremacy over English law. However this, they submit, overlooks the necessarily
+anterior question as to whether in the ECA 1972 Parliament is to be taken to have
+intended to put the UK (and its courts) in breach of the UK’s pre-accession
+international obligations.
+
+The claimants submit that the first task for the court, as a matter of English law, is to
+consider Parliament’s intention when enacting the ECA 1972 and the proper scope of
+s. 2(1), which did not repeal the 1966 Act. In that regard, it is submitted that:
+
+(1) The proper construction of s.2 is a question of domestic English law:
+Schindler v Chancellor of The Duchy of Lancaster [2016] EWCA Civ 469;
+and UKSC 2016/0105.
+
+(2) On a proper construction of s.2, Parliament should not be taken to have
+intended to override the implementation of prior international obligations of
+the UK in the 1966 Act.
+
+(3) Art. 5(1) TEU states, “The limits of Union competences are governed by
+the principle of conferral”. Under that principle, Art. 5(2) TEU goes on to
+provide, “the Union shall act only within the limits of the competences
+conferred on it by the Member States in the Treaties to attain the objectives
+set out therein”.
+
+(4) Accession does not, therefore, entail a transfer of sovereignty to the EU but
+voluntary limitation by the Member States of their respective sovereignties
+(Opinion 1/91 ECLI:EU:C:1991:490, para 21, citing Case 26/62, Van Gend
+en Loos ECLI:EU:C:1963:1). How such limitation may be achieved by a
+given Member State is dependent on its particular constitutional
+arrangements.
+
+(5) Therefore, primary English law such as that contained in the 1966 Act may
+fall to be disapplied on the ground that it conflicts with directly effective
+EU law if, but only if, the matter to which it relates falls within the scope of
+the authorisation given by Parliament under s.2(1) of the ECA 1972 (see
+Shindler in the Court of Appeal at [58]). The crucial question is the
+presumed intention of Parliament when passing the ECA 1972 (Pham v
+Secretary of State for the Home Department [2015] UKSC 19 at [82]).
+
+(6) The question before the court is whether Parliament could have intended,
+when enacting s.2(1) of the 1972 Act, that it should have the effect of
+
+157.
+
+158.
+
+159.
+
+160.
+
+empowering the EU to put the UK in breach of pre-accession international
+obligations. That could not have been Parliament’s intention for two
+reasons.
+
+(7) _ First, it is a settled principle of English law that a statute should, if possible,
+be interpreted so as fully to respect international obligations of the UK
+under treaties concluded on its behalf.
+
+(8) Second, before Parliament was a Treaty that expressly provided, in what
+has become Art. 351 TFEU, that it would not affect the pre-accession
+international obligations of Member States. The effect of the ECA 1972
+was to confer defined competences “within limited fields” (Case 6-64 Costa
+v E.N.E.L.: ECLI: EU: C:1964:66, p.593), such limitation including the
+preservation of the prior international obligations falling under Art. 351.
+
+(9) As a matter of English law, therefore, no authority has been given by
+Parliament for this Court to disapply the 1966 Act, even if the enforcement
+of the Award were incompatible with directly effective EU law.
+
+(10) Romania’s application should therefore be dismissed.
+
+Romania accepts that whether or not a provision falls within or outside s. 2(1) ECA
+1972 is a matter of construction. It submits that State aid rules plainly fall within s.2,
+because Art. 3 TFEU provides that the Union shall have exclusive competence in
+competition matters. It follows that the effect of State aid rules on the UK’s pre-
+Accession obligations in the 1966 Act is within the scope of Art. 351 TFEU (which is
+set out above) and the matter is one in which jurisdiction is conferred on the EU. In
+any case, Romania submits that there is no analogy with the cases of Schindler and
+Pham which raised (respectively) the question of a country leaving the EU altogether,
+and citizenship matters, both of which (unlike State aid) are outside the competences
+conferred on the EU. Romania accordingly submits that EU law has primacy in
+respect of the 1966 Act and that the Registration Order must be set aside or stayed.
+
+The court’s conclusion on this issue is as follows.
+
+The issue as formulated assumes a conflict between the provisions of the ECA 1972
+and the court’s obligations under the Arbitration (International Investment Disputes)
+Act 1966, so that the question arises as to whether such obligations have primacy over
+its obligations under EU law.
+
+However, for reasons set out elsewhere, this conflict does not arise in the present case.
+The claimants were entitled to register the Award by way of the Registration Order of
+17 October 2014, and there are no grounds for setting aside the registration. As
+regards enforcement, Art. 54 of the ICSID Convention requires Contracting States to
+equate an award rendered pursuant to the Convention with a final judgment of its own
+courts. The court cannot enforce the judgment consequent on registration of the
+Award in circumstances in which the Commission has prohibited Romania from
+making any payment under the Award to the claimants. However, a purely domestic
+judgment would be subject to the same limitation, so that a stay would not put the UK
+in breach of pre-accession international obligations.
+
+  
+
+Issue 5: EU duties, especially Art. 4(3)
+
+161.
+
+162.
+
+163.
+
+164.
+
+165.
+
+166.
+
+167.
+
+Issue 5 is formulated by the parties as follows. Subject to the answers to points (1) to
+(4) above, do Art. 4(3) TEU (sincere cooperation), Art. 19 TEU (effective judicial
+protection), and/or the principle of effectiveness require the court not to
+recognise/enforce the Award?
+
+The claimants say no: rejecting the application would not infringe the UK’s EU law
+obligations under Art. 4(3) TEU (nor any other EU law duty) because:
+
+i) The terms of the Commission’s Final Decision do not apply to execution
+outside Romania;
+
+ii) Compulsory execution of the Award in the UK is not imputable to Romania;
+
+iii) | Romania’s arguments would lead to an unprecedented and exorbitant
+
+application of Art. 4(3) TEU, read together with Art. 4(2), or any other
+provision of EU law on which Romania or the European Commission rely.
+
+ 
+
+Consequently, the claimants contend that there is no conflict between the
+Commission’s Final Decision, Art. 4(3) TEU or any other EU law duty, and the UK.
+court’s obligations under the 1966 Act, as those EU law duties would not be breached
+by execution or enforcement. In any event, if the claimants succeed on any of (i)
+Kapferer, (ii) Art.351 or (iii) the ECA 1972 (see above), Romania’s arguments on this
+issue (5) will be insufficient, and its application must fail.
+
+Romania and the Commission say yes: if the Registration Order is not set-
+aside/stayed, the UK courts would render the Commission’s Final Decision
+ineffective by forcing Romania to do the very thing prohibited. On imputability:
+
+i) This is no need to show that payment pursuant to an order of the UK courts is
+“imputable” to Romania because sincere cooperation and effectiveness are
+standalone principles of EU law that can be breached independently by the UK
+courts.
+
+ii) Any requirement of “imputability” is in any event satisfied by Romania
+entering into the BIT and creating the conditions for payment of compensation
+(see the Commission’s Final Decision, para 118).
+
+Consequently, Romania and the Commission submit that there is a conflict between
+the court’s duties under EU law and its duties under the 1966 Act, and EU law must
+take priority, so that the Registration Order must be set aside/stayed.
+
+The court’s conclusion on this issue is as follows. There is no need to deal separately
+with Art. 19 TEU, which does not add to Art. 4(3) in this context. For the points
+raised by the claimants other than imputability, see elsewhere in this judgment.
+
+The claimants’ case on imputability has been referred to above. It is not in dispute that
+in order to constitute State aid, a measure must be imputable to the Member State
+concerned. As the Court of Justice has said, the rules on State aid apply to “decisions
+by Member States by which the latter, in pursuit of their own economic and social
+objectives give, by unilateral and autonomous decisions, undertakings or other
+
+  
+ 
+
+168.
+
+169.
+
+170.
+
+171.
+
+172.
+
+persons resources or procure for them advantages intended to encourage the
+attainment of the economic or social objectives sought” (Case 61/79, Amministrazione
+delle Finanze dello Stato v Denkavit Italia, EU:C:1980:100, para 31).
+
+The claimants’ case is that any satisfaction of the Award, or part of it, achieved as a
+consequence of execution pursuant to registration would not amount to an act
+imputable to Romania because it would be involuntary, and not pursuant to an
+autonomous decision by Romania. It could not, therefore, entail the granting of
+illegal State aid by Romania to the claimants.
+
+The Commission’s Final Decision deals with imputability in paras 117 ef seq,
+concluding in para 121 that the measure, that is payment of the Award by Romania, is
+imputable to Romania.
+
+The claimants are seeking to annul the Final Decision in the GCEU, but they contend
+that the issue of imputability in the GCEU is different, and the GCEU will not rule on
+whether the decision or Art. 4(3) TEU apply to compulsory execution outside
+Romania.
+
+Romania and the Commission contend that the meaning and scope of the
+Commission’s Final Decision, particularly para 118, forms part of GCEU appeals, the
+point being that any requirement of “imputability” is satisfied by Romania entering
+into the BIT with Sweden and creating the conditions for payment of compensation.
+
+Whether this point is right or wrong, in the court’s view it is before the GCEU for
+decision in the annulment proceedings, and a decision by this court as to imputability
+would risk a conflict. In any case, if the court were now to enforce the Award,
+Romania would be required to pay the Award, which is what the Commission’s Final
+Decision prohibits. Reference is made to the principles set out above.
+
+Issue 6: payment
+
+173.
+
+174.
+
+175.
+
+176.
+
+Issue 6 is formulated by the parties as follows. Must the Registration Order be set
+aside because the Award has been paid in full?
+
+ 
+
+Romania contends that the Award has been paid in full, but it did no more than touch
+on the point in its oral argument, and states it without elaboration in the joint table of
+submissions on key issues.
+
+The claimants contend that (i) s. 1(5) of the 1966 Act provides for registration of the
+Award or balance outstanding at the date of application, and even on Romania’s case
+there was no payment in full on that date, and (ii) in any event, there has been no
+payment in full at any subsequent point (this is not elaborated either).
+
+The court will deal with the payment issue equally briefly:
+
+(1) In early 2015, the Romanian court executor seized sums amounting to
+45,681,713 RON (approximately £9m) from the Romanian Ministry of
+Public Finance’s account. Some of this was subsequently recovered by the
+authorities. So far as the money went to the claimants, the Award was
+satisfied pro rata: the parties can agree the figures.
+
+(2) In January 2014, Romania offset a portion of the compensation awarded to
+the claimants by the ICSID Tribunal against RON 337,492,864
+(approximately £66m) of taxes owed by European Food S.A. (the 3%
+claimant). However, on 11 May 2015 the Oradea Court of Appeal annulled
+the set-off. Romania appealed this decision to the Romanian Supreme
+Court on 18 June 2015, but no decision has yet been handed down.
+Romania argues that that its pending appeal means that the claimants
+continue to benefit from the set-off (e.g., they cannot be pursued for the tax
+debt that would be outstanding were the set-off not operative), and so the
+set-off remains effective. The court does not agree, because set-off does
+not amount to payment unless the debt in question is extinguished, which is
+not the case if the set-off has been annulled.
+
+(3) A Special Treasury Account was set up in the name of both the claimants
+and the Romanian court executor on 9 March 2015, and RON 472,788,675
+(approximately £93m, which Romania says was the remaining balance of
+the Award) was transferred into it by the Romanian Ministry of Finance.
+This was a “blocked” account: neither party could withdraw funds from it
+unless and until the European Commission gave its final decision. As has
+been explained, this was forthcoming on 30 March 2015, whereupon the
+sums paid in were withdrawn by the Romanian authorities. These
+arrangements plainly do not constitute payment.
+
+(4) It follows that most of the Award remains unpaid.
+
+Issue 7: the Romania-Sweden BIT
+
+177.
+
+178.
+
+179.
+
+180.
+
+Issue 7 is formulated by the parties as follows. Is the Romania-Sweden BIT invalid?
+
+ 
+
+The Commission’s position is that the Sweden-Romania BIT impinges generally upon
+the Union’s exclusive competence to regulate intra-EU cross-border investments. The
+court’s understanding is that this position is taken as regards all extant intra-EU BITs.
+It is further submitted by the Commission that the Sweden—Romania BIT became
+invalid as a matter of international law as from the date of Romania’s accession to the
+European Union. This (it is submitted) follows from the general principle of primacy
+of Union law. The consequence is that no question of the application of Art. 351
+TFEU arises, since the Award was given per incuriam and cannot be regarded as
+valid.
+
+ 
+
+The claimants submit that the argument is irrelevant to the matter for decision by the
+court.
+
+The court’s conclusion is as follows. The English court cannot rule on the validity of
+a treaty between Sweden and Romania, though it perhaps could refer the question to
+the CJEU (see below). However, the court agrees with the claimants that, reference
+aside, validity of the Romania-Sweden BIT is not relevant to the issues to be decided
+in this case.
+
+ 
+
+Reference to the CJIEU
+
+181.
+
+An alternative to a stay, namely an Article 267 TFEU reference to the CJEU, is
+supported by Romania and the Commission, but the claimants are strongly opposed to
+this course. In fact, the questions to be referred on such a reference are not
+straightforward to identify. The matter is already before the European court by way
+of the current annulment proceedings brought by the claimants, and in the
+circumstances, the court does not consider a reference to be appropriate, bearing in
+mind that a reference by a first instance court is discretionary.
+
+Security
+
+182.
+
+183.
+
+184.
+
+185.
+
+186.
+
+187.
+
+If contrary to the claimants’ primary contention the court finds that a stay should be
+ordered, by application issued on 29 September 2016 the claimants ask the court to
+make the grant of such stay conditional upon the grant of full or substantial security
+for the Award. Skeleton arguments were filed by the claimants on 27 October 2016
+and by Romania on 28 October 2016.
+
+As indicated above, the court does consider that a stay should be granted pending the
+outcome of the claimants’ annulment proceedings in the European court, and so the
+issue does arise.
+
+There was insufficient time at the hearing to receive oral submissions on the issue of
+security. However:
+
+i) The Commission appeared to accept in oral argument that the court had power
+to order security, but that acceptance may have been linked to the limitations
+expressed by the CJEU in C-304/09 Commission v Italy EU:C:2010:812 in
+connection with interim measures from a national court in the case of recovery
+proceedings relating to State aid.
+
+ii) The claimants appeared to submit in oral argument that security would not be
+of assistance, since it would not be paid to them. However, in written
+submissions they contend that security would assist them in securing credit
+facilities for them to pursue their business operations and/or allow them to
+continue enforce the Award, and would ensure that, should a stay be granted
+but the European Court rule in their favour, they would be able promptly to
+recover sums due to them.
+
+On 14 November 2016, the court indicated to the parties that it would deal with the
+security application in the judgment, and the parties indicated that they were content
+for the court to deal with the matter on the documents. The court then received
+further written submissions on 22 November and 25 November 2016 from Romania
+and the claimants respectively, followed by letters dated 6 December 2016, 9
+December 2016 and 10 January 2017 as regards other matters. No further
+submissions have been lodged by the Commission.
+
+Though it is the claimants’ application, Romania’s submissions came first, and it is
+convenient to take them in that order.
+
+In summary, Romania submits that:
+
+188.
+
+ii)
+
+iii)
+
+iv)
+
+9)
+
+vi)
+
+vii)
+
+There is no legal basis for imposing security. Requiring it to lodge security in
+the amount of the ICSID Award before enforcement in circumstances where
+the legality of recognition is in genuine dispute would circumvent the 1966
+Act process.
+
+Nothing practical would be achieved in lodging security, since the claimants
+would not get the money. By contrast, there would be considerable prejudice
+to Romania if it had to lodge a substantial security now.
+
+Even on the claimants’ case, the EGO 24 incentives that alleviated certain of
+their tax liabilities would have expired in 2009. So, there is no basis for
+refusing to pay taxes due since 2009 — a period of 7 years — and the court
+should be slow to “reward” the claimants for not paying their taxes since this
+date.
+
+There is a significant risk that imposing security would violate EU law,
+because if the court were to order such a security to be paid, that might itself
+fail to respect the Commission’s Final Decision in a way that violates EU law.
+
+The court should not exercise any discretion it has in the claimants’ favour, in
+particular because they could have sought interim relief from the GCEU under
+Art. 278 TFEU.
+
+The UK’s connection with the claim is tenuous at best. It appears to be a
+purely speculative claim by the claimants that some relevant and unattached
+and/or accessible Romanian assets may be located here.
+
+The claimants have sought to make a series of prejudicial allegations about
+“delay” by Romania. These are baseless, and the simple reality is that
+Romania faces a quandary while the legal effects of the Award and
+Commission’s Final Decision co-exist.
+
+ 
+
+In summary, the claimants submit that:
+
+i)
+
+ii)
+
+iii)
+
+iv)
+
+9)
+
+The court has jurisdiction to grant security pursuant to the court’s inherent
+jurisdiction, CPR 25.1 and/or CPR 3.1(3).
+
+There is a contradiction in Romania’s argument that staying enforcement of an
+ICSID Award would not circumvent the process of the 1966 Act, whereas the
+granting of security would do so.
+
+If, contrary to the claimants’ case, this court has power to grant a stay, then it
+follows that it has power to grant security. The source of such a power would
+inevitably be the same.
+
+The claimants commenced the arbitration proceedings 11 years ago, and the
+Award itself was issued nearly 3 years ago. They have yet to recover more
+than a fraction of the sums due to them.
+
+Romania continues to make persistent efforts to avoid its obligations under the
+Award, pursuing its avowed strategy of delay. Romania has not committed
+
+189.
+
+190.
+
+191.
+
+unequivocally to pay the damages forthwith should the GCEU annul the
+Commission’s Final Decision.
+
+vi) Romania is attempting to recover from the claimants monies it alleges have
+been paid under the Award (including interest on such amounts, notably
+monies placed in the Special Treasury Account that were never actually paid to
+the claimants).
+
+vii) At the least, Romania is invited to confirm to the court that it does not
+presently intend to take enforcement actions against any of the claimants in
+furtherance of the Commission’s Final Decision, thereby further aggravating
+the prejudice to claimants.
+
+viii) There is no risk that imposing security would violate EU law.
+
+ix) Romania has been the subject of a request to disclose its assets in this
+jurisdiction. It has so far declined to do so, and so it is open to the claimants to
+infer that there may well be assets in this jurisdiction against which the Award
+may be enforced.
+
+ 
+
+x) The UK’s connection to the claim is the same as that of any other party to the
+ICSID Convention.
+
+xi) As regards delay, it is Romania, not the claimants, that has been in breach of
+its international obligations for over a decade now.
+
+xii) Security should be ordered for the full amount of the Award outstanding less
+what was paid by way of court-ordered execution (see above).
+
+xiii) At 31 August 2016, the amount outstanding, including interest, was RON
+918,631,643 which equates to roughly £173m at today’s rate of | RON =
+0.189055 GBP. The claimants invite the court to set the amount of security at
+no less than £150m.
+
+A further matter arises from the exchange of letters of 6 and 9 December 2016. In
+short, it seems that Romania is taking enforcement action to recover from the
+claimants the sums they received by way of court-ordered execution (see above), and
+also the amount they are said to have received by way of set off against tax liabilities
+(see above). Romania says that it is obliged to do so because it is required to recover
+payments under the Commission’s Final Decision. This is subject to a further letter of
+explanation from Romania dated 10 January 2017.
+
+As to the set-off, as explained above, in 2015 the Oradea Court of Appeal annulled
+the set-off against taxes owed by the 3" claimant, and though Romania has appealed
+this decision to the Supreme Court, no decision has yet been handed down. As held
+earlier in this judgment, set-off does not amount to payment unless the debt in
+question is extinguished, which is not the case if the set-off has been annulled.
+
+The court recognises that there are discretionary arguments against, as well as in
+favour of, the claimants’ application for an order requiring Romania to provide
+
+192.
+
+193.
+
+194.
+
+195.
+
+196.
+
+197.
+
+198.
+
+security as a term of the stay, on the assumption that there is power to make such an
+order.
+
+Nevertheless, having considered at this stage the parties’ written submissions only,
+the court considers that the claimants have advanced a persuasive case for an order
+requiring Romania to provide security as a term of the stay. This is subject to the
+points identified below. It reflects the fact that (i) the proceedings relate to an ICSID
+Award which pre-dates the decisions of the Commission, (ii) the Award is to be
+treated as a final judgment of the English court given at the time of the Award, and
+(iii) the Award has been unpaid for some years. More generally, although security is
+not the same as enforcement or payment because the monies may never be paid to the
+claimants, the grant of security is at least consonant with the obligation placed on the
+UK under the ICSID Convention is to enforce awards. Finally, as the claimants say,
+should the European Court rule in their favour, security would assist in enabling them
+promptly to recover the sums due to them. This is particularly important given the
+long duration of this dispute.
+
+At the same time, all the parties recognise the exceptional nature of this case. There
+are two points in particular which the court has not been able to resolve on the written
+material the parties have provided.
+
+First, the power to order security must be properly identified. In the case of a New
+York Convention award, by statute security may be ordered in defined circumstances
+where the court is not proceeding to immediate enforcement of the award (see s.
+103(5) Arbitration Act 1996 discussed recently in Travis Coal Restructured Holdings
+Lic v Essar Global Fund Ltd [2014] 2 Lloyd's Rep. 494). There is no equivalent in
+the 1966 Act which, as pointed out above, provides in s. 1(2) for what has been called
+“automatic” registration of an ICSID award.
+
+ 
+
+There is a real question therefore as to the legal basis for imposing security in the
+circumstances of this case. Both parties deal with the issue relatively briefly in their
+pre- and post-hearing written submissions.
+
+The claimants say that the application “is made pursuant to the Court’s inherent
+jurisdiction, CPR 25.1 and/or CPR 3.1(3) and/or on such basis as may flow from the
+Court’s decision that it has power to grant a stay and in its judgment should do so.
+Put simply, if, contrary to the Cs’ case, this Court has power to grant a stay, then it
+follows that it has power to grant security. The source of such a power would
+inevitably be the same”.
+
+Romania points out that security is not listed as an interim remedy available under
+CPR 25.1, and contends that whilst the general power under CPR 3.1(3) is in broad
+terms, there are difficulties in founding the grant of security on the court’s general
+powers of case management. Its case is that there is no power to order security under
+the court’s inherent jurisdiction or otherwise.
+
+ 
+
+The court considers that further clarity is required as to whether there is power to
+grant security and if so on what basis.
+
+199.
+
+200.
+
+201.
+
+202.
+
+Second, Romania submits that if the court were to order such security to be paid, that
+might itself fail to respect the Commission’s Final Decision in a way that violates EU
+law.
+
+For obvious reasons, this is a significant issue for the court. The parties have sought
+to address it, but it raises a further question as to the practical consequences of making
+an order for security. The court should have an understanding of the steps that it
+would be asked to take in the event of non-compliance, and the implication of such
+steps. This may affect the exercise of its discretion in deciding whether or not to
+make the order.
+
+ 
+ 
+
+It is to be hoped that the possibility of non-compliance is academic, but in the light of
+the history of this dispute that cannot be taken for granted. The court needs to be
+assured that the making of an order for security and such steps as may be consequent
+on any non-compliance would not themselves be treated as a violation of EU law. The
+Commission went some way to providing such assurance in the oral submissions
+referred to above, and may be able to dispel the concerns altogether. As the
+jurisprudence shows, the national court is entitled to look to the Commission for
+assistance, and the Commission has assured the court that it will continue to provide
+any assistance it can.
+
+   
+
+For these reasons, it is not appropriate for the court finally to decide the security
+question on the post-hearing written submissions, though these have been useful in
+narrowing the issues. The parties will have the opportunity to make further
+submissions at the hearing of consequential matters subsequent to the handing down
+of this judgment. The parties can argue all the points they have raised in writing, but
+the court makes it clear that it will need to be satisfied in particular as to the matters
+set out above. The court would wish the Commission to continue to be represented at
+the hearing. It would also wish to explore the possible alternative suggested by the
+claimants by way of confirmation that further action will not be taken by Romania in
+relation to enforcement proceedings.
+
+Conclusion
+
+203.
+
+In summary, the court has decided that:
+
+(1) Other than the amounts already received by the claimants in Romania by
+way of court-ordered execution, Romania has not made any payments under
+the Award.
+
+(2) The application of Romania and the Commission to set aside the court’s
+Order of 17 October 2014 registering the ICSID Award is refused. This
+because the registration of the Award did not place Romania in breach of
+the Commission’s Injunction Decision of 26 May 2014, and the claimants
+themselves were not in breach by registering the Award.
+
+ 
+
+(3) Enforcement of the Award is stayed pending the resolution of the
+claimants’ proceedings in the European court seeking the annulment of the
+Commission’s Final Decision of 30 March 2015. This is because the
+Commission’s Final Decision prohibits Romania from paying the Award,
+
+   
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+and the “principle of sincere cooperation” in Art. 4(3) TEU as interpreted
+both in European and in English case law precludes national courts from
+taking decisions which conflict with a decision of the Commission.
+
+This does not create a conflict with the duties of the UK under the ICSID
+Convention, because by registration under the Arbitration (International
+Investment Disputes) Act 1966 which implements the Convention, an
+ICSID award is equated to a final domestic judgment for enforcement
+purposes, and a purely domestic judgment would be subject to the same
+principle.
+
+Alternatively, applying the above case law, a stay is appropriate because the
+issues raised in the present application substantially overlap with the
+arguments raised in the annulment proceedings in respect of the
+Commission’s Final Decision which are being brought by the claimants in
+the European Court in Luxembourg, giving rise to the risk of inconsistent
+decisions.
+
+Bearing in mind that a reference by a first instance court is discretionary, an
+Art. 267 TFEU reference to the CJEU will not be made. This is because the
+questions to be referred on such a reference are not straightforward to
+identify, and the dispute is already before the European court by way of the
+current annulment proceedings.
+
+  
+
+As regards security, having considered at this stage the parties’ written
+submissions only, the court considers that claimants have advanced a
+persuasive case for an order requiring Romania to provide security as a
+term of the stay. This is subject to (8) below. It reflects the fact that (i) the
+proceedings relate to an ICSID Award which pre-dates the decisions of the
+Commission, (ii) the Award is to be treated as a final judgment of the
+English court given at the time of the Award, and (iii) the Award has been
+unpaid for some years.
+
+ 
+
+However, before reaching a decision, the court will require (i) to be
+satisfied that there is legal power to make an order for security, and (ii) to
+be assured that the making of an order for security and such steps as may be
+consequent on any non-compliance would not themselves be treated as a
+violation of EU law.
+
+204. These and other consequential matters will be dealt with when this judgment is
+handed down. The parties should agree a timetable. The court expresses its
+appreciation to the parties for their assistance.
+

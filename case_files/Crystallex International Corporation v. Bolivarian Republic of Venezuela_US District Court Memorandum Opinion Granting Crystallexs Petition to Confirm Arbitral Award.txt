@@ -1,0 +1,1127 @@
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 1 of 31
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+CRYSTALLEX INTERNATIONAL
+
+CORPORATION,
+Petitioner, : Civil Action No.: 16-0661 (RC)
+
+Vv. : Re Document Nos.: 1, 11, 14
+BOLIVARIAN REPUBLIC OF VENEZUELA :
+
+Respondent.
+MEMORANDUM OPINION
+GRANTING PETITIONER’S PETITION TO CONFIRM ARBITRAL AWARD;
+
+DENYING RESPONDENT’S MOTION TO VACATE ARBITRAL AWARD;
+DENYING PETITIONER’S MOTION FOR A PRE-JUDGMENT BOND AS MOOT
+
+I. INTRODUCTION
+
+Petitioner Crystallex International Corporation (Crystallex)—a Canadian company— invested
+in gold deposits in Venezuela in 2002. Over a period of several years, a series of actions by the
+Venezuelan government deprived Crystallex of the benefit of its investment. In accordance with
+a bilateral investment treaty (BIT) between Canada and Venezuela, Crystallex pursued its
+grievances against Venezuela before an international arbitration tribunal (the Tribunal). The
+Tribunal awarded Crystallex just over $1.2 billion. Crystallex now requests that this Court
+confirm the award in accordance with the Convention on the Recognition and Enforcement of
+Foreign Arbitral Awards (the New York Convention), which has been incorporated into United
+States law through the Federal Arbitration Act (FAA). Although the FAA does not allow
+Venezuela to re-litigate each point of the Tribunal’s decision, Venezuela raises various
+challenges and argues that the award should be vacated. Because none of Venezuela’s arguments
+
+suffice to vacate or modify the award under the New York Convention, the Court grants
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 2 of 31
+
+Crystallex’s petition to confirm the award and denies Venezuela’s motion to vacate.
+Additionally, Crystallex has moved for a pre-judgment bond, but because it confirms the award,
+
+the Court denies that motion as moot.
+
+Il. BACKGROUND
+A. The Bilateral Investment Treaty
+
+In 1996, Canada and Venezuela entered into a bilateral investment treaty (BIT) to
+promote economic cooperation and investment opportunities between the two nations. See
+generally Agreement Between the Government of Canada and the Government of the Republic
+of Venezuela for the Promotion and Protection of Investments (BIT), ECF 2-2, Ex. 2. The BIT
+required both nations to, inter alia, give investments by investors of the other nation! “fair and
+equitable treatment,” BIT, art. II(2), and refrain from unlawfully expropriating such investments,
+BIT, art. VII(1).
+
+As part of the BIT, Canada and Venezuela gave their “unconditional consent to the
+submission of a dispute to international arbitration” in accordance with various provisions. BIT,
+Art. XII(5). Arbitration was provided for disputes “between one [nation] and an investor of the
+other [nation], relating to a claim by the investor that a measure taken or not taken by the
+[nation] is in breach of [the BIT], and that the investor . . . has incurred a loss or damage by
+
+reason of . . . that breach.” BIT, Art. XII(1). Tribunals hearing claims under the BIT were
+
+' The BIT defined an investor from Canada as “any enterprise incorporated or duly
+constituted in accordance with applicable laws of Canada, who makes the investment in the
+territory of Venezuela and who does not possess the citizenship of Venezuela,” BIT, art. I(g) and
+an investment as “any kind of asset owned or controlled by an investor of one [nation]... . In
+particular, though not exclusively . . . rights, conferred by law or under contract, to undertake any
+economic and commercial activity, including any rights to search for, cultivate, extract or exploit
+natural resources,” BIT, art. I(f). Crystallex’s status as a Canadian investor covered by the BIT is
+not under dispute.
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 3 of 31
+
+instructed to apply the BIT itself and “applicable rules of international law.” BIT, Art. VII(7).
+
+The BIT specified that arbitrations would proceed under either the International Centre for the
+
+Settlement of Investment Disputes (ICSID) rules, the ICSID Additional Facility Rules, or the
+
+United Nations Commission on International Trade Law (UNCITRAL) rules. BIT, Art. XII(4).
+B. Factual Background
+
+Crystallex, a Canadian corporation, entered into the Mine Operating Contract (MOC) in
+2002 with the Corporacién Venezolana de Guayana (CVG). Arbitral Tribunal’s Award (Award)
+99.3, 18, ECF No. 2-1, Ex. 1. Under the MOC, Crystallex acquired the rights to develop the gold
+deposits at Las Cristinas in Venezuela. Award § 18. The MOC had an initial duration of twenty
+years and the possibility of an extension to forty years. Award § 20. The MOC placed obligations
+on both parties, including requiring Crystallex to “bear all responsibility for the development of
+the Las Cristinas project and all of its associated costs.” Award § 18. Over the following years,
+Venezuelan officials repeatedly noted Crystallex’s compliance with the terms of the MOC.
+Award § 402.
+
+Before it could begin operations at Las Cristinas, Crystallex needed various permits,
+including an Authorization to Affect National Resources from the Venezuela Ministry of
+Environment (the permit). Award J 21. Obtaining the permit was a lengthy process that required
+Crystallex to obtain a land occupation permit, submit a feasibility study, and submit an
+
+environmental impact study. Award § 21. Between 2003 and 2007, Crystallex completed many
+
+? Venezuela asserts that the CVG “is an autonomous institution, legally separate from and
+with a budget independent of the Venezuelan State.” Opp’n Confirm at 27, ECF No. 15. In
+support, Venezuela cites to a Venezuelan statute. See generally 1985 CVG Bylaws, ECF No. 15-
+2, Ex. 1. The Tribunal characterized the CVG as a “governmental organ,” Award § 700, and
+noted that “the right to explore and exploit [various mineral deposits] ultimately remained with
+the State, acting through the Ministry of Mines, which, in turn, assigned operations to the CVG,”
+Award § 205.
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 4 of 31
+
+of these prerequisites. Award {§ 22-41. On May 16, 2007, the Ministry of Environment
+informed Crystallex that it was prepared to “hand over” the permit once Crystallex paid a bond
+and fees. Award § 43; see also Award § 561 (“Once the Bond has been posted, checked, and
+found to be compliant by this Office, [the permit] . . . will be handed over.”). Crystallex posted
+such a bond and paid the required fees. Award § 41. On June 14, 2007, Crystallex announced to
+the market that it had fulfilled the requirements to receive the permit. Award § 42.
+
+However, despite the Ministry of Environment’s earlier statements, the permit did not
+issue. After a delay of almost a year, the Ministry of Environment officially denied Crystallex
+the permit on April 14, 2008. Award ff 44, 589-90. Later in 2008, a press release from the
+Venezuelan government indicated that Las Cristinas would be operated and exploited by the
+Venezuelan government. Award § 678. Crystallex responded by submitting its Notice of Dispute
+under the BIT on November 24, 2008. Award 53. In early 2009, then-Venezuelan-President
+Hugo Chavez announced “this year the Venezuelan State has taken over the exploitation and
+control of the gold deposits of Las Cristinas,” Award § 605. After two more years, during which
+Crystallex continued to bear the costs associated with control of the Las Cristinas site, the CVG
+officially rescinded the MOC (1) “for reasons of opportunity and convenience” and (2) due to
+“the cessation of activities for more than one (1) year.” Award §§ 59, 606.
+
+C. The Arbitration
+
+Crystallex initiated arbitration proceedings against Venezuela in 2011 under the BIT.
+
+Award § 64. Crystallex claimed that Venezuela had breached the BIT by (1) denying
+
+Crystallex’s investments “fair and equitable treatment” and (2) expropriating Crystallex’s
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 5 of 31
+
+investments. { 184. The arbitration proceeded under the ICSID’s “Additional Facility” rules.*
+Award § 1. The parties selected three arbitrators and engaged in two years of briefing and
+discovery. Award §{] 66—68, 70-110. Hearings began in Washington, D.C. in 2013 and concluded in
+2015. Award §§ 110, 157. In April of 2016, the three arbitrators unanimously issued a decision,
+Award at 1, affirming their jurisdiction over the claims at issue, finding that Venezuela had
+breached the BIT, and awarding Crystallex $1.202 billion, with interest, Award § 961.
+
+A brief summary of the Tribunal’s findings follows. As a threshold matter, Venezuela
+argued to the Tribunal that the Tribunal lacked jurisdiction over Crystallex’s claims because they
+were contract—not treaty—claims. Award {J 459-64. The Tribunal rejected this argument and
+concluded that the claims at issue were treaty claims. Award §§ 471-83.
+
+The Tribunal identified two separate violations of the BIT. First, the Tribunal found that
+Venezuela had violated the guarantee of “fair and equitable treatment” found in Article II(2) of
+the BIT* by: reneging on its commitment to issue Crystallex the permit, “engag[ing] in arbitrary
+conduct in denying the Permit and rescinding the MOC, and committ[ing] several acts lacking
+transparency and consistency.” Award § 623; see also generally Award {§ 487-623. Second, the
+
+Tribunal concluded that Venezuela had breached Article VII(1) of the BIT’s prohibition on
+
+> The BIT provided three possible frameworks for arbitration. If both nations were parties
+to the ICSID convention, then the arbitration would occur at ICSID pursuant to the Convention.
+BIT, Art. XII(4)(a). If one nation, but not the other, was a party to the ICSID Convention—as
+was the case here—then the arbitration would occur under ICSID’s Additional Facility Rules.
+BIT, Art. XII(4)(b). Finally, if neither procedure was available, then the arbitration would occur
+under the Arbitration Rules of the United Nations Commission on International Trade Law
+(UNCITRAL). BIT, Art. XII(4).
+
+4 The Tribunal rejected Crystallex’s claim that Venezuela had failed to provide “full
+protection and security” as required by Article II(2) of the BIT. Award § 635.
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 6 of 31
+
+expropriation by seizing the resources at Las Cristinas to develop itself, including by rescinding
+the MOC.> See generally Award §§ 636-718.
+
+The Tribunal then addressed the appropriate measure of compensation. See generally
+Award §§ 719-960. The Tribunal determined that it would apply the “full reparation” principal
+to calculating compensation, as described in the Chorzéw case before the Permanent Court of
+International Justice. Award §{ 846-47. The Tribunal averaged together the results of two
+different calculations to award Crystallex $1.202 billion. Award 917.
+
+The first method of calculating damages that the Tribunal considered was the stock
+market method, “a comparative valuation methodology that seeks to assess the damage to Crystallex’s
+stock price by reference to the evolution of stock prices for other, similarly placed, gold mining
+companies not affected by Venezuela’s expropriatory measures.” Award § 804; see generally
+Award §§ 804-817. By setting the “last clean date” as June 14, 2007, Award § 891, and the
+“valuation date” as April 13, 2008, the method yielded a damages amount of $1.295 billion.°
+
+The second method the Tribunal considered for calculating damages was the market
+multiples method, which “estimates the value of an asset or company by examining the market
+valuation of companies holding properties of similar characteristics.” Award § 901; see also
+Award § 793-803. By comparing Crystallex’s market valuation to that of seventy-three
+
+comparator companies, Award § 902, and adjusting that valuation based on the expected size of
+
+5 The Tribunal noted that, because its jurisdiction was “to decide Treaty, and not contract,
+claims” “[iJt is thus not for the Tribunal to decide whether the MOC was duly performed, or
+whether it was rightly or wrongfully terminated, and what would be the consequences of any
+wrongful termination. . . . That said, the Tribunal is not precluded from taking the circumstances
+concerning the MOC’s performance into account to the extent necessary to decide the
+expropriation claim.” Award {J 686-87.
+
+6 The Tribunal rejected Crystallex’s request for a “permit bump” or “control premium.”
+Award 4¥ 893, 895.
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 7 of 31
+
+the gold reserves at Las Cristinas, Award { 793, the method yielded a damages amount of $1.109
+billion.’ Award § 905.
+
+The Tribunal concluded that the damages amounts suggested by each method® were
+“largely consistent with each other” and averaged their results, to arrive at its damages award of
+$1.202 billion. Award § 917. The Tribunal rejected Crystallex’s request for $180 million in
+consequential damages to compensate it for its losses after the valuation date of April 13, 2008.
+Award § 894. Because the Tribunal denied Crystallex these consequential damages rejected
+various assumptions favorable to Crystallex that Crystallex requested the Tribunal consider in
+assessing damages, the Tribunal felt that the damages amount it awarded “may err on the
+conservative side.” Award § 918.
+
+D. Procedural History
+
+In April of 2016, Crystallex petitioned this Court'® to confirm the arbitral award. Petition
+Confirm Arbitral Award (Petition), ECF No. 1. The New York Convention, as incorporated into
+the FAA, permits parties to arbitrations governed by the New York Convention to seek
+confirmation of the award in a United States district court. 9 U.S.C. § 207. Venezuela moved
+
+instead to vacate the award. See generally Bolivarian Republic of Venezuela’s Motion Vacate
+
+7 The Tribunal assumed a twenty-year duration for the MOC, and rejected a “control
+premium” sought by Crystallex. Award 4 903.
+
+8 Crystallex had also proposed two additional methods by which to calculate damages,
+the P/NAV method and the indirect sales comparison method, which the Tribunal decided not to
+rely on in its analysis. See, e.g., Award 4 916.
+
+° The Tribunal also awarded pre- and post-award interest, Award § 934, and ordered each
+party to bear its own costs and split the arbitration costs, Award § 960.
+
+‘© Crystallex previously sought and received recognition of the award in Canadian courts
+through a default judgment. Crystallex Int’l Corp. v. Bolivarian Republic of Venezuela, 2016
+ONSC 4693 4 1, 11, 43 (Can. Ont. Sup. Ct. J.), ECF No. 17-2, Ex. 1.
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 8 of 31
+
+Arbitral Award (Mot. Vacate), ECF No. 11. The motion to vacate and the petition to affirm now
+
+being fully briefed, the matter is ripe for resolution by this Court.!!
+
+Ill. LEGAL STANDARD
+
+First, this Court addresses its jurisdiction. Jurisdiction is proper under the Foreign
+Sovereign Immunities Act (FSIA). Under 28 U.S.C. § 1330, “[t]he district courts shall have
+original jurisdiction . . . of any nonjury civil action against a foreign state . . . with respect to
+which the foreign state is not entitled to immunity either under sections 1605-1607 of this title or
+under any applicable international agreement.” Jurisdiction over actions against foreign states is
+thus limited to the enumerated exceptions to immunity in the FSIA. See Saudi Arabia v. Nelson,
+507 U.S. 349, 355 (1993). Because of this limitation, a court must “satisfy itself that one of the
+exceptions applies” at “the threshold of every action in a District Court against a foreign state.”
+Verlinden B.V. v. Central Bank of Nigeria, 461 U.S. 480, 493-94 (1983).
+
+Here, the exception in § 1605(a)(6) applies. Section 1605(a)(6) grants jurisdiction over
+actions “to confirm an award made pursuant to an arbitration agreement governed by an
+international treaty.” Chevron Corp. v. Ecuador, 795 F.3d 200, 203 (D.C. Cir. 2015). In this
+action, Crystallex seeks to confirm an award made pursuant to the BIT and governed by the New
+
+York Convention, 9 U.S.C. §§ 201 et seg. The D.C. Circuit has held that actions to confirm
+
+'! Crystallex also moved for imposition of a pre-judgment bond. See generally Pet’r
+Crystallex Int’] Corp’s Mot. Pre-Judgment Bond (Mot. Bond), ECF No. 14. In light of the
+Court’s denial here of Venezuela’s motion to vacate the bond and the entry of judgment in
+Crystallex’s favor, this request is denied as moot. See Republic of Argentina v. AWG Grp. Ltd.,
+No. 15-1057, 2016 WL 5928464, at *2 n.4 (D.D.C. Sept. 30, 2016) (“AWG has requested the
+posting of a pre-judgment bond . . . but this request is denied as moot since the pending motions
+are resolved and judgment is entered in AWG’s favor with this Memorandum Opinion.” (citing
+Republic of Argentina v. BG Grp. PLC, 715 F. Supp. 2d 108, 115 n.6 (D.D.C. 2010), rev'd, 665
+F.3d 1363 (D.C. Cir. 2012), rev'd, 134 S. Ct. 1198 (2014))), appeal docketed, No. 16-7134 (D.C.
+Cir. Oct. 31, 2016).
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 9 of 31
+
+arbitration awards under the New York Convention fall into exception § 1605(a)(6) “by its
+terms.” Creighton Ltd. v. Gov’t of State of Qatar, 181 F.3d 118, 123 (D.C. Cir. 1999). Here, Crystallex
+has met the requirements of § 1605(a)(6), which requires the petitioner to show that “(1) a
+foreign state has agreed to arbitrate; (2) there is an award based on that agreement; and (3) the
+award is governed by a treaty signed by the United States calling for the recognition and enforcement
+of arbitral awards.” Chevron Corp. v. Ecuador, 795 F.3d 200, 204 (D.C. Cir. 2015) (internal
+quotation marks and citations omitted). Crystallex has produced the BIT, the arbitral award
+against Venezuela under the BIT, and refers to the New York Convention. Cf. Chevron, 795 F.3d
+at 205. This Court thus has jurisdiction because the BIT demonstrates Venezuela’s agreement to
+arbitrate, and the award is based on the BIT and governed by the New York Convention.'?
+
+Second, the Court addresses the appropriate standard of review. In general, courts apply a
+deferential standard when reviewing arbitral awards. “Consistent with the ‘emphatic federal
+policy in favor of arbitral dispute resolution’ . . . the FAA affords the district court little
+
+discretion in refusing or deferring enforcement of foreign arbitral awards.” Belize Social
+
+'2 Venezuela does not object to this Court’s jurisdiction. To the extent that Venezuela’s
+claims that the Tribunal exceeded its powers would implicate these jurisdictional questions, the
+Court notes that the standard for jurisdiction under the FSIA places only the burden of
+production on the plaintiff, and requires the party claiming foreign sovereign immunity to bear
+the burden of persuading the Court of the absence of a factual basis for jurisdiction by a
+preponderance of the evidence. See Chevron Corp. v. Ecuador, 795 F.3d 200, 204-05 (D.C. Cir.
+2015), cert. denied, 136 S. Ct. 2410 (2016); see also Agudas Chasidei Chabad of U.S. v. Russian
+Fed’n, 528 F.3d 934, 940 (D.C. Cir. 2008) (“For purely factual matters [of jurisdiction] under the
+FSIA, however, this is only a burden of production; the burden of persuasion rests with the
+foreign sovereign claiming immunity, which must establish the absence of the factual basis by a
+preponderance of the evidence.”).
+
+Moreover, the Court concludes in its analysis of the merits here, infra, that Venezuela did
+agree to arbitrate the claims at issue here in the BIT and that the Tribunal reached its award
+based on the BIT.
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 10 of 31
+
+Development Ltd. v. Gov’t of Belize, 668 F.3d 724, 727 (D.C. Cir. 2012) (quoting Mitsubishi
+Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614, 631 (1985)).
+
+This deferential standard is akin to the deferential standard used when reviewing
+domestic arbitral awards. See Oxford Health Plans LLC v. Sutter, 133 S. Ct. 2064, 2068 (2013)
+(“Under the FAA, courts may vacate an arbitrator’s decision ‘only in very unusual
+circumstances.’ . . . If parties could take ‘full-bore legal and evidentiary appeals,’ arbitration
+would become ‘merely a prelude to a more cumbersome and time-consuming judicial review
+process.’” (first quoting First Options of Chicago, Inc. v. Kaplan, 514 U.S. 938, 942 (1995), then
+quoting Hall St. Assocs., L.L.C. v. Mattel, Inc., 552 U.S. 576 (2008))); see also BG Grp., PLC v.
+Republic of Argentina, 134 S. Ct. 1198, 1208 (2014) (“[T]he fact that the document” containing
+the arbitration agreement “is a treaty” does not affect the level of deference because “[a]s a
+general matter, a treaty is a contract, though between nations”). The Supreme Court has
+described the deferential standard as allowing vacatur of an award not if “the panel committed an
+error—or even a serious error” but “only when [an] arbitrator strays from interpretation and
+application of the agreement and effectively dispense[s] his own brand of industrial justice.”
+Stolt-Nielsen S.A. v. AnimalFeeds Int’l Corp., 559 U.S. 662, 671—72 (2010) (internal quotation
+marks and citations omitted); see also id. at 696 (“Courts . . . do not sit to hear claims of factual
+or legal error by an arbitrator as an appellate court does in reviewing decisions of lower courts.
+
+. .. This Court, therefore, may not disturb the arbitrators’ judgment, even if convinced that
+serious error infected the panel’s award.” (internal quotation marks and citations omitted)).
+Similarly, the D.C. Circuit has held that “[a]s long as the arbitrator is even arguably construing
+or applying the contract and acting within the scope of [her] authority, that a court is convinced
+
+[she] committed serious error does not suffice to overturn [her] decision.” Kanuth v. Prescott,
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 11 of 31
+
+Ball & Turben, Inc., 949 F.2d 1175, 1180 (D.C. Cir. 1991) (quoting United Paperworkers Int'l
+Union, AFL-CIO v. Misco, Inc., 484 U.S. 29, 38 (1987)).
+
+In addition to the deference due the arbitral decision, a district court “may refuse to
+enforce the award [under the New York Convention] only on the grounds explicitly set forth in
+Article V of the Convention.” TermoRio S.A. E.S.P. v. Electranta S.P., 487 F.3d 928, 935 (D.C.
+Cir. 2007) (citation omitted); see also Int’l Trading & Indus. Inv. Co. v. DynCorp Aerospace
+Tech., 763 F. Supp. 2d 12, 20 (D.D.C. 2011) (“Confirmation proceedings are generally summary
+in nature” because “the New York Convention provides only several narrow circumstances when
+a court may deny confirmation of an arbitral award.” (citing Zeiler v. Deitsch, 500 F.3d 157, 169
+(2d Cir. 2007)). “The party resisting confirmation . . . bears the heavy burden of establishing that
+one of the grounds for denying confirmation in Article V applies.” Gold Reserve Inc. v.
+Bolivarian Republic of Venezuela, 146 F. Supp. 3d 112, 120 (D.D.C. 2015) (citations omitted),
+appeal docketed, No. 15-7158 (D.C. Cir. Dec. 30, 2015).
+
+Here, Venezuela alleges that Article V(1)(c) and V(2)(b) of the New York Convention
+warrant vacatur, as does the Tribunal’s manifest disregard of the law. Mindful of the narrow
+
+scope of its review, the Court addresses each in turn.
+
+Iv. ANALYSIS
+A. Article V(1)(c)—Excess of Powers
+Venezuela argues that the Tribunal exceeded the scope of Venezuela’s consent to
+arbitrate by addressing matters the BIT did not consign to arbitration. Article V(1)(c) of the New
+York Convention provides that a court may refuse to confirm an award if the award “deals with a
+difference not contemplated by or not falling within the terms of the submission to arbitration, or
+
+it contains decisions on matters beyond the scope of the submission to arbitration.” Venezuela
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 12 of 31
+
+argues that the Tribunal stepped beyond the bounds of the BIT in two ways—first, by
+considering claims that were actually contract violations rather than treaty violations; and
+second, by using valuation methods that departed from the BIT’s instructions.
+
+Before considering each of these challenges, this Court must determine the amount of
+deference to grant the Tribunal’s determination of its scope. Although, as discussed previously,
+district courts generally defer to the conclusions of arbitral tribunals, Venezuela argues that
+questions of “arbitrability”—or the scope of the parties’ consent to arbitrate—are an exception to
+the standard rule and should receive de novo review. See, e.g., Mot. Vacate at 27-29, ECF No.
+11; Venezuela’s Resp. Crystallex’s Pet. Confirm Arbitral Award (Opp’n Confirm) at 19-22,
+ECF No. 15; Venezuela’s Reply Mem. P. & A. Supp. Mot. Vacate Arbitral Award (Reply
+Vacate) at 5-10, ECF No. 25. In support, Venezuela cites a line of Supreme Court precedent that
+identifies a distinction in the presumptive standard of review for questions of “arbitrability” and
+more procedural questions. See generally BG Group PLC v. Republic of Argentina, 134 S. Ct.
+1198 (2014) (holding that issues of arbitrability presumptively receive de novo review, while
+procedural jurisdiction questions presumptively receive deferential review). That line of cases
+however, including BG Group, dealt only with the presumptive standard when the treaty itself
+was silent as to whether the tribunal or the court should decide the tribunal’s jurisdiction. Jd. at
+1206. BG Group left intact the principle that “it is up to the parties to determine whether a
+particular matter is primarily for arbitrators or for courts to decide.” Jd. at 1206. In other words,
+when the parties explicitly agree that the tribunal should decide the scope of its own inquiry, then
+courts should review that determination deferentially. See First Options of Chicago, Inc. v.
+Kaplan, 514 U.S. 938, 943 (1995) (“[A] court must defer to an arbitrator’s arbitrability decision
+
+when the parties submitted that matter to arbitration.”).
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 13 of 31
+
+Determining that the parties submitted questions of arbitrability to the tribunal requires
+clear and unmistakable evidence. Id. at 944. In this case, such unmistakable evidence exists in
+the form of Venezuela’s explicit consent in the BIT to the ICSID Additional Facility Rules.'*
+BIT, art. XII(4). The ICSID Additional Facility rules provide that “[t]he Tribunal shall have the
+power to rule on its competence.” ICSID Arbitration (Additional Facility) Rules, art. 45 (2006),
+http://icsidfiles. worldbank.org/icsid/icsid/staticfiles/facility/partd-chap08.htm. Thus, by
+consenting in the BIT to proceed under the ICSID Additional Facility rules, Venezuela clearly
+
+and unmistakably assigned the question of arbitrability to the Tribunal, and this Court will
+
+'3 Attentive readers may recall that the BIT established three possible frameworks for
+arbitration—including the ICSID Additional Facility rules applied in this matter—and specified
+which framework should apply based on various factors. BIT, art. XII(4). In this case, however,
+this does not affect this Court’s conclusion that it should defer to the Tribunal’s determination of
+its scope because all three frameworks delegate issues of arbitrability to the Tribunal. See ICSID
+Convention art. 41, http://icsidfiles.worldbank.org/icsid/icsid/staticfiles/basicdoc/parta-chap04.htm
+(“The Tribunal shall be the judge of its own competence.”); UNCITRAL Arbitration Rules art.
+23 (2013), http://www.uncitral.org/pdf/english/texts/arbitration/arb-rules-2013/UNCITRAL-
+Arbitration-Rules-2013-e.pdf (“The arbitral tribunal shall have the power to rule on its own
+jurisdiction, including any objections with respect to the existence or validity of the arbitration
+agreement.”).
+
+In fact, Venezuela’s consent to use any of three arbitration methods, each of which
+explicitly assigns questions of scope to the arbitrator, strengthens the case for deference here. See
+Chevron Corp. v. Republic of Ecuador, 949 F. Supp. 2d 57, 67 (D.D.C. 2013) (“In this Circuit,
+clear and binding precedent dictates that in the context of a bilateral investment treaty,
+‘incorporation of the UNCITRAL Rules provides clear[] and unmistakabl[e] evidence[] that the
+parties intended for the arbitrator to decide questions of arbitrability.’ (quoting Republic of
+Argentina v. BG Group PLC, 665 F.3d 1363, 1371 (D.C. Cir. 2012)), aff'd, 795 F.3d 200 (D.C.
+Cir. 2015); see also Republic of Ecuador v. Chevron Corp., 638 F.3d 384, 394 (2d Cir. 2011)
+(“By signing the BIT, Ecuador agreed to resolve investment disputes through arbitration under
+the UNCITRAL rules. . . . Therefore, Ecuador consented to sending challenges to the ‘validity’
+of the arbitration agreement to the arbitral panel.”); Wal-Mart Stores, Inc. v. PT Multipolar
+Corp., 202 F.3d 280 (9th Cir. 1999) (holding that incorporation of the UNCITRAL rules
+demonstrated that “the parties agreed to abide by a system in which the tribunal rules on
+objections to its jurisdiction and the arbitrator, rather than the district court, should decide
+whether the parties’ disputes are arbitrable”).
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 14 of 31
+
+deferentially review the Tribunal’s determination as to its own jurisdiction.'* This conclusion is
+in harmony with prior interpretations of this precise Canada—Venezuela BIT. See Gold Reserve
+
+Inc. v. Bolivarian Republic of Venezuela, 146 F. Supp. 3d 112, 121 (D.D.C. 2015) (deferring to
+
+'4 Objecting to this interpretation, Venezuela cites a variety of cases from federal and
+state jurisdictions. Reply Vacate at 6, ECF No. 25. However, upon close inspection a common
+theme arises. None of the cases Venezuela identifies deals with either set of ICSID rules or the
+UNCITRAL rules—most deal with the American Arbitration Association (AAA) rules.
+Furthermore, most actually support the general rule that reference to rules which assign
+arbitrability to the tribunal—such as the AAA rules—clearly and unmistakably demonstrates the
+parties’ agreement. However, the cases Venezuela identifies each stand for a much more limited
+proposition about various special circumstances in which the general rule would not apply. No
+such circumstances are present here.
+
+For example, in Chesapeake Appalachia, LLC v. Scout Petroleum, LLC the Third Circuit
+held that “[v]irtually every circuit to have considered the issue has determined that incorporation
+of the [AAA] arbitration rules constitutes clear and unmistakable evidence that the parties agreed
+to arbitrate arbitrability” but applied an exception for issues of class arbitrability. 809 F.3d 746,
+763 (3d Cir.), cert. denied, 137 S. Ct. 40 (2016). The remainder of Venezuela’s examples are no
+more helpful.
+
+In Katz v. Feinberg, the Second Circuit avoided the default rule because the agreement at
+issue contained a specific provision which assigned the relevant questions to a separate authority.
+290 F. 3d 95 (2d Cir. 2002). In Taubman Cherry Creek Shopping Ctr., LLC v. Neiman-Marcus
+Grp., Inc., the court concluded that “[i]f parties to an arbitration agreement have explicitly
+incorporated a rule that empowers the arbiter to determine arbitrability, numerous courts agree
+. .. that such incorporation constitutes clear and unmistakable evidence of the parties’ intent to
+delegate that issue to the arbiter” but did not apply that general rule in the instant case because
+the parties had signed their agreement prior to the year when the AAA incorporated such a
+default rule. 251 P.3d 1091 (Colo. App. 2010). James & Jackson, LLC v. Willie Gary, LLC also
+concluded that “reference to the AAA rules evidences a clear and unmistakable intent to submit
+arbitrability issues to an arbitrator,” but decided the issue on an explicit carve-out found in the
+particular agreement at issue. 906 A.2d 76, 80 (Del. 2006). Finally, the court in Allstate Ins. Co.
+v. Toll Bros., Inc. found that “[v]irtually every circuit to have considered the issue has
+determined that incorporation of the AAA rules constitutes clear and unmistakable evidence that
+the parties agreed to arbitrate arbitrability” but found an exception to that default rule because
+the specific agreement incorporated two different sets of rules (and the other did not assign
+questions of arbitrability to the tribunal) and, additionally, one of the parties was unsophisticated.
+171 F. Supp. 3d 417, 427 (E.D. Pa. 2016) (quoting Chesapeake Appalachia, LLC v. Scout
+Petroleum, LLC, 809 F.3d 746, 763 (3d Cir. 2016)).
+
+Venezuela also cites a comment to a tentative draft of the Restatement (Third) of the U.S.
+Law of International Commercial Arbitration. Reply Vacate at 6-7 & n.3. This comment, of
+course, is not binding authority on this Court, and, as discussed above, does not accurately reflect
+the practice of the majority of jurisdictions to consider this issue.
+
+14
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 15 of 31
+
+the tribunal’s determination of its jurisdiction because the BIT incorporated the ICSID
+Additional Facility Rules), appeal docketed, No. 15-7158 (D.C. Cir. Dec. 30, 2015).
+
+To dispute this conclusion, Venezuela argues that Canada’s intervention in a different
+case (United Mexican States v. Cargill, Inc.), before a different court (a Canadian tribunal),
+based on a different bilateral investment treaty (NAFTA), demonstrates the “shared expectation[]
+of the contracting parties” that the tribunal’s determination of arbitrability be reviewed de novo.
+Reply Vacate at 7-10, ECF No. 25. In Cargill, the attorney general of Canada intervened to
+argue that the tribunal’s determination that it had jurisdiction over “up-stream” damages!* should
+be reviewed under a “correctness” standard, which Venezuela argues is akin to de novo review.
+Reply Vacate at 8 (citing United Mexican States v. Cargill, Inc., 2011 ONCA 622 (Can. Ont.
+C.A. 2011), http://www.ontariocourts.ca/decisions/201 1/2011ONCA0622.htm). However, the
+description of Canada’s position in the opinion is very sparse, stating only: “[t]he appellant
+submits . . . that the appropriate standard of review is the correctness standard. Canada, an
+intervener on the appeal, supported this position.” Cargill, 2011 ONCA 622 § 27. Missing from
+the opinion—or Venezuela’s briefing—is any explanation of Canada’s reasons for supporting the
+correctness standard. Were they based in Canadian law? The text of NAFTA, which was the
+treaty at issue in Cargill? Nor does Venezuela offer any explanation as to how this Court should
+balance the contemporaneous evidence of Canada’s intentions, as demonstrated by the text of the
+BIT, against its litigation position years later. Without more, Venezuela has not adequately
+
+established the intent of Canada as a party to the BIT with Venezuela.
+
+'5 In Cargill, both parties apparently agreed that the tribunal had jurisdiction over “down-
+stream” losses, or direct losses suffered by the investor due to the breaching-nation’s actions.
+The investor in Cargill was a wholly owned subsidiary of another company, and the dispute was
+over whether the tribunal also had jurisdiction over the so-called “up-stream” damages that the
+parent company incurred in lost sales to its subsidiary. See generally Cargill, 2011 ONCA 622.
+
+15
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 16 of 31
+
+Because the question of the jurisdiction of the Tribunal was assigned to the Tribunal to
+decide, this Court will deferentially review the Tribunal’s conclusions. In such a deferential
+review, a court “should give considerable leeway to the arbitrator, setting aside his or her
+decision only in certain narrow circumstances.” First Options of Chicago, Inc. v. Kaplan, 514
+US. 938, 943 (1995); cf: Schneider v. Kingdom of Thailand, 688 F.3d 68, 74 (2d Cir. 2012)
+(holding that when the parties “clearly and unmistakably agreed to arbitrate issues of
+arbitrability” the objecting party “is not entitled to an independent judicial redetermination of
+that same question”). With this deferential lens in place, the Court turns to each of Venezuela’s
+
+alleged examples of the Tribunal exceeding its scope.
+
+1. The Tribunal’s Identification of Treaty Claims
+
+Venezuela argues that the Tribunal exceeded its jurisdiction by considering claims based
+on the rescission of the Mining Operation Contract (MOC) that were contractual in nature. Mot.
+Vacate at 9-13, ECF No. 11. Both Crystallex and Venezuela agreed throughout the arbitration
+process—and here—that the Tribunal had jurisdiction over “alleged breaches of the BIT.”!®
+Award § 471. They disagree, however, over whether Crystallex’s claims fit into that category.
+
+According to Venezuela, Crystallex’s discussion of the MOC in its briefing before the
+Tribunal and (unsuccessful) request that the MOC be reinstated demonstrated that Crystallex was
+actually bringing contract claims. Mot. Vacate at 10-11; Reply Vacate at 17. The Tribunal
+
+rejected this position.'’ The Tribunal noted that “many investment disputes brought under a[n] . .
+
+‘© Tn contrast, Venezuela argues, and Crystallex does not dispute, that pure breach of
+contract claims are not arbitrable. See, e.g., Mot. Vacate at 29-30; see also Award § 471.
+
+'” Venezuela argues that the Tribunal could not rely on Crystallex’s representations as to
+the nature of its claim, but should instead have performed an objective analysis. See, e.g., Reply
+Vacate at 11-12. The Court notes, however, that the Award demonstrates that the Tribunal did
+
+16
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 17 of 31
+
+. investment treaty may involve a set of facts for which there may be a contractual relationship in
+place between the Parties” but “[a] state may breach a treaty without breaching a contract, and
+vice versa.” Award §§ 473-74 (citing a prior arbitration award). In this case, while the facts may
+also have constituted contract violations (i.e., breaches of the MOC), the Tribunal concluded that
+Venezuela’s actions constituted violations of the BIT and addressed only the treaty violations.'*
+The Tribunal found that Crystallex referred to the MOC only to show how Venezuela had
+violated the BIT by depriving Crystallex of fair and equitable treatment and expropriating
+Crystallex’s investment, and not as a separate contract claims. See Award § 476. The Tribunal
+
+was “unable to find any indication in the record which would suggest that [Crystallex] has
+
+not merely accept Crystallex’s representations but instead inquired objectively into the facts and
+circumstances in the record. See Award § 471-83.
+
+'8 Venezuela never directly addresses the Tribunal’s conclusion that some claims may
+represent both treaty violations and contract violations, and that the Tribunal retains jurisdiction
+over such mixed claims to the extent that they represent violations of the BIT. Although
+Venezuela appears to hint that the contractual nature of such a mixed claim could remove it from
+the Tribunal’s jurisdiction, the Court considers this argument to be untenable.
+
+Venezuela presents no authority for the proposition that the simultaneous existence of
+contract claims serves to remove arbitral jurisdiction from related treaty violations, nor is such a
+limitation found in the BIT. The lone arbitration Venezuela cites in support of its assertion that
+contract claims fall outside of the arbitrator’s jurisdiction, see Mot. Vacate at 12-13, actually
+holds to the contrary. See Oxus Gold v. Republic of Uzbekistan, Final Award J 398 (UNCITRAL
+Dec. 17, 2015), http://www. italaw.com/sites/default/files/case-documents/italaw7238_2.pdf
+(“Mere contractual breaches in principle fall outside the jurisdiction of the Arbitral Tribunal,
+unless they constitute at the same time a breach of Respondent’s obligations under the BIT...”
+(emphasis added)).
+
+Venezuela does argue that behavior violating a treaty must go “beyond that which an
+ordinary contracting party could adopt” to be an exercise of sovereign power. See, e.g., Opp’n
+Confirm at 26 (internal citation omitted). The Tribunal considered this standard and found that
+the rescission of the MOC did involve sovereign authority because the decision was made at high
+policy levels, not based on Crystallex’s compliance with the terms of the MOC, and justified
+with the principal of “autotutela,” an exercise of sovereign authority. Award J] 692-706.
+Moreover, the actions concerning denial of the permit—including a series of governmental
+announcements from several agencies and then-President Chavez that Venezuela would take
+back Las Cristinas, Award {] 675-82, 708—intertwined to constitute additional sovereign acts
+distinct from any breach of the MOC.
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 18 of 31
+
+disguised contract claims as treaty claims. To the contrary, . . . [Crystallex] has established that
+its claims in relation to the MOC are fundamentally based on the Treaty.”! Award § 476.
+Buttressing this conclusion, the Tribunal nowhere found that the MOC was breached, analyzed
+the terms of the MOC, or referred to the terms of the MOC to determine the appropriate
+remedy.”° Furthermore, the Tribunal identified acts completely separate from the MOC that
+breached the BIT, such as Venezuela’s refusal to grant the permit. Mot. Vacate at 32 n.21; see
+also Award 708.
+
+Venezuela next argues that the MOC was terminated by the CVG, an “autonomous
+institution which is legally separate from the Venezuelan State,” rather than by the state
+
+exercising its sovereign authority.?! Reply Vacate at 16. The Tribunal, however, disagreed and
+
+'S The Tribunal also rejected Venezuela’s argument, hinted at here, that a forum selection
+clause in the MOC for disputes “aris[ing] from the execution of” the MOC deprived the Tribunal
+of jurisdiction because “an exclusive jurisdiction clause in relation to disputes concerning
+possible contractual breaches, such as Clause 19 of the MOC, may not divest an international
+tribunal of its jurisdiction under an international treaty in relation to possible treaty breaches.”
+Award 4] 478-80.
+
+Similarly, because no contract claims were involved, it is immaterial whether the BIT
+included an umbrella clause which would grant the Tribunal jurisdiction over contract claims, or
+what forum or choice-of-law the MOC dictated for contract violations. Cf Opp’n Confirm at
+23-24; Mot. Vacate at 10.
+
+20 Venezuela argues that Crystallex characterized the dispute as one concerning contract
+claims when it initially requested that the Tribunal reinstate the MOC, a remedy which
+Venezuela argues is exclusively contractual. See, e.g., Reply Vacate at 17-18. However, given
+that no such remedy was ever awarded, this Court does not find that even a mistaken request by
+Crystallex for a contract remedy would conclusively demonstrate that Crystallex was not also
+asserting treaty claims, especially when Venezuela elsewhere argues that only an objective
+determination about the nature of the claims will suffice because Crystallex’s characterizations
+of the dispute are not binding. See supra note 17.
+
+2! The Court notes that, because Venezuela—not the CVG—was a party to the arbitration
+and was bound by the award, this argument by Venezuela appears closer to a challenge to the
+substance of the Tribunal’s conclusion (in essence, arguing that the Tribunal held Venezuela
+responsible for conduct it did not commit) rather than a challenge to the Tribunal’s jurisdiction.
+To the extent, however, that Venezuela asserts that the Tribunal exceeded its powers, the Court
+considers the argument.
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 19 of 31
+
+concluded that CVG was a branch of the Venezuelan state and that Venezuela was accountable
+for CVG’s rescission:
+
+Having reviewed the circumstances of the case, and in particular all of the acts
+
+which throughout the years implicated several governmental organs—the
+
+Ministry of Environment, the Ministry of Mines, the Venezuelan Presidency—as
+
+well as the CVG, the Tribunal has come to the conclusion that the true nature of
+
+[the rescission], however expressed, was one of exercise of sovereign authority.
+
+Award § 700. The Tribunal reached this decision because the rescission was intended “to give
+effect to the superior policy decisions dictated by the higher governmental spheres.” Award
+
+§ 701. Furthermore, the CVG justified the rescission through its “power of self-adjudication and
+self-enforcement (autotutela), a power that only entities acting as an authority (and not a
+contractual party) may exercise” and “specifically invoked reasons of ‘opportunity and
+convenience’ to terminate the MOC, which constitutes an example of an exorbitant public law
+prerogative deriving from sovereign authority or ius imperium under Venezuelan law.” Award
+{ 706 (footnotes omitted).
+
+This Court declines to disturb any of the Tribunal’s conclusions in light of the deferential
+standard of review.”? Clearly, the Tribunal at least purported to interpret the BIT, and the Court
+does not identify error, much less a more than serious error, in the Tribunal’s conclusion that
+Venezuela’s arbitrary and expropriatory rescission of the MOC could constitute a violation of the
+
+BIT. Venezuela has not met its “heavy burden of establishing that one of the grounds for denying
+
+confirmation in Article V applies.” Gold Reserve Inc. v. Bolivarian Republic of Venezuela, 146
+
+22 Even if the Court reviewed the Tribunal’s determination of its jurisdiction de novo, it
+would conclude that the Tribunal acted within the scope of its authority under the BIT. It is clear
+that the facts alleged by Crystallex make out a case for a violation of the BIT, regardless of
+whether they also suggest a contractual violation of the MOC. The BIT prohibited Venezuela
+from denying Crystallex fair and equitable treatment, and from expropriating its investments. By
+delaying the issuance of a needed permit on unclear grounds and eventually rescinding the
+contract which allowed Crystallex to operate, Venezuela did both.
+
+19
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 20 of 31
+
+F. Supp. 3d 112, 120 (D.D.C. 2015) (citations omitted), appeal docketed, No. 15-7158 (D.C. Cir.
+Dec. 30, 2015).
+2. The Tribunal’s Methodology for Calculating the Award
+
+Venezuela also argues that the Tribunal exceeded its scope by using improper methods to
+calculate the amount of the award. For the same reasons previously discussed, the Court
+concludes that deferential review of the amount of the Tribunal’s award is appropriate.”* Indeed,
+other courts in this jurisdiction have applied a particularly high amount of deference in reviewing
+arbitral awards. See, e.g., Contech Const. Prods., Inc. v. Heierli, 764 F. Supp. 2d 96, 110 (D.D.C.
+2011) (holding that when examining an arbitration award “‘it is particularly necessary to accord
+the ‘narrowest of readings’ to the excess-of-authority provision”); Kanuth v. Prescott, Ball &
+Turben, Inc., 949 F.2d 1175, 1182 (D.C. Cir. 1991) (upholding the amount of an arbitral award
+because “there is nothing on the face of the panel’s lump-sum award which suggests that the
+panel failed to construe the contract. To hold otherwise would require us to inquire into precisely
+how and why the panel derived the lump-sum award, an inquiry clearly outside of our limited
+scope of review”).
+
+Venezuela claims to identify two flaws in the Tribunal’s methodology for calculating
+damages. First, Venezuela argues that the Tribunal incorrectly considered dates prior to the date
+
+of the expropriation in applying the stock market method. Mot. Vacate at 18-22. Second,
+
+23 Venezuela does not explicitly address the appropriate standard of review for evaluating
+whether the Tribunal’s award exceeded the scope of the BIT. Crystallex argues, and this Court
+agrees, that a deferential standard is appropriate. See Opp’n Vacate at 34.
+
+To the extent that it thus denies Venezuela a more searching review, the Court notes that
+the authorities Venezuela itself identifies as examples of overturned awards used a deferential
+standard. See, e.g., Alken-Zeigler, Inc. v. UAW, Local Union 985, 134 F. App’x 866, 867 (6th
+Cir. 2005) (holding that “our review is extremely deferential” (cited by Venezuela at Mot.
+Vacate at 35; Reply Vacate at 22)). This standard, of course, is “not toothless,” id. at 868, and
+will on occasion warrant vacating an award.
+
+20
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 21 of 31
+
+Venezuela argues that the Tribunal used unreliable assumptions in applying the market multiples
+method. Mot. Vacate at 22-25. For the reasons set forth below, applying the deferential standard
+of review, the Court rejects both arguments.
+a. Stock Market Method
+
+Venezuela argues that the Tribunal erred in its application of the stock market method.
+Mot. Vacate at 18-22, ECF No. 11. The Tribunal selected a valuation date, and then used the
+stock market method to adjust the value of Crystallex’s investments on that date to compensate
+for wrongful, value-decreasing acts by Venezuela prior to the valuation date. Venezuela objected
+to this approach for two reasons—first, on the grounds that there were no wrongful acts prior to
+the valuation date, Reply Vacate at 19, ECF No. 25; and second, on the grounds that the BIT
+limited the Tribunal to considering the value of Crystallex’s investment immediately prior to the
+expropriation. Mot. Vacate at 13-14 (citing BIT, art. VII(1)). Both arguments fail.
+
+Both parties agreed that the valuation date to determine the amount of the award should
+be set on the date of expropriation, Award § 844, which the Tribunal identified as April 13,
+2008,74 Award {| 855. However, the Tribunal determined that Venezuela had committed
+
+wrongful acts that depressed the value of Crystallex’s investment prior to the valuation date, and
+
+4 Crystallex argued that the expropriation occurred when the MOC was terminated on
+February 3, 2011, while Venezuela maintained that the expropriation had occurred when the
+permit was denied on April 13, 2008. Award § 854. The Tribunal adopted Venezuela’s proposed
+date of April 13, 2008 because “the Tribunal has found [that denial] to be both a self-standing
+breach of [fair and equitable treatment] and the first important act giving rise to the creeping
+expropriation.” Award § 855.
+
+Crystallex likely preferred a later valuation date because the price of gold continued to
+rise through February of 2011. Award 4 753. The Tribunal rejected Crystallex’s suggestion for
+various reasons, including that Crystallex indicated on November 24, 2008 that it believed the
+BIT had been breached by submitting its Notice of Dispute. Award § 857. Neither party here
+argues for using a date after the date of the expropriation—such as the date of the award—as the
+valuation date. Award § 844.
+
+21
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 22 of 31
+
+therefore used the stock market method to calculate the hypothetical value of Crystallex’s
+investment on the valuation date, “but for” Venezuela’s wrongful conduct.”> Award § 807.
+
+The stock market method looks at two different dates: first, a date before any wrongful
+acts—the last clean date—and second, the desired valuation date. The method compares the
+change in Crystallex’s stock price during that interval to the change in the stock prices of
+comparator companies that were not affected by Venezuela’s actions. See Award J 804. The
+method can thus estimate what effect Venezuela’s conduct had on Crystallex’s stock price. The
+overall purpose of the method is still to calculate a value for Crystallex’s investment on the
+valuation date, but the hypothetical value that the investment would have had but for
+Venezuela’s inequitable actions. See Award § 891. The Tribunal found that the stock market
+method was appropriate because “Crystallex was a one-asset company and the rights which
+Crystallex enjoyed under the MOC in relation to Las Cristinas were that single asset.” Award
+§ 890. The Tribunal applied the method by comparing Crystallex’s share price to other junior
+mining companies. Award § 892.
+
+The Tribunal selected June 14, 2007—the day Crystallex announced to the market that it
+
+had fulfilled the requirements for the permit and paid the required taxes and bond—as the “last
+
+25 Moving the valuation date earlier to precede the first wrongful act by Venezuela would
+have the undesirable effect of altering Crystallex’s compensation in ways unrelated to
+Venezuela’s actions. For example, if the global economy faltered between Venezuela’s first
+wrongful act and the date of the expropriation—thereby reducing Crystallex’s valuation—
+Crystallex should only be compensated based on the (newly lower) value of its investment on the
+valuation date, plus the portion of the decrease in value attributable to Venezuela’s wrongdoing.
+Similarly, if the global economy flourished and Crystallex’s valuation increased until the
+valuation date, then Crystallex should be compensated at the value of its investment on the
+valuation date, as well as any additional increase in value it would have seen but for Venezuela’s
+inequitable conduct. Moving the valuation date would sweep in more than just Venezuela’s prior
+conduct. The Tribunal therefore turned to the stock market approach to determine the effect of
+Venezuela’s wrongful conduct on Crystallex’s stock price prior to the valuation date.
+
+22
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 23 of 31
+
+clean date.” Award § 891. The Tribunal found that this was the last date prior to Venezuela’s
+wrongful acts affecting the stock price because “after 14 June 2007 the actual stock price of
+Crystallex became [negatively] affected by the absence of positive news on permitting.” Award
+4 891. Venezuela did not propose an alternative last clean date. Award § 891.
+
+Venezuela advances two objections to the Tribunal’s application of the stock market
+method. First, Venezuela argues that the Tribunal did not need to consider any dates prior to the
+date of expropriation because Venezuela did not commit any wrongful acts before the date of
+expropriation. Second, Venezuela argues that the text of the BIT prohibits the Tribunal from
+considering any dates prior to the date of expropriation.
+
+Venezuela appears to seek substantive review of the Tribunal’s conclusion that
+Venezuela committed wrongful acts prior to refusing the permit, asserting that “[t]here was no
+basis to find any other value-depressing conduct prior to [the valuation date] under the terms of
+the Treaty.” Reply Vacate at 19, ECF No. 25. The existence and timing of Venezuela’s
+violations of the BIT is a question already decided by the Tribunal, which this Court reviews
+deferentially. The Tribunal identified a series of violations of the requirement of fair and
+equitable treatment, see generally Award {§ 546-614, among them that Venezuela violated
+Crystallex’s reasonable expectations based on Venezuela’s letter that it was prepared to “hand
+over” the permit, Award § 564. The Tribunal found that the refusal to hand over the permit
+negatively affected Crystallex’s stock price through the “absence of positive news on permitting”
+after Crystallex had announced that the permit would imminently be granted. Award § 891. In
+challenging the Tribunal’s factual finding, Venezuela seeks essentially a “‘full-bore legal and
+
+evidentiary appeal[],” which the Supreme Court has held inappropriate in reviewing arbitral
+
+23
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 24 of 31
+
+awards. Oxford Health Plans LLC v. Sutter, 133 S. Ct. 2064, 2068 (2013) (quoting Hall St.
+Assocs., L.L.C. v. Mattel, Inc., 552 U.S. 576, 588 (2008)).
+
+In addition to its objections to the Tribunal’s factual findings, Venezuela argues that the
+text of the BIT barred consideration of dates prior to the date of expropriation. Venezuela’s
+interpretation is incorrect and relies upon removing a short phrase in the BIT from its context.
+Read in its entirety, it is clear that the language of the BIT upon which Venezuela’s argument
+relies discusses only the amount of compensation which must be provided in the context of
+expropriation:
+
+Investments or returns of investors of either [nation] shall not be
+
+nationalized, expropriated or subjected to measures having an effect equivalent to
+
+nationalization or expropriation (hereinafter referred to as “expropriation”) in the
+
+territory of the other [nation], except for a public purpose, under due process of
+
+law, in a non-discriminatory manner and against prompt, adequate and effective
+
+compensation. Such compensation shall be based on the genuine value of the
+
+investment or returns expropriated immediately before the expropriation or at the
+
+time the proposed expropriation became public knowledge, whichever is the
+
+earlier, shall be payable from the date of expropriation with interest at a normal
+
+commercial rate, shall be paid without delay and shall be effectively realizable
+
+and freely transferable.
+
+BIT, art. VII(1) (emphasis added). Even if Venezuela’s restrictive interpretation of the phrase is
+correct, that restriction applies only to compensation offered in exchange for an expropriation, to
+prevent the expropriation from violating the BIT. Indeed, the rest of the BIT is silent as to the
+method to be used to calculate an appropriate award, stating simply that the Tribunal should
+“decide the issues in dispute in accordance with this Agreement and the applicable rules of
+international law.” BIT, art. XII(7).
+
+The Tribunal considered these same arguments advanced by Venezuela and determined
+that it was not restricted by this text of the BIT to only consider the value of Crystallex on the
+
+valuation date. The Tribunal appropriately concluded that the “standard” described by Venezuela
+
+“is only concerned with expropriation, and not breaches of other BIT standards.” Award 846.
+
+24
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 25 of 31
+
+Instead, the Tribunal turned to international law and determined that because it “found breaches
+of [fair and equitable treatment] (in addition to an expropriation), . . . the ‘full reparation’
+principle under customary international law” must be applied.?° Award 846. The Tribunal
+summarized the full reparation principle as a reparation that “wipe[s] out all the consequences of
+the illegal act and re-establish[es] the situation which would, in all probability, have existed if
+that act had not been committed.” Award 4 847 (quoting Case Concerning Certain German
+Interests in Polish Upper Silesia (Chorzéw Factory) (Germany v. Poland), Judgment (Permanent
+Court of International Justice), 25 May 1926, PCIJ SERIES A, NO. 7 (1927)).
+
+In conducting its deferential review, this Court will not disturb the Tribunal’s selection of
+the “full reparation” standard?” —which was clearly based on both the text of the BIT and
+international law—or its choice to apply that standard through the stock market method and its
+selection of the appropriate date range. Any error which the Tribunal may have committed—and
+the Court identifies none—does not rise past the level of a “serious error” to justify vacating the
+award. See Stolt-Nielsen S.A. v. AnimalFeeds Int’l Corp., 559 U.S. 662, 671-72 (2010). Here, the
+Tribunal was certainly “arguably construing or applying the [treaty] and acting within the scope
+
+of [its] authority” and thus even if a court were “convinced [that the Tribunal] committed serious
+
+26 Because, as the Tribunal notes, the treaty violations here were not limited to
+expropriation, the Court need not determine if the allegedly restrictive standard of the BIT in
+Article VII(1) is also the only appropriate measure of compensation for previously-
+uncompensated expropriations.
+
+27 Venezuela appear to agree that full reparation is the applicable standard from
+customary international law, see Opp’n Confirm at 29 n.12 (citing the Chorzéw standard); Mot.
+Vacate at 14-16, and thus that the award should seek to return Crystallex to the position it would
+have occupied absent any wrongful acts. This position is consistent with Venezuela’s argument
+that it committed no wrongful acts prior to the expropriation date, but in tension with
+Venezuela’s position that the text of the BIT absolutely bars consideration of acts prior to the
+expropriation date.
+
+25
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 26 of 31
+
+error,” that “does not suffice to overturn [its] decision.”** Kanuth v. Prescott, Ball & Turben,
+Inc., 949 F.2d 1175, 1180 (internal citation omitted).
+b. Market Multiples Method
+
+Venezuela further argues that the Tribunal used improper assumptions to implement the
+market multiples method of calculating damages. Mot. Vacate at 22-25, ECF No. 11. According
+to Venezuela, the Tribunal rejected certain assumptions developed by Crystallex’s experts when
+it rejected the “indirect sales comparison” method, but then relied on the same assumptions in
+executing the market multiples method, thus breaching the “well-settled rule of international
+law” that “no compensation can be awarded based on a speculative request for damages.” Mot.
+Vacate at 22-24. Under the highly deferential review proper here, the Court does not disturb the
+Tribunal’s use of the market multiples method.
+
+The market multiples method “estimates the value of an asset or company by examining
+the market valuation of companies holding similar properties of similar characteristics.” Award
+§ 901. The Tribunal relied upon calculations by experts that compared the valuation of Crystallex
+to that of similar mining companies. See Award § 902. To increase the accuracy of these
+comparisons, experts considered the relationship between the gold reserves of the comparator
+companies and Crystallex’s projected gold reserves. Award § 902. Because Crystallex never
+
+operated a mine at Las Cristinas, the experts used projections—possibly the same projections
+
+28 Having disagreed with Venezuela’s argument that the text of the BIT bound the
+Tribunal to determine compensation based only on the date of the expropriation, the past cases
+Venezuela cites in favor of vacating the award are inapposite. See, e.g., Mot. Vacate at 37. In
+these cases, the tribunals violated the instructions in the applicable treaties about damage awards.
+Here, in contrast, both sides apparently agree that full reparation is the appropriate standard
+under the text of the treaty and disagree about only whether the Tribunal correctly identified
+events for which Crystallex deserved reparation. This question is one within the Court’s
+deference to the Tribunal’s determination.
+
+26
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 27 of 31
+
+rejected in the indirect sales comparison method. Crystallex and Venezuela disagree over which
+precise projections were rejected by the Tribunal, but neither provides a clear citation to the
+record to resolve the dispute. See Mot. Vacate at 23-24; Pet.’s Mem. P. & A. Opp’n Mot. Vacate
+Arbitral Award (Opp’n Vacate) at 38, ECF No. 17; Reply Vacate at 20-21. The Court need not
+resolve this issue because, either way, the Tribunal committed no more than a “serious error,”
+and even a serious error is insufficient to permit this Court to disturb the Tribunal’s conclusion.”?
+See Stolt-Nielsen, 559 U.S. at 671-72. Furthermore, to do so would require the Court to delve
+into “precisely how and why the panel derived the [] award,” Kanuth, 949 F.2d at 1181-82,
+which would defeat the purpose of arbitration in the first place. Accordingly, the Tribunal’s use
+of the market multiples method does not warrant vacating the award.
+B. Article V(2)(b)—Public Policy
+
+Article V(2)(b) of the New York Convention permits a court to deny confirmation of an
+award if the award “would be contrary to the public policy” of the country in which confirmation
+is sought. See Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614, 638
+(1985). Relying upon this provision, Venezuela argues that confirming the award would harm
+the “public policy of the United States that States have the sovereign right to regulate the
+environmental impact of industrial activities” because Venezuela’s conduct toward Crystallex
+
+was intended to protect Venezuela’s environment. Opp’n Confirm at 3. This argument also fails.
+
+2° Given that the parties agree that full reparation is the correct standard, their
+disagreement here is essentially only over the method that the Tribunal used to calculate the
+compensation. This is quite different than the cases Venezuela cites in which awards were
+vacated because tribunals awarded damages that contradicted the explicit text of the applicable
+treaties. See, e.g., Mot. Vacate at 37.
+
+While Venezuela at times alludes to an argument that the Tribunal awarded damages for
+events prior to the period of dispute between the parties, see, e.g., Mot. Vacate at 37-38, these
+arguments are not fleshed out and Crystallex’s Notice of Dispute is phrased broadly to include
+all treaty violations, see generally Request for Arbitration, ECF No. 2-5.
+
+27
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 28 of 31
+
+The “public policy” escape-hatch of Article V(2)(b) is “construed narrowly” and “merits
+vacating an award only when the award ‘would violate the forum state’s most basic notions of
+morality and justice.’” Gold Reserve Inc. v. Bolivarian Republic of Venezuela, 146 F. Supp. 3d
+112, 132 (D.D.C. 2015) (citing Ministry of Def. & Support for the Armed Forces of the Islamic
+Republic of Iran v. Cubic Def. Sys., Inc., 665 F.3d 1091, 1096 (9th Cir. 2011) and quoting
+TermoRio S.A. E.S.P. y. Electranta S.P., 487 F.3d 928, 938 (D.C. Cir. 2007)), appeal docketed,
+No. 15-7158 (D.C. Cir. Dec. 30, 2015). Venezuela’s arguments fall short of the demanding
+threshold necessary to show a violation of public policy.
+
+First, in determining that Venezuela’s conduct regarding Crystallex violated the BIT’s
+guarantee of fair and equitable treatment, the Tribunal cast serious doubt on whether Venezuela’s
+assertions of environmental concerns motivated its actions. The Tribunal found that Venezuela’s
+denial of the permit was “not based on legal standards” and constituted “arbitrary conduct” based
+on documents “so fundamentally deficient that, to the eyes of a reasonable third person, they
+surprise a sense of juridical propriety.”*° Award {| 597, 614 (internal quotation marks omitted).
+
+Second, enforcing this award does not risk violating public policy. The award does not
+interfere with Venezuela’s environmental rules or regulations, but only requires Venezuela to
+compensate Crystallex for the results of its inequitable actions and expropriation. Venezuela fails
+to meet the demanding threshold by demonstrating that holding it to the terms of its own treaty
+would violate our basic notions of morality or justice. The Court thus concludes that public
+
+policy does not bar confirmation of the award.
+
+>° Venezuela devotes significant space in its briefing to describing what it views as the
+flaws in Crystallex’s compliance with environmental regulations. See, e.g., Opp’n Confirm at 9—
+16, ECF No. 15. The Tribunal considered Crystallex’s quest for a permit at length and concluded
+that Venezuela had violated the guarantee of fair and equitable treatment in denying the permit.
+Award 4] 580-614, 623.
+
+28
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 29 of 31
+
+C. Manifest Disregard of the Law
+
+Independent of its challenges under the New York Convention, Venezuela argues that the
+award should be vacated because the Tribunal manifestly disregarded the law. In this context,
+manifest disregard of the law occurs when “(1) the arbitrators knew of a legal principle yet
+refused to apply it or ignored it altogether and (2) the law ignored by the arbitrators was well
+defined, explicit, and clearly applicable to the case.” LaPrade v. Kidder, Peabody & Co., 246
+F.3d 702, 706 (D.C. Cir. 2001). Assuming, arguendo, that the doctrine is still good law,*! it does
+not apply here.
+
+Manifest disregard for the law typically occurs when the Tribunal “acknowledged and
+
+then summarily disregarded an applicable rule.” ARMA, S.R.O. v. BAE Sys. Overseas, Inc., 961
+
+>! In the domestic arbitration context, the Supreme Court has held that the FAA’s
+enumerated reasons are the exclusive grounds for a court to decline to enforce an arbitral award.
+Hall St. Assocs., L.L.C. v. Mattel, Inc., 552 U.S. 576, 584 (2008) (“We now hold that §§ 10 and
+11 respectively provide the FAA’s exclusive grounds for expedited vacatur and modification.”).
+That decision left open the possibility that manifest disregard of the law survived as a gloss on
+the enumerated reasons for vacatur or modification. See id. at 585 (“Maybe the term ‘manifest
+disregard’ was meant to name a new ground for review, but maybe it merely referred to the § 10
+grounds collectively, rather than adding to them.”); see also Regnery Pub., Inc. v. Miniter, 368 F.
+App’x 148, 149 (D.C. Cir. 2010) (“Assuming without deciding that the ‘manifest disregard of the
+law’ standard survives Hall Street . . .”).
+
+Because the arbitral decision at issue in Hall Street was governed by the domestic
+arbitration provisions of the FAA rather than the New York Convention, additional uncertainty
+surrounds the application of manifest disregard to the enforcement of foreign arbitral awards.
+See, e.g., Int’l Trading & Indus. Inv. Co. v. DynCorp Aerospace Tech., 763 F. Supp. 2d 12, 26—
+27 (D.D.C. 2011) (noting that the “‘manifest disregard of the law’ standard . . . is one that
+historically has been applied to actions to vacate an arbitral award under Section 10(a) of the
+FAA, and not proceedings to confirm arbitral awards under the New York Convention”).
+
+However, “because the petitioners in this case have not established the arbitrators’
+‘manifest disregard’ of the law, the court need not decide once and for all the viability of the
+‘manifest disregard’ standard in order to resolve this case.” Affinity Fin. Corp. v. AARP Fin.,
+Inc., 794 F. Supp. 2d 117, 120 n.1 (D.D.C. 2011), aff'd, 468 F. App’x 4 (D.C. Cir. 2012). The
+Court therefore does not take a position on the current validity of manifest disregard of the law
+as justification to vacate or modify an award under the New York Convention.
+
+29
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 30 of 31
+
+F. Supp. 2d 245, 268 (D.D.C. 2013). This is a high standard that requires “more than error or
+misunderstanding with respect to the law.” Kanuth, 949 F.2d at 1178.
+
+In an attempt to demonstrate the Tribunal’s manifest disregard, Venezuela repurposes its
+previous arguments, claiming that the Tribunal (1) exceeded its scope by improperly addressing
+contract claims and (2) exceeded its scope by using defective valuation methods to set the award.
+Mot. Vacate at 28, ECF No. 11. Neither claim can succeed.
+
+First, this Court’s rejection, supra, of Venezuela’s position on both fronts illustrates that
+the principles of law cited by Venezuela are not “well defined, explicit, and clearly applicable to
+this case.” Although the Court did not apply a searching review to the Tribunal’s conclusions,
+the standard for manifest disregard of the law—like the standard for vacating an arbitral award—
+requires egregious conduct and cannot be satisfied by a merely shaky conclusion of the Tribunal.
+
+Second, the Tribunal clearly engaged with and considered the law cited by Venezuela in
+reaching its conclusions. As to the dispute over permissible claims, the Tribunal repeatedly
+emphasized that its role was cabined to reviewing treaty claims. Award § 471 (“It is clear. . . that
+the sphere of disputes that can be referred to international arbitration under the BIT is limited to
+disputes relating to alleged breaches of the BIT.”); Award § 475 (“To determine whether, as a
+matter of jurisdiction, the Claimant is bringing contract or treaty claims, the Tribunal must
+consider . . the fundamental basis of the [Claimant’s] claim.” (internal quotation marks and
+citations omitted)); Award § 610 (“The Tribunal recalls that it is not called upon to pass
+judgment on whether there were any contract breaches in relation to the MOC.”). Nor did the
+Tribunal simply state this standard and then ignore it. The Tribunal carefully avoided actually
+adjudicating the parties’ rights under the MOC. Similarly, as to the dispute over the amount of
+
+the award, the Tribunal carefully considered the appropriate valuation date, see Award § 890-91,
+
+30
+
+Case 1:16-cv-00661-RC Document 32 Filed 03/25/17 Page 31 of 31
+
+and whether the estimates of Crystallex’s losses were speculative, see Award § 918 (“The result
+reached is, in the Tribunal’s view, not speculative . . .”). In neither case did the Tribunal merely
+pay “lip service” to the applicable law. The Court is therefore confident that the Tribunal did not
+manifestly disregard the law.
+D. Confirming the Award
+
+Crystallex asserts, and Venezuela does not dispute, that the Court must confirm the award
+if it does not vacate, modify, or correct it. See 9 U.S.C. § 9 (“[T]he court must grant [an order
+affirming the award] unless the award is vacated, modified, or corrected . . .”); 9 U.S.C. § 207
+(“The court shall confirm the award unless it finds one of the grounds for refusal or deferral of
+recognition or enforcement of the award specified in the [New York] Convention.”). Thus,
+
+having rejected Venezuela’s arguments for vacating the award, the Court will confirm the award.
+
+V. CONCLUSION
+For the foregoing reasons, Petitioner’s petition to confirm the award (ECF No. 1) is
+GRANTED, Respondent’s motion to vacate the arbitral award (ECF No. 11) is DENIED, and
+Petitioner’s motion for pre-judgment bond (ECF No. 14) is DENIED AS MOOT. An order
+
+consistent with this Memorandum Opinion is separately and contemporaneously issued.
+
+Dated: March 25, 2017 RUDOLPH CONTRERAS
+United States District Judge
+
+31
+

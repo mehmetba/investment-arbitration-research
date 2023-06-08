@@ -1,0 +1,7583 @@
+THE ARBITRATION INSTITUTE OF THE
+STOCKHOLM CHAMBER OF COMMERCE
+
+ 
+
+GARDABANI HOLDINGS B.V.
+INTER RAO UES PJSC
+TELASI, JSC
+Claimants
+v
+GEORGIA
+MINISTRY OF ECONOMY AND SUSTAINABLE DEVELOPMENT OF GEORGIA
+
+STATE SERVICE BUREAU LTD
+
+Respondents
+
+SCC Arbitration V2018/039,
+administered by ICSID as ICSID Case No. ADM/18/1
+
+ 
+
+PARTIAL AWARD
+
+ 
+
+Members of the Tribunal
+Mr. Henri C. Alvarez QC, President of the Tribunal
+Professor Stanimir Alexandrov, Arbitrator
+Professor Zachary Douglas QC, Arbitrator
+Assistant to the Tribunal
+Ms. Elsa Sardinha
+ICSID Legal Counsel
+
+Mr. Alex Kaplan
+
+Date of dispatch to the Parties: 19 April 2021
+
+REPRESENTATION OF THE PARTIES
+
+Counsel for the Claimants:
+
+Mr. Noah Rubins
+
+Mr. Dmitry Surikov
+
+Mr. Alexey Yadykin
+
+Ms. Vasuda Sinha
+
+Mr. Maxim Pyrkov
+
+Ms. Elena Khmelevskaya
+Ms. Mariia Puchyna
+
+Mr. Ryan Harvey
+
+Ms. Daria Kuznetsova
+
+Freshfields Bruckhaus Deringer LLP
+2 rue Paul Cézanne
+
+75008 Paris
+
+France
+
+and
+
+Kadashevskaya nab 14/2
+119017 Moscow
+Russia
+
+Mr. Avto Svanidze
+Ms. Mariam Vashakidze
+
+Dentons Georgia LLC
+Melikishvili street # 10
+Tbilisi 0179
+
+Georgia
+
+Counsel for the Respondents:
+
+Mr. Charles Nairac
+
+Ms. Kirsten Odynski
+
+Ms. Noor Davies
+
+Mr. Paul von Miihlendahl
+
+White & Case LLP
+19 Place Vendéme
+75001 Paris
+France
+
+and
+
+1221 Avenue of the Americas
+New York, New York
+10020-1095
+
+United States of America
+
+Ministry of Justice of Georgia
+Gorgasali st. 24a
+
+0114 Tbilisi
+
+Georgia
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INTRODUCTION 1
+THE PARTIES 3
+A. ICSID Case No. ARB/17/29 (the “ICSID Arbitration”).......... 3
+B. SCC Arbitration V2018/039/ADM/18/1 (the “SCC Arbitration’ 4
+PROCEDURAL HISTORY OF THE PROCEEDINGS ........c.cccceeeeeeeeseseseseeeeeeeees 5
+A. The SCC Proceedings
+B. The Coordinated ICSID Proceeding .........cccescesseesseseseseseseeeeesesesnceesneeteaeeeeneeeeed 6
+C. The Coordinated SCC and ICSID Proceedings .........csecseesessesesteeseeseeeeeeeeeeee 7
+FACTUAL OVERVIEW 16
+A. Overview of Georgia’s Electricity Sector........ccccssssssesesseeseeseeeeeeeeeeneeeeeeeeee 16
+1) Organization of Georgia’s Electricity SeCtor......ccceeceseeseseeseseeeseeeseeeeeenees 20
+2) Georgia’s Tariff System 22
+B. The Telasi SPA: AES’s Initial Acquisition of Telasi and Management Rights to the
+Khrami Companies 26
+C. Inter RAO’s 2003 Acquisition of Telasi and Management Rights for the Khrami
+Companie: 27
+D. NERC’s 2006 Adjustment of Telasi’s Tariffs ...........ccccseesessesesseeseeeeeeeeeeeeeeteee 31
+E. The 2007 Memorandum 33
+F. Implementation of the 2007 Memorandum: NERC Resolution No. 33 .........:c00 38
+G. The 2010 Memorandum 39
+H. The 2011 Memorandum 40
+1) Telasi’s Tariffs Al
+2) The Khrami Companies 47
+I. The Khrami SPA 49
+J. Implementation of Telasi and the Khrami Companies’ Tariffs under the 2011
+Memorandum and the Khrami SPA: NERC Resolution No. 5.......:0::ssssssseeseeeeee 52
+K. The 2011 Methodology 3
+L. 4
+
+ 
+
+M. The Negotiations Leading up to the Conclusion of the 2013 Memorandum..
+1) The 2012 Transitional Memorandum
+2) The 2013 Memorandum
+3) Implementation of the 2013 Memorandum: NERC Resolution No. 3 ..
+4) Telasi’s Consumer and Distribution Tariffs ...0....ceeeeeeeeeeee
+5)
+
+a
+rr
+
+ 
+ 
+  
+
+VI.
+
+VIL
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+10) The Khrami Companies’ Generation Tariffs
+11)
+
+   
+
+. The 2014 Methodology for Setting Electricity Tariffs
+1) The Relevant Provisions of the 2014 Methodology
+O. 2014:
+
+1) The 2015 Tariff Review Process..........
+
+2) September 2015 NERC Resolution No. 26: First Application of the 2014
+Methodology to Telasi’s Consumer and Distribution Tariffs...... .105
+3) The Adjustment of Telasi’s Distribution Tariffs for GEL Depreciation .. 112
+4) Telasi’s Tariffs in 2017 117
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+P. The Non-Adjustment of the Khrami Companies’ Generation Tariffs in 2016....... 120
+Q. The NERC’s 2017 Resolutions on the Khrami Companies’ Tariffs. .128
+R. The Claimants’ Initiation of Arbitrations Against Georgia .136
+S. 2017/2018 Changes to Law on Electricity .......ccccsesesseseseeseseeseseeneseeeseesseeeeeenees 137
+T. The Parties’ Settlement Discussions 137
+U. Cost of New Connections Issue.... 138
+
+ 
+
+1) The Claimants’ Position
+
+ 
+
+2) The Respondents’ Position
+V. Telasi’s Purchase Portfolio Volatility.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+W. Diversion of the Khrami Companies’ Electricity and Sales to Third Parties ......... 143
+OVERVIEW OF THE PARTIES’ CLAIMS AND DEFENSES ..........0ccceeeseeees 144
+A. The Claimants’ Position 145
+B. The Respondents’ Position 149
+REQUESTED RELIEF 153
+A. The Claimants’ Request for Relief ........cceccescessesesseeseeseseseeesesneseseeeeeeeeneeeeeeeeeee 153
+
+1) The SCC Arbitration 153
+
+2) The ICSID Arbitration 153
+B. The Respondents’ Request for Relief. 155
+
+1) The SCC Arbitration 155
+MERITS 156
+A. Arbitration Agreements 156
+
+ 
+
+iii
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+. Applicable Law: Georgian Contract Law or Georgian Public Law and a Balancing of
+Public and Private Interests? ..........c.ccecsecsesseeseessesessessesseeseeseeseesessessssessnseneeseeneeseess 158
+
+1) The Respondents’ Position ..........cccescssssseeseseeeeseseseeeseseseeaeseesesessseetseeeseeenees
+2) The Claimants’ Position
+3) The Tribunal’s Analysi
+. Telasi’s and Inter RAO’s Claims under the 2013 Memorandum
+1) Overview of the Parties’ Interpretation of the 2013 Memorandum
+
+ 
+
+ 
+
+   
+  
+
+ 
+
+. Conclusions on the Interpretation of the relevant clauses of the 2013 Memorandum
+256
+
+. Conclusions on Liability with Respect to the Claimants’ Claims under the 2013
+Memorandum 257
+
+. The Respondents’ Counterclaim under the 2013 Memorandum
+
+ 
+
+1) The Respondents’ Position
+
+ 
+
+ 
+
+ 
+
+ 
+
+2) The Claimants’ Position 261
+3) The Tribunal’s Analysi 263
+
+. Conclusion on Liability With Respect to the Respondents’ Counterclaim ............ 265
+. Gardabani’s Claims under the Khrami SPA ..........scecesessesseesesseeseeseessssseeneeneeseesess 265
+1) The Claimants’ Position 267
+2) The Respondents’ Position ..........ccccseseseeseseeseseeseseeeseeeseeeseeeseetseeeseeeeeeees 269
+3) The Tribunal’s Analysi 276
+Interpretation and Application of Clauses 2.1 and 2.2 of Annex | to the Khrami SPA
+282
+
+ 
+
+ 
+
+Conclusions on Liability with Respect to the Claims under the Khrami SPA
+
+iv
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+VIII. =CONCLUSIONS AND ORDER 1.0... cscccescescssesseseeseseeseseeseseessseessseessseessseessseensseensaeeneas 305
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+ 
+
+LIST OF ABBREVIATIONS
+Abbreviation Definition
+2006 Energy Policy Resolution of Georgia’s Parliament on the main directions of
+
+Georgia’s energy sector policy; in order to attract investments
+and development competition, electricity distribution
+companies had to be privatized, and provided different types of
+tariffs to protect consumers from monopolistic prices and permit
+long-term sustainable growth (RL-0006)
+
+ 
+
+2006 Tariff Resolution | 15 May 2006 NERC Resolution No. 18 fixed Telasi’s WAPT at
+4.303 tetri/kWh and its average Distribution Tariff at 7.89
+tetri/kWh, effective 1 June 2006 (R-0014)
+
+ 
+
+ 
+
+2007 Memorandum 20 June 2007_agreement between Inter RAO _and_the
+Government;
+HR (c-0005 /R-0015)
+
+2010 Memorandum 1 October 2010 non-binding memorandum of understanding
+
+   
+
+between Inter RAO and the Government
+
+/ R-0018)
+
+ 
+
+2011 Memorandum 31 March 2011 Memorandum on the Development of
+Cooperation in the Electric Power Sector and _ the
+Implementation of Previous Agreements, between Inter RAO
+and the Government;
+
+(C-0015 / R-0019); see also Khrami SPA,
+12 April 2011 (C-0016)
+
+ 
+
+ 
+
+26 December 2012 transitional memorandum between Inter
+
+2012 Temporary
+Memorandum RAO _and_the Government;
+
+   
+
+C-0030)
+
+ 
+
+2013 Memorandum 31 March 2013 agreement between Georgia, the Partnership
+
+Fund JSC (a Georgian state-owned company), Inter RAO,
+Telasi, and the Khrami —
+
+(C-0034/ R-0028)
+
+ 
+
+ 
+
+2011 Methodology 8 June 2011 NERC’s Methodology for Electricity Tariff
+Calculation (CL-0081)
+
+ 
+
+ 
+
+ 
+
+vi
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Abbreviation Definition
+
+2014 Amended | 10 August 2017 NERC Resolution No. 20 substantially
+
+Methodology amended the 2014 Methodology
+
+2014 Methodology 30 July 2014 NERC’s new tariff methodology for Distribution
+Tariffs and Consumer Tariffs; did not specifically exempt
+companies that had specific tariff agreements (CL-0084)
+
+AES AES Mtkvari LLC; local Georgian thermal power generation
+company, acquired by Inter RAO in 2003
+
+CEO Chief Executive Officer
+
+Claimants Collectively, SCC Arbitration Claimants and ICSID Arbitration
+
+Claimants
+
+ 
+
+Consumer Tariffs
+
+Maximum rates that a distribution company (in this case, Telasi)
+can charge to its customers, and which form the revenue
+component of a distribution company’s business; comprise the
+sum of the WAPT and the Distribution Tariff
+
+ 
+
+COPS (also known as
+
+Commercial Operator of Power System / Electricity System
+
+ 
+
+ 
+
+ 
+
+ESCO) Commercial Operator; Georgian State-owned company
+responsible for operating the electricity market
+
+Cost-Plus Tariff methodology in force until the
+2011 Methodology; covered costs and a reasonable rate of return
+
+CPI Consumer Price Index; average annual inflation rate published
+by the National Statistics Office of Georgia
+
+DCF Discounted cash flow
+
+ 
+
+Discounting Rate
+
+Rate at which free cash flow to the firm (FCFF) is discounted
+
+ 
+
+Distribution Tariff or
+Distribution Margin
+
+Computed for different voltage levels as the distributor’s
+forecast per unit cost, calculated on a regulatory basis; not rates
+charged to customers, but rather they represent a distribution
+company’s margin on a tetri per kWh basis
+
+ 
+
+EBITDA
+
+Earnings before interest, tax, depreciations and amortization are
+paid
+
+ 
+
+EC
+
+European Commission
+
+ 
+
+ 
+
+Electricity Balance
+
+ 
+
+Before the start of each year, the GSE prepares, and the MOE
+approves, the electricity balance; includes a general forecast of
+the output of each generating plan, an estimate of electricity
+imports and exports, and a forecast of total electricity sales by
+each distribution company (CL-0073, Article 23.1)
+
+ 
+
+ 
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+ 
+
+ 
+
+Abbreviation Definition
+E P. Energo-Pro is one of Georgia’s three electricity distributors,
+nergo-rro along with Telasi and Kakheti
+. Enguri HPP LLC, along with Vardnili, are the two largest HPPs
+Enguri
+
+generation companies in Georgia and are State-owned
+
+ 
+
+ESCO (also known as
+“COPS”)
+
+The Electricity System Commercial Operator (also known as the
+Commercial Operator of Power System); State-owned balancer
+of electricity on the market by trading the volume of electricity
+delivered into the network by generators and importers which is
+not purchased under direct agreements with distributors
+
+ 
+
+EU
+
+European Union
+
+ 
+
+FCFE
+
+Free cash flow to equity is used to determine losses at the
+shareholder level, and measures how much cash is available to
+equity-holders of a company after changes in net borrowings
+and interest is paid
+
+ 
+
+FCFF
+
+Free cash flow to the firm is used to determine losses at the local
+level, and measures the financial performance of a company by
+expressing the amount of cash generated by a firm after
+considering expenses, taxes, and changes in net working capital
+and investments
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gardabani Gardabani Holdings B.V.
+GACG General Administrative Code of Georgia (RL-0005)
+GCC Georgian Civil Code (RL-0009)
+
+ 
+
+Generation Tariffs
+
+The rates that can be charged by each company for the sale of
+the energy it generates
+
+ 
+
+ 
+
+ 
+
+GEL Georgian national currency Lari
+
+GID Gross Income Deficit
+
+the Government or | Georgia (collectively the Respondents: Georgia, Ministry of
+Georgia Economy, and State Service)
+
+ 
+
+ 
+
+GSE
+
+ 
+
+Georgian State Electrosystem; State-owned entity which has
+
+been designated as the transmission system operator (TSO)
+
+ 
+
+viii
+
+ 
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+Abbreviation
+
+Definition
+
+ 
+
+ 
+
+HPPs
+
+Hydropower plants
+
+ 
+
+ICSID Claimants
+
+Collectively Silk Road and Gardabani
+
+ 
+
+ICSID Respondents
+
+Collectively the Government of Georgia, Ministry of Economy,
+and State Service
+
+ 
+
+Inter RAO
+
+Inter RAO UES, PJSC
+
+ 
+
+Until 2017, Kakheti Energy Distribution supplied electricity to
+
+Kakheti, the eastern region of Georgia, and was one of three
+
+ 
+
+ 
+
+Kakheti electricity distribution companies, along with Telasi and
+Energo-Pro; in 2017, it was acquired by Energo-Pro
+
+Khrami-1 JSC Khrami-1
+
+Khrami-2 JSC Khrami-2
+
+ 
+
+Khrami Companies, the
+
+Collectively Khrami-1 and 2.
+
+ 
+
+Khrami SPA
+
+12 April 2011 sales and purchase agreement for Gardabani’s
+acquisition of 100% of the Khrami Companies
+
+(C-0016); see also 2011 Memorandum (C-0015 / R-
+0019)
+
+ 
+
+kWh
+
+Kilowatt hour
+
+ 
+
+Law on Electricity
+
+Law of Georgia on Electricity and Natural Gas, adopted in 1997
+and amended in June 2017 (and passed in May 2018); separates
+and allocates the ownership, commercial and regulator functions
+between the MOE and the NERC (CL-0073 / RL-0001)
+
+ 
+
+Law on INRAs
+
+Law on Independent National Regulatory Authorities; governs
+NERC (RL-0004)
+
+ 
+
+Ministry of Economy
+
+Ministry of Economy and Sustainable Development of Georgia
+
+ 
+
+MOE
+
+Ministry of Energy and Sustainable Development; implements
+Georgia’s energy policy; Second Respondent
+
+ 
+
+ 
+
+NERC
+
+ 
+
+Georgian National Energy and Water Supply Regulatory
+Commission; national electricity regulator and monitor
+
+ 
+
+ 
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+Abbreviation
+
+Definition
+
+ 
+
+NERC Annual Energy
+Plan
+
+NERC sets an annual plan, based on the Electricity Balance
+approved by the MOE, indicating how much energy each
+distribution company will acquire from each generator on a
+month-to-month basis over the course of a year
+
+ 
+
+NERC Resolution No. 3
+
+3 April 2013 resolution which amended Resolution No. 33
+(2008) to include the new tariffs applicable to Telasi from 1
+April 2013 onwards; implemented the tariffs in the 2013
+Memorandum (CL-0083)
+
+ 
+
+NERC Resolution No. 5
+
+7 April 2011 (CL-0080); implemented the tariffs in the 2011
+Memorandum and Annex | of the Khrami SPA
+
+ 
+
+NERC
+No. 23
+
+Resolution
+
+27 December 2012 (CL-0082, initially mislabelled by the
+Claimants as C-0082); implemented the tariffs in the 2012
+Temporary Memorandum
+
+ 
+
+NERC Resolution No. 33
+
+NERC Resolution No. 33 “On Adoption of Electricity
+(Capacity) Rates”, 4 December 2008 (CL-0078); implemented
+the tariffs in the 2007 Memorandum; updated 3 April 2013
+(CL-0083)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NERC Resolution | Prescribes the Telasi Consumer Tariffs for 2018-2020
+
+No. 48 (CL-0091)
+
+NPV Net present value
+
+NWC Net working capital
+
+OB Opening balance — data at the beginning of the period
+Operational Expenses: expenses related to the operation and
+
+OPEX maintenance of the electricity distribution grid, and other current
+
+expenses related to the regulated activity (2014 Methodology,
+CL-0084)
+
+ 
+
+Partnership Fund JSC
+
+Georgian State-owned company, owns 24.64% of Telasi
+
+ 
+
+purchase portfolio
+
+Allocation of energy purchases from different generators to a
+distributor; each distributor’s purchase portfolio includes a
+combination of more and less expensive sources of energy for
+the year; NERC’s Annual Energy Plan for each distribution
+company identifies, for each month, the generation companies
+from which a particular distribution company must purchase
+electricity, and in what volumes
+
+ 
+
+Regulatory Asset Base (2014 Methodology, CL-0084)
+
+ 
+
+ 
+
+RCB
+
+ 
+
+Regulatory Cost Base (2014 Methodology, CL-0084)
+
+ 
+
+ 
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+Abbreviation
+
+Definition
+
+ 
+
+   
+ 
+
+ 
+
+SCC Claimants
+
+Collectively Inter RAO, Telasi and Gardabani
+
+ 
+
+Scenario 1 (But-For)
+(Claimants/Peer)
+
+Takes into account Telasi’s Consumer Tariffs and Khrami
+Companies’ Generation Tariffs, calculated in accordance with
+2013 Memorandum for both the Historical and Forecast Periods
+
+ 
+
+Scenario 2 (Actual)
+(Claimants/Peer)
+
+Takes into account Telasi’s actual Consumer Tariffs determined
+by NERC in Historical Period; for Forecast Period, takes into
+account Telasi’s Consumer Tariffs calculated in accordance
+with the 2014 Amended Methodology
+
+ 
+
+Silk Road
+
+Silk Road Holdings B.V.
+
+ 
+
+State Service Bureau
+
+Georgian state-owned entity; Respondent
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Telasi JSC Telasi, Inter RAO’s Georgian distribution company;
+established in 1995 as a Georgian joint stock company, and
+owned by Georgia until 1998; 75% bought by AES Silk Road
+Holdings BV in 1998
+
+Telasi SPA 21 December 1998 share purchase agreement through which
+AES Silk Road Holdings BV acquired 75% of Telasi (C-0001)
+
+Tetri 1 Tetri is equal to 0.01 GEL
+
+TOTEX Allowed distribution revenues
+
+TPPs Gas-fired thermal power plants
+
+TSO Transmission system operator
+
+ 
+
+ 
+
+Twinning Initiative
+
+ 
+
+Since 2012, and in parallel with the MOE and Inter RAO’s
+negotiations concerning the 2013 Memorandum, NERC was in
+the process of updating its tariff regime to bring it in line with
+the best practices of other EU Member States, pursuant to
+
+ 
+
+ 
+
+xi
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Abbreviation Definition
+
+funding provided by the EC’s “Twinning Initiative” for inter-
+EU knowledge sharing and administrative reform, which
+culminated in the adoption of the 2014 Methodology
+
+USD United States Dollar
+
+Vardnili Vardnili HPP LLC, along with Enguri, are the two largest HPP
+generation companies in Georgia and are state-owned
+
+WACC Weighted Average Cost of Capital
+
+WAPT Weighted Average Purchase Tariff
+
+ 
+
+ 
+
+ 
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+DRAMATIS PERSONAE
+
+ 
+
+Messrs Manuel A. The Claimants’ regulatory experts on the issues of the regulatory
+Abdala & Julian changes in the allocation of Telasi’s electricity purchases;
+Delamer submitted three expert reports: First Abdala & Delamer Expert
+
+Report, dated 27 June 2018 (“Abdala & Delamer I’); Second
+Abdala & Delamer Expert Report, dated 1 March 2019
+(“Abdala & Delamer IT’); Third Abdala & Delamer Expert
+Report, dated 16 September 2019 (““Abdala & Delamer IIT”)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+xili
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+xiv
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dr. Boaz Moselle The Respondents’ expert on damages; submitted four expert
+reports: First Expert Report, 23 November 2018 (“Moselle I’);
+Second Expert Report, 13 June 2019 (“Moselle IT’); Third
+
+Expert Report, 22 November 2019 (“Moselle III”); Fourth
+Expert Report, 10 January 2020 (“Moselle IV”)
+
+Mr. Michael Peer The Claimants’ expert on damages; submitted four expert
+reports: First Expert Report, 27 June 2018 (“Peer I’’); Second
+Expert Report, 1 March 2019 (“Peer II”); Third Expert Report,
+6 September 2019 (“Peer IIT’); Fourth Expert Report, 19
+December 2019 (“Peer IV”)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dr. Boaz Moselle and Dr. Boaz Moselle and Mr. Michael Peer submitted joint expert
+Mr. Michael Peer report on 3 October 2019 (“JER”).
+
+Dr. Paata Turava The Respondents’ Georgian law expert, particularly on the legal
+nature of the two contracts at issue in the Arbitration, the
+principles of contractual interpretation applicable to public law
+contracts, and the entitlement to lost profits under Georgian law;
+submitted two expert reports, dated 20 November 2018 and 12
+June 2019
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+xvi
+
+Page 1
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+IL. INTRODUCTION
+
+1. This arbitration concerns a dispute submitted under the Rules of the Stockholm Chamber
+of Commerce (“SCC”), pursuant to the terms of the arbitration agreements contained in the
+Memorandum on the Development of Cooperation in the Electric Sector and the Implementation
+of Previous Agreements between the Government of Georgia, Partnership Fund JSC (a Georgian
+state-owned entity), Inter RAO, Telasi, the Khrami Companies, and Mtkvari Energy LLC (owned
+by Inter RAO) (the “2013 Memorandum”)! and a share purchase agreement between the
+Government of Georgia, the Ministry of Economy and Sustainable Development of Georgia, the
+
+State Service Bureau Ltd. and Gardabani Holdings B.V. (the “Khrami SPA”).”
+
+2. This is one of two arbitrations whose procedure the Parties have agreed to coordinate. This
+
+arbitration is referred to as the “SCC Arbitration”.
+
+3. The other arbitration concerns a dispute submitted to the International Centre for
+Settlement of Investment Disputes (“ICSID”) under the Agreement on Encouragement and
+Reciprocal Protection of Investments between Georgia and the Kingdom of the Netherlands, which
+entered into force on 1 April 1999 (the “BIT” or “Treaty”), and the Convention on the Settlement
+of Investment Disputes between States and Nationals of Other States, which entered into force on
+14 October 1966 (the “ICSID Convention”). That arbitration is referred to as the “ICSID
+
+Arbitration”.
+
+4. These disputes between the Parties to the two arbitrations relate to the Claimants’
+
+investments in Georgia’s electricity sector, which have been governed by successive agreements
+
+1 ©-0034 (Claimants’ T: ion) / R-0028 (( dents’ Translation), dum on the Develop of
+Cooperation in the Electric Power Sector and the Implementation of Previous Agreements between (1)
+Government of Georgia, (2) Partnership Fund JSC and (3) OJSC “INTER RAO UES”, (4) Telasi JSC (5) Mtkvari
+Energy LLC, (6) Khrami HPP-1 JSC, and (7) Khrami HPP-2 JSC dated 31 March 2013 (2013 Memorandum”),
+Clause 9,
+
+ 
+
+ 
+ 
+ 
+   
+ 
+ 
+ 
+
+ 
+
+C-0016, Sale and Purchase Agreement on 100% of Shares of the Joint Stock Company “Khrami HPP-1” and
+100% of Shares of the Joint Stock Company “Khrami HPP-2”between (1) Government of Georgia, (2) Ministry
+of Economy and Sustainable Development of Georgia, (3) State Service Bureau LTD and (4) COMPANY
+“Gardabani Holdings B.V.” dated 12 April 2011 (‘Khrami SPA”), Clause 8,
+
+  
+
+Page 2
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+with Georgia since 1998 (to which the Claimants’ parent company acceded in 2003). ay
+
+8
+8
+&
+&
+3
+=
+8
+Q
+£
+5
+z
+3
+a
+
+A
+
+a
+od
+3
+g
+2
+
+also required Georgia to ensure them a predictable, transparent and economically-rational
+
+regulatory regime for the operation of their local electricity companies.
+
+| The Treaty claims will be addressed in a separate award (the “ICSID Award”, in
+ICSID ARB/17/29, referred to below).
+
+a
+
+The Respondents deny that the impugned actions breach the relevant Georgian law
+
+contracts, the BIT or international law.
+
+Page 3
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+a
+
+The Respondents raise a counterclaim in each of the disputes,*
+
+IL. THE PARTIES
+
+8. The Parties to the two arbitrations are described in this section.
+
+A. ICSID CASE No. ARB/17/29 (THE “ICSID ARBITRATION”)
+
+9. The Claimants in the ICSID proceeding are Gardabani Holding B.V. (“Gardabani”), a
+
+private limited liability company established under the laws of the Netherlands,* and Silk Road
+Holding B.V. (“Silk Road”), a private limited liability company established under the laws of the
+Netherlands.°
+
+10. Silk Road owns 75.11% of JSC Telasi (“Telasi”), a joint stock electricity distribution
+company incorporated in Georgia.® Gardabani owns 100% of JSC Khrami-1 (“Khrami-1”) and
+JSC Khrami-2 (“Khrami-2”) (collectively, the “Khrami Companies”), which are electricity
+
+generation companies incorporated in Georgia. PJSC Inter RAO UES (“Inter RAO”), a public
+
+  
+
+3 The Claimants note that the satisfaction of the counterclaim under the 2013 Memorandum in the SCC Arbitration
+would satisfy Georgia’s counterclaim under the Georgia-Netherlands BIT under the ICSID Arbitration, and vice
+
+versa.
+
+   
+
+ 
+
+Gardabani’s addre: Strawinskylaan 655, 1077XX Amsterdam; Netherlands Chamber of Commerce Business
+Register extract, C-0110.
+
+5 Silk Road’s addre: : Strawinskylaan 655, 1077XX Amsterdam; Netherlands Chamber of Commerce Busin
+Register extract, C-01 11; Telasi shareholders Register, C-0113. 24.53% of Telasi is held by Partnership Fund JSC
+(a Georgian state-owned company); 0.36% is freely floated on Georgian Stock Exchange.
+
+ 
+
+   
+
+ 
+
+Telasi’s address under the 2013 Memorandum is: 3 Vani Street, Tbilisi 0119, Georgia.
+
+Page 4
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+joint stock company incorporated under the laws of Russia,’ owns an indirect 100% interest in
+
+each of Gardabani and Silk Road.
+11. The Respondent is Georgia (“Georgia”).*
+B. SCC ARBITRATION V2018/039/ADM/18/1 (THE “SCC ARBITRATION”)
+
+12. The parties to the SCC Arbitration, which are the subject of this Award, are as follows: the
+Claimants are Inter RAO, Gardabani, and Telasi, described above. Inter RAO owns an indirect
+
+100% interest in Gardabani and an indirect 75% interest in Telasi.
+
+13. The Respondents are the Government of Georgia (the “Government”); the Georgian
+Ministry of Economy and Sustainable Development of Georgia (“Ministry of Economy” or the
+“MOE”); and the State Service Bureau Ltd (“State Service Bureau” or “SSB”), a state-owned
+
+entity.
+
+14. The Claimants’ corporate structure is as follows:
+
+Inter RAO’s address is: 27, Bolshaya Pirogovskaya Street, Building 2, 119435, Moscow, Russia; Netherlands
+Chamber of Commerce Business Register extract, C-0112.
+
+Georgia’s official address and its address for receipt of notices under the 2013 Memorandum is: 7 Ingorokva
+Street, Tbilisi 0114, Georgia.
+
+Page 5
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+' sit Road Holding BY.
+t (Netherlands)
+c
+
+,
+" ardaband Holding BY. |
+1 (Netherlands) |
+
+ 
+
+15. The Claimants and the Respondents are collectively referred to, where appropriate, as the
+
+“Parties”. The Parties’ representatives and their addresses are listed above.
+Ill. © PROCEDURAL HISTORY OF THE PROCEEDINGS
+A. THE SCC PROCEEDINGS
+
+16. On 9 June 2017, the SCC received two coordinated requests for arbitration. The first was
+from Gardabani Holdings B.V. against Georgia, Ministry of Economy and Sustainable
+Development of Georgia and State Service Bureau. The second was from Inter RAO UES, PJSC
+and Telasi, JSC against Georgia (together “SCC Request V2017/097”). In both requests, the
+
+Claimants appointed Professor Stanimir Alexandrov as their party-appointed arbitrator.
+
+17. On 15 August 2017, the SCC received the answers to SCC Request V2017/097. In their
+answers, the Respondents appointed Professor Zachary Douglas, QC, as their party-appointed
+
+arbitrator.
+
+18. On 8 November 2017, the SCC Board appointed Professor Pierre Tercier as the chairperson
+of the tribunal in SCC case 2017/097.
+
+Page 6
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+19. On 14 November 2017, the SCC referred the case to the tribunal constituted in SCC Case
+V2017/097.
+
+20. On 14 February 2018, the Parties submitted a joint request to the SCC for the arbitration to
+be coordinated with ICSID Case No. ARB/17/29.
+
+21. On 6 March 2018, the tribunal in SCC case 2017/097 rendered an award terminating that
+
+arbitration.
+
+22. On 3 April 2018, the SCC received the request for arbitration from Gardabani Holdings
+B.V., Inter RAO UES, PJSC and Telasi, JSC against Georgia, Ministry of Economy and
+Sustainable Development of Georgia and State Service Bureau (“SCC Request V2018/039”). In
+their request, the Claimants appointed Professor Stanimir Alexandrov as their party-appointed
+arbitrator and advised that the Parties had agreed to appoint Mr. Henri Alvarez, QC as the
+
+chairperson of the Tribunal.
+
+23. On 10 April 2018, the Respondents submitted their answer to SCC Request V2018/039. In
+their answer, the Respondents appointed Professor Zachary Douglas, QC as their party-appointed
+arbitrator and confirmed the agreement between the Parties that Mr. Henri Alvarez, QC be
+
+appointed as chairperson of the Tribunal.
+24. On 19 April 2018, the SCC referred case V2018/039 to the Tribunal.
+B. THE COORDINATED ICSID PROCEEDING
+
+25. On 4 August 2017, ICSID received a request for arbitration from Gardabani Holdings B.V.
+and Silk Road Holdings B.V. against Georgia (the “ICSID Request”).
+
+26. On 18 August 2017, the Secretary-General of ICSID registered the Request in accordance
+with Article 36(3) of the ICSID Convention and notified the Parties of the registration of the case
+styled Gardabani Holdings B.V. and Silk Road Holdings B.V. v. Georgia (ICSID Case No.
+ARB/17/29). In the Notice of Registration, the Secretary-General invited the Parties to proceed to
+constitute an arbitral tribunal as soon as possible in accordance with Rule 7(d) of ICSID’s Rules
+
+of Procedure for the Institution of Conciliation and Arbitration Proceedings.
+
+Page 7
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+27. The Parties agreed to constitute the Tribunal in accordance with Article 37(2)(a) of the
+ICSID Convention as follows: the Tribunal would consist of three arbitrators, one to be appointed
+by each Party and the third, presiding arbitrator to be appointed by agreement of the two co-
+
+arbitrators.
+
+28. The co-arbitrators subsequently proposed, and the Parties agreed on 30 November 2017,
+to the selection of presiding arbitrator pursuant to a list procedure administered by the co-
+
+arbitrators with the assistance of the ICSID Secretariat.
+
+29. The Tribunal was composed of Mr. Henri C. Alvarez QC, a national of Canada, President,
+appointed by agreement of his co-arbitrators and pursuant to a list procedure; Professor Horacio
+Grigera Naon, a national of the Argentine Republic, appointed by the Claimants; and Professor
+
+Zachary Douglas QC, a national of Australia, appointed by the Respondent.
+
+30. On 15 December 2017, the Secretary-General, in accordance with Rule 6(1) of the ICSID
+Rules of Procedure for Arbitration Proceedings (the “Arbitration Rules”), notified the Parties that
+all three arbitrators had accepted their appointments and that the Tribunal was therefore deemed
+to have been constituted on that date. Mr. Alex B. Kaplan, ICSID Legal Counsel, was designated
+
+to serve as Secretary of the ICSID Tribunal.
+Cc. THE COORDINATED SCC AND ICSID PROCEEDINGS
+
+31. By the Parties’ joint letters of 14 February 2018, the Parties informed ICSID and the SCC
+that they agreed to coordinate the two proceedings Gardabani Holdings B.V. and Silk Road
+Holdings B.V. v. Georgia (ICSID Case No. ARB/17/29) and Gardabani Holdings BV.
+(Netherlands), PJSC Inter RAO (Russia) and Telasi (Georgia) v. Government of Georgia, Ministry
+of Economy and Sustainable Development of Georgia, State Service Bureau Ltd (SCC Case No.
+
+V2017/097). The Parties reached the following agreement on the coordination of the arbitrations:
+
+(i) Whereas the two arbitrations will remain separate proceedings, the
+Parties wish for a single tribunal composed of Mr. Zachary Douglas QC
+(appointed by the Respondents), Mr. Stanimir Alexandrov (appointed by
+the Claimants) and Mr. Henri Alvarez (as chair) (the “Tribunal”) to hear
+all claims, and hope that they, as well as the SCC and ICSID, will be
+amenable to this proposal;
+
+Page 8
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+(ii) The two proceedings shall share a single evidentiary record, a single
+set of briefings, a single hearing, and a unified procedural timetable;
+
+(iii) Whenever reasonable to do so, and unless prohibited by or
+inconsistent with the applicable arbitration rules or law, the Tribunal
+shall issue single procedural orders, decisions or communications,
+indicating both proceedings in the cover page of any such procedural
+order, decision or communication;
+
+ 
+
+(iv) The Tribunal shall render two separate awards;
+
+(v) The Parties wish to express their gratitude to Professor Tercier and
+Professor Grigera Naon for their service on their respective tribunals. The
+fees and costs of Professor Tercier and Professor Grigera Naon will be
+borne equally by the Parties, subject to the Tribunal’s final allocation of
+costs in the coordinated proceedings;
+
+(vi) As regards the appointment of Messrs. Douglas, Alexandrov and
+Alvarez, the Parties have reached their agreement on the assumption that,
+since the separation of the two proceedings is only formal, they would
+charge their fees and expenses as if this were a single proceeding, save as
+where necessary and reasonable, and that the two institutions will
+cooperate in implementing this arrangement.?
+
+32. On 16 February 2018, pursuant to Arbitration Rule 10(1), ICSID informed the Parties of
+its receipt of Professor Horacio Grigera Naon’s resignation in the ICSID proceeding. In accordance
+with Arbitration Rule 10(2), the ICSID proceeding was suspended until the vacancy resulting from
+
+Professor Grigera Naon’s resignation had been filled.
+
+33. On 20 February 2018, ICSID notified the Parties, pursuant to Arbitration Rule 8(2), Mr.
+Alvarez and Professor Douglas had consented to Professor Grigera Na6n’s resignation in the
+ICSID proceeding. In accordance with Arbitration Rule 11, the Claimants were invited to appoint
+
+an arbitrator to fill the vacancy.
+
+34, On 26 February 2018, ICSID informed the ICSID Parties that Professor Stanimir
+Alexandrov had accepted his appointment as arbitrator appointed by the Claimants. On the same
+
+date, the ICSID proceeding resumed in accordance with Arbitration Rule 12.
+
+° Letter of February 14, 2018, jointly signed by Mr. Noah Rubins of Freshfields Bruckhaus Deringer LLP and Mr.
+Charles Nairac of White & Case LLP.
+
+Page 9
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+
+Partial Award 19 April 2021
+
+35. In accordance with ICSID Arbitration Rule 13(1) and the Parties’ having consented to defer
+the 60-day time limit by which the first session must be held, the Tribunal held a first session with
+
+the Parties on 13 June 2018 by teleconference.
+
+36. On 28 June 2018, the Claimants filed their Memorial (the “Claimants’ Memorial’) on the
+
+Merits, accompanied by:
+
+I
+
+e Expert Report of Mr. Michael Peer of KPMG (“Peer I”), with Annexes MP-0001
+through MP-0641;!°
+
+e Expert Report of Mr. Manuel A. Abdala and Mr. Julian Delamer of Compass Lexecon
+(“Abdala & Delamer I’), with Annexes MAJD-0001 through MAJD-0014;
+
+e Exhibits C-0001 through C-0183; and
+e Legal Authorities CL-0001 through CL-0112.
+
+37. Following the first session, on 9 July 2018, the Tribunal issued Procedural Order No. 1
+recording the agreement of the Parties on procedural matters in the coordinated proceedings. It
+provides that the applicable rules in the SCC Arbitration prior to the date of Procedural Order No.
+1 were the SCC Arbitration Rules in force as of 1 January 2017. As of the date of Procedural Order
+No. 1, however, the SCC Arbitration is to be conducted in accordance with the ICSID Arbitration
+Rules in force as of 10 April 2006, unless the outcome of the application of these rules would be
+
+prohibited by the SCC Arbitration rules or laws applicable to the SCC Arbitration. The ICSID
+
+Page 10
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Arbitration is conducted in accordance with the ICSID Arbitration Rules in force as of 10 April
+
+2006.
+
+38. Procedural Order No. | also provides, inter alia, that the procedural language would be
+English, that the place of the ICSID Arbitration is Paris, France and that the place of the SCC
+Arbitration is Stockholm, Sweden. Procedural Order No. | also sets out the procedural calendar
+
+for the proceedings.
+
+39. Additionally, Procedural Order No. | indicated that Ms. Elsa Sardinha was appointed to
+
+serve as Assistant to the ICSID Tribunal and the Administrative Secretary of the SCC Tribunal.
+
+40. On 19 September 2018, the SCC Secretariat advised the SCC Tribunal that, pursuant to
+Article 43 of the SCC Arbitration Rules, the Award in the SCC Arbitration is due to be rendered
+by on 18 October 2018. By letter of 26 September 2018, the President of the Tribunal requested
+an extension of this date to 26 October 2020, which was accepted by the SCC Secretariat on 27
+September 2018.
+
+Al. On 4 October 2018, the Parties jointly requested a modification to the Common Procedural
+Timetable that was annexed to Procedural Order No. 1. The modification was approved by the
+
+Tribunal on 15 October 2018.
+
+42. On 25 November 2018, the Respondents filed their Counter-Memorial (the “Respondents”
+
+Counter-Memorial”), accompanied by:
+
+|
+
+e Expert Report of Dr. Boaz Moselle of Compass Lexecon (“Moselle I’), with Exhibits
+BM-0001 through BM-0023;
+
+e Legal Opinion of Dr. Paata Turava (both English and Georgian versions), with Exhibits
+PT-0001 through PT-0014;
+
+Page 11
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+e Exhibits R-0001 through R-0065; and
+e Legal Authorities RL-0001 through RL-0040.
+43. On 28 December 2018, each party submitted its Redfern Schedule, setting out its
+production requests and objections as well as the opposite party’s response to those objections.
+
+Each party filed a request for the Tribunal to decide on production of documents.
+
+44. On 15 January 2019, the Tribunal issued Procedural Order No. 2 concerning production of
+
+documents.
+
+45. On 12 February 2019, the Parties jointly requested a modification to the Common
+
+Procedural Timetable, which was approved by the President on the same day.
+
+46. On 5 March 2019, the Claimants filed their Reply (the “Claimants’ Reply”), accompanied
+by:
+
+ 
+
+e Second Expert Report of Mr. Manuel A. Abdala and Mr. Julian Delamer of Compass
+Lexecon (“Abdala & Delamer II’), with Exhibits MAJD-0015 through MAJD-0191;
+
+¢ Second Expert Report of Mr. Michael Peer of KPMG dated 1 March 2019 (“Peer IT”),
+with Exhibits MP-0066 through MP-0962;
+
+e Exhibits C-0184 through C-0219;
+
+e Corrected Exhibits C-0005, C-0007, C-0010, C-0013, C-0015, C-0022, C-0027,
+C-0028, C-0034, C-0036, C-0037, C-0065, C-0077, C-0087, C-0090, C-0101, C-0102,
+C-0103, C-0109, C-0117, C-0126, C-0127, C-0128 and C-0129; and
+
+e Legal Authorities CL-0113 through CL-0202.
+
+Page 12
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+47. Noting that the Reply submission was signed by attorneys affiliated with Dentons LLP who
+had not yet appeared in these proceedings, the Respondents sought confirmation that their
+appearance did not create a conflict of interest by letter of 11 March 2020. On 13 March 2020, the
+Members of Tribunal confirmed that they were not aware of any relationship with the proposed
+additional counsel that would necessitate disclosure. The Tribunal further stated that it awaited the
+receipt of the powers of attorney in favour of Dentons LLP. On 26 March 2019, the Respondents
+
+submitted powers of attorney in favour of Dentons LLP.
+
+48. On 10 April 2019, the Claimants submitted an application, with Exhibits C-0203 through
+C-0211) and Legal Authorities CL-0220 through CL-0232, requesting that the Tribunal order the
+Respondents to produce additional documents in response to the Claimants’ outstanding requests
+(the “Application for Outstanding Request to Produce”). In their application, the Claimants
+alleged that the Respondents had improperly withheld documents in response to those requests and
+
+requested that the Tribunal order the production of documents in question.
+
+49. In accordance with the briefing schedule established by the Tribunal, the Respondents
+submitted their response to the Claimants’ application on 25 April 2019, with Exhibits R-0066
+through R-0067 as well as Legal Authorities RL-0041 through RL-0048; the Claimants submitted
+their reply to the Respondents’ response on 2 May 2019; and the Respondents submitted their
+
+rejoinder on the Claimants’ application on 9 May 2019.
+
+50. On 23 May 2019, the Tribunal issued Procedural Order No. 3, deciding on the Claimants’
+
+Application for Outstanding Request for Production.
+
+51. On 13 June 2019, the Respondents filed their Rejoinder (the “Respondents” Rejoinder”),
+
+accompanied by:
+
+|
+
+Page 13
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+e Second Expert Report of Dr. Boaz Moselle of Compass Lexecon (“Moselle IT”);
+e Second Legal Opinion of Dr. Paata Turava (both English and Georgian versions);
+e Amended translation of Exhibit R-0028;
+e Exhibits R-0068 through R-0096;
+e Amended Legal Authorities RL-0001 through RL-0005 and RL-0009; and
+e Legal Authorities RL-0055 through RL-0091.
+52. On 11 July 2019, the Claimants filed their Rejoinder on Counterclaims (the “Claimants”
+
+Rejoinder”), accompanied by Exhibits C-0234 through C-0237 as well as Legal Authorities CL-
+0215 through CL-0217.
+
+53. On 24 July 2019, the Claimants informed the Tribunal that it would seek additional time at
+the hearing to address quantum issues at the hearing, given the alleged new submissions of the
+Respondents’ quantum expert at the close of the written procedure. On 1 August 2019, the
+Respondents responded denying any prejudice to the Claimants and expressing their preference
+for a brief written submission from Claimants rather than their being afforded extra time at the
+
+hearing. The Claimants replied thereto on 7 August 2019.
+
+54, By email of 15 August 2019, the Tribunal granted leave to the Claimants to submit a brief,
+page limited written response by Mr. Peer to Dr. Moselle’s second report. It also requested a joint
+expert report from Mr. Peer and Dr. Moselle setting out their key points of agreement and
+
+disagreement.
+
+55. On 6 September 2019, the Claimants submitted their quantum expert, Mr. Peer’s, third
+report (“Peer III”).
+
+56. On 10 September 2019, the President held a pre-hearing organizational meeting with the
+
+parties by telephone conference.
+
+57. On 17 September 2019, the Tribunal issued Procedural Order No. 4 concerning the
+
+organization of the hearing.
+
+Page 14
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+58. On 3 October 2019, the Parties submitted the joint expert report of Dr. Boaz Moselle and
+Mr. Michael Peer (“JER”).
+
+59. A hearing on the merits, for both the ICSID and SCC proceedings, was held in Paris from
+14 October through 25 October 2019 (the “Hearing”). The following persons were present at the
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hearing:
+TRIBUNAL
+Mr. Henri C. Alvarez QC President
+Professor Stanimir Alexandrov Arbitrator
+Professor Zachary Douglas QC Arbitrator
+ICSID SECRETARIAT
+
+Mr. Alex Kaplan | Secretary of the ICSID Tribunal
+
+ASSISTANT OF THE TRIBUNAL
+
+. Assistant to the ICSID Tribunal
+Ms. Elsa Sardinha | Admini ive Secretary of the SCC Tribunal
+CLAIMANTS
+
+Mr./Ms. First Name/ Last Name Affiliation
+Counsel:
+Mr. Noah Rubins Freshfields Bruckhaus Deringer LLP
+Mr. Alexey Yadykin Freshfields Bruckhaus Deringer LLP
+Ms. Vasuda Sinha Freshfields Bruckhaus Deringer LLP
+Mr. Maxim Pyrkov Freshfields Bruckhaus Deringer LLP
+Ms. Mariia Puchyna Freshfields Bruckhaus Deringer LLP
+Mr. Mikhail Kalinin Freshfields Bruckhaus Deringer LLP
+Ms. Veronika Timofeeva Freshfields Bruckhaus Deringer LLP
+Mr. Ryan Harvey Freshfields Bruckhaus Deringer LLP
+Ms. Francesca Lionetti Freshfields Bruckhaus Deringer LLP
+Ms. Claire Rohou Freshfields Bruckhaus Deringer LLP
+Ms. April-Carmela Lacson Freshfields Bruckhaus Deringer LLP
+Ms. Christina Liew Freshfields Bruckhaus Deringer LLP
+Mr. Avto Svanidze Dentons LLP
+Ms. Mariam Vashakidze Dentons LLP
+Parties:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 15
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Witnesses and
+
+- Michael Peer
+r. Misiura
+
+M
+M
+
+. Anton Kubasov
+
+Mr. Victor Prokofiev
+
+Ms. Elena Edwards English-Russian Interpreter
+Ms. Anna Kerod English-Russian Interpreter
+Ms. Elena Khorishko English-Russian Interpreter
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RESPONDENTS
+Mr./Ms. First Name/ Last Name Affiliation
+Counsel:
+Mr. Charles Nairac White & Case LLP
+Ms. Kirsten Odynski White & Case LLP
+Ms. Noor Davies White & Case LLP
+Mr. Paul von Miihlendahl White & Case LLP
+Ms. Elina Quinio Aleynikova White & Case LLP
+Ms. Anais Harlé White & Case LLP
+Mr. Domenico Cucinotta White & Case LLP
+Ms. Valeriya Tsekhanska White & Case LLP
+Ms. Florencia Wajnman White & Case LLP
+Ms. Katya Hartl White & Case LLP
+Mr. Achille Tenkiang White & Case LLP
+Ms. Juliet Rhea White & Case LLP
+Parties:
+Td a
+Td Es
+| twt~t~— LSS
+Tt—~—isd@CY Le
+as —
+
+ 
+
+Page 16
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Witnesses and Experts:
+
+Dr. Boaz Moselle Compass Lexecon
+
+Ms. Ruxandra Cuipagea Compass Lexecon
+
+ 
+
+60. On 22 November 2019, the Respondents submitted, with the consent of the Claimants, the
+third expert report of Dr. Boaz Moselle (“Moselle III”). On 20 December 2019, Mr. Peer
+
+submitted his fourth expert report (“Peer IV”) in response on behalf of the Claimants.
+
+61. On 10 January 2020, Dr. Boaz Moselle submitted his fourth expert report (“Moselle IV”)
+on behalf of the Respondents.
+
+62. The Parties filed their submissions on costs on 16 January 2020 and replied thereto on 30
+January 2020.
+
+63. On 11 May 2020, the Claimants provided an update on the Telasi WAPT for 2019 and the
+first quarter of 2020.
+
+64. On 10 September 2020, the Tribunal requested an extension of the date for rendering the
+Award in the SCC proceeding pursuant to Article 43 of the SCC Arbitration Rules. The Parties
+were given an opportunity to comment on the Tribunal’s request, but they did not comment, as
+confirmed by correspondence from the SCC dated 17 September 2020. Therefore, the SCC decided
+that the Award in the SCC proceeding shall be rendered by 29 January 2021.
+
+Iv. FACTUAL OVERVIEW
+A. OVERVIEW OF GEORGIA’S ELECTRICITY SECTOR
+
+65. Since its independence in 1991 after the collapse of the Soviet Union until 2003, the
+electricity sector in Georgia has transitioned from a Soviet era state-owned monopoly system to a
+
+liberalized system which sought to separate the different activities in the electricity supply chain
+
+Page 17
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+(transmission, distribution, and generation). During this period, a new legal and regulatory
+framework was established for Georgia’s electricity sector.'! Telasi provided electricity during
+
+this phase, but widespread shortages were common.
+
+66. Georgia’s early efforts in the late 1990s to modernize and liberalize its energy sector
+included privatizing its electricity system by selling a majority share in Telasi to an American
+company, AES (discussed under Section B below), transferring the management of other
+distribution companies to another American company, and bringing in other foreign companies to
+manage transmission as well as wholesale electricity market operators.'* Concurrently, Georgia
+also sought to strengthen its economic links with the European Union (“EU”) and, in 1996,
+Georgia entered into a Partnership and Cooperation Agreement aimed at fostering cooperation
+with the then European Community to transition Georgia into a market economy.!? While these
+efforts improved Georgia’s power sector, by 2003 power cuts were still commonplace and further
+privatization was needed to rehabilitate State-owned electricity generation, transmission and
+
+distribution assets. '4
+
+67. Georgia’s 1999 Law on Electricity and Natural Gas (the “Law on Electricity”) defines the
+legal framework for water, electricity and natural gas production and distribution in Georgia.!°
+The Law on Electricity allocated the ownership, commercial and regulatory functions in the power
+sector between the Ministry of Energy (“MOE”) and what would later become the Georgian
+
+National Energy and Water Supply Regulatory Commission (“NERC”).
+
+68. The MOE develops national policy in the energy sector and promotes investments in that
+sector, but does not implement ownership, regulatory and operational-economic activities in the
+
+electricity sector.!°
+
+Respondents’ Counter-Memorial, 13-21.
+
+Respondents’ Counter-Memorial, {| 19.
+
+Partnership and Cooperation Agreement between the European Community and Georgia, 22 April 1996, entered
+
+into force 1 July 1999, R-0001, see especially Art. 43(1).
+
+Respondents’ Counter-Memorial, 21.
+
+'S CL-0073 / RL-0001, Law of Georgia No. 1934 on Electricity and National Gas dated 30 April 1999 (“Law on
+Electricity”).
+
+16 CL-0073 / RL-0001, Law on Electricity, Arts. 1(3)(a), 3(1), 3(2).
+
+17
+
+Page 18
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+69. The Law on Electricity establishes general principles for setting tariffs that “protect
+consumers from monopoly tariffs and promote long-term financial stability and development of
+the energy sector”, and calls for the adoption of secondary legislation to elaborate specifics.'” The
+law gives NERC exclusive competence to adopt tariff-setting methodologies and set tariffs in
+
+accordance with those methodologies. !*
+
+70. | NERC is an independent body whose role, organization, powers and price-setting authority
+are governed by the Law on Independent Regulatory Authorities (“Law on INRAs”) and its own
+Charter.!? NERC is headed by a chairperson and four commissioners who adopt decisions and
+resolutions by majority vote regarding the issuing and revoking of licenses, developing and
+adopting tariff methodologies, setting and regulating tariffs, and settling disputes between market
+participants.”° Its decisions, which must include written reasons and be published, are regulated
+
+by the General Administrative Code of Georgia (““GACG”), and are subject to judicial review.”!
+
+71. In respect of NERC’s competence to adopt and apply tariff-setting methodologies, Article
+11(1) of the Law on Electricity was amended in July 2010 to provide that
+
+NERC shall follow the basic directions of national policy in the energy,
+security, economy, environmental protection and other areas and the
+normative acts issued on the basis of these directions. [NERC] may also
+take into account the transactions entered into by the State in the energy
+and water supply sectors, and other relevant legal acts.”
+
+72. NERC is one of two independent regulatory authorities operating in Georgia.”> The Law
+
+on INRAs establishes NERC’s “independence ... from political pressure of any kind, from
+
+17 CL-0073 / RL-0001, Law on Electricity, Arts. 1(3)(e), 43.
+
+18 CL-0073 / RL-0001, Law on Electricity, Art. 4(5)(b).
+
+19 Law on INRAs, RL-0004, Arts. 4(3), 17; NERC’s Resolution No. 6, 6 March 2014, R-0003, Arts. 1(2), 1(3)
+(NERC’s functional independence is affirmed in its Charter). Financial independence, see CL-0073 / RL-0001,
+Law on Electricity, Arts. 19, 20: NERC sets its own budget based on fees it sets itself and collected from the
+regulated entities, must submit an annual report to Georgia’s President and Parliament, and must be audited.
+
+2 CL-0073 / RL-0001, Law on Electricity, Arts. 4(5), 5(3), 6(1).
+
+2! General Administrative Code of Georgia (*“GACG”), RL-0005, Arts. 53, 103, 121, 177 (judicial review; see also
+CL-0073 / RL-0001, Law on Electricity, Art. 15; Law on INRAs, RL-0004, Arts. 4(6), 18).
+
+2 CL-0073 / RL-0001, Law on Electricity, Art. 11(1).
+
+2 Law on INRAs, RL-0004, Art. 2(b). The other independent regulatory authority in Georgia is the National
+Communications Commission.
+
+Page 19
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+improper influence and illegal interference of State Authorities or other persons, as well as from
+
+any acts as may infringe on their independence”.”4 “Independence” is defined as
+
+the ability of both an independent regulatory Authority and the
+Commissioner, without improper influence and illegal interference to
+exercise the authority of a regulatory Authority as determined under the
+applicable law, including discussing, investigating and deciding the
+matters assigned to its authority; any interference in the activities of an
+independent regulatory Authority, control of the said activities and
+demanding accounts of such activities on the part of any State Authority
+shall be inadmissible, if this is not explicitly provided for by the applicable
+Taw.?*
+
+ 
+
+Article 6, “Independence”, provides as follows:
+
+1. Independent regulatory Authority and Commissioner shall be
+independent within the scope of their activities and shall comply only with
+the Georgian Legislation. Only an independent regulatory Authority shall
+have the right to exercise the full authority in respect to the matters which
+are delegated to it under the applicable law.
+
+2. Dual, concurrent regulatory authority shall be inadmissible.
+
+3. Any attempt of any person to exercise the jurisdiction over the sphere
+of authority of an Independent Regulatory Authority shall be illegal, and
+the results thereof shall be of no legal force.
+
+5. It shall be inadmissible for an Independent Regulatory Authority to
+conclude any agreement which imposes certain obligations on Georgia,
+except for the cases as provided for in the Georgian Legislation.”
+
+72. In addition to overseeing the tariffs that distribution companies can charge, controlling the
+issuance of generation and distribution licenses, and setting the fees for connecting new users to
+the distribution network, NERC also produces an annual energy plan of how much energy each
+distribution company will acquire from each generator on a month-to-month basis over the course
+of a year (“NERC’s Annual Energy Plan”). The plan is based on the “Annual Electricity
+Balance” prepared by the Georgian State Electrosystem (“GSE”) before the start of each year, and
+
+approved by the MOE. It includes a general forecast of the output of each generating plant, an
+
+24 Law on INRAs, RL-0004, Art. 1(2).
+25 Law on INRAs, RL-0004, Art. 3(d).
+26 Law on INRAs, RL-0004, Art. 6.
+
+Page 20
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+estimate of electricity imports and exports, and a forecast of total electricity sales by each
+
+distribution company.’
+
+74.
+
+1
+
+Organization of Georgia’s Electricity Sector
+
+The basic elements of Georgia’s electricity supply chain consist of:?*
+
+generation of electricity by power plants
+
+- there are over 80 State-owned and privately-owned generation companies; 80% of
+which are hydropower plants (“HPPs”), 20% are thermal power plants (“TPPs”)”?
+
+transmission of electricity into the distribution network
+
+distribution of electricity to final consumers
+
+- until 2017, there were three distributors: Telasi, which supplied Tbilisi; Kakheti
+Energy Distribution (“Kakheti”), which supplied the eastern region of Kakheti; and
+Energo-Pro Georgia (“Energo-Pro”), which supplied electricity to the rest of
+Georgia
+
+- in 2017, Energo-Pro acquired Kakheti
+
+- today, Telasi has a 35% market share and Energo-Pro holds the remaining 65%
+
+sale of electricity to final consumers
+
+- sales are vertically integrated with distribution, meaning that the same operators
+distribute and supply electricity to end consumers, with the exception of some large
+consumers who may buy electricity directly from power generators
+
+trade of electricity produced by generators and imported from other countries on the
+
+wholesale market
+
+- operated by the Electricity System Commercial Operator (“ESCO”), which is also
+known as the Commercial Operator of Power System (“COPS”). ESCO/COPS
+
+balances the electricity on the market by trading the volume of electricity delivered
+
+CL-0073 / RL-0001, Law on Electricity, Art. 23.1.
+Respondents’ Counter-Memorial, 4] 22-28; Moselle I, Figure | at p. 29.
+Most HPPs depend on the amount of water flowing through rivers, which is at its lowest in winter when electricity
+consumption is at its highest, which in turn leads to electricity shortages that are serviced by TPPs and imports
+from neighboring countries, primarily Russia. During spring and summer, Georgia exports its surplus electricity
+to Turkey (Respondents’ Counter-Memorial, § 23).
+
+20
+
+Page 21
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+into the network by generators and importers which is not purchased under direct
+agreements with distributors.
+75. In the electricity sector, transmission and distribution are natural monopolies and are
+typically regulated to avoid the risk of them charging excess prices to the detriment of consumers,
+
+whereas generation activities are competitive.*°
+76. Telasi is both a distributor and a supplier of electricity.
+
+77. ESCO/COPS is the State-owned company responsible for operating Georgia’s electricity
+market. It also purchases and sells left over electricity that has not been directly contracted for, at
+tariffs which depend on the amount of electricity it buys and sells, and on market conditions.*! The
+price at which ESCO/COPS sells its electricity is usually higher than that of generation companies
+
+such as the Khrami Companies.
+
+78. Georgia owns the two largest HPPs, Enguri HPP LLC (“Enguri”) and Vardnili HPP
+Cascade (“Vardnili’”), which produce the cheapest electricity in Georgia. They are required to
+supply electricity to the occupied territories in Abkhazia.*? Enguri alone produces 31% of the total
+generation capacity in Georgia. In comparison, the Khrami Companies produce 7% of Georgia’s
+
+generation capacity.**
+
+79. The GSE is the transmission system operator (“TSO”) responsible for ensuring the
+functioning of the electricity system. The GSE prepares the Annual Electricity Balance which
+forecasts the supply and demand of electricity in a given year for the MOE’s approval. The GSE
+also assists ESCO/COPS in balancing the electricity on the market. Energy supply agreements
+
+between generators (sellers) and distributors (buyers) must be registered with the GSE.
+
+30 Moselle 1, 44 3.22, 3.24, 3.30; Respondents’ Counter-Memorial, | 28.
+3! Claimants’ Memorial, §] 17(c).
+
+2 CL-0073 / RL-0001, Law on Electricity, Art. 49.
+
+3 Moselle 1, 44.10.
+
+21
+
+Page 22
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+2) Georgia’s Tariff System
+80. | NERC regulates the rates that can be charged by each company for the sale of the energy
+it generates, known as the “Generation Tariffs”. Generation Tariffs are intended to cover the
+
+generation and operating costs and capital expenditures of the company, plus a profit component.
+
+81. For distribution companies, NERC regulates the following three types of interrelated
+tariffs.
+82. The “Consumer Tariffs” are the rates that a distribution company can charge to its
+
+customers and which form the revenue component of a distribution company’s business. A
+distributor’s Consumer Tariffs effectively comprise the sum of the WAPT and the Distribution
+
+Tariff, both discussed next.
+
+83. The Weighted Average Purchase Tariff (“WAPT”) is a distribution company’s weighted
+average annual cost per kilo watt hour (“kWh”) of purchasing energy from generation companies.
+It constitutes the primary purchase cost component of a distribution company’s business and is a
+function of the sources from which a distribution company purchases energy. The allocation of
+energy purchases from different generators to a distributor is referred to as the “purchase
+portfolio”. Since the cost of energy differs from generator to generator (i.e. depending on whether
+they are HPPs or TPPs), each distributor’s purchase portfolio will include a combination of more
+and less expensive sources of energy for the year. NERC’s Annual Energy Plan for each
+distribution company identifies, for each month, the generation companies from which a particular
+distribution company must purchase electricity, and in what volumes. The Claimants say that
+
+NERC effectively controls the WAPT of each distribution company.**
+
+84. The Claimants explain that the “Distribution Tariff” (or “Distribution Margin”) is the
+difference between the amount the distributor pays to acquire electricity it is going to distribute
+and the amount it can charge its customers, which results in the profit.*> It is computed for different
+voltage levels as the distributor’s forecast per unit cost, calculated on a regulated basis. NERC’s
+
+methodology in force at any given point provides guidelines as to how to compute each component
+
+34 Claimants’ Memorial, | 18(b)(ii).
+
+35 Tr. Day 1 (Claimants’ Opening Statement), p. 16.
+
+22
+
+Page 23
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+of the total costs (including capital and operational expenses, normative losses and corrections
+adjusted for time value of money) and expected distributed amounts of electricity for each group
+of consumers. The Distribution Tariffs represent a distribution company’s margin on a tetri per
+
+kWh basis,*° as opposed to the rates charged to customers.
+
+85. The Claimants’ economic experts summarize the relationship between the different tariffs
+
+as follows:*”
+
+ 
+
+ 
+
+‘Actual WAPT Consumer Tariff
+(end-user price)
+Forecast WAPT * Distribution Tariff = Consumer Tariff
+
+ 
+
+* Calculated for the
+
+regulatory period,
+don monthly
+Purchase Portfolio
+
+ 
+
+for past deviat
+
+   
+
+fal WAPT from forecast
+
+ 
+
+86. The Respondents’ damages expert summarizes the building blocks of the Consumer Tariff
+
+as follows:°*
+
+36 1 tetri is equal to 0.001 GEL (Abdala & Delamer I, fn 16). “tetri” is a fractional currency used only in Georgia
+since 1995.
+
+Abdala & Delamer I, Compass Lexecon Report, p. 10, Figure I; Claimants’ Memorial, | 19.
+
+Moselle I, p. 55, Figure 19; CL-0084, Georgian National Energy and Water Supply Regulatory Commission,
+Resolution No. 14 on Approving Electricity Tariff Calculation Methodologies dated 30 July 2014 (“2014
+Methodology”), Art. 16.
+
+23
+
+Page 24
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/I
+Partial Award 19 April 2021
+
+Distribution Tariff
+\
+
+Diet eee
+= NAN
+
+Distributed Electricity
+
+/$
+
+ZS
+
+   
+
+eee te
+
+eerste
+era
+
+ETE
+
+ 
+
+87. When NERC sets a particular tariff, the market participant might be charged more or less
+than that amount, and it can be temporarily adjusted upon the occurrence of a previously agreed
+
+trigger.
+
+88. The Claimants say that because NERC can set tariffs and control the actual WAPT, it
+
+controls the financial viability of energy generation and distribution companies in Georgia.”
+
+89. Distribution companies’ (and generation companies’)*” purchase portfolios are set as
+
+follows:
+
+e Before the start of each year, the GSE prepares, and the MOE approves, the Annual
+Electricity Balance (described above at paragraph 74). Based on the Annual Electricity
+Balance, the NERC prepares its Annual Energy Plan. In practice, NERC’s Annual
+Energy Plan forms the basis of the GSE’s daily and hourly planning and is used to
+match supply and demand on a real-time basis. It also informs the GSE’s decisions to
+
+approve energy supply agreements between generation companies.*! The Claimants
+
+3° Claimants’ Memorial, 421.
+
+The Claimants say that the manner in which a generation company’s electricity output is assigned to distribution
+companies as part of NERC’s Annual Energy Plan, and implemented through supply contracts executed through
+the ESCO/COPS, determines its revenue (Claimants’ Memorial, § 23).
+
+! CL-0073 / RL-0001, Law on Electricity, Arts. 23.2, 35(3)(a), 35(3)(c).
+
+24
+
+Page 25
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+say the NERC’s Annual Energy Plan informs the decisions of distribution companies
+and the ESCO/COPS regarding the allocation of energy from suppliers to distributors.”
+
+e Based on NERC’s Annual Energy Plan, the NERC calculates tariffs for each distributor
+predicting an annual WAPT and Distribution Tariff. A company’s WAPT, as planned
+by the NERC, is intended to reflect the annual average costs expected to be incurred
+when purchasing energy. Each distribution company has a different WAPT, since its
+purchase portfolio contains a unique mix of energy from various generators at different
+tariffs.
+
+e Next, a distribution company (i.e. Telasi) concludes electricity supply agreements
+directly with generators. Agreements are concluded on the basis of NERC’s Annual
+Energy Plan and informal discussions with the ESCO/COPS as to the volume of energy
+it can receive from a particular generation company.**
+
+¢ The agreements come into effect only upon registration by the GSE.*
+
+e In the event that not all of a distribution company’s electricity needs are met by its
+direct agreements with generation companies, the distribution company will acquire
+those additional volumes from the ESCO/COPS at a higher tariff.*°
+
+e Finally, the actual delivery of energy to a distribution company is determined on a
+monthly basis by the ESCO/COPS. The ESCO/COPS determines how much energy
+was received by a distribution company in a given month from each generator with
+whom the company has a supply agreement. Any portion of a distribution company’s
+monthly supply of energy that has not been supplied under direct contracts with
+
+generators is deemed to have been acquired from the ESCO/COPS at its tariff.*”
+
+Claimants’ Memorial, § 22(a).
+Claimants’ Memorial, | 22(b).
+
+Claimants’ Memorial, §22(c).
+
+Electricity (Capacity) Market Rules, CL-0070, Arts. 9(2)(d), 16(1)(h); Claimants’ Memorial, § 22(d).
+Electricity (Capacity) Market Rules, CL-0070, Art. 14.3; Abdala & Delamer, {| 12; Claimants’ Memorial, § 22(e).
+
+Claimants’ Memorial, § 22(f): Claimants say this is consistent with the ESCO/COPS’s role as the balancing and
+clearing entity for the energy market. If a distributor needs more electricity than has been planned for in its
+purchase portfolio (such as if a generator under-performs or because new consumers connect to its network), in
+practice it can only acquire additional electricity from the ESCO/COPS, or directly from a generator if the contract
+is registered with the GSE.
+
+25
+
+B.
+
+90.
+
+Page 26
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+The Claimants say that when a distribution company receives energy, it cannot know
+from which generation companies it will be deemed to have received power for the
+purposes of monthly accounts. The ESCO/COPS informs each distributor after the fact
+which generators actually supplied energy to it in the previous month, in what volume
+and at what tariff. Monthly “acts of acceptance” signed between distributors and
+generators (and, to the extent applicable, the ESCO/COPS) confirm electricity volumes
+supplied.*®
+
+The volume of energy actually provided by various generators (as allocated by the
+ESCO/COPS) may differ from the projected volume that formed the basis for
+calculating a company’s WAPT. This occurs for a number of reasons, such as the
+reallocation of inexpensive energy to other distribution companies and/or for export,
+unplanned increases of generation tariffs, and technical breakdowns in energy supply.”
+Consequently, a distribution company’s actual WAPT may exceed its planned WAPT,
+
+reducing its Distribution Tariff (or Distribution Margin).
+
+THE TELASI SPA: AES’s INITIAL ACQUISITION OF TELASI AND MANAGEMENT RIGHTS
+TO THE KHRAMI COMPANIES
+
+Telasi was established in 1995 as a Georgian joint stock company. Telasi is now the
+
+second-largest distribution company of the three operators in Georgia, and covers Tbilisi and the
+
+surrounding urban areas. From 1995 to 1998, it was State-owned. In December 1998, the
+
+Government began privatizing distribution companies and power plants. The sale of Telasi in 1998
+
+to an American corporation marked the first major privatization in the Georgian electricity sector.
+Pursuant to a share purchase agreement, AES Silk Road Holdings B.V. (“AES”) acquired 75% of
+the shares of Telasi (the “Telasi SPA”).*°
+
+Claimants’ Memorial, §22(g).
+
+Claimants’ Memorial, § 22(h).
+
+Share Sale and Purchase Agreement between Georgia and AES Silk Road Holdings, 21 December 1998 (““Telasi
+SPA”), C-0001; NERC Resolution No. 3 “On Approval of the Rules and Procedures for Establishing a
+Methodology for Electricity Tariffs”, 1 July 1998, RL-0007.
+
+26
+
+Page 27
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+91. On the same date, NERC issued a resolution regarding the approval of methodology, rules
+
+and procedures of setting electricity tariffs (“1998 Methodology”).*!
+
+92. In 1999, AES also acquired the management rights for the Khrami Companies for 25 years
+(the “Khrami Management Agreement”).** In 2003, AES changed its name to Silk Road
+Holdings B.V., after being acquired by the Inter RAO group.
+
+93. By 2003, AES had rehabilitated Telasi from its former state, but had not improved the
+condition of Khrami Companies. The Respondents explain that when AES first took over the
+management of the Khrami Companies in 1999, Khrami-2 required extensive repair in order to
+operate at full capacity. To support the rehabilitation of Khrami-2, Georgia transferred its Japanese
+
+bank lo: i iii i © AES on the condition that AES would repay
+
+them by 2025 (by the end of the 25-year Khrami Management Agreement).*?
+
+C. INTER RAO’s 2003 ACQUISITION OF TELASI AND MANAGEMENT RIGHTS FOR THE
+KHRAMI COMPANIES
+
+94. Pursuant to a sale and purchase agreement in 2003, Inter RAO acquired 100% of AES’s
+
+Georgian Operations, which included:
+e AES’s 75% indirect interest in Telasi;**
+
+e the shares of AES Georgia, which held management rights for the Khrami Companies
+
+| under the Khrami Management Agreement; and
+
+e the shares of AES Gardabani, which wholly owned AES Mktvari (a Georgian TTP).
+
+5! NERC Resolution No. 3, dated 1 July 1998 “On Approval of the Rules and Procedures for Establishing a
+Methodology for Electricity Tariffs”, 1 July 1998, RL-0007, “invalidated by [NERC] Resolution No. 8,
+06/08/2011”.
+
+Management Agreement between Georgia and AES Georgia Holdings B.V. (another Dutch subsidiary of AES
+Corporation), 22 December 1999 (“Khrami Management Agreement”), C-0002.
+
+53 See Khrami Management Agreement, C-0002, Clauses 3.3, 3.4, 5.3.
+
+Sale and Purchase Agreement between AES and RAO Nordic (a Finnish company wholly owned by Inter RAO),
+11 July 2003, C-0003.
+
+27
+
+Page 28
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+95. At the time that Inter RAO acquired AES’s existing operations in 2003, electricity
+
+consumption tariffs were significantly higher than those in Russia. Representatives of Inter RAO
+
+ 
+
+stated that they assumed they would be able to substantially reduce these tariffs
+
+96. In January 2004 (six-months after Inter RAO acquired Telasi and management rights to the
+Khrami Companies), a new government was elected in Georgia. It made year-round electricity
+
+supply a priority. In this regard, the new Government concluded an Agreement with Inter RAO
+
+FD The Government also entered into an Agreement with Telasi and
+
+Mtkvari-Energy LLC to improve the operation of the Georgian power system and provide a safe
+power supply to the city of Tbilisi, pursuant to which Telasi would receive a monthly credit to
+purchase electricity from domestic sources, including the Khrami Companies, and Telasi would
+sign contracts for the purchase of electricity and ensure the importation of electricity from Russia
+and Armenia as required to ensure uninterrupted power supply to the City of Tbilisi.*’ The
+Government also entered into a Memorandum with JSC Khrami-2 (“Khrami-2”), and others to
+
+support the rehabilitation of two turbines owned by Khrami-2 by way of loans at preferred rates.**
+
+97. It appears that the Government planned to improve the reliability of the supply of electricity
+
+and, for the first time, the supply of electricity was uninterrupted during the winter of 2005-2006.*°
+
+98. At the time that Inter RAO acquired AES’s existing operations in 2003, the Telasi SPA
+and Khrami Management Agreement, which continued to govern the relationship between the
+
+Parties, had not been modified since their conclusion in 1998 and 1999, respectively.% Under the
+
+News article, 1 September 2003, R-0005; Respondents’ Counter-Memorial, § 43.
+
+Agreement between Georgia, JSC Telasi and LLC Mtkvari-Energy, 23 September 2005, R-0008.
+
+Memorandum between Georgia, LEPL “Energogeneracia” and JSC “Khrami HPP-2” on Rehabilitation of Hydro
+Power Plant Khrami-2, 17 January 2005, R-0004.
+
+Claimants’ Memorial, {| 28; Respondents’ Counter-Memorial, § 44.
+
+28
+
+Page 29
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Khrami Management Agreement, Inter RAO was obliged to rehabilitate the Khrami Companies in
+
+exchange for a right to receive all dividends and a management fee.°!
+
+99. After Inter RAO’s acquisition of Telasi in 2003, the tariff related arrangements between
+
+the Government and Telasi were modified several times by the Memoranda concluded in 2007,
+
+2010, 2011, 2012 and, finally, 2013 (these are discussed, in turn, below). Po
+
+100. ‘The Tels: SE
+_____ COC”
+
+ss
+101. The Teas SP
+
+C-0002 / R-0006, {j 3.5.
+
+ 
+
+Page 30
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+30
+
+Page 31
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+102. By about 2006, FY it became apparent that new
+arangements were necessary for Tl
+a
+Po These issues were resolved by way of an agreement
+between the Government and Inter RAO in 2007, the 2007 Memorandum, discussed below under
+
+Section E.
+D. NERC’S 2006 ADJUSTMENT OF TELASI’S TARIFFS
+
+103. In late 2005, NERC undertook a comprehensive review of electricity tariffs and, on 31
+January 2006, it established an electricity working group tasked with formulating a new tariff
+
+system in the long-term, and for February-April 2006 in the short term.
+
+104. In April 2006, Telasi applied to NERC for a 12 tetri/kWh upward adjustment of its
+
+Distribution lif ii _ _ to recover losses incurred between 1999
+20 a
+
+105. In May 2006, NERC held a public hearing to discuss the results of its tariff system revision
+and Telasi’s application. NERC noted the “necessity of adjusting the entire tariff system” due to:
+(i) increased Russian gas prices, which resulted in a 35% rise in the average cost of gas-fired TPP
+generated electricity in Georgia; (ii) an “increase of the expensive power share in the [electricity]
+balance” caused by 24-hour electricity supply; and (iii) an increase in the cost of electricity
+produced by the six HPPs that had submitted tariff applications due to “wage growths”,
+“revaluation of fixed assets” and “raised prices on materials”. The NERC stated that these
+
+changes had resulted in a 61% increase in the WAPT paid by distribution companies to generation
+
+   
+
+s’ Counter-Memorial, {
+
+ 
+
+431; Responder
+
+ 
+
+mants’ Memo:
+
+61 Telasi Tariff Application, 11 April 2006, R-0010, Annex I.
+68 NERC Hearing No. 13 Minutes, 11 May 2006, R-0011, p. 2.
+
+6 NERC Hearing No. 13 Minutes, 11 = 2006, R-0011, p. 2; is
+
+31
+
+Page 32
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+proposed increase in the WAPT.”!
+
+106. Later in May 2006, the NERC issued Resolution No. 18 (the “2006 Tariff Resolution”),
+wherein it granted to Telasi a 2 tetri/kWh increase (of the 12 tetri/kWh tariff increase requested in
+Telasi’s tariff adjustment application), which raised its Distribution Tariff to 7.89 tetri/kWh,
+effective 1 June 2006. ’* The NERC found that it was necessary to increase Telasi’s Distribution
+Tariff to allow Telasi to recover GEL 22 million in losses in 2005-2006 due to a VAT change,
+investments in Telasi’s power grid between 2002 and 2005, GEL 20 million in other investments
+
+to be made by Telasi between 2006 and 2008, and to account for the temporary reduction of
+
+Telasi’s Distribution Tariff imposed by NERC in 2003.” Ee
+PS C—C“C;isSCsSCSCSCs‘<C
+
+107. In June 2006, Georgia’s Parliament issued a resolution on Georgia’s energy policy.
+Amongst the various policy directions adopted was the attraction of investment and development
+of competition through privatization in the sector. The Energy Policy provided for different types
+of tariffs to protect consumers from monopolistic prices and permit long-term sustainable growth,
+including the setting of various tariffs, including long-term pre-fixed tariffs (the “2006 Energy
+
+Policy”).”>
+
+108. Shortly thereafter, Telasi asked the MOE to agree a new tariff policy for Telasi |
+
+7 NERC Hearing No. 13 Minutes, 11 May 2006, R-0011, p. 2.
+
+7 NERC Hearing No. 13 Minutes, 11 May 2006, R-0011, p. 4; EE see Respondents’ Counter-
+Memorial, 4 56.
+
+2 NERC Resolution No. 15, 15 May 2006, R-0014, Art. 7.
+
+Explanatory Note to Energy Commission Draft Resolution on Electricity Tariffs, R-0013, p. 1; NERC Hearing
+
+No. 13 Minutes, 11 May 2006, R-0011, p. 3;
+
+Resolution of the Parliament of Georgia No. 3259-1, “On the Main Directions of Georgia’s Energy Sector State
+
+Policy”, 9 June 2006 (“2006 Energy Policy”), RL-0006.
+
+ 
+
+ 
+
+Page 33
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+S
+°°
+
+E. THE 2007 MEMORANDUM
+
+110. In June 2007, Georgia and Inter RAO entered into the Memorandum on the Development
+of Cooperation in the Electric Power Sector and Implementation of Previous Agreements (the
+
+“2007 Memorandum”).”* The 2007 Memorandum provided for, inter alia:
+
+a |
+
+* 2007 Memorandum, 20 June 2007, between Georgia and Inter RAO, C-0005 / R-0015; Claimants’ Memorial,
+33-35; Claimants’ Reply, {fj 23, 33; Respondents’ Rejoinder, { 17; Counter-Memorial, {ff 63-71
+
+ 
+
+33
+
+Page 34
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+34
+
+Page 35
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+35
+
+Page 36
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Page 37
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+w
+x1
+
+Page 38
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+118. On 8 November 2007, the Government transmitted the 2007 Memorandum to the NERC
+for its consideration of the long-term Distribution Tariffs and adjustment provisions and to “make
+the relevant decision”.**
+
+119. On 6 August 2008, pursuant to Article 11.1 of the Law on Electricity, the Government
+resolved to introduce predefined long-term marginal and/or fixed electricity tariffs and that, “...it
+shall be considered expedient to introduce predefined long-term marginal and/or fixed tariffs in
+the energy sector in order to promote investments and create stable investment environment. For
+this purpose, contractual obligations undertaken by the state in relation to energy facilities and
+other relevant legal acts shall also be taken into account.”*? According to a. this
+resolution “simply grant[ed] the NERC discretion to take such contractual tariff arrangements into
+
+account in setting tariffs.
+
+120. Georgia and Inter RAO continued to meet regularly in the context of the task force set up
+under the 2007 Memorandum to monitor the implementation of the Parties’ respective
+
+obligations.*!
+F. IMPLEMENTATION OF THE 2007 MEMORANDUM: NERC RESOLUTION NO. 33
+
+121. In September 2008, the NERC considered that the 2007 Memorandum was in line with the
+interests of both distribution companies and consumers and approved and extended the
+Distribution Tariff of 7.89 tetri/kWh provided in the 2006 Tariff Resolution and the 2007
+Memorandum until 1 September 2015 and implemented the other provisions of the 2007
+Memorandum.” In December 2008, the NERC reconfirmed the tariffs agreed by the Parties under
+
+the 2007 Memorandum, which had first been confirmed in September 2008, in a consolidated
+
+88 Government Decree No. 654, 8 November 2007, R-0016.
+
+CL-0092, Decree of the Government of Georgia No. 170 on the Promotion of Investments in the Energy Sector
+of Georgia dated 6 August 2008 (“Decree No. 170”).
+
+Respondents’ Counter-Memorial, 77.
+
+2 R-0017, NERC Resolution No. 26 On approval of Determined Fixed Tariffs of Electricity for Long-term Period
+to Ensure Creation of Stable Investment Environment in Energy System of Georgi, 24 September 2008, p. 2.
+
+38
+
+Page 39
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+resolution (“NERC Resolution No. 33”).°? The following table provided by the Claimants shows
+that the tariff levels agreed in the 2007 Memorandum and set by the NERC in its Resolution No.
+
+33 were identical.
+
+Telasi’s tariffs (fixed in 2008)
+
+ 
+
+Peek ee)
+
+2007 Memorandum, Resolution No 33, Art 8
+cl 1.1 [C-005] [CL-078]
+
+220/380 V (commercial 8.08 8.08
+
+consumers)
+
+6-10 kV 7.138 7.138
+
+35-110 kV 18 18
+
+122. These tariff rates applied independently of NERC’s 1998 Methodology which was still in
+
+effect at the time and provided for a different methodology for setting and adjusting the tariffs.°>
+G. THE 2010 MEMORANDUM
+
+123. In late 2009, the Parties began negotiating a new memorandum (the 2011 Memorandum,
+
+described below) after Inter RAO first expressed its interest in purchasing the Khrami
+
+SS
+
+the MOE and Inter RAO signed a two-year non-binding memorandum of understanding (the “2010
+
+3 CL-0078, NERC Resolution No. 33 “On Adoption of Electricity (Capacity) Rate:
+Resolution No. 33”), Art. 8.
+°4 Claimants’ Opening Presentation, Demonstrative No. 2; Tr. Day 1 (Claimants’ Opening Statement), 22:2-3.
+Tr. Day 1 (Claimants’ Opening Statement), 21:17-21.
+Respondents’ Counter-Memorial, § 78.
+
+”, 4 December 2008 (“NERC
+
+ 
+
+39
+
+Page 40
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Memorandum”).”® The 2010 Memorandum recorded the need to improve Telasi’s economic
+efficiency of operation and the intention to undertake joint measures for its financial rehabilitation.
+In this regard, the 2010 Memorandum recorded the Parties’ intention to examine various options
+of debt restructuring, financial rehabilitation and the increase of value of Telasi, including by
+
+consideration of the increase of Telasi’s authorized capital by issuing additional ordinary shares to
+
+be owned by Georgia and Inter ROA’s subsidiary, Silk Road.” i
+mz
+124. Following the conclusion of the 2010 Memorandum, the Parties continued to negotiate a
+
+new memorandum to govern Inter RAO’s operations in Georgia, and a Sale and Purchase
+
+Agreement for the Khrami Companies (the “Khrami SPA”).
+H. THE 2011 MEMORANDUM
+
+125. On 31 March 2011 (five months after the conclusion of the 2010 Memorandum), the
+Government of Georgia, Inter RAO, Georgian Electrosystem LLC and Energotrans LLC
+concluded the Memorandum on the Development of Cooperation in the Electric Power Sector and
+the Implementation of Previous Agreements (the “2011 Memorandum”).'°! The Memorandum
+
+addressed both Telasi and the Khrami Companies.
+
+126. The 2011 Memorandum covered the pcricd i
+
+C-0006 (Claimants’ Translation) / R-0018 (Respondents’ Translation), Memorandum of Intentions between the
+Government of Georgia, JSC INTER RAO UES, Telasi Joint-stock Company and Mtkvari Energy Limited
+Liability Company dated 1 October 2010 (“2010 Memorandum”).
+
+°° €-0006 / R-0018, 2010 Memorandum, Clause 1.
+
+101 ©.0015 (Claimants’ T: ion) / R-0019 (( dents’ Translation), dum on the Develop of
+Cooperation in the Electric Power Sector and the Implementation of Previous Agreements between the
+Government of Georgia, JSC “INTER RAO UES”, Georgian Electrosystem LLC and Energotrans dated 31 March
+2011 (“2011 Memorandum”); Claimants’ Reply, {{] 32-33; Respondents’ Rejoinder, 4] 18; Counter-Memorial,
+9] 78-94.
+
+ 
+
+40
+
+Page 41
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Telasi’s Tariffs
+
+_
+
+N
+_
+
+&
+
+Page 42
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+B
+hs)
+
+Page 43
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+131. The 2011 Memorandum also recorded that the Parties had agreed that a company of the
+Inter RAO group would purchase 100% of the two Khrami Companies for the price of
+HB pursuant to the Khrami SPA to be agreed between the Parties. The Memorandum also
+
+recorded the Parties’ agreement that in order to ensure the return on investment for the purchase
+
+Page 44
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+of the Khrami Companies, tariffs chargeable by those Companies would be increased commencing
+
+in 2014, 1°
+The 2011 Memorandum fixed Telasi’s Distribution Tariffs at 7.89 tetri/ kwh
+
+132.
+
+ 
+
+ 
+
+44
+
+ 
+
+Page 45
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+
+Partial Award 19 April 2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+B
+an
+
+Page 46
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+Page 47
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+2) The Khrami Companies
+
+136. Clauses | of the 2011 Memorandum set long-term tariffs and adjustment
+mechanisms for the Khrami Companies, whose purchase by Gardabani the Parties had negotiated
+
+as part of an overall agreement, as follows:!!*
+
+Tariff in tetri/KWh
+
+ 
+
+ 
+
+ 
+
+. from January 01,
+until December 31, from January 01, from January 01, sj EB
+2013 2014 to December 31,]2019 to December 31,| ~ "31 3995
+s as ie : Foti Sth: ried 31, 2025
+(inclusively) 2018 (inclusively) | 2021 (inclusively) (inclusively)
+Khrami HPP-1 7
+2 2 2
+Isc 23 8.2 17 23)
+Khrami HPP-2
+JSC 3.5 9.4 89 3)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+137. These tariffs were to apply from the date of signature of the 2011 Memorandum until 31
+
+December 205,
+Po The Khrami Companies’ tariffs would remain
+
+unchanged until the end of 2013, increase from 2014-2021, and then return to their pre-2011
+Memorandum levels from 2022-2025.
+
+‘4 C-0015 / R-0019, 2011 Memorandum
+
+ 
+
+47
+
+Page 48
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+138. |The Memorandum also provided for the adjustment of tariffs for currency fluctuation. With
+respect to Khrami-2’s tariffs, a fall in the value of the GEL against the JPY by more than 7% per
+year in comparison with the exchange rate as at 1 April 2009 would trigger an increase in the
+portion of the tariff allocated to service the loan.''® This provision was necessary because of the
+Khrami-2 JPY-denominated loan, which was paid out of Khrami-2’s GEL-denominated
+revenues.!!’ With respect to both Khrami Companies’ tariffs, a fall in the value of the GEL against
+
+the USD by more than 7% per year in comparison with the rate as at 12 April 2011 would trigger
+
+139. The relevant provisions provided as follows: !?°
+
+2.5 Adjustment of Tariffs of Khrami HPP-1 JSC and Khrami HPP-2 JSC
+
+2.5.1 To ensure guaranteed debt servicing under the agreement between
+the Ministry of Finance of Georgia and Khrami HPP-2 JSC of 10.12.2008
+“On Repayment to the State of the Amounts Disbursed for Rehabilitation
+of Khrami HPP-2 JSC from the Credit Granted by the Japan International
+Cooperation Agency”, the Parties have agreed to adjust the maximum
+level of the tariff of Khrami HPP-2 JSC on an annual basis in case the
+change in the lari to Japanese yen exchange rate makes more than 7
+(seven) % p.a. as compared to the exchange rate existing at the moment of
+setting such tariff by the Resolution of the GNERC No. 4 dated April 1,
+2009. The adjustment shall be applied only to the part of the tariff which
+is allocated for the service of the mentioned debt.
+
+2.5.2 In order to ensure a guaranteed return on Investment for the
+acquisition of Khrami HPP-1 JSC and Khrami HPP-2 JSC, the Parties
+have agreed to adjust the maximum level of the tariffs of Khrami HPP-1
+JSC and Khrami HPP-2 JSC in case the change in the lari to US dollar
+exchange rate amounts to more than 7 (seven) % as compared to the
+exchange rate existing as of the date of SPA in respect to Khrami HPP-1
+
+16 C-0015 / R-0019, 2011 Memorandum, Clause 2.5.1.
+C-0015 / R-0019, 2011 Memorandum, Clause 2.5; C-0016, Khrami SPA, Annex 1, Clause 2.1.
+
+ 
+
+C-0014/ R-0019, 2011 Memorandum, Clause 2.5.2.
+Claimants’ Memorial, § 52(b).
+120.0015 / R-0019, 2011 Memorandum, Clauses 2.5.1-2.5.3.
+
+48
+
+Page 49
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+JSC and Khrami HPP-2 JSC. The adjustment shall be made once in three
+years and four times in total, subject to Clause 2.5.1:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Period Duration | Adjustment date
+1 Date of the Final Payment - September November 1, 2013
+01, 2013 |
+2 September 01, 2013 - September 01, 2016 November 01, 2016
+3 ber 01, 2016 — September 01, 2019 November 01, 2019
+4 September 01, 2019 - September 01, 2 November 01, 2022
+
+ 
+
+ 
+
+2.5.3 The adjustment for the entire amount of change in any of the factors
+specified in Clauses 2.5.1 and 2.5.2.
+
+I. THE KHRAMI SPA
+140. On 11 April 2011, the Government issued a decree which pre-approved the sale and
+
+purchase agreement Gardabani would then enter into on 12 April 2011 with the Government, the
+
+Ministry of Economy, and the State Service Bureau, for 100% of the shares of the Khrami
+
+121 Decree of the Government of Georgia No. 750, 11 April 2011, R-0062; C-0016, Khrami SPA.
+
+ 
+
+49
+
+141. The Khrami SPA also provi
+
+ 
+
+Page 51
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+5
+N
+
+Ta
+
+Sl
+
+Page 52
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+J. IMPLEMENTATION OF TELASI AND THE KHRAMI COMPANIES’ TARIFFS UNDER THE 2011
+MEMORANDUM AND THE KHRAMI SPA: NERC RESOLUTION No. 5
+
+143. On7 April 2011, NERC issued a resolution amending Resolution No. 33 which had set
+long-term tariffs and adjustment mechanisms applicable to both Telasi and the Khrami Companies
+(“NERC Resolution No. 5”). NERC Resolution No. 5 set the Khrami Companies’ tariffs as agreed
+in the 2011 Memorandum (and the Khrami SPA) and their adjustment conditions. '*> This occurred
+one week after the 2011 Memorandum was signed on 31 March 2011, and less than a week before
+
+the Khrami SPA was signed.
+
+Po As it had done with the 2007 Memorandum
+
+pursuant to Resolution No. 33, the NERC through its Resolution No. 5 implemented the agreed
+
+tariffs and adjustment mechanisms for the Khrami Companies and Telasi set out in the 2011
+
+124 C.0016, Khrami SPA.
+
+5 CL-0080, NERC Resolution No. 5 on Amendments to NERC Resolution No. 33 dated 4 December 2008, 7 April
+2011 (“NERC Resolution No. 5”). The resolution did not address Telasi’s tariffs as they had been approved in
+NERC Resolution No. 33 dated 4 December 2008 and had not changed.
+
+52
+
+Page 53
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Memorandum and at Annex | of the Khrami SPA. The following table shows the Khrami
+
+Companies’ identical tariff rates under each of the agreements and Resolution No. 5:
+
+126
+
+The Khrami Companies’ tariffs (fixed in 2011)
+
+ 
+
+Until Dec 2013
+
+1 Jan 2014 - 31 Dec 2018
+
+Khrami HPP-1
+1 Jan 2019 ~ 31 Dec 2021
+1 Jan 2022 ~ 31 Dec 2025
+Until Dec 2013
+1 Jan 2014 ~ 31 Dec 2018
+Khrami HPP-2
+
+1 Jan 2019 ~ 31 Dec 2021
+1 Jan 2022 - 31 Dec 2025
+
+K. THE 2011 METHODOLOGY
+
+Generation Tariffs (tetri/kWh)
+
+2011 Memorandum,
+12.4 [C-015]
+
+23
+
+82
+
+TW
+
+23
+
+35
+
+94
+
+89
+
+35
+
+Khrami SPA, Annex #1,
+11.2 [C-016]
+
+23
+
+8.2
+
+77
+
+23
+
+35
+
+94
+
+89
+
+35
+
+Resolution No 5, Art 1
+[CL-080]
+
+23
+
+82
+
+77
+
+23
+
+35,
+
+94
+
+89
+
+35
+
+145. On8 June 2011, two months after the conclusion of the 2011 Memorandum and the Khrami
+
+SPA, the NERC adopted a new generally applicable tariff-setting methodology (the “2011
+
+Methodology”).'2”
+
+146. Like the 1998 Methodology before it, the 2011 Methodology was not relevant for Telasi
+
+and the Khrami Companies because the Parties’ recently agreed tariff scheme in the 2011
+
+Memorandum and the Khrami SPA, implemented by NERC Resolution No. 5 continued to apply.
+
+Article 27 of the 2011 Methodology (entitled “Transitional Provision”) provided as follows:
+
+The conditions defined by this methodology shall not apply to enterprises
+(before the expiration of the period of validity of the tariff), for which long-
+term tariffs were set based on transactions concluded by the state.
+
+126
+
+27-28.
+12
+
+(“2011 Methodology”).
+
+53
+
+Claimants’ Opening Presentation, Claimants’ Demonstrative No. 3; Tr. Day 1 (Claimants’ Opening Statement),
+
+CL-0081, NERC Resolution No. 8 on approval of the Methodology for Setting Electricity Tariffs, 8 June 2011
+
+Page 54
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+147. The Parties agree that Article 27 means that companies, such as Telasi and the Khrami
+Companies, which had reached specific tariff agreements with the Government, such as like the
+2011 Memorandum and Khrami SPA, were excluded from the scope of the 2011 Methodology’s
+
+application.
+
+148. The Parties’ positions differ as to whether the same applied for the 2013 Memorandum,
+discussed below, which was concluded while the 2011 Methodology was still in effect. The
+Claimants say Article 27 of the 2011 Methodology means that the 2013 Memorandum governed
+Telasi’s and the Khrami Companies’ tariffs for the entire duration of those agreements.!8
+According to them, as long as the 2011 Methodology applied, the tariff regimes contained in the
+Khrami SPA and the 2013 (and 2011) Memorandum governed. The Respondents say that going
+forward, the NERC would retain its discretion under Article 11(1) of the Law on Electricity as to
+whether to take into account any further agreements concluded by the Government.'”? According
+to the Respondents, Article 27 of the 2011 Methodology provided a transitional regime for that
+Methodology only.'*° According to them, since the 2013 Memorandum did not pre-exist the 2011
+Methodology, the Claimants could not have expected that the tariffs under the 2013 Memorandum
+would remain exempted from any new tariff Methodology, which the NERC had announced it was
+
+developing in late 2012.'*!
+
+| a
+|
+
+28 Claimants’ Memorial, 490.
+
+129 Respondents’ Counter-Memorial, 4] 94.
+
+130 Respondents’ Counter-Memorial, 4] 94.
+u
+
+See Respondents’ Counter-Memorial, | 159.
+
+54
+
+Page 55
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+i
+
+55
+
+Page 56
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+ 
+
+w
+a
+
+Page 57
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+57
+
+Page 58
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+|
+
+wn
+oo
+
+Page 59
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+f
+
+an
+oO
+
+Page 60
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+60
+
+Page 61
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+ 
+
+Page 62
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+2
+
+A. THE NEGOTIATIONS LEADING UP TO THE CONCLUSION OF THE 2013 MEMORANDUM
+
+62
+
+Page 63
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+a
+Oo
+
+Page 64
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+64
+
+Pai
+Arbitration V2018/039; ICSID Case No. ADM.
+Partial Award 19 April 2021
+
+ 
+
+Pai
+Arbitration V2018/039; ICSID Case No. ADM.
+Partial Award 19 April 2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 67
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+a
+xa
+
+Page 68
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+1) The 2012 Transitional Memorandum
+
+a T—CsCSCSCSCCités
+Pod The Parties negotiated a transitional memorandum.
+
+68
+
+Page 69
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+176. On 26 December 2012, the Parties concluded a transitional memorandum, i
+
+a (3 <2012
+
+178. On 27 December 2012, NERC implemented the tariffs agreed in the 2012 Transitional
+Memorandum through a resolution (“NERC Resolution No. 23”).!”
+
+191
+a
+193 NERC implemented the 2012 Transitional Memorandum through CL-0082, NERC Resolution No. 23 on
+
+Amendments to NERC Resolution No. 33 dated 4 December 2008, 27 December 2012 (“NERC Resolution
+
+No. 23”); Claimants’ Opening Presentation, Demonstrative No. 4; Tr. Day 1 (Claimants’ Opening Statement),
+34:21-24,
+
+2012 Transitional Memorandum, C-0030. Claimants’ Reply, § 48; Respondents’ Counter-Memorial, § 129.
+
+69
+
+Page 70
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+2) The 2013 Memorandum
+
+180. Negotiations resumed in mid-January 2013, with further drafts of the memorandum
+exchanged in the period from January to March. On 31 March 2013, the Government, the
+
+Partnership Fund JSC (Georgian State-owned entity which held Georgia’s 24.5% stake in Telasi),
+
+Inter RAO, Telasi, the Khrami Companies and Mtkvari Energy LLC (owned by Inter RAO)
+
+sets out long-term tariff regimes for Telasi and the Khrami Companies.
+
+ 
+
+Page 71
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+71
+
+Page 72
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+72
+
+Page 73
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+73
+
+ 
+
+Page 74
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+nn
+
+14
+
+Page 75
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+   
+
+ty
+
+Page 76
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+Page 77
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+3) Implementation of the 2013 Memorandum: NERC Resolution No. 3
+
+a
+
+NERC issued a resolution the next day, on 3 April 2013, establishing Telasi’s tariffs until 31
+December 2025, including the reduction for household consumers, at identical rates to those set
+out in the 2013 Memorandum (“NERC Resolution No. 3”).!°” As the Khrami Companies’ tariffs
+specified under the Khrami SPA and the 2011 Memorandum did not change in the 2013
+Memorandum, NERC Resolutions No. 33 of 2008 and No. 5 of 2011 remained in force.
+
+2 ee
+197 CL-0083, NERC Resolution No. 3 on Amendments to NERC Resolution No. 33 dated 4 December 2008, 3 April
+2013 (“NERC Resolution No. 3”); Tr. Day 1 (Claimants’ Opening Statement), 39:19-23.
+
+77
+
+Page 78
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Telasi’s Consumer and Distribution Tariffs
+
+eee
+ee
+a
+
+78
+
+ 
+
+Page 79
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+a
+oS
+
+Page 80
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+
+ey
+So
+
+Page 81
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Page 82
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+82
+
+Page 83
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+10) The Khrami Companies’ Generation Tariffs
+
+_
+=
+
+83
+
+Page 84
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+a
+¢0 |
+
+4,
+
+Page 85
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N. THE 2014 METHODOLOGY FOR SETTING ELECTRICITY TARIFFS
+
+208. By 2012, Georgia’s electricity network had been substantially improved. In parallel with
+the Parties’ negotiations concerning the 2013 Memorandum, the NERC commenced the process
+of updating its tariff regime to bring it in line with the best practices of the EU, pursuant to funding
+provided by the European Commission (“EC”) under the “Twinning Initiative” for inter-EU
+knowledge sharing and administrative reform.”!> The tariff review process included consultations
+between the NERC and electricity companies, including Telasi, and culminated in the adoption of
+anew tariff setting methodology (the “2014 Methodology”) on 30 July 2014.?'° The steps leading
+to the adoption of the 2014 Methodology included the following.
+
+209. On 26 October 2012, it was publicly announced that the Government, the NERC, and
+others would harmonize Georgia’s regulatory framework in line with EU energy legislation,
+217
+
+including a move to an incentive-based electricity tariff methodology.*'’ The Respondents
+
+acknowledge that at this early stage of the process, the outcome of the project was not known, but
+
+ 
+
+Respondents’ Rejoinder, §| 102; Respondents’ Counter-Memorial, | 159; Tr. Day 1
+(Respondents’ Opening Statement), 178-179, 239-240.
+
+216 CL-0084, 2014 Methodology.
+
+ 
+
+85
+
+Page 86
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+that “[t]he idea was to modernise the Georgian regime, and that’s what happened over time with
+
+the adoption of the 2014 [M]ethodology.”?!®
+
+210. It appears that there was some discussion of the Twinning Project and NERC’s plan to
+
+revise its tariff setting methodology during the negotiations of the 2013 Memorandum.’!”
+
+211. On 19 December 2013, the NERC hosted a discussion Re
+I iss upcasing of
+
+the existing tariff methodology and integrating quality supply practices from other energy
+
+regulatory authorities.??°
+
+212. On 17 February 2014, the EC reported on the NERC’s and the Twinning team’s plan to
+issue a new methodology for the calculation of electricity tariffs to bring it in line with EU
+legislation and to create a good climate investments it noted, noting that the calculation method
+being proposed resulted from discussions of the December 2013 roundtable with Georgian market
+
+players.7?!
+
+213. By the end of March 2014, Inter RAO and Telasi received a Russian translation of a draft
+of the 2014 Methodology.”
+
+214. On 14 May 2014, at the Twinning Initiative’s final conference, the NERC
+explained the new tariff methodology was a result of international and EU best practices and stated
+
+that it remained open for public discussion with stakeholders.”
+
+28 Ty, Day 1 (Respondents’ Opening Statement), 178-179, 239-240.
+
+219
+
+20 Summary of Roundtable, 19 December 2013, R-0034, p. 2; EC Press Release, 24 December 2013, R-0035.
+221 EC Press Release — Plans for new calculation of electricity network tariffs for Georgia consumers, 17 February
+2014, R-0036.
+
+* EC Press Releases, 13 May 2014, R-0038,
+14 May 2014, R-0040; Twinning Conference Agenda, R-0039.
+
+86
+
+Page 87
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+215. On15 July 2014, the NERC met with electricity companics, is
+I 21 0c MIE) presented the genera
+
+principles underpinning the 2014 Methodology.
+
+216. Finally, on 30 July 2014, the NERC adopted the 2014 Methodology at a public session
+
+atended by cletcity comes,
+
+217. The 2014 Methodology provides for setting distribution and consumer tariffs yearly, based
+on voltage levels, capital and operational expenses and the WAPT. It applies the “revenue cap”
+method of regulation, in which the regulator calculates allowed revenues for a defined regulatory
+period in order to allow distribution companies to cover reasonable costs associated with their
+distribution activities and earn a reasonable return on their capital investment.?7°
+
+218. The 2014 Methodology sets and adjusts the distribution tariff based on the justified
+“reasonable and fair” distribution costs and then dividing them by the volume of distributed
+electricity. The Distribution Tariff derives from dividing the allowed revenues for distribution
+companies by their forecasted sales according to voltage levels over the required period.?”’ If the
+volume increases, then the Distribution Tariff, and in turn the Consumer Tariff, will decrease; and
+
+vice versa. It treats the cost of electricity as a pass-through cost recovered in full through the
+
+a
+g
+a
+<
+B
+eg
+g
+4
+2
+a.
+Sg
+
+1) The Relevant Provisions of the 2014 Methodology
+
+219. The relevant provisions of the 2014 Methodology provide as follows:
+
+Article 3
+
+24 NERC Hearing No. 30 Minutes, R-0042.
+
+25 CL-0084, 2014 Methodology; NERC Hearing No. 30 Minutes, R-0042, p. 1.
+226 Respondents’ Counter-Memorial, § 175.
+
+27 Moselle I, 4 5.11(b).
+
+87
+
+Page 88
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Main Principles
+
+1. This Methodology and the tariffs set on its bases
+
+a. protect consumers from the monopolistic prices;
+
+b. stimulate utility to increase its efficiency via optimization of its costs
+
+with the requirement not to decrease quality of service standards and
+
+technical conditions of the utility;
+
+c. support the increase of the utility's’ returns by means of increased
+operational and management efficiency;
+
+d. support the stable and reliable functioning of the utility;
+
+e. ensure that tariffs are transparent, stable and fair for the utility;
+
+f reflect the state policy with regard to discount tariffs, provided that none
+of the consumers categories shall receive a discount tariff subsidized by
+licensee, importer, market operator or any other category;
+
+g. reflect different costs between the different consumer categories;
+
+h. cover costs of the utility with funds received from each consumer
+
+category in proportion to costs incurred for servicing this consumer
+category.
+
+220. The 2014 Methodology distinguishes between controllable operational expenses
+
+(“OPEX”) and non-controllable OPEX, and incorporates efficiency incentives for controllable
+
+OPEX:?8
+
+4. For calculation controllable operational costs “incentive regulation”
+principle is used, which implies setting up incentives to optimize utility’s
+costs. Controllable operational costs audit is carried out before regulatory
+period and costs changes are made during tariff regulatory period
+accordingly to this methodology.
+
+Article 4
+
+Tariff regulatory and tariff setting period
+
+28 CL-0084, 2014 Methodology, Arts. 3(4), 4; Respondents’ Counter-Memorial, 4 176: The Respondents say this
+OPEX distinction encouraged distribution companies to reduce their costs so as to increase their profits.
+
+88
+
+Page 89
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+1. Based on this methodology tariff regulation period is determined
+individually for specific utilities.
+
+2. Commission sets tariff regulatory period for each year according to the
+terms and conditions of this methodology.
+
+3. The Commission sets for the whole tariff regulatory period the basic
+components of the Weighted Average Cost of Capital (WACC) and fixed
+rate for the efficiency factor (X-factor).
+
+4. Tariffs are set annually by the Commission during tariff regulatory
+period, and it is valid from I January to 31 December, except for the
+
+circumstances set forth in Paragraph 4 of Article 23 of this Methodology.
+221. Distribution companies’ permitted revenues are calculated as the sum of OPEX, capital
+expenses (“CAPEX”), a normative allowance for electricity losses in the distribution network, and
+a correction factor:?”?
+
+CHAPTER II
+
+CALCULATION OF THE REGULATORY COSTS
+
+Article 5
+Regulatory Cost Base for the Tariff Year
+
+Regulatory Cost Base for the tariff year is calculated according to the
+following formula:
+
+where,
+
+RCBery= CAPEX(+1) tCOPEX(r1)+ 2COPEX (11+ CNL +1)e CORR(+1)(1)
+RCB(t+1)- Regulatory Cost Base for the tariff year (GEL);
+CAPEX(t+1) - Capital Expenses for the tariff year (GEL);
+
+cOPEX(t+1) - Controllable Operational Expenses for the tariff year
+(GEL);
+
+ncOPEX(t+1) - Non-controllable Operational Expenses for the tariff year
+(GEL);
+
+CNL(t+ 1) - Cost of Normative Losses in distribution networks for the
+tariff year (GEL);
+
+22° CL-0084, 2014 Methodology, Art. 5; see e.g., Moselle I, 4] 5.14.
+
+89
+
+Page 90
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+CORR(t+1)- Cost correction factor, which provides the reflection of
+the difference between factual and planned costs of Tariff Year in the
+Regulatory Cost Base of the Tariff Year, and also received income from
+non-operational activity envisaged in the subparagraph “e” of paragraph
+1 of Article 19 of this Methodology, based on the principles defined in this
+Methodology (GEL).
+
+222. The NERC determines CAPEX as the sum of the annual depreciation on fixed assets and
+a return on capital, which is calculated by multiplying the Regulated Asset Base (“RAB”) in GEL
+
+by the rate of return on the RAB using the Weighted Average Cost of Capital (““WACC”)
+
+method:?%°
+
+Article 6
+Capital Expenses
+
+Capital Expenses for the Tariff Year are calculated according to the
+following formula:
+
+where,
+
+CAPEXw1= RABwy* WACC + Dew
+
+where,
+CAPEX(t+1) - Capital Expenses for the tariff year (GEL);
+
+RAB(t+1) - Regulated Assets Base for the tariff year (GEL);
+
+WACC - Rate of return on the RAB for the tariff regulatory
+period (%);
+
+D(tt+1) - Annual depreciation for the tariff year (GEL).
+CHAPTER IIT
+
+TARIFF CALCULATION
+
+DISTRIBUTION, PASS THROUGH AND CONSUMPTION TARIFF
+CALCULATION
+
+Article 15
+
+Electricity Distribution and Pass through Tariffs
+230 CL-0084, 2014 Methodology, Arts. 6, 15.
+
+90
+
+Page 91
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+1. For the distribution licensee, distribution and pass through tariffs are
+set for distribution and pass through activities.
+
+2. Electricity Distribution and Pass through Tariffs are set according to
+the following voltage levels:
+
+a. on 0.2-0.4 kV;
+b. on 3.3-6-10 kV;
+ec. on 35-1110 KV.
+
+3. Electricity distribution tariffs for each voltage level are calculated
+according to the following formula:
+
+RCBieny
+Bivins
+
+ 
+
+Ti disio = *100 (10)
+where,
+Ti Distrib - distribution tariff for i-voltage level (tetri/kWh);
+RCB i(t+1) - Regulated Cost Base of the entity for the tariff year of the
+tariff regulatory period, allocated to i-voltage level according to this
+Methodology (GEL);
+Ei Distrib(t+ 1) - Sum of forecasted amounts of electricity distributed and
+passed through the distribution network for the tariff year according to the
+each i-voltage level (kWh);
+I - Corresponding voltage level of the electricity distribution network.
+4. Pass through tariff equals to the distribution tariff.
+223. The Consumer Tariff paid by end users is calculated as the sum of the WAPT (which covers
+the cost of electricity and related costs) and the Distribution Tariff:?*!
+Article 16
+
+Electricity Consumption Tariff
+
+1. Electricity consumption tariff includes costs related to the electricity
+purchase and distribution.
+
+231 CL-0084, 2014 Methodology, Arts. 16-17, 20, 23-26.
+
+91
+
+Page 92
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+2. Electricity consumption tariff is set for each voltage level of the
+distribution network; it is based on principles of this Methodology and this
+article and is calculated according to the following formula:
+
+Ti Consum(e+)= Pave(er1)+ Ti viserib (e+1X11)
+where,
+
+Ti Consum(t+1) - Electricity consumption tariff for i-voltage level of the
+distribution network for the tariff year (tetri/kWh);
+
+Ti distrib - Electricity distribution tariff for i-voltage level of the
+distribution network for the tariff year (tetri/kWh);
+
+Pave(tt+1) - forecasted weighted average price of the electricity to be
+purchased in the tariff year by distribution licensee, which includes all
+costs of purchasing according to the legislation (tetri/kWh);
+
+i- Corresponding voltage level of the electricity distribution network.
+Article 17
+Amount of Electricity and Weighted Average Price of Purchase
+
+1. While calculating the tariffs the Commission utilizes the actual amounts
+of purchased and distributed electricity during the test year, considering
+the consumption dynamics in the sector and/or the Electricity (Capacity)
+forecasted balance approved for Tariff Year during tariff calculation year.
+
+2. The utility is obliged to submit the possible amount and price of the
+electricity to be purchased from particular sources according to
+paragraph I of this article, for the purpose of determining weighted
+average price of the electricity to be purchased in the tariff year by
+distribution licensee; also other forecasted costs related to electricity
+purchase, such as transmission, dispatch service and purchasing the
+guaranteed capacity. Based on submitted information the Commission sets
+Weighted Average Price for Purchased Electricity by the utility.
+
+3. Based on submitted information the Commission sets Weighted Average
+Price for Purchased Electricity by the utility for tariff year according to
+the following formula:
+
+ 
+
+Paver(t+
+ae E Receiv.(t+1)
+
+Where,
+
+92
+
+COSTE(t+1)+COSTGC(t+1)+COSTT(t+1)+COSTD(t+1)+CORR El.(t+ Dey 00 a 2)
+
+Page 93
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+P aver(t+1) - Weighted Average Price for electricity to be purchased for
+tariff year by the utility (tetri/kWh);
+
+COSTE(t+1) - Total forecasted cost of electricity to be purchased by the
+utility for the tariff year (GEL);
+
+COSTGC(t+1) - Total forecasted cost of guaranteed capacity fee for tariff
+
+year (GEL);
+
+COSTT(t+1) - Total forecasted cost of transmission service provided by
+transmission licensees (GEL);
+
+COSTD(t+1 ) - Total forecasted cost of dispatch service provided by
+dispatch licensee (GEL);
+
+CORR El.(t+1) - Electricity Purchase Correction Factor, which ensures
+the reflection of the difference between planned and actual costs related
+to the Electricity purchase for Tariff Year;
+
+E Receiv. (t+1) - Forecasted amount of electricity received (metered) on
+the delivery points of the utility for the tariff year (kWh).
+
+Article 20
+Correction of Capital Costs
+
+1. If factual value of investment made by the utility differs from the planned
+investment value, then the tariff correction is carried out according to the
+Paragraph 2 of this Article, taking into consideration the principles
+described in the Article 7 of this methodology.
+
+2. Correction of Capital Costs for the difference received from the
+investment amount is calculated according to the following formula:
+
+cCRRABe1) = [((@RABe-1) — pPRABe-») x WACC ¢-»] x (1 + WACC 1) x (1 + WACC .)(14),
+
+Where:
+
+cRRAB(t+1) - Corrected cost or the return for (t+1) period (GEL);
+aRAB(t-1)- Factual cost of RAB for (t-1) period (GEL);
+PRAB(t-1)- Planned cost of RAB for (t-1) period (GEL);
+
+WACC - Rate of time value of money, which is equal to
+WACC (%).
+
+93
+
+Page 94
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+cDe = (Des) — pDe-n) x (1+ WACCe») x (1+ WACC:) (15),
+cD(t+ 1) - Corrected cost of Annual depreciation for t+1)
+period (GEL);
+
+aD(t-1) - Factual cost of Annual depreciation for (t-1)
+period (GEL);
+
+pD(t-L) - Planned cost of Annual depreciation for (t-1)
+period (GEL);
+
+WACC - Rate of time value of money, which is equal to
+WACC (%).
+
+Article 23
+Correction of Weighted Average Price of Electricity Purchase
+
+1. If factual weighted average price of purchased electricity differs from
+the planned price in the tariff year, the Commission shall make correction
+of Electricity Consumption Tariff for the next tariff year by the difference
+of factual and planned price of electricity purchase using the principle of
+the time value of money envisaged in this Methodology.
+
+2. The Correction of Weighted Average Price of Electricity Purchase is
+based on the following factors:
+
+a. amount and cost of purchased electricity;
+
+b. cost of purchased guaranteed capacity, electricity transmission and
+dispatch service.
+
+3. The Correction of Weighted Average Price of Electricity Purchase is
+made in case the change between factual and planned data is not due to
+the utility.
+
+4. The Commission is authorized to make correction of Electricity
+Consumption Tariff which was calculated based on this Methodology and
+set for the Tariff year by Weighted Average Price of Electricity Purchase
+only once in this Tariff Year.
+
+CHAPTER V
+
+TARIFF SETTING AND APPLICATION SUBMISSION
+PROCEDURES
+
+Article 24
+
+94
+
+Page 95
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Accounting and Reporting
+
+1. For regulatory purposes the utility is obligated to carry out its
+accounting and reporting based on the Unified System of Accounts
+(USOA) according to the current legislation.
+
+2. If utility carries out more than one regulated activity as well as non—
+regulated activity, it is obligated to account its revenues, costs and
+financial results separately for each regulated activity.
+
+3. The utility should submit information about fixed assets created from
+customer financial sources separately according to the conditions of this
+Methodology.
+
+Article 25
+
+Required Documents for Tariff Calculation
+
+1. The utility has to submit tariff application to the Commission for the
+purpose of tariff setting for the tariff calculation period.
+
+ 
+
+2. Tariff application and data templ also the list of de ion to
+
+be filled with tariff application is determined according to the individual
+legal-administrative act of the Commission.
+
+ 
+
+3. Together with tariff application the utility must submit the following
+audited documentation complied with IFRS:
+
+a. balance sheet
+b. Profit and Loss Statement
+c. Cash Flow Statement
+
+4. The Commission is authorized to request from the utility other
+additional information which it finds appropriate.
+
+5. The responsibility on the accuracy of the information contained in the
+tariff application lies on the party submitting the application.
+
+Article 26
+Tariff Setting Timeline and Procedures
+
+1. The utility should submit tariff application to the Commission no later
+than 150 days prior to expiry date of the tariff period.
+
+2. The Commission reviews the tariff application for compliance and
+completeness within three days upon submission.
+
+95
+
+Page 96
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+3. If the Commission finds tariff application incomplete or it does not
+correspond with the approved form, it sets the deadline in written form of
+no more than 45 days for amending this. This period shall be extended
+only once at the request of the applicant, for no more than 15 days.
+
+4. If the tariff application is not submitted in time defined in paragraph 3
+of this Article, it remains unconsidered according to the decision of the
+
+issi idered tariff application was submitted due to
+legislation (due to expiration of latory period), ions shall be
+imposed on the company in accordance with the law.
+
+ 
+
+5. The Commission is authorized to make a relevant decision and review
+the utility's tariffs on its own initiative. In this case the provisions of
+submitting necessary information and documentations are determined by
+the decisions by the Commission.
+
+6. Upon acceptance of properly submitted application and in case of
+paragraph 5 of this Article, the Commission starts public administrative
+proceedings and the notice shall be published on the Commission web site.
+
+  
+
+7. Tariff application is reviewed according to public administrative
+proceeding rule under Georgian legislation. Therefore, tariff application
+and enclosed documents (except for Personal information relating to
+identifiable entities, as well as commercially confidential information
+considered by the Commission) are public and shall be available to any
+interested party.
+
+8. All the interested parties are authorized to get familiar with materials
+presented to the Commission and provide their comments.
+
+9. Comments on the tariff application shall be submitted in written form
+and shall include justified arguments. In addition, the interested party is
+entitled not to indicate his identity while submitting own comments. The
+copy of the comments shall be sent to the provider of the tariff application
+and comments shall be discussed on the public hearing of tariff
+application.
+
+10. The Commission is authorized to request additional information or
+different types of conclusions from the utility while reviewing tariff
+application.
+
+11. In the process of reviewing the tariff application before reaching the
+
+final decision, the Commission is authorized to organize meetings and/or
+public hearings for the review of the tariff application.
+
+96
+
+Page 97
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+12. Applicant shall be notified about the time and venue of the public
+hearing seven days in advance.”
+
+ 
+
+224.
+
+FY The Tribunal assesses the Parties’ arguments in this regard under the Merits
+
+section, below.
+
+2
+Pt The following summarises the chronology
+
+of the principal relevant exchanges between Inter RAO and the MOE and NERC during this period.
+
+ 
+
+Page 98
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Page 99
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+©
+oS
+
+Page 100
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+1) The 2015 Tariff Review Process
+
+ 
+
+l
+
+Se
+S
+
+Page 101
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+101
+
+Page 102
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+102
+
+Page 103
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+103
+
+Page 104
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+De on 23 July 2015, Telasi submitted a tariff
+
+application to the NERC for an upward adjustment to its Consumer Tariffs in the format prescribed
+
+by the 2014 Methodology.
+
+Page 105
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+239. The NERC then initiated proceedings to review Telasi’s tariffs, which involved
+consultations and correspondence with interested parties, including Telasi Ml fF
+
+240. On 27 August 2015, the NERC held a public hearing to discuss the approval of Telasi’s
+investment plan for the 2015-2016 energy year in advance of issuing preliminary calculations of
+Telasi’s Consumer and Distribution Tariffs.°° Telasi’s Deputy Commercial Director, |
+i. and another Telasi representatives attended this meeting.” At the meeting the NERC
+discussed Telasi’s investment plan for 2015-2016 submitted with its tariff application and adopted
+certain decisions regarding the adoption of the plan and how investment projects would be handled
+
+in setting Telasi’s tariffs.
+
+2) September 2015 NERC Resolution No. 26: First Application of the 2014
+Methodology to Telasi’s Consumer and Distribution Tariffs
+
+241. On 3 September 2015, the NERC established Telasi’s new Consumer and Distribution
+
+Tariffs pursuant to the 2014 Methodology, Ee (“NERC
+
+Resolution No. 26”).?° The Resolution was issued at a public hearing convened by the NERC, at
+
+NERC Hearing No. 49 Minutes, 27 August 2015, R-0045.
+264 bid., p. 1.
+
+265 CL-0085, NERC Resolution No. 26 on Amendments to NERC Resolution No. 33 dated 4 December 2008,
+3 September 2015 (“NERC Resolution No. 26”); NERC Hearing No. 51 minutes, 3 September 2015, R-0046.
+
+Page 106
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+which its decision and calculations were explained. The hearing was attended by Telasi’s Hi
+
+He several other representatives from Telasi. While f raised some questions
+
+and some disagreements with NERC’s calculations, there is no record that Telasi complain about
+
+the application of the 2014 Methodology.?°°
+
+. as follows:77
+
+ 
+
+242. The new tariffs included a 30% increase to Telasi’s Consumer Tarif
+
+New consumer
+tariffs
+
+——
+
+eee cp Distribution tariff
+11.173 tetris/kWh
+
+WACC
+
+13.54%
+
+243. NERC Resolution No. 26 increased Telasi’s WAPT, while decreasing its Distribution
+
+Tariffs, which resulted in an overall 30% increase in Telasi’s Consumer Tariffs.7°
+
+sis Department: presented the tariff review
+Consumer and Distribution tariffs
+
+Tariffs and Economic Anal:
+calculation of the different cost components of Telas
+
+ 
+
+The Head of NERC’s
+ind of NER‘
+
+    
+
+266 CL-0085, NERC Resolution No. 26; NERC Hearing No. 51 minutes, 3 September 2015, R-0046, pp. 56-60.
+267
+
+Respondents’ Opening Presentation, slide 115; Tr. Day 1, 258-259.
+268 CL-0085, NERC Resolution No. 26;
+
+106
+
+Page 107
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+  
+
+°
+a
+
+Page 108
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+246. NERC Resolution No. 3 also adjusted Telasi’s Consumer Tariffs as follows:
+Article 10. Limiting tariffs for the purchase of electricity by consumers of
+Telasi JSC:
+
+1. Limiting tariffs for the purchase of electricity by consumers of Telasi
+JSC by voltage steps:
+
+a) 220/380 V (non-domestic consumers) - 16.740 tetri/kWh;
+
+b) 3.3-6-10 kV - 12.946 tetri/kWh;
+
+) 35-110 kV - 11.878 tetri/kWh.
+
+2. In order to create additional guarantees for social protection of the
+population and to promote the rational use of electricity for Telasi JSC
+customers, the limiting tariffs for the purchase of electricity with a voltage
+
+of 220/380V by the amount of electricity consumed (domestic consumers
+(population)), shall be as follows (in 30 calendar days):
+
+ 
+ 
+
+a) up to and including 101 kWh - 11.000 tetri/kWh;
+b) 101 to and including 301 kWh - 14.400 tetri/kWh;
+c) over 301 kWh - 18.200 tetri/kWh.”?”
+247. Although the 2014 Methodology initially fixed tariffs for one-year regulatory periods,
+
+Telasi’s tariffs pursuant to the 2014 Methodology and Resolution No. 26 were set for 16 months
+
+(from September 2015 to 31 December 2016), in an attempt to ensure that Telasi would recover
+216
+
+all of its costs, including the cost of purchasing electricity.
+
+ 
+
+108
+
+Page 109
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+250. Telasi did not contest the legal basis of NERC Resolution No. 26 before the Georgian
+
+courts.
+
+S
+oS
+
+Page 110
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+o
+
+Page 111
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+lil
+
+Page 112
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+3) The Adjustment of Telasi’s Distribution Tariffs for GEL Depreciation
+
+I
+
+N
+
+Page 113
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+|
+
+w
+
+Page 114
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+|
+
+5
+
+Page 115
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+a
+Oo
+°
+Ss
+N
+2
+g
+°°
+s
+8
+g
+NY
+So
+an
+4
+e
+5
+Zz
+2
+S
+s
+2
+o
+a
+a
+5
+5
+&
+»
+cs
+2
+=
+S
+8
+°
+°
+B
+2
+2
+3
+z
+>
+>
+3
+NY
+Co
++
+
+a / Z
+a
+>
+
+6
+a
+6
+a
+i
+
+ll
+
+on
+
+Page 116
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+
+71. On 26 December 2016, the NERC set Telasi’s tariffs for 2017 pursuant to the 2014
+Methodology (“NERC Resolution No. 38”).°!°
+
+  
+
+|
+
+Page 117
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+3. Article 10 of the Resolution shall be formulated as follows:
+
+“Article 10. Limiting tariffs for the purchase of electricity by consumers
+of Telasi JSC:
+
+1. Limiting tariffs for the purchase of electricity by consumers of Telasi
+JSC by voltage steps:
+
+a) 220/380 V (non-domestic consumers) - 16.740 tetri/kWh;
+
+b) 3.3-6.10 kV - 12.981 tetri/kWh;
+
+) 35-110 kV - 12.324 tetri/kWh.
+
+2. In order to create additional guarantees for social protection of the
+population and to promote the rational use of electri for Telasi JSC
+customers, the limiting tariffs for the purchase of electi th a voltage
+
+of 220/380V by the amount of electricity consumed (domestic consumers
+(population) shall be as follows (in 30 calendar days):
+
+  
+
+a) up to and including 101 kWh - 11.000 tetri/kWh;
+b) 101 to and including 301 kWh - 14.400 tetri/kWh;
+c) over 301 kWh - 18.200 tetri/kWh.”33
+
+274.  Telasi did not contest the legal basis of NERC Resolution No. 38 before the Georgian
+
+courts.
+
+Ee On 1 March 2017, Telasi notified Georgia of a dispute under the 2013
+
+Memorandum, and reserved its rights to bring claims under the BIT.*'* On 14 April 2017, Silk
+
+Road gave a Notice of Dispute under the BIT and the Energy Charter Treaty to the Government.?!°
+
+4) Telasi’s Tariffs in 2017
+
+276. The tariffs set by NERC Resolution No. 38 under the 2014 Methodology were valid for
+one year. On 4 August 2017, Telasi submitted a tariff application to NERC to set its tariffs for
+
+313 CL-0086, Art. 1.
+
+314 Notice of Dispute from Telasi to Georgia (2013 Memorandum), | March 2017, C-0107.
+
+315 Notice of Dispute under Bilateral Investment Treaty and Energy Charter Treaty, 14 April 2017, C-0115.
+36 Tariff Correction Application from Telasi to NERC, 4 August 2017, C-0129.
+
+117
+
+Page 118
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+277. On 10 August 2017, the NERC amended the 2014 Methodology, effective from 2018 (the
+“2014 Amended Methodology”).*!’ The 2014 Amended Methodology altered the tariff regulation
+period from one to three years and set deadlines for the submission of tariff applications to NERC,
+identified the time frame for when tariff applications should be submitted (from 4 August to 15
+August of the tariff-setting year), and made amendments to the formulas used for defining certain
+
+components that should be taken into account while setting the tariffs.*"*
+
+278. On27 December 2017, NERC held a public hearing, which Telasi’s EE attended,
+and it fixed new tariffs for Telasi in accordance with the 2014 Amended Methodology (“NERC
+Resolution No. 48”).°'? The new tariffs were effective from 1 January 2018 to 1 January 2021.
+
+7 2014 Amended Methodology, 10 August 2017, effective in 2018, CL-0088.
+318 2014 Amended Methodology, CL-0088, Arts. 30-31
+
+319 CL-0091, NERC Resolution No. 48 on Amendments to NERC Resolution No. 33 dated 4 December 2008,
+27 December 2017 (“NERC Resolution No. 48”); NERC Public hearing minutes, 27 December 2017, C-0215.
+
+118
+
+Page 119
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+‘ol Aw. 1309
+
+     
+ 
+
+279. NERC Resolution No. 48 provided the following with respect to Telasi’s Consumer
+
+Tariffs:
+
+Article 1
+
+In order to create additional guarantees for social protection and
+facilitate the rational use of electricity, the maximum rates to be set for the
+use of electricity by Telasi customers at 220/380V for domestic consumers
+(population) (in 30 calendar days) are:
+
+a) up to and including 101kWh - 12.325 tetri/ kWh;
+
+b) 101-301 kWh - 15.725 tetri/ kWh;
+
+c) more than 301 kWh - 19.525 tetri/ kWh?!
+
+280. Telasi did not contest the legal basis of NERC Resolution No. 38 before the Georgian
+
+7
+
+321 CL-0091, NERC Resolution No. 48, Art. 1.
+ee
+
+119
+
+Page 120
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+5 -ADJUSTMENT OF THE KHRAMI COMPANIES’ GENERATION TARIFFS IN 2016
+
+  
+
+120
+
+Page 121
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+286. On 4 August 2016, the Khrami Companies each submitted tariff applications requesting
+
+adjustment of their Generation Tariffs in accordance with the Khrami SPA and NERC Resolution
+
+No. 5.322
+
+ 
+
+Page 122
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+122
+
+Page 123
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+288. Khrami-2’s tariff application provided in relevant part as follows:**+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+123
+
+Page 124
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+7 = =
+
+ 
+
+ 
+
+ 
+
+124
+
+Page 125
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+ 
+
+ 
+
+=
+a
+
+125
+
+Page 126
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+CU
+290. On 9 August 2016, the NERC advised the Khrami Companies that their tariff adjustment
+applications were not in the approved form under the 2014 Methodology, and granted them a brief
+
+336
+
+extension in which to resubmit compliant applications.
+
+ES
+
+Khrami Companies did not file applications compliant with the 2014 Methodology within the five-
+
+day time limit provided.?°7
+
+Claimants’ Memorial, | 137.
+. |
+337 See Claimants’ Memorial, { 138. nn
+
+a
+
+126
+
+   
+ 
+
+Page 127
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+292. Ata public hearing on 6 October 2016, the NERC stated that Khrami-1’s tariff application
+
+did not meet the requirements set out under the 2014 Methodology:
+
+it was not presented in an appropriate (material) format and was not
+signed by company management, which was clearly explained to [Khrami-
+1] in [NERC’s letter] dated 9 August 2016 providing them 5 business days
+for submission of a complete Price in accordance with article
+83 of [GAC]. [Khrami-1] requested additional 15 business days in the
+letter ... of 16 August 2016, and the request was satisfied ([NERC] letter
+to [Khrami-1] dated 18 August 2016). However, [Khrami-1] still failed to
+submit tariff statement in a duly signed format within the set term, thus
+giving rise to the basis for leaving the tariff statement unconsidered.
+
+ 
+
+293. The NERC made a similar decision with respect of Khrami-2’s application.*“° On 11
+October 2016, NERC dismissed the Khrami Companies’ tariff applications due to late submission,
+
+without considering them on the merits.*4!
+
+39 R-0048, NERC Hearing No. 65 Minutes, 6 October 2016, p. 2.
+340-0048, NERC Hearing No. 65 Minutes, 6 October 2016, pp. 2-3.
+Ml NERC’s Tariff Decisions:
+
+ 
+
+127
+
+Page 128
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+296. As the dispute continued unresolved, on 1 March 2017, pursuant to the terms of the Khrami
+SPA, Gardabani notified the Respondents of a dispute regarding Georgia’s compliance with the
+Khrami SPA. It also reserved its rights to bring claims under the BIT.*4* On 14 April 2017,
+Gardabani wrote to the Government to provide a Notice of Dispute under the BIT and the Energy
+
+Charter Treaty.*4°
+
+Q. | THE NERC’s 2017 RESOLUTIONS ON THE KHRAMI COMPANIES’ TARIFFS
+
+4” Notice of Dispute from Gardabani to Georgia, MOE, State Service Bureau (Khrami SPA), 1 March 2017, C-0106.
+
+5 Notice of Dispute from Gardabani to Georgia (BIT and ECT), 14 April 2017, C-0114. On the same date, Silk
+otice of Dispute under the BIT and the Energy Charter Treaty.
+
+  
+ 
+
+ 
+
+See, e.g., Tr. Day | (Claimants’ Opening Statement), 64:14-23.
+
+128
+
+Page 129
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+129
+
+Page 130
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+130
+
+Page 131
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+131
+
+Page 132
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+304. The NERC responded that the applications were not in the prescribed format. Thus, on 16
+June 2017, the NERC gave the Khrami Companies five-days to amend their application.*? On 22
+June 2017, the Khrami Companies submitted compliant applications under the 2014 Methodology
+
+under reserve.
+
+305. On 30 June 2017, the NERC commenced its review of the Khrami Companies’ tariffs.**+
+
+307. On 31 October 2017, the NERC held a public hearing, attended by representatives of the
+
+Khrami Companies, and ultimately voted to increase the Khrami Companies’ Generation Tariffs
+
+ 
+
+132
+
+Page 133
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+by 19% as of | November 2017 (“NERC Resolution No. 30” and “NERC Resolution No. 31”).>*°
+
+w
+
+09. In Resolution Nos. 30 and 31, although the NERC agreed that the Khrami Companies’
+
+Generation Tariffs warranted adjustment in view of the depreciation of the GEL against the USD
+
+and JPY, it disagreed with the Khrami Companies’ calculations.
+
+356 CL-0089, NERC Resolution No. 30 on Amendments to NERC Resolution No. 33 dated 4 December 2008,
+31 October 2017 (“NERC Resolution No. 30”); CL-0090, NERC Resolution No. 31 on Amendments to NERC
+Resolution No. 33 dated 4 December 2008, 31 October 2017 (“NERC Resolution No. 31”).
+
+w
+o
+
+Page 134
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+312. Regarding the GEL/JPY adjustment, the NERC disagreed with the Khrami Companies’
+comparison indicator and, as with the GEL/USD adjustment, decided that the average exchange
+
+rate for the past year should be used to determine the change, not the last day of the past period.*
+
+ 
+
+ript of NERC public hearing regarding the Khrami Companies’ tariff application, 31 October 2017, C-
+
+0214, p. 1; NERC Public Hearing No. 80-2-3, 31 October 2017, R-0052.
+
+ 
+
+134
+
+Page 135
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+313. The NERC also rejected the compensation request for loses from the non-adjustment of
+
+tariffs in 2016, stating that the Khrami Companies had not submitted compliant applications in
+
+363
+
+NERC public hearing transcript re Khrami Companies’ tariff application, 31 October 2017, C-0214, p. 7.
+
+135
+
+Page 136
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+315. The NERC’s rejection of the Khrami Companies’ claims for the non-adjustment of their
+
+tariffs in 2016 echoed the explanation that the NEG gave to Inter RAO and the
+
+Khrami Companies at a public hearing on 31 October 2017, in response in 2016:
+
+The communication between the company and the Commission ended with
+the commission giving additional time to present the additional documents
+— the signatures are meant. The company missed the deadline and hence,
+it is assumed that this one-year period [2016], for which the company is
+asking the remuneration, this is the loss incurred due to their fault and
+therefore, the Commission is entitled, rather, it is obliged not to consider
+this loss. The loss amounts to GEL 14.4 million with respect to the USD
+[rate] and GEL 1.2 million — with respect to the adjustments based on Yen
+[rate]
+
+R. THE CLAIMANTS? INITIATION OF ARBITRATIONS AGAINST GEORGIA
+
+317. On 1 March 2017, Gardabani and Telasi notified Georgia of disputes under the Khrami
+SPA and the 2013 Memorandum and, on 14 April 2017, Gardabani and Silk Road notified Georgia
+
+of a dispute under the BIT. In June and August 2017, the Claimants filed their respective Requests
+
+366 NERC public hearing transcript re Khrami Companies’ tariff application, 31 October 2017, C-0214, p. 7.
+2 ee
+
+136
+
+Page 137
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+for Arbitration before the SCC and ICSID. In the meantime, both Telasi and the Khrami
+
+Companies applied to the NERC for an adjustment to their tariffs, as discussed below.
+Ss. 2017/2018 CHANGES TO LAW ON ELECTRICITY
+
+318. On 30 June 2017, Georgia amended the Law on Electricity applicable to the 35/110 kV
+category to permit customers to purchase energy directly from ESCO/COPS, rather than from a
+distributor, effective 1 May 2018.*° This decreased Telasi’s sales and allocation of energy.
+However, after NERC incorporated the effect of the amended Law on Electricity into its annual
+plan for 2018 and modified Telasi’s tariffs accordingly. On 4 May 2018, the changes were rolled
+back by a subsequent amendment to the Law to require customers in the 35/110 kV category to
+
+continue to purchase their energy from energy distributors.*””
+
+A
+
+THE PARTIES’ SETTLEMENT DISCUSSIONS
+
+we
+©
+
+MY Ultimately, however, the parties failed to reach an agreement. ||
+
+“laimants’ Memorial, {| 147-149.
+
+30 RE Claimants’ Memorial, $9 147-149.
+
+137
+
+Page 138
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+U. Cost OF NEW CONNECTIONS ISSUE
+
+321. The 2013 Memorandum does not mention the cost of new connections. The Claimants’
+claim is that, separate from the 2013 Memorandum, the Government assured Inter RAO and Telasi
+that they would fully recover Telasi’s costs of connecting new customers to the distribution
+network*”*, They say this has not occurred despite the Respondents’ repeated promises. The
+Claimants do not specify an amount of damages for the cost of new connections, but maintain in
+their written submissions that they suffered “loss of several million GEL each year since at least
+
+2013 ... and continues to do so.”375
+
+322. The Claimants summarize the damages claimed in this and the ICSID arbitration as
+
+ 
+
+follows:37°
+
+Claimants’ Memorial 4] 150-154; Claimants’ Reply, {§ 85-90; Tr. Day 1 (Claimants’ Opening Statement) 128-
+129.
+
+Claimants’ Memorial, | 154;
+| Closing Presentation, slide 19. The Respondents rely on the fact that no damages are claimed to say
+
+“laimants have effectively abandoned their new connections claim (Respondents’ Rejoinder, § 203). The
+Claimants neither confirm nor deny this.
+
+ 
+
+    
+
+Page 139
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+323. The Claimants pursue their claim in the ICSID Arbitration on the basis that Georgia’s
+treatment of the cost of new connections was erratic and inconsistent in breach of the duty of fair
+and equitable treatment.*”” However, for the sake of completeness, the Parties’ arguments on this
+
+claim are briefly summarized below.
+
+324. Pursuant to several of the NERC’s Resolutions, since 2008 Telasi has been obliged to
+connect new users to its network at its own expense, rather than users bearing the cost, as they did
+previously.*”* Users pay a fixed amount set by NERC (which has not changed since 2011)
+according to the applicable voltage class and capacity of the connection, and Telasi performs all
+necessary connection works at its own expense. If Telasi does not comply with NERC’s connection
+deadlines, it must pay a penalty. For each new connection, Telasi must obtain a construction permit
+from the Tbilisi town council and approvals from ecological authorities and other city authorities.
+The fast-track construction permit costs GEL 400, and Claimants say they often needed one in
+
+order to meet Georgia’s connection deadlines.
+
+ 
+
+Claimants Rep!
+
+ 
+
+y, 193; Tr. Day 1 (Claimants Opening Statement) 128-129.
+
+ 
+
+398 NERC Resolution No. 21, 18 September 2008, CL-0076; NERC Resolution No. 20, 18 September 2008,
+(consolidating amendments as of 26 September 2012), Art. 26, CL-0077; NERC Resolution No. 6, 19 April 2017,
+CL-0087.
+
+139
+
+Page 140
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Po The Parties’ discussions continued until 2016.
+
+327. Commencing in 2015, the NERC took into account the difference between Telasi’s costs
+and the connection fee paid by a new user as capital expenditures (“CAPEX”) recoverable through
+Telasi’s Distribution Tariffs. However, the Claimants argue that the CAPEX mechanism only
+partly mitigated Telasi’s losses, and that “the net present value of these payments over such a long
+period of time [gradually over 25 years] is insufficient to cover Telasi’s losses.”*** It appears that
+
+full
+
+ 
+
+commencing in 2019 the NERC adjusted new connection fees to require payment of Telasi
+
+385
+
+costs of connection.
+
+1) The Claimants’ Position
+
+328. Claimants argue that the applicable rules and user fees have resulted in Telasi not being
+
+fully compensated since 2013 for the additional cost of connecting new users. fF
+
+4 Claimants’ Memorial, | 155.
+
+85
+
+Tr. Day 1, (Claimants’ Opening Statement) 128-129.
+
+140
+
+Page 141
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+2) The Respondents’ Position
+
+w
+o
+So
+
+The Respondents point out that the Claimants do not dispute that the NERC
+
+SEEEEE
+i
+
+Page 142
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+addressed the new connection fee losses by treating any additional costs in excess of the fixed
+
+connection fee as CAPEX recoverable through Telasi’s Distribution Tariff. FY
+
+331. The Respondents say that the Claimants do not seek damages for the cost of new
+
+connections, and have effectively abandoned their claim.**
+
+Vv. TELASI’S PURCHASE PORTFOLIO VOLATILITY
+
+|
+
+333. Georgian electricity generation companies, Enguri and Vardnili, produce the cheapest
+electricity in Georgia. Up until May 2017, Telasi received Enguri energy approximately in
+proportion to Telasi’s share of the Georgian distribution market, pursuant to long-term supply
+agreements.*°> However, on 25 May 2017, the MOE reduced Telasi’s usual allocation of Enguri
+energy because of a purported imbalance between the costs and revenue of energy generation
+companies in Georgia, which resulted in instability in the electricity system and distribution
+
+companies having difficulty paying taxes.*°°
+
+334. The Claimants claim that in the eight-month period between May-December 2017, the
+allocation of energy purchases by Telasi from Enguri followed an ad hoc pattern that departed
+
+from the planned amounts used to set Telasi’s WAPT. In each of May, June and July 2017, Telasi
+
+32 CL-0084, 2014 Methodology, Art. 20.
+
+395
+
+Telasi has a 35% market share and Energo-Pro holds the remaining 65% (Energo-Pro purchased Kakheti in 2017).
+
+Page 143
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+applied to the ESCO/COPS to approve the amount of Enguri energy forecasted in NERC’s Annual
+Energy Plan, which ESCO/COPS declined, citing technical difficulties in transferring electricity
+to Tbilisi.°°”
+
+335. The Parties agree that the unavailability of Enguri energy caused an increase in the
+purchase cost of electricity on the Georgian market. Telasi sought to cover the shortfall in cheap
+
+Enguri energy with purchases from more expensive electricity sources.
+
+336. On 25 August 2017, the MOE informed Telasi that additional volumes of Enguri and
+Vardnili energy would go to Telasi to cover the shortage in May 2017, and that Energo-Pro and
+Enguri’s energy for August 2017 would be used to ensure an additional 50 million kWh of supply
+
+for Telasi.2°*
+
+337. The Claimants pursue a claim in the ICSID arbitration arising from the volatility resulting
+
+from what they say was an improper decision of the MOE.*”
+
+Ww. DIVERSION OF THE KHRAMI COMPANIES’ ELECTRICITY AND SALES TO THIRD PARTIES
+
+338. In October 2017, the NERC increased the Khrami Companies’ Generation Tariffs by
+19%,4°°
+
+339. In 2018, NERC diverted energy from the Khrami Companies away from Telasi through
+Resolution No. 48, which directed that from May to August 2018 energy from the Khrami
+
+Companies was to be replaced with Enguri energy.*°!
+
+37 Claimants’ Memorial, { 163; iin
+a
+
+400
+
+ 
+
+Respondents’ Rejoinder, § 200.
+401 CL-0091, NERC Resolution No. 48 (new Telasi tariffs based on NERC’s 2018 Annual Energ:
+
+Plan); Claimants’
+
+   
+ 
+
+Memorial,
+
+143
+
+Page 144
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+340. On 25 December 2017, the NERC shared with FY Telasi’s forecasted purchase
+portfolio for 2018-2020, which stated that Telasi would not receive energy from the Khrami
+
+Companies in May-July 2018.4
+
+341. The Khrami Companies found alternative buyers for their electricity for the remainder of
+
+ol
+CCS
+7
+
+342. Telasi purchased energy from another distributor and ESCO/COPS at higher tariffs because
+NERC did not allocate the full amount of Enguri energy to Telasi. ESCO/COPS’s reason for the
+
+343. The Claimants pursue a claim in the ICSID arbitration arising from the NERC’s diversion
+
+of energy produced by the Khrami Companies away from Telasi.*°°
+
+V. OVERVIEW OF THE PARTIES’ CLAIMS AND DEFENSES
+
+344. The Tribunal sets out below a general summary of the Parties’ claims and defences in this
+SCC arbitration. It returns to a more detailed review of the Parties’ respective positions respect of
+
+the relevant issues below.
+
+345. The Claimants are Gardabani, Inter RAO and Telasi. The Respondents are Georgia, the
+MOE and the State Service Bureau Ltd. The arbitration arises pursuant to the arbitration clauses
+contained in the Khrami SPA (Clause 8) and the 2013 Memorandum (Clause 9). Both agreements
+
+are governed by Georgian law.
+
+Email from NERC to Telasi, 25 December, 2017, R-0077.
+
+     
+
+404 Claimants’ Memorial, 170; C-0137 through C-0140.
+2 ee
+
+144
+
+Page 145
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+A. THE CLAIMANTS?’ POSITION
+
+is, the Claimants allege that the Respondents breached
+
+the provisions of the Khai $l
+
+w
+
+49. With respect to Telasi’s claims under the 2013 Memorandum, the Claimants allege that the
+
+Respondents failed to ensure that Telasi’s tariffs were set in accordance with the terms of the 2013
+
+Memorandum,
+
+Page 146
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+146
+
+Page 147
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+zB
+a
+
+Page 148
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+5
+oo
+
+Page 149
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+w
+
+a THE RESPONDENTS’ POSITION
+
+362. The Respondents deny that they have violated any of the obligations under either the
+Khrami SPA or the 2013 Memorandum.
+
+149
+
+Page 150
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+a
+So
+
+Page 151
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+151
+
+Page 152
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+152
+
+Page 153
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+VI. REQUESTED RELIEF
+A. THE CLAIMANTS’ REQUEST FOR RELIEF
+
+1) The SCC Arbitration
+
+374. In this arbitration, the Claimants claim the following relief:
+
+Gardabani asks that this Tribunal:
+
+(a) DECLARE that Georgia, the Ministry of Economy and the State
+Service Bureau have breached their obligations under
+
+the Khrami SPA;
+
+(b) ORDER Georgia, the Ministry of Economy and the State Service
+Bureau to pay full compensation to Gardabani for harm caused
+as a result of their breaches of the Khrami SPA.420
+
+Telasi and Inter RAO ask that this Tribunal:
+
+(a) DECLARE _that_the Government has breached its obligations
+
+   
+    
+
+under ithe 2013 Memorandum;
+(b) DISMISS the Respondents’ counterclaim
+under the 2013
+Memorandum;
+() ORDER the Government to pay full compensation to Telasi and
+
+Inter RAO for harm caused as a result of its breaches of the 2013
+Memorandum.*!
+
+2) The ICSID Arbitration
+
+375. For convenience, the Tribunal also notes here the Claimants’ request for relief in the ICSID
+
+arbitration:
+
+420 Claimants’ Reply, § 267.
+421 Claimants’ Reply, § 268.
+
+153
+
+Page 154
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Gardabani and Silk Road ask that this Tribunal:
+
+(a) DECLARE that Georgia violated Article 3(1) of the BIT by failing
+to accord Gardabani’s and Silk Road’s investments fair and
+equitable treatment and impairing their investments through the
+adoption of unreasonable measures;
+
+(b) DECLARE that by failing to observe its binding commitments with
+
+regard to Gardabani’s and Silk Road’s investments Georgia
+breached Article 3(4) of the BIT;
+
+() DECLARE that it la urisdiction over Georgia’s counterclaim
+
+(ad) DISMISS Georgia’s counterclaim
+
+ 
+
+(e) ORDER Georgia to pay full compensation to Gardabani and Silk
+Road for harm caused to their investments as a result of its
+violations of the BIT.??
+
+376. Under both arbitrations, the Claimants ask that this Tribunal:
+
+ORDER that
+Respondents
+
+(a) the cumulatively payable _by _the
+
+amounts
+
+      
+
+    
+
+       
+
+(b) ORDER the Respondents to pay post-award interest at a
+reasonable commercial rate, compounded quarterly, accruing
+until payment is made in full;
+
+() ORDER the Respondents to indemnify the Claimants for any
+taxation liability that arises in relation to the Tribunal’s award;
+
+(d) ORDER the Respondents to pay the Claimants, jointly and
+severally, all costs and fees of these arbitrations, including the
+administrative fees and costs of the SCC and ICSID Arbitrations,
+the fees and expenses of the Tribunal and the Claimants’ legal and
+other costs in these proceedings; and
+
+422. Claimants’ Reply, § 269.
+
+154
+
+Page 155
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ORDER such further and other relief as counsel may advise and the
+Tribunal deems just.*
+
+B. THE RESPONDENTS’ REQUEST FOR RELIEF
+
+1) The SCC Arbitration
+
+377. In this arbitration, the Respondents request that the Tribunal:
+
+i) deny Gardabani’s claims under the Khrami SPA in their entirety;
+
+ii) deny Telasi’s and Inter RAO’s claims under the 2013 Memorandum in
+their entirety;
+
+iii) declare that Georgia is entitled to
+
+iv) order Telasi and Inter RAO to pay Georgia
+
+ 
+
+v) order Telasi and Inter RAO to pay pre- and post-award interest on all
+amounts due to Georgia under the 2013 Memorandum to be calculated by
+the Tribunal with reference to the cost of debt used by the NERC to
+calculate Telasi’s tariffs for 2017 and 2018;
+
+vi) order the Claimants jointly and severally to pay all costs and expenses
+(including, but not limited to, the fees and expenses of the Tribunal, legal
+fees and expenses, fees and expenses of experts and consultants, and
+expenses of witnesses) incurred by Georgia in connection with the
+preparation for and conduct of this arbitration; and
+
+vii) grant Georgia any such other and further relief as the Tribunal deems
+just and appropriate in the circumstances.**
+
+378. With respect to the ICSID Arbitration, the Respondents request that the Tribunal:
+
+i) deny Gardabani’s and Silk Road’s claims under the Georgia-
+Netherlands BIT in their entirety;
+
+24 Claimants’ Reply, § 270.
+25 Respondents’ Rejoinder, | 480(a).
+
+155
+
+Page 156
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ii) declare that the Tribunal has jurisdiction over Georgia’s counterclaim
+
+iii) declare that Georgia is entitled)
+
+ 
+
+iv) order Telasi and Inter RAO to pay pre- and post-award interest on all
+amounts due to Georgia under the 2013 Memorandum to be calculated by
+the Tribunal with reference to the cost of debt used by the NERC to
+calculate Telasi’s tariffs for 2017 and 2018;
+
+v) order Silk Road and Gardabani jointly and severally to pay all costs
+and expenses (including, but not limited to, the fees and expenses of the
+Tribunal, legal fees and expenses, fees and expenses of experts and
+consultants, and expenses of witnesses) incurred by Georgia in connection
+with the preparation for and conduct of this arbitration; and
+
+grant Georgia any such other and further relief as the Tribunal deems just
+and appropriate in the circumstances.***
+
+VII. MERITS
+A. ARBITRATION AGREEMENTS
+379. The claims in this SCC arbitration are advanced by Gardabani, Inter RAO and Telasi.
+
+380. Gardabani’s claims are brought pursuant to Clause 8 of the Khrami SPA against the
+
+Government of Georgia, the MOE and the State Service Bureau. Clause 8 of the Khrami SPA
+
+provides as follows:
+
+ 
+
+426 Respondents’ Rejoinder, {| 480(b).
+
+156
+
+Page 157
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+381. Inter RAO’s and Telasi’s claim is brought pursuant to Clause 9 of the 2013 Memorandum
+
+which provides as follows:
+
+Page 158
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+B. APPLICABLE LAW: GEORGIAN CONTRACT LAW OR GEORGIAN PUBLIC LAW AND A
+
+BALANCING OF PUBLIC AND PRIVATE INTERESTS?
+
+382. The Khrami SPA and the 2013 Memorandum provide that they are governed by the
+
+substantive law of Georgia.*”
+
+383. The Parties agree that the 2013 Memorandum and the Khrami SPA are governed by
+Georgian law and the contractual interpretation rules in the Georgian Civil Code (“GCC”) as
+interpreted by Georgian Courts.*”
+
+Gcc.*2?
+
+8 The Parties generally agree on the applicable rules in the
+
+384. Article 52 of the Civil Code of Georgia provides as follows:
+
+Article 52. Interpretation of the Declaration of Intent
+
+#7 Khrami SPA; C-0015 / R-0019, 2011 Memorandum, Clause 8.8; C-0034 / R-0028, 2013 Memorandum, Clause
+8.
+
+Claimants’ Memorial, {| 291; Respondents’ Counter-Memorial, §] 243.
+
+Claimants’ Opening Statement, Tr. Day 1, 57-62 and the sources cited there; Respondents’ Opening Statement,
+Tr. Day 1, 187-195 and the sources cited there; Tr. Day 7 (Claimants’ Closing Statement), 34-40 and the sources
+cited there; Tr. Day 7 (Respondents’ Closing Statement), 181-182.
+
+158
+
+Page 159
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+In interpreting the declaration of intent, the intention shall be ascertained
+as a result of reasonable deliberation, and not only from the literal
+meaning of its wording.
+
+385. Article 338 provides as follows:
+
+Article 338. Mutually Exclusive and Ambiguous Expressions in a Contract
+
+In case of mutually exclusive and ambiguous expressions in a contract,
+preference shall be given to the expression which most closely accords
+with the overall content of the contract.
+
+386. The Parties agree that the goal of contractual interpretation is to establish the parties’
+common intention which can be determined from the context in which the agreement was
+concluded, including with regard to the ordinary meaning of the words used in the relevant
+contractual provision, the overall content and context of the contract and the reasonable meaning
+of the Parties’ conduct or words before or after the contract was made. If the common intention of
+the parties cannot be determined, then the meaning of the agreement should be construed by
+ascertaining how the relevant contractual provisions would be understood by a reasonable person
+
+in similar circumstances to the parties.
+
+387. In either case, interpretation of the contract is a textual and contextual exercise which
+involves various elements, including the ordinary meaning of the words in question; the overall
+content of the contract; the aims enshrined in the contract’s other provisions; the facts and
+circumstances in which the contract was made; the reasonable meaning of the parties’ conduct or
+words either before or after entering into the contract; and other agreements the parties may have
+
+concluded.**°
+
+480 Claimants’ Memorial, 9] 172-173.
+
+159
+
+Page 160
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+w
+
+89. The Parties agree that the Khrami SPA and 2013 Memorandum qualify as administrative
+agreements pursuant to the General Administrative Code of Georgia (“GACG”), which states that
+an administrative agreement is a civil law agreement concluded by an administrative body “for
+
+exercising public authority”.+?
+
+1) The Respondents’ Position
+
+160
+
+Page 161
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+l
+
+161
+
+Page 162
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+2) The Claimants’ Position
+
+162
+
+Page 163
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+3) The Tribunal’s Analysis
+
+401. Pursuant to Article 52 of the GCC, the interpretation of a contract is to be performed by
+way of reasonable deliberation, and not only from the literal meaning of the words used by the
+
+Parties in their agreement. In this regard, the Georgian Supreme Court has held as follows:
+
+Article 52 of GCC provides the rule for interpretation of the intent: “In interpreting the
+declaration of intent, the intention shall be ascertained as a result of reasonable deliberation, and
+not only from the literal meaning of its wording". The intent shall be interpreted based on the
+legal-dogmatic methodology (i.e. principles of contractual interpretation). There are “subjective”
+(based on intent) and “objective” (based on expression) theories of interpretation. When a
+subjective approach is applied, the common intent shall be interpreted according to the analysis
+
+  
+
+ 
+    
+
+163
+
+Page 164
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+of the provisions of the contract in each case. The aim is to determine what parties’ actual
+intentions were at the moment in time when the contract was concluded and how to understand
+them when the dispute arises. An objective theory focuses on expression of the will of a party,
+explaining that this is crucial for legal certainty and stability in legal relationships. However, it
+is complicated when parties have agreed on some terms but have attributed different meanings
+to it, or one of them changes its mind later. In cases like this it is impossible to talk about
+“common intent”. The vital criterion in such cases is the meaning that a reasonable person would
+have attributed to the particular statement/expression taking into account the particular and
+important circumstances of the case. The wording “reasonable deliberation” means establishing
+the meaning of a disputed term by the reasonable person under the analogous circumstances.
+The Chamber noted that pursuant to Article 338 of GCC, in case of mutually exclusive and
+ambiguous expressions in a contract, preference shall be given to the expression that most closely
+accords with the overall content of the contract. Therefore, when engaged in interpretation, the
+Court shall give preference to expressions which correspond the most to the content of the
+contract, the purposes enshrined in other provisions of the contract.**!
+
+402. In the Tribunal’s view, this means determining the common intention of the Parties by way
+of a textual and contextual exercise which involves consideration of the ordinary meaning of the
+words used by the Parties as well as the content and purpose of the contract, the circumstances in
+which the contract was made and the reasonable meaning of the Parties’ conduct or words either
+before or after the conclusion of the contract.4? The Respondents agree with this articulation.
+Therefore, the interpretive exercise does not stop with the words of the contract where the ordinary
+meaning is clear, but in addition, includes consideration of the other relevant contextual elements.
+That said, in the Tribunal’s view, the words used by parties to a contract, particularly where they
+
+have negotiated those terms, is usually the best expression of the parties’ common intention.
+
+403. Pursuant to Article 338 of the GCC, in the event of ambiguity arising from the language of
+a provision or from inconsistent or contradictory provisions, preference should be given to the
+interpretation that most closely accords with the overall content of the contract. In the event the
+parties’ common intention cannot be determined using these principles, the meaning of the relevant
+provisions should be determined on the basis of how a reasonable person in similar circumstances
+to the parties would have understood them at the time of the contract. The Parties referred to this
+
+as the reasonability or reasonableness test.
+
+404. With respect to the application of the GACC, as the Parties accept, it does not contain
+
+provisions on the interpretation of public law contracts. Accordingly, it does not directly govern
+
+451 Supreme Court of Georgia Decision, Case No. AS-110-103-2015, CL-97.
+
+452 Claimants’ Memorial, | 173 and the sources cited there.
+
+164
+
+Page 165
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+the interpretation of such contracts. Nevertheless, the GACC sets out a number of principles
+governing the content and validity of public law contracts, including the need to balance the public
+interest represented by the authority concluding the agreement with the interests of the private
+party. In the Tribunal’s view, these principles form part of the nature and purpose of the contract
+and thus form part of its textual and contextual interpretative exercise under the GCC.
+Accordingly, the Tribunal takes into account the fact that the 2013 Memorandum and the Khrami
+SPA are public contracts which are required to balance the public and private interests of the parties
+
+to them in the interpretation of the disputed provisions of those agreements.
+
+a
+
+TELASI’S AND INTER RAO’s CLAIMS UNDER THE 2013 MEMORANDUM
+
+165
+
+Page 166
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+07. The NERC’s 2011 Methodology, adopted shortly after the 2011 Memorandum, expressly
+
+&
+
+excluded its application to companies for which long-term tariffs were set by agreement with the
+
+State. This applied with respect to both Telasi and the Khrami Companies.
+
+166
+
+Page 167
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+_
+
+Overview of the Parties’ Interpretation of the 2013 Memorandum
+
+a. The Claimants’ Position
+
+167
+
+Page 168
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Wl
+
+Page 169
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+169
+
+Page 170
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+170
+
+Page 171
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Page 172
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Nt
+N
+
+Page 173
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+173
+
+Page 174
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+b. The Respondents’ Position
+
+xa
+Bz
+
+Page 175
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+175
+
+Page 176
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+176
+
+Page 177
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+i
+
+177
+
+Page 178
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+178
+
+Page 179
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+a
+oS
+
+Page 180
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ec. The Tribunal’s Analysis
+
+&
+
+44. The Tribunal commences with the interpretation of the key provisions of the 2013
+
+=
+g
+3
+S
+8
+a
+E
+5
+
+180
+
+Page 181
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+181
+
+Page 182
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+182
+
+Page 183
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+b. The Respondents’ Position
+
+183
+
+Page 184
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+i
+
+~~
+&
+
+Page 185
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ec. The Tribunal’s Analysis
+
+B
+
+57. The Tribunal has found the interpretation of the 2013 Memorandum to be difficult and
+
+2
+3
+5
+3
+e
+a
+
+185
+
+Page 186
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+I
+
+ 
+
+186
+
+Page 187
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+|
+
+187
+
+Page 188
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+oo
+oo
+
+Page 189
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+Page 190
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+al Award 19 April 2021
+
+  
+
+190
+
+Page 191
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+191
+
+Page 192
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+192
+
+Page 193
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+193
+
+Page 194
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+Page 195
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+195
+
+Page 196
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+Page 197
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+°
+a
+
+Page 198
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+ 
+
+198
+
+Page 199
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+199
+
+Page 200
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+S
+S
+
+Page 201
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+S
+
+Page 202
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+202
+
+Page 203
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+203
+
+Page 204
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+Ss
+=z
+
+Page 205
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+205
+
+Page 206
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+206
+
+Page 207
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+207
+
+Page 208
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+208
+
+Page 209
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+|
+
+N
+S
+oS
+
+Page 210
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+o
+
+Page 211
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+211
+
+Page 212
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+2
+
+Clause ff
+
+a. The Claimants’ Position
+
+N
+N
+
+Page 213
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+213
+
+Page 214
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+B
+
+Page 215
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+on
+
+Page 216
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+b. The Respondents’ Position
+
+216
+
+Page 217
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+x1
+
+Page 218
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ec. The Tribunal’s Analysis
+
+218
+
+Page 219
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+219
+
+Page 220
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+N
+S
+
+Page 221
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Page 222
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+222
+
+Page 223
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+N
+o
+
+Page 224
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+NS
+awe
+
+Page 225
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+N
+n
+
+Page 226
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+226
+
+Page 227
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+227
+
+Page 228
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+2
+
+a. The Claimants’ Position
+
+N
+iS)
+oo
+
+Page 229
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+b. The Respondents’ Position
+
+N
+N
+©
+
+Page 230
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ec. The Tribunal’s Analysis
+
+N
+o
+So
+
+Page 231
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+o
+
+Page 232
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+1
+
+232
+
+Page 233
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+233
+
+Page 234
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+234
+
+Page 235
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+wo
+a
+
+Page 236
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+|
+
+236
+
+Page 237
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+b. The Respondents’ Position
+
+N
+oO
+x1
+
+Page 238
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+o
+oo
+
+Page 239
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+239
+
+Page 240
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+240
+
+Page 241
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+241
+
+Page 242
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ec. The Tribunal’s Analysis
+
+242
+
+Page 243
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+243
+
+Page 244
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+244
+
+Page 245
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+>
+
+a. The Claimants’ Position
+
+245
+
+Page 246
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+246
+
+Page 247
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+247
+
+Page 248
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+b. The Respondents’ Position
+
+|
+
+bo
+&
+oo
+
+Page 249
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+bo
+&
+©
+
+Page 250
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+|
+
+N
+a
+So
+
+Page 251
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+i
+
+N
+n
+
+Page 252
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ec. The Tribunal’s Analysis
+
+N
+n
+N
+
+Page 253
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Page 254
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+an
+&
+
+Page 255
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+On
+a
+
+Page 256
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+on OeS—C—C:sCC(‘(‘(‘CCOC(#«sz
+D. CONCLUSIONS ON THE INTERPRETATION OF THE RELEVANT CLAUSES OF THE 2013
+MEMORANDUM
+
+647. For the reasons set out above, the Tribunal has reached the following conclusions in respect
+
+of the key provisions of the 2013 Memorandum:
+
+256
+
+Page 257
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+CONCLUSIONS ON LIABILITY WITH RESPECT TO THE CLAIMANTS’ CLAIMS UNDER THE
+
+I
+
+2013 MEMORANDUM
+
+648. The Tribunal now turns to the Claimants’ claims in light of its interpretation of the relevant
+
+clauses set out above.
+
+257
+
+Page 258
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+258
+
+Page 259
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+™
+
+THE RESPONDENTS’ COUNTERCLAIM UNDER THE 2013 MEMORANDUM
+
+N
+a
+oO
+
+Page 260
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+1) The Respondents’ Position
+
+260
+
+Page 261
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+2) The Claimants’ Position
+
+261
+
+Page 262
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+262
+
+Page 263
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+3) The Tribunal’s Analysis
+
+ 
+
+263
+
+Page 264
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+264
+
+Page 265
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+a
+
+7 CONCLUSION ON LIABILITY WITH RESPECT TO THE RESPONDENTS’ COUNTERCLAIM
+
+675. The Respondents are entitled to payment
+
+=
+
+. GARDABANI’S CLAIMS UNDER THE KHRAMI SPA
+
+676. Gardabani claims that by not ensuring that the Khrami Companies’ tariffs were set and
+
+adjusted in accordance with the terms (ii the Khrami SPA ||
+
+the Respondents party to that
+
+Agreement (the Government of Georgia, the MOE and the SSB) breached the Khrami SPA.”°!
+
+265
+
+Page 266
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+266
+
+Page 267
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+1) The Claimants’ Position
+
+267
+
+Page 268
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+il
+
+268
+
+Page 269
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+2) The Respondents’ Position
+
+a
+oo
+©
+
+4
+>
+&
+7
+o
+g
+3g
+3
+3
+a
+&
+3
+a
+g
+<
+>
+eS
+3
+2
+5
+<
+6
+S
+<
+é.
+a
+3
+a
+B
+az
+°
+g
+g.
+§
+So
+s
+&
+eS
+z
+3
+BR
+c
+3
+a
+&
+g
+a
+a
+g
+5
+3
+
+nan
+
+PA.
+
+!
+
+269
+
+Page 270
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+x
+S
+
+Page 271
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+x
+
+Page 272
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+272
+
+Page 273
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+a
+a
+
+Page 274
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+a
+Bz
+
+Page 275
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+a
+On
+
+Page 276
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+3) The Tribunal’s Analysis
+
+ 
+
+276
+
+Page 277
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+277
+
+Page 278
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+l
+
+278
+
+Page 279
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+N
+a
+oS
+
+Page 280
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+280
+
+Page 281
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Page 282
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+x
+
+28. The Tribunal now turns to the interpretation of the adjustment mechanisms in Clauses 2.1
+
+and 2.2 of Annex | to the Khrami SPA and their application.
+
+=
+
+. INTERPRETATION AND APPLICATION OF CLAUSES 2.1 AND 2.2 OF ANNEX 1 TO THE
+KHRAMI SPA
+
+282
+
+Page 283
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+~
+
+30.
+
+4
+>
+3
+9
+S
+ah
+a
+8
+a
+ea
+5
+e
+g
+2
+3
+a
+o
+
+3
+Z
+g
+S
+g
+g
+Q
+5
+2
+a
+6
+wv
+°
+2,
+>
+5
+5
+3
+%
+g
+>
+a
+a
+s
+B
+“a
+9
+>
+B
+a
+
+whether the NERC properly applied its provisions. There are two primary issues.’°°
+
+ii
+
+Ny
+oo
+w
+
+Page 284
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+7
+
+a. The Claimants’ Position
+
+284
+
+Page 285
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Ny
+oo
+on
+
+Page 286
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Il
+
+286
+
+Page 287
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+287
+
+Page 288
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Ny
+oo
+oo
+
+Page 289
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+b. The Respondents’ Position
+
+ 
+
+289
+
+Page 290
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+290
+
+Page 291
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+1
+
+Page 292
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ec. The Tribunal’s Analysis
+
+292
+
+Page 293
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+293
+
+Page 294
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+294
+
+Page 295
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
++ |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+295
+
+Page 296
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+a. The Claimants’ Position
+
+296
+
+Page 297
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+Page 298
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+b. The Respondents’ Position
+
+nN
+So
+oy
+
+Page 299
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+nN
+Oo
+oS
+
+Page 300
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+ec. The Tribunal’s Analysis
+
+w
+S
+S
+
+Page 301
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+301
+
+Page 302
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+302
+
+Page 303
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+303
+
+Page 304
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+
+Partial Award 19 April 2021
+ee
+ee
+
+=
+
+CONCLUSIONS ON LIABILITY WITH RESPECT TO THE CLAIMS UNDER THE KHRAMI SPA
+
+794. For the foregoing reasons, the Tribunal has reached the following conclusions regarding
+
+the Claimants’ claims under the Khrami SPA:
+
+2
+
+db. The Government, the MOE and the SSB have breached their obligations under
+
+Po the Khrami SPA in the following
+
+manner:
+
+800 JER, Issue 2, pp. 4-5.
+81.0122, Khrami-2 2017 Application.
+
+304
+
+VII.
+
+795.
+
+Page 305
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+CONCLUSIONS AND ORDER
+For the reasons set out above, the Tribunal:
+
+a) declares that the Government, the MOE and the SSB have breached their obligations
+
+under|
+
+the Khrami SPA and must compensate
+
+Gardabani for the loss suffered by it;
+
+b) declares that the Government has breached its obligation unde the 2013
+Memorandum and must pay compensation to Telasi and Inter RAO for the loss suffered
+
+by them;
+
+305
+
+Page 306
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Partial Award 19 April 2021
+
+c) declares that the Government is entitled i _ _ _ _ under the
+
+2013 Memorandum;
+
+d) defers the quantification of the Claimants’ claims and the Respondents’ counterclaim
+
+to the Final Award;
+
+e) defers the Parties’ claims for interest and costs to the Final Award.
+
+306
+
+Place of Arbitration: Stockholm, Sweden
+
+SAL ‘sam
+
+Professor Stanimir Alexandrov Date
+Arbitrator
+Professor Zachary Douglas QC Date
+Arbitrator
+
+Subject to the attached partial dissenting opinion
+
+Mr. Henri Alvarez QC Date
+President
+
+Place of Arbitration: Stockholm, Sweden
+
+Professor Stanimir Alexandrov Date
+Arbitrator
+
+Cee to 19 APR 2021
+
+Professor Zachary Douglas QC Date
+Arbitrator
+Subject to the attached partial dissenting opinion
+
+Mr. Henri Alvarez QC Date
+President
+
+308
+
+Place of Arbitration: Stockholm, Sweden
+
+Professor Stanimir Alexandrov Date
+Arbitrator
+
+Professor Zachary Douglas QC Date
+Arbitrator
+Subject to the attached partial dissenting opinion
+
+  
+
+19 APR 2021
+
+Mr. Henri Alvarez
+President
+
+Date
+
+ 
+ 
+
+309
+
+>
+
+PARTIAL DISSENTING OPINION
+
+Professor Zachary Douglas QC
+
+INTRODUCTION
+
+This case has generated a host of fiendishly complex issues of contractual interpretation. This
+is due, in no small measure, to the unfortunate lack of clarity and precision that the parties
+applied to the drafting of their contracts. Among the large number of issues that have been
+
+decided in the Partial Award, there is happily only one that has divided the Tribunal, ||
+
+The decision to commit to a dissenting opinion is rarely an easy one and it is made particularly
+acute in this case by the very high esteem in which I hold my colleagues on the Tribunal. That
+esteem has only been reinforced by the care and patience with which they have considered my
+
+views on the issue that divides us throughout our long and intense deliberation process.
+
+Despite addressing a single issue, this dissenting opinion is necessarily long because the key to
+unlocking the meaning of the text iii the 2013 Memorandum is the context both
+for that specific clause and the agreement as a whole. I have attempted to address this issue in
+
+a systematic fashion and hence my opinion is structured to deal with the following points:
+3.1. Applicable rules of interpretation under Georgian law;
+3.2. Background to the 2011 Memorandum;
+
+3.3. Interpretation of the 2013 Memorandum: (1) evidence of the parties’ intent during the
+negotiations leading to the 2013 Memorandum; (2) evidence of the parties’ intent from a
+comparison of the texts of the 2011 Memorandum and the 2013 Memorandum; (3) the
+relevance fii” as evidence of the parties’ intent; (4) the balance of interests
+
+under the 2013 Memorandum;
+
+Io
+
+3.4. The majority’s reasons for their interpretation the 2013 Memorandum;
+
+=
+
+3.6. Conclusion.
+
+APPLICABLE RULES OF INTERPRETATION UNDER GEORGIAN LAW
+
+The Claimants’ have cited the Georgian Supreme Court’s Decision in Case No AS-110-103-
+2015 as the leading statement on the applicable principles of interpretation. In that case, the
+
+Supreme Court endorsed the following passage from the Court of Appeal’s decision:
+
+Article 52 of GCC provides the rule for interpretation of the intent: “In
+interpreting the declaration of intent, the intention shall be ascertained as a
+result of reasonable deliberation, and not only from the literal meaning of its
+wording”. The intent shall be interpreted based on the legal-dogmatic
+methodology (i.e. principles of contractual interpretation). There are
+“subjective” (based on intent) and “objective” (based on expression) theories
+of interpretation. When a subjective approach is applied, the common intent
+shall be interpreted according to the analysis of the provisions of the contract
+in each case. The aim is to determine what parties’ actual intentions were at
+the moment in time when the contract was concluded and how to understand
+
+ 
+
+them when the dispute arises. An objective theory focuses on expression of
+the will of a party, explaining that this is crucial for legal certainty and stability
+
+ 
+
+in legal relationships. However, it is complicated when parties have agreed on
+some terms but have attributed different meanings to it, or one of them
+changes its mind later. In cases like this it is impossible to talk about
+“common intent”. The vital criterion in such cases is the meaning that a
+reasonable person would have attributed to the _ particular
+statement/expression taking into account the particular and important
+circumstances of the case. The wording “reasonable deliberation” means
+establishing the meaning of a disputed term by the reasonable person under
+the analogous circumstances.
+
+ 
+
+The Chamber noted that pursuant to Article 338 of GCC, in case of mutually
+exclusive and ambiguous expressions in a contract, preference shall be given
+to the expression that most closely accords with the overall content of the
+contract. Therefore, when engaged in interpretation, the Court shall give
+preference to expressions which correspond the most to the content of the
+contract, the purposes enshrined in other provisions of the contract.’
+
+CL-97.
+
+la
+
+In addition, it was common ground between the parties that the 2013 Memorandum is a public
+
+ 
+
+ 
+
+law contract as defined by Article 2(1)(g) of the General Administrative Code of Georgia:* it
+was concluded by a public entity (the Government of Georgia); its object is to fulfill a public
+purpose (the determination of electricity tariffs for end consumers as well as for the Khrami
+
+Companies and Telasi); and, it was approved by a Government Resolution.’
+
+Although different views were expressed about the relevance of public law principles to the
+interpretation of the 2013 Memorandum, the Tribunal has found that it is obliged to take into
+account that it is a public law contract and thus needs to balance the public and private interests
+
+of the parties.*
+
+BACKGROUND TO THE 2011 MEMORANDUM
+
+Inter RAO acquired Telasi in 2003.° In the initial period after its investment, the Telasi SPA of
+1998° applied and set the Distribution hifi i I DT  _
+ee
+ee
+ee
+ee
+
+The parties signed the 2007 Memorandum in June 2007. Po
+ee
+
+Claimants’ Reply, §96; Respondents’ Counter-Memorial, §244.
+R-27. See First Legal Opinion of Turava, §14.
+
+Partial Award, §§404, 510.
+
+C3
+
+ 
+
+
+Io
+
+D1
+
+INTERPRETATION OF THE 2013 MEMORANDUM
+
+ 
+
+Evidence of the parties’ intent during the negotiations leading to the 2013
+
+=
+oO
+3
+8
+g
+e
+3
+=
+|
+
+ 
+
+ 
+
+
+
+ 
+
+IL
+
+ 
+
+10
+
+ 
+
+D2
+
+>
+
+og
+
+a
+<
+a
+o
+3
+Q
+o
+°
+2
+&
+a
+3
+a
+a.
+&
+5
+o
+a
+>
+8
+3
+2
+Q
+8
+3
+3
+B.
+a
+°
+5
+°
+2
+&
+6
+8
+4
+&
+°
+2
+&
+a
+y
+So
+Ss
+5
+
+so
+
+<
+oO
+3
+8
+8
+2S
+5
+a
+5
+pS
+5
+a
+&
+8
+iS
+—
+=
+Ow
+<x
+5
+3
+8
+8
+2p
+5
+a
+&
+5
+
+
+
+ 
+
+ 
+
+ 
+
+ali
+
+
+D3
+
+4
+>
+oO
+°
+oe
+oO
+<
+:
+3
+a
+oO
+°
+&
+
+| as evidence of the parties’ intent
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+D4
+
+The balance of interests under the 2013 Memorandum
+
+ 
+
+
+ 
+
+ 
+
+26
+
+
+
+
+
+It
+
+THE MAJORITY’S REASONS FOR THEIR INTERPRETATION 3
+THE 2013 MEMORANDUM
+
+g
+
+108. The majority’s reasoning for upholding the Claimants’ interpretation is set out in paragraphs
+503-515 and 526-534 of the Partial Award. With the greatest respect to my colleagues, it is not
+possible to ascertain from a review of this reasoning how they have weighed the evidence that
+I have set out above that is relevant to the interpretative exercise. It is accepted that this
+evidence is relevant and indeed it is reproduced in great detail in the summaries of the patties’
+
+positions in the Partial Award.
+
+109. For instance, the majority’s reasoning begins with the following statement at paragraph 503:
+
+110. The various elements in this statement, however, are not analysed by reference to the evidence,
+
+Se
+a:
+
+is certainly an important factor to take into account but one that cannot possibly be conclusive
+for the reasons I have set out above. Notably absent from this statement is an analysis of the
+
+es of their
+
+ 
+
+critical documents exchanged between the parties setting out the fundamental premi:
+
+new agreement as well as Inter RAO’s internal presentations.
+
+8
+
+
+ 
+
+[
+| I .
+
+la
+
+124,
+
+CONCLUSION
+
+It cannot be said that the text iim the 2013 Memorandum unequivocally supports
+either party’s position: there is no doubt that it could have been drafted differently,
+
+125.
+
+end of the day, the various inputs for the interpretative process that can be derived from the
+
+record of this arbitration stack up almost entirely in favour of the Respondent’s position.
+
+is: the Claimants have the
+
+   
+
+This is the essence of my disagreement with the majority’s analy
+
+burden of persuasion in respect of their own interpretation re
+
+not satisfied merely by demonstrating that the Respondent’s rival interpretation is not
+
+and that burden is
+
+ 
+
+completely watertight. It cannot be a matter of defaulting to the Claimants’ position in case of
+doubt; there must be positive reasons to justify upholding that position. And yet there is no
+contemporaneous evidence during the negotiation process supporting the Claimants’
+
+interpretation but there are numerous elements from Inter RAO’s own documents that support
+
+ 
+
+the Respondent’s position. An analysis of the difference in the wording between the 2011
+
+Memorandum and the 2013 Memorandum
+
+also supports the Respondent’s position, as does the existence of i
+
+ 
+
+s evidence of the
+
+ 
+
+parties’ intention. Finally, the Respondent’s position is more consistent with the idea of a fair
+
+balance of the public and private interests under the 2013 Memorandum. There is nothing that
+
+ 
+
+can be mobilized in favour of the Claimants’ interpretation that might serve to counteract the
+
+weight that must be accorded to these various elements.
+
+Place of Arbitration: Stockholm, Sweden
+
+ 
+
+19 APR 2071
+Professor Zachary Douglas QC Date
+Arbitrator
+

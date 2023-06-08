@@ -1,0 +1,745 @@
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 1 of 22
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ 
+
+MESA POWER GROUP, LLC,
+Petitioner,
+v. Civil Action No. 16-1101 (JDB)
+GOVERNMENT OF CANADA,
+Respondent.
+MEMORANDUM OPINION
+
+This is a dispute over enforcement of an arbitration award. Mesa Power Group, LLC
+(“Mesa”), an energy company, believes that the government of Canada violated the North
+American Free Trade Agreement in how it awarded various renewable energy contracts in Ontario.
+An arbitration panel disagreed. Mesa now petitions this Court to vacate that award; Canada
+counter-petitions for enforcement of the award. Given a federal court’s narrow power to review
+the substance of arbitration awards, the Court will deny Mesa’s petition to vacate and grant
+Canada’s counter-petition to enforce the award. Canada also argues that Mesa’s petition is
+frivolous and in bad faith, and therefore requests that this Court award it attorney’s fees. The Court
+will deny that request.
+
+BACKGROUND
+
+In 2009, the government of the Canadian province of Ontario launched a program designed
+to encourage renewable energy, known as the Feed-in-Tariff (FIT) program. Mesa Power Grp.
+LLC v. Gov’t of Canada, Case No. 2012-17, Final Award, {| 13 (Perm. Ct. Arb., March 24, 2016),
+Ex. | to Resp.’s Br. [ECF No. 22-2] (hereinafter “Award’’). Mesa is an energy company that made
+
+significant investment in the production of renewable energy in the region with the hope of being
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 2 of 22
+
+awarded a contract through the FIT program. Pet.’s Br. [ECF No. 1-1] at 5. After Ontario
+announced the FIT program, it entered into a separate contract, outside of the FIT program, to
+provide renewable energy to the same electrical grid. Award {{[ 38-39. This contract, the Green
+Energy Investment Agreement (GEIA) was with two Korean companies known as the Korean
+Consortium. Id.
+
+Mesa believes that when Ontario announced the FIT program, it pledged to award all of
+the electric grid capacity through FIT, and that Ontario’s decision to enter the GEIA reneged on
+this pledge. Pet.’s Br. at 5-6. Mesa also believes that the GEIA contained fewer requirements of
+investors than the FIT program did. Id. Mesa contends that these unfair practices amount to a
+violation of NAFTA, which, broadly speaking, requires signatory nations to treat investors fairly.
+Id. at 6-9.
+
+Mesa asserted these claims through arbitration, as provided for in NAFTA Article 1116, in
+October of 2011. Award {| 207; North American Free Trade Agreement, Can.-Mex.-U.S., art.
+1116, Dec. 17, 1992, 32 LL.M. 605, 640 (1993) (“NAFTA”). Specifically, Mesa argued that
+Canada violated several articles of NAFTA Chapter 11. See Award { 208. First and foremost,
+Mesa claimed that Canada violated Article 1105(1)’s requirement that signatory nations treat
+investors from another signatory nation “in accordance with international law, including fair and
+equitable treatment.” NAFTA Art. 1105(1); Award { 208. Mesa also claimed that Canada
+improperly imposed domestic content requirements in violation of Article 1106, and that Canada
+treated other investors more favorably in violation of Articles 1102 and 1103. Award {[ 208.
+
+NAFTA provides that arbitration proceedings are governed by NAFTA itself and the 1976
+tules of the United Nations Commission on International Trade Law (UNCITRAL Rules). See
+
+NAFTA Art. 1120(2). A tribunal of three arbitrators was duly constituted pursuant to these rules.
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 3 of 22
+
+It reviewed extensive briefing, received factual and expert evidence, and held an oral hearing on
+October 26-31, 2014. Award {| 43-180 (evidence), { 181 (oral hearing). The tribunal also
+received post-hearing briefs, id. | 186, and briefs from the governments of the United States and
+Mexico, id. {| 192-204.
+
+On March 24, 2016, the tribunal issued its award. It determined that the FIT program was
+“procurement” by a government (namely, Canada) as defined by Article 1108, and therefore the
+requirements of Articles 1102, 1103, and 1106 did not apply. Id. J 465 (“The Tribunal holds that
+the FIT program constitutes procurement by the Government of Ontario . . . .”); see_also id. {J
+403-466 (providing analysis); {| 335 (regarding Mesa’s claim under Article 1106). The tribunal
+therefore did not consider Mesa’s claims under those articles. It did consider Mesa’s Article 1105
+claim, however, and ultimately determined that Canada did not violate that provision. Id. { 682.
+It also determined that Canada did not enter into the GEIA agreement in secret, or after promising
+to award all of the grid capacity through FIT. Id. { 582. The tribunal in fact found that Mesa was
+aware that the Korean Consortium had the right to reserve a certain amount of the grid capacity
+before Mesa made any investments in the region. Id. The tribunal, after finding for Canada on all
+claims, awarded the costs and fees of arbitration to Canada. Specifically, it ordered payment of
+CAD 1,116,000 for the cost of arbitration, and CAD 1,832,701, representing 30% of Canada’s
+costs of engaging in arbitration. Id. J 706.
+
+One arbitrator, Judge Charles N. Brower, concurred in part and dissented in part. Award
+(Brower, J., concurring in part and dissenting in part), Ex. 2 to Pet.’s Br. [ECF No. 1-3]. With
+respect to Article 1105, he agreed that the tribunal stated the proper standard, but would have
+applied it differently. Id. 3. Specifically, he would have found that Canada violated Article 1105
+
+by treating the Korean Consortium more favorably than the applicants to the FIT program, and by
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 4 of 22
+
+awarding some of the grid capacity through GEIA rather than the FIT program. Id. {{] 4-24. In
+particular, Brower would have held that Canada’s decision-making regarding the Korean
+Consortium crossed over from the realm of reasonable policy choices into unfair treatment in
+violation of Article 1105. Id. { 17. Brower also would have held that the FIT program is not
+“procurement” as defined by Article 1108. Id. {| 25-34.
+
+Mesa now asks this court to vacate the award pursuant to § 10 of the Federal Arbitration
+Act (FAA), 9 U.S.C. § 10. Specifically, Mesa contends that vacatur is proper because the
+arbitrators “exceeded their powers” as defined by § 10(a)(4) and were “guilty of misconduct . . .
+or... misbehavior by which the rights of [Mesa were] prejudiced” as defined by § 10(a)(3). It
+also argues that the tribunal acted “in manifest disregard of the law,” which the D.C. Circuit has
+recognized as a valid ground for vacating an arbitral award. See LaPrade v. Kidder, Peabody &
+
+Co., Inc., 246 F.3d 702, 706 (D.C. Cir. 2001) (internal quotation marks omitted). Mesa identifies
+
+ 
+
+two of the tribunal’s actions that it believes violate these provisions. First, Mesa asserts that the
+tribunal’s interpretation of the term “procurement” in Article 1108 was such a departure from the
+text of NAFTA that it justifies vacatur. Second, Mesa contends that the tribunal improperly
+granted “deference” to Canada’s decision-making regarding the FIT program and entering the
+GEIA contract such that the proceedings were inappropriately biased, justifying vacatur.
+
+The Court reviewed full briefing from the parties and held an oral argument on June 1,
+2017.
+
+CHOICE OF LAW
+
+There is a preliminary issue regarding the controlling choice of law. Canada asserts that
+
+the precedent of the Eleventh Circuit, rather than the D.C. Circuit, controls, because the seat of
+
+this arbitration was Miami, Florida. If Eleventh Circuit decisions control, then the legal standard
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 5 of 22
+
+is much more favorable to Canada: under Eleventh Circuit precedent the grounds for vacating an
+award enumerated in § 10 of the FAA are not applicable to a foreign arbitral award (like this one),
+nor is the additional grounds of “manifest disregard of the law” available. See Resp.’s Br. [ECF
+No. 22] at 14-15 (citing Indus. Risk Ins. v. M.A.N. Gutehoffnungshutte GmbH, 141 F.3d 1434
+(11th Cir. 1998)).
+
+Canada’s argument relies on Article V(1)(e) of the New York Convention on the
+Recognition and Enforcement of Foreign Arbitral Awards, which, as the name suggests, governs
+enforcement of arbitral awards issued in foreign proceedings, and is incorporated in the Federal
+Arbitration Act. See Convention on the Recognition and Enforcement of Foreign Arbitral Awards,
+June 10, 1958 (“Convention”), 21 U.S.T. 2517, codified at 9 U.S.C. §§ 201-08. Article V(1)(e)
+of the Convention states that a court may vacate an award if it “has been set aside or suspended by
+a competent authority of the country in which, or under the law of which, that award was made.”
+“The phrase ‘under the law of which’ in Article V(1)(e) . . . refers to the procedural law governing
+the arbitration, not the substantive law governing the Agreement.” Belize Soc. Dev. Ltd. v. Gov’t
+of Belize, 668 F.3d 724, 727 (D.C. Cir. 2012). Thus, because the parties agree that the seat of the
+arbitration was in Florida—which is within the Eleventh Circuit—Canada argues that the
+procedural law of the Eleventh Circuit controls.
+
+But this position contradicts the weight of the decisions that have considered similar issues.
+Neither party has provided the Court with any cases discussing which circuit’s precedent governs
+confirmation (or vacatur) of an arbitral award when the arbitration took place in one circuit and
+the case is filed in a different circuit. However, there is extensive case law and legal commentary
+regarding which circuit’s precedent applies when a federal question case is transferred from one
+
+circuit to another: the law of the transferee court (here, the D.C. Circuit) rather than the transferor
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 6 of 22
+
+court (here, the Eleventh Circuit) governs. This is true in the context of transfers for the parties’
+convenience under 28 U.S.C. § 1404, transfers to obtain proper venue under § 1406, and transfers
+for multi-district litigation under § 1407. See Lafferty v. St. Riel, 495 F.3d 72, 83 (3d Cir. 2007)
+(transfer under § 1406); Hartline v. Sheet Metal Workers’ Nat. Pension Fund, 286 F.3d 598, 599
+(D.C. Cir. 2002) (per curiam) (transfer under § 1404); In re Korean Air Lines Disaster, 829 F.2d
+1171, 1176 (D.C. Cir. 1987) (transfer under § 1407); see generally Charles A. Wright & Arthur R.
+Miller, 15 Fed. Prac. & Proc. § 3846 (4th ed.) (citing, inter alia, cases from the First, Second, Ninth
+
+and Eleventh Circuits reaching similar conclusions); see_also Int’] Union of Painters & Allied
+
+ 
+
+Trades, Local Unions No. 970 & 1144, AFL-CIO v. NLRB, 309 F.3d 1, 6 (D.C. Cir. 2002) (“To
+
+ 
+
+the extent that [plaintiff] asks us to create special circuit law depending on the geographic origins
+of a case, it asks us . . . to abandon the federal circuits’ normal task of trying to determine federal
+law as correctly as possible.”).
+
+This rule—that the transferee court’s interpretation of federal law controls—makes sense
+given the nature of federal law. While there are “differences between different states’ laws,” there
+is “unitary federal law” and “each [federal court] has an obligation to engage independently in
+reasoned analysis” interpreting that law. In re Korean Air Lines Disaster, 829 F.2d at 1175-76.
+When a federal court interprets federal law, “[b]inding precedent for all is set only by the Supreme
+Court, and for the district courts within a circuit, only by the court of appeals for that circuit.” Id.
+
+at 1176; see also Richard L. Marcus, Conflict Among Circuits and Transfers within the Federal
+
+ 
+
+Judicial System, 93 YALE L.J. 677, 721 (1984)). This is in contrast to when a federal court sits in
+diversity jurisdiction, where there are reasons based on comity and federalism for the substantive
+
+law of the transferor jurisdiction—that is, the state law of the transferor jurisdiction—to apply.
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 7 of 22
+
+See Van Dusen v. Barrack, 376 U.S. 612, 637-42 (1964).! But when a court has federal question
+jurisdiction, these rationales do not apply. See In re Korean Air Lines Disaster, 829 F.2d at 1176.
+The only exception to this general rule—one that is not applicable here—is if the transferor court
+already decided an issue (based on its own interpretation of the law) and thus the “law of the case”
+governs that issue even in the transferee court. See Hill v. Henderson, 195 F.3d 671, 678 (D.C.
+Cir. 1999).
+
+Here, the case was not transferred under §§ 1404, 1406, or 1407—indeed, it was not
+transferred at all. Rather, the arbitration took place within the Eleventh Circuit but the petition
+was filed in this Circuit. Still, the same reasoning likely applies: there is one federal law, and this
+Court has an obligation to interpret the law “as correctly as possible.” That might be why, during
+oral argument, counsel for the respondent could not identify a single case in which a district court
+applied an interpretation of federal law from another circuit that contradicted the precedent of the
+circuit where the district court was located. Interpreting the law “as correctly as possible” requires
+interpreting the law within the bounds of controlling precedent—which in this district, means D.C.
+Circuit and Supreme Court precedent.
+
+However, the Court need not actually decide this issue. Even under D.C. Circuit
+precedent—which is more favorable to Mesa and which Mesa believes should apply—Mesa’s
+arguments still fail. Thus, the Court will assume, without deciding, that D.C. Circuit law,
+
+specifically its interpretation of federal law, controls.
+
+' Neither of the parties have argued that the state law of Florida controls.
+
+7
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 8 of 22
+
+LEGAL STANDARD
+
+Mesa asks this Court to vacate the award pursuant to § 10 of the FAA. See 9 U.S.C. § 10.
+Canada, on the other hand, seeks enforcement of the award pursuant to the Convention. See 9
+U.S.C. § 207.
+
+The Convention is codified as part of the FAA, and is “a carefully crafted framework for
+the enforcement of international arbitral awards.” TermoRio S.A. E.S.P. v. Electranta S.P., 487
+F.3d 928, 935 (D.C. Cir. 2007). It “mandates very different regimes for the review of arbitral
+awards (1) in the state in which, or under the law of which, the award was made” versus “(2) in
+other states where recognition and enforcement are sought.” Id. (internal quotation marks omitted)
+(quoting Yusuf Ahmed Alghanim & Sons v. Toys “R” Us, Inc., 126 F.3d 15, 23 (2d Cir. 1997)).
+‘When a party seeks to set aside an award in “the state in which, or under the law of which, the
+award was made,” that court is “free to set aside or modify an award in accordance with its
+domestic arbitral law and its full panoply of express and implied grounds of relief.” Id. (internal
+quotation marks omitted) (quoting Yusuf Ahmed Alghanim & Sons, 126 F.3d at 23). Here, the
+arbitration award was issued in the United States, and thus U.S. law—namely the FAA and its
+
+“full panoply of express and implied grounds of relief’—applies. Id. at 935-37; see also First Inv.
+
+ 
+
+Corp. of Marshall Islands v. Fujian Mawei Shipbuilding, Ltd., 703 F.3d 742, 748 (Sth Cir. 2012)
+(holding that dismissal on basis of lack of personal jurisdiction as matter of constitutional due
+
+process was appropriate); Ario v. Underwriting Members of Syndicate 53 at Lloyds for 1998 Year
+
+ 
+
+of Account, 618 F.3d 277, 292 (3d Cir. 2010) (“[B]Jecause the arbitration took place in
+Philadelphia, and the enforcement action was also brought in Philadelphia, we may apply United
+
+States law, including the domestic FAA and its vacatur standards.”).
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 9 of 22
+
+Under the FAA, a “court shall confirm the [foreign arbitral] award unless it finds one of
+the grounds for refusal or deferral of recognition or enforcement” that are enumerated in the
+Convention or the FAA. See 9 U.S.C. § 207; TermoRio, 487 F.3d at 935. The FAA and the
+Convention therefore “‘reflect[] an emphatic federal policy in favor of arbitral dispute resolution.’”
+
+Marmet Health Care Center, Inc. v. Brown, 565 U.S. 530, 533 (2012) (per curiam) (quoting KPMG
+
+ 
+
+LLP v. Cocchi, 565 U.S. 18, 25 (2011)). This emphatic federal policy is equally true in enforcing
+foreign arbitration awards. See TermoRio, 487 F.3d 933-34 (citing Mitsubishi Motors Corp. v.
+
+Soler Chrysler-Plymouth, Inc., 473 U.S. 614, 631 (1985)); see also Newco Ltd. v. Gov’t of Belize,
+
+ 
+
+650 F. App’x 14, 16 (D.C. Cir. 2016) (nonprecedential).
+
+Thus, “courts may vacate an arbitrator's decision ‘only in very unusual circumstances.”
+Oxford Health Plans LLC v. Sutter, 133 S. Ct. 2064, 2068 (2013) (quoting First Options of
+Chicago, Inc. v. Kaplan, 514 U.S. 938, 942 (1995)). This “limited judicial review” is necessary to
+“‘maintain[] arbitration’s essential virtue of resolving disputes straightaway.’” Id. (quoting Hall
+
+St. Assocs., LLC v. Mattel, Inc., 552 U.S. 576, 588 (2008)). Section 10 of the FAA “provide[s]
+
+ 
+
+the FAA’s exclusive grounds” for vacating an award. Hall St., 552 U.S. at 584.
+
+The grounds for vacatur “‘codified in § 10(a) restate the longstanding rule that, ‘[i]f [an
+arbitration] award is within the submission, and contains the honest decision of the arbitrators,
+after a full and fair hearing of the parties, a court . . . will not set [the award] aside for error, either
+
+in law or fact. Stolt-Nielsen S.A. v. AnimalFeeds Int’] Corp., 559 U.S. 662, 693-94 (2010)
+
+(Ginsburg, J., dissenting) (alterations in original) (quoting Burchell v. Marsh, 58 U.S. 344, 349
+
+ 
+
+(1855)); see also E. Associated Coal Corp. v. United Mine Workers of Am., 531 U.S. 57, 62 (2000)
+
+ 
+
+(‘[A]s long as [an honest] arbitrator is even arguably construing or applying the contract and
+
+acting within the scope of his authority,’ the fact that ‘a court is convinced he committed serious
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 10 of 22
+
+error does not suffice to overturn his decision.’”” (quoting United Paperworkers Int’] Union v.
+
+ 
+
+Misco, Inc., 484 U.S. 29, 38 (1987)). Mesa invokes two of those grounds: § 10(a)(3) and (a)(4).
+Section 10(a)(3) permits vacatur “where the arbitrators were guilty of misconduct in refusing to
+postpone the hearing, upon sufficient cause shown, or in refusing to hear evidence pertinent and
+material to the controversy; or of any other misbehavior by which the rights of any party have been
+prejudiced.” 9 U.S.C. § 10(a)(3). Section 10(a)(4) permits vacatur “where the arbitrators exceeded
+their powers, or so imperfectly executed them that a mutual, final, and definite award upon the
+subject matter submitted was not made.” Id. § 10(a)(4).
+
+Mesa also argues that the award may be vacated on the grounds that it is in manifest
+disregard of the law. In 2001, the D.C. Circuit explained that “[i]n addition to the limited statutory
+grounds on which an arbitration award may be vacated, ‘arbitration awards can be vacated [only]
+if they are in manifest disregard of the law.’” LaPrade, 246 F.3d at 706 (alterations in original)
+(quoting Cole v. Burns Int’] Sec. Servs., 105 F.3d 1465, 1486 (D.C. Cir. 1997)). A tribunal is in
+manifest disregard of the law if “(1) the arbitrators knew of a governing legal principle yet refused
+to apply it or ignored it altogether and (2) the law ignored by the arbitrators was well defined,
+explicit, and clearly applicable to the case.” Id. (internal quotation marks omitted). In 2008,
+however, the Supreme Court held that §§ 10 and 11 “provide the FAA’s exclusive grounds for
+expedited vacatur and modification.” Hall St., 552 U.S. at 584. Since then, the circuits have taken
+different approaches to whether “manifest disregard of the law” is simply another way of
+expressing the grounds in § 10(a) and thus survives, or does not. See, e.g., Coffee Beanery, Ltd.
+
+yv. WW, LLC, 300 F. App’x 415, 419 (6th Cir. 2008) (nonprecedential) (“In light of the Supreme
+
+ 
+
+Court’s hesitation to reject the ‘manifest disregard’ doctrine in all circumstances, we believe it
+
+would be imprudent to cease employing such a universally recognized principle.”) The D.C.
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 11 of 22
+
+Circuit has not decided the issue, but has assumed without deciding that “manifest disregard of the
+law” survives as a separate ground for vacatur. See Affinity Fin. Corp. v. AARP Fin., Inc., 468 F.
+App’x 4, 5 (D.C. Cir. 2012) (nonprecedential); Regnery Pub., Inc. v. Miniter, 368 F. App’x 148,
+149 (D.C. Cir. 2010) (nonprecedential). This Court takes the same approach, and assumes without
+deciding that “manifest disregard of the law” is a valid ground for vacatur under the FAA.
+
+When analyzing these grounds for vacatur, “[i]t is not enough for petitioners to show that
+the panel committed an error—or even a serious error.” Stolt-Neilsen, 559 U.S. at 671 (citing E.
+Associated Coal, 531 U.S. at 62). Rather, under § 10(a)(4) “‘[i]t is only when [an] arbitrator strays
+from interpretation and application of the agreement and effectively ‘dispense[s] his own brand of
+industrial justice’ that his decision may be unenforceable.’” Id. (second and third alteration in
+original) (quoting Major League Baseball Players Ass’n v. Garvey, 532 U.S. 504, 509 (2001) (per
+curiam)). In other words, “[o]nly if ‘the arbitrator act[s] outside the scope of his contractually
+delegated authority’—issuing an award that ‘simply reflect[s] [his] own notions of [economic]
+justice’ rather than ‘draw[ing] its essence from the contract-—may a court overturn his
+determination.” Oxford Health Plans LLC, 133 S. Ct. at 2068 (first alteration added) (quoting E.
+Associated Coal, 531 U.S. at 62). Thus, “the sole question” is “whether the arbitrator (even
+arguably) interpreted the parties’ contract, not whether he got its meaning right or wrong.” Id.
+
+The scope of review under § 10(a)(3) is similarly narrow. See Howard Univ. v. Metro.
+Campus Police Officer’s Union, 512 F.3d 716, 721-22 (D.C. Cir. 2008). Section 10(a)(3) is
+focused on whether the tribunal refused to hear material evidence, or otherwise employed an
+
+improper procedure. See 9 U.S.C. § 10(a)(3); see also Gulf Coast Indus. Workers Union v. Exxon
+
+ 
+
+Co., USA, 70 F.3d 847, 850 (Sth Cir. 1995) (vacating award where the arbitrator refused to
+
+ 
+
+ 
+
+consider key evidence); Totem Marine Tug & Barge, Inc. v. N. Am. Towing, Inc., 607 F.2d 649,
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 12 of 22
+
+653 (Sth Cir. 1979) (vacating award based on arbitrator’s ex parte communications with a party).
+
+But because “‘an arbitrator need not follow all of the niceties’” of the federal rules of evidence, a
+court’s inquiry is limited to whether the tribunal “‘grant[ed] the parties a fundamentally fair
+hearing.” Howard Univ., 512 F.3d at 721 (quoting Lessin v. Merril Lynch, Pierce, Fenner &
+Smith, Inc., 481 F.3d 813, 816 (D.C. Cir. 2007)). Hence, a court “‘may vacate an award only if
+
+the panel’s refusal to hear pertinent and material evidence prejudices the rights of the parties to the
+
+arbitration proceedings.’” Id. (quoting Lessin, 481 F.3d at 818). With this narrow scope of review
+
+ 
+
+in mind, the Court turns to the issues at hand.
+ANALYSIS
+
+Mesa identifies two alleged errors in the tribunal’s analysis that show that the tribunal
+exceeded its powers, prejudiced Canada’s rights, and acted in manifest disregard of the law. These
+are, first, the tribunal’s interpretation of “procurement” as used in Article 1108 of NAFTA, and
+second, the tribunal’s deference to the government of Ontario’s decisionmaking discretion in
+implementing its renewable energy policy.
+
+L The Tribunal’s Interpretation of “Procurement”
+
+Section 1108 of NAFTA states that “Articles 1102, 1103, and 1107 do not apply to: (a)
+Procurement by a Party or a State enterprise” and that “Article 1106(1)(b) . . . [does] not apply to
+procurement by a party or a State enterprise.” NAFTA Art. 1108(7), (8)(b). In the arbitration,
+Mesa argued that because individual consumers purchase electricity through the grid, neither FIT
+nor GEIA involve procurement by a state enterprise. The tribunal, however, disagreed. It
+explained that because the government enters into contracts with energy generators to supply the
+electrical grid with power, that constitutes government procurement, even if the end consumers
+
+are individuals who ultimately purchase the electricity from the grid. See Award {{{ 443-448.
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 13 of 22
+
+Thus, because the FIT program and the contracts through the GEIA were “procurement” by the
+Government of Ontario, then Articles 1102, 1103, and 1106 did not apply. In making this
+determination, the tribunal noted that
+
+it makes no difference . . . whether one focuses upon the single word ‘procurement’ or the
+
+phrase ‘procurement by a Party or a state enterprise’ [in Article 1108]. The words ‘. . . by
+
+a party or a state enterprise’ identify the entities involved, but do not change the nature of
+
+the activity itself—which in this context assumes a State Party or state enterprise in any
+
+event.”
+Id. {421 (second alteration in original).
+
+The Supreme Court explained in Oxford Health Plans v. Sutter that “[s]o long as the
+arbitrator was ‘arguably construing’ the contract . . . a court may not correct his mistakes under
+§ 10(a)(4).” Oxford Health Plans, 133 S. Ct. at 2070 (quoting E. Associated Coal, 531 U.S. at 62).
+Here, the tribunal comprehensively examined the text itself and the parties’ arguments regarding
+the text before ultimately concluding that the FIT program constituted “procurement” under
+Article 1108.
+
+The tribunal fully considered the primary argument that Mesa advances in this litigation:
+that the word “procurement” in Chapter 10 of NAFTA excludes this type of contracting, and
+therefore the word should be interpreted analogously in Chapter 11, which includes Article 1108.
+Award {| 378-84. Article 1001(5)(a), in Chapter 10, states that “procurement does not
+include . . . government provision of goods and services to persons.” This definition, Mesa argued
+then and persists in arguing now, extends to Article 1108, and excludes Ontario’s contracts to
+supply renewable energy to the electrical grid, which will eventually be purchased by consumers.
+But the tribunal rejected this argument after examining the role and structure of Chapter 10 versus
+
+Chapter 11 versus other chapters of the treaty. See Award J 417, 423-430.
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 14 of 22
+
+It also compared the text of Article 1108 to other uses of the word “procurement” in
+NAFTA and other international trade agreements. See id. {| 395-403. It considered and
+differentiated the numerous previous arbitral awards that Mesa referenced, as well as the ordinary
+meaning of the word in other contexts and the dictionary meaning. Id. {{[ 404-417. The tribunal
+also discussed whether other adjudicatory bodies had considered the purchase of energy to be
+“procurement” by a government. See id. J] 449-461. It then looked at the broader purpose of
+Article 1108 within the structure of NAFTA. Id. {] 418-439. As part of that analysis, the tribunal
+noted that the context of Article 1108 makes it clear that “procurement” refers to procurement by
+a state, whether or not the text of Article 1108(7) or (8) include that specific language. Id. { 421.
+
+There can be no serious debate that the tribunal was interpreting the text of NAFTA to
+reach its conclusion, and that it did so exhaustively. The tribunal employed all of the standard
+interpretative tools that a court or arbitration panel would normally use when interpreting a text.
+The dissenting opinion proves as much: there, Brower explains how he would have used the same
+interpretative tools but analyzed them differently. See, e.g., Award (Brower, J., concurring in part
+and dissenting in part) { 29 (explaining how he would have distinguished the precedent that the
+majority relied on). The fact that the tribunal noted that some words were superfluous in context
+does not transform the tribunal’s thorough analysis from a text-based interpretation into something
+else. The tribunal might have been wrong, but “[t]he potential for those mistakes is the price of
+agreeing to arbitration.” Oxford Health Plans, 133 S. Ct. at 2070.
+
+Mesa argues that the panel’s disregard of the words “Party or state enterprise” crosses the
+line from a mere mistake, which is not grounds for vacatur, into abandoning the text entirely and
+thus exceeding the tribunal’s authority. Federal courts can vacate arbitration awards where the
+
+tribunal’s decision “disregard[s] or modif[ies] unambiguous contract provisions” and thus exceeds
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 15 of 22
+
+its authority. See Mo. River Servs., Inc. v. Omaha Tribe of Neb., 267 F.3d 848, 855 (8th Cir.
+
+ 
+
+2001) (internal quotation marks omitted); Hoteles Condado Beach v. Union De Tronquistas Local
+
+901, 763 F.2d 34, 41 (1st Cir. 1985) (quoting the same); see also PMA Capital Ins. Co. v. Platinum
+
+ 
+
+Underwriters Bermuda, Ltd., 659 F. Supp. 2d 631, 639 (E.D. Pa. 2009) (similar). But here the
+
+ 
+
+tribunal did not disregard or modify an unambiguous provision of the treaty. Indeed, it interpreted
+relevant text to determine that the FIT program constituted “procurement by a Party or state
+enterprise,” i.e., by the government of Ontario. The fact that it did so while explaining that some
+words in that article were redundant in the specific context does not mean it disregarded or
+modified the text of the treaty. Because “[i]t is the arbitrator's construction [of the contract] which
+was bargained for” and “the arbitrator[s’] decision concerns construction of the contract,” this
+Court therefore has “no business overruling [the tribunal].” Oxford Health Plans, 133 S. Ct. at
+2071 (internal quotation marks omitted). Accordingly, the panel did not exceed its authority as
+defined by 9 U.S.C. § 10(a)(4).
+
+Mesa contends that the tribunal’s analysis of Article 1108 was a refusal to interpret the text
+at all, and thus was “misbehavior” under § 10(a)(3) and was in manifest disregard of the law. See
+Pet.’s Br. [ECF No. 1-1] at 26-27 (citing Hoteles Condado Beach, 763 F.2d at 41); Pet.’s Opp’n
+& Rep. [ECF No. 30] at 34-38. But as explained above, the tribunal did undoubtedly interpret the
+text of the treaty. And it did so after exhaustively reviewing the evidence that Mesa presented.
+Mesa simply disagrees with the interpretation that the tribunal adopted. Hence, Mesa has not
+shown that the tribunal’s interpretation of the word “procurement” provides a basis for vacating
+
+the award under § 10(a)(3), (a)(4), or “manifest disregard of the law.”
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 16 of 22
+
+Il. The Tribunal’s “Deference” to Canada
+
+Article 1105(1) of NAFTA states: “Each Party shall accord to investments of investors of
+another Party treatment in accordance with international law, including fair and equitable treatment
+and full protection and security.” NAFTA Art. 1105(1). The tribunal explained that “the following
+components can be said to form part of Article 1105: arbitrariness; gross unfairness;
+discrimination; complete lack of transparency and candor in an administrative process; lack of due
+process leading to an outcome which offends judicial propriety; and manifest failure of natural
+justice in judicial proceedings.” Award { 502 (internal quotation marks omitted). It further
+explained that “when defining the content of Article 1105, one should further take into
+consideration that international law requires tribunals to give a good level of deference to the
+manner in which a state regulates its internal affairs.” Id. 505. Quoting another arbitral award,
+the tribunal noted that states will sometimes make “controversial judgments” and “clear-cut
+mistakes” because “[s]tate authorities are faced with competing demands on their administrative
+resources” but “the imprudent exercise of discretion or even outright mistakes do not, as a rule,
+lead to a breach” of Article 1105. Id. (internal quotation marks omitted).
+
+Mesa urges that giving the government “a good deal of deference” in determining whether
+the government’s actions were arbitrary or unfair is itself so unfair as to prejudice the proceedings,
+exceed the tribunal’s authority, and demonstrate manifest disregard for the law. Mesa contends
+that this deference changed the standard of proof in this proceeding, which rendered the proceeding
+fundamentally unfair and violated the “equality of the parties” that is guaranteed by the rules
+governing this arbitration contained in Article 1115 of NAFTA and UNCITRAL Rule 15(1).
+
+Mesa’s arguments are unpersuasive. The tribunal did not grant Canada deference on its
+
+legal arguments or on its factual assertions as that term is usually used in U.S. law. Instead, the
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 17 of 22
+
+tribunal closely—indeed exhaustively—analyzed whether Canada acted fairly. The tribunal
+walked through all of Canada’s actions that Mesa claimed violated Article 1105. See Award {i
+
+513-51 (summarizing the parties’ positions on the facts in dispute); id. {J 552-682 (making factual
+
+ 
+
+findings and analyzing whether Canada’s actions violated Article 1105). It examined the facts and
+made de novo factual findings on the contested issues, including whether Canada imposed similar
+requirements on the Korean Consortium as it did on the FIT applicants, and whether Canada misled
+FIT applicants about what percentage of the grid capacity would be allocated through FIT. See,
+e.g., Award J 569-72 (finding significant requirements imposed on Korean Consortium); id. { 585
+
+(finding Korean Consortium was not offered additional government assistance); id. J 582 (finding
+
+ 
+
+reservation of grid capacity for Korean Consortium was not done in secret).
+Thus, the tribunal’s “deference” merely amounted to an acknowledgment that a
+government is entitled to make policy choices that are not perfectly rational. The tribunal
+explained that although Canada could have behaved differently with respect to FIT and the GEIA,
+those “are all policy considerations and questions that were for the government of Ontario alone.”
+Id. (579. The tribunal continued:
+It is not the Tribunal’s role to . . . weigh the wisdom of Ontario’s decision to enter into the
+GEIA at the time .... Rather, it is for the Tribunal to examine whether . . . the beneficial
+treatment was granted to the Korean Consortium arbitrarily, or in any other way that
+contravened Article 1105. In particular, the Tribunal must determine whether Canada’s
+conclusion of the GEIA lacked a justification, and whether there was a reasonable relationship
+between the justification supplied and the terms of the GEIA.
+
+Id. When read in the context of the full award, the tribunal’s statement quoted above, and its
+
+statement that it would give a “good level of deference to the manner in which [Canada] regulates
+
+its internal affairs” in paragraph 505, merely amount to the relatively mundane observation that an
+
+imperfect policy choice by a government actor is not necessarily unfair or inequitable within the
+
+meaning of Article 1105.
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 18 of 22
+
+The parties’ continued dispute about the legal validity of that point shows that their
+disagreement is over whether the law was correctly applied, not over whether the tribunal exceeded
+its power or disregarded the law entirely. Mesa presents numerous arbitral awards that conclude
+that an arbitration panel has an obligation to examine the facts before it, while also acknowledging
+that a government has some room to make policy decisions, which is described as “deference.”
+See Pet.’s Opp’n & Rep. at 25-28; Not. of Supp. Auth. [ECF No. 32]. One of these arbitral awards
+that Mesa cites explains a tribunal’s obligation when examining a country’s conduct as follows:
+
+Given that the Claimant invokes [Article 1105(1)] . . . the Tribunal must determine whether
+
+the Respondent’s conduct [violated that article]. . .. This determination is best done, not in
+
+the abstract, but in the context of the facts of this particular case, taking into account the
+indirect evidence of the content of the customary international law minimum standard of
+treatment as evidence in the decisions of other NAFTA tribunals.
+Windstream Award, Ex. A to Not. of Supp. Auth. [ECF No. 32-1] { 358. Mesa argues that this
+statement rejects any concept of deference, and shows that the tribunal here acted outside of its
+authority.
+
+But contrary to Mesa’s assertions, that analysis is exactly what this tribunal engaged in.
+The tribunal did review the facts and reach factual determinations on contested issues.
+Furthermore, the tribunal itself acknowledged several of these same prior arbitral awards that Mesa
+relies on in its briefs to this Court, and concluded those awards were in accordance with the
+deference standard it employed. See Award J 505 n.36.
+
+Judge Brower’s dissent also demonstrates that the issue here is simply over whether the
+tribunal applied the law correctly. He acknowledges that a government has some room to make
+policy decisions without running afoul of Article 1105. See Award (Brower, J., concurring in part
+and dissenting in part) { 17 (“There is an acceptable range of potential change that the Province
+
+could lawfully effect.”). He then disagrees on whether the government acted within that reasonable
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 19 of 22
+
+policymaking authority, or crossed the line into unfair conduct prohibited by Article 1105. Id. But
+nothing in Brower’s dissent indicates that he believes that the tribunal acted so far outside of the
+bounds of its authority that it cannot be said to be interpreting the text, or that it prejudiced the
+rights of a party, or acted in manifest disregard of the law.
+
+Ultimately, there is nothing in either the tribunal’s award or the dissent to indicate that the
+tribunal engaged in “misbehavior by which the rights” of Mesa “were prejudiced” under § 10(a)(3)
+or that it “exceeded its powers” under § 10(a)(4). Mesa argues that consent to arbitration was
+premised on the arbitrators’ following the rules of arbitration—which require “equal treatment”
+and due process for both parties, as defined by NAFTA Article 1115 and UNCITRAL Rule 15(1).
+Mesa of course is correct that the agreement to arbitrate is premised on the arbitrator’s following
+the agreed-upon rules, and that by doing otherwise a tribunal might exceed its powers or misbehave
+in a manner that causes prejudice. See Stolt-Neilsen, 559 U.S. at 670-71; Oxford Health Plans,
+133 S. Ct. at 2068. And applying an incorrect standard of proof—such as “beyond a reasonable
+doubt” when “preponderance of the evidence” is appropriate—is one way in which an arbitrator
+might stray from the agreed-upon rules of arbitration. See Sq. Plus Operating Corp. v. Local Union
+No. 917, 90 Civ. 1713 (LJF), 1992 WL 116610, at *2 (S.D.N.Y. May 15, 1992) (vacating arbitration
+award where arbitrator required proof beyond a reasonable doubt rather than applying preponderance
+
+of the evidence standard); In re A.H. Robins, Co., Inc., 221 B.R. 169, 175 (E.D. Va. 1998) (vacating
+
+ 
+
+award where arbitrator improperly “relieved [a party] of her burden of proving causation”). But there
+is nothing here to show that the tribunal treated the parties unequally or changed the standard of
+proof. The tribunal interpreted the text of Article 1105, which requires “fair and equitable
+treatment,” in accordance with “international law’ to include a traditional norm that a
+government’s action is not unfair or inequitable if it had a justification, and if “there was a
+reasonable relationship between the justification supplied” and the action taken. Award { 579.
+
+19
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 20 of 22
+
+This is an interpretation of the text of the treaty based, as explained above, on analysis of the text,
+context, and structure of the treaty, other relevant treaties, and relevant precedent from similar
+arbitration awards. Whether or not that interpretation was correct, it surely was not an abdication
+of the tribunal’s duty to interpret the contract, nor was it “misbehavior.” And it did not change
+any standard of proof: the tribunal did not presume that Canada’s factual assertions were correct
+or defer to Canada’s legal interpretations of what Article 1105 requires. Rather, the tribunal merely
+acknowledged that a government can make poor or mistaken decisions without violating Article
+1105’s prohibition on inequitable treatment. The tribunal thus simply reached a legal conclusion
+that Mesa does not agree with.
+
+Similarly, the tribunal did not “[know] of a governing legal principle yet refuse[] to apply
+it” or ignore law that “was well defined, explicit, and clearly applicable to the case.” LaPrade, 246
+F.3d at 706. The tribunal stated the governing legal rule by quoting Article 1105, and interpreted
+it by drawing on past arbitral awards to give meaning to the vague standard of “fair and equitable
+treatment.” Moreover, even if the tribunal stated the wrong standard, Mesa has certainly not
+demonstrated that there is a different interpretation of “fair and equitable treatment” that is well-
+defined, explicit, and clearly applicable here. At best, there is conflicting authority on how
+deference plays into the standard under Article 1105, as demonstrated by the numerous arbitral
+awards submitted by the parties that employ deference to a government’s decisionmaking slightly
+differently.” See, e.g., Resp.’s Br. [ECF No. 22] at 30-33 (collecting cases). Thus, this award
+
+cannot be vacated on the ground of manifest disregard of the law.
+
+? In its briefing, Canada compares this “deference” under international law to a federal court’s deference to
+an administrative agency under Chevron U.S.A.., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984).
+While there appear to be some similarities between Chevron deference and the type of deference the tribunal employed
+here—namely, the principle of according governments room to weigh competing policy values and make choices,
+even if imperfect ones—the deference that the tribunal employed seems to be a different type. The tribunal did not
+accept Canada’s interpretation of the law (whether Article 1105 or any other law) in lieu of its own, which is a core
+
+ 
+
+ 
+
+20
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 21 of 22
+
+Ill. Canada’s Request for Attorney’s Fees
+Canada argues that a court has inherent authority to award attorney’s fees when the “‘losing
+party’s actions were frivolous, unreasonable, or without foundation, even though not brought in
+subjective bad faith.’” See Resp.’s Br. at 40-41 (quoting Unite Here Local 23 v. I.L. Creations of
+
+Mad., Inc., 148 F. Supp. 3d 12, 23 (D.D.C. 2015)). Mesa responds that the Court only has the power
+
+ 
+
+to award fees against a party who acts in bad faith. See Pet.’s Opp’n & Rep. at 39 (citing United
+States v. Wallace, 964 F.2d 1214, 1219 (D.C. Cir. 1992)).
+
+Regardless of what exact power the Court has, Mesa’s appeal is not frivolous and does not
+indicate subjective or objective bad faith. Although Mesa’s petition will be denied, seeking
+vacatur alone is not an indication of bad faith—rather, it is simply an exercise of the losing party’s
+rights. Cf. Getma Int’] v. Republic of Guinea, 142 F. Supp. 3d 110, 114-15 (D.D.C. 2015)
+(employing bargained-for review mechanisms is within the parties’ rights); NAFTA Art. 1136
+(contemplating enforcement or vacatur proceedings when parties do not voluntarily comply with
+arbitration awards). Mesa has identified two grounds for vacatur that are explicitly enumerated in
+the FAA, and one that is arguably implied and has been recognized by this Circuit previously.
+While Mesa’s arguments that these three grounds justify vacating the award are not meritorious,
+they are not so lacking in merit to be described as frivolous or as evidence of bad faith. Thus,
+Canada’s request for fees and costs incurred in this civil action will be denied.
+
+CONCLUSION
+
+The Court will deny Mesa Power Group’s petition to vacate the award, and will grant the
+Government of Canada’s counter-petition to confirm the award. Canada’s request for attorney’s
+fees will be denied. A separate order will be issued on this date.
+
+tenant of Chevron. See generally Antonin Scalia, Judicial Deference to Administrative Interpretations of Law, 1989
+Duke L.J. 511, 512-14 (discussing Chevron deference and statutory interpretation).
+
+ 
+
+21
+
+Case 1:16-cv-01101-JDB Document 40 Filed 06/15/17 Page 22 of 22
+
+/s/
+JOHN D. BATES
+United States District Judge
+Dated: June 15, 2017
+
+ 
+
+22
+

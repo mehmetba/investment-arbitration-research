@@ -1,0 +1,430 @@
+Case 1:18-cv-01755-JEB Document 24 Filed 02/06/19 Page 1 of 13
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+GRETTON LTD.,
+
+Petitioner,
+v. Civil Action No. 18-1755 (JEB)
+REPUBLIC OF UZBEKISTAN,
+
+Respondent.
+
+ 
+
+MEMORANDUM OPINION
+
+Petitioner Gretton Ltd. seeks to enforce a foreign arbitral award assessed against the
+Republic of Uzbekistan. Gretton itself, however, never had any direct dealings with Uzbekistan.
+Rather, the dispute arose between the Central Asian country and a company called Oxus Gold,
+PLC over Oxus’s investments in two gold-mining operations there. Although the underlying
+Award is still working its way through direct-appeal proceedings in France, Gretton — Oxus’s
+litigation funder and assignee of the Award’s proceeds — has clamored to have its day in court in
+the United States. Uzbekistan has now moved to dismiss the Petition, lodging a host of
+jurisdictional objections to enforcement of the Award, or alternatively to stay the case. Finding it
+appropriate to stay these proceedings pending the decision of the Paris Court of Appeal, the
+Court will grant Uzbekistan’s Motion in part without treating its arguments to dismiss the suit
+entirely.
+I. Background
+
+The underlying controversy stems from Oxus’s involvement in two projects related to
+mining and exploration of gold deposits in Uzbekistan. On August 31, 2011, it filed a notice of
+
+arbitration against Uzbekistan seeking $1.2 billion for the purported expropriation of its
+
+Case 1:18-cv-01755-JEB Document 24 Filed 02/06/19 Page 2 of 13
+
+investments. See ECF No. 5-2 (Arbitral Award), {J 60, 1019. The arbitral panel, sitting in Paris,
+issued its Award on December 17, 2015. Id. at 1. It found Uzbekistan liable for only
+$10,299,572 plus interest that — based on Petitioner’s calculations — brings the grand total to
+
+$13,026,908.12. Id. at 396; see also ECF No. 5-8 (Declaration of Kevin N. Ainsworth), { 5.
+
+ 
+
+On April 26, 2016, Oxus initiated a proceeding before a court in Paris, seeking
+recognition of the Award. See ECF No. 17-13 (Declaration of Andrea Pinna), { 4. Having
+received that recognition, it then filed a request on July 26, 2016, before the Paris Court of
+Appeal for partial vacatur of the Award — namely, it sought to set aside certain portions of the
+Award denying its claims but to leave intact the portion for which damages were already
+awarded. Id., [ 5. Uzbekistan has naturally opposed; it has also argued that, if the Paris court
+were to set aside any of the Award, it should vacate the entire Award, rather than merely the
+portion Oxus lost in arbitration. The parties have submitted several rounds of briefing, and the
+Paris Court of Appeal is scheduled to hold a hearing on March 26, 2019. Id., {| 7-8.
+
+While these proceedings were pending in Paris, Gretton filed its Petition against
+Uzbekistan in this Court in July 2018 seeking to enforce the piece of the Award in which Oxus
+prevailed. See ECF No. 1 (Petition to Confirm Arbitration Award). It has represented that Oxus
+assigned it the proceeds of the Award back in 2012. Id. at 2-3. Uzbekistan now moves to
+dismiss the Petition on several grounds. See ECF No. 17 (Motion to Dismiss or Stay). It has
+also moved, in the alternative, for the Court to stay the case pending the outcome of the set-aside
+proceedings in Paris. Id.
+
+IL. Legal Standard
+The Federal Arbitration Act, 9 U.S.C. §§ 201-208, codifies the Convention on the
+
+Recognition and Enforcement of Foreign Arbitral Awards, better known as the New York
+
+Case 1:18-cv-01755-JEB Document 24 Filed 02/06/19 Page 3 of 13
+
+Convention. Pursuant to the Convention, a district court “shall confirm [an] [arbitral] award
+unless it finds one of the grounds for refusal or deferral of recognition or enforcement of the
+award specified in the said Convention.” 9 U.S.C. § 207. “Consistent with the ‘emphatic federal
+policy in favor of arbitral dispute resolution’ recognized by the Supreme Court[,] ... the FAA
+affords the district court little discretion in refusing or deferring enforcement of foreign arbitral
+
+awards.” Belize Social Development Ltd. v. Government of Belize, 668 F.3d 724, 727 (D.C. Cir.
+
+ 
+
+2012) (quoting Mitsubishi Motors Corp. v. Soler Chrysler—Plymouth, Inc., 473 U.S. 614, 631
+(1985)).
+
+Under the Convention, however, district courts do have discretion to stay proceedings if
+“an application for the setting aside or suspension of the award has been made to a competent
+authority.” New York Convention art. VI. Because “the adjournment of enforcement
+proceedings impedes the goals of arbitration — the expeditious resolution of disputes and the
+avoidance of protracted and expensive litigation” — “[a] stay of confirmation should not be
+lightly granted.” Europcar Italia, S.p.A. v. Maiellano Tours, Inc., 156 F.3d 310, 317 (2d Cir.
+1998).
+Ill. Analysis
+
+Uzbekistan challenges the Petition to enforce the Award on several bases. It argues that
+the Court lacks subject-matter jurisdiction because no exception to immunity has been satisfied
+under the Foreign Sovereign Immunities Act. See Mot. at 2. It also contends that Gretton’s
+efforts to effect service were defective and that personal jurisdiction therefore does not exist. Id.
+Finally, Respondent urges dismissal under the forum non conveniens doctrine because France is
+
+an adequate alternative forum for adjudication. Id. In the event the Court declines to dismiss,
+
+Case 1:18-cv-01755-JEB Document 24 Filed 02/06/19 Page 4 of 13
+
+Uzbekistan last maintains that this “case should be stayed pending the outcome of proceedings to
+set aside the Award.” Id. at 3.
+
+Ordinarily, courts must begin by assuring themselves of their own jurisdiction. See Steel
+
+ 
+
+Co. v. Citizens for a Better Environment, 523 U.S. 83, 94-95 (1998). There are, however,
+exceptions to that general precept. The Court first concludes that it is proper to treat the stay
+question without ruling on the jurisdictional issues and then explains why a stay is appropriate
+here.
+
+A. Addressing Stay First
+
+Although a court must establish its jurisdiction to hear a case before analyzing any merits
+
+issue, see Foster v. Chatman, 136 S. Ct. 1737, 1745 (2016), it may — “when considerations of
+
+ 
+
+convenience, fairness, and judicial economy so warrant” — “‘deny[] audience to a case on the
+merits” on a non-jurisdictional “threshold ground[].” Sinochem Int’] Co. v. Malaysia Int’]
+Shipping Co., 549 U.S. 422, 425, 431-32, 436 (2007) (citations omitted). In Sinochem, the
+Court reasoned that it could make a forum non conveniens determination before resolving
+subject-matter jurisdiction because — while the FNC analysis could “involve a brush with
+factual and legal issues of the underlying dispute” — it was nonetheless a “threshold, nonmerits
+issue” since “[rJesolving [it] does not entail any assumption by the court of substantive law-
+declaring power.” Id. at 433 (internal quotation marks and citation omitted); see also Pub.
+Citizen v. U.S. Dist. Court for the Dist. of Columbia, 486 F.3d 1342, 1348 (D.C. Cir. 2007)
+(“[C]ertain non-merits, nonjurisdictional issues may be addressed preliminarily because
+
+‘[jlurisdiction is vital only if the court proposes to issue a judgment on the merits.’”) (quoting
+
+Sinochem, 549 U.S. at 431).
+
+Case 1:18-cv-01755-JEB Document 24 Filed 02/06/19 Page 5 of 13
+
+The stay of a petition to enforce an arbitration award, likewise, is a threshold issue that
+the Court may properly consider before jurisdiction. Analyzing its propriety involves no
+question relating to the merits of the underlying dispute. Indeed, without first resolving
+outstanding questions about their jurisdiction, both the D.C. Circuit and another district court in
+this circuit have determined it appropriate to stay such a petition where there were ongoing
+proceedings related to the award in a foreign jurisdiction. See Telcordia Technologies, Inc. v.
+
+Telkom SA, Ltd., 95 F. App’x 361, 362-63 (D.C. Cir. 2004); Hulley Enterprises, Ltd. v. Russian
+
+ 
+
+Fed’n, 211 F. Supp. 3d 269, 277-80 (D.D.C. 2016) (“A stay of proceedings in this case is exactly
+the type of nonmerits action the Sinochem decision contemplates.”). This Court will follow the
+same course here because, as the analysis in the next section indicates, a stay will serve several
+important interests in this case.
+
+B. Merits of Stay
+
+Uzbekistan contends that a stay is warranted because Oxus, Gretton’s assignor, is seeking
+to set aside the Award in the Paris Court of Appeal. The Court, Respondent believes, would be
+wiser to await the outcome there before proceeding. See Mot. at 19-22. There is no dispute here
+that the Court can stay the case under the New York Convention. See Art. VI (authorizing
+district courts to “adjourn the decision . . . [i]f an application for the setting aside or suspension
+
+of the award has been made to a competent authority”); see also Mot. at 19-20; ECF No. 18
+
+ 
+
+(Opp.) at 18-19. The only question is whether it should. In that regard, neither the Convention
+nor the Federal Arbitration Act elucidates how a court ought to exercise its discretion in
+weighing a stay. Courts in this circuit, however, have looked to the six factors set out in the
+Second Circuit’s decision in Europcar, 156 F.3d at 317-18. See e.g., Hardy Exploration &
+
+Production Inc. v. Gov’t of India, 314 F. Supp. 3d 95, 105 (D.D.C. 2018); Chevron Corp. v.
+
+Case 1:18-cv-01755-JEB Document 24 Filed 02/06/19 Page 6 of 13
+
+Republic of Ecuador, 949 F. Supp. 2d 57, 71-72 (D.D.C. 2013); Cont’] Transfert Technique Ltd.
+v. Fed. Gov’t of Nigeria, 697 F. Supp. 2d 46, 59-60 (D.D.C. 2010). Given this widespread
+adoption, and the fact that both parties tailor their arguments to these factors, the Court will
+follow suit.
+
+Europcar instructs courts to consider:
+
+(1) the general objectives of arbitration—the expeditious resolution
+of disputes and the avoidance of protracted and expensive litigation;
+
+(2) the status of the foreign proceedings and the estimated time for
+those proceedings to be resolved;
+
+(3) whether the award sought to be enforced will receive greater
+scrutiny in the foreign proceedings under a less deferential standard
+of review;
+
+(4) the characteristics of the foreign proceedings including (i)
+whether they were brought to enforce an award (which would tend
+to weigh in favor of a stay) or to set the award aside (which would
+tend to weigh in favor of enforcement); (ii) whether they were
+initiated before the underlying enforcement proceeding so as to raise
+concerns of international comity; (iii) whether they were initiated by
+the party now seeking to enforce the award in federal court; and (iv)
+whether they were initiated under circumstances indicating an intent
+to hinder or delay resolution of the dispute;
+
+(5) A balance of the possible hardships to the parties . . . ; and
+
+(6) Any other circumstances that could tend to shift the balance in
+favor of or against adjournment... .
+
+156 F.3d at 317-18. Each side claims the factors as its own. Uzbekistan, for its part, emphasizes
+that a stay could avoid “unnecessary protracted litigation” during the pendency of French
+proceedings and that it would “only be necessary for a modest amount of time.” See Mot. at 21.
+Gretton, unsurprisingly, takes the opposite position, maintaining that a stay would unduly delay
+enforcement of an executable judgment without advancing any adjudicative interest. For the
+
+reasons that follow, Uzbekistan gets the better of the argument.
+
+Case 1:18-cv-01755-JEB Document 24 Filed 02/06/19 Page 7 of 13
+
+Before jumping into the factors, the Court notes the unusual posture of the stay request in
+this case. Ordinarily, the party seeking a stay is also the party seeking to set aside the award in
+parallel foreign proceedings. That such a party would seek a stay is understandable, for it
+typically hopes that a subsequent victory in foreign proceedings will render the U.S. ones
+unnecessary. This case is different. Uzbekistan, the party asking for a stay, is not the one that
+initiated proceedings to set aside the Award; instead, it is the opposite side that is responsible for
+the foreign proceedings. Given this posture, Uzbekistan’s motivations are somewhat different
+from those of the ordinary stay-seeking party. Its request is presumably based on a desire to
+avoid defending itself in two fora simultaneously and to limit the likelihood of piecemeal
+enforcement of the Award in the United States. As the Court will explain, this unusual posture
+influences the direction of several factors and ultimately favors staying the case.
+
+1. Objectives of Arbitration
+
+The first factor, the general objectives of arbitration, weighs in favor of a stay. As noted,
+arbitration promotes “the expeditious resolution of disputes and the avoidance of protracted and
+expensive litigation.” Europcar, 156 F.3d at 317. Issuing a stay often contravenes these goals,
+since it typically delays resolution in U.S. courts until the foreign proceedings conclude. See,
+e.g., Hardy Exploration, 314 F. Supp. 3d at 106; Gold Reserve Inc. v. Bolivarian Republic of
+Venezuela, 146 F. Supp. 3d 112, 135 (D.D.C. 2015). Not so here, however. That is because the
+stay — and, more importantly, the party seeking it — is not responsible for dragging out this
+litigation. Rather, it is Gretton and Oxus, via their efforts in the French courts, who are the
+culprits, and those proceedings would not end upon this Court’s confirmation of the arbitral
+award. So, if anyone is delaying “the expeditious resolution” of this dispute and lengthening
+
+already “protracted and expensive litigation,” it is Gretton. See EDF Intern. S.A. v. YPF S.A.,
+
+Case 1:18-cv-01755-JEB Document 24 Filed 02/06/19 Page 8 of 13
+
+676 F. Supp. 2d 317, 318 (D. Del. 2009) (noting that party seeking confirmation of arbitral award
+“also filed a challenge” to it abroad).
+
+A stay here will, in fact, serve the purposes of arbitration by reducing the likelihood of
+unnecessary and expensive piecemeal litigation. If the Court were to side with Gretton now and
+then Oxus were to win on appeal in Paris, one of them could well be back in a U.S. court seeking
+to enforce a greater award amount and litigating some of the issues raised in this case all over
+again. That is hardly the kind of efficient dispute resolution that arbitration is meant to serve.
+Cf. InterDigital Comms., Inc. v. Huawei Invest. & Holding Co., 166 F. Supp. 3d 463, 471
+(S.D.N.Y. 2016) (finding stay appropriate given “duplication and delay from pursuing this
+enforcement proceeding”). It also seems unfair to require Uzbekistan to contest similar issues
+multiple times in multiple litigations.
+
+In finding that this factor favors a stay, the Court acknowledges that it does not do so
+unequivocally. The New York Convention favors the immediate enforcement of arbitral awards.
+See art. III. Back in 2016, Oxus obtained an order from the French courts making the $10
+million award immediately executable. See Pinna Decl., | 4. The Award has since apparently
+passed to Gretton, see ECF No. 17-3 (Mortgage), even while Oxus — presumably funded by
+Gretton — continues to appeal the claims that it lost in arbitration. See ECF No. 17-5 (Litigation
+Funding Agreement). Petitioner understandably has an interest in collecting on the Award, which
+has now lain unredeemed since late 2015. Ultimately, however, that interest is not so substantial
+as to outweigh Gretton’s own responsibility for lengthening the proceedings and creating the
+
+possibility of avoidable litigation.
+
+Case 1:18-cv-01755-JEB Document 24 Filed 02/06/19 Page 9 of 13
+
+2. Status of Foreign Proceedings
+
+The second factor — the status of the foreign proceedings and the estimated time for their
+resolution — weighs strongly in favor of Uzbekistan. All written submissions were due to the
+Paris Court of Appeal on January 24, 2019, and a hearing is scheduled for March 26, 2019. See
+Pinna Decl., { 7. Respondent has represented — and Gretton has not contested — that the court
+typically decides matters within two months of the hearing. Id. The parties can thus expect a
+decision by the end of May 2019. In the context of the many years of litigation over this matter,
+for which both parties have been responsible, another four months is a comparatively short time
+for Gretton to wait. See InterDigital Comms., 166 F. Supp. 3d at 471—72 (finding stay
+appropriate given mere months until resolution of foreign proceedings); In re Arbitration of
+Certain Controversies between Getma Int’] & Republic of Guinea, 142 F. Supp. 3d 110, 115-16
+(D.D.C. 2015) (finding second factor weighs in favor of stay because proceedings will resolve
+within year of issuance of opinion).
+
+Gretton replies that the May 2019 timeframe does not account for the possibility of
+appeals to the French Supreme Court. See Opp. at 21-22. To the extent it suggests that Oxus
+may appeal, the Court is not especially sympathetic. It is possible, however, that if Uzbekistan
+loses, it might attempt to lengthen proceedings in some manner. The Court, accordingly, will
+stay these proceedings only until the Paris Court of Appeal releases its decision in this matter,
+which it expects will occur in the next several months. At that point it can reweigh the factors
+depending on how the parties expect to proceed overseas.
+
+3. Scrutiny of Award in Foreign Proceedings
+The third Europcar factor — whether the Award will receive greater scrutiny in foreign
+
+proceedings — favors neither side. The issues in the Paris proceedings appear to have little
+
+Case 1:18-cv-01755-JEB Document 24 Filed 02/06/19 Page 10 of 13
+
+overlap with those here because they address claims that Oxus lost, which are not (currently) part
+of the Award Gretton seeks to enforce in this case. Any difference in standard of review thus has
+little relevance to the need for a stay.
+
+4. Characteristics of Foreign Proceeding
+
+Though styled as a single factor, the fourth actually involves several related but distinct
+considerations pertaining to the foreign proceeding. The first of those is whether that proceeding
+is one to enforce an award (weighing in favor of a stay) or one to set aside an award (weighing
+against). It is true that the Paris proceeding seeks to set aside the Award. Yet that posture does
+not weigh against a stay. To understand why, consider the reason stays are disfavored when a
+foreign proceeding is one to set aside an award. It is, in short, because such a proceeding “might
+frivolously delay proper enforcement of the Award.” Gold Reserve, 146 F. Supp. 3d at 136.
+Here, though, no concern of frivolous delay on Uzbekistan’s part exists because it is not the party
+that initiated the set aside. This consideration thus does not favor a stay.
+
+The second consideration is whether the foreign proceedings “were initiated before the
+underlying enforcement proceeding so as to raise concerns of international comity.” Europcar,
+156 F.3d at 318. This one unquestionably favors Uzbekistan. Oxus challenged the arbitral
+award in the Paris Court of Appeal on July 26, 2016. See Pinna Decl., 5. Yet Gretton, as
+noted, did not file the Petition in this Court until two full years later. See Petition. (That delay,
+furthermore, was not attributable to the assignment of rights to Gretton, which occurred in 2012
+and was noticed to Uzbekistan in January 2016.) To intervene and issue a decision on the
+enforcement of the Award now when those proceedings are so near to wrapping up would raise
+significant international-comity concerns. See Hulley Enterprises, 211 F. Supp. 3d at 287
+
+(explaining that “comity considerations support granting a stay” in part because “foreign
+
+Case 1:18-cv-01755-JEB Document 24 Filed 02/06/19 Page 11 of 13
+
+proceedings were initiated prior to the instant action”); see also Telcordia, 95 F. App’x at 362-63
+
+ 
+
+(finding stay appropriate when foreign proceedings began before suit filed in district court). This
+consideration thus strongly counsels in favor of staying the Court’s pen.
+
+Third, waiting may be appropriate if the proceedings abroad “were initiated by the party
+now seeking to enforce the award in federal court.” Europcar, 156 F.3d at 318. Since
+Petitioner’s assignor, Oxus, is the one pursuing the foreign proceedings — and Gretton appears
+
+to be funding its efforts there, see Litigation Funding Agreement — this one favors Respondent.
+
+ 
+
+The fourth and final consideration is whether the foreign proceedings “were initiated
+under circumstances indicating an intent to hinder or delay resolution of the dispute.” Europcar,
+156 F.3d at 318. The intuition here is that a stay should not be granted if the party seeking it
+initiated the foreign proceedings merely to delay resolution of the case. See Gold Reserve, 146
+F. Supp. 3d at 136. Because Uzbekistan is not the one that initiated the proceedings abroad, it
+could not have acted therein to delay the case. Gretton thus finds no recourse on this
+consideration either.
+
+5. Balance of Hardships
+
+The fifth factor addresses the balance of possible hardships to the parties. Europcar, 156
+F.3d at 318. Not surprisingly, both sides argue that this tips in their favor. Uzbekistan
+emphasizes that it will have to expend significant resources defending itself simultaneously here
+and in Paris and that Gretton will suffer little harm from just a few months’ more delay. See
+Mot. at 22. Petitioner, conversely, contends that “a foreign sovereign of immense resources is
+not substantially harmed by the enforcement of the award” and that there will be no further
+litigation in this Court because Uzbekistan lacks any basis to defend against the Award. See
+
+Opp. at 23.
+
+Case 1:18-cv-01755-JEB Document 24 Filed 02/06/19 Page 12 of 13
+
+The Court finds that the balance again favors the country. To be sure, Respondent is a
+foreign sovereign with substantial resources, and the $10 million arbitral award has been
+executable for several years. At the same time, Gretton has not explained what particular harms
+it will suffer from a several-month stay. Given Petitioner’s responsibility for lengthening
+proceedings abroad, and the risks of duplicative litigation over enforcement of the Award arising
+from them, the Court finds that the balance tips in favor of a short stay. Taking this course
+conserves judicial resources — the jurisdictional issues Uzbekistan raises are thorny and
+deserving of substantial attention. It also, more importantly, conserves the parties’ resources.
+Even if the Court sided with Gretton and also refused to allow further briefing on the merits of
+confirming the Award, Respondent would be within its rights to appeal to the D.C. Circuit. It
+seems improbable that the matter would be resolved before the Paris Court of Appeal issues its
+decision. Ruling now would be imprudent while also doing little to advance Gretton’s interests
+in immediate satisfaction of the Award. See InterDigital Comms., 166 F. Supp. 3d at 471 (noting
+that “[w]hatever result this Court reached on the merits would be subject to appeal with the
+associated delay and expense”). In all, the balance easily favors a short stay.
+
+6. Other Considerations
+
+The sixth and final factor looks at “any other circumstances” that might shift the balance.
+See Europcar, 156 F.3d at 318. Two such circumstances are worthy of note, both favoring
+Gretton slightly. The first is that the Court is unsure how likely the Paris proceedings are to
+overturn the portion of the Award subject to the enforcement Petition in this case. That risk may
+well be little: Oxus has there appealed certain of the issues it lost in arbitration, and Uzbekistan
+has not cross-appealed. See Pinna Decl., {[ 4-5. Still, Respondent has argued in the alternative
+
+that if the Paris court were to side with Oxus on appeal, it should vacate the entire arbitral award.
+
+Case 1:18-cv-01755-JEB Document 24 Filed 02/06/19 Page 13 of 13
+
+Id. So there remains at least some possibility that the underlying Award in this case will be
+vacated. The relevant point, however, is that the Award before this Court may not be going
+anywhere. That consideration weighs against a stay, as it means there is less concern about
+conflicting decisions or orders between the courts. It is not enough, however, to tip the balance
+in Gretton’s favor. As noted, numerous values counsel in favor of a stay, including concerns
+about duplicative enforcement proceedings in U.S. courts, the unfairness to Uzbekistan of having
+to defend itself simultaneously in two fora, and the international-comity issues associated with
+issuing a decision mere months before the Paris court is likely to do so.
+
+The second circumstance is that Gretton is not technically the same party involved in the
+foreign proceedings. That is, instead, its assignor, Oxus. While this might mitigate in some
+small way the concerns the Court raised about Petitioner’s responsibility for the foreign
+proceedings, it does not affect the conclusion. Oxus is Gretton’s assignor, and Gretton
+presumably will receive the benefits, if any, of the set-aside proceedings in Paris. Indeed, while
+the Court does not have the entire litigation funding agreement before it, Gretton may well be
+funding or controlling Oxus’s continued actions in the Paris courts. See Litigation Funding
+Agreement. Needless to say, it makes sense to treat them as one when their interests and
+activities are so closely aligned.
+
+IV. Conclusion
+For these reasons, the Court will grant Respondent’s Motion and stay proceedings until
+
+the Paris Court of Appeal has issued its ruling. A separate Order so stating will issue this day.
+
+‘si James £. Boasberg
+
+JAMES E. BOASBERG
+United States District Judge
+Date: February 6, 2019
+

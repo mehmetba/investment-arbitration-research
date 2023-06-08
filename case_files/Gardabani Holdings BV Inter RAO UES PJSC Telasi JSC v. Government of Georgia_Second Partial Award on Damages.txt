@@ -1,0 +1,1819 @@
+THE ARBITRATION INSTITUTE OF THE
+STOCKHOLM CHAMBER OF COMMERCE
+
+GARDABANI HOLDINGS B.Y.
+INTER RAO UES PJSC
+TELASI, JSC
+Claimants
+vw
+GEORGIA
+MINISTRY OF ECONOMY AND SUSTAINABLE DEVELOPMENT OF GEORGIA
+STATE SERVICE BUREAU LTD
+Respondents
+
+SCC Arbitration V2018/039,
+administered by ICSID as ICSID Case No. ADM/18/1
+
+ 
+
+SECOND PARTIAL AWARD ON DAMAGES
+
+ 
+
+Members of the Tribunal
+Mr. Henri C. Alvarez QC, President of the Tribunal
+Professor Stanimir Alexandrov, Arbitrator
+Professor Zachary Douglas QC, Arbitrator
+ICSID Legal Counsel
+
+Mr. Alex Kaplan
+
+Date of dispatch to the Parties: 23 November 2021
+
+REPRESENTATION OF THE PARTIES
+
+Counsel for the Claimants:
+
+Mr, Noah Rubins QC
+
+Mr. Dmitry Surikov
+
+Mr. Alexey Yadykin
+
+Ms. Vasuda Sinha
+
+Ms. Elena KhmeleyskayaMs.
+Ms. Mariia Puchyna
+
+Mr. Maxim Pyrkov
+
+Ms. Veronika Timofeeya
+
+Freshfields Bruckhaus Deringer LLP
+9 avenue de Messine
+
+75008 Paris
+
+France
+
+and
+
+Kadashevskaya nab 14/2
+119017 Moscow
+Russia
+
+and
+
+Mr. Avto Svanidze
+Ms. Mariam Vashakidze
+
+Dentons Georgia LLC
+Melikishvili street # 10
+Tbilisi 0179
+
+Georgia
+
+Counsel for the Respondents:
+
+Ministry of Justice of Georgia
+Gorgasali st. 24a
+
+0114 Tbilisi
+
+Georgia
+
+and
+
+Mr. Charles Nairac
+Ms. Kirsten Odynski
+Ms. Noor Davies
+
+Ms. Anais Harlé
+
+Ms. Elina Aleynikova
+
+White & Case LLP
+19 Place Vendéme
+75001 Paris
+France
+
+esa pear
+
+TABLE OF CONTENTS
+
+INTRODUCTION
+THE PARTIES
+PROCEDURAL HISTORY OF THE PROCEEDINGS...
+FACTUAL OVERVIEW
+POSITIONS OF THE PARTIES.
+
+DECISION AND ANALYSIS
+
+A. Damages suffered by Garda
+
+B. Damages suffered by Telasi and Inter RAO.
+INTEREST
+CONCLUSIONS AND ORDER
+
+ 
+
+ 
+
+ 
+
+SCC Arbitration V201 8/039; ICSID Case No. ADM/18/1
+
+Second Partial Award on Damages — 23 November 2021
+
+ 
+
+ 
+
+ 
+
+LIST OF ABBREVIATIONS
+Abbreviation Definition
+2006 Energy Policy Resolution of Georgia’s Parliament on the main directions of
+
+Georgia’s energy sector policy; in order to attract investments
+and development competition, electricity distributioncompanies
+had to be privatized, and provided different types oftariffs to
+protect consumers from monopolistic prices and permit long-
+term sustainable growth (RL-0006)
+
+ 
+
+2006 Tariff Resolution | 15 May 2006 NERC Resolution No. 18 fixed Telasi’s WAPT at
+4.303 tetri/kWh and its average Distribution Tariff at 7.89
+tetri/kWh, effective 1 June 2006 (R-0014)
+
+2007 Memorandum 20 June 2007 agreement between_Inter_RAO_and_ the
+Governmen
+
+ 
+
+ 
+
+ 
+
+2010 Memorandum 1 October 2010 non-binding memorandum_of _understandin
+between Inter RAO and the Government:
+
+ 
+
+2011 Memorandum 31 March 2011 Memorandum on the Development of
+Cooperation in the Electric Power Sector and the
+Implementation of Previous Agreements, between Inter RAO
+and the Government
+
+     
+
+see also Khrami SPA, 12 April
+2011 (C-0016)
+
+ 
+
+2012 Temporary 26 December 2012 transitional memorandum_between_Inter
+Memorandum RAO and the Government;
+
+   
+
+2013 Memorandum 31 March 2013 agreement between Georgia, the Partnership
+Fund JSC (a Georgian state-owned_company), Inter RAO,
+Telasi, and the Khrami Companies,
+
+(C-0034 / R-0028)
+
+ 
+
+ 
+
+ 
+
+2011 Methodology 8 June 2011 NERC’s Methodology for Electricity Tariff
+Calculation (CL-0081)
+
+ 
+
+ 
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Second Partial Award on Damages — 23 November 2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Abbreviation Definition
+
+2014 Amended 10 August 2017 NERC Resolution No, 20 substantially
+
+Methodology amended the 2014 Methodology
+
+2014 Methodology 30 July 2014 NERC’s new tariff methodology for Distribution
+Tariffs and Consumer Tariffs; did not specifically exempt
+companies that had specific tariff agreements (CL-0084)
+
+AES AES Mtkvari LLC; local Georgian thermal power generation
+company, acquired by Inter RAO in 2003
+
+CEO Chief Executive Officer
+
+Claimants Collectively, SCC Arbitration Claimants and ICSID Arbitration
+
+Claimants
+
+ 
+
+Consumer Tariffs
+
+Maximum rates that a distribution company (in this case, Telasi)
+can charge to its customers, and which form the revenue
+component of a distribution company’s business: comprise the
+sum of the WAPT and the Distribution Tariff
+
+ 
+
+COPS (also known as
+ESCO)
+
+Commercial Operator of Power System / Electricity System
+Commercial Operator; Georgian State-owned company
+responsible for operating the electricity market
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cost-Plus Tariff methodology in force Laie until the
+2011 Methodology; covered costs and a reasonable rate of return
+
+CPI Consumer Price Index; average annual inflation rate published
+by the National Statistics Office of Georgia
+
+DCF Discounted cash flow
+
+Discounting Rate Rate at which free cash flow to the firm (FCFF) is discounted
+
+ 
+
+Distribution Tariff or
+Distribution Margin
+
+Computed for different voltage levels as the distributor's
+forecast per unit cost, calculated on a regulatory basis; not rates
+charged to customers, but rather they represent a distribution
+company’s margin on a tetri per kWh basis
+
+ 
+
+Earnings before interest, tax, depreciations and amortization are
+
+ 
+
+ 
+
+ 
+
+ 
+
+EBITDA F
+paid
+
+EC European Commission
+
+Electricity Balance Before the start of each year, the GSE prepares, and the MOE
+approves, the electricity balance; includes a general forecast of
+the output of each generating plan, an estimate of electricity
+imports and exports, and a forecast of total electricity sales by
+each distribution company (CL-0073, Article 23.1)
+
+Energo-Pro Energo-Pro is one of Georgia’s three electricity distributors,
+
+ 
+
+along with Telasi and Kakheti
+
+ 
+
+iv
+
+ 
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Second Partial Award on Damages — 23 November 2021
+
+ 
+
+Abbreviation
+
+Definition
+
+ 
+
+Enguri
+
+Enguri HPP LLC, along with Vardnili, are the two largest HPPs
+generation companies in Georgia and are State-owned
+
+ 
+
+ESCO (also known as
+“COPS”)
+
+The Electricity System Commercial Operator (also known as the
+Commercial Operator of Power System); State-owned balancer
+of electricity on the market by trading the volume of electricity
+delivered into the network by generators and importers which is
+not purchased under direct agreements with distributors
+
+ 
+
+EU
+
+European Union
+
+ 
+
+FCFE
+
+Free cash flow to equity is used to determine losses at the
+shareholder level, and measures how much cash is available to
+equity-holders of a company after changes in net borrowings
+and interest is paid
+
+ 
+
+FCFF
+
+Free cash flow to the firm is used to determine losses at the local
+level, and measures the financial performance of a company by
+expressing the amount of cash generated by a firm after
+considering expenses, taxes, and changes in net working capital
+and investments
+
+ 
+
+ 
+
+Gardabani
+
+Gardabani Holdings B.V.
+
+ 
+
+GACG
+
+General Administrative Code of Georgia (RL-0005)
+
+ 
+
+GCC
+
+Georgian Civil Code (RL-0009)
+
+ 
+
+Generation Tariffs
+
+The rates that can be charged by each company for the sale of
+the energy it generates
+
+ 
+
+GEL
+
+Georgian national currency Lari
+
+ 
+
+—EEEEEs
+
+The Government or
+Georgia
+
+Georgia (collectively the Respondents: Georgia, Ministry of
+
+Economy, and State Service)
+
+ 
+
+Georgian State Electrosystem; State-owned entity which has
+
+been designated as the transmission system operator (TSO)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Second Partial Award on Damages ~ 23 November 2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Abbreviation
+HPPs Hydropower plants
+ICSID Clai Collectively Silk Road and Gardabani
+ICSID Respondents Collectively the Government of Georgia, Ministry of Economy,
+and State Service
+Inter RAO Inter RAO UES, PJSC
+
+lll
+
+|
+Until 2017, Kakheti Energy Distribution supplied electricity to
+
+ 
+
+ 
+
+Kakheti . ‘
+savas Kakheti, the eastern region of Georgia, and was one of three
+electricity distribution companies, along with Telasi and
+Energo-Pro; in 2017, it was acquired by Energo-Pro
+Khrami-1 JSC Khrami-1
+Khrami-2 JSC Khrami-2
+
+ 
+
+Khrami Companies, the | Collectively Khrami-1 and 2.
+
+ 
+
+il 2011 sales and purchase agreement for Gardabani’s
+
+  
+
+ 
+
+Kh iSPA
+rane ion of 100% of the Khrami Companies
+(C-0016); see also 2011 Memorandum (C-0015 / R-
+0019)
+kWh Kilowatt hour
+
+ 
+
+Law of Georgia on Electricity and Natural Gas, adopted in 1997
+and amended in June 2017 (and passed in May 2018); separates
+and allocates the ownership, commercial and regulatory
+functionsbetween the MOE and the NERC (CL-0073 / RL-
+0001)
+
+Law on Electricity
+
+ 
+
+Law on Independent National Regulatory Authorities; governs
+
+ 
+
+ 
+
+ 
+
+Larry INRAs NERC (RL-0004)
+Ministry of Economy Ministry of Economy and Sustainable Development of Georgia
+Ministry of Energy and Sustainable Development; implements
+MOE fy ‘
+Georgia’s energy policy; Second Respondent
+NERC Georgian National Energy and Water Supply Regulatory
+
+Commission; national electricity regulator and monitor
+
+NERC Annual Energy | NERC sets an annual plan, based on the Electricity Balance
+Plan approved by the MOE, indicating how much energy each
+distribution company will acquire from each generator on a
+month-to-month basis over the course of a year
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vi
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/I
+Second Partial Award on Damages ~ 23 November 2021
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Abbreviation Definition
+‘ 3 April 2013 resolution which amended Resolution No. 33
+RC No. P
+NEBL Resobtaa Not (2008) to include the new tariffs applicable to Telasi from 1
+April 2013 onwards; implemented the tariffs in the 2013
+Memorandum (CL-0083)
+‘ 7 April 2011 (CL-0080); implemented the tariffs in the 2011
+NERG Regulation No<s Memorandum and Annex | of the Khrami SPA
+2 27 December 2012 (CL-0082, initially mislabelled by the
+SERS RewwnquaNe. Claimants as C-0082); implemented the tariffs in the 2012
+Temporary Memorandum
+5 NERC Resolution No. 33 “On Adoption of Electricity
+NE! uti 5
+RC Resolution No. 33) (city) Rates”, 4 December 2008 (CL-0078); implemented
+the tariffs in the 2007 Memorandum; updated 3 April 2013 (CL-
+0083)
+NERC ResolutionNo. Prescribes the Telasi Consumer Tariffs for 2018-2020
+48 (CL-0091)
+NPV Net present value
+NWC Net working capital
+OB Opening balance — data at the beginning of the period
+Operational Expenses: expenses related to the operation and
+OPEX : aa at ge
+maintenance of the electricity distribution grid, and other current
+expenses related to the regulated activity (2014 Methodology,
+CL-0084)
+Partnership Fund JSC Georgian State-owned company. owns 24.64% of Telasi
+
+ 
+
+Purchase Portfolio
+
+Allocation of energy purchases from different generators to a
+distributor; each distributor’s purchase portfolio includes a
+combination of more and less expensive sources of energy for
+the year; NERC’s Annual Energy Plan for each distribution
+company identifies, for each month, the generation companies
+from which a particular distribution company must purchase
+electricity, and in what volumes
+
+ 
+
+Regulatory Asset Base (2014 Methodology, CL-0084)
+
+ 
+
+ 
+
+ 
+
+Regulatory Cost Base (2014 Methodology, CL-0084)
+
+ 
+
+ 
+
+= |
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+23 November 2021
+
+Second Partial Award on Damage:
+
+ 
+
+ 
+
+[Abbreviation | Definition |
+
+Definition
+
+ 
+
+SCC Claimants Collectively Inter RAO, Telasi and |icolléctivelyintesRAO, TélasiandGardaban? 4. |
+Scenario 1 (But-For) Takes into account Telasi’s Consumer Tariffs and Khrami
+(Claimants/Peer) Companies’ Generation Tariffs, calculated in accordance with
+
+2013 Memorandum for both the Historical and Forecast Periods
+
+ 
+
+Scenario 2 (Actual)
+(Claimants/Peer)
+
+Takes into account Telasi’s actual Consumer Tariffs determined
+by NERC in Historical Period; for Forecast Period, takes into
+account Telasi’s Consumer Tariffs calculated in accordance
+with the 2014 Amended Methodology
+
+ 
+
+Silk Road
+
+Silk Road Holdings B.V.
+
+ 
+
+State Service Bureau
+
+ 
+
+Georgian state-owned enti | Georgian state-owned entity; Respondent____|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Telasi JSC Telasi, Inter RAO’s Georgian distribution company;
+established in 1995 as a Georgian joint stock company, and
+owned by Georgia until 1998; 75% bought by AES Silk Road
+Holdings BV in 1998
+
+Telasi SPA 21 December 1998 share purchase agreement through which
+AES Silk Road Holdings BV acquired 75% of Telasi (C-0001)
+
+Tetri 1 Tetri is equal to 0.01 GEL
+
+TOTEX Allowed distribution revenues
+
+TPPs Gas-fired thermal power plants
+
+TSO Transmission system operator
+
+ 
+
+ 
+
+Twinning Initiative
+
+ 
+
+Since 2012, and in parallel with the MOE and Inter RAO’s
+negotiations concerning the 2013 Memorandum, NERC was in
+the process of updating its tariff regime to bring it in line with
+the best practices of other EU Member States, pursuant to
+funding provided by the EC’s “Twinning Initiative” for inter-
+EU knowledge sharing and administrative reform, which
+culminated in the adoption of the 2014 Methodology
+
+ 
+
+ 
+
+viii
+
+SCC Arbitration V2018/039; ICSID Ce
+Second Partial Award on Damages
+
+e No. ADM/18/1
+23 November 2021
+
+  
+
+ 
+
+ 
+
+ 
+
+Definition
+
+ 
+
+ 
+
+ 
+
+ 
+
+USD United States Dollar
+
+Vardnili Vardnili HPP LLC, along with Enguri, are the two largest HPP
+generation companies in Georgia and are state-owned
+
+WACC Weighted Average Cost of Capital
+
+WAPT
+
+ 
+
+ 
+
+ 
+
+Weighted Average Purchase Tariff
+
+ 
+
+> Arbitration V2018/039; ICSID Case No. ADM/18/1
+nd Partial Award on Damages — 23 November 2021
+
+   
+
+DRAMATIS PERSONAE
+
+ 
+
+Messrs Manuel A.
+
+The Claimants’ regulatory experts on the issues of the regulatory
+changes in the allocation of Telasi’s electricity purchases;
+submitted three expert reports: First Abdala & Delamer Expert
+Report, dated 27 June 2018 (“Abdala & Delamer I”); Second
+Abdala & Delamer Expert Report, dated 1 March 2019
+(“Abdala & Delamer II”); Third Abdala & Delamer Expert
+Report, dated 16 September 2019 (“Abdala & Delamer III”)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Second Partial Award on Damages — 23 November 2021
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+xi
+
+ 
+
+SCC Arbitration V2018/039: ICSID Case No. ADM/18/1
+Second Partial Award on Damages — 23 November 2021
+
+ 
+
+| |
+
+ 
+
+prea
+
+ 
+
+Dr. Boaz Moselle
+
+   
+
+The Respondents’ expert on damages; submitted four expert
+reports: First Expert Report, 23 November 2018 (“Moselle QP);
+Second Expert Report, 13 June 2019 (“Moselle If”); Third
+Expert Report, 22 November 2019 (“Moselle III”); Fourth
+Expert Report, 10 January 2020 (“Moselle IV")
+
+ 
+
+Mr. Michael Peer
+
+The Claimants’ expert on damages; submitted four expert
+reports: First Expert Report, 27 June 2018 (“Peer I’); Second
+Expert Report, 1 March 2019 (“Peer IT”); Third Expert Report,
+6 September 2019 (“Peer III”); Fourth Expert Report, 19
+December 2019 (“Peer IV”)
+
+ 
+
+Dr. Boaz Moselle and
+Mr. Michael Peer
+
+Dr. Boaz Moselle and Mr. Michael Peer submitted a joint expert
+report on 3 October 2019 (“JERI”) and a second joint expert
+report on 21 June 2021 (“JER2”).
+
+ 
+
+Dr. Paata Turava
+
+ 
+
+ 
+
+Eee See
+
+The Respondents’ Georgian law expert, particularly on the legal
+nature of the two contracts at issue in the Arbitration, the
+principles of contractual interpretation applicable to public law
+contracts, and the entitlement to lost profits under Georgian law;
+submitted two expert reports, dated 20 November 2018 and 12
+June 2019
+
+ 
+
+ 
+
+ 
+
+i
+
+ 
+
+ 
+
+ 
+
+    
+
+Arbitration V2018/039:
+Second Partial Award on Damages
+
+xiii
+
+SID Case No. ADM/18/1
+
+23 November 2021
+
+ 
+
+Page |
+SCC Arbitration V2018/039: ICSID Case No. ADM/18/1
+Second Partial Award on Damages - 23 November 2021
+
+i INTRODUCTION
+
+lL. This second partial award on damages addresses the quantification of damages flowing
+from the Tribunal’s previous awards in this matter: the Partial Award in on Liability, dated 19
+April 2021 (the “Partial Award on Liability”) and the Partial Award on Damages, dated 30 July
+2021 (the “First Partial Award on Damages”).
+
+2; As stated in the previous Partial Awards, this arbitration concerns a dispute submitted
+under the Rules of the Stockholm Chamber of Commerce (“SCC”). pursuant to the terms of the
+arbitration agi ined in the M dum on the Devel of Ci ion in the
+Electric Sector and the Implementation of Previous Agreements between the Government of
+Georgia, the Partnership Fund JSC (a Georgian state-owned entity), Inter RAO UES PJSC, Telasi
+JSC, the Khrami Companies, Khrami HPP-1 JSC and Khrami HPP-2 JSC, and Mtkvari Energy
+LLC (owned by Inter RAO) (the “2013 Memorandum”)! and a share purchase agreement
+between the Government of Georgia, the Ministry of Economy and Sustainable Development of
+
+Georgia, the State Service Bureau Ltd. and Gardabani Holdings B.V.(the “Khrami SPA”).?
+
+ 
+
+t C-0034 (Claimants* Ti ion) / R-0028 * Translation), N ‘on the Di p)
+of Cooperation in the Electric Power Sector and the Implementation of Previous Agreements between ( 1)
+Government of Georgia, (2) Partnership Fund JSC and (3) OJSC “INTER RAO UES", (4) Telasi JSC (5)
+Mikvari Energy LLC. (6) Khrami HPP-1 JSC, and (7) Khrami HPP-2 JSC dated 31 March 2013 (“2013
+Memorandum”), Clause 9, “Arbitration Section”, which provides at Clause 9.3 that “faJny dispute ... shall
+be finally settled by arbitration in with the Arbitration Rules of the Arbitration Institute of the
+Stockholm Chamber of Commerce.”
+
+> C-0016, Sale and Purchase Agreement on 100% of Shares of the Joint Stock Company “Khrami HPP-1"
+and 100% of Shares of the Joint Stock Company “Khrami HPP-2"between (1) Government of Georgia, (2)
+Ministry of Economy and Sustainable Development of Georgia, (3) State Service Bureau LTD and (4)
+COMPANY “Gardabani Holdings B.V.” dated 12 April 2011 (“Khrami SPA”), Clause 8, “Dispute
+Settlement”, which provides at Clause 8.4 that *[aJny dispute ... shall be finally settled by arbitration in
+
+with the Arbitration Rules of the Arbitration Institute of the Chamber of
+
+Commerce...”
+
+ 
+
+   
+
+Page 2
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Second Partial Award on Damages ~ 23 November 2021
+
+3. This is one of two arbitrations whose procedure the Parties have agreed to coordinate. This
+arbitration is referred to as the “SCC Arbitration”.
+
+4A, The other arbitration concerns a dispute submitted to the International Centre for
+Settlement of Investment Disputes (“ICSED”) under the Agreement on Encouragement and
+Reciprocal Protection of Investments between Georgia and the Kingdom of the Netherlands, which
+entered into force on | April 1999 (the “BIT” or “Treaty”), and the Convention on the Settlement
+of Investment Disputes between States and Nationals of Other States, which entered into force on
+14 October 1966 (the “ICSID Convention”). That arbitration is referred to as the “ICSID
+Arbitration”.
+
+as As discussed later in this Award, the Claimants” claim for damages and the Respondents’
+
+counterclaim overlap with their respective claims in the ICSID Arbitration.
+
+IL THE PARTIES
+
+6. The Claimants in this arbitration are PJSC Inter RAO UES (“Inter RAO”), a public joint
+stock company incorporated under the laws of Russia;? Gardabani Holding BV (“Gardabani”), a
+private limited liability company established under the laws of the Netherlands:* and JSC Telasi
+(“Telasi”), a joint stock electricity distribution company incorporated in Georgia.*
+
+‘he Gardabani owns 100% of Khrami HPP-1 JSC (“Khrami-1”) and JSC Khrami HPP-2 JSC
+
+(“Khrami-2”) (collectively, the “Khrami Companies”), which are electricity generation
+
+z Inter RAO’S address is: 27, Bolshaya Pirogovskaya Street, Building 2, 119435, Moscow. Russia:
+Netherlands Chamber of Commerce Business Register extract, C-0112. Inter RAO owns an indirect 100%
+interest in each ofGardabani Holdings BV (“Gardabani”) and Silk Road Holding BV (“Silk Road”).
+
+2 Gardabani’s address is: Strawinskylaan 655, 1077XX Amsterdam: The Netherlands Chamber of Commerce
+Business Register extract, C-0110.
+q Telasi’s address under the 2013 Memorandum is: 3 Vani Street, Tbilisi 0119, Georgia.
+
+Page 3
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Second Partial Award on Damages ~ 23 November 2021
+
+companies incorporated in Georgia. Telasi is a subsidiary of Silk Road Holdings BV, which owns
+75.11% of Telasi’s stock. Gardabani and Silk Road are subsidiaries of Inter RAO.
+
+8. The Respondents in this arbitration are the Government of Georgia (the “Government”);
+the Georgian Ministry of Economy and Sustainable Development of Georgia (“Ministry of
+Economy” or the “MOE”); and the State Service Bureau Ltd (“SSB”), a Georgian state-owned
+entity.°
+
+y: The Parties in the ICSID Arbitration are Gardabani and Silk Road, as Claimants, and
+
+Georgia, as the Respondent.
+
+Ii. PROCEDURAL HISTORY OF THE PROCEEDINGS
+
+10. The procedural history of these proceedings through 30 July 2021 is set out in the Partial
+Award on Liability and the First Partial Award on Damages.
+
+1]. Inthe First Partial Award on Damages. the Tribunal decided a number of issues relating to
+the calculation of damages, requested that the Parties’ damages experts recalculate damages on the
+basis of those findings and produce a new joint expert report on damages, and deferred the Parties’
+claims for interest and costs to the Final Award.
+
+12. The procedural developments since 30 July 2021 are summarized as follows:
+
+13. On 4 August 2021, the ICSID Secretariat wrote to the Parties to provide the Tribunal’s
+directions regarding the calculations of damages with respect to losses suffered by Telasi and the
+
+Khrami Companies for three relevant periods of time.
+
+- Georgia's official address and its address for receipt of notices under the 2013 Memorandum is: 7
+
+Street, Thilisi 0114, Georgia. The MOE’s legal address set out in the Khrami SPA is 12
+
+Tbilisi 0108, Georgia. The SSB’s registered address set out in the Khrami SPA is 12 Chanturia
+St.. Thilisi 0108, Georgia.
+
+  
+
+Page 4
+SCC Arbitration V2018/039: ICSID Case No. ADM/18/1
+Second Partial Award on Damages —23 November 2021
+
+ 
+
+ 
+
+14. On 3 September 2021, pursuant to the Tribunal’s directions, the Parties advised that they
+would provide the Tribunal with an updated joint expert report with revised calculations for the
+losses to Telasi ay and the losses to the Khrami Companies by 25 October 2021. On 7
+September 2021, the Tribunal confirmed the Parties’ proposed deadline for the submission of the
+new updated joint expert report (“JER3”).
+
+15. On 10 September 2021 the Respondents wrote to the ICSID Secretariat that the Parties
+
+jointly requested an extension of the deadline the Tribunal had set in its directions for providing
+
+2021. This request was confirmed by the Claimants on the following day. On 12 September 2021,
+the Tribunal accepted the requested extension of the deadline.
+
+16. On 24 September 2021, the Parties jointly requested a further extension of the deadline for
+the update [is until 28 September 2021. On the
+same date, the Tribunal granted the Parties’ request for an extension.
+
+17. On 28 September 2021, the Parties advised the Tribunal that they would require additional
+
+time to provide ap
+
+=e) On 29 September 2021, the Tribunal confirmed its acceptance of the Parties’
+proposal to provide the calculation of damages of Telasi and Inter RAO, anes by 25
+
+January 2022. The Tribunal also requested that the Parties provide, by 8 November 2021, an update
+
+ 
+
+SCC Arbitration V2018/039: ICSID C
+Second Partial Award on Damages — 23 November 2021
+
+18. On 25 October 2021, the Respondents requested an extension for the submission of JER3
+until 27 October 2021. The Claimants did not take a position on the Respondents’ request and the
+Tribunal granted the extension requested by the Respondents.
+
+19. On 27 October 2021, the Parties informed the Tribunal that their experts were finalizing
+JER3 and that they expected to submit it the following day.
+
+20. On 28 October 2021, the Parties submitted JER3 together with Exhibits MP-136 through
+MP-140 and BM-49.
+
+21. | On2 November 2021, in light of the Parties’ joint request to extend the deadline for their
+submissions on damages =a ae the Tribunal requested an
+extension of its deadline for issuing the Final Award i. On 3 November 2021,
+the SCC Secretariat granted the extension for the issuance of the Final Award.
+
+22. On2 November 2021, the Claimants requested that, in light of the deferral of the Tribunal’s
+award relating to the assessment of damages for the period Ss the
+Tribunal allocate the legal costs incurred to the date of this Second Partial Award on Damages in
+this award.
+
+23. On 8 November 2021, the Respondents opposed the Claimants’ request on the basis that
+the Tribunal should take a decision on the costs of the arbitration only after it had decided all the
+disputed issues between the Parties in both the SCC and ICSID arbitrations. The Respondents also
+submitted that it would not be practical for the Tribunal to allocate costs before the outcome of the
+ICSID arbitration since the Parties had not segregated their costs between the two arbitration
+
+proceedings.
+
+ 
+ 
+ 
+
+SCC Arbitration V2018/039; ICSID Ca
+Second Partial Award on Damages
+
+24. On 9 November 2021, the Parties submitted a joint pe
+
+I. 02¢ther with Exhibits R-0110 through R-0114.
+
+25. | On12 November 2021, the Tribunal denied the Claimants’ request relating to the award of
+costs and confirmed its decision in the First Partial Award on Damages to defer the determination
+
+of costs until the Final Award.
+
+Iv. FACTUAL OVERVIEW
+
+26. In the First Partial Award on Damages, the Tribunal made the following findings:
+
+For the reasons set out above, the Tribunal has reached the following
+conclusions in respect of the calculation of damages:
+
+ 
+
+Page 7
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Second Partial Award on Damages ~ 23 November 2021
+
+2
+
+=
+
+27, On 4 August 2021, the ICSID Secretariat wrote to the Parties to provide the following
+
+directions from the Tribunal regarding the calculation of damages:
+
+In the Partial Award on Damages, the Tribunal has requested that the Parties’
+experts adjust their models and recalculate damages figures in accordance with
+its Directions on Quantum and the directions set out in the award (Partial Award
+on Damages, paragraphs 168-171). The Tribunal requests that the Parties consult
+and jointly propose a date by which their respective experts’ recalculations can
+be prepared and submitted to the Tribunal in the form set out in paragraph 169
+of the Partial Award on Damages. The Tribunal requests that the Parties provide
+
+First Partial Award on Damages, {9 168-171.
+
+Page 8
+
+SCC Arbitration V2018/039; ICSID Case No. ADM/I8/1
+Second Partial Award on Damages — 23 November 2021
+
+a response in this regard at their earliest convenience and, in any event, by 3
+September 2021,
+
+Once it has received the recalculations requested, the Tribunal will finalize its
+assessment of damages| and issue an award on damages,
+including interest, covering this period.
+
+A. Gardabani: as indicated at paragraphs 68 and 82 of the Partial Award on
+Damages, Gardabani’s losses and the damages owing to it can be assessed
+on the basis of the Directions on Quantum and the Tribunal’s directions in
+the Partial Award on Damages. The Parties’ experts should adjust their
+models and recalculate Gardabani’s losses on that basis. The Parties and their
+
+ioe should si these recalculations together with their recalculations
+
+B. Telasi/Inter RAO: as set out in paragraph 170 of the Partial Award on
+Damages, the Tribunal requests that the Parties and their experts consult and
+advise it jointly by 3 September 2021 as to when they could submit their
+calculation of losses incurred by Telasi during the period
+
+   
+
+With respect to this period, the Tribunal requests an update on : |
+and submissions as to when the
+
+Parties and their experts will be able to provide reliable calculations of the losses
+to Telasi/Inter RAO. The Tribunal requests submissions from the Parties in this
+regard at the Parties’ earliest convenience and, in any event, by, 10 September
+2021. The Tribunal will then set the procedure and schedule for the assessment
+of damages and/or provide further directions, as appropriate.
+
+The Tribunal’s current intention is to determine damages to Telasi/Inter RAO
+ae in the Final Award, which will include the determination
+of costs for the entire arbitration. At the appropriate time, the Tribunal will invite
+
+the Parties to update their submissions on costs.*
+
+ 
+
+The Tribunal’s Directions on the Calculation of Damages, dated 4 August 2021.
+
+Page 9
+SCC Arbitration V2018/039: ICSID Case No. ADM/18/1
+Second Partial Award on Damages — 23 November 2021
+
+ 
+
+ 
+
+28. In this Partial Award, the Tribunal determines damages owing to:
+
+——_—=— a a ae
+
+aa ee
+es
+
+Se ery
+=
+
+Se
+
+Vv. POSITIONS OF THE PARTIES
+
+29. The Parties’ positions on the quantification of damages are set out in JER3 which was
+accompanied by their experts’ respective calculations model, detailed calculations and exhibits. In
+their report, the Parties’ experts, Mr. Michael Peer and Dr. Boaz Moselle (the “Experts”) set out
+
+their agreement on the damages suffered by Gardabani on the basis of a valuation date |
+
+I 1 515 02200
+on the damages suffered by Telasi and Inter RAO for the period =a]
+05, is a cspute deren
+
+the Experts and the Parties as to which is the appropriate valuation date. The Claimants’ expert,
+Mr. Peer, believes that the appropriate valuation date should be =a. and he has provided
+
+an alternative calculation of damages on that basis. The Respondents’ expert, Dr. Moselle, is of
+
+Page 10
+SCC Arbitration V2018/039: ICSID Case No, ADM/18/1
+Second Partial Award on Damages —23 November 2021
+
+the view that the appropriate valuation date ss. He has not provided calculations
+
+on heb of cleo dt iE
+
+30. The Tribunal has carefully reviewed JER3 together with the Experts’ respective models.
+
+underlying calculations and exhibits and sets out its decisions below.
+
+VI. DECISION AND ANALYSIS
+
+A. Damages suffered by Gardabani
+31. The Parties’ experts have agreed on damages calculated on the basis of a valuation date of
+
+The Khrami Companies
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9
+
+32. The Experts have calculated the amount SE ona free cash flow to equity
+(“FCFE”) basis as Gardabani is the parent company of the two Khrami Companies which suffered
+the direct effect of the Respondents’ breaches of the Khrami SPA.
+
+33. The calculation is in accordance with the Tribunal’s directions in the First Partial Award
+
+on Damages and its directions of 4 August 2021. Accordingly, the Tribunal finds that Gardabani
+
+is entitled — az) on account of its claims in this arbitration.
+
+? JER3, § 2.8.
+
+Page II
+SCC Arbitration V2018/039: ICSID Case No. ADM/18/1
+Second Partial Award on Damages —23 November 2021
+
+B. Damages suffered by Telasi and Inter RAO
+
+4. There is a difference between the Experts with respect to the appropriate valuation date to
+
+use for the calculation of damages to Telasi and Inter RAO for the period
+
+. Mr. Peer maintains that the appropriate valuation date is zs. while Dr.
+
+Moselle is of the view that the appropriate valuation date —————_—=a)
+
+35. In the event the Tribunal determines that the appropriate valuation date is Ss
+
+w
+
+Ea and that they should use information available as of that date in their calculations and not
+
+amounts owing on the claims by Telasi and Inter RAO are as follows:
+
+Telasi
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+8
+5
+iS
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 12
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Second Partial Award on Damages ~ 23 November 2021
+
+  
+
+we
+
+6. The Experts have confirmed that the agreed amounts set out above include the amounts
+
+owing to the Respondents pursuant to their successful counterclaim i
+
+10
+
+we
+
+7. However, Mr. Peer maintains that the appropriate valuation date (_ Using
+that date, he calculates the damages to Telasi and Inter RAO as follows:
+
+Telasi
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5
+s
+5
+ro}
+>
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+w
+Ed
+
+Mr. Peer is of the view that in order to comply with the Tribunal’s directions to calculate
+
+ 
+
+i JER 3. 4 2.9.
+
+ 
+
+Page 13
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Second Partial Award on Damages —23 November 2021
+
+. According to Mr. Peer,
+
+w
+
+9.
+
+=
+=
+&
+i]
+s
+&
+a
+<
+3
+2
+9
+5
+3
+&
+=
+a
+=
+sz
+3
+3
+8
+8
+S$
+2
+g
+5
+a
+>
+a
+<
+S
+=
+5
+s
+s
+a
+a
+é
+2
+j
+
+S
+
+0. Mr. Peer reviews Telasi’s actual performance
+
+ 
+
+2 JER3, p. 6.
+8 JER3, p. 6
+
+Page 14
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Second Partial Award on Damages — 23 November 2021
+
+ 
+
+. Asa result, he concludes
+
+that Dr. Moselle is incorrect in stating that the Experts are unable to update the But-For scenario
+
+14
+
+a
+
+1. Mr. Peer says that he has not identified any factors applicable to the But-For scenario which
+
+would influence the forecast
+
+-
+s
+~
+°
+8
+g
+w
+
+2. Compared to calculations using the valuation date of
+
+calculations using yield higher losses to Telasi
+
+ 
+
+Page 15
+sc tion V2018/039; ICSID Case No. ADM/18/1
+Seo Paral Award on Damages ~ 23 November 2021
+
+ 
+
+.'° The total increase in damages under this approach /—— a_i)
+
+3. Dr. Moselle’s view is that since the Tribunal has defined
+
+in
+
+, hit
+
+a
+
+understanding is that the valuation date of damages for Telasi should > iii. In his
+
+view, using a valuation date of]
+
+However, in his view this is not
+
+possible.
+
+-
+a
+3
+B
+
+4. First, all of the information required to update the But-For scenario o i i
+
+available since’
+
+cs
+
+5. Further, even if it were possible to update Telasi’s But-For scenario to a more recent date,
+
+=
+2
+2
+
+16
+
+ 
+
+15
+
+Page 16
+
+ 
+
+SCC Arbitration V2018) ID Case No. ADM/18/1
+Second Partial Award on aaa 23 November 2021
+
+ 
+
+Dr. Moselle also disagrees with Mr. Peer’s conclusion that Telasi’s actual performance ff
+
+=
+>
+
+. According to Dr. Moselle,
+
+a
+
+7. Dr. Moselle also referred to
+
+S
+
+8. In addition, Dr. Moselle is of the view that while
+
+"7 JER3, p. 8.
+
+Page 17
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+ond Partial Award on Damages ~ 23 November 2021
+
+ 
+
+49. Finally, in Dr. Moselle’s view the Tribunal has not requested the valuation of Telasi’s
+
+damages as of because:
+
+50. In the First Partial Award on Damages, the Tribunal requested that the Experts confer and
+attempt to reach agreement on the appropriate damages to Telasi and Inter RAO for the period
+SaaS. '9 In its directions of 4 August 2021, the Tribunal requested
+that the Parties and their Experts consult and advise as to when they could submit their calculations
+
+of losses incurred by Telasi
+
+ 
+
+a JER3. p. 9.
+9 See $9 84 and 170 of the First Partial Award on Damages.
+
+17
+
+Page 18
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/1
+Second Partial Award on Damages — 23 November 2021
+
+ 
+
+. The Parties have been unable to agree to damages fj
+
+a due to their difference on the appropriate valuation date.
+
+1. Having considered the Experts’ views, the Tribunal has determined that the appropriate
+
+an
+
+valuation date aT In the Tribunal’s view, the valuation date should be
+
+an
+
+2. Further, the Tribunal accepts Dr. Moselle’s point that
+
+Page 19
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/I
+Second Partial Award on Damages - 23 November 2021
+
+53. For these reasons, the Tribunal finds that the appropriate valuation date for Telasi’s and
+Inter RAO’s damages Sa The Tribunal is satisfied that this provides a reliable
+basis for the assessment of those damages.
+
+54. Accordingly, the Tribunal prefers and adopts the Experts’ estimate of damages using the
+
+valuation date ——h Sa. which yields total damages ESS aeer
+55. As the Claimants have stated, they do not seek double recovery whether as between
+claimant companies or as between this arbitration and the ICSID arbitration.”° In this regard, the
+
+Claimants submitted as follows:
+
+As demonstrated above, the Claimants have all suffered losses in relation to
+Telasi and the Khrami Companies, with some acquiring a right to compensation
+based on contract and some based on the Treaty, Naturally, the Claimants (and
+the Inter RAO Group as a whole) do not seek double compensation for the harm
+caused, whether as between the SCC and ICSID arbitrations or as between
+Claimants. However, each of the Claimants has an independent right to
+compensation, and until compensation is actually paid to one of them there can
+be no double compensation.
+
+Subject to the requirement that compensation for a single to harm (to Telasi and
+the Khrami Companies, respectively) can only be paid once, the Claimants
+should be permitted discretion to decide among them how best to enforce the
+compensation rights to which they are all entitled. The Claimants hope that
+Georgia will comply voluntarily with this Tribunal’s award. Otherwise, the
+Claimants’ enforcement strategy may be dictated by various considerations,
+including the relative enforceability of SCC and ICSID awards and Georgia's
+ability to exercise police powers to influence Telasi and the Khrami
+Companies.*!
+
+wi Claimants’ Memorial, #9 324, 329-330.
+2 Claimants’ Memorial, &§ 329-330, See also, Tr. Day 1 (Claimants* Opening Statement), pp. 145-146.
+
+ 
+
+19
+
+Page 20
+SCC Arbitration V2018/039; ICSID Case No. ADM/18/
+Second Partial Award on Damages — 23 November 2021
+
+56. The Tribunal will address the question of possible double recovery and the admissibility
+of the claims for damages in the ICSID Arbitration in the ICSID Award which the Tribunal will
+issue separately, in due course. For the purposes of this arbitration, the relevant question relates to
+the payment of compensation due to Telasi and Inter RAO.
+
+57. In their request for relief, the Claimants request the payment of damages within a range
+depending on the loss suffered by the relevant Claimants: Telasi (on an FCFF basis) and Inter
+RAO (onan FCFE basis).** The Claimants explained that Telasi’s claim at the company level was
+higher than that on behalf of Inter RAO at the shareholder level; the difference being (a) tax on
+dividends, and (b) the fact that Silk Road (and Inter RAO) only owned 75% of Telasi.** In this
+regard, the Tribunal understands that Inter RAO’s damages in the amount of
+calculated on an FCFE basis are subsumed within Telasi’s damages —/— =] calculated
+onan FCFF basis. Accordingly. the Respondents are required to pay compensation of either ij
+| Telasi oY to Inter RAO.
+
+58. The Claimants also request that the Tribunal declare that the compensation it orders is on
+an after-tax basis. In addition, they request the award of an indemnity in respect of any taxation of
+the award (by the tax authorities of Georgia, The Netherlands, the Russian Federation or any other
+
+country). According to them, the valuation of their losses has been prepared by Mr. Peer on an
+
+ 
+
+= Claimants’ Opening Presentation, Demonstrative No. 17; Claimants’ Closing Presentation, Demonstrative
+No. 19: Tr. Day 1 (Claimants’ Opening Statement), pp. 145-146. The Claimants’ demonstratives also
+provide a figure for the losses suffered Silk Road, which is the same as the | uffered by Inter RAO with
+respect to the claims related to Telasi.
+
+3 Tr. Day 1 (Claimants* Opening Statement), p. 146.
+
+ 
+
+20
+
+Page 21
+SCC Arbitration V2018/039; ICSID Case No. ADM/T8/1
+Second Partial Award on Damages ~ 23 November 2021
+
+after-tax basis. As a result, any taxation of the amounts awarded to the Claimants would result in
+their effectively being taxed twice for the same income. as
+
+59. The Claimants submit that each of Telasi and Inter RAO have separate claims and an
+independent right to an award of compensation. In addition, they say that they should be permitted
+discretion to decide how best to enforce those awards. Further, since their damages have been
+calculated on an after-tax basis, the Claimants request that the Tribunal order compensation on
+that basis, together with an indemnity in respect of any taxation of the award by the tax authorities
+of Georgia, The Netherlands, the Russian Federation or any other country. Otherwise, any taxation
+of the amounts awarded would result in their being taxed twice for the same income.
+
+60. In the Tribunal’s view, the Claimants’ request for separate awards for the payment of
+compensation to each of Telasi and Inter RAO is not practical. The tax treatment of compensation
+paid to Inter RAO in The Netherlands or the Russian Federation was not addressed by the Parties
+in any detail and appears complex, which creates uncertainty and potential complications regarding
+payment of full compensation to Inter RAO. As a result, the Tribunal is not satisfied that separate
+orders of compensation to each of Telasi and Inter RAO are appropriate. Rather, an order to pay
+compensation to Telasi will provide simplicity and greater certainty and avoid the possible need
+to monitor and address questions of indemnity from taxes relating to compensation paid to Inter
+RAO.
+
+61. As the Experts have calculated damages after taxes, Telasi is entitled to an award on that
+basis, together with an order providing for an indemnity from liability for taxes imposed by the
+
+Georgian taxation authorities.
+
+mM Claimants’ Memorial, 9 331-333, 337(c); Claimants” Reply, $ 270(c).
+
+Page 22
+SCC Arbitration V2018/039: ICSID Case No. ADM/18/1
+Second Partial Award on Damages ~ 23 November 2021
+
+0. According) IIe. Tribunal orders the
+
+Government of Georgia to pay to Telasi the amount of a. This amount is to be paid
+on an after-tax basis and the Claimants are entitled to an indemnity in respect of any taxation of
+
+the award by the tax authorities of Georgia.
+
+Vil. INTEREST
+
+63. The Parties have each requested the payment of interest on the amounts they have claimed
+against each other.
+
+64. The Claimants submit that Mr. Peer established the present value SS
+losses as of the first valuation date he used a - The Claimants say that as that date
+(and, presumably, the updated valuation dates used in Mr. Peer’s subsequent calculations) serves
+as the proxy for the date of the award, no separate pre-judgment interest is required.”
+
+65. The Claimants also submit that the Tribunal should award post-award interest at the
+reasonable commercial rate that it deems applicable. Further, they submit that interest should be
+compounded on a quarterly basis accruing until payment is made in full.?6
+
+66. The Respondents claim pre- and post-award interest on all amounts due to Georgia under
+
+the 2013 Memorandum on the basis of the SSS Se
+
+ 
+
+~ Claimants’ Memorial, § 325.
+Claimants’ Memorial, 4 326-328, 337(b); Claimants’ Reply, §) 270(b).
+
+Respondents’ Rejoinder, § 480. In their Counter-Memorial, the Respondents claimed pre- and post-award
+interest at the rate : Respondents’ Counter-
+
+Memorial, | 412(a)(
+
+   
+
+ 
+
+ 
+
+Page 23
+SCC Arbitration V2018/039: ICSID Case No. ADM/18/1
+Second Partial Award on Damages — 23 November 2021
+
+    
+
+67. The Respondents also submitted that there is no basis to award compound interest as
+requested by the Claimants. The Respondents say the Claimants have not demonstrated that
+compound interest is permitted by Georgian law. In any event. they say that the payment of
+compound interest is not automatic and that the Claimants have not demonstrated any special
+circumstances which would justify compounding interest in this case.™*
+
+68. Inthe Tribunal’s view, it will require further information and submissions in order to make
+an award of interest. Accordingly, the Tribunal will invite further submissions from the Parties
+
+and defers the Parties” claims for interest to the Final Award.
+
+VII. CONCLUSIONS AND ORDER
+
+69. For the reasons set out above, the Tribunal:
+
+a) Orders the Respondents to pay to Gardabani i
+
+b) Orders the Respondents to pay to Telasi = ae
+
+c) Declares that the amounts awarded in paragraphs 69(a) and (b) above are
+awarded on an after-tax basis:
+
+d) Orders the Respondents to indemnify the Claimants for any taxation liability
+that arises in Georgia in relation to the amounts awarded in paragraphs 69(a)
+
+and (b) above;
+
+% Respondents’ Counter-Memorial, 4 408-411
+
+Page 24
+SCC Arbitration V2018/039: ICSID Case No. ADM/18/1
+Second Partial Award on Damages — 23 November 2021
+
+Defers the quantification of any damages owing on account of losses suffered
+by Telasi and Inter RAO for the ee to
+the Final Award:
+
+Defers the Parties’ claims for interest to the Final Award:
+
+Defers the Parties’ claims for costs to the Final Award.
+
+Place af Artitestion: Steckiaine. Seder:
+
+Srcacoleaistahesniedeidigeandtinte
+appended t0 the Partial Award om Tailings
+
+ 
+
+Page 25
+Aubitvation V208039: ICSD Case No. ADM TST
+‘Seomnd Prstiad Awana om Duowapes — 23 Nowerber 3071
+
+R
+

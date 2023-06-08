@@ -1,0 +1,553 @@
+United States Court of Appeals
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+Argued April 10, 2012 Decided June 22, 2012
+No. 11-7101
+
+RSM PRODUCTION CORPORATION,
+APPELLANT
+
+v.
+
+FRESHFIELDS BRUCKHAUS DERINGER US LLP, ET AL.,
+APPELLEES
+
+Appeal from the United States District Court
+
+for the District of Columbia
+(No. 1:10-cv-00457)
+
+Daniel L. Abrams argued the cause for appellant. With him
+on the briefs was Kelly Hebron.
+
+David W. Ogden argued the cause for appellees. With him
+on the brief were Andrew B. Weissman, Joshua M. Salzman, and
+
+Christina Manfredi McKinley.
+
+Before: ROGERS and BROWN, Circuit Judges, and
+RANDOLPH, Senior Circuit Judge.
+
+Opinion for the Court by Circuit Judge ROGERS.
+
+2
+
+ROGERS, Circuit Judge: RSM Production Corporation
+(“RSM”) appeals the dismissal of its complaint, pursuant to
+Federal Rule of Civil Procedure 12(b)(6), against the law firm
+Freshfields Bruckhaus Deringer U.S. LLP, and two of its
+partners, Jan Paulsson and Brian King (hereinafter
+“Freshfields”). RSM alleged that Freshfields, through its
+representation of the nation of Grenada in international
+arbitration, conspired to violate the Racketeer Influenced and
+Corrupt Organizations Act (“RICO”), 18 U.S.C. § 1962(d), in an
+effort to prevent RSM from obtaining an exclusive license for
+offshore oil and gas exploration and development in Grenada.
+See 18 U.S.C. § 1964(c).' The district court ruled that RSM’s
+lawsuit was barred under the doctrine of res judicata because of
+its prior lawsuit in the Southern District of New York regarding
+the same licensing effort. On appeal, RSM contends Freshfields
+was not in privity with the New York defendants and that RSM
+was not required to add Freshfields as a party to that litigation
+on pain of res judicata. Freshfields challenges those arguments
+and presents alternative grounds for affirmance, upon de novo
+review, which RSM maintains lack merit. We affirm on the
+alternative ground that RSM’s complaint failed to state a claim
+of RICO conspiracy against Freshfields.”
+
+' 18 U.S.C. § 1964(c) provides, in relevant part:
+
+Any person injured in his business or property by reason of a
+violation of [18 U.S.C.] section 1962 . .. may sue therefor in
+any appropriate United States district court and shall recover
+threefold the damages he sustains and the cost of the suit,
+including a reasonable attorney’s fee... .
+
+* RSM’s suggestion that the court should not reach this
+question because there was a pending motion to amend the complaint
+at the time of its dismissal, see Reply Br. at 15, lacks merit. RSM
+neither exercised its authority to amend its complaint as of right
+pursuant to Federal Rule of Civil Procedure 15(a)(1), nor filed “[a]
+
+3
+L
+
+Treating the allegations in the complaint as true, as required
+upon review of a motion to dismiss, see Atherton v. Dist. of
+Columbia Office of the Mayor, 567 F.3d 672, 677 (D.C. Cir.
+2009), shows the following:
+
+- In 1996, RSM, a Texas corporation whose chief executive
+officer is Jack Grynberg, entered into an exclusive agreement
+with the nation of Grenada that “was to have resulted in an oil
+and natural gas hydrocarbon exploration, development and
+production license being issued as a matter of routine
+performance by Grenada to RSM.” Compl. { 10. The
+agreement provided that the license application was to be filed
+within ninety days of the agreement’s execution, subject, as
+relevant, to a force majeure clause. See Agreement Between the
+Gov’t of Grenada & RSM Prod. Corp. (“Agreement”), arts. 3.1,
+24, Ex. A to Compl.
+
+- A few months after the Agreement was executed, Gregory
+Bowen, then Deputy Prime Minister and Minster of Energy of
+Grenada, Compl. { 5, told Grynberg that “he expected
+significant bribe payments from RSM and Grynberg in order for
+RSM and Grynberg to do business in Grenada,” id. { 12. RSM
+
+motion for leave to file an amended [complaint] . . . accompanied by
+an original of the proposed pleading as amended,” D.C. Dist. CT.
+Loca Clv. R. 7(i). A “bare request in an opposition to a motion to
+dismiss” is insufficient. Confederate Mem’l Ass’n, Inc. v. Hines, 995
+F.2d 295, 299 (D.C. Cir. 1993). Therefore, at the time of dismissal,
+RSM had no basis for calling upon the district court’s discretion under
+Rule 15(a)(2). Furthermore, this court may affirm a district court on
+grounds other than those found by the district court. See Kaemmerling
+v. Lappin, 553 F.3d 669, 676 (D.C. Cir. 2008); Razzoli v. Fed. Bureau
+of Prisons, 230 F.3d 371, 376 (D.C. Cir. 2000). See further Novak v.
+World Bank, 703 F.2d 1305, 1309 n.11 (D.C. Cir. 1983).
+
+4
+
+and Grynberg refused to pay, and Bowen thereafter “obstructed,
+harassed and intimidated RSM and Grynberg in their efforts to
+explore, develop and produce Grenada’s vast oil and natural gas
+resources.” Id.
+
+- Also shortly after the Agreement was executed, RSM,
+with Grenada’s consent, invoked the force majeure clause in
+view of ongoing boundary-water disputes between Grenada and
+some of its neighbors. Jd. { 18. Over the course of the next
+eight years, RSM made substantial expenditures to collect
+exploration data in reliance on the exclusive licensing
+Agreement. Jd. 19. Also during this time, Lev Model formed
+Global Petroleum Group, a Grenadian company, in December
+2003, to “acquire rights to explore, develop and produce the
+Grenadian offshore areas believed to contain . . . vast[
+Jrecoverable reserves of petroleum.” Jd. {J 14, 17. Model and
+his company acted as agents for others to bribe Grenadian
+officials in order to acquire these offshore rights. Jd. J 17.
+Then, in January 2004, RSM informed Grenada “that sufficient
+progress had been made [in resolving the boundary disputes] to
+allow it to proceed and that it was in the process of revoking the
+force majeure.” Id. { 20.
+
+- On April 14, 2004, RSM submitted its license application
+to Grenada. Jd. { 21. Initially Grenada raised “frivolous
+concerns” about the lack of financial assurances. Id. {| 22.
+Earlier that year a Grenadian official, who reported to Bowen,
+had informed Global Petroleum’s directors (including Model)
+“that Grenada was ‘in a situation’ with RSM” and “not in a
+position to enter any agreements concerning [its] offshore
+petroleum assets until the ‘situation’ with RSM was resolved.”
+Id. { 23. By letter of April 27, 2004, Bowen advised RSM that
+its license application was untimely, id., which RSM disputed,
+id. {| 24, 29. Bowen rejected RSM’s efforts to settle the dispute
+amicably. Id. {{[ 25-27.
+
+5
+
+- On or about August 31, 2004, RSM invoked Article 26 of
+the Agreement by filing a request for arbitration with the
+International Centre for the Settlement of Investment Disputes
+(“the ICSID”). Jd. { 29. Grenada engaged Freshfields as its
+arbitration counsel. Jd. { 13. Global Petroleum and Model (and
+affiliated entities) paid the legal costs of Grenada’s arbitration,
+which amounted to millions of dollars. Jd. {]| 4446. In 2009,
+an ICSID panel ruled that RSM’s license submission had been
+untimely, and RSM appealed. Jd. {| 29.*
+
+Meanwhile, on October 31, 2006, RSM sued Global
+Petroleum, Model, Bowen, and others (including BP, p.1.c. and
+TNK-BP Ltd., but not Freshfields) in the Southern District of
+New York, alleging tortious interference with contract and with
+prospective business advantages and civil conspiracy to commit
+tortious interference. While that case was pending, and just
+prior to national elections in July 2008, Grenada granted the
+exploration and development license to Global Petroleum. Id.
+49. The New York complaint was dismissed in 2009, pursuant
+to Federal Rule of Civil Procedure 12(b)(2) and (6), and the
+dismissal was affirmed on appeal. RSM Prod. Corp. v. Fridman,
+
+> On March 13, 2009, the ICSID arbitration panel found that
+Grenada had not breached its contractual obligation to grant a license
+to RSM because the Agreement had either lapsed on March 28, 2004,
+when the ninety-day period in Article 3.1 expired and RSM had failed
+to apply for a license, or terminated upon RSM’s receipt of a July 5,
+2005S letter from the chief legal officer in the Government of Grenada
+referencing RSM’s breach by untimely filing and stating that in view
+of RSM’s filing for arbitration, “there is no realistic prospect of an
+amicable resolution” under Article 26.1. See ICSID Arbitration
+Award at J] 207, 393, 503, Ex. A to Defs.’ Mot. to Dismiss PI.’s
+Compl. On April 28, 2011, an ICSID review committee discontinued
+the appellate proceedings and ordered RSM to pay Grenada’s
+appellate costs. ICSID Annulment Proceeding at 20, Ex. A to Defs.’
+Notice of Supplemental Authority.
+
+6
+
+643 F. Supp. 2d 382, 390 (S.D.N.Y. 2009), aff'd, 387 F. App’x
+72, 75 (2d Cir. 2010) (unpublished).
+
+Prior to the affirmance, RSM filed the current complaint
+against Freshfields on March 17, 2010, alleging it was part of
+a conspiracy to bribe Grenadian officials and deny RSM its
+offshore licensing rights. Specifically, Freshfields “knowingly
+agreed to perform services of a kind which have facilitated the
+activities of those who are operating the Enterprise . . . in an
+illegal manner.” Compl. { 56. The Enterprise consisted of
+Global Petroleum, Model, Bowen, and others who were
+associated “for the common purpose of enriching Bowen and
+other high-level Grenadian officials” by “obtaining rights to
+receive an exclusive [offshore] exploration license” in Grenada,
+and “defeat[ing] RSM’s claim to the very same, exclusive
+exploration license.” Jd. 57. The conspiracy had a secondary
+aim of “conceal[ing] the scheme, since it was and is necessary
+to avoid detection in order to secure and later retain the license.”
+Id. Freshfields, in turn, “by knowingly participating in and
+benefi[t]ting from the legal fees arising out of the conspiracy,
+
+. participated in and benefitted from a racketeering
+enterprise.” Jd. [ 62. RSM sought damages in excess of $500
+million, costs, attorney’s fees, and threefold damages.
+
+ 
+
+Freshfields moved to dismiss the complaint pursuant to
+Federal Rule of Civil Procedure 12(b)(1) and (6), on four
+independent grounds: res judicata; immunity under the ICSID
+Convention, arts. 21,22, opened for signature Mar. 18, 1965, 17
+U.S.T. 1270, T.I.A.S. No. 6090 (entered into force Oct. 14,
+1966); statute of limitations; and, failure to allege facts
+sufficient to state a RICO claim. The district court dismissed the
+complaint as barred by res judicata in view of the New York
+lawsuit. RSM Prod. Corp. v. Freshfields Bruckhaus Deringer
+U.S. LLP, 800 F. Supp. 2d 182, 194 (D.D.C. 2011). RSM
+appeals, and our review of the dismissal is de novo, see Jones v.
+
+7
+
+Horne, 634 F.3d 588, 595 (D.C. Cir. 2011); Atherton, 567 F.3d
+at 681; Ibrahim v. Dist. of Columbia, 463 F.3d 3, 7 (D.C. Cir.
+2006).
+
+IL.
+
+18 U.S.C. § 1962(d) provides that it is “unlawful for any
+person to conspire” to violate a substantive RICO provision.
+See Compl. 56. To state a § 1962(d) conspiracy, the complaint
+must allege that (1) two or more people agreed to commit a
+subsection (c)* offense, and (2) a defendant agreed to further that
+endeavor. See Salinas v. United States, 522 U.S. 52, 65 (1997).
+A defendant need not agree to be the one to commit the
+predicate acts. See id. at 65-66 (citing ALI MODEL PENAL
+Cope). Nor must a defendant “participate in the operation or
+management of [the] enterprise in order to be liable for
+conspiracy.” United States v. Wilson, 605 F.3d 985, 1019 (D.C.
+Cir. 2010). “[I]t suffices that [the defendant] adopt the goal of
+furthering or facilitating the criminal endeavor.” Salinas, 522
+US. at 65; see also Brouwer v. Raffensperger, Hughes & Co.,
+199 F.3d 961, 967 (7th Cir. 2000). Salinas is illustrative. That
+case involved a scheme in which a federal prisoner housed in a
+county jail paid the sheriff a fixed monthly rate ($6,000) and a
+per visit fee ($1,000) for “contact visits” in which he was left
+
++ 18 U.S.C. § 1962(c) provides that it is:
+
+unlawful for any person employed by or associated with any
+enterprise engaged in, or the activities of which affect,
+interstate or foreign commerce, to conduct or participate,
+directly or indirectly, in the conduct of such enterprise’s
+affairs through a pattern of racketeering activity or collection
+of unlawful debt.
+
+18 U.S.C. § 1962(c). See Reves v. Ernst & Young, 507 U.S. 170, 185
+(1993); Compl. {| 57-59.
+
+8
+
+alone with certain women. 522 U.S. at 55. When the sheriff
+was unavailable, Salinas, “the chief deputy responsible for
+managing the jail and supervising custody of the prisoners,”
+arranged for the “contact visits” to continue; in return he
+received “a pair of designer watches and a pickup truck,” id.,
+thereby demonstrating “that Salinas knew about and agreed to
+facilitate the scheme,” which was sufficient to convict under
+§ 1962(d), id. at 66.
+
+“To survive a motion to dismiss, [RSM’s] complaint must
+contain sufficient factual matter, accepted as true, to ‘state a
+claim to relief [under § 1962(d)] that is plausible on its face.’ ”
+Ashcroft v. Igbal, 129 S. Ct. 1937, 1949 (2009) (quoting Bell Atl.
+Corp. v. Twombly, 550 U.S. 544, 570 (2007)). The facts alleged
+must “allow[] the court to draw the reasonable inference that the
+defendant is liable for the misconduct alleged.” Jd. “[F]acts that
+are ‘merely consistent with’ a defendant’s liability” and
+demonstrate only a possibility, but not the plausibility, of relief
+fail to satisfy this standard. Jd. RSM’s allegations of
+Freshfields’ alleged conspiratorial RICO conduct fall short of
+this standard. The complaint alleges essentially six facts
+regarding Freshfields’ knowledge. None individually or taken
+together supports a plausible inference that in agreeing to
+represent Grenada in international arbitration proceedings,
+Freshfields knew of the bribery-racketeering conspiracy and
+agreed to foster its goals.
+
+The complaint alleges:
+
+1. Upon agreeing in 2004 to represent Grenada in
+international arbitration, Freshfields was on notice that its client
+“had a reputation for corruption and bribery.” Compl. { 50.
+Such knowledge has no bearing on the contractual defense
+presented by Freshfields on behalf of Grenada during the
+arbitration proceedings.
+
+9
+
+2. “On information and belief,” another law firm had
+declined to represent Grenada after becoming “aware of [the]
+fact that either Grenada did not have funds adequate to pay [its]
+bills, or that the arbitration was being funded by a corrupt
+[e]nterprise,” id. { 30, and “Freshfields was [] aware . . . that
+[the other firm] had turned down the representation,” id. {| 50.
+Another law firm’s decision to decline representation, or a
+client’s tainted reputation, is insufficient to show § 1962(d)
+liability; any other conclusion would preclude an attorney from
+representing a client alleged to have violated RICO without
+incurring personal RICO liability even absent evidence of
+knowledge of the bribery-racketeering conspiracy or of an
+agreement to further a § 1962(c) offense.
+
+3. Freshfields was on notice that Model “was a
+convicted felon,” Compl. {| 50, and that Model and Global
+Petroleum (and affiliated entities) were financing Grenada’s
+legal defense at arbitration, id. {{] 44-46, 50. Such general
+allegations fall short of supporting a plausible inference that
+Freshfields was aware of an ongoing bribery-racketeering
+conspiracy between Grenada and Global Petroleum (and its
+affiliates) to defeat RSM’s attempt to obtain an offshore license.
+To the contrary, such facts are consistent with a normal business
+practice in which an interested party — such as Global
+Petroleum — funds another entity’s legal representation. The
+Model Rules of Professional Conduct indicate that third-party
+funding is neither unusual nor per se impermissible, see ABA
+MODEL RULES OF PROF’L CONDUCTR. 1.8(f) (2011); D.C. Dist.
+Cr. LOCAL CIv. R. 83.15(a) (2012), even if the third-party has
+a financial interest in the outcome of the litigation, see MODEL
+RULES OF PROF’L CONDUCT R. 1.7. RSM cites no authority to
+the contrary.
+
+4. Freshfields knew its “retainer was being paid
+through [the] corrupt relationship,” Compl. { 50, and violated
+
+10
+
+laws of the nations in which it is located by failing to report its
+arbitration-fee income as “corrupt money,” id. J 51. For
+example, in the United Kingdom, “as soon as a lawyer... .
+discovers or suspects anything in the proceedings that may
+facilitate the acquisition, retention, use or control of ‘criminal
+property,’ the lawyer must immediately notify the National
+Criminal Intelligence Service of his belief.” Jd. The complaint,
+however, does not allege that the funds used to pay Freshfields
+for its legal services were ill-gotten gains subject to forfeiture or
+reporting. See U.S. DEP’T OF JUSTICE, U.S. ATTORNEYS’
+MANUAL § 9-120.103 (May 2010).° Nor does the complaint
+identify any “criminal property” in Freshfields’ control or
+possession. The court need not accept conclusions of law —
+“corrupt money” — as true for purposes of a motion to dismiss.
+See Warren v. Dist. of Columbia, 353 F.3d 36, 39 (D.C. Cir.
+2004); see also Kirch v. Liberty Media Corp., 449 F.3d 388, 398
+(2d Cir. 2006).
+
+5. In 2007, “public reports” confirmed that Model and
+another Global Petroleum director had bribed Grenadian
+officials, thereby putting Freshfields on notice of the bribery-
+racketeering conspiracy. See Compl. { 50.° This conclusion
+
+  
+
+5 Available at _ http://www.justice.gov/usao/eousa/
+foia_reading_room/usam/title9/120mcrm.htm (last visited June 11,
+2012).
+
+° The public nature of other “reports” is unclear. The
+complaint refers to: (1) a conversation in which a Global Petroleum
+director told Grynberg that Global Petroleum “ ‘own[ed]’ the
+Government of Grenada,” Compl. {| 37; (2) a conversation in which a
+Grenadian “Ambassador at Large” informed Grynberg that affiliates
+of Global Petroleum had bribed Grenadian officials in order to
+“develop the vast petroleum reserves believed to exist in the offshore
+Grenadian territory,” id. {| 42; and, (3) two declarations dated
+November and December 2007 by individuals attesting that agents of
+
+11
+
+assumes facts not alleged. An April 2007 article published by
+“Forbes” identified Grenada as “one of the best places for
+embezzled money”; a May 2007 “S&P ratings research
+comment” mentioned “the ‘widespread perception of corruption
+in the higher echelons of power’ in Grenada’s th[e]n-existing
+government”; and a sentencing memorandum described “a
+Ponzi-scheme run out of a Grenadian [bJank.” Jd. { 34.
+Bowen’s June 2007 arbitration testimony acknowledged “that
+Global Petroleum and Grenada had entered into” a funding
+agreement under which Global Petroleum financed Grenada’s
+defense at arbitration. Jd. { 44. These allegations are
+insufficient to establish a plausible inference that Freshfields
+was aware of anything corrupt relevant to its provision of legal
+services other than accusations made by and on behalf of Global
+Petroleum’s litigation adversary and general reports of public
+corruption in Grenada.
+
+6. “[U]pon learning facts suggesting that the source of
+its income for legal services was also responsible for bribing
+Grenadian officials for the purpose of obtaining lucrative license
+rights in Grenada, [Freshfields] could not continue the
+representation, since the entire representation was and is adverse
+to its client, Grenada.” /d. 52. Further, “representation in the
+face of a transparent conflict of interest is indicative of
+[Freshfields’] conscious decision to join the conspiracy, and...
+facilitate the goals of the [RICO] [e]nterprise . . . and
+conspiracy.” Id. “[T]he court is ‘not bound to accept as true a
+
+Global Petroleum bribed Grenadian officials, id. {{[ 41, 47. Both
+Grynberg conversations and one of the declarations appear to be
+public only because RSM referenced the conversations and attached
+the declaration to its amended complaint in the New York lawsuit, see
+Third Am. Compl. {| 46, 50, 55, RSM Prod. Corp. v. Fridman (No.
+06-cv-11512) (Feb. 25, 2008). No allegation indicates how
+Freshfields would have known of the second declaration.
+
+12
+
+legal conclusion couched as a factual allegation.’ ” Mountain
+States Legal Found. v. Bush, 306 F.3d 1132, 1137 (D.C. Cir.
+2002) (quoting Papasan v. Allain, 478 U.S. 265, 286 (1986));
+see also In re NYSE Specialists Sec. Litig., 503 F.3d 89, 95 (2d
+Cir. 2007).
+
+Taken together, these allegations fail to establish the
+requisite link for § 1962(d) liability between Freshfields and the
+bribery-racketeering conspiracy. First, representing Grenada in
+arbitration by presenting its defense that RSM’s license
+application was untimely under the parties’ Agreement, qua
+defense, presents no adversity or conflict of interests as would
+either inform Freshfields of the bribery-racketeering conspiracy
+or plausibly show its agreement to present a legal defense was
+an agreement to further acts of racketeering.
+
+Second, the payment of Freshfields’ legal fees by sources
+seeking the valuable Grenadian offshore license is insufficient
+to show Freshfields was part of the bribery-racketeering
+conspiracy. Even when considered in light of the 2007 reports
+about Grenada and alleged legal malpractice by Freshfields, the
+source of the fees does not support a plausible inference that
+Freshfields “was aware of the essential nature and scope of the
+[RICO] enterprise,” Baumer v. Pachl, 8 F.3d 1341, 1346 (9th
+Cir. 1993) (quoting United States v. Muskovsky, 863 F.2d 1319,
+1324 (7th Cir. 1988)), much less that it “kn[ew] of and agreed
+to the overall objective of the RICO offense,” United States v.
+Delgado, 401 F.3d 290, 296 (Sth Cir. 2005). The chronology
+works against RSM. According to the complaint, Freshfields
+did not begin its representation of Grenada until well after
+Grenada had denied RSM’s license application as untimely and
+RSM had filed for arbitration. Grenada, represented by
+Freshfields, defended the denial in the arbitration. Given the
+success of this defense and its seemingly innocuous, contractual
+nature, see Compl. { 29; ICSID Arbitration Award at {J 342-95,
+
+13
+
+it is implausible to infer that the 2007 reports would have alerted
+Freshfields to a bribery-racketeering conspiracy to deny RSM’s
+license application three years earlier. A more plausible
+inference is that Freshfields would have suspected that the
+alleged bribes were made in an effort to secure future licensing
+rights, not to prompt Grenada’s contractually-based denial of
+RSM’s license application. That Freshfields continued to
+represent Grenada in arbitration after the 2007 publications does
+not alter the analysis. Because RSM failed to “nudge[] [its]
+claim[]” that Freshfields knew of the RICO conspiracy or any
+pattern of racketeering activity “across the line from conceivable
+to plausible,” its “complaint must be dismissed,” Twombly, 550
+US. at 570. See also Iqbal, 129 S. Ct. at 1951; Baumer, 8 F.3d
+at 1346.
+
+Third, the allegations fail to support a plausible inference
+that Freshfields agreed to join or acted to foster the bribery-
+racketeering conspiracy. The complaint does not allege that
+Freshfields itself committed any of the predicate acts. See
+Compl. (58, 62. Rather, the complaint alleges that Freshfields,
+“by knowingly participating in and benefit[t]ing from the legal
+fees arising out of the conspiracy, . . . participated in and
+benefitted from a racketeering enterprise,” id. [ 62. In other
+words, to support the necessary inference that Freshfields agreed
+to further the conspiracy, RSM relies solely on the allegations
+regarding Freshfields’ knowledge of the bribery-racketeering
+conspiracy and its legal representation of Grenada and payment
+therefor. Although alleged co-conspirators (i.e., Global
+Petroleum and Model) provided the funding for Grenada’s
+arbitration defense, it is implausible to infer that therefore
+Freshfields’ provision of legal services at arbitration was
+intended to further the criminal endeavor. To the contrary,
+Freshfields’ representation of Grenada in the international
+arbitration proceedings is “more likely explained by,” Iqbal, 129
+
+14
+
+S. Ct. at 1950, its normal business practice of providing legal
+services for and representing clients in arbitration.
+
+In sum, the allegations of the complaint target Freshfields’
+services as attorneys, nothing more. As such, Freshfields’
+conduct in representing Grenada at arbitration is readily
+distinguishable from instances in which attorneys have been
+held liable under RICO § 1962(c) and (d) for performing, under
+the guise of providing legal services, illegal acts, such as
+devising a fraudulent scheme to manipulate the bankruptcy
+process, see Handeen v. Lemaire, 112 F.3d 1339, 1350-51 (8th
+Cir. 1997), or facilitating illegal investments, see United States
+v. Loften, 518 F. Supp. 839, 854 (S.D.N.Y. 1981).” Unlike in
+Salinas, 522 U.S. at 66, on which RSM relies, the complaint
+alleges no conduct by Freshfields beyond the provision of
+normal legal services in arbitration and so fails to support a
+reasonable inference that Freshfields “agree[d] to assist others
+in the commission of unlawful acts,” Reply Br. at 24. As
+explained in Twombly, allegations that a defendant acted in ways
+consistent with a conspiratorial agreement, but also equally well
+
+7 The circuit courts of appeals have declined to extend RICO
+liability under § 1962(c) to an attorney’s provision of routine legal
+services. See Walter v. Drayson, 538 F.3d 1244, 1248-49 (9th Cir.
+2008); Handeen, 112 F.3d at 1348-49 (8th Cir.); Azrielli v. Cohen
+Law Offices, 21 F.3d 512, 521 (2d Cir. 1994); Baumer, 8 F.3d at 1344
+(9th Cir.); Nolte v. Pearson, 994 F.2d 1311, 1317 (8th Cir. 1993); cf:
+Reves, 507 U.S. at 182-83, 185-86. The Eighth Circuit observed in
+Handeen that although “[a]n attorney’s license is not an invitation to
+engage in racketeering” and neither Reves nor the RICO statute
+exempts professionals as a class, “[i]t is a good thing, we are sure, that
+we find it extremely difficult to fathom any scenario in which an
+attorney might expose himself to RICO liability by offering
+conventional advice to a client or performing ordinary legal tasks (that
+is, by acting like an attorney).” Handeen, 112 F.3d at 1349.
+
+15
+
+explained by legitimate economic incentives, do “not suffice. . .
+to show illegality.” 550 U.S. at 556-57; see also id. at 554. So
+too, unsupported conclusory allegations are “not entitled to be
+assumed true,” Jgbal, 129 S. Ct. at 1951, and dismissal is proper
+when a conspiracy allegation “d[oes] not plausibly suggest an
+illicit accord because it [i]s not only compatible with, but indeed
+[ils more likely explained by, lawful, unchoreographed free-
+market behavior,” id. at 1950; see also Am. Dental Ass’n v.
+Cigna Corp., 605 F.3d 1283, 1295 (11th Cir. 2010).
+
+Accordingly, because RSM failed to allege facts sufficient
+to support a plausible inference that Freshfields knew of and
+agreed to further the bribery-racketeering conspiracy, the
+complaint fails to state a claim against Freshfields for RICO
+civil conspiracy under § 1962(d) and was properly dismissed
+pursuant to Rule 12(b)(6), and we affirm.
+

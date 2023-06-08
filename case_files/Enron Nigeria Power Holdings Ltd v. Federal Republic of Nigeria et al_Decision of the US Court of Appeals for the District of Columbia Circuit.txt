@@ -1,0 +1,610 @@
+United States Court of Appeals
+
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+ 
+
+Argued October 7, 2016 Decided December 27, 2016
+No. 15-7121
+
+ENRON NIGERIA POWER HOLDING, LTD.,
+APPELLEE
+
+v.
+
+FEDERAL REPUBLIC OF NIGERIA,
+APPELLANT
+
+Appeal from the United States District Court
+for the District of Columbia
+(No. 1:13-cv-01106)
+
+David Elesinmogun argued the cause and filed the briefs for
+appellant.
+
+Kenneth R. Barrett argued the cause and filed the briefs for
+appellee.
+
+Before: ROGERS, TATEL and GRIFFITH, Circuit Judges.
+Opinion for the Court filed by Circuit Judge ROGERS.
+ROGERS, Circuit Judge: In 1999, the Republic of Nigeria
+
+entered into a power purchase agreement (“PPA”) with Enron
+Nigeria Power Holding, Ltd. (“ENPH”), for construction of
+
+2
+
+electrical facilities. Days later, Nigeria suspended
+implementation of the PPA, and after years of attempted
+renegotiation over one phase of construction proved fruitless,
+ENPH filed under the PPA for arbitration by the International
+Chamber of Commerce’s International Court of Arbitration
+(‘ICC’). The ICC issued an Award in ENPH’s favor. When
+collection efforts failed, ENPH filed a petition for confirmation
+and enforcement of the Award in the federal district court here.
+Nigeria now appeals from the order granting enforcement of the
+Award.
+
+Invoking Article V(2)(b) of The Convention on the
+Recognition and Enforcement of Foreign Arbitral Awards
+(known as the “New York Convention”), 21 U.S.T. 2517,
+Nigeria contends that enforcement of the Award violates the
+public policy of the United States not to reward a party for
+fraudulent and criminal conduct. It maintains that ENPH and
+Enron International Corporation (“Enron”) are alter egos, and,
+alternatively, that ENPH made false and _ fraudulent
+representations about Enron to induce Nigeria to enter the PPA.
+Although the question whether enforcement of the Award
+should be denied on public policy grounds is a question for the
+courts to answer, the interpretation of the PPA, by its terms, was
+for the ICC. The ICC’s findings, to which an enforcing court
+owes substantial deference, doom Nigeria’s public policy
+defense in the absence of evidence or equities warranting the
+piercing of Enron’s corporate veil. Accordingly, for the
+following reasons, we affirm the order enforcing the Award.
+
+L
+
+The New York Convention is a multilateral treaty that, with
+exceptions, obligates participating countries to honor
+international commercial arbitration agreements and to
+recognize and enforce arbitral awards rendered pursuant to such
+
+3
+
+agreements. Comm’ns Import Export S.A. v. Republic of the
+Congo, 757 F.3d 321, 324 (D.C. Cir. 2014). The United States
+and Nigeria are signatories to the Convention, 21 U.S.T. 2517,
+and Chapter 2 of the Federal Arbitration Act implements the
+Convention. 9 U.S.C. §§ 201-08. The FAA provides that the
+court “shall confirm the award unless it finds one of the grounds
+for refusal or deferral of recognition or enforcement of the
+award specified in the said Convention.” Id. § 207. Article V
+of the Convention sets forth the grounds for refusal or deferral
+of enforcement. As relevant, Article V(2)(b) of the New York
+Convention provides:
+
+Recognition and enforcement of an arbitral award may
+also be refused if the competent authority in the
+country where recognition and enforcement is sought
+finds that . . . [t]he recognition or enforcement of the
+award would be contrary to the public policy of that
+country.
+
+The following facts found by the ICC bear on Nigeria’s
+appeal. In 1999, Lagos State, a regional government in Nigeria,
+was “in desperate need of energy.” ICC Partial Award (“ICC”)
+45 (incorporated by reference in the Final Award). By letter
+of June 19, 1999, Enron International expressed interest in
+working with Lagos State, stating that “Enron is the highest
+ranking power and gas company and is the leading company
+worldwide in such industry.” ICC { 246. A month later, Enron
+formed ENPH as a special-purpose vehicle to construct and
+operate power plants in Lagos State. ICC { 2. The following
+month, Lagos State entered into a Memorandum of
+Understanding (“MOU”) on the first and second phases of the
+construction project with ENPH and YFP (a Nigerian power
+company) in which it was agreed that the companies and their
+affiliates (including Enron) had the technical and financial
+capacity to perform the project, having developed gas pipelines
+
+4
+
+in the United States, Colombia, Bolivia, and Brazil, and electric
+power plants worldwide. ICC { 247. On November 17, 1999,
+ENPH representatives and an employee of Enron International
+met with representatives of Nigeria, including President
+Obasanjo of Nigeria and the Governor of Lagos State. At the
+meeting, ENPH gave a PowerPoint presentation touting Enron’s
+vast financial and technical capabilities and describing Enron as
+the company with which ENPH was “affiliated.” ICC {J 239-
+40.
+
+On December 6, 1999, Nigeria, Lagos State, the National
+Electric Power Authority of Nigeria (“NEPAN”), and ENPH
+executed the PPA, with ENPH as “Owner” of the energy
+facilities, Lagos State as “Purchaser” of the energy, NEPAN as
+regulator of the facilities it would connect to Nigeria’s power
+grid, and Nigeria as “Guarantor.” PPA Recitals (Dec. 6, 1999);
+ICC {J 25, 28. Enron was not a party to the PPA, nor was its
+participation in the construction project mentioned in the PPA.
+ICC { 243. The PPA provided for three phases of construction:
+Phase I, three offshore, barge-mounted electricity generating
+units; Phase IT, an on-shore power plant in Lagos; and Phase III,
+an additional set of barge-mounted units. PPA Clause 1; ICC
+27. As regards Phase II, ENPH’s obligations were contingent
+upon satisfaction of certain conditions by December 31, 2000,
+including possession of a plant site, all necessary easements
+from Lagos State and Nigeria, and a security letter of credit.
+PPA Clause 3.1. ENPH was authorized to seek independent
+“financing for at least 70 percent of the full capital costs” of the
+onshore power plant, pipeline, and other Phase II facilities. PPA
+Clause 3.1(iii). The parties were bound to use all reasonable
+efforts to ensure that the conditions were timely satisfied. PPA
+Clause 3.2. Additionally, the PPA provided that all disputes not
+informally resolved between the parties would be settled by
+binding arbitration under the Rules of Arbitration of the ICC.
+PPA Clause 23.3.
+
+Nine days after the PPA was executed, NEPAN wrote to
+ENPH that implementation of the PPA was “stayed until further
+notice.” ICC { 50 (quoting NEPAN Ltr. Dec. 15, 1999). Five
+days earlier, the World Bank had written to Nigeria, Lagos
+State, and NEPAN to express economic criticisms of a draft of
+the PPA. ICC 49. Nigeria’s President informed Lagos State
+in January 2000 that the Attorney General of Nigeria had
+concluded the PPA was invalid under Nigerian law and
+suggested that the PPA be renegotiated. ICC { 52. In June
+2000, the parties agreed to an amended PPA regarding Phases I
+and III — along with Enron Nigeria Barge Ltd., to which ENPH
+had transferred its rights and obligations with respect to those
+phases. ICC {{[ 51, 60. Thereafter, AES Nigeria Holdings Ltd.
+(“AES”) acquired the rights to Phases I and III, along with an
+option to purchase Phase II, provided agreement was reached
+with Nigeria on amending the PPA. ICC { 61.
+
+In November 2001, Enron’s collapse became public
+knowledge, and it filed for Chapter 11 bankruptcy protection on
+December 2, 2001. ICC Final Award (“ICC Award”) 1 40. The
+same day, ENPH wrote to the Nigerian parties that ENPH would
+be unaffected by the bankruptcy and remained free to perform
+its obligations under Phase II. ICC Award { 41. Nigeria
+apparently did not respond. AES contacted ENPH to express
+interest in extending its Phase II option; ENPH did not respond
+and the option expired. ICC Award J 42; ICC { 66. Three years
+later, ENPH wrote to Nigeria seeking to implement Phase II.
+ICC Award { 43. In November 2005, after various
+communications, Nigeria confirmed that Phase II “was
+suspended and remains so.” ICC Award { 43 (quoting NEPAN
+Ltr. Nov. 22, 2005).
+
+On June 12, 2006, ENPH filed a Request for Arbitration
+with the ICC regarding Phase II. The ICC found that Nigeria’s
+
+6
+
+December 1999 suspension of the PPA was an anticipatory
+breach, but of no legal effect. ICC J 395, 398. Nigeria had
+argued that because ENPH did not accept the anticipatory
+breach, the other parties were entitled to void Phase II of the
+PPA as a result of Enron’s 2001 collapse. The ICC disagreed,
+finding that Nigeria and NEPAN had breached the PPA almost
+a year prior to Enron’s collapse, when the December 31, 2000
+deadline for satisfying Phase II conditions passed without any
+effort to meet those conditions. ICC { 404. The ICC also found
+that the breach was “mainly for commercial reasons,” ICC
+416, and that but for concerns over price, “it would appear that
+the Nigerian Government would have been happy to proceed
+with the Original PPA,” ICC Award {[ 122. Nigeria’s earlier
+view that the PPA was void because it violated Nigerian law was
+not advanced in arbitration, leading the ICC to conclude that the
+legal objection was not well-founded. ICC {. 411. Due to the
+breach by Nigeria and NEPAN, the ICC found, ENPH and
+Lagos State could not be held responsible for failing to use all
+reasonable efforts to perform their obligations given the
+deadlock caused by Nigeria and NEPAN. ICC {ff 421, 454.
+
+The ICC rejected several affirmative defenses that bear on
+Nigeria’s current public-policy defense to enforcement of the
+Award. The ICC found that Enron was not a party to the PPA,
+nor was its participation in the project an express or implied
+contract term. ICC {| 203, 206. The PPA included an
+integration clause whereby the PPA constituted the entire
+agreement between the parties, which, the ICC reasoned, was a
+term Nigeria would never have agreed to if there had been a
+separate understanding that Enron would participate in Phase II.
+ICC { 202. The ICC also found that there was no reason to infer
+that Enron’s participation was necessary to ENPH’s
+performance of Phase II because the PPA contemplated that
+ENPH would “cause” the design and construction of the facility
+and “cause” the financing of the project by subcontracting with
+
+7
+
+third parties (not necessarily Enron). ICC Jf 188-194. For the
+same reasons, the ICC declined to find a collateral contract
+between Enron and Nigeria. ICC { 210.
+
+The ICC further rejected Nigeria’s arguments that it had
+been induced to enter into the PPA because of fraud or
+misrepresentation. Allegedly false statements regarding the
+financial attributes of Enron made at the November 1999
+PowerPoint presentation to President Obasanjo were not
+relevant, the ICC found, because of the legal framework of the
+PPA. ICC { 242. Enron was not a party to the PPA and there
+was “no clear evidence” that these statements induced Nigeria
+to enter the PPA. ICC { 242. Not only was there was no reason
+to think the parties confused Enron with ENPH, ICC {[ 240, the
+PPA contained no express or implied guarantee from Enron as
+the parent company, ICC {| 242, and there was no evidence that
+the statements regarding Enron’s technical capabilities were
+false. ICC {J 239-241. Further, the ICC noted, as to financial
+capability, the PPA provided ENPH had “recourse to
+independent financing of at least 70% of the full capital costs in
+the absence of any pre-identification of the entity or entities
+which might have financed the project.” ICC { 242 (quoting
+PPA Clause 3.1 (iii) (emphasis added)). No misrepresentations
+were shown to be contained in Enron International’s June 1999
+letter to Lagos State and, in any event, the letter related to Enron
+and not ENPH. ICC { 246. Similarly, the prior MOU regarding
+the financial and technical capabilities of ENPH, YFP, and their
+affiliates referred to Enron, not the recently incorporated ENPH.
+ICC { 247. If the financial and technical capabilities of Enron
+and its affiliates were so important as to induce Nigeria to enter
+the agreement, the ICC reasoned, then Nigeria could have
+sought inclusion of a statement to that effect in the PPA. ICC
+248. The ICC also rejected arguments that ENPH implicitly
+misrepresented its own capabilities by entering into a contract
+that it was incapable of performing inasmuch as the PPA
+
+8
+
+contemplated ENPH obtaining assistance from third parties.
+ICC { 249-51. So too, the ICC found that Enron’s accounting
+fraud had no connection to ENPH or to Phase II of the PPA.
+ICC {[ 256-57. Evidence showed only that Enron and Merrill
+Lynch, Pierce, Fenner & Smith engaged in a sham transaction,
+allowing Enron to “book” an imaginary $12 million profit,
+relating to Enron’s Nigerian barges constructed under Phases I
+and III of the PPA. Id.; see also United States v. Brown, 459
+F.3d 509, 514—16 (Sth Cir. 2006).
+
+Finally, regarding the amount of damages to be awarded to
+ENPH, the ICC acknowledged that Phase II had attractive
+prospects on paper but found that it never got off the ground and
+that if it had, the collapse of Enron “would almost certainly have
+stopped [it] in its tracks.” ICC Award {J 97-98, 105. That is,
+because the project was conceived under the assumption that
+Enron and its subsidiaries would construct and finance the Phase
+II facilities, Enron’s collapse would have forced ENPH to find
+new contracting partners and financing. ICC Award {J 101-103,
+105-06. The ICC accordingly found that ENPH’s claim of $494
+million in expected profits was too speculative and that instead
+“loss of chance” damages were appropriate. ICC Award {if 109-
+111. AES’s unexercised option to purchase Phase II could have
+earned ENPH as much as $34 million, depending on the terms
+of an amended PPA. ICC Award { 120. Finding a one-third
+chance the contingencies would have been met to allow AES to
+exercise the option, the ICC awarded ENPH $11.22 million in
+damages, plus 2% interest, legal costs and expenses. ICC
+Award {| 127, 175 (Nov. 19, 2012).
+
+On July 19, 2013, after efforts to collect proved
+unsuccessful, ENPH filed a petition for confirmation of the
+Award in the United States District Court for the District of
+Columbia, pursuant to 9 U.S.C. § 207. Nigeria moved to quash
+service and dismiss the petition, arguing that ENPH failed to
+
+9
+
+properly effect service, that the district court lacked jurisdiction
+due to Nigeria’s sovereign immunity, and that enforcement of
+the Award would violate United States public policy. Upon
+allowing ENPH to accomplish service through alternative means
+under the Foreign Sovereign Immunities Act, the district court
+granted ENPH’s motion to confirm the Award, having ruled that
+Nigeria had waived its sovereign immunity in the PPA and had
+failed to show why enforcement should be denied on public
+policy grounds simply because an Enron-related entity is
+involved.
+
+IL.
+
+On appeal, Nigeria contends that enforcement of the ICC’s
+Award to ENPH should have been denied pursuant to Article
+V(2)(b) of the New York Convention because its enforcement
+would violate the longstanding public policy that “no one shall
+be permitted to profit by his own fraud, or to take of his own
+wrong, or to found any claim upon his own iniquity or to acquire
+property by his own crime.” Appellant’s Br. 17 (quoting Riggs
+v. Palmer, 115 N.Y. 506, 511 (1889), and citing Stone v.
+Freeman, 298 N.Y. 268, 271 (1948)). ENPH presents several
+threshold objections to Nigeria’s appeal.
+
+A.
+
+In ENPH’s view, Nigeria has failed to identify a well-
+defined public policy. See, e.g., United Paperworks Int’! Union
+v. Misco, Inc., 484 U.S. 29, 43 (1987). Nigeria’s position is that
+the district court erred by enforcing an award based on a
+contract that was tainted by fraud. ENPH acknowledges that
+enforcing a contract with an illegal purpose would violate public
+policy. See Appellee’s Br. 31. Hence, it is difficult to
+understand how enforcing a contract induced by fraud would
+not.
+
+10
+
+In Simon & Schuster, Inc. v. Members of N.Y. State Crime
+Victims Board, 502 U.S. 105 (1991), the Supreme Court
+observed that “most if not all States . . . ha[ve] long recognized
+the fundamental equitable principle that ‘no one shall be
+permitted to profit by his own fraud,”” noting state statutes to
+that effect. Jd. at 119 (quoting Riggs, 115 N.Y. at 511-12)
+(internal quotation marks and citation omitted). In Riggs, the
+New York Court of Appeals held that it would violate
+“universal” public policy to allow a grandson to inherit his
+grandfather’ s estate after he murdered the grandfather to prevent
+his being cut out of the will. 115 N.Y. at 508-09, 511-12.
+Likewise, in Stone, 298 N.Y. 268, the New York Court of
+Appeals recognized that “[i]t is the settled law of this State (and
+probably of every other State) that a party to an illegal contract
+cannot ask a court of law to help him carry out his illegal
+object.” Jd. at 271. It thus dismissed a suit by one conspirator
+seeking reimbursement for a bonus it paid illegally to a co-
+conspirator. Id. at 270.
+
+ENPH attempts to limit Riggs and Stone to their facts, but
+the New York Court of Appeals recognized — and the Supreme
+Court affirmed in Simon and Schuster — that each of those
+cases rests on the “fundamental equitable principle” preventing
+courts from being made parties to fraud or other criminal acts.
+Simon and Schuster, 502 U.S. at 119 (quoting Children of
+Bedford, Inc. v. Petromelis, 77 N.Y.2d 713, 727 (1991)); Stone,
+298 N.Y. at 271; Riggs, 115 N.Y. at 511-12. Indeed, this
+principle is so well-established that it underlies numerous
+federal statutes, such as a requirement that any person convicted
+of engaging in a continuing criminal enterprise “shall
+forfeit . . . claims against, and property or contractual rights
+affording a source of control over, the continuing criminal
+enterprise.” 21 U.S.C. § 853(a)(3).
+
+Consequently, Nigeria has adequately identified a well-
+
+11
+
+defined public policy for purposes of determining whether
+enforcing the Award would be repugnant to that policy.
+
+B.
+
+ENPH also maintains Nigeria has contractually waived any
+right to challenge the Award. The PPA provides that “any
+determination or award [by the ICC] shall be final and binding
+on all parties,” and that the parties “expressly waive, to the
+fullest extent permitted by applicable law, any right to challenge
+an award by the arbitrators anywhere outside the place of
+arbitration agreed herein.” PPA Clause 23.3.5. ENPH
+concludes that Nigeria’s failure to challenge the award in
+London, Great Britain, where the arbitration took place, means
+that U.S. courts were divested of jurisdiction to address
+Nigeria’s enforcement challenge.
+
+ENPH has confused Article V(1) of the New York
+Convention, which addresses procedural grounds for refusing to
+enforce “at the request of the [liable] party,” with Article
+V(2)(b) of the Convention, which addresses public-policy
+grounds on which a court may refuse to enforce “if the [court]
+finds” on its own initiative that such grounds exist. N.Y.
+Convention, art. V; RESTATEMENT (THIRD) OF THE U.S. LAW OF
+INT’L COMMERCIAL ARBITRATION § 2-16(a) (2015). As Nigeria
+responds, parties cannot waive their rights under Article V(2)(b)
+because public policy violations implicate the integrity of the
+enforcing court. See Hurd v. Hodge, 334 U.S. 24, 34-35 (1948);
+RESTATEMENT (THIRD) OF THE U.S. LAW OF INT’L COMMERCIAL
+ARBITRATION § 2-16(b) (2015). Under the PPA, the parties only
+waived their rights “‘to the fullest extent permitted by applicable
+law.” PPA Clause 23.3.5.
+
+The implementing statute authorizes federal courts to
+enforce arbitral awards under the New York Convention, 9
+U.S.C. §§ 201, 207, which in turn, authorizes the enforcing court
+
+12
+
+to deny enforcement where doing so would be contrary to the
+public policy of the jurisdiction in which enforcement is sought,
+N.Y. Convention, art. V(2)(b). This is distinct from Article
+V(1)’s procedural defenses, which the parties do not dispute can
+be waived. See Employers Ins. of Wausau v. Banco De Seguros
+Del Estado, 199 F.3d 937, 942 (7th Cir. 1999). Although the
+agreement by Nigeria and ENPH to arbitrate disputes arising
+under the PPA meant the interpretation of their agreement was
+delegated to the ICC, see Oxford Health Plans LLC v. Sutter,
+133 S. Ct. 2064, 2070-71 (2013), “as with any contract,
+however, a court may not enforce . . . an agreement that is
+contrary to public policy.” W.R. Grace & Co. v. Local Union
+759, Int’l Union of United Rubber Workers of Am., 461 U.S.
+757, 766 (1983). The Supreme Court reemphasized in W.R.
+Grace that “the question of public policy is ultimately one for
+resolution by the courts,” and thus, if enforcement of the Award
+based on the ICC’s interpretation of the PPA violates a public
+policy of the United States, as Nigeria contends, then the district
+court was “obligated to refrain from enforcing it.” Id.; see Hurd,
+334 US. at 34-35; cf: Noonan v. Gilbert, 68 F.2d 775, 776 (D.C.
+Cir. 1934). The Court’s analysis of the public policy issue
+extended not only to the arbitral award but also to the underlying
+contract. W.R. Grace, 461 U.S. at 768-69 & n.13.
+
+Nigeria could not waive an Article V(2)(b) public-policy
+defense to enforcement of the Award simply as a result of
+agreeing to challenge the Award only in London, where the
+arbitration occurred. That would effectively negate the court’s
+authority to deny enforcement under both Article V(2)(b) of the
+Convention and Section 207 of the FAA, elevating the parties’
+contractual choices above the fundamental need of the federal
+courts to protect their own integrity.
+
+13
+
+ENPH also invokes the doctrine of forfeiture, maintaining
+that Nigeria failed to argue in the district court that ENPH itself
+had made false representations to induce Nigeria to enter the
+PPA, and that ENPH should be held responsible for Enron’s
+fraud as its alter ego. Even if Nigeria did not adequately raise
+these arguments in the district court, but see Def’s Mot. to
+Dismiss Petition at 8-13, forfeiture cannot divest the court of its
+duty to resolve the public policy question any more than waiver
+can. As this court held in Noonan, 68 F.2d 775, where a party
+had failed to make a public policy objection at trial, that
+objection “may not be waived by any system of pleading,” and
+“the court itself was bound to raise [it] in the interest of the due
+administration of justice.” Jd. at 776 (internal quotation marks
+omitted). Even were a party’s failure to recognize the public
+policy issue until appeal to imply that the alleged violation is
+hardly “repugnant to fundamental notions of what is decent and
+just,” Tahan v. Hodgson, 662 F.2d 862, 864 (D.C. Cir. 1981),
+the court must nevertheless decide the issue.
+
+Il.
+
+The public policy defense under Article V(2)(b) of the New
+York Convention is to be construed narrowly and is available
+only where an arbitration award “tends clearly to undermine the
+public interest, the public confidence in the administration of the
+law, or security for individual rights of personal liberty or of
+private property.” TermoRio S.A. v. Electranta S.P., 487 F.3d
+928, 938 (D.C. Cir. 2007) (quoting Ackermann v. Levine, 788
+F.2d 830, 841 (2d Cir. 1986)) (internal quotation marks
+omitted). That heavy burden is due to the countervailing and
+“emphatic federal policy in favor of arbitral dispute resolution
+. . . . [which] applies with special force in the field of
+international commerce.” Mitsubishi Motors Corp. v. Soler
+Chrysler-Plymouth, Inc., 473 U.S. 614, 631 (1985); TermoRio,
+
+14
+
+S.A., 487 F.3d at 933; see also Chevron Corp. v. Ecuador, 795
+F.3d 200, 209 (D.C. Cir. 2015).
+
+Furthermore, “considerable deference” is to be afforded by
+the enforcing court to the arbitrator’s interpretation and
+application of the parties’ contract. B.G. Grp. PLC v. Republic
+of Argentina, 1348. Ct. 1198, 1210 (2014); see W.R. Grace, 461
+U.S. at 768. In addressing the public policy question at the
+enforcement stage, the Supreme Court has given significant
+weight to the arbitrator’s findings of fact. See United
+Paperworkers Int’! Union, 484 U.S. at 44-45. More generally
+in arbitration, because the parties bargained for the ICC’s
+construction of the PPA, the ICC’s “construction holds, however
+good, bad, or ugly.” Oxford Health Plans LLC, 133 S. Ct. at
+2070-71. “It is not enough . . . to show that the [arbitrator]
+committed an error — or even a serious error.” Stolt-Nielsen
+S.A. v. AnimalFeeds Int’l Corp., 559 U.S. 662, 671 (2010). As
+long as the arbitrator was “even arguably construing or applying
+the contract and acting within the scope of his authority, that a
+court is convinced [the arbitrator] committed serious error does
+not suffice to overturn his decision.” United Paperworkers Int'l
+Union, 484 U.S. at 38.
+
+The district court found that Nigeria “fail[ed] to establish
+why the [c]ourt should refrain from enforcing this international
+arbitral award simply because it involves an entity that was
+related to the Enron Corporation.” Mem. Op. at 4 (Aug. 6,
+2015). Nigeria had identified no basis to impute Enron’s
+accounting fraud to ENPH merely because it was an Enron
+special purpose vehicle. And the ICC had determined that
+Nigeria failed to provide “any evidence of [accounting] fraud in
+connection to Phase II of the Original PPA.” ICC { 257.
+
+On appeal, Nigeria’s contentions have a similar flavor,
+maintaining that ENPH is the “offshore shell affiliate” of a
+
+15
+
+corporation that committed “one of the great financial frauds of
+recent years,” Appellant’s Br. 17, again without attempting to
+connect that fraud to Nigeria or Phase II of the PPA. To the
+extent Nigeria’s contentions amount to urging that the district
+court’s conclusion, as well as that of the ICC, about Enron’s
+non-relationship to the PPA misses the forest for the trees,
+because as a special purpose vehicle ENPH was necessarily a
+mechanism through which Enron carried out its fraud, it still
+shows no error by the district court. The ICC declined to pierce
+the corporate veil despite Nigeria’s argument that Enron and
+ENPH should be treated as a single enterprise under the PPA.
+ICC{ 163. Repeatedly emphasizing that Nigeria had contracted
+only with ENPH, see, e.g., ICC J] 191-92, 201-03, the ICC
+noted the absence of any mention of Enron in the PPA. It also
+interpreted PPA Clause 31 — stating “this Agreement shall be
+binding upon. . . the Parties and their successors and permitted
+assigns, and is not intended to and shall not confer any rights or
+benefits on any third party not a signatory thereto” — to
+preclude an implied, alter-ego relationship between ENPH and
+non-signatory Enron. ICC {J 212-14. Nigeria baldly asserts as
+an “undisputable fact” that ENPH lacked staff, an office, a bank
+account, assets, earnings, and sufficient capital. Appellant’s Br.
+27. Even if true, Nigeria conveniently ignores its own
+concession that it had repudiated the PPA nearly two years
+before Enron’s collapse was publically known. ICC {{ 400,
+404(a). Moreover, Nigeria ignores the ICC’s determination that
+it was willing to cooperate in the completion of Phases I and III
+of the project. ICC {| 256-57.
+
+This does not mean that either the district court or the ICC
+viewed Enron’s collapse as irrelevant to Phase II of the PPA.
+The ICC credited the argument that ENPH was a “shell
+company that could not implement Phase II by itself,” ICC
+4 189, and considered Enron’s bankruptcy as a mitigating factor
+in calculating the amount of damages, when the renegotiation
+
+16
+
+and completion of Phase II became too uncertain in Enron’s
+absence to allow ENPH to recover expectation damages. ICC
+Award {J 105-09. That, however, is a separate question from
+whether Nigeria was fraudulently induced to execute the PPA,
+which the ICC found it was not, and from whether Enron’s fraud
+and collapse had anything to do with Nigeria’s anticipatory
+repudiation and subsequent breach of the PPA, which the ICC
+found it did not.
+
+No more persuasive is Nigeria’s contention that ENPH
+itself made false representations regarding Enron’s financial
+strength that induced Nigeria to enter the PPA. Appellant’s Br.
+32-34. For instance, misrepresentations were made during the
+November 1999 presentation to President Obasanjo, ICC {J 239,
+242, but the ICC found that these statements were irrelevant.
+ICC { 243. Even if knowledge of the statements’ falsity should
+be imputed to ENPH because its staff was employed by Enron,
+the ICC found the allegations failed for lack of materiality to
+Nigeria’s execution of the PPA, for such statements “could have
+only induced [Nigeria] to enter into an agreement with Enron,”
+not ENPH. ICC { 243. As it does here, Nigeria asserted that
+absent these representations it never would have agreed to
+contract with ENPH. Appellant’s Br. 33; ICC J 228. The ICC
+was unpersuaded, finding that nine days after executing the PPA
+Nigeria simply had a “change of mind about the convenience of
+[its] bargain,” ICC { 408, and noting that the PPA omitted a
+financial guarantee by Enron or any mention of Enron’s
+financial strength. ICC { 242. Instead, the PPA provided that
+ENPH was free to subcontract with third-party companies to
+finance, design, and construct the power plant. PPA Clauses
+3.1(iii), 4.2, 4.3; ICC Gf 191-92.
+
+Although the PPA was negotiated in Enron’s shadow, and
+Nigeria seems to have believed Enron would lend its resources
+and backing to the electric facilities project, see Appellant’s Br.
+
+17
+
+33-34, the question before the enforcing court is limited. See
+Belize Soc. Dev. Ltd. v. Gov’t of Belize, 668 F.3d 724, 727 (D.C.
+Cir. 2012). Here, the district court had no choice other than to
+conclude that enforcement of the Award on Phase II is not so
+manifestly unjust that its confirmation would “undermine . . .
+the public confidence in the administration of the law.”
+TermoRio S.A., 487 F.3d at 938 (quoting Ackermann, 788 F.2d
+at 841). Accordingly, we affirm the order confirming the
+Award.
+

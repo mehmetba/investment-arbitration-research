@@ -1,0 +1,2379 @@
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 1 of 51
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA.
+
+In the Matter of the Arbitration
+between
+
+Raymond L. Loewen,
+7629 Burris Street
+Burnaby, British Columbia
+Canada V5G 388
+
+ 
+
+Petitioner.
+
+and
+The United States of America,
+
+Respondent.
+
+1:04-CV-02151 (RWR)
+
+Judge Richard W. Roberts
+
+MOTION TO VACATE AND REMAND ARBITRATION AWARD
+
+Christopher F. Dugan (D.C. Bar # 359266)
+
+Matthew S. Dunne (D.C. Bar #485550)
+
+PAUL, HASTINGS, JANOFSKY &
+WALKER LLP
+
+875 15th Street, N.W.
+
+Washington, DC 20005
+
+Tel: (202) 551-1700
+
+Fax: (202) 551-1705
+
+TL
+
+Iv.
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 2 of 51
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+Page
+INTRODUCTION 1
+BACKGROUND 2
+A. NAFTA Chapter 11 2
+B. The Mississippi Proceedings 4
+Cc ‘The NAFTA Proceedings 6
+
+ 
+
+THE TRIBUNAL’S FINDINGS AND MISCONDUCT THAT CONSTITUTE
+
+GROUNDS FOR VACATING AND REMANDING THE AWARD......
+A.
+B.
+
+ 
+
+The Tribunal’s Failure To Decide Mr. Loewen’s Article 1116 Claim...
+
+ 
+
+The Tribunal’s Manifest Disregard of the Objective Standard for
+“Reasonably Available” Local Remedies...
+
+  
+
+The Tribunal’s Failure to Hear and Consider the Evidence on Why
+Settled 28
+
+UNDER U.S. LAW, THE AWARD SHOULD BE VACATED AND
+
+REMANDED TO A NEW TRIBUNAL...
+A.
+
+B.
+C.
+
+D.
+E.
+
+ 
+
+ 
+
+Governing Law: The Federal Arbitration Act.
+The Tribunal Manifestly Disregarded the Law...
+The Award W:
+
+ 
+
+   
+
+Incomplete...
+
+ 
+
+The Award Was Contradictory...
+
+This Court Should Remand to a New Tribunal...
+
+ 
+
+CONCLUSION 45
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 3 of 51
+
+TABLE OF AUTHORITIES
+
+Page
+
+Case Law
+
+Application of MacMahon, 187 Misc. 247, 63 N.Y.S.2d 657 (1946) ....
+
+ 
+
+Aircraft Braking Systems Corp. v. Local 856, United Auto.,
+Aerospace and Agr. Implement Workers of Am., UAW,
+97 F.3d 155 (6th Cir. 1996) 41
+
+Bell Aerospace Co. Div. of Textron v. Local 516, Int'l, et al.,
+500 F.2d 921 (2d Cir. 1974) 40
+
+ 
+
+Brabham v. A.G. Edwards & Sons Inc., 376 F.3d 377 (5th Cir. 2004) ....
+
+ 
+
+ConnTech Dev. Co. v. Univ. of Conn. Educ. Props., Inc.,
+102 F.3d 677 (2d Cir. 1996) 38, 39
+
+ 
+
+Dep't of Justice v. Fed. Labor Relations Auth. 991 F.2d 285 (5th Cir. 1993) .....
+
+Dworkin-Cosell Interair Courier Servs., Inc. v. Avraham,
+728 F. Supp. 156 (S.D.N.Y. 1989) 39
+
+Erving v. Va. Squires Basketball Club, 468 F.2d 1064 (2d Cir. 1972)
+
+ 
+
+Forsythe Int'l, S.A. v. Gibbs Oil Co. of Tex.,
+915 F.2d 1017 (5th Cir. 1990) 40
+
+Grand Rapids Die Casting Corp. v. Local Union No. 159, United Auto.,
+Aerospace and Agr. Implement Workers of Am., UAW,
+684 F.2d 413 (6th Cir. 1982) 40
+
+Hart v. Overseas Nat'l Airways, Inc. 541 F.2d 386 (3d Cir. 1976)
+
+ 
+
+Hoteles Condado Beach v. Local 901, 763 F.2d 34 (1st Cir. 1985)
+
+ 
+
+IDS Life Ins. Co. v. Royal Alliance Assocs., Inc.,
+266 F.3d 645 (7th Cir. 2001) 39
+
+-ii-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 4 of 51
+
+TABLE OF AUTHORITIES
+(continued)
+
+In re A.H. Robins Co., Inc., 230 B.R. 82 (E.D. Va. 1999)
+
+ 
+
+Jeffrey M. Brown Assocs. Inc. v. Allstar Drywall & Acoustics, Inc.,
+195 F. Supp.2d 681 (E.D. Pa. 2002) 38
+
+ 
+
+Karaha Bodas Co., L.L.C. v. Perusahaan Pertambangan Minyak
+Dan Gas Bumi Negara, 364 F.3d 274 (5th Cir. 2003)......
+
+ 
+
+LaParde v. Kidder, Peabody & Co., Inc., 246 F.3d 702 (D.C. Cir. 2001)
+
+ 
+
+Matter of Arbitration Between Tempo Shain Corp. v. Bertek, Inc.,
+No. 96 Civ. 3354 (LAP), 1997 WL 580775 (S.D.N.Y. 1997) .....
+
+ 
+
+Michaels v. Mariform Shipping, S-A.,
+624 F.2d 411 (2d Cir. 1980) 38, 39
+
+Montes v. Shearson Lehman Bros., Inc.,
+128 F.3d 1456 (11th Cir. 1997) 37, 38
+
+Office and Prof! Employees Int'l Union, Local 2 v. Washington Metro.
+Transit Auth., Civ. A. No. 89-1264(OG),
+1990 WL 174892 (D.D.C. Oct. 25, 1990) 40
+
+Sea Dragon, Inc. v. Gebr. Van Weelde Scheepvaartkantoor B.V.,
+574 F. Supp. 367 (S.D.N-Y. 1983) 39
+
+ 
+
+Sheet Metal Workers Int’) Ass’n Local Union No. 420 v. Kinney Air
+Conditioning Co., 756 F.2d 742 (9th Cir. 1985)
+
+ 
+
+Smart v. Int'l Bhd. of Elec. Workers, Local 702,
+315 F.3d 721 (7th Cir. 2002) 38, 39
+
+United Mine Workers of Am. v. Dickenson County Med. Ctr.,
+No. 1:00ev00078, 2001 WL 420374 (W.D. Va. Mar. 20, 2001) ....
+
+ 
+
+-ili-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 5 of 51
+
+TABLE OF AUTHORITIES
+
+ 
+
+ 
+
+ 
+
+ 
+
+(continued)
+
+Page
+International Case Law
+The United Mexican States v. Metalclad, 89 B.C.L.R. (3d) 359 (S.C),
+2001 BCSC 664 40
+Regulations and Statutes
+9US.C.§ 10 39
+Pub. L. No. 103-182, 107 Stat. 2057 (1993) codified as
+19 U.S.C. § 3301-3473 2
+International Centre for Settlement of Investment Disputes Additional
+Facility Rule art. 58 1,10
+
+ 
+
+Miscellaneous
+
+North American Free Trade Agreement (NAFTA)
+
+ 
+
+16B Charles Alan Wright et al., Federal Practice and Procedure § 4006
+(2d ed. 1996) 25
+
+Guillermo Aguilar Alvarez and William W. Park, The New Face of Investment Arbitration:
+NAFTA Chapter 11, Mealey’s Int'l Arb. Rep., Jan. 2004
+
+ 
+
+S. Benton Cantey, International Arbitration to Resolve Disputes Under
+NAFTA Chapter 11: Investment, 9 Tulsa J. Comp. & Int'l L. 285 (2001)
+
+ 
+
+Jack J. Coe, Jr., Taking Stock. of NAFTA Chapter 11 In Its Tenth Year:
+An Interim Sketch of Selected Themes, Issues, and Methods,
+36 Vand. J. Transnat’l L. 1381 (2003) 3
+
+Michael Goldhaber, A “Completely Appalling” Decision, The American Lawyer
+available at www.transnational-dispute-management.com (2004) 9, 44
+
+Richard C. Levin & Susan Erickson Marin, NAFTA Chapter 11: Investment
+and Investment Disputes, 2 NAFTA: L. & Bus. Rev. Am. 82 (1996)...
+
+ 
+
+-iv-
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 6 of 51
+
+TABLE OF AUTHORITIES
+(continued)
+
+Daniel M. Price, An Overview of the NAFTA Investment Chapter: Substantive
+Rules and Investor-State Settlement, 27 Int'l Law. 727 (1993) ...
+
+ 
+
+Richard L. Revesz & Pamela S. Karlan, Nonmajority and the Supreme Court,
+136 U. Pa. L. Rev. 1067 (1988)
+
+26
+
+ 
+
+The Supreme Court, 2000 Term: The Statistics,
+
+115 Harv. L. Rev. 539 (2001) 26
+
+ 
+
+-v-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 7 of 51
+
+I. INTRODUCTION
+
+Pursuant to Section 10 of the Federal Arbitration Act (“FAA”), 9 U.S.C. § 10, Petitioner
+Raymond L. Loewen (“Mr. Loewen”) moves this Court to vacate the award (“the Award”) made in
+the North American Free Trade Agreement (“NAFTA”) Chapter 11 arbitration between Claimants
+Mr. Loewen and The Loewen Group, Inc. (“TLGI’) and Respondent the United States of America.
+In addition, Mr. Loewen moves this Court to remand the Award to a new arbitral tribunal.
+
+Based on well-settled principles of U.S. arbitration law and precedent, this Court should
+vacate the Award because the arbitral tribunal (“the Tribunal”) engaged in misconduct by effectively
+refusing to hear and consider evidence pertinent and material to the controversy; engaged in
+misbehavior by which Mr. Loewen’s rights have been prejudiced; exceeded their powers, or so
+imperfectly executed them, that a mutual, final, and definite award upon the subject matter
+submitted was never made; and acted in manifest disregard of the law.
+
+Specifically, the Tribunal failed to decide one of Mr. Loewen’s two claims under NAFTA.
+In addition, in its consideration of the merits issue, the Tribunal disregarded and failed to apply the
+proper legal standard, even though there was a consensus on the standard that should be applied.
+Finally, the Tribunal based its consideration of the merits issue on the absence of key evidence,
+when ample evidence on that issue was in fact in the record.
+
+The Tribunal compounded this substantial misconduct in its consideration of the United
+States’ very unusual Request for Supplementary Decision (“U.S. Request” or “Request”) to correct
+the obvious deficiencies in the Award.’ In response to the U.S. Request, Mr. Loewen urged the
+
+‘Tribunal to consider the NAFTA claim that it had missed and to consider the evidence it had
+
+' The United States made its Request under Article 58 of the ICSID Additional Facility Rules, which allows arbitrators
+“to decide any question which it had omitted to decide in the award.” See International Centre for Settlement of
+Investment Disputes (“ICSID”) Additional Facility Rules, art. 58.
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 8 of 51
+
+obviously overlooked. The Tribunal issued a terse denial of the U.S. Request, making assertions
+about its previous decision that were, at best, economical with the truth.
+
+As a result of this misconduct, the Award remains incomplete and contradictory, and
+disregards controlling legal principles. U.S. courts have long circumscribed their review of arbitral
+awards based on the expectation that the arbitrators would uphold the integrity of the arbitral
+process. Where, however, the arbitrators breach the integrity of the arbitral process, the principle of
+arbitral autonomy must yield to judicial review.
+
+Based on the injuries he has suffered at the hands of the Tribunal, Mr. Loewen moves this
+Court not only to vacate the Award, but also to remand it to a new tribunal. Mr. Loewen urges the
+Court to recognize the exceptional nature of the Tribunal’s misconduct, and the necessity of
+remanding to a new arbitral tribunal that will be willing and able to resolve the outstanding issues in
+the dispute.
+
+Il. BACKGROUND
+
+A. NAFTA Chapter 11
+
+In 1990, the United States, Mexico and Canada entered into negotiations to create a “free
+trade zone” on the North American continent through the phased elimination or reduction of both
+tariff and non-tariff barriers to trade. Following extensive negotiations, NAFTA was completed and
+signed by the leaders of the three countries on December 17, 1992. Through the passage of the
+NAFTA Implementation Act” on December 8, 1993, Congress approved NAFTA and provided for
+
+a series of domestic laws to effectuate and enforce NAFTA’s provisions.
+
+? Pub. L. No. 103-182, 107 Stat. 2057 (1993), codified at 19 U.S.C. §§ 3301-3473.
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 9 of 51
+
+NAFTA is divided into chapters, with each chapter discussing a different topic — for
+example, Chapter 6 is devoted to Energy and Basic Petrochemicals, Chapter 10 to Government
+Procurement, and Chapter 11 to Investment.
+
+The U.S., Canada, and Mexico enacted NAFTA, and Chapter 11 in particular, to “ensure a
+
+°° and to “increase
+
+predictable commercial framework for business planning and investment
+substantially investment opportunities in the territories of the Parties.”* Scholars have described the
+objectives for Chapter 11 as being to “achieve the benefits of economic liberalization” and to
+further the “creation of a truly open and nondiscriminatory environment for investment in the
+United States, Canadian, and Mexican economies by investors of the NAFTA Parties.”
+
+In broad terms, NAFTA Chapter 11 was meant to accomplish two goals. First, it was meant
+to provide foreign investors with specific, substantive legal protections, such as national treatment
+and fair and equitable treatment. Second, it allows a foreign investor to file an arbitration claim if it
+believes a NAFTA signatory has breached these substantive protections.
+
+Mr. Loewen and TLGI filed their arbitration claims under Chapter 11, asserting claims under
+Article 1116 and Article 1117.’ Article 1116 states, in relevant part:
+
+Article 1116: Claim by an Investor of a Party on Its Own Behalf
+1. An investor of a Party may submit to arbitration under this Section a claim that
+
+another Party has breached an obligation under [NAFTA] . . . and that the investor
+has incurred loss or damage by reason of, or arising out of, that breach.
+
+3 NAFTA Preamble.
+
+4+ NAFTA, art. 102(1)(0).
+
+5 Daniel M. Price, An Overview of the NAFTA Investment Chapter: Substantive Rules and Investor-Statee Dispnte Settlement, 27 Int'l
+Law. 727 (1993).
+
+6 Richard C. Levin & Susan Erickson Marin, NAFTA Chapter 11: Investment and Investment Disputes, 2 NAFTA: L. & Bus.
+Rey, Am. 82, 83 (1996).
+
+7 For general guidance on NAFTA Chapter 11, see, e.g., $. Benton Cantey, International Arbitration To Resolve Disputes
+Under NAFTA Chapter 11: Investment, 9 Tulsa J. Comp. & Int'l L, 285 (2001); Jack J. Coe, Jr., Taking Stock Of NAFTA
+Chapter 11 In Its Tenth Year: An Interim Sketch Of Selected Themes, Issues, And Methods, 36 Vand. J. Transnat'l L. 1381 (2003).
+
+ 
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 10 of 51
+
+Article 1117 states, in relevant part:
+Article 1117: Claim by an Investor of a Party on Behalf of an Enterprise
+1. An investor of a Party, on behalf of an enterprise of another Party that is a juridical
+person that the investor owns or controls directly or indirectly, may submit to
+arbitration under this Section a claim that the other Party has breached an obligation
+under [NAFTA] . . . and that the enterprise has incurred loss or damage by reason of,
+ot arising out of, that breach.
+
+Mr. Loewen filed a claim under Article 1116 as an individual investor (a shareholder of
+‘TLGD), and a second claim under Article 1117 on behalf of an investment that he controlled, TLGI.
+TLGI, in turn, articulated a claim as an investor under Article 1116 and another claim under Article
+1117 on behalf of its investment, its American subsidiary. These claims were ultimately dismissed by
+
+the Tribunal on jurisdictional grounds in two decisions in 2003 and 2004, as discussed in detail
+
+below.
+
+B. The Mississippi Proceedings®
+
+Mr. Loewen founded TLGI in 1966. Based in Vancouver, it became one of the largest
+funeral home operators in North America. As it grew, it expanded into the U.S. market by
+purchasing funeral homes, cemeteries, and related funeral insurance businesses.
+
+In 1991, TLGI bought a small funeral home in Jackson, Mississippi, that had entered into
+funeral insurance contracts with Jeremiah O’Keefe, a local competitor. A dispute arose over those
+
+contracts, which were worth only approximately $3-6 million, and Mr. O’Keefe sued TLGI in
+
+  
+
+Mississippi state court.
+
+8 For additional detail on the Mississippi and NAFTA proceedings, see Notice of Claim, The Loewen Group, Inc. and
+Raymond L. Loewen v. United States, 1CSID Case No. ARB(AF)/98/3 (Oct. 30, 1998), at 8-45 (hereinafter “Notice of
+Claim”) (attached as Exhibit 1); Memorial of Raymond L. Loewen, The Loewen Group, Inc. and Raymond L. Loewen v. United
+States, ICSID Case No. ARB(AF)/98/3 (Oct. 18, 1999), at 5-41 (attached as Exhibit 2); Memorial of The Loewen
+Group, Inc., The Locien Group, Inc. and Raymond L. Loewen v. United States, CSID Case No. ARB(AF)/98/3 (Oct. 18,
+1999), at 8-62 (attached as Exhibit 3).
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 11 of 51
+
+During the Mississippi trial, O’Keefe’s counsel sought to infect the jury with a nationalistic
+animus against TLGI and Mr. Loewen based on their Canadian nationality. O’Keefe’s counsel
+continually contrasted Mr. O’Keefe’s status as a local citizen with TLGI and Mr. Loewen’s status as
+foreigners, and invited the jury to make its decision on that basis. In addition, O’Keefe’s counsel
+repeatedly and falsely implied that TLGI and Mr. Loewen were racists who refused to provide
+services to African Americans.
+
+In 1995, the jury rendered a verdict against TLGI in the amount of $500 million, including
+$74 million for emotional distress and $400 million in punitive damages. It was then the largest
+damages award ever in Mississippi history.
+
+When TLGI sought to appeal, it was stymied by the state’s appeal bond requirement. A
+Mississippi court could not normally issue a stay of execution pending appeal unless the judgment
+debtor posted a bond equal to 125% of the verdict appealed as security for payment of the
+judgment. Despite initially permitting TLGI to pursue its appeal by posting a $125 million bond, the
+Mississippi Supreme Court then vacated its interim order and gave TLGI seven days to post a $625
+million bond. TLGI was unable to raise the money, and since O’Keefe threatened immediate
+seizure of the company’s assets, TLGI ended the litigation in 1996 through a $175 million settlement
+
+with O’Keefe.
+
+Cc. The NAFTA Proceedings
+
+In 1998, TLGI and Mr. Loewen jointly filed their arbitration claims against the United
+States, and selected the ICSID Additional Facility rules to govern the proceedings. In their Notice
+of Claim, TLGI and Mr. Loewen asserted that the United States had violated a number of
+substantive provisions of NAFTA designed to protect foreign investors such as TLGI and Mr.
+Loewen. For example, TLGI and Mr. Loewen asserted that the Mississippi proceedings as a whole
+breached the minimum standard of treatment guaranteed to foreign investors by NAFTA.
+
+5-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 12 of 51
+
+The Tribunal was originally composed of: Sir Anthony Mason, former Chief Justice of the
+
+Australian High Court;’ Abner Mikva, a former Chief Judge of the U.S. Court of Appeals for the
+
+ 
+
+District of Columbia Circuit (appointed by the United States); and Yves Fortier, Canada’s former
+
+representative to the United Nations and now a prominent arbitration practitioner (TLGI and Mr.
+Loewen’s appointee). Before the hearing on the merits, Mr. Fortier withdrew from the case due to
+potential conflicts of interest that were “thrust” upon him by a law firm merger. Mr. Fortier was
+replaced by Lord Michael Mustill, a retired Law Lord from England.
+
+In the aftermath of the O’Keefe settlement, TLGI experienced serious financial difficulties,
+and eventually filed for bankruptcy. At the beginning of 2002, TLGI adopted a bankruptcy
+reorganization plan pursuant to which the parent corporation emerged as a U.S. entity, the
+Alderwoods Group. Based on this reorganization, the United States submitted a jurisdictional
+objection to the Tribunal, asserting that because of this change in nationality from Canadian to
+American, TLGI was no longer an “investor of a Party” within the meaning of NAFTA. The U.S.
+argued that under customary international law, a claimant before an international tribunal must
+maintain appropriate nationality until the date an award is rendered, and it therefore asked the
+Tribunal to dismiss the case. As the Tribunal noted, the United States did not challenge the
+‘Tribunal’s jurisdiction as it related to Mr. Loewen."
+
+The Tribunal issued three substantive decisions, which together constitute the Award. On
+
+January 5, 2001, it rejected some of the United States’ jurisdictional objections and joined others to
+
+° Sir Mason served as chairman of the Tribunal throughout the arbitral proceedings.
+
+© Award, The Loewen Group, Inc. and Raymond L. Loewen v. United States, CSID Cases No. ARB(AF)/98/3 (Sept. 13, 2004)
+(2004 Decision”), para. 19 (“[T]here was no jurisdictional objection to [Mr. Loewen’s] claim under art. 1116”).
+
+-6-
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 13 of 51
+
+the merits (“2001 Decision”)."' On June 26, 2003, the Tribunal issued its main decision, dismissing
+TLGI’s and Mr. Loewen’s claims “in their entirety” on jurisdictional grounds (“2003 Decision”):"*
+For the foregoing reasons the Tribunal unanimously decides —
+(1) That it lacks jurisdiction to determine TLGI’s claims under NAFTA concerning
+the decisions of United States courts in consequence of TLGI’s assignment of those
+claims to a Canadian corporation owned and controlled by a United States
+corporation.
+(2) That it lacks jurisdiction to determine Raymond L. Loewen’s claims under
+NAFTA concerning decisions of the United States courts on the ground that it was
+not shown that he owned or controlled directly or indirectly TLGI when the claims
+were submitted to arbitration or after TLGI was reorganized under Chapter 11 of
+
+the United States Bankruptcy Code.
+
+(3) TLGT’s claims and Raymond L. Loewen’s [claims] are hereby dismissed in their
+inet 2
+entirety.
+
+The Tribunal found that it had no jurisdiction to determine the merits of the claims for two
+reasons. First, the Tribunal held that continuing diversity of nationality was a jurisdictional
+prerequisite, and that TLGI failed to meet this requirement because it changed its nationality from
+Canadian to American during the course of its bankruptcy reorganization. Second, the Tribunal
+held that continuing control over investments was a jurisdictional prerequisite, and that Mr. Loewen
+did not meet this requirement because he did not control TLGI when his claim was filed. These
+were the only actual holdings in the 2003 Decision, and it was on these jurisdictional bases that the
+
+‘Tribunal dismissed all the claims. Indeed, the Tribunal stated: “Ultimately it turns on a question of
+
+"Award, The Loewen Group, Inc. and Raymond L. Loewen v. United States, CSID Cases No. ARB(AF)/98/3 (Jan. 5, 2001)
+(attached as Exhibit 4).
+
+2 Award, The Loewen Group, Inc. and Raymond L. Loewen v. United States, ICSID Case No. ARB(AF)/98/3 (June 26, 2003),
+at 70.
+
+'5 2003 Decision, at 69-70.
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 14 of 51
+
+jurisdiction .. . This question was raised by Respondent’s motion to dismiss for lack of
+jurisdiction . .. In this Award we uphold the motion and dismiss Claimants’ NAFTA claims.”"*
+
+Even though the Tribunal based its 2003 Decision on jurisdictional grounds, the Tribunal
+did not hesitate to pass judgment on the Mississippi proceedings:
+
+54. Having read the transcript and having considered the submissions
+of the parties with respect to the conduct of the trial, we have
+reached the firm conclusion that the conduct of the trial by the trial
+judge was so flawed that it constituted a miscarriage of justice
+amounting to a manifest injustice as that expression is
+understood in international law.
+
+119. By any standard of measurement, the trial involving O’Keefe
+
+and [TLGI] was a disgrace. By any standard of review, the tactics
+of O’Keefe’s lawyers, particularly Mr. Gary, were impermissible. By
+
+any standard of evaluation, the trial judge failed to afford [TLG]] the
+process that was due.
+
+137. In the light of the conclusions reached in paras. 119-123
+
+(inclusive) and 136, the whole trial and its resultant verdict were
+
+clearly improper and discreditable and cannot be squared with
+
+minimum standards of international law and fair and equitable
+
+treatment.”
+
+In addition, the Tribunal described how it would have resolved the issue of exhaustion of
+
+local remedies (“exhaustion issue”), which it characterized as a “merits” issue. The Tribunal held
+that NAFTA claimants who based their claims on a denial of justice had to exhaust their local
+
+remedies before seeking international relief. The Tribunal concluded that TLGI had not shown that
+
+it had exhausted its local remedies. However, because the Tribunal expressly based its 2003
+
+4 2003 Decision, para. 1 (emphasis added)
+'5 2003 Decision, para. 54, 119, 137.
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 15 of 51
+
+Decision solely on jurisdictional grounds, the Tribunal’s considerations of the merits issues — the
+Mississippi courts’ breach of international law, and the exhaustion of local remedies — were dicta.
+
+After the Tribunal issued its 2003 Decision, the United States, which had won the case,
+requested that the Tribunal issue a supplemental decision pursuant to Article 58 of the ICSID
+Additional Facility Rules.'* It is, of course, very unusual for a winning party to ask for any type of
+supplemental or clarifying decision. Indeed, whenever the winning party to any dispute asks for a
+clarification, that is compelling evidence that the original decision was deficient in some important
+respect. Such is the case here.
+
+In its 2003 Decision, the Tribunal expressly dealt with only one of Mr. Loewen’s two
+NAFTA claims, his Article 1117 claim. The Tribunal never mentioned or discussed his second
+claim under NAFTA Article 1116. Faced with such a glaring deficiency, the U.S. asked the Tribunal
+to declare that “by its terms and logic, the Award plainly dispose[d] of Raymond Loewen’s Article
+1116 claims on their merits.” The U.S. then proceeded to ask the Tribunal to “clarify[] its
+disposition of that claim,” based on the Tribunal’s failure to “expressly recite its disposition of [Mr.]
+Loewen’s Article 1116 claims.”"*
+
+Importantly, the U.S. Request, which was filed on the last possible day of the 45-day period
+
+allotted by Article 58, precluded Mr. Loewen from seeking to vacate the Award at that time. It was
+
+'6 Article 58 provides:
+
+(1) Within 45 days after the date of the award cither party, with notice to the other party may request the
+Tribunal, through the Secretary-General, to decide any question which it had omitted to decide in the award.
+
+(2) The Tribunal shall determine the procedure to be followed.
+
+(3) The decision of the Tribunal shall become part of the award and the provisions of Articles 52 and 53 of
+these Rules shall apply thereto,
+
+' US, Request for Supplementary Decision, The Loewen Group, Inc. and Raymond L. Loewen v. United States, ICSUD Case
+No. ARB(AF)/98/3 (Aug, 11, 2003), at 2 (attached as Exhibit 5).
+
+18 Jd, at 2-3
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 16 of 51
+
+widely expected that Mr. Loewen would seek to vacate the Award, given the scholarly consensus
+
+> «6 v1
+
+that the Tribunal’s reasoning was “preposterous,” “quite wrong,” and “completely appalling.
+
+In response to the U.S. Request, Mr. Loewen asked the Tribunal to remedy its substantial
+misconduct. Mr. Loewen urged the Tribunal to recognize that it had “completely overlooked his
+Article 1116 claim, and that . . . [that it had to] return to the merits and decide the merits of his claim
+in accordance with all the submissions and to make all findings necessary to determine the claim.”
+Mr. Loewen also requested that the Tribunal “perfect an otherwise incomplete Award,” in particular
+by making a fair and impartial determination based on the “[uJncontradicted and unchallenged
+evidence” that it had overlooked.”!
+
+On September 13, 2004, the Tribunal issued a decision denying the U.S. Request (“2004
+Decision”). Although the Tribunal issued three separate decisions, there can be no doubt that they
+are but constituent parts of a larger Award. Article 58 clearly states that the Tribunal’s supplemental
+
+9922
+
+decision “shall become part of the award.” As such, Mr. Loewen’s Motion to Vacate and Remand
+
+challenges not only the 2004 Decision, but the entire Award.
+
+Ill. THE TRIBUNAL’S FINDINGS AND MISCONDUCT THAT CONSTITUTE
+GROUNDS FOR VACATING AND REMANDING THE AWARD
+
+The Tribunal’s 2003 Decision was deeply flawed in at least three respects. First, the Tribunal
+failed to consider or decide one of Mr. Loewen’s two treaty claims — his Article 1116 claim as an
+investor who was damaged by the United States’ acts. It was this deficiency that the U.S. asked the
+
+8 Michael D. Goldhaber, A “Completely Appailing” Decision, The American Lawyer, available at yoww.transnational-dispute-
+management.com (2004).
+
+20 Article 58 Submission As 'To Raymond L, Loewen’s Article 1116 Claim, The Loewen Group, Inc. and Raymond L. Loewen v.
+United States, CSID Case No. ARB(AF)/98/3 (Sept. 19, 2003), para. 4 (attached as Exhibit 6).
+
+21 Td.
+» See ICSID Additional Facility Rules, art. 58.
+
+-10-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 17 of 51
+
+Tribunal to correct. Second, even though there was a consensus that the appropriate legal standard
+for the determination of the exhaustion issue was an objective standard of “reasonable availability,”
+the Tribunal manifestly disregarded and failed to apply that standard. Instead, the Tribunal
+examined whether TLGI subjectively believed it had any reasonably available alternative to
+settlement. Third, the Tribunal completely failed to consider and thus to hear the uncontested
+record evidence on what the Tribunal described as the “central question” concerning the exhaustion
+issue — whether TLGI subjectively believed it had any reasonable alternative to the $175 million
+settlement. Under well-established principles of U.S. arbitration law, these fundamental deficiencies
+constituted arbitral misconduct, rendered the Award incomplete and contradictory, and require that
+
+this Court vacate the Award.
+
+A. The Tribunal’s Failure To Decide Mr. Loewen’s Article 1116 Claim
+
+In the 2003 Decision, the Tribunal either ignored or failed to recognize one of Mr. Loewen’s
+treaty claims. As noted, Mr. Loewen had filed two NAFTA claims: a personal claim under Article
+1116 as a Canadian investor who was damaged by the United States’ breaches of NAFTA; and a
+claim under Article 1117 as the controlling shareholder in, and on behalf of, TLGI. Through Article
+1116, Mr. Loewen claimed that he was harmed in his personal capacity as an investor. Through
+Article 1117, Mr. Loewen claimed that his investment was harmed.
+
+It is indisputable that Mr. Loewen properly filed and repeatedly articulated his Article 1116
+claim before the Tribunal. In his original Notice of Claim, Mr. Loewen affirmatively set out a claim
+under Article 1116:
+
+CAUSES OF ACTION
+
+178. Raymond Loewen also satisfies all of the elements for a claim under
+Article 1116. First, Mr. Loewen is an investor of Canada and of no other state. Mr.
+Loewen’s investments in the United States, through TLGI, include substantial
+
+-11-
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 18 of 51
+
+portions of LGII, Riemann Holdings, and Wright & Ferguson Funeral Home. Second,
+as noted above, both the United States and Mississippi (for which the United States is
+responsible) repeatedly breached their obligations under NAFTA Articles 1102, 1105
+and 1110 during the 0’Keeft litigation. Third, as explained above and below, Mr.
+Loewen suffered grave damages as a result of those breaches, either directly or
+through TLGI or its United States investments.”
+
+ 
+
+During the arbitration proceedings, Mr. Loewen reaffirmed that he was stating a claim, and
+pursuing relief under, under Article 1116:
+
+I want most emphatically to clear up any confusion that may
+have been created in the tribunal’s mind by the assertion that
+somehow Mr. Loewen’s claims for damages come all under 1117
+and not under Article 1116.
+
+As the pleadings in this case show, and I’m referring specifically to
+paragraph 181 of the notice of claim in this case, Mr. Loewen asserts a
+claim under Article 1117 on behalf of [TLGI], and I quote, “[TLGI]] to
+recover the grave damages that [TLGI] suffered as a result of the
+NAFTA
+
+breaches complained of.”
+
+Mr. Loewen has an entirely separate, entirely independent cause
+of action under Article 1116 for damage that he personally
+suffered to his investment, and those are the damages that were
+discussed, I believe, during the government’s — during the
+government’s presentation, and those damages ate spelled out in the
+memorial that we filed on behalf of Mr. Loewen at pages 69 and
+forward, in response to the tribunal’s request for a sketch of damages.
+
+It’s made very clear here that these are Mr. Loewen’s personal
+estimated damages, including the loss in the value of his TLGI
+stock, loss to his personal reputation.
+
+We are prepared, as is the company, at the appropriate time to set
+forth the damages suffered by [TLGI], all we have spoken to and all
+we were asked to speak to was Mr. Loewen’s personal damages. So
+we would vigorously contest the statement that was made
+towards the close of the government’s presentation that if you
+strike Mr. Loewen’s standing under Article 1117, you strike the
+whole of his claim. You strike only a small part of it. He does
+not seek any personal recovery under Article 1117. That recovery
+would be to [TLG]].*
+
+3 Notice of Claim, at para. 178 (Exhibit 1).
+
+2 Transcript (Sept. 21, 2000), at 508:2-509:16 (Mr. Mills on behalf of Claimants) (Sept. 2000 Heating transcripts attached
+as Exhibit 7).
+
+-12-
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 19 of 51
+
+Mr. Loewen also made clear that he had been injured in his personal capacity as an investor
+under Article 1116:
+
+The next point I want to make is that there really is no question that
+[Mr.] Loewen is a proper claimant before this tribunal. He founded
+the company, it was named after him, he was the president and
+CEO. He was the chairman of the board of directors. He and his
+family were by far the largest stockholder. To the public he was the
+company.
+
+And although damages are not before the tribunal, I will merely note
+that [Mr.] Loewen has suffered a devastating injury from this
+coerce[d] settlement, as stated in [our] memorial, he lost his
+company, he lost a substantial value in his stock, he lost the
+value of his stock options and he suffered a devastating loss to
+his business and personal reputation.
+
+It’s our view that Mr. Loewen, as a Canadian citizen, having
+suffered this injustice in the state of Mississippi, brings before
+this tribunal a claim based on precisely the type of conduct that
+NAFTA was intended to prevent, brought by precisely the type
+of claimant that NAFTA was intended to protect, and at the
+very least, there is absolutely no basis for the contention that
+the merits of Mr. Loewen’s claim cannot even be considered by
+this tribunal.”
+
+AK
+Raymond Loewen is the one person before this tribunal who
+personally endured the O’Keefe trial and its aftermath and is the
+
+person against whom the Mississippi jury directed its nationalistic
+and racial animus.”
+
+Indeed, the United States recognized that Mr. Loewen had stated a claim, and was pursuing
+relief, under Article 1116:
+If Mr. Loewen’s contention is that he personally suffered some
+
+kind of harm as a result of any violation of Chapter 11 that is
+within the jurisdiction of this tribunal, Article 1116 is there for
+
+* Transcript (Sept. 20, 2000), at 31:14-32:17 (Mr. Lewis on behalf of Claimants) (Exhibit 7).
+
+26 Transcript (Oct. 15, 2001), at 35:20-36:2 (Mr. Lewis on behalf of Claimants) (Oct. 2001 Heating transcripts attached as
+Exhibit 8).
+
+-13-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 20 of 51
+
+him. That is designed for investors to bring a claim on their
+own behalf, saying that they have been injured.”
+
+Clearly, the drafters contemplated that noncontrolling shareholders
+would have recourse only under Article 1116, and that only
+controlling shareholders might potentially have recourse under both
+articles. Mr. Loewen is not a controlling shareholder. His
+recourse, if he has any, is under Article 1116, and not 1117.*
+
+In his Counter-Memortial dated March 29, 2002, Mr. Loewen noted the United States’ failure
+
+to object to his Article 1116 claim on jurisdictional grounds:”
+
+RAYMOND LOEWEN’S 1116 CLAIM UNAFFECTED BY US OBJECTION
+
+1. The Claimant, Raymond L. Loewen, advances claims as an investor under Article
+1116 and claims on behalf of [TLGI] pursuant to Article 1117.
+
+2. No objection has been made in the recent filing by the United States to
+Raymond Loewen’s Article 1116 claim. Raymond L. Loewen has always been and
+remains a Canadian citizen.
+
+3. Raymond L. Loewen respectfully notes that[,] as there has been no
+objection to his claim pursuant to Article 1116 of NAFTAJ,] he requests that
+the Tribunal render its award on the merits of his claim.”
+
+The United States even conceded its failure to object to Mr. Loewen’s claim under Article
+
+1116 on jurisdictional grounds.
+
+2 Transcript (Sept. 21, 2000), at 485:2-9 (Mr. Legum on behalf of the United States) (Exhibit 7).
+28 Transcript (Sept. 21, 2000), at 492:8-15 (Mr. Legum on behalf of the United States) (Exhibit 7).
+
+2 Counter-Memorial of the Claimant Raymond L. Loewen on the U.S. Objection Dated March 1, 2002, The Loewen
+Group, Inc. and Raymond L. Loewen v. United States, ICSID Case No. ARB(AF)/98/3 (Mar. 29, 2002) (hereinafter
+“Raymond Loewen Counter-Memorial”) (attached as Exhibit 9). For the U.S. pleadings contesting the jurisdiction of
+the Tribunal vis-a-vis TLGI’s claims under Article 1117, see Memorial of the United States of America on Matters of
+Jurisdiction and Competence Arising from the Restructuring of the Loewen Group, Inc., The Loewen Group, Inc. and
+ynond L. Loewen v. United States, CSID Case No. ARB(AF)/98/3 (Mar. 1, 2002) (attached as Exhibit 10); Reply of the
+United States of America to the Countet-Memorial of the Loewen Group, Inc. on Matters of Jurisdiction and
+Competence, The Loaven Group, Inc. and Raymond L, Loewen v. United States, CSID Case No. ARB(AF)/98/3 (Apr. 26,
+2002) (attached as Exhibit 11).
+
+ 
+
+3” Raymond Loewen Counter-Memotial, at 1 (emphasis added) (Exhibit 9).
+
+-14-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 21 of 51
+
+I just make one point of clarification, which is an issue was raised
+yesterday as to what the question was that the United States was
+asking the tribunal to decide. In our presentation yesterday, we
+noted that the tribunal’s disposition of the 1117 claim will have the
+effect of disposing of the bulk of Mr. Loewen’s claims because those
+claims are clearly derivative of injuries to the corporation.
+
+To be clear, however, the only issue presented for the tribunal to
+decide here is the 1117 claim. That’s the only objection that’s
+before the tribunal that it needs to address responding to the
+United States’ Memorial contesting the jurisdiction of the
+Tribunal to consider [TLGI]’s claims under Article 1117."
+
+In sum, there is no question that Mr. Loewen repeatedly articulated his claim under Article
+1116 to the Tribunal. It is also clear that the United States never contested Mr. Loewen’s claim
+
+under Article 1116 on jurisdictional grounds, as the Tribunal itself acknowledged: “there was no
+
+9932,
+
+jurisdictional objection to [Raymond Loewen’s] claim under art. 1116.
+
+Despite the emphasis Mr. Loewen had placed on his Article 1116 claim, the Tribunal
+ignored it in its 2003 Decision. In disposing of Mr. Loewen’s claims, the entirety of the Tribunal’s
+reasoning and decision is found in the following paragraphs described in this section. First, the
+‘Tribunal purported to list all of TLGI and Mr. Loewen’s claims under Chapter 11:
+
+9. First Claimant TLGI is a Canadian corporation which carries on
+business in Canada and the United States. Second Claimant is
+Raymond Loewen, a Canadian citizen who was the founder of TLGI
+and its principal shareholder and chief executive officer. TLGI
+submits claims as “investor of a Party” on its own behalf under
+NAFTA, Article 1116 and on behalf of [TLGI] under Article 1117.
+Likewise, Raymond Loewen submits claims as “the investor of
+a party” on behalf of TLGI under NAFTA, Article 1117.”
+
+31 Transcript (Sept. 22, 2000), at 664:10-21 (Mr. Legum on behalf of the United States) (Exhibit 7).
+22.2004 Decision, para. 19.
+33.2003 Decision, para. 9 (emphasis added)
+
+-15-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 22 of 51
+
+The Tribunal listed TLGI’s claims under Articles 1116 and 1117, as well as Mr. Loewen’s claim
+under Article 1117. However, the Tribunal completely overlooked Mr. Loewen’s claim under
+
+Article 1116.
+With respect to the continuing diversity of nationality issue, the Tribunal stated:
+
+29. Subsequently, on January 25, 2002 Respondent filed the motion
+to dismiss Claimants’ [sic] NAFTA claims for lack of jurisdiction,
+based on the reorganization of TLGI under Chapter Eleven of the
+United States Bankruptcy Code. An element in that reorganization
+was the assignment by TLGI of its NAFTA claims to a newly created
+Canadian corporation, Nafcanco, which was owned and controlled by
+[ILGI] (re-named “Alderwoods, Inc”, a United States corporation).
+
+Again, the Tribunal overlooked the impact and consequence of Mr. Loewen’s two discrete NAFTA
+claims, for neither of them was affected by the United States’ objection as to the lack of continuing
+diversity of nationality.
+
+With respect to the continuing control over investments issue, the Tribunal stated:
+
+239. Raymond Loewen argues that his claims [sic] under NAFTA
+survive the reorganization. Respondent originally objected to
+Raymond Loewen’s claims [sic] on the ground that he no
+longer had control over his stock at the commencement of the
+proceeding. The Tribunal allowed Raymond Loewen to continue in
+the proceeding to determine whether he in fact continued any stock
+holding in the company. No evidence was adduced to establish his
+interest and he certainly was not a party in interest at the time of the
+reorganization of TLGI.”
+
+ 
+
+In holding that Mr. Loewen had not established his continuing control over his investment — TLGI
+— the Tribunal sought to decide Mr. Loewen’s NAFTA claims on jurisdictional grounds. While this
+holding decided Mr. Loewen’s claim under Article 1117, it had absolutely no impact on his claim
+
+under Article 1116. Recall that under Article 1117, Mr. Loewen claimed that his investment was
+
++4 2003 Decision, para. 29.
+% 2003 Decision, para. 239.
+
+-16-
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 23 of 51
+
+harmed, but under Article 1116, Mr. Loewen claimed that he was harmed in his personal capacity
+as an investor. The Tribunal thus left one of Mr. Loewen’s treaty claims unresolved and undecided.
+In the legally operative part of its 2003 Decision, the Tribunal stated:
+
+ORDERS
+
+For the foregoing reasons the Tribunal unanimously decides -
+
+(1) That it lacks jurisdiction to determine TLGI’s claims under
+
+NAFTA concerning the decisions of United States courts in
+
+consequence of TLGI’s assignment of those claims to a Canadian
+
+corporation owned and controlled by a United States corporation.
+
+(2) That it lacks jurisdiction to determine Raymond L.
+
+Loewen’s claims [sic] under NAFTA concerning decisions of
+
+the United States courts on the ground that it was not shown
+
+that he owned or controlled directly or indirectly TLGI when
+
+the claims were submitted to arbitration or after TLGI was
+
+reorganized under Chapter 11 of the United States Bankruptcy
+
+Code.
+
+(3) TLGTI’s claims and Raymond L. Loewen’s are hereby dismissed in
+their entirety.
+
+Yet again, the Tribunal overlooked Mr. Loewen’s Article 1116 claim. It dismissed his claims — both
+of them — only on jurisdictional grounds and for a reason — lack of control — that was utterly
+irrelevant to Mr. Loewen’s Article 1116 claim.
+
+The fact that the Tribunal ignored or failed to recognize Mr. Loewen’s Article 1116 claim
+was reinforced by what the Tribunal said at the start of its decision, where it distinguished between
+its “jurisdictional” holdings on continuing diversity of nationality and its “merits” conclusion on the
+exhaustion issue.
+
+Introduction
+
+1. This is an important and extremely difficult case. Ultimately it
+turns on a question of jurisdiction arising from (a) the NAFTA
+
+56.2003 Decision at pp. 69-70 (emphasis added).
+
+-17-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 24 of 51
+
+requirement of diversity of nationality as between a claimant and the
+
+respondent government, and (b) the assignment by [TLG]] of its
+
+NAFTA claims to a Canadian corporation owned and controlled by a
+
+United States corporation. This question was raised by
+
+Respondent’s motion to dismiss for lack of jurisdiction filed
+
+after the oral hearing on the merits. In this Award we uphold the
+
+motion and dismiss Claimants’ NAFTA claims.”
+The plain language of the Award indicates that the Tribunal decided the case on jurisdictional
+grounds. The Tribunal described its “ultimate” holding as jurisdictional in nature, explained the basis
+for that holding, and proceeded to dismiss all the claims before it — “Claimants? NAFTA claims,”
+including all of Mr. Loewen’s claims — based on that holding.
+
+In contrast, the Tribunal’s description of its consideration of the “merits” issue — the
+exhaustion of local remedies — reinforced the impression that it was ancillary to the core
+jurisdictional holding.
+
+2. As our consideration of the merits of the case was well advanced
+
+when Respondent filed this motion to dismiss and as we reached the
+
+conclusion that Claimants’ NAFTA claims should be dismissed on
+
+the merits, we include in this Award our reasons for this conclusion.
+
+As will appear, the conclusion rests on the Claimants’ failure to show
+
+that [TLG]] had no reasonably available and adequate remedy under
+
+United States municipal law in respect of the matters of which it
+
+complains, being matters alleged to be violations of NAFTA.*
+‘The Tribunal did not say that its decision “ultimately” turned on a merits question, nor did it
+purport to deny TLGI or Mr. Loewen’s claims on the merits.
+
+Because the Tribunal had already expressly disposed of all of “Claimants’ NAFTA claims”
+on jurisdictional grounds, at this stage in the proceeding it clearly viewed its “merits” conclusion as
+
+dicta. This dichotomy is also apparent from the operative legal language at the end of the Decision,
+
+the Tribunal “Orders.” These holdings are limited to the Tribunal’s disposition of TLGI’s claims on
+
+57 2003 Decision, para. 1 (emphasis added).
+38 2003 Decision, para. 2.
+
+-18-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 25 of 51
+
+the continuing diversity of nationality issue and the disposition of Mr. Loewen’s claims on the
+control issue. There is no mention of Mr. Loewen’s Article 1116 claim, which, because the U.S. had
+no jurisdictional objection to it, could only be disposed of on exhaustion grounds. The Tribunal’s
+silence in its “Orders” as to the “merits” issues reinforces the conclusion that it viewed its findings
+on that issue as dicta, and not as dispositive of any of the claims. In particular, the Tribunal did not
+state or even vaguely imply that it had actually decided Mr. Loewen’s Article 1116 claim on the
+merits.
+
+It is thus apparent from the Tribunal’s own repeated statements and the express holding and
+Orders of the 2003 Decision that the Tribunal completely ignored Mr. Loewen’s Article 1116 claim.
+It did not consider or discuss why his Article 1116 claim was deficient; indeed, it never mentioned or
+discussed in any manner his status as an investor who had lost over $100 million as a result of the
+Mississippi “disgrace.” Instead, it discussed a single fact that was relevant only to Mr. Loewen’s
+Article 1117 claim—whether Mr. Loewen controlled TLGI at the time that the NAFTA claim was
+filed.
+
+It is, of course, extraordinary for a tribunal to miss and thus fail to consider one of only four
+claims before it. It was because of this deficiency that the United States, knowing full well that the
+fault was so serious that the 2003 Decision would be vacated, asked the Tribunal for a supplemental
+tuling to clarify the 2003 Decision.
+
+In its 2004 Decision, however, the Tribunal, rather than honestly admitting its misconduct,
+asserted that it had, in fact, considered the Article 1116 claim and resolved it on the metits:
+
+RESPONDENT?’S CASE
+
+16. Respondent contends that, although the Award explicitly stated
+that all claims (including Raymond Loewen’s claims) were dismissed
+on the merits, it did not state expressly that his art. 1116 claims were
+
+dismissed on the merits. Respondent concedes that the Award was
+not “silent” as to the question but argues that further explication
+
+-19-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 26 of 51
+
+would resolve a minor ambiguity and that art. 58(1) extends to such a
+case.
+
+RAYMOND LOEWEN’S CASE
+
+17. Raymond Loewen contends that the Tribunal omitted to decide
+his art. 1116 claim in the Award and that it is obligated to render a
+supplementary decision under art. 58. Raymond Loewen submits that
+the Tribunal overlooked the claim and that, in the course of
+determining it now, the Tribunal should consider whether its “obiter
+dicta” as to the merits require correction, as Raymond Loewen argues.
+
+18. Central to the submission is the argument that paras. 215-217 of
+the Award are in error and that the Tribunal overlooked the
+declarations of Mr. Wynne S. Carvill and the Rt. Hon. John N.
+Turner. These declarations were before the Tribunal and were relied
+upon by Claimants at the oral hearings.
+
+19. We agree that, apart from the dismissal in the Award of June
+26, 2003 of all the claims “in their entirety”, there is no distinct
+reference in the Award to a discussion of Raymond Loewen’s
+claim under art. 1116. We agree also that, as there was no
+jurisdictional objection to his claim under art. 1116, that claim
+fell to be determined by the decision on the merits.
+
+20. But the dismissal of all the claims “in their entirety” following the
+examination of the merits was necessarily a resolution of the art. 1116
+claim. That dismissal was a consequence of the reasoning expressed
+in paras. 213-216. We therefore reject the argument that the Award
+did not deal with the art. 1116 claim.
+
+21. It follows that Respondent is correct when it argues that
+Raymond Loewen is asking the Tribunal to reconsider its decision to
+dismiss that claim and to reconsider the reasoning (described by
+Raymond Loewen as “obiter dicta”) which led the Tribunal to dismiss
+the claim. In the context of the dismissal of [TLGI]’s claims, that
+reasoning was not merely “obiter dicta.” It was the reasoning on
+which that part of the Award was based and it is not open to the
+Tribunal to reconsider it. There is no logical basis on which the
+Tribunal can draw a distinction between the relationship of that
+reasoning to the dismissal of the [TLGI] claims on the one hand and
+to the Raymond Loewen claim under art. 1116 on the other hand.”
+
+°° 2004 Decision, para. 16-21 (emphasis added).
+
+-20-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 27 of 51
+
+With all due respect to the distinguished Tribunal, its ev post facto rationalization cannot
+withstand scrutiny: it quite evidently did not consider Mr. Loewen’s Article 1116 claim in the 2003
+Decision. As the Tribunal conceded, there was no mention of Mr. Loewen’s Article 1116 claim in
+the 2003 Decision, and the Article 1116 claim was not resolved on jurisdictional grounds.” The
+clear language of the 2003 Decision demonstrates* that the Tribunal did not base its decision on the
+merits: “Ultimately it turns on a question of jurisdiction . . . This question was raised by
+Respondent’s motion to dismiss for lack of jurisdiction . . . In this Award we uphold the motion and
+
+dismiss Claimants’ NAFTA claims.”
+
+Thus, the Tribunal’s claim in paragraph 20 of the 2004
+Decision that it had, in fact, resolved Mr. Loewen’s Article 1116 claim on the merits is intellectually
+dishonest and clearly false.
+B. The Tribunal’s Manifest Disregard of the Objective Standard for “Reasonably
+Available” Local Remedies
+The Tribunal’s second substantial failure was its manifest disregard of the controlling
+principle of law: whether TLGI had, as an objective matter, exhausted its local remedies after the
+Mississippi verdict. In its 2003 Decision, the Tribunal concluded that TLGI was required to exhaust
+local remedies, in particular by filing a petition for certiorari with the U.S. Supreme Court, before
+obtaining international relief, so long as such remedies were “reasonably available.” First, the
+‘Tribunal stated the legal standard it would apply:
+169. Availability is not a standard to be determined or applied in the
+abstract. It means reasonably available to the complainant in the light
+of its situation, including its financial and economic circumstances as
+
+a foreign investor, as they are affected by any conditions relating to
+the exercise of any local remedy.”
+
+ 
+
+#0 2004 Decision, para. 19.
+4 2003 Decision, para. 1 (emphasis added).
+#2003 Decision, para. 169.
+
+-21-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 28 of 51
+
+It stated further:
+
+214. Respondent argues that, because entry into the settlement
+agreement was a matter of business judgment, [TLGI] voluntarily
+decided not to pursue its local remedies. That submission does not
+dispose of the point. The question is whether the remedies in
+question were reasonably available and adequate. If they were
+not, it is not to the point that [TLGI] entered into the
+settlement, even as a matter of business judgment. It may be
+that the business judgment was inevitable or the natural outcome of
+adverse consequences generated by the impugned court decision.”
+
+ 
+
+Thus, the Tribunal recognized and concluded that the controlling law concerning exhaustion was a
+
+standard of “reasonable availability.”
+
+Any standard based on reasonable availability is normally an objective standard.” Indeed,
+there was a consensus that the standard was an objective one. In its 2003 Decision, the Tribunal
+stated:
+
+168. This passage, in our view, correctly expresses the scope and
+content of the principlerelating to exhaustion of local remedies. It is
+an obligation to exhaust remedies which are effective and
+
++8 2003 Decision, para. 214 (emphasis added).
+
+4 In a discussion with counsel for the United States, the Tribunal noted that the standard is not the mere availability of
+alternatives, but instead whether such alternatives are reasonably available.
+
+MR. LEGUM:. .. Justice is not denied where justice remains to be pursued. ‘The United States cannot have
+denied [TLGI] justice if the courts of justice were available but [TLGI] chose not to avail itself of them. The
+very nature of a claim of denial of justice is such that a showing of systemic failure is necessary.
+
+LORD MUSTILL: Is there not perhaps a little bit more to it? You might be able to waive a little bit more
+aside. It's not so much that the only requirement was that there was a means of seeking a remedy, but
+that the remedy would actually have been given, because if there had been -- if there had been conduct
+amounting to a denial at the first stage, then it's not much consolation, wouldn't have been much consolation,
+to know that there was a means of putting it right if in the event it wouldn't have been put right.
+
+Transcript (Oct. 17, 2001), at 772:9-773:4 (Lord Mustill on behalf of the Tribunal) (Exhibit 8).
+In another discussion with Claimants’ counsel, the Tribunal affirmed its adherence to the objective “reasonable
+availability” standard.
+
+UDGE MIKVA: There's no question. If you didn't have a reasonable possibility of certiorari, then all of this
+q y Ps y
+is just idle discussion.
+
+Transcript (Oct. 16, 2001), at 482:1-3 (Judge Mikva on behalf of the Tribunal) (Exhibit 8).
+
+8 See, e.g, Dep't of Justice v. Fed. Labor Relations Anth., 991 F.2d 285, 291 (5th Cit. 1993) (describing reasonable availability
+as an objective standard); Brebm v. Eisner, 746 A.2d 244, 260 (Del. 2000) (referring to the “objective test[] of reasonable
+availability”).
+
+ 
+
+-22-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 29 of 51
+
+deq and are bly ilable to the comp in the
+
+circumstances in which it is situated.“
+
+ 
+
+‘The test then was not whether the complainant believed that the alternative remedy was effective,
+adequate and reasonably available, but instead whether the alternative remedy was, objectively
+speaking, effective, adequate, and reasonably available.
+
+When the United States introduced evidence relating to TLGI’s subjective state of mind,
+Claimants’ counsel pointed out that this evidence was inconsistent with the objective standard, and
+thus irrelevant.
+
+So it goes back to was it reasonable not to go to the Supreme Court
+of the United States. Yes, it was reasonable, for all the reasons you
+heard yesterday about why it was like winning the lottery, as far as
+doing it. And it made sense in the context of what [TLGI] had to
+do.
+
+I might also say that the government states at page 36 of its
+original response that the test is an objective test. I mean, are
+we really going to get into a hearing of what everybody felt and
+thought that this was a good idea, bad idea?
+
+The fact of the matter is, the government says whether or not this
+was a reasonably effective remedy is an objective test. And the
+only thing they now say is they have got a bunch of drafts which
+shows that [TLGI]] were careful warriors and they considered this.
+
+But I think the real test is whether or not this was an effective or
+reasonably effective remedy.”
+
+ok
+
+My fifth point is simply a comment with respect to some of the
+testimony that was read into the record yesterday and that we’ve seen
+with regard to the supposed subjective intentions of the [TLGI]
+board of directors in determining not to enter into bankruptcy. I
+think with regard to the extensive reading of such statements that
+was done yesterday, as well as the extensive reliance that’s been
+placed on that in the government’s submissions, it is well worth
+
+46 2003 Decision, para. 168 (emphasis added).
+# Transcript (Sept. 21, 2000), at 502:9-503:6 (Mr. Lewis on behalf of Claimants) (Exhibit 7).
+
+-23-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 30 of 51
+
+returning to the United States’ July 7 response, at page 36,
+where the United States says, and I quote, “the test of
+ineffectiveness of the remedy is meant to be objective.”
+
+I can understand, perhaps, rhetorically, why one might want to
+rely on such subjective statements, but in point of fact, those
+are wholly irrelevant, even under the standard espoused by the
+United States.
+
+ok
+
+Against both subjective and objective showings, it cannot possibly be
+said that entering into bankruptcy is a means for appealing the
+O'Keefe judgment, was a reasonable option for [TLGI] in 1995 or
+1996.”
+
+[IJhe objective evidence, including the evidence offered by the
+contrary opinions in this case, is that federal court relief from the
+United States Supreme Court on writ of certiorari and, more
+specifically, on a stay, would not have been available to [TLG]],
+under any conceivable standard that the government wishes to apply
+to our claim of duress or claim of — or local remedies issue.”
+
+ 
+
+Upon Mr. Loewen’s objection to the subjective evidence introduced by the United States,
+the U.S. reaffirmed that “reasonable availability” was an objective standard, and stated, perhaps a bit
+
+disingenuously, that the subjective evidence demonstrated the objective availability of alternatives.
+
+Now, the question was raised yesterday and today whether or
+not this standard is objective or subjective, and we’ve been
+reminded that we have stressed that it’s an objective test, and
+it’s been suggested that we contradict ourselves by citing the
+state of mind of [TLGI]’s lawyers and executives at the time by
+quoting things that they have said and what they have thought.
+
+Of course, that does not turn the standard into a subjective one.
+
+We are quoting those items merely as evidence that, in fact,
+
+48 Transcript (Sept. 22, 2000), at 595:22-596:17 (Mr. Castanias on behalf of Claimants) (Exhibit 7).
+# Transcript (Oct. 16, 2001), at 464:22-465:4 (Mr. Castanias on behalf of Claimants) (Exhibit 8).
+*° Transcript (Oct. 16, 2001), at 475:4-11 (Mr. Castanias on behalf of Claimants) (Exhibit 8).
+
+-24-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 31 of 51
+
+objectively, indeed, [TLGI] had these reasonable alternatives
+which they were required to attempt so that they could finalize the
+lower court judgment and actually be able to establish a breach.”
+
+ok
+
+I would simply note, for purposes of this point, that effectiveness is
+an objective, not a subjective test. It’s not a question of what
+an applicant thought was reasonable, but rather whether the
+remedy provided was, in fact, effective.”
+
+Even though there was a consensus that “reasonable availability” was an objective standard,
+the Tribunal disregarded that legal standard. In so doing, the Tribunal also ignored the evidence that
+was presented by Mr. Loewen and TLGI that demonstrated that TLGI did not have a reasonably
+available U.S. Supreme Court alternative to settlement.
+
+Expert evidence showed that U.S. Supreme Court review of the Mississippi judgment was
+not “reasonably available,” primarily because the judgment was subject to discretionary review.”
+‘Two of the three expert reports prepared for the Tribunal (Tribe and Fried) confirmed that there
+was little prospect of Supreme Court review. Professor Tribe stated: “[A]s a practical matter,
+Supreme Court review was unavailable. . .. I do not believe that [TLGI]] could have had any basis
+for believing that a petition for certiorari would have been granted or would indeed have stood a
+
+non-negligible chance of being granted.” Similarly, Professor Fried stated: “It is my opinion that
+
+the specific circumstances of this case, as measured by the Supreme Court rules and practices, made
+
+5! Transcript (Sept. 22, 2000), at 653:11-654:3 (Mr. Clodfelter on behalf of the United States) (Exhibit 7).
+© Transcript (Oct. 18, 2001), at 833:22-834:4 (Mr. Legum on behalf of the United States) (Exhibit 8).
+
+53 16B Charles Alan Wright et al., Federal Practice and Procedure § 4006 (2d ed. 1996) (“The basic pattern of review
+established in 1789 has been altered only by expanding it to include all federal questions properly presented to state
+courts, and by gradually shifting all proceedings to discretionary review by certiorari rather than the formally obligatory
+appeal jurisdiction.”).
+
+3 Statement of Laurence Tribe (Oct. 18, 1999), at 2, 24 (emphasis in original) (attached as Exhibit 12).
+
+-25-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 32 of 51
+
+this an exceedingly remote candidate to be chosen as one of the 85 or 90 cases, selected from among
+several thousand petitions, that the Court hears each year.”
+
+The United States’ expert, Days, merely concluded that “[TLGI] could have sought and
+would have had a reasonable opportunity to obtain Supreme Court review of the Mississippi
+Supreme Court’s decision.”*’ Days never explained what he meant by the term “reasonable
+
+opportunity,” and for good reason. Only 87, or 1.3%, of the 6685 petitions for writs of certiorari
+
+considered during the 1996 term were granted.” In addition, the criteria governing the selection of
+
+cases for Supreme Court review remain “opaque.”*
+
+As a result, it is exceedingly remote that even
+cases with a “reasonably opportunity” will be granted certiorari. Days’ emphasis on the possibility of
+Supreme Court review cannot obscure this fact.
+
+In this battle of the experts, the Tribunal was obligated to determine which testimony was
+more credible, as the Tribunal itself recognized: “But instead of battling the experts, because I really
+think both sides have exhausted that matter, we'll resolve which set of experts — whether Larry
+Tribe or Drew Days should get the most weight.”” Even the United States agreed that the
+Tribunal had to make this determination: “[T]he tribunal does have to decide, make a judgment
+about the availability of U.S. Supreme Court review.” Even though the Tribunal recognized its
+duty, the plain language of the 2003 Decision demonstrates that the Tribunal made no such
+
+determination.
+
+55 Op. of Charles Fried, at 7-8 (attached as Exhibit 13).
+56 Statement of Drew S. Days III (Feb. 15, 2000), at 3 (emphasis added) (attached as Exhibit 14).
+5 The Supreme Court, 1996 Term: The Statistics, V1 Harv. L. Rev. 431, 431 (1997).
+
+58 Richard L. Revesz & Pamela S. Karlan, Nonmajority Rules and the Supreme Court, 136 U, Pa. L. Rev. 1067, 1072 (1988)
+(“[T]he criteria that the Court is expected to apply in deciding whether to grant certiorari are... opaque. Neither the
+Judiciary Act of 1925 nor any other statutory enactment define such ctiteria.”).
+
+% Transcript (Sept. 21, 2000), at 368:19-369:1 (Judge Mikva on behalf of the Tribunal) (Exhibit 7).
+© Transcript (Sept. 21, 2000), at 368:11-13 (Mr. Blackwell on behalf of the United States) (Exhibit 7).
+
+-26-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 33 of 51
+
+211. This Tribunal is not in a position to decide whether the opinion of Professor
+Days or that of Professor Tribe is to be preferred. Nor is the Tribunal in a position
+to decide which of their conflicting opinions is to be preferred on a related question,
+namely whether collateral review was available in the Federal District Court.”
+
+Instead of addressing the ample objective evidence, the Tribunal disposed of the exhaustion
+issue on a different legal principle: whether TLGI subjectively believed it had any reasonable
+alternative to settlement. In so doing, the Tribunal manifestly disregarded the law that it had
+deemed controlling: whether there was, objectively speaking, a reasonably available alternative.
+
+In the 2004 Decision, the Tribunal tried to change the standard yet again, more than one
+year after the close of the arbitral proceedings. The Tribunal essentially read the word “reasonable”
+out of the standard. As a result, TLGI now had to prove (after the arbitral proceedings had already
+ended) that “the settlement option was the only available alternative,” and that the “certiorari
+
+9962
+
+petition and the bankruptcy petition were not available remedies.” By eliminating the word
+“reasonable,” the Tribunal transformed the “reasonable availability” standard into one where the
+mere availability of alternatives sufficed, regardless of whether they were reasonable or not.
+
+However, the Tribunal in its 2004 Decision still did not apply the objective standard to the
+evidence before it, continuing to disregard the controlling legal standard.
+
+Cc. The Tribunal’s Failure to Hear and Consider the Evidence on Why TLGI
+
+Settled
+
+The third signal failure of the Tribunal in the 2003 Decision was that it completely
+
+overlooked all the evidence relevant to whether TLGI believed it had exhausted its local remedies.
+
+In considering TLGI’s subjective belief, the Tribunal stated the following:
+
+215. Here we encounter the central difficulty in [TLGI]’s case.
+[TLGI] failed to present evidence disclosing its reasons for
+
+6 2003 Decision, para. 211.
+© 2004 Decision, para. 22.
+
+-27-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 34 of 51
+
+entering into the settlement agreement in preference to pursuing
+other options, in particular the Supreme Court option which it had
+under active consideration and preparation until the settlement
+agreement was reached. It is a matter on which the onus of proof
+rested with [TLGJ]. It is, however, not just a matter of onus of proof.
+If, in all the circumstances, entry into the settlement agreement
+was the only course which [TLGI] could reasonably be
+expected to take, that would be enough to justify an inference or
+conclusion that [TLGI] had no reasonably available and
+adequate remedy.
+
+216. Although entry into the settlement agreement may well have
+been a reasonable course for [TLG]] to take, we are simply left to
+speculate on the reasons which led to the decision to adopt that
+course rather than to pursue other options. It is not a case in
+which it can be said that it was the only course which [TLG]] could
+reasonably be expected to take.
+
+217. Accordingly, our conclusion is that [TLGI] failed to pursue its
+domestic remedies, notably the Supreme Court option and that, in
+consequence, [TLGI] has not shown a violation of customary
+international law and a violation of NAFTA for which Respondent is
+responsible.”
+
+The Tribunal was simply wrong. Claimants had submitted clear, uncontradicted,
+uncontested, comprehensive, and corroborated evidence explaining why Mr. Loewen had settled the
+case. The Tribunal overlooked all of this evidence, a deeply embarrassing omission for so
+distinguished a panel.
+
+TLGT’s reasons for settling were addressed in two declarations filed with the Tribunal in
+2000 long before the 2003 Decision, attached to the first Memorial filed by TLGI. The first was the
+declaration of Wynne S. Carvill, the American attorney who was the “principal outside counsel for
+[ILGI] in charge of coordinating the various efforts to respond to the developments in
+Mississippi.” It was supported by the equally clear declaration of a director of TLGI, John Napier
+‘Turner, a former Prime Minister of Canada who served on the Special Committee established by
+
+6 2003 Decision, para. 215-17 (emphasis added).
+6 Declaration of Wynne S. Carvill (May 24, 2000) (“Carvill Decl.”), 3.
+
+-28-
+
+Case 1:04-cv-02151-RWR Document7-1_ Filed 02/26/2005 Page 35 of 51
+
+TLGI’s Board of Directors to consider “actions necessary to protect the assets and interests of the
+
+65
+
+Company” in the wake of the Mississippi verdict.” The U.S. never questioned, challenged, or cross-
+examined either of these declarants, nor did it put in any declarations rebutting this evidence.
+
+In his declaration, Mr. Carvill, a graduate of Harvard Law School, a law clerk to a U.S. Court
+of Appeals judge, a leading counsel and a partner in a distinguished firm, testified to his personal
+involvement in the assessment of the options identified by TLGI in the face of the Mississippi
+
+proceedings.”
+
+Mr. Carvill and his firm were not involved in the discovery or trial of the O'Keefe
+matter, but he was the principal outside counsel responsible for coordinating a response to the
+Mississippi developments.” He assessed the outcome at trial, retained new counsel to assist in
+post-trial motions and appeals, interviewed and selected a specialist counsel to consider possible
+appeals to the U.S. Supreme Court, participated in the decision to retain and discharge bankruptcy
+counsel, coordinated settlement discussions and eventually represented TLGI in the negotiations
+which resulted in the settlement. In short, Mr. Carvill was the witness who could best address the
+very issue of why TLGI settled.
+
+In his declaration, Mr. Carvill testified that all the options for relief in the federal court
+system, including appeal to the U.S. Supreme Court, were reviewed and rejected on professional and
+rational grounds, including:
+
+(a) Collateral attack on the Federal District Court was foreclosed by
+the commanding Pennzoil precedent such that an attorney signing the
+pleadings might have been subject to sanctions for doing so. In any
+
+event, they viewed a collateral attack in Federal Court as prejudicing
+
+whatever chances existed for relief from the Mississippi Supreme
+Court which was throughout seen as the best alternative;
+
+ 
+
+6 Declaration of Rt. Hon. John N. Turner (May 25, 2000) (“Turner Decl.”), | 13.
+6 Carvill Decl. #4 1,3.
+
+© Id. 992-3.
+
+8 Id. 43.
+
+-29-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 36 of 51
+
+(b) An action based on constitutional grounds was carefully
+considered, but could only have been raised through an appeal on the
+merits and not through a collateral attack in the Federal District
+Court. In particular, there was no evidence on which it could be said
+that the Mississippi Supreme Court’s decision on the bond was
+infected by anti-Canadian bias which might raise a constitutional
+issue meriting pursuit;
+
+ 
+
+(©) Very serious consideration was given to the possibility of direct
+appellate relief, but in the circumstances was concluded to be “an
+illusory choice”;
+
+(d) Supreme Court specialists were retained and advised that the
+chance of success was “extremely remote”;
+
+(©) In particular, the timing was made extremely difficult because the
+company did not know how much time it would have to seek relief.
+Indeed, “[c]onceivably, on any court day we could receive an order
+lifting the stay effective within a matter of days unless the bond were
+increased to $625 million.”
+
+Mr. Carvill’s declaration was supported and fully corroborated by a declaration filed by Mr.
+‘Turner, an outside director of TLGI, a former Prime Minister of Canada, and a distinguished lawyer.
+In that declaration, Mr. Turner confirmed that a group of senior management and outside advisors
+including Mr. Carvill simultaneously considered the several options and remedies available after the
+O’Keefe verdict, including settlement, financing the appeal bond, and pursuing federal court
+collateral relief or appeal to the U.S. Supreme Court. Mr. Turner declared that:
+
+The Board was advised by Mr. Carvill that, after consulting with
+several experts in the area and fully considering all avenues of
+possible relief in the U.S. federal court system, the possibility of relief
+from the U.S. Supreme Court was extremely remote and the
+likelihood of a collateral attack was so remote that the lawyers would
+run a tisk of being sanctioned under U.S. procedural rules for filing
+such a case. The Board was also advised that any efforts in federal
+court would greatly prejudice the Company’s chances of obtaining
+bonding and other relief in the Mississippi state courts. Such relief in
+
+© Carvill Decl. 44 6-8, 12-14; see alto Submission of the Loewen Group, Inc. concerning the Jurisdictional Objections of
+the United States, The Loewen Group, Inc. and Raymond L. Loewen v. United States, CSID Case No. ARB(AF)/98/3 (May 26,
+2000), at para. 59-62 (attached as Exhibit 15).
+
+-30-
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 37 of 51
+
+  
+
+issippi state courts was the primary strategic objective at that
+
+time.”
+
+the Miss
+«0
+
+Claimants’ counsel discussed the import of the Turner and Carvill declarations throughout
+the arbitration proceedings, primarily in the context of Mr. Loewen’s subjective state of mind as to
+
+the availability of reasonable alternatives.
+
+The petition for certiorari was not filed because, in the words of
+Mr. Carvill and the words of Mr. Turner, it was concluded by
+the lawyers who were advising [TLGI] that the chances of
+success were extremely low, and that’s the reason it’s in the
+record and that, in fact, is the reason why we did not pursue
+it.”
+
+oR
+
+As both Wynne Carvill and the Right Honorable John Turner
+have testified to this tribunal, the advice given to the company
+with regard to a petition for certiorari was that the chances
+were exceedingly remote and completely consistent with the
+opinions given to this tribunal by Professor Tribe.”
+
+Well, I think that goes back to the question that Mr. Castanias had
+talked about and we’ve been talking about for two years, that it’s not
+-- it’s a lottery. The chances of -- in this case, the chances of
+obtaining, first of all, the grant of a stay, emergency stay, second, the
+granting of actual certiorari, and third, the granting of -- reversal of
+the Mississippi Supreme Court, that the odds against that are very,
+very long indeed, to the point where [TLGI] was advised, as the
+affidavits of Mr. Carvill and Mr. Turner made clear, [TLGI]
+was advised that the chances of that actually happening were
+exceedingly remote, and I think that’s consistent with Professor
+Tribe’s and Professor Fried’s conclusions as well.
+
+ 
+
+And again, the central -- [TLGI]’s central point with respect to the
+remedies is that [TLGI] exhausted the remedies, it did all that it was
+
+% Turner Decl. 14
+7 Transcript (Sept. 21, 2000), at 504:22-505:7 (Mr. Dugan on behalf of Claimants) (Exhibit 7).
+” Transcript (Oct. 19, 2001), at 1078:21-1079:5 (Mr. Castanias on behalf of Claimants) (Exhibit 8).
+
+-31-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 38 of 51
+
+required to do under Article 1121 and under international law. And
+once it was deprived of its only appeal of right, its only normal
+appeal, it had no place left to go, to use Professor Fried’s words.”
+Similarly, there was exhaustive evidence that bankruptcy was not a reasonable “remedy,” as
+
+Claimants’ counsel demonstrated in its submissions and throughout the arbitration proceedings:
+
+Loewen did what any reasonable investor would do. The cost of
+settling the case fell below the cost of bankruptcy, it settled.”
+
+[T}he costs of bankruptcy were so high . . . [that] when the cost of
+settlement dropped below those costs, it became the more tactical
+option.”
+
+[BJankruptcy for Loewen in 1996 was not a reasonable remedy. It
+would not have been an effective remedy. It would not have been a
+remedy at all... . Iam going to make three points. First, bankruptcy
+is injury, not remedy. . . . It is not a remedy. The second point I will
+make is that United States bankruptcy law, as it has been explained
+by leading scholars of that law, including some of those who are
+present in this case through declaration or statement or affidavit,
+those scholars show all the additional damage that bankruptcy would
+have caused to the company. That demonstrates that it is not in any
+way effective. And finally, I'll demonstrate that the sworn testimony
+of experts in this case show that corporate bankruptcy under
+Chapter 11 of the United States bankruptcy laws would not have
+been a reasonable option for the company.”
+
+[T]he advice given to the Loewen Group in 1996]] [was] that Chapter
+11 bankruptcy is particularly ill-suited for certain business types, that
+it carries with it certain indirect but very substantial reputational
+costs, the stigma, and that bankruptcy would have posed serious
+
+° Transcript (Oct. 19, 2001), at 1134:1-22 (Mr. Dugan on behalf of Claimants) (Exhibit 8).
+
+™ Transcript (Sept. 20, 2000), at 25:18-21 (Mr, Dugan on behalf of Claimants) (Exhibit 7).
+
+* Transcript (Sept. 20, 2000), at 162:14-16 (Mr. Dugan on behalf of Claimants) (Exhibit 7).
+
+% Transcript (Sept. 20, 2000), at 163:22-165:9 (Mr. Castanias on behalf of Claimants) (Exhibit 7).
+
+-32-
+
+Case 1:04-cv-02151-RWR Document7-1_ Filed 02/26/2005 Page 39 of 51
+
+risks of disrupting Loewen’s business operations, both the
+acquisition component and the service component.’
+
+[NJo bankruptcy expert in this case was willing to swear that
+bankruptcy was a reasonable option for Loewen in 1996.”
+
+The Turner and Carvill declarations reaffirmed that bankruptcy was not a viable or
+reasonable option for TLGI. Carvill, the American attorney charged with coordinating TLGI’s
+response to the Mississippi proceedings, stated:
+
+The bankruptcy option was seriously considered by the Company. . . . The problem,
+however, was that it appeared to senior management and the Board that a bankruptcy
+filing would effectively force a fundamental change in the Company’s business plan.
+Those plans depended on ready access to the capital markets for the purpose of
+financing continued growth. It also depended on industry perception of Loewen as a
+viable acquirer, and the willingness of some sellers to accept Loewen stock for a
+substantial portion of the consideration. Placing the company in bankruptcy was
+seen by management as a serious threat to its ability to access the capital markets and
+to present itself as a credible partner to potential sellers. The fear was that a Chapter
+11 [bankruptcy] filing would have a serious adverse impact on stock prices and make
+potential sellers reluctant to accept equity in lieu of cash.
+
+In addition, there were concerns expressed about the viability of continuing as a
+successful acquirer under the supervision of the bankruptcy court... . If [TLGI]
+needed to seek bankruptcy court approval for each new acquisition, its plans might
+be more transparent to competitors and its ability to respond to competitive offers
+would likely be seriously constrained. All of these concerns were voiced to
+bankruptcy counsel by senior management, and counsel failed to persuade [TLGI]
+that, in light of these and other issues, bankruptcy was a viable option for a company
+that defined itself in terms of rapid expansion based on easy access to capital markets.
+Thus, the Board considered and rejected the bankruptcy option as a viable alternative
+to settlement.
+
+[W]e also recognized the serious and permanent damage a bankruptcy filing would
+have done to the Company and its ability to continue with its business plan.”
+
+* Transcript (Sept. 20, 2000), at 181:21-182:6 (Mr. Castanias on behalf of Claimants) (Exhibit 7).
+*8 Transcript (Sept. 20, 2000), at 183:2-4 (Mr. Castanias on behalf of Claimants) (Exhibit 7).
+” Carvill Decl, $f] 12-13, 17.
+
+-33-
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 40 of 51
+
+Similarly, Turner stated:
+
+[T]he Board considered bankruptcy as a refuge, not a realistic “remedy.” The sole
+justification for a bankruptcy filing at that time would have been to obtain relief from
+the immediate execution on [TLGI]’s assets, which execution had been seriously
+threatened by the O'Keefe lawyers. The Company was otherwise in excellent financial
+condition, and in particular, had no need to void pending acquisition agreements or
+other contracts. Avoidance of the supersedeas bond requirement, the filing of which
+would have stayed the ability of [] O’Keefé to execute on their Mississippi judgment,
+was the only advantage of a Chapter 11 reorganization petition, assuming that such a
+petition would have
+
+been granted. . . .
+
+From the outset the Board and the two emergency Committees, as well as [TLGI]
+management, believed that between the options available to the Company,
+bankruptcy was “by far the least desirable.” The reasons were straightforward and, in
+the Board’s considered judgment, stemmed from the particular nature of the
+Company’s business plans and operating strategies, and its current and future
+operations. .. .
+
+The [TLG]] Board carefully considered a filing in Chapter 11, as one option. The
+Board concluded that such a filing would have devastating and irreparable
+consequences for [TLGI] for at least these reasons:
+
+(i) [TLG]] was an aggressive acquisition company, reliant on regular and successful
+access to the capital markets for both equity and debt financing. In the considered
+judgment of the Board, after advice from external advisors, a Chapter 11 filing posed
+gtave risk to the capacity of [TLGI], once in Chapter 11, to obtain the substantial,
+on-going equity and debt financing necessary to enable the [TLGI] acquisition
+program to continue.
+
+(ii) [[TLGI]’s perceived inability to obtain debt or equity financing, once in Chapter
+11, did not only impact [TLGI]’s future as an acquisition company. It would have had
+a second and catastrophic effect upon [TLGI]’s existing but not completed
+contractual commitments for
+
+many acquisitions, totalling millions of dollars. In the absence of the necessary
+financing to complete these acquisitions already under contract. [TLGI] would be in
+default of these purchase commitments; such default under the existing purchase
+contracts would have dealt a mortal blow to [TLGI]’s reputation and credibility as an
+acquisition company. (Indeed during the months following the O'Keefe trial verdict
+and before settlement, the Company was constantly receiving reports of whisper
+campaigns that the Company would default on
+
+existing purchase contracts; a great deal of management time was spent refuting these
+rumors).
+
+-34-
+
+Case 1:04-cv-02151-RWR Document7-1_ Filed 02/26/2005 Page 41 of 51
+
+(iii) Goodwill and business reputation are an extremely important part of the day-to-
+day operation of the funeral home and cemetery business. A Chapter 11 filing would
+have seriously harmed the goodwill attaching to [TLGI]’s successful, local funeral
+home and cemetery operations. Although these local operations were managed under
+the name of the local business at the time of acquisition (and not under the name
+“(TLGI]”), the Board was greatly concerned that competition in a local market (well
+aware that the local enterprise was
+
+owned by [TLGI]) would aggressively “spread the word” in the local marketplace
+that the local business (owned by [TLGI]) was in Chapter 11. This worry has been
+proven to be correct, as a consequence of [TLGI]’s Chapter 11 filing in June 1, 1999.
+
+(iv) A key feature of Loewen’s success as an acquisition company, was its position as
+a “friend of the independents” and its cultural differences from its major competitor,
+Service Corporation International (“SCI”). Many families sold their businesses to
+[T'LG]] for the reason that they absolutely would not ever want to sell their
+businesses to SCI. As part
+
+of the negotiations leading to acquisitions by [TLGI], families often sought
+assurances that [TLGI] would always stay independent of SCI and pursue [TLGI’s]
+preferred, independent business culture. In the event [TLGI] filed in Chapter 11,
+there would be serious doubt in the minds of potential sellers to [TLGI] as to
+whether [TLG]] could continue as a truly independent company, without worry that
+SCI might, in whole or in part, directly or indirectly, acquire control of [TLGI] or
+some of its locations.
+
+(v) The devastating effect on [TLGI]’s share price . . .
+Additionally, the Board recognized that in the event of a bankruptcy filing,
+management's attention would have been fundamentally distracted by the
+unique, and vastly different, requirements of a reorganization proceeding.”
+Instead of assessing the import of all this evidence, the Tribunal either overlooked or
+ignored it. Its claim that “[TLGI] failed to present evidence disclosing its reasons for entering
+into the settlement agreement in preference to pursuing other options, in particular the Supreme
+
+Court option”
+
+is demonstrably false, as the excerpts from the arbitration proceedings noted above
+prove conclusively.
+When the Tribunal was confronted with the evidence on the “central question” it completely
+
+overlooked in its 2004 Decision, its response was, with all respect, lacking in honesty:
+
+80 Turner Decl., | 15, 19-21.
+81 2003 Decision, para. 215 (emphasis added).
+
+-35-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 42 of 51
+
+22. While the Cargill [sic] and Turner declarations were relied upon
+to support a view contrary to that reached in paras. 215-216 of the
+Award, they did not satisfy us, in all the circumstances, that the
+settlement agreement was the only course for [TLGI] to take. The
+declarations did not purport to present a comprehensive record or
+account of TLGI’s Board’s consideration of the option which it
+should pursue. Nor did the declarations record or identify the
+information presented to the Board on which it arrived at its
+conclusion that it should pursue the settlement option. The
+declarations did not ground an inference that the settlement option
+was the only available alternative or that certiorari petition and the
+bankruptcy petition were not available remedies.”
+
+This response in the 2004 Decision is compelling evidence of arbitral misbehavior and the
+‘Tribunal’s imperfect execution of its powers. First, the Tribunal’s statement that the uncontested
+testimony “did not satisfy us” implies that the Tribunal actually considered the evidence before it
+issued the 2003 Decision. That cannot be a true statement, for it is indisputable that the Tribunal
+completely overlooked that evidence in 2003. Recall, again, the language of the 2003 Decision: the
+Tribunal claimed that TLGI and Mr. Loewen “failed to present evidence” and that the Tribunal was
+“simply left to speculate on the reasons why the decision was made.” Those words could only have
+been uttered by arbitrators who had, literally, reviewed no relevant evidence at the time they made
+their decision. In its 2004 Decision, without honestly admitting it, the Tribunal changed its basis for
+deciding the merits — it now claimed it was not “satisfied” by the uncontradicted evidence. As the
+Tribunal itself points out, it was not permissible for it to retroactively change the basis for its
+decision.
+
+Second, and most important, the Tribunal’s belated claim that the uncontested evidence “did
+not ground an inference that the settlement option was the only available alternative” is
+
+preposterous. The Tribunal was undoubtedly deeply embarrassed by the discovery of its
+
+incompetence in 2003, but to pretend in 2004 that the uncontradicted evidence did not say what it
+
+82 2004 Decision, para. 22.
+
+-36-
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 43 of 51
+
+says was a grossly unjust response. In all fairness, the only inference to draw from the uncontested,
+uncontradicted, corroborated, comprehensive and clear testimony of Mr. Carvill and Mr. Turner was
+that TLGI settled because it was the only reasonably available alternative. The Tribunal’s cursory
+and contrary conclusion shows that the Tribunal never fairly and impartially heard and considered
+the relevant evidence.
+
+IV. UNDER U.S. LAW, THE AWARD SHOULD BE VACATED AND REMANDED
+TO A NEW TRIBUNAL.
+
+The Tribunal acknowledged in its 2003 Decision that TLGI and Mr. Loewen had been very
+badly treated by the Mississippi courts — a “disgrace” in the Tribunal’s words. But the Tribunal, in
+its own way, behaved as badly as the Mississippi courts did, engaging in the disturbing misconduct
+
+described above. Under U.S. law, that misconduct requires that this Court vacate the Award.
+
+A. Governing Law: The Federal Arbitration Act
+Section 10 of the FAA sets out the statutory grounds for vacating an arbitration award. Ata
+minimum, the following grounds of the FAA are relevant here:
+
+(3) Where the arbitrators were guilty of misconduct in
+refusing to postpone the hearing, upon sufficient cause shown, or in
+refusing to hear evidence pertinent and material to the controversy;
+or of any other misbehavior by which the rights of any party have
+been prejudiced; or
+
+(4) | Where the arbitrators exceeded their powers, or so
+imperfectly executed them that a mutual, final, and definite award
+upon the subject matter submitted was not made.”
+
+FAA caselaw also recognizes that an award may be vacated if the arbitrators act in “manifest
+
+disregard of the law.” The “manifest disregard of the law” concept, while not set forth in the FAA,
+
+89US.C.§ 10.
+
+-37-
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 44 of 51
+
+is widely accepted as a ground for vacating arbitration awards.’ The D.C. Circuit held that “to
+modify or vacate an award on this ground, a court must find that (1) the arbitrators knew of a
+governing legal principle yet refused to apply it or ignored it altogether and (2) the law ignored by
+the arbitrators was well defined, explicit, and clearly applicable to the case.” Similarly, the U.S.
+District Court for the Eastern District of Pennsylvania held that ““[m]anifest disregard of the law’
+
+encompasses situations in which it is evident from the record that the arbitrator recognized the
+
+applicable law, yet chose to ignore it’
+
+One of the purposes of the “mutual, definite, and final” ground in § 10(a)(4) is to ensure the
+completeness of arbitration proceedings. “An award is mutual, definite and final if it ‘resolve[s] all
+
+issues submitted to arbitration, and determine[s] each issue fully so that no further litigation is
+
+o987
+
+necessary to finalize the obligations of the parties.”””’ Similarly, the purpose of the “imperfectly
+
+executed” ground is “to render unenforceable an arbitration award that is either incomplete in the
+
+sense that the arbitrators did not complete their assignment (though they thought they had) or so
+
+badly drafted that the party against whom the award runs doesn’t know how to comply with it”
+
+The Seventh Circuit has held that arbitrators have “imperfectly executed” their powers where “the
+
+8 See, e.g, Brabham v. A.G. Edwards & Sons Inc., 376 F.3d 377, 381 (5th Cir. 2004) (“[MJanifest disregard is an accepted
+nonstatutory ground for vacatur.”); Montes v. Shearson Lehman Bros., Inc, 128 F.3d 1456, 1460 (11th Cit. 1997) (“[E}very
+other circuit. . . has expressly recognized that ‘manifest disregard of the law’ is an appropriate reason to review and
+vacate an arbitration panel’s decision.”).
+
+88 LaPrade v. Kidder, Peabody & Co., Inc., 246 F.3d 702, 706 (D.C. Cit. 2001).
+
+86 Jeffrey M. Brown Assoes., Inc. v. Allstar Drywall & Acoustics, Inc, 195 F. Supp.2d 681, 684 (E.D. Pa. 2002); Montes v.
+Shearson Lebman Bros., Inc., 128 F.3d 1456, 1461 (11th Cir. 1997) (“To manifestly disregard the law, one must be
+conscious of the law and deliberately ignore it.”).
+
+5° Conn'Tech Dev. Co, v. Univ. of Conn, Educ. Props., Inc, 102 F.3d 677, 686 (2d Cir. 1996); Michaels ». Mariforum Shipping, S.
+A, 624 F.2d 411, 413-14 (2d Cir. 1980) (same).
+
+88 Smart v. Int'l Bhd. of Elec. Workers, Local 702, 315 F.3d 721, 725 (7th Cir. 2002).
+
+-38-
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 45 of 51
+
+award itself, in the sense of judgment, order, bottom line, is incomplete in the sense of having left
+
+unresolved a portion of the parties’ dispute.”
+
+90
+
+U
+
+ 
+
+courts routinely decline to enforce incomplete awards.” In a case similar to this one, a
+
+New York court discussed the arbitrator’s failure to decide one of the claims against the defendant.
+
+It is quite plain, therefore, from his own words that the arbitrator did not
+decide the first question submitted. It is evident that he did not regard the first issue as a
+matter in dispute or one which he was obligated to decide. Indeed, he treated the subject as
+if it had been disposed of some time prior to the submission and that it was unnecessary for
+him to pass upon it... .
+
+There is no evidence and no claim is made that the first item was abandoned
+or withdrawn from the proceedings in arbitration or that its consideration by the
+arbitrator was waived. On the contrary, the record of the hearings before the
+arbitrator establishes that . . . [it] was the subject of testimony by witnesses, the
+argument of counsel and even comment by the arbitrator himself.
+
+It is suggested that an affirmative answer to the first item is inferable from the
+determination of the second item. Applying to the award the most liberal construction
+possible, in the face of the express declarations of the arbitrator that he was not called upon
+to and did not decide the first issue, any such inference would be unwarranted and
+improper. The court may not, under the guise of inference, supply an answer which the
+arbitrator failed to make, although he could have done so by the mere use of the simple
+affirmative. In short, no award can be supported by implications inconsistent with the actual
+facts.
+
+In the circumstances, the conclusion is unavoidable that the arbitrator failed
+to decide the first item of the submission. His award is in no sense mutual, final and
+definite upon all the subject-matter submitted to him by the parties. It is, therefore,
+invalid.”
+
+US. courts also routinely refuse to enforce awards that are found to be contradictory,
+
+9992
+
+primarily because such awards cannot be considered “mutual, final, and definite.””” For example,
+
+8 IDS Life Ins. Co. v. Royal Alliance Assocs. Inc, 266 F.3d 645, 651 (7th Cir. 2001).
+
+0 Smart v. Int'l Bhd. of Elec. Workers, Local 702, 315 F.3d 721, 725 (7th Cir. 2002); IDS Lie Ins. Co, v. Royal Alliance Assocs,
+Inc,, 266 F.3d 645, 651 (7th Cir. 2001); ConnTech Dev. Co. v. Univ. of Conn, Educ. Props, Inc, 102 F.3d 677, 686 (2d Cit.
+1996); Michaels v. Mariforum Shipping, S. A., 624 F.2d 411, 413-14 (2d Cir. 1980).
+
+ 
+
+°\ Application of MacMahon, 187 Misc. 247, 250-51, 63 N.Y.S.2d 657, 659-61 (1946). As a result of the arbitrator’s failure
+to decide this claim, the court vacated the award and stated that it would confer with counsel for referral to a new set of
+arbitrators. Id.
+
+  
+
+29 U.S.C. § 10(a)(A); Sheet Metal Workers Int Ass'n Local Union No. 420 v. Kinney Air Conditioning Co, 756 F.2d 742, 745
+(8th Cir, 1985) (“Courts will not enforce an award that is incomplete, ambiguous, or contradictory.”); Dworkin-Cosell
+Interair Courier Servs. Inc. , Avraham, 728 F. Supp. 156, 161-62 (S.D.N.Y. 1989) (“[I]t is well established under the [FAA]
+that “[cJourts will not enforce an award that is incomplete, ambiguous ot contradictory.”); Sea Dragon, Inc. v. Gebr. Van
+
+(continued...)
+
+-39-
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 46 of 51
+
+the Second Circuit remanded an award to arbitration where it was found to be “contradictory on its
+
+face.” The arbitration was supposed to determine which one of two unions would be responsible
+
+for a certain job category at a factory, but the award seemed to assign the job category to both
+unions. The Second Circuit emphasized that “[t]he purpose of arbitration is to resolve disputes, not
+to create new ones|;] [and] [a]n award which does not fulfill this purpose is unacceptable.” The
+court found that the award failed this test because it was impossible to determine what the
+arbitrators had decided.
+
+US. courts have the power to remand incomplete, ambiguous, or contradictory awards.”
+
+For example, the U.S. District Court for the District of Columbia held that remand is appropriate
+
+2996
+
+where “the award is incomplete or ambiguous.” The court emphasized that “[a]n ambiguous
+
+award should be sent back to the arbitrator so the court ‘knowJs] exactly what it is being asked to
+
+29397
+
+enforce.
+
+(...continued)
+
+Weelde Scheepvaartkantoor B.V., 574 F. Supp. 367, 371 (S.D.N.Y. 1983) (“Courts will not enforce an award that is
+incomplete, ambiguous or contradictory.”); United Mine Workers of Am. v. Dickenson County Med. Cir., No. 1:00cv00078,
+2001 WL 420374, at *5 (WD. Va. Mar. 20, 2001) (“It is well-settled that a court cannot enforce an arbitration award that
+is ‘incomplete, ambiguous, or contradictory.”)
+
+°8 Bell Aerospace Co. Din. of Textron v. Local 516, Int'l, et al, 500 F.2d 921, 924-25 (2d Cir. 1974).
+
+94 Td,
+
+  
+
+°8 A Canadian court partially set aside and remitted for reconsideration a NAFTA Chapter 11 arbitration award in The
+United Mexican States v. Metalelad Corp. (2001), 89 B.C.LR. (3A) 359 (S.C), 2001 BCSC 664. The Supreme Court of British
+Columbia found that the arbitral tribunal in the Mefalelad dispute had “misstated the applicable law” on the minimum
+standard of treatment, and “then made its decision” on that basis, The court also found that the tribunal’s misstatement
+of the governing law “infected,” and thus undermined, the tribunal’s analysis of the expropriation question. The court
+set aside the tribunal’s holdings on these two issues, and remitted the dispute to the tribunal to correctly address the
+outstanding questions. The dispute was settled before the tribunal reviewed the matter further.
+
+°% Office and Prof'] Employees Int'l Union, Local 2 v. Washington Metro. Area Transit Auth., Civ. A. No. 89-1264(OG), 1990 WL
+174892, at *2-3 (D.D.C. Oct 25, 1990).
+
+"Id.
+
+-40-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 47 of 51
+
+In remanding arbitration awards, U.S. courts have the power to determine whether to
+remand to the original arbitrators or to new arbitrators.” In considering the propriety of a district
+court’s order remanding a dispute to a new arbitrator, the Sixth Circuit emphasized that “district
+courts are usually afforded broad discretion in fashioning appropriate relief,” and that discretion
+includes the power to appoint new arbitrators.” Importantly, the Sixth Circuit rejected the
+appellant’s argument that “remand to a new arbitrator is appropriate only where an arbitrator’s
+actions compromise the appearance of impartiality,” as well as the argument that “remanding to a
+new arbitrator produce[d] an unneeded inefficiency, because the former arbitrator [was] already
+familiar with the merits of the case.”"” Similarly, the Southern District of New York held that
+
+“{ajlthough not explicit in the FAA, it is within this Court’s discretion to remand a matter to the
+
+ao aot0
+same arbitration panel or a new one.”””!
+
+B. The Tribunal Manifestly Disregarded the Law
+This Court should vacate the Award because the Tribunal manifestly disregarded the law
+
+that it had deemed controlling on the exhaustion issue: whether there was, objectively, a reasonably
+
+°8 Forsythe Int’, S.A. v. Gibbs Oil Co, of Texas, 915 F.2d 1017, 1020 (Sth Cir. 1990) (discussing the district court’s power to
+“nullifly] the decision of an arbitration panel . . . [and] remand|] the case to a different arbitration panel”); Grand Rapids
+Die Casting Corp. v. Local Union No. 159, United Auto., Aerospace and Agr. Implement Workers of Am. UAW, 684 F.2d 413,
+416 (6th Cir, 1982) (“We suggest to the District Court that remand should be to a different arbitrator.”); Hart », Overseas
+Nat'l Airways, Inc, 541 F.2d 386, 393-94 (3d Cir. 1976) (“If after such review the district court finds no bias on the part
+of the referee as would affect liability and that the proceedings before the referee were otherwise full and fair, there
+would seem to be no barrier to affirming the referee’s liability finding and remanding only for the computation of
+damages. In the event, however, that a defect in the proceedings or bias on the part of the referee is found by the
+district court, the district court should formulate an appropriate remedy to provide for the resolution of the parties”
+differences by arbitration, including, if necessary, a procedure whereby a new arbitrator is selected.”); Erving n. Va. Squires
+Basketball Club, 468 F.2d 1064 (2d Cir. 1972) (holding that district court judge properly appointed neutral arbitrator to
+replace designated arbitrator).
+
+°9 Aircraft Braking Systems Corp. v. Lacal 856, Intl Union, United Anto., Aerospace and Agy. Implement Workers, UAW, 97 F.3d
+155, 162-63 (6th Cir. 1996) (citations omitted).
+
+100 Id.
+
+1 Matter of Arbitration Between Tempo Shain Corp. v. Bertek, Inc, No. 96 Civ. 3354 (LAP), 1997 WIL 580775, at *2 (S.D.NY.
+Sept. 17, 1997) (discussing numerous other state and federal cases on this issue); see also In re A.H. Robins Co., Inc, 230
+BR. 82, 87 (E.D. Va. 1999) (“[T]he Court’s decision as to whether to remand a matter to the same arbitrator or a new
+one is within the Court’s discretion.”).
+
+-41-
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 48 of 51
+
+available alternative. Instead, the Tribunal attempted to dispose of the exhaustion issue on a
+different legal principle: whether TLGI subjectively believed it had any reasonable alternative to
+settlement.
+
+As the numerous excerpts in this Motion demonstrate, the consensus during the arbitral
+proceedings was that “reasonable availability” was an objective standard. As a result, it is
+indisputable that the Tribunal was conscious of the proper legal standard, and recognized it as such.
+Yet the Tribunal failed to apply this standard at all.”
+
+The Tribunal manifestly disregarded the principle of law that it hear and fairly consider
+
+unchallenged, uncontested, clear and uncorroborated evidence."’ Because the Tribunal effectively
+
+excluded and failed to hear and consider the critical evidence concerning exhaustion, it engaged in
+
+102 ‘There is additional evidence that the Tribunal acted in manifest disregard of the law and so imperfectly exercised its
+powers that the award must be vacated. ‘The Tribunal’s misconduct also affected its consideration of TLGI’s corporate
+claims ~ the Tribunal missed the evidence concerning which entities owned TLGI’s NAFTA claim after the bankruptcy
+reorganization, and missed TLGI’s MEN arguments concerning the continuous nationality issue.
+
+First, during the arbitration proceedings, TLGI explained to the Tribunal that 75°% of TLGI’s NAFTA claim was:
+transferred to Nafcanco, a Canadian subsidiary of the now-
+trust to be held for the benefit of TLGI’s unsecured creditor
+
+ 
+
+based parent, and 25% was transferred to a Canadian
+See Counter-Memorial of the Loewen Group, Inc. on
+Matters of Jurisdiction and Competence, The Loewen Group Inc, and Raymond L. Loewen v. The United States of America,
+ICSID Case No. ARB(AF)/98/3 (Mar. 29, 2002), at 50-79 (hereinafter “TLGI Counter-Memorial”) (attached as Exhibit
+16). Nevertheless, in its 2003 Award, the Tribunal overlooked the portion of the NAFTA claim held by the Canadian
+trust, thus imperfectly executing its powers and prejudicing the rights of TLGI to a fair hearing. See 2004 Decision, at
+62, 68-695 see also Hoteles Condado, 763 F.2d 34, 40 (Ist Cir. 1985); Karaba Bodas Co. L.L.C. v, Perusahaan Pertambangan
+Minyak Dan Gas Bumi Negara, 364 F.3d 274, 300-01 (5th Cir. 2003).
+
+ 
+
+Second, TLGI informed the Tribunal that neither NAFTA nor any of the U.S. bilateral investment treaties (“BITs”) in
+force at that time contained any provisions imposing an obligation to maintain continuous Canadian nationality
+throughout the arbitration proceedings. See, TGLI Counter-Memorial, at 50-79 (Exhibit 14). TLGI further argued that
+under NAFTA Article 1103, the United States was required to accord most-favored-nation (“MFN”) treatment to TLGI
+— ie, the most favorable treatment that the U.S. extends to other foreign investors. Given that no other foreign
+investors were required to maintain “‘continuous nationality” during investment disputes, no such requirement could be
+imposed on Canadian entities like TLGI. By ignoring this argument, the Tribunal displayed a manifest disregard of the
+controlling law.
+
+105 See Hoteles Condado Beach, 763 F.2d at 40 (holding that vacatur is appropriate when the arbitrators’ “refusal to hear
+pertinent and material evidence prejudices the rights of the parties to the arbitration proceedings,” or “when the
+exclusion of relevant evidence ‘so affects the rights of a party that it may be said that he was deprived of a fair hearing;”
+and holding that an arbitrator's refusal to give any weight to testimony contained in a trial transcript “effectively denied
+[the appellee] an opportunity to present any evidence in the arbitration proceeding” because “[t]he testimony was
+unquestionably relevant” to a critical question of fact, and “no other evidence was available” on this issue); see also Karaba
+Bodas, 364 F.3d at 300-01. (“It is appropriate to vacate an arbitral award if the exclusion of relevant evidence deprives a
+party of a fair hearing”).
+
+ 
+
+-42-
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 49 of 51
+
+arbitral misconduct. As discussed above, there was ample evidence in the record describing why
+TLGI settled, why it did not pursue the U.S. Supreme Court option, and why it did not file a
+bankruptcy petition.
+
+Because the Tribunal manifestly disregarded controlling principles of law, the Award should
+
+be vacated.
+
+Cc. The Award Was Incomplete
+
+The Tribunal engaged in misconduct and misbehavior because the Award was incomplete.
+It is plain from the Tribunal’s own words that it did not actually decide Mr. Loewen’s Article 1116
+claim, even though it was raised in the submissions to the Tribunal and throughout the arbitration
+proceedings. Its assertion in 2004 that it had “necessarily” decided the claim in 2003 cannot be
+credited: it is a post hoc attempt to pretend that the Tribunal did something that it did not in reality
+do. The Tribunal’s failure to fairly and properly weigh the law and the evidence on the Article 1116
+claim renders the Award fatally incomplete.
+
+The Award is also incomplete because the Tribunal unfairly and improperly failed to assess
+the existing evidence on exhaustion and decide if there was a reasonably available alternative to
+settlement. It ignored or overlooked all the relevant evidence in 2003, and then dishonestly claimed
+that the evidence it had previously ignored did not “satisfy” it. The Award is incomplete because
+there was never a fair and impartial adjudication of the record evidence on this point.
+
+In rendering an incomplete award, and subsequently refusing to remedy its misconduct, the
+Tribunal engaged in substantial misbehavior by which the rights of Mr. Loewen have been
+
+prejudiced.
+
+-43-
+
+Case 1:04-cv-02151-RWR Document7-1 Filed 02/26/2005 Page 50 of 51
+
+D. ‘The Award Was Contradictory
+The Award was contradictory on its face. On the one hand, the 2003 Decision, by the
+
+"4 and resolved Mr.
+
+‘Tribunal’s own admission, said nothing about Mr. Loewen’s Article 1116 claim,
+Loewen’s claims entirely on jurisdictional grounds." On the other hand, the 2004 Decision
+stated that the Tribunal resolved Mr. Loewen’s Article 1116 claim on the merits." The two
+decisions cannot be reconciled on any rational basis.
+
+The Award is also contradictory because the 2004 Award pretends that the Tribunal
+considered all the relevant exhaustion evidence in 2003. That is contradicted by the Tribunal’s own
+words in 2003, which make clear that it never considered such evidence. That contradiction cannot
+
+be reconciled. Accordingly, the Tribunal engaged in misbehavior by which Mr. Loewen’s rights
+
+have been prejudiced.
+
+E. This Court Should Remand to a New Tribunal
+
+The Tribunal’s misconduct and misbehavior cannot be remedied by remanding to the
+original group of arbitrators. Mr. Loewen has asserted that the Tribunal is guilty of misconduct,
+including an absence of honesty in how it dealt with Mr. Loewen’s requests for reconsideration. If
+this case is remanded to the same Tribunal, Mr. Loewen will not obtain a fair and impartial review,
+
+any more than he did in 2004, and he will surely not obtain the justice he deserves.”
+
+104 2004 Decision, para. 19 (“We agree that, apart from the dismissal in the Award of June 26, 2003 of all the claims “in
+their entirety”, there is no distinct reference in the Award to a discussion of [Mr.] Loewen’s claim under art. 1116.”).
+
+105 2003 Decision, para. 1 (“Ultimately it turns on a question of jurisdiction . . . This question was raised by Respondent’s
+motion to dismiss for lack of jurisdiction . . . In this Award we uphold the motion and dismiss Claimants’ NAFTA
+claims.”).
+
+106 2004 Decision, paras. 19-20.
+
+7 Mr, Loewen will not speculate on the reasons behind the Tribunal’s refusal to correct its own substantial misconduct.
+
+Some observers have suggested that the Tribunal members were embarrassed because the Award was not well-received
+
+by the Indeed, atk t 1 the 2003 Decision as “preposterous,”
+“quite wrong,” and “completely appalling.” Michael D. Goldhaber, A “Completely Appalling” Decision, The American
+
+(continued...)
+
+-44-
+
+Case 1:04-cv-02151-RWR Document 7-1 Filed 02/26/2005 Page 51 of 51
+
+Vv. CONCLUSION
+
+Mr. Loewen moves the Court to vacate the Award and remand the outstanding issues — the
+determination of his Article 1116 claim, the application of the objective legal standard to the
+exhaustion issue, and the consideration of the Turner and Carvill affidavits and other relevant
+
+evidence — to a new arbitral tribunal.
+
+Dated: February 25, 2004 Respectfully submitted,
+
+ 
+
+Christopher F. Dugan (D.C. Bar #
+
+Matthew S. Dunne (D.C. Bar # 48550)
+
+PAUL, HASTINGS, JANOFSKY &
+WALKER LLP
+
+875 15th Street, N.W.
+
+Washington, DC 20005
+
+Tel: (202) 551-1700
+
+Fax: (202) 551-1705
+
+266)
+
+Counsel for Petitioner Raymond L, Loewen
+
+WDC/300421.6
+
+(...continued)
+
+Lawyer, available at wow L-dis om (2004). Other have attributed the
+Tribunal’s misconduct to the United States’ change of heart on investor-state arbitration, “[A] double standard toward
+investment arbitration seems to be creeping into American attitudes toward investment arbitration. Arbitration is good
+when it corrects misbehavior by foreign host states, but not so desirable when claims are filed for alleged wrongdoing by
+the United States. [T]he United States [is now] pursuing a course and a tone quite different from when negotiating
+NAFTA... . After claims for unfair treatment were filed against the United States government, arbitration looked
+different than when American companies were the investors.” Guillermo Aguilar Alvarez and William W. Park, The New
+Face of Investment Arbitration: NAFTA Chapter 11, Mealey’s Int'l Atb. Rep., Jan. 2004 at 29, 41.
+

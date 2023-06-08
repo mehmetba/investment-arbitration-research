@@ -1,0 +1,1519 @@
+INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
+WASHINGTON, D.C.
+
+IN THE PROCEEDING BETWEEN
+
+GARANTI Koza LLP
+(Claimant)
+
+and
+
+TURKMENISTAN
+(Respondent)
+
+(ICSID Case No. ARB/11/20)
+
+ 
+
+DISSENTING OPINION
+
+ 
+
+By
+Laurence Boisson de Chazournes
+Arbitrator
+
+Date: 3 July 2013
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+Introduction 1
+I. Which guidance is offered by the customary rules of treaty interpretation as codified in the
+VCLT? 5
+IL. Interpretation of Article 8 of the U.K.-Turkmenistan BIT in light of the customary rules of
+treaty interpretation 7
+
+A. Relationship between Article 8(1) and Article 8(2) of the U.K.-Turkmenistan BIT.............. 7
+B. The ordinary meaning of Article 8(2) of the U.K.-Turkmenistan BIT uu... 10
+
+Ill. The ordinary meaning of Article 3(3) of the U.K.-Turkmenistan BIT in light of the customary
+tules of treaty interpretation 16
+IV. The formal requirement(s) governing consent under Article 25(1) of the ICSID Convention ..20
+V. Would the MEN clause of Article 3(3) of the U.K.-Turkmenistan BIT permit the Tribunal to
+find jurisdiction on the basis of another BIT regardless of the absence of consent to ICSID
+arbitration under Article 8(2) of the U.K.-Turk: i BIT? 23
+
+Conclusion 31
+
+Dissenting Opinion
+
+Introduction
+
+1. From the outset, I would like to point out that the present Dissenting Opinion does not
+have the objective of dealing with the effect of most-favoured-nation (hereinafter
+“MEN”) clauses on investment arbitration provisions of bilateral investment treaties
+(‘BITs”), and more specifically their effect on dispute settlement provisions. The
+applicable treaty in casu — the 1995 Agreement between the Government of the United
+Kingdom of Great Britain and Northern Ireland and the Government of Turkmenistan for
+the Promotion and Protection of Investments (hereinafter, the “U.K.-Turkmenistan BIT”)
+
+— deals explicitly with this issue.
+
+2. My Dissenting Opinion deals with the Respondent’s first objection to jurisdiction in the
+present case, i.e. the objection for lack of consent. Throughout the jurisdictional phase
+and during exchanges with my esteemed colleagues, I have always kept in mind the need
+to preserve the exact balance of rights and obligations negotiated in the U.K.-
+Turkmenistan BIT. Such a concern stems from the desire to ensure that the rights and
+
+legal interests of both disputing parties are unaltered. !
+
+3. Thave reflected at length on whether it is possible to support the decision of the majority
+(hereinafter “the Decision”). However, the importance of the issues as I see them is such
+that I have felt impelled to dissent, in particular from the finding of my colleagues that
+the Tribunal “has jurisdiction, as an ICSID tribunal, to hear the Claimant’s claims”.? I
+cannot agree with the reasoning and arguments on which this finding is based. The
+
+reasons for my dissent are set forth below.
+
+4. The objective of my Dissenting Opinion is to determine the conditions for resorting to
+
+' Recently, the International Court of Justice (ICJ) recalled the necessity and importance not to “alter the limits of a
+[court]’s judicial function”, see Frontier Dispute (Burkina Faso/Niger), Judgment of 16 April 2013, para. 46,
+available at www.icj-cij.org.
+
+? The Decision, para. 97.
+
+ICSID arbitration under Article 8 of the U.K.-Turkmenistan BIT, and whether or not
+consent to ICSID arbitration can be established via the MEN clause contained in Article
+3(3) of the same BIT. There is no doubt that these are the two provisions at stake at the
+present stage of the proceedings and that form the real legal dispute between the parties.
+A tribunal has a duty “to isolate the real issue in the case”.>
+
+5. It is crucial to stress from the outset a fundamental legal safeguard governing the issue of
+consent before international courts and tribunals, in general, and ICSID tribunals in
+particular: consent to jurisdiction in international adjudication must always be
+established. First, this is a necessary prerequisite to the exercise of the international
+judicial function. The principle of compétence de la compétence as defined under general
+international law, and under Article 41 of the ICSID Convention, empowers an arbitral
+tribunal or any other international court to determine proprio motu the extent and limits
+of its jurisdiction. At the same time, the principle of compétence de la compétence
+requires an arbitral tribunal or any other international court to establish the extent and
+limits of its jurisdiction objectively, i.e., on the basis of the title of jurisdiction that is
+
+conferred to the said tribunal, and not to go beyond it.
+
+6. The trust and confidence in third-party adjudication is dependent on the respect by
+international courts and tribunals of the limits to the jurisdiction conferred upon them.
+Tribunals should not create a de facto system of compulsory jurisdiction, which in the
+present stage of positive international law remains the exception. The international legal
+order still rests largely on a system of facultative jurisdiction, and because of that
+essential characteristic, a tribunal should never attempt to impose its jurisdiction and
+adjudicate the merits of a dispute when the parties have not consented to its jurisdiction.
+The ICSID arbitration system is not an exception to that approach. BITs were never
+concluded by sovereign states with the idea that a third-party adjudicator would then
+
+empower himself or herself with the authority to embark on ‘consent shopping’.
+
+> Nuclear Tests (Australia v. France), Judgment, I.C.J. Reports 1974, p. 262, para. 29: “[...] it is the Court’s duty to
+isolate the real issue in the case and to identify the object of the claim. It has never been contested that the Court is
+entitled to interpret the submissions of the parties, and in fact is bound to do so; this is one of the attributes of its
+judicial functions”.
+
+7. The MEN clause regardless of its formulation in a BIT does not vest such authority in a
+tribunal. The interpretation of MFN clauses is mutatis mutandis subject to the principle of
+consent’ as enshrined both in general international law as well as in treaty law (the ICSID
+Convention in the context of the present dispute). It would create a dangerous precedent
+to formulate new approaches that go against these fundamental rules and principles of
+
+international adjudication.>
+
+8. Despite the repetitive use of the verb “import” by both the Claimant and the Respondent,
+the Tribunal should not be misled and consider that the question in the present arbitration
+is whether consent can be imported from one treaty to another treaty. I consider that the
+real question that the Tribunal should address first and foremost is whether consent to
+ICSID arbitration is or is not established under the U.K.-Turkmenistan BIT. Indeed, such
+consent exists or does not exist, and cannot be based on presumptions. Lack of consent
+cannot be remedied by the so-called ‘import’ of consent. As indicated by the International
+Court of Justice (ICJ), the jurisdiction of international courts and tribunals, including
+ICSID tribunals, “is based on the consent of the parties and is confined to the extent
+accepted by them”.° Well-established principles governing the interpretation of titles of
+jurisdiction as formulated by the ICJ should guide the interpretation of dispute settlement
+
+provisions under the ICSID Convention and BITs. 7
+
+4 See, e.g., Suez, Sociedad General de Aguas de Barcelona S.A., and Interagua Servicios Integrales de Agua S.A. v.
+Argentine Republic, ICSID Case No. ARB/03/17, Decision on Jurisdiction of 16 May 2006, para 59: “the Tribunal
+finds no reason for interpreting the most-favored-nation treatment clause any differently from any other clause in the
+Argentina-Spain BIT” (hereinafter “/nteragua v. Argentina”).
+
+> See, e.g., Ch. De Visscher, Theory and Reality in Public International Law, Princeton, New Jersey, 1968, pp. 395-
+396: “The judge is not asked to penetrate the intimate designs of the contracting parties; he is expected to discover
+by the means at his disposal that part of their intentions that external signs reveal. Now the words freely chosen by
+the parties are par excellence or at least primarily the instrument of this externalization. This, in turn, is a security
+factor. The security that the treaty affords the contracting parties is measured by its capacity to withstand pressures
+that might be brought to promote changes. Of this fundamental contractual guarantee the text, the common work of
+the parties, is the essential instrument [...] What the Court does not allow is that in the course of interpretation the
+text should be prematurely eclipsed by a teleological scrutiny that might distort its meaning. Such precipitate
+reasoning may result in sacrificing respect for the text to subjective considerations."
+
+© Armed Activities on the Territory of the Congo (New Application: 2002) (Democratic Republic of the Congo v.
+Rwanda), 1.C.J. Reports 2006, p. 39, para. 88; See also Case Concerning mutual assistance in criminal matters
+(Djibouti v. France), 1.C.J. Reports 2008, p. 204, para. 62.
+
+T It is well recognized that the drafters of the ICSID Convention heavily relied on the Statute and Rules of the ICJ
+when negotiating the ICSID Convention. See, e.g., G. Kaufmann-Kohler, “Foreword” in A. R. Parra, The History of
+ICSID, Oxford University Press, Oxford, 2012, p. viii. See also, A. R. Parra, ibid., pp. 51-53.
+
+ 
+
+9. The present Dissenting Opinion will avoid repeating the positions of the Respondent and
+the Claimant that have been already presented exhaustively in their respective written
+submissions and during the hearing. I will first describe briefly the approach to
+interpretation that should guide the Tribunal in light of the customary rules of treaty
+interpretation as codified in Articles 31 and 32 of the Vienna Convention on the Law of
+Treaties (1969) (hereinafter, the *VCLT’)$ (I). Second, I will interpret Article 8 of the
+U.K.-Turkmenistan BIT (II). At that level, the aim will be to analyze the relationship
+between Article 8(1) and Article 8(2) of the U.K.-Turkmenistan BIT as well as to
+demonstrate that the real issue in the present dispute is whether consent can be
+established under Article 8(2) rather than on Article 8(1), as the majority has incorrectly
+tried to put it. Afterwards, I will focus on the ordinary meaning of Article 3(3) under the
+customary rules of treaty interpretation (III). Subsequently, I will briefly deal with the
+formal requirement(s) governing consent under Article 25(1) of the ICSID Convention,
+which are essential for the proper functioning of ICSID and other arbitral mechanisms
+(IV). Finally, assuming that the MFN clause of Article 3(3) of the U.K.-Turkmenistan
+BIT finds application in the present dispute, I will enquire whether the MFN clause
+
+permits the Tribunal to find jurisdiction on the basis of another BIT (or other BITs) to
+
+§ Article 31 (“General rule of interpretation”) reads as follows:
+
+“1. A treaty shall be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the
+treaty in their context and in the light of its object and purpose.
+
+2. The context for the purpose of the interpretation of a treaty shall comprise, in addition to the text, including its
+preamble and annexes:
+
+(a) any agreement relating to the treaty which was made between all the parties in connection with the conclusion of
+the treaty;
+
+(b) any instrument which was made by one or more parties in connection with the conclusion of the treaty and
+accepted by the other parties as an instrument related to the treaty.
+
+3. There shall be taken into account, together with the context:
+
+(a) any subsequent agreement between the parties regarding the interpretation of the treaty or the application of its
+provisions
+(b) any subsequent practice in the application of the treaty which establishes the agreement of the parties regarding
+its interpretation;
+
+(c) any relevant rules of international law applicable in the relations between the parties.
+
+4. A special meaning shall be given to a term if it is established that the parties so intended.”
+
+Article 32 (“Supplementary means of interpretation’) state
+“Recourse may be had to supplementary means of interpretation, including the preparatory work of the treaty and
+the circumstances of its conclusion, in order to confirm the meaning resulting from the application of article 31, or to
+determine the meaning when the interpretation according to article 31:
+
+(a) leaves the meaning ambiguous or obscure; or
+
+(b) leads to a result which is manifestly absurd or unreasonable.”
+
+ 
+
+ 
+
+which Turkmenistan is a party, if consent to ICSID jurisdiction is not given or established
+
+under Article 8(2) of the U.K.-Turkmenistan BIT (V).
+
+I. Which guidance is offered by the customary rules of treaty interpretation as codified in
+
+the VCLT?
+
+10. Under the customary rules of treaty interpretation, the Tribunal should essentially be
+guided by the general rule of interpretation contained in Article 31 of the VCLT when
+interpreting the scope of consent under Article 8 and the meaning of Article 3(3) of the
+U.K.-Turkmenistan BIT.° The stated general rule of interpretation can be summarized as
+follows: the text must always be taken as the starting point.'° As such, no doctrine of
+restrictive or extensive interpretation of the text of the treaty should prevail.'!
+
+Interpretation of the text should be based on an “ex ante neutral approach”. R
+
+11. As explained by an arbitral tribunal constituted under the auspices of the Permanent
+Court of Arbitration (PCA), the rule of interpretation under Article 31 of the VCLT
+“should be viewed as forming an integral whole, the constituent elements of which
+cannot be separated”. '° The same tribunal also explained that “all the elements of the
+general rule of interpretation provide the basis for establishing the common will and
+intention of the parties by objective and rational means”.'* But most importantly, the
+
+tribunal, following the practice of the ICJ in that respect, emphasized the following point:
+
+[T]he “text of the treaty” is a notion distinct from, and broader than, the
+notion of “terms”. Relying on the text does not mean relying solely, or
+
+° See, e.g., Romak S.A. (Switzerland) and the Republic of Uzbekistan, Award of 26 November 2009, paras. 169, 172
+and 241.
+
+'° Territorial Dispute (Libyan Arab Jamahiriya/Chad), Judgment, I.C.J. Reports 1994, pp. 21-22, para. 41;
+Permanent Court of Arbitration, In the Arbitration regarding the Iron Rhine (“Ijzeren Rijn”) Railway between The
+Kingdom of Belgium and The Kingdom of The Netherlands, Award of the Arbitral Tribunal, 24 May 2005, para. 47.
+" Austrian Airlines v. Slovak Republic, UNCITRAL Case, Award of 20 October 2009, paras. 119-121 (hereinafter
+“Austrian Airlines v. Slovakia"); Mondev International Ltd. v. United States of America, ICSID Case No.
+ARB(AF)/99/2, Award of 11 October 2001, para. 43.
+
+"? Daimler Financial Services AG v. Argentine Republic, (CSID Case No. ARB/05/1, Award of 22 August 2012,
+para. 171 (hereinafter “Daimler v. Argentina’).
+
+'5 Permanent Court of Arbitration, Case concerning the Auditing Accounts between the Kingdom of The Netherlands
+and the French Republic pursuant to the Additional Protocol of 25 September 1991 to the Convention on the
+Protection of the Rhine against Pollution by Chlorides, Arbitral Award of 12 March 2004, para. 62 (emphasis
+added).
+
+“id.
+
+ 
+
+mainly, on the ordinary meaning of the terms. Such a solution would
+effectively ignore the references to good faith, the context, and the object and
+purpose of the treaty. The ordinary meaning of the terms is even itself
+determined as a function of the context, object and purpose of the treaty.
+Lastly, as paragraph 2 of Article 31 of the Vienna Convention provides, the
+text of the treaty (including the preamble and annexes) is itself part of the
+context for the purposes of interpretation.'*
+
+12. It appears from the above quoted paragraph that the interpretation of the ordinary terms
+of a provision such as Article 8 of the U.K.-Turkmenistan BIT must take into account the
+whole text of the U.K.-Turkmenistan BIT and not be limited to the terms embodied in
+Article 8. The same logic applies to the interpretation of Article 3(3) of the U.K.-
+Turkmenistan BIT. The interpretation of the terms of Article 3(3) must take into account
+the whole text of the U.K.-Turkmenistan BIT and, thus, be read in light of Article 8 of the
+U.K.-Turkmenistan BIT. It is not possible under customary rules of treaty interpretation,
+as reflected in Article 31 of the VCLT, to isolate the interpretation of Article 8 from the
+interpretation of Article 3(3) or vice versa.'° The proper interpretation must give meaning
+and effect to both provisions, and not be an interpretation that would exclude one
+provision and render it meaningless while conferring a broad meaning and effect on the
+other provision.'” The “terms” of Article 3 of the U.K.-Turkmenistan BIT, and in
+particular of Article 3(3), do not have a legal existence of their own that would compel
+this Tribunal to ignore the context of the BIT and its object and purpose. As a result, the
+
+“terms” of Article 3(3) cannot be used to completely override another provision of the
+
+'5 Td. at para. 63.
+
+'© The fact that both parties have not advanced this approach to interpretation is no reason not to apply it, since it is a
+normal approach to treaty interpretation that the Tribunal can and should apply. Moreover, the legal maxim jura
+novit curia applies. As stressed by the International Court of Justice (ICJ) in the Fisheries jurisdiction cases, for
+instance, “[...] an international judicial organ, is deemed to take judicial notice of international law and is therefore
+required [...] to consider on its own initiative all rules of international law which may be relevant to the settlement
+of the dispute” (see Fisheries Jurisdiction (Federal Republic of Germany v. Iceland), Merits, Judgment, L.C.J.
+Reports 1974, p. 181, para. 18).
+
+" See, e.g., United States — Standards for Reformulated and Conventional Gasoline: “[a]n interpreter is not free to
+adopt a reading that would result in reducing whole clauses or paragraphs of a treaty to redundancy or inutility”,
+Report of the WTO Appellate Body, adopted 20 May 1996, W7/DS2/AB/R, p. 23. This statement is quoted with
+approval in Japan — Taxes on Alcoholic Beverages, report of the WTO Appellate Body, adopted 1 November 1996,
+WT/DS8/AB/R, WT/DS10/AB/R, WT/DS11/AB/R, p. 12 and in Brazil — Export Financing Programme for Aircraft,
+Report of the WTO Appellate Body, adopted 20 August 1999, WT/DS46/AB/R, footnote 110. See also, Brazil —
+Export Financing Programme for Aircraft — Recourse to Arbitration by Brazil under Article 22.6 of the DSU and
+Article 4.11 of the SCM Agreement — Decision by the Arbitrators, 28 August 2000, footnote 17: “We therefore read
+these provisions as a whole and give a useful meaning to all, in application of the principle of effective interpretation
+(ut res magis valeat quam pereat)”.
+
+ 
+
+U.K.-Turkmenistan BIT, including Article 8.
+
+13. As a general rule, if after an examination of the terms of Article 8 and/or of Article 3(3),
+their meaning remains ambiguous or obscure, or leads to a result which is manifestly
+absurd or unreasonable, recourse can be had to supplementary means of treaty
+interpretation (Article 32 of the VCLT) such as the preparatory work or the
+circumstances of the conclusion of the BIT.'* The supplementary means can also be
+referred to in order to confirm the interpretation of the ordinary meaning of the texts of
+Article 8 and/or of Article 3(3) of the U.K.-Turkmenistan BIT under Article 31 of the
+VCLT." In the context of the present Dissenting Opinion, supplementary means of treaty
+interpretation will be referred to in order to confirm, in particular, the interpretation of the
+
+ordinary meaning of the text of Article 8 of the U.K.-Turkmenistan BIT.
+
+II. Interpretation of Article 8 of the U.K.-Turkmenistan BIT in light of the customary rules
+of treaty interpretation
+
+A. Relationship between Article 8(1) and Article 8(2) of the U.K.-Turkmenistan BIT
+14. Article 8(1) is inseparable of Article 8(2). Article 8(1) reads as follows:
+
+Disputes between a national or company of one Contracting Party and the
+other Contracting Party concerning an obligation of the latter under this
+Agreement in relation to an investment of the former which have not been
+amicably settled shall, after a period of four [months] from written
+notification of a claim, be submitted to international arbitration if the
+national or company concerned so wishes.
+
+18 « [J the first duty of a tribunal which is called upon to interpret and apply the provisions of a treaty, is to
+
+endeavour to give effect to them in their natural and ordinary meaning in the context in which they occur. If the
+relevant words in their natural and ordinary meaning make sense in their context, that is an end of the matter. If, on
+the other hand, the words in their natural and ordinary meaning are ambiguous or lead to an unreasonable result,
+then and then only, must the Court, by resort to other methods of interpretation, seek to ascertain what the parties
+really did mean when they used these words”, see Competence of the General Assembly for the Admission of a State
+to the United Nations, Advisory Opinion, I.C.J. Reports 1950, p. 8.
+
+'° See also, Air Services Agreement of 27 March 1946 between the United States of America and France, Award of
+9 December 1978, United Nations Reports of International Arbitral Awards, vol. 14, p. 434, para. 44, p. 440, para.
+66, p. 441, para. 69; Territorial Dispute (Libyan Arab Jamahiriya/Chad), Judgment, 1.C.J. Reports 1994, pp, 27-28,
+para. 55; Oil Platforms (Islamic Republic of Iran v. United States of America), Preliminary Objections, I.C.J.
+Reports 1996 (II), p. 812, para. 23; Maritime Delimitation and Territorial Questions between Qatar and Bahrain
+(Qatar v. Bahrain), Jurisdiction and Admissibility, LC.J. Reports 1995, p. 21, para. 40; Sovereignty over Pulau
+Ligitan and Pulau Sipadan (Indonesia/Malaysia), Judgment, I.C.J. Reports 2002, p. 653, para. 53; Application of the
+International Convention on the Elimination of All Forms of Racial Discrimination (Georgia v. Russian
+Federation), Preliminary Objections, Judgment of | April 2011, para. 142.
+
+ 
+
+1S.
+
+Article 8(2) of the BIT reads as follows:
+
+Where the dispute is referred to international arbitration, the national or
+company and the Contracting Party concerned in the dispute may agree to
+refer the dispute either to:
+
+(a) the International Centre for the Settlement of Investment Disputes
+(having regard to the provisions, where applicable, of the Convention on the
+Settlement of Investment Disputes between States and Nationals of other
+States, opened for signature at Washington DC on 18 March 1965 and the
+Additional Facility for the Administration of Conciliation, Arbitration and
+Fact-Finding Proceedings); or
+
+(b) the Court of Arbitration of the International Chamber of Commerce; or
+
+(c) an international arbitrator or ad hoc arbitration tribunal to be appointed
+by a special agreement or established under the Arbitration Rules of the
+United Nations Commission on International Trade Law.
+
+If after a period of four months from written notification of the claim there is
+no agreement to one of the above alternative procedures, the dispute shall at
+the request in writing of the national or company concerned be submitted to
+arbitration under the Arbitration Rules of the United Nations Commission on
+International Trade Law as then in force. The parties to the dispute may
+agree in writing to modify these Rules.
+
+The majority has persisted in considering that Article 8(1) deals with “Turkmenistan’s
+consent to participate in international arbitration with U.K. investors and the conditions
+
+attached to that consent” ”°
+
+, and that Article 8(2) deals with “the arbitration systems that
+may be used if the conditions of Article 8(1) are met”.?! Contrary to the interpretation of
+the majority, Article 8 of the U.K.-Turkmenistan BIT does not divide the question of
+consent to participate in ICSID Arbitration into two parts. Elementary rules of treaty
+interpretation invite to interpret Article 8 as a whole and not as composed of segmented
+and fragmented provisions as the majority has chosen to do. The whole mechanism of
+Article 8 relates to consent to international arbitration. Article 8(1) does not invite the
+Tribunal to look first at whether the host state has consented to participate in international
+arbitration at all (under Article 8(1)), and second, at whether it has agreed to ICSID
+
+arbitration (under Article 8(2)). Such an approach is not grounded in a proper application
+
+°° The Decision, para. 25.
+
+Td.
+
+20.
+
+of the customary rules of treaty interpretation because it would deprive Article 8(1) of its
+
+real function and make Article 8(2) redundant.
+
+Article 8(1) formulates the rule according to which if, after a period of four months, no
+amicable settlement can be reached between the foreign investor and the host state, the
+former can submit the dispute to international arbitration. The majority considers that
+
+consent is granted in Article 8(1).2
+
+The legal purpose of Article 8(1) is to fix pre-conditions or what is commonly referred to
+as ‘conditions precedent’ to international arbitration, i.e., negotiations during four
+months. There lies the ratio legis of Article 8(1). It is meant to govern the pre-conditions
+of consent to arbitration under Article 8 of the U.K.-Turkmenistan BIT. In other words,
+Article 8(1) contains, subject to the condition of four months of negotiations, consent in
+principle to international arbitration, and such consent in principle must still be read in
+light of the further specific conditions governing consent to arbitration by virtue of
+
+Article 8(2).
+
+Articles 8(1) and 8(2) are two sides of the same coin. The coin — Article 8 — encompasses
+the provisions governing consent to international arbitration under the U.K.-
+Turkmenistan BIT. One side of the coin — Article 8(1) — shows the general pre-
+condition(s) under which a foreign investor can initiate international arbitration against
+the host state; the other side — Article 8(2) — fixes the strict conditions under which the
+foreign investor can pursue one specific venue of international arbitration (e.g., ICSID
+
+arbitration) rather than another (e.g. UNCITRAL arbitration).
+
+I find it difficult to subscribe to the point of view of the majority according to which
+“Article 8(2) [is] only a menu of options concerning the arbitration process, and a default
+selection’. As Article 8(1), Article 8(2) also embodies consent to international
+arbitration. Chronologically and logically, Article 8(2) becomes mandatorily applicable
+
+after it is proved (or has been proven that) that the requirement of negotiations during
+
+2 Td.at para. 31.
+
+3 Id.
+
+21.
+
+Td.
+
+four months has been fulfilled under Article 8(1). This is where the analysis of Article
+8(1) should stop and where the analysis under Article 8(2) should start. The majority has
+chosen to focus on Article 8(1) in order to justify its approach and to find jurisdiction in
+the present case. With all due respect for my colleagues, I believe that the Decision has
+used Article 8(1) as a means to achieve an end that it could not easily achieve by
+acknowledging that consent to arbitration is contained in Article 8(2). The focus should
+have been on Article 8(2), which is the true subject-matter of the dispute at this
+jurisdictional phase. The objection to the jurisdiction of the Tribunal that was raised by
+the Respondent is an objection for lack of consent under Article 8(2). Nothing less,
+nothing more. The remainder of my opinion will thus only deal with Article 8(2). I will
+now analyze the position of the majority according to which Article 8(2) does not
+
+encompass consent to arbitration.
+
+. The ordinary meaning of Article 8(2) of the U.K.-Turkmenistan BIT
+
+The majority states in its Decision that because Article 8(2) begins with “Where the
+dispute is referred to international arbitration,” this indicates that “Article 8(2) only
+comes into play after the determination has been made, under the provisions of Article
+8(1), to refer the dispute to arbitration”.* The position of the majority shows a
+misperception of the ordinary meaning of the terms contained in Article 8(2). The phrase
+“Where the dispute is referred to international arbitration,” does not imply at all that
+Article 8(2) does not deal with consent to arbitration. The said phrase relates specifically
+to the initiation of international arbitration under the U.K.-Turkmenistan BIT and simply
+confirms that under Article 8(2) — like in many other BITs — it is the foreign investor that
+initiates investment arbitration. In this respect, there is a cause-and-effect relationship
+between the last part of Article 8(1) (“disputes shall [...] be submitted to international
+arbitration if the national or company concerned so wishes’) and the beginning of Article
+8(2) (“Where the dispute is referred to international arbitration”). In other words, if the
+foreign investor ‘wishes’, he can choose (to initiate) international arbitration to settle his
+
+dispute with the host state. However — and this is where I strongly disagree with the
+
+22.
+
+23.
+
+majority — the power of initiation (or choice to have recourse to investment arbitration) is
+not tantamount to consent to arbitration. The initiation of investment arbitration by the
+foreign investor in a specific arbitration forum is still conditioned to the consent from the
+host state under Article 8(2) of the U.K.-Turkmenistan BIT. That is why Article 8(2),
+next to the preceding paragraph of that article, also covers without any doubt, consent to
+
+international arbitration.
+
+The wording of Article 8(2) is clear and confirms that consent to arbitration is
+specifically dealt with in Article 8(2) when a foreign investor envisages having recourse
+to a specific arbitration venue. Article 8(2) states that “the national or company and the
+Contracting Party concerned in the dispute may agree to refer the dispute either to the
+International Centre for the Settlement of Investment Disputes [...] or the Court of
+Arbitration of the International Chamber of Commerce or an international arbitrator or ad
+hoc arbitration tribunal to be appointed by a special agreement or established under the
+Arbitration Rules of the United Nations Commission on International Trade Law”
+(emphasis added). The phrase “may agree to refer the dispute” demonstrates that Article
+8(2) governs consent to arbitration when it comes to specific venues of arbitration. A
+similar wording can be found in Article 36(1) of the Statute of the International Court of
+Justice (ICJ). Article 36(1) provides that “The jurisdiction of the Court comprises all
+cases which the parties refer to if’. This provision is found in the part of the Statute
+dealing with the jurisdiction of the ICJ, i.e. the part governing ways of consenting to the
+jurisdiction of the Court. Why would a provision which affords the parties the possibility
+to agree to refer the dispute to the ICJ be considered a provision dealing with consent to
+jurisdiction while, on the other hand, a provision affording the possibility to agree to refer
+disputes to arbitration under the U.K.-Turkmenistan BIT, would not be qualified as
+
+relating to consent to arbitration?
+
+Let us have a closer look at the mechanism of Article 8(2) of the U.K.-Turkmenistan BIT.
+Article 8(2) offers, three options to settle a dispute between a foreign investor and a host
+state arising out of the said BIT. The dispute can be settled under ICSID arbitration
+
+(option 1), ICC arbitration (option 2) or UNCITRAL arbitration (option 3).
+
+24.
+
+25.
+
+26.
+
+However, for one of these options to be used by a foreign investor both the foreign
+investor and the host state must have previously agreed to refer the dispute to one of
+those three fora. The conditions for such previous agreement will vary depending upon
+which of the dispute settlement procedures is selected. Article 8(2) clearly states that in
+order to refer the dispute to international arbitration, “the national or company and the
+Contracting Party” concerned by the investment dispute “may agree” to settle the dispute
+under one of the above-identified options (italics added). Therefore, ICSID arbitration
+under the ordinary meaning of Article 8(2) of the U.K.-Turkmenistan BIT can only be
+
+used by the foreign investor if it has mutually agreed with the respondent state to do so.
+
+It cannot be assumed that ‘and’ means ‘or’ in the context of Article 8(2) of the U.K.-
+Turkmenistan BIT. Nothing suggests that the Tribunal should depart from the ordinary
+meaning of the word ‘and’ which means ‘together with’ or ‘along with’ — i.e., the foreign
+investor ‘together with’ the state concerned. Moreover, the expression ‘may agree’
+implies that the foreign investor is not granted with “an immediate right to resort to
+ICSID arbitration””> under Article 8(2) of the U.K.-Turkmenistan BIT. Assent of both the
+foreign investor and the host state concerned is necessary for ICSID arbitration to be
+triggered. A similar wording (“as may be mutually agreed by the parties”) in the context
+of a national investment legislation has been interpreted as meaning that a “subsequent
+agreement between the parties is required””® for ICSID arbitration to be initiated by a
+
+foreign investor.
+
+This reading of Article 8(2) is confirmed by the fact that Article 8(2) itself provides that,
+“if after a period of four months from written notification of the claim there is no
+agreement” (italics added) to use one of the three options “the dispute shall at the request
+in writing of the national or company concerned be submitted to arbitration” (italics
+added) under the UNCITRAL Arbitration Rules. Such wording clearly indicates that a
+mutual agreement is needed for ICSID arbitration to be initiated by the foreign investor.
+
+When an agreement cannot be reached between the foreign investor and the state
+
+°S Biwater Gauff (Tanzania) Ltd. v. United Republic of Tanzania, ICSID Case No. ARB/05/22), Award of 24 July
+2008, para. 331 (hereinafter “Biwater v. Tanzania”).
+6 Td. at para. 329 (emphasis added).
+
+concerned, only arbitration under UNCITRAL Arbitration Rules can be used by the
+
+foreign investor, not ICSID arbitration or ICC arbitration. The verb ‘shall’ illustrates
+
+that rationale. It shows that the only type of arbitration for which a subsequent or mutual
+agreement between the foreign investor and the state concerned is not needed under
+
+Article 8(2) — after four months of notification of the claim — is UNCITRAL ad hoc
+
+arbitration. Article 8(2) is clear in its literal meaning and its intended effect.7”
+
+27. If the language of Article 8(2) of the U.K.-Turkmenistan BIT were not to be interpreted
+in the light of its ordinary meaning, there would be a risk of depriving the final part of
+Article 8(2) (“if after a period of four months ... under the Arbitration Rules of the
+United Nations Commission on International Trade Law”) of its effet utile (ut res magis
+valeat quam pereat). This principle of effectiveness must be taken into account when
+interpreting a BIT or specific provision(s) of a BIT under Article 31 of the VCLT. Not
+only has the ICJ acknowledged that “the principle of effectiveness [...] has an important
+role in the law of treaties”, but also some arbitral tribunals have recognized that “[i]t is
+a cardinal rule of the interpretation of treaties that each and every operative clause of a
+treaty is to be interpreted as meaningful rather than meaningless”.””
+
+28. As indicated above (see para. 13 of the present Opinion), the ordinary meaning of Article
+8(2) of the U.K.-Turkmenistan BIT can be confirmed by taking into account the
+circumstances of the conclusion of the U.K.-Turkmenistan BIT. This method of treaty
+interpretation is based on Article 32 of the VCLT, which also reflects customary
+
+international law.
+
+*7 In the same sense, see Corfu Channel (United Kingdom v. Albania), Merits, Judgment, I1.C.J. Reports 1949, p. 24;
+see also Territorial Dispute (Libyan Arab Jamahiriya/Chad), Judgment, 1.C.J. Reports 1994, p. 25, para. 51.
+
+°8 Fisheries Jurisdiction (Spain v. Canada). 1.C.J. Reports 1998, p. 455, para. 52. See also, Advisory opinion of 21
+June 1971 on the Legal consequences for States of the continued presence of South Africa in Namibia (South West
+Africa), ICJ Reports 1971, p. 35, para. 66; Border and transborder armed actions (Nicaragua v. Honduras),
+Judgment of 20 December 1988, JCJ Reports 1998, p. 89, para. 46. See also, H. Lauterpacht, The Development of
+International Law by the International Court, Cambridge University Press, Cambridge, 1982, pp. 227-230.
+
+° Eureko BV v. Republic of Poland, Partial Award (by Majority) of 19 August 2005, para. 248; See also, Pan
+American Energy LLC and BP Argentina Exploration Company v. Argentine Republic, ICSID Case No. ARB/03/13,
+Decision on Preliminary Objections of 27 July 2006, para. 132 and Salini Costruttori S.p.A. and Italstrade S.p.A. v.
+Hashemite Kingdom of Jordan, CSID Case No. ARB/02/13, Decision on Jurisdictionof 29 November 2004, para.
+
+5.
+
+13
+
+29. The U.K.-Turkmenistan BIT was negotiated and concluded following the adoption of the
+1991 U.K. Model BIT.” The said Model BIT set forth two approaches to Article 8. One
+approach called the ‘preferred’ version of Article 8 contained a direct consent to ICSID
+arbitration without the need of a prior agreement between the foreign investor and the
+host state (“Each Contracting Party hereby consents to submit to the International Centre
+for the Settlement of Investment Disputes...”). The other approach, named the
+‘alternative’ version, required a subsequent agreement by the parties to submit their
+dispute to ICSID. Article 8(2) of the U.K.-Turkmenistan BIT embodies the ‘alternative’
+version. If a different interpretation were adopted, this would obviously change the nature
+of the intent of Turkmenistan and the U.K. It would also go against the ordinary meaning
+of Article 8(2) as it appears from the text of the provision itself as well as the
+
+circumstances of the conclusion of the U.K.-Turkmenistan BIT.
+
+30. The circumstances of the adoption of the U.K.-Turkmenistan BIT confirm the intent of
+the Parties and the ordinary meaning to be given to Article 8(2) of the U.K.-Turkmenistan
+BIT in light of its context and object and purpose. Both U.K. and Turkmenistan have
+made the choice to opt for the ‘alternative’ version and that choice has to be given full
+effect by the Tribunal in the present case. Putting aside their choice (i.e., for the
+‘alternative version’) would be tantamount to imposing on them an approach other than
+the one they negotiated and agreed to be bound by. However, restrictions to the
+sovereignty of states cannot be presumed — even through the application of an MFN
+clause.*! When states consent to the jurisdiction of an international court or tribunal, such
+as ICSID tribunals, they agree to restrict their sovereignty in a specific context. This is
+one of the very raisons d’étre of international adjudication: the acceptance by states to
+
+relinquish part of their sovereignty and submit to the judgment of third-party
+
+* See Ex. R-7, 1991 U.K. Model BIT, International Investment Instruments: A Compendium, UNCTAD/DTCI/30
+(Vol. IID).
+3! See Daimler v. Argentina, Award of 22 August 2012, para. 168: “all international treaties — whether bilateral,
+plurilateral or multilateral — are essentially expressions of the contracting states’ consent to be bound by particular
+legal norms. They encapsulate voluntarily accepted restraints upon the universally recognized principle of state
+sovereignty. Consent is therefore the cornerstone of all international treaty commitments, at least insofar as those
+i exceed the mini of customary i ional law. The primacy of the principle of
+consent runs through all types of treaty commitments entered into by states. There is no distinction between
+substantive treatment provisions, MFN clauses, dispute resolution clauses, or otherwise. All are equally valid and
+equally binding to the full extent of the contracting State parties’ consent” (emphasis added).
+
+31.
+
+32.
+
+33.
+
+adjudicators. Therefore, consent to ICSID arbitration in a case such as this cannot be
+construed, when in reality a state has not consented to ICSID arbitration, but has instead
+opted for the approach of the ‘alternative’ U.K. model of BITs which excludes ICSID
+
+arbitration unless consented to by both parties.
+
+The tribunal in Daimler v. Argentina has particularly insisted on the aforementioned
+
+aspects and its cautious approach deserves to be quoted here:
+
+[...] as international treaties, BITs constitute an exercise of sovereignty by
+which States strike a delicate balance among their various internal policy
+considerations. For this reason, the Tribunal must take care not to allow any
+presuppositions concerning the types of international law mechanisms
+(including dispute resolution clauses) that may best protect and promote
+investment to carry it beyond the bounds of the framework agreed upon by
+the contracting state parties. It is for States to decide how best to protect and
+promote investment. The texts of the treaties they conclude are the definitive
+guide as to how they have chosen to do so.”
+
+Thus, the choice of the ‘alternative’ model should govern the understanding and
+
+interpretation of the scope of application of Article 3(3) of the U.K.-Turkmenistan BIT.
+
+The U.K. would not have adopted two models of BITs if it had considered that the two
+models would lead to the same result. Moreover, the U.K.’s BIT treaty practice is quite
+varied with respect to its dispute settlement commitments. This stresses the importance of
+
+the choices made by the negotiators in each specific case.
+
+The disputes which have been brought in the context of BITs concluded by the U.K. with
+other countries always followed the arbitration procedures as foreseen in the concerned
+BITs. A most recent example is Oxus Gold v. Uzbekistan. The dispute arose out of the
+U.K.-Uzbekistan BIT which also encompasses the ‘alternative’ version of the U.K.
+Model BIT. The Claimant accordingly brought the dispute under the UNCITRAL
+Arbitration Rules, as there was no agreement between the two parties to bring the dispute
+
+to another forum, such as ICSID.*
+
+*» Daimler v. Argentina, Award of 22 August 2012, paras. 164 (emphasis added).
+
+3 In the Matter of arbitration under the UNCITRAL between Oxus Gold PLC v. Republic of Uzbekistan, The State
+Committee of Uzbekistan for geology & mineral resources, and Na voi Mining & Mettalurgical Kombinat, Notice of
+Arbitration, Oral hearings, Claimant, p.154.
+
+34.
+
+Having thus clarified aspects of the interpretation of Article 8(2) of the U.K.-
+Turkmenistan BIT under Articles 31 and 32 of the VCLT, the present opinion turns to
+
+establishing the ordinary meaning of Article 3(3) of the U.K.-Turkmenistan BIT.
+
+Ill. The ordinary meaning of Article 3(3) of the U.K.-Turkmenistan BIT in light of the
+customary rules of treaty interpretation
+
+35.
+
+36.
+
+37.
+
+Article 3 of the U.K.-Turkmenistan BIT reads as follows:
+
+Article 3
+
+National Treatment and Most-favoured-nation Provisions
+(1) Neither Contracting Party shall in its territory subject investments or
+returns of nationals or companies of the other Contracting Party to treatment
+less favourable than that which it accords to investments or returns of its own
+nationals or companies or to investments or returns of nationals or companies
+of any third State.
+(2) Neither Contracting Party shall in its territory subject nationals or
+companies of the other Contracting Party, as regards their management,
+maintenance, use, enjoyment or disposal of their investments, to treatment
+less favourable than that which it accords to its own nationals or companies
+or to nationals or companies of any third State.
+(3) For the avoidance of doubt it is confirmed that the treatment provided for
+in paragraphs (1) and (2) above shall apply to the provisions of Articles 1 to
+11 of this Agreement.
+
+Article 3 encompasses the national treatment obligation and the most-favoured nation
+(MEN) principle. As such, Article 3 reflects a common substantive standard that is found
+in the vast majority of BITs. What differentiates Article 3 from many provisions of BITs
+dealing with the national treatment obligation and the MEN principle is that it addresses
+specifically and explicitly the scope of its application within the U.K.-Turkmenistan BIT.
+Indeed, Article 3(3) of the said BIT specifies:
+
+For the avoidance of doubt it is confirmed that the treatment provided for in
+
+paragraphs (1) and (2) above shall apply to the provisions of Articles 1 to 11
+
+of this Agreement. (italics added)
+During the last decade, much controversy has arisen with respect to MFN provisions
+contained in BITs. One of the major aspects of this controversy before investment arbitral
+tribunals is whether MEN provisions apply to dispute settlement provisions of BITs. The
+
+U.K.-Turkmenistan BIT clearly prevents such a controversy from arising before an
+
+16
+
+38.
+
+39.
+
+arbitral tribunal that has jurisdiction to deal with disputes under the said BIT. Indeed, the
+wording of Article 3(3) of the U.K.-Turkmenistan BIT shows that the MEN principle
+applies to dispute settlement provisions of the U.K.-Turkmenistan BIT, thus including
+
+Article 8(2) of the U.K.-Turkmenistan BIT.
+
+It is not within the ambit of the present dissenting opinion to give a detailed analysis of
+MEN provisions and their meaning under general international law. It is sufficient to
+recall that the function of an MFN provision is to guarantee balanced and coherent treaty
+relations between the members of the international community. More specifically, what
+an MEN provision allows in the context of BITs is the following: to extend treatment of
+foreign investors that is more favourable under a BIT to treatment of foreign investors
+that is less favourable under other BITs. Therefore, because of the MFN provision
+contained in Article 3 of the U.K.-Turkmenistan BIT and its application to dispute
+settlement issues, a foreign investor of British nationality can invoke more favourable
+dispute settlement provisions embodied in other BITs concluded by Turkmenistan. Since
+Article 3(3) is part of a whole, i.e., the U.K.-Turkmenistan BIT, it is necessary to read
+and interpret its terms in light of the other provisions of the BIT (the context of the BIT)
+
+and, especially, Article 8(2).
+
+The issue in the present dispute is the relationship between Article 3(3) and Article 8(2)
+of the U.K.-Turkmenistan BIT. As previously explained, the interpretation of the
+ordinary meaning of Article 3(3) cannot be isolated from the mechanism set forth in
+Article 8(2) (see paragraph 12 above). This approach was also adopted by the tribunal in
+Austrian Airlines v. Slovakia. Indeed, when dealing with the MEN clause contained in
+Article 3(1) of the Austria-Slovakia BIT, the tribunal found that it “must therefore look to
+the context of Article 3(1) as well as to the other elements relevant for its interpretation.
+Starting with the context, Article 3(1) must be viewed for present purposes in
+combination with Article 3(2) as well as with the treaty provision that deal with dispute
+settlement, i.e. Articles 8 and 4(4) and 4(5y.4 The tribunal even went further and
+
+specified that “[w]hat the Tribunal must examine is whether the Treaty provides for
+
+* Austrian Airlines v. Slovak Republic, UNCITRAL Case, Award of 9 October 2009, para. 127.
+
+40.
+
+Al.
+
+42.
+
+exceptions to the application of the MFN clause, and more specifically, whether the
+provisions governing access to arbitration under the Treaty are to be regarded as a
+limitation to the scope of the MFN clause”.*> In my view, there is, thus, no doubt that the
+relationship between Article 3(3) and Article 8(2) of the U.K.-Turkmenistan BIT is one
+
+that should have been dealt with by the majority in the present instance.
+
+Relationship between Article 3(3) and Article 8(2). To give effect to the MFN clause
+contained in Article 3(3), the foreign investor must first be in a dispute settlement
+relationship with the host state. A problem of treatment can only arise when the foreign
+investor is treated in a certain way while entertaining a specific relationship with the host
+state. If there is no relationship between the host state and the foreign investor, the
+question of more or less favourable treatment is not at stake and thus, the MEN principle
+does not apply. The so-called ‘choice’ that supposedly derives from an MEN provision
+and which has been extensively used by the majority to justify its approach in casu, does
+not come into play if a problem of treatment cannot be identified under the U.K.-
+
+Turkmenistan BIT.
+
+In other words, the so-called ‘right’ to a more favourable treatment under Article 3(3) of
+the U.K.-Turkmenistan BIT can only be exercised if the foreign investor and the host
+state are subject to a dispute settlement relationship under one of the dispute settlement
+options that are provided in Article 8(2) of the U.K.-Turkmenistan BIT. In that sense, the
+application of Article 3(3) of the U.K.-Turkmenistan BIT is subordinated or conditioned
+
+to the prior application of Article 8(2) of the U.K.-Turkmenistan BIT.
+
+As indicated above (see para. 23), Article 8(2) of the U.K.-Turkmenistan BIT offers three
+options to settle a dispute between a foreign investor and a state arising out of the said
+BIT. The dispute can be settled under the ICSID Convention (option 1), or by the ICC
+Court of Arbitration (option 2), or else under UNCITRAL arbitration (option 3). For the
+Claimant to benefit from more favourable treatment under other BITs concluded by
+Turkmenistan, one of these options of dispute settlement must first be deemed applicable.
+
+For an option to be deemed applicable, prior and strict compliance with the conditions
+
+* Austrian Airlines v. Slovakia, UNCITRAL Case, Award of 9 October 2009, para. 131.
+
+prescribed by Article 8(2) of the U.K.-Turkmenistan BIT is necessary.
+
+43. Option 1 — ICSID arbitration — is only deemed applicable under Article 8(2) of the U.K.-
+Turkmenistan BIT if the foreign investor has mutually agreed with the respondent state to
+have recourse to ICSID arbitration. As long as such a mutual agreement is not
+established, an issue of treatment — and even less of MFN — does not arise under Option 1
+(ICSID arbitration). The MEN principle can, thus, only apply with respect to ICSID
+arbitration if there is a mutual agreement between the foreign investor and the host state
+to settle the investment dispute through ICSID arbitration. If such a mutual agreement is
+established, then Article 3(3) of the U.K.-Turkmenistan BIT applies and a claimant in a
+dispute may be in a position to invoke more favourable ICSID arbitration provisions
+contained in other BITs concluded by Turkmenistan. In the absence of a mutual
+agreement to ICSID arbitration, a claimant will not be in a position to invoke more
+favourable treatment under Article 3(3) of the U.K.-Turkmenistan BIT with respect to
+
+ICSID arbitration under other BITs concluded by Turkmenistan. *°
+
+44, Here, there is simply no issue of treatment under ICSID arbitration that arises, since
+ICSID arbitration is deemed inexistent in the absence of a mutual agreement. This is the
+reasonable ordinary meaning that can be given to Article 3(3) of the U.K.-Turkmenistan
+BIT under customary rules of treaty interpretation. This gives effet utile to the wording of
+both Article 3(3) and Article 8(2) of the U.K.-Turkmenistan BIT.”” In this context,
+attention can be given to the approach of the Tza Yap Shum v. Peru tribunal, which went
+in the direction of both conferring full effet utile to the wording of a dispute settlement
+
+clause in a BIT and reading treaties as a whole (rather than as mere assemblage of
+
+*° Tt might be argued, and indeed is argued by Claimant, that in the present case "treatment" is established at least at
+the minimum level of the UNCITRAL rules without consent of Turkmenistan. On the basis of that "treatment",
+Claimant could seek the ICSID level of treatment — assuming that, for the sake of argument, it is more favourable
+than UNCITRAL treatment. As I have demonstrated above, this cannot be achieved within the framework of the
+U.K.-Turkmenistan BIT, as it would circumvent the precondition of mutual consent for ICSID arbitration. As to the
+argument that this could be based on another BIT in which Turkmenistan would have consented to ICSID arbitration
+without the need for mutual agreement, this question is dealt with in detail in Chapter V below.
+
+57 As explained by the International Court of Justice (ICJ): “The principle of interpretation expressed in the maxim:
+Ut res magis valeat quam pereat, often referred to as the rule of effectiveness, cannot justify the Court in attributing
+to the provisions for the settlement of disputes [...] a meaning which would be contrary to their letter and spirit”; see
+Interpretation of Peace Treaties (second phase),
+
+Advisory Opinion: LC. J. Reports 1950, p. 229.
+
+ 
+
+separate provisions).**
+
+45. Let us now turn to the formal requirement(s) that govern consent under Article 25(1) of
+
+the ICSID Convention.
+
+IV. The formal requirement(s) governing consent under Article 25(1) of the ICSID
+Convention
+
+46. Consent is a necessary prerequisite for ICSID arbitration.” It is the “cornerstone” of
+
+ICSID jurisdiction. Without consent, no ICSID arbitration can take place.
+
+47. Article 25 of the ICSID Convention requires that the parties to the dispute “consent in
+writing” to submit that dispute to the Centre. Under Article 25, consent in writing is thus
+necessary, but the text does not give any further indication about either the manner or
+timing of such consent or the way in which it must be interpreted. There is no
+requirement that such consent be contained in a single article of a treaty or in a single
+treaty.“° Consent to ICSID arbitration can be identified in a treaty, in a national
+investment law or in a contract. Nevertheless, an idea of implicit consent is not
+admissible in the ICSID system. Whatever the instrument in which consent to ICSID
+
+arbitration is embodied, consent must be given in writing.
+
+48. The ICSID Convention is crystal-clear. Consent is a prerequisite and if it is not
+
+established, no jurisdiction can be exercised by an ICSID tribunal. There is no need to
+
+vl
+
+embark on a discussion whether consent must be “clear and unambiguous,” or whether
+
+dispute settlement provisions or so-called compromissory clauses must be interpreted in a
+
+* Tza Yap Shum v. Republic of Peru, 1CSID Case No. ARB/O7/6, Decision on Jurisdictionof 19 June 2009, para.
+216 (hereinafter “Tza Yap Shum v. Peru”).
+
+* See preamble of the ICSID Convention: “Declaring that no Contracting State shall by the mere fact of its
+ratification, acceptance or approval of this Convention and without its consent be deemed to be under any obligation
+to submit any particular dispute to conciliation or arbitration [...]”.
+
+*° Ceskoslovenska obchodni banka, a.s. v. Slovak Republic, ICSID Case No. ARB/97/4, Decision of the Tribunal on
+Objections to Jurisdictionof 24 May 1999, para. 55 (hereinafter “C.S.O.B. v. Slovakia”). See also, Renta 4 v. Russia,
+SCC Case No. Arbitration V (024/2007), Award on Preliminary Objections, 20 March 2009, para. 82.
+
++! Plama Consortium Limited v. Republic of Bulgaria, \CSID Case No. ARB/03/24, Decision on Jurisdiction of 8
+February 2005, para. 198 (hereinafter “Plama v. Bulgaria”). See, e.g. Telenor Mobile Communications A.S. v.
+Republic of Hungary, ICSID Case No. ARB/04/15, Award of 13 September 2006, para. 90; Vladimir Berschader
+and Moise Berschander v. Russian Federation, SCC Case No. 080/2004, Award of 21 August 2006, para.181;
+Wintershall Aktiengesellschaft v. Argentine Republic, 1CSID Case No. ARB/04/14, Award of 8 December 2008,
+para. 167 (hereinafter “Wintershall v. Argentina”).
+
+20
+
+restrictive or liberal manner.” Indeed, as stressed by Judge Rosalyn Higgins, “[i]t is clear
+from the jurisprudence of the Permanent Court and of the International Court that there is
+no rule that requires a restrictive interpretation of compromissory clauses,” and there is
+
+no doubt that the ICJ “has no judicial policy of being either liberal or strict in deciding
+
+the scope of compromissory clauses; they are judicial decisions like any other”.
+
+49. Nevertheless — and I consider that this is what should have guided the majority in the
+present dispute — the ICJ has been constant and strict in recalling that its jurisdiction “is
+based on the consent of States under the conditions expressed [in the relevant treaties]”
+(emphasis added).* The same rationale applies to the jurisdiction of ICSID tribunals
+under the ICSID Convention. The ICJ has also been consistent in recalling that the
+consent allowing for the Court to assume jurisdiction “must be certain”. The same
+principle applies for consent to ICSID arbitration. Lastly, the ICJ has consistently
+emphasized that “whatever the basis of consent, the attitude of the respondent State must
+be capable of being regarded as ‘an unequivocal indication’ of the desire of that State to
+accept the Court’s jurisdiction in a ‘voluntary and indisputable’ manner” (emphasis
+added).“° Once again, the same rationale applies to consent to ICSID arbitration. These
+are the parameters that the Tribunal in the present case should take into account. The
+
+tribunal in National Grid v. Argentina did not go in a different direction when it stated
+
+® Interagua v. Argentina, Decision on Jurisdiction of 16 May 2006, para. 64. See also, Mondev International Ltd. v.
+United States of America, 1CSID Case No. ARB(AF)/99/2, Award of 11 October 2002, para. 43; Suez, Sociedad
+General de Aguas de Barcelona S.A. and Vivendi Universal S.A v. Argentine Republic, ICSID Case No.
+ARB/03/19, and AWG Group Ltd., UNCITRAL Case, Decision on Jurisdiction of 3 August 2006, para. 65; Austrian
+Airlines v. Slovakia, UNCITRAL Case, Award of 9 October 2009, para. 20.
+
+* Oil Platforms (Islamic Republic of Iran v. United States of America), Preliminary Objections, Judgment of 12
+December 1996, Separate Opinion of Judge Higgins, I.C.J. Reports 1996, p. 857, para. 35.
+
+* Case Concerning mutual assistance in criminal matters (Djibouti v. France), 1.C.J. Reports, 2008, p. 203, para.
+60.
+
+45 Td. at p. 204, para. 62.
+
+* Case Concerning mutual assistance in criminal matters (Djibouti v. France), I.C.J. Reports, 2008, p. 203, para. 62
+(emphasis added); Armed Activities on the Territory of the Congo (New Application: 2002) (Democratic Republic of
+the Congo v. Rwanda), Jurisdiction and Admissibility, Judgment, I.C.J. Reports 2006, p. 18; see also Corfu Channel
+(United Kingdom v. Albania), Preliminary Objection, Judgment, 1948, I.C.J. Reports 1947-1948, p. 27; Application
+of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia and Herzegovina v.
+Yugoslavia), Preliminary Objections, Judgment, I.C.J. Reports 1996 (II), pp. 620-621, para. 40; Rights of Minorities
+in Upper Silesia (Minority Schools), Judgment No. 12, 1928, P-C.LJ., Series A, No. 15, p. 24; Anglo-Iranian Oil Co.
+(United Kingdom v. Iran), Preliminary Objection, Judgment, 1.C.J. Reports 1952, pp. 113-114; Monetary Gold
+Removed from Rome in 1943 (Italy v. France, United Kingdom and United States of America), Judgment, I.C.J.
+Reports 1954, p. 30
+
+21
+
+50.
+
+51.
+
+52.
+
+that “what matters is the intention of the parties as expressed in the text?”
+
+No international court or tribunal, including ICSID tribunals, has challenged or contested
+those fundamental characteristics of consent to jurisdiction. The RosInvest v. Russia
+award — which remains a unique case with respect to the interpretation and application of
+the MEN clause — did not go as far as saying that consent to arbitration under a specific
+forum could be imported from one BIT to another BIT when consent to that specific
+
+arbitration forum under the latter had not been established. “*
+
+In casu, it is clear that no mutual agreement in writing was reached between Garanti
+Koza and Turkmenistan to submit the dispute to ICSID arbitration. As explained above,
+no consent to ICSID arbitration can be found under Article 8(2) of the U.K.-
+Turkmenistan BIT. Since consent to ICSID arbitration cannot be identified, Article 3.3 on
+MEN treatment is not applicable.” The fact that Article 8(1) of the U.K.-Turkmenistan
+BIT refers to “international arbitration” cannot be invoked to circumvent Article 8(2). It
+also cannot be invoked to deduce a so-called ‘choice’ of the foreign investor under
+Article 3(3) to circumvent Article 8(2) and to decide which international arbitration
+
+procedure would be more favourable.
+
+However, and in light of the arguments presented by the Claimant (as accepted by the
+majority), let us assume that the MFN clause contained in Article 3(3) of the U.K.-
+Turkmenistan BIT is applicable. It remains to be determined whether consent to ICSID
+arbitration could allegedly be established in the present case through the operation of the
+MEN clause, despite the absence of consent under Article 8(2) of the U.K.-Turkmenistan
+BIT. In other words, the issue is whether consent to ICSID arbitration can be established
+from an MFN clause read together with an ICSID arbitration clause contained in another
+treaty, that neither finds direct application in the present case nor has been precisely
+
+identified by the Claimant in its request for arbitration.
+
+47 National Grid P.1.C. v. Argentine Republic, UNCITRAL Case, Award of 3 November 2008, para. 80 (hereinafter
+“National Grid v. Argentina”).
+
+“8 RosInvestCo. U.K. v. Russia, Arbitration under Stockholm Chamber of Commerce, Award on Jurisdiction of
+October 2007, paras. 128-130 (hereinafter “Ros Invest v. Russia”).
+
+* FE. Orrego-Vicufia, “Reports of (Maffezini’s) demise have been greatly exaggerated”, Journal of International
+Dispute Settlement, vol. 3, n° 2, 2012, p. 302.
+
+22
+
+V. Would the MFN clause of Article 3(3) of the U.K.-Turkmenistan BIT permit the
+Tribunal to find jurisdiction on the basis of another BIT regardless of the absence of
+consent to ICSID arbitration under Article 8(2) of the U.K.-Turkmenistan BIT?
+
+53.
+
+54.
+
+55.
+
+56.
+
+Both the Respondent and the Claimant cited several authorities to support their arguments
+against or in favour of finding consent to ICSID arbitration through the MFN clause
+
+embodied in Article 3(3) of the U.K.-Turkmenistan BIT.
+
+Article 3(3), in its relevant part, reads as follows:
+
+For the avoidance of doubt it is confirmed that the treatment provided for in
+
+paragraphs (1) and (2) above shall apply to the provisions of Articles 1 to 11
+
+of this Agreement.
+Article 8 of the BIT is the investor-state dispute resolution provision. As it falls within
+Articles 1 to 11 of the BIT, it is thus covered by the MEN clause of Article 3. However,
+does it provide a foreign investor with a right to ‘import’ from other Turkmenistan
+investment treaties a “more favourable treatment” with respect to dispute resolution,
+
+including the arbitration forum?
+
+From the Claimant’s standpoint, consent to ICSID arbitration can be provided by an
+MEN clause read together with the dispute resolution clause of another investment treaty
+concluded by the host state. This is a novel approach. Indeed, the Claimant is not
+suggesting that the MEN clause contained in Article 3(3) of the U.K Turkmenistan BIT
+would allow for less stringent conditions for recourse to international arbitration in a
+specific forum. What the Claimant is suggesting is that the said MFN clause authorizes a
+foreign investor to import consent to ICSID arbitration from any other treaty to which
+Turkmenistan has consented to ICSID arbitration. More than raising issues of
+interpretation, this argument relates to the very foundations of the system of ICSID
+arbitration. In other words, can an MEN clause serve as a basis to establish consent to
+ICSID arbitration when such consent was not given in the treaty embodying the said
+
+MEN clause?
+
+At the outset, one could question the admissibility per se of the claim. The Claimant has
+
+23
+
+57.
+
+58.
+
+59.
+
+made no real ‘offer to arbitrate’ under ICSID™ and, thus, no ‘meeting of the minds’ about
+arbitration under ICSID between the foreign investor and the host state under ICSID was
+
+even possible.
+
+Neither the interpretation of the U.K.-Turkmenistan BIT nor investment law practice can
+lead one to think that the MEN clause contained in Article 3(3) of the U.K-Turkmenistan
+BIT allows the Tribunal to endorse a reasoning according to which it is possible for an
+MEN clause to incorporate by reference an agreement to arbitrate from another treaty if it
+
+was not prima facie the intention of the Parties to the BIT.
+
+The Claimant refers, inter alia, to the dissenting opinion of Brigitte Stern in Impregilo v.
+Argentina in support of its argument. If this opinion is examined in its entirety, it will
+show that the dissenting opinion does not state what the Claimant believes it states. The
+Claimant makes reference to the following passages of the dissenting opinion:
+
+Naturally, an important caveat has to be presented here. The interpretation of
+the MPN clause is only necessary when the intention of the parties
+concerning its applicability or inapplicability to the dispute settlement
+mechanism is not expressly stated or clearly ascertained. It is quite evident
+that if there is an MFN clause expressly including the dispute settlement
+procedures or expressly excluding them, there is no need for an
+interpretation.
+
+There are indeed cases where the parties expressly state that the MFN clause
+applies to the dispute settlement mechanism. This has been done, for
+example, by the drafters of the U.K. Model BIT, who have provided in
+Article 3(3) that “for avoidance of doubt MFN treatment shall apply to
+certain specified provisions of the BIT including the dispute settlement
+provision”.*!
+
+However, in Brigitte Stern’s dissenting opinion, the main contention was that the MFN
+could not apply to the conditions of access to dispute settlement (as the condition ratione
+
+voluntatis could not be modified). The question of the extension of the scope of a right
+
+was not discussed. Brigitte Stern emphasized that if the conditions surrounding the
+
+*° Tt is important to stress that the Claimant asked the Tribunal to apply more favourable dispute resolution clauses
+of Turkmenistan’s BITs with Switzerland, France, Turkey, and India, and the ECT. However, the Claimant did not
+specify which BIT had to be applied in the present instance and, most of all, did not even mention those BITs in its
+request of arbitration.
+
+5! Impregilo S.p.A. v. Argentina Republic, ICSID Case No. ARB/07/17, Concurring and Dissenting Opinion of
+Professor Brigitte Stern of 21 June 2011, paras. 17-18 (hereinafter “Impregilo v. Argentina”).
+
+24
+
+60.
+
+consent as required in the basic treaty were not met, no right to arbitration exists and
+therefore no right can be modified by the MEN clause, and in particular the scope of the
+right to arbitrate. On the question of whether or not the MEN clause applies to dispute
+settlement provisions in a BIT, Brigitte Stern stated clearly:
+
+[It] cannot change the conditions ratione personae, ratione materiae, and
+ratione temporis [...] it must be equally true that an MFN clause cannot
+change the condition ratione voluntatis, which is a qualifying condition for
+the enjoyment of the jurisdictional rights open for the protection of
+substantial rights.
+
+L.]
+
+In other words, before a provision relating to the dispute settlement
+mechanism can be imported into the basic treaty, the right to international
+arbitration — here ICSID arbitration — has to be capable of coming into
+existence for the foreign investor under the basic treaty, in other words the
+existence of this right is conditioned on the fulfillment of all the necessary
+conditions for such jurisdiction, the conditions ratione personae, ratione
+materiae, and ratione temporis as well as a supplementary condition relating
+to the scope of the State’s consent to such jurisdiction, the condition ratione
+voluntatis.
+
+L.]
+
+As long as the qualifying conditions expressed by the State in order to give
+its consent are not fulfilled, there is no consent, in other words no access of
+the foreign investor to the jurisdictional treatment granted by ICSID
+arbitration. An MEN clause cannot enlarge the scope of the basic treaty’s
+right to international arbitration, it cannot be used to grant access to
+international arbitration when this is not possible under the conditions
+provided for in the basic treaty.
+
+The same concerns were already addressed by the Maffezini v. Spain tribunal. The
+reasoning of the Mafezzini v. Spain tribunal is worth noting as the tribunal acted in
+assuming that the MFN provision should find application with respect to dispute
+settlement, i.e., as if the concerned treaty contained a provision similar to Article 3(3) of
+the U.K.-Turkmenistan BIT. The tribunal stressed that “there are some important limits
+
+that ought to be kept in mind”?
+
+when dealing with an MEN clause. As stated by the same
+tribunal, one of those limits is that an MFN clause cannot provide for a particular
+arbitration forum (e.g., ICSID), if this option was not foreseen, or not initially permitted
+
+without the prior fulfillment of conditions in the treaty incorporating the said MFN
+
+* Td. at paras. 78-80.
+* Emilio Agustin Maffezini v. Kingdom of Spain, ICSID Case No. ARB/97/7, Decision of the Tribunal on
+Objections to Jurisdictionof 25 January 2000, para. 62 (hereinafter “Maffezini v. Spain”).
+
+25
+
+61.
+
+62.
+
+clause.™ In other words, the Maffezini v. Spain tribunal concluded that one system of
+arbitration cannot be replaced by another. Noting the potential disruption of the
+international arbitral system, the Maffezini v. Spain tribunal held:
+
+[Third,] if the agreement provides for a particular arbitration forum, such as
+
+ICSID, for example, this option cannot be changed by invoking the clause, in
+
+order to refer the dispute to a different system of arbitration.”
+In paraphrasing the Maffezini v. Spain decision, it could be said that if the agreement
+provides for a particular arbitration forum, such as UNCITRAL, this option cannot be
+changed by invoking the clause in order to refer the dispute to a different system of
+
+arbitration, such as ICSID.
+
+In line with what the Maffezini v. Spain tribunal held, no investment award or decision
+has since then decided that an MEN provision would allow the import of consent to
+ICSID arbitration from another treaty. This possibility cannot even be deduced from the
+RosInvest v. Russia award. The role of the MFN clause is not to substitute for a lack of
+consent, but to ensure that the consent given is implemented in the most favourable
+manner to the individual investor entitled to protection, as compared to the treatment
+given to other such individuals in treaties with third countries.°° The National Grid v.
+Argentina tribunal correctly noted that an MFN clause is not a basis for creating consent
+
+to ICSID arbitration when none exists.””
+
+In conclusion, the MFN clause embodied in Article 3(3) of the U.K.-Turkmenistan BIT
+cannot bypass the requirement of consent to ICSID arbitration. This is undeniable. If the
+requirement of consent to ICSID arbitration, as stipulated in Article 8 of the U.K.-
+Turkmenistan BIT, as well as in the ICSID Convention itself, could easily be put aside
+because of the interplay of MFN clauses, there would be a threat to the entire system of
+investor-state arbitration. BITs providing for ICSID jurisdiction should abide by the
+
+ICSID Convention. Article 8(2) of the U.K.-Turkmenistan BIT stresses this point when it
+
+™ Td. at paras. 62-63.
+
+° Td. at para. 63.
+
+°° F. Orrego-Vicufia, “Reports of (Maffezini’s) demise have been greatly exaggerated”, Journal of International
+Dispute Settlement, vol. 3, n° 2, 2012, p. 303.
+
+*7 National Grid v. Argentina, UNCITRAL Case, Decision on Jurisdictionof 20 June 2006, para. 92.
+
+26
+
+63.
+
+64.
+
+65.
+
+provides for the need to “having regard to the provisions, where applicable of the
+Convention on the Settlement of Investment Disputes between States and Nationals of
+
+other States [...]”.
+
+Granting Article 3(3) of the U.K.-Turkmenistan BIT such extensive effect as to allow for
+consent to ICSID through incorporation by reference in the frame of a treaty that does not
+allow this, would have the effect of “replac[ing] a procedure specifically negotiated by
+
+758 or “system of arbitration”.©° It would
+
+parties with an entirely different mechanism’
+involve a forum-shopping attitude that bypasses the consent requirement of the
+Respondent while running against the fundamental principles of international
+
+adjudication.
+
+The literal and ordinary meaning of Article 8(2) has to be given full effect to determine
+whether or not consent to ICSID arbitration exists. Any other interpretation would lead to
+an artificial construction. Under Article 8(2) of the U.K.-Turkmenistan BIT, consent to
+ICSID arbitration can only derive from a mutual agreement between the foreign investor
+and the host state. If there is no such mutual agreement, then there is no consent to ICSID
+arbitration. No attempt to establish consent to ICSID arbitration under an MEN clause is
+possible, since it will have the perverse effect of replacing actual non-consent by virtual
+consent. That would go against the fundamental pillars of the law of treaties (principle of
+
+consent, pacta sunt servanda, etc.) as well as against the pillars of the ICSID system.
+
+The Claimant contends that “there is no obstacle of ‘form’ preventing a tribunal from
+finding that Turkmenistan has consented to arbitration through an MEN clause, provided
+the text of the clause allows for the incorporation by reference of an arbitration
+agreement”. Rather than mere obstacle(s) of form, there are ‘procedural’ and
+‘substantive’ impediments that would definitely preclude the Tribunal from granting to
+Article 3(3) of the U.K.-Turkmenistan BIT an effect that it does not and was never
+
+supposed to produce in the context of the said BIT. The ejusdem generis rule — which is
+
+°8 Plama v. Bulgaria, Decision on Jurisdiction of 8 February 2005, para. 209.
+°° Wintershall v. Argentina, ICSID Case No. ARB/04/14, Award of 8 December 2008, para. 176.
+© Counter-Memorial on Jurisdiction, para. 39.
+
+27
+
+considered a general principle of international law®! — dictates such a cautious attitude.
+
+66. As explained by the International Law Commission (ILC) in its Commentary on the Draft
+Articles on MFN Clauses:
+
+No writer would deny the validity of the ejusdem generis rule which, for the
+purposes of the most-favoured-nation clause, derives from its very nature. It
+is generally admitted that a clause conferring most-favoured-nation rights in
+respect of a certain matter, or class of matter, can attract the rights conferred
+by other treaties (or unilateral acts) only in regard to the same matter or class
+of matter. The effect of the most-favoured-nation process is, by means of the
+provisions of one treaty, to attract those of another. Unless this process is
+strictly confined to cases where there is a substantial identity between the
+subject-matter of the two sets of clauses concerned, the result in a number of
+cases may be to impose upon the granting State obligations it never
+contemplated. Thus the rule follows clearly from the general principles of
+treaty interpretation. States cannot be regarded as being bound beyond the
+obligations they have undertaken.”
+
+67. The subject-matter of Article 8(2) of the U.K.-Turkmenistan BIT sets forth non-consent
+to ICSID arbitration if there is no specific agreement between the parties. The subject-
+matter of the dispute settlement clauses embodied in other BITs concluded by
+Turkmenistan and allegedly — albeit without relying specifically on one of them —
+invoked by the Claimant provides for consent to ICSID arbitration. In accordance with
+the ejusdem generis rule, the MFN clause under Article 3(3) of the U.K.-Turkmenistan
+BIT cannot be interpreted as allowing to “attract rights [to ICSID arbitration] conferred
+by other treaties” (i.e., the automatic right to resort to ICSID arbitration) when the
+
+subject-matter — not to say the very object and purpose — of the U.K.-Turkmenistan BIT
+
+°' Draft Articles on Most-Favoured-Nation Clauses, with Commentaries, text adopted by the International Law
+Commission at its thirtieth session, Yearbook of the International Law Commission, 1978, vol. Il, Part Two, p. 27.
+See also Report of the International Law Commission Study Group on MEN: “The Study Group affirmed the
+general understanding that the source of the right to MFN treatment was the basic treaty and not the third-party
+treaty; MEN clauses were not an exception to the privity rule in treaty interpretation. It also recognized that the key
+question in the investment decisions concerning MFN seemed to be how the scope of the right to MFN treatment
+was to be determined, that is to say what expressly or impliedly fell “within the limits of the subject-matter of the
+clause”” (italics added). See The Most-Favoured-Nation-Clause, Report of the International Law Com: ion (26
+April-3 June and 4 July-12 August 2011), General Assembly Official Records, Sixty-third session, A/66/10, p. 287,
+para. 355, available at: http://untreaty.un.org/ilc/reports/201 1/201 1report.htm.
+
+© Draft Articles on Most-Favoured-Nation Clauses, with Commentaries, text adopted by the International Law
+Commission at its thirtieth session, Yearbook of the International Law Commission, 1978, vol. II, Part Two, p. 30,
+paras. 10-11 (emphasis added).
+
+® Daimler v. Argentina, Award of 22 August 2012, para. 175. The tribunal considers that non-consent to ICSID
+arbitration is the default rule and that consent to ICSID arbitration is the exception.
+
+ 
+
+ 
+
+28
+
+is exactly to deny such rights to ICSID arbitration in the absence of mutual agreement.
+
+68. The absence of a mutual agreement to ICSID arbitration is the main impediment for this
+Tribunal to exercise its jurisdiction. It is this absence of a mutual agreement that prevents
+the ‘import’ of ICSID arbitration into a treaty that does not provide for ICSID arbitration.
+In this context, there is a need to address the misleading parallel that the Claimant —
+followed in this regard by the majority in the present instance — has attempted to draw
+between this dispute and C.S.0.B. v. Slovakia. According to the Claimant, incorporation
+by reference of an ICSID arbitration provision from one treaty to another by operation of
+an MEN clause is similar to incorporation into a contract by reference to an ICSID
+
+arbitration provision contained in a treaty that has not entered into force.
+
+69. In contrast to what the majority claims, C.S.0.B. v. Slovakia is neither about the
+applicability of an MEN provision to the dispute settlement provisions of a BIT nor about
+the possibility to ‘import’ consent to ICSID arbitration or to ‘create’ consent to ICSID
+arbitration when such consent is not established. The C.S.0.B. v. Slovakia decision
+confirms that, without consent to ICSID arbitration, no jurisdiction can be exercised by
+an ICSID tribunal. In C.S.0.B. v. Slovakia, the tribunal found that there was consent to
+ICSID arbitration,” because the so-called ‘Consolidation Agreement” concluded
+between the Claimant and the Slovak Republic made explicit reference to the BIT
+concluded between the Czech Republic and the Slovak Republic, which in turn embodied
+consent to ICSID arbitration. Thus, both the foreign investor and the host state agreed (by
+
+virtue of the ‘Consolidation Agreement’) that disputes would be submitted to ICSID
+
+See also a similar point of view in the Anglo-Iranian Oil Company case, where the Court, dealing with an issue of
+MEN, stated: “In order that the United Kingdom may enjoy the benefit of any treaty concluded by Iran with a third
+party by virtue of a most-favoured-nation clause contained in a treaty concluded by the United Kingdom with Iran,
+the United Kingdom must be in a position to invoke the latter treaty. The treaty containing the most favoured-nation
+clause is the basic treaty upon which the U.K. must rely. It is this treaty which establishes the juridical link between
+the United Kingdom and a third-party treaty and confers upon that State the rights enjoyed by the third party. A third
+party treaty, independent of and isolated from the basic treaty, cannot produce any legal effect as between the United
+Kingdom and Iran: it is res inter alios acta”, Anglo-Iranian Oil Co. case (jurisdiction), Judgment of July 22nd,
+1952: L.C.J. Reports 1952, p. 109.
+
+5 Claimant’s Counter-Memorial, paras. 31-32.
+
+°° C.S.0.B. v. Slovakia, ICSID Case No. ARB/97/4, Decision of the Tribunal on Objections to Jurisdiction of 24
+May 1999, para. 59.
+
+29
+
+70.
+
+regardless of the ratification or entry into force of the BIT.” To put it simply, there was a
+mutual agreement between the foreign investor and the host state to have recourse to
+ICSID arbitration. Such mutual agreement is exactly what is lacking in the present case.
+There is no mutual agreement between the Claimant and Turkmenistan to have recourse
+
+to ICSID arbitration as required by Article 8(2) of the U.K.-Turkmenistan BIT.
+
+The C.S.O.B. v. Slovakia decision cannot be used to justify the ‘importation’ of consent
+to ICSID arbitration in a BIT that only provides for such consent under very specific
+conditions. Had there not been a mutual agreement to have recourse to ICSID arbitration
+(i.e., the absence of an investment contract explicitly incorporating the BIT between the
+Czech Republic and the Slovak Republic), the C.S.O.B. v. Slovakia tribunal would have
+found that it had no jurisdiction.* This is the approach that should have been retained by
+the majority in the present case. An MFN clause in a BIT — even written in the same
+terms as Article 3(3) of the U.K.-Turkmenistan BIT — does not constitute consent to
+ICSID arbitration and does not imply incorporation of consent to ICSID arbitration by
+reference. An investment agreement or contract such as the ‘Consolidation Agreement’ in
+C.S.0.B. v. Slovakia is a proper means of establishing consent to ICSID arbitration. An
+MEN clause is not; it has neither the object and purpose nor the function of establishing
+jurisdiction. To use by analogy the language of the C.S.O.B. v. Slovakia tribunal, an MFN
+
+169
+
+clause is not a “form of acceptance through which “ICSID jurisdiction can be
+
+satisfied”.”°
+
+© Td. at paras. 52-54.
+°8 Td. at para. 55.
+
+oT
+
+10 1.
+
+id. at para. 44.
+
+30
+
+Conclusions
+
+71. In light of the aforementioned points, I conclude as follows:
+
+i) Article 8(2) of the U.K.-Turkmenistan BIT does not provide for ICSID arbitration
+in the absence of a mutual agreement between the foreign investor and the host
+
+state;
+
+ii) There is no mutual agreement in writing between this Claimant and Turkmenistan
+to resort to ICSID arbitration. As such, the requirement of consent in writing
+
+under Article 25(1) of the ICSID Convention is not met;
+
+iii) The MEN clause under Article 3(3) does not apply with respect to ICSID
+arbitration when the conditions to have recourse to ICSID arbitration under
+Article 8(2) of the U.K.-Turkmenistan BIT are not fulfilled. As a matter of fact,
+Article 8(2) explicitly states that the requirements of the ICSID Convention have
+to be fulfilled;
+
+iv) Without mutual agreement between the Claimant and the Respondent, only
+UNCITRAL ad hoc arbitration is available to the Claimant under Article 8(2) of
+the U.K.-Turkmenistan BIT, and not ICSID arbitration;
+
+v) The MEN clause contained in Article 3(3) of the U.K.-Turkmenistan BIT cannot
+be interpreted as allowing the ‘import’ of consent to ICSID arbitration to a treaty
+
+regime that does not contain such consent;
+
+vi) No tribunal has concluded that an MEN clause could be used to ‘import’ consent
+
+to ICSID arbitration or to international arbitration;71
+
+7 Not even the RosInvest v. Russia tribunal. See, Rosinvest v. Russia, Arbitration under Stockholm Chamber of
+Commerce, Award on Jurisdiction of October 2007.
+
+31
+
+vii)  Arbitral tribunals have exercised great caution when alluding to the possibility of
+importing consent through an MFN clause.?2 The commentaries dealing with
+
+U.K. Model BITs has never envisaged the plausibility of this scenario.73
+
+In the light of the above, I do not reach the question of how the MFN clause should be
+
+applied because in my view, it is not even applicable in the present case.
+
+[signed]
+
+Laurence Boisson de Chazournes
+
+® See Maffezini v. Spain, Decision of the Tribunal on Objections to Jurisdiction of 25 January 2000, paras. 62-63;
+Plama v. Bulgaria, Decision on Jurisdiction of 8 February 2005, para. 207; RosInvest. v. Russia, Arbitration under
+Stockholm Chamber of Commerce, Award on Jurisdiction of October 2007, paras. 129-130. See also, with more
+general terms, National Grid v. Argentina, UNCITRAL Case, Decision on Jurisdiction of 20 June 2006, para. 92.
+
+™ See Ch. Brown, and A. Sheppard, in Ch. Brown (ed.), Commentaries on Selected Model Investment Treaties,
+Oxford University Press, Oxford, 2013, pp. 727-730; see also, J. Harrison, “The Protection of Foreign Investment”
+(United Kingdom National Report), XVIII International Congress of Comparative Law Washington, 2010, Section
+IV. A, p. 8.
+
+32
+

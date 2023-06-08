@@ -1,0 +1,2851 @@
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 2 of 68
+
+International Centre for Settlement of Investment Disputes
+Washington, D.C.
+
+In the proceedings between
+
+Suez, Sociedad General de Aguas de Barcelona S.A., and Vivendi Universal S.A.
+(Claimants)
+
+and
+
+The Argentine Republic
+(Respondent)
+
+ICSID Case No. ARB/03/19
+
+and
+
+ 
+
+In the arbitration under the Rules of the
+United Nations Commission on International Trade Law between
+
+AWG Group Limited
+(Claimant)
+and
+The Argentine Republic
+(Respondent)
+
+AWARD
+
+Members of the Tribunal
+Professor Jeswald W. Salacuse, President
+Professor Gabrielle Kaufmann-Kohler, Arbitrator
+Professor Pedro Nikken, Arbitrator
+
+Secretary of the Tribunal
+Mr. Gonzalo Flores
+
+Date of dispatch to the parties: April 9, 2015
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 3 of 68
+
+Representing the Claimants:
+
+Mr. Nigel Blackaby
+
+Mr. Lluis Paradell
+
+Ms. Noiana Marigo
+
+Ms. Lauren Friedman
+
+Freshfields Bruckhaus Deringer LLP
+700 13th St NW,
+
+Washington, D.C. 20005
+
+United States of America
+
+Representing the Argentine Republic:
+
+Dra. Angelina Maria Esther Abbona
+Procuradora del Tesoro de la Nacién
+Procuracién del Tesoro de la Nacién
+Argentina
+
+Posadas 1641
+
+CP 1112 Buenos Aires
+
+Argentina
+
+I.
+
+A.
+B.
+
+IL.
+Il.
+
+A.
+B.
+
+c.
+
+IV. Calculation of the Claimants’ Losses .
+
+w >
+
+VI.
+
+a
+
+E.
+
+am mon w >
+
+yoaw>
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 4 of 68
+
+Table of Contents
+
+Background of the Cases
+
+ 
+
+s
+
+ry of the Facts
+
+ 
+
+Brief Procedural History
+
+ 
+
+The Legal Standard of Compensation
+
+The Application of the Principle of Full Compensation to These Cases............0...
+
+In General
+
+Preliminary Issues
+
+ 
+
+1. The Valuation Period
+
+ 
+
+2. The Problem of Double Recovery
+
+Constructing the “But-for” (“Without Measures”) Scenario
+
+In General
+
+Losses on Guaranteed (“Sponsored”) Debt
+
+Losses on M. Fees
+
+Losses on Earned but Unpaid Management Fees ..............:cceceeeeeeeeeeeeeeee
+
+Losses on Equity
+
+ 
+
+Losses on Unpaid Dividends .0.0.........cccccce cece eeeeeeeeeeeeteeeteceeeeeeeneneeeeneeeee
+
+Conclusions on Total LOSSeS ........c.scccscsceseeseseeestesestesesteseseesestesestessstesesseseaneneas
+
+Cost:
+
+Allocation of Costs in the UNCITRAL Case of AWG v. Argentina........0000
+Allocation of Costs in the Case of Suez et al v. the Argentine Republic (ICSID
+
+No. ARB/03/19)
+
+ 
+
+Award in the UNCITRAL Case of AWG v. Argentina
+Losses on Guaranteed Debt (“Sponsored Debt”).
+
+ 
+
+Losses on Equity
+Cost:
+
+Total Amount of the Award in AWG v. Argentina ......c. ccc
+
+Interest.
+
+VII. Award in the Case of Suez et. al. v. the Argentine Republic (ICSID Case No.
+
+A.
+
+ARB/03/19)
+
+ 
+
+With Respect to Claimant Suez
+
+1. Losses on Guaranteed (“Sponsored Debt’) ..0.......cccccceeeeeeeeeseneneeeeeeeees
+
+2. Losses on Equity
+
+ 
+
+iii
+
+ 
+
+ 
+
+ 
+
+ 
+
+59
+59
+59
+59
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 5 of 68
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. Losses on M. Fees 59
+4. Cost 59
+5. Total Amount of the Award .........c.ccccccsseeseseeteseeeseeseseesestensatesesnensaneseanenees 60
+6. Interest. 60
+With Respect to Claimant AGBAR ........ceee eee ceee eee ee ee eeeeeeeneeeeeeeeenetes 60
+1. Losses on Guaranteed (“Sponsored Debt’) ..0.......cccccceeeeeeeeeseneneeeeeeeees 60
+2. Losses on Equity 60
+3. Cost:
+4. Total Amount of the Award
+5. Interest. 61
+With Respect to Claimant Vivendi... cece ee ese eeeeeeeeneneeeeeeeeeeees 61
+1. Losses on Guaranteed (“Sponsored Debt’) ..0.......cccccceeeeeeeeeseneneeeeeeeees 6l
+2. Losses on Equity 61
+3. Cost: 61
+4. Total Amount of the Award .........c.ccccccsseeseseeteseeeseeseseesestensatesesnensaneseanenees 61
+5. Interest. 62
+
+ 
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 6 of 68
+
+I. Background of the Cases
+A. Summary of the Facts
+
+1. On July 30, 2010, the Tribunal issued a Decision on Liability in which it found that the
+Argentine Republic (“Argentina” or “the Respondent”) had breached its obligations under three
+bilateral investment treaties by denying the Claimants’ investments fair and equitable treatment as
+required by the applicable treaties. The investments of Claimants Suez and Vivendi Universal
+S.A. (“Vivendi”), both incorporated in France, are protected by the 1991 Bilateral Investment
+Treaty between France and the Argentine Republic (the “France-Argentina BIT”)',
+investments of Claimant Sociedad General de Aguas de Barcelona S.A. (“AGBAR”), incorporated
+in Spain, are protected by the 1991 Bilateral Investment Treaty between the Argentine Republic
+and the Kingdom of Spain (the “Argentina-Spain BIT”),” and the investments of AWG Group Ltd
+(“AWG”), incorporated in the United Kingdom, are protected by the 1990 Bilateral Investment
+Treaty between the Argentine Republic and the United Kingdom of Great Britain and Northern
+Ireland (the “Argentina-UK BIT”).?
+
+2. In 1993, the Claimants had made investments in a concession for water distribution and
+waste water treatment services in the city of Buenos Aires and some surrounding municipalities.
+For the purpose of operating the Concession, the Claimants formed an Argentine company, Aguas
+Argentinas S.A. (“AASA”), with an initial capitalization of USD 120 million, in which they held
+shares. As required by the applicable regulatory framework and the thirty-year Concession
+Contract between AASA and the Argentine government, AASA entered into a management
+contract with Claimant Suez, specifying its duties as Concession Operator and providing for its
+related compensation. Under the terms of the Concession Contract and the regulatory framework,
+
+the Claimants were to make substantial investments to improve and develop the water distribution
+
+Accord entre le Gouvernement de la République frangaise et le Gouvernement de la République Argentine sur
+et la protection ré des investi ( between the Argentine Republic and the Republic of
+
+France for the Promotion and Reciprocal Protection of Investments), signed on July 3, 1991 and in force since March 3, 1993; 1728
+
+UNTS 298.
+
+2 Acuerdo para la promocién y proteccién recfprocas de inversiones entre el Reino de Espafia y la Reptiblica Argentina
+
+(Agreement on the Promotion and Reciprocal Protection of Investments between the Kingdom of Spain and the Argentine
+
+Republic), signed in Buenos Aires on October 3, 1991 and in force since September 28, 1992; 1699 UNTS 202.
+
+Acuerdo entre el Gobierno del Reino Unido de Gran Bretaiia e Irlanda del Norte y el Gobierno de la Reptiblica Argentina para
+la Promocién y la Proteccién de Inversiones (Agreement between the Government of the United Kingdom of Great Britain and
+Northern Ireland and the Government of the Republic of Argentina for the Promotion and Protection of Investments), signed in
+London, December 11, 1990, and in force as of February 19, 1993.
+
+1
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 7 of 68
+
+and waste water treatment systems entrusted to AASA in return for which they would be
+compensated by the fees and tariffs paid by consumers to AASA over the thirty-year life of the
+Concession. In addition to their equity contributions to AASA, the Claimants also guaranteed
+certain loans made to AASA by three multilateral lending institutions: the Inter-American
+Development Bank (IDB), the International Finance Corporation (IFC), and the European
+Investment Bank (EIB). The Decision on Liability describes in some detail the events, and
+particularly the bidding process leading up to the granting of the Concession ({] 26-34), the
+regulatory framework governing the Concession ({{] 66-126), and the various actions of AASA,
+the Argentine Government, and the Claimants during the first eight years (1993-2001) of the
+Concession (J 35-40).*
+
+3. Beginning in the year 2000, Argentina began to experience significant economic
+difficulties that would have serious consequences for the country, its people, and its investors, both
+foreign and national. Indeed, the country would within a short time plunge into the worst economic
+and political crisis in its history. As described in the Decision on Liability ({{] 41-57), the
+Argentine Government took a series of emergency measures to cope with the crisis, including the
+passage of an emergency law ending the fixed exchange rate of one US dollar (USD) to one
+Argentine peso (ARS), thereby devaluing the Argentine peso to one third of its previous value,
+refusing to revise upward the allowable tariffs and fees charged by AASA and other similar public
+service companies as provided by their prevailing legal frameworks, and seeking to force a
+renegotiation of concession contracts. These measures and Argentina’s refusal to increase the
+tariffs for water and sewage treatment ultimately led to the failure of AASA since they deprived
+the Concession of the necessary revenue to meet its financial obligations to its lenders, particularly
+the multinational financial institutions, to make required investments in the water distribution and
+waste treatment systems for which it was responsible, and to allow its investors, the Claimants, to
+earn a reasonable return on their investments in AASA. Thus, in January 2003, July 2004, and
+March 2006, when AASA was unable to service its debts to the multilateral financial institutions,
+the Claimants, as guarantors of that debt, paid USD 5.56 million, USD 58.55 million, and USD
+233.69 million respectively on those dates — a total of USD 297,793,000 — to the multilateral
+
+ 
+
+4 The July 30, 2010 Decision on Liability and the April 3, 2006 Decision on Jurisdiction issued by the Tribunal in these cases
+are integral parts of this Award.
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 8 of 68
+
+lenders in order to meet their obligations. As a result, the Claimants became the owners of AASA’s
+
+debt obligations, originally held by the multilateral lenders.
+
+4. Although negotiations between AASA and the Argentine government continued over four
+years, no agreement was reached that would allow AASA an increase in tariffs. At the same time,
+the Argentine regulators insisted that AASA comply with its investment obligations under the
+Concession Contract and imposed heavy fines for failure to do so. In September 2005, the
+Claimants requested the government to terminate the Concession, but that request would be denied.
+Ultimately, on March 21, 2006, alleging various violations of water quality standards, the
+government terminated the Concession, while demanding payment of a performance bond that the
+Claimants had pledged when AASA assumed the Concession. The water and sewage systems
+were immediately transferred to a new entity, Agua y Saneamientos Argentinos S.A, an entity
+owned, financed, and managed by the Argentine State, thus ending Argentina’s thirteen year
+experience with the privatization of the water and sewage systems of Buenos Aires. Shortly
+thereafter, an insolvency proceeding (concurso preventivo) was begun in the Argentine courts to
+determine the various rights and obligations arising out of the termination, and AASA also brought
+suit against Argentina pursuant to the dispute resolution provisions of the Concession Contract for
+
+unjustified termination of the Concession.
+
+B. Brief Procedural History
+
+5. In 2003, the Claimants filed a request for arbitration under the applicable treaties with the
+International Centre for Settlement of Investment Disputes (“ICSID”). The procedural history of
+the resulting cases has been long and complex and is described in the Decision on Liability.°
+Claiming a total loss of their investments in AASA, the Claimants alleged that the injury to their
+investments was caused by Argentina’s failure to respect the applicable treaties in three respects:
+1) that Argentina’s actions amounted to an illegal expropriation of their investments; 2) that
+Argentina denied their investments full protection and security; and 3) that Argentina failed to
+afford those investments fair and equitable treatment. The four Claimants alleged that their total
+
+loss as of June 2008 was USD 1,019.2 million.® The precise amount of the loss claimed by each
+
+5 For a summary of the various procedural steps taken during the several years that these cases have progressed, see the ICSID
+
+website at https://icsid. worldbank.org/apps/ICSIDWEB/Pages/default.aspx.
+© — Claimants’ Post Hearing Brief, June 18, 2008, 1511.
+
+   
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 9 of 68
+
+Claimant varied, depending upon the amount of its equity in AASA, the amount of the debt
+holdings and debt guarantees which it had purchased from the multilateral lenders, and the amount
+of its liability under the performance bond. In addition, Suez, as the designated operator of the
+Concession claimed USD 255.5 million for the loss of management fees pursuant to its
+
+Management Contract with AASA.
+
+6. After lengthy hearings and voluminous pleadings, the Tribunal determined in its Decision
+on Liability that Argentina did not expropriate the Claimants’ investment and did not deny them
+full protection and security as required by the applicable investment treaties. It did, however,
+conclude that Argentina had denied the Claimants fair and equitable treatment’ in that its
+“.,.actions in refusing to revise the tariff according to the legal framework of the Concession and
+in pursuing the forced renegotiation of the Concession Contract contrary to that legal framework
+violated its obligations under the applicable BITs...”® Although the Claimants had argued that
+Argentina’s unilateral termination of the Concession also violated their rights under the investment
+treaties, the Tribunal rejected that claim, stating that it had no jurisdiction to judge whether
+Argentina’s actions had breached the Concession Contract since “...[w]hether Argentina breached
+the Concession Contract by termination it is a matter for the dispute resolution procedures provided
+
+in that contract.”?
+
+7. Having determined the liability of Argentina in these cases, the Tribunal decided that,
+because of the complexity involved in ascertaining damages, a matter extensively argued with
+widely differing conclusions by each party with the assistance of financial specialists who prepared
+extensive reports and testified at the hearing on the merits, it was appropriate after issuing its
+Decision on Liability to create a separate procedural phase devoted to damages and to seek the
+services of an independent financial expert to assist the Tribunal in the task of valuing the loss, if
+any, sustained by the Claimants as a result of Argentina’s actions. Before undertaking this phase,
+the Tribunal asked each party for its observations on the wisdom of the Tribunal appointing a
+
+financial expert, the process by which such person might be selected, and the procedure to be
+
+7 Decision on Liability, | 246.
+8 Ibid.
+° Decision on Liability, | 246.
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 10 of 68
+
+followed by that person to carry out the tasks assigned by the Tribunal. The Claimants and the
+
+Respondent provided their views on these issues in their post-hearing submissions.
+
+8. Having decided in its Decision on Liability to seek the assistance of an independent
+financial expert, the Tribunal, by letter of September 10, 2010, asked counsel for the parties to
+confer in order to propose jointly to the Tribunal: 1) the name and qualifications of a person to
+serve as the Tribunal’s independent expert; and 2) the terms of reference to guide such a person.
+In the event that the parties proved unable to make such a joint proposal by a specific date, the
+Tribunal further informed the parties that the Tribunal on its own initiative would proceed to
+propose such an individual and prepare proposed terms of reference, giving the parties thereafter
+an opportunity to present their observations on the Tribunal’s proposals. Counsel for the parties
+did in fact hold such consultations and requested an extension of time to arrive at a joint proposal.
+By the beginning of 2011, however, the parties were not able to agree on a joint proposal of an
+individual to serve as the Tribunal’s independent financial expert or on the terms of reference that
+
+would guide such person.
+
+9. The Tribunal therefore asked the parties for their individual observations on the terms of
+reference and in a letter of February 12, 2011, requested each party to submit only to the Secretary
+of the Tribunal a list of not more than five names of persons to serve as the Tribunal’s independent
+financial expert. Thereafter, the following procedures would be followed: if only one of the names
+on both lists coincided, the Secretary was to communicate that name and related curriculum vitae
+to the Tribunal, which would then proceed to appoint that individual unless there were compelling
+reasons not to do so. If two or more names on the lists coincided, the Secretary was to
+communicate both names to the Tribunal, which would appoint one of those persons, unless
+compelling reasons required otherwise. If none of the names on the parties’ lists coincided, the
+Secretary was to communicate all names to the Tribunal with an indication of the party that
+proposed each one. The Tribunal would not appoint any of these candidates and would instead
+proceed to designate a financial expert from persons not appearing on either list. None of the
+names proposed by the parties did coincide, so the Tribunal conducted its own search for an
+independent financial expert and proceeded to draft terms of reference, taking into account the
+
+observations of the parties.
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 11 of 68
+
+10. After further consultations with the parties, the Tribunal, on June 15, 2011, issued a
+Procedural Order Concerning the Terms of Reference of the Tribunal-Appointed Financial Expert.
+
+The basic direction of the Terms of Reference was as follows:
+
+“The Expert shall examine, analyze, and provide the Tribunal with a written report
+(the Report) with respect to the financial injury sustained by the Claimants as a
+result of the breach of the relevant bilateral investment treaties by the Respondent,
+
+as determined by the Tribunal in its Decision on Liability of 30 July 2010.”
+
+11. In furtherance of this basic mission, the Procedural Order specified the various documents
+that the Financial Expert was to examine, the specific issues to be addressed in the Financial
+Expert’s Report to the Tribunal, and the powers of the Expert to consult with the parties and party-
+appointed experts and to seek clarifications from the Tribunal. Within one hundred and twenty
+(120) days of receiving all the specified documents, the Expert was to prepare a Preliminary
+Report, which after review by the Tribunal was to be sent to the parties who were to submit their
+written comments within sixty (60) days of receipt. After considering the parties’ comments, the
+Expert was to prepare a Final Report. Within forty-five (45) days of receiving the Final Report,
+the parties were to submit their comments. Thereafter, a hearing of not more than three (3) days
+
+would be held at which the parties would have an opportunity to examine the Expert.
+
+12. In the meanwhile, the Tribunal conducted an international search for an individual expert
+who possessed the competence and the independence to serve as the Tribunal’s Financial Expert
+in these cases. The required expertise necessitated a person who was not only deeply
+knowledgeable in the theory and practice of finance but was also learned in the economics and
+financial dimensions of infrastructure projects. For that person to be independent, in the opinion
+of the Tribunal, he or she should not have financial relationships with any of the parties and should
+not have been engaged in any litigation on behalf of or against any of the parties or for any law
+firm that had represented any of the parties in these cases or any law firm that had engaged in
+litigation against any of the parties. Ultimately, without objection from any of the parties, the
+Tribunal by a Procedural Order of August 3, 2011, appointed as its independent Financial Expert,
+Dr. Akash Deep, Senior Lecturer in Public Policy at the John F. Kennedy School of Government
+
+of Harvard University, a former Senior Economist of the Bank for International Settlements in
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 12 of 68
+
+Basel, Switzerland, and an expert on infrastructure finance, valuation, regulation, and
+
+privatization.
+
+13. Within a few days of appointment of the Financial Expert, the Tribunal Secretary, at the
+direction of the Tribunal, sent Dr. Deep numerous documents relating to these cases, including the
+parties’ several memorials and submissions, with the accompanying reports of their financial
+experts, and the transcripts of the hearing on the merits. After examining this voluminous material,
+Dr. Deep determined that he needed extensive additional information in order to carry out his
+assigned tasks as the Tribunal’s Independent Financial Expert, and he therefore communicated to
+the Tribunal the precise documents that would be required. By Procedural Order of December 28,
+2011, requesting additional pleadings and documentation from the parties with respect to damages,
+the Tribunal asked the parties to provide the various valuation model spread sheets and other
+documents requested by Dr. Deep. Moreover, since the original pleadings of the parties with
+respect to damages were based on the Claimants’ allegations that Argentina had violated the
+applicable investment treaties in three respects, illegal expropriation, failure to provide full
+protection and security, and the denial of fair and equitable treatment, and since the Tribunal, in
+its Decision of Liability found only the last mentioned violation, the Procedural Order of December
+28, 2011, also asked the parties “ ...to submit simultaneous memorials to the Secretary of the
+Tribunal in which they may make any adjustments they deem necessary to their prior pleadings in
+these cases with respect to damages so as to take account of the Tribunal’s Decision on Liability...”
+By letter of February 8, 2012 to the parties, the Tribunal provided certain clarifications with respect
+
+to its Procedural Order of December 28, 2011.
+
+14. In response to that Procedural Order and the clarifying letter, the Claimants and the
+Respondent each filed Memorials on Damages, accompanied by supporting reports from their
+respective financial experts, on March 15, 2012. On May 18, 2012, each party submitted
+comments on the Memorial on Damages previously submitted by the other party. In essence, the
+Claimants asserted that as of March 2007 they had sustained a loss as a result of Argentina’s failure
+to provide their investments with fair and equitable treatment of USD 889.1 million, which when
+actualized to February 2012 amounted to total loss of USD 1,060.9 million. Argentina, on the
+other hand, asserted for various reasons that the amount of the loss sustained by the Claimants as
+
+aresult of Argentina’s measures was “zero.”
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 13 of 68
+
+15. In the following months, Dr. Deep requested various additional documents from the parties,
+and Argentina submitted various additional documents and submissions which the Claimants
+
+challenged, requiring the Tribunal to issue Procedural Orders on the admissibility of documents.
+
+16. On December 24, 2012, pursuant to his Terms of Reference, Dr. Deep submitted a
+Preliminary Report of the Financial Expert to the Tribunal. Based on comments from the
+Tribunal, Dr. Deep prepared a revised version of the Preliminary Report on January 31, 2013,
+which after further examination by the Tribunal, was forwarded to the parties for their comments
+and observations. On April 8, 2013, the parties submitted their comments to Dr. Deep’s
+Preliminary Report. After reviewing these comments, Dr. Deep prepared and submitted to the
+Tribunal on July 22, 2013 his Final Report of the Financial Expert to the Tribunal, a 171-page
+document, plus detailed supporting annexes, which was then forwarded to the parties. On August
+27 and 28, 2013, the parties submitted to the Tribunal their comments on Dr. Deep’s Final Report,
+
+along with supporting reports from their individual financial experts.
+
+17. As agreed by the parties, the Tribunal held a hearing on damages (quantum), from
+September 19 through 21, 2013, at the seat of the Centre in Washington, D.C. At the hearing,
+Dr. Deep presented his findings with respect to the amount of compensation that the individual
+Claimants should receive as a result of the injury caused by Argentina’s actions, and was examined
+by counsel of each of the parties. Thereafter, the parties’ financial experts testified as to their
+views on the amount of the losses sustained by the Claimants, and they were in turn examined by
+opposing counsel. At the conclusion of the hearing, the parties agreed that the submission of post-
+hearing pleadings would not be necessary.'° The Tribunal agreed but asked that each party submit
+a statement of the costs incurred in the arbitration. The parties made their submissions on costs
+on October 21, and 22, 2013, respectively. Those submissions would also be the subject of
+
+challenges by the parties.
+
+18. In the process of its deliberations following the hearing, the Tribunal addressed the
+following question to Dr. Deep: “Was AASA going to fail anyway because of its high leverage or
+
+for other reasons not connected to the Argentine Government’s actions during the crisis?” By
+
+10 The parties also agreed on Dr. Deep’s continued assistance to the Tribunal through the conclusion of the cases. Transcript of
+
+the Hearing on Damages, Saturday, September 21, 2013, p. 625, lines 13-20.
+8
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 14 of 68
+
+memorandum of September 21, 2014, Dr. Deep responded to this question. The Tribunal
+
+submitted this memorandum to the parties for their observations and they responded in due course.
+19. On February 20, 2015, the Tribunal declared the proceedings closed.
+
+20. On the basis of the voluminous submissions in this case, the Final Report of the Tribunal’s
+Financial Expert, and the testimony and exhibits presented at three days of hearings, September
+19-21, 2013, it is now the task of the Tribunal to determine the amount of compensation, if any,
+that the Respondent owes to the Claimants as a result of its actions which this Tribunal determined
+in its Decision on Liability of July 30, 2010 violated Argentina’s treaty obligations to accord the
+
+Claimants’ investments fair and equitable treatment.
+
+21. The four Claimants in these two cases, Suez, Vivendi, AGBAR, and AWG, allege that the
+total amount of their injury resulting from Argentina’s treaty breaches is USD 868 million,
+actualized to December 31, 2012. This total amount of the loss, which is some 20% less than what
+the Claimants previously sought, is due to the fact that the Claimants, while contesting certain
+elements of Dr. Deep’s methodology, decided not to propose changes to that methodology but
+instead accepted it, while amending it to conform to their view of its proper application to their
+situations. They assert that their losses consist of five elements, the first three being the most
+significant: 1) losses incurred as a result of their payments to the multilateral financial institutions
+as guarantors of AASA’s loan obligations; 2) their financial injury sustained as a result of the loss
+of their equity interests in AASA; and 3) in the case of Suez, the financial injury incurred due to
+lost management fees as the designated Concession operator under the Management Contract;
+4) earned but unpaid management fees owing to Suez as of the beginning of 2002; and 5) unpaid
+past due dividends. The amounts claimed by each of the four Claimants for each type of injury,
+
+actualized to December 31, 2012, were as follows:
+
+Suez: a) loss on guaranteed debt, USD 186 million; b) loss on equity, USD132.6
+million; c) loss on management fees, USD 243.7 million; d) loss on earned but
+unpaid management fees as of 2002, USD 9 million; and e) losses on unpaid
+
+dividends, USD 1.6 million.
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 15 of 68
+
+Vivendi: a) loss on guaranteed debt, USD 35.2 million; b) loss on equity, USD 25.1
+
+million; and c) loss on past due dividends, USD 0.3 million.
+
+AGBAR: a) loss on guaranteed debt, USD 116.5; b) loss on equity USD 83.1
+
+million; and loss on past due dividends, USD 1 million.
+
+AWG: a) loss on guaranteed debts, USD 19.8 million; b) loss on equity, USD 14.1 million;
+
+and c) loss on past due dividends of USD 0.2 million.!!
+
+In addition, the Claimants seek reimbursement of all costs they have incurred in this
+arbitration, an amount alleged to be USD 21,948,516.56. Argentina totally rejects all of the
+Claimants’ demands and asks the Tribunal to direct the Claimants to reimburse it for all costs
+
+which it incurred in these proceedings, an amount claimed to be USD 2,651,444.90.
+
+II. The Legal Standard of Compensation
+
+22. In determining compensation for breach of a treaty obligation, it is first necessary for the
+Tribunal to decide on the correct legal standard to apply in calculating the resulting loss to the
+Claimants. None of the three BITs governing these cases specifies that standard or, indeed,
+mentions the consequences of a treaty breach, refers to the issues of compensation or damages, or
+even makes a specific grant of authority to tribunals to award damages in investor-state
+arbitrations. On the other hand, the ICSID Convention, which by virtue of the France-Argentina
+BIT, Article 8, and the Argentina-Spain BIT, Article X.4, applies to the proceedings of this
+Tribunal in ICSID Case No. ARB/03/19, provides in Article 48(3) that “...[t]he award shall deal
+with every question submitted to the Tribunal...” Furthermore, Article 54 of the ICSID
+Convention imposes on Contracting States the obligation “... to recognize and enforce an award
+rendered pursuant to this Convention as binding and to enforce the pecuniary obligations imposed
+by that award ...” (emphasis supplied), thus recognizing implicitly the power of an ICSID Tribunal
+to award compensation in appropriate cases. However, the 1976 Arbitration Rules of the United
+Nations Commission on International Trade Law (UNCITRAL), which, by virtue of Article 8 of
+
+the Argentina-U.K BIT, are applicable to the claims of AWG against Argentina, a case also within
+
+4 “Valuation of Losses to Shareholder Investors of Aguas Argentinas S.A.: Comments on Dr. Akash Deep’s Final Report,” by
+Manuel A. Abdala and Pablo T. Spiller, Compass Lexecon, August 28, 2013, Appendix B, p. 46.
+
+10
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 16 of 68
+
+the competence of this Tribunal, contains no similar specific reference to the award of damages or
+
+the imposition of pecuniary obligations on a respondent.
+
+23. All three BITs, however, direct the Tribunal to decide disputes not only in accordance with
+the applicable treaty provisions but also in accordance with “...the relevant principles of
+international law...” (Article 8(4), France-Argentina BIT), “... the general principles of
+
+international law (Article X.5, Argentina-Spain BIT), or “...the applicable principles of
+international law...” (Article 8(4), Argentina-UK BIT). As both the Claimants and the Respondent
+in this case have agreed in their pleadings, the legal basis for awarding compensation in this case
+and the standard to be applied in determining the amount of that compensation is therefore to be
+found in international law; however, they do not agree on the specific content of the applicable
+international law principles and the way in which they should be applied to the precise facts of
+these cases. This Tribunal, like others,!? must therefore look to customary international law for
+
+the legal principles that govern the determination of damages in these cases.
+
+24. In its Decision on Liability, the Tribunal determined that the Respondent failed to comply
+with its treaty obligation to accord fair and equitable treatment to the investments of the Claimants.
+Pursuant to Article 26 (Pacta Sunt Servanda) of the Vienna Convention on the Law of Treaties, a
+provision that embodies a fundamental principle of customary international law, “[e]very treaty in
+force is binding upon the parties to it and must be performed by them in good faith.” The three
+BITs to which Argentina was and is a party create obligations under international law. Article 2
+of the Articles on Responsibility of States for Internationally Wrongful Acts,'* which is generally
+considered as a statement of customary international law and on which both parties in this case
+
+have relied at various times, states:
+
+“There is an international wrongful act of a State when conduct consisting of an act
+or omission:
+
+(a) is attributable to the State under international law; and
+
+2 Eg., National Grid ple v. Argentine Republic, UNCITRAL, Award, November 3, 2008, 269; LG&E Energy Corp., LG&E
+
+Capital Corp. and LG&E International Inc. v. Argentine Republic (ICSID Case No. ARB/02/1), Award, July 25, 2008, 9129-32;
+
+SD Myers v. Government of Canada, UNCITRAL, Partial Award, November 13, 2000, {{{ 310 and 315.
+
+5 United Nations Articles on Responsibility of States for Internationally Wrongful Acts, with commentaries, 2001 (hereinafter
+
+Articles) (2001), adopted by the International Law Commission at its fifty-third session in 2001 and submitted to the General
+
+Assembly as part_—of~—s the. ~—- Commission’s Report covering —that_— session. ~— Available at
+un, i 6 2001.pdf.
+
+11
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 17 of 68
+
+(b) constitutes a breach of an international obligation of the State.”
+
+25. The acts and omissions of Argentina in denying the Claimants fair and equitable treatment
+as required by the three BITs were therefore international wrongful acts since the acts and
+omissions in question, as actions done by state organs, were clearly attributable to the Argentine
+State!* and since, as the Tribunal’s Decision on Liability found, they constituted a breach of
+Argentina’s international obligations. As Article 1 of the Articles provides: “Every wrongful act
+of a State entails the international responsibility of that state.” The comment to Article 1 makes
+
+clear that the term “international responsibility” “...covers the new legal relations which arise
+under international law by the internationally wrongful act of a State.” Argentina, by reason of its
+international wrong in not respecting its obligations under the three BITs, is therefore subject to a
+new relationship toward the Claimants. Inherent in that relationship is the obligation to
+
+compensate the parties injured as a result of its failure to fulfill its international obligations.
+
+26. As the responsible State, Argentina is, according to the Articles, Art. 31(1), “...under an
+obligation to make full reparation for the injury caused by [its] internationally wrongful act.”
+
+“Injury,” in this sense, “...includes any damage, whether material or moral, caused by the
+
+~I5 Thus, there must be a causal link between the
+
+internationally wrongful act of a State.
+internationally wrongful act and the injury for which reparation is claimed. If such a link exists,
+
+then Argentina is required to make “full reparation” for the injury it has caused.
+
+27. As the Articles state, reparation for an injury caused by an internationally wrongful act “...
+shall take the form of restitution, compensation, and satisfaction, either singly or in
+combination...”!® In the cases before this Tribunal, the Claimants are seeking compensation for
+the injuries they claim to have sustained as a result of Argentina’s breach of the three applicable
+BITs. With respect to the meaning of “full reparation” required by Article 31 quoted above, Article
+36 of the Articles makes clear that “...the State responsible for an internationally wrongful act is
+under an obligation to compensate for the damage caused thereby, in so far as such damage is not
+
+made good by restitution...” and that “...[t]he compensation shall cover any financially assessable
+
+ 
+
+14 Article 4(1) of the Articles provides: “The conduct of any state organ shall be considered an act of that State under international
+law, whether the organ exercises legislative, executive, judicial, or any other functions, whatever position it holds in the
+organization of the state, and whatever its character as an organ of the central Government or of a territorial unit of the State.”
+
+15” Article 31(2), Articles.
+
+16 Article 34, Articles.
+
+ 
+
+12
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 18 of 68
+
+damage including lost profits insofar as it is established.” Thus the basic standard to be applied is
+that of full compensation (restitutio in integrum) for the loss incurred as a result of the
+internationally wrongful act. This statement represents the accepted standard in customary
+international law and is often supported by reference to the Chorzéw Factory Case in which the
+Permanent Court of International Justice stated, “[I]t is a principle of international law, and even
+a general conception of law, that any breach of an engagement involves an obligation to make
+reparation.”'’ And also: “[t]he essential principle contained in the actual notion of an illegal act —
+a principle which seems to be established by international practice and in particular by the
+decisions of arbitral tribunals — is that reparation must, so far as possible, wipe out all the
+consequences of the illegal act and reestablish the situation which would, in all probability, have
+existed if that act had not been committed.”!® Customary international law therefore requires this
+Tribunal to award “full compensation” to the Claimants for the injuries caused by Argentina’s
+treaty violations, to seek “to wipe out all the consequences” of Argentina’s illegal acts, and to place
+the Claimants “in the situation which would, in all probability, have existed” if Argentina had not
+committed its illegal acts. Moreover, it should be noted that in order to ensure full compensation
+to injured parties, customary international law authorizes the payment of interest on the principal
+sum due from the time the amount should have been paid until the date when the payment
+
+obligation is actually fulfilled.!”
+
+Ill. The Application of the Principle of Full Compensation to These Cases
+A. In General
+
+28. The application of the aforementioned customary international law principles on damages
+is in theory rather simple. It requires the Tribunal to engage in a three-step process. First, it must
+determine the value of the investment in the hypothetical situation where Argentina did not take
+measures that violated its treaty obligations, a situation referred to by Dr. Deep in his Final Report
+
+as “without measures.” Second, it must then determine the value of the investment as a result of
+
+"The Factory at Chorzéw (Germany v. Poland), Judgment, 1928 P.C.LJ. (ser. A) No. 17, 4.29 (September 13).
+
+8 [bid., 4.47.
+
+19 Article 38, Articles, provides:
+1. Interest on any principal sum due under this chapter shall be payable when necessary in order to ensure full reparation.
+The interest rate and mode of calculation shall be set so as to achieve that result.
+2. Interest runs from the date when the principal sum should have been paid until the date the obligation to pay is fulfilled.
+
+ 
+
+13
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 19 of 68
+
+the offending measures that Argentina did take, a situation which Dr. Deep calls “with measures.”
+Third, the Tribunal must subtract the second value from the first and then actualize that amount by
+means of an appropriate interest rate to arrive at the damages owing to the Claimants so as to put
+them in the financial position they would have been had Argentina not breached the applicable
+BITs. Dr. Deep embodies this simple idea in the following equally simple formula, in which V is
+
+equal to the market value of the investment in the two situations:
+Damages = [V without measures] - [V with measures].””
+
+The parties’ experts also used this general methodology but employed different
+
+terminology to identify the two situations in the formula.
+
+29. In practice, however, the application of this approach and the customary international law
+that underlies it is far more complicated, particularly in the facts and circumstances of these cases.
+In particular, it is complicated by the nature of the investments that the Claimants lost as a result
+of Argentina’s actions. Their investments were not fixed, physical assets, such as a factory or a
+pipeline, whose valuation usually may be made relatively easily. Instead, what the Claimants lost
+in these cases at the time of the measures taken in violation of the applicable treaties was the stream
+of revenue, often referred to as a “cash flow,” expected to be received over the remaining term of
+the Concession Contract. That stream of revenue was intended by the parties to the Concession to
+compensate the Claimants for the substantial investments that they had made in the Buenos Aires’
+water and sewage systems, particularly in the early years of the Concession, and to give them a
+reasonable profit for developing and operating those systems over a thirty-year period. Since the
+source of that revenue stream was the fees paid by consumers, its precise volume and value
+depended on many variables, both foreseen and unforeseen, over the next three decades, including
+population growth in the area, general economic conditions, technological changes, labor
+conditions, management efficiency, inflation, operating costs, and many others. In addition, in
+view of the fact that AASA was providing a public service and was therefore subject to
+governmental regulation, the actions and decisions of governmental regulators were further crucial
+
+factors influencing the value of the Claimants’ investments.
+
+20 Final Report, 62.
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 20 of 68
+
+30. All of these variables certainly render difficult a precise answer to the question of what
+would the Claimants’ investments be worth by the year 2023 if Argentina had not violated the
+BITs. It is however precisely that question that this Tribunal must answer if it is to correctly apply
+the international law on damages to these cases. In order to arrive at the values of the investments
+in the with and without measures scenarios, it would be necessary to calculate the cash flows for
+each and then discount those totals to present value using an appropriate discount rate which takes
+account of the weighted costs of capital and other factors applicable to the two situations. To assist
+the Tribunal in this process, Dr. Deep constructed an economic model of AASA’s operations
+which sought to capture numerous relevant economic variables and to determine with a certain
+degree of mathematical precision their impact on each other and on the costs, revenues, and
+profitability of the Concession. The model not only required the input of numerous data sources
+but it also necessitated that Dr. Deep make certain macroeconomic assumptions about such matters
+as prevailing interest, exchange, and inflation rates, which he describes in the appendices to his
+Final Report, that would have an important impact on AASA’s operations. Nonetheless, in this
+regard, it is worth remembering that international law does not demand absolute certainty in
+valuing the damages sustained by the Claimants but only, in the words of the Permanent Court of
+International Justice in the Chorzéw Factory Case, to place the Claimants “in the situation which
+would, in all probability, have existed” if Argentina had not committed its illegal acts (emphasis
+supplied). In order to accomplish that, the Tribunal and its Independent Financial Expert had
+necessarily to engage in the hypothetical exercise of building a scenario to determine the financial
+fate of the Claimants in the situation where Argentina had accorded the Claimants’ investments
+
+fair and equitable treatment.
+
+31. This probable scenario is necessarily hypothetical in nature because it reflects events that
+did not occur, but that in all probability would have been the reasonable outcome of the fulfillment
+by Argentina of its international obligations under the three BITs protecting the Claimants’
+investments. In the circumstances of the case, the hypothetical situation developed by the Tribunal
+would imply progressive, coordinated action by Argentina, AASA, and the Claimants as they
+sought to cope with the effects of the financial crisis on the Concession. Fair and equitable
+treatment of the Claimants’ investment by Argentina would have fostered, in a first stage,
+cooperation between the parties, in accordance with the Concession Contract and the general
+principle of good faith, thereby creating a new situation that would ensure the continuation of the
+
+15
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 21 of 68
+
+service, in line with the general spirit and intent of the Concession. Such cooperation would in
+turn have set in motion a dynamic that would have led to a set of agreements between the parties,
+the individual components and details of which they could have defined in various ways.
+However, what is essential is that, if Argentina had fulfilled its obligations and would have
+provided an immediate relief to AASA through instruments provided by the regulatory framework,
+in “all probability” the reasonable outcome of such cooperation between the parties, adapting the
+Concession to the new economic and legal situation of early 2002, would have been a set of
+
+agreements ensuring the viability of the Concession.
+
+32. Such agreements between the parties could have embodied various individual formulations
+of the model for the continuation of the service. However, for the purpose of determining the but-
+for scenario required to calculate the compensation to which Claimants are entitled, it is not
+necessary to specify the details of various models or formulas or to speculate on which of them
+the parties would most likely have accepted. It is enough to determine a model that meets the
+following requirements: 1) it ensures the viability of the service and of the Concession; (2) it
+accords with the original equation of the Concession and with the agreements and practices of the
+parties until December 2001; (3) it embodies the concept of shared sacrifices to ensure the viability
+of the service and of the Concession; and (4) it is deemed reasonably acceptable to both parties in
+
+a scenario of cooperation and not of confrontation between them.
+
+33. The Tribunal has concluded that if Argentina had fulfilled its obligations according to the
+standard of fair and equitable treatment of the Claimants’ investments, in all probability both
+parties would have succeeded in developing and agreeing to such model. Since this process of
+definition and development became impossible because of Argentina’s breach of its international
+obligations, this task falls on the Tribunal which, in the exercise of prudent judicial discretion,
+must carry it out by applying standards of reasonableness. In consequence thereof, the Tribunal,
+with the support of its Expert, decided that it was appropriate to adopt the previously described
+
+model of the but-for scenario.
+
+34. The Claimants and Dr. Deep have given that scenario various labels, including “without
+measures,” “but-for,” and “counterfactual” scenario. Before undertaking the exercise of scenario
+
+building, the Tribunal must consider two preliminary issues raised by the Respondent during this
+
+16
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 22 of 68
+
+proceeding: 1) the valuation period to be applied in calculating the value of Claimants’ investments
+in AASA; and 2) the issue of double recovery posed by AASA’s litigation in Argentine courts for
+
+unjustified termination of the Concession Contract.
+
+B. Preliminary Issues
+
+1. The Valuation Period
+
+35. An initial issue of contention raised by Argentina with respect to the application of the
+above-described methodology to these cases concerns the appropriate length of the period for
+measuring the projected cash flows to AASA during the Concession. Argentina argues that the
+period for measuring the cash flows should run from the date of actions violating the BITs in 2002
+until the termination of the Concession in 2006, not until 2023, the date of the Concession’s
+expiration according to the Concession Contract. While the Respondent used the former, shorter
+period in its damage calculations, both Dr. Deep and the Claimants used the longer, latter period.
+Such a reduction in the valuation period would of course substantially reduce the value of the
+Claimants’ holdings in AASA. Relying on the Tribunal’s Decision on Liability, which held that
+Argentina’s action in terminating the Contract did not violate any of the applicable BITs, Argentina
+argues that any injury incurred by the Claimants after the termination in 2006 was a matter to be
+resolved in Argentine courts according to the dispute resolution provisions of the Concession
+
+Contract.
+
+36. The Tribunal does not agree with Argentina on this point. Under international law, as noted
+above, the Claimants’ are entitled to full compensation for what they have lost as a consequence
+of Argentina’s treaty violations. Just as one would not value the loss of a house in a fire based on
+the market value of the burned structure after the fire, but rather would value the house just before
+the fire’s occurrence, this Tribunal must begin its valuation of what the Claimants have lost as a
+result of Argentina’s illegal actions at a point in time just before those actions took place. In its
+Decision on Liability, the Tribunal determined that the first breach of the treaties took place on
+
+January 6, 2002.7! Just before that point in time, AASA, and therefore the Claimants, had the right
+
+2! Decision on Liability, (247: “For purposes of the forthcoming determination of the legal consequences of such breaches, the
+Tribunal further concludes that the first abovementioned breach took place on 6 January 2002, date of the enactment of the
+Emergency Law, which was the first of a series of measures frustrating the investors’ legitimately protected expectations, whereas
+the second abovementioned breach took place on 10 April 2002, date of the adoption of MoE Resolution No. 38/02, which was the
+first of a series of measures making the renegotiation process an unfair and inequitable one.”
+
+17
+
+ 
+
+  
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 23 of 68
+
+to a revenue stream which would continue for another 21 years until the year 2023, not just for
+another five years until the year 2006 when, unknown to them in 2002, Argentina would terminate
+the Concession. To limit the valuation period to five instead of twenty-one years would, of course,
+seriously undervalue the investments lost as a consequence of Argentina’s treaty violations. It is
+true that the risk of termination was always present in the Concession; however, that risk, along
+with other risks, would be accounted for in the rate applied to discount to present value the
+remaining twenty-one years of projected cash flows. The termination of the Concession Contract
+by Argentina, even if not illegal under the BITs, cannot exonerate it from its obligation to repair
+the consequences of its wrongful act in denying fair and equitable treatment to the Claimants’
+
+investments.
+
+37. The starting point of the Valuation Period is connected with the date of first breach of fair
+and equitable treatment by Argentina, in January 2002, according to the Decision on Liability
+(247). Arbitrator Pedro Nikken disagreed on this point in his Separate Opinion (44); however,
+he accepts that such starting point is consistent with the Decision on Liability and, to such extent,
+
+he concurs to this Award.
+
+2. The Problem of Double Recovery
+
+38. While international law requires full compensation for injury, it does not allow for more
+than full compensation. In addition to the present cases, which were begun in 2003, the Claimants
+brought an action in 2006 in the Argentine courts against the Argentine State for breach of the
+Concession Contract by virtue of “termination through the fault of the Conceding Authority.”
+Under Article 14.8.3 of the Concession Contract, in the event of termination of the Contract
+through the fault of the Conceding Authority, AASA was to receive its performance guarantee and
+the value of the unamortized assets acquired or constructed by AASA, as well as any damages
+caused by the termination. This judicial claim is apparently the only asset now owned by AASA,
+and it is reflected in its Financial Statement of December 31, 2011, as valued at
+ARS 2,487,600,000. Argentina argues that this claim in the Argentine courts presents the risk of
+double recovery should the Tribunal award compensation to the Claimants for treaty violations.
+However, neither Argentina nor the Claimants have offered any evidence that the Argentine courts
+
+have either awarded or are about to award compensation to AASA for the termination of the
+
+18
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 24 of 68
+
+Concession. Consequently, no actual double recovery has been established so far. In the present
+situation, if this Tribunal should award damages to the Claimant, that fact alone would not result
+
+in a double recovery for the Claimants.
+
+39. The parties and the Tribunal also addressed the issue of the possibility of double recovery
+during both the merits and damages phases of these cases. During the merits phase, the Claimants
+in their Reply Memorial stated: “The Claimants agree to waive all rights over any receivables
+obtained in liquidation or local court proceedings should this Tribunal determine that full
+compensation is payable to the Claimants, such waiver to become effective upon receipt of such
+payment.” At that time, the Tribunal saw no reason to delay its Decision on Liability because of
+the possibility that the Argentine courts might award damages to AASA for the alleged unjustified
+termination of the Concession Contract. During the hearing on damages, the Claimants again
+affirmed that they did not intend to seek compensation in local court proceedings for any loss
+
+already awarded and paid to them in this arbitration.”*
+
+40. The Tribunal is aware of no facts or circumstances that have transpired since that time that
+justify delaying an award of damages in these cases. The Tribunal believes that to award damages
+in the present circumstances of these cases presents no double recovery problem. The Argentine
+courts have not yet granted any recovery to AASA. If this Tribunal should award damages in these
+cases, it is certain that the Argentine government would make the relevant court aware of that fact.
+The problem of avoiding double recovery would then be a matter for the Argentine courts to
+consider under Argentine law if and when they are contemplating awarding damages to AASA in
+
+the cases currently subject to their jurisdiction.
+
+C. Constructing the “But-for” (“Without Measures”) Scenario
+
+Al. In order to value the Claimants’ investments without Argentina’s offending measures, it is
+necessary to construct a hypothetical, counterfactual scenario as to the situation of the Claimants’
+investments had Argentina not treated those investments unfairly and inequitably. At its heart,
+
+that scenario must answer the following question: what specific actions should the Argentine
+
+2 Claimants’ Reply Memorial, 658.
+
+2 During the hearing on damages, counsel for the Claimants, in response to Argentina’s expressed concerns about the risk of
+double recovery, quoted the above-referenced statement in its Reply Memorial and then stated: “It’s a commitment. We reiterate
+that commitment.” Transcript of the Hearing on Damages, Saturday, September 21, 2013, p. 550, lines 2-14.
+
+19
+
+ 
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 25 of 68
+
+government and its regulators have taken in respect of tariff revisions in 2001-2002 for its conduct
+to have resulted in fair and equitable treatment of AASA and therefore of the Claimants’
+investments? To answer that question, the Tribunal first examines the nature of the Concession
+transactions and how a reasonable regulator would have conceived of and dealt with the
+Concession Company, the investors, and the thirty-year relationship among AASA, its investors,
+
+and the Argentine state.
+
+42. The Tribunal believes that a reasonable regulator intent on according the investors fair and
+equitable treatment would be guided by three basic principles in its relations with a regulated entity
+like AASA. First, such a regulator would seek to assure the continued provision both short-term
+and long-term of the vital public service being provided by AASA. Second, it would seek to assure
+the continued existence, by all reasonable means, of the regulated entity that is providing that
+service. Third, even though circumstances may prevent the strict application for the time being of
+all the provisions of the Concession’s regulatory framework, a fair and equitable regulator would
+seek to follow the basic spirit and intent of the agreements that existed between the government
+and the regulated entity. That basic spirit and intent were ones of cooperation between participants
+in a long-term joint venture. Indeed, AASA was an early example of a public-private partnership
+(PPP), a concept that has now gained much currency in international infrastructure development.
+One would expect that the partners would work together cooperatively to solve their problems
+when unexpected adverse circumstances strike. Thus for example, one partner would not take
+advantage of those circumstances to drive the other out of business. In its Decision on Liability,
+the Tribunal stressed the importance of the need for AASA and the Argentine government to work
+
+together:
+
+“Beyond the specific words and commitments of the regulatory framework and the
+Concession Contract, the Claimants, having entered into a thirty-year relationship
+with Argentina, were entitled to expect that Argentina would manage that
+relationship in a cooperative manner, that is to say, that they would ‘work together’
+so that the relationship was mutually advantageous. Indeed, Article 5.1 of the
+Concession Contract required the Concessionaire and ETOSS ‘...to use all means
+at their disposal to establish and maintain a fluid relationship that facilitates the
+
+performance of this Concession Contract.’ In effect, the legal framework seemed
+
+20
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 26 of 68
+
+to envision a relationship between the Concessionaire and the Argentine authorities
+that would be a concrete example of the economic cooperation that the BITs sought
+to promote. During the first eight years, such a cooperative relationship seemed to
+
+prevail.”?+
+
+43. The Concession Contract does not define “fluid relationship.” The Tribunal considers that
+it means, at the very least, a relationship of give-and-take between AASA and the Argentine state,
+arelationship characterized by open communication and a spirit of collaboration in jointly solving
+problems that might beset the Concession over the years. The Tribunal does not consider the
+provisions of Article 5.1 of the Concession Contract requiring the Concessionaire and the regulator
+“.,.to establish and maintain a fluid relationship that facilitates the performance of this Concession
+Contract...’ to be mere rhetoric. On the contrary, they express a fundamental recognition of the
+important principle that no thirty-year Concession Contract can survive on its specific legal
+provisions alone and that such survival is vitally dependent on a productive and cooperative
+
+working relationship between the parties.
+
+44. In the opinion of the Tribunal, these three principles undergirded the work of Dr. Deep, its
+
+Independent Financial Expert, in constructing a “without measures” (“‘but-for’’) scenario.
+
+45. In his Final Report, Dr. Deep postulates that the “but-for” scenario would involve the
+following four steps : 1) tariffs would have been raised at the rate of inflation in 2002 and
+subsequent years; 2) immediate liquidity relief would be provided by the Argentine government in
+the form of an interest free loan or its equivalent, estimated at ARS 132.6 million, to AASA for a
+period of twelve months after the enactment of the Emergency Law to the extent that the additional
+revenue earned by AASA in 2002 from the increase in tariffs failed to cover the increase in
+Argentine peso payments on AASA’s dollar-denominated debt obligations; 3) AASA’s Capital
+Expenditure Plan would be adjusted for the remainder of the Concession period to the level
+actually implemented or proposed by AASA; and 4) a full review of the economics of the
+Concession Contract would be conducted in 2003 whereby the tariff would be adjusted to ensure
+
+that the Concession Contract was in financial equilibrium of revenues and expenditures.”
+
+2 Decision on Liability, 4233
+25 Final Report, Wf 69 et seq.
+
+21
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 27 of 68
+
+46. The aim of such a review was to ensure that the Concession achieved financial equilibrium
+as prescribed by the Water Decree and would take account of the new market parameters that came
+into existence after the abandonment of the currency peg and after the attainment by Argentina of
+relatively stable macroeconomic and financial market parameters. On the basis of such a
+simulation, Dr. Deep determined that a nominal tariff adjustment of 18.2% (13.2% in real terms)
+
+would be applied as of January 1, 2004.7°
+
+47. For its part, the Claimants, under the Deep scenario, would also have had to cover any
+resulting shortfall in cash flow with capital infusions and would have had to waive payment of
+management fees under the management contract until all debt had been paid. In developing this
+scenario, Dr. Deep relied upon the legal framework, the Decision on Liability, and Resolution
+602/997" issued by the Argentine Secretary of Natural Resources and Sustainable Development
+and applied by the Ente Tripartito de Obras y Servicios Sanitarios (ETOSS), the relevant
+government regulatory agency. The purpose of Resolution 602/99 was to enunciate a set of
+principles that would strike a balance between the revenues that the Concession would be allowed
+to earn over its life and the costs of providing service, including a reasonable rate of return on the
+capital invested. Although Resolution 602/99 was submitted to the Argentine government for
+approval, such approval was never formally granted or specifically refused. Nonetheless, whatever
+the formal authority of Resolution 602/99, ETOSS did apply it in dealing with AASA. It is true
+that section 3.3 of the Addendum to Resolution 602/99 does not provide for liquidity relief as such;
+however, it does provide that Argentina has an obligation to increase tariffs in case of a change in
+currency parity at least to the level of the increase of debt service due to the parity change. Thus,
+its purpose was to enable AASA to have sufficient liquidity to meet its debt obligations. At the
+same time, Dr. Deep considered that increasing tariffs by more than the rate of inflation would not
+be realistic under the circumstances that Argentina faced at the time. Thus, his proposal of a one-
+year interest free loan appears to be a reasonable and constructive device within the spirit and
+intent to the Resolution 602/99 to enable AASA to avoid defaulting on its debt obligations at least
+
+cost to Argentina.
+
+26 Final Report, { 93.
+27 Claimants” Exhibit C-62.
+
+22
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 28 of 68
+
+48. In evaluating the scenario proposed by Dr. Deep, one may well ask: even if the parties had
+acted as suggested by Dr. Deep, was AASA going to fail anyway because of its high leverage or
+for other reasons not connected to the Argentine Government’s actions during the crisis? The
+Tribunal specifically posed that very question to Dr. Deep during its deliberations, and he
+answered it in his memorandum of September 21, 2014 by stating that AASA would not have
+failed in that situation. Had Argentina fulfilled its treaty obligations by actually acting fairly and
+reasonably as a regulator by following a course of action similar to the one outlined in Dr. Deep’s
+scenario, AASA, according to Dr. Deep, would have remained viable in the sense that its equity
+would have had a positive value. It is true that as a result of the steep devaluation of the Argentine
+peso, AASA’s debt in Argentine pesos ballooned and its equity shrunk considerably to ARS 13.5
+million in 2001.78 The result was a highly leveraged firm in which its total debt amounted to
+almost 98.7 % of its total value,” but not a bankrupt one. It is also important to remember that the
+fact that the Claimants had guaranteed AASA’s debt to the multilaterals would have given them a
+powerful incentive not to abandon the Concession, an action that would have cost the Claimants
+hundreds of millions of dollars, provided that they had some realistic hope of returning the
+Concession to a state of profitability. Such a hope depended crucially on the Claimants’ evaluation
+of the Argentine regulator’s future treatment of AASA. Appropriate actions by the Argentine
+government towards revising tariffs, as suggested by Dr. Deep, would not only have had the effect
+of improving AASA’s cash flow situation and easing the burden of servicing its debt but it would
+also have been a powerful signal to the Claimants and to AASA of the Argentine government’s
+cooperative attitude toward the Concession, encouraging the Claimants to take the necessary steps
+to support the Company in a time of great adversity. On the other hand, as Dr. Deep concluded,
+Argentina’s persistent refusal to revise tariffs of the Concession, which after all was providing a
+vital public service to millions of its citizens, virtually assured its demise, a result that eventually
+took place. Thus, according to Dr. Deep, the failure of Argentina to revise tariffs caused the
+financial failure of AASA while his proposed or a similar program of adjustments that Argentina
+
+might have taken would have allowed it to survive as a financially viable operation.
+
+49. The parties have raised various objections to the scenario advanced by Dr. Deep. On the
+one hand, the Claimants argue that the liquidity relief proposed should not be a one-year interest-
+28 Final Report, 252.
+> Final Report, 4389.
+
+23
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 29 of 68
+
+free loan repayable by AASA, but rather an outright subsidy or other type of permanent capital
+infusion by Argentina in order to compensate AASA for the loss sustained when Argentina
+abruptly devalued its currency and then refused to raise the tariff in accordance with the
+Concession’s legal framework to take account of the devaluation. The Claimants also argue that
+Resolution 602/99 does not specifically mention a temporary payment or loan, that Dr. Deep’s
+scenario requires capital infusions from the Claimants which are not required or authorized by the
+Concession’s legal framework, that his scenario ignores the risk-allocation formula provided by
+the Concession’s legal framework, and that Dr. Deep should have conducted an extraordinary tariff
+review as provided by that legal framework. In addition, they have challenged various elements
+of Dr. Deep’s methodology, such as the uncollectibility rates he assumed in calculating tariff
+
+revenues.*?
+
+50. On the other hand, Argentina strongly protests the notion of providing an interest-free loan,
+arguing first that such action is nowhere required or even suggested in the legal framework of the
+Concession and second that it is unreasonable and unrealistic to expect that a government, facing
+the worst crisis in the country’s history, would make an interest-free loan of ARS 132.6 million to
+AASA, which after all is a private company. Furthermore, since Dr. Deep relied heavily on
+language in Resolution 602/99 to justify the governmental provision of temporary liquidity relief,
+Argentina questions strongly the validity of that approach since Resolution 602/99 was never
+formally approved by the Argentine Government. It also argues that the increases in tariffs
+required by the Deep scenario would have been unrealistic and infeasible in view of the high levels
+of poverty experienced by the Buenos Aires’ population at the time of the crisis. Argentina also
+argues that Dr. Deep errs in relying on Resolution 602/99 as a manifestation of the “equilibrium
+principle” in view of the fact that the Tribunal’s Decision on Liability found that the principle was
+absent from the regulatory framework. It further contends that Dr. Deep also errs by in effect
+performing an expropriation valuation when the Tribunal had determined in its Decision on
+
+Liability that no expropriation had taken place.
+
+51. The parties are correct that neither the Concession’s legal framework nor Resolution
+
+602/99 imposes a specific obligation on Argentina to provide a one-year, interest-free loan to
+
+3° Claimants” Comments on the Final Report, {{{[50-57 and 58-65.
+
+24
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 30 of 68
+
+AASA or an obligation on the investors to make an additional capital infusion into AASA. The
+sudden devaluation of the Argentine Peso in 2002 subjected AASA to a significant shock because
+the costs of servicing its foreign debt had suddenly ballooned while its tariffs could not be adjusted
+immediately and its capital expenditure plan remained unchanged. AASA therefore experienced
+a liquidity crisis. It is that crisis that the regulator and the concessionaire would have had to work
+together to resolve through negotiation in a “without measures” scenario. To suddenly raise tariffs
+87%, as the Claimants suggested at one point in the proceedings, might have been justified by the
+legal framework but was unfeasible for both political and functional reasons. A massive increase
+in tariffs in the midst of one of the worst financial crisis in Argentina’s history would have
+generated enormous political and popular opposition. Moreover, a full tariff review necessary to
+any change in tariffs would require significant time and technical expertise to accomplish. Thus,
+in the circumstances of the crisis faced by Argentina a reasonable regulator would face a major
+problem in deciding how to provide AASA with relief of its liquidity problem that was both
+
+immediate and would not provoke insurmountable public and political opposition.
+
+52. According to Dr. Deep, a regulator would have found a partial answer in Resolution
+602/99, particularly section 3.3 of Appendix A on adjustment in tariffs caused by changes in the
+parity of the Peso. That provision stated: “Should the ARS/USD parity change, such change shall
+be transferred to the tariff. Any resulting income shall at least cover the difference between the
+flows of debt service (denominated in USD) arising from the variations in the exchange parity and
+the scenarios that would have taken place absent the exchange parity variation for the period
+pertaining to the immediate twelve following months.” The provision does not state how such
+change is to be transferred to the tariff. It thus grants the Regulator a certain degree of flexibility
+in arriving at a solution to the liquidity crisis faced by AASA. However, Resolution 602/99 does
+stipulate three reasonable principles that the regulator is to follow: 1) any tariff adjustment should
+at least provide sufficient revenue to cover increases in debt service caused by changes in the
+dollar-peso parity; 2) the provision applies only for the following twelve months; 3) the decision
+on tariff modification had to be made within 30 days. Thus, this provision provided liquidity relief
+that was both immediate and temporary. Its purpose was to grant relief until a full tariff review
+could be accomplished. At the same time in the event that the tariff adjustment was insufficient,
+the investors in AASA would make up the short fall by contributing additional capital. Thus, both
+Argentina and the AASA’s investors would share the burden of assisting AASA through its
+25
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 31 of 68
+
+liquidity crisis. Drawing on this provision, Dr. Deep developed the without measures scenarios
+
+whose fundamental elements were the four steps listed above.
+
+53. An evaluation of any counterfactual scenario requires the Tribunal to enter the realm of the
+hypothetical. Based on his expertise, and in light of the legal framework,
+Dr. Deep has developed a scenario hypothesizing what a fair and equitable regulator would do in
+the situation that Argentina faced at the time of the crisis and afterwards. While the parties have
+objected to various aspects of Dr. Deep’s scenario, neither of the parties has provided this Tribunal
+with another equally detailed and convincing scenario of how a reasonable regulator intent on
+according fair and equitable treatment to AASA would have behaved. More important, the
+Tribunal considers that both Argentina and the Claimants would have had strong reasons to take
+the measures suggested by Dr. Deep in his scenario or similar measures. Argentina would have
+extended the temporary relief in order to assure the continuation of a vital public service. The
+Claimants, encouraged by Argentina’s concrete response to its liquidity crisis, would have
+contributed additional capital for sound financial reasons. First despite being highly leveraged,
+AASA would still have had positive equity, making it valuable for the Claimants to continue to
+operate with valid expectation of an eventual return on their investment. Second the Claimants
+were also guarantors of AASA’s borrowings from the multilaterals. Thus, whether or not they
+stayed invested in the project, they would still be liable to the multilateral lenders. Third, the
+Claimants had good prospects of recovering their investments with a profit if they stayed invested
+in AASA. Although both parties have objected to certain elements of the Deep scenario in their
+pleadings in these cases, the parties’ litigation positions are not reflective of what a reasonable
+regulator and a reasonable operator would have done in the circumstances. In the view of the
+Tribunal, a confrontational scenario in all probability would not have existed if Argentina had
+fulfilled its obligation of fair and equitable treatment. On the other hand, the fulfillment by
+Argentina of its obligation of fair and equitable treatment would in all probability have fostered
+
+cooperation between the parties to achieve a solution of the kind suggested by Dr. Deep’s Model.
+
+54. How then should the Tribunal evaluate the scenario developed by Dr. Deep? The Tribunal
+believes that in the absence of a competing, more plausible scenario, it need only find that
+Dr. Deep’s scenarios is a reasonable hypothesis of what a regulator, intent on fair and equitable
+
+treatment of AASA, would do in a comparable situation. The Tribunal believes that the without
+
+26
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 32 of 68
+
+measures scenario satisfied the three principles that would guide a reasonable regulator intent on
+according fair and equitable treatment to AASA. The scenario assures the continuation of an
+important public service, preserves the entity providing that service, and is the product of shared
+
+sacrifice between the investors and the Argentine state.
+
+55. The Tribunal believes that the scenario developed by Dr. Deep meets these criteria and that
+it is reasonable. The scenario assures the continued provision of vital water and sewage services
+to Argentina’s largest urban area. To enable it to provide that service, it preserves the continued
+existence of AASA, which contrary to Argentina’s characterization in its pleadings, is not just an
+ordinary private company but a heavily regulated entity providing a vital public service to millions
+of people. And finally, the Deep scenario, as pointed out in Dr. Deep’s Final Report, reflects a
+partnership relationship between AASA and the Argentine government in that the ultimate solution
+requires mutual sacrifice by both sides. In view of the reasonableness of the Deep scenario, the
+Tribunal concludes that AASA would have in all probability survived if Argentina had accorded
+the Claimants’ investment fair and equitable treatment and that Argentina’s actions in failing to
+accord such treatment caused the financial losses sustained by the Claimants. Moreover, while
+Resolution 602/99 may or may not be legally binding, it was nonetheless, as the product of an
+agency of the Argentine Government, strong evidence of how a reasonable regulator would act in
+the situation that AASA and the regulators faced at the time of the Argentine crisis. Additionally,
+it is significant that ETOSS applied Resolution 602/99 in its dealings with AASA before 2002.
+The Tribunal therefore believes that Dr. Deep was justified in using Decision 602/99 to build his
+
+scenario to determine the losses sustained by the Claimants.
+
+56. Finally, contrary to Argentina’s objection, Dr. Deep was not engaged in making an
+expropriation valuation. The construction of a without measures scenario was only the first step
+in his proposed methodology. He then had to value the Claimants’ investments in a “with
+measures” scenario and finally to subtract the value of the latter from the value of the former in
+order to arrive at a value of the loss sustained. Dr. Deep correctly determined that the “with
+measures” scenario resulted in a complete loss of the Claimants’ investments. Their value was
+therefore zero. That amount would then be subtracted from the value to be attributed to the various
+
+elements of the Claimants’ investment had Argentina accorded them fair and equitable treatment.
+
+27
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 33 of 68
+
+Thus the conceptual framework for the valuation process in a case of denial of equitable treatment
+
+is quite different from that of an expropriation case.
+
+IV. Calculation of the Claimants’ Losses
+A. In General
+
+57. Both parties have argued their positions thoroughly and professionally. The Tribunal has
+carefully reviewed all the submissions to reach the conclusions below. Considerations of judicial
+economy suggest, however, that the Tribunal can dispense with dealing with arguments raised by
+the parties which have no impact on the outcome. Accordingly, the parties’ arguments in the award
+are summarily described and addressed only to the extent that they are relevant to the Tribunal’s
+
+findings.
+
+58. The Claimants assert five individual elements of loss as a result of Argentina’s treaty
+violations: 1) loss on AASA’s debts that the Claimants had guaranteed; 2) in the case of Suez,
+losses on future management fees (after 2002); 3) also in the case of Suez, losses on unpaid
+management fees earned before 2002; 4) losses on the Claimants’ equity investments in AASA;
+and 5) losses on unpaid dividends due to the Claimants as shareholders of AASA. Each of these
+
+five elements of loss will be considered in turn.
+
+B. Losses on Guaranteed (“Sponsored”) Debt
+
+59. In order to secure sufficient capital to undertake the extensive investments contemplated
+by the Concession Contract and related legal framework, AASA engaged in significant borrowing,
+both locally and internationally, in the early years of its existence. Multilateral financial
+institutions proved to be an important source of such loans because they were willing to lend to
+AASA for long periods of time, ranging from eight to twelve years, and because their prevailing
+rates of interest were advantageous. The Claimants asserted during the merits phase of the
+arbitration that loans of comparable duration were not available within Argentina, and the
+Respondent did not furnish any convincing evidence to the contrary. The loans, however, were
+
+with one exception denominated in US dollars?! and had floating rates of interest tied to LIBOR.
+
+3! One loan from the European Investment Bank, contracted in July 1997, was denominated in ECUs, with the face amount of
+
+ECU 77 million, approximately USD 77 million at the time.
+28
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 34 of 68
+
+In November 1994, AASA borrowed a total of USD 272.5 million in three tranches from the
+International Finance Corporation (IFC), an affiliate of the World Bank; in March 1996 it
+contracted a second loan from the IFC for USD 213 million, payable in two tranches; in July 1997
+it secured a loan of ECU77 (approximately USD 77 million at the time) from the European
+Investment Bank (EIB); and in August 1999 it borrowed USD 215 million in two tranches from
+the InterAmerican Development Bank (IDB). AASA’s total borrowings from the multilaterals
+
+amount to USD 777.5 million.
+
+60. The fact that the loans were payable in dollars presented a financial risk to AASA since its
+income was entirely in Argentine currency, which at the time was pegged to the US dollar by law.
+If, for any reason, Argentina should decide to abolish the peg and devalue its currency, as it in fact
+did during the financial crisis, AASA would experience a serious inability to service its
+international debt. It was because of this risk caused by the fact that its debt obligations and its
+revenues were in different currencies that the multilaterals required certain shareholders of AASA
+to guarantee the loans that the multilaterals made to AASA. Each of the Claimants, along with
+Banco de Galicia y Buenos Aires S.S., also an AASA shareholder, did in fact execute such loan
+guarantees (known as Sponsor Support Agreements) in favor the multilaterals. The share of each
+such AASA shareholder Sponsor in the debt guarantees as of December 31, 2001 was as follows:
+Suez 46.99%; AGBAR 29.41%; Vivendi 8.89%: AWG 5%; and Banco de Galicia y Buenos Aires
+9.71%. Thus, the Claimants jointly guaranteed 90.29% of AASA’s debts to the multilateral
+
+institutions.
+
+6l. When Argentina did in fact abolish the link of the dollar to the peso and thereby
+significantly devalue its currency and when the Argentine government refused to allow AASA to
+increase its tariffs, AASA was unable to service its international loan obligations. The
+multilaterals therefore activated the Sponsor Support Agreements, which required the
+guaranteeing AASA shareholders to inject additional funds (through subordinated loans) to AASA
+to meet its guaranteed debt obligations. In January 2003, in response to the IDB’s deficiency
+notice, the AASA shareholders made an initial payment to AASA to enable it to meets its IDB
+obligations. On July 15, 2004, since AASA was still unable to service its guaranteed debt
+(sometimes referred to as its “Sponsored Debt”), AASA, its multilateral creditors, and the
+
+guaranteeing shareholders reached a broader agreement, as part of which the Sponsors made
+
+29
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 35 of 68
+
+another payment to allow AASA to buy back part of its secured debt. Finally, in 2005 and 2006,
+because AASA was unable to make any debt payments, the secured lenders triggered the rest of
+the debt guarantee. The multilateral lenders and the debt guarantors then negotiated an agreement
+of March 9, 2006 by which the latter purchased the remainder of AASA’s secured debt at a
+
+discounted price.
+
+62. The total amount paid to the multilaterals by all Sponsors to extinguish their debt guarantee
+obligations was USD 329,817,707. Of this amount, the Claimants in these cases made payments
+to the IDB in January 2003 of USD 5,556,622, to the IFC, IDB, and EIB of USD 58,549,281 in
+July 2004, and to the IFC, IDB, and EIB of USD 233,686,505 in March 2006, for a total debt
+guarantee payments to all multilaterals of USD 297,792,408. There appears to be no dispute
+among the Claimants, the Respondent, and Dr. Deep on these amounts, except for the fact that the
+Respondent did not include in its calculations the legal fees of approximately USD 557,000
+incurred by the Claimants in making the March 2006 Purchase Agreement. Dr. Deep considered
+these legal fees as part of the losses sustained by the Claimants as a result of Argentina’s actions
+and therefore included them in the amount of loss on debt sustained by the Claimants.*? The
+
+Tribunal agrees with Dr. Deep on this point.
+
+63. Whereas the calculations of other elements of loss, such as the loss on equity, of necessity
+require the formulation of a hypothetical situation that posits what the Claimants’ assets would
+have been worth if Argentina had accorded the Claimants fair and equitable treatment, such a
+hypothesis need not be deployed to determine the loss on sponsored debt since the amounts that
+the Claimants paid to the multilaterals are known exactly. The Claimants’ losses on guaranteed
+debt are therefore actual, liquidated losses, not potential hypothetical losses. The Claimants,
+Dr. Deep, and the Tribunal accept the amount paid as the starting point in determining the amount
+of the Claimants’ losses on guaranteed debt. However, in actualizing the values of those losses as
+of December 31, 2012, Dr. Deep and the Claimants have arrived at differing results. To actualize
+the losses, Dr. Deep assumes that each of the dollar denominated costs incurred by the Claimants
+in fulfillment of the debt guarantees accrues interest at the six-month Eurodollar deposit rate, as
+
+recorded by the Federal Reserve System of the United States, compounded semiannually from the
+
+2 Final Report, { 324, footnote 143.
+
+30
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 36 of 68
+
+end of the month in which each loss was incurred until the end of December 2012. Applying that
+methodology, Dr. Deep concluded that the value of the Claimants’ losses on guaranteed debt,
+actualized to the end of December 2012, amount to USD 357.4 million.*? The Claimants, however,
+assert their collective losses on guaranteed debt, actualized to the end of December 2012 amount
+
+to USD 390.4 million.
+
+64. The difference in the two calculations appears to be due to the fact that the Claimants
+actualized the amount paid from the date of payment until the date of termination of the Concession
+at AASA’s weighted average cost of capital, not the six-month Eurodollar rate compounded
+semiannually. The Claimants seem to have chosen this method of computation on the grounds
+that their payments on the debt guarantees were in effect contributions to AASA’s equity capital.
+The Tribunal does not agree with this characterization. The payments made by the Claimants to
+the multinationals were in satisfaction of a debt obligation, originally of a contingent nature, that
+had come into being because of Argentina’s actions. Had those actions never occurred, the
+Claimants would have had no current obligation to make payments to the multilaterals. When
+each Claimant made such payment, they sustained a loss. In compensating them for their losses,
+the Tribunal must seek to place them in the position they would have been if no such loss had
+occurred. In order to do that, the proper approach is to determine the total amount that each paid
+to the multilateral and then actualize those amounts from the time of payment to the present by use
+
+of the compounded six-month Eurodollar rate as Dr. Deep has done in his Final Report.
+
+65. It is to be noted that Argentina did not specifically contest the use of compound interest in
+Dr. Deep’s calculations. The Tribunal believes that strong reasons, both economic and legal,
+justify the application of compound interest. First the goal of international law on compensation
+for violations of international obligations is to place the injured party in the position that such party
+would currently have been if the injury had never taken place. Compound interest is more
+effective at achieving that result than is simple interest. Second, international tribunals manifest a
+growing tendency to apply compound rather than simple interest in damage calculations.** Third,
+
+it is standard practice in business and finance when calculating financial returns and losses to apply
+
+3 Final Report, {4 263 and 397-399.
+* Eg. Total S.A. v. Argentine Republic (ICSID Case ARB/04/1), Award, November 27, 2013.
+
+31
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 37 of 68
+
+compound interest precisely because financial and economic experts believe it more accurately
+
+reflects economic reality than simple interest.
+
+66. Although Argentina does not dispute the amount of payments made by the Claimants to
+the multilaterals to extinguish AASA’s sponsored debt, it does reject the Claimants’ assertion that
+Argentina is responsible to compensate the Claimants for the resulting losses they incurred on
+AASA’s sponsored debt. Its principal argument in this respect is that financing AASA’s
+development with US dollar-denominated loans that had to be serviced in US dollar payments was
+highly risky in view of the fact that AASA’s revenues were entirely in Argentine Pesos, a
+phenomenon that the Respondent has characterized as a “currency mismatch.” Had the Claimants
+chosen to finance AASA with the more prudent method of using Peso-denominated loans, the
+Respondent argues, AASA would have been able to weather the financial crisis and the Claimants
+would never have incurred the losses on debt that they allege. Accordingly, Argentina argues that
+having deliberately chosen to use the highly risky method of Dollar-denominated loans, the
+
+Claimants, not Argentina, should bear the negative results when that risk occurs.
+
+67. Any investment has risks. Indeed, risks are inherent in the investment process. Thus, just
+because an investment presents a risk does not mean that such investment is not protected by the
+relevant bilateral investment treaty or the applicable customary international law. The Tribunal
+can find no basis either in the Concession regulatory framework or in international law for
+excluding sponsored debt from the protection provided by the BITs, on the ground of the risk it
+bears. On the other hand, taking account of risk in valuing the loss of an investment is of course
+totally appropriate and is standard practice in finance and in law. But with respect to the payments
+made on guaranteed debts, the Tribunal is not seeking to value an investment in AASA made by
+the Claimants in the past but rather it is seeking to actualize to the present time the amount of
+known, liquidated, actual losses sustained by each Claimant in the past. As a result of Argentina’s
+actions in failing to accord the Claimants’ investments fair and equitable treatment, AASA was
+unable to service its debt and the Claimants were therefore required to make debt guarantee
+payments. Had Argentina met its treaty obligations to the Claimants’ investment by following a
+course of action similar to the one proposed by Dr. Deep, AASA would have been able to meet its
+obligations to creditors and the multilaterals would never have activated the debt guarantees. The
+
+Claimants’ losses on debt were therefore a direct consequence of Argentina’s treaty violations.
+
+32
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 38 of 68
+
+68. The Tribunal has determined that the total amount of such loss incurred by all debt
+sponsors, is USD 357.4 million, actualized to December 31, 2012.5 The four Claimants in these
+cases together sustained 90.29% of that total, and the remaining 9.71% was paid by the Banco de
+Galicia, an AASA shareholder that is not a Claimant in these proceedings. The share of the
+individual Claimants in sponsored debt guarantees as of December 31, 2001 was as follows: Suez
+46.99%; Vivendi, 8.89%; AGBAR, 29.41%; and AWG 5%. Applying these same percentages to
+allocate the total estimated loss on sponsored debt of USD 357.4 million, actualized to December
+31, 2012, the Tribunal concludes that the amount of the loss on guaranteed debt sustained by each
+of the four Claimants is as follows: Suez 187,870,445; AGBAR, USD 117,583,905; Vivendi,
+USD 35,543,057; and AWG USD 19,990,471. Thus, the total amount of the losses on sponsored
+debt sustained by all four Claimants as of November 1, 2014 is USD 360, 987, 923.
+
+69. Notwithstanding the amounts that this Tribunal may award the Claimants for these and
+other losses, Argentina argues that such awarded amounts should be reduced by the “benefits”
+granted to AASA throughout the renegotiation process following the outbreak of the financial
+crisis. Specifically, according to Argentina, these benefits fall into two categories. The first
+consists of payments made by Argentina on a loan the Inter-American Development Bank had
+made in 1989 to Argentina for the benefit of the then state-run Buenos Aires water and sewage
+systems and which AASA, as part of the privatization process, agreed to service by reimbursing
+Argentina for debt service payments that it made to the IDB. AASA did in fact make such
+payments from the time it agreed to this arrangement until January 2002, when its financial
+situation no longer permitted it to continue to make such payments. At that point, the Argentine
+State, which was liable on the loan obligation to the IDB made regular debt payments pursuant to
+the terms of the loan. By December 2012, it alleges that it made total payments to the IDB of USD
+129.1 million, which when actualized to present value as of December 31, 2012 were equivalent
+to USD 147.2 million. The second category of claimed benefits granted to AASA includes the
+unpaid fines imposed by ETOSS, the regulator, on AASA for its breaches of various legal and
+regulatory obligations. The total amount of such fines as of December 31, 2001 was USD 10.4
+
+million.
+
+35 For purposes of the pleadings in these cases, the parties were asked to actualize amounts claimed up to December 31, 2012.
+
+Dr. Deep’s calculations in his Final Report were also made as of that date.
+
+33
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 39 of 68
+
+70. In neither its written nor oral pleadings does Argentina advance a principle of international
+law that supports its contention that the above amounts should be deducted from any amounts that
+the Tribunal may decide to award the Claimants for injuries to their investments. At the hearing
+on damages, counsel for Argentina did assert that such deduction is justified for “basic equity
+reasons” but did not elaborate on the meaning and application of equity concepts in the context of
+these cases.*° The Tribunal rejects Argentina’s claim that the amounts that it paid on a pre-existing
+IDB loan for which it was primarily liable should be deducted from any compensation that the
+Tribunal might award to the Claimants. The cause of AASA’s inability to reimburse Argentina
+for its payment on the IDB loan obligation, for which Argentina was the primary obligor, was the
+sudden decline in AASA’s financial situation. That decline was directly attributable to Argentina’s
+actions in denying the Claimants fair and equitable treatment as required by the relevant BITs.
+Had Argentina acted fairly and equitably toward those investments, as proposed earlier in this
+award, AASA would have had sufficient cash flow to meet its debt obligations, including the
+reimbursements for servicing the IDB loan repayments. Further, to reduce the amount of the
+compensation awarded to the Claimants for their losses on sponsored debt would amount to
+denying the Claimants full compensation, as required by international law, and amount to allowing
+
+Argentina to benefit from the violation of its treaty obligations.
+
+C. Losses on Management Fees
+
+71. The pre-qualification bidding rules governing the award of the Concession required
+bidding groups to include a Technical Operator who had experience in operating a water and waste
+water service in a city with a minimum of 500,000 inhabitants and to demonstrate that it had served
+at least two million persons. The Technical Operator was required to have a minimum equity stake
+of 25% of AASA’s voting shares throughout the period of the Concession. The role of the
+Technical Operator was to oversee the technical, financial, and economic management of the
+Concession and to provide AASA with know-how, experience and technology, elements that
+seemed to have been lacking in the management of the water and sewage systems of Buenos Aires
+
+while it was a state-run enterprise. The apparent purpose of the requirement stated above was to
+
+36 “What we say is that if we’re going to adopt a criterion where we recognize Claimants and what they paid with regard to loans
+made by multilateral organizations, because of basic equity reasons, we must also recognize what the Argentine State paid to those
+multilaterals and to deduct from whatever was paid by Claimants that which was paid by the Argentine Republic.” Transcript of
+the Hearing on Damages, Thursday, September 19, 2013, p. 112, lines 13-20.
+
+34
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 40 of 68
+
+give Argentina some assurance that any concessionaire would not only invest the necessary
+
+financial resources, but would also provide these essential, intangible assets.
+
+72. The investors that were ultimately awarded the concession to operate the water and sewage
+systems of Buenos Aires selected Lyonnaise des Eaux, later renamed Suez, as AASA’s Technical
+Operator. In April 1993, Lyonnaise des Eaux and AASA entered an “Agreement for Management
+Control and Technology Transfer and Know-how,” (“Management Contract”) designating
+Lyonnaise des Eaux as the Concession’s Technical Operator. This Agreement, which was
+embodied in the Concession Contract as Annex IX, required the Technical Operator, among other
+things, to “audit the technical, economic and financial aspects of the Company’s management”
+and “make available to the Company all its know-how, including its experience, technology, and
+knowledge in the operating management of companies engaged in the provision of potable water
+and sewage public utilities, in every area within its scope of activities,” including the corporate
+strategy, technical, commercial, financial, administrative, legal, work policy, and personnel
+organization, and public and international relations areas.*’ The Agreement also provides that
+“Tt]he Company shall pay Operator in consideration for the obligations ... six percent (6%) of the
+Company’s gross operating margin. For such purpose, the gross operating margin is defined as
+the difference between the operating income, excluding the value added tax, and operating
+expenses...”°* It further stipulated that “[a]ll payments for the benefit of the Operator shall be
+made in US dollars...”*° The Agreement also provided that any delay in the payment of earned
+management fees would entail a penalty interest rate of LIBOR plus 5%.*° Pursuant to the Revised
+Bidding Rules all of the terms of the Concession Contract, including its Annexes, were subject to
+the approval of the appropriate Argentine government authorities. In fact, the Argentine
+government did approve the Concession Contract, along with the annexed Agreement for
+Management Control and Technology Transfer and Know-how and the amount of fees to be paid
+
+were considered a legitimate operating cost for purposes of calculating the Concession’ s tariffs.
+
+73. Because of financial difficulties, AASA was unable to pay a portion of the management
+
+fee earned by Suez in 2001. As AASA encountered increasing financial difficulties as a result of
+
+ion Contract, Annex IX, Part 1, Article I and Part 2, Article VI.
+ion Contract, Annex IX, Part 4, Article VIII.
+
+ 
+
+35
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 41 of 68
+
+the Argentine crisis, it ceased to make such payments for lack of sufficient cash flow. In fact,
+AASA did not pay management fees to Suez from 2002 until Argentina terminated the Concession
+in 2006. As a result, Suez is claiming compensation for two aspects of its loss on management
+fees as a result of Argentina’s treaty breach: (1) the amount of earned but unpaid management fees
+due as of the beginning of 2002, and (2) the amount of future management fees that Suez would
+have earned from 2002 until 2023 if Argentina had accorded AASA fair and equitable treatment
+
+as required by the applicable BIT.
+
+74. Argentina opposes Suez’s entire claim or management fees. It argues that the Management
+Contract was a mere commercial contract, not an “investment” covered by the relevant BIT, and
+that therefore claims relating to the contract are outside the jurisdiction of the Tribunal. Argentina
+also argued that the Decision on Liability does not specifically mention management fees and that
+therefore “this is not the appropriate procedural opportunity for the Claimants to reargue this
+issue.” It also argues that Suez mismanaged AASA and that payment of management fees is
+therefore unjustified. Further, it protests that payment of management fees leads to double
+payments to Suez since management fee payments were included as projected costs and therefore
+were taken account of in calculating AASA’s tariffs. Dr. Deep was unsure of the legal status of
+the claim for management fees and therefore computed them on a contingent basis in his Final
+
+Report.
+
+75. The Tribunal has concluded that Suez’s claim for unpaid management fee is justified by
+both a substantive economic analysis and on a formal legal basis. Economically, the management
+Contract was not a separate transaction, as the Respondent contends, but was an integral part of
+Suez’s investment in AASA as covered by the BIT and the ICSID Convention. The Concession’s
+legal framework required one of the significant investors to be designated the Concession’s
+Operator. It was normal and necessary for that relationship to be embodied in a Management
+Contract such as the one Suez executed with AASA. Further, the legal framework prohibited such
+a contract from being held by a party that was not an investor in AASA and required that at least
+one substantial investor serve as the Concession’s Operator. A management contract was therefore
+a sine qua non for any group seeking to invest in AASA. The Concession’s legal framework
+
+clearly conceived of the Management Contract as an integral part of the Claimants’ investment in
+
+36
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 42 of 68
+
+the Concession. A similar situation existed in Total S.A. v. Argentina.*! In that case, in response
+to Argentina’ opposition to Total’s claim for damages resulting from lost technical fees, the
+
+Tribunal stated:
+
+“In any case the Tribunal does not consider that Total’s claim for its fees as
+technical operator is a “separate” claim that may be termed ancillary, incidental or
+additional to the claim submitted for its losses in respect of its stake in TGN.
+Rather, it is an integral part of that principal claim. The right of Total to earn fees
+as a Technical Operator of TGN derives directly from Total’s position as an
+
+investor which has made a direct investment in TGN...’4”
+
+76. The Management Contract being an integral part of the Claimants’ investment, there is no
+need to review whether the Management Contract in and of itself constitutes an investment for
+purposes of the ICSID Convention and the France-Argentina BIT. For the sake of completeness,
+the Tribunal nevertheless notes that the Management Contract falls within the definitions given to
+that word by the applicable BIT in this case and by tribunals interpreting the ICSID Convention,
+which does not itself define the word investment, in that it possesses the principal attributes of
+investments usually required by tribunals: 1) contribution of resources, 2) participation in the risks
+of the transaction, 3) duration of performance, and 4) contribution to the economic development
+
+of the country.
+
+77. In defining the term “investment,” the France-Argentina BIT sets down an important
+condition: “it being understood that the said assets shall be or shall have been invested and, in
+accordance with the provisions of this Agreement, the related provisions laid down in conformity
+with the legislation of the Contracting Party in whose territory... the investment is made...”*4 The
+Management Contract conformed to this condition since it was required by regulation of the
+
+Argentine state and was annexed to the Concession Contract that had been negotiated, reviewed,
+
+1 Supra note 34.
+
+2 bid. 492.
+
+8 C. Schreuer, The ICSID Convention, A Commentary, 2nd Edition, pp. 128 ff.
+
+“4 “[EJn el entendimiento que dichos activos deben ser o haber sido invertidos y, respetando las disposiciones del presente
+Acuerdo, los derechos relativos definidos de conformidad con la legislacién de la Parte Contratante en cuyo territorio 0 zona
+maritima se efectéie la inversi6n...” “[E]tant entendu que lesdits avoirs doivent étre ou avoir été investis et, dans le respect des
+dispositions du présent Accord, les droits y afférents définis conformément a la Iégislation de la Partie contractante sur le territoire
+ou dans la zone maritime de laquelle l'investissement est effectué. ..”
+
+37
+
+ 
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 43 of 68
+
+and approved by Argentina’s governmental authorities. Although Argentina acknowledges that
+the bidding rules did require the designation of a “Concession Operator” from among the investors
+contributing twenty-five percent or more of the capital in the Concession, it argues that the bidding
+tules did not provide for or require that the Operator be compensated for playing its assigned role
+and that therefore the Tribunal should not consider the contract as an item of loss in determining
+
+the compensation owing to Suez.
+
+78. The Tribunal rejects Argentina’s argument on this issue for three reasons. First, the
+Argentine regulatory authorities knew and approved of the Management Contract and its
+compensation provisions. The Argentine regulator included the Management Contract as an
+Annex to the Concession Contract, never contested the payment of compensation to Suez, and
+accepted that such compensation be included as a legitimate cost in the calculation of the
+Concession’s tariffs. Second, the Management Contract was not an ordinary commercial
+agreement, made at the discretion of the AASA shareholders. On the contrary, AASA entered into
+it as a result of the legal mandate that a substantial shareholder in AASA be designated an Operator
+with important responsibility. It was therefore normal and indeed implicitly legally required that
+its responsibilities be defined in a lawful, enforceable contract. Third, given the nature of those
+responsibilities and the importance to the Concession and to the future of the water and sewage
+systems of Buenos Aires of the transfer of modern management and technology, things that the
+system had clearly lacked in the past, it was natural and appropriate that Suez be compensated for
+what it was to provide and that such compensation would be additional to the profits it would make
+as an AASA shareholder. The Tribunal therefore concludes that the loss on management fees is
+an appropriate item to be considered in awarding compensation to Suez on account of Argentina’s
+failure to accord it the promised treatment under the France-Argentina BIT. The Tribunal must
+
+now calculate the amount of that loss.
+
+79. At the outset of that exercise, it is important to recall that the France-Argentina BIT requires
+only that Argentina treat Suez’s investments fair and equitably. It does not require that Argentina
+enforce the Contract or create conditions that would allow the Management Contract to be strictly
+enforced in accordance with its provisions. Nor does it remove ordinary commercial risk that such
+a contract would face during the thirty-year period of the Concession. In constructing a but-for
+
+scenario, an important initial question is to determine the priority that management fees would
+
+38
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 44 of 68
+
+have in AASA’s income stream. Specifically, are management fees to be treated as Concession
+costs, as Suez asserts, so that Suez’s claim to management fees would stand on equal basis with
+those of other AASA creditors? Or should they be considered as profits, as Argentina argues, so
+that Suez’s claim for fees would be subordinated to those of other creditors and stand on equal
+footing with the income claims of other AASA shareholders? Dr. Deep finds a middle ground
+which assumes that the management fees would not be paid until there were sufficient cash flows
+to pay all the creditors but they would be paid to Suez ahead of the dividend claims of other
+investors. He also relies on the Management Fee Subordination Agreements that the guarantors
+of AASA’s debt made with the multilaterals to support his view that the management fees should
+be placed above dividend payments but behind debt payments. This solution seems entirely proper
+
+to the Tribunal.
+
+80. It will be recalled, however, that the Management Contract specifically provided that any
+delay in the payment of earned management fees would entail a penalty interest rate of LIBOR
+plus 5%.** In his Final Report, Dr. Deep chose not to include this interest rate in calculating the
+total accrued but unpaid management fees, although he had done so in his Preliminary Report. He
+argued that since the management fees were to be viewed as a return on Suez’s investment and
+since interest is not ordinarily paid on dividends, accrued but unpaid management fees in this case
+should be treated like unpaid dividends. Suez strongly disagreed with Dr. Deep’s decision on this
+question, arguing that in calculating the total amount of accrued management fees lost to Suez as
+aresult of Argentina’s treaty violations the specified interest rate in the Management Contract for
+delayed payment of management fees should be applied. It points to the fact that the interest
+provision had been approved by both Argentina and the other shareholders in AASA when they
+
+approved the Management Contract at the commencement of the Concession.
+
+81. The Tribunal, however, considers that the approach recommended by Dr. Deep is what a
+reasonable regulator in the circumstances would have permitted. If Argentina’s treatment of the
+investments in this case had replicated that scenario, such treatment, in the judgment of the
+Tribunal, would have complied with the treaty requirements of fair and equitable treatment. As
+
+indicated earlier, the scenario is based on a principle of shared sacrifice, which the Tribunal
+
+* Concession Contract, Annex IX, Part 4, Article VIII.
+
+39
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 45 of 68
+
+believes is implicit in the relationship upon which the Concession was founded. In accordance
+with that scenario which sought at one and the same time to allow the survival of AASA and still
+provide the needed service at a reasonable cost to the people of Buenos Aires, AASA would not
+have sufficient cash flow to pay the management fees until the year 2018. In 2018, Dr. Deep
+estimates that the amount of management fees earned in that year would have been
+ARS 55,072,717 and the total amount of cumulative unpaid management fees was
+ARS 706,268,570. In that year, AASA would have had sufficient cash flow to pay the
+ARS 67,508,034 in management fees, enabling it to cover the current year’s fee of ARS 55,072,717
+and ARS 12,435,317 as payment toward the cumulative management fees owed. In the remaining
+years of the Concession, AASA would have been able to pay both the management fees due in
+each year as well as to pay completely the total amount of unpaid cumulative management fees.
+The total management fees paid under this scenario during the years 2018 to 2023 when discounted
+to 2001, the date of Argentina’s measures that violated the treaty, would have been ARS
+20,021,752. The much higher amount claimed by Suez results from a series of assumptions that
+it has made concerning the magnitude of the management fees during the Concession, the
+applicable discount rate for calculating the present value of management fees as of 2001, and the
+time when the management fees are converted into dollars. The Tribunal considers Dr. Deep’s
+assumptions to be more reasonable in the circumstances that AASA would have faced in the later
+years of the Concession. While from a strictly contractual analysis, unpaid management fees were
+to accumulate interest at a rate of LIBOR + 5%, the source of those fees was closely tied to the
+equity that Suez had invested in AASA; therefore, a reasonable regulator, like Dr. Deep, could
+have reasonably likened the unpaid fees to unpaid dividends, which usually do not accumulated
+interest and thus obliged Suez to forego the payment of interest on unpaid management fees.
+Moreover, the obligation to pay such accumulated interest would have placed an untenable stress
+on AASA’s already stressed liquidity situation. To relieve that stress, it was reasonable for a
+regulator, following the precedent of AASA’s multilateral creditors, to require Suez to waive the
+interest on unpaid fees, particularly since AASA’s precarious liquidity was to some degree
+accentuated by the highly leveraged method chosen by Suez and its partners to finance the
+
+Concession.
+
+82. On the basis of the foregoing, the Tribunal finds that the total management fees paid under
+the above-described scenario during the years 2018 to 2023, when discounted to 2001, the date of
+
+40
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 46 of 68
+
+Argentina’s measures that violated the treaty, would have been ARS 20,021,752. This amount, if
+paid in 2001, would have compensated Suez, for the loss of management fees caused by
+Argentina’s breach of the BIT with France. The Tribunal must next update or “‘actualize” this
+amount to an appropriate value as of December 31, 2012, as Dr. Deep and the parties were
+instructed to do for purposes of the pleadings in these cases. Dr. Deep chose to undertake such
+updating in a three step process: 1) Until March 2006 (when the Argentine government terminated
+the Concession), he assumed that the Argentine-peso denominated amounts corresponding to such
+losses would have remained in the same or a similar enterprise. During this period such
+investments would have earned a risk-adjusted rate of return equal to the estimated internal rate of
+return of the Flow to Sponsors, compounded annually; 2) In March 2006, the Argentine-peso
+denominated value of these investments would be converted into US dollars at the extant spot
+exchange rate; 3) From March 2006 to December 2012, the resultant US dollar-denominated
+amount would be updated using semi-annual compound interest at the six-month Eurodollar
+deposit rate. Applying this methodology, Dr. Deep determined the value of Claimant Suez’s loss
+on management fees when actualized in US dollars as of 2012 would amount to USD 18,686,869.
+While the Tribunal understands and appreciates the logic underlying this methodology, the
+Tribunal does not agree with it. In particular, it does not accept Dr. Deep’s assumption in step
+1) that the Claimant Suez, having been compensated in pesos for the loss sustained in 2001, would
+have continued to hold assets in pesos until 2006. The Tribunal considers it far more likely that
+Claimant Suez would have converted those pesos into US dollars or other stable currency in 2001
+at the then prevailing exchange rate. More generally, the amount of ARS 20,021,752 represents
+compensation for a loss. Accordingly, Claimant Suez should not be required to assume the
+currency risk in the same kind of assets that have been previously injured by governmental action.
+Rather, it should be free to use that compensation in any way it sees fit. At the same time, it should
+be noted that Claimant Suez, while arguing that the methodology of actualization should convert
+the loss into US dollars as of the end of 2001, also contends that the proper method of actualization
+would also apply a rate of interest equivalent to the weighted average cost of capital (WAAC) of
+assets similar to AASA, instead of the much lower Eurodollar rate. The Tribunal rejects this
+contention by Claimant Suez. First, it should be recalled that although the Claimants always
+maintained that AASA was an investment in US dollars with a regulated return that was guaranteed
+
+in US dollars, the Tribunal has consistently disagreed with this view. Second, to invest in
+
+4l
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 47 of 68
+
+Argentina, one needs to hold funds in Argentine pesos, and in the process take on the currency risk
+of an Argentine investment. An investor could not convert funds out of pesos and still expect to
+earn a weighted average rate of return that is based upon an investment in Argentina and
+denominated in Argentine pesos. Third, the damage estimation seeks to compensate the Claimants
+for the loss of their future profits in Argentina in a lump sum in 2001 based on the assumption that
+they would wish to leave the water utility due to lack of fair and equitable treatment by the
+Argentine government. They therefore cannot justifiably claim a rate of return that is only possible
+if they had stayed invested in a water utility in Argentina. And finally, it will be recalled that to
+bolster its contention that a conversion into dollars should take place in 2001, not 2006, the
+Claimant Suez had argued that a reasonable investor who had been paid a large amount of funds
+in pesos would immediately convert those funds to US dollars, rather than hold them in pesos for
+another five years. While agreeing with that contention, the Tribunal also considers that no
+reasonable investor, having converted the funds to dollars, would then reinvest them in peso-
+
+denominated assets after the devaluation had taken place.
+
+83. Accordingly, the Tribunal chooses to actualize Claimant Suez’s loss of ARS 20,021,752 in
+2001 by immediately converting them into US dollars in 2001 and then actualizing that value by
+applying the Eurodollar rate, compounded semi-annually until November 1, 2014. The Tribunal
+
+has thus determined Suez’s loss on management fees on that date to be USD 26,084,421.
+
+D. Losses on Earned but Unpaid Management Fees
+
+84. The Claimants assert that Management Fee payments in the amount of USD 6,992,000 had
+been approved by the Management of AASA before December 2001, (i.e. before the enactment of
+the offending measures by Argentina) but had not been paid by the end of 2001. They also contend
+that these payments have been due since then. The Tribunal must therefore decide whether such
+
+amounts should be included in the damages to be awarded to Claimant Suez.
+
+85. In confronting this question, it should be borne in mind that the Tribunal is not in the
+position of a court enforcing the terms of the Management Contract but rather of an international
+Arbitral Tribunal seeking to determine how a reasonable regulatory authority would treat the
+earned but unpaid management fees in order to accord the Claimants’ investment fair and equitable
+
+treatment as required by treaty in the circumstances of this case. It should also be borne in mind
+
+42
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 48 of 68
+
+that the immediate cause of the non-payment of these management fees was not any measure taken
+by Argentina in violation of its treaty obligations, but rather the highly leveraged financial situation
+of AASA during the period prior to Argentina’s illegal measures in 2001. That financial situation
+was created by the actions and decisions of AASA’s shareholders, particularly its Operator, Suez.
+They therefore bear responsibility for AASA’s inability to pay the management fees when they
+
+became due before 2001.
+
+86. In building a but-for scenario, the Tribunal therefore must try to answer the difficult and
+somewhat speculative question of how a reasonable regulator seeking to accord fair and equitable
+treatment to the investments of the Claimants would treat the nearly USD 7 million debt that AASA
+owed to Suez for unpaid past management fees for the period before 2001. In the difficult
+circumstances faced by Argentina during its financial crisis, the Tribunal does not believe that a
+reasonable regulator would provide for the payment of such unpaid management fees for whose
+nonpayment the Argentine government was not responsible. Recalling the three fundamental
+principles that the Tribunal posited as guiding a reasonable regulator, payment of such fees would
+seem to fall outside that framework. Such payment would not be needed to assure the continuation
+of a needed public service, would not protect the continued existence of AASA, and was not
+essential to a continued working relationship with AASA. A reasonable regulator would with
+justification distinguish between the payment of future management fees after the crisis and the
+payment of unpaid past management fees. The provision of sufficient funds to pay the former was
+necessary to retain an Operator and assure the continued public service, while the payment of past
+due management fees was not. As a result of these considerations, the Tribunal does not believe
+that a reasonable regulator would provide for an accommodation of the tariff structure to pay the
+past due management fees and that its unwillingness to do so would not constitute a violation of
+Argentina’s obligations to treat Suez fair and equitably. The Tribunal therefore dismisses the claim
+
+of Suez for unpaid management fees for the years before 2001.
+
+E. Losses on Equity
+87. The four Claimants in the present cases owned 76.74% of the equity in AASA as of
+December 31, 2001, with Suez owning 39.93%, AGBAR owning 25.01%, Vivendi owning 7.55%,
+and AWG owning 4.25%. Of the remaining equity, Banco de Galicia held 8.26%, the firm’s
+
+Employee Stock Ownership Program held 10%, and the International Finance Corporation held
+
+43
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 49 of 68
+
+5%. As a result of the measures taken by Argentina, the Claimants’ equity in AASA is now
+worthless. In order to determine an appropriate remedy under international law for the loss of the
+Claimants’ equity, the Tribunal must determine the value of that equity had Argentina accorded it
+
+fair and equitable treatment as required by the applicable treaties.
+
+88. The meaning of “value” in this context is “market value,” that is, what a willing buyer
+would pay a willing seller. Arbitral tribunals have defined the term “value” by drawing on the
+notion of a market transaction between willing buyers and sellers. Thus, one useful definition of
+market value, elaborated by the Iran—US Claims Tribunal in Starrett Housing Corp v Iran is ‘the
+price that a willing buyer would pay to a willing seller in circumstances in which each had good
+information, each desired to maximize his financial gain, and neither was under duress or threat,
+the willing buyer being a reasonable person’.*° The problem in applying this standard to the
+present cases, as in many investor-state disputes, is that no market for the Claimants’ equity exists
+to which one can readily refer. As a result, tribunals and others concerned with the valuation of
+injuries to investments must have recourse to a variety of techniques whose purpose is to arrive at
+
+an approximation of what that fair market value would be if such a fair market existed in fact.
+
+89. Tribunals appear to use one of three general approaches to valuation: 1) the market or sales
+comparison approach, by which tribunals refer to a market price for an identical or similar asset;
+2) the asset-based or cost approach, by which tribunals arrive at a valuation by looking at the cost
+elements, such as book value of an asset; and 3) income capitalization approaches, often referred
+to as “Discounted Cash Flow” (DCF) approaches, which hold that the value of an asset or business
+is best determined by calculating the stream of income or benefits that it will yield its owner and
+then discounting that stream of income to present value using an appropriate discount rate.*”7 The
+first approach is inapplicable in the present cases because, as noted above, a market or other sales
+comparison for the Claimants’ equity simply does not exist. The second, usually applied in valuing
+physical assets, is also inappropriate since the Claimants’ equity did not give them a claim on the
+physical assets of the water and sewage system managed by AASA, all of which were owned by
+
+the Argentine state. Under the Concession Contract and the related legal framework, the
+
+46 Starrett Housing Corp v. Iran, 16 lran-USCTR 112, 201 (Final Award)
+47 For a full discussion of each of these approaches and the ways in which tribunals have used them, see Irmgard Marboe,
+Calculation of Compensation and Damages in International Investment Law, pp. 185-315 (2009).
+
+44
+
+    
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 50 of 68
+
+Claimants’ equity in AASA entitled them only to a share in the cash flow over the thirty years that
+AASA would generate income from the operation of the water and sewage systems to which
+Argentina had entrusted it. It is for this reason that the Tribunal has concluded that some variation
+of an income capitalization approach is proper to value the Claimants’ lost equity. The Tribunal
+is well aware that, although financial professionals generally favor the use of income capitalization
+methods over other techniques, many tribunals have been skeptical about their use in investor-state
+disputes.** One of the reasons for that skepticism is that claimants in some cases were seeking to
+apply income capitalization techniques to enterprises that did not have an established or firm
+record of earnings. That situation does not apply to AASA. Created in 1993, AASA had a solid
+record of earnings for some seven years before the financial crisis in 2001, a record of earnings
+that provided an ample basis of data for valuing AASA and the Claimants’ equity through the use
+
+of income capitalization methods.
+
+90. The income capitalization or Discounted Cash Flow approach to valuation has generated
+several distinct methodologies, each of which is capable of yielding different results in specific
+cases. One such methodology is the Free Cash Flow Method, which both parties’ experts have
+employed but with markedly different results. The method first requires a determination of a firm’s
+“Free Cash Flow,” which consists of the firm’s revenues, less its operating expenses, taxes paid,
+capital expenses and changes in working capital. Free Cash Flow represents the cash that is
+available for distribution to all the firm’s investors, a group that consists essentially of its lenders
+and its equity shareholders. The two groups do not participate equally. Debt payments in the form
+of interest and principal payments are paid first. Payments to equity in the form of dividends or
+retained earnings are made only if any funds remain after the debt obligations for that period have
+been fulfilled. In order to arrive at the value of the firm, the Free Cash Flow must then be
+discounted to present value using a cost of capital that represents the blended cost of raising capital
+in the form of debt and equity, a cost known as the “Weighted Average Cost of Capital” (WACC).
+The cost of debt represents the interest cost at which lenders are willing to lend to the firm in the
+form of loans or bonds, while the cost of equity represents the expected rate of return that equity
+
+investors expect from their investment. One important factor that affects a firm’s cost of debt
+
+48 See e.g. CME Czech Republic BV v. Czech Republic, Final Award on Damages, March 14, 2003 (2006), 9 ICSID Reports 246,
+(359. See also the concurring opinion in that case of the late Professor Ian Brownlie.
+
+45
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 51 of 68
+
+capital is the fact that corporate tax law usually allows a firm to deduct the payment of interest
+from its total tax obligations, known as the “debt tax shield,” which has the effect of lowering a
+firm’s cost of debt capital and of increasing potentially the amount of cash flow available for
+
+distribution to equity holders, thereby increasing their return on equity.
+
+91. Drawing on scholarly authority, Dr. Deep has argued convincingly that the Free Cash Flow
+method is not appropriate for valuing a firm such as AASA and therefore for valuing the
+Claimants’ equity in that firm. In his Final Report to the Tribunal, he advances four arguments in
+support of that view. First, the application of the Free Cash Flow valuation method usually entails
+the use of a constant discount rate for cash flows in all periods when in fact the project’s debt-to-
+equity ratio is dynamic and constantly changing, which means that the respective cost of debt and
+equity is also changing. As Professor Benjamin C. Esty of the Harvard Business School has
+
+written:
+
+Most project finance investments, however, are not simple valuation problems.
+One feature that makes them complex is the fact that project leverage changes over
+time. For the typical project, the ratio of debt to total capitalization starts at 0%,
+rises to somewhere in the neighborhood of 60%-85%, and then falls back down to
+0% in later years. Because the cost of equity is a function of leverage, both it and
+the WACC will change as leverage changes. Thus the use of a single discount rate
+
+for all years is inappropriate... (emphasis supplied).*?
+
+92. Professor Esty describes AASA’s situation precisely. Based on an initial capitalization of
+USD 120 million, it proceeded to borrow USD 777.5 million, thus raising its ratio of debt to total
+capitalization from 0% to over 85%. Had AASA survived, that ratio would have eventually
+
+dropped to 0% once again by 2018 when its debt to the multilaterals would have been paid off.
+
+93. A second factor that makes the application of the Free Cash Flow method to AASA
+problematic is the nature of its debt structure, and particularly the fact that it issued two different
+kinds of debt, sponsored debt guaranteed by the AASA shareholders, and unsponsored debt which
+
+was not guaranteed. Debt and equity are not clearly delineated because the major shareholders in
+
+© Benjamin C. Esty, “Improved Techniques for Valuing Large-Scale Projects,” The Journal of Project Finance, Spring 1999,
+
+p. 9, quoted in Dr. Deep’s Final Report, 4135.
+
+ 
+
+46
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 52 of 68
+
+AASA also guarantee part of its debt. This factor creates overlap in the role of equity and sponsor-
+
+secured debt, which has significant implications for their riskiness and therefore their cost.
+
+94. Third, the complexity of what should be counted as debt makes the definition of the
+leverage ratio complex and difficult to ascertain in advance, data that is important for the normal
+
+application of the Free Cash Flow method of valuation.
+
+95. Finally, the benefits of the tax shield, which is also an inherent element of the Free Cash
+Flow method, cannot be realized by AASA for many years because its long-term debt obligations
+will prevent it from having taxable income for those years. Over the remaining life of the
+Concession, the tax shield will therefore have a differing and changing impact on AASA’s cost of
+capital and therefore on the value of the firm and the equity owned by the Claimants. For the
+above mentioned reasons, Dr. Deep concluded that the application of the Free Cash Flow method
+is inappropriate to value AASA as a firm and the equity owned by the Claimants, a conclusion
+with which the Tribunal agrees. He therefore proposed the application of two other income
+capitalization methods: the Adjusted Present Value Method and the Flow to Equity Method. As
+will be seen, the separate application of these two methods independently would arrive at two
+
+valuations of AASA that were nearly identical.
+
+96. In order to apply these methods, it is first necessary to project the cash flows of the firm.
+Whereas the Claimants made cash flow projections in United States dollars, the Tribunal believes
+all cash flows, including revenues, capital and operating expenses, taxes, working capital,
+depreciation, and interest payments should be expressed in Argentine pesos. All of AASA’s
+revenues — that is, its cash flows — were in pesos and, as the Tribunal noted in its Decision on
+Liability, its legal framework, unlike those of certain other foreign investors in Argentina at the
+time, did not provide for the payment, adjustment, or conversion of tariffs into US dollars or other
+foreign currencies. However, once the value of losses on equity have been determined as of 2001,
+the proper method of actualization is to convert that amount immediately into US Dollars and then
+to actualize them to present value by applying a risk free rate as was done in actualizing the losses
+on sponsored debt and management fees. The reason for this approach is that an investor is entitled
+to full compensation for its injury and ought not to be prejudiced by the effects of devaluation that
+
+takes place between the date of the wrongful act and the determination of the amount of
+
+47
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 53 of 68
+
+compensation. Several ICSID cases support this position.°° However, Dr. Deep, once having
+determined the value of the Claimants’ lost equity as of 2001, chose to maintain those values in
+pesos until 2006, when he converted them into US Dollars. On the other hand, at the hearing on
+damages, he agreed that an injured foreign investor who received compensation in Pesos for a loss
+in 2001 would in all probability have converted those Pesos to US Dollars immediately. As noted
+above, the Tribunal disagrees with Dr. Deep’s approach because it improperly subjects the
+Claimants to currency risk for five years, thus reducing substantially the compensation to which
+
+they are entitled under international law.
+
+97. In order to arrive at the value of the Claimants’ equity in 2001, it is first necessary to make
+a complex series of projections of the revenues and expenditures of AASA from the time of the
+treaty violations until the contractual end of the Concession in 2023. Dr. Deep agrees with the
+Tribunal on this point and has made his calculations accordingly. Thus, in projecting the portion
+of capital and operating expenses incurred in pesos, these amounts were converted to their nominal
+value in constant pesos through four inflation factors — the consumer price index, an index of
+wholesale prices, an index of wage prices, and the sum of foreign exchange and US inflation rate
+variations -- in a manner similar to that used by the parties’ experts. One important issue in this
+regard that was strongly contested by the Claimants was the appropriate index to apply in order to
+determine the impact of inflation on AASA’s regulated rate of return between the period when the
+US dollar-Argentine peso parity collapsed (2001) and the subsequent quinquennial tariff review
+(2003) and therefore on the value of the asset base used in determining the tariff that would balance
+costs and revenues. Indeed, this issue and the method of actualization discussed above were the
+
+only ones that the Claimants objected to in Dr. Deep’s methodology.
+
+98. In order to update AASA’s asset base value and cash flows, Dr. Deep employed the
+Consumer Price Index (CPI), which is based on a basket of items that are purchased by ordinary
+households in Argentina. Dr. Deep chose the CPI for two reasons. First, he argued that the
+Claimants’ assets invested in AASA to be financial assets and asserted that the CPI was the
+appropriate index to be used in determining the nominal rate of return on financial assets. Second,
+
+he pointed out that water regulators in the United Kingdom employed the Retail Price Index (RPI),
+
+5° E.g. Total at supra note 34; SAUR International S.A. v. Argentine Republic (ICSID Case No. ARB/04/4), Award, May 22,
+2014, 9315.
+
+48
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 54 of 68
+
+an inflation measure similar to the CPI, to adjust the asset bases of regulated entities and that the
+Argentina’s regulatory system was drawn from that of the United Kingdom. The Claimants
+strongly opposed the use of the CPI, arguing instead that a cost-based index, such as the Producer
+Price Index (PPI), was more appropriate for measuring the impact of inflation on the asset base of
+a public utility like AASA. They consider that a cost-based index is best able to evaluate the
+impact of inflation on AASA’s operations and pointed to the fact that the Concession Contract
+provides that in extraordinary tariff revisions reference is to be made to official indices “...which
+should reflect as much as possible variations in wholesale prices...”. Cost indices, like the PPI
+and not the CPI, are best able to reflect changes in wholesale prices. And finally, regardless of the
+standard practice in the United Kingdom, Claimant Suez argued that no evidence was offered that
+regulators in Argentina used the CPI to adjust the asset base of other public utilities. At the hearing,
+it was not challenged that no Argentine utility has ever had its asset base updated by inflation
+according to the Consumer Price Index used by Dr. Deep. Rather, utilities have always used either
+Producer Price Index or another cost-based index, which looks at how the actual costs of the utility
+have been affected by inflation. Moreover, Dr. Deep admitted that the Argentine regulator,
+UNIREN, applied a cost-based index while reviewing the asset base of a utility. He also admitted
+that the reason why UNIREN followed that approach was because it accurately reflected the true
+cost structure of a particular utility. Further, Dr. Deep acknowledged that in every five-year tariff
+
+review, the regulator would look at the actual cost structure of the company.
+
+99. Despite these arguments, the Tribunal supports the indices used by Dr. Deep as indicative
+of what a reasonable regulator would do in a comparable situation. The purpose of applying the
+CPI in Dr. Deep’s model is to adjust the value of the asset base to take account of inflation. It is
+more appropriate to use CPI to adjust asset value than a producer price index whose purpose is to
+adjust costs. More important, the periodic review of tariffs provided by the Water Decree would
+be adjusted to reflect changes in costs and thereby increase AASA’s cash flow. Consequently,
+adjusting the asset base for cost inflation, when such inflation in costs will also be accounted for
+in the periodic tariff reviews, would amount to double compensation for the same inflated costs
+and would therefore be improper. The Tribunal therefore accepts this aspect of Dr. Deep’s
+
+methodology and rejects the Claimants’ arguments on this point.
+
+49
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 55 of 68
+
+100. In order to apply the above-mentioned valuation methods, it is also necessary to make a
+further preliminary determination on AASA’s cost of capital in Argentine pesos. Such a
+determination is necessary to arrive at the appropriate discount rate to calculate the present value
+of the cash flows denominated in Argentine pesos. Such calculation must utilize the cost of debt
+and the cost of equity to what is applicable to raising these sources in capital in Argentina by a
+company operating in Argentina. With respect to the cost of debt, Dr. Deep advised the Tribunal
+that the cost of debt for a water utility such as AASA in 2004 was 16.42%, which represents a
+credit spread of 231 basis points (i.e. 2.31%) over sovereign bonds denominated in Argentine
+pesos. With respect to the cost of equity, Dr. Deep has concluded that the cost of equity for a firm
+similar to AASA but without debt (i.e. an “unlevered firm”) would be 18.58%. The cost of equity
+is dependent on the degree to which a firm is levered since leverage affects the degree of risk. The
+degree of leverage in AASA - defined as the value of AASA’s non-secured debt relative to the
+value of the aggregate firm - ranges from 35.72 % in 2002 to zero in 2018 when AASA is estimated
+to have paid off all of its debt. Accordingly, during that time period, AASA’s cost of equity ranges
+from 19.78% to 18.58%. The Tribunal considers that Dr. Deep’s estimated cost of capital for both
+debt and equity are reasonable. Having made these initial assumptions and determinations,
+Dr. Deep then proceeded to value the Claimants’ equity by applying the two recommended
+
+methods — the Adjusted Present Value Method and the Flow to Equity Method.
+
+101. In applying each of these methods, Dr. Deep determines that the value of AASA as a firm
+in 2001 was ARS 1296.3 million according to the Adjusted Present Value Method and ARS 1293.5
+million according to the Flow to Equity method. He then averages the two values to arrive at a
+value for AASA of ARS 1294.9 million in 2001. Having arrived at a value for the firm as a whole,
+one must then determine the value of the equity portion of its capital structure. The total firm
+value in 2001 was comprised of three components: 1) the present value of the equity, that is the
+value of the dividends to be paid to the shareholders; 2) the present value of Sponsor-secured
+(i.e. guaranteed) debt, that is, the present value of the payments to be made to sponsor-secured
+debt holders; and 3) the present value of non-sponsor secured debt, that is, the present value of
+payments to non-sponsor secured debt holders. This relationship may be represented by the
+
+following formula:
+Vfirm =Vequity +Vssdebt +Vnsdebt.
+
+50
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 56 of 68
+
+102. Dr. Deep calculated that the present value of the stream of payments to non-sponsored debt
+holders in 2001 was ARS 547.7 million and that the present value in that same year to the
+sponsored debt holders was ARS 729.7 million. The total value of all debt, sponsored and non-
+sponsored was therefore ARS 1277.4 million, leaving a residual value for AASA’s equity of only
+approximately ARS 17.5 million in 2001. While AASA thus would have had a positive value if
+Argentina had followed the “without measures” or “but-for” scenarios proposed by Dr. Deep, the
+Tribunal also concludes that the measures Argentina did take during the crisis would have resulted
+in a negative cash flow to AASA’s equity holders in 2002 and it would have remained negative
+
+throughout the life of the Concession. In short, the Claimants’ equity would have been worthless.
+
+103. The total amount of the loss of all the equity holders in AASA as of 2001 was
+approximately ARS 17.5 million. As noted above, the four Claimants in this case held 76.74% of
+AASA’s equity. Their total loss in 2001 was therefore ARS 17.5 million x .7674 = ARS 13.4
+million. In updating this amount to November 1, 2014, Dr. Deep used the same principles that he
+applied in calculating Suez’s loss on management fees discussed earlier in this award, specifically,
+he assumed that the amount of such loss would be maintained in Argentine pesos until 2006. As
+noted above, the Tribunal disagrees with that approach. Specifically, it determined that the
+appropriate actualization methodology is to convert the amount of the loss on equity, i.e. ARS 13.4
+million, into US dollars as of 2001 at the then prevailing exchange rate and thereafter carry it
+forward using the semi-annual Eurodollar rate, compounded. Applying this methodology, the
+value of the Claimants’ loss on equity in US dollars as of November 1, 2014 totaled
+USD 17,466,706. On the basis of their individual equity holdings in AASA, their respective losses
+as of November 1, 2014 were USD 9,088,423 for Suez, USD 5,692.498 for AGBAR,
+USD 1,718,447 for Vivendi, and USD 967,338 for AWG.
+
+F. Losses on Unpaid Dividends
+
+104. The Claimants are also asking for compensation for declared but unpaid dividends, valued
+as of December 30, 2012, at USD 4.6 million. As retained earnings, they constituted part of the
+equity of AASA. The Tribunal considers that the value of unpaid dividends is included in the
+value of the shareholders’ equity in AASA, which was determined above, and that to grant
+recovery of such separate amounts for unpaid dividends would be to allow the Claimants a double
+
+recovery. The Tribunal therefore rejects the claim for unpaid dividends.
+
+51
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 57 of 68
+
+G. Conclusions on Total Losses
+
+105. Based on the foregoing, the Tribunal concludes that the total losses sustained by each of
+
+the four claimants in these cases as of November 1, 2014 is as follows:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SUEZ
+Loss on Guaranteed Debt USD 187,870,445
+Loss on Management Fees USD 26,084,421
+Loss on Equity USD 9,088,423
+TOTAL USD 223,043,289
+AGBAR
+Loss on Guaranteed Debt USD 117,583,950
+Loss on Equity USD 5,692,498
+TOTAL USD 123,276,448
+VIVENDI
+Loss on Guaranteed Debt USD 35,543,057
+Loss on Equity USD 1,718,447
+TOTAL USD 37,261,504
+
+ 
+
+ 
+
+ 
+
+ 
+
+52
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 58 of 68
+
+ 
+
+ 
+
+ 
+
+ 
+
+AWG
+Loss on Guaranteed Debt USD 19,990,471
+Loss on Equity USD 967,338
+TOTAL USD 20,957,809
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOTAL LOSS TO ALL CLAIMANTS: USD 404,539,050 as of November 1, 2014.
+
+V. Costs
+
+106. As part of its award in these cases, the Tribunal is obligated under the applicable rules to
+allocate the costs of these proceedings among the parties. Because one case brought by Claimants
+Suez, AGBAR, and Vivendi is governed by the ICSID Convention and Rules and the other case
+brought by Claimant AWG is governed by the 1976 UNCITRAL Arbitration Rules, the Tribunal
+must apply two different rules of differing contents to each case. With respect to the ICSID case,
+
+Article 61(2) of the ICSID Convention is the relevant provision. It provides:
+
+In the case of arbitration proceedings the Tribunal shall, except as the parties
+otherwise agree, assess the expenses incurred by the parties in connection with the
+proceedings, and shall decide how and by whom those expenses, the fees and
+expenses of the members of the Tribunal and the charges for the use of the facilities
+
+of the Centre shall be paid. Such decision shall form part of the award.
+
+107. The Convention thus recognizes three types of costs: 1) expenses incurred in connection
+with the proceedings; 2) fees and expenses of the members of the Tribunal; and 3) the charges for
+use of the ICSID facilities. However, the Convention gives the Tribunal complete discretion with
+respect to allocation of these costs among the parties and provides no guidance on how that
+discretion is to be exercised. The only references to costs in the ICSID Rules are to be found in
+Arbitration Rules 28 and 47 and they give no precise guidance on how costs are to be apportioned.
+Arbitration Rule 28 empowers the Tribunal to decide at any stage of the proceeding what
+
+proportion of the fees and expenses of the Tribunal and for the use of the ICSID facilities shall be
+
+53
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 59 of 68
+
+paid by individual parties and further to decide how other related costs are to be borne by the
+parties. Arbitration Rule 47 on the content of awards, merely states that the award shall contain
+“... any decision of the Tribunal regarding the cost of the proceeding.” Moreover neither the
+ICSID Convention nor the Rules specify exactly what items the word “costs” and “expenses”
+
+includes.
+
+108. The 1976 UNCITRAL Arbitration Rules! are somewhat more specific on the standards
+
+for cost allocation. Article 40(1) states:
+
+[...] the costs of the arbitration shall in principle be borne by the unsuccessful party.
+However, the arbitral tribunal may apportion each of such costs between the parties
+if it determines that apportionment is reasonable, taking into account the
+
+circumstances of the case.
+In addition, Article 38 defines “costs” to include specified list of items as follows:
+
+(a) The fees of the arbitral tribunal to be stated separately as to each
+
+arbitrator and to be fixed by the tribunal itself in accordance with article 39;
+
+(b) The travel and other expenses incurred by the arbitrators;
+
+ 
+
+(c) The costs of expert advice and of other assistance required by the arbitral
+
+tribunal;
+
+(d) The travel and other expenses of witnesses to the extent such expenses
+
+are approved by the arbitral tribunal;
+
+(e) The costs for legal representation and assistance of the successful party
+
+if such costs were claimed during the arbitral proceedings, and only to the
+
+5! By virtue of Article 8(3)(b) of the Argentina-UK BIT, the version of the UNCITRAL rules under which this case was brought
+is “...the Arbitration Rules of the United Nations Commission on International Trade as then in force...”, meaning in force at the
+time the case is commenced. The version of the UNCITRAL Rules in force at the time this case was commenced is that of 1976.
+The Tribunal notes that the Claimants’ Cost Submission of October 21, 2013, referred to the 2010 UNCITRAL Arbitration Rules.
+The Tribunal further notes that the principles embodied in the latter Rules do not materially differ from the principles that inform
+the applicable 1976 UNCITRAL Arbitration Rules.
+
+ 
+
+54
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 60 of 68
+
+extent that the arbitral tribunal determines that the amount of such costs is
+
+reasonable;
+(f) ...
+
+109. As can be seen, the content of the two sets of rules is different. As a result, the Tribunal
+
+will decide the allocation of costs in the UNCITRAL case and the ICSID case separately.
+
+A. Allocation of Costs in the UNCITRAL Case of AWG v. Argentina
+
+110. Claimant AWG alleges that it has incurred total expenses of USD 1,215,947.82 in
+connection with its case and requests that the Respondent reimburse it the entire amount. It bases
+it claim on its interpretation that Article 40(1) of the UNCITRAL Arbitration Rules
+“...establishes a clear principle that the unsuccessful party shall bear the costs of the arbitration,
+subject to a tribunal’s discretion to apportion costs only if the circumstances of the case so warrant
+
+(and which therefore should be carefully described in an eventual award).”>>
+
+111. In order to ascertain the meaning of the text of Article 40(1), the Tribunal must interpret
+the words “in principle.” The Oxford English Dictionary (3rd edition 2007) defines “in principle”
+as “theoretically; in general but not necessarily in individual cases.” Thus, one may interpret
+article 40(1) of the UNCITRAL Arbitration Rules as providing that in general the unsuccessful
+party is to bear the reasonable costs of the arbitral proceeding but not necessarily in the individual
+case where a tribunal determines that “circumstances” exist to apportion them in some other way
+between the parties. The Rule does not specify what those “circumstances” may be. One may
+argue that the rationale for the rule is that customary international law requires that “full
+reparation” be paid to the party injured by a breach of an international obligation and that, as stated
+by the tribunal in the ICSID case of Southern Pacific Properties (Middle East)Limited v. Arab
+Republic of Egypt, “ [t]here is little doubt that the legal costs incurred in obtaining the
+indemnification must be considered part and parcel of the compensation in order to make the whole
+party who suffered the loss and had to litigate to obtain compensation.”*+ To deny the successful
+
+2 As explained supra, Claimants, in their Costs Submission, drew the Tribunal’s attention to Article 42(1) of the 2010
+
+UNCITRAL Arbitration Rules, which corresponds, almost verbatim, to Article 40(1) of the 1976 UNCITRAL Arbitration Rules.
+53 Claimants’ Cost Submission, October 21, 2013, p. 3.
+
+54 Southern Pacific Properties (Middle East) Limited v. Arab Republic of Egypt (ICSID Case No. ARB/84/3), Award, May 20,
+1992, 4209.
+
+ 
+ 
+ 
+
+ 
+
+55
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 61 of 68
+
+party recovery of costs incurred pursuing its case would have the effect of denying that party's
+“full reparation” as required by international law. On the other hand, one may also argue that the
+meaning of “unsuccessful party” is not completely clear since it may refer to the party has been
+unsuccessful in the case or party that has been unsuccessful with respect to specific issues decided
+
+in that case.
+
+112. Article 40(1) permits the Tribunal to depart from the application of the rule that the
+unsuccessful party must bear the costs of the arbitration if the circumstances of the case justify it.
+However, it does not specify what such circumstances may be. Caron and Caplan in their treatise
+on the UNCITRAL Rules offers one such justification for departing from the blanket application
+
+of Article 40(1) in investor-state cases:
+
+One factor that may mitigate against apportionment of costs based on a party’s
+success in arbitration is the novelty of the issues being decided. This factor may be
+particularly relevant in the context of investor-state arbitration which may present
+new and unsettled questions of international law. It may therefore not always be
+reasonable to require the losing party to pay costs when it was difficult, if not
+
+impossible, for the party to predict the potential success of a novel claim.*°
+
+113. The Tribunal finds that the situation described by Caron and Caplan exists in the present
+case. This case has raised many novel and complex issues of fact and law, as evidenced by the
+fact that of the three basic treaty violations (expropriation, full protection and security, and fair
+and equitable treatment) alleged by the Claimants, they were able to prevail on only one, and that
+the Claimants will gain in an award an amount of compensation far less than they originally
+claimed—and then only after voluminous pleadings and a lengthy hearing on damages that raised
+many difficult questions of finance. The case also generated novel and complex procedural issues,
+such as the right of third parties to make amicus curiae submissions and the proper procedure of
+selecting and guiding a Tribunal-appointed independent financial expert. Moreover, while the
+pleadings on record in this case are vast, counsel for both parties conducted themselves according
+
+to the highest professional standards. Certainly it would have been difficult, if not impossible, for
+
+55 David Caron and Lee M. Caplan, The UNCITRAL Arbitration Rules: A Commentary (2d Ed. 2013), pp. 865-77, referring to
+Article 42(1) of the 2010 UNCITRAL Arbitration Rules.
+
+56
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 62 of 68
+
+a reasonable party to have predicted the potential success of claims arising out of the complex facts
+of the Argentine crisis in this case, let alone the precise amount of compensation that should be
+awarded. Consequently, the Tribunal concludes that there is reason to depart from the general
+principle advanced by Article 40(1). It therefore directs that AWG and Argentina each bear their
+
+own costs and share appropriately in the administrative expenses of the proceeding and of ICSID.
+
+B. Allocation of Costs in the Case of Suez et al v. the Argentine Republic (ICSID
+No. ARB/03/19)
+
+114. Claimants Suez, Vivendi and AGBAR allege that they have incurred expenses totaling
+USD 20,732,568.74 in this case and they request that the Tribunal allocate the entire amount to the
+Respondent for repayment to the Claimants. The specific amounts requested by each Claimant
+individually are as follows: Suez: USD 11,419,813.16; AGBAR: USD 7,153,021.55; and
+Vivendi: USD 2,159,734.03. They assert that Argentina should reimburse them for all their costs
+in these proceedings because 1) the Claimants have established their claim in this case that
+Argentina did violate the applicable BITs and therefore committed an international wrong; 2) there
+is a growing trend in investor-state arbitration for tribunals to require the losing party to pay the
+costs of the proceeding; and 3) during the course of these proceedings Argentina engaged in various
+unjustified actions which lengthened and complicated the arbitral process and therefore increased
+
+its costs.
+
+115. At the outset, it is to be reiterated that Article 61(2) of the ICSID Convention gives the
+Tribunal greater discretion in the allocation of costs than does Article 4 (1) of the UNCITRAL
+Arbitration Rules. It is also to be noted that the practice of ICSID tribunals on this question is by
+no means settled and that historically the position taken by the majority of ICSID awards is that
+each side is to pay its own costs. As noted in the Tribunal’s discussion above on the allocation of
+costs in AWG v. Argentina, this case raised both legal and factual issues of great complexity. The
+claims and arguments advanced by the Claimants were by no means frivolous but neither were the
+defenses and counterarguments of the Respondent. For these reasons and those set forth in the
+above discussion of cost allocation in AWG v. Argentina, and taking into account the novelty and
+complexity of the issues raised during this lengthy proceeding, as well as the great discrepancy
+between the substantial costs incurred by the Claimants and the relatively more modest costs of
+
+the Respondent, the Tribunal has determined that Claimants Suez, AGBAR and Vivendi, on the
+
+s7
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 63 of 68
+
+one hand and the Respondent on the other, should share equally in the administrative expenses of
+this proceeding and of ICSID and that they should each bear the individual costs that they have
+
+each incurred.
+
+VI. Award in the UNCITRAL Case of AWG ». Argentina
+
+116. For the foregoing reasons, the Tribunal renders the following AWARD:
+
+Argentina shall pay to the Claimant AWG the following amounts as compensation for the damages
+caused in respect of AWG’s investments in Argentina, in breach of Article 2 of the Argentina-UK
+
+BIT, as decided in the Decision on Liability of this Arbitral Tribunal of July 30, 2010:
+
+A. Losses on Guaranteed Debt (“Sponsored Debt’’)
+
+- USD 19,990,471, plus interest from and after November 1, 2014.
+
+B. Losses on Equity
+
+- USD 967,338, plus interest from and after November 1, 2014.
+
+C. Costs
+
+AWG on the one hand, and Argentina on the other, shall share equally in the costs of this arbitral
+proceeding® and each shall bear individually the other legal costs and expenses that they have
+
+incurred.
+
+D. Total Amount of the Award in AWG ». Argentina
+
+The total amount of the award is USD 20,957,809, plus interest from and after November 1, 2014.
+The Tribunal notes the commitment of the Claimant, as expressed in the pleadings of this case, not
+to seek compensation in other legal proceedings for any loss already awarded and paid to them in
+
+this arbitration.
+
+56 The Tribunal’s fees and expenses, ICSID’s administrative charges, and all other direct expenses in connection with the
+
+proceeding are paid out of the advances periodically made by the parties in accordance with ICSID Administrative and Financial
+Regulation 14(3)(d). The ICSID Secretariat will provide the parties with a Financial Statement of the cases’ account. Any
+remaining balance in the account will be reimbursed by ICSID to the parties in proportion to the payments that they advanced to
+ICSID.
+
+ 
+
+58
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 64 of 68
+
+E. Interest
+
+On all above amounts, compound interest shall accrue as of the date indicated for each amount, at
+arate equal to the average rate of the six-month U.S. Treasury bills prevailing on such initial date,
+and thereafter at the subsequent six-month average interest rates of six-month U.S. Treasury bills
+prevailing in each following six-month periods, until payment by the Respondent. Such interest
+
+shall be compounded semi-annually.
+
+VII. Award in the Case of Suez et. al. v. the Argentine Republic (ICSID Case
+No. ARB/03/19)
+
+117. For the foregoing reasons, the Tribunal renders the following AWARD:
+
+Argentina shall pay Claimants Suez, AGBAR, and Vivendi, individually, the following amounts
+as compensation for the damages caused in respect of their investments in Argentina in breach of,
+respectively Article 3 of the France-Argentina BIT, and Article IV of the Argentina-Spain BIT, as
+decided in the Decision on Liability of this Arbitral Tribunal of July 30, 2010:
+
+A. With Respect to Claimant Suez
+
+1. Losses on Guaranteed (“Sponsored Debt’’)
+
+- USD 187,870,445, plus interest from and after November 1, 2014
+2. Losses on Equity
+
+- USD 9,088,423, plus interest from and after November 1, 2014
+3. Losses on Management Fees
+
+- USD 26,084,421, plus interest from and after November 1, 2014
+4. Costs
+
+Suez and the other Claimants on the one hand, and Argentina on the other, shall share equally in
+the costs of this arbitral proceeding and each shall bear individually the other legal costs and
+
+expenses that they have incurred.
+
+59
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 65 of 68
+
+5. Total Amount of the Award
+
+The total amount of the award is USD 223,043,289, plus interest from and after November 1,
+2014. The Tribunal notes the commitment of the Claimant, as expressed in the pleadings of this
+case, not to seek compensation in other legal proceedings for any loss already awarded and paid
+
+to them in this arbitration.
+6. Interest
+
+On all above amounts, compound interest shall accrue as of the date indicated for each amount, at
+arate equal to the average rate of the six-month U.S. Treasury bills prevailing on such initial date,
+and thereafter at the subsequent six-month average interest rates of six-month U.S. Treasury bills
+prevailing in each following six-month periods, until payment by the Respondent. Such interest
+
+shall be compounded semi-annually.
+
+B. With Respect to Claimant AGBAR
+
+1. Losses on Guaranteed (“Sponsored Debt’’)
+
+- USD 117,583,950, plus interest from and after November 1, 2014.
+2. Losses on Equity
+
+- USD 5,692,498, plus interest from and after November 1, 2014.
+3. Costs
+
+AGBAR and the other Claimants on the one hand, and Argentina on the other, shall share equally
+in the costs of this arbitral proceeding and each shall bear individually the other legal costs and
+
+expenses that they have incurred.
+4, Total Amount of the Award
+
+The total amount of the award is USD 123,276,448, plus interest from and after November 1,
+
+2014. The Tribunal notes the commitment of the Claimant, as expressed in the pleadings of this
+
+60
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 66 of 68
+
+case, not to seek compensation in other legal proceedings for any loss already awarded and paid
+
+to them in this arbitration.
+5. Interest
+
+On all above amounts, compound interest shall accrue as of the date indicated for each amount, at
+arate equal to the average rate of the six-month U.S. Treasury bills prevailing on such initial date,
+and thereafter at the subsequent six-month average interest rates of six-month U.S. Treasury bills
+prevailing in each following six-month periods, until payment by the Respondent. Such interest
+
+shall be compounded semi-annually.
+
+C. With Respect to Claimant Vivendi
+
+1. Losses on Guaranteed (“Sponsored Debt’’)
+
+- USD 35,543,057, plus interest from and after November 1, 2014.
+2. Losses on Equity
+
+- USD 1,718,447, plus interest from and after November 1, 2014.
+3. Costs
+
+Vivendi and the other Claimants on the one hand, and Argentina on the other, shall share equally
+in the costs of this arbitral proceeding and each shall bear individually the other legal costs and
+
+expenses that they have incurred.
+4, Total Amount of the Award
+
+The total amount of the award is USD 37,261,504, plus interest from and after November 1, 2014.
+The Tribunal notes the commitment of the Claimant, as expressed in the pleadings of this case, not
+to seek compensation in other legal proceedings for any loss already awarded and paid to them in
+
+this arbitration.
+
+61
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 67 of 68
+
+5. Interest
+
+On all above amounts, compound interest shall accrue as of the date indicated for each amount, at
+arate equal to the average rate of the six-month U.S. Treasury bills prevailing on such initial date,
+and thereafter at the subsequent six-month average interest rates of six-month U.S. Treasury bills
+prevailing in each following six-month period, until payment by Respondent. Such interest shall
+
+be compounded semi-annually.
+
+Made in Washington, D.C., in English and Spanish, both versions being equally authentic.
+
+62
+
+Case 1:15-cv-01057-BAH Document 1-4 Filed 07/06/15 Page 68 of 68
+
+Queenrte hfe Cacewee—
+
+Prof. Jeswald W. Salacuse
+
+President
+
+Date: peril {, 2015
+
+W
+
+Prof. Gabriel
+
+  
+
+   
+
+rbitrator Arbitrator
+
+Date: s7ARCH 20, 201f Date: (ARCH 26, 20/S~
+
+63
+

@@ -1,0 +1,550 @@
+Rsm Production v. Freshfields Bruckhaus
+Deringer, 800 F. Supp. 2d 182 (D.C. 2011)
+
+District Court, District of Columbia
+
+800 F. Supp. 2d 182 (2011)
+
+RSM PRODUCTION CORPORATION, Plaintiff,
+v.
+FRESHFIELDS BRUCKHAUS DERINGER U.S. LLP, et al., Defendants.
+
+Civil Action No. 10-00457.
+United States District Court, District of Columbia.
+
+August 3, 2011.
+“184 Daniel L. Abrams, Law Office of Daniel L. Abrams PLLC, New York, NY, Kelly
+M.P. Hebron, Pride Law Office, Largo, MD, for Plaintiff.
+
+Andrew B. Weissman, Danielle Yvette Conley, David William Ogden, Joshua M.
+Salzman, Wilmer Cutler Pickering Hale and Dorr LLP, Washington, DC, for Defendants.
+
+MEMORANDUM OPINION
+BERYL A. HOWELL, District Judge.
+
+The plaintiff in this case apparently seeks to test the adage that "the third time's the
+charm," but the law does not work that way. The plaintiff, RSM Production Corporation
+(hereinafter "RSM"), alleges that it had an exclusive contract for natural gas exploration
+off the shore of Grenada but that corrupt dealings between Grenada and a Grenadian
+company, Global Petroleum Group, Ltd. ("Global Petroleum"), led Grenada illegally to
+terminate its contract with RSM. After an unsuccessful lawsuit in New York and an
+arbitration in London, RSM filed this lawsuit against an international law firm, Freshfields
+Bruckhaus Deringer U.S. LLP, and two of that law firm's attorneys, Jan Paulsson and
+Brian King, (hereinafter "Freshfields"), alleging that these three defendants were part of
+the conspiracy to bribe Grenada officials and deny RSM its licensing rights. Specifically,
+the plaintiff contends that Freshfields conspired to violate the Racketeer Influenced and
+Corrupt Organizations Act (hereinafter "RICO") by representing Grenada before the
+International Centre for the Settlement of Investment Disputes (hereinafter "ICSID")
+arbitration panel tasked with resolving the terminated contract dispute between the
+country and the plaintiff. Plaintiff now seeks at least $500 million in damages from
+Freshfields. The defendants have moved to dismiss the Complaint, inter alia, on grounds
+that the plaintiff's case should be dismissed under the doctrine of res judicata because
+the plaintiff has already presented its claims before the Southern District of New York,
+which dismissed the plaintiff's Complaint for failure to state a claim. Despite the
+plaintiff's “185 hopeful assertion that "this case will remain viable regardless of the
+
+outcome of the New York case," Compl. {| 43, the Court agrees with the defendants that
+this lawsuit is barred by the doctrine of res judicata. Accordingly, for the reasons set forth
+below, the defendants’ motion to dismiss for failure to state a claim is granted.
+
+I. BACKGROUND
+
+Plaintiff's twenty-six page Complaint includes a comprehensive narrative of the underlying
+agreement and dispute between the plaintiff and the Grenadian government, the plaintiff's
+interactions with various government officials and allegedly corrupt businessmen, as well
+as a history of Grenada's alleged "well-known reputation for criminal bribery and
+corruption." Compl. | 31. Many of the allegations, however, are largely extraneous and
+irrelevant to the issues in this case. The Court therefore recites only the allegations
+necessary for resolution of the pending motion.
+
+Plaintiff RSM is a Texas corporation with its principal place of business in Denver,
+Colorado. /d. {| 1. On July 4, 1996, RSM and the nation of Grenada entered into an
+exclusive "Petroleum Agreement," which "was to have resulted in an oil and natural gas
+hydrocarbon exploration, development and production license being issued as a matter
+of routine performance by Grenada to RSM." /d. J] 10; Compl., Ex. A (Agreement Between
+the Government of Grenada and RSM Production Corporation). The agreement provided
+that "[als soon as possible but in any event no later than ninety (90) days after the
+Effective Date," RSM was to apply for, and the Grenadian Minister was to grant, an
+Exploration License. Compl., Ex. A at 4.
+
+The agreement between RSM and Grenada included a force majeure provision, which
+stated that RSM's failure to fulfill any of the terms of the agreement would not be treated
+as a breach of the agreement if that failure was the result of "any event beyond the
+reasonable control of the party claiming to be affected by such event," including "any
+adverse claim or dispute relating to [Grenada's] ownership of or control over the
+petroleum in any portion of the Agreement Area." /d. at 26. Pursuant to this provision, on
+July 18, 1996, RSM provided notice to the Government of Grenada that it was invoking
+the agreement's force majeure clause due to "boundary disputes," and Grenada agreed
+to stay implementation of the agreement. Compl. J] 18.
+
+In September 1996, the plaintiff alleges that Gregory Bowen, Grenada's former Deputy
+Prime Minister and former Minister of Agriculture, Lands, Forestry, Fisheries, Public
+Utilities, and Energy, informed Jack Grynberg, RSM's Chief Executive, that he expected
+significant bribe payments in order for RSM and Grynberg to conduct business in
+Grenada. /d. J] 5; 10-12. The plaintiff alleges that Mr. Grynberg refused to pay the bribes,
+and Mr. Bowen then began to "obstruct[], harass[] and intimidate[] RSM and Grynberg in
+their efforts to explore, develop and produce Grenada's vast oil and natural gas
+resources." /d. J 12.
+
+“186 In December 2003, the plaintiff alleges that Lev Model, a "convicted criminal" and
+"well-known, accomplished thief in Russian petroleum circles," formed a Grenadian
+company called Global Petroleum. /d. {J 7, 14-17. Global Petroleum's "primary purpose,"
+according to the plaintiff, is to "facilitate the payment of monies to Grenadian Government
+officials as well as to the Government of Grenada, and to act as a front for other
+individuals and oil companies interested in exploring, developing and ultimately extracting
+
+petroleum from offshore Grenada's vast hydrocarbon accumulations." /d. | 7. As part of
+these dealings, RSM alleges that shortly after Global Petroleum's formation Grenada
+began to take "active steps to get out if its exclusive contract with RSM." /d. J 18.
+
+On January 12, 2004, a month after Global Petroleum's formation, RSM wrote to the
+Prime Minister of Grenada to inform him that it was in the process of revoking the force
+majeure clause. /d. J 20. On April 14, 2004, RSM delivered its official application for an
+oil and natural gas exploration license to Grenada's Permanent Secretary of the Ministry
+of Finance. /d. 21. On April 27, 2004, Mr. Bowen informed RSM that its application for
+an exploration license had been filed more than ninety days after the revocation of
+the force majeure clause and was therefore denied as untimely. /d. J] 23-24. In
+response, RSM filed a Request for Arbitration with the ICSID in an effort to resolve the
+dispute. /d. | 29.
+
+In late 2005 and early 2006, while the ICSID arbitration proceeding was still pending, the
+plaintiff alleges that Mr. Grynberg was contacted by Lev Korchagin, the director and legal
+advisor for Global Petroleum, and Michael Melnicke, a New York businessman who
+served as "Ambassador-at-Large" for Grenada. /d. {] 8, 9, 36-40. Messrs. Korchagin and
+Melnicke offered to assist in the resolution of the dispute between RSM and
+Grenada. /d. Mr. Korchagin told Mr. Grynberg that if Global Petroleum, which allegedly
+"own[ed]' the Government of Grenada," could participate as a partner in RSM's offshore
+Grenada license, Global Petroleum "would work everything out." /d. {| 37. Additionally,
+Mr. Melnicke asked that, in compensation for his efforts to resolve RSM's underlying
+dispute, he receive a "substantial overriding royalty" based on the amount of oil and gas
+that was ultimately produced as a result of the RSM/Grenada contract. /d. 40. Mr.
+Grynberg and RSM refused subsequent meetings with Mr. Korchagin, but continued to
+informally meet with Mr. Melnicke. /d. J] 37-38. During these meetings, Mr. Melnicke
+informed Mr. Grynberg that Mr. Bowen had been bribed by two individuals—Len Blavatnik
+and Mikhail Fridman—so that their group could develop the petroleum reserves believed
+to exist off the shore of Grenada. /d. J 42. Mr. Melnicke "further revealed" that Messrs.
+Blavatnik and Fridman had promised additional bribes to the Grenadian government and
+had promised to pay Grenada's legal fees associated with Grenada's ICSID arbitration
+proceeding with RSM. /d.
+
+On October 31, 2006, RSM filed suit against nine defendants, including Messrs.
+Blavatnik, Bowen, Fridman, Korchagin, and Model, and Global Petroleum in the U.S.
+District Court for the Southern District of New York, alleging tortious interference with
+contract, tortious interference with prospective business advantage, and civil conspiracy
+to commit tortious interference. /d. | 43; See RSM Prod. Corp. v. Fridman, 643__F.
+Supp. 2d_ 382 (S.D.N.Y. 2009). In Fridman, the district court dismisse “187 RSM's
+Complaint with prejudice for failure to state a claim and observed that it "reflect[ed] a
+profound and fundamental misunderstanding of the legal and procedural requirements
+for filing a complaint in a United States court." Fridman, 643 F.Supp.2d at 415. The
+dismissal was affirmed by the Second Circuit. See RSM Prod. Corp. v. Fridman, 387 Fed.
+Appx. 72 (2d Cir.2010).
+
+Between the filing of the plaintiff's Complaint in the Southern District of New York and that
+case's dismissal, RSM and Grenada proceeded with arbitration before the ICSID. On
+June 21, 2007, Mr. Bowen testified at the ICSID arbitration that Global Petroleum was
+
+financing the legal fees Grenada incurred during the arbitration process. Compl. {| 44.
+Grenada's legal services during the arbitration were performed by defendants Freshfields
+Bruckhaus Deringer U.S. LLP, the United States affiliate of an international law firm based
+out of the United Kingdom, and two of the firm's attorneys, Brian King, a partner based
+out of Freshfields' New York and Amsterdam offices, and Jan Paulsson, a principal
+consultant in Freshfields' Paris office. /d. {J 2-4, 50, 62. The plaintiff alleges that, through
+September 2009, Global Petroleum had invested over $10 million in Grenada's defense
+in the arbitration, including $2.5 million personally advanced by Mr. Model. /d. {J 46, 48.
+
+Ultimately, the defendants obtained a favorable ruling for the Grenadian government from
+the ICSID arbitration panel, which ruled that RSM had indeed filed its application for an
+exploration license one day after the expiration of the ninety day period provided for in
+the agreement./d. J 29. Following resolution of RSM's claims, in June 2008 Grenada
+issued an Offshore License to Global Petroleum. /d. | 49.
+
+On March 17, 2010, RSM filed a Complaint in this Court, alleging that defendants
+Freshfields, and Messrs. Paulsson and King conspired to commit an act in violation of the
+Racketeer Influenced and Corrupt Organizations Act. /d. 9 57; 18 U.S.C. § 1962(d). The
+plaintiff asserts that Global Petroleum, and Messrs. Model, Korchagin, Bowen and others
+engaged in an association-in-fact RICO enterprise "designed for the common purpose of
+enriching Bowen and other high-level Grenadian officials ... and obtaining rights to receive
+an exclusive exploration license for the development of vast hydrocarbon accumulations
+in Grenada's offshore waters." /d. The plaintiff further asserts that, by representing
+Grenada in the ICSID arbitration, the defendants "knowingly participat[ed] in and
+benefit[ted] from the legal fees arising out of the conspiracy [and thus] have all
+participated in and benefitted from a racketeering enterprise." /d. | 61. As a result of this
+alleged conspiracy, the plaintiff seeks to recover "no less (and possibly considerably
+more) than $500 million, which may be trebled [under 18 U.S.C. § 1964(c)], along with
+attorney's fees." Id. J 63.
+
+On June 1, 2010, the defendants moved to dismiss the Complaint for lack of subject
+matter jurisdiction, pursuant to Federal Rule of Civil Procedure 12(b)(1), and “188 for
+failure to state a claim, pursuant to Federal Rule of Civil Procedure 12(b)(6). Defs.' Mot.
+Dismiss, ECF No. 8, at 1. This motion is now pending before the Court. For the reasons
+discussed below, the Court grants the defendants’ motion to dismiss for failure to state a
+claim because the doctrine of res judicata precludes this Court's resolution of plaintiff's
+claims."
+
+II. STANDARD OF REVIEW
+
+To survive a motion to dismiss under Federal Rule of Civil Procedure 12(b)(6), a plaintiff
+need only plead "enough facts to state a claim to relief that is plausible on its face" and
+to "nudge[] [his or her] claims across the line from conceivable to plausible." Bell Atl. Corp.
+v. Twombly, 550_U.S._544, 570, 127_S. Ct._1955,167_L. Ed. 2d_929 (2007);
+FED.R.CIV.P. 12(b)(6). "[A] complaint [does not] suffice if it tenders naked assertions
+devoid of further factual enhancement." Ashcroft v. Iqbal,556_U.S._662,129_S. Ct.
+1937, 1949,173__L. Ed. 2d__868 (2009) (internal quotation marks omitted)
+(citing Twombly, 550 U.S. at 557, 127_S. Ct._1955). Instead, the complaint must plead
+
+facts that are more than "merely consistent with" a defendant's liability; "the plaintiff [must
+plead] factual content that allows the court to draw the reasonable inference that the
+defendant is liable for the misconduct alleged." /d. at 1949. The Court must "assume all
+the allegations in the complaint are true (even if doubtful in fact) ... [and] must give the
+plaintiff the benefit of all reasonable inferences derived from the facts
+alleged." Aktieselskabet AF 21. November 2001 v. Fame Jeans Inc., 525_F.3d_8, 17
+(D.C.Cir. 2008) (internal quotations and citations omitted).
+
+III. DISCUSSION
+
+The plaintiff asserts one cause of action in this case: that the defendants entered into a
+conspiracy with Global Petroleum, Messrs. Bowen, Model, and others to commit a RICO
+violation. Compl. J] 55-62; see 18 U.S.C. § 1962(d).!1 The defendants argue, inter
+alia, that the plaintiff's cause of action is barred by the doctrine of res judicata, or claim
+preclusion, because the “189 plaintiff's allegations against the defendants "rest[] on the
+same allegations of bribery and corruption that were the subject of [the plaintiff's] action
+in the Southern District of New York," which that court dismissed and the Second Circuit
+affirmed. Def.'s Mem. Supp. Mot. Dismiss ("Def.'s Mem."), at 13; see also RSM Prod.
+Corp. v. Fridman, 643_F. Supp. 2d_382 (S.D.N.Y.2009), aff'd 387 Fed.Appx. 72 (2d
+Cir.2010). The Court agrees with the defendants that the Second Circuit's affirmance of
+the dismissal of the plaintiff's claims was a final judgment on the merits of the allegations
+underlying the instant case. Consequently, the plaintiffs current lawsuit must be
+dismissed.
+
+A. Requirements for Res Judicata
+
+The doctrine of res judicata bars the court from hearing "repetitious suits involving the
+same cause of action once a court of competent jurisdiction has entered a final judgment
+on the merits." United States v. Tohono O'Odham Nation, _ U.S. __, 131_S. Ct.
+1723, 1730,179_L. Ed. 2d_723 (2011) (internal quotations omitted). The doctrine
+plays an integral role in advancing the "the conclusive resolution of disputes" and
+"preclude[s] parties from contesting matters that they have had a full and fair opportunity
+to litigate protects [sic] their adversaries from the expense and vexation attending multiple
+lawsuits, conserves judicial resources, and fosters reliance on judicial action by
+minimizing the possibility of inconsistent decisions." Montana v. United States, 440_U.S.
+147, 153-54, 99 Ss. Ct._970,59_L. Ed. 2d_210 (1979); Drake v. FAA, 291_F.3d
+59, 66 (D.C.Cir.2002) ("[A] ‘final judgment on the merits of an action precludes the parties
+or their privies from relitigating issues that were or could have been raised in that action,"
+quoting Allen v. McCurry, 449_U.S._90, 94,101_S. ct._411,66_L. Ed. 2d
+308 (1980)). Res judicata is an affirmative defense that is usually pled in a defendant's
+answer, but courts have also allowed parties to assert the defense in a Rule 12(b)(6)
+motion to dismiss. Nader v. Democratic Nat'l Comm.,590_F. Supp. 2d_164, 169
+(D.D.C.2008) (citing Stanton v. D.C. Ct of Appeals, 127__F.3d__72, 76-77
+(D.C.Cir.1997)). A subsequent lawsuit is barred by the doctrine of res judicata "if there
+has been prior litigation (1) involving the same claims or cause of action, (2) between the
+same parties or their privies, and (3) there has been a final, valid judgment on the merits,
+(4) by a court of competent jurisdiction." Porter v. Shah,606__F.3d__809, 813-14
+
+(D.C.Cir.2010); Capitol Hill Grp. v. Pillsbury, Winthrop, Shaw, Pittman, LLC, 569_F.3d
+485, 490 (D.C.Cir. 2009) (en banc); Smalls v. United States, 471__F.3d__186, 192
+(D.C.Cir.2006) (citing Blonder-Tongue Labs., Inc. v. Univ. of Ill. Found., 402_U.S._ 313,
+323-24,91_S. Ct._1434,28_L. Ed. 2d_788 (1971)).
+
+B. Analysis
+
+In this case, the parties agree that the third and fourth requirements for application of res
+judicata are met. See Defs.' Mem., at 14; Pl.'s Mem. Opp'n Mot. Dismiss, ECF No. 12
+(hereinafter "PI.'s Opp'n Mem."), at 29-33; PI.'s Notice of Suppl. Authority, ECF No. 13, at
+1-2. With regard to the requirement that there be a final, valid judgment on the merits, the
+Southern District of New York dismissed RSM's complaint "against all Defendants for
+failure to state a claim pursuant to Fed.R.Civ.P. 12(b)(6), because it [did] not contain
+allegations concerning each of the material elements necessary to sustain recovery under
+any of the claims asserted." Fridman, 643 F.Supp.2d at 404 (internal quotations omitted).
+In its opposition papers, the plaintiff argued that the Southern District of New York did not
+render a final judgment on the merits as to Mr. “190 Bowen because he was dismissed,
+“pefore any merits-based determination,” on jurisdictional grounds under the Foreign
+Sovereign Immunities Act. Pl.'s Opp'n Mem., at 30-31. On appeal, however, the Second
+Circuit stated in a decision issued after the plaintiff had submitted its opposition papers
+that Mr. Bowen was not entitled to immunity, but nonetheless affirmed Mr. Bowen's
+dismissal because the Second Circuit concluded that the plaintiff had failed to state a
+claim against any of the defendants.iFridman, 387 Fed.Appx. at 75 ("We need not,
+however, remand to the district court for further proceedings regarding whether Bowen
+may be entitled to immunity on other grounds, because the district court concluded, and
+we agree, that plaintiffs have failed in any event to state a civil conspiracy claim.") (internal
+citations omitted). The plaintiff concedes that "Mr. Bowen has now received a dismissal
+on the merits in the New York case." PI.'s Notice of Suppl. Authority, ECF. No. 13, at 1.17
+
+Regarding the fourth requirement for application of res judicata, the parties do not dispute
+that the Southern District of New York was a court of competent jurisdiction. See Pl.'s
+Opp'n Mem., at 29-33; see also Fridman, 643 F.Supp.2d at 400. The Court therefore
+narrows its discussion to whether the Fridman action involved (1) the same claims or
+cause of action, and (2) the same parties or their privies.
+
+1. The Fridman Case Involved The Same Claims Or Cause Of Action As
+This Case.
+
+The first requirement for application of res judicata requires there to be prior litigation
+involving "the same claims or cause of action." Tohono O'Odham, 131 S.Ct. at 1730. This
+"identity element" is satisfied when "there is an identity of the causes of action [and] the
+cases are based on the same nucleus of facts." Capitol Hill Grp., 569 F.3d at 490 (internal
+citations and quotations omitted). To determine whether two cases arise out of the same
+nucleus of facts, "the court will consider ‘whether the facts are related in time, space,
+origin, or motivation, whether they form a convenient trial unit, and whether their treatment
+as a unit conforms to the parties' expectations or business “191 understanding and
+usage." Apotex, Inc. v. FDA, 393_F.3d_210, 217 (D.C.Cir. 2004) (quoting /.A.M. Nat'l
+Pension Fund v. Indus. Gear Mfg. Co., 723_F.2d_944, 949 n. 5 (D.C.Cir.1983)). The
+
+case presently before the Court certainly arises from the same nucleus of facts that was
+presented to the Southern District of New York in Fridman. The Court therefore concludes
+that the identity element of res judicata is satisfied.
+
+In Fridman, as in this case, the plaintiff alleged corrupt dealings among Messers. Bowen,
+Korchagin, and Model, Global Petroleum, and the government of Grenada that resulted
+in Grenada's termination of its contract with RSM. As the defendants note, "RSM's claims
+against Freshfields rests on the same allegations of bribery and corruption that were the
+subject of its action in the Southern District of New York, a suit that was dismissed with
+prejudice," and the plaintiff's Complaint in this case "merely add[s] Freshfields as another
+supposed member of the conspiracy alleged in Fridman." Defs.' Mem., at 13, 16. Indeed,
+four of the named defendants in Fridman—Messers. Bowen, Korchagin, and Model, and
+Global Petroleum—are listed as "Conspirators Who Are Not Named as Defendants" in
+the Complaint, and they are alleged to have perpetuated the same underlying bribery
+scheme to deny RSM its exploration license so that the license could instead be awarded
+to Global Petroleum. See Compl., J] 5-9; see also Fridman, 643 F.Supp.2d at 382. In
+fact, the Complaint in this case and the Third Amended Complaint in Fridman both include
+sections entitled "The Scheme Is Implemented," which includes much of the
+same verbatim language. See Compl. {ff 18-30; Defs.' Mot. Dismiss, Ex.
+B, Fridman Third Amended Complaint, J] 29-40. Both of these sections detail Grenada's
+rejection of RSM's application for the GSM exploration license, and the "scheme" to which
+plaintiff refers in both complaints—in other words, the illegal activity that forms the basis
+of RSM's cause of action—is clearly the same in this case as it was in Fridman.
+
+The plaintiff does not dispute that the operative facts of Fridman are identical to the facts
+presented in this case. Rather, the plaintiff argues that (1) the identity element of res
+judicata is not satisfied because "this case sounds in RICO conspiracy, not the state law
+claims which were asserted in New York;"® and (2) "many of the facts leading to the
+institution of this lawsuit were discovered long after the 2006 commencement of the New
+York lawsuit." See Pl.'s Opp'n Mem., at 33. First, plaintiffts argument that res
+judicata does not apply because it presents different legal claims is erroneous and
+demonstrates a fundamental misunderstanding of the principle underlying the doctrine
+of res judicata, which is that "it is the facts surrounding the transaction or occurrence
+which operate to constitute the cause of action, not the legal theory on which a litigant
+relies." Capitol Hill Grp., 569 F.3d at 490 (internal quotations omitted). Since "claim
+preclusion precludes “192 the litigation of claims, not just arguments," Nat. Res. Defense
+Council, 513 F.3d at 261 (emphasis in original), the plaintiff cannot re-litigate an issue
+simply by asserting a different legal claim. See Apotex, 393 F.3d at 217-218 ("There are
+no new facts. [The plaintiff] is simply raising a new legal theory. This is precisely what is
+barred by res judicata."); see also Herrion v. Children's Hosp. Nat'l Med. Ctr., No. 10-cv-
+00254, 786_F. Supp. 2d_359, 370, 2011 wl 2014031, at *9 (D.D.C. May 24, 2011)
+("It is well-established that res judicata applies regardless of the claims or legal theories
+actually relied upon in the earlier litigation."); Youngin's Auto Body v. District of
+Columbia, 775__F. Supp. 2d_1, 7 (D.D.C.2011) ("[Flor the purposes of claim
+preclusion, the legal theory upon which the plaintiff relies is irrelevant; rather, the relevant
+inquiry is whether the plaintiff's claims arise out of the same “common nucleus of facts'
+as the [earlier litigation].") (internal citation omitted). The fact that the plaintiff asserts a
+different legal claim in this case does not preclude application of the res judicata.
+
+Second, plaintiff argues that facts leading to the filing of this case were discovered after
+commencement of the Fridman case in 2006. These facts include "Lev Model's criminal
+conviction, Lev Model's payment of the college tuition of Gregory Bowen's daughter, and
+Bowen's June 2007 sworn testimony confirming Global Petroleum's payment of
+Grenada's legal fees." See Pl.'s Opp'n Mem., at 33. While the plaintiff may not have been
+aware of these facts in 2006, the plaintiff was certainly aware of them before the
+termination of the Fridman proceedings because all three of the factual allegations that
+were purportedly undiscovered appear in the plaintiff's Third Amended Complaint
+in Fridman. See Defs.' Mot. Dismiss, Ex. B, Fridman Third Am. Compl., [I] 26-27, 53, 55.
+The Southern District was presented with allegations that Freshfields was serving as
+Grenada's counsel before the ICSID arbitration panel, that some of the defendants "had
+promised to pay all of Grenada's legal fees in connection with the arbitration between
+RSM and Grenada," and that "Global Petroleum Group has invested over $4 million (and
+quite possibly much more) into the legal defense of the Government of Grenada in the
+arbitration against RSM." /d. {J 40, 50, 53. The complaints in this case and Fridman arise
+from the exact same nuclei of facts—all of which were known to the plaintiff when it filed
+its Third Amended Complaint before the Southern District of New York.
+
+The plaintiff relies on a non-binding, factually inapposite case from the Seventh
+Circuit, Doe v. Allied-Signal, Inc., 985_F .2d_908(7th Cir.1993), to argue that it was not
+required to amend its Fridman complaint to add Freshfields as a defendant in order to
+avoid res judicatain a later proceeding. See Pl.'s Opp'n Mem., at 33. The plaintiff's
+interpretation of Allied-Signal is incorrect. In Allied-Signal, the Seventh Circuit held that a
+plaintiff was not required to amend her complaint in the first action when the damages
+she was seeking in the second action arose from an adverse judgment in the first
+action. Allied-Signal, 985 F.2d at 915. In other words, the claims asserted by the plaintiff
+in the second case were not even ripe until the conclusion of the first case. /d. Since it
+would "twist res judicata grotesquely out of shape [to] hold[] that a plaintiff must include
+not only all claims arising from the same transaction, but must anticipate future harms
+from adverse judgments yet to be rendered," the Seventh Circuit found that the plaintiff
+was not required to amend her complaint to incorporate claims that were not ripe at the
+time. /d.
+
+“193 The situation in Allied-Signal bears no resemblance to the factual circumstances at
+issue here. The record from the Fridman proceeding demonstrates that the plaintiff knew
+of the relevant, operative facts that it asserts in this case at the time it filed its Third
+Amended Complaint in Fridman, including that Freshfields was serving as Grenada's
+attorney in the ICSID arbitration. See Compl. {| 40; Defs.' Mot. Dismiss, Ex.
+B, Fridman Third Am. Compl. Res judicata "prevents parties from relitigating issues they
+... could have raised in a prior action on the same claim," and this is exactly what the
+plaintiff is attempting to do in this case. NextWave Personal Commc'ns, Inc. v. FCC, 254
+F.3d_130, 143 (D.C.Cir.2001). Accordingly, since the plaintiffs Complaint arises out of
+the same nucleus of facts as presented to the Southern District in Fridman, the Court
+concludes that the identity element of res judicata is satisfied.
+
+2. The Defendants Are In Privity With The Fridman Defendants
+
+The second element of res judicata requires that the prior litigation be between the same
+parties or their privies. See Natural Res. Def. Council, 513 F.3d at 260. The plaintiff
+asserts that "Freshfields does not claim it was in privity with any of the Defendants who
+actually received dismissals on the merits in the New York case. In fact, the New York
+Defendants which obtained merits-based dismissals successfully argued that the New
+York Complaint did not adequately link them with Grenada, Bowen, Model or Global
+Petroleum." See PI.'s Opp'n Mem., at 32. The plaintiff's interpretation of the district court's
+decision in Fridman, however, is incorrect, particularly in light of the Second
+Circuit's Fridman decision.
+
+As a preliminary matter, each of the defendants in the New York case received a merits-
+based dismissal. The district court and the Second Circuit held that RSM had failed to
+state a claim as to any of the defendants in Fridman, including Messrs. Bowen and
+Model, and Global Petroleum, whom plaintiff claims were dismissed merely on procedural
+grounds and are named as Freshfields’ co-conspirators in this case. Indeed, plaintiff
+concedes that the Second Circuit dismissed Mr. Bowen on the merits in its decision. Pl.'s
+Notice of Suppl. Authority, ECF. No. 13, at 1. With regard to Mr. Model and Global
+Petroleum, the district court in Fridman declined to enter default judgment against these
+defendants, despite the fact that they had not appeared to contest RSM's allegations,
+precisely because the plaintiff had also failed to state a claim as to these defendants.
+Indeed the district court clearly stated that RSM's allegations against Model and Global
+Petroleum Group "suffers from the same defects as their allegations against the
+appearing Defendants: they are not based on any cognizable facts properly before the
+court. Indeed, they are based on the same wishful thinking, both as to the claims asserted
+and as to the legal standards for filing a complaint, as Plaintiffs' allegations with respect
+to the appearing Defendants." Fridman, 643 F.Supp.2d at 414-15.
+
+In this case, the plaintiff's Complaint specifically lists Messrs. Bowen and Model, and
+Global Petroleum as "Conspirators Who Are Not Named As Defendants." See Compl. 1]
+5-7. Members of a conspiracy are deemed under the law to be in privity with each
+other. See Airframe Sys., Inc. v. Raytheon Co., 601_F.3d_9, 17-18 (1st Cir.2010)
+(stating that co-conspirators are in privity for purposes of res judicata when "the [later]
+claims were or could have been brought against the original defendant in the original suit
+and the subsequent suit tried to hold related defendants liable on related claims.")
+(internal *194 quotations omitted) (alteration in original); Gambocz v. Yelencsics, 468
+F.2d_ 837, 841-42 (3d Cir.1972) (holding that unnamed co-conspirators sued in a
+subsequent suit could assert a claim preclusion defense when the plaintiff had sued other
+conspirators on the same claims in the first suit). Although Freshfields was not named as
+a defendant in the Fridman case, there clearly can be no dispute that Freshfields was in
+privity with these Fridman defendants, whom plaintiff itself alleges are Freshfields’ co-
+conspirators. See McLaughlin v. Bradlee, 599_F. Supp.__839, 848 (D.D.C.1984)
+(holding that a defendant who was not named in plaintiffs prior suits could assert res
+judicata because the conspiracy the plaintiff was attempting to allege had already been
+dismissed against the other defendants in earlier litigation). As discussed above, the
+Southern District dismissed these parties because the plaintiff had failed to allege facts
+sufficient to support its allegations of illegal activity. The Second Circuit's decision only
+further cemented that these Fridmandefendants received a_ merits-based
+judgment. Fridman, 387 Fed.Appx. at 75 (stating that the "plaintiffs have failed in any
+
+event to state a civil conspiracy claim" and citing Wright & Miller for the proposition that
+"[i]f the action is dismissed, it should be dismissed as to the defaulting party as well as
+the remaining defendants," 10A Charles Alan Wright, Arthur R. Miller & Mary Kay
+Kane, Federal Practice and Procedure § 2690, at 75 (3d ed. 1998)).
+
+Here, the plaintiff attempts to assert claims against Freshfields for participation in the
+exact same alleged corrupt conspiracy that was presented to the Southern District of New
+York and the Second Circuit in Fridman. Pursuant to the doctrine of res judicata, the
+Court will not allow the plaintiff to re-litigate its previously dismissed claims by simply
+asserting a new legal theory and naming a party that could have been named in the earlier
+suit. See San Remo Hotel L.P. v. City and Cty. of San Francisco, Cal.,545_U.S._ 323,
+336 n. 16,125 S. Ct._2491,162_L. Ed. 2d_315 (2005) ("Under res judicata, a
+final judgment on the merits of an action precludes the parties or their privies from
+relitigating issues that were or could have been raised in that action.") (internal quotation
+omitted); |.A.M. Nat'l Pension Fund, Benefit Plan A v. Indus. Gear Mfg. Co., 723_F.2d
+944, 949 (D.C.Cir.1983) (noting that res judicata "forecloses all that which might have
+been litigated previously"); Asemani v. Ahmadinejad, No. 09-cv-0611, 2009 WL
+928383, at *1 (D.D.C. April 2, 2009) (holding, in a case in which the court had already
+dismissed the plaintiffs claims on the merits, that a complaint with the same factual
+allegations filed against a new defendant was barred by res judicata "[b]ecause the
+underlying facts of [the] civil action existed at the time of the prior civil action."); see also
+18A Charles Alan Wright, Arthur R. Miller & Mary Kay Kane, Federal Practice and
+Procedure § 4464.1 (2d ed.) (res judicata is most appropriate "in cases that seem to
+reflect no more than a last desperate effort by a plaintiff who is pursuing a thin claim
+against defendants who were omitted from the first action because they were less directly
+involved than the original defendants.").
+
+IV. CONCLUSION
+
+The Court concludes that the plaintiffs claims in this case are barred under res
+judicata. Accordingly, the defendants’ motion to dismiss is granted. An Order consistent
+with this memorandum opinion will be entered.
+
+NOTES
+
+[1] The Court has jurisdiction to hear this case pursuant to 28 U.S.C. § 1331 because the
+plaintiff asserts a cause of action under the Racketeer Influenced and Corrupt
+Organizations Act. Venue is proper in this District pursuant to 28 U.S.C. § 1391(a) and
+18 U.S.C. § 1965(a) because Freshfields maintains an office and transacts business in
+the District of Columbia.
+
+[2] Four of the nine defendants (Messrs. Bowen, Model, and Korchagin, and Global
+Petroleum) in the New York suit are labeled "Conspirators Who Are Not Named As
+Defendants" in the instant lawsuit, Compl. {| 5-9, while the other five defendants are
+alleged to have used Global Petroleum "as a front." /d. J 7.
+
+[3] RSM sought to have the panel's ruling annulled, and on April 28, 2011, the Annulment
+Committee issued an order discontinuing the proceeding and awarding Grenada the costs
+
+it incurred in that proceeding. Def.'s Notice of Suppl. Authority dated May 4, 2011, Ex. A
+(ICSID Order of the Committee).
+
+[4] The defendants have also argued that the Complaint must be dismissed on grounds
+that the defendants are entitled to immunity under Articles 21 and 22 of the ICSID
+Convention, the Complaint is barred by the applicable statute of limitations, and that the
+plaintiff has failed to state a claim because the Complaint is "utterly devoid of any factual
+basis." Defs.' Mem. Supp. Mot. Dismiss, ECF No. 8, at 2. Given resolution of the pending
+motion on grounds of res judicata, the Court need not consider the defendants’ other
+arguments.
+
+[5] Section 1962(d), conspiracy to violate RICO, provides that "[i]t shall be unlawful for
+any person to conspire to violate any of the provisions of subsection (a), (b), or (c) of
+[Section 1962]." 18 U.S.C. § 1962(d). Subsections (a), (b), and (c) provide that: "(a) It
+shall be unlawful for any person who has received any income derived, directly or
+indirectly, from a pattern of racketeering activity or through collection of an unlawful debt
+in which such person has participated as a principal within the meaning of section 2, title
+18, United States Code, to use or invest, directly or indirectly, any part of such income,
+or the proceeds of such income, in acquisition of any interest in, or the establishment or
+operation of, any enterprise which is engaged in, or the activities of which affect, interstate
+or foreign commerce ...; (b) It shall be unlawful for any person through a pattern of
+racketeering activity or through collection of an unlawful debt to acquire or maintain,
+directly or indirectly, any interest in or control of any enterprise which is engaged in, or
+the activities of which affect, interstate or foreign commerce; and (c) It shall be unlawful
+for any person employed by or associated with any enterprise engaged in, or the activities
+of which affect, interstate or foreign commerce, to conduct or participate, directly or
+indirectly, in the conduct of such enterprise's affairs through a pattern of racketeering
+activity or collection of unlawful debt." 18 U.S.C. § 1962(a)-(c).
+
+[6] Dismissal under Rule 12(b)(6) for failure to state a claim is generally considered a
+decision on the merits. See Federated Dep't Stores, Inc. v. Moitie, 452_U.S._ 394, 399
+n.3,101_S. Ct._2424,69_L. Ed. 2d_103 (1981) (noting, in a case involving res
+judicata, that "the dismissal for failure to state a claim under Federal Rule of Civil
+Procedure 12(b)(6) is a ‘judgment on the merits.'"); Haase v. Sessions, 835_F.2d_902,
+906 (D.C.Cir. 1987) ("12(b)(6) presents a ruling on the merits with res judicata effect.").
+
+[7] The plaintiff maintains that "the other alleged co-conspirators [Lev Model and Global
+Petroleum] did not receive merits-based dismissals and in any event were not in privity
+with Freshfields." Pl.'s Notice of Suppl. Authority, ECF. No. 13, at 2. This argument also
+fails because the Fridman court dismissed the plaintiff's Complaint as to all defendants
+for failure to state a claim, including Model and Global Petroleum, even though they failed
+to appear before the court. See Fridman, 643 F.Supp.2d at 414-415 ("[T]he Third
+Amended Complaint is dismissed as to all appearing Defendants, principally on the
+ground that its factual allegations do not support any legally cognizable claim. Plaintiffs’
+allegations that Model and Global Petroleum Group serve as ‘fronts for Fridman's,
+Blavatnik's, [and other defendants not mentioned in the plaintiff's Complaint in this case]
+efforts to bribe Grenadian officials’... suffers from the same defects as their allegations
+against the appearing Defendants: they are not based on any cognizable facts properly
+before the court. Indeed, they are based on the same wishful thinking, both as to the
+
+claims asserted and as to the legal standards for filing a complaint, as Plaintiffs’
+allegations with respect to the appearing Defendants. Accordingly, the entry of a default
+judgment against [Model and Global Petroleum] would be inappropriate.").
+
+[8] In the Southern District of New York, the plaintiff asserted causes of action for
+intentional tortious interference with prospective business advantage against all
+defendants except Bowen, tortious interference with contract against all defendants
+except Bowen, and civil conspiracy against all defendants. See Defs.' Mot. Dismiss, Ex.
+B, Fridman Third Am. Compl., J 59-72. To prove a RICO conspiracy claim, which is
+alleged in this case, the plaintiff must prove that: "(1) two or more people agreed to commit
+a substantive RICO offense, and (2) the defendant knew of and agreed to the overall
+objective of the violation." United States v. Philip Morris,327_F. Supp. 2d_13, 19
+(D.D.C.2004) (citing Salinas v. United States, 522_U.S._52,65,118_S. Ct._469, 139
+L. Ed. 2d_352 (1997)).
+

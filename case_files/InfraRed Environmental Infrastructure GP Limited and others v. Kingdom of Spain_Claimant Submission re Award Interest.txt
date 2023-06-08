@@ -1,0 +1,65 @@
+Case 1:20-cv-00817 Document 3-2 Filed 03/25/20 Page 2 of 3
+
+Table 1: Interest Awarded, as of 13 March 2020
+
+ 
+
+ 
+
+ 
+
+Valuation date (1) 30 Jun-14
+Award date [2] 02 Aug-19
+Payment date [3] 13 Mar-20
+Damages, inc. Interest (EUR million)
+
+Damages awarded [4] See note 28.20
+Pre-award interest [5] See note 2.99
+Post-award interest [6] See note 0.38
+Total [7] [4]+[5]+[6] 31.57
+Other Costs Awarded (USD million)
+
+50% of Arbitration cost [8] See note 0.64
+66.66% of legal costs (expert fees) [9] See note 0.48
+Total Arbitration & legal costs (expert fees) [10] [8]+[9] 1.12
+Post-award interest [11] See note 0.01
+Total [12] [10]+[11] 1.13
+Other Costs Awarded (EUR million)
+
+66.66% of legal costs (attorneys' fees) [13] See note 3.30
+Post-award interest [14] See note 0.04
+Total [15] [13]+[14] 3.34
+Other Costs Awarded (GBP million)
+
+66.66% of legal costs (legal expenses) [16] See note 0.07
+Post-award interest [17] See note 0.00
+Total [18] [16]+[17] 0.07
+
+ 
+
+Notes and sources:
+
+[4]-[6]: See Decision 5 of Award. Interest calculated at 2% compounded annually.
+[8],[9],[13],[16]: See Decision 6 and Par. 606 of the Award.
+[11],[14],[17]: See Decision 6 of the Award. Interest calculated at 2% compounded annually.
+
+Case 1:20-cv-00817 Document 3-2 Filed 03/25/20 Page 3 of 3
+
+Annual Compounding (Pre-Award Interest)
+
+Date Interest Days Index
+30-jun.-14
+30-jun.-15 2.0% 365 1.020
+30-jun.-16 2.0% 366 1.040
+30-jun.-17 2.0% 365 1.061
+30-jun.-18 2.0% 365 1.082
+30-jun.-19 2.0% 365 1.104
+2-ago.-19 2.0% 33 1.106
+
+Annual Compounding (Post-Award Interest)
+
+Date Interest Days Index
+
+2-ago.-19
+13-mar.-20 2.0% 224 1.0122
+

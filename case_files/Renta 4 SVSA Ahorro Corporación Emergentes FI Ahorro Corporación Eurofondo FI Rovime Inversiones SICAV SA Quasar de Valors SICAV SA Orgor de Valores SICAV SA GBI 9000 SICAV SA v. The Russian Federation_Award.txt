@@ -1,0 +1,4074 @@
+Arbitration Institute of the Stockholm Chamber of Commerce
+
+In an arbitration between
+
+QUASAR DE VALORES SICAV S.A.
+
+ORGOR DE VALORES SICAV S.A.
+GBI 9000 SICAV S.A.
+ALOS 34S.L.
+Claimants
+and
+THE RUSSIAN FEDERATION
+Respondent
+
+AWARD
+
+20 July 2012
+
+Before the Tribunal comprising:
+
+Charles N. Brower
+Toby T. Landau
+Jan Paulsson
+
+Representing the Claimants: Representing the Respondent:
+Covington & Burling LLP Baker Botts LLP
+©. Thomas Johnson, Jr. (until 31 March 2101) Michael S. Goldberg
+Marney L. Cheek Jay L, Alexander
+Jonathan Gimblett Samuel Cooper
+John P. Rupp Alejandro Escobar
+Jennifer Thorton
+
+Cuatrecasas, Goncalves Pereira
+
+Jorge Capel! Novarro Ania Farren
+
+Place of arbitration: Stockholm
+
+TABLE OF CONTENTS
+
+ 
+
+INTRODUCTION ...,..ccsessessessseeesssesseneesensssnesnessessteneeseee d
+OVERVIEW OF THE CLAIM..0.......ccscescscssceseeeseeneeeeee 7
+OVERVIEW OF THE DEFENCE...
+
+ROSINVEST AND YUKOS V. RUSSIA .....0:c0sssssssssesseoes 13
+JURISDICTION REDUX...
+
+ 
+
+6.1 THE REQUIREMENTS OFT THE BIT
+6.2. THE ALLEGED ABUSE OF PROCESS
+6.3 THESTANDING OF ALOS 34
+
+ 
+  
+ 
+
+INDIVIDUAL MERITS ISSUES. ..........:+::sseeeesseeeeeee 23
+
+7.1 WERE THE TAX LEVIES ON YUKOS BEGINNING IN
+DECEMBER 2003 ARBITRARY OR
+DISCRIMINATORY? «...sessessessessesesssesseesessessesssssecsens 29)
+
+(A) The December 2003 re-audit............. eee 28
+(B) The purported legal basis of the revocation of
+the tax benefits . 129
+(C) The attribution to Yukos of the additional tax
+associated with income of the trading
+
+ 
+
+COMPANIES ..0ssssssicssscscecscsasssssseecacvisesssesensoense 40
+(D) The rejection of the VAT refund .................42
+(E) The speedy and robust execution of the
+
+judgment enforcing the
+
+Y¥2000 assessment...
+
+ 
+
+7.2. DID THE RESPONDENT PREVENT YUKOS FROM
+DISCHARGING THE (DISPUTED) TAX DEBTS? ........+« 44
+
+(A) The 15 April 2004 asset freeze ............1060 45
+(B) The failure to consider Yukos’ proposals of
+alternative means of paying the tax
+ASSESSMEMNS ......scessessseseseeececsesesseeseeneseenerteree 48
+
+(A) The 15 April 2004 asset freeze... 4S
+
+(B) The failure to consider Yukos’ proposals of
+alternative means of paying the tax
+ASSESSIIENS ssvessccosesissveasesnexscarcescccasssseavened 48
+
+(C) The seizure and sale of Yukos’ shares in YNGS2
+
+(D) Yukos’ alleged imprudence, or bad faith, in
+not paying the tax assessments quickly and
+thus avoiding further pursuit........................58
+
+ 
+
+ 
+
+(EB) ‘Conchision ..:........scnnranearncanmaaann 59
+7.3. WAS YUKOS’ TAX DELINQUENCY A PRETEXT FOR
+SEIZING YUKOS ASSETS AND TRANSFERRING THEM
+TO ROSNEFT? .....sescseseseseseesscsessersestesssesereetensees ees OO
+(A) Forcing Yukos into bankruptcy ...........006 62
+(B) The rejection of the management restructuring
+PAM oc eeescecseseseesesecasseseeneecseesssesacsueasanensenseess 65
+{C) The liquidation auctions .
+(D) Conchsiony su ccssecssevcocsnssiorssvoresvasvensaveevavsnne 71
+7.4 THE RELEVANT ENQUIRY......csscsessesesecesesteeteteeeeees 10
+7.5 ADEQUATE COMPENSATION.....-::e+cssesseeseceeeerseeeeees 79
+(A) The Claimants’ approach... 79
+(B) Comparison with Ros/nvest.....
+(C). The proper measure sscsccsisssssevssssscscsvesvssaveenas 84
+COSTS. si cecsnonsennsdiiii2itisicshannensneneensibsdinsinssenensarnnennenasneses 93
+INTEREST cccsavsscassesnnvsnsonscsrsersusvsgssacstuaetaserrenearesscstoess 95
+
+1, GLOSSARY
+ADR
+
+BIT
+
+Hearing
+
+Khodorovsky, Mikhail
+
+Menatep
+
+RosInvest
+
+Rosneft
+
+SoC
+
+SoD
+
+American Depository Receipt
+
+Agreement for Reciprocal Promotion and
+Protection of Investments between Spain and
+the USSR, entered into force on 28 November
+1991
+
+The hearing on the merits conducted from 17 to
+25 October 2011
+
+Yukos’ CEO from May 1996 to November
+2003
+
+Group Menatep Limited, or GML, at one time
+the direct or indirect owner of a majority of
+Yukos’ shares
+
+The award on the merits, dated 12 September
+2010, in the case of RosInvest Co UK Ltd v, The
+Russian Federation, under the Rules of the
+Arbitration Institute of the Stockholm Chamber
+of Commerce
+
+A state-owned Russian oil company
+
+The Claimants’ Statement of Claim dated
+20 November 2009
+
+The Respondent’s Statement of Defence dated
+4 June 2010
+
+SoRep
+
+SoRej
+
+T:Day 1:1:1
+
+Tax Ministry
+
+Tax Re-Audit (2000)
+
+YNG
+
+Yukos
+
+Yukos v. Russia
+
+The Claimants’ Reply Memorial dated
+29 October 2010
+
+The Respondent’s Statement of Rejoinder dated
+25 April 2011
+
+Transcript of the Hearing, Day 1, page 1, line 1
+
+Since mid-2004, renamed the “Federal Tax
+Service”
+
+The Russian Tax Ministry’s supervisory audit
+report dated 29 December 2003 for Yukos’
+Year 2000 tax filings
+
+Yuganskneftegaz, the corporate owner of a
+large Siberian oil field
+
+Yukos Oil Company, or OAO Neftyanaya
+Kompaniya Yukos, formed in 2003 as a
+combination of YNG and
+Kuibyshevnefteorgsintez, a refining and
+petrochemical concern. Producer of about 17%
+of all Russian crude oil in 2002.
+
+The judgment dated 20 September 2011 by the
+European Court of Justice in the Case of OAO
+Neftyanaya Kompaniya Yukos v. Russia
+
+2. INTRODUCTION
+
+1. This document assumes familiarity with the
+Award on Preliminary Objections of 20 March 2009. In
+the interest of economy of expression, it will not traverse
+the procedure and correspondence, which are a matter of
+record and will be referred to only to the extent significant
+for the issues resolved in the present Award.
+
+2. The Award on Preliminary Objections upheld
+jurisdiction with respect to the claims of four of the seven
+original Claimants insofar as those claims seek a
+determination of “whether compensation is due by virtue
+of claims of expropriation raised in this arbitration” under
+Article 10 of the BIT. (Jurisdiction was not accepted with
+respect to claims in reliance on Article 5 thereof, which
+the Claimants unsuccessfully contended had the effect of
+expanding this Tribunal’s jurisdiction through the
+mechanism of more favourable treatment.)
+
+3. The Claimants complain of the destruction of the
+value of ADRs equivalent to a certain fraction of ordinary
+shares in Yukos. At the jurisdictional stage, the
+Respondent challenged the Claimants’ proof of ownership
+of these ADRs. The Award on Preliminary Objections
+indicated that the Claimants’ proof demonstrated a “form
+of participation” for the purposes of the BIT, but added
+that any misrepresentation in this respect would be
+fraudulent. The Respondent has pursued this matter at the
+merits stage in light of its latest state of knowledge. This
+matter is dealt with in Section 6(2).
+
+4. The subsections of Article 10 of the BIT that are
+relevant for the merits read as follows:
+
+Disputes between one Party and investors
+of the other Party
+
+A. Any dispute between one Party and an
+investor of the other Party relating to the amount or
+method of payment of the compensation due under
+article 6 of this Agreement, shall be communicated
+in writing, together with a detailed report by the
+investor to the Party in whose territory the
+investment was made. The two shall, as far as
+possible, endeavour to settle the dispute amicably.
+
+2. [Subsection 2 provides for arbitration in the
+absence of amicable settlement.]
+
+3. The decisions of the arbitral tribunal shail be
+based on:
+
+- The provisions of this Agreement;
+
+- The national legislation of the Party in whose
+territory the investment has been made, including
+the rules of conflict of laws;
+
+- The universally recognized norms and
+principles of international law.
+
+5. Article 6 (referred to in subparagraph 1 of Article
+10) reads as follows:
+
+Nationalization and Expropriation
+
+Any nationalization, expropriation or any other
+measure having similar consequences taken by the
+authorities of either Party against investments made
+within its territory by investors of the other Party,
+shall be taken only on the grounds of public use and
+in accordance with the legislation in force in the
+
+territory. Such measures should on no account be
+discriminatory. The Party adopting such measures
+shall pay the investor or his beneficiary adequate
+compensation, without undue delay and in freely
+convertible currency.
+
+6. Liability thus requires showing that there has been
+a type of “measure” contemplated by Article 6 of the BIT
+which, by way of shorthand, may be described as an
+“expropriation”. This is necessary but not sufficient; it
+must also be found that “adequate compensation” was not
+paid. As observed in Paragraphs 41 and 42 of the Award
+on Preliminary Objections, the Claimants expressly accept
+that the reference in Article 10 of the BIT to “the amount
+or method of the compensation due under Article 6” has
+the effect of excluding the Tribunal’s authority to decide
+whether an expropriation is internationally unlawful under
+the first three criteria mentioned in Article 6 (public use,
+conformity with law, non-discrimination). Thus the
+mission of the present Tribunal is limited to determining
+the compensation required under Russia’s international
+obligations even under the hypothesis of a lawful
+expropriation.
+
+Ts This case has essentially been debated by
+reference to documents. There were no witnesses of fact.
+The Claimants were passive shareholders in Yukos and
+had no involvement in its activities or in the controversies
+that underlie this arbitration. The Respondent relies on
+the acts of its organs. Each side submitted reports from
+experts who commented on the documentary record, and a
+number of them were called to testify at the Hearing,
+namely: for the Claimants Dr Leon Aron, Prof. Jay
+Westbrook, Prof. Peter Maggs, Mr Sergey Shapovalov,
+and Prof. Paul Stephen; and for the Respondent Mr Oleg
+Konnov, Mr Mikhail Rozenberg, and Prof. James Dow.
+
+8. Entire books have been written about the demise
+of Yukos (e.g. Richard Sakwa, The Quality of Freedom:
+Khodorkovsky, Putin, and the Yukos Affair, Oxford
+University Press, 2009). The materials submitted by the
+Parties in this arbitration would easily suffice as research
+
+material for several more. Yet to give an account of every
+element of the Parties’ extensively documented competing
+narratives would be excessive for present purposes. What
+is both necessary and sufficient is for the Tribunal to state
+its views of those elements of the story that the arbitrators
+consider decisive. Of course the Parties’ views of what
+should be significant will not necessarily coincide with
+those of the Tribunal.
+
+3. OVERVIEW OF THE CLAIM
+
+9. The Claimants allege that the Respondent
+unlawfully dispossessed Yukos of its assets and
+expropriated its shareholders by means of a variety of
+abuses of executive and judicial power. They affirm that
+they are owners of Yukos ADRs and demand
+compensation for their loss. The complaint is put in a
+nutshell in the first paragraph of the SoC:
+
+“They, like all other owners of Yukos, have been the
+victims of a politically-motivated assault by the
+Russian Federation, involving the imposition of
+massive illegitimate tax levies, the seizure and
+transfer of Yukos’ prime asset to Rosneft, a state-
+owned oil company, and the liquidation of the
+remainder of Yukos’ assets in state-initiated
+bankruptcy proceedings. On 18 December 2007,
+Claimants were informed by Deutsche Bank, as
+depositary, that Yukos had been removed from
+Russia’s company register and that Claimants’
+ADRs were accordingly now worthless. Today,
+approximately 75 percent of what used to be Yukos
+is owned by Rosneft.”
+
+10. The Claimants affirm more particularly ({] 4) that
+they:
+
+“will show that the massive tax claims brought
+against Yukos by the Russian Federation for the tax
+years 2000-04 had no basis in law; that Russia
+prevented Yukos from paying the tax liabilities in a
+manner of its choosing so that it could have a
+pretext to seize Yukos’ most valuable asset and to
+transfer it to Rosneft; and that Russia was
+responsible both for initiating the bankruptcy
+proceedings against Yukos and ensuring that they
+led — via the rejection of a viable restructuring
+
+proposal advanced by Yukos’ management ~ to the
+liquidation of the r inder of the ipany’s
+assets. Claimants will also show that Russia’s
+actions constitute either a direct or an indirect
+expropriation for which Russia must pay
+compensation under Article 6 of the Spain-Russia
+BIT.”
+
+4. OVERVIEW OF THE DEFENCE
+
+11. The Respondent asserts that the Claimants are
+engaged in an abuse of process. In particular (SoRej {
+464):
+
+“\.. This arbitration is abusive because it rests on
+ulterior purposes that were first disclosed during
+the jurisdictional hearing and that are
+inconsistent with the Treaty under which this
+arbitration has been brought. Claimants are not
+the real parties in interest and have no genuine
+interest in the arbitration. Claimants have not
+presented a_ single party representative.
+Claimants have not produced a single internal
+document explaining the rationale behind their
+original alleged investments or the rationale for
+initiating this arbitration. Claimants have likely
+spent more on expert witness fees, alone, than the
+total amount of their claims. Claimants are not here
+to vindicate any alleged right of their own. They
+are nothing more than willing shills in Group
+Menatep’s “lifetime of litigation.” In this regard,
+it is worth remembering that the Claimants’ counsel
+has been Group Menatep’s lobbyist for years, and
+the head of its international practice remains a
+member of Group Menatep Limited’s advisory
+board to this day. Group Menatep, however, is not
+entitled to invoke the Spain/Soviet bilateral
+investment treaty. Nor is that treaty intended to be
+used by Claimants as a tool for harassment.”
+
+12. The Respondent adds (SoRej {| 467-9) that the
+Claimants’
+
+. abuse is not, however, that they allegedly
+purchased ADRs for less than US$ | million after
+the alleged expropriation had begun. Anyone is
+
+free to speculate on hopes that Yukos would act
+responsibly, pay its debts with the funds that it
+had sitting offshore and enjoy a turn of events—all
+things Yukos did not do. Rather, their abuse is
+allowing this arbitration to be filed in their names
+when the only real party-in-interest is Group
+Menatep Limited, a Gibraltar entity with no rights
+under the Spain/Soviet bilateral investment
+treaty.
+
+Claimants, themselves, would never have pursued
+this arbitration. Quite apart from the absurd
+disproportion between their own, inflated
+damages claim and the costs of these
+proceedings, Claimants concede that six of the
+“nine measures” on which they base their
+accusation of expropriation had already occurred
+before they completed their purchases on July 7,
+2004, of the ADRs allegedly at issue here.
+Indeed, by July 7, 2004, Yukos, itself, had warned
+it would enter bankruptcy if the Russian
+Federation did not forbear—and the Russian
+Federation showed no intent of permitting Yukos
+to get away with its fraud.
+
+Tribunals, including this one, have recognized
+that it is inappropriate to act in a manner that
+aggravates existing disputes. Group Menatep, no
+doubt, has generated its own dispute with the
+Russian Federation. _ Initiating __ satellite
+arbitrations for harassment or tactical purposes
+is an abuse of process. The fact that Rovime was
+so little involved or concerned that it
+extinguished itself without even notifying counsel
+for Claimants is stark evidence of the abuse being
+perpetrated by Group Menatep here.”
+
+13. Even if one were to disregard this abuse and
+instead consider the merits of the claim, so the
+Respondent argues, the complaint is a baseless attempt to
+
+10
+
+overcome the Russian Federation’s legitimate application
+of its tax laws. In particular (SoRej {{][ 470-471):
+
+“There can be no genuine dispute that Yukos was
+deliberately engaged in tax fraud. Claimants
+would have this Tribunal believe that it was
+entirely acceptable to set up shell companies with
+no business substance, put them in tax havens,
+run all of Yukos’ profits through those
+companies, and then abuse the requirement of
+local investment that justifies the tax haven’s
+existence. Yukos certainly knew better. Its senior
+executives wrote memos about the high civil and
+criminal risks they were taking by using the
+scheme. Claimants knew better too. Such behavior
+would be no more acceptable in Russia than it
+would be in Spain or any other country.
+
+Yukos was a miscreant. It was the worst of the
+worst in the late 1990s and, despite a show of
+transparency, it did not change its spots in the
+early 2000s. Yukos management repeatedly lied
+to its auditors at PwC, leading to a termination of
+the audit relationship and eventually revocation of
+the audits. Yukos effectively stole from the SocGen
+Consortium, admitting it could pay the half billion
+dollars it owed from its European assets, but
+instead secreting them in Dutch foundations where
+they could not be reached. Yukos refused the
+opportunity to reduce the liabilities for its tax
+fraud by nearly 60 percent, believing it could
+continue its historic pattern of obfuscation and
+obstruction. The repeated obstruction of the
+Russian government's tax enforcement efforts in
+which Yukos engaged would not be tolerated in any
+civil society.”
+
+14. The Respondent insists that the Claimants are
+speculating impermissibly on subjective purposes behind
+the Russian tax enforcement measures. Quoting from
+Professor G.C. Christie’s often-cited 1962 study on “What
+
+Constitutes a Taking of Property Under International
+Law,” the Respondent writes (SoRej J 473) that:
+
+“this Tribunal must look to the facts, and “if the
+facts are such that the reasons actually given are
+plausible, search for the unexpressed ‘real’
+reasons is chimerical.” This, of course, is right.
+The Tax Ministry issued extensive findings of tax
+fraud, which are entirely consistent with the facts
+and Russian law. The Russian courts reviewed the
+Tax Ministry’s findings and affirmed them in large
+part, also consistent with Russian law. While it is
+true that Yukos owed a lot of money, that debt was
+legally owed and entirely its own responsibility.”
+
+5. ROSINVEST AND YUKOS v. RUSSIA
+
+15. RosInvest was decided on 12 September 2010 by a
+tribunal presided by Professor Karl-Heinz Béckstiegel and
+also comprising Lord Steyn and Sir Franklin Berman QC.
+After a lengthy analysis of the circumstances, they
+concluded at J 621 that:
+
+“[T]he totality of Respondent’s measures were
+structured in such a way to remove Yukos’ assets
+from the control of the company and the individuals
+associated with Yukos. They must be seen as
+elements in the cumulative treatment of Yukos for
+what seems to have been the intended purpose. The
+Tribunal, in reviewing the various alleged breaches
+of the IPPA, even if the justification of a certain
+individual measure might be arguable as an
+admissible application of the relevant law,
+considers that this cumulative effect of those
+various measures taken by Respondent in respect of
+Yukos is relevant to its decision under the IPPA.
+An illustration is, as Claimant has pointed out, that
+despite having used nearly identical tax structures,
+no other Russian oil company was subjected to the
+same relentless and inflexible attacks as Yukos. In
+the view of the Tribunal, they can only be
+understood as steps under a common denominator
+in a pattern to destroy Yukos and gain control over
+its assets.”
+
+16. One year later, the ECHR handed down its
+judgment in Yukos v. Russia, holding broadly — after a
+similarly lengthy analysis of the circumstances — that in
+many respects Yukos had failed to substantiate its claims
+that the Russian Government’s tax claims and subsequent
+liquidation of Yukos were pretextual and discriminatory.
+On the other hand, the ECHR accepted that Russia had
+breached Article 6 of the European Convention on Human
+
+Rights in its timing of the Y2000 tax proceedings, and
+breached Article 1/Protocol | with respect to the
+imposition of penalties and the enforcement proceedings.
+No damages were awarded; the issue of compensation
+with respect to the established breaches was held over to a
+possible subsequent stage of the proceedings.
+
+17. These two very detailed decisions traverse much
+of the same ground as the voluminous memorials of the
+Parties in the present case. Yet they come to contrasting
+conclusions. The result is that elements of each decision
+are favoured by one of the Parties and criticised by the
+other.
+
+18. The Claimants argue that RosInvest’s analysis of
+the merits is both persuasive and pertinent, and should be
+given weight as such by the Tribunal. They view Yukos v.
+Russia, on the other hand, as inapposite because it, unlike
+RosiInvest, does not involve the same legal standards as an
+investment-protection treaty. As Mr Johnson put it in oral
+submissions, the ECHR:
+
+“decided whether each of several elements of
+Russia’s behaviour toward Yukos individually
+violated a provision of the Convention, applying in
+each case the so-called “wide margin of
+appreciation” always applied by that court in
+considering the actions of sovereign governments.
+It nowhere considered the cumulative effect of
+Russia’s actions towards Yukos, nowhere
+considered whether those actions violated a typical
+BIT __ prohibition against uncompensated
+expropriation.” (T:Day 1:8:9-17)
+
+19. Mr Gimblett pursued this argument by referring to
+the ECHR’s use of an “extremely lenient standard ...
+[which] is not applicable in this case”, namely the “margin
+of appreciation” mentioned in the European Convention
+of Human Rights (Protocol 1, Article 1) and recognised
+by the Court’s jurisprudence (T:Day 1:50:22). Such a
+“margin of appreciation” is “not found in customary
+international law”, he said, invoking Siemens v.
+
+Argentina, ICSID Case No. ARB/02/8 4 354 (2007), and
+nothing permits “anything approaching the extreme
+deference applied by the ECHR” (T:Day 1:52:19).
+
+20. Mr Gimblett added that although Protocol 1,
+Article 1, of the Convention protects individuals from
+dispossession “except in the public interest and subject to
+the conditions provided for by law and by the general
+principles of international law”, the ECHR itself, in the
+Case of Lithgow and others v. The United Kingdom 8 July
+1986, made clear that:
+
+“the general principles of international law ... are
+not applicable to a taking by a State of the property
+of its own nationals.” (J 112)
+
+21. The grievances of the complainants in Ros/nvest
+and Yukos v. Russia were indeed pursued on the
+foundation of different legal texts. The proposition that
+foreigners may invoke a higher standard of protection than
+nationals does not seem extraordinary, for reasons that
+may be encapsulated as follows.
+
+22. For one thing, human rights conventions establish
+minimum standards to which all individuals are entitled
+irrespective of any act of volition on their part, whereas
+investment-protection treaties contain undertakings which
+are explicitly designed to induce foreigners to make
+investments in reliance upon them. It therefore makes
+sense that the reliability of an instrument of the latter kind
+should not be diluted by precisely the same notions of
+“margins of appreciation” that apply to the former.
+
+23. Moreover, where the value of an investment has
+been substantially impaired by state action, albeit a bona
+fide regulation in the public interest, one can see the force
+in the proposition that investment protection treaties might
+not allow a host state to place such a high individual
+burden on a foreign investor to contribute, without the
+payment of compensation, to the accomplishment of
+regulatory objectives for the benefit of a national
+community of which the investor is not a member.
+
+24. This Tribunal is not bound by either Rosinvest' or
+Yukos v. Russia, which arose under different legal
+instruments than the Treaty which is relevant here.
+Moreover, the Claimants here had no role in those cases,
+and have the right that their claims be heard as they chose
+to present them. Nevertheless, the lengthy texts of those
+decisions go over much of the same ground that has been
+covered in this case, and it is natural to examine them in
+the light of many of the arguments made here as well.
+
+25. The arbitrators understand that the same
+arguments may be affected not only by differences in the
+norms articulated in the relevant legal texts, but also by
+the pleadings and evidence put forward in support of those
+arguments. Bearing in mind all of these qualifications, the
+present Tribunal will nevertheless pay respectful heed to
+the analysis and conclusions of the distinguished
+arbitrators and judges in these two cases. Indeed they
+must do so, as both sides in this case have made
+submissions as to their implications and relative
+persuasiveness.
+
+ 
+
+The arbitrators have been informed that the Stockholm District Court issued
+a judgment on 9 November 2011 to the effect that the Ros/nvest tribunal
+lacked jurisdiction. That case involves the UK/USSR bilateral treaty. Indeed
+the present arbitrators, in paragraph 104 of their Award on Preliminary
+Objections, noted that the two treaties were dissimilar, and declined to
+comment on Rosiavest’s conclusion. The judgment was issued by defauh.
+Above all, what is of interest here is the possible persuasiveness of Ros!nvest
+with respect to the merits. not its status as a matter of jurisdiction.
+
+6. JURISDICTION REDUX
+
+6.1 The requirements of the BIT
+
+26. In closing argument, Mr Alexander contended that
+“essential criteria to determine whether or not there has
+been an expropriation are outside of your jurisdiction in
+this case” (T:Day 9:107:22).
+
+27. It should be recalled that the Award on
+Preliminary Objections held that the Tribunal has
+jurisdiction under Article 10 “to decide whether
+compensation is due by virtue of claims of expropriation
+raised in this arbitration” ({[ 155).
+
+28. That Award also recalled (at { 65) a familiar
+passage from Christie’s seminal article: “[T]here are
+certain types of State interference which, from the outset,
+will be considered expropriation even though not labelled
+as such. Among these are the appointment of a receiver to
+liquidate the business or other property.” (See Paragraph
+14 above.)
+
+29. Mr Alexander’s argument, upon analysis, is old
+wine in new bottles — indeed an attempt to reargue matters
+which were settled in the Award on Preliminary
+Objections. At the core of the debate at that stage of the
+proceedings lay the Respondent’s contention that the BIT
+did not vest authority in this Tribunal to determine
+whether an expropriation had occurred. It was rejected
+after lengthy consideration in Section 2.1 of that Award,
+leading to the following final statement in { 67: “The
+Claimants have established that the Tribunal has
+jurisdiction to decide whether compensation is ‘due’ to
+them under international law by reason of the conduct of
+which they complain (and if so in which amount).”
+
+30. | The Respondent is of course free to believe that
+this decision was wrong. What is not open to it, however,
+
+is to come back at the merits stage in these very
+proceedings to contend that something it now calls
+“essential criteria” for determining whether there has been
+an expropriation are beyond the permissible scope of
+enquiry of the present Tribunal. The approach taken in
+this respect will be reflected throughout this Award,
+notably in the introduction to the lengthy Section 7, which
+contains the essential treatment of individual issues
+relevant to the determination of the fundamental merits of
+the Claimants’ case under the BIT. Mr Alexander’s
+argument that the Respondent’s objections could not be
+foreclosed since “the gravamen of the Claimants’
+Propositions could not be fully understood on the merits
+until we hear the merits” (T:Day 7:142:23-24) is correct
+as far as it goes, but that is not very far at all. It does no
+more than to say that the Tribunal, once it gets to the
+merits, has no authority to go beyond the limits of its
+authority: a tautology. The limits were fixed in the Award
+on Preliminary Objections, and the arbitrators have no
+intention of exceeding them.
+
+6.2 The alleged abuse of process
+
+31. As seen in Paragraphs 11 and 12 above, the
+Respondent has sought to discredit the Claimants by
+suggesting that they are not the true parties in interest, and
+that the entire arbitration is an abuse of process. At its
+core, this argument is a reaction to the Claimants’
+disclosure that their costs of prosecuting this case are born
+entirely by another party, namely Menatep, in part in
+order to establish that portfolio investors in Yukos are
+able to recover under BITs to which the Russian
+Federation is a party. A multitude of such potential
+claimants are, so it seems, waiting in the wings (T:Day
+9:213:8-23). In other words, so the Respondent contends,
+the Claimants have no stake in this claim, and are not
+domini litis in terms of choosing counsel, experts, or other
+strategic alternatives in the prosecution of these derivate
+claims.
+
+32. This objection is unpersuasive. The Claimants
+purchased shares in Yukos (or, in the case of ALOS 34,
+
+stand in the shoes of such a purchaser) and complain
+about the destruction of their value. They have mandated
+Covington & Burling to prosecute their claim. They will
+be the beneficiaries of any award in their favour. Mr
+Johnson has represented that this claim has been brought
+to safeguard the specific interests of the immediate
+Claimants (T:Day 9:211:1-5, 20-24; 212:5-6; 214:5-8),
+and that the Claimants have no legal obligation to share
+the proceeds with Menatep, and nothing more than a
+moral debt of gratitude to consider whether they will
+voluntarily pass on a proportion of any proceeds in
+recognition of the costs incurred by Menatep (T:Day
+9:210:14-25).
+
+33. The Tribunal does not see any element of abuse in
+this respect. The Claimants held very small stakes of
+Yukos which would scarcely have warranted the
+commitment of substantial resources to bring international
+proceedings against the Russian Federation. But there is
+no reason of principle why they were not entitled to
+pursue rights available to them under the BIT, and to
+accept the assistance of a third party, whose motives are
+irrelevant as between the disputants in this case.
+Ultimately, the Respondent’s complaint, in the event its
+liability is established, can hardly be raised against the
+Good Samaritan, but rather against its own officials who
+acted in such a way as to give rise to that liability.
+
+34. | The Respondent raises an associated argument
+having to do with the alleged spectre of double recovery.
+The Respondent appears to be concerned about statements
+emanating from Menatep to the effect that monies it
+recovers from the Russian Federation, e.g. as a result of
+proceedings before the European Court of Human Rights
+or in other arbitrations, will be distributed to injured
+shareholders such as the Claimants here. The Tribunal
+does not share those professed worries. It has seen no
+evidence that the Claimants have some contingent
+entitlement to share in other cases than this arbitration.
+To the extent that somehow these Claimants were to
+receive compensation elsewhere for the harm of which
+
+they complain here, any award in this case could
+doubtless be resisted by way of some form of set-off.
+
+6.3 The standing of ALOS 34
+
+35.  Rovime Inversiones Sicav S.A., a Spanish mutual
+fund, was one of the original Claimants. For reasons
+which have not given rise to discussion in these
+proceedings, it was liquidated on 21 May 2010, and its
+assets distributed. Rovime’s claim in this arbitration (its
+“crédito litigioso”) was not listed among the assets to be
+distributed. Rovime’s legal demise and the absence of a
+legal successor in interest has given rise to an objection by
+the Respondent. The liquidator, D. Emilio Rodriguez
+Rodriguez, has certified that the reason for the omission
+of Rovime’s claim in the list of assets was that the claim
+lacked any accounting value, and that, subsequently to the
+objection raised in these proceedings, it appeared proper
+to “reaffirm expressly” that Rovime’s crédito litigioso
+“had been assigned to the shareholder ALOS 34, the
+record owner of 99.99% of the shares of the company.”
+
+36. ALOS 34 now seeks to replace Rovime in this
+arbitration, and the Respondent objects.
+
+37. Faced with this challenge, ALOS 34 through its
+counsel presented a receipt from the Registro Mercantil de
+Madrid dated 28 October 2011 showing that the
+liquidator's certification had been duly received by that
+official registry, and that this was effective to transfer the
+crédito litigioso to ALOS 34, Mr Jésus Mardomingo
+Cozas, co-counsel for the Claimants and a Spanish
+lawyer, appeared before the Tribunal and explained that as
+a matter of Spanish law the steps taken were the proper
+(and indeed only) way to deal with so-called "supervening
+assets" (T: Day 8:113:25).
+
+38. The Respondent sought to discredit the purported
+transfer of the crédito litigioso by pointing out that the
+liquidation of Rovime appeared to have occurred without
+the Claimants’ counsel having been informed thereof, and
+that the Claimants scrambled to establish the
+consequences of this development only in reaction to the
+
+happenstance that the SCC Institute requested formal
+proof of a power of attorney which Rovime, having been
+liquidated, could no longer supply. This may well be so
+as a factual matter. Rovime's investment in Yukos, dating
+back to 19 December 2003, had not amounted to much
+more than US$ 100,000. It was the smallest among all the
+Claimants. It seems likely that the investors behind
+ALOS 34, as the corporate owner of 99.99% of Rovime's
+shares having become the transferees of Rovime assets
+upon the latter's liquidation, were not greatly attentive to
+the crédito litigioso in this arbitration. If so, that is of no
+moment to the Tribunal here; the issue of standing is a
+matter of legal formality, and does not depend on the
+subjective eagerness with which one of a group of
+claimants participates in the case. The Tribunal is not
+persuaded by Respondent's contention that ALOS 34's
+participation in this case cannot be accepted because of its
+lack of true involvement (as it has effectively ceded
+control of the prosecution of its claim to Menatep's
+lawyers) and it is therefore not a bona fide claimant;
+whether Menatep is keener than anyone else to see
+findings of liability in this case does not affect the
+proposition that ALOS 34's rights are to be examined as
+such. This point has effectively been disposed of in
+Section 6(B) above.
+
+39. But the Respondent has other complaints as well.
+It contends, relying on an opinion letter from a Spanish
+lawyer, Mr Clifford Hendel, that the deed filed with the
+Registro Mercantil has no legal force under Spanish law:
+“It purports to restate the May 21 assignment but it is
+undisputed that no assignment occurred that day. Spanish
+law does not allow for a restatement of legal acts that have
+never occurred in the first place" (T:Day 8:10:9-13).
+Moreover, ALOS 34 was not the sole shareholder of
+Rovime. And Russia cannot be held under the BIT to
+have agreed to arbitrate with ALOS 34. Indeed, absent
+the Respondent's consent there is no basis for ALOS 34 to
+join the arbitration at this stage. Rovime was dissolved by
+means of an individualised liquidation, not a universal
+succession, and as a matter of Swedish law ~ as set out in
+an opinion letter by Mr Jesper Tiberg, a Swedish lawyer
+
+who the Claimants say, without contradiction, acts for the
+Respondent in court proceedings in Stockholm — the
+better view is that in such circumstances (a) there is good
+reason, notwithstanding a contrary obiter dictum of the
+Swedish Supreme Court, that consent should be required,
+and (ii) even if consent is held not to be required as a
+general proposition it should nevertheless be required
+under "special circumstances" which are extant here.
+
+40. In answer to the points raised in the preceding
+paragraph, the Tribunal begins by accepting Mr Gimblett's
+response to the effect that, in essence, “Rovime has
+merged into its owner", which he represented to be a
+"family owned investment vehicle" (T:Day 9:215:6-7).
+As for the registration of the public deed by the liquidator,
+purporting to effect the assignment of the claim in this
+arbitration to ALOS 34, from the documents presented to
+it (assumed to be genuine), the Tribunal is satisfied that
+this has been achieved; Mr Hendel's explanations are not
+apposite to counter this simple conclusion. Furthermore,
+the Tribunal is not impressed by the contention that the
+fact that a single share of Rovime’s stock, out of
+2.7 million shares, did not become the property of ALOS
+34 (but was rather assigned to a bank custodian) means
+that this was not a universal succession. In sum, the
+Tribunal considers that (a) it was a universal succession,
+(b) if this was not so, ALOS 34 under these circumstances
+could nonetheless, given its legal title to the crédito
+litigioso, assume Rovime's position irrespective of consent
+by the Respondent, (c) there are no special circumstances
+that cut the other way; to the contrary, (d) ALOS 34
+qualifies under the BIT just as Rovime did.
+
+7. INDIVIDUAL MERITS ISSUES
+
+41. The Claimants insist emphatically that their
+success in this case does not depend upon a showing that
+the laws of the Russian Federation did not permit the
+Respondent to treat Yukos as it did. Although the
+Claimants do argue that the Respondent was not allowed
+under its own law to carry out the measures by which
+Yukos was eventually dismantled, as Mr Johnson put it:
+“The central question instead is: why would Russia treat
+Yukos as it did if its only interest was the bona fide
+assessment and collection of taxes?” (T:Day 1:6:17-19).
+
+42. This point serves to underscore the difference
+between the present case and Yukos v. Russia, where the
+ECHR resolved a series of contentions about Russia’s
+compliance or otherwise with specific provisions of the
+European Convention on Human Rights, without
+considering whether or not the Respondent’s measures, as
+a whole, amounted to an uncompensated expropriation of
+foreign investments as forbidden by this BIT and most — if
+not all — other BITs.
+
+43. There is thus a fundamental difference between
+this case and Yukos v. Russia notwithstanding that both
+consider in very considerable detail the narrative of
+Yukos’ demise. But the same can also be said about this
+case and Rosinvest, because the tribunal in the latter
+award held that there had been an unlawful expropriation,
+which as the Claimants here concede is an issue which the
+present Tribunal is not authorised to resolve under the BIT
+which is relevant here.
+
+44, This award decides whether there has been an
+uncompensated expropriation of the Claimants’
+investment, Any such finding requires a characterisation
+of the Respondent’s conduct, and its effects, as falling
+within the scope of Article 6 of the BIT (as opposed to
+
+simply the routine exercise of regulatory powers, as per
+the Respondent’s case). For the purposes of this enquiry,
+the Tribunal will consider the arguments raised by the
+Parties as so many elements to be taken into account
+before making an overall assessment. No individual
+feature of the narrative is necessarily decisive, either as
+proof of compliance or otherwise with the law, or as
+evidence of an expropriatory effect as a matter of fact.
+Indeed, it may not be necessary to come to a firm view as
+to all discrete contentions if the totality of the
+circumstances point in a firm direction.
+
+45. It should be clearly understood that the Claimants,
+while conceding that they may not seek a finding of
+unlawful expropriation, have never abandoned the
+position that expropriation may be either direct or indirect
+— either de jure or de facto. Indirect expropriation, of
+course, does not speak its name. It must be deduced from
+a pattern of conduct, observing its conception,
+implementation, and effects as such, even if the intention
+to expropriate is disavowed at every step. The fact that
+individual measures appear not to be well founded in law,
+or to be discriminatory, or otherwise to lack bona fides,
+may be important elements of a finding that there has been
+the equivalent of an indirect expropriation, an
+expropriation by other means, even though there be no
+need to determine whether the expropriation was
+unlawful. Of course much overlap is likely, and that is
+why the interrogations by the arbitrators in this case are
+likely to echo those of Ros/nvest. Indeed in many
+situations it may appear to be a distinction without a
+difference, to use a phrase that comes to mind when
+different analytical frameworks seem unlikely to yield
+appreciably different results, but the conceptual approach
+is not the same and it is right, in reviewing the Parties”
+many disputed contentions, to recall that a critical
+examination of whether the appearance of a
+non-expropriatory measure in fact covers an expropriatory
+effect is not the same thing as deciding whether an
+expropriation is unlawful per se.
+
+71 Were the tax levies on Yukos beginning in
+December 2003 arbitrary or discriminatory?
+
+46. | From December 2003, six weeks after the arrest of
+Mikhail Khodorovsky, the Ministry of Taxation began a
+series of re-audits of Yukos’ tax years 2000-1, which
+concluded that Yukos had unlawfully underreported
+income by routing it through low-tax regions of the
+Russian Federation. The Claimants assert that these
+audits were extraordinary, coming less than eight months
+after an audit of fiscal years 2000 and 2001 in which no
+criticism had been raised with respect to Yukos’ tax
+“optimization strategy” — and were motivated by the
+Government's desire to assert dominance over Yukos and
+its managers. The finding of vast tax liabilities, they say,
+was based on a specially created legal theory.
+
+47. The Claimants describe the relevant sequence of
+events as follows (SoC J 28):
+
+“28 April 2003 Audit of 2000-01 tax years
+finds that Yukos has a
+small additional tax
+liability for those years,
+unrelated to its use of
+trading companies in low-
+fax regions to reduce its
+tax burden. Yukos pays
+this liability in full.
+
+19 September 2003 Tax Ministry certifies that
+Yukos, “as of 01.09.2003,
+has no unsettled liabilities
+on taxes and other
+compulsory payments and
+no violations of the tax
+legislation”
+
+23 October 2003 Tax Ministry recertifies
+Yukos’ compliance with
+tax laws.
+
+25 October 2003
+
+17 November 2003
+
+8 December 2003
+
+29 December 2003
+
+14 April 2004
+
+15 April 2004
+
+26 May 2004
+
+29 June 2004
+
+30 June 2004
+
+Mikhail Khodorkovsky
+arrested by FSB agents.
+
+Tax Ministry recertifies
+Yukos’ compliance with
+tax laws.
+
+Extraordinary re-audit of
+2000 tax year begins.
+
+Audit report finds that
+Yukos owes an additional
+99.4 billion roubles ($3.5
+billion) for 2000.
+
+Tax Ministry issues
+Resolution No,  14-3-
+05/1609-1 (the “2000
+Resolution”), demanding
+payment of 99.4 billion
+roubles by 16 April 2004.
+
+Tax Ministry _ petitions
+Moscow Arbitrazh Court
+for recovery of 99.4 billion
+roubles from — Yukos.
+Moscow Arbitrazh Court
+issues ex parte order
+imposing wide-ranging
+asset freeze.
+
+Moscow Arbitrazh Court
+issues ruling upholding 99
+percent of the Tax
+Ministry's claim.
+
+Yukos’ appeal is denied by
+Moscow Arbitrazh Appeals
+Court which upholds 100
+percent of Tax Ministry
+claim.
+
+Moscow Arbitrazh Court
+issues a writ of execution
+
+permitting the Tax
+Ministry to enforce the
+judgment for 2000 against
+Yukos’ assets.”
+
+*.,.Yukos had already paid $1.2 billion in taxes for
+the 2000 tax year. When that was added to the
+$3.5 billion tax levy generated by the extraordinary
+audit, Yukos’ total tax burden of $4.7 billion was
+only slightly less than the company’s before-tax
+income for the year of $4.9 billion.
+
+The Tax Ministry was to rely on the same theories
+of liability for a series of further tax levies covering
+the years 2001-04 served on Yukos in the
+succeeding months. By the time the Tax Ministry
+issued the last of these demands, Yukos faced a bill
+of more than $24 billion. To put this tax assessment
+in perspective, Yukos’ net income for the entire
+period of 2000 through the third quarter of 2003
+was approximately $13 billion.”
+
+48. | The questions that arise for the present Tribunal
+concern the bona fides of measures taken by the
+Respondent. Were these actions taken as part of the
+ordinary process of assessing and collecting taxes, or were
+they part of an expropriatory pattern? All taxation of
+course has the effect of a taking of the taxpayer’s money;
+but it is nonsense to say that it is therefore compensable.
+The tax is the payment of a debt established by law in
+favour of the public treasury (“the price we pay for
+civilization”, in Holmes’s famous expression), But if the
+ostensible collection of taxes is determined to be part of a
+set of measures designed to effect a dispossession outside
+the normative constraints and practices of the taxing
+powers, those measures are expropriatory and fall within
+Article 6 of the BIT. And it is then for the Tribunal to
+consider whether such expropriation has been properly
+compensated.
+
+{A) The December 2003 re-audit
+
+49. The regular audit of Y2000 had been completed
+less than seven months before; no questions had been
+raised as to Yukos’ tax optimisation strategy by the use of
+intermediary affiliates, including trading companies in
+low-tax jurisdictions. There were three reasons why, in
+the Claimants’ submission, this could not have been a
+normal supervisory audit:
+
+(i) By early 2002, reports of regional tax audits
+show that the tax inspectors knew the levels of
+investment and tax benefits in the trading
+companies, and of those companies’ connection
+with Yukos;
+
+(ii) Yukos had disclosed the extent of its tax savings
+by use of low-tax jurisdiction vehicles;
+
+(iii) The new audit resulted in a report which
+exceeded 100 pages in length within three weeks
+(29 December 2009).
+
+50. If the theories developed by the Tax Ministry to
+defend the way Yukos was ultimately treated were
+correct, the Claimants ask rhetorically, how can it be that
+the 2002 regular audits of the trading entities did not
+result in claims, or that the 2003 regular audits of Yukos
+did not have such an outcome either?
+
+51. | The ECHR did not accept Yukos’ argument that
+the Tax Ministry knew of the  tax-optimisation
+“arrangement in its entirety on the sole basis off] ... tax
+declarations and Requests for tax refunds,” Yukos v.
+Russia J 592. Whatever the merits of that conclusion, the
+Claimants in this case do not rely on declarations and
+refund applications as the “sole basis” for the proposition
+that Yukos’ practice was known to the tax authorities. To
+the contrary, the Claimants rely on the Ministry’s own
+teports of prior audits, involving both Yukos and some of
+its more important intermediary trading companies, as
+
+well as on Yukos’ public disclosure in 2002 of its tax
+savings. It therefore seems more pertinent to quote the
+RosInvest Award, the arbitrators in that case having found
+it “unpersuasive that, for one of the largest and most
+important companies in Russia, frequently discussed in
+the media, the tax authorities nevertheless were not aware
+or at least could not have informed themselves” ({ 451)
+and furthermore having found no “convincing evidence
+that the three week re-audit, or actually other audits,
+discovered new facts ....” (in J 494).
+
+52, In conclusion, and having carefully considered all
+the evidence in this case, the Tribunal is unconvinced by
+the Respondent’s arguments to the effect that it neither
+knew nor could easily have determined Yukos’ tax
+optimisation strategy, or its use of trading companies in
+low-tax jurisdictions, at the latest by April 2003, in the
+course of the “regular” Yukos audit. It is notable that the
+Respondent, while suggesting that the regular audit might
+have been less thorough than the re-audit (an unsurprising
+contention in and of itself), has never argued that the
+earlier audits were marred by any collusion or other
+improprieties.
+
+(B) The purported legal basis of the
+revocation of the tax benefits
+
+53. | The preponderance of Yukos’ tax benefits were
+granted by the Republic of Mordovia under a law (Law of
+the Republic of Mordovia on Conditions of Efficient Use
+of the Social and Economic Potential of the Republic of
+Mordovia) which gave broad authority to that region. In
+particular, Article 4, subparagraph! of this law
+established that decisions regarding “application of the
+taxation regime envisaged in this Law to specific entities
+shall be made by the Republic of Mordovia”, and that
+Mordovian authorities were also empowered to identify
+the documentation to be furnished by applicants, to
+“supervise compliance”, to determine the “special taxation
+regime” for a given entity, to define the procedure for
+obtaining tax concessions, and to set out the requisite
+record-keeping by tax-paying entities.
+
+54. Yukos obtained Mordovian tax concessions. It set
+up trading entities in Mordovia which never, as far as the
+record shows, fell short of the requirements of the Law
+under which the benefits were granted. Yet the
+Respondent treated Yukos as a tax delinquent for having
+violated an alleged rule of “good faith” in that its tax
+benefits were “disproportionate” to the investments it had
+made in Mordovia — notwithstanding that Mordovia was
+explicitly entitled under the Law to “supervise
+compliance”, and had not seen fit to require any particular
+level of investment.
+
+55. The ECHR considered that the Respondent's
+stance in this respect passed muster under the Court’s
+view of the “margin of appreciation”, explaining at J 598
+that many laws are perforce “vague” and require “judicial
+interpretation” to be developed as “questions of practice”.
+This reasoning does not really meet the argument made by
+the Claimants in this case to the effect that it is simply
+wrong for a citizen to be sanctioned for bad faith when he
+has acted in accordance with the rules established by
+authorities having explicit statutory authority to supervise
+the relevant conduct, and without any criticism by those
+authorities.
+
+56. The Respondent’s position is further weakened by
+the fact that it cannot point to a precedent where the
+putative proportionality rule had been invoked against a
+similarly situated taxpayer. In the absence of a sound and
+proven legal doctrine to justify itself, it is no answer for
+the Respondent to say that the regional tax incentive
+system had been shown to result in an unacceptable loss
+of aggregate State revenues, and that the correction must
+start with someone. The self-evident correction in a legal
+regime which is revealed not to contain adequate
+constraints is to re-conceive and re-calibrate those limits,
+and to enact revisions by legislative amendment, not by ad
+hoc administrative determinations based on a nearly
+infinitely open-textured notion like that of “good faith”.
+
+57. Indeed an article published by Vladimir
+Samoylenko in April 2004 (“Government Policies in
+
+30+
+
+Regard to Internal Tax Havens in Russia” 34 Tax Notes
+International, 5 April 2004) captured the point very well,
+demonstrating that the tax authorities were quite aware of
+the great advantages derived by big business from the
+special tax regions, and that they were engaged in debates
+about it. (The Claimants have also submitted evidence of
+Audit Chamber reports documenting how it was possible
+to derive substantial benefits from a region despite an
+insubstantial presence there; see, e.g. the Audit Chamber
+Bulletin No. 3 (75) (2004), “Report on the Results of the
+Review Concerning Implementation of the Decisions
+Made by the Collegium of the Audit Chamber of the
+Russian Federation following the Results of the Audits in
+Respect of Performance of Audit Activities Ensuring
+Receipts of the Federal Budget in the Regions of the
+Russian Federation”, looking at the period 2001/02 and
+concluding at p. 127 that the benefits in Mordovia
+“amounted to 16.3 times the Federal subsidiaries”; and
+that in Kalmykia the amount of tax benefits was offset by
+no more than 5.4% by way of investments of the
+beneficiaries.) _Samoylenko made clear that it was
+perceived before the year 2000 that the policy was having
+deleterious effects, and that the obvious remedy ~
+legislative reform — was identified by the Tax Ministry as
+early as 2001. Some vested interests sought to preserve
+the system as it was, and therefore the ultimate federal cap
+on regional benefits did not take effect until January 1“
+2004. The following comment by the author is of clear
+present relevance:
+
+“The tax authorities must not lose sight of the fact
+that the elimination of the regional tax havens is a
+policy change. A once favoured means of funding
+local budgets has been rejected. As a matter of
+fairness, tax authorities should not seek to shift
+blame for the undesired policy to Russian
+businesses who took advantage of the policy.”
+
+58. | The Respondent did not counter these arguments,
+in either its opening or closing oral submissions.
+Samoylenko was entirely absent from its presentations,
+
+save in response to a question from the Tribunal, where a
+passing reference to Samoylenko was made to the
+inconsequential effect that one must “distinguish between
+use and abuse” (T:Day 9:158:15).
+
+59. In its written arguments, the Respondent focused
+on what it sought to portray as Mr Samoylenko’s views on
+a quite different matter, namely the notion that tax
+benefits were restricted by a rule of proportionality. This
+argument backfired, since the Claimants were able to
+point out that the author never made such a statement, but
+to the contrary — and repeatedly — observed that the tax
+haven practice was to offer generous advantages in return
+for fixed fees. Moreoever, the Claimants were quick to
+point out that the Rosénvest tribunal flatly rejected the
+proportionality argument when it was put to the arbitrators
+there ({ 450).
+
+60. Looking at the facts of this case, the salient feature
+is undisputed. Yukos developed the practice of using
+controlled trading companies as intermediaries for its vast
+volume of sales. Sometimes these trading companies
+were arrayed in multiple layers, buying and reselling
+Yukos’ output from other entities of the Yukos group.
+When the intermediary entities were located in a low-tax
+region of Russia, they unsurprisingly purchased the goods
+at a low price and resold them at a higher price, thus
+generating profits taxed at a low rate. The regions’
+objective was to attract economic activity; and they were
+authorised to grant these tax advantages by dispensation
+from the federal government by reason of their special
+development needs within the framework of
+macroeconomic policy. Some regions were thus in a
+position to grant very substantial advantages. For
+example, when the Russian Federal profits tax in 2002
+stood at a rate of 7.5%, the regional and local profits taxes
+were 16.5%. One immediately sees that insofar as a
+region was willing to forego a part — or indeed all — of the
+16.5%, this raised a number of issues of public policy
+within the Russian Federation. For example, if a
+profitable enterprise moved its tax domicile from region
+X, which had no authority to grant tax concessions, to
+
+region Y, which was prepared not to tax profits at all (thus
+contenting itself with prospects of increased employment
+or the collection of lesser taxes of a different nature) the
+result would not only be starkly negative for region X,
+which would lose its tax receipts entirely, but also
+possibly for the Federation, which might have to come to
+region X’s rescue if this occurred on such a scale as to
+compromise the region’s capacity to finance the
+maintenance of public services. As for region Y, it might
+well say that modest revenues are better than none,
+ignoring that the authority to concede tax advantages had
+been reserved for relatively unprosperous regions which
+required Federal subsidies. To put it simply, ill-conceived
+regional concessions would drain the aggregate public
+treasury.
+
+61. The Tribunal has seen evidence of tension
+between the central State and the regions with respect to
+the authority to legislate and to regulate. Regional
+overregulation was thought to frustrate State policy (and
+naturally create opportunity for corruption), while
+regional laxity with respect to special fiscal regimes could
+undermine the public treasury. Thus, to take a problem of
+present relevance, permissive tax domiciliation in a given
+region, when coupled with low tax rates, might allow
+schemes having the perverse effect of draining significant
+tax revenues from one region without increasing them
+elsewhere, as the low-tax region would be happy to take
+the 100 thousand it would otherwise not have received
+without caring that the corporate migration thus deprived
+the original region of 100 million.
+
+62. One form of similarly unintended consequences
+might be the failure to disqualify inter-group transfers.
+This is a well known challenge to modern fiscal
+policy-makers. A multi-national group of companies
+which produces goods in a high tax jurisdiction is unlikely
+to be able to avoid those taxes by a simple inter-group
+transfer to a subsidiary entity located in a tax haven at a
+price which reflects nothing but cost, and therefore
+attracts no income tax. This is the familiar problem of
+transfer pricing, which is cured by the authority to
+
+challenge the price and to deem the taxpayer’s true
+income to have been higher.
+
+63. The problem within the Russian Federation was
+similar, but in Yukos’ case the approach taken by the
+Respondent to rectify allegedly unintended windfalls to
+Yukos was, as it explains, quite different. Instead of
+simply challenging the transfer prices, with the aim of
+reallocating proper revenues to the original
+producing/selling entity so as to reflect an arm’s length
+transaction, the Tax Ministry developed a concept of
+“abuse of right”, with the salient objective of
+disqualifying sham transactions. In addition — whether as
+alternative or confirmatory theories is not always clear —
+the Ministry referred to criteria of “proportionality” of
+investments to tax savings, and “real ownership”.
+
+64. Countless words have been written and spoken in
+the course of these proceedings about the proper
+understanding of the position under Russian law. Indeed,
+the debate has included excursions into the realm of
+comparative tax law, as the Respondent has sought to
+demonstrate that many advanced legal systems include the
+concept of “abuse of law” and the disqualification of sham
+transactions. The Claimants, for their part, have insisted
+that the Respondent’s treatment of Yukos involved
+entirely novel and discriminatory legal theories invented
+for the sole purpose of covering what was and remains
+fundamentally an unlawful dispossession of private
+property. In sum, the competing narratives might be
+described as “sham transactions” vs “sham taxes”.
+
+65. Erudite expert reports were furnished by both
+sides on these issues, and significant time was spent in the
+course of the hearings in questioning some of their
+authors. To explore all the ground covered by these
+arguments and rebuttals, which at times under the
+direction of skilled cross-examination involved extended
+excursions at a great distance from the facts of this case,
+would result in an award of unwarranted length. It should
+suffice for the Tribunal to set out its core conclusions:
+
+Since the loss of tax revenues was
+evidently attributable to
+non-arms’-length inter-group pricing,
+the natural correction would be to
+disqualify those prices and to
+reintegrate into the producing entity’s
+tax base an amount which would
+restore arm’s length.
+
+The basis for such a correction of the
+problem apparently exists under the
+applicable tax regime, or by virtue of
+Article 40 of the Russian Tax Code.
+Even if that were not so, or if there
+were found to be a failure of
+safeguards in the terms under which
+certain regions could grant tax
+advantages, such matters fall to be
+addressed by legal reform.
+
+To characterise behaviour as violating
+a broad concept of “good faith” when
+a taxpayer adopts behaviour precisely
+to take advantage of tax benefits
+created with the intention of inducing
+the corresponding conduct seems
+quite extraordinary. It is hard to see
+why the taxpayer should be blamed
+for the generosity of those benefits.
+Absent proof of collusion with
+officials charged with administering
+the tax regime, it is difficult to accept
+that the taxpayer should be held to a
+duty to conclude, against the text of
+the regulations, that the scope of the
+tax advantage had been defined as
+broader than what the drafters
+intended.
+
+66. To counter the observation that what Yukos did
+was not only not prohibited, but indeed authorised, the
+Respondent invokes a particular type of breach of good
+faith, namely that of a “sham” transaction. This concept
+was explored at length in the course of cross-examinations
+of expert witnesses, notably of Professor Stephan (called
+by the Claimants) and Mr Konnov (called by the
+Respondent). The proposition advanced by the
+Respondent is that tax authorities may disregard
+transactions if they have no “reasonable economic or other
+purpose” other than the securing of a tax benefit.
+Although the discussion was conducted against a
+background of impressive familiarity with the relevant
+legal texts and cases, and occasionally at a very high level
+of abstraction, in the end the Tribunal can summarise its
+relevant findings quite simply and succinctly.
+
+67. The Tribunal is unwilling to find that Yukos
+engaged in sham transactions with its affiliated trading
+entities. For one thing, the notion of a “sham” suggests
+something surreptitious, whereas the tax authorities
+obviously had access to the tax returns of both Yukos and
+the affiliated entities in question and would, or should,
+have had little difficulty in seeing that Yukos was
+assigning significant revenues to the latter by way of
+inter-company transfers. These transfers might be
+questioned on the basis of the arm’s length standard
+discussed above, but not as shams. (Incidental internal
+communications advising staff members not to preserve
+documents relating to the arrangements are not, in the
+Tribunal’s view, decisive proof of a guilty corporate
+conscience; they might just as well suggest a
+disinclination to call attention to the tax savings made,
+particularly if there were apprehensions of aggressive
+audits. At any rate, as said, Yukos’ intragroup practices
+were known or could readily have been ascertained.) That
+leads to the more significant consideration, namely that a
+sham transaction above all involves an attempted
+masquerade, attempting to disguise the very nature of
+what is being done. An excellent example emerged in the
+form of the so-called Sibservis case, Resolution No.
+367/96 of 17 September 1996. There the taxpayer
+
+purported to “borrow” money from customers of its
+goods, and “repay” the “loans” by delivery of the goods.
+The repayment of loans, as opposed to monies received on
+account of goods sold, was not subject to VAT. The
+transaction was recharacterised by the tax authorities.
+This was indeed dissimulation.
+
+68. In the present case, there was nothing of the sort.
+The sales transactions were just that: the transfer of title to
+goods for a certain price. From the ultimate independent
+purchaser, a legal relationship was created between that
+purchaser and the intermediary Yukos affiliate. There
+was no “fake” transaction. The buyer had a right to
+certain deliveries, the duty to make certain payments, and
+a right to bring action against the intermediate entity,
+notably in the form of an international arbitration — but no
+privity to bring an action against Yukos, with which it had
+no contractual relations.
+
+69. If one puts to the side the idea of sham
+transactions, one is left with the question whether a
+taxpayer should not be allowed to conduct its business by
+choosing alternative A over alternative B for the sole
+purpose of deriving a tax benefit. The answer in Russian
+law, as reflected in point 4 of the Supreme Arbitrazh
+Court’s Resolution No. 53 of 12 October 2006, is — to use
+the phrase employed by Mr Alexander for the Respondent
+(T:Day 6:13:5-8) — that “if there are two options, both of
+which have the same economic substance, the taxpayer is
+entitled to choose between those options.” The true
+economic substance of Yukos’ vast business was to sell
+into the market to independent purchasers. This could be
+done directly, or alternatively through affiliates. The
+second alternative was more attractive, due to the
+availability of tax benefits precisely designed to stimulate
+the establishment of business activity in the Russian
+low-tax jurisdictions. The economic substance of the
+arrangement was the same; goods produced by Yukos
+were purchased by an independent buyer at a market
+price. To insist that Yukos should not be allowed to sell
+to an affiliate at a below-market price is, once again,
+something quite different; that has to do with the
+
+prohibition of the terms of a transaction, not a claim that it
+was bogus.
+
+70. Similarly, the plausible notion that tax benefits
+must bear some reasonable relationship to the investments
+made by the taxpayer seems so self-evidently suitable for
+consideration at the time of creating the low-tax regime
+that its absence cannot be considered an accident; if in
+practice the omission seemed an error, the obvious
+remedy is amendment rather than unpredictable judicial
+sanctions by reference to an unspecified criterion of
+“proportionality”.
+
+71. The same may be said with respect to the use of
+intermediary entities which have negligible “economic
+substance”. If that were to be a disqualifying factor, it
+would surely be a simple matter to make clear that some
+quantified “substance” is a requirement, rather than to
+leave it to the happenstance of a subsequent judicial
+opinion about the matter. In the case of Mordovia, the
+investment law specifically listed the wholesale trade in
+fuels and lubricants as the type of activity that would
+qualify an investor for benefits under the law. Given that
+no hydrocarbons are produced in Mordovia, it seems quite
+clear that such a wholesaler might do its business with no
+physical plant and a very limited staff of traders sitting at
+their consoles.
+
+72. The ultimate justification, in the eyes of Mr
+Konnov, turned out to be the taxpayer’s “motivation”
+(T:Day 6:148:11-25), in the sense that improper
+motivation was evidence of abuse, and therefore a ground
+on which to disqualify the claimed benefit. Mr Konnov’s
+knowledge of Russian tax law and cases was most
+impressive, as were his acute perception of nuances in the
+questions put to him and his clarity in responding to them.
+This is all the more reason to give weight to the fact that
+he concluded that it all came down to the distinction
+illustrated by two simple hypotheses which he referred to
+repeatedly in his answers before the Tribunal. In the first,
+Yukos owned no trading companies but decided to hire
+professional traders and set them up in a new company;
+
+“if they decide to do that in Mordovia, it is true business
+operations, true trading company, then probably I have no
+problem with it” (T:Day 6:210:6-9). In the second, “if I
+have trading corporations in Moscow and I go to
+Mordovia and I set up a company there, what is my
+motivation” (T:Day 6:148:14-16).
+
+73. If the taxpayer structures his business with tax
+minimisation as the “sole or predominant reason”, “you
+have a problem” and “the fact pattern in the Yukos case is
+pretty easy ....” (T:Day 6:212:1-10).
+
+74. The Tribunal is unpersuaded. In the first place,
+the analysis here shifts appreciably from the notion of
+sham transactions and even from that of “no reasonable
+economic or other purpose” to that of a dominant motive
+of tax savings. The distinctions are decisive. To recall
+Mr Alexander’s words, “if there are two options, both of
+which have the same economic substance, the taxpayer is
+entitled to choose between these options”. In other words,
+the choice is exclusively tax driven. It is difficult to see
+how it could be otherwise, in a world filled with major
+corporations openly structuring their businesses through
+low-tax jurisdictions. The distinction between the
+hypothesis of a new trading company versus a migrating
+trading company, positing the former as acceptable and
+the latter not, is not convincing. In the first hypothesis,
+the two options are incorporation in a high tax jurisdiction
+versus incorporation in a low tax jurisdiction. In the
+second, the choice is between remaining in a high-tax
+jurisdiction versus migrating to a low tax jurisdiction.
+There is no distinction of principle. Business decisions,
+once made, are not immutable. They are revised in
+accordance with negative and positive developments, such
+as increased taxes in the current jurisdiction or tax
+benefits in a jurisdiction where it is possible and lawful to
+relocate. The notion of abusive motivation simply does
+not fit.
+
+(C) The attribution to Yukos of the additional
+tax associated with income of the trading
+companies
+
+75. ‘It is one thing to say that Yukos remained the
+owner of goods which it had purported to sell directly to
+its affiliates because its contracts with them were a sham,
+but quite another to insist that the result of repudiating
+purported sales among entities controlled by Yukos was
+that Yukos somehow became the owner of the goods. This
+obviously has nothing to do with the proposition that the
+sales were sham transactions, but rather with the very
+different notion that Yukos, albeit not a party to the
+transaction, should be treated as having become the
+owner. The adoption of this approach by the Respondent
+obviously made it instantly possible for it to view Yukos
+itself as a tax debtor by reason of profits which it had not
+made, and would benefit from only upon the contingent
+payment of dividends.
+
+76. This move raises obvious legal issues as to how
+this conclusion might be justified. They were dealt with
+comprehensively in writing by Professor Viktor Pavlovich
+Mozolin, notably by reference to the unprecedented way
+in which the tax authorities used Article 209 of the Civil
+Code. Professor Mozolin was not called for
+cross-examination by the Respondent, who chose instead
+to challenge his opinion by relying on the contrary
+arguments of Mr Konnov. It would be perverse if
+insightful expert testimony were to be disregarded simply
+because the party which disagrees with it chooses not to
+confront the author. Indeed the Tribunal is inclined to
+give weight to Professor Mozolin’s statement that Article
+209 appears in a general part of the Civil Code which
+gives way to Chapter 14, dealing with the acquisition of
+property in particular. Mr Konnov in fact accepted that
+Article 218, which appears precisely in Chapter 14,
+properly covers a situation such as that of Tomskneft, a
+Yukos producing company, selling oil to Ratibor, one of
+the Yukos trading companies (T:Day 6:83:25), Professor
+Mozolin went on to conclude that the Tax Ministry’s
+unprecedented invocation of Article 209 “to identify
+
+someone other than the title holder as the owner of
+property is .... illegitimate” (Opinion, { 9).
+
+77. Professor Mozolin is among the most senior of
+Russian academic figures: head of the Civil and Family
+Law Department of the Moscow State Academy of Law,
+and one of the drafters of the Civil Code of the Russian
+Federation. His expert testimony focussed entirely on two
+fundamental and over-arching topics, as to which his
+reasoning stands challenged — but not confronted. As they
+were both at the heart of the putative legal underpinning
+of the measures at issue in this case, the decision not to
+call him to the stand was quite remarkable. As to the first
+of the two topics, his conclusion is uncompromising: “My
+frank assessment is that this invocation of Article 209 was
+absurd” ({ 6). He explained that “there is no provision of
+the Civil Code that operates to transfer ownership of the
+oil to Yukos or declare Yukos as the ‘actual owner’ of the
+oil and based on the provisions of Article 209.... I have
+not encountered the concept of ‘actual owner’ in my more
+than 50 years as a legal scholar.”
+
+78. Professor Mozolin’s second topic was to examine
+the proposition that there is a distinction between good
+and bad faith taxpayers, and that the tax authorities
+therefore are justified in seeking to determine to which
+category a given taxpayer belongs, and to treat him
+accordingly. Professor Mozolin had no truck with this
+concept (nor did the Ros/nvest tribunal, at {| 449), and the
+Claimants did not have to look far to find authority to
+support the proposition that Russian law gives all persons
+the benefit of the presumption of good faith, including
+taxpayers,
+
+79. Reverting to the issue of Article 209, without
+needing to adopt Professor Mozolin’s word illegitimate,
+the present Tribunal contents itself with observing that the
+tax authorities’ reference to Article 209 seems to have
+been rather cavalier, reaching for the nearest available
+general legal text — defining the rights of ownership as
+possession, use, and disposal — for the sake of appearance,
+without explaining how the assignment of ownership to
+
+Yukos could override the transmission of title, as per the
+sales contracts, in light of the directly apposite Article
+218. Mr Konnov’s defence of the tax authorities’
+approach was that “the tax authorities referred to Article
+209 not as a standalone/separate concept but in the context
+of the anti-abuse theories described above” (2™ witness
+statement § 43). This comment rather gives the game
+away; if the reference to Article 209 did not “stand alone”,
+it was unnecessary; if it was unnecessary, why was it
+invoked, if not as a rather jejune fig leaf? Rather than a
+part of the foundation of undoing a sham transaction, this
+seems to be an indicium of a sham tax assessment. (The
+Tribunal is aware that Article 209 may have been invoked
+by the Tax Ministry once before Yukos, as a basis for
+making an assessment, but there had been no judicial
+endorsement of it unti] Yukos.)
+
+(D) ‘The rejection of the VAT refund
+
+80. The unattractiveness of the Respondent’s position
+in this connection is readily apparent. The amounts
+involved were vast — in excess of $13.5 billion. The
+export sales in question undoubtedly qualified for VAT
+refunds. The trading company sellers had duly applied for
+them. But once the tax authorities had invalidated the
+transactions by which the sellers had come into possession
+of the goods, they concluded that Yukos was the true
+original owner and therefore should be deemed to be the
+true export seller. If this was so, one would expect that by
+a parity of reasoning under their basic premise, the tax
+authorities should have held that the true applicant for the
+refund was also Yukos — and that Yukos was therefore
+entitled to the VAT credit in the same way as it was
+assigned the debit for the profit tax. To try to have it both
+ways would surely bespeak unprincipled hostility towards
+the taxpayer.
+
+81. Yet that is precisely what the tax officials did —
+with the subsequent endorsement of the courts.
+
+82. Unsurprisingly, Ros/nvest viewed this conduct in
+the harsh light it deserves:
+
+“The extremely formalistic interpretation of the
+VAT tax law regarding Yukos and its trading
+companies to the effect that, though exports were
+undisputedly not subject to VAT, the documentation
+also undisputedly submitted by the trading
+companies could not be used in relation to Yukos
+and thus Yukos was liable for more than US$
+13.5 billion in VAT related taxes is difficult to
+accept as a justification for a tax liability the size of
+which was sufficient to lead Yukos into
+bankruptcy.” (J 452)
+
+The present Tribunal entirely endorses this conclusion,
+and agrees with the Claimants that the ECHR appears, in
+{{{ 601-602, to have entirely missed the point being made,
+namely that if the tax authorities were going to attribute to
+Yukos the transactions carried out in the names of its
+trading companies, they should also have attributed to
+Yukos the submission of normal VAT documentation by
+the trading companies. Given that the export transactions
+in question were indisputably zero-rated for VAT
+purposes, the refusal to do so can only seem confiscatory
+to a degree which comes close to validating the claims in
+their entirety on this basis alone.
+
+(E) The speedy and robust execution of the
+judgment enforcing the Y2000 assessment
+
+83. The Claimants observe that Russian law would
+have given an allowance of three years for the execution
+of the judgment, and argue that this would plausibly have
+led to an arrangement for payment without the need to
+seize and sell off YNG.
+
+84. The effective date of the writ of execution of the
+Moscow Arbitrazh Court, allowing the Ministry to
+enforce its $3.5 billion tax claim, was 30 June 2004. The
+Tax Ministry had up to three years to act on the writ, say
+the Claimants, but demanded payment within five days.
+The Ministry ignored a number of proposals from Yukos
+to pay this amount notwithstanding the freeze on its assets
+—e.g., by execution against its shareholding in Sibneft.
+
+Instead, on 20 July the Ministry of Justice announced that
+it would sell YNG, a Yukos asset the Claimants say was
+worth at least $15 billion, to satisfy the 2000 debt. In a
+Prospectus dated 14 July 2006, Rosneft was to value its
+YNG interests at $57.7 billion.
+
+85. The Claimants argue that since the Respondent
+had put into place a freeze on Yukos’ assets and since
+interest would run on taxes due, it had no legitimate
+reason not to allow Yukos reasonable time to work out
+means of payment that would allow the corporate taxpayer
+to avoid the loss of its largest producing assets, and indeed
+the ultimate dismantlement of the entire enterprise.
+
+86. The Respondent’s counter, to the effect that it
+might have been exposed to a charge of abuse of right if it
+tarried in enforcing the tax debt, and allowed interest to
+accumulate, is feeble indeed. That ostensible worry
+would have been neutralised, if indeed it was sincere, by
+asking Yukos to waive any such claim as a condition of
+reprieve.
+
+72 Did the Respondent prevent Yukos from
+discharging the (disputed) tax debts?
+
+87. | The Claimants contend that the Russian Federation
+prevented Yukos from discharging or settling its tax
+liabilities so that it could seize YNG and sell it to Rosneft
+at a bargain price. Yukos specifically takes issue with the
+15 April 2004 asset freeze, the Russian authorities’ failure
+to consider Yukos’ proposals of alternative means of
+paying the tax assessments, and the seizure and sale of
+Yukos’ shares in YNG. The Respondent, on the other
+hand, defends the propriety of its actions.
+
+88. The question that arises for the present Tribunal is
+whether the 15 April 2004 asset freeze, the Respondent’s
+failure to consider Yukos’ proposals of alternative means
+of paying the tax assessments, and the seizure and sale of
+Yukos’ shares in YNG prevented Yukos from discharging
+its tax debts. If the answer is in the affirmative, the
+question arises whether in bringing about this result the
+Respondent acted in a manner normally to be expected of
+
+a taxing authority truly seeking to collect lawfully levied
+taxes, or whether instead Respondent’s actions were so
+antithetical to ordinary means of achieving that objective
+as to indicate that it had another goal in mind. The latter
+conclusion would support the Claimants’ theory that the
+Russian Federation’s goal was to expropriate Yukos, and
+not legitimately to collect taxes.
+
+(A) The 15 April 2004 asset freeze
+
+89, According to the Claimants, Yukos could have
+paid the 2000 tax levy of some $3.5 billion and survived
+as a healthy company, but was prevented from doing so
+by an order, issued the day after the Tax Ministry’s
+demand, to freeze its assets. The initiative led to the
+following sequence of events (SoC J 31):
+
+“15 April 2004 — Moscow Arbitrazh Court issues
+ex parte order imposing wide
+ranging asset freeze to secure
+alleged liability of $3.5 billion
+for 2000.
+
+16 April 2004 Deadline for voluntary payment
+of tax assessment expires.
+
+22 April 2004 Yukos petitions Moscow
+Arbitrazh Court protesting the
+freeze as unlawfully
+disproportional and requests
+that the court instead freeze
+Sibneft shares held by Yukos
+worth more than the $3.5 billion
+claim.
+
+23 April 2004 Moscow Arbitrazh Court denies
+Yukos’ request.
+
+17 May 2004 Yukos appeals the Moscow
+Arbitrazh Court’s decision.
+
+2 July 2004 Yukos’ appeal to the Moscow
+Arbitrazh Court of Appeal is
+rejected.”
+
+90. The Russian Federation allegedly made it
+impossible for Yukos of its own accord to discharge the
+liabilities imposed on it by the Tax Ministry: “the only
+way for Yukos to discharge its tax liabilities in full was to
+sell or borrow against assets that were subject to the 15
+April 2004 asset freeze.” (SoRep J 289.) But, as
+recounted below in Section 7.2(B), Yukos’ repeated
+requests to do so were purportedly ignored by the bailiffs.
+
+91. The Claimants contend that “[i]f the scope of the
+asset freeze was genuinely within the discretion of the Tax
+Ministry and Moscow Arbitrazh Court, the decision to
+exercise that discretion in such a disproportionate manner
+was arbitrary in nature and expropriatory in effect.” (SoC
+q 140.)
+
+92. The Respondent answers that the asset freeze did
+not prevent Yukos from discharging its tax liabilities;
+rather, Yukos simply did not want to pay. (SoRej { 226.)
+The Respondent suggests, contrary to the Claimants’
+contention, that the asset freeze did not cover the “assets
+or activities” of Yukos’ subsidiaries or affiliates; did not
+affect Yukos’ principal activity of the production,
+processing, and sale of oil; and did not preclude Yukos
+from selling non-Russian assets. (SoRep {J 285-87,
+SoRej J 227.) The Respondent also points to comments
+made by Yukos’ management and representatives that the
+15 April 2004 asset freeze did not have a significant effect
+on the company’s operations. (SoRej J 224.)
+
+93. The Respondent further pleads that the asset freeze
+was a reasonable response to the risk that Yukos would
+further evade its fiscal obligations:
+
+“The motion for injunction by the tax authorities
+was reasonable and justified when it is considered
+the amounts at stake, the clear indications by
+YUKOS' management that YUKOS would not settle
+its tax liability voluntarily, the decision of the tax
+authorities to take a more conservative approach
+with respect to enforcement of 2000 tax arrears and
+interest through court proceedings, a[s] well as the
+
+prior history of YUKOS' tax evasion.” (Konnov
+First Report, J 180.)
+
+94, The Tribunal observes that the lawfulness of the
+asset freeze was reviewed and confirmed by the Russian
+courts, as noted by the ECHR. (Yukos v Russia, J 641.)
+While the Tribunal is mindful that it is not an appellate
+body to scrutinize the decisions of domestic courts, the
+Tribunal notes that it is not bound to accept such decisions
+to the extent that they sanction “actions [that] breached
+international law by depriving the claimants of adequate
+compensation for the dispossession of which they
+complain.” (Award on Preliminary Objections, {| 45(ii.))
+
+95. The Tribunal is of the view that the asset freeze
+did not by itself “breach[] international law by depriving
+the claimants of adequate compensation for the
+dispossession of which they complain.” The Tribunal
+therefore will not scrutinize and opine upon the decisions
+of the Russian courts upholding the asset freeze. But, as
+discussed below, the Tribunal finds that the timing and
+comprehensive scope of the asset freeze were among
+several factors that substantially contributed to preventing
+Yukos from paying its tax debts.
+
+96. The timing of the asset freeze must be viewed in
+context, against the backdrop of the Tax Ministry's
+demand for $3.5 billion in back taxes. The ex parte freeze
+on Yukos’ assets took place on 15 April 2004, when the
+day before the Tax Ministry had demanded $3.5 billion in
+taxes and the day after had been set as the deadline for
+voluntary payment. The timing of the asset freeze
+undoubtedly was a hindrance to Yukos in accomplishing
+the already vast task of paying the alleged $3.5 billion tax
+debt within two days.
+
+97. The difficulties associated with this extremely
+short deadline were compounded by the fact that the
+Russian Federation froze substantially all of Yukos’ non-
+cash assets. The Respondent argues that the asset freeze
+did not cover the “assets or activities” of Yukos’
+subsidiaries and, therefore, Yukos could have caused its
+subsidiaries to sell off their assets and pay the proceeds as
+
+dividends to Yukos. It is, however, implausible to
+contemplate that the Russian authorities would have
+allowed the value of the very assets that were frozen to be
+diluted in this fashion. The Tribunal is also sceptical of
+the relevance of the comments by Yukos’ management
+and representatives that the 15 April 2004 asset freeze did
+not have a significant effect on the company’s operations.
+For Yukos to say at that point that its “operations” would
+not be affected would be understood by the average
+business executive to mean exactly that: the search for,
+exploitation, extraction and sale of petroleum products
+remain unhindered and will continue. Normal business is
+not interrupted by a freeze on non-cash assets. Even were
+such “statements against interest,” as Respondent
+characterizes them, construed more broadly, however,
+they must be considered as of the time they were made, in
+April, May and July 2004 before certain significant events
+in the Yukos saga unfolded: before Yukos’ multiple
+settlement offers were ignored by the Respondent, before
+the Respondent seized and auctioned YNG, and before
+bankruptcy proceedings were commenced and Yukos was
+liquidated. These comments were made by Yukos’
+management and representatives with the reasonable
+belief (or at least legitimate hope) that the Russian
+Federation would act in good faith in its tax dispute with
+Yukos. As this turned out not to be the case, the Tribunal
+attributes little weight to this attempt by the Respondent to
+minimize the significance of the 15 April 2004 asset
+freeze.
+
+(B) The failure to consider Yukos’ proposals
+of alternative means of paying the tax
+assessments
+
+98. The 15 April 2004 asset freeze effectively gave the
+Russian Federation the power to decide how Yukos’ tax
+liabilities would be satisfied because it required Yukos to
+propose assets against which the bailiffs should enforce
+the levies. Under Russian law, the final decision on the
+assets against which enforcement would be made was
+reserved to the bailiffs.
+
+99. | The Claimants contend that the Tax Ministry’s
+failure to respond to Yukos’ numerous offers to settle or
+discharge its tax debt demonstrated that the Russian
+Federation had no interest in allowing Yukos to resolve its
+liabilities. It points to the following sequence of events
+
+(SoC J 33, 141, 146):
+30 June 2004
+
+1 July 2004
+
+2 July 2004
+
+6 July 2004
+
+Moscow Arbitrazh Court issues
+writ of execution. The Tax
+Ministry asks the _ First
+Interdistrict Office of the Court
+Bailiffs of the — Central
+Administrative District of
+Moscow (“Bailiffs Service”) to
+execute the judgment against
+Yukos and the Bailiffs issue an
+order giving Yukos five days to
+pay $3.5 billion.
+
+Yukos attempts to deliver to the
+Bailiffs a package of documents
+permitting execution against
+Yukos’ 34.5 percent
+shareholding in Sibneft valued
+at $4.6 billion. The Bailiffs
+refuse to accept the package.
+
+Yukos writes to the Bailiffs
+Service requesting information
+on how to transfer the Sibneft
+stake. The Bailiffs do not
+respond.
+
+Former — Canadian Prime
+Minister Jean Chretien writes to
+Prime Minister Fradkov on
+Yukos’ behalf, proposing a
+payment of $8 billion as a
+global settlement for the 2000-
+03 tax years. No response is
+received.
+
+14 July 2004
+
+15 July 2004
+
+16 July 2004
+
+30 July 2004
+
+17 Aug. 2004
+
+30 Aug. 2004
+
+16 Sept. 2004
+
+Bailiffs seize Yukos’ shares in
+YNG. Yukos petitions the
+Moscow Arbitrazh Court to
+declare unlawful the Bailiffs’
+failure to execute against the
+Sibneft shares.
+
+Mr. Chretien writes again to
+Prime Minister _ Fradkov,
+reiterating Yukos’ 6 July 2004
+settlement offer.
+
+Steven Theede, Yukos’ CEO,
+writes to the Minister of Finance
+requesting deferral of tax debt
+for six months or payment in
+instalments.
+
+Mr. Chretien writes to President
+Putin, reiterating Yukos’ 6 July
+2004 settlement offer.
+
+Moscow Arbitrazh Court
+upholds the failure of the Bailiffs
+to execute against the Sibneft
+shares.
+
+Deputy Minister of Finance
+writes to Yukos rejecting
+deferral request of 16 July 2004.
+
+Yukos writes a letter to the
+Ministry of Justice proposing
+that the Bailiffs execute against
+Yukos’ shareholdings in a
+number of companies, including
+Sibneft OJSC and Tomskenergo
+OJSC. The Russian Federation
+does not respond. Yukos
+reiterates its request on 24
+November 2004, 25 November
+2004, and 16 December 2004.
+
+The Russian Federation does
+not respond.
+
+100. The Claimants emphasize that “Russia did not
+refuse or reject any of Yukos’s 2004 proposals, it simply
+ignored them.” (SoRep J 298.)
+
+101. The Respondent, however, contends that it had
+good reasons not to accept Yukos’ purported settlement
+offers. First, Russian law does not require the bailiffs to
+execute against assets proffered by the debtor. Second,
+the Tax Ministry had no authority to grant Yukos’ 16 July
+2004 request to defer payment on the tax debt. Third,
+“[nJone of Yukos’s offers were adequate or credible”
+because they would have required the Tax Ministry to:
+(i) accept the disputed Sibneft shares; (ii) accept a fraction
+of what was owed; or (iii) offset substantial VAT refunds
+that were not specified. (SoRej { 240.)
+
+102. The Tribunal is mindful that the Russian Tax
+Ministry, like tax authorities in other countries, had the
+discretion to decide whether to settle with Yukos. Indeed
+the ECHR has found that the Russian tax authorities “had
+a decisive freedom of choice” and “should have given
+very serious consideration to other options.” ({ 654.) The
+Tribunal is also sympathetic to the Respondent’s
+contention that Yukos’ settlement offers might not have
+been as appealing as Yukos had claimed; for example,
+questions linger regarding Yukos’ title to the disputed
+Sibneft shares. Nevertheless, the Russian Federation’s
+failure even to respond to the multiple offers by Yukos,
+the largest private taxpayer in Russia, in the view of the
+present Tribunal, raises significant doubts as to whether
+the Respondent acted in good faith in attempting to
+resolve its tax dispute with Yukos, and whether its actions
+were really taken as part of an ordinary process of
+assessing and collecting taxes. While ignoring multiple
+settlement offers by an ordinary taxpayer might seem odd,
+the failure of a tax authority to respond to multiple
+settlement offers by the State’s largest private taxpayer is,
+in the Tribunal’s view, highly suspicious; such treatment
+
+of a major force of the national economy could not
+reasonably have been a matter of inadvertent clumsiness.
+
+103. The Tribunal notes that “in February and March
+2008, Rosneft was able to negotiate with the federal,
+regional, and local tax authorities an agreement that
+permitted it to pay off YNG’s tax liability (assumed by
+Rosneft when it acquired YNG) over a five-year period
+starting in March 2008.” (SoC { 145.) In light of the fact
+that the Russian Tax Ministry had entertained and
+negotiated repayment plans with other large taxpayers,
+including Rosneft, the Tribunal accepts the Claimants’
+common sense argument that “[i]f the Russian
+Federation’s true intent in the tax cases against Yukos was
+to collect legitimately-owed taxes, it would have worked
+with Yukos to find a way for the company to discharge its
+obligations that did not involve liquidation.” (SoC {| 34.)
+The failure of the Russian Tax Ministry to work with
+Yukos, or to even respond to Yukos’ multiple settlement
+offers, is disturbing to say the least.
+
+(C) The seizure and sale of Yukos’ shares in
+YNG
+
+104. The Russian Federation seized and sold YNG to
+discharge Yukos’ tax liabilities. The following events
+surrounded the YNG auction (SoC 36):
+
+6 Oct. 2004 Russia’s appraiser, Dresdner
+Kleinwort Wasserstein
+(“DrKW”) delivers a report to
+the Ministry of Justice valuing
+YNG at $15.7-$18.3 billion.
+
+7 Oct. 2004 Press reports that the Ministry
+of Natural Resources is
+questioning the status of YNG’s
+production licenses.
+
+18 Noy. 2004 Bailiffs Service announces that
+YNG will be auctioned to satisfy
+Yukos’ outstanding tax debt.
+
+19 Nov. 2004 = Russian Federal Property
+Service issues formal auction
+notice, setting a starting price of
+246 billion roubles ($8.65
+billion) for YNG.
+
+19 Dec. 2004 -YNG sold at auction for $9.3
+billion to BaikalFinansGroup
+(“BFG”.)
+
+22 Dec. 2004 — BFG purchased by Rosneft.
+
+105. As a preliminary matter, the Claimants contend
+that the seizure of YNG was disproportionate because, as
+noted by the ECHR, it “was capable of dealing a fatal
+blow to [Yukos’] ability to survive the tax claims and to
+continue its existence.” (Yukos v Russia, J 653.) The
+decision to auction YNG, so the Claimants say, “made
+sense only if the objective of the exercise was to place a
+crown jewel of the Russian oil industry under state
+control.” (SoC { 133.) According to the Claimants:
+
+“If the Russian Federation's true intent was to
+collect taxes from Yukos, it had up to three years to
+do so. Waiting would have cost Russia nothing
+since interest would have continued to accrue on
+the Yukos liabilities. Nor would delay have entailed
+any additional collection risk, inasmuch as Yukos
+had the ability to pay in a reasonable time and the
+15 April 2004 asset freeze gave Russia complete
+control over substantially all of Yukos’s assets.
+There being neither a requirement nor a need for
+Russia to enforce its judgment against Yukos
+immediately, one is left to conclude . . . that the
+purpose of Russia’s rapid use of the Moscow
+Arbitrazh Court's execution writ to seize YNG was
+motivated by a simple desire to put YNG into
+government hands, not by a wish to collect taxes.”
+(SoRep J 279.)
+
+106. The Claimants further allege that the YNG auction
+was conducted in a manner inconsistent with a bona fide
+exercise of the Russian Federation’s taxation,
+
+enforcement, and regulatory powers. They raise four
+series of complaints.
+
+107. First, the Russian Federation did not attempt to
+maximize the price fetched by YNG at auction. To the
+contrary, the Federation tried to force down the auction
+price of YNG by imposing on it an additional $4.6 billion
+in new tax liabilities and raising questions about the
+validity of YNG’s licenses. The additional tax liabilities
+were carried forward to Rosneft, but were ultimately
+reduced 84% by the Russian courts to $760 million.
+
+108. Second, the Russian Federal Property Service did
+not use the standard procedure applicable to auctions of
+seized property, which would have required Russia to set
+YNG’s starting price in line with DrKW’s valuation of
+$15.7-$18.3 billion. Instead, the Russian authorities set
+the starting price of the YNG auction at $8.65 billion,
+significantly below the valuations in the DrKW report.
+
+109. Third, the Russian Federation effectively barred
+privately-owned Russian oil companies and foreign oil
+companies from participating in the YNG auction by
+holding the auction only one month after announcing it,
+and by failing to encourage potential buyers to participate
+(see generally the Osterwald Report, who opined that a
+transaction such as this would normally have required a
+year or more in order to maximise revenue from the sale).
+The Tribunal notes that the Respondent chose not to
+cross-examine Mr Osterwald.
+
+110. Fourth, the YNG auction was rigged: the sole
+bidder at the auction was BFG, “an unknown company
+with ‘no telephone number, no office, [and] no corporate
+logo,’ whose address is registered at ‘a dilapidated
+building housing an off-license, a grocery, a mobile phone
+shop and the London Café, a favourite hangout of
+alcoholics and homeless people.’” (SoRep { 349.) The
+auction lasted no more than 10 minutes, with BFG
+acquiring YNG with an uncontested bid for $9.3 billion.
+A few days after the auction and before payment of the
+purchase price was due, BFG was acquired by Rosneft.
+
+111. The Respondent, however, disagrees with the
+Claimants’ characterization of the YNG auction. As an
+initial matter, the Respondent emphasizes that the Russian
+courts have already reviewed and dismissed the
+Claimants’ objections with respect to the YNG auction in
+upholding, inter alia: the Bailiffs’ decision to enforce
+against Yukos’ shares in YNG; the starting price of the
+YNG auction; that both BFG and Gazpomneft were bona
+fide participants in the YNG auction; and BFG’s purchase
+of the YNG shares.
+
+112. The YNG auction, according to the Respondent,
+was conducted professionally and in accordance with law.
+First, the Bailiffs complied with Yukos’ request by
+choosing an auction procedure; the Bailiffs could have
+sold the YNG shares directly to a willing purchaser, at a
+potentially lower price. The Respondent therefore posits:
+“{I]f the Claimants’ conspiracy theory had any substance,
+the Russian authorities would have simply sold the YNG
+shares directly to Rosneft, or any state-controlled
+company, in a negotiated deal not subject to any auction
+requirements. But the Bailiffs did not proceed by private
+transaction.” (SoD J 287.)
+
+113. Second, Yukos is to blame for its own media
+campaign that “scare[d] potential bidders away from the
+auction of Yukos assets by threatening all bidders that
+were not frightened off that the winner would be plagued
+by a ‘lifetime of litigation.’” (SoD 276.) The temporary
+restraining order (“TRO”) issued by the Yukos-initiated
+U.S. bankruptcy court proceedings also deterred potential
+bidders. In other words, “Yukos, instead of maximising
+or trying to maximise the value of the YNG auction, []
+actually minimis[ed] the value of the YNG auction.”
+(T:Day 9:90: 14-16.)
+
+114. Third, the YNG auction was a public and
+legitimate auction (SoD 310):
+
+“BFG did not bid against itself. It opened with a
+pre-emptive bid which, in a single move, placed its
+bid at half a billion dollars above the Starting
+Price. It is counterintuitive that an auction in
+
+which the participants were colluding would
+generate a bid US$500 million in excess of the
+Starting Price. If BFG was bidding against itself, it
+would have had no reason to raise the price at all,
+let alone significantly.”
+
+115. The present Tribunal endorses the findings of the
+RosInvest Tribunal regarding the YNG auction. (| 522-
+24.) On the one hand, the Tribunal is receptive to the
+Respondent’s argument that some of the blame associated
+with the poor turnout and low winning bid at the YNG
+auction should be attributed to the Claimants for their
+media campaign threatening a “lifetime of litigation” and
+for initiating bankruptcy proceedings in the United States
+that led to the TRO. The Tribunal accepts the
+Respondent’s argument that Yukos’ actions reasonably
+could have deterred potential bidders from participating in
+the YNG auction.
+
+116. On the other hand, the Tribunal finds many
+aspects of the YNG auction more than suspect. First, the
+Tribunal questions the Respondent's decision to seize and
+auction YNG. In light of the fact that the comprehensive
+asset freeze was in place and that interest would continue
+to accrue on Yukos’ tax debt, the seizure of YNG seems
+to have been a drastic measure that, as the ECHR
+observed, “was capable of dealing a fatal blow to
+[Yukos’] ability to survive the tax claims and to continue
+its existence.” (Yukos v Russia, {| 653.) The Respondent
+had less extreme alternatives at its disposal.
+
+117. Second, the Respondent’s decision to hold the
+YNG auction only one month after announcing it and the
+Respondent’s apparent failure to solicit and encourange
+the participation of potential buyers in the auction seem to
+have affected the number of buyers and the corresponding
+number of bids. Mr Osterwald, a consultant with
+extensive experience with oil companies facing
+privatisation, market liberalisation, and restructuring,
+explained persuasively that the auction procedure was
+highly irregular in a number of ways that all relate to the
+extraordinary speed in which it was conducted. For assets
+
+of this magnitude of value, Mr Osterwald observed, one
+would expect a number of professional advisers on
+valuation, a painstaking information memorandum,
+marketing materials and communication procedures with
+prospective buyers, a data room, more than one round of
+bidding to identify the more serious potential acquirers
+who would then be offered yet more comprehensive
+information, and throughout it all a sustained effort to
+generate interest on the international markets. Once a
+winner emerged, the ordinary practice would then be to
+engage in complex negotiations before ultimate closing.
+However, very little of this happened, which explains,
+doubtless, how the auction could have been carried out
+with such speed. Mr Osterwald opined that a transaction
+such as this would normally have required a year or more
+in order to maximise revenue from the sale. The
+Respondent has little to say in response, and chose not to
+put any question to Mr Osterwald, Tellingly, as it turned
+out only one company placed a bid at the YNG auction.
+
+118. Paramount among the Tribunal’s concerns relates
+to this sole bidder: BFG, an unknown entity, placed a
+$9.3 billion, uncontested winning bid for YNG, the largest
+oil production company in Russia, and was then acquired
+a mere three days later by state-owned Rosneft, even
+before payment of the purchase price was due. The
+Respondent has been unable to answer these key points,
+save to state that BFG is duly legally constituted as a
+corporate entity, and to rely upon subsequent
+endorsements by the Russian courts. The Respondent's
+argument, as summarized above, to the effect that YNG
+auction was of a public nature, and that BFG bid $500
+million above the starting price, are insufficient to remove
+the suspicion of collusion, particularly when BFG was
+quickly taken over by Rosneft before payment of the
+purchase price was due.
+
+119. Having carefully considered all the evidence and
+submissions on this issue, the Tribunal is unable to accept
+the legitimacy of this transaction, as pleaded by the
+Respondent.
+
+120. Overall, the present Tribunal arrives at a
+conclusion consistent with the holding of the RosInvest
+Tribunal, namely that “there remain doubts whether the
+YNG auction can be seen as bona fide and non-
+discriminatory or as an expropriation for the public
+interest.” ({[ 524.) Indeed, reviewing the sequence of
+events, the arbitrators in RosInvest were blunt, concluding
+in J 620 that “the Tribunal is convinced that the auction of
+YNG was rigged.” The Respondent has had more than a
+year since that conclusion was reached to adduce more
+persuasive evidence or argument before this Tribunal to
+rebut that finding. It has failed to do so.
+
+121. Importantly for this Tribunal’s enquiry, these
+findings lead once again to the conclusion that the conduct
+in question did not form part of an ordinary process of
+assessing and collecting taxes.
+
+(D) Yukos’ alleged imprudence, or bad faith,
+in not paying the tax assessments quickly
+and thus avoiding further pursuit
+
+122. This is a Leitmotif in the Respondent’s pleadings.
+If Yukos had quickly complied with the assessments
+instead of paying out vast sums in dividends for its
+shareholders, or securing its cash on hand behind the
+ramparts of off-shore legal entities, it would have been
+able to pay off its tax debt and ensure its survival — or so
+the Respondent argues.
+
+123. The response to this argument can be very
+succinct. If Yukos’ owners and management concluded
+that the Russian Government had set its face against them
+and was pursuing an objective of confiscation, they would
+hardly have been encouraged to keep profits sitting nicely
+where they could be taken by state power. If the storm
+clouds were so ominous, there was no reason to invest in
+assets within the jurisdiction (because they would be
+susceptible to dispossession by force) and the perfectly
+understandable reaction would be to save what could be
+saved of what is, after all, presumptively the property of
+any corporate entity’s owners.
+
+124. As for whether such apprehensions were justified,
+the present Tribunal, which has no mandate and no need
+to make a finding to that effect, nevertheless observes that
+the RosInvest Tribunal unambiguously found Russia’s
+measures to have been “confiscatory.” (1 574.) Whatever
+else might be said about the reactions of Yukos’
+management, there was nothing outlandish or exaggerated
+about its fear of abuse.
+
+(E) Conclusion
+
+125. The Tribunal recalls that the ECHR found that
+notwithstanding the “wide margin of appreciation,” the
+Russian Federation prevented Yukos from discharging its
+tax debt and violated Article 1 of Protocol No. 1 by
+“fail[ing] to strike a fair balance between the aims sought
+and the measures employed in the enforcement
+proceedings.” ({i{] 651, 658.) The ECHR specifically took
+issue with “the pace of the enforcement proceedings, the
+obligation to pay the full enforcement fee and the
+authorities’ failure to take proper account of the
+consequences of their actions.” (| 657.) The ECHR
+refused, however, to find that Russia had misused the
+enforcement proceedings intentionally to destroy Yukos
+and take its assets. (J 665-66.)
+
+126. On the other hand, the Ros/nvest Tribunal, not
+being bound by Protocol No. 1’s “wide margin of
+appreciation,” but rather by the terms of the applicable
+BIT, found that Russia’s actions “must be seen as a
+treatment which can hardly be accepted as bona fide.” (]
+567.)
+
+127. The present Tribunal has arrived at a conclusion
+consistent with the finding of the RosInvest Tribunal. As
+mentioned above, the timing and comprehensive scope of
+the asset freeze hindered Yukos’ ability to pay its tax debt.
+Furthermore, the Russian Federation’s failure even to
+respond to the multiple settlement offers by Yukos, the
+largest private taxpayer in Russia, raises significant
+doubts as to whether the Respondent acted in good faith in
+attempting to resolve its tax dispute with Yukos. More
+suspicious are the circumstances surrounding the seizure
+
+and auction of YNG. The Respondent failed to take a
+number of actions that would have, according to the
+undisputed expert testimony of Mr Osterwald, increased
+the number of bidders and the corresponding bids.
+Tellingly, the YNG auction was won by the sole bidder,
+an unknown entity that placed a $9.3 billion, uncontested
+winning bid for YNG, the largest oil production company
+in Russia, and was then acquired a mere three days later
+by state-owned Rosneft before payment of the purchase
+price was due.
+
+128. Accordingly, the Tribunal concludes that the 15
+April 2004 asset freeze, the Russian authorities’ failure to
+consider Yukos’ proposals of alternative means of paying
+the tax assessments, and the seizure and sale of Yukos’
+shares in YNG demonstrate that the Respondent
+intentionally prevented Yukos from discharging its tax
+debt. As discussed above, this conclusion supports the
+Claimants’ allegation that the Russian Federation’s goal
+was to expropriate Yukos, and not legitimately to collect
+taxes.
+
+73 Was Yukos’ tax delinquency a pretext for
+seizing Yukos assets and transferring them to Rosneft?
+
+129. Yukos was liquidated through involuntary
+bankruptcy proceedings, and its remaining assets sold in a
+series of auctions. The bankruptcy proceedings were
+closed on 15 November 2007, and Yukos removed from
+the Unified Register of Companies on 23 November 2007.
+
+130. The Claimants allege that — as for each of the
+preceding steps — Yukos’ tax delinquency was a pretext
+for this process, and for the ultimate seizing of Yukos
+assets and their transfer to entities controlled by the
+Russian Federation:
+
+‘{T]he Yukos bankruptcy proceedings were
+unnecessary and inappropriate if the goal of the
+Russian Federation was to collect taxes while at the
+same time protecting the collective interests of
+Yukos’s creditors and shareholders. Under the
+circumstances that existed in 2006 — a single
+
+creditor of any significance, a freezing order that
+prevented dissipation of assets, and asset values
+that plainly would have allowed Yukos to pay all of
+its tax assessments without going through forced
+liquidation - the only plausible explanation for
+initiating bankruptcy proceedings and then
+liquidating, rather than reorganizing, Yukos was to
+facilitate and expedite the taking of Yukos’s
+remaining assets and the transfer of them to new
+state-controlled owners. And the only plausible
+explanation for conducting the auctions as they
+were conducted — with no effort to create interest
+on the part of major foreign oil companies or to
+indicate even that they would be welcome as
+purchasers of the assets — was a desire on the part
+of the Russian Federation to ensure that the assets
+in fact were transferred to the designated state-
+controlled entities.” (SoRep { 373.)
+
+131. Specifically, the Claimants take issue with the
+initiation of the bankruptcy proceedings, the rejection of
+Yukos management’s restructuring proposal, and the
+conduct of the liquidation auctions:
+
+“Using the Société Générale consortium as cover . .
+. the Russian Federation — acting through Rosneft —
+instigated a bankruptcy proceeding designed to
+transfer title to the remainder of Yukos’s assets to
+selected state-controlled owners. With Rosneft and
+the Tax Ministry as Yukos’s two largest creditors,
+the Russian Federation drove the bankruptcy
+proceeding, ensuring that Yukos management’s
+proposal to restructure the company and pay off the
+remaining debts was rejected in favour of
+liquidation. The company’s remaining assets were
+sold off in a series of questionable auctions. By the
+end of the process, Rosneft held 75 percent of what
+had formerly been Yukos, including all of its
+production properties.” (SoC J 164.)
+
+132. The Respondent, however, maintains that the
+Russian bankruptcy and liquidation proceedings were
+
+commenced and conducted in accordance with Russian
+law and procedure by Yukos’ creditors.
+
+133. As explained earlier, the question that arises for
+the present Tribunal is whether Yukos’ tax delinquency
+was a pretext for the seizing of Yukos assets and the
+transfer of them to Rosneft or one of its affiliates. An
+affirmative answer would support the Claimants’ theory
+that the Russian Federation’s real goal was to expropriate
+Yukos, and not legitimately to collect taxes.
+
+(A) Forcing Yukos into bankruptcy
+
+134. The relevant sequence of events with respect to the
+bankruptcy proceedings was as follows. As a result of the
+asset freeze that took place on 15 April 2004, Yukos
+defaulted on a one billion-dollar loan issued by a
+consortium led by Société Générale. That consortium
+obtained an English court judgment for the outstanding
+amount of that loan, namely $472 million. On 8
+September, the consortium applied for enforcement of that
+judgment by the Russian courts. But it did so in an
+unusual manner, entering into an agreement with Rosneft
+by which the latter would pay the $472 million in full in
+exchange for the consortium’s promise to pursue
+bankruptcy proceedings against Yukos. As the Claimants
+ask rhetorically: Why not simply let the consortium get its
+judgment, assign it to Rosneft, and let Rosneft put Yukos
+into bankruptcy? The answer, according to the Claimants,
+is that this could only have been for the sake of
+appearances, instead of a sequence in which an entity
+owned by the very State which had prevented Yukos from
+making the payment in the first place then proceeded to
+the liquidation of the company:
+
+“{B]y March 2006, both the Tax Ministry and
+Rosneft itself (by virtue of claims asserted against
+Yukos by YNG, now part of Rosneft) could have
+taken steps to initiate bankruptcy proceedings
+against Yukos. Instead, the Russian Federation
+engaged in an elaborate subterfuge to create the
+
+impression that it was private creditors, not the
+Russian state, that were responsible for initiating
+the bankruptcy of Yukos.” (SoC J 168.) “...the
+only explanation for that requirement [that the
+Société Générale consortium initiate bankruptcy
+proceedings against Yukos] is that the Russian
+Federation wished to obscure who was behind the
+initiation of the bankruptcy.” (SoRep { 359.)
+
+135, Once the Moscow Arbitrazh Court had accepted
+the consortium’s bankruptcy petition, Rosneft assumed
+Yukos’ debt from the consortium and, with the court’s
+approval, stepped into the shoes of the consortium in the
+bankruptcy proceedings. Rosneft’s purchase of the
+consortium loan left it and the Russian Federation as the
+only creditors of any significance. As the Claimants
+observe, and as the Tribunal agrees, this sequence of
+events was at odds with the underlying purpose of the
+bankruptcy law — it was “more consistent with the use of
+insolvency as a device for gaining control of assets rather
+than satisfying debt.” (Westbrook Report, {J 11-12, 23.)
+In the Claimants’ words:
+
+“With the Tax Ministry and Rosneft together
+holding virtually all of Yukos’s external debt, a
+bankruptcy proceeding was not needed to protect
+any collective interest. Nor did the Russian
+Federation need a bankruptcy in order to secure
+Yukos's assets: the asset freeze of 15 April 2004
+and subsequent orders already prevented Yukos
+from disposing of its assets without the authorities’
+permission . . . The only plausible purpose served,
+then, by bankruptcy proceedings dominated by the
+Tax Ministry and Rosneft was to facilitate the
+taking of Yukos’s remaining assets and their
+transfer to new state-controlled owners by
+replacing an uncooperative Yukos management
+with an administrator effectively appointed by the
+Tax Ministry and Rosneft.” (SoC J 173.)
+
+136. The Respondent, on the other hand, defends the
+initiation of the bankruptcy proceedings, asserting that:
+
+“there was no subterfuge or impropriety in connection
+with the Russian bankruptcy proceeding, which was
+conducted in full conformity with Russian bankruptcy
+law.” (SoD { 332.)
+
+137. First, neither the Claimants nor Professor
+Westbrook “cite[d] a single legal provision or procedural
+requirement of Russian law that might have been
+violated.” (SoD J 343.)
+
+138. Second, Yukos’ bankruptcy was inevitable
+because Yukos was unable to meet its debts as they came
+due. Indeed, Yukos’ management had filed a voluntary
+petition for bankruptcy in the United States on
+14 December 2004.
+
+139. Third, Rosneft’s obligation to purchase the
+consortium’s debt was not dependent on the Société
+Générale consortium initiating bankruptcy proceedings
+against Yukos. The purchase price was payable on the
+earlier of either 28 April 2006 or the second business day
+following the initiation of bankruptcy proceedings against
+Yukos. (As it later turned out, the bankruptcy
+proceedings were initiated on 9 March 2006.)
+Furthermore, the decision of the Société Générale
+consortium to trigger Yukos’ bankruptcy was reasonable:
+
+“The logic of the Assignment Agreement is clear.
+Yukos was in default on a half billion dollar
+obligation to western banks. The SocGen
+Consortium had proceeded to obtain a court
+judgment recognizing that obligation. That court
+judgment was a necessary predicate to instigating
+Yukos's bankruptcy. Thus, because the SocGen
+Consortium (but not Rosneft) had a judgment in
+hand, Rosneft apparently agreed to acquire the
+credit more quickly if the SocGen Consortium
+placed Yukos in bankruptcy (thereby avoiding any
+need for Rosneft to seek a court judgment itself in
+order to be in a position to initiate a bankruptcy
+against Yukos.)” (SoD ] 351.)
+
+140, Fourth, the Rosneft-Société Générale consortium
+agreement was not confidential: it was “an open, arms-
+length deal” that was disclosed by Rosneft in its US
+GAAP financials. (SoD {[ 352.) Although the agreement
+contained a confidentiality clause, such clauses are normal
+in commercial agreements and this one was temporary in
+nature,
+
+141. The Tribunal has carefully considered each of the
+Respondent’s defences, but is ultimately unpersuaded by
+them. The issue here is not one of the legality of the
+bankruptcy proceedings, nor their conformity with
+Russian bankruptcy regulations. Rather, it is whether the
+steps that were taken can properly and fairly be
+characterised as part of an ordinary process of collecting
+taxes. In the Tribunal’s view, they cannot fairly be so
+characterised, particularly when viewed against the
+broader chronology of which they form part (as
+summarised later in this section). This conclusion is not
+overcome by the Respondent’s various technical analyses
+of the consortium agreement.
+
+(B) The rejection of the management
+restructuring plan
+
+142. The Tax Ministry and Rosneft were Yukos’ largest
+creditors, between them controlling 94 percent of the
+votes at the first meeting of creditors, which took place on
+20 and 25 July 2006.
+
+143. Even at this late stage, Yukos proposed a
+restructuring pursuant to which it would immediately sell
+off $15.7 billion worth of core assets, and use $1.5 billion
+held in the Netherlands to pay off other creditors —
+including Rosneft as the Société Générale consortium’s
+assignee. This would have left Yukos with core assets
+valued at $20.5 billion, which the Yukos management
+team explained could generate some $3 billion per year to
+pay off the remaining recognised claims.
+
+144. The Claimants maintain that Russia used its
+control of the meeting of creditors to ensure that this
+restructuring proposal put forward by Yukos’
+management was rejected, and instead that the decision
+was taken to liquidate the company’s remaining assets:
+
+“The restructuring proposal was considered at the
+meeting of creditors held on 20 and 25 July. Out of
+@ total of 23 creditors represented at the meeting, 6
+cast ballots in favour of accepting the restructuring
+proposal and three abstained. The proposal was
+nonetheless rejected by an overwhelming majority
+of the debt-weighted votes because it was opposed
+by the Tax Ministry, Rosneft and YNG, together
+with one minor creditor. This decision was upheld
+by the Moscow Arbitrazh Court on 5 August 2006,
+and opened the way for the distress sale at auction
+of Yukos’s remaining assets between June 2006 and
+November 2007.” (SoC J 177.)
+
+145. The Claimants contend that the Respondent’s
+proffered reasons for the creditors’ rejection of the
+restructuring proposal are simply “post hoc
+rationalization[s].” (SoRep JJ 364-65, 367, 370.)
+
+146. The Respondent, however, maintains that the
+decision to liquidate fully complied with Russian law.
+Furthermore, there were reasonable grounds for Yukos’
+creditors to prefer immediate liquidation and recovery of
+their claims to a plan that left their fate in the hands of
+Yukos’ management. In particular, the management
+restructuring plan: (i) proposed to pay Yukos’ debts over
+two years, but there was no assurance that Yukos would
+succeed; (ii) proposed to allow Yukos to retain its core
+assets, leaving the creditors to satisfy themselves with
+low-value and high-risk assets; and (iii) lacked
+appropriate evidence to support Yukos’ valuation of its
+assets. (SoD 9] 363-64.) The creditors also feared that
+“Yukos’s management would continue their dissipation of
+assets if left in charge of Yukos.” (SoRej ¥ 292.) In
+short, there was nothing unusual about the creditors’
+
+decision to reject Yukos’ rehabilitation plan, as illustrated
+by Russian practice:
+
+“In Russia, only a de minimis number of Russian
+bankruptcy filings ever enter _ financial
+rehabilitation procedures. For instance, in 2002, of
+the 94,531 insolvency claims successfully filed in
+the Russian Federation, none entered financial
+rehabilitation. In 2003, only 10 of the 9,695
+insolvency cases filed entered rehabilitation. In
+2004, the statistic is just 29 out of 10,093. And in
+2005, the year before the Yukos creditors’ meeting,
+only 32 out of 25,643 insolvency cases entered
+financial rehabilitation. Of all the cases that
+entered rehabilitation between 2002 and 2005, only
+three resulted in the debtor actually discharging its
+debt. Rehabilitation plans are only accepted in the
+most extraordinary circumstances—and certainly
+not when the company’s plan is based on
+speculative, unrealistic figures, presented by a
+management that had repeatedly acted in an openly
+hostile manner towards its creditors.” (SoRej
+
+q{ 285.)
+
+147. Once again, the issue is not whether the rejection
+of the management restructuring plan, and the decision to
+liquidate, fully complied with Russian law or practice as a
+technical matter. Rather, the issue is how these events are
+fairly to be characterised. Judged in abstract, the
+Respondent’s submissions to justify the preferences of the
+Yukos creditors (i.e. immediate liquidation and recovery
+of their claims) are understandable. But the Tribunal’s
+enquiry cannot be compartmentalized in this way and, as
+set out later in this section, once set against the wider
+context, the choices and actions of Yukos’ main creditors
+clearly appear part of an overall confiscatory scheme.
+
+(C) The liquidation auctions
+
+148. The Claimants maintain that the Russian
+Federation manipulated the liquidation auctions to ensure
+
+that it paid an effective price of zero for Yukos’ remaining
+assets. The starting prices at the liquidation auctions, say
+the Claimants, were set lower than the independent
+valuations that the court-appointed manager was required
+by law to obtain. Furthermore, there was an absence of
+genuinely competitive bidders at the liquidation auctions:
+
+“In an insolvency auction properly advertised and
+conducted, with neither collusion nor intimidation
+to affect the bidding, one would expect the presence
+of a number of qualified bidders from among the
+major oil companies as well as from some of the
+numerous large independent companies in the
+industry. One would anticipate vigorous bidding.
+In the Yukos case, however, very few bidders
+appeared at the auctions; those who did appear
+were largely unknown to the industry’s expert
+observers; and the bidding was short and generally
+finished near the opening price. The end result of
+the auctions was that the greater part of the value
+of these assets was acquired, directly or indirectly,
+by the Russian state petroleum instrumentalities.
+This outcome is not what one would expect in a
+properly conducted insolvency _ auction.”
+(Westbrook Report, {] 18.)
+
+149. At the merits hearing, Ms. Cheek further
+elaborated on the significance of the absence of
+competitive bidders:
+
+“Many of the auctions... weren’t highly contested.
+The ones for Transneft and Samaraneftegaz, the
+two most valuable assets coming out of the
+bankruptcy, the only bidders were Rosneft and
+previously unknown entities that appeared to be set
+up just so that there was a second bidder at the
+auction. So by dollar value... Rosneft ends up
+owning 75 per cent of Yukos’s assets that were
+seized in auction by the state.
+
+But that doesn’t tell the complete picture... [AJn
+unknown company named Prana wins the auction
+for Yukos’s headquarters but Rosneft basically
+
+purchases these assets shortly after the auctions
+take place, increasing Rosneft’s ownership to 84
+per cent of Yukos’s former assets .. .
+
+[Yukos’ Sibneft] shares were auctioned off as part
+of the bankruptcy process and while they were
+purchased by Italian company ENI, ENI had
+executed an agreement with Gazprom, Russia’s
+state gas company, whereby Gazprom could
+exercise its option to buy that 20 per cent stake in
+Sibneft. It ultimately exercised that option.
+Therefore, those assets as well end up in the hands
+of the Russian state.
+
+So when you add up these various pieces at the end
+of the day .. . the Russian Federation has ended up
+with 93 percent of Yukos Oil Company.” (T:Day
+1:192:5-25, 193:1-10.)
+
+150. The Claimants also contend that Yukos’
+shareholders received no benefit from the sale of the
+company’s assets because the Russian Federation
+manufactured liabilities sufficient to absorb all of the
+revenue generated by the liquidation auctions. The
+Claimants posit that “Russia ensured that it paid a net
+price of zero for Yukos: whatever Rosneft and Gazprom
+paid for Yukos assets in the auctions found its way back
+into the Russian Federation’s pockets as repayment for
+fictional liabilities.” (SoC J 185.)
+
+151. The Respondent, however, insists that the
+liquidation auctions complied with both Russian law and
+international practice.
+
+152. First, the starting prices used at the liquidation
+auctions were, in accordance with Russian law, based on
+the market value of the auctioned property as determined
+by the Roseko Consortium.  Tellingly, the Roseko
+Consortium’s conclusions and methodologies were never
+challenged by Yukos’ creditors or shareholders.
+
+153. Second, the price achieved at each liquidation
+auction was higher than the starting price. Moreover, the
+
+auctions cumulatively produced approximately $2.3
+billion more in proceeds than the estimate in the Yukos
+management rehabilitation plan.
+
+154. Third, there was in fact genuine competition at the
+liquidation auctions. Russian law requires a minimum of
+two participants, and this requirement was met for all of
+the liquidation auctions. Furthermore, the court-appointed
+bankmptcy manager took the following actions to
+promote auction attendance: (i) he publicly announced
+the auctions thirty days in advance; and (ii) he placed no
+restrictions on participation in the auctions. By contrast,
+the Claimants are to blame for their “threats to impose a
+lifetime of litigation on the successful bidders” that
+contributed to the poor turnout and correspondingly low
+bids. (SoD ¥{ 375.)
+
+155. Finally, the significance of the fact that Rosneft or
+Rosneft affiliates won the majority of the liquidation
+auctions is unclear:
+
+“To win approximately one-half of the auctions,
+Rosneft borrowed US$22 billion from world
+leading financial institutions and paid for the assets
+acquired. The fact that Rosneft succeeded in
+approximately one-half of the auctions simply
+means it valued the assets more highly than others.
+It also means Rosneft did not participate or prevail
+in the other half. The remaining eight (out of
+seventeen) auctions were won by private bidders —
+including Enineftegaz, Monte Valle, JVP
+Investments, Novatek, Prana, Tsentrinvest-Tradig,
+and Promneftstroy — who collectively paid a total of
+RUR 276,265,364,044 for the assets they
+acquired.” (SoD J 378.)
+
+156. The Tribunal is unpersuaded, as a technical matter,
+that the liquidation auctions were conducted in breach of
+Russian law or practice, and accepts the various and
+detailed submissions of the Respondent in this regard.
+
+157. But the Tribunal also notes that, as a result of
+these auctions, “at the end of the day . . . the Russian
+
+Federation has ended up with 93 percent of Yukos Oil
+Company.” (T:Day 1:193:1-10.)
+
+158. As summarised below, the overall chronology of
+which the liquidation auctions form part, casts them and
+their outcome in a particular light. After careful
+consideration of the entire record, the Tribunal concludes
+that, as with the preceding events, the liquidation auctions
+were part of the same overall scheme of confiscation. In
+this regard, the Tribunal’s findings are consistent with
+those of the RosInvest Tribunal (| 567, 574.) The
+ECHR’s finding to the contrary — i.e., that Yukos failed to
+prove that the Russian Federation “had misused those
+[enforcement] proceedings with a view to destroying the
+company and taking control of its assets” — must be
+understood as based on a heightened requirement of
+“incontrovertible and direct proof,” given the “wide
+margin of appreciation” a State enjoys under Protocol No.
+1 to the European Convention on Human Rights. ({[] 659,
+663, 665-66.)
+
+(D) Conclusion
+
+159. The present Tribunal endorses the conclusion of
+the RosInvest tribunal, which was unable to “find any
+evidence on file sufficiently showing that these
+[liquidation] auctions were either breaching Russian law
+or even breaching the higher standards to be applied under
+the IPPA.” ({ 535.) This Tribunal agrees. The Claimants
+in this proceeding have failed to demonstrate that the
+manner in which the bankruptcy and _ liquidation
+proceedings were commenced or conducted violated
+Russian law.
+
+160. But as already noted several times, that is not the
+present issue. The Tribunal in this case is concerned with
+whether Yukos’ tax delinquency was actually a pretext for
+the seizing of Yukos’ assets and the transfer of them to
+Rosneft or one of its affiliates. And on this point, the
+Tribunal must take into account all the circumstances of
+this case.
+
+161. Some of the key features of this part of the
+chronology which have been emphasised by the
+Claimants, and which have persuaded the Tribunal in its
+characterisation of the Respondent’s conduct, may be
+distilled, briefly, as follows.
+
+162. Yukos managed (under protest) to pay nearly two-
+thirds of the initial $3.5 billion levy by the end of August
+2004. Given the disparity between the residual amount
+due and the value of YNG, which accounted for 60% of
+Yukos’ production and had been seized in mid-July, the
+Tax Ministry set about raising new tax claims. These
+were assessed in tranches of multiple billions of dollars,
+e.g., on 16 November, when Yukos was ordered to pay
+$6.8 billion the next day. Meanwhile, Yukos’ staff
+lawyers and independent counsel were arrested and
+charged with embezzlement.
+
+163. YNG was ultimately sold at auction for $9.3
+billion, not much more than half of the value appraised by
+the Respondent’s own advisers, Dresdner Kleinwort
+Wasserstein, to an unknown company (BFG).
+
+164. But even with the loss of YNG, Yukos’ remaining
+assets were capable of producing more than half a million
+barrels of oil per day - a value of macroeconomic
+dimensions. Bankruptcy is conventionally understood as
+the resolution of conflicting claims by creditors. Yet
+Yukos had only one creditor that counted: the Russian
+Federation, with 94% of the vote in the debtor’s
+collegium. The bankruptcy resulted in the eviction of
+Yukos’ management and its replacement by a bankruptcy
+administrator, Mr Rebgun.
+
+165. Not only did the Respondent then reject the
+management restructuring plan, but Mr Rebgun, the
+administrator, chose not to file the paperwork which
+would have entitled Yukos, under the very requalification
+of intergroup transfers which had led to such massive tax
+assessments, to recover in excess of $10 billion in VAT
+refunds from exports now attributed to it.
+
+166. Nor did Mr Rebgun seek to test yet another tax
+assessment, this one on account of FY2004 in the amount
+of $3.7 billion. He simply added it as an additional debt
+to the Tax Ministry.
+
+167. By mid 2006, of course, the international oil
+markets were forcefully ascendant and Yukos’ book value
+was vastly understated. Yet Yukos’ remaining assets
+were auctioned off in August, with Rosneft successfully
+bidding in 9 of the 17 auctions; these were the important
+ones, representing 75% of the value, including the two
+remaining large Yukos-producing assets, Transneft and
+Samaraneftegaz. One of the other successful bidders was
+an unknown company by the name of Prana, which
+acquired Yukos’ headquarters buildings ~ but promptly
+resold them to Rosneft with the result that Rosneft in fact
+ended up with 84% of the assets in bankruptcy.
+
+168. On 23 November, Yukos was removed from the
+register of companies; its shares were legally
+extinguished.
+
+169. In due course, another State-owned entity,
+Gazprom, acquired a final major Yukos asset, namely its
+20% share in Sibneft, which had been purchased by a
+third party and in turn had granted an option to Gazprom
+to resell them. That option was exercised. In the end, the
+result of Yukos’ bankruptcy was to put 93% of its assets
+into the hands of State-owned entities.
+
+170. This sequence of events took place in
+circumstances where (1) the Tax Ministry had no
+competing creditors with whose interests a reconciliation
+was necessary, and (2) the interests of the Russian
+Federation were at any rate protected by the asset freeze.
+Had Yukos been given a moment to catch its breath and to
+encumber or disperse of its assets in an orderly fashion, it
+appears that it could have paid its tax bills, since its
+fundamental asset portfolio was sound. That is how a
+legitimately operating tax authority would have
+proceeded.
+
+171. Further, under the law (Article 321 of the
+Arbitrazh Procedure Code) the tax authorities had three
+years to enforce its assessments, That would have given
+Yukos a respite until some time in 2007. Instead, its
+prime asset - YNG — was seized and sold at an auction by
+December 2004. As the ECHR put it, at JJ 656-7 of its
+judgment in Yukos v. Russia:
+
+“\.. the authorities were unyieldingly inflexible as
+to the pace of the enforcement proceedings, acting
+very swiftly and constantly refusing to concede to
+the applicant company’s demands for additional
+time .... the Court finds that the domestic
+authorities failed to strike a fair balance between
+the legitimate aims sought and the measures
+employed.”
+
+The ECHR did not reach this conclusion without having
+given some weight to Russia’s arguments to the effect that
+the tax authorities were operating under procedural
+constraints. The present Tribunal is not persuaded, having
+had the benefit of extensive debates and documentation,
+that there was a need to recognise such constraints. On
+any view, the enforcement of the tax assessments was a
+complex operation involving massive financial stakes,
+which any tax collection agency anywhere, if operating
+rationally and respectfully of the taxpayer’s rights, would
+have conducted with the greatest care to maximise both
+recovery and preservation of enterprise value. The
+Respondent’s suggestion that it was necessary to operate
+with utmost speed by reason of its own regulations is
+powerfully counter-intuitive, and in fact not born out by
+the evidence.
+
+172. The timing of key events bears repeating. The ex
+parte freeze on all of Yukos’ assets took place on 15 April
+2004, the very day after the Tax Ministry’s demand for
+$3.5 billion in taxes on account of FY2000. The next day
+was imposed as the deadline for voluntary payment. A
+writ of execution was issued on 30 June, and on 14 July
+Yukos’ shares in three subsidiaries, first and foremost
+YNG, but also Samaraneftegaz and Tomskneft, were
+
+seized by execution officials. Within days (in fact on 20
+July) the Ministry of Justice announced its intention to sell
+YNG to satisfy the tax judgment.
+
+173. This announcement was obviously something of a
+bombshell in the industry, in terms of suggesting to the
+market that Yukos was collapsing. It was so precipitate,
+in the Tribunal’s view, as to exclude any innocent
+explanation. This treatment of a major force of the
+national economy could not reasonably have been a matter
+of inadvertent clumsiness.
+
+174. The three-year limit, the Respondent argues,
+should not be understood as a brake on enforcement
+proceedings. The question it put to its Russian law expert,
+Mr Rozenberg, was whether under Article 321 the Tax
+Ministry “could and should have waited up to three years
+before commencing the execution procedure against
+Yukos.” But this is not the issue at all. The Tribunal
+takes for granted that tax authorities in a good system of
+governance could seek to collect monies due to the
+Treasury with expeditiousness — but also with rational
+care and respect for the rights of the taxpayer.
+
+175. Such a rational arrangement was in fact worked
+out with Rosneft, whose own tax liabilities were, as
+appears from its consolidated financial statements,
+consensually scheduled for repayment quarterly over five
+years. Yukos contends today that it had cash flows
+sufficient to pay the assessed taxes. (In hindsight, this
+assertion is made all the more plausible having regard to
+the evolution of oil prices since then.) Whatever the
+arguments might have been as to Yukos’ solvency, the
+fact is that it was a gigantic enterprise whose valuation
+would have required extensive study. The Respondent
+may have marshalled arguments since then as to why
+Yukos was not as solid as is contended by its old owners,
+but what is missing — and thus supports the plain inference
+that the Respondent’s objective was the subjugation of
+Yukos, not the orderly collection of normal taxes — is its
+inability to show such an investigation preceding its
+decision, in effect, to dismantle Yukos. Indeed, as the
+
+Claimants stress, Yukos had almost entirely paid off the
+2000 tax assessment, i.e. the raison d’étre of the seizure in
+the first place, by the time YNG was auctioned off. The
+valuation commissioned by the Respondent itself
+suggested that YNG was worth many multiples of the
+Yukos assessment on account of TY2000.
+
+176. The Respondent argues today that Yukos could
+have solved the problem by causing its subsidiaries to sell
+off their assets and pay the proceeds as dividend to Yukos.
+It is however implausible to contemplate that the Russian
+authorities would have allowed the value of the very
+assets that were frozen to be diluted in this fashion.
+
+177. Based on the extensive record in this proceeding,
+the Tribunal concludes that Yukos’ tax delinquency was
+indeed a pretext for seizing Yukos assets and transferring
+them to Rosneft. As discussed above, this finding
+supports the Claimants’ contention that the Russian
+Federation’s real goal was to expropriate Yukos, and not
+to legitimately collect taxes.
+
+7.4 The relevant enquiry
+
+178. The debate in this case is not about whether the
+Respondent engaged in an illegal expropriation, but
+whether its measures were in fact expropriatory, within
+the scope of Article 6 of the BIT. If so, the BIT
+recognises the duty of compensation, and sanctions its
+failure through the decisions of tribunals such as the
+present one.
+
+179. The notion that states have a considerable margin
+of discretion in enacting and enforcing tax laws should not
+lead to any confused idea that they have a discretion as to
+whether or not to comply with an international treaty.
+True enough, as Rosinvest put it, “States have a wide
+latitude in imposing and enforcing taxation laws even if
+resulting in substantial deprivation without compensation”
+{{ 580). Yet there is a world of difference between
+incidental detriment, even of a substantial nature, and
+purposeful dispossession. It is no answer for a state to say
+that its courts have used the world “taxation” — any more
+
+than the word “bankruptcy” — in describing judgments by
+which they effect the dispossession of foreign investors.
+If that were enough, investment protection through
+international law would likely become an illusion, as
+states would quickly learn to avoid responsibility by
+dressing up all adverse measures, perhaps expropriation
+first of all, as taxation. When agreeing to the jurisdiction
+of international tribunals, states perforce accept that those
+jurisdictions will exercise their judgment, and not be
+stumped by the use of labels.
+
+180. Moreover, in contradistinction to Yukos v. Russia,
+which arose in a forum which recognises the minimum
+human rights that exist irrespective of specific promises to
+the plaintiff, and indeed allows actions by a national
+against his own State, in this case it behoved the
+Respondent to consider that its treatment of Yukos would
+affect the rights of Spanish nationals, protected by specific
+treaty obligations.
+
+181. The preceding observations are not meant to
+suggest that international tribunals should quickly reach
+the conclusion that ostensible tax measures are in fact
+compensable takings. To the contrary, the presumption
+must be that measures are bona fide, unless there is
+convincing evidence that, upon a true characterisation,
+they constitute a taking. Given the infinite variety of
+forms which can be given to a process having the result of
+expropriation, the effectiveness of the rule of international
+law in this regard necessarily requires, in each case, a
+comprehensive assessment of the factual circumstances
+that have led to the loss of which a claimant complains.
+
+182. As Professor Christie wrote in his familiar article
+in 1962 (“What Constitutes a Taking of Property under
+International Law?” 1962 BYIL 307):
+
+“it is evident that the question of what kind of
+interference short of outright expropriation
+constitutes a ‘taking’ under international law
+presents a situation where the common law method
+of case by case development is pre-eminently the
+
+best method, in fact probably the only method, of
+legal development.”
+
+183. In recent years, the texts of investment treaties
+illustrate the concrete implications of this. For example,
+the identical Annexes on Expropriation to the RTAs
+concluded between the US and Australia, Chile, Central
+America, Morocco, and Singapore, as well as to the 2004
+US Model BIT, which provide that:
+
+“the determination of whether an action or series of
+actions by a Party, in a specific fact situation,
+constitutes an indirect expropriation, requires a
+case-by-case, fact-based inquiry .....”
+
+184. The Tribunal has noted the distinguished
+RosInvest arbitrators’ overall conclusion to the effect that:
+
+“the totality of Respondent’s measures were
+structured in such a way as to remove Yukos’s
+assets from the control of the company and the
+individuals associated with Yukos. They must be
+seen as elements in the cumulative treatment of
+Yukos for what seems to have been the intended
+purpose (J 112) ... [Yukos] was subjected to
+relentless and inflexible attacks ... [that] can only
+be understood as stages under a common
+denominator in a pattern to destroy Yukos and gain
+control over its assets” ({ 621).
+
+185. This key passage led the arbitrators to conclude
+that the Respondent’s measures, “seen in their cumulative
+effect towards Yukos, were an unlawful expropriation”
+under the relevant treaty.
+
+186. In this case, the Tribunal’s mandate is not to
+decide whether there has been an unlawful expropriation,
+but whether there has been an expropriation at all. This
+conclusion does not require findings of subjective intent
+or animus, as suggested by the words “purpose” and
+“relentless”, Clearly the Ros/Invest holding comports a
+
+finding of expropriation — qui peut le plus peut le moins —
+and the conclusion of the present award, which is
+constrained to answer only the lesser question, is therefore
+consistent both with Ros/nvest’s conclusion and the
+aggregating approach of its analysis of the relevant events.
+
+75 Adequate compensation
+(A) The Claimants’ approach
+
+187. The Claimants argue that they should be
+compensated in an amount equal to their proportionate
+share of Yukos’ market value on 23 November 2007 as it
+would have been but for the Respondent’s expropriatory
+measures. The Claimants together held 73,000 shares (or
+more precisely their equivalent in ADRs); Yukos as a
+whole had some 2.2 billion outstanding shares. Yukos’
+overall value, they say, would have been $83 billion,
+leading to proportionate compensation to them in the
+amount of $2,625,810, plus interest.
+
+188. This compensation purports to be consonant with
+the customary international law standard for recovery in
+the event of lawful expropriation and Article 6 of the BIT.
+(The Claimants conceded in the jurisdictional phase of
+this arbitration that they could not, under the terms of the
+BIT, seek compensation for unlawful expropriation. See
+Section 6.1.)
+
+189. The date of 23 November 2007 corresponds to the
+“time of the taking” or, in this case, the date when Yukos
+was removed from the Unified Register of Companies in
+the wake of the end of the bankruptcy proceedings as
+pronounced by the Moscow Arbitrazh Court.
+
+190. The Respondent questions the date of 23
+November 2007, asking “how Claimants can argue that
+the alleged expropriation occurred in November 2007,
+which was several years after most of the alleged
+expropriatory events of which they now complain, and
+over a year after they gave notice of their expropriation
+claim.” (SoRej ] 443.) The Respondent further asserts
+that as it denies that “any expropriation occurred at all, it
+
+is certainly not incumbent on the Respondent to put
+forward alternative dates on which such a non event may
+have occurred.” (SoD J 477, n. 822.) If the Respondent
+could propose more appropriate dates, it might prudently
+have advanced such contentions in the alternative, rather
+than simply denying that its measures had the effect of an
+expropriation. Having rejected that denial, the Tribunal
+accepts the Claimants’ logic in putting forward the date as
+23 November 2007.
+
+191. The notion of “expected” value refers to the fact
+that the market value on 23 November 2007 was nil, and
+therefore must be compensated by reference to what one
+may conclude the valuation of Yukos as a going concern
+would likely have been if the business had been
+unimpeded by the Respondent’s expropriatory conduct.
+Compensation “should exclude any decline in value
+attributable to the threat of a taking”, so the Claimants
+argue, and therefore “the appropriate methodology is for
+the Tribunal to base its valuation on the last price before
+the threat of a taking rendered the stock price an
+unreliable indication of Yukos’ worth.” (SoC J 217).
+
+192. The Claimants put forward 14 April 2004 as the
+date of the “last reliable stock price” for Yukos, $14 per
+share, because this was immediately before the news of
+the Tax Ministry’s tax claim for Y2000 and the asset
+freeze of 15 April, resulting in a significant departure in
+the trend of Yukos’ stock price.
+
+193. The Claimants rely on the expert evidence of
+Professor Richard S. Ruback of the Harvard Business
+School, who proposed a value of $35.97 on 23 November
+2007 by considering the relationship between the
+evolution of Yukos’ share price as compared to a cohort
+of four of its Russian oil and gas competitors prior to 14
+April 2004, and then projecting that relationship from 14
+April 2004 to 23 November 2007 in order to estimate
+Yukos’ share value in the absence of the Respondent's
+measures.
+
+194. Professor Ruback also “confirmed” his estimate by
+looking to the value of Rosneft, which went public in July
+
+80
+
+2006 and which acquired most of Yukos’ assets. His use
+of three different metrics suggests to him that the market
+value of “legacy-Yukos assets owned by Rosneft” was
+somewhere between $72-$91 billion at the valuation date,
+to which should be added the proceeds from the
+liquidation auctions of other Yukos assets, leading to a
+valuation of Yukos in the range of $83-$102 billion.
+
+{B) Comparison with RosInvest
+
+195, The Tribunal finds it somewhat difficult to follow
+RosInvest’s reasoning with respect to the discount applied
+to the valuation of the investors’ shareholding inasmuch
+as it focused on their having made a “speculative
+investment.” (| 668 et seq.) The word “speculative” has
+no defined meaning that allows one to identify
+“non-speculative” investments. All investments are in
+some sense ultimately speculative. Investors’ appetites
+depend on how much they are putting at risk, how much
+may be gained, and the chances of success. Even though
+the odds are identical, more people are willing to “invest”
+$1 for a remote chance at winning $10,000 than are
+willing to “invest” $10,000 for an equally minute chance
+at winning $100 million.
+
+196. On the other hand, putting aside the word
+speculative and focusing on the analysis in RosInvest, one
+returns to familiar territory. As that tribunal indicated in ]
+666, the arbitrators accepted “Claimant’s assertion that it
+made an investment at such a point in time when the
+market had in fact overreacted to transient events and the
+price of the shares was unjustifiably low” but rejected its
+overly “optimistic expectations regarding the future
+development of the value of the investment.” This is a
+straightforward reflection of the commonplace
+phenomenon that claimants tend to place a high value on
+the property of which they have been deprived.
+
+197. In RosInvest, the final claim was for US$232.7
+million (excluding interest), being the alleged loss of
+shareholding value as of 15 August 2007, which the
+Claimants identified as the date on which the
+Respondents’ expropriation of Yukos’ assets was
+
+complete. That case involved a number of features which
+are different from those of this arbitration, such as the
+manner of RosInvest’s acquisitions of its Yukos shares,
+and possible others which are not apparent without full
+access to the record in that case. Still, it is evident that the
+claim essentially posited a pro-rata share of the
+hypothetical value of Yukos but for the Respondent’s
+measures. RosInvest argued, as the Award puts it in J
+645, that to allow the Respondent to “retain more than
+96% of Claimant’s share of the value of Yukos assets . . .
+would simply reward Respondent for its unlawful
+actions”. Still, after noting that the dates of RosInvest’s
+two purchases of Yukos shares — in the total amount of
+7,000,000 shares— were 16 November and | December
+2004, when “the market had ‘priced in’ the likelihood and
+effect of the Russian Federation’s actions in respect of
+Yukos” ({ 665), the Tribunal limited its award to the
+principal amount of $3.5m, which is what the arbitrators
+found to be its undisputed purchase price for the shares
+(paid only on 24 January 2007, for reasons not relevant
+here). (§[ 675.)
+
+198. If one applies his approach in the present case to
+RosInvest, Professor Ruback would apparently have
+valued RosInvest’s shareholdings at $251,790,000 (albeit
+as of 23 November 2007, rather than 15 August 2007 as
+the Ros/Invest arbitrators did). In other words, the actual
+RosInvest award was only 1.39% of what Professor
+Ruback suggested was correct. Contrariwise, it might be
+said that the RosInvest Tribunal’s approach to valuation, if
+applied to the present case, would have led to the very
+modest recovery of $663,050 — simply taking the present
+Claimants’ purchase price for their shares as “the best
+reflection of the damages.” (4 675.)
+
+199. The reason why it would be improper to apply
+Professor Ruback’s approach to the Rostnvest situation
+(an approach which Professor Ruback himself has of
+course not endorsed) may be expressed in a single word:
+timing. At the time of Roslnvest’s purchases, Yukos was
+all but doomed and retained only the residual value of
+hope for recovery through a process of legal claims. At
+
+the time of the present Claimants’ purchases, on the other
+hand, significant events leading to Yukos’ demise had not
+yet occurred. For example, the Claimants purchased all of
+their Yukos stock before Russia seized Yukos’ shares in
+YNG; before Russia announced that it would sell YNG;
+before Yukos exhausted its appeals against the $3.5
+billion tax claim for 2000; and before the tax authorities
+imposed billions of dollars in additional tax liabilities
+against Yukos for the 2001 to 2003 tax years. (SoRep
+464.) It is a familiar tenet of international law that
+compensation cannot be reduced on the basis that
+anticipation of expropriating conduct has depressed the
+market value of the asset.
+
+200. RosInvest bought its Yukos’ shares for an average
+price of less than US$1 per share in November and
+December 2004. The last of the present Claimants’
+purchases was on 7 July that year. Those months made a
+large difference.
+
+201. By way of perspective, in early 2002, Yukos’
+shares had traded at around $10. The first of the various
+Claimants’ purchases was made on 19 December 2003
+and the price was still at $10.80. Despite clouds on the
+horizon, Quasar de Valores’ purchases on 20 February
+2004 were at $12.45, and the price climbed further, to
+around $15, in the following two weeks. Although the tax
+claims against Yukos depressed the price to around $6 by
+early June, an announcement by President Putin on
+17 June that there was no intent to bankrupt Yukos
+resulted in a 35% share increase on 17 June. Two other
+Claimants bought shares on 7 July, but the announcement
+by the Ministry of Justice on 20July _ that
+Yuganskneftegaz would be auctioned led to a 17% drop.
+Still, the bottom did not fall out until December, when the
+auction was actually carried out. Since then the share
+price has been an almost flat line, sloping slowly in the
+downward direction from $1 until 23 November 2007.
+The last price at which it was possible to purchase Yukos
+shares was $0.23.
+
+202. In sum, the RosInvest purchase in December 2003
+was very much of a different nature than those of the
+Claimants here. The former involved a bet that something
+might be salvaged, somehow, from the Yukos carcass —
+perhaps buying at $.50 to sell at $1 — with no prospect of
+resuscitating Yukos as a going concern, but might still be
+generate 100% profit. The Spanish purchases, on the
+other hand, assumed that Yukos would not be treated
+unlawfully by the State, and that Yukos’ assets and
+potential as an enterprise could overcome the losses
+caused by its exceptional tax debts as of that date. This
+assumption they were entitled to make, and to rely upon
+as a matter of international law by virtue of the BIT.
+
+203. Put another way, the Claimants’ purchases came at
+a time when the Respondent’s series of actions against
+Yukos was still far from having run its course. The
+Claimants cannot be faulted for having relied on the
+proposition that the Respondent would in the end adopt a
+different course than the de facto expropriation of Yukos.
+What they bought (Yukos shares in the December
+2004-July 2004 period) was assuredly not a stake in an
+untroubled concern managed in unimpeded fashion by a
+cohort of stellar managers, successfully exploiting a
+dazzling array of hydrocarbon assets. Yukos’ managers
+were under indictment and its debts were mounting. The
+market reflected that bitter change in fortunes. But what
+was left was still of considerable potential value,
+assuming the corporate body was allowed to mobilise its
+remaining resources without unlawful interference. The
+value of that residual potential is what the Claimants were
+free to seek to capture; and when that legitimate
+expectation was defeated by the ultimate completion of an
+uncompensated expropriation their BIT’s protection was
+enlivened.
+
+(C) The proper measure
+
+204. The above discussion suggests that further analysis
+is required to answer the central, deceptively simple
+question: what was the value of the “investment”
+destroyed?
+
+205. This determination cannot be made by simple
+reference to the underlying value of the assets owned by
+Yukos. The Claimants were minority shareholders with
+exceedingly little power to make the policy decisions,
+such as dividends versus investment, that would enable
+them individually to access that underlying value. Their
+value was derived from those assets only in an indirect
+fashion, ie. the prospect of dividends or share
+appreciation resulting from the corporate  entity’s
+successful exploitation of its assets. Those prospects
+could be affected, for better or worse, by factors such as
+the quality of Yukos’ management, the effect of
+governmental economic policies of legislation, and
+obviously the vicissitudes of international markets.
+
+206. One can therefore agree with Professor Ruback’s
+basic premise that the value of a portfolio investment is
+simply given by the market. One can also agree with the
+Respondent’s criticism of Professor Ruback’s proposed
+understanding of what “the market” here means, since it
+involves both the selection of a reference date as being
+that of “the last reliable stock price” and projections as to
+the future market evolution.
+
+207. Professor Ruback’s putative “last reliable stock
+price”, the Respondent argues, was necessarily arbitrary.
+There is force in this objection. True enough, 14 April
+2004 was the day before an important event, but on what
+basis could it be concluded that the selection of this
+moment would purge the narrative of all improper conduct
+of the Respondent? Why not 8 December 2003, when the
+te-audit of Yukos’ Y2000 began? Why not 25 October
+2003, when Mr Khodorkovsky was arrested? Why not the
+much-discussed February 2003 meeting of oligarchs with
+Mr Putin in the Kremlin, which Mr Aron testified was the
+start of the personal “animosity” between him and
+Mr Khodorkovsky? (T:Day 3:73:16.) Would not early
+2002 be the safest “reliable price”, ie. before the earliest
+of any arguable indications of Yukos being targeted by
+official antagonism?
+
+208. These questions are far from idle, because the
+price of Yukos’ shares was well below $10 as of the
+beginning of 2003. If one goes along with the $14 price
+as of 14 April 2004 notwithstanding the presumably
+adverse effects of Mr Khodorkovsky’s travails and the
+gathering storm clouds of a major tax problem, need one
+infer that there had been some significant unrelated
+positive development which did much more than offset
+them? The present Tribunal has not in fact been presented
+with evidence of such a factor.
+
+209. As for tracing a trajectory of the value of Yukos’
+shares but for the Respondent’s conduct, one finds one’s
+self in the familiar quandary of all who dream of
+predicting the future value of publicly traded shares, Of
+course Professor Ruback’s analysis is not a projection into
+the future, because he wrote his opinions well after the
+date of his valuation (23 November 2007), but it is still a
+pure hypothesis, because it seeks to determine what would
+have happened in a different past than that of reality.
+
+210. It takes no great macroeconomic insights to
+surmise that investors would have been attracted to a
+major oil company at a time of rising international prices,
+but this plausible assumption is hardly satisfactory as a
+basis for establishing the quantum of damages. Professor
+Ruback instead referred to a cohort of four of Yukos’
+Russian competitors (LUKoil, Surgutneftegas, Tatneft,
+and Bashneft). He established a ratio (“coefficient”)
+between the returns of this cohort and those of Yukos over
+the two years preceding 14 April 2004, and then (to
+simplify) applied that ratio by comparison with the returns
+actually earned by the cohort from 14 April 2004 to
+23 November 2007.
+
+211. The conceptual construct is impressive, but as the
+Respondent points out involves a number of choices
+which are matters of judgment rather than science. For
+example, why a two-year period rather than any other
+length of time to establish the relative profitability
+coefficient? What is one to make of a major oil discovery
+by one of the cohorts in the post-14 April 2004 period;
+
+does it not give the extrapolated Yukos “price” an
+unavoidable and undeserved boost? And what is to be
+inferred from the omission of a constant term, one of the
+“most obvious and widely used explanatory variables in
+asset return models,” according to Professor Dow. (SoD
+491.) The Respondent has ably articulated these
+objections to the Claimants’ demonstration. The
+Claimants, for their part, recognize that the Tribunal may
+adjust Professor Ruback’s model by subtracting any taxes
+that were legitimately owed by Yukos and any Yukos
+assets that were removed from Russia by Yukos’ majority
+shareholders and managers. (SoRep 9] 471-72.) (The
+Tribunal notes that the Respondent and its expert,
+Professor Dow, disagreed with the Claimants’
+suggestion.) The Claimants also acknowledge that the use
+of a constant term would decrease the predicted Yukos
+stock price on 23 November 2007 from $35.97 to $33.22
+using a 2-year window or $17.67 using a 1-year window.
+(Second Expert Report of Professor Ruback, ¥ 12.)
+
+212. These salvos cast doubt on the accuracy of the
+forecast which is at the core of the Claimants’ quantum
+analysis. Yet the Respondent’s presentation itself has a
+critical flaw: it does not set forth an alternative, more
+reliable forecast. The likely reason is obvious: while the
+very nature of Professor Ruback’s approach leaves it open
+to challenges as to its precision, macroeconomic
+indicators make it overwhelmingly clear that the value of
+Yukos’ shares would have substantially increased over the
+relevant time frame. The required certitude is not as to a
+precise number, but as to the reality of a substantial
+deprivation for which the wrongdoer cannot escape
+liability by insisting on its lack of detailed exactitude —
+and a fortiori when it presents no better alternative
+analysis.
+
+213, Thus, there is no warrant to be dismissive of
+Professor Ruback’s particular interest in Rosneft, which
+after having acquired a preponderance of Yukos’ assets
+was transformed into a publicly traded company in 2006,
+and in connection therewith published an evaluation of its
+assets. By reference to that valuation, Professor Ruback
+
+finds concordance with his projection of what should have
+been Yukos’ share value on 23 November 2007. This is
+neither irrelevant nor unrealistic. Professor Dow, the
+Respondent’s expert, testified very fairly that “sometimes
+the market gives different valuations to apparently quite
+similar assets inside different companies or even identical
+assets inside different companies.” (T:Day 6:87:2.) This
+limited criticism in fact confirms that the comparison is of
+interest. It is a conventional wisdom of portfolio investors
+that they go to great length to establish the value of
+underlying assets as an indication of the true worth of
+investments, finding advantage in thus seeking to avoid
+the errors of perception and mood in the market.
+
+214. There is nothing untoward about compensation
+that reflects a profit to the Claimants by reference to their
+price of acquisition. It is but the confirmation of
+compelling market realities. In the spring of 2003, the
+leading crude oil benchmarks reflected a price per barrel
+of around US$20. By the end of the year 2007, the
+number had shot up to $100. Half a year later, it had
+further increased to $160. Although it has subsequently
+fallen (and risen) over the intervening years, the US$20
+benchmark seems of a distant age. In short, the year 2003
+was a good year to have purchased shares in oil
+companies at an advantageously low price. It would thus
+also have been a good year for a state to expropriate an oil
+company, looking at the matter from the sole perspective
+of minimising the compensation. This the Respondent
+could have done by a plain and simple decree to that
+effect, duly motivated by governmental policy. Instead, it
+engaged in a series of measures over many months,
+resulting in the consummation of Yukos’ dismantlement
+and effective expropriation at a time when the value of the
+Claimants’ shareholdings had plainly appreciated. The
+Respondent suffers no loss by virtue of the present award,
+which comprises no element of a penalty for illegal
+expropriation, which is beyond the jurisdiction of the
+Tribunal (see Paragraph 45 above), The Respondent is
+simply ordered to pay for what it took, valued at the time
+of the taking, and without any consideration of the
+benefits it may since have enjoyed by reason of its actions
+
+~ whether in terms of pure revenue or in the achievement
+of policy objectives. The Tribunal recognizes that certain
+of the Claimants (i.e., Rovime and Quasar) purchased
+their shares prior to 15 April 2004, the day of the “threat”
+of expropriation, while the remaining Claimants (i.e.,
+Orgor and GBI) purchased their shares after this date. But
+this does not mean that “[nJeither Rovime/Quasar’s failure
+to divest, nor Orgor/GBI’s making of their purchases in
+the face of alleged expropriation, is compensable.” (SoD
+4 473.) The Tribunal finds instead that the Claimants
+“cannot be denied compensation for failing to predict
+Russia’s expropriation of the company.” (SoRep { 462.)
+
+215. In light of this discussion, it remains to attach a
+number to the claim. It is trite law that an international
+tribunal which has found liability and loss is not impeded
+from granting compensation only because the latter cannot
+be computed with certitude. One must simply admit that
+one does not know exactly what the Claimants’
+shareholding would have been worth had it not been
+destroyed by the compensable measures in this case, and
+then do one’s best to make a fair assessment that does not
+penalise either side. (It is recalled that the claim is for
+simple uncompensated expropriation, not unlawful
+expropriation.) With the tools available to it, the Tribunal
+effects a downward adjustment of the claim which is
+intended to take into account the various challenges raised
+against the claims. It does so — all the while admitting
+that Professor Ruback’s model may well have been
+validated by events but for the Respondent’s actions — by
+replacing his $14 starting point (Yukos’ share price on 14
+April 2004) with $10.80 (Yukos’ share price on 19
+December 2003 when the Claimants made their first
+purchase), leading to a predicted Yukos share price of
+$27.76 as at 23 November 2007. This downward
+adjustment of approximately 23% does not claim to
+satisfy the rigours of corporate financial accounting; it
+does not, for instance, reassess Professor Ruback’s
+“competitors’ index” on the basis of the longer time frame
+thus established. But under the present circumstances,
+where the Respondent did not offer an alternative forecast
+and the Claimants recognized the Tribunal’s authority to
+
+adjust Professor Ruback’s model, it is the Tribunal’s view
+that this downward adjustment more properly represents
+the actual value of the Claimants’ shares but for the
+Respondent’s expropriatory measures.
+
+216. The Tribunal, as alluded to above, rejects the
+Respondent’s argument that Professor Ruback’s valuation
+of Yukos is “speculative” because “[a]fter Claimants
+purchased their ADRs . . . the Yukos share price never
+went close to US$35.97.” (SoD {| 492.) While it is true
+that the Yukos share price never increased to $35.97 (or
+$27.76, accounting for the Tribunal’s downward
+adjustment), the reason is straightforward: the
+Respondent never gave Yukos the opportunity. The
+Tribunal refuses to ignore Professor Ruback’s economic
+analysis simply because the Respondent’s drawn out
+actions in expropriating Yukos suppressed the stock price,
+particularly when the Respondent failed to present an
+alternative valuation approach. Instead the Tribunal relies
+on Professor Ruback’s model, while imposing a
+downward adjustment anchored on a fixed date (and
+corresponding Yukos stock price) in the record: 19
+December 2003, when the Claimants made their first
+purchase of Yukos stock, at a price of $10.80.
+
+217. To be clear, the Tribunal has not made a finding
+that 19 December 2003 is the date of the “last reliable
+stock price.” Nor is 19 December 2003 the date that all of
+the Claimants purchased all of their Yukos shares. It is
+rather the date when the Yukos stock price was $10.80,
+which was approximately 23% lower than the $14.00
+stock price on 14 April 2004. (Arguably the Tribunal
+could have selected 23 or 29 December 2003 when the
+Yukos stock price was also $10.80.) While this
+downward adjustment might lack precision, it is the
+Tribunal’s view that under the present circumstances its
+approach adequately compensates the Claimants for the
+expropriation of their investments and avoids awarding a
+windfall.
+
+218. Based on their respective holdings (the equivalents
+of their ADRs in ordinary shares); the Claimants’
+individual recovery is therefore as follows, at
+
+Qasar de Valores SICAYV S.A.
+
+(11,000 shares) $305,360
+Orgor de Valores SICAV S.A.
+
+(34,000 shares) $943,840
+GBI 9000. SICAV S.A. $499,680
+(18,000 shares)
+
+ALOS 34 S.L. $277,600
+(10,000 shares)
+
+219. The Respondent’s final objection to the claim is
+that the quantum of recovery in this case must in any
+event be reduced by reference to the evidence of the
+Claimants’ behaviour as investors, which was said to be
+focused upon speculation in distressed stock, with the
+investors manifestly willing to dispose of or reacquire
+their shares at a moment’s notice (so-called “flipping”).
+Although there is evidence of some of the Claimants
+having gone in and out of a position in Yukos prior to
+purchasing the final contingent of shares which were
+rendered worthless by the extinction of Yukos, there is
+nothing about such investments — once made — that
+requires a different approach to the quantification of
+damages. In other words, once an investment qualifies for
+protection under the treaty (an issue upon which all
+Parties have previously made their submissions, and
+which was addressed in the Tribunal’s Award on
+Preliminary Objections), there is no basis then to import
+some alternative method of quantification of damages, by
+reference to the assumed future intentions of the owners
+of the property rights in question, Shareholdings in
+corporate entities represent stakes in their assets and
+goodwill, valued by reference to the anticipation of
+income streams going into the indefinite future. The
+possibility that individual shareholders, for an infinite
+variety of reasons, may choose to trade their holdings
+
+does not change the value of such rights for the time
+being, or the approach as a matter of law to the
+quantification of loss. Indeed, if anything, the liquidity of
+the assets in question, in and of itself, is likely to be a
+significant element in their value.
+
+8. COSTS
+
+220. The Claimants seek an award of costs in the
+overall amount of US$14,572,671.57. The Respondent
+asks for US$9,412,260.73. (The unusual proportionality
+between these claims and the claim on the merits - of
+some $2.6 million — is to be understood by reference to
+the circumstances described in Paragraphs 31-34 above).
+
+221. The Claimants have, broadly, prevailed. One
+might look at isolated incidents in the arbitration in
+connection with which the Claimants were either
+unsuccessful or created unnecessary complications, and
+effect reductions on account thereof. Still, the overall
+result is a finding of liability and an order for
+compensation. Articles 43 and 44 of the SCC Rules, as
+well as Section 42 of the Swedish Arbitration Act 1999,
+provide support for the proposition that the prevailing
+party is entitled to recover costs incurred by it. The
+Claimants’ petition for costs may thus be considered as
+advanced in the ordinary way.
+
+222. But this is no ordinary case, since it is admittedly
+entirely financed by a third party, Menatep.
+
+223. The usual arguments about the recoverability of
+costs where a party’s participation in a case has been
+financed by a third party are inapposite here, because such
+third-party financing is typically part of a legally
+enforceable bargain under which the prevailing party in
+the arbitration has given up something in return for that
+support. Here, it is conceded that there is no legal duty on
+the part of the Claimants to hand over any recovery on
+account of costs to Menatep. The argument that the latter
+could successfully sue the Claimants in Spain under the
+theory of unjust enrichment does not lie comfortably in
+the mouth of the Claimants’ own counsel, who in fact also
+acts for Menatep and indeed made it quite clear that while
+
+the latter would be pleased to receive some recompense
+from the Claimants, this would depend on the latters’
+sense of moral obligation rather than a legal entitlement.
+Indeed the unjust enrichment argument is hopelessly
+circular; the duty to pay compensation cannot arise
+because the Claimants would incur an obligation if
+compensation were ordered.
+
+224. The Respondent’s position is this: “{The
+Claimants] have incurred no costs in this case. Stipulation
+from counsel: they don’t have to pay a penny of any
+recovery to counsel or to Menatep. It is a total free ride.”
+(T:Day 9:13:1-4.) This straightforward proposition must
+be right. On the one hand, the Claimants have neither
+expended money nor incurred obligations on account of
+the costs of pursuing their claims. On the other, Menatep,
+the Claimants’ Good Samaritan (as it were), has no
+standing before this Tribunal or indeed more generally
+under the BIT.
+
+225. The SCC has determined the costs of the
+arbitration as follows: Mr Paulsson, fee of EUR 400,000
+and reimbursable expenses of EUR 17,483; Judge Brower,
+EUR 240,000 and EUR 13,216, respectively; Mr Landau,
+EUR 240,000 and EUR 6,830, respectively; SCC
+administrative fee, EUR 60,000. A party may bring an
+action against the determination of the fees of the
+arbitrators within three months from the date upon which
+it receives the award. Such action shall be brought before
+the District Court of Stockholm. The arbitrators have been
+informed that in view of the failure of the Respondent to
+provide the full half of the advance payments required to
+meet these costs, the advances made on behalf of the
+Claimants represent some 86% of the total, and that after
+payment of these costs there remains a credit of EUR
+134,043. Seeking to maintain consistency, as far as
+possible, with the conclusion reached in Paragraph 224
+with regard to the claim for direct costs, the arbitrators
+have decided, not without some reluctance given the
+Respondent's failure to meet what is in principle a joint
+duty to provide equal advances, not to order payment by
+the Respondent of the shortfall of its contribution. But
+
+given that the Respondent has consented to these
+proceedings under the terms of the BIT, and given the
+outcome of the case, the arbitrators consider, in the
+exercise of their discretion, that the partial advance made
+by the Respondent shall be applied as a contribution to the
+costs of the arbitration as detailed above (since this
+amount will not be recovered by the Claimants, and since
+the arbitrators would consider it wholly improper to
+allocate the entirety of these costs to them as the
+prevailing parties), with the effect that the parties’ liability
+for costs is allocated in the amounts of EUR 837 655 to
+the Claimants and EUR 139,874 to the Respondent, and
+that the credit balance shall remitted to the Claimants.
+
+9. INTEREST
+
+226. The Claimants seek pre-award interest on the sums
+awarded to them from 23 November 2007 until the date of
+this Award. The BIT is silent on the subject of interest.
+Nor do any of the provisions of Russian law relied upon
+by either side address this matter. In these circumstances,
+the Tribunal considers that the Claimants’ position should
+prevail on the footing that the proper measure of
+compensation under general principles of international
+law should put them into the position they would have
+been in if there had been compliance with the BIT, that is
+to say compensation would have been paid to the
+Claimants upon the expropriation of Yukos and they
+would have been in a position to earn interest thereon.
+The Tribunal accepts that as a matter of realism this
+includes the compounding of interest; see John Gotanda,
+“A study on Interest”, VI Dossiers of the ICC Institute of
+World Business Law 19-28 (2008) and authorities cited
+therein. The Respondent has not questioned the
+Claimants’ assertion that as of 23 November 2007,
+Russian sovereign medium-term dealt in US Dollars had a
+yield of 6.434%, The date (which corresponds to the
+expurgation of Yukos from the Russian United Register of
+Companies) and the rate are therefore adopted by the
+Tribunal.
+
+-98-
+
+10. ORDER
+
+227. For the reasons given above, the Tribunal hereby
+orders the Respondent to make the following immediate
+payments:
+
+US$305,360 to Quasor de Valores SICAV S.A.
+US$943,840 to Orgor de Valores SICAV S.A.
+US$$499,680 to GBI 9000 SICAV. S.A.
+
+US$277,600 to ALOS 34 S.L.
+
+228. Interest shall run on these four amounts at a rate of
+6.434 % , compounded annually, from 23 November 2007
+until the date of effective payment.
+
+Done on the 20" day of July 2012.
+
+Qheduw, Beane (GL.
+
+Charles N Brower Toby T Landau
+
+an Paulsson
+

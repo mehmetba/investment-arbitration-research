@@ -1,0 +1,465 @@
+United States Court of Appeals
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+Argued February 9, 2017 Decided March 31, 2017
+No. 16-7083
+
+BELIZE BANK LIMITED,
+APPELLEE
+
+v.
+
+GOVERNMENT OF BELIZE,
+APPELLANT
+
+Consolidated with 16-7089, 16-7094
+
+Appeals from the United States District Court
+for the District of Columbia
+(No. 1:14-cv-00659)
+
+Juan C. Basombrio argued the cause for the appellant.
+Creighton R. Magid was with him on brief.
+
+Mahesha P. Subbaraman and Janet C. Evans were on brief
+for the amicus curiae Professor Richard W. Painter in support
+of the appellant Government of Belize.
+
+Louis B. Kimmelman argued the cause for the appellee.
+Dana C. MacGrath and Ryan C. Morris were with him on brief.
+
+2
+
+Before: GARLAND, Chief Judge, and HENDERSON and
+WILKINS, Circuit Judges.
+
+Opinion for the Court filed by Circuit Judge HENDERSON.
+
+KAREN LECRAFT HENDERSON, Circuit Judge: On January
+15, 2013, an arbitral tribunal in London, England, found the
+Government of Belize (Belize) in breach of a settlement
+agreement with The Bank of Belize Limited (Bank). The
+tribunal therefore ordered Belize to pay the Bank a substantial
+monetary award. After attempts to enforce the award in Belize
+failed, the Bank commenced this action in the district court,
+asking the court to confirm the arbitral award and enter
+judgment in its favor. In a well-reasoned order, the district
+court granted the Bank’s petition. Belize Bank Ltd. v. Gov't of
+Belize, 191 F. Supp. 3d 26 (D.D.C. 2016).
+
+On appeal, Belize raises multiple challenges to the district
+court’s judgment. We have accorded each of Belize’s
+arguments “full consideration after careful examination of the
+record,” Bartko v. SEC, 845 F.3d 1217, 1219 (D.C. Cir. 2017)
+(quoting Ozburn-Hessey Logistics, LLC v. NLRB, 833 F.3d
+210, 213 (D.C. Cir. 2016)), but find them either largely asked
+and answered by Circuit precedent, see BCB Holdings Ltd. v.
+Gov't of Belize, 650 F. App’x 17 (D.C. Cir. 2016) (per curiam);
+Belize Soc. Dev. Ltd. v. Gov't of Belize, 794 F.3d 99 (D.C. Cir.
+2015); Belize Soc. Dev. Ltd. v. Gov't of Belize, 668 F.3d 724
+(D.C. Cir. 2012), or otherwise properly resolved by the district
+court. Only one issue raised by Belize warrants further
+discussion—whether the district court’s enforcement of the
+arbitral award violated the New York Convention because it
+was “contrary to the public policy of” the United States.
+Convention on the Recognition and Enforcement of Foreign
+Arbitral Awards of June 10, 1958 (“New York Convention”),
+art. V(2)(b), 21 U.S.T. 2517, T.LA.S. 2517, T.LA.S. No. 6997,
+
+3
+
+330 U.N.T.S. 3 (1970); 9 U.S.C. § 207. For the reasons that
+follow, we believe the district court judgment is consistent with
+the New York Convention and therefore affirm.
+
+I. Background!
+
+On December 9, 2004, Said Musa, the Prime Minister
+of Belize, signed a confidential agreement under which Belize
+agreed to serve as the guarantor of a loan made to a Belizean
+health services provider by the Bank. By 2007, that health
+services provider was in default, making Belize liable for the
+outstanding loan balance. Pursuant to a March 23, 2007
+settlement agreement, Belize agreed to pay the debt in full.
+Shortly thereafter, the settlement agreement became public
+knowledge and a firestorm erupted—protesters, branding the
+deal corrupt, marched on the Belizean capital; and Belizean
+public interest groups, believing that Prime Minister Musa
+lacked the authority to financially bind Belize without the
+approval of the Belizean National Assembly, challenged the
+settlement agreement in the Belizean court. Responding to the
+pressure, Belize refused to make any payment pursuant to the
+settlement agreement with the Bank.
+
+Following Belize’s default, the Bank—in accordance with
+a dispute resolution clause included in the settlement
+agreement—began arbitration proceedings against Belize in
+London, England, under the Rules of the London Court of
+International Arbitration (LCIA). The arbitral tribunal
+overseeing the proceedings was to consist of three members,
+one appointed by each party and the third appointed jointly by
+the two parties’ members. Because Belize largely declined to
+
+' The facts herein set forth are only those relevant to the
+remaining issue before us. More complete details of the case are set
+forth in Belize Bank Ltd., 191 F. Supp. 3d 26, 30-40 (D.D.C. 2016).
+
+4
+
+participate in the early stages of the arbitration, however, the
+LCIA had to step in and appoint Belize’s arbitrator in Belize’s
+stead.” The LCIA nominated Zachary Douglas as Belize’s
+member of the arbitral tribunal.
+
+In March 2012, five years after Douglas’s initial
+appointment, Belize challenged Douglas’s continued service
+on the arbitral tribunal. Belize argued that another member of
+the English chambers Douglas belonged to, Matrix Chambers,
+had—in previous unrelated matters—advised a partial owner
+of the Bank and represented other interests adverse to Belize.
+Belize questioned Douglas’s impartiality as a member of the
+arbitral tribunal and argued that Douglas had a duty to disclose
+information detailing Matrix Chambers’s practices and
+representations, or, alternatively, that Douglas should be
+removed from the arbitral panel.
+
+The LCIA then created a three-member “Division” to
+consider Belize’s challenges. Belize Bank Ltd. v. Gov't of
+Belize, Case No. 81116 (London Ct. Int’] Arb. 2012). The
+Division rejected both of Belize’s alternatives. Jd. at 11-18.
+Analyzing the disclosure issue, the Division relied on the
+“British Rule,” under which barristers in the same chambers—
+unlike lawyers in a traditional American law firm—are
+presumed to be independent practitioners. Jd. at 14 (“Barristers
+are sole practitioners. Their Chambers are not law firms.”).
+Although the Division recognized that “chambers ought not to
+be used as a shield to preclude a fact-based inquiry as to
+whether a justifiable doubt [as to impartiality or independence]
+may be raised by barristers from the same chambers acting as
+arbitrator and party counsel in the same proceeding,” it found
+that Douglas’s alleged conflict of interest was too attenuated to
+
+? Such appointment in place of an absentee or non-performing
+party is permitted by LCIA rules.
+
+5
+
+give rise to a duty to disclose. Jd. at 15. (“There is no suggestion
+
+. that any barrister from Matrix Chambers, other than
+Professor Douglas, has acted in the present proceeding.”).
+Although the Division recognized that no “hard-and-fast” rule
+existed that excused a barrister’s disqualification based on the
+activities of another barrister belonging to the same chambers,
+it determined that the “totality of the relevant circumstances in
+this case” weighed against Douglas’s disqualification in that
+Douglas himself had not acted for or against Belize or the Bank
+in the past, no barrister in Matrix Chambers (other than
+Douglas) was acting for or against the Bank or Belize in the
+arbitral proceeding before the LCIA and Belize had notice of
+the fact that barristers in the same chambers are independent
+practitioners. Jd. at 17.
+
+Belize did not take the Division’s adverse decision well,
+withdrawing from the arbitration proceedings and refusing to
+participate thereafter. Nonetheless, the proceedings continued
+and, on January 15, 2013, the arbitral tribunal found Belize in
+breach of its settlement agreement with the Bank. The tribunal
+ordered Belize to pay the Bank the sum of BZ$36,895,509.46,
+plus interest at 17%, compounded on a monthly basis from
+September 8, 2012, until the date of payment.
+
+On April 18, 2014, the Bank filed a Petition to Confirm
+Foreign Arbitration Award and to Enter Judgment in district
+court. The district court granted the petition, concluding, inter
+alia, that enforcement of the award in the United States was not
+contrary to United States public policy under New York
+Convention Article V(2)(b).> Belize Bank Ltd., 191 F. Supp. 3d
+at 38.
+
+> To the extent Belize argues that the district court did not
+expressly determine that enforcement of the arbitral award was
+consistent with United States public policy, we disagree. See
+
+IL. Analysis
+
+The New York Convention is part of a “carefully crafted
+framework for the enforcement of international arbitration
+awards.” Belize Social Dev. Ltd., 668 F.3d at 729 (quotation
+omitted). It is “clear that when an action for enforcement is
+brought in a foreign state, the state may refuse to enforce the
+award only on the grounds explicitly set forth in Article V of
+the Convention.” TermoRio S.A. E.S.P. v. Electranta S.P., 487
+F.3d 928, 935 (D.C. Cir. 2007) (quoting Yusuf Ahmed
+Alghanim & Sons v. Toys “R” Us, Inc., 126 F.3d 15, 23 (2d
+Cir. 1997)). Article V(2)(b), in turn, states that “[rJecognition
+and enforcement of an arbitral award may . . . be refused if the
+competent authority in the country where recognition and
+enforcement is sought finds that . . . [t]he recognition or
+enforcement of the award would be contrary to the public
+policy of that country.” New York Convention art. V(2)(b).
+
+In TermoRio, we recognized that Article V(2)(b) does not
+require a fly-specking of the ABA Model Rules of Professional
+Conduct. See 487 F.3d at 938 (“[C]ourts have been very careful
+not to stretch the compass of ‘public policy.’”). Rather, with
+
+Appellant’s Br. 39. Belize correctly notes that the relevant issue is
+not whether “the [LCIA] Division’s decisions rejecting Belize’s
+challenges to the arbitral panel were well reasoned and consistent
+with the LCIA’s Rules” but is instead “whether there is a U.S. public
+policy against enforcement of [the] arbitral award[.]” Jd. The district
+court concluded that “nothing about the selection process of the
+arbitrators in this case . .. would offend United States public policy.”
+Belize Bank Ltd., 191 F. Supp. 3d at 38 (emphasis added). As we
+explain infra, Douglas’s participation did not violate the United
+States’ “most basic notions of morality and justice.” TermoRio S.A.
+ESP. v. Electranta S.P., 487 F.3d 928, 938 (D.C. Cir. 2007)
+(quotation omitted); see infra Part II.
+
+7
+
+appropriate deference to other sovereign nations, the “public
+policy defense is to be construed narrowly to be applied only
+where enforcement would violate the [United States’] most
+basic notions of morality and justice.” Jd. (quoting Karaha
+Bodas Co. v. Perusahaan Pertambangan Minyak Dan Gas
+Bumi Negara, 364 F.3d 274, 306 (Sth Cir. 2004)); see also
+Enron Nigeria Power Holding, Ltd. v. Fed. Republic of
+Nigeria, 844 F.3d 281, 288 (D.C. Cir. 2016) (internal quotation
+marks omitted) (“[T]he question of public policy is ultimately
+one for resolution by the courts, and thus, if enforcement of the
+Award based on [an arbitrational panel’s] interpretation of [a
+contract] violates a public policy of the United States . . . then
+the district court [is] obligated to refrain from enforcing it.”).
+Because Belize challenges enforcement of the arbitral award,
+it “bears the burden of proof” of meeting this exacting standard.
+Karaha Bodas, 364 F.3d at 288.
+
+Belize insists that the LCIA’s failure to disqualify—or
+require certain disclosures from—Douglas created an
+unacceptable appearance of impartiality viewed through the
+lens of United States public policy. See Appellant’s Br. 39-43;
+see also Amicus Br. 15-19. That is, Belize claims that, “if the
+tules applicable to U.S. law firms were applied to Douglas and
+Matrix Chambers,” it would be “undisputed that bias and a lack
+of impartiality” tainted the arbitral tribunal so long as Douglas
+was a member. Appellant’s Br. 41. To bolster its claim, Belize
+highlights Justice White’s concurring opinion § in
+Commonwealth Coatings Corp. v. Continental Causality Co.,
+wherein he noted that “where the arbitrator has a substantial
+interest in a firm which has done more than trivial business
+with a party, that fact must be disclosed.” 393 U.S. 145, 151-
+52 (1968) (White, J., concurring); see also Positive Software
+Sols., Inc. v. New Century Mortg. Corp., 476 F.3d 278 (Sth Cir.
+2007); Schmitz v. Zilveti, 20 F.3d 1043 (9th Cir. 1994). Because
+Douglas belonged to Matrix Chambers and a member of Matrix
+
+8
+
+Chambers had previously done more than trivial business with
+the Bank and against Belize, Belize argues that the LCIA’s
+failure to disqualify or require disclosure from Douglas ran
+afoul of Commonwealth Coatings and its progeny* and
+therefore enforcement of the LCIA’s award violates United
+States public policy.
+
+We disagree. The cases upon which Belize relies address
+a provision of the Federal Arbitration Act (FAA) that permits
+a district court to vacate a domestic arbitration award “where
+there was evident partiality or corruption in the arbitrators.” 9
+U.S.C. § 10(a)(2). For the reasons set forth below, Belize has
+failed to allege conduct that would warrant denial of
+enforcement under our cases interpreting that standard. But
+even if the alleged conduct did satisfy the FAA standard, we
+would be unable to deny enforcement in this case. As we have
+explained above, we may refuse to enforce this international
+arbitration award “only on the grounds explicitly set forth in
+Article V” of the New York Convention, TermoRio, 487 F.3d
+
+* In Commonwealth Coatings, Justice Black, joined by three
+other justices, declared that “any tribunal permitted by law to try
+cases and controversies not only must be unbiased but also must
+avoid even the appearance of bias.” 393 U.S. at 150. Justice White
+concurred in an opinion joined by Justice Marshall, advancing a
+narrower rule: “arbitrators must tell the parties about any ‘substantial
+interest [they have] in a firm’ that does business with one of the
+parties.” Freeman v. Pittsburgh Glass Works, LLC, 709 F.3d 240,
+252 (3d Cir. 2013) (citing 393 U.S. at 151-52). Three justices
+dissented. 393 U.S. at 152. “Justice White’s concurrence is the
+narrowest grounds for judgment, which means that it is the holding
+of the Court . . . [and] that the plurality’s discussion of appearances
+is nonbinding.” Freeman, 709 F.3d at 252; see Marks v. United
+States, 430 U.S. 188, 193 (1977) (“When a fragmented Court decides
+acase ... the holding of the Court may be viewed as the position
+taken by those Members who concurred in the judgements on the
+narrowest grounds.” (citation and quotation marks omitted)).
+
+9
+
+at 935, and the only potentially relevant ground is that
+enforcement of the arbitration award “would be contrary to the
+public policy of [the United States],” New York Convention
+art. V(2)(b). As we have also explained, this requires Belize to
+show that Douglas’s participation in the arbitration violated
+this country’s “most basic notions of morality and justice.”
+TermoRio, 487 F.3d at 938. It has not done so.
+
+As an initial matter, Article V(2)(b)’s requirement that we
+replace foreign ethical standards with United States public
+policy in scrutinizing an arbitral award, see New York
+Convention art. V(2)(b) (authorizing forum state to refuse
+enforcement of arbitral award if it “would be contrary to the
+public policy of that country” (emphasis added)), does not give
+us license to replace the facts of a case with an Americanized
+version thereof. Contrary to Belize’s description, Matrix
+Chambers is not a law firm—it is an English chambers.’ As the
+
+5 Belize argues that because Matrix Chambers “marketed itself
+as a collaborative venture,” we should equate Matrix Chambers with
+an American law firm (rather than an English chambers). Appellant’s
+Br. 32-34. Belize insists that “Matrix [Chambers] does not act as
+independent practitioners; thus the British Rule should not apply.”
+Id. English courts have stated, however, that they are “aware of no
+case in which a problem has arisen due to the improper transmission
+of information between members of chambers.” Laker Airways Inc.
+v. FLS Aerospace Ltd. & Stanley Burton, [1999] QB 45 at 53 (Eng.)
+(emphasis added). Although Matrix Chambers’s promotional
+material discusses its “collaborative” approach and centralized
+organizational structure, there is no indication that individual
+barristers within Matrix Chambers share client confidences; in fact,
+the promotional material expressly states that Matrix Chambers is
+composed of “individual practitioners with a professional obligation
+to promote the interests of [their] clients... .” JA 621. Douglas
+himself reinforced this view, noting that “it would be a breach of a
+barrister’s obligation of confidentiality” to share client information;
+and further, he had “never inquired as to the practice of other
+
+10
+
+LCIA correctly noted, an English chambers is composed of
+independent solo practitioners housed together and operating
+under a common name, a structure vastly different from an
+American law firm in which, inter alia, confidential client
+information—as well as assets and liabilities—are shared
+among partners. Belize Bank Ltd., Case No. 81116, at 17
+(“Barristers are sole practitioners. Their Chambers are not law
+firms.”); see also Laker Airways Inc. v. FLS Aerospace Ltd. &
+Stanley Burton [1999] QB 45 at 52 (Eng.) (“[P]racticising
+barristers are prohibited by the rules of their profession from
+entering partnerships or accepting employment . . . .”). Thus,
+we find the case law relied on by Belize, which details ethical
+concerns underlying firm-wide imputation of conflicts of
+interest, inapposite even if a violation of United States’
+domestic arbitration requirements under the FAA were
+sufficient to satisfy Article V(2)(b). That case law is premised
+on “the presumption that ‘associated’ attorneys share client
+confidences.” Hempstead Video, Inc. v. Inc. Vill. of Valley
+Stream, 409 F.3d 127, 133 (2d Cir. 2005); Commonwealth
+Coatings, 393 U.S. at 151 (White, J., concurring) (analyzing
+arbitrator’s interest “in a firm” (emphasis added)). In weighing
+Douglas’s alleged conflicts, the LCIA invoked the British Rule
+not based on moral and ethical values different from those held
+here in America; the LCIA simply addressed a different
+model—a different type of legal practice—from the American
+model.
+
+In order to set aside an award under the FAA’s “evident
+partiality” standard, the party challenging the award must
+“establish[] specific facts that indicate improper motives on the
+part of the arbitrator.” Al-Harbi v. Citibank, N.A., 85 F.3d 680,
+683 (D.C. Cir. 1996). We believe an allegation that an arbitral
+
+members of Matrix Chambers and [was] under no obligation to do
+so.” JA 594.
+
+ll
+
+tribunal member is a member of the same chambers as another
+barrister who, in proceedings unrelated in fact and time,
+represented a conflicting interest, is insufficient to meet that
+burden, let alone to demonstrate that enforcement would
+violate the United States’ “most basic notions of morality and
+justice” as required to set aside an award under the New York
+Convention. TermoRio, 487 F.3d at 938. First, “barristers are
+all self-employed . . . precisely in order to maintain the position
+where they can appear against or in front of one another.” Laker
+Airways, [1999] QB 45 at 52; accord Stephan Landsman, The
+Servants, 83 MICH. L. REV. 1105, 1106-07 (1985) (“Although
+barristers must join a set of chambers, each is considered a sole
+practitioner and is prohibited from entering into any
+partnership arrangements. Each must develop and sustain his
+or her own practice.” (footnote omitted)). Because the
+chambers model is designed to protect a_ barrister’s
+independence—a fact acknowledged by English courts, see
+Laker Airways, [1999] QB at 52 (rule “prevent[ing] barristers
+at the same chambers from appearing against one another . . .
+has never been recognized, and the contrary practice is an every
+day occurrence in the [English] Courts”), and scholars, see
+Landsman, supra at 1106-07—we are aware of no ethical rule
+that would require conflict imputation in these circumstances.
+Without more, a perceived conflict arising from another
+barrister’s practice does not give rise to the Commonwealth
+Coatings duty to disclose or otherwise create an appearance of
+impropriety.° See 393 U.S. at 151-52 (White, J., concurring).
+
+® Indeed, we have already limited Commonwealth Coatings in
+similar circumstances. In Al-Harbi v. Citibank, N.A., 85 F.3d 680
+(D.C. Cir. 1996), we held that “the fact that [an arbitrator’s] former
+law firm had represented [one of the parties] on matters unrelated to
+the mediation or the underlying dispute” gave rise to only a
+“marginally disclosable” conflict under Commonwealth Coatings, a
+conflict that did not require the arbitrator to conduct any further
+investigation. Id. at 682-83. Likewise, here, the events causing the
+
+12
+
+Second, we cannot say that Douglas’s membership in
+Matrix Chambers threatened “[t]he arbitration process[’s] . . .
+amicable and trusting atmosphere.” Jd. at 151. Granted,
+“insistence on the appearance of neutrality” is vital to
+“ensuring the reality of fair adjudication.” Williams v.
+Pennsylvania, 136 S. Ct. 1899, 1909 (2016). At the same time,
+however, questions about appearance are resolved from the
+perspective of the parties. See Matter of Andros Compania
+Maritima, S.A. (Marc Rich & Co., A.G.), 579 F.2d 691, 700 (2d
+Cir. 1978) (considering “Commonwealth Coatings principle of
+disclosure” for arbitrator conflicts applicable only to
+information “of which the parties cannot reasonably be
+expected to be aware” (emphasis added)); see Freeman v.
+Pittsburgh Glass Works, LLC, 709 F.3d 240, 253 (3d Cir.
+2013). As the LCIA noted, the “chambers system of barristers
+acting as independent practitioners” was “familiar” to Belize
+based on Belize’s historical association with the British justice
+system’ and the fact that, in an earlier proceeding involving
+Belize, Matrix Chambers barristers appeared on opposing sides
+
+purported conflicts occurred in 1994 and 2001, before Douglas
+joined Matrix Chambers in 2006; Belize has alleged no potentially
+conflict-creating event that occurred contemporaneously with
+Douglas’s membership in Matrix Chambers. In the “arms-length”
+chambers context, Douglas’s alleged conflict is more attenuated. See
+supra at 4.
+
+7 “Belize is a former British colony and, even after
+independence in 1981, the [British] Privy Council remained its final
+court of appeal until 2010. [Belize] has instructed English barristers
+to represent it in appeals before the Privy Council .. . .” Belize Bank
+Ltd. v. Gov't of Belize, Case No. 81116, at 17 (London Ct. Int’! Arb.
+2012).
+
+13
+
+of the same appeal with no objection from Belize. Belize Bank
+Ltd., Case No. 81116, at 17.
+
+Considered together, these factors demonstrate that
+enforcement of the LCIA arbitral award would not violate the
+United States’ most basic notions of morality and justice.
+TermoRio, 487 F.3d at 938.
+
+For the foregoing reasons, the judgment of the district
+court is affirmed.
+
+So ordered.
+

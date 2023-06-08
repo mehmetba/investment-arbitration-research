@@ -3,7 +3,7 @@ import pandas as pd
 import re
 
 # Define the folder path
-folder_path = "/home/ubuntu/SCRAPER/italaw_backups/italaw_temp_cases_text_files_from tiff"
+folder_path = "/home/ubuntu/investment-arbitration-research/case_files"
 
 # Define the main keyword(s) you want to search for
 keywords = ["investment-backed"]
@@ -58,7 +58,7 @@ results_df.drop_duplicates(subset='paragraph', inplace=True)
 print(f"Keywords: {keywords}")
 
 # Generate the CSV file name based on the search keyword
-csv_file_name = f"/home/ubuntu/investment_law_research/{keywords[0]}_search_results.csv"
+csv_file_name = f"/home/ubuntu/investment-arbitration-research/{keywords[0]}_search_results.csv"
 
 # Write the results DataFrame to a CSV file with the generated name
 results_df.to_csv(csv_file_name, index=False)

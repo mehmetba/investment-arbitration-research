@@ -1,0 +1,3513 @@
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 6 of 89
+
+LONDON COURT OF INTERNATIONAL ARBITRATION
+ARBITRATION NO. 132527
+
+BETWEEN:
+
+PEARL PETROLEUM COMPANY LIMITED
+DANA GAS PJSC
+CRESCENT PETROLEUM COMPANY INTERNATIONAL LIMITED
+Claimants
+
+and
+
+THE KURDISTAN REGIONAL GOVERNMENT OF IRAQ
+
+spon. ‘ounterclaimant
+
+THIRD PARTIAL FINAL AWARD
+
+Tribunal:
+
+Lord Hoffmann (Presiding Arbitrator)
+Lord Collins of Mapesbury
+Mr John Beechey
+
+wo January 2017
+
+Document 1-4 Filed 05/12/17 Page 7 of 89
+
+INDEX
+
+PART ONE: INTRODUCTORY
+
+A. Summary of the Proceedings
+B. The Tribunal, the Parties and their Lawyers
+C. Procedural History
+
+PART TWO; PEARL'S CLAIMS
+
+mama moo D>
+
+. The Delayed Development Claim
+The Earn-out Payments Claim
+Losses Suffered by Dana
+
+. Claims under the SAP
+
+The Pewand Invoices
+
+Liquids Lifted Since 30 June 2015
+Excess Gas
+
+. Interest
+
+PART THREE: THE KRG’S COUNTERCLAIMS
+
+o
+
+Breach of Warranty
+Misrepresentation
+Delay in Completion of the LPG Plant
+1 Construction of the LPG Plant: A Brief History
+Il The Extent of Pearl’s Obligations
+(a) The KRG’s position
+(b) The Claimants’ position
+(c) Opinion of the Tribunal
+
+TIL Pearl’s Performance
+(a) The Expert Witnesses
+(b) Specific Complaints
+
+(i) Planning
+
+a
+
+ll
+26
+29
+29
+33
+35
+37
+40
+
+41
+
+45
+45
+53
+54
+55
+57
+
+59
+
+59
+
+62
+
+62
+
+et
+
+ 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 8 of 89
+
+ 
+
+(ii) Project Management Team 64
+
+(iii) Supervision 65
+
+(iv) Procurement 66
+
+(v) The Alternate Work Programme 67
+
+IV Conclusion 67
+
+D. Design and Operational Defects 67
+
+(a) Residue gas 67
+
+(b) Condensate and LPG 69
+
+(c) Improvements 70
+
+(d) The residue gas compressors 71
+
+(e) Coalescer filters 72
+
+() Depropaniser 72
+
+(g) Other matters 72
+
+(h) Conclusion 73
+
+E. Appraisal Work and Seismic Data 73
+
+F. Audit Request 75
+
+G. Delayed Development Claim 78
+
+H. Conclusion on the KRG’s Counterclaims 8
+PART FOUR: DECLARATORY RELIEF 78
+PART FIVE: COSTS 81
+
+PART SIX: DISPOSITION 82
+
+ 
+
+ 
+
+Pearl
+
+PEP
+
+Petroleum Liquids
+Pewand
+
+PwC
+
+PUK
+
+ROS
+
+SAP
+
+ABBREVIATIONS
+
+Crescent Petroleum Company International Limited
+Dana Gas PJSC
+
+Engineering Procurement and Construction
+Emst & Young
+
+Full Development Plan
+
+Gas City Limited
+
+Heads of Agreement of 4 April 2007
+
+Kurdish Democratic Party
+
+Kurdish Regional Government of Iraq
+
+Kurdish Region of Iraq
+
+Liquid Petroleum Gas
+
+Nokan, Kar and Zozick joint venture.
+
+Pearl Petroleum Company Limited
+
+Project Execution Plan
+
+LPG and condensate
+
+Pewand Petroleum Transportation and Food Inc
+Price WaterhouseCooper
+
+Patriotic Union of Kurdistan
+
+Required on site
+
+Strategic Alliance Protocol of 4 April 2007
+
+ 
+
+PART ONE: INTRODUCTORY
+
+A. Summary of the Proceedings
+
+This arbitration arises principally out of a contract called Heads of Agreement (“HoA”)
+dated 4 April 2007 and made between the second claimant Dana Gas PJSC (“Dana”) and
+the respondent, the Kurdistan Regional Government of Iraq (“the KRG”). On 17 October
+2007 Dana assigned 50% of its interest in the HoA to the third claimant Crescent
+Petroleum Company International Limited (“Crescent”) and on 5 February 2009 Dana
+and Crescent assigned their respective interests to the first claimant Pearl Petroleum
+Company Limited (“Pearl”). For convenience, the Tribunal will use the name “Pearl” to
+refer to whichever of the claimants had an interest in the HoA at the relevant time. Also
+on 4 April 2007 Dana and Crescent entered into a separate agreement with the KRG
+called the Strategic Alliance Protocol (“SAP”) for the development of the gas industry in
+
+Kurdistan.
+
+The arbitration was commenced by the claimants on 21 October 2013. In its original
+Statement of Case dated 1 August 2014 Pearl made substantial claims for (a) damages for
+breaches of the HoA (b) the price of condensate and LPG (“petroleum liquids”) and gas
+sold to the KRG under contracts made pursuant to the HoA (c) damages for non-
+acceptance of petroleum liquids sold under such contracts (d) damages for refusal to
+perform the SAP.
+
+In its Defence and Counterclaim dated 12 December 2014 the KRG denied liability for
+
+Pearl’s claims and counterclaimed for substantial damages for breaches of the HoA.
+
+On 17 February 2015, the Tribunal ordered that 13 specified issues arising out of the
+
+pleadings be tried as preliminary issues. A hearing for this purpose took place on 20 to
+
+ 
+
+05/12/17 Page 11 of 89
+
+ 
+
+24 April 2015. On 30 June 2015, the Tribunal issued a First Partial Award in which it
+
+j made 10 declarations as to the rights of the parties on the issues in question.
+
+; 5. On 6 August 2015 Pearl applied for a Partial Final Award ordering the KRG to pay it for
+
+; petroleum liquids sold and delivered or not accepted pursuant to contracts of sale. After a
+hearing on 21 September 2015 the Tribunal issued a Second Partial Final Award dated 27
+November 2015 ordering the KRG to pay Pearl US$1,963,370,320.
+
+6. On 9 August 2016, the Tribunal held a case management conference at which it gave
+
+e directions for a further hearing on all questions of the liability of the KRG under the
+claims advanced by Pearl and the liability of Pearl under the counterclaims advanced by
+
+the KRG, leaving only the quantification of any successful damages claims to a further
+
+hearing.
+
+B. The Tribunal, the Parties and their Lawyers
+
+7 The Tribunal, the parties and their lawyers remain as stated in paragraphs 1 — 7 of the
+First Partial Award save that —
+
+(a) At the hearing in September 2016, Pearl was represented by Constantine Partasides QC
+of Three Crowns plc, Reza Mohtashami of Freshfields Bruckhaus Derringer LLP and
+Daniel Hubbard of | Essex Court, London EC4Y 9AR and the KRG was represented by
+Graham Dunning QC and Edmund King of Essex Court Chambers, 24 Lincoln’s Inn
+Fields, London WC2A 3EG,
+
+(b) The contact details of Mr John Beechey CBE are now jb@beecheyarbitration.com and
+Oriel Cottage, Long Common, Shamley Green, Surrey GUS 0TG.
+
+G Procedural History
+
+The procedural history of the arbitration up to the Second Partial Final Award will be
+
+found in the First and Second Partial Final Awards,
+
+After the Second Partial Award, the KRG applied to the Tribunal on 3 December 2015 to
+discharge its order for interim measures of 10 July 2014 (ordering the KRG to make part
+payment for petroleum liquids of which it had taken delivery) on the grounds that it had
+been superseded by the Second Partial Final Award. On 11 December 2015 Pearl wrote
+to oppose the application and on 14 December 2015 the KRG replied. After a hearing on
+8 January 2016 the Tribunal issued a ruling on 15 January 2016 by which it dismissed the
+
+application.
+
+On 8 February 2016 Pearl served a revised Statement of Case. On the same date the KRG
+
+served a Statement of Amended Counterclaim.
+
+On 15 March 2016 Pearl served an amended Statement of Defence to Counterclaim. On
+the same date the KRG served a Defence to the Revised Statement of Case and a request
+
+for further and better particulars of the Revised Statement of Case.
+
+On 21 March 2016, the parties exchanged requests for the production of documents in the
+form of Redfern schedules.
+
+20.
+
+On 31 March 2016, the parties exchanged responses to each other’s requests for the
+
+production of documents.
+
+On 8 April 2016, the KRG submitted the expert report of John Lancester in support of its
+
+application for document disclosure.
+
+On 11 April 2016, the parties exchanged replies to each other’s responses to the requests
+for production of documents. On the same date the KRG submitted the expert report of
+
+John Emory in support of its application for document disclosure.
+
+On 19 April 2016, the Tribunal ruled upon the disputed applications for disclosure,
+On 21 April 2016 Pearl wrote refusing the further and better particulars requested by the
+
+KRG on 15 March 2016.
+
+On 29 April 2016, the KRG renewed its application for further and better particulars to
+
+the Tribunal and applied for further documentary disclosure,
+
+On 6 May 2016 Pearl wrote to oppose the application for further and better particulars
+
+and offering limited further disclosure.
+
+By a ruling on 18 May 2016 the Tribunal dismissed the application for further and better
+
+particulars and ruled upon the application for disclosure.
+
+ 
+
+ 
+
+‘i Page 14 of 89
+
+21.
+22.
+23.
+
+24,
+
+25.
+
+26.
+
+27.
+
+On 2 June 2016 Pearl served the fifth witness statement of Mr Hamid Jafar and the sixth
+witness statement of Mohammad Makkawi. On the same date the KRG served the
+seventh witness statement of Ashti Hawrami, the fourth witness statement of Ahmed
+
+Mufti and the witness statements of Bradford Camp, Faris Naoom and Diyar Yahya.
+
+On 7 June 2016 Pearl served the third witness statement of Thomas Watts.
+
+On 8 June 2016 Pearl served the second expert report of A. Pedro van Meurs.
+
+On 22 June 2016 Pearl served the expert reports of Richard Boulton, Charles Freeny,
+Giacomo Luciani, Mike Wood and Rene Thomson. On the same date the KRG served
+the second expert report of John Emory and the second expert report of Gervase
+
+McGregor and the expert reports of Philip Daniel and Herbinder Mudan.
+
+On 30 June 2016, the KRG served the fourth expert report of Mark Cronshaw.
+
+On 29 July 2016 Pearl served the sixth witness statement of Hamid Jafar, the seventh
+witness statement of Mohammad Makkawi and the witness statement of Amed Kebali.
+On the same date the KRG served the second witness statements of Bradford Camp, Faris
+
+Naoom and Diyar Yahya.
+
+On 4 August 2016, the KRG served an amended Statement of Amended Counterclaim
+and the third expert report of Gervase McGregor, the fifth expert report of Mark
+Cronshaw, the second expert report of John Emory, the second expert report of John
+
+7
+
+ 
+
+28.
+
+29.
+
+30.
+
+31.
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 15 of 89
+
+Lancester and the expert report of William Hobbs. On the same date Pearl served the
+third expert report of A. Pedro van Meurs, the second expert report of Charles Freeny and
+
+the second expert report of Giacomo Luciani,
+
+On 31August 2016 the parties each served skeleton arguments upon each other and the
+
+Tribunal.
+
+The hearing took place at the International Dispute Resolution Centre, 70 Fleet Street,
+London EC4Y 1EU on 5 to 9 and 12 to 16 September 2016, Opening statements were
+made by each of the parties and the following witnesses and experts were cross-
+
+examined:
+
+(a) Called by Pearl: Mr Jafar, Dr Allman-Ward, Mr Makkawi, Mr Watts and Dr
+Kebaili (witnesses of fact) and Mr Freeny, Dr van Meurs, Professor Luciani and Mr
+
+Boulton (experts)
+
+(b) Called by the KRG: Mr Diyar Yahya and Mr Faris Naoom (both by video-link
+from Erbil, Kurdistan), Dr Hawrami and Mr Mufti (witnesses of fact) and Dr Lancester,
+Mr Emory, Mr Moritz, Mr McPherson, Mr Tomkins, Mr Daniel, Mr McGregor and Dr
+Cronshaw (experts).
+
+At the end of the hearing the Tribunal gave directions for the service of post-hearing
+
+submissions and submissions on costs.
+
+On 21 October 2016 the parties each served on each other and the Tribunal their post-hearing
+
+submissions and submissions on costs.
+
+34,
+
+35.
+
+36.
+
+eter Ne we A OT
+
+On 25 October 2016, the KRG made further submissions on costs, inviting the Tribunal to
+
+make no order until the last stage of the arbitration had been completed.
+
+On 26 October 2016 the KRG requested the Tribunal to invite oral closing submissions and
+on 28 October 2016 Pearl opposed this application. The Tribunal had stated at the case
+management conference on 9 August 2016 that it would not invite oral closing submissions
+unless, after having read the written closing submissions, it considered that they were
+necessary for the purpose of enabling the Tribunal to dispose fairly of the reference. In the
+
+event, the Tribunal did not think they were necessary.
+
+On 4 November 2016 Pearl served a reply to the KRG’s submissions on costs.
+PART TWO: PEARL’S CLAIMS
+A. The Delayed Development Claim
+
+Pearl’s delayed development claim is stated as follows in its Revised Statement of Case:
+
+16. The Parties agreed in the Contract that, following the initial
+development and production of Petroleum within the Khor Mor HoA
+Area, and appraisal of the reserves and development potential of
+Chemchemal, there would be “full-scale development” of both fields, in
+accordance with good petroleum industry practice. The Claimants were
+granted the right to perform every activity connected with that full-scale
+development in order to maximise their exploitation of both fields during
+their contractual term.
+
+17. The Claimants began to produce Petroleum at Khor Mor, and to supply
+gas to the HoA Areas, in October 2008. They had commenced appraisal of
+the resources at Chemchemal in October 2007 by acquiring seismic data
+on both fields. As explained in the SoC, in May 2009, pursuant to and
+
+11
+
+ 
+
+ 
+
+37.
+
+ 
+
+simultaneously with an illegitimate demand by the MNR for a share of the
+proceeds of Dana’s and Crescent’s sale of a minority equity stake in Pearl
+to each of OMV and MOL, Dr Hawrami (on behalf of the KRG) began to
+dispute the Claimants’ rights under the Contract on grounds that were
+baseless and legally incoherent. Dr Hawrami ordered the stoppage of
+ongoing appraisal drilling activities at the HoA Areas (at gunpoint in the
+case of Chemchemal) and since that time, has prevented all further
+appraisal and development of the HoA Areas. The capriciousness of the
+MNR’s approach is apparent from a later meeting between Dr Hawrami
+and Mr Makkawi in July 2013:
+
+“{U]nless MEM dropped his insistence on such [payment]
+guarantee, AH [Dr Hawrami] would make sure that Pearl and its
+operators could not implement any expansion project. AH would
+[continue to] prevent them from any further development and Pearl
+would stagnate as per the status quo, producing only 320MMscfd,
+which the MNR refuses to pay for, despite what the HoA may say.
+AH continued that he was fine with such scenario and happy for the
+gas to stay in the ground for future generations.”
+
+18. As a result of this forced stoppage, since May 2009 the Claimants
+have indeed “stagnate[d]” as ordered by Dr Hawrami. They have
+wrongfully been deprived of their full Contract rights and prevented from
+carrying out the full-scale development of the HoA Areas, their activities
+being instead confined to the initial production of gas for the IPPs to the
+benefit of the KRG and associated quantities of condensate and LPG (for
+which, as the Tribunal has found, they have not been paid in accordance
+with their contractual entitlements).
+
+The principal issue which the Tribunal is asked to decide in relation to the delayed
+development claim is whether the KRG was in breach of the HoA in the respects alleged
+
+in these paragraphs.
+
+The first question is whether these alleged acts, which may be summarized as a forced
+stoppage of appraisal of the Khor Mor and Chemchemal Areas, were in breach of the
+terms of the HoA. As formulated in their post hearing brief, the Claimants’ case is that
+clause 9 of the HoA granted them the right to “develop and produce” Petroleum within
+the two HoA Areas in accordance with a full development program (“FDP”) agreed
+under clause 7, That means, they say, that the KRG had an obligation not unreasonably
+
+to reject a proposal for a FDP. They do not complain that the KRG has done so. They
+
+ 
+
+41
+
+accept that no such program has been put forward. As they have been unable to complete
+
+the appraisals, they have not yet got to that stage. The allegation is rather that having
+granted them rights which can be exercised only after completing appraisals, the KRG
+was under a duty to co-operate with them or at any rate not unreasonably to obstruct them
+
+in carrying out the necessary preliminary work,
+
+The Tribunal has already expressed in paragraph 115 of the First Partial Award its
+opinion that the KRG was under an obligation not unreasonably to refuse consent to an
+appropriate FDP in accordance with industry practice. That opinion was however
+unnecessary for the purposes of deciding the issue before it and the Tribunal considers
+
+that it remains open to reconsideration.
+
+The KRG’s expert witnesses on petroleum industry practice, Mr William Hobbs and Mr
+Philip Daniel, said that in the absence of express provision, no duty not unreasonably to
+
+withhold consent could be implied. Mr Hobbs said:'
+
+“Based on my experience, express and specific approval from the state is
+required and development cannot proceed without such approval.
+Moreover, I am not aware of any requirement in international petroleum
+industry practice that a state cannot unreasonably withhold its consent
+unless this is expressly not allowed in the agreement or agreements or the
+legislative framework”
+
+Likewise, Mr Daniel said:”
+
+“(T]he Claimants contend that the KRG could not unreasonably withhold
+
+its approval for any FDP. In my view, formed from my experience of
+
+international petroleum industry and regulatory practice, this standard
+' ©4/39/19, paragraph 77.
+
+* 4/36/10, paragraph 39.
+
+SP Case LTFCV-OUSSAPM Document 1-4 Filed 05/12/17 Page 19 of 89
+
+applies only when expressly provided in law or contract. I am not aware of
+any instance where a contractor has been permitted to or sought to proceed
+with an FDP without the express and affirmative approval of the
+government.”
+
+42. On the other hand, the Claimants’ expert Dr A. Pedro H. van Meurs? said:
+
+“The fact that a development plan needs to be approved, does not mean
+that it can be rejected for no reason. Indeed, 1 am not aware of any
+upstream petroleum contract or concession in which the disapproval of a
+development plan is at the ‘discretion’ of the government.”
+
+43. There may be less between the witnesses than appears, because while it is hard to accept
+that in theory a government could reject a FDP proposed by a concessionary like Pearl on
+arbitrary and irrational grounds, there must be many areas in which the demands of a
+government charged with the exploitation of its country’s natural resources cannot easily
+be rejected as unreasonable, In such matters, it would be realistic to say that the
+government has, as Mr Daniel puts it, a discretion. However, there are cases in which
+rejection would plainly be unreasonable (for example, if based on a misunderstanding of
+
+the applicant’s rights).
+
+44, ft is unnecessary for the Tribunal to decide whether such a term should be implied from
+petroleum industry practice because the Tribunal considers that the express words used in
+clause 7 mean that approval cannot be unreasonably withheld. Indeed, the absence of
+such words would substantially detract from the grant of exclusive rights in clause 9. The
+Tribunal therefore adheres to the opinion expressed in paragraph 115 of the First Partial
+Award.
+
+3 €3/6/7 paragraph 22.
+
+ 
+
+48.
+
+test One ant Docinentt=4—Fited-05/12/17 Page 20 of 89
+
+The Tribunal was also invited to decide whether it had concluded in paragraph 115 of the
+First Partial Final Award that the KRG could not unreasonably withhold approval of a
+“Further Services Plan”. As it has already said, the Tribunal expressed a view (which it
+has now confirmed) but did not decide anything in paragraph 115. It certainly did not
+decide anything about a Further Services Plan, which appears to be a concept used solely
+in the accounting provisions of Annexure 6A to the HoA to distinguish, for the purposes
+of calculating petroleum costs, between costs incurred under the existing Services Plan
+and costs which might be incurred under work authorized later. The Tribunal’s remarks
+
+were made in relation to an FDP.
+
+The next stage of the argument is that Pearl claims, by reference to the HoA and in
+particular Recital G, that the “Initial Development and Production of Petroleum” within
+the Khor Mor HoA Area, an appraisal of its additional deep oil reserves potential and an
+appraisal of the reserves and development potential of the Chemchemal HoA area were
+contemplated by the parties as preliminaries to “full scale development in accordance
+
+with good petroleum industry practice”.
+
+Such appraisals were, according to the expert evidence, a necessary preliminary to an
+EDP. No full development could be planned with inadequate knowledge of what was
+there. The Claimants say in paragraph 17 of their Revised Statement of Case that they
+had begun the appraisal process in both HoA areas by acquiring some seismic data.
+However, following the outbreak of “controversy” over the assignment to Pearl and the
+sale of shares to OMV and MOL, the KRG has prevented them from carrying out any
+further appraisal and they have been confined to supplying gas, condensates and LNG
+
+from the existing wells at Khor Mor.
+
+Mr Watts was cross-examined about Pearl’s failure to submit a proposal for a FDP:*
+
+* Transcript Day 3, p. 146,
+
+ 
+
+ 
+
+49.
+
+50.
+
+51.
+
+52.
+
+ 
+
+“Q. The claimants never made a proposal to the KRG for full field
+development. They never put forward a full field development plan to the
+KRG, did they?
+
+A. No, because we never completed the appraisal. Why should I submit a
+field development plan that was half-baked.”
+
+The KRG’s experts were agreed that a full field development plan must be preceded by a
+thorough appraisal of the resources of the relevant area.’ This is something known to
+
+everyone in the industry.
+
+The Tribunal therefore accepts that Pearl’s exclusive right to develop and produce
+Petroleum in accordance with a reasonably agreed FDP was, in practice and to the
+knowledge of both parties, dependent upon Pearl being able to make appraisals of the
+
+resources of the two HoA areas.
+
+It follows that, in the opinion of the Tribunal, the KRG was under an obligation not
+unreasonably to obstruct such appraisals. It is clear law that if the exercise of a party’s
+rights under a contract is dependent upon a condition, the other party is under a duty not
+to prevent the fulfilment of that condition. In some cases, there is even a duty to co-
+operate in ensuring that the condition is fulfilled, but for present purposes it is sufficient
+
+to say that there is clearly a duty not unreasonably to obstruct.®
+
+The Tribunal therefore considers that, as a matter of law, the allegations made in
+paragraphs 16-18 of the Revised Statement of Case would constitute breaches of the HoA
+which would delay Pearl’s exercise of its exclusive right to full development of the HoA
+
+Areas.
+
+5 Hobbs, Table 3.1.1 item 2, Daniel paragraphs 25-27 (“determining commercial viability...can take a
+number of years”) Mr Hobbs criticises the Claimants for not having undertaken more research into the
+market for gas. However, it seems to the Tribunal reasonable not to investigate the market in depth until
+one knows what one has to sell.
+
+° See the well-known case of Mackay v Dick (1881) 6 App. Cas. 251.
+
+54,
+
+55.
+
+Page 22 of 89
+
+The next question is whether these allegations have been made out. The Claimants’ case
+that the KRG unreasonably obstructed their appraisals is based principally upon the
+actions of Dr Hawrami, the Minister of Natural Resources, after the outbreak of the
+controversy in May 2009. On 18 May 2009 Dr Hawrami wrote a letter Pearl saying that
+he was very alarmed by the announcement of the deal with OMV and MOL. He went
+
+on:”
+
+“We have always stated that the HoA does not entitle the contractors to
+develop Chemchemal field, nor to extract oil or gas outside the license
+boundaries of the Khor Mor licence area. On the Chemchemal field, the
+contractors have no development rights except obligations to shoot
+seismic and drill 2 appraisal wells for the KRG, and the costs to be
+recovered under the Khor Mor revenue,
+
+It is clear in you press release that your deal with OMV and MOL has
+been concluded under false assumptions by taken for granted such
+development rights. What is more alarming is that you have sold these
+right, which you are not entitled to, and this we cannot accept.
+
+Therefore, you are hereby instructed to stop, with immediate effect, all
+your drilling activities in the Chemchemal field and temporarily plug the
+well until the HoA is fully reviewed and the dispute is resolved.”
+
+It appears that the order to stop drilling at Chemchemal was enforced by armed security
+police.*
+
+The letter advances no reason for the stoppage other than the KRG’s view that Dana had
+no rights outside the provision of the Services in Annexures 3 and 5. However, the
+Tribunal has found in its First Partial Award that the HoA, by clause 9, did grant Dana
+the right to develop the Khor Mor and Chemchemal fields.
+
+’DII3/
+
+*DI/IS/
+
+ 
+
+56.
+
+57.
+
+38.
+
+59.
+
+ 
+
+On 15 July 2009, the KRG wrote a letter to Dana and Crescent which included the
+
+following direction:?
+
+“Dana and Crescent is prohibited under the HoA from undertaking any
+work in the two areas except as has been approved by the Ministry of
+Natural Resources, With the continuing delay in the Article 140 process
+and in light of the purpose of the HoA the Ministry at Natural Resources
+has not, cannot and is not authorised by the Council to approve any work
+plan except and to the extent required to provide a source of gas for
+processing and transportation in amounts nominated by the power plants.
+There has been no formal agreement on any work plan, Any work that has
+been undertaken or may be authorised in the future by the Ministry of
+Natural Resources on the Chemchemal Area has been undertaken and
+should only continue to be for the sole purpose of supplementing possible
+gas supply shortfalls from the Khor Mor area (as delineated in the HoA) to
+satisfy the needs of the power plants.”
+
+The prohibitions in this letter were never withdrawn. Dr Hawrami said in evidence that
+he would have been willing to discuss a deal with Dana but that the letter would be
+
+withdrawn only as part of such a deal.
+
+There was some discussion in the submissions over whether the letter and associated
+conduct (such as the forcible stopping of drilling at Chemchemal) evinced an intention
+not under any circumstances to agree to a FDP and was an anticipatory breach of the
+obligation not unreasonably to withhold approval. The Claimants say that the terms of
+the letters were stark and clear and the KRG say that it was always open to discussion
+
+with a view to the parties entering into a suitable FDP.
+We do not think it is necessary to decide whether the KRG’s conduct was an anticipatory
+
+breach of the HoA. The effect of an anticipatory breach, if sufficiently serious, is to
+
+enable the other party to accept the repudiation and sue for damages at once without
+
+° D123
+
+Page 24 of 89
+
+ 
+
+waiting for an actual breach to occur: Hochster v De la Tour'®. However, if the other
+party does not accept the repudiation but decides to keep the contract alive, the Tribunal
+considers that the only question is whether there was an actual breach. In this case, the
+Claimants have not purported to accept a repudiation. It follows that the Tribunal must
+decide whether the HoA created an obligation on the part of the KRG not to obstruct the
+appraisal of the two areas in respect of which Dana had been granted exclusive rights,
+whether the KRG was in breach of that obligation and if so, what loss the breach has
+
+caused to the Claimants.
+
+60. The first question is whether or not Pearl was prevented from appraising the two HoA
+Areas as contemplated by Recital G. The letters of 18 May and 15 July 2009 are in clear
+and peremptory terms and Dr Hawrami agreed in evidence that Pearl would be obliged to
+
+take them seriously:
+
+“Q, Did you think, Dr Hawrami, that the recipients of this letter,
+coming from the prime minister and yourself as Minister of Natural
+Resources, could ignore it?
+
+A, No, actually sir, this letter and other letters we send, they are
+strong letters, We accept that.”"!
+
+61. The KRG, in its closing submissions, accepts that the effect was to stop appraisal work at
+Chemchemal but says that it went on at Khor Mor. ? The position at Khor Mor when the
+controversy broke out was that the KRG had approved the location of three wells KM-9,
+10 and 11.'? On 19 January 2009, the KM-9 well was ceremonially spudded, i.e. the
+drilling rig penetrated the well surface, in the presence of a representative of the Ministry
+
+of Natural Resources.'* On 16 June 2009 KM-9 was completed at a cost of US$23.1
+
+"© (1852) 2 El & BI 678.
+
+"| Transcript Day 5, p. 173.
+
+"2 Closing submissions, paragraph 295.
+
+'° Minutes of meeting 5 November 2008, item 4 (D1/697/4)
+
+'§ Photograph at D1/749
+
+ 
+
+   
+ 
+
+63.
+
+05/12/17 Page 25 of 89
+
+million."® The rig was then moved to KM-10. On 21 July 2009 the KRG instructed Pearl
+to stop drilling, shut down the rig and move to KM-11, where the site was not yet ready,'6
+In giving the instructions to stop drilling, Mr Tahir of the KRG referred to the KRG’s
+letter of 15 July 2009.'’ On 17 September 2009 Mr Watts wrote to Mr Nazhat of the
+MNR, protesting against the stoppage as “contrary to the agreed drilling programs,
+unreasonable and without any proper legal or contractual justification.” There does not
+appear to have been a reply to this letter. Mr Watts said that Pearl kept the rigs on
+standby for a considerable time in the hope that the controversy would be resolved but
+they were released in the following year. “No further drilling (as per the agreed appraisal
+
+drilling programmes) was conducted at Khor Mor or Chemchemal.”*"*
+
+Pearl did obtain some further data from drilling for other purposes. In late 2010 Dr
+Hawrami gave permission for some further drilling at the existing production well KM-4
+to understand the gas/water contact depth. This was to prevent water ingress from
+affecting the gas being produced for the power stations. In the process, Pearl obtained
+some additional seismic data, The KRG relies upon this episode as showing that
+appraisal work was not obstructed. The Tribunal does not accept that this incidental
+access to data was such as to satisfy the obligation upon the KRG not to prevent
+appraisal, It is a telling and unchallenged fact that Pearl retained a drilling rig for some
+months after the stoppage at KM-10 in the hope that it would be allowed to proceed with
+the agreed drilling program but eventually gave up.
+
+The KRG also relies"? upon the minutes of a board meeting of Pearl in September 2009”
+(part of the material stolen from of Mr Makkawi”') in which Mr Badr Jafar is recorded as
+
+having —
+
+‘83 Wauts paragraph 34 (C1/22/18).
+'© E-mails at C-710 (D1/710)
+
+"” See paragraph 56 above.
+
+"8 3 Watts paragraph 37 (C1/22/19); Transcript Day 3, pp. 144-146,
+
+!° Skeleton Argument paragraph 499 (B/61/244)
+
+20
+
+ 
+
+64.
+
+65.
+
+66.
+
+“clarified that as per the HoA, we have an obligation to present [the
+Further Services Plan work program and budgets] to the KRG for their
+comments and suggestions...”
+
+The Tribunal cannot see the relevance of this remark. It was true, but takes the matter no
+
+further.
+
+The Tribunal considers it clearly established that since 2009, the KRG has prevented the
+Claimants from conducting appraisals of the hydrocarbon resources in the HoA Areas
+such as to enable them to present for approval a meaningful proposal for a full field
+
+development program.
+
+The next question is whether, in terms of the KRG’s obligations under the HoA, such
+conduct was justifiable. As appears from Dr Hawrami’s letter of 18 May 2009, the
+reasons given for the stoppage were that (a) Dana and Crescent had acted unlawfully in
+assigning the benefit of the HoA to Pearl and selling shares in Pearl to OMV and MOL
+and (b) that the HoA conferred upon Dana no rights except to provide and be rewarded
+for the services specified in Appendices 3 and 5. The letter of 15 July 2009 (which Mr
+Tahir cited as a reason for ordering Dana to stop drilling at KM-10) gave a number of
+further reasons why the HoA was altogether invalid. But the Tribunal has found in its
+First Partial Award that the HoA was valid and binding and that it conferred upon Dana
+the exclusive right to develop and produce Petroleum in the two HoA areas, There is
+nothing in the HoA to prohibit the shareholders in Dana, Crescent or any Affiliated or
+Associated Company to which the benefit of the HoA has been lawfully assigned from
+selling their shares in that company. Accordingly, the Tribunal need say no more about
+
+the grounds of justification given at the time when the stoppage was ordered.
+
+ 
+
+2° Exhibit at D2/532/4
+
+* See the First Partial Award, paragraphs 58-60
+
+21
+
+ 
+
+Further grounds have been supplied later. First, Dr Hawrami in his seventh witness
+
+statement on 2 June 2016 said the Claimants had been ordered “temporarily” to stop
+drilling because “they had not been properly authorized to drill the well”. The Tribunal
+considers this to be a recent invention, First, nothing was said about it at the time.
+Secondly, in his third witness statement made on 7 June 2016, Mr Watts produced the
+minutes of a meeting on 18 February 2009 between Pearl and the KRG, at which the
+latter was represented by Mr Tahir and Mr Nazhat, when “the KRG agreed that the
+locations of Wells CH-3 and CH-4 were acceptable and that the company could proceed
+with drilling CH-3 well pursuant to Company’s drilling programme.” These minutes
+were signed by Mr Tahir on behalf of the KRG. Dr Hawrami made an eighth witness
+statement on 29 July 2016 but made only the vague and general assertion that “the
+Claimants did not obtain all required approvals from other Ministries and governmental
+authorities or from me, as Minister of Natural Resources, to proceed with drilling well
+CH-3”.4 He did not attempt to explain the consent given on 18 February 2009. Thirdly,
+Mr Watts was cross-examined on his witness statement and it was not suggested to him
+
+that there was any consent which he had omitted to obtain.
+
+Secondly, Dr Hawrami produced an entirely new justification, never before mentioned,
+during his oral evidence in chief at the recent hearing. He explained that the Sulaymania
+sub-region in which Chemchemal was situated was dominated by a political party, the
+Patriotic Union of Kurdistan (“PUK”), Erbil and the area around it was dominated by the
+Kurdistan Democratic Party (“KDP”).24 When Pearl suggested a Production Sharing
+Contract for Chemchemal*> the PUK members of the Kurdistan government were
+opposed. So Dr Hawrami persuaded the PUK that “nothing will happen without PUK
+generally be happy.””° To keep them happy, he envisaged that a “local entity” should
+
+22-7 Hawrami paragraph 30 (2/7/8).
+
+* § Hawrami paragraph 56 (C2/8/14).
+** Transcript Day 3, p. 108
+
+?5 See First Partial Award paragraph 72,
+
+*6 Transcript Day 3, p. 108
+
+22
+
+ 
+
+have an interest in Chemchemal field, This would happen under the proposed FDP. In the
+
+meanwhile, he —
+
+“put two of my key guys, who are very close to the PUK...as committee
+members to liase and sort out the rough edges on the land
+compensation...access rights, things like that.”
+
+But, he said, he hadn’t yet prepared his colleagues for the start of the drilling. He was “in
+
+this process” when -
+
+“two significant things happened in the space of 15, 16 17 May which
+undermined the entire project, actually endangered the project into
+possible explosive thing, conflict and undermined the government
+structure entirely.”
+
+The first thing was that Mr Jafar had gone to Sulaymania and “organized and arranged a
+powerful PUK member, to start the drilling of the well.” Mr Jafar had indeed done so,
+Mr Nazhat of the Ministry of Natural Resources, who cut the tape to start the drilling of
+CH-3 at Chemchemal,”* was one of the “key guys...close to the PUK” whom Dr
+Hawrami had put on the liaison committee.” He is a “highly experienced and well-
+respected geologist” who had been the Director General of Exploration for Iraq national
+oil company.*” According to Dr Hawrami, however, he was the wrong kind of PUK guy.
+“Within the PUK there are factions” and Mr Nazhat’s presence made “others perceive
+that.,.the interests that they have promised .,.may go to a private party rather than to the
+
+whole government,”*!
+
+27 Transcript Day 5, p. 116.
+28 See paragraph 39 above.
+® Transcript Day 5, p. 126.
+393 Watts, footnote 37.
+
+*' Transcript Day 5, p. 117
+
+23
+
+| 70.
+
+Wh,
+
+72.
+
+73.
+
+ 
+
+———— ==
+Case 1:17-cv-00894-APM Document 1-4 Filed OS/12/17° Page
+
+When he was asked in cross-examination why he had never mentioned any of this before,
+Dr Hawrami said that he “didn’t actually try to get into the politics in my witness
+
+>? He also drew attention to a passage in his letter of 18 May 2009** in which
+
+statements
+he accused Mr Jafar of lobbying “other ministers and senior politicians” to get unfair
+influence. Whatever may have been the truth of this allegation (and the Tribunal has
+never been invited to investigate it) it can have had nothing to do with the spudding
+ceremony which so exercised Dr Hawrami. Mr Nazhat was not a minister or senior
+politician and it difficult to see why having the courtesy to invite the senior KRG
+technical representative on the liaison committee to cut the tape should be regarded as
+
+illicit lobbying.
+
+The Tribunal considers that Dr Hawrami’s claim that Pearl had created political
+
+34
+
+instability in Kurdistan (“it could have been a civil war”**) is not only irrelevant to the
+
+rights of the parties under the HoA but another recent invention.
+
+The other significant thing that Dr Hawrami says happened in mid-May was the sale of
+shares to MOL and OMV. The Tribunal has already stated that this transaction was
+entirely within the rights of Dana, Crescent and Pearl under the HoA and will say no
+
+more about it.
+
+Thirdly, there is some suggestion that the KRG was entitled to stop further appraisals
+because the Claimants had not disclosed the seismic data it had so far obtained. This
+reason was not mentioned at the time and it is not altogether clear to the Tribunal whether
+it is relied upon, (There is a separate counterclaim for damages by the KRG for failure to
+disclose seismic data, which will be considered at a later stage, but that is a different
+matter.) All that need be said is that the KRG, although perfectly entitled to disclosure of
+
+seismic data, never asked for it before May 2009 and never suggested then or later that if
+
+® Transcript Day 5, p. 152.
+* DI/I3/1
+
+* Transcript Day 5, p. 147.
+
+24
+
+ 
+
+75.
+
+it was disclosed, the Claimants could proceed with the drilling programme, The Tribunal
+
+therefore rejects the suggestion that it may justify preventing appraisals.
+
+ 
+
+Fourthly, Dr Hawrami says that the letters of May and July 2009 were not intended to
+repudiate the HoA but to persuade Pearl that it was necessary for the parties to have
+further discussions about the way forward, including accommodating the demands of the
+PUK. It is clear, however, that if Dr Hawrami was to be open to discussions, they were
+to be on his terms, of which a key element was to negotiate afresh without regard to the
+
+HoA, He made this clear in cross-examination:
+
+“A. Twas open to discuss developments,
+
+Q. Under the HoA?
+
+A. Any time, looking at plans, but implementing them we have to find
+a solution about this $12 billion investment, for example. That cannot be
+managed under the HoA framework.”
+
+Q. Your discussion with the claimants after [the July 2009 letter] were
+about renegotiating the HoA itself; yes?
+
+A. Renegotiating the contents, moving it as required by the HoA itself
+onto the platform it should have been on years before.*®
+
+Q. ...If you are presented with a development plan which optimizes
+production in a way which is consistent with international petroleum
+industry practice, do you agree that under the existing HoA you have an
+obligation to approve it?
+
+A. Under the existing HoA terms? No sir.”°”
+
+In summary, the Tribunal considers that the refusal of the KRG to allow the Claimants to
+continue appraisals was, first, because of a mistaken view that Dana and Crescent was not
+entitled to assign the benefit of the HoA to their joint subsidiary Pearl or to sell shares in
+
+Pearl without cutting the KRG in on the deal and secondly, to put pressure on the
+
+Claimants to negotiate better terms for the KRG in a FDP than it could legitimately have
+
+** Transcript Day 5, p. 169.
+* Transcript Day 5, p.175
+
+” Transcript Day 5, p. 190.
+
+25
+
+71.
+
+78.
+
+79.
+
+80.
+
+claimed under the terms of the HoA. Neither of these was a proper justification for its
+
+actions, which the Tribunal considers was a breach of its obligations under the HoA.
+
+The question of what loss these breaches of contract have caused the Claimants will have
+
+to be decided at the next stage of the arbitration.
+
+B. The Earn-out Payments Claim®
+
+The consideration for the sale of shares in Pearl by Dana and Crescent to OMV and MOL
+was a lump sum together with further payments contingent upon further reserves of gas
+being proved and quantities of gas being produced. Such arrangements are common in
+
+the industry and the contingent consideration is called an “earn-out” payment.
+
+Dana and Crescent claim that the KRG’s wrongful refusal to allow Pearl to appraise the
+gas reserves at Khor Mor and Chemchemal and then to develop those reserves has caused
+them the loss of some US$3.3 billion in earn-out payments which would otherwise have
+become due. The question for the Tribunal at this stage is whether as a matter of law this
+
+loss is recoverable.
+
+Dana and Crescent assigned their rights under the HoA to Pearl on 5 February 2009. The
+breaches of the HoA upon which Dana and Crescent rely all occurred after they had
+ceased to be parties. The KRG owed them no contractual duties, But they submit that
+Pearl is entitled to recover their losses under the exceptional rule based on the decision of
+
+the House of Lords in The Albazero.”
+
+In The Albazero the plaintiff had shipped a cargo of oil pursuant to a time charter. Due to
+
+a breach of the charter by the owner, the cargo was lost at sea. However, the charterer had
+
+*8 Revised Statement of Case paragraphs 74-82.
+
+391977] AC 774
+
+26
+
+ 
+
+ 
+
+81.
+
+82.
+
+83,
+
+ 
+
+issued a bill of lading under which, by the time of the loss, the property in the oil had
+
+already passed to a purchaser. So the breach of the charter had caused no loss to property
+of the charterer and the purchaser was not a party to the charter. Lord Diplock said that
+there was an exception to the rule that the party to the contract of carriage could recover
+
+only for his own loss, which he formulated as follows:
+
+“(Jn a commercial contract concerning goods where it is in the
+contemplation of the parties that the proprietary interests in the goods may
+be transferred from one owner to another after the contract has been
+entered into and before the breach which causes loss or damage to the
+goods, an original party to the contract, if such be the intention of them
+both, is to be treated in law as having entered into the contract for the
+benefit of all persons who have or may acquire an interest in the goods
+before they are lost or damaged, and is entitled to recover by way of
+damages for breach of contract the actual loss sustained by those for
+whose benefit the contract is entered into.”
+
+On the facts of The Albazero, however, the exception did not apply because it was
+
+contemplated by the parties that the purchaser would have his own remedy under the bill
+
+of lading.
+
+The exception noted by Lord Diplock was applied by the House of Lords in Linden
+Gardens Trust Ltd v Lenesta Sludge Disposals Lid", A property company contracted
+with a builder for the construction of a development on land in Hammersmith. Before the
+building had been erected it transferred the property in question to an associated company
+(“Investments”), There were defects in the construction and the question was whether the
+property company could claim substantial damages when, at the time of the breach, it no
+longer had an interest in the property. The House decided that it fell within the general
+
+principle of the Albazero exception.
+
+The Tribunal considers that, stated at its broadest, the A/bazero exception applies when a
+
+party has entered into a contract concerning property (e.g. goods to be carried, buildings
+
+ Atp. 847.
+
+4111994] 1 AC 85
+
+27
+
+ 
+
+84.
+
+85.
+
+86.
+
+to be erected) which is either owned or may be transferred to someone else. The
+
+contracting party may then recover substantial damages for a breach of contract which
+causes loss relating to that property even though he had no interest in the property at the
+time of the breach. Otherwise there would be no remedy for the loss caused by the
+
+breach. It would fall into what has been aptly called a black hole.
+
+The present case, however, is quite different. Pearl does have a remedy for loss caused by
+delayed development. And Dana and Crescent are not in the position of parties on whose
+behalf the HoA was made or who have acquired the property to which it related, If the
+shareholders in Dana or Crescent had sold their shares on similar terms, they would
+plainly not have had a claim against Dana for losses caused by breaches of the HoA.
+Only the companies themselves would have been able to bring such a claim, This is not
+because the claim by the shareholders is for “reflective loss”. The loss does not reflect a
+diminution the value of the company’s assets. It is a different kind of loss. But it arises
+out of a transaction to which the KRG was not a party and for which the KRG has
+
+assumed no responsibility.
+
+Why should it be any different because the claim is by the shareholders in Pearl, the
+assignee of Dana and Crescent. It still arises out of a transaction to which the KRG was
+not a party, The assignment of the HoA to Pearl is quite irrelevant to the claim by
+Crescent and Dana for loss of the earn-out payments. Their claim would have been
+exactly the same if Pearl had been the original contracting party, with Dana and Crescent
+each owning 50% of the shares. It could not then have been argued that the KRG’s
+liabilities could be increased by the arrangements which the shareholders in Pearl made
+
+for the sale of their shares.
+
+The Tribunal therefore considers that the claim for earn-out payments must fail.
+
+28
+
+ 
+
+88.
+
+89.
+
+ 
+
+Cc. Losses Suffered by Dana
+
+Pearl alleges that in consequence of the KRG’s failure to pay for condensate and LPG,
+one of its shareholders, namely Dana, was starved of the cash which would otherwise
+have flowed through by way of dividends or loan repayments. As a result, it had to take
+retrenching measures which caused it losses. Pearl claims that under the Albazero
+
+principle it should be entitled to recover these losses on behalf of Dana.
+
+The Tribunal considers that this claim must fail for the same reason as the earn-out claim,
+namely that it is a claim for loss suffered by a third party which does not fall within the
+Albazero principle. The KRG, in entering into the HoA with Dana and Crescent, assumed
+obligations to those companies but not to their shareholders. When the benefit of the
+contract was assigned to Pearl, the KRG became liable to Pearl but not to Pearl’s
+shareholders, One may ask whether it could credibly have been asserted that MOL or
+OMV could have made a claim for losses suffered as a result of not receiving cash as
+creditors of or shareholders in Pearl. But Dana was in the same position. It is true that
+Dana and Crescent were not, by virtue of the assignment without any novation, released
+from their obligations under the HoA. But they ceased to have any enforceable rights
+under the HoA. Such rights are being enforceable by Pearl, which can sue only for loss
+
+caused to itself.
+
+D. Claims under the SAP
+
+The SAP® was an agreement concluded on the same date as the HoA between Dana and
+Crescent (“the Companies”) of the one part and the KRG of the other. It provided in
+clause 2 (entitled “Purpose”) for the parties to —
+
+“pz
+
+29
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 35 of 89
+
+“, undertake a joint review of the natural gas energy sector to prepare a
+comprehensive natural gas subsector development plan that will guide and
+promote the development of KRI’s natural gas infrastructure for the
+future.”
+
+90. Clause 3 provided for a review which would investigate, among other things, the
+investment requirements for the development of the natural gas energy sector and clause
+
+4 for the formulation of a development plan. Clause 5 then provided:
+
+“On the basis of the review and investor plan referred to in Clauses 3 and
+4 above, the Parties shall develop and implement the concept of a private
+sector-driven petrochemical/downstream complex, “Kurdistan Gas City”
+to be located in an optimal location within the Kurdistan Region, utilizing
+gas as it becomes developed and available from future development of gas
+fields in and into the KRI.”
+
+91. Finally, clause 6 provided:
+
+“In consideration of the Companies undertaking activities under the SAP,
+the Companies shall be entitled to reimbursement of all costs and expenses -
+funded by the Companies under the SAP, the terms of which shall be
+
+separately agreed...”
+
+92. | The KRG terminated the SAP in one of its letters of 24 May 2009." It did, however,
+
+invite a claim for reimbursement of costs under clause 6:
+
+“In accordance with section 6 of the SAP, if you wish to agree on terms to
+pay reimbursable costs and expenses funded by the Companies under the
+SAP, please provide to the Minister of Natural Resources, within 30 days
+hereof, a statement, receipts and other supporting documentation, and an
+accounting of such reimbursable costs and expenses funded by the
+Companies.” .
+
+93. Pearl at first alleged that the termination was wrongful. The KRG answered that it had no
+further obligations under the SAP. It was not obliged actually to build Kurdistan Gas
+
+* D120
+
+30
+
+ 
+
+ 
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 36 of 89
+
+94.
+
+95.
+
+96.
+
+City. Dana and Crescent now say that the point is moot because they confine their claim
+to reimbursement under clause 6. There is a complication about this because Pearl’s
+quantum expert Mr Boulton, in estimating Pearl's losses from delayed development, has
+surveyed the potential market for the gas it could have produced and included a scenario
+in which Gas City had become a reality. The KRG invites the Tribunal to declare that the
+KRG had no obligation to build Kurdistan Gas City and that Mr Boulton’s scenario
+
+therefore lacks reality.
+
+The Tribunal does not think it should make such a declaration because the fact that the
+KRG was not obliged to build Kurdistan Gas City does not mean that it would not have
+been built, whether in co-operation with Dana and Crescent or someone else. The terms
+of the SAP are only one matter to be taken into account in deciding whether this
+
+prediction is realistic or not.
+
+That leaves the claim for reimbursement. Dana and Crescent formed a joint subsidiary
+(Gas Cities Limited or “GCL”) to carry out the SAP work. Its accounts, audited by
+PricewaterhouseCoopers (“PwC”), show expenditure of US$1,263,000. PwC has also
+verified direct expenditure by Crescent of US$391,000.*5 The total claim is for
+US$1,654,000.
+
+To this claim the KRG raises three technical and unmeritorious objections. First, clause 6
+says that the terms of reimbursement “shall be separately agreed”. The KRG says that it
+has not agreed the terms and therefore does not have to pay anything. The Tribunal has
+no hesitation in rejecting that proposition. The clause provided that reimbursement of
+costs was the consideration for the Companies’ services under the SAP, as the KRG itself
+
+recognized in its letter of termination: The terms to which clause 6 referred were simply
+
+“2/343
+
+“ B2/344
+
+: i 37 0f89
+
+97.
+
+98.
+
+99.
+
+those relating to the method of making claims and payment. As it is accepted that the
+Tribunal has jurisdiction over the dispute concerning the SAP, the Tribunal can decide
+
+these matters.
+
+Secondly, the KRG says that Dana and Crescent cannot claim for the US$1,263,000 spent
+by GCL, which was not a party to the SAP. The unreality of this objection is shown by
+the fact that by far the largest part of this expenditure consisted of recharges to GCL of
+expenditure by its shareholders, Dana and Crescent. In any case, it does not matter where
+the money spent in discharge of Dana and Crescent’s obligations under the SAP came
+from. That is a matter between them and whoever provided the money. So far as the
+KRG is concerned, it is money spent to carry out the obligations assumed by Dana and
+
+Crescent.
+
+Thirdly, the PwC audits were for the entire financial year ending 31 December 2009 and
+do not have a cut-off date at 24 May, when the KRG terminated the contract. Therefore,
+says the KRG, they might include money spent when there was no longer any obligation
+to do so. The Crescent accounts for 2009 show that US$71,000 was spent, as against
+US$214,000 in 2007 and US$106,000 in 2008. That does not suggest substantial
+
+expenditure after the date of termination. The GCL figures are not broken down by year.
+
+Considering the inherent improbability that Dana and Crescent (or GCL) went on
+incurring expense on the SAP after the outbreak of the controversy and the limit to the
+detail in which these matters can be investigated by the Tribunal, it accepts the audited
+
+figures and will order payment of US$1,654,000.
+
+32
+
+ 
+
+100.
+
+101.
+
+102.
+
+17 Page 38 of 89
+
+E. The Pewand Invoices
+
+The obligation the KRG under BP [7] of Annexure 2 to the HoA, in the event that (as the
+Tribunal has found) Pearl was unable to export and market the LPG and condensate, was
+to “purchase and lift (or arrange for the lifting by domestic companies/users) and pay for”
+the LPG and condensate. The KRG nominated Pewand Petrol Transporting and Food Inc
+(“Pewand”) to lift the petroleum liquids*® but would not pay them for doing so. Faced
+with the possibility that Pewand would not lift the liquids without being paid, Pearl
+decided it pay them on the KRG’s behalf. On 15 November 2009 Mr Watts wrote to Dr
+
+Hawrami:*7
+
+“[W]e are aware of the meeting held on 12 November 2009 with Pewand,
+the trucking contractor engaged on behalf of the KRG in September 2008,
+concerning its outstanding invoices committed to be paid not later than 15
+November. We understand that the KRG is now unable to settle these
+invoices direct and we are accordingly arranging to pay Pewand on behalf
+of the KRG forthwith. This is being done on the basis that KRG will
+reimburse us in due course.”
+Dr Hawrami made no answer and Pearl continued to pay Pewand’s invoices. It alleges
+
+that these payments amount to US$17,378,904.10 and claims repayment by the KRG.
+
+There is no dispute that the KRG was obliged to arrange for lifting at its own expense.
+That is plain on the face of the HoA and is not denied. Nor is it denied that it did not pay
+Pewand and that Pearl did so instead. Pearl did so because it was concerned that Pewand
+might be reluctant to do the lifting for nothing, which seems to be Tribunal an entirely
+
+reasonable apprehension,
+
+ 
+
+* DI/89
+
+* pi/13/2
+
+33
+
+ 
+
+103.
+
+104.
+
+105.
+
+ 
+
+In those circumstances, the Tribunal considers that it would be a defective system of law
+which did not allow Pearl to recover its expenditure. Various legal theories have been put
+forward to explain this result, but the one which seems to the Tribunal most appropriate is
+that the payments are recoverable as damages for breach of the KRG’s failure to pay
+Pewand to lift the liquids. It was reasonable for Pearl to apprehend that, unless paid,
+Pewand would not lift and that this could cause the plant to have to shut down. It was
+reasonable for Pearl to take steps to mitigate the loss it would otherwise have suffered by
+paying Pewand’s charges, especially as this was done after giving notice to the KRG that
+it would be seeking to reclaim the payments and not receiving any objection. As Lord
+MacMillan said in Banco de Portugal v Waterlow & Sons Ltd
+
+“Where the sufferer from a breach of contract finds himself in
+
+consequence of that breach placed in a position of embarrassment the
+
+measures which he may be driven to adopt in order to extricate himself
+
+ought not to be weighed in nice scales at the instance of the party whose
+breach of contract has caused the difficulty.”
+
+It is agreed between the quantum experts (Mr Boulton and Mr McGregor) that Pearl has
+submitted invoices to the KRG for Pewand payments in the sums of US$5,151,850 from
+Pearl itself and US$12,227,054 from Dana. The KRG objects that Pearl cannot recover
+the loss suffered by Dana, but the Tribunal considers that as assignee of all the rights of
+
+Dana and Pearl under the HoA, Pearl must be the party entitled to make the claim.
+
+The KRG’s quantum expert Mr McGregor gave evidence that there was insufficient proof
+that Pearl had actually paid all the sums invoiced to the KRG as payments to Pewand.
+On 14 September 2016 the quantum experts submitted a joint report” in which they said
+they were giving further consideration to the supporting evidence on payment. The
+
+Tribunal will therefore defer quantification of this sum to the next hearing.
+
+*§ [1932] AC 452, 507.
+
+* K/68
+
+34
+
+ 
+
+106.
+
+107.
+
+108.
+
+109.
+
+05/12/17 Page 40 of 89
+
+ 
+
+FE Liquids Lifted Since 30 June 2015
+
+The Second Partial Final Award was in respect of petroleum liquids sold and delivered to
+the KRG or which the KRG had refused to buy up to 30 June 2015. Pearl now makes a
+claim for liquids lifted from that date until 31 March 2016.
+
+The quantum experts (Mr Boulton and Mr McGregor) agree that the sums invoiced at
+international prices in accordance with the First Partial Final Award for this period
+totaled US$151,095,282, It is also agreed that the KRG paid Pearl US$30,000,000
+during this period. So Mr Boulton quantifies the claim at $US121,095,282.°
+
+The KRG objects that Pearl has failed to prove that during the period in question it was
+unable to export within the meaning of BP [7]. The Tribunal considers that there is
+nothing in this point. The Tribunal considered the evidence in detail for the purposes of
+the First Partial Final Award and concluded that Pearl was unable to export. There was
+
+no evidence from the KRG to suggest that anything had changed.
+
+The invoices were audited by Ernst & Young (E&Y”). Their report stated that they had
+been provided with all the invoices, loading tickets, contracts for direct local sales, bank
+accounts and underlying accounting records. E&Y adopted a sampling method in
+accordance with ISA 530 but did not state what proportion they sampled. They also
+adopted a materiality test in accordance with ISA 320 but did not state their level of
+materiality. Mr Boulton explained why he regarded this as a sufficient audit but Mr
+McGregor was not satisfied. On the point the Tribunal accepts the opinion of Mr
+
+Boulton.
+
+°K 68/4-5.
+
+35
+
+ 
+
+110.
+
+il.
+
+41 of 89
+
+There is however a more difficult point arising out of a Second Memorandum of
+Agreement dated 14 March 2016, According to Mr Makkawi, from September 2015 the
+KRG stopped Pearl from selling condensate and LPG in the local market. It lifted the
+products but did not pay for them.*! This went on until February 2016. Pearl, starved of
+cash, negotiated an agreement under which, in return for being allowed to sell in the local
+market, it waived its right to charge the KRG international prices.” The relevant part of
+the agreement read as follows:
+
+“Currently, Dana Gas PJSC, Crescent Petroleum Company International,
+
+and Pearl Petroleum (the "Companies") are directly selling and receiving
+
+payments for condensate and LPG. We agree, in respect of all condensate
+and LPG produced from Khor Mor since 1February2016, that:
+
+1. For the purposes of this agreement, the price the Companies receive
+for the LPG and condensate produced at Khor Mor will be deemed to
+be the international FOB Med market prices without netback, and the
+Companies will not invoice for the delta between the actual price
+realised for the LPG and condensate and the international FOB Med
+market price for those products.
+
+”
+
+Pearl was allowed to sell LPG locally from 1 February 2016 and has not invoiced the
+KRG for any sales since that date. But it says that in fact it was not allowed to sell
+condensate until 3 March 2016, Until then, the condensate was lifted on behalf of the
+KRG but not paid for.> Mr Mufti, the Ministry of Natural Resources head of audit,
+confirmed in cross-examination that on 29 February 2016, Qaiwan (a transporter) “were
+
+still lifting condensate on the KRG’s instructions”.*
+
+*' Transcript Day 3, pp. 47-48
+* D1/601
+%3 Makkkawi at Transcript Day 3, p. 48.
+
+* Transcript Day 6, pp.5-6
+
+ 
+
+ 
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 42 of 89
+
+112.
+
+113.
+
+114.
+
+115.
+
+116.
+
+The amount invoiced by Pearl for condensate for the period from 1 February 2016 to 3
+
+March 2016 was US$11,633,590.
+
+The KRG submits that as the Second Memorandum of Agreement was operative from 1
+February 2016, Pearl must be deemed to have sold directly into the local market from that
+date. It therefore cannot invoice the KRG under BP [7] of the MoA. The Tribunal does
+not accept this. Pearl agreed not to charge the KRG the delta between the international
+price and the actual price realized. This cannot apply to a case in which the KRG simply
+
+took the condensate and Pearl realized no price at all.
+
+The Tribunal will therefore order payment of US$121,095,282 for the period from 30
+June 2015 to 31 March 1016.
+
+G. Excess Gas
+
+The HoA provides for the sale by Pearl of what it calls “Excess Gas”:°°
+
+“Dana shall be entitled to take title and market any " Excess Gas" on an
+optimised arms-length commercial basis, with first priority being given to
+local industries, and then (if available in sufficient quantities) for export.
+"Excess Gas" shall mean any gas in excess of the specification gas
+required to be supplied by Dana to the IPP, on behalf of the KRG, free of
+charge...”
+
+In its First Partial Final Award, the Tribunal said that “excess gas” meant gas in excess of
+such as was “produced by the plant at Khor Mor constructed in accordance with the
+
+Initial Services Plan”.
+
+BP [3].
+
+ 
+
+117.
+
+118.
+
+119,
+
+ 
+
+Pearl says that the Initial Services Plan, as updated, provided for the installation of two
+
+LPG trains. These were capable of producing a maximum of 291,600 MMBtu/d.
+Because the construction of the LPG plant was delayed, Pearl installed an EPF. This was
+
+ded to be a temporary stop-gap . The i ion was that when the LPG trains
+were commissioned, it would be removed. Its permanent use was not part of the Initial
+Services Plan. But the KRG has instructed Pearl to run the EPF in parallel with the LPG
+plant, thereby producing about 330,000 MMBtu/d for the power stations. Pearl says that
+the additional gas provided by the EPF is Excess Gas and the KRG must pay for it.
+
+The reasoning of the Tribunal in its First Partial Final Award is set out in paragraphs 188
+and 189:
+
+“188. The drafting of the HoA could have been clearer but we think that
+the KRG is right. Dana was to receive repayment of all its expenses in
+providing the services in Annexure 3 and a remuneration fee, but the KRG
+in return was entitled to the gas that Khor Mor produced. As we noted in
+connection with issue (a), the KRG accepts that it would not be entitled to
+demand that Dana make further investments at Khor Mor (or anywhere
+else) to enlarge its gas producing capacity. That would be a Further
+Services Plan requiring the consent of both parties, But the KRG is in our
+opinion entitled to whatever gas the Initial Services Plan can produce.
+
+189, The parties clearly considered what the position would be if the
+power stations were unable to use all the gas. They provided that in such a
+case, Dana should be able to sell the gas to third parties or, if unable to
+sell, to re-inject or flare it. But they do not appear to have contemplated
+the possibility of a sale to the KRG itself. There are no provisions for
+determining the price at which such sales would take place. On the
+contrary, Dana's obligation was to market the gas on an “arm’s length
+commercial basis" and Annexure 6A says the sales involving the KRG are
+not to be regarded as at arm’s length.”
+
+The Tribunal considers that it was never contemplated by the parties that the KRG would
+be buying Khor Mor gas from Pearl under the terms of the HoA. That is demonstrated by
+the provision that Pearl was to sell excess gas at arm’s length prices but that sales to the
+
+KRG were not to count as being at arm’s length. The concept of excess gas in the HoA
+
+38
+
+121.
+
+122.
+
+123.
+
+ 
+
+was, in the opinion of the Tribunal, intended to mean gas from Khor Mor as constructed
+
+and operated pursuant to Annexure 3 to the HoA but which the KRG for some reason
+could not or did not want to use. On the other hand, if the parties agreed to an
+enlargement of the facilities beyond the requirements of Annexure 3, they could also
+agree on arrangements as to what, if anything, the KRG would pay for the additional gas
+
+thereby made available,
+
+Annexure 6A (Accounting Procedure) defines “Initial Services Plan” as “the scope of the
+Services set out in Annexure 3 and Annexure 5 as updated and including appraisal,
+drilling, well rehabilitation, Operation Activities and the purchase and installation of two
+LPG trains and other processing facilities...” A “Further Services Plan” is an “approved
+
+plan or plans other than the Initial Services Plan”.
+
+It must be borne in mind that the main purpose of the provisions of Annexure 6A is to
+control the expenditure which Pearl can charge as petroleum costs. Expenditure under the
+Initial Services Plan is authorized and chargeable but a Further Services Plan would
+
+require KRG approval under clause 2,1 of the Annexure,
+
+The definition of the Initial Services Plan as the Services “set out in Annexure 3...as
+updated” reflects the view that the Initial Services Plan would in practice from time to
+time undergo agreed modifications without the formality of Pearl presenting a Further
+Services Plan. The addition of the EPF would have been such a modification, whether it
+was to be on a temporary or permanent basis, and Pearl would have been entitled to
+
+charge the costs as petroleum costs.
+
+The Tribunal therefore considers whatever gas plant has been constructed and put into
+operation at Khor Mor without there having been any revision of the terms must be
+
+treated as having been part of the Initial Services Plan. If Pearl considered that running
+
+39
+
+ 
+
+124.
+
+125.
+
+126.
+
+127.
+
+ 
+
+the EPF in parallel with the LPG plant was outside its obligations under Annexure 3 it
+
+was open to it to say so and, if necessary, have the dispute resolved. But the Tribunal
+considers that Pearl was not entitled to agree to run the EPF and unilaterally charge the
+KRG for the gas.
+
+The claim for excess gas therefore fails,
+
+H. Interest
+
+Pearl is entitled to interest on the sums owing in respect of condensate and LPG sold or
+agreed to be sold to the KRG and the sums paid in respect of the Pewand invoices. Clause
+1.6.2 of the HoA provides:
+
+“All sums due by one Party to the other under the HoA shall, for each day
+such sums are overdue, bear interest compounded monthly at LIBOR plus
+two percent (2%) or actual interest cost incurred by the affected Party,
+whichever is the greater.”
+
+There is no evidence of the actual interest cost incurred by Pearl and the Tribunal
+therefore considers that interest should be payable at LIBOR plus 2%, compounded as
+directed by clause 1.6.2. It is submitted by Dana that it (but not Crescent) incurred an
+actual interest cost of 9%, that being the rate payable under the sukkuk by which it
+financed its interest in the project. The Tribunal considers, however, that Dana was not
+for this purpose an “affected Party”. The LPG and condensate was sold by Pearl and the
+
+Pewand invoices were paid by Pearl. It was Pearl alone which was the affected Party.
+
+The SAP has no provision about interest but the Tribunal considers that in the exercise of
+its jurisdiction under rule 26(4) of the LCIA Rules it should award Dana and Crescent
+simple interest at LIBOR plus 2% on the sums payable by way of reimbursement of
+
+expenses.
+
+40
+
+128.
+
+129.
+
+130.
+
+131.
+
+ase I:T/-cv- = ument 1-4 Filed 05/12/17 Page 46 of 89
+
+In each case, interest will run until the order is complied with,
+
+The question of interest on sums which may be recovered by Pearl under its delayed
+
+development claim is deferred until that claim has been quantified.
+
+PART THREE: THE KRG’S COUNTERCLAIMS
+
+A. Breach of Warranty
+
+In its Statement of Amended Counterclaim dated 8 February 2016 the KRG introduced a
+claim for breach of a warranty as to the availability of an LPG plant alleged to have been
+given by Pearl in the HoA.** This allegation was elaborated in the KRG’s skeleton
+argument of 31 August 2016°” but makes no appearance in its post-hearing submissions
+of 21 October 2016. This may be because the skeleton argument said that the KRG did
+not allege that the breach of warranty had caused it any loss, It asked only for a
+declaration which it said would be relevant to determining what would have been a
+reasonable time within which to have the LPG plant ready. It is not clear to the Tribunal
+whether this means that the warranty point as such has been abandoned, but it will
+
+nevertheless deal with the issues raised in the earlier documents.
+
+The warranty is alleged to have been contained in sections 5 and 6 of Annexure 3 to the
+
+HoA. The purpose of the Annexure was to set out the services which Dana was required
+
+°° Statement of Amended Counterclaim, paragraphs 20-24.
+
+*” Paragraphs 94-126.
+
+41
+
+ 
+
+132,
+
+133.
+
+134,
+
+135.
+
+Page 47 of 89
+
+to supply pursuant to clause 7 of the HoA (“Dana shall implement the initial Works
+Program... of the Khor Mor Gas Utilisation Plan set out in Annnexure 3... 3...”).
+Paragraph 5, which dealt with the LPG plant, said:
+
+“A 150 MMscfd liquids recovery expander plant (after appropriate
+modifications) that is currently being built by a US manufacturer has
+recently become available and will be ready for shipment from the US in
+July 2007... This plant will require some modifications (larger
+depropaniser and debutaniser columns) to handle the higher liquid loads
+but such columns can be constructed readily at the US suppliers newly
+opened facilities in the UAE. Consequently, the LPG plant could be
+installed and ready for operation by the end of 2007.”
+
+Paragraph 6 included the following statement:
+
+“The timetable for such a project is typically 18 to 20 months; the key
+long lead item is the LPG plant. However, because the LPG plant is
+available from the US in July 2007 the timetable may be reduced to circa 9
+months...”
+
+The KRG says that the statements that an LPG plant “has recently become available and
+will be ready for shipment from the US in July 2007” and “the LPG plant is available
+
+from the US in July 2007” were contractual promises that this was or would be the case.
+
+Whether these words were contractual promises or simply statements of belief is a matter
+of construction. Would a reasonable person aware of the background to the HoA have
+thought that Pearl was promising that the facts were true or only that it honestly believed
+them to be true? Putting the same thing in a different way, was Pearl offering a guarantee
+that the plant would be available in July 2007, or at any rate was in such a state that it
+could be available in July 2007?
+
+The Tribunal considers that no such guarantee was being given. First, the claim that
+
+Pearl warranted the availability of the LPG reflects the evidence of Dr Hawrami that
+
+Pearl only obtained the contract by promising early delivery of an LPG plant. If that were
+
+42
+
+ 
+
+136.
+
+137.
+
+138.
+
+ 
+
+the case, the inclusion of a warranty would have some plausibility. But the Tribunal, in
+
+its First Partial Award, rejected Dr Hawrami’s evidence. It said:**
+
+“In summary, we find that contrary to Dr Hawrami's present recollection,
+the ability of Dana to provide an LPG plant in short order played little or
+no part in the background against which the HoA was negotiated. The
+important factor was the urgency with which the KRG required gas to be
+delivered to the IPPs. The LPG plant was a last-minute addition to the
+Khor Mor plan.”
+
+Secondly, the description of the proposed services in Annexure 3 is not the most obvious
+place in which to find an important warranty. One would expect it to be among the terms
+
+of the contract. Indeed, clause 3 of the HoA itself says:
+
+“Dana has an LPG plant under construction which is scheduled for
+completion in July 2007 (ex- works US) and is willing to divert said LPG
+plant (which is destined for another project) for use in the Khor Mor Gas
+Utilisation Plan.”
+
+This is where one would expect to find a warranty. But the clause is not expressed as a
+
+warranty and the KRG does not rely upon it.
+
+Thirdly, the Tribunal has already found that Pearl did not commit itself to a fixed
+timetable for the construction of the plant. “There were hopes and aspirations but no
+promises.”** It would be odd, to say the least, for Pearl to have given a guarantee that the
+
+LPG plant was available for shipment but no promise as to when it would be installed.
+
+** At paragraph 86.
+
+* First Partial Award, paragraph 195.
+
+43
+
+e@ 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 49 of 89
+
+" B, —_Misrepresentation
+
+139, In the alternative, the KRG claims that the statements about the availability of the LPG
+plant were, even if not promises, misrepresentations of fact which induced the KRG to
+enter into the HoA. Were it not for the representations that an LPG plant could be
+quickly installed, Dr Hawrami would have contracted with another supplier.
+
+140. ‘The Tribunal will deal first with the question of reliance. The KRG says that Dr
+Hawrami was not cross-examined as to his reliance on the representations.” But the
+Tribunal does not think it necessary to go aver this ground again, Dr Hawrami’s assertion
+to this effect has already been rejected by the Tribunal in the passage from the First
+
+== Partial Award cited above."’ He was no doubt pleased when Mr Watts told him that an
+LPG plant was available but the Tribunal docs not consider that it had any effect upon the
+decision of the KRG to enter into the HoA. What mattered was that Dana was willing,
+“on a fast track basis", to fund and arrange the erection of a plant and pipeline to supply
+gas to the power stations.
+
+141, The Tribunal also does not accept that, but for the representation that an LPG plant was
+available for shipment in July 2007, the KRG would have employed Mass Jordan to build
+the plant. Mass Jordan had been contractors to build the power stations. If the KRG had
+thought of them has suitable candidates for funding and building the gas plant as well, it
+would have done so at a much earlier stage. Instead it approached Mr Jafar.
+
+142. In any case, the Tribunal considers that the only representation made by Dana was that it
+had been informed by Exterran that an LPG plant would be available for shipment from
+
+® KRG’s Closing Submissions, paragraph 48.
+
+®" At paragraph 86 of the Firsé Final Award.
+
+e 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 50 of 89
+
+143.
+
+the US in about July 2007.% This representation was wue. The claim for
+misrepresentation therefore fails.
+
+C. Delay in Completion of the LPG Plunt
+
+The main thrust of the KRG’s counterclaim is an allegation that Dana was in various
+respects in breach of the express or implied terms of the HoA. Of these, the main
+complaint is that it took an unreasonably long time to complete the installation of the
+LPG plant.
+
+C Construction of the LPG Plant: A Brief History
+
+As recounted in the first Partial Final Award, the proposal to incorporate an LPG in the
+scheme was first made by Mr Waits to Dr Hawrami on 12 March 2007. The HoA dated 4
+April 2007 noted that the plant would require modifications “to handle the higher liquid
+foads” at Khor Mor but said that these could be constructed at Exterran’s plant in the
+UAE and that the LPG plant “could be installed and ready for operation by the end of
+2007".
+
+During 2007 various unexpected events caused some delays. The removal of mines, the
+discovery that the Khor Mor gas was sour and contained mercury (both requiring
+modifications of the LPG plant) the additional of a second LPG train and problems over
+1 Watts paragraph 14.
+
+® Letter Exterran to Dana of 21 March 2007 (D1/449/1).
+
+“Paragraph 83.
+
+   
+
+@ 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 51 of 89
+
+security with local officials set back the early stages of the project by some weeks, A
+} two-week procurement freeze imposed by the KRG in May 2007 caused a six-week delay
+in delivery of steel pipes because it was a time of heavy demand and Dana lost its place
+in the queue. However, when delivering its first detailed monthly report to the KRG in
+August 2007, Dana felt able to forecast that the pipeline would be ready for first gas at
+| the end of February 2008,
+
+146. The main source of delay began to emerge a month later, when the September 2007
+report noted that there had been slow progress in the construction of the security camp for
+the workers who were going do the civil work for the LPG plant."* The camp was being
+built by an affiliate of Nokan, one of the local companies which Dana had engaged as
+
+op sub-contractor. This was a matter of political necessity. Nokan, together with Kar and
+Zonik, was a company affiliated to the PUK, the dominant political party in the
+Sulemaniya Province of the Kurdistan Region. The three companies had formed a joint
+venture (“NKZ”)® to bid for the available sub-contracts, The KRG made it clear to Dana
+that if they wanted 10 work in the Sulemaniya Province, they would have to employ
+NKz."
+
+147. In December 2007, the construction of the site camp was still causing problems. On 10
+December 2007 Mr Tom Fuller, the project director on site, reported to Mr Watts:
+
+“The buildings are made from thin corrugated metal with thin doors. No
+water, heating, etc. apparent in the housing units. These units made with
+small footings, which are set on small concrete pedestals. No actual
+consiection to foundation. First big wind - blown over. This facility won't
+last through the construction period, much less be a long-term camp for
+the operating and maintenance.’
+
+© Dissan
+tm Claimants’ internal minutes, sometimes referred to.as “KZN”
+°°) Watts paragraphs 201-6; e-mail D1/467.
+
+* D1674
+
+ase 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 52 of 89
+
+148. The report at the end of December 2007 said that delays in the civil works caused by the
+delay in constructing the security and accommodation camp had caused the first gas
+target to slip to May 2008, There had also been an alarming crisis over delivery of the
+pipes by the Chinese suppliers:®”
+
+“The manufacture of the remaining line pipe at PCK in China suffered a
+setback in early December due to non-arrival of the plates, which was
+followed by PCK stating that production would be deferred for several
+months due to other priority orders from Chinese national companies.
+Following intervention of Company's senior management (2 week was
+spent in China with PCK’s top management), the order was finally
+brought back on track...”
+
+149. This incident had produced a furious e-mail from Mr Jafar to the board colleague through
+whom the Chinese order was placed, as a result of which the latter went to China to sort
+the matter out.”” This document, obtained from Mr Makkawi's stolen lap top, has been
+
+heavily relied upon by the KRG as demonstrating Dana’s recognition of its shortcomings
+and potential liability.
+
+150, At the end of January 2008 Dana contracted with NKZ for the construction of the LPG
+plant.”’ However, the monthly report at the end of March 2008 recorded that there was
+little chance of its being available by the time the power stations and the pipeline were
+ready:”
+
+“The current slow rate of construction progress by the Contractor (NKZ
+group) for both the pipeline and the LPG plant is of major concem. With
+
+respect to the LPG plant, it is now evident, given the delays and late
+completion of the civil works, the slow mobilization of cranes and skilled
+manpower resources and the late deliveries of bulk materials (all within
+‘Contractor's supply) that the Contractor will not have the LPG plant ready
+
+* Diisos/4
+® 2/324. See cross-examination of Mr Jafar, Transcript 21 April 2015, pp. 164-167.
+™ pwd
+
+= pi
+
+47
+
+e@ 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 53 of 89
+
+till after the summer and there is little scope to accelerate that programme.
+Accordingly, an early production facility has been sourced that will be on
+the site before the summer...The actual progress as of end March °08, is
+75%, only 1% progress since last month and given the poor performance
+of the construction company to date, the first-gas target date can no longer
+be predicted with any confidence...
+
+151. In June 2008 Mr Fuller gave a bleak description of the way NKZ were performing:”
+
+1. No Manager/ Coordinator for KZN at site. Shortage has been addressed
+with Kar several times.
+2. No Site Org Chart nor Project Org Chart. Has been requested and
+promised several times.
+3. No QC procedures at site, Have been requested and promised several
+
+times,
+4. Absence of Manager/ Coordinator leads to these problems - - Lack or
+absence of planning - No communication on personnel mob/
+
+assignments/ absences - Poor communication on equipment and materials
+movements. - Poor communication of urgent maicrials/ equipment for
+welder testing. As result, Crescent directly sourced materials, - Slow to
+finalise urgent procurement items for EPF - piping, instr., elect, tools,
+consumables.
+
+Major change in direction required immediately.”
+
+152. Mr Fuller’s proposal for 2 “major change in direction” was “all project management and
+direction by Crescent”. On 29 July 2008 Mr Watts sent NKZ a formal “Notice of
+Inadequate Performance”, listing the matters mentioned by Mr Fuller. His proposal was
+discussed but not immediately taken up.
+
+153. ‘The quality of welding on the pipeline gave particular cause for concern. On 9 July 2008
+Dana sent a formal notification to NKZ instructing them to terminate all local welders
+
+™ Dies
+
+ise 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 54 of 89
+
+and replace them with skilled welders.” Dana then arranged to bring a team of 40 skilled
+Vietnamese welders to supplement the workmen available to NKZ.”*
+
+154. At the end of August 2008, as the time for first gas approached, tempers began to fray.
+On 25 August 2008 Mr Jafar wrote to Dr Hawrami asking for “KRG assistance to exert
+all influence possible on NKZ to perform”, Dr Hawrami’s immediate reply was
+unhelpfal:”
+
+“Essentially, we feel that the ultimate responsibility rests with Dana Gas
+and Crescent (the Contractor) and we cannot get involved more than what
+we have done with sub-contractors who have not been appointed by us.”
+
+155, On 26 August 2008 Mr Makkawi notified Mr Jafar that completion of the pipeline was
+unlikely before the end of September and that the Ministry of Natural Resources was
+threatening a meeting with Dana to take a “serious decision”, Mr Jafar was alarmed and
+replied:””
+
+“this is terrible, absolutely terrible. Extremely disconcerting and worrying,
+and (despite contractor failings) begs the obvious question and
+responsibility; why have we (the Companies, DG/CP) so incredibly and
+consistently fooled ourselves and the KRG?... [HJow come we (the
+Companies) have so consistently and regularly misjudged and
+progressively misrepresented the completion schedule???”
+156. Om J September 2008 Mr Jafar wrote a long letter to Dr Hawrami, saying that Dana was
+not responsible for the failures of NKZ but that everyone, including the KRG, should
+concentrate on getting the job done rather than blaming each other. Dr Hawrami
+
+* D228.
+7? 4 Watts paragraph 44,
+* DUS
+
+7 Du403
+
+49
+
+Ty
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 55 of 89
+
+158.
+
+answered that the position of the KRG was that Dana was the party responsible. He went
+
+‘on to say:
+
+“[ am not driving this, but I am caught (quite rightly and deservedly) in the
+middle of it. I am responsible for bring[ing] Dana Ges to Kurdistan, I
+fought hard for it. The strong belief and argument I had at the time was
+that Dana Gas could do the project in the fraction of the time, because of
+your plant availability, hence the required gas could be delivered to the
+power plants by January 2008, and that others would take a year or two
+more to do the job, Unfortunately, the January 2008 deadline has long
+gone, and we are now talking about January 2009 for the initial
+completion and probably well beyond, hence my original trump card (the
+timing card) has completely lost its credibility.
+
+This passage, which the Tribunal considers to be truthful, is revealing of two points.
+First, it shows Dr Hawrami’s perception of his position as a technocrat Minister in the
+minefield of Kurdistan tribal politics. It accords with Mr Watts’s evidence that Dr
+Hawrami asked for the most optimistic indicative timetable to be included in the HoA
+because of “tensions with the Ministry of Electricity” which was putting forward an
+equally optimistic timetable for the construction of the power stations,”? Secondly, the
+reference to “because of your plant availability” suggests that although the Tribunal did
+not (and does not) accept his evidence that Dana sold him the project on the basis of
+having a readymade LPG plant,” it was the basis on which Dr Hawrami himself had, in
+fact, sold it to his Cabinet colleagues.
+
+In September 2008, it was decided to construct a liquid pipeline to Chemchemal for the
+storage there of condensate and LPG. This required appropriate changes to the pipes of
+the LPG plant at Khor Mor,
+
+™pus
+| Waus paragraph (5; 3 Wass paragraph 343,
+First Partial Final Award paragraph 86.
+
+e@ 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 56 of 89
+
+159. Dana followed up its Notice of Inadequate Performance of 29 July 2008 by arranging
+meeting with the NKZ management in Sharjah, noted in its (now weekly) report for 6
+September 2008:5!
+
+“The progress by KZN, the Contractor on the main plant is extremely poor
+even allowing for unforeseen obstacles, The Contractor has been formally
+served notice for deficient performance under the contract, Meetings with
+KZN top management have been arranged for 14th and 15th September in
+Sharjah to try and put a recovery plan in place, The intention is to form a
+joint team under Company's direct control (as used for the EPF) utilising
+‘only Contractor's personnel thet have demonstrated their capability.
+Failure to agree this approach will mean the construction contract will
+have to be terminated and Company will have to adopt alternate direct
+implementation methods.”
+
+160. First gas was provided to the power stations on 5 October 2008.
+
+161, The Sharjah meeting resulted in 2 Revised Construction Plan which was sent to the KRG
+on 20 October 2008 in which Dana and NKZ formed a joint management team. Dana
+took over entire responsibility for instrumentation and electrical works while NKZ
+retained responsibility for civil, mechanical and piping works. The new plan forecast the
+commissioning of the first LPG plant in March 2009, but added;*”
+
+“The new schedule is intentionally very aggressive, and assumes all
+resources will be available on or before the time they are needed. As such,
+it serves to keep focus on the construction work at-hand, as it does not
+include continuity and slippage. That being said, it is common that me
+projects have schedule slippage due to unforeseen circu
+
+resource and material availability... Furthermore several ee
+bulk deliveries from KZN have sill not arived at site, and the delivery
+dates are not yet confirmed. The reasons for the delays in these bulk
+
+“pivi27
+
+= DUET
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 57 of 89
+
+deliveries are not yet fully understood, but KZN advise that it is mostly
+due to the competition for resources on a worldwide basis resulting in
+much longer deliveries than anticipated... The consequences of the late
+delivery of these bulk materials on the project schedule have not yet been
+quantified, and so this uncertainty may affect the completion date.”
+
+162. Joint management tured out not to be a success. Dana continued to complain of
+inefficiencies by NKZ in the areas for which they were responsible and Mr Naoom, of
+Kar, said that Dana treated joint management as a “pretext” to use Kar “solely as a
+manpower provided rather than as an autonomous subcontractor”."? At the end of March
+2009, NKZ's contract was terminated by mutual consent. As it was a lump sum contract,
+this may not have caused NKZ much loss."*
+
+163. Dana was now left to finish the construction of the two trains of the LPG plant by itself.
+This required additional resources and a new form of organisation. Mr Peter Baron, a
+consultant employed by NRG-Global, was commissioned to prepare a Recovery Plan to
+address the new situation, Mr Baron delivered his plan on $ April 2009,
+
+164. The progress report for May 2009 recorded that productivity was improving:**
+
+“From the cessation of the Kar JV construction contract in mid-March °09
+through to the end of April, only 2% progress was made. The efforts
+expended at that time were directed at resourcing equipment, materials
+and tools to replace those services previously provided by the construction
+contractor, Time was also spent on organising materials and setting up
+‘onsite stores and workshops, to increase productivity as the workforce
+increases, By late April progress began to pick up and at the start of May
+weekly progress had reached 1.5% per week and by the last week of May
+it had reached 2%. Overall progress in the 4 reporting weeks in May was
+thus isa Such progress is far better than what was being achieved with the
+
+JV construction contract. Indeed, in excess of twice the productivity is
+
+® 1 Naoom, paragraph 21,
+
+™ The contract price was US$17 million and on 7 March 2009, with the contract 60% complete, Kar
+claimed to have spent US$24 million.
+
+“pua7a3
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 58 of 89
+
+being achieved with only 60% of the manpower. If the target progress of
+2% per week can be maintained, then mechanical completion of Plant 1
+should be achieved at the end of September 2009."
+
+165. In May 2009, however, there commenced the “controversy” which has been described
+earlier in this award. The KRG denied the Claimants’ development rights and put them
+on a drip feed of underpayments for condensate which the Claimants regarded as
+inadequate to fund the increasing cost of the installations. The workforce was reduced
+and bills went unpaid, In addition, examination of the work which had been done under
+the NKZ regime showed that a good deal of it had to be undone and redone. The result
+was that the construction of the two LPG trains progressed very slowly. The second train
+‘was finally commissioned in April 2011.
+
+Il The Extent of Dana’s Obligations
+
+166. In its First Partial Award, the Tribunal said “there was an obligation to do the work
+within a reasonable time in all the circumstances."’ The HoA did not expressly say so.
+It was a matter of implication. As the Tribunal found, Dana had not committed itself to
+any specific timetable. But the question of what would be a reasonable time depends very
+much upon what Dana had undertaken to do. What obligations would a reasonable
+person, reading the HoA and knowing both the specific factual background and the
+practices of the oil and gas industry, have considered that Dana was undertaking? What
+risks was it agreeing to bear?
+
+167. The battle lines of the parties on these questions were drawn up in the summer of 2008*”
+and have not changed, The KRG’s position is that Dana was responsible for the work of
+its sub-contractors. If competent contractors could have completed the work within «
+given time, that is a reasonable time. If the sub-contractors fell short of this standard, they
+™ Paragraph 195, -
+
+” See paragraphs 154-157 above.
+
+1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 59 of 89
+
+169.
+
+170.
+
+should have been better trained or supervised. Dana, on the other hand, says that the KRG
+knew that Dana was not a specialist EPC (engineering, procurement and construction)
+contractor and would have to rely on sub-contractors, Furthermore, the KRG recognised
+that Dana would have little or no choice in engaging subcontractors for the work within
+Kurdistan.
+
+Since then, the views of each side have been supported by expert evidence. The
+Claimants’ experts, Dr van Meurs and Mr Freeny, say that supplying first gas to the
+power plants in October 2008 was a signal achievement and that in the circumstances as
+they existed in Kurdistan there was no unreasonable delay by Claimants in the
+construction of the LPG plant. The KRG's expert, Dr Lancaster, on the other hand, says
+that the Claimants’ “approach to and performance on the project was entirely inadequate”
+and that the LPG plant should have been commissioned and functioning by November
+2008 instead of the spring of 2011.
+
+The disagreement between the experts is almost entirely attributable to the different
+views they have taken about the meaning of the HoA. This of course a question of
+construction, to be decided as a matter of law by the Tribunal. But the language of the
+HoA must be construed against the background known at the time to the parties and this
+will include practices of the oil and gas industry which will not necessarily be known to
+the Tribunal. ‘The evidence of experts as to what they consider someone with knowledge
+of the industry would have understood the HoA to mean is therefore admissible.”
+
+(@) The KRG’s position
+
+The KRG says its position is based on the plain language of the contract. ‘The Key
+
+Commercial Terms in Annexure 2 of the HoA included a provision that —
+
+ Eixpert evidence of what a “person skilled in the art” would have understood a claim in a patent to mean
+is frequently admitted.
+
+172.
+
+173.
+
+117-cv-00894-APM Document 1-4 Filed 05/12/17 Page 60 of 89
+
+“Dana shall provide all managerial services, supervision, labour, materials
+and equipment for the performance of the Services, and to procure all
+finds necessary to carry out and complete the Construction Services.”
+
+In addition, recital E stated:
+
+“Dana, being a natural gas resource company does not normally enter into
+service-type agreements, but being suitably qualified and desirous of
+developing a strategic partnership with the KRG for development of gas
+resources, is willing to co-operate with the KRG by entering into these
+HoA. ...” (Emphasis supplied)
+
+The KRG therefore submits that the HoA should be construed to mean that Dana
+accepted the responsibilities of an EPC contractor who had undertaken to ensure that
+whatever subcontractors he might employ completed their work within the required time.
+That was what was understood to be the responsibility of an EPC contractor engaged to
+build a plant for an upstream oil and gas company. It was ultimately responsible for any
+failure on the part of the subcontractors and has therefore to undertake whatever
+planning, supervision and supply of equipment and materials is required to prevent this
+from happening.
+
+The KRG’s expert, Dr Lancaster, explained in his opening presentation the basis of his
+approach:
+
+“On any complex oil and gas project of the nature of this project, it's
+essential to have single project management control from an entity that has
+both contractual and practical control over all of the phases of the project
+being engineering, procurement and construction, as well as over the
+numerous subcontracting parties. (T]he claimants were really in chat
+unique position, in my opinion, that they were able fo exert both the
+contractual and practical control over all of the subcontractors and over all
+of the phases of the work.”
+
+'° Transcript Day 6, pp. 39-40.
+
+ase 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 61 of 89
+
+ 
+
+(0) The Claimants’ position
+
+174, ‘The Claimants dispute the KRG’s construction of the contract. The contractual provision
+that Dana would “provide all managerial services, supervision, labour, materials and
+equipment for the performance of the Services” obviously did not mean that Dana would
+do all these things in-house. It meant that Dana would procure them to be done by
+engaging subcontractors. This obligation Dana discharged. But the provision is neutral as
+to the degree of control and supervision which Dana was required to exercise. As for the
+statement in recital E that Dana was “suitably qualified” for “developing a strategic
+
+-— partnership with the KRG for development of gas resources”, that was true. It is put at a
+
+very high level and could not have been taken to mean that Dana had experience of
+hands-on plant construction. Everyone knew it did not.
+
+175, The HoA is, say the Claimants, altogether different from an EPC contract. The
+responsibility of the main contractor for any delays or poor work by subcontractors
+makes sense when the contract specifies a time within which the work must be completed
+and when the contractor is receiving stage payments for its work. But the HoA
+deliberately omitted any commitment to a completion date and it would be wrong to try
+to smuggle one in by treating the indicative timetable as a “reasonable time” subject only
+to delays outside the control of Dana or its sub-contractors.
+
+176. Both parties referred to the principle stated by Judge Seymour QC in Astea (UK) Lid v
+Time Group Lid” for deciding whether a reasonable time has been exceeded. This
+requires -
+
+* [2003] EWHC 725,
+
+e@ 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 62 of 89
+
+“.@ broad consideration, with the benefit of hindsight, and viewed from
+the time as at which one party contends that a reasonable time for
+performance has been exceeded, of what would, in all the circumstances
+which are by then known to have happened, have been a reasonable time
+for performance. That broad consideration is likely to include taking into
+account any estimate given by the performing party of how long it would
+take him to perform; whether that estimate has been exceeded and, if so, in
+what circumstances; whether the party for whose benefit the relevant
+
+| obligation was to be performed needed to participate in the performance,
+actively, in the sense of collaborating in what was needed to be done, or
+passively, in the sense of being in a position to receive performance, or not
+at all; whether it was necessary for third parties to collaborate with the
+performing party in order to enable it to perform; and what exactly was the
+cause, or were the causes of the delay to performance. This list is not
+intended to be exhaustive.”
+
+177. The Claimants say that the application of these principles requires one to consider what
+the parties contemplated as being Dana’s obligations and what actually happened on the
+ground. The KRG knew, and indeed it was public knowledge, that Dana and Crescent
+are upstream oil and gas investors. They are not EPC contractors. For the purpose of
+their oil and gas projects, they have a team of project directors who can exercise high
+Jevel supervision over what the building contractors are doing. Mr Watts, who was
+Projects Director on the Khor Mor project, had joined Crescent in 1989, But they have no
+experience of the detailed ground-level control which an EPC contractor would exercise
+over his sub-contractors.
+
+ 
+
+178. The background to the HoA was that no intemational EPC company was willing to take
+on the job. The Claimants therefore undertook to co-ordinate the necessary sub-
+contractors but cannot have been expected to exercise detailed supervision. In the event
+the slow progress forced them to exercise closer contro! and eventually to dismiss the
+principal sub-contractor and step into its shoes, but that was not something they were
+contractually obliged to do. They had no choice in their appointment of sub-contractors,
+who were nominated by the KRG on the basis of their political connections. It cannot
+therefore be reasonable to hold the Claimants responsible for the subcontractors’ poor
+
+ise 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 63 of 89
+
+work. Afer the passage relied upon by the KRG, recital E goes on to say that “current
+legal and political circumstances in Iraq may render engagement of subcontractors for the
+performance of the Services problematic.” This was a recognition of facts on the ground
+which the Claimants say demonstrate that the HoA could not reasonably be construed as
+making them responsible for the shortcomings of such subcontractors as they were able
+to engage.
+
+(6) Opinion of the Tribunal
+
+179, ‘The Tribunal considers that the Claimants’ construction of the HoA is correct. The HoA
+required Dana to devise a general plan for the procurement of plant such as the LPG and
+engagement of the necessary subcontractors, to co-ordinate their activities and exercise a
+high-level supervision over what they were doing, Mr Watts reflected what both parties
+knew to be the realities of the situation when he said of NKZ, the main contractor
+nominated on political grounds by the KRG, which was building the LPG plant:”'
+
+“We do not ‘plan and utilize’ the manpower of a third-party construction contractor. We
+had little or no control over NKZ's manpower. All we could do was insist that NKZ
+perform their contractual obligations, pressure them if they didn’t perform and ultimately
+terminate them when, despite our best efforts, they tured out to be hopeless...”
+
+180. ‘The question of what was a reasonable time for completion must therefore be answered
+
+ 
+
+by ion of all the ci including the of the
+subcontractors and the limited ability and obligation of Dana to exercise control over
+them.
+
+181, It is clear from the background and the references to the work being done on « “fast track
+basis” that the absolute priority was to get the gas out of the ground and into the power
+
+° 4 Watts paragraph 108.
+
+ase 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 64 of 89
+
+stations as soon as possible. It was for this reason that work on the LPG plant was more
+or less suspended to give priority to the EPF. Gas had been Found at Khor Mor but very
+little was known about its quantity or quality. As Dr van Meurs said in his oral
+
+‘evidence:
+
+,..{T]he facts and circumstances of this field were very very poor if you
+look at the information available in Annexure 3 and Annexure 5, There
+was no information to make anything like we talked about in the field
+development plan. There was almost no information and consequently the
+so-called work plans that were added were I think ideas of what the parties
+wanted to do.”
+
+182. Dr van Meurs said that an international oil and gas company will normally expect to take
+some time in evaluating the resources of the field (between | to 3 years) and preparing a
+development plan, Instead, these stages were omitted:”*
+
+“Making major investment commitments without a proper appraisal
+program was a very high risk undertaking and was done in in order to
+provide the power plants as soon as possible with natural gas... This
+| strategy tumed out to be very successfull for the two Parties since first
+commercial ges was established in October 2008, which is in about 18
+months after the Effective Date, This is a far shorter time frame than even
+a short international time line, which would have been 54 months.”
+
+183. It must also be bome in mind that Dana had its own commercial interest in being able to
+produce condensate and then LPG as soon as possible. Only by the sale of these products
+would it be able to recoup its considerable expenditure. It was therefore in its own
+interest, when it became apparent that the subcontractors building the LPG plant lacked
+the necessary competence and organizational skills, to undertake more and more of the
+planning and supervision themselves, But this does not mean that it had a duty to the
+KRG to do these things. One cannot infer from what it did at a later stage that, as a
+
+” Transeript Day 8, p. 70.
+© 1 Van Meurs, paragraphs 99-100,
+
+ase 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 65 of 89
+
+matter of contractual obligation, it ought to have been done earlier or better. ‘The
+Tribunal considers that the heavy reliance placed by the KRG on such matters as Mr
+Peter Baron’s recovery plan is based upon this fallacy.
+
+™ Pearl's Performance
+
+(a) The expert witnesses
+
+‘The KRG’s expert, Dr Lancaster, is a consultant who specialises in analyses of the causes
+of delay and whether contractors are entitled to extensions of time. These questions will
+ordinarily arise in the context of a contract which specifies a time within which the work
+must be completed, subject to the possibility of extensions on grounds such as events
+outside the control of the contractor. In the present case, the contract specified no time for
+completion. Dr Lancaster, as appeared in cross-examination, took instead the indicative
+dates in Annexure 3” and treated them as contractually binding, subject to Dana being
+able to show grounds for extension:°*
+
+“A. [have used the schedule that was developed by the claimants in
+May 2007, that was presented to the respondents early in June 2007, and I
+view this as the claimants’ baseline schedule, which I believe is
+fundamental document stating the intention as far as execution and
+planning of the project.
+
+Q. So you have taken the end point from the indicative time-line,
+which is also in the baseline schedule?
+A. Horhm.
+
+“These had been attached to the Project Execution Plan ("PEP") produced by Dana in the month after the
+HoA was signed. Dr Lancaster's view was that although the timeline in the HoA. was merely indicative, its
+repetition in the PEP suggested that Dana had by then decided that it was achievable: / Lancaster.
+paragraphs 183-186; Transcript Day 6, pp. 115-116.
+
+© Transeript Day 6, pp. 116-117
+
+e@ 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 66 of 89
+
+Q. And you asked yourself where there are specific events that justify
+extensions of time from that?
+A. Yes, again, as | said, from the baseline schedule.
+
+Q. You have effectively approached the analysis of delay as you
+would if there were a fixed timeline in our contract and a mechanism for
+extensions of time, yes?
+
+AL ‘That is largely correct...”
+
+ 
+
+185, The Tribunal considers that as a matter of law it was wrong of Dr Lancaster to treat Pearl
+as if it had undertaken to complete the work within the time lines stated in the HoA or the
+first PEP, neither of which was contractually binding. The question of what was a
+reasonable time fo complete a given project is an objective question, requiring all the
+
+ciret
+
+ 
+
+nstances to be taken into account, An indicative timeline is a relevant item of
+evidence as a prediction but it may tum out to have considerably underestimated what
+would be a reasonable time to complete the work. As mentioned above, Mr Jafar had
+occasion to criticise his team for producing over-optimistic forecasts. That does not
+mean that such forecasts must be deemed to have been a reasonable time. Pearl may
+simply have got them wrong. In such a case, it does not have to show that circumstances
+out of its control made it take longer. Its only obligation is to complete the work within
+what in all the circumstances was actually a reasonable time, taking into account what the
+contract required it to do.*
+
+186. ‘The second defect in Dr Lancaster's evidence was that he treated Dana as responsible for
+
+the shortcomings of its subcontractors. For the reasons given above, the Tribunal does not
+consider that this correctly reflected Dana’s obligations under the HoA.
+
+187. The result is that the Tribunal found Dr Lancaster's evidence of little assistance, ‘That is
+not to question his expertise in assessing contractual delays. But he applied it to the
+wrong contract.
+
+% See Shawton Engineering Ltd v DGP International Lud [2005] EWCA Civ 1359, Exhibit RLM-259.
+
+61
+
+dese 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 67 of 89
+
+188. The Claimants’ first expert, Mr Freeny, was a project engineer from Texas whose
+experience lay in the design, construction and management of oil and gas facilities,
+including projects in the Middle East. He noted that Dana had originally hoped that
+Exterran would build the LPG plant but declined for security reasons, He had never
+heard of NKZ:””
+
+“an operator/investor in the position of the Claimants would typically
+expect to rely upon experienced international EPC contractors to design,
+procure, and build facilities — especially in a remote region such as Khor
+Mor that lacks an experienced base of technicians. | understand that the
+Claimants tried repeatedly, for all aspects of the work, to engage qualified
+contractors, To have succeeded in implementing the project without
+reliance upon international EPC contractors is remarkable, in my view.”
+
+ 
+
+189, Both Mr Freeny and the Claimants’ second expert, Dr van Meurs, a well-known authority
+on the oil and gas industry, made “bench marking” comparisons with the times taken to
+construct other LPG plants in Iraq and elsewhere.“ This was largely because such
+projects are usually preceded by substantial periods of evaluation and planning which
+Dana was obliged to omit in order to deliver gas to the power stations as soon as they
+were ready to receive it. This objective was substantially achieved, but the construction
+of the LPG tured out to be more difficult for the reasons already discussed.
+
+(b) Specific Complaints
+
+(@ Planning
+
+190. Dr Lancaster was very critical of the planning for the project. He said it was the most
+poorly planned project he had ever experienced. That may well be true. But the question
+is whether the Dana was contractually responsible for this poverty. Dr Lancaster said
+"1 Freeny paragraph 114,
+
+° | Freeny paragraphs 129-130, 2 Van Mewrs paragraph 101.
+
+62
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 68 of 89
+
+that, in addition to a regularly updated PEP, he expected Duna to have a control
+schedule:”?
+
+“Typically, the project manager, with the support of a planning team, will
+develop a master schedule which sets out every activity that needs to be
+completed in order to complete the entire project. The key interfaces
+‘between the contractor and the subcontractors must be clearly detailed in
+this schedule to ensure all the works are coordinated. Once this has been
+completed, the subcontractors develop more detailed schedules together
+with the project manager, who is responsible for refining the
+
+| subcontractors’ project schedules and subsequently integrating them to
+produce a Control Schedule. The Control Schedule in tum is used to
+
+control the works and to ensure that the work of one subcontractor
+supports rather than delays the work of the other subcontractors.”
+
+—~ 191, Dr Lancaster said that Dana had particularly fallen short in relation to the construction of
+the LPG plant:'
+
+“In contrast to the thousands of activities in the Control Schedules of the
+other oil and gas projects I have been involved in, the Claimants’ project
+schedule from May 2007 contains only 156 activities. Whilst I have seen
+an example of « slightly more detailed schedule created by the Claimants
+(with approximately 400 activities), 1 have seen no evidence that the
+Claimants were holding a more detailed integrated Control Schedule ~ of
+the type I have described above — that would provide a sound management
+basis and that could be utilised to monitor the levels of progress and
+productivity.
+
+ 
+
+For example, the Claimants’ schedule identified as one single activity
+“LPG Plant Installation” with a duration of one-hundred-and-twenty days.
+‘This activity actually comprises many hundreds of activities. Each of
+those hundreds of activities needs to be individually planned and
+coordinated as part of the schedule. Without a plan, the individual
+activities will not be completed efficiently: the contractor will have no
+way to ensure that the right people and equipment for the activity are on
+site at the right time.”
+
+"1 Lancaster $9
+
+“1 Lancaster 69,7)
+
+CaSe 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 69 of 89
+
+192, Mr Watts, the Dana Project Manager, was cross-examined about why he had not prepared
+aplan of the kind described by Dr Lancaster:
+
+“Q. The proper plan that should have been drawn up should have
+planned, right from the outset, exactly how the LPG plant was going to be
+transported, constructed, installed and commissioned?
+
+A. Well there was a high-level plan that was prepared and that plan
+would be based upon the information provided at that time that was
+known, from Hanover, the time known for the shipping times, the time
+known for the manufacture of the pipe, the time known for the wells and it
+was based upon a timeline that Hanover had given based upon their
+experience of a local contractor and it was based upon a set of
+assumptions of one LPG plant set out in the HoA."*!
+
+ 
+
+o .»[¥]ou didn’t have a level 2 [detailed plan] covering the whole of
+> the construction, installation and commissioning of the LPG plant at any
+time, did you?
+
+A, Yes, what happened was that we were expecting the contractor, the
+construction contractor, to provide & detailed schedule on that. And as it
+transpired, we hired our own site planner to assist him on that,..""*
+
+193, In the opinion of the Tribunal, Dana was acting within its contractual responsibilities
+under the HoA in expecting the detailed plan to be provided by the site contractor. So far
+as it went further in providing the contractor with a planner, it was no doubt acting in its
+own commercial interest but was not contractually obliged to do so, Even the provision
+of such assistance to the contractor required a degree of co-operation which does not
+always appear to have been forthcoming. Mr Watts said:'
+
+A... _ (The site planner provided for the contractor] was Mark Minna
+originally, who arrived in February 2008, He became very frustrated with
+the lack of co-operation by NKZ, he left, he was also concemed for his
+safety, He was replaced by Yandri Jamdak and those detailed plans were
+worked out on site under Tom Fuller...”
+
+' Transcript Day 3, p.182
+
+‘© Transcript Day 3, p.194
+
+"® Transcript Day 3, p. 194,
+
+ase 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 70 of 89
+
+(ii) Project Management Team
+
+194, Dr Lancaster's opinion was that Dana’s project management team was inadequate and the
+KRG says that this is supported by the report of Mr Peter Baron, which recommended
+that it be strengthened. The Tribunal considers, however, that Dr Lancaster’s opinion was
+given on the assumption that Dana had the duties of an EPC contractor. Mr Baron’s
+report was directed to Dana's decision to take greater control over the work of NKZ and
+eventually to replace them. The Tribunal does not consider that the project management
+team put in place by Dana fell short of its contractual responsibilities.
+
+(iii) Supervision
+
+195. Dr Lancaster’s views on supervision show clearly how he was assuming the contract to
+‘be something other than it actually was. He was asked in cross-examination:'*
+
+“Q....[W]hat clauses or mechanisms/procedures, would you expect to see
+in the contract to be used as a means in the future of controlling the
+performance of the installation subcontractor?
+
+A. There [are] normally numerous procedures that are tied into the
+contract and normally the way I'm used to working is that the contractor
+would develop his own PEP and a suite of procedures. The procedures
+would deal with each of the different disciplines of project management,
+such as project controls and quality control and then typically what you do
+is you either write your procedures in a way that they can be passed to the
+subcontractor, or otherwise you make a second set of those procedures,
+which specifically mirror your own procedures as instructions to the
+subcontractor, and I would have expected to have seen that that was all
+tied into the contract.
+
+Q. Have you seen evidence of that being done by ~
+
+A. No, both in the PEP and in the contract it's only very high level.”
+' Transcript Day 6, pp, 203-4
+
+65
+
+e@ 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 71 of 89
+
+196. The terms of the subcontract with NKZ were no secret, They had been approved by the
+KRG. So was the PEP. They imposed the duty of detailed supervision of the workforce
+upon the sub-contractor and contemplated only high-level supervision by Dana because
+that was what the parties intended. But Dr Lancaster has proceeded on the assumption
+that the parties had agreed to the way he “was used to working”.
+
+197. Mr Faris Naoom, the head electrical engineer at Kar, also considers in retrospect that
+‘Dana should have exercised detailed day to day supervision over the work.'°S ‘The
+answer to NKZ’s admittedly lamentable performance in welding was, he says, that Dana
+should have had a “quality control team” to—
+
+“review... the welding jobs done every day to ensure that adequate
+welding procedures are being followed. If they are not, the quality control
+team provides specific instructions to the welders to resolve any welding
+procedure deficiencies ...,The Claimants did not have an adequate quality
+control team in place across the different sub-systems of the LPG plant.
+They had one welding supervisor, but no quality control engineers or
+managers on site,"
+
+198. ‘This again appears to the Tribunal to be based upon a misapprehension about the terms of
+the subcontract under which NKZ had been engaged. This provided:"*”
+
+“[NKZ] shall provide dedicated and experienced construction
+management team to plan, schedule and supervise efforts to comply with
+the project's requirements”
+
+“[NKZ] shall provide all labour, general equipment, special equipment,
+materials, resources, accommodation, sustenance, —_ supervision,
+management, finances, H & S requirements, technical expertise, quality
+"1 Naoom paragraphs 26-27.
+' | Naoom, paragraphs 26-27.
+
+' palaay
+
+ase 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 72 of 89
+
+200.
+
+201.
+
+control, environmental management, survey, security, land management
+liaison, and approvals processes necessary to carry out the scope of work
+
+contract and complete the Work on or before the Contract
+Completion Date.”
+
+‘The Tribunal does not consider that Dana failed in performing any contractual duties of
+supervision.
+
+() Procurement
+
+Mr Makkawi was cross-examined at some length about the importance of planning for
+procurement and linking the plan for construction with a schedule of when items will be
+required on site (“ROS dates”), Dr Lancaster regarded Dana as responsible for creating
+such a schedule, When asked why Dana did not have one, Mr Makkawi said that Dana
+was the owner, not the contractor." It was acquiring the long lead items (such as the
+LPG plant from Exterran) and was concerned about the planning for when they would be
+required but otherwise the ROS dates for bulk materials were a matter for NKZ. The
+‘Tribunal considers that Mr Makkawi’s position was correct.
+
+(¥) The Alternate Work Programme
+
+‘The KRG complain that Dana was not entitled to reduce manpower in response to the
+KRG?s denial of its rights and reduction in payments.'” But the question is whether the
+construction was completed in a reasonable time in all the circumstances and the fact that
+Dana’s rights were denied and its cash flow reduced were facts, part of the relevant
+circumstances, The Tribunal considers that the KRG is not in a position to complain of
+Dana’s reaction.
+
+IV Conclusion
+
+Transcript Day3, p.97
+
+Respondent's Closing Submissions paragraph 172.
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 73 of 89
+
+”
+
+| 202. The Tribunal considers that the KRG’s counterclaim based on delay in completion of the
+project has not been made out.
+
+|
+| D. Design and Operational Defects
+(a) Residue gas
+203. ‘The KRG alleges that the plant has been producing less residue gas, LPG and condensate
+
+than it should have done and that this reflects defects in its design and operation for
+which Dana is contractually liable. The KRG's expert, Mr Emory, had calculated the
+
+a quantity of these products which he thought the plant should have been able to produce
+
+and arrived at higher figures than the actual production. This, says the KRG, is a “tell-
+tale sign that something is badly wrong with the plant”.""° The KRG does not identify
+what was wrong, It says that the Claimants are in a position to provide an explanation for
+the shortfall and have not done so. The Claimants on the other hand say that they have a
+financial interest in operating the plant at maximum capacity. [f it can be operated to
+produce more, they would like to know how,
+
+204, Mr Emory at first said that the plant should have been able to produce 350 million scf/d.
+‘This was on the assumption that it ran with 5 compressors. The Claimants’ practice,
+however, was to run the plant with 4 compressors and have one in reserve. That reduced
+the output to 330 million sefld. Mr Emory regarded this as conservative but accepted that
+
+it was reasonable.'"' This average daily quantity which the plant ordinarily produced
+
+Respondent's Closing Submissions paragraph 186.
+
+"2 Emory paragraph 35, Transcript Day 6, p. 231.
+
+68
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 74 of 89
+|
+
+# ‘was about 325 million scf/d.""" The Claimants’ expert, Mr Freeny, did not think this
+indicated there was something wrong:'?
+
+i “Mr. Emory's data shows the actual production values indicating an
+average of 325 MMScfD being produced by the combined facilities.
+Many engineers, including myself, would conclude, based upon three
+years of data, consistently indicating a maximum residue gas production
+from the combined facilities averaging 325 MMScf/D that the maximum,
+production was, in fact, this quantity. If they had “calculated” a different
+
+{ quantity, the presumption is that the calculated value, rather than the
+actual value, is incorrect.”
+
+205. The argument then resolved itself into whether, when looking at average figures, the
+330 million scffd notional capacity should be discounted by an “availability factor” to
+
+ss allow for stoppages, planned or unplanned maintenance and so forth. The conventional
+
+gure in the industry is 5%. In his first report, Mr Emory said:'"*
+
+“Assuming no gas supply or product off take interruptions, residue gas
+production should be at or near plant capacity with 95+% annual
+availability.”
+
+206. In his Iater reports and oral evidence, however, Mr Emory said that no availability factor
+should be applied, apparently on the ground that the operator could compensate for
+stoppages, maintenance and so on by running the plant at higher than 330 million sef/d
+for some of the time.
+
+207, The Tribunal considers that this would make nonsense of the concept of an availability
+factor. It must be obvious that one could to a greater or lesser extent make up lost ground
+by running the plant harder and if this were the answer, no one would use an availability
+factor at all. Mr Emory's solution might be relevant to the plant meeting some short-term
+target but makes no sense in relation to year by year capacity.
+
+"See graph in exhibit SWE 1 (F1/1)
+"2 Freeny 189
+
+"1 Emory paragraph 40.
+
+69
+
+Clse 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 75 of 89
+
+9
+
+208. The Tribunal therefore rejects the submission that there was @ significant shortfall in
+residue gas production which indicated that there was something badly wrong with the
+plant.
+
+(b) Condensate and LPG
+
+209. Mr Emory says that the design basis of the plant indicated that it would produce a great
+deal more condensate and LPG than it has actually been doing: Again, the KRG submits
+that this must be due to some major but unspecified defect in the way in which the
+Claimants have been operating the plant. Mr Freeny, however, points out that the design
+basis, calculated before the plant was built and without information about the gas which it
+would process, made certain assumptions about the content of the feedstock. The fact that
+the plant produces less condensate per million scf than indicated by the design basis
+shows only that the actual feedstock differs from the design basis assumptions:!!*
+
+“Condensate is simply “light oil” and, unlike propane and butane, cannot be reinjected
+into the residue gas. Put simply, what comes out of the reservoir via the well must go
+through to the storage tank. Condensate is too “heavy” (chemically) to be put into the
+LPG or into the residue gas. There are 15,000 B/D (as opposed to 26,000 B/D) of
+condensate being produced for the simple reason that that is all there is in the reservoir
+gas being fed to the combined facilities; you simply cannot produce what is not there to
+begin with. in my opinion, Mr. Emory’s estimates of potential LPG production are
+similarly flawed and for the same reason.”
+
+210. The Tribunal does not consider that the KRG was able to produce an answer to these
+observations, Of course, in running the LPG plant in tandem with the EPF (which
+produces no LPG) the Claimants would have been able to vary the feedstock fed to each
+
+‘| Freeny paragraph 192.
+
+wm
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 76 of 89
+
+¥ and thereby produce more or less LPGs, but the Tribunal considers this to have been a
+commerciel decision rather than indicating any fault in the operation of the plant.
+
+(c) Improvements
+
+211. Mr Emory also gave evidence that the plant could be modified at a cost of some USS22
+million to process more gas and produce more condensate and LPGs. The Tribunal
+considers this to be irrelevant to the KRG's claim for damages. The Claimants had no
+obligation to spend any money on modifications which they had not agreed as part of the
+Services Plan.
+
+(d) The residue gas compressors
+
+212, The KRG say that the plant's gas compressors were not fit for purpose. They were
+designed for a maximum ambient temperature of 42°C, Summer temperatures at Khor
+Mor are sometimes higher. During the summer of 2011 one or other of the compressors
+occasionally tripped on account of overheating. In the following year Dana installed
+cooling pads which dealt with the problem,
+
+213. Mr Watts says that Dana ordered standard off-the-shelf compressors fiom Exterran
+because they could be delivered more quickly and were cheaper. It had agreed to a fast
+track construction and did not want to delay matters by ordering bespoke compressors. A
+maximum ambient temperature of 42°C is a standard specification in the Middle East,
+although there are places where temperatures go higher.''® Mr Freeny agrees that this was
+a reasonable decision.
+
+"63 Watts paragraphs 306-307.
+
+ 
+
+1
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 77 of 89
+
+9 214,
+
+‘The Tribunal considers that this issue has received more attention than it deserves. It is
+not at all clear that the tripping of the compressors had any effect on the gas flow to the
+power stations. It was Dana’s practice to use four compressors and have one in reserve.
+Mr Freeny said that if one compressor tripped the spare would take over. There would be
+no loss of pressure in the pipeline.''” Mr Emory said he would require more operational
+data to say whether this was true or not, The Tribunal has no evidence of complaints
+from the power stations about loss of pressure in hot weather.
+
+215. The Tribunal considers that the installation of the original compressors was a reasonable
+commercial decision which was not a breach of Dana’s contractual obligations to the
+
+=~ KRG.
+
+(e) Coalescer filters
+
+216. ‘These ar used to remove lube oil which has entered the gas stream from the
+compressors, Those originally purchased did not filter all the oil because they were
+designed for a higher pressure than the power stations required. This appears to have
+been result of inadequate communication between Dana and the Ministry of Electricity at
+the design stage: another consequence of the fast track construction, They are due to be
+replaced when an opportunity to shut down the plant becomes available. There is no
+evidence that such lube oil as got into the gas stream has caused any damage or loss. The
+Tribunal does not consider that more need be said about the filters.
+
+@ Depropaniser
+
+217, _ A depropaniser separates propane from butane in the LPG mix and enables it to be sold in
+whatever proportions the buyers require. As noted in the first Partial Final Award,'"* the
+
+'"" 2 Freeny 224,
+
+'™ Paragraph 169
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 78 of 89
+
+propane/butane ratio (by weight) of the LPG from Khor Mor in its natural state is on
+average 60-40, Dana has not installed a depropaniser and the KRG says that it ought to
+have done so, Although @ depropaniser ig mentioned in the HoA as something which
+Exterran had (subject to modifications) on offer, the Tribunal does not consider that Dana
+| undertook any contractual obligation to install one. It could have no effect on the supply
+of gas to the power station but only on the saleability of the LPG. As there is no evidence
+that the Claimants could have sold their LPG at higher prices if the propane and butane
+were in different proportions, the Tribunal considers that doing without a depropaniser
+
+‘was a reasonable commercial decision.
+(g) Other matters
+
+218. There are also various peripheral complaints conceming matters such as the amount of
+condensate storage installed at Khor Mor and the validity of the plant performance test
+conducted in 2015. The Tribunal has considered these but does not find that they
+evidence any breaches of the HoA.
+
+(h) Conclusion
+
+219. ‘The Tribunal finds that the KRG has not established any defects in the design or
+operation of the plant which constituted a breach of the terms of the HoA.
+
+E. Appraisal Work and Seismic Data
+
+220, Article 32 (first) of the Kurdistan Region Oi} and Gas Law provides that the Region
+“shall have title” to all data and information, “whether raw, processed, interpreted or
+analysed, regarding Petroleum in the Region”, In September 2009 Dr Hawrami sent Mr
+Jafir an e-mail asking for the seismic data which Dana had obtained from its appraisal
+
+t= 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 79 of 89
+° work at Khor Mor and Chemchemal.''? On 13 November 2009 Dr Hawrami wrote @
+| letter repeating the request.!°
+221, On 26" November 2009 Mr Watts sent Dr Hawrami a disc containing seismic data for
+Khor Mor and Chemchemal and a “Summary Report on Seismic Data Interpretation and
+Mapping” for Khor Mor.!?" On 16 December 2009 he sent a similar report on
+Chemchemal.
+
+222. There does not appear to have been any further request for seismic data until the
+commencement of this arbitration.” There had been nothing previously to indicate that
+
+7 the KRG was not satisfied with the information provided. The main complaint now is
+that Dana sent only the interpretation of the data and did not supply the raw and
+intermediate data from which it was derived. Dana’s Chief Geophysist Dr Kaibili
+explained that raw data by itself is useless, It must be processed to remove noise and
+then interpreted. This is a lengthy and costly process.' It would be most unusual, he
+said, for a host government to commission its own interpretation of the raw or
+intermediate data,
+
+223. The KRG’s expert, Mr Moritz, explained why a host government needed seismic data:'"*
+
+“* paaso
+
+Dail
+
+* 2249
+
+""KRG's Statement of Defence and Counterclaim 12 December 2014, paragraphs 572 and 573
+™ Kaibili, paragraph 11.
+
+™ ca/s3/10.
+
+7
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 80 of 89
+
+@ “Having complete information about the extent and distribution of its
+petroleum reserves and resources is crucial to a government's ability to
+evaluate proposals for further development and negotiate the scope and
+
+| terms of any further development.”
+
+224. That seems entirely reasonable, Equally, it is possible that for some reason a government
+may wish to reinterpret the raw data, In such a case, the goverament would be entitled to
+ask for it, However, the present situation is that the parties have not reached the stage at
+which the Claimants are in a position to make proposals for further development pursuant
+to their exclusive rights in Khor Mor and Chemchemal. And the main reason for this, as
+the Tribunal has found in section A of Part Two above, is that the KRG has, in breach of
+its obligations under the HoA, obstructed the attempts of the Claimants to carry out the
+appraisals (including obtaining more seismic data) which would enable them to make
+such proposils, This no doubt is the reason why the KRG made no further requests for
+seismic data after 2009.
+
+225. The Tribunal therefore considers that the KRG has not demonstrated that it has suffered
+any loss from not having obtained more seismic data than the Claimants have already
+provided and that it would be premature for the Tribunal to make any order requiring the
+Claimants to provide such data.
+
+F.  Andit Request
+
+226. Clause 1.5 of Annexure 6A to the HoA provides:
+
+“1.5.1. The KRG shall have the right: (2) to audit the Accounts with
+respect to each Calendar Year within a period of two (2) Calendar Years
+following the end of such Calendar Year ("Audit Period"); and (b) to
+retain an auditor of international standing familiar with international
+petroleum industry accounting practice to undertake or assist the KRG to
+undertake the said audit.
+
+1.5.2 For purposes of auditing, the KRG, acting reasonably and in
+
+accordance with prudent international petroleum industry practice, may
+examine and verify, at reasonable times upon reasonable prior written
+
+5
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 81 of 89
+
+227.
+
+228.
+
+notice: to the CONTRACTOR, all charges and credits relating to the
+Services, such as books of account, accounting entries, material records
+and inventories, vouchers, payrolls, invoices and any other documents,
+correspondence and records including electronic records reasonably
+considered necessary by the KRG to audit and verify the charges and
+credits, values and treatments.”
+
+On 24 May 2009, the KRG wrote to Dana making a peremptory request for an audit.
+This request was part of a group of letters sent by the KRG to mark its displeasure at the
+sale of minority interests in Pearl to MOL and OMV."5 On 1 August 2009 the KRG
+wrote to say that it would shortly be giving instructions about the audit”® and on 10
+August 2009 Dana wrote to say that it would co-operate.'”” Nearly two years then passed
+without anything happening, On 14 May 2011 Dr Hawrami sent an e-mail to tell Dana
+that it was allocating it US$35 million of the “si/fa" payments" received from the
+Federal Government, The e-mail went on:!??
+
+“[TJhis payment should be treated as a cash advance from the KRG to
+Dana....until your actual entitlements have been agreed by KRG appointed
+independent international auditors.”
+
+The audit to agree or determine the “actual entitlements” to sifa payments appears to
+
+have been a requirement of the Federal Government, as Dr Hawrami explained in an ¢-
+
+mail a month later:'®°
+
+“Please be advised that we have recently received a written notification
+from the federal Ministry of Finance stating that there will be no further
+"5 Transeript Day 5, p. 159 (Dr Hawrami),
+ Di/90
+"7 There had been a “without prejudice” meeting at which it was reported that the KRG agreed to treat its
+24 May letters as “ineffective” (see e-mail from Jeremy Carver, C-134) but the Tribunal does not regard
+this as significant.
+*% For an explanation of the silfa payments, see the first Partial Final Award, paragraph 135.
+"Daal
+
+p2rag4
+
+el
+Gase 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 82 of 89
+
+% cash advances to the KRG with respect to any oil exports made from the
+end of March onwards until all the cost statements related to the
+companies contributing to the oil export have been prepared and
+independently verified (audited). This unfortunate new and unexpected
+development is contrary to the clear agreement previously reached with
+Baghdad. It was understood that the payments will continue during the
+audit process and then all the cash advances will be reconciled with each
+of the project audit findings and outcomes when the audits are completed.”
+
+229. It appears therefore that the audit to which this correspondence refers had nothing to do
+with the audit under the HoA which had been requested two years earlier.
+
+230. The next mention of an audit was in a letter from Dr Hawrami to Dana dated 6” August
+2014, requesting compliance with the audit request of 24 May 2009. The KRG now
+
+-—/» seeks an order that the Claimants permit an audit to take place.
+
+231, The Tribunal considers that the request of 24 May 2009 must be considered as abandoned
+and that it cannot be revived after the limitation period in clause 15.1.1 has expired. The
+purpose of the limitation period, like most limitation periods, is to protect Dana against
+having to find explanations for transactions which took place years go, when evidence
+may have been lost or the persons involved not available. It would be contrary to the
+purpose of this provision if the KRG were able to make a request without taking any
+action upon it for five years and then claim to be able to demand the audit. The Tribunal
+considers that unless a request for an audit is followed by steps to conduct that audit
+within a reasonable time thereafter, it must be treated as having been abandoned. Five
+years is well in excess of a reasonable time,
+
+ 
+
+232. In 2014 KRG made a further request for an audit in respect of the years 2012 and 2013.
+‘This was conducted by Deloittes and completed in 2015. Dana disputes most of the
+“audit exceptions” raised by Deloittes and these have not been agreed. For such a case,
+the HoA provides:
+
+7
+
+7
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 83 of 89
+
+q “1.5.6...1f thereafter there still exists a disagreement between the KRG
+and the CONTRACTOR, the Dispute will be settled in accordance with
+Paragraphs 1.5.7. (Emphasis supplied).
+
+1.5.7, Any Dispute between the Parties under this Paragraph 1.5 that
+cannot be settled amicably within sixty (60) days of the KRG's final notice
+under Paragraph 1.5.6 may be submitted to an independent expert at the
+request of either the KRG or the CONTRACTOR. In this specific
+instance, the decision of the expert shall not necessarily be final and any
+Party may decide to submit the matter to arbitration in accordance with the
+HoA.”
+
+233. Dana proposes to submit the matter to an independent expert, The KRG says that the
+procedure of an expert is merely optional and invites the Tribunal to rule upon the
+
+7! exceptions; ‘The Tribunal considens that either party has the right to refer the dispute to
+
+an independent expert and that the Tribunal cannot pre-empt this right. If the KRG is
+dissatisfied with the decision of the expert, it can refer the matter to arbitration.
+
+G. Delayed Development Claim
+
+234, During the period 2008 to 2012 negotiations (mostly without prejudice) took place
+between the parties with a view to settling the dispute, The KRG says in paragraphs 383
+to 405 of the Statement of Amended Counterclaim that by insisting on unreasonable
+terms in the course of these negotiations, the Claimants were in breach of their obligation
+to negotiate a reasonable development plan in accordance with industry standards.
+
+235, Although there was a statutory model PSC contract in Kurdistan, there is no evidence that
+any definite offer was made to the Claimants and the Tribunal has found that although the
+KRG was willing to negotiate, it would do so only on the basis that negotiations started
+from scratch without regard to Dana’s development rights under the HoA. Indeed, until
+the first Partial Award, the existence of such rights was consistently denied. The Tribunal
+therefore considers it impossible to say that the Claimants were in breach of their
+
+78
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 84 of 89
+
+236,
+
+237,
+
+238.
+
+239.
+
+obligation to enter into reasonable negotiations. ‘The claims in paragraphs 383 to 405
+therefore fail,
+
+H. Conclusion on the KRG's Counterclaims
+
+The Tribunal considers that none of the heads of the KRG’s counterclaim has been
+established and therefore dismisses it in its entirety.
+
+PART FOUR; DECLARATORY RELIEF
+
+In paragraph 113 of its Revised Statement of Claim, as amended by Appendix 3 to its
+skeleton argument, Pearl invites the Tribunal to make 18 declarations. The Tribunal will
+consider cach of these, but in general it considers that it would be unwise, in the absence
+of some dispute over the meaning of the contract, simply to restate in other words what is
+already stated in the HoA. Whether to make a declaration is a matter for the discretion of
+the Tribunal.
+
+(@) A declaration that the “term of the Contract" is 35 years.
+
+BP[33] of Annexure 2 provided that —
+
+“The term of these HOA or any successor agreement(s) thereto shall be for
+a duration to be agreed between the Parties but in any event shall not be
+less than the maximum duration of gas supply to any IPP or the duration
+of RRC’s normally applicable to this type of agreement, whichever is
+greater”.
+
+In addition, paragraph 4.2 of Annexure 6A says that the term of the HoA shall be “not
+less than 25 years”.
+
+7
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 85 of 89
+
+240.
+
+2al.
+
+242.
+
+243.
+
+‘These provisions seem clear enough. How much longer than 25 years the contract will
+last depends upon what may in future be agreed between the parties or determined by
+arbitration. The Tribunal sees no advantage in making a declarstion now.
+
+(6) Declarations as to Pearl's rights in respect of the Initial Services Plan and
+
+Further Services Plans.'"'
+
+‘The first declaration sought is (aa):
+
+“(aa) ‘That full field development of the HoA Areas can take place
+pursuant to one or more PSPs, and that no other contractual instrument
+(such as a PSC, RSC or any other agreement) is required.”
+
+The Tribunal refiuses to make this declaration because it thinks it is wrong. An FSP is
+concerned merely with additional work by way of extension to the work authorized by
+the ISP. Whether the KRG has an obligation not unreasonably to refuse approval of an
+FSP is not something which the Tribunal has considered because there has been no
+‘occasion to do so, A FSP, as contemplated by Annexure 6A, is not the same thing as an
+FDP. Nor can a FDP be achieved by an incremental series of ESPs. They are different
+concepts.
+
+The Tribunal has already found that the KRG may not unreasonably refuse a proposal for
+an FDP in respect of the HoA Areas in which Pearl has exclusive rights. Furthermore,
+the Tribunal has found that the KRG is not entitled to obstruct Pearl from doing whatever
+is necessary by way of appraisal to enable it to make a proposal for an FDP in accordance
+with general practice in the oil and gas industry.
+
+! Revised Statement of Claim, paragraph 113 Band C,
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 86 of 89
+
+‘ 244, ‘The Tribunal does not consider that it should make any of the other declarations sought in
+respect of Service Plans because they do not relate to any concrete controversy or arise
+‘out of a dispute over the meaning of the contract.
+
+245. ‘The Tribunal concludes that none of the declarations requested in this section (b) appears
+to relate to any dispute over the meaning of the contract.
+(c) Declaration as to delayed development.'”
+
+246. The Tribunal has dealt with this question and will make a suitable declaration in the
+
+ay disposition.
+
+(@) Declarations as to title, sales and export rights and aggregate revenues.'"*
+
+247. The declarations do not appear to arise out of any dispute over the meaning of the
+contract.
+
+() Excess gas
+
+248. This claim has failed.
+
+O Guarantee
+249, The declaration requested docs not arise out of any dispute about the meaning of the
+
+contract.
+
+'® Section DD in Appendix 3 to Pearl's Skeleton Argument.
+
+Section D and E,
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 87 of 89
+
+PART FIVE: COSTS
+
+250. Pear! has made an application for an interim award of costs in respect of the proceedings
+up to the issue of the Second Partial Final Award (and its Memorandum of Correction) on
+27 November 2015. The KRG opposes the application in principle, on the ground that the
+‘Tribunal cannot at this stage determine the “relative success and failure” of the parties, to
+which the Tribunal should have regard under rule 28.4 of the LCIA Rules and also on the
+ground that it would be more efficient to have a single order for costs,
+
+251. It is agreed between the parties that if the Tribunal should decide that it was appropriate
+
+/ to make an interim award of costs, the quantification of the costs should be adjourned and
+—_ form the subject of a separate award, It is also not disputed that the Tribunal has a
+discretion as to whether to make such an award or not.
+
+252, The Tribunal considers that it would fair for an interim order to be made, It does not
+envisage great difficulty in deciding the relative success and failure of the parties in
+relation to the First and Second Partial Final Awards and the related interlocutory
+proceedings. As for efficiency, the Tribunal considers that any saving of costs in having a
+single costs order at the end of the proceedings is outweighed by the requirement of
+fairness to Pearl, which has expended considerable sums on costs over the long course
+which this arbitration has taken, Now that all that remains is to quantify Pearl’s delayed
+development claim, it appears to the Tribunal an appropriate moment to make an interim
+costs award.
+
+253. The Tribunal therefore rules that it will make an interim costs order in an amount to be
+determined in a further award after receiving the submissions of the parties.
+
+,
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 88 of 89
+
+PART SIX: DISPOSITION
+
+254. We, Leonard, Lord Hoffinann, Lawrence, Lord Collins of Mapesbury and Jolin Beechey,
+having read and heard the evidence and the parties written and oral submissions made to
+us, and having carefully considered the same and for the reasons stated above, make our
+‘Third Partial Final Award as follows:
+
+(a) We declare that the KRG has in breach of its obligations under the HoA wrongfully
+prevented the Claimants from carrying out appraisals and such other activities as are
+necessary to enable Pearl to put forward a proposal for a FDP in respect of the HoA areas
+
+Ay in which it has exclusive rights and bas thereby delayed the Claimants’ opportunity to
+
+develop those Areas;
+
+(b) We reserve to ourselves the determination of the amount payable by the KRG to the
+Claimants by way of damages for the aforesaid breaches of the HoA;
+
+(©) We declare that the KRG is not entitled under the HoA to reject a proposal from Pearl for
+a FDP otherwise than on reasonable grounds in accordance with good petroleum industry
+practice.
+
+(d) We order the KRG to pay to the Claimants $US$121,095,282 in respect of condensate
+and LPG lifted by or on behalf of the KRG between 30 June 2015 and 31 March 2016,
+together with interest from the dates on which payment for such liquids was due until
+compliance with this order at the rate of LIBOR plus two percent compounded monthly.
+
+(e) We declare that the KRG is liable to refund to the Claimants the payments which it made
+to Pewand Petrol Transporting and Food Inc (“Pewand”) for lifting condensate and LPG
+on behalf of the KRG together with interest from the dates on such payments were made
+until compliance with this order at the rate of LIBOR plus two percent compounded
+monthly.
+
+Case 1:17-cv-00894-APM Document 1-4 Filed 05/12/17 Page 89 of 89
+
+(f) We reserve to ourselves the determination of the sum payable in respect of the aforesaid
+payments to Pewand;
+
+(a) We reserve to ourselves the determination of the Claimants’ application for an interim
+order for costs.
+
+(h) All other claims by the Claimants are dismissed.
+
+6) All the counterclaims by the KRG are dismissed.
+Place of arbitration: London, United Kingdom
+january 2017
+
+Signed:
+
+Lord Hoffmann Victtncnnn
+'
+
+/ Lord Collins of Mapesbury ,
+Ore 2
+Mr John Beeshey CBE hac %
+

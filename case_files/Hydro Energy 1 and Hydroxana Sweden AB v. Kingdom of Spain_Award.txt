@@ -1,0 +1,2440 @@
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 6 of 298
+
+INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
+
+In the arbitration proceeding between
+Hypro Enercy 1 S.A R.L. AND HYDROXANA SWEDEN AB
+
+Claimants
+
+and
+
+KINGDOM OF SPAIN
+
+Respondent
+
+ICSID Case No. ARB/15/42
+
+ 
+
+AWARD
+
+ 
+
+Members of the Tribunal
+Lord Collins of Mapesbury, LL.D., F.B.A., President
+Professor Rolf Knieper, Arbitrator
+Mr Peter Rees, QC, Arbitrator
+
+Secretary of the Tribunal
+Ms Ana Constanza Conover Blancas
+
+Date of dispatch to the Parties: 5 August 2020
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 7 of 298
+
+Representing Hydro Energy 1 S.ar.l. and
+
+Hydroxana Sweden AB:
+
+Dr Gaétan Verhoosel
+
+Ms Carmen Martinez Lopez
+
+Mr Manish Aggarwal
+Mr Scott Vesel
+
+Mr Maanas Jain
+
+Ms Amelia Keene
+
+Three Crowns LLP
+New Fetter Place
+8-10 New Fetter Lane
+London EC4A 1AZ
+United Kingdom
+
+Ms Inés Vazquez Garcia
+Gomez-Acebo & Pombo
+Paseo de la Castellana
+Madrid, 216 — 28046
+Spain
+
+REPRESENTATION OF THE PARTIES
+
+Representing the Kingdom of Spain:
+
+Mr José Manuel Gutiérrez Delgado
+Mr Javier Castro Lopez
+
+Ms Gabriela Cerdeiras Megias
+
+Mr Pablo Elena Abad
+
+Mr Antolin Fernandez Antufia
+
+Mr Roberto Fernandez Castilla
+
+Ms Maria del Socorro Garrido Moreno
+Mr Rafael Gil Nievas
+
+Ms Elena Ofioro Sainz
+
+Mr Juan Rodriguez de la Rua Puig
+Mr Mariano Rojo Pérez
+
+Mr Diego Santacruz Descartin
+
+Mr Javier Torres Gella
+
+Mr Alberto Torr Molés
+
+Mr Francisco de la Torre Diaz
+
+Mr Luis Vacas Chalfoun
+
+Abogacia General del Estado
+
+Ministry of Justice of the Government of Spain
+Dpto. Arbitrajes Internacionales
+
+c/Marqués de la Ensenada, 14-16, 2° planta
+28004, Madrid
+
+Spain
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 8 of 298
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+I. INTRODUCTION. 1
+I. POST-DECISION PROCEDURAL HISTORY 0.0.0.0... eeeeneseneneteeeeteeees 2
+Tl. THE JOINT MEMORANDUM Qu... eeeseeeseeeseeasseeaesesseseeseeeeeeeneeenees 4
+(1) — Areas of Agreement and Disagreement............cccecessesesseeseeseeeetsceeeeeeeseeteeeteneetene 4
+(2) Summary of Compensation Calculation .............ccsceseessessesessesseesessessneseseeeeneeneenee 6
+TV. THE TRIBUNAL’S ANALYSIS 00000000 ccc e ce eeeeseeeseeesseteseeeeseeneneneeeaeee 10
+(1) The PTRRR 10
+(2) The Value of the Plants as of June 2013 w....cccceeeeeseseeseseeneseeteeeeeseeeeeeseeeeeenenes 12
+
+(3) The Definition of Individual Plants
+(4) The Inclusion, or Otherwise, of the Alange Plant ..
+(5) Discount Rates 22
+(6) | Whether PTRRR Should be Capped at the RD 661/2007 Level .......... teens 22
+
+(7) | Whether a Further Calculation is Needed to Account for the Impact on
+the Claimants’ Equity and Debt Investments in the portfolios
+
+V. APPLICATION OF THE JOINT MODEL
+VI. DECISION OF THE TRIBUNAL ON QUANTUM.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VII. INTEREST 29
+(1) — The Claimants’ Position 29
+(2) The Respondent’s Position 31
+(3) The Tribunal’s Analysis 33
+VII. COSTS 35
+(1) — The Claimants’ Cost Submissions ..........c.ccccssseeseseeseseeseseeesseesseesseeeseeseneesenenes 35
+ie Respondent’s Cost Submission
+(2) The Respondent’s Cost Submissi 37
+(3) — The Tribunal’s Decision on Costs ........:cssseseesseesseesseesssesseessiesseesseesseesseesseesseenseess 38
+IX. AWARD 40
+
+ 
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 9 of 298
+
+INTRODUCTION
+
+This case concerns a dispute submitted to the International Centre for Settlement of
+Investment Disputes (“ICSID” or the “Centre”) on the basis of the Energy Charter
+Treaty, which entered into force on 16 April 1998 with respect to the Grand Duchy of
+Luxembourg, the Kingdom of Sweden and the Kingdom of Spain (the “ECT”), and the
+Convention on the Settlement of Investment Disputes between States and Nationals of
+
+Other States, which entered into force on 14 October 1966 (the “ICSID Convention”).
+
+The claimants are Hydro Energy 1 S.a rl. (“Hydro Energy”), a private limited
+company (société a responsabilité limitée) incorporated under the laws of Luxembourg,
+and Hydroxana Sweden AB (“Hydroxana”), a private limited liability company
+
+(Aktiebolag) incorporated under the laws of Sweden (together, the “Claimants”).
+The respondent is the Kingdom of Spain (“Spain” or the “Respondent’”).
+
+The Claimants and the Respondent are collectively referred to as the “Parties”.
+
+The Parties’ representatives and their addresses are listed above on page (i).
+
+This dispute relates to measures implemented by the Respondent that modified the
+regulatory and economic regime applicable to producers of hydropower generation
+energy, which allegedly negatively impacted the Claimants’ investment (equity and
+debt interests) in various Spanish companies that own and operate thirty-three
+hydropower generation plants in Spain with a total installed production capacity of
+
+106.788 megawatts.
+
+The Claimants allege that Spain has breached its obligations under Article 13 of the
+ECT by means of the indirect expropriation of their investment. They also submit that
+the Respondent has failed to comply with the following obligations under Article 10(1)
+of the ECT: (a) to accord fair and equitable treatment, () not to impair by unreasonable
+or discriminatory measures the management, maintenance, use, enjoyment or disposal
+of the Claimants’ investment, and (c) to accord the most constant protection and
+security. The Claimants seek compensation for damage caused as a result of the
+
+Respondent’s violations of the ECT.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 10 of 298
+
+In its Decision on Jurisdiction, Liability and Directions on Quantum dispatched to the
+Parties on 9 March 2020 (the “Decision”) the Tribunal, having declared it has
+jurisdiction over the Claimants’ claims in the present arbitration and dismissing the
+
+Claimants’ claim under ECT Article 13(1), went on to declare and direct as follows:
+
+(3) the Tribunal declares that the Respondent might (or would)
+be in breach of ECT, Article 10(1), if and to the extent that the
+remuneration of each of the plants in the Ondina and Xana
+portfolios failed to accord with a reasonable post-tax rate of
+return in the small-hydro market in Spain on the basis of WACC
+plus 1%, with the risk-free rate being the Spanish 10 year bond
+rate of 4.398%;
+
+(4) the Tribunal accordingly directs the Parties to endeavour to
+agree on the bases in Section VIII B hereof (i) an agreed post-
+tax reasonable rate of return calculated using the WACC as
+at June 2013; and (ii) agreed post-tax holding IRRs for each of
+the plants; !
+
+The Tribunal gave directions for the Parties to report to the Tribunal within 60 days
+as to whether agreement had been reached and, if not, on the principal areas of
+disagreement. The Tribunal also stated it would give such further directions as may
+
+be necessary.
+
+The Decision constitutes an integral part of this Award and it is hereby incorporated as
+Annex A. The Decision sets out the full procedural history of this arbitration, the factual
+background to the dispute, the submissions made by the Parties and the Parties’
+
+respective requests for relief. In consequence, none of that is repeated here.
+
+In this Award, unless the context otherwise requires, the Tribunal adopts the
+
+abbreviations used in the Decision.
+
+POST-DECISION PROCEDURAL HISTORY
+
+On 26 March 2020, the Parties notified the Tribunal that, in order to facilitate
+discussions between the Parties and their respective experts, with a view to reaching
+agreement within the timeframe set by the Tribunal (i.e., by 8 May 2020), the Parties
+
+had agreed the following protocol:
+
+' Decision, 1770.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 11 of 298
+
+1. By Monday 30 March 2020, the Parties’ respective quantum
+experts shall seek to agree a schedule for discussions on the
+issues identified by the Tribunal.
+
+2. By Monday 4 May 2020, the Parties’ experts shall endeavour
+to reach agreement on the identified issues and prepare a joint
+memorandum that identifies areas of agreement and any areas of
+disagreement that remain, along with reasons for the
+disagreement.
+
+3. By Friday 8 May 2020, the Parties shall submit a joint
+communication to the Tribunal, providing a copy of the experts’
+joint memorandum and, if necessary, proposing a procedural
+timetable for submissions on any areas of disagreement.
+
+4. All discussions and drafts exchanged between the experts, and
+with and between the Parties, in accordance with this protocol
+shall be on a “without prejudice” basis, such that only the final
+agreed joint memorandum may be presented to the Tribunal.
+
+On 24 April 2020, the Parties sought an extension of time of 14 days to the deadlines
+contained in paragraphs 2 and 3 of the agreed protocol which was granted by the
+
+Tribunal on the same day.
+
+On 22 May 2020, the Parties submitted to the Tribunal the experts’ final Joint
+Memorandum dated 22 May 2020 (the “Joint Memorandum”), together with the Joint
+Excel Model referred to therein (the “Joint Model”). The Parties also stated that they
+did not consider further submissions were necessary in light of the positions taken in the
+Joint Memorandum, but that should the Tribunal deem further submissions helpful,
+the Parties would be happy to liaise in order to agree a procedural timetable for
+
+such submissions.
+
+The Claimants stated that if the Tribunal wished to hear orally from the experts and
+counsel in relation to the remaining areas of disagreement, a virtual hearing of up to a
+maximum of one day would be appropriate. The Respondent stated it did not consider
+
+a hearing to be necessary.
+
+On 10 June 2020, the Tribunal notified the Parties that it did not require a
+
+further hearing.
+
+On 17 June 2020, the Respondent filed a request for the Tribunal to decide on the
+
+admissibility of a new document, namely the Decision on Annulment issued on
+
+3
+
+Ill.
+
+20.
+
+21.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 12 of 298
+
+11 June 2020 in Eiser Infrastructure Limited and Energia Solar Luxembourg S.a r.l. v
+Kingdom of Spain, CSID Case No. ARB/13/36. On 22 June 2020, the Claimants filed
+observations on the Respondent’s request of 17 June 2020. On 23 June 2020, the
+
+Tribunal decided on the admissibility of the new document.
+On 24 June 2020, each Party filed an updated statement of costs.
+
+On 22 July 2020, the Tribunal declared the proceeding closed.
+
+THE JOINT MEMORANDUM
+
+dd) Areas of Agreement and Disagreement
+
+The Joint Memorandum contains a few areas of agreement between the experts, but
+significant areas of disagreement such that detailed analysis of the arguments of the
+Parties’ experts set out in the Joint Memorandum is necessary for the Tribunal to
+
+determine the compensation due to the Claimants.
+The experts do agree:
+
+(1) That the internal rate of return (“IRR”) is to be computed for each individual plant,
+post-tax, and that the IRR is to be computed based on the value of the plants as of
+June 2013 and the projected free cash flows to the firm that each individual plant is
+expected to generate from June 2013 through the end of their concession in what is
+
+described as the “actual” scenario; and
+
+(2) To use the cash flows previously modelled in these proceedings under the “actual”
+
+scenario to project cash flows.”
+
+The experts also agree that wherever possible, they use cash flow components for
+individual plants. Where financial statements and cash flow forecasts are aggregated at
+the portfolio level, they allocate cash flow forecasts to individual plants based on their
+
+installed capacity and projected cash flows.*
+
+2 Joint Memorandum, § 3(a)-(b).
+3 Joint Memorandum, § 3(b).
+
+22.
+
+23.
+
+24.
+
+25.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 13 of 298
+
+The experts disagree, however, on how to compute the post-tax reasonable rate of return
+(“PTRRR’) of the individual plants and on the post-tax holding IRRs achieved by the
+individual plants in the “actual” scenario. This is, principally, because they cannot agree
+how to calculate the value of the individual plants as of June 2013 and, much less
+significantly, whether to compute the IRRs for all plants separately or to combine cash
+
+flows for (i) the Porma and Ferreras plants and (ii) the Baga and Pendis plants.*
+
+Once the PTRRR and the IRRs are calculated, the experts do agree on the overall
+methodology to calculate the economic impact of the disputed measures on the
+individual plants as of June 2013 according to the Decision, namely that, following the
+Tribunal’s instructions, the actual IRRs of the individual plants are compared to the
+PTRRR. However, differences between the experts remain as to three parameters in the
+
+calculation of the economic impact of the disputed measures on the individual plants:
+(1) Whether to include or exclude compensation for the Alange plant;
+(2) Whether the discount rate used should be equal to or different than the PTRRR; and
+
+(3) Whether to cap the PTRRR for individual plants at the IRR that would have been
+achieved under RD 661/2007.5
+
+Finally, the experts disagree on whether compensation due to the Claimants must be
+computed as arising from their equity and debt investments, or whether compensation
+due to the Claimants is equal to the economic impact of the disputed measures on
+
+the plants.°
+
+In addition to the Joint Memorandum, the experts have also provided the Tribunal with
+a Joint Model which they say has
+built-in options that can be used to select different permutations
+
+of the foregoing areas of disagreement, and to visualize the
+resulting compensation calculation.”
+
+4 Joint Memorandum, | 4.
+
+5 Joint Memorandum, § 5.
+
+© Joint Memorandum, { 6.
+
+7 Joint Memorandum, {| 7 (internal footnote omitted).
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 14 of 298
+
+Prior to considering each of the areas of disagreement between the experts, the Tribunal
+notes that, notwithstanding their differences, both experts conclude that, in respect of
+some of the small-hydro plants at least, in both portfolios, the remuneration of those
+plants would fail to accord with a reasonable post-tax rate of return going forward from
+
+the New Regime and, in consequence, compensation is due to the Claimants.
+
+In consequence, and in accordance with the conclusions reached by the Tribunal in the
+
+Decision, the Respondent is in breach of ECT Article 10(1).
+
+The manner in which each expert has calculated the compensation due to the Claimants,
+and the results of those calculations, is set out very briefly in the following paragraphs.
+Having done that, the Tribunal considers in detail the areas of difference between the
+experts and, by applying its findings in respect of each of those areas of differences to
+
+the Model, concludes what compensation is due to the Claimants from the Respondent.
+
+Professor Spiller of Compass Lexecon is the Claimants’ expert and Dr Flores,
+
+previously of Econ One and now of Quadrant Economics, is the Respondent’s expert.
+
+(2) Summary of Compensation Calculation
+
+Each expert provides a figure for a PTRRR, but calculated in different ways. Each
+expert provides figures for the value of the individual small-hydro plants in the Xana
+and Ondina portfolios, but calculated in different ways. Each expert arrives at a figure
+
+for compensation due to the Claimants, but calculated on different bases.
+
+Professor Spiller calculates the PTRRR at 7.97% and, having done so, concludes
+that the impact of the disputed measures on the individual plants amounts to
+EUR 160,597,000 as of 1 June 2013. Professor Spiller, however, provides an
+alternative calculation which caps the plants’ returns such that the “but-for”
+remuneration of each plant does not exceed the return based on the original
+RD 661/2007 regulation (i.e., if a plant’s IRR under the RD 661/2007 remuneration is
+less than 7.97%, Professor Spiller adopts the IRR under RD 661/2007 as the target rate
+
+of return).?
+
+8 Joint Memorandum, {| 35 and Table 1.
+
+° Joint Memorandum, {| 34.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 15 of 298
+
+His rationale for this approach is that since the IRR expected to be obtained by some of
+the Claimants’ plants under RD 661/2007 might be lower than the PTRRR, a
+mechanical application of the PTRRR for such plants could produce returns higher than
+those which they would have received under RD 661/2007, a result which Professor
+
+Spiller considers may be contrary to the intentions of the Tribunal.!?
+
+Applying this cap, in effect, means that no plants would be granted returns higher than
+those which they were receiving under RD 661/2007 (with the overall impact of
+reducing damages). It prevents the scenario in which the “but-for” returns for certain
+plants, according to the Tribunal’s methodology, would have been higher than the
+returns being obtained under the regulation before the disputed measures were
+
+implemented. '!
+
+Using this cap, Professor Spiller calculates that the impact of the disputed measures on
+
+the individual plants amounts to EUR 88,556,000. !
+
+Having made that calculation, Professor Spiller goes on to note that the Claimants hold
+equity and debt investments in the portfolio companies that hold the plants and, in order
+to compute the compensation due to the Claimants, one must take into account the
+
+impact of the disputed measures on the Claimants’ financial debt. '*
+
+Professor Spiller explains that the operating companies which own the Xana and
+Ondina portfolios restructured their debts, meaning that the debt holders absorbed part
+of the impact of the disputed measures on the plants’ cash flows. He states that if one
+were to assess compensation to the Claimants exclusively by focusing on the economic
+impact on the plants (i.e., without focusing on damages to the Claimants), one would
+not be accounting for mitigation to those plant-level damages that was achieved through
+the debt restructuring in the “actual” scenario. To account for such mitigation,
+Professor Spiller computes the compensation due to the Claimants as the sum of the
+
+impact of the disputed measures on their equity and debt investments. '*
+
+"0 Joint Memorandum, § 19.
+
+4 Joint Memorandum, § 20.
+
+2 Joint Memorandum, § 34 and Table 1.
+3 Joint Memorandum, § 41.
+
+4 Joint Memorandum, { 41 and 42.
+
+37.
+
+38.
+
+39.
+
+40.
+
+Al.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 16 of 298
+
+ 
+
+Professor Spiller total d to the Clai ” equity in at
+EUR 37,057,000 as of 1 June 2013 based on the capped calculation. He argues,
+therefore, that the equity holders were able to mitigate the impact of the disputed
+measures by approximately EUR 51.5 million!» by getting lenders to absorb this portion
+of damages through the restructuring of the portfolio companies’ financial debt. As the
+Claimants also hold a debt investment, Professor Spiller states that they absorbed a part
+of the burden that was shifted to lenders and suffered damages to debt holdings of
+EUR 4,362,000.!°
+
+Professor Spiller concludes by saying:
+
+In spite of suffering damages to its debt holdings of
+EUR 4.4 million, Claimants’ net mitigation remains significant,
+at EUR 47.1 million. In other words, this net mitigation has to be
+deducted from the overall damages to the plants to accurately
+reflect the actual losses suffered by the Claimants as a result of
+the Measures. !”
+
+Based on the capped calculation, Professor Spiller assesses total damages to the
+Claimants’ equity investments at EUR 37,057,000 as of 1 June 2013, and damages to
+
+the Claimants’ debt investment at EUR 4, 362,000 as of 1 June 2013, making a total of
+EUR 41,419,000.!8
+
+If the same calculation were to be carried out without applying the cap, the
+equivalent figure for damages to the Claimants’ equity and debt investments would be
+
+EUR 98,199,000."
+
+Accordingly, depending on the approach taken, Professor Spiller provides a selection
+
+of quantum amounts ranging from EUR 160,597,000 to EUR 41,419,000.
+
+13 i... EUR 88,556,000 million less EUR 37,057,000.
+16 Joint Memorandum, {46 and Table 2.
+
+‘7 Joint Memorandum, §j 46 (internal footnote omitted).
+18 Joint Memorandum, {[ 47 and Table 2.
+
+19 Joint Memorandum, § 48 and Table 2.
+
+42.
+
+43.
+
+44.
+
+4S.
+
+46.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 17 of 298
+
+Notwithstanding the Tribunal’s directions to do so,”° Dr Flores has not calculated a
+PTRRR based on WACC plus 1% with the risk free rate being the Spanish 10 year bond
+
+rate of 4.398%. The extent of Dr Flores analysis and calculation is as follows:
+
+As I have explained in these proceedings, the reasonable
+
+profitability rates in the renewable energy sector since the early
+
+2000s have been around 7% post-tax. Hence the PTRRR is 7%.7!
+Dr Flores calculates the IRRs of the individual plants in the Xana and Ondina portfolios
+and, using those IRRs, calculates the compensation that would be required as of
+June 2013 to achieve his 7% PTRRR. For the Xana portfolio, the compensation figure
+he calculates is EUR 8,791,000 and for the Ondina portfolio EUR 369,000, making a
+total of EUR 9,160,000.2
+
+Having done so, however, Dr Flores argues that one of the plants in the Xana portfolio,
+the Alange plant, should be excluded from the calculation because of poor performance
+unrelated to the disputed measures.*> The compensation Dr Flores calculates for the
+Alange plant is EUR 5,041,000.74 Thus, removing Alange results in compensation for
+the Xana portfolio of EUR 3,750,000 and the Ondina portfolio of EUR 369,000, making
+a total of EUR 4,119,000.25
+
+Accordingly, depending on the approach taken, Dr Flores provides alternative quantum
+
+amounts of either EUR 9,160,000 or EUR 4,119,000.
+
+The Tribunal now turns to the calculation of the compensation due to the Claimants as
+a result of this breach. In doing so, the Tribunal considers the approaches taken by each
+
+of the experts in the Joint Memorandum with respect to the following issues:
+(1) The PTRRR;
+
+(2) The value of the plants as of June 2013;
+
+20 Decision, | 762-766 and 770(4).
+
+2! Joint Memorandum, § 60 (internal footnote omitted).
+22 Joint Memorandum, § 75 and Table 4.
+
+23 Joint Memorandum, § 76.
+
+24 Joint Memorandum, Table 4.
+
+?5 Joint Memorandum, § 78.
+
+47.
+
+48.
+
+49.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 18 of 298
+
+(3) The definition of individual plants;
+
+(4) The inclusion, or otherwise, of the Alange plant;
+
+(5) Discount rates;
+
+(6) Whether PTRRR should be capped at the RD 661/2007 level; and
+
+(7) Whether a further calculation is needed to account for the impact on the Claimants’
+
+equity and debt investments in the portfolios.
+
+THE TRIBUNAL’S ANALYSIS
+
+(1) The PTRRR
+
+As already noted, Dr Flores has not calculated a PTRRR in the manner directed by
+the Tribunal. Professor Spiller has done so, but his calculations are the subject of a
+number of criticisms by Dr Flores. Accordingly, the Tribunal’s starting point is
+Professor Spiller’s calculation of a PTRRR of 7.97% against which the criticisms of
+
+Dr Flores will be evaluated.
+
+Dr Flores notes that the RREEF v Spain”® tribunal calculated a PTRRR of 6.86% and
+argues that Professor Spiller’s PTRRR of 7.97% is not consistent with the decision of
+that tribunal because the levered WACC that Professor Spiller calculates assumes
+financial risk from leverage, which was excluded from the WACC in RREEF v Spain.
+Dr Flores says that Professor Spiller’s unlevered WACC, consistent with the
+RREEF v Spain approach, would be 6.03% and adding a 1% premium would result in
+a 7.03% PTRRR.?”
+
+Dr Spiller’s response to this is that his WACC calculation does not assume financial
+risk from leverage because his WACC is computed with a capital structure of 49% debt,
+51% equity, which he says is comparable to the debt 60%/equity 40% used in
+RREEF v Spain.** He says that his post-tax WACC of 6.97% is in line with the post-
+tax WACC applied by the RREEF v Spain tribunal once the different methodological
+
+26 RREEF v Spain Decision on Responsibility.
+27 Joint Memorandum, if 61-62.
+28 Joint Memorandum, fn 15.
+
+50.
+
+Sl.
+
+52.
+
+53.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 19 of 298
+
+approaches are accounted for. He states that the quantum experts in the RREEF v Spain
+arbitration compute an unlevered WACC, which uses an unlevered beta (this is
+because those experts apply a different methodological approach, while in the present
+case the cash flows are discounted to account for leverage, and so a levered beta
+is appropriate).
+
+Professor Spiller confirms that his unlevered WACC as of June 2013, using the Spanish
+risk-free rate of 4.398%, is 6.03%, which, he states, is in line with the 5.86% unlevered
+WACC calculated by the RREEF v Spain tribunal.*° Using this figure would result in a
+PTRRR of 7.03%.
+
+In the Decision, the Tribunal indicated very clearly that it expected the approach
+adopted in RREEF v Spain to be adopted in calculating the PTRRR®*! and that it
+expected the PTRRR was likely to be somewhere in the region of 5.5% to 7%.*? One of
+the factors which gave rise to that expectation was, as Dr Flores points out, when
+evaluating the reasonable rate of return in his second report, Professor Spiller used a
+PTRRR 6.24% as of 2013. Dr Flores then calculates that, based on the Spanish 10 year
+bond rate of 4.398% specified in the Decision, the post-tax WACC would be 6.10% as
+of 2013.7
+
+The Tribunal considers that, taking all the arguments of the respective experts into
+account, had the correct approach been taken by Professor Spiller in calculating the
+WACC as at June 2013, the PTRRR would be much closer to 7% than to 8% which is
+
+the result of Professor Spiller’s calculation of 7.97%.
+
+As is explained in more detail later in this Award, the Parties have provided the Tribunal
+with the Joint Model, which has been jointly agreed by the experts, in order to calculate
+the compensation due to the Claimants. So far as the PTRRR is concerned, the Joint
+
+Model only permits two options for the Tribunal to input: either 7.97% or 7%. Given
+
+2 Joint Memorandum, fn 18.
+
+39 Joint Memorandum, fn 18.
+5! Decision, §] 740 et seq.
+2 Decision, §] 746.
+
+33 Joint Memorandum, § 62.
+
+54.
+
+55.
+
+56.
+
+57.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 20 of 298
+
+the arguments included in the Joint Memorandum by Professor Spiller, the Claimants
+
+could have included input options of 7.03% or 7.10% as well, but have failed to do so.
+
+In consequence, in choosing between the PTRRRs put forward by each expert, 7% by
+Dr Flores and 7.97% by Professor Spiller, the Tribunal has concluded that the PTRRR
+of 7% is the most likely to be correct. This is not as a result of the manner in which
+Dr Flores has calculated that figure, but represents as close an approximation as
+possible to the figure the Tribunal concludes would have been established had it been
+
+correctly calculated by Professor Spiller.
+
+(2) The Value of the Plants as of June 2013
+
+To determine the value of the plants as of June 2013 Professor Spiller relies on the book
+value of the plants as presented in the companies’ respective financial statements as of
+a date as close to June 2013 as possible. Professor Spiller notes that the book value of
+the assets, as reported in the financial statements, is an audited figure prepared by a
+third party in the normal course of business. He also states that the book value is
+independent of historical remuneration received by the plants, and so is consistent with
+
+the instructions of the Tribunal** in this regard.°*
+
+Professor Spiller justifies his use of book values as, under accounting rules, an asset’s
+book value must be periodically assessed, and while it can be presented in financial
+statements at a value lower than its fair market value, it cannot be presented at a value
+
+higher than its fair market value. The book value has also been ratified by the auditors.*°
+
+To establish the book value as of June 2013 Professor Spiller relies on the Xana
+portfolio’s book value of EUR 35,000,000 as stated in its 31 May 2013 financial
+statements and the Ondina portfolio’s book value of EUR 211,200,000 as stated in its
+
+31 December 2012 financial statements.*”
+
+§ Decision, | 718.
+38 Joint Memorandum, § 21.
+36 Joint Memorandum, § 22.
+
+37 Joint Memorandum, § 24.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 21 of 298
+
+There is no available book value data for the individual plants, and so Professor Spiller
+allocates the book value among the plants pro rata based on the product of each of the
+
+plant’s installed capacity and the number of years remaining on the concession.**
+
+Dr Flores adopts an entirely different approach. He states that his calculation of the
+
+value of the plants as of June 2013 is carried out as follows:
+
+(i) Take the aggregate historical capital expenditures shown in
+the financial statements of the entities holding each portfolio of
+plants, calculated previously in these proceedings.
+
+(ii) Allocate those aggregate historical capital expenditures to
+individual plants based on the year the expenditure was incurred
+and the year the plants were constructed.
+
+(iii) Calculate the ratio of the remaining years of life as of June
+2013 to the total years the individual plant was expected to
+operate based on the end date of the relevant concession.
+
+(iv) Multiply the historical capital expenditures by the ratio of
+years remaining to total years.°°
+
+The value of the plants as calculated by Dr Flores are EUR 34,800,000 for the Xana
+portfolio and EUR 57,500,000 for the Ondina portfolio.
+
+Dr Flores has two principal objections to the approach to valuation adopted by
+Professor Spiller. The first is that, under Professor Spiller’s approach, non-cash
+accounting adjustments are taken into account. Dr Flores asserts that non-cash
+accounting adjustments that do not involve new capital expenditures should not be
+considered in reasonable return calculations. His calculations, therefore, exclude any
+
+non-cash accounting adjustments.
+
+By way of example, Dr Flores refers to an adjustment that was made to the accounting
+
+value of the Ondina portfolio in 2010.*°
+
+Professor Spiller’s response is that accounting adjustments are a standard accounting
+
+practice, subject to auditing, to reflect the persistent value of the plants, internalising
+
+38 Joint Memorandum, § 25.
+
+39 Joint Memorandum, {| 64 (internal footnote omitted).
+
+40 Joint Memorandum, § 67.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 22 of 298
+
+the long life of the plants and the investors’ expectations of their productivity and
+
+profitability.*!
+
+64. In support of his position, Professor Spiller quotes*? from Dr Flores’ First Report
+
+which states:
+
+Typically, an asset is recorded at actual historical cost. If the
+value of that asset is perceived to be higher than the book value
+at actual historical cost, then a company may revalue those
+assets.*3
+
+65. Professor Spiller further notes that the accounting adjustment of the Ondina portfolio
+did not stem entirely from the 2010 revaluation as other revaluations also took place
+previously, such as in 1999. He also points out that the revaluations were performed
+
+prior to the Claimants’ acquisition.
+
+66. Dr Flores also argues that PTRRR is meant to give a reasonable return on the cost of
+constructing renewable energy facilities. He seeks to demonstrate this using an
+
+example“ which is dealt with by Professor Spiller as follows:
+
+Dr. Flores hypothesizes in paragraph 68 below that “if a hydro
+plant were built in 2013 at a construction cost of EUR | million,
+we would be interested in the reasonable return on that
+EUR | million value, regardless of whether the plant’s
+accountants and auditors later adjusted the book value of the
+plant to EUR 2 million based on their own perceptions of market
+value,” and that “calculating reasonable returns on a revalued
+market value exceeding the construction cost would lead to
+untenable results, as it would create the incentive for investors to
+keep selling their plants to each other at higher and higher values
+in order to obtain higher remuneration from the government.”
+First, this example is illogical —if the value of such plants was
+EUR 2 million, while they cost only EUR 1 million to build, then
+the market would become flooded with investors who will invest
+in new plants rather than bid up the price of already built plants.
+Second, this example does not fit the case at hand, since if the
+investment cost of the new plant was in fact EUR 1 million, and
+the reasonable return was computed on that EUR 1 million
+amount, then the value of the plants would not be EUR 2 million.
+Third, and more importantly, as we have explained above, an
+
+4! Joint Memorandum, § 27.
+2 Joint Memorandum, fn 47.
+43 First Econ One Report, § 88.
+
++4 Joint Memorandum, § 68.
+
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 23 of 298
+
+asset’s audited book value cannot be presented at a value higher
+than its fair market value, and this value would have to be in line
+with legitimate expectations. As such, Dr. Flores’s ever-
+escalating-incentive argument is unrealistic and does not apply
+to the case at hand.“
+The Tribunal accepts Professor Spiller’s reasoning in respect of this example. As stated
+
+in the Decision, the Tribunal considers that
+
+the essence of the regime was that it was intended to promote,
+
+and ensure the continuance of, renewables having a reasonable
+
+rate of return for their future lifetime balanced against the cost to
+
+the consumer.*°
+The essence of the regime was not simply to encourage construction of new renewable
+facilities, but also to ensure that investment was made in valuable and previously
+
+constructed facilities in order to ensure they continued to produce renewable energy.
+
+Dr Flores makes reference to the decisions of tribunals in a number of other arbitrations
+brought against the Respondent arising out of the disputed measures,*” but these
+decisions do not support Dr Flores’ proposition that the IRR is calculated on the cost of
+constructing renewable energy facilities; they all refer to investment in renewable
+
+energy facilities and rates of return on investments made.
+
+The second objection raised by Dr Flores to the approach to valuation adopted by
+Professor Spiller is that Professor Spiller ignores the information available on the actual
+investment cost of the individual plants. Dr Flores argues that Professor Spiller ignores
+available information regarding the historical investment cost of the individual plants
+and ignores the fact, as Dr Flores contends, that older plants should comprise a smaller
+share of the value as of June 2013 than newer plants. Dr Flores notes that this problem
+affects mainly the Xana portfolio, the plants of which were constructed in the 1990s
+
+and early 2000s and have a shorter useful life than those in the Ondina portfolio.*®
+
+Professor Spiller disagrees and notes, in relation to the contention that older plants
+
+should have a smaller share of the value, that an older hydro plant that has a very long
+
+45 Joint Memorandum, § 27(c) (internal footnote omitted).
+46 Decision, §] 690 (emphasis added).
+47 Joint Memorandum, fn 124.
+
+48 Joint Memorandum, § 70.
+
+72.
+
+73.
+
+74.
+
+75.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 24 of 298
+
+and productive useful life remaining would be much more valuable than a newer hydro
+plant with a shorter useful life, given the same capacity and productivity.” There is
+
+clear and obvious sense in this argument.
+
+The Tribunal takes the view that, if the criticisms made by Dr Flores had serious merit,
+a significant difference in the valuation of the Xana portfolio between Dr Flores and
+Professor Spiller would be apparent, not least because the Xana portfolio is much more
+modem than the Ondina portfolio. It appears that the Xana plants were put into
+operation between 1990 and 2004, whereas the Ondina plants were put into operation
+between 1906 and 1986.°° Accordingly, the historical data upon which Dr Flores
+relies for the Xana portfolio are likely to be fairly accurate and, certainly, as stated
+in paragraph 76 below, much more so than that for the Ondina portfolio. However,
+as already noted, Dr Flores values the Xana portfolio at EUR 34,800,000 and
+Professor Spiller values it at EUR 35,000,000.
+
+As for Dr Flores’ overall approach of using historical capital expenditures on the plants,
+Professor Spiller finds this approach to be unreliable and inappropriate for a number of
+reasons. There is no consistent investment cost information for the plants from the time
+of their construction, there is no adjustment for inflation, the focus on capital
+expenditure disregards maintenance operational expenditure and capital expenditure is
+depreciated which fails to recognise that, with proper maintenance, the productivity of
+
+the plants does not deteriorate over time.*!
+
+Dr Flores does not seek to defend these criticisms in detail but simply states that
+although Professor Spiller claims that he excludes several components, the valuations
+
+arrived at by both of them for the Xana portfolio are similar.
+
+It is obvious that the respective values calculated by both experts for the Xana portfolio
+will not assist the Tribunal in concluding which of the methods adopted to value the
+plants as at June 2013 is correct. The different valuations of the Ondina portfolio,
+
+however, do demonstrate that fundamentally different results will be obtained in certain
+
+* Joint Memorandum, § 27(d).
+50 First Econ One Report, {f 39, 73-75.
+
+5! Joint Memorandum, § 29.
+
+76.
+
+77.
+
+78.
+
+79.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 25 of 298
+
+circumstances depending upon which method is adopted. Professor Spiller values it at
+
+EUR 211,200,000 and Dr Flores at EUR 57,500,000.
+
+As Professor Spiller points out, there is no information available for the Ondina
+portfolio prior to 1989 despite 87% of the portfolio’s capacity being on line by 1930
+and, in any event, the available capital expenditure figures for 1989 onwards are not
+based on contemporary data but on financial statements from 1999 onwards.*? Dr Flores
+does not dispute this and it is clear to the Tribunal, therefore, that the figures used by
+
+Dr Flores for capital expenditure on the Ondina portfolio are inherently unreliable.
+
+Also of significance is the question of operational maintenance expenditures on the
+plants over the years which maintain productivity, extend useful life and must,
+therefore, contribute to value. Professor Spiller asserts that Dr Flores disregards
+maintenance expenditure by his focus solely on capital expenditure. Professor Spiller
+states that relying solely on historical capital expenditures will thus severely
+underestimate the value of the plants as of June 2013 as the undepreciated value
+would not account for the fact that the maintenance expenditures have allowed the plant
+to continue operating efficiently without serious degradation in capacity and
+
+productivity.*?
+
+Professor Spiller refers to Dr Flores’ First Report in which he notes that, including only
+the actual historical capital investments, the book value of the Ondina plants will
+decline to zero by 2017.* In contrast, Professor Spiller points out that the Ondina plants
+are generating electricity productively, and have signed concession agreements
+
+extending their useful lives up to 2061.°°
+
+Professor Spiller also states that the Respondent itself has acknowledged in its cash
+flow computations that the productivity of small-hydro plants does not degrade over
+
+time. He points out that while Order 1045/2014 implements a 0.5% degradation rate for
+
+% Joint Memorandum, § 30(a).
+53 Joint Memorandum, § 30(d) and (e).
+54 First Econ One Report, | 120.
+
+55 Joint Memorandum, § 30(e).
+
+80.
+
+81.
+
+82.
+
+83.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 26 of 298
+
+technologies such as photovoltaic and wind turbines, it does not introduce such
+
+degradation for hydroelectric plants.*°
+Professor Spiller concludes by saying:
+
+One way to include the value from maintenance expenditures in
+
+the plants and any associated concession extensions is to include
+
+the revaluations as reported in the audited financial statements.
+
+Such book value revaluations are evident as far back as 1989,
+
+and so even by that stage the plants were deemed to be worth
+
+more than their depreciated historical cost. Revaluations account
+
+for the value added by the maintenance of the plants between the
+
+date of the historical investment and June 2013, and so must
+
+be included.*”
+It is clear to the Tribunal that the value of the plants stems from more than just the
+historical capital expenditures alone. That is amply demonstrated by the conclusion that
+the book value of the plants in the Ondina portfolio would be zero by 2017 if that
+
+approach was taken.
+
+Certainly, in relation to small-hydro plants, maintenance expenditure must be taken into
+account in establishing the value of the plants. Dr Flores asserts that failing to take
+account of maintenance expenditures is beside the point in a reasonable return
+calculation,*® but his explanation which refers to a hydro plant costing EUR | million
+to construct but which has a book value of EUR 2 million® is not convincing, as already
+
+noted in paragraph 67 above.
+
+Further, in one of the decisions to which Dr Flores refers, The PV Investors v The
+
+Kingdom of Spain® the tribunal specifically states:
+
+More specifically, Article 30.4 of the 1997 Electricity Law
+provides for the achievement of “reasonable rates of return with
+respect to the cost of money on the capital market”. Accordingly,
+an investor is entitled to a return, i.e. it is entitled to make a profit
+after having paid its capital and operating expenses.
+
+56 Joint Memorandum, § 30(e) and fn 66.
+57 Joint Memorandum, §[ 30(e) (internal footnotes omitted).
+
+58 Joint Memorandum, fn 126.
+
+59 Joint Memorandum, § 68.
+© The PV Investors v The Kingdom of Spain, PCA Case No. 2012-14, Award, 28 February 2020, § 617 (as cited
+in Joint Memorandum, fn 124).
+
+18
+
+84.
+
+85.
+
+86.
+
+87.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 27 of 298
+
+The Ondina portfolio clearly had a value in 2011 when the Claimants acquired it, and
+has a value today. Dr Flores’ approach to valuation seeks to calculate that value on the
+basis of historic capital expenditure with the result that, by 2017 the Ondina portfolio
+would have no value. There is no doubt that the historic capital expenditure figures used
+by Dr Flores for the Ondina plants are unreliable, and his approach does not adequately
+reflect the maintenance expenditure on the plants over the years which has preserved
+
+their productivity and maintained their value.
+
+It may be that the approach taken by Professor Spiller, which reflects accounting
+adjustments in valuing the plants, is not entirely appropriate, and that his apportionment
+of value between the individual plants, having used a portfolio book value, is not
+entirely accurate. However, there is no doubt in the minds of the Tribunal that the
+method adopted by Professor Spiller to calculate the value of the plants is more reliable
+
+than that used by Dr Flores.
+
+It is notable that, in the case of the Xana portfolio, comprising more modern plants than
+those in the Ondina portfolio, and in respect of which Dr Flores had access to much
+more accurate historical information, the valuations reached by the experts were almost
+identical. In the minds of the Tribunal that indicates that whilst there may be some
+unreliability in the approach taken by Professor Spiller, it is not significant and that the
+Tribunal can, in consequence, rely upon Professor Spiller’s approach in determining
+
+the value of the plants as at June 2013.
+
+The Tribunal notes that, as an alternative to book value, a further input option for the
+value of the plants has been provided for the Joint Model, namely the value implied by
+the Claimants’ investment. No serious argument is provided in the Joint Memorandum
+as to why the Tribunal should adopt this approach and the Tribunal notes that, to do so,
+would increase the compensation to the Claimants. In the absence of any argument as
+
+to why the implied value should be adopted, the Tribunal declines to do so.
+
+88.
+
+89.
+
+90.
+
+91.
+
+92.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 28 of 298
+
+(3) The Definition of Individual Plants
+
+As Dr Flores notes, the experts largely agree upon the definition of individual plants
+
+with two exceptions.°!
+
+In the Xana Portfolio, two plants, Porma and Ferreras, share the same water flow and
+Dr Flores considers they should be viewed as a single economic unit. He notes that
+these two facilities were built at the same time, in 2004, and share the same water flow
+from the Juan Benet reservoir and, in the technical due diligence, the production of
+these two facilities is modelled jointly. Further, given that the two facilities were built
+at the same time by the same corporate entity, there are insufficient data meaningfully
+
+to separate out their respective actual investment costs.‘
+
+In the Ondina Portfolio, two facilities, Baga and Pendis, share the same water flow and
+Dr Flores considers they should be viewed as a single economic unit as Baga only
+generates if Pendis is running at 100% load. Dr Flores states that Baga would never
+achieve a reasonable rate of return if analysed separately from its sister facility, even
+under RD 661/2007 and, therefore, from an economic point of view, it would be
+incorrect to compensate Baga for a shortfall in return, given that that shortfall in return
+
+would also have existed but for the disputed measures.*
+
+Professor Spiller notes that the Tribunal requested post-tax holding IRRs for the
+individual plants in the Ondina and Xana portfolios and, therefore, disagrees with
+Dr Flores combining plants. He states that to combine Porma with Ferraras and Baga
+with Pendis involves combining into single entities individual plants which have
+
+different IT codes, and so are considered separate by the Spanish regulator.“
+
+The Tribunal did request IRRs for the individual plants and, if individual plants are
+considered separate by the Spanish regulator, the Tribunal sees no reason to combine
+
+them for this purpose. Accordingly, the Tribunal adopts Professor Spiller’s approach.
+
+6! Joint Memorandum, § 71.
+© Joint Memorandum, § 72.
+© Joint Memorandum, {| 73.
+
+© Joint Memorandum, § 32.
+
+20
+
+93.
+
+94.
+
+95.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 29 of 298
+
+(4) The Inclusion, or Otherwise, of the Alange Plant
+
+Dr Flores states that the Alange plant has performed poorly for reasons unrelated to the
+disputed measures and that, although it represents close to one fifth of the installed
+capacity of the Xana portfolio, it is only operational for two to three months per year.
+Dr Flores says that the failure of Alange to achieve a reasonable return stems from
+insufficient water flow at its location and from its owner’s decision to give priority to
+the nearby photovoltaic facility, and not from the failure of the regulatory regime to
+provide a reasonable return. In fact, he says, had Alange continued to receive
+remuneration according to RD 661/2007, as calculated by Professor Spiller, its IRR
+would have been negative. Given this, Dr Flores’ view is that Alange needs to be
+excluded from the compensation calculations, otherwise it would receive compensation
+
+for cash flows that it would not have received in the absence of the disputed measures.°>
+
+Professor Spiller disagrees with Dr Flores’ exclusion of Alange. In relation to
+Dr Flores’ first point, Professor Spiller argues that the rationale for the present
+assessment is that certain plants are receiving remuneration below a reasonable rate of
+return in the “actual” scenario. Thus, the fact that Alange was making negative cash
+flows in the “actual” scenario is not a reason to exclude the plant from the claim.
+In relation to Dr Flores’ second point, Professor Spiller states that while Alange was
+expected to achieve a -2.60% IRR under the RD 661/2007 remuneration, it was
+expected to generate positive cash flows totalling EUR 2.3 million until the end of its
+concession. He states that this means that it was generating positive value and,
+therefore, from an economic perspective, contrary to Dr Flores’ contention, it would
+
+have continued to operate.
+
+The Claimants’ case in these proceedings has been that RD 661/2007 encouraged them
+to make their investment in small-hydro plants in Spain. If, notwithstanding
+RD 661/2007 a plant would not make a positive IRR and, indeed, as Dr Flores notes,
+was only operational for 2 or 3 months each year, the Tribunal does not consider that it
+
+should be in a better position post the disputed measures than it was under
+
+65 Joint Memorandum, | 76.
+
+6 Joint Memorandum, § 38.
+
+21
+
+96.
+
+97.
+
+98.
+
+99.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 30 of 298
+
+RD 661/2007. Accordingly, the Tribunal agrees with Dr Flores that Alange should be
+
+excluded from the compensation calculations.
+
+(5) Discount Rates
+
+Professor Spiller says that Dr Flores, rather than following the Tribunal’s instruction
+and adopting a WACC lower than the PTRRR by 1% to discount future cash flows,
+uses instead the same rate as the PTRRR (7%). Professor Spiller asserts that this negates
+the RREEF v Spain tribunal’s dictum that investors “had legitimate expectations that
+the return on their investment would be above the mere level of the WACC.”°
+Furthermore, Professor Spiller argues, Dr Flores’ assumption goes directly against the
+Tribunal’s instruction that the PTRRR and the discount rate or WACC have to differ
+
+by 1%, and not have the same value.
+
+Dr Flores does not engage in the debate over discount rates having acknowledged that
+
+his approach is different to that of Professor Spiller.
+
+Accordingly, for the reasons stated by Professor Spiller, the Tribunal adopts his
+approach, namely that the discount rate should be 1% below the PTRRR. However, the
+Tribunal has found that the PTRRR is 7% and, therefore, a discount rate lower than 7%
+ought, therefore, to be applied. Again, however, the Tribunal is provided with only two
+input options for the Joint Model. Having said that, given the Tribunal’s findings on all
+the other matters in dispute between the experts, the Tribunal notes that the
+compensation calculated by the Joint Model does not vary regardless of which input
+
+is adopted.
+
+(6) ‘Whether PTRRR Should be Capped at the RD 661/2007 Level
+
+As noted above,” Professor Spiller points out that the IRR expected to be obtained by
+some of plants under RD 661/2007 might be lower than the PTRRR, and, in
+consequence, a mechanical application of the PTRRR for such plants could produce
+
+returns higher than those they would have received under RD 661/2007. For this reason,
+
+61 RREEF v Spain Decision on Responsibility, § 587.
+6% Joint Memorandum, {| 17.
+
+© Joint Memorandum, § 5(b).
+
+70 44) 31-33.
+
+22
+
+100.
+
+101.
+
+102.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 31 of 298
+
+Professor Spiller includes an alternative computation that caps for each plant the
+reasonable post-tax return at either the PTRRR or the IRR that such plant would have
+
+received from the continuation of the RD 661/2007 regulations, whichever is lower.”!
+Dr Flores states that:
+
+I note that my conclusions are in line with the Tribunal’s
+observation that “it seems more than likely that some
+compensation is due to the Claimants in respect of some of the
+plants in the Xana portfolio, even if none is due in respect of
+Ondina. It is, of course, possible that a few Ondina plants may
+be below the properly calculated reasonable rate of return and
+compensation may be payable in respect of those individual
+plants also...” My calculations show that several of the plants in
+the Xana portfolio and two of the plants in the Ondina portfolio
+do not reach the PTRRR.”
+
+However, Dr Flores omits the commencement of, and conclusion of, that sentence from
+
+the Decision. What the Tribunal actually said was:
+
+If the disaggregation performed by Compass Lexecon is correct,
+it seems more than likely that some compensation is due to the
+Claimants in respect of some of the plants in the Xana portfolio,
+even if none is due in respect of Ondina. It is, of course, possible
+that a few Ondina plants may be below the properly calculated
+reasonable rate of return and compensation may be payable in
+respect of those individual plants also, depending on the validity
+of the criticisms made of Econ One’s approach to calculating the
+operational IRRs of the individual plants.”
+
+As can be seen, therefore, that statement made by the Tribunal referred to a
+disaggregation made by the Claimants’ expert of post-tax exit IRRs calculated by the
+Respondent’s expert. No equivalent calculation had been conducted by the Claimants’
+expert at the time and, in consequence, the IRRs calculated by the Respondent’s expert
+were dependant on the values of the plants, as calculated by the Respondent’s expert.
+
+As stated above, the Tribunal has found these values to be unreliable.
+
+7! Joint Memorandum, {| 19.
+
+? Joint Memorandum, {| 57 (internal footnote omitted).
+73 Decision, {| 760.
+
+23
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 32 of 298
+
+103. The main source of difference between Professor Spiller’s calculation of IRRs and the
+IRRs calculated by Dr Flores is the value of the individual plants as of 2013. Dr Flores
+
+accepts this is correct.”
+
+104. The reason Dr Flores seeks to make the point as to the Tribunal’s original expectations
+is that he considers the cap to be what he describes as an artificial partial correction to
+
+Professor Spiller’s fundamentally flawed approach.”>
+
+105. However, the Tribunal has already found that, of the two approaches to establishing the
+value of the plants as at June 2013, the approach adopted by Professor Spiller is more
+reliable than that adopted by Dr Flores. In consequence, whilst the approach to
+valuation by Professor Spiller may lead to over-valuation of some plants, the cap
+proposed by him ensures that no plants would be granted returns higher than those
+which they were receiving under RD 661/2007. Dr Flores accepts that this is the effect
+of the cap.”°
+
+106. Accordingly, the Tribunal is comforted by the fact that, even if Professor Spiller’s
+approach to valuation is not entirely correct, application of the cap ensures that the
+Claimants are no better off than they were under RD 661/2007. The Tribunal, thus,
+
+considers the cap should be applied.
+
+(7) Whether a Further Calculation is Needed to Account for the Impact on
+the Claimants’ Equity and Debt Investments in the portfolios
+
+107. Dr Flores considers that calculating compensation at the plant level is consistent with
+the Decision, and so no further calculations are required. He notes that Professor Spiller
+proposes that further calculations are needed to take into account the equity and debt
+held by the Claimants but states that the problem with his proposal is that his calculation
+of debt is entirely independent of the parameters in dispute in the Joint Memorandum.
+For example, he says, while the compensation to equity depends on the PTRRR the
+Tribunal will ultimately decide to be appropriate (7% or 7.97%), the value of debt is
+independent of that decision. Thus, had the Claimants characterised more of their
+
+investment as debt instead of as equity at some point in the past (perhaps for tax-related
+
+4 Joint Memorandum, {| 59.
+75 Joint Memorandum, {| 59.
+
+7 Joint Memorandum, § 58.
+
+24
+
+108.
+
+109.
+
+110.
+
+111.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 33 of 298
+
+considerations), those cash flows would be insulated from loss and the Claimants would
+now receive more compensation. That would not make sense from an economic
+
+perspective, since the economic investment would be the same.””
+
+Professor Spiller says that the Claimants hold equity and debt investments in the
+portfolio companies that hold the plants and, in order to compute the compensation due
+to the Claimants, one must take into account the impact of the disputed measures on the
+
+company’s financial debt.”*
+
+Professor Spiller explains that, as a result of the disputed measures, the Claimants’
+operating companies restructured their debts, which meant that the debt holders
+absorbed part of the impact of the disputed measures on the plants’ cash flows.
+Professor Spiller argues that if one were to assess compensation to the Claimants
+exclusively by focusing on the economic impact on the plants (i.e., without focusing on
+damages to the Claimants), one would not be accounting for mitigation to those plant-
+level damages that was achieved through the debt restructuring in the “actual” scenario.
+In order to account for such mitigation, Professor Spiller computes the compensation
+due to the Claimants as the sum of the impact of the disputed measures on their equity
+
+and debt investments.”
+
+Professor Spiller has calculated the economic impact of the disputed measures on the
+plants at EUR 88,556,000 as of 1 June 2013 when including a cap on “but-for” IRRs
+based on remuneration under RD 661/2007; and EUR 160,597,000 without this cap.
+Professor Spiller maintains, however, that compensation should be computed in relation
+to the Claimants’ equity and debt investments as, to do otherwise, the calculation of the
+impact of the disputed measures on the plants would not account for damages mitigation
+achieved through the reduction in the value of debt (through restructuring) in the
+
+“actual” scenario, and hence would overstate damages to the Claimants.*”
+
+Adopting Professor Spiller’s approach results in total damages to the Claimants’ equity
+
+investments at EUR 37,057,000 as of 1 June 2013, and damages to the Claimants’ debt
+
+77 Joint Memorandum, § 77.
+78 Joint Memorandum, § 41.
+7 Joint Memorandum, {| 42.
+
+89 Joint Memorandum, § 44.
+
+25
+
+112.
+
+113.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 34 of 298
+
+investment at EUR 4,362,000 as of 1 June 2013. Thus, adopting this approach reduces
+the compensation due to the Claimants from EUR 88,556,000 to EUR 41,419,000
+assuming Professor Spiller’s approach to all the matters at issue in the Joint
+
+Memorandum are accepted.*! Professor Spiller concludes:
+
+The equity holders were thus able to mitigate the impact of the
+
+measures by EUR 51.5 million, essentially by getting lenders to
+
+absorb this portion of damages through the restructuring of the
+
+portfolio companies’ financial debt. As Claimants also hold a
+
+debt investment, they absorbed a part of the burden that was
+
+shifted to lenders. In spite of suffering damages to its debt
+
+holdings of EUR 4.4 million, Claimants’ net mitigation remains
+
+significant, at EUR 47.1 million. In other words, this net
+
+mitigation has to be deducted from the overall damages to the
+
+plants to accurately reflect the actual losses suffered by the
+
+Claimants as a result of the Measures. *?
+The Tribunal agrees with Dr Flores that Professor Spiller’s calculation of debt is
+entirely independent of the parameters in dispute in the Joint Memorandum and that,
+whilst the compensation to equity depends on the PTRRR, the value of debt is
+independent of that decision. Nevertheless, in order to mitigate the losses the Claimants
+considered were caused as a result of the disputed measures, the Claimants did
+
+restructure their debts, and significant mitigation was clearly achieved.
+
+The concept of mitigation requires a claimant to take steps to minimise its loss and to
+avoid taking unreasonable steps that increase its loss. An injured party cannot recover
+damages for any loss (whether caused by a breach of treaty, contract or duty) which
+could have been avoided by taking reasonable steps. The duty to mitigate damages is
+recognised as a general principle of law and as the tribunal in Middle-East Cement
+
+Shipping and Handling Co v Egypt stated:
+
+. this duty can be considered to be part of the General
+Principles of Law which, in turn, are part of the rules of
+international law which are applicable in this dispute according
+to Art. 42 of the ICSID Convention.*?
+
+8! Which, of course, they are not. However, taking into account those areas where the Tribunal has accepted the
+arguments of Dr Flores, it still results in a significant reduction in the compensation due to the Claimants.
+
+®2 Joint Memorandum, {[ 46 (internal footnotes omitted) and Table 2.
+83 Middle East Cement Shipping and Handling Co v Arab Republic of Egypt, 1CSID Case No. ARB/99/6, Award,
+12 April 2002 (CL-0082), p 40, | 167.
+
+26
+
+114.
+
+115.
+
+116.
+
+117.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 35 of 298
+
+It is clear from Professor Spiller’s calculations, which are not questioned by Dr Flores,
+that the debt restructuring has mitigated the losses to the Claimants. Whether further
+mitigation steps could have been taken is not clear to the Tribunal and, certainly, the
+Respondent has not argued that other steps could have been taken. Equally, Dr Flores
+has not sought to provide any calculations to show that greater mitigation could have
+
+been achieved by restructuring the Claimants’ debt and equity in some other way.
+
+In consequence, the Tribunal accepts that mitigation has been achieved by the
+Claimants and, in the absence of any argument to the contrary, that mitigation is the
+
+best that could reasonably have been achieved.
+
+Dr Flores argues that the debt damages of EUR 4,362,000 ought not to be included in
+the compensation to the Claimants because the debt is unrelated to any investment to
+build or refurbish plants, ** because if the Claimants’ predecessors had characterised the
+entire equity investment as debt in 2010 before they sold the Ondina portfolio to the
+Claimants, then those cash flows would be insulated from any change in regulation,
+regardless of whether such a change was determined to be a breach by the Tribunal,*>
+
+and, finally, because:
+
+Prof. Spiller calculates that Claimants would lend funds to their
+
+own plants in some years (as debt, not as equity contributions).
+
+Those amounts would be repaid later (to themselves), with
+
+interest. This would have occurred whether or not the Measures
+
+were implemented, as demonstrated by the fact that
+
+Prof. Spiller’s but for cash flows are insufficient to “repay” this
+
+debt. This shows that Prof. Spiller’s distinction between debt and
+
+equity is artificial.*°
+The Tribunal would consider all of these arguments as valid if the debt damages were
+not related to the mitigation measures. Effectively, however, these debt damages of
+EUR 4,362,000 represent the “costs” incurred by the Claimants in mitigating their loss
+and reducing the overall losses from EUR 88,556,000 to EUR 41,419,000. It is well
+established that, as part of the duty to mitigate, costs incurred in mitigating are
+recoverable so long as they are reasonably incurred and do not exceed the result of the
+
+mitigation itself. The debt damages appear to the Tribunal to have been reasonably
+
+* Joint Memorandum, fn 140.
+
+85 Joint Memorandum, fn 142.
+
+86
+
+Joint Memorandum, fn 143.
+
+27
+
+118.
+
+119.
+
+120.
+
+121.
+
+122.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 36 of 298
+
+incurred, given the huge reduction achieved in the losses to the Claimants overall and,
+
+clearly, do not come close to exceeding the result of that mitigation.
+
+In consequence, the Tribunal does not consider the debt damages should be excluded
+from the compensation due to the Claimants.
+
+APPLICATION OF THE JOINT MODEL
+
+The Joint Model is designed to calculate the compensation due to the Claimants once
+
+the Tribunal has decided what the inputs to the Joint Model should be.
+
+There are seven input boxes or “General Switches” as they are called in the Joint Model,
+
+namely:
+
+- The PTRRR;
+
+- The value of the plants as of June 2013;
+
+- The definition of individual plants;
+
+- Whether PTRRR should be capped at the RD 661/2007 level;
+- The discount rates;
+
+- The inclusion, or otherwise, of the Alange plant; and
+
+- Whether a further calculation is needed to account for the impact on the Claimants’
+
+equity and debt investments in the portfolios.
+
+Each of the General Switches gives binary choice, “CLEX” or “QE”, CLEX
+representing Compass Lexecon (i.e., Professor Spiller’s arguments) and QE
+representing Quadrant Economics (i.e., Dr Flores’ arguments). For the switch for the
+value of the plants, if the CLEX option is chosen, there is the ability to choose whether
+
+it should be book value or value implied by the Claimants’ investment in the plants.
+
+As is apparent from the analysis of the Tribunal above the Tribunal has accepted
+Professor Spiller’s arguments in respect of the value of the plants as of June 2013, the
+
+definition of individual plants, whether PTRRR should be capped at the RD 661/2007
+
+28
+
+123.
+
+VI.
+
+124.
+
+VII.
+
+125.
+
+126.
+
+127.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 37 of 298
+
+level, the discount rates and whether a further calculation is needed to account for the
+impact on the Claimants’ equity and debt investments in the portfolios. The Tribunal
+has accepted Dr Flores’ arguments as to the exclusion of the Alange plant and, although
+it accepts Professor Spiller’s approach to the calculation of the PTRRR it adopts
+Dr Flores’ figure of 7% as being the most likely to be correct, whilst disagreeing with
+
+the method of calculation adopted by Dr Flores.
+
+Accordingly, once those findings are inputted, the calculation of the compensation due
+
+to the Claimants made by the Joint Model is EUR 30,875,000.
+
+DECISION OF THE TRIBUNAL ON QUANTUM
+
+For the reasons set out above, the Tribunal orders the Respondent to pay to the
+Claimants the sum of EUR 30,875,000 in compensation for the losses incurred by the
+Claimants by reason of the Respondent’s breach of ECT Article 10(1).
+
+INTEREST
+
+qd) The Claimants’ Position
+
+The Claimants request an award of interest as “an integral component of full
+compensation under international law.” They assert that it is not an addition to
+
+reparation but a part of it by which damages are repaired in full.’
+
+They rely on Article 38 of the ILC Draft Articles on Responsibility of States for
+
+Internationally Wrongful Acts, which provides:
+
+1. Interest on any principal sum due under this chapter shall be
+payable when necessary in order to ensure full reparation. The
+interest rate and mode of calculation shall be set so as to achieve
+that result.
+
+2. Interest runs from the date when the principal sum should have
+been paid until the date the obligation to pay is fulfilled.
+
+According to the Claimants, in order to allow for full compensation of the damages
+
+caused by Spain’s wrongful measures, the cost of equity in Spain at the date of the
+
+*7 Cl. Mem., § 343-346; Cl. Reply, 4 350.
+
+29
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 38 of 298
+
+alleged expropriation, i.e. 8 July 2015, is the appropriate rate for pre-award interest.**
+It comprises the market risk and the country risk premia and the systematic risk of the
+company’s equity (the Beta), and represents — in the analysis of the Claimants’
+quantum experts — “the minimum rate that a rational investor would have demanded to
+willingly postpone collection of their dividends, which is what Claimants have been
+forced to do since the introduction of the Measures”.*® The application of a risk-free
+and short-term interest rate would under-compensate the Claimants since it fails to
+reflect the fact that the measures reduced the operating companies’ profits and thus the
+
+dividends that the Claimants would have been able to collect.”
+
+128. The Claimants rely — among others — on Vivendi v Argentina, where the tribunal found
+an interest rate based on the claimant’s cost of capital “a reasonable proxy for the return
+the Claimants could otherwise have earned on the amounts invested and lost in the ...
+
+concession”.°!
+
+129. The Claimants base their calculation on the quantum experts’ finding as to the cost of
+equity on 8 July 2015 of 6.46%. They argue that this rate should be applied to the
+calculation of pre-award interest, running from the first wrongful measures on
+
+1 January 2013 to the date of the final award.
+
+130. With respect to post-award interest, the Claimants submit that its “function is to
+eliminate a State’s incentive to delay full payment of the award”.°? They rely
+on Gold Reserve v Venezuela, where the tribunal found that tribunals “may also
+determine a different interest rate to apply to post-Award interest than that applied to
+pre-Award interest. This is because the purpose of post-Award interest is arguably
+
+different — damages become due as at the date of the Award, and from this time,
+
+88 As an alternative, the Claimants present a rate of cost of equity established at a different valuation date, i.e. the
+proxy date of an award. However, for the calculation of the interest rate, they rely on the rate at the date of
+8 July 2015.
+
+* Cl. Reply, | 357 (quoting the Second Compass Lexecon Report, | 162).
+° Cl. Reply, § 356.
+
+9°! Vivendi v Argentina, 4 9.2.8.
+
+°2 Cl. Mem., § 353; Cl. Reply, | 360.
+
+30
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 39 of 298
+
+Respondent is essentially in default of payment.” They point to other awards that have
+
+applied a higher rate for post-award than for pre-award interest.°*
+
+131. On that basis, the Claimants seek interest from the day of the award until its full
+
+payment at the cost of equity (6.46%) plus an additional 2%.°°
+
+132. Further, the Claimants request that the combined pre-award and post-award
+
+interest be compounded annually.*° They present “compounding as an element of full
+
+997
+
+reparation”’’ and rely on extended literature and awards in that sense, of which
+
+Gold Reserve v Venezuela, where the tribunal found that the compounding of interest
+
+“better reflects current business and economic realities and therefore the actual damage
+
+suffered by a party”.°®
+
+(2) The Respondent’s Position
+
+133. The Respondent submits that, on the hypothesis that damages are awarded (a) the rate
+for pre-award and post-award interest should be identical,’ and (b) “‘a ‘short-term risk-
+
+free rate’ should be applied, such as the 6-month or 1-year EURIBOR, consistent with
+
+economic doctrine and practice”.!
+
+134. The Respondent does not engage in a discussion on the issue of compounding
+
+the interest.
+
+135. The Respondent argues, relying on the opinion expressed in the quantum expert
+
+101
+
+reports," that the Claimants’ approach based on the cost of equity prevailing at any
+
+time after the measures is mistaken, because it builds on the erroneous assumption that
+
+they were exposed to a country risk, a market risk and a risk of securities as from 2013,
+
+°3 Gold Reserve Inc. vy Bolivarian Republic of Venezuela, ICSID Case No. ARB(AF)/09/1, Award,
+22 September 2014 (CL-0037) (“Gold Reserve v Venezuela”), | 856.
+
+°4 Cl. Reply, 4361.
+
+°5 Cl. Mem., 4354; Cl. Reply, § 362.
+
+°6 Cl. Mem., #4] 355-357; Cl. Reply, § 362.
+
+°7 Cl. Mem., 4 355.
+
+°8 Gold Reserve v Venezuela, § 854.
+
+%® Resp. Rej., § 1238.
+
+100 Resp, Rej., § 1229.
+
+‘0! First Econ One Report, Annex F, and Second Econ One Report, Annex A.
+
+31
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 40 of 298
+
+which in reality would not exist for the funds potentially granted as compensation by
+
+an award at a much later date.
+
+136. It relies on Vestey v Venezuela, where the tribunal had awarded interest using the yield
+of the 6-months U.S. Treasury Bills with a view to avoid “to reward it [the victim]
+for risks which it does not bear.”!°? Similarly, in Gold Reserve v Venezuela the tribunal
+had awarded pre-award interest in reference to the U.S. Treasury Bills rate and post-
+award interest in reference to LIBOR.' The Respondent quotes Mark Kantor
+who summarizes the arbitral practice by stating that “[a]s a practical matter, the interest
+rate used for the historical amount is often a ‘risk-free’ rate (such as the rate for
+
+US Treasuries) or a statutory rate for pre-judgment interest.” !°*
+
+137. With respect to post-award interest, the Respondent rejects the Claimants’ argument
+
+that its rate should be higher in order to discourage delaying payment tactics.
+138. Firstly, it agrees with Micula v Romania, where the tribunal did not
+
+see why the cost of the deprivation of money (which interest
+compensates) should be different before and after the Award, and
+neither Party has convinced it otherwise. Both are awarded to
+compensate a party for the deprivation of the use of its funds.
+The Tribunal will thus award pre- and post-award interest at the
+same rate, !°°
+
+139. Secondly, it considers the increase of the rate by 2% as punitive, which is contrary to
+Article 36 ILC Draft Articles on Responsibility of States for Internationally Wrongful
+Acts. In this regard, the commentary of 2001 states that “[c]ompensation ... is not
+
+concerned to punish the responsible State, nor does compensation have an expressive
+
+or exemplary character.” !°°
+
+12 Yestey Group Ltd v Bolivarian Republic of Venezuela, 1CSID Case No. ARB/06/4, Award, 15 April 2016
+(RL-0037), at § 440.
+
+13 Resp. C-Mem., § 1330; Resp. Rej., f] 1233-1234; referring to Gold Reserve v Venezuela, 4 855.
+
+104 Mark Kantor, Valuation for Arbitration: Compensation Standards, Valuation Methods and Expert Evidence,
+(Kluwer Law International, 2008) (RL-0038), p. 49.
+
+105 Micula v Romania, § 1269.
+
+106 International Law Commission, Draft Articles on Responsibility of States for Internationally Wrongful Acts,
+with commentaries, 2001 (RL-0043), Art. 36, § 4.
+
+32
+
+140.
+
+141.
+
+142.
+
+143.
+
+144.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 41 of 298
+
+(3) The Tribunal’s Analysis
+
+The Tribunal considers the payment of interest as an integral component of full
+reparation, running from the date of the occurrence of damage to the date of full
+payment of the debtor’s obligations, as provided for in Article 38 ILC Draft Articles on
+
+Responsibility of States for Internationally Wrongful Acts.
+
+The Claimants assert that the valuation date for the accrual of damages is
+1 January 2013. In its Decision on Jurisdiction, Liability and Directions on Quantum
+the Tribunal has found that the relevant date for the calculation of an adequate PTRRR
+is June 2013.'
+
+In their Joint Memorandum of 22 May 2020, quantum experts Professor Spiller and
+Dr Flores have based their calculations on that date, Professor Spiller explicitly
+referring to 1 June 2013, and Dr Flores implicitly agreeing thereto. Since 1 June 2013
+is the decisive date for the measurement of the PTRRR, the relevant date for the
+potential damages, compensation of damages and interest to be paid must be identical.
+Therefore, the Tribunal finds that the date at which the interest starts to run is
+
+1 June 2013.
+
+Although being part of reparation of damages, interest is not simply an additional
+element in the overall calculation of compensation, which would increase the principal
+sum and would duplicate calculation of damages. Therefore, it cannot be considered as
+compensation for potential “additional profits”, determined by the cost of equity, as
+suggested by Professor Spiller’s quantum expert opinion.'®* Rather, the payment of
+interest compensates the injured person for the fact that for a certain period of time the
+principal sum is not at its disposal, and that it is temporarily deprived of liquidity.
+Interest does not compensate for the loss of money but for the loss of the use of money,
+
+a “secondary element, subordinated to the principal amount of the claim”. !°?
+
+This rationale does not allow to distinguish between a period of deprivation of liquidity
+before the award and after the award. The duty to pay interest does not pursue a punitive
+
+objective. It compensates for the temporary loss of the use of the principal sum due.
+
+107 Decision, 4 762.
+108 Second Compass Lexecon Report, { 162.
+10° ILC Draft Articles on Responsibility of States for Internationally Wrongful Acts, Art. 38, 4 4 and 1.
+
+33
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 42 of 298
+
+Therefore, the Tribunal agrees with the Micula v Romania and the RREEF v Spain
+tribunals when they rejected the idea that “the cost of the deprivation of money (which
+interest compensates) should be different before and after the Award”!!° and awarded
+
+pre- and post-award interest at an identical rate.
+
+145. As to the appropriate rate, the Tribunal believes it should reflect a commercial
+borrowing rate which the Claimants would incur to compensate the deprivation
+of liquidity by borrowing money. The Respondent and its quantum expert propose a “6-
+month or 1-year EURIBOR, consistent with economic doctrine and practice”,!!!
+corresponding to a short-term and risk-free rate. The Claimants object to the method
+
+but do not question the figure. |!
+
+146. EURIBOR is a commercial rate at which banks lend each other money. A margin must
+be added to take into account that the Claimants do not have access to the inter-bank
+rate. Given the circumstances of the case and the solidity of the Claimants’ investment,
+the Tribunal considers a margin of 1% to be added to a one-year EURIBOR to be
+
+appropriate.
+
+147. The Claimants claim that the interest should be compounded annually. They argue that
+the compounding of interest reflects economic practice and makes good missed
+business opportunities. The Respondent does not argue to the contrary. The Tribunal
+
+sees no reason to deny the Claimants’ request.
+
+148. For these reasons, the Tribunal orders that the Respondent shall pay interest on the
+principal sum outstanding under this Award (being EUR 30,875,000 at the date hereof)
+from 1 June 2013 until the date of payment at the rate of one-year EURIBOR plus 1%,
+
+established and compounded annually.
+
+40 Micula v Romania, 4 1269; see also RREEF Infrastructure (G.P.) Limited and RREEF Pan-European
+Infrastructure Two Lux 8.4 r.l. v Kingdom of Spain, CSID Case No ARB/13/30, Award, 11 December 2019, 4] 65.
+
+11 Resp, Rej., § 1229.
+42 Cl, Reply, 4 355-357.
+
+34
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 43 of 298
+
+VIII. COSTS
+
+dd) The Claimants’ Cost Submissions
+
+149. In their submissions on costs, the Claimants request that the Tribunal award the
+Claimants the following categories of costs: (a) the Claimants’ share of the fees and
+expenses of the Tribunal and of ICSID; (ii) reasonable costs for legal representation
+and assistance; (iii) costs of independent experts; and (iv) travel and other expenses of
+the Claimants and their fact witnesses. In addition, the Claimants also claim interest
+
+on costs. !!3
+
+150. The Claimants have submitted the following claims for legal and other costs (excluding
+
+advances made to ICSID):
+
+ 
+
+CATEGORY AMOUNT TOTAL
+
+ 
+
+Costs for Legal Representation and Assistance
+
+ 
+
+Three Crowns LLP |— EUR 1,502,190.90
+(fees up until 28 October 2019)
+
+ 
+
+EUR 205,962.07
+(disbursements up until 28 October 2019)
+
+ 
+
+— EUR 111,711.12
+(fees from 28 October 2019 to
+22 May 2020)
+
+ 
+
+— EUR 60.24
+(disbursements from 28 October 2019 to
+22 May 2020)
+
+ 
+
+Cuatrecasas
+
+EUR 726,000
+(legal fees from 26 November 2014 to
+15 November 2018)
+
+ 
+
+— EUR 58,680.98
+(disbursements from 26 November 2014
+to 15 November 2018)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gomez-Acebo & — EUR 98,037
+Pombo (legal fees as of 23 June 2020)
+— EUR 1,604.07
+(disbursements as of 23 June 2020)
+Ms Rebeca — EUR 24,192
+Quiroga (fees as of 23 June 2020)
+— EUR 164.30
+
+ 
+
+(disbursements as of 23 June 2020)
+
+ 
+
+ 
+
+ 
+
+ 
+
+EUR 2,728,602.68
+
+ 
+
+ 
+
+13 Claimants’ Updated Statement of Costs dated 24 June 2020 (Cl. Up. St. Costs”).
+
+35
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 44 of 298
+
+ 
+
+ 
+
+ 
+
+Costs of Expert Advice
+
+Compass Lexecon |— EUR 815,701.44
+(as of 23 June 2020)
+
+KPMG — EUR 360,993.50
+
+ 
+
+Subtotal EUR 1,176,694.94
+
+ 
+
+Travel and Other Expenses of the Claimants and the Claimants’ Fact Witnesses
+
+ 
+
+Mr Luis Quiroga EUR 2,274.46
+
+ 
+
+Mr Luigi EUR 1,374.11
+Pettinicchio and
+Mr Olivier Delpon
+de Vaux
+
+ 
+
+ 
+
+EUR 3,648.57
+
+ 
+
+ 
+
+ 
+
+TOTAL EUR 3,908,946.19
+
+ 
+
+ 
+
+151. The Claimants also seek recovery of success fees pursuant to fee arrangements between
+
+the Claimants and Three Crowns, as follows:
+
+Under the fee arrangements ... Claimants are also liable to pay
+to Three Crowns, and accordingly seek recovery of, success fees,
+which consists of two components:
+
+a A success fee that is payable by Claimants upon receipt
+by them of a favourable final award for damages and
+which is calculated by reference to the total amount of
+damages awarded (contractually subject to a maximum of
+EUR 1.5 million). Claimants request that the Tribunal first
+render a further Decision on quantum to dispose of all
+remaining claims other than costs, so as to allow Claimants
+to present to the Tribunal a calculation of this success fee
+component, which can then be addressed in the Tribunal’s
+final award.
+
+b_ A success fee balance that is payable by Claimants upon
+actual collection of compensation in connection with their
+claims and which is calculated by reference to the actually
+collected amount (subject to a maximum of EUR 3,156,800).
+As for this component, Claimants request the Tribunal
+to grant a declaration that Spain shall be liable to pay any
+such success fees to Claimants up to a maximum of
+EUR 3,156,800 in the event of collection of the full amount
+of damages being sought (i.e., EUR 98,199,000), and upon
+
+36
+
+ 
+
+152.
+
+153.
+
+154.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 45 of 298
+
+Claimants’ production of proof of payment of such fees to
+
+Three Crowns.!!4
+In addition, the Claimants seek pre-award and post-award interest on the costs incurred
+by them in connection with the arbitration. The Claimants submit that such interest
+shall be “at the same rate as applied to the other components of the compensation which
+they claim”, should run from the date such costs were incurred and be compounded
+
+annually.!!°
+
+(2) The Respondent’s Cost Submissions
+
+In its submissions on costs, the Respondent requests that the Tribunal exercise its
+discretion to render an award of costs in the Respondent’s favour. It argues that “the
+case involved a number of challenging procedural and legal issues, which the
+Respondent addressed with professional and effective advocacy”, as it can be perceived
+
+in the Tribunal’s Decision which dismissed the bulk of the Claimants’ claim.!'®
+
+The Respondent has submitted the following claims for legal and other costs (excluding
+
+advances made to ICSID):!!7
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CATEGORY AMOUNT
+Expert Reports EUR 500,000.00
+Translations EUR 35,870.07
+Editing Services EUR 85,613.53 (updated)
+Courier Services EUR 2,127.02 (updated)
+Travelling Expenses EUR 34,247.25 (updated)
+Legal fees EUR 888,468.00 (updated)
+
+ 
+
+ 
+
+ 
+
+ 
+
+'l4 Cl. Up. St. Costs, 4 7 (internal footnotes omitted).
+115 Cl. Up. St. Costs, 19.
+
+116
+
+Respondent’s Comments on Claimants’ Updated Statement of Costs dated 8 July 2020 (“Resp. Comm.
+
+Costs”), 3.
+'!7 Respondent’s Updated Statement of Costs dated 24 June 2020.
+
+37
+
+155.
+
+156.
+
+157.
+
+158.
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 46 of 298
+
+ 
+
+TOTAL EUR 1,546,325.87
+
+ 
+
+In addition, the Respondent submits that the Claimants’ request that success fees be
+included in the Tribunal’s decision on costs is unfounded, and that the Claimants’
+update in Compass Lexecon’s fees and expenses is excessive and abusive.!!*
+
+Accordingly, the Respondent requests that:
+
+(a) The Tribunal decides that the Kingdom of Spain should under
+no circumstances be ordered to bear the Claimants’ costs
+
+(b) And subsidiarily,
+
+- the Tribunal excludes from Claimants’ Statement of Costs the
+concepts alluded to as success fees.
+
+- And, if an update of fees and expenses of Compass Lexecon is
+granted, to reduce them to a more reasonable amount.!!?
+
+(3) The Tribunal’s Decision on Costs
+
+Article 61(2) of the ICSID Convention provides:
+
+In the case of arbitration proceedings the Tribunal shall, except
+as the parties otherwise agree, assess the expenses incurred by
+the parties in connection with the proceedings, and shall decide
+how and by whom those expenses, the fees and expenses of the
+members of the Tribunal and the charges for the use of the
+facilities of the Centre shall be paid. Such decision shall form
+part of the award.
+This provision gives the Tribunal discretion to allocate all costs of the arbitration,
+
+including attorney’s fees and other costs, between the Parties as it deems appropriate.
+
+The Tribunal notes that, in the present case, both Parties have presented their case
+efficiently, even though neither party has prevailed with respect to the entirety of their
+claims. First, the Claimants had requested compensation in an amount of at least
+EUR 132.1 million, while the Tribunal has set the amount of compensation awarded at
+EUR 30,875,000. Second, as to jurisdiction, the Tribunal dismissed the Respondent’s
+
+first jurisdictional objection (concerning EU law issues) and upheld the Respondent’s
+
+48 Resp, Comm. Costs., 7.
+49 Resp, Comm. Costs., § 21.
+
+38
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 47 of 298
+
+second jurisdictional objection (regarding the taxation carve-out in Article 21 and the
+MEN clause of Article 10(7) of the ECT). As to the merits, the Claimants have prevailed
+partly on legitimate expectations as a breach of the fair and equitable treatment
+obligation contained in Article 10(1) of the ECT. However, the Tribunal dismissed the
+Claimants’ claims on expropriation under Article 13(1) of the ECT, as well as
+the alleged violations of the duty to provide most constant protection and security, and
+non-impairment by unreasonable or discriminatory measures under Article 10(1) of
+the ECT.
+
+159. Accordingly, the Tribunal considers that it is fair to order that each Party should bear
+its own legal costs and other expenses and that the Parties should share equally the costs
+
+of the arbitration.
+
+160. The costs of the arbitration, including the fees and expenses of the Tribunal, ICSID’s
+
+administrative fees and direct expenses, amount to (in USD):
+
+Arbitrators’ fees and expenses
+
+Lord Collins of Mapesbury USD 310,272.13
+
+Professor Rolf Knieper USD 126,445.56
+Mr Peter Rees QC USD 114,045.45
+ICSID’s administrative fees USD 190,000.00
+
+. USD 152,922.60
+Direct expenses
+
+Total USD 893,685.74
+
+161. The above costs have been paid out of the advances made by the Parties in equal
+parts.'2° As a result, each Party’s share of the costs of arbitration amounts to
+
+USD 446,842.87.
+
+120 Any remaining balance will be reimbursed to the parties in proportion to the payments that they advanced
+to ICSID.
+
+39
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 48 of 298
+
+IX. AWARD
+162. The Tribunal makes the following Award:
+
+(1) The Respondent shall pay to the Claimants EUR 30,875,000, together with
+interest from 1 June 2013 until the date of payment at the rate of one-year
+
+EURIBOR plus 1%, established and compounded annually.
+(2) Each Party shall bear its legal and other expenses.
+
+(3) The fees and expenses of the members of the Tribunal and the charges for the
+
+use of the facilities of the Centre shall be borne equally between the Parties.
+
+40
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 49 of 298
+
+OM Fe
+
+ 
+
+Professor Rolf K&ieper Mr Peter Rees, QC
+Arbitrator Arbitrator
+De Yu, 2070 Date:
+
+Lord Collins of Mapesbury, LL.D., F.B.A. _
+President of the Tribunal
+
+Date:
+
+41
+
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 50 of 298
+
+ 
+
+Professor Rolf Knieper Mr Peter Rees, QC
+Arbitrator Arbitrator
+
+Date: Date: dey “ee
+
+Lord Collins of Mapesbury, LL.D., F.B.A.
+President of the Tribunal
+
+Date:
+
+42
+
+———
+Case 1:21-cv-02463 Document 1-1 Filed 09/20/21 Page 51 of 298
+
+ 
+
+Professor Rolf Knieper Mr Peter Rees, QC
+Arbitrator Arbitrator
+
+Date: Date:
+
+ 
+
+rte
+Lord Collins of Mapesbury, LL.D., F.B.A.
+President of the Tribunal
+
+Date: Jd, 27) 2020
+
+43
+

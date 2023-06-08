@@ -1,0 +1,733 @@
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 1 of 22
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+BRETT BERKOWITZ, TREVOR
+BERKOWITZ, and AARON
+BERKOWITZ,
+
+Petitioners,
+Case No: 17-148
+v.
+
+REPUBLIC OF COSTA RICA,
+
+Respondent.
+
+PETITION TO VACATE OR SET ASIDE INTERIM ARBITRATION AWARD
+
+ 
+
+The petitioners, Brett Berkowitz, Trevor Berkowitz, and Aaron Berkowitz (collectively
+the “Berkowitz Claimants”), move this Court to vacate or annul the partial final award identified
+as “Interim Award” by the Arbitration Tribunal (the “Tribunal”) sitting in an international
+arbitration filed by the Berkowitz Claimants against the respondent, the Republic of Costa Rica
+(“Costa Rica”), pursuant to the terms of the Dominican Republic-Central America Free Trade
+Agreement (“CAFTA-DR”). Based on the applicable law and the facts, this Court should set
+aside or vacate the Interim Award for the reasons stated herein.
+
+INTRODUCTION
+
+1. Despite the foreboding language of court decisions, courts have the duty and
+ability to review the issues submitted to arbitration and the scope of the arbitration clause. These
+obligations may have a unique role based on the features of the underlying arbitration, but it no
+case can an arbitration tribunal subject to the Federal Arbitration Act exceed the authority given
+
+to it by the parties. In this case, the Tribunal exceeded its authority in four distinct circumstances:
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 2 of 22
+
+- The Tribunal took it upon itself to find and prove facts it then considered crucial
+for purposes of denying jurisdiction, without notice or requiring Costa Rica to
+carry this burden;
+
+- The Tribunal applied its own notions of policy to support its position without
+reference to any applicable law;
+
+- The Tribunal failed to give the Berkowitz Claimants the opportunity to show that
+jurisdiction existed; and
+
+- The Tribunal bifurcated the proceedings, despite the lack of a request by any
+party.
+
+Each of these instances of exceeding its power resulted in the Berkowitz Claimants losing the
+ability to continue claims at a preliminary stage. The Berkowitz Claimants therefore request this
+Court vacate or set aside the Interim Award for the reasons described herein.
+
+GENERAL BACKGROUND TO THE DISPUTE
+
+2. The Berkowitz Claimants submitted claims for expropriation without
+compensation, denial of fair and equitable treatment, and treatment less favorable than that
+granted to other international investors. All of these claims arise under Articles 10.5 and 10.7 of
+CAFTA-DR. See Exhibit A, CAFTA-DR Art. 10. In essence, the Berkowitz Claimants filed their
+claims against Costa Rica in relation to certain measures taken by Costa Rica that deprived the
+Berkowitz Claimants of their rights over real estate they owned in Costa Rica without proper
+compensation.
+
+3. As allowed by CAFTA-DR Article 10.16, the Berkowitz Claimants selected the
+UNCITRAL Arbitration Rules to govern the proceedings. The UNCITRAL Arbitration Rules are
+a set of arbitration rules promulgated by the United Nations Commission on International Trade
+Law (“UNCITRAL”) and incorporated by reference in Article 10.16.3(c). The Tribunal rendered
+an Interim Award on October 25, 2016, dismissing certain claims brought by the Berkowitz
+
+Claimants and refusing to hear further evidence regarding others. The Motion follows as a result.
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 3 of 22
+
+STATEMENT OF JURISDICTION AND VENUE
+4. The Federal Arbitration Act (the “FAA”) generally directs the parties in the
+
+method for seeking vacatur. “Any application to the court hereunder shall be made and heard in
+the manner provided by law for the making and hearing of motions, except as otherwise herein
+expressly provided.” 9 U.S.C. § 6; see also Contech Const. Products Inc. v. Heierli, 764
+F.Supp.2d 96, 105-106 (D.D.C. 2011) (“the FAA does not allow a party to initiate a challenge to
+an arbitration award by filing a complaint or a petition to vacate the award”). That being the
+case, the FAA still requires the moving party to set out the basis for jurisdiction and venue.
+
+5. The Berkowitz Claimants are all citizens of the United States. Brett Berkowitz is
+the father of Aaron and Trevor Berkowitz. The United States has ratified the Convention on the
+Recognition and Enforcement of Foreign Arbitral Awards (the “New York Convention”).
+
+6. The respondent, the Republic of Costa Rica, is a foreign state. See 28 U.S.C. §
+1603. Costa Rica has ratified the New York Convention.
+
+7. Because the arbitration is an international dispute between a national of a country
+where the New York Convention is in force and a sovereign state that has ratified the New York
+Convention, the New York Convention applies to these proceedings, as incorporated in 9 U.S.C.
+§ 201, et seq.
+
+8. As an action falling under the New York Convention, it arises under the treaties
+and laws of the United States, and the district courts of the United States have original
+
+jurisdiction, regardless of the amount in controversy. See 9 U.S.C. § 203.
+
++ United Nations Commission on International Trade Law, Status Convention on the
+
+Recognition and Enforcement of Foreign Arbitral Awards (New York 1968),
+http://www. uncitral.org/uncitral/en/uncitral_texts/arbitration/NYConvention_status.html (listing
+Costa Rica and the U.S. as having ratified the New York Convention).
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 4 of 22
+
+9. Moreover, because the district courts have jurisdiction over this action pursuant to
+9 U.S.C. § 203, venue is proper in the court for the district that embraces the place of arbitration,
+so long as the place of arbitration is in the United States. See 9 U.S.C. § 204. CAFTA-DR Article
+10.20 allows the parties to select the legal place of the arbitration. The Berkowitz Claimants and
+Costa Rica agreed that Washington, D.C., would be the legal place of arbitration, and the Interim
+Award indicates the same. See Exhibit B, Procedural Order No. 1 { 9. Washington, D.C., is the
+place of arbitration, and venue is therefore proper in this Court.
+
+10. Costa Rica cannot assert immunity from jurisdiction. When Costa Rica became a
+Party to CAFTA-DR, it waived its immunity from jurisdiction in relation to disputes covered by
+the treaty in accordance with 28 U.S.C. § 1605(a)(1) and (2), for the reasons to follow. Article
+10.26.6(b) stays enforcement of an award rendered under the UNCITRAL Arbitration Rules
+pending an application for annulment. CAFTA-DR thus contemplates requests for annulment as
+part of the waiver of immunity from jurisdiction generally granted within Article 10, extending
+the express or implicit waiver to this proceeding. See 28 U.S.C. § 1605(a)(1). Article 10.26.10
+clarifies that the dispute stems from a commercial relationship to the extent relevant for
+satisfying the requirements of the New York Convention. Because the dispute arose from a
+commercial relationship outside the United States with an impact on United States nationals,
+Costa Rica has no immunity from jurisdiction pursuant to 28 U.S.C. § 1605(a)(2).
+
+11. In addition, Costa Rica waived its immunity from jurisdiction to the extent any
+party seeks to enforce an agreement to arbitrate with it that meets the requirements of 28 U.S.C.
+§ 1605(a)(6). When a foreign state selects international arbitration, it waives its immunity from
+any action related to the confirmation, and concomitantly the vacatur, proceedings inherent in the
+
+process. For example, in Ipitrade Int’l, S.A. v. Federal Republic of Nigeria, this Court rejected a
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 5 of 22
+
+claim of immunity because Nigeria implicitly waived its immunity from the enforcement of the
+award, based on § 1605(a)(6). 465 F.Supp. 824, 826 (D.D.C. 1978). The Court made no
+distinction in the text of § 1605(a)(6), finding that the reference to “confirmation,” necessarily
+included proceedings to vacate. See id; see also Markowski v. Atzmon, No. 92-2865, 1994 WL
+162407, at *1 (D.D.C. April 19, 1994) (“[a] motion for confirmation involves the same
+substantive consideration as a motion to vacate”). The underlying arbitration satisfies §
+1605(a)(6)(A) because the place of arbitration is Washington, D.C., and it also meets the
+requirements of § 1605(a)(6)(B) because the New York Convention governs the Interim Award.
+In sum, Costa Rica cannot assert immunity from jurisdiction.
+FACTUAL AND PROCEDURAL BACKGROUND
+
+The limited nature of arbitration under CAFTA-DR and UNCITRAL Arbitration Rules
+
+12. Arbitration under CAFTA-DR involves different types of claims and a distinct
+framework to decide them. Article 10 determines the outlines of the consent to arbitration, and
+absent a separate agreement (not the case here), the consent contained in Article 10 is the only
+applicable arbitration clause. Article 10.16 is the relevant language, and it enables a claimant to
+“submit to arbitration under this Section a claim (i) that the respondent has breached (A) an
+obligation under Section A... .” See Article 10.16.1(a)(i)(A). A CAFTA-DR tribunal therefore
+has a more specific mandate than it might have in the context of a standard commercial
+arbitration.
+
+13. CAFTA-DR contains other features in regards to the sets of rules that can govern
+the parties’ proceedings. The claimant can select the arbitration rules of the International Center
+for the Settlement of Investment Disputes (“ICSID”), the ICSID Additional Facility Rules, or the
+
+UNCITRAL Arbitration Rules. See Article 10.16.3(c). The selection depends on certain pre-
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 6 of 22
+
+requisites, but in this case the Berkowitz Claimants selected the UNCITRAL Arbitration Rules,
+and the parties and the arbitration tribunal agreed to the UNCITRAL Arbitration Rules, except to
+the extent they are modified by CAFTA-DR. See Exhibit B, Procedural Order No. 1 1.1.
+
+14. The UNCITRAL Arbitration Rules are a set of rules that parties can select and do
+not require the administration of any particular arbitration institution. Here, the parties to the
+dispute agreed that ICSID could act as the administrator of the arbitration through its Secretariat.
+The UNCITRAL Arbitration Rules contain some provisions that are similar and others that are
+distinct from typical commercial arbitration rules. For example, the UNCITRAL Arbitration
+Rules permit the arbitral tribunal to conduct the arbitration in the manner it considers
+appropriate, “provided that the parties are treated with equality and that at an appropriate stage of
+the proceedings each party is given a reasonable opportunity of presenting its case.” See Exhibit
+C, UNCITRAL Arbitration Rules, Art. 17.
+
+15. The UNCITRAL Arbitration Rules also contain a unique provision regarding the
+proof of facts. Article 27 requires that “[e]ach party shall have the burden of proving the facts
+relied on to support its claim or defence.” The UNCITRAL Arbitration Rules give significant
+direction in how a party must present its case. Article 20 requires the claimant to submit a
+statement of claim that contains the “points at issue,” among other things, and “as far as possible,
+be accompanied by all documents and other evidence relied upon by the claimant[.]” As for the
+respondent, Article 21 requires a “statement of defence” that responds to the “particulars” of the
+statement of claim, including the “points at issue.” The respondent must also submit all
+documents and other evidence upon which it relies. See Article 21(4). In other words, the
+
+tribunal should receive a detailed picture of the issues in dispute and all of the documents and
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 7 of 22
+
+other evidence the parties rely on, eliminating the need for guesswork regarding the scope of the
+tribunal’s mandate and authority over the dispute.
+
+16. In the arbitration at issue, the Berkowitz Claimants and Costa Rica did not modify
+the UNCITRAL Arbitration Rules in any meaningful way that would change the unique nature
+of their arbitration.
+
+The relevant procedural facts and context underlying the Interim Award
+
+17. In 2003, Brett Berkowitz began to purchase land through a number of controlled
+entities along the Pacific coast of Costa Rica with the intent of building luxury homes. See
+Exhibit D, Notice of Arbitration and Statement of Claim { 43. Brett Berkowitz thus purchased
+six of the lots at issue in the underlying arbitration. See id. The Tribunal and the parties
+eventually came to refer to these lots with one letter that correlated to the last name of the
+claimant controlling the relevant owner followed by a number. See id. {{[ 44-49. The Berkowitz
+Claimants owned lots B1, B3, B5, B6, and B8 (the “Berkowitz Lots”).” See id.
+
+18. Starting in 2005, Costa Rica started local court proceedings to expropriate the
+Berkowitz Lots (the “Local Litigation”), similar to an eminent domain proceeding in the United
+States. In 2013, Brett Berkowitz decided to give lots B1 and B8 to his sons, Trevor and Aaron.
+Litigation proceedings were ongoing as to all of the lots when the Berkowitz Claimants chose to
+file their arbitration.
+
+19. The expropriations contradicted the assurances given to Mr. Berkowitz by the
+relevant minister prior to acquiring those lots—in meetings held to that precise effect as part of
+
+Mr. Berkowitz’ due diligence— that they would not be expropriated. See Exhibit K, Interim
+
+2
+
+Lots B2 and B4 were also purchased by Brett Berkowitz in September 2003, but these
+lots were subsequently sold to third parties and therefore did not form part of the Berkowitz
+Claimants’ claims in the Arbitration. Lot B7 was sold to Glen Gremillion in 2004 and did not
+form a part of the claim brought by the Berkowitz Claimants.
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 8 of 22
+
+Award (60. They also contradicted the authorization granted under Art. 1 of the 1995 Park Law
+being invoked as the basis for the Local Litigation, which allowed for the creation of an offshore
+park, one not requiring onshore expropriations. See Exhibit K, Interim Award J 59. For these and
+other reasons, including the lack or patent insufficiency of any offered compensation, the
+conduct by Costa Rica breached several standards of treatment accorded to the Berkowitz
+Claimants under CAFTA-DR. As a consequence, the Berkowitz Claimants filed their Notice of
+Arbitration on June 10, 2013. See Exhibit D. At that time, other landowners in the same area had
+also chosen to arbitrate their disputes with Costa Rica, consolidating their claims with the
+Berkowitz Claimants. See id. | 6. These other claimants have decided to voluntarily dismiss their
+case after the Interim Award for reasons distinct from the Berkowitz Claimants.
+
+20. In their Statement of Claim, the Berkowitz Claimants informed the Tribunal of
+the Local Litigation under course between Costa Rica and the holding corporate owners of the
+land and their decision to waive any rights the Berkowitz Claimants had to initiate or continue
+court proceedings regarding their rights under the challenged Costa Rican measures. See Exhibit
+D { 7. The Berkowitz Claimants did not hide the gift of Lots B1 and B8 to Trevor and Aaron.
+See, e.g., Exhibit D, fn 49. The Berkowitz Claimants did not request a bifurcated proceeding or
+otherwise request the Tribunal to divide the arbitration in distinct phases related to jurisdiction
+and merits. See generally, Exhibit D.
+
+21. Costa Rica prepared and submitted a Memorial on Jurisdiction and Counter-
+Memorial on the Merits (the “Counter-Memorial). In its Counter-Memorial, Costa Rica objected
+to the jurisdiction of the Tribunal on several grounds, largely on the fact that some of the facts
+related to the claims arose before the entry into force of CAFTA-DR and three year time bar in
+
+Article 10.18 of CAFTA-DR. See Exhibit F, Counter-Memorial at 56-63. Costa Rica did not
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 9 of 22
+
+challenge the validity of the gift of Lots B1 and B8 to Trevor and Aaron. See generally, Exhibit
+F. Costa Rica did not request bifurcation of the proceedings, and it did not dispute the existence
+of the underlying Local Litigation related to the lots. See id.
+
+22. Following the submissions of briefs, the parties exchanged their proposals for a
+Procedural Order 1 meant to guide the remainder of the proceedings. The Tribunal took those
+proposals and issued Procedural Order 1 on February 26, 2014. See Exhibit B. Procedural Order
+1 required the parties in each pleading to “include all factual and legal arguments in support
+thereof, including written witness statements, expert opinions or reports, and exhibits.” See
+Exhibit B, Procedural Order 1 {[ 14.1. It further limited the scope of documents the parties could
+submit, stating that “[nJeither party shall be permitted to submit additional or responsive
+documents after the filing of its respective last written submission.” See id. [ 17.3.
+
+23. The Tribunal also had the ability to request documents from the parties on its own
+initiative, “[a]t any time during the arbitral proceedings the arbitral tribunal may require the
+parties to produce documents, exhibits or other evidence within such a period of time as the
+arbitral tribunal shall determine.” See Exhibit C, UNCITRAL Arbitration Rules, Article 27(3).
+
+24. The proceeding followed the guidelines set forth in the UNCITRAL Arbitration
+Rules and the Procedural Order with a further exchange of written briefs accompanied by
+witness statements, expert reports, and documentary evidence. The parties exchanged requests
+for documents and ultimately set a date for a hearing for oral testimony. See Exhibit B, { 23.
+
+25. In their submissions to the tribunal, the parties did not submit any information
+regarding the validity of the donation of Lots B1 and B8. See generally, Exhibit D, Notice of
+Arbitration and Statement of Claim; Exhibit E; Response to Notice of Arbitration; Exhibit F,
+
+Memorial on Jurisdiction and Counter-Memorial on the Merits; Exhibit G, Memorial on the
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 10 of 22
+
+Merits; Exhibit H, Counter-Memorial on Jurisdiction and Reply on the Merits; Exhibit I, Reply
+on Jurisdiction and Rejoinder on Merits; and Exhibit J, Rejoinder on Jurisdiction. The Berkowitz
+Claimants provided the documentation that showed the donation had occurred, but neither party
+presented further arguments regarding the legality or effect of the transfers. See Exhibit K,
+Interim Award, fn. 8.
+
+26. The parties hotly contested the Local Litigation and its effects on jurisdiction
+generally, but at no time did Costa Rica present any evidence regarding the result of the Local
+Litigation as to Lot B1. See generally, Exhibits E, F and I. Costa Rica made no effort to prove
+the fact that there was any result, one way or the other, in relation to this lot. See id. Moreover,
+there was no request for bifurcation of the proceedings into a jurisdictional and then merits
+phase. See Exhibit K, Interim Award, 7.
+
+27. A hearing was held the week of April 20, 2015, in Washington, D.C. Exhibit K,
+Interim Award { 15. At the hearing, Brett Berkowitz testified and was cross-examined. See e.g.,
+id. { 181. Neither Trevor nor Aaron testified and neither was called for cross-examination. See
+generally, Exhibit K. No expert legal testimony was offered regarding the validity or effect of
+the donation of Lots B1 and B8. No request for bifurcation was made. See id J 7.
+
+28. The Tribunal issued an Interim Award on October 25, 2016, where it found that
+Brett Berkowitz knew that Lots B1 and B8 were within the ecological park. See Exhibit K,
+Interim Award { 181. Without receiving any argument from Costa Rica, the Tribunal went on to
+analyze the transfer of Lots B1 and B8 to Trevor and Aaron: “[a]lthough it might have been put
+to the Tribunal that the claims by Aaron and Trevor Berkowitz should not be afflicted by the
+
+3 The Berkowitz Claimants respectfully disagree with the Tribunal on this point and others,
+
+but in light of the limited scope of review, the Berkowitz Claimants can merely register their
+disagreement, not elevate it to a request for vacatur or set aside in the present Motion.
+
+10
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 11 of 22
+
+knowledge of their father, Brett Berkowitz, when first acquiring the lots, no such argument was
+advanced.” See id. Costa Rica did not make this argument of imputing Brett’s knowledge to
+Aaron and Trevor, and the Berkowitz Claimants had no notice of any challenge to the validity or
+effect of the donation of Lots B1 and B8. See generally, Exhibit K.
+
+29. The Tribunal went on to question the sufficiency of the argument not made,
+stating that “no such argument would be sustainable given that Aaron and Trevor Berkowitz
+became owners of Lots B1 and B8 by what appears to the Tribunal to have been a simple share
+transfer to each of 50% of the nominal shares of Aceituno Mar Vista Estates (the holding
+company in respect of the B1 claim) and of Nispero Mar Vista Estates (the holding company in
+respect of the B8 claim), both transfers being recorded in a notarised certificate of joint
+ownership dated 11 January 2013.” See Exhibit K, Interim Award { 181.
+
+30. The Tribunal continued to apply the reasoning of a commercial contract, even
+though Brett Berkowitz had testified that he “transferred Lots B1 and B8 as a gift to my two
+adult sons.” See Exhibit K, Interim Award { 181.
+
+31. The Tribunal concluded its analysis on the gift of Lots Bl and B8, applying a
+presumption regarding Brett Berkowitz’s knowledge and what appears to be its own policy
+considerations: “[a]bsent compelling evidence to the contrary, such a conclusion would risk
+opening the door to property ‘sales’ that had as their object the cleansing of the knowledge of the
+original purchaser of defects or restrictions in the original title.” See id. There was no law cited
+for this conclusion, and neither party offered any evidence to prove the fact of Trevor and
+Aaron’s knowledge or the law that would provide the policy rationale regarding the gift. See id.
+
+32. As regards the Local Litigation, the Tribunal found that no decision had been
+
+issued in the Local Litigation regarding Lot B1, and that, as a result, it had no jurisdiction
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 12 of 22
+
+regarding as to Lot B1. See Exhibit K, Interim Award {. 288 In support of this conclusion, the
+Tribunal decided, as a matter of fact, that “[t]here is therefore no act or other conduct that
+amounts to an independently actionable breach in respect of this property, including for entry
+into force and limitation period purposes.” See id. Based on its proclaimed absence of a decision
+in the Local Litigation as to Lot B1, the Tribunal decided that it lacked jurisdiction regarding the
+
+result of the court proceedings concerning Lot B1:
+
+There is therefore no basis, by reference to Article 10.5, or indeed
+even arguably by reference to Article 10.7, on which the Claimants
+can sustain a claim to a justiciable cause of action. The Tribunal
+accordingly concludes, and so finds, that it has no jurisdiction to
+
+entertain the Claimants’ claims in respect of Lot B1. See id.
+
+But on July 15, 2016, before the date of the Interim Award, the Costa Rican courts had, in fact,
+rendered a decision regarding Lot B1. See Exhibit L.4 The Tribunal had not requested either of
+the parties to provide any information regarding the status of the court proceedings regarding Lot
+B1 as a prior step to making its decision dismissing jurisdiction on Lot B1, nor was it foreseeable
+to the Berkowitz Claimants that the fact of whether or not such a decision had been issued would
+be the sole basis on which its claim over Lot B1 would be dismissed. See generally, Exhibit K.
+
+33. The Tribunal went on to decide it could conclude it has jurisdiction to determine
+if the rulings of the Costa Rican courts violated CAFTA-DR, just so long as those rulings were
+issued after June 10, 2013. See Exhibit K, Interim Award {| 289. In so doing, the Tribunal
+allowed the parties to present further evidence regarding Lots B5 and B6. See id {| 289-293. The
+Interim Award did not grant any further opportunity to present evidence regarding the Local
+
+Litigation as to Lot B1:
+
+4 The Berkowitz Claimants are filing the Spanish version and will supplement the filing
+
+with an English translation by Notice of Filing.
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 13 of 22
+
+The Tribunal accordingly concludes and so finds that, in the
+particular circumstances of this case, the Parties should be afforded
+an opportunity to present their views on the issue of whether the
+Tribunal has jurisdiction to entertain the Claimants’ allegations of
+a breach of CAFTA Article 10.5 by reference to relevant and
+applicable judgments of the Costa Rican courts rendered after 10
+June 2013 in respect of Lots BS, B6 and B7.
+
+See Interim Award at para. 294.
+
+34. The Tribunal admitted there was no request for bifurcation made by either party:
+
+Costa Rica objects to the jurisdiction of the Tribunal on the
+grounds that the Claimants failed to initiate proceedings within the
+CAFTA’s three-year limitation period under CAFTA Article
+10.18.1 and/or that the alleged breaches occurred before the
+CAFTA entered into force between Costa Rica and the United
+States on 1 January 2009. No application for bifurcation was made
+
+and jurisdictional issues were pleaded alongside the merits.
+See Exhibit K, Interim Award J 7. Regardless, the Tribunal decided certain issues of jurisdiction
+and made some findings regarding liability. See id. 7308.
+35. On these points, the Tribunal exceeded its authority, and this Court should vacate
+the Interim Award.
+MEMORANDUM OF LAW
+L Legal Standards
+
+A. This Court should apply the grounds for vacatur found in Section 10 of the FAA
+to the Motion
+
+36. One of the exclusive grounds for refusing confirmation under the New York
+Convention is where “[t]he award ... has been set aside or suspended by a competent authority of
+the country in which, or under the law which, that award was made.” See Convention on the
+
+Recognition and Enforcement of Foreign Arbitral Awards, art. V(1)(e), June 10, 1968, 21 UST
+
+13
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 14 of 22
+
+2517. This Court has recognized that Article V(1)(e) of the New York Convention grants U.S.
+courts the authority to apply domestic arbitral law when reviewing a motion to set aside or vacate
+an arbitral award. See e.g., CPConstruction Pioneers Baugesellschaft Anstalt (Liechtenstein) v.
+Government of Republic of Ghana, Ministry of Roads and Transport, 578 F. Supp. 2d 50, 53-54
+(D.C.C. 2008) (citing Yusuf Ahmed Alghanim & Sons v. Toys “R” Us, Inc., 126 F.3d 15, 23 (2d
+Cir. 1997). A court’s authority to vacate an arbitral award derives from 9 U.S.C. § 10(a), which
+enumerates the exclusive grounds for vacating an award. See Hall Streets Associates, LLC v.
+Mattel, Inc., 552 U.S. 576, 586 (2008). Therefore in reviewing a motion to vacate, this Court
+looks to the standards outlined in Section 10 of the FAA. See id.
+
+37. Here, the New York Convention applies to the underlying arbitration because the
+Berkowitz Claimants are nationals of a contracting state (the United States), and Costa Rica is a
+contracting state. In addition, the Berkowitz Claimants seek to set aside or vacate the Interim
+Award by the competent authority in Washington, D.C., the place where the award was made. As
+such, this Court’s authority to vacate arises under 9 U.S.C. § 10(a), and applying this standard,
+the Berkowitz Claimants seek to vacate the Interim Award because the Tribunal exceeded its
+powers. See 9 U.S.C. § 10(a)(4).
+
+B. Section 10(a)(4) requires the Tribunal to only decide the issues submitted to it
+within the scope of the arbitration clause, while granting the Court the power to
+review both the submission of the issue and the scope of the arbitration clause
+
+38. The tribunal cannot venture beyond the bounds of its authority. See Matteson v.
+Rider System Inc., 99 F.3d 108, 112 (3d Cir. 1996). The tribunal’s authority is defined not simply
+by the parties’ agreement, “but is determined in large measure by the parties’ submissions.”> A
+
+5 Matteson deals with a collective bargaining agreement, but there is no meaningful
+
+distinction in a court’s review of any other type of agreement and a collective bargaining
+agreement and arbitration pursuant to it. See, e.g., Granite Rock Co. v. Int'l Bhd. of Teamsters,
+
+14
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 15 of 22
+
+tribunal can only decide the issues submitted to it. See id. at 112-13. The tribunal must interpret
+the parties’ submissions, but the court can review that interpretation. See id. at 113; see also,
+Geneva Securities, 138 F.3d 688, 692 (observing that “arbitrators must make clear the matters
+that are deemed submitted for arbitration”). Similarly, in determining if the parties agreed to
+arbitrate, the courts review is de novo. See, e.g., National Railroad Passenger Corp. v.
+Expresstrak, LLC, 330 F.3d 523, 529 (D.C. Cir. 2003). If the parties do not submit an issue or
+claim, the tribunal has no authority to decide on it. See, e.g., Davis v. Prudential Securities, Inc.,
+59 F.3d 1186, 1194-95 (11th Cir. 1995); see also, PMA Capital Insurance Company v. Platinum
+Underwriters Bermuda, Ltd., No. 09-3963, 2010 WL 4409655, *656 (3d Cir. Nov. 10, 2010)
+(finding that “[t]he arbitrators in this case, by ordering unrequested relief . . . went beyond the
+scope of their authority”).
+
+39. Moreover, “when [an] arbitrator strays from interpretation and application of the
+agreement and effectively ‘dispense[s] his own brand of industrial justice’ [...] his decision may
+be unenforceable.” See Stolt Nielsen S.A. v. Animalfeeds Int’l Corp., 559 U.S. 662, 671 (2010).
+When a tribunal does not identify and apply a rule of decision derived from the FAA or the law
+applicable to the dispute, “the arbitration panel impose[s] its own policy choice and thus
+
+exceed[s] its powers.” See id. at 676-77.
+
+ 
+
+561 U.S. 287, 296, (2010) (finding that “it is well settled in both commercial and labor cases that
+whether parties have agreed to ‘submi[t] a particular dispute to arbitration’ is typically an ‘issue
+for judicial determination.’). Moreover, in Granite the court found that “cases invoking the
+federal ‘policy favoring arbitration’ of commercial and labor disputes apply the same
+framework.” See id. at 301. See also Mala Geoscience AB v. Witten Techs., Inc., No. CIV 06-
+1343, 2007 WL 1576318, at *3 fn 7 (D.D.C. May 30, 2007) (“[t]he Court recognizes that labor
+arbitration, drawing its authority from the collective bargaining agreement, and commercial
+arbitration under the FAA are related, but distinct, legal fora. Principles may nonetheless be
+borrowed from one to the other.”)
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 16 of 22
+
+40. The Berkowitz Claimants will show that the Tribunal exceeded its powers by
+deciding on issues of fact in the absence of any submission by Costa Rica, applying its own
+policy rationale without looking to a rule of decision from the FAA or applicable law, failing to
+give the Berkowitz Claimants the opportunity to show that jurisdiction existed, and bifurcating
+the proceedings, despite the lack of a request by any party.
+
+c. The mere fact that the Berkowitz Claimants seek to vacate or set aside an interim
+
+award, not the ultimate and final award on all issues, poses no hurdle to this
+Court’s analysis
+
+41. The Berkowitz Claimants seek to vacate the Interim Award, but this merely
+invokes the same standards applied to a final award. Interim awards are final confirmable awards
+where they conclusively dispose of an independent claim. See, e.g., Zeiler v. Deitsch, 500 F. 3d
+157, 169 (2d Cir. 2007). In other words, an interim award is considered final “if it resolves the
+rights and obligations of the parties definitively enough to preclude the need for further
+adjudication with respect to the issue submitted to arbitration.” See EcoPetrol S.A. v. OffShore
+Exploration and Production LLC, 46 F. Supp. 3d 327, 336 (S.D.N.Y. 2014). For the purposes of
+satisfying the “finality” requirement, courts consider whether an award "finally and conclusively
+dispose[s] of a separate and independent claim. . . .” Metallgesellschaft A.G. v. M/V Capitan
+Constante, 790 F.2d 280, 283 (2d Cir. 1986). To permit review, an award does not need to be
+final as to all issues of liability and damages. See Home Ins. Co. v. RHA/Pennsylvania Nursing
+Homes, 127 F. Supp. 2d 482, 487 (S.D.N.Y. 2001). And finality need not mean the ultimate,
+conclusive arbitral award. See id. Finally, when a court has vacated an award that is final as to
+the merits of a claim, the proper course is to remand the claim to a new arbitrator. See Muskegon
+
+Cent. Dispatch 911 v. Tiburon, Inc., 461 Fed. App’x. 517, 527 (6th Cir. 2012).
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 17 of 22
+
+42. The Interim Award is not the ultimate, conclusive arbitral award on all claims
+submitted to arbitration, but it is certainly the final disposition of all claims as to Lots B1 and B8,
+and most claims as to Lots B3, BS, and B6. Procedural Order | states that “[d]ecisions of the
+Tribunal shall be issued in writing and be final and binding on the parties.” See Exhibit B,
+Procedural Order | {| 4.2. The Interim Award is a decision of the Tribunal, and it found that the
+Tribunal had no jurisdiction over Lots B1 and B8 generally, that it only had jurisdiction over
+certain claims, not others, as to Lot B3, and that it might have jurisdiction over certain claims,
+again, not others, over Lots BS and B6, among other things. See generally, Exhibit K. The
+decision rejecting jurisdiction over Lots B1 and B8 and the dismissed claims as to Lots B3, B5,
+and B6 is therefore final as to those claims, enabling this Court to review the Interim Award,
+vacate or set aside the Interim Award, and remand to a new tribunal.
+
+IL. This Court should vacate or set aside the Interim Award because the Tribunal
+exceeded its powers
+
+A. The Tribunal exceeded its authority when it reached findings of fact without
+Costa Rica offering any evidence, and substituted its own policy judgments in
+
+place of applicable law
+43. Just as an arbitration tribunal is bound by the issues submitted by the parties, it is
+further bound by the requirements of the applicable rules. The parties and the Tribunal agreed to
+be bound by the UNCITRAL Arbitration Rules, and Article 37 requires each party to bear the
+burden of proving the facts supporting its case. See Exhibit C. The Tribunal made findings of
+fact on key issues, even though Costa Rica had submitted nothing in this regard. See generally,
+Exhibit K. More specifically, the Tribunal found that Trevor and Aaron shared Brett’s
+knowledge of potential expropriation of Lots BI and B8. See id. at {| 181. The existence (or not)
+
+of this knowledge would certainly be a fact, as would be the transfer (or not) of this knowledge
+
+to Trevor and Aaron through the gift of Lots B1 and B8. By deciding on these facts and using
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 18 of 22
+
+them to reject jurisdiction without requiring Costa Rica to submit any evidence or argument, the
+Tribunal exceeded its authority.
+
+44. In addition to being bound by the submissions of the parties, arbitration tribunals
+cannot choose to apply their own policy preferences instead of the requirements of applicable
+law. This is especially true where the arbitration tribunal has not reached the threshold question
+of which law applies. See Exhibit K, J 181. Turning to the legal effect of the donation of Lots BI
+and B8, the Tribunal did not select the law that would apply, deciding instead to apply its own
+policy preferences to the effect of the transfer. See id. The Tribunal found convincing policy
+rationales to dismiss claimant’s claims, such as the “risk [of] opening the door to property ‘sales’
+that had as their object the cleansing of the knowledge of the original purchaser of defects or
+restrictions in the original title.” See id. This risk is nothing more than a policy consideration
+substituting a legal analysis of gifts pursuant to Costa Rican (applicable) law. The Tribunal did
+not otherwise cite a rule of decision from the FAA or applicable law. As such, the Tribunal
+exceeded its powers.
+
+45. The Interim Award seems to implicitly recognize these failings, but the Tribunal
+did not give the Berkowitz Claimants a chance to offer any evidence or argument. The Tribunal
+found that “it might have been put to the Tribunal that the claims by Aaron and Trevor
+Berkowitz should not be afflicted by the knowledge of their father, Brett Berkowitz, when first
+acquiring the lots, no such argument was advanced.” See Exhibit K, Interim Award, { 181. Given
+the chance, the Berkowitz Claimants would have responded, an especially concerning result
+
+because Costa Rica also did not make this argument.
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 19 of 22
+
+B. The Tribunal exceeded its authority when it declined jurisdiction stemming from
+the court rulings after June 10, 2013, in the Local Litigation as to Lot B1
+
+46. Arbitration tribunals have the obligation to define the issues they will decide,
+including objections to jurisdiction. In the context of an arbitration according to the UNCITRAL
+Arbitration Rules, the Tribunal has the ability to decide on its own jurisdiction. As a part of this
+power, it can request documents and evidence from the parties. In any event, an arbitration
+tribunal’s decision on its own jurisdiction is subject to review by courts, and in the case of a
+request to set aside or vacate the award under Section 10(a)(4), the courts have the ability to
+review de novo the arbitration tribunal’s findings.
+
+47. Here, the Tribunal’s decision declining jurisdiction over the result of the Local
+Litigation as to Lot B1 was an excess of the Tribunal’s authority. In the Interim Award, the
+Tribunal found that the parties had not adequately made any submissions regarding the
+Tribunal’s jurisdiction over the effect of the decisions made in the Local Litigation after June 10,
+2013, as to Lots BS and B6.° See Exhibit K {[ 294. In so doing, it gave the parties an opportunity
+to show that jurisdiction existed over Lots BS and B6 because there were court rulings in the
+Local Litigation after June 10, 2013. See id. [| 289-294. Without any submission by the parties,
+the Tribunal found that there were no court rulings in the Local Litigation after June 10, 2013, as
+to Lot B1. See id. { 288. As such, the Tribunal decided that the absence of any court ruling meant
+it had no jurisdiction over the Local Litigation as to Lot B1.
+
+48. However, there had been a court ruling in the Local Litigation after June 10,
+2013, as to Lot B1. The Tribunal had the power under the UNCITRAL Arbitration Rules to
+© “The Tribunal accordingly concludes and so finds that, in the particular circumstances of this
+case, the Parties should be afforded an opportunity to present their views on the issue of whether
+the Tribunal has jurisdiction to entertain the Claimants’ allegations of a breach of CAFTA
+
+Article 10.5 by reference to relevant and applicable judgments of the Costa Rican courts
+rendered after 10 June 2013 in respect of Lots B5, B6 and B7.” (emphasis in original)
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 20 of 22
+
+request any documents showing any court ruling in the Local Litigation as to Lot B1, and had the
+Tribunal made this request, it would have found that on July 15, 2016, there was a court ruling in
+the Local Litigation as to Lot B1. The existence of the court ruling, under the Tribunal’s analysis
+of Lots BS and B6, would have changed the Tribunal’s analysis of Lot B1, at least giving the
+Berkowitz Claimants the opportunity to show that jurisdiction existed over the court proceedings
+as to Lot B1. But the Interim Award foreclosed this opportunity, constituting an excess of
+powers by the Tribunal and another reason to vacate the Interim Award.
+
+Cc. The Tribunal exceeded its authority when it bifurcated the proceedings, denying
+the Berkowitz Claimants the opportunity to be heard on the relevant jurisdiction
+objections d_sua sponte by the Tribunal
+
+49. While the UNCITRAL Arbitration Rules give the arbitration tribunal the ability to
+issue one or more awards, including a separate award on jurisdiction, arbitration tribunals do not
+have the authority to bifurcate the proceedings into multiple phases without at least a request by
+one of the parties, coupled with the opportunity to be heard by the others.
+
+50. When the parties went to the hearing in April 2015, they had prepared a hearing
+on both jurisdiction and the merits, taking into consideration that all jurisdictional objections had
+been lodged and that the Tribunal would render an award on the issues before it. None of the
+parties requested the Tribunal to split, or bifurcate, the proceedings between jurisdiction and
+merits, a fact recognized by the Tribunal in the Interim Award. See Exhibit K, [ 7. Due to the
+lack of a request to bifurcate, the Berkowitz Claimants did not have notice of the distinct legal
+arguments and evidence it should have presented as to the effect of the donation of Lots B1 and
+B8 and the Local Litigation as to Lot B1. Had there been a request to bifurcate, coupled with any
+indication of the jurisdictional issues raised by the Tribunal (though not by Costa Rica), the
+
+Berkowitz Claimants could have submitted full arguments, testimony, and evidence as to those
+
+20
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 21 of 22
+
+jurisdictional issues. But the Berkowitz Claimants did not get that opportunity, leading the
+Tribunal to find against the Berkowitz Claimants on the points raised above. At a minimum,
+there should have been a request to bifurcate by Costa Rica or some sort of notice of the
+jurisdictional issues to be addressed. Absent a request or notice, the Tribunal exceeded its
+authority by sua sponte bifurcating the arbitration and rendering an Interim Award.
+
+51. Strangely enough, the Tribunal appeared cognizant of its ability to give the parties
+an opportunity for further submissions as to jurisdiction. For example, the Tribunal found that
+Costa Rica’s limited submissions on the effect of the rulings in the Local Litigation as to Lots BS
+and B6 required the parties to receive a chance to submit further arguments and evidence as to
+this issue. The Tribunal could have followed the same process as to the donation of Lots B1 and
+B8 and the effect of the Local Litigation as to Lot B1. By failing to do so, the Tribunal exceeded
+its powers, requiring this Court to vacate the Interim Award.
+
+Ill. This Court should stay the arbitration proceedings pending the resolution of the
+Motion
+
+52. On filing a motion to vacate, courts have the ability to stay the underlying
+arbitration proceedings. See 9 U.S.C. § 12; see e.g. Aurum Asset Managers, LLC v. Banco do
+Estado do Rio Grande do Sul, Miscellaneous Action No. 08-102, 2010 WL 4027382 at *1 (E.D.
+Pa. Oct. 13, 2010). The stay functions to stop any enforcement of the award. See 9 U.S.C. § 12.
+Similarly, CAFTA-DR prohibits a “disputing party” from seeking enforcement of an award in
+the case of a final award under the UNCITRAL Arbitration Rules until “a court has dismissed or
+allowed an application to revise, set aside, or annul the award and there is no further appeal.” See
+Article 10.26.6(b)(ii).
+
+53. This Court should immediately stay the underlying arbitration proceedings. The
+
+Berkowitz Claimants have met the condition of timely filing and serving a motion to vacate an
+
+21
+
+Case 1:17-cv-00148-RJL Document1 Filed 01/23/17 Page 22 of 22
+
+award that is final as to certain claims and issues brought by the Berkowitz Claimants. The
+Tribunal has already ordered the proceedings to continue, essentially enforcing the Interim
+Award as it relates to grounds for vacatur mentioned herein, and further steps in the underlying
+arbitration will severely harm the rights of the Berkowitz Claimants, requiring them to
+participate before a tribunal that has already exceeded its powers. Moreover, the Berkowitz
+Claimants may take potentially different positions in the underlying arbitration, putting at risk
+any future arbitration before a new tribunal. Both the FAA and CAFTA-DR contemplate exactly
+the relief sought by the Berkowitz Claimants. This Court should therefore stay the underlying
+arbitration until a final decision has been issued as to the Motion.
+CONCLUSION
+
+Wherefore, the Berkowitz Claimants respectfully request this Court vacate or set aside
+
+the Interim Award, stay the arbitration proceedings pending the outcome of the ruling on the
+
+Motion, and grant such other relief the Court deems proper.
+
+Dated this the 23" day of January, 2017.
+
+Respectfully submitted,
+
+/s/ Megan C. Connor
+
+Megan C. Connor (DCB# 996991)
+mconnor@pilieromazza.com
+
+Paul W. Mengel III (DCB# 457207)
+pmengel @pilieromazza.com
+PILIEROMAZZA PLLC
+
+888 17th Street, N.W., 11th Floor
+Washington, D.C. 20006
+Telephone: (202) 857-1000
+Facsimile: (202) 857-0200
+
+22
+

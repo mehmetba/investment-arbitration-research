@@ -1,0 +1,147 @@
+ENRON NIGERIA POWER HOLDING, LTD. v. FEDERAL REPUBLIC OF NIGERIA Doc. 30
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ENRON NIGERIA POWER HOLDING,
+LTD.,
+
+Petitioner,
+
+v. Case No. 1: 1:13-cv-01106 (CRC)
+FEDERAL REPUBLIC OF NIGERIA,
+
+Respondent.
+
+ 
+
+OPINION AND ORDER
+
+Before the Court is Respondent Federal Republic of Nigeria’s Motion for Stay of
+Proceedings Pending Appeal. Upon consideration of the motion, and the oppositions and reply
+thereto, the Court will deny the motion.
+
+I. Background
+
+In 1999, Enron Nigeria Power Holding, Ltd. (“ENPH”) entered into an agreement that was
+guaranteed by the Republic of Nigeria to supply three barge-mounted electricity generating units
+and later build a gas-fired power plant in the country. After the venture fizzled, ENPH and Nigeria
+submitted their dispute over compensation to the International Chamber of Commerce International
+Court of Arbitration pursuant to their written agreement. Pet. { 10, Ex. A § 23. The arbitrators
+eventually awarded ENPH $11.2 million in damages and $870,000 in legal costs and expenses. Pet.
+Ex. B{ 175. After Nigeria refused to pay the award, ENPH initiated this action requesting that the
+Court order Nigeria to do so. Pet. {J 17, 22.
+
+Nigeria moved to quash service and dismiss the Petition, arguing that ENPH failed to
+properly effectuate service under Federal Rule of Civil Procedure 4(j) and the relevant provision of
+the Foreign Sovereign Immunities Act (“FSIA”), 28 U.S.C. § 1608. The Court agreed that service
+
+was deficient, but found that ENPH had shown good cause for its failure as required under Federal
+
+Dockets.Justia.com
+
+Rule of Civil Procedure 4(m) and granted ENPH 120 additional days to effect service by alternative
+means. Without permission from the Court, Nigeria appealed this interlocutory order to the D.C.
+Circuit. Nigeria argues it did not require permission because the Court in effect rendered a final
+judgment by noting in its Memorandum and Order that Nigeria “appear[ed] to be using this action
+to re-litigate and delay the payment of claims already resolved by the agreed upon arbitration
+procedure.” Nigeria’s Mot. for Stay at 8-9. Nigeria now seeks a stay of these proceedings pending
+the outcome of its appeal.
+
+IL. Standard of Review
+
+“A stay is . . . an exercise of judicial discretion.” Virginian Ry. Co. v. United States, 272
+USS. 658, 672, (1926) (internal citation omitted). The movant bears the burden of proving that a
+stay is warranted. Nken v. Holder, 556 U.S. 418, 433-34 (2009). Decisions whether to grant a stay
+are governed by four factors: “‘(1) whether the stay applicant has made a strong showing that he is
+likely to succeed on the merits; (2) whether the applicant will be irreparably injured absent a stay;
+(3) whether issuance of the stay will substantially injure the other parties interested in the
+proceeding; and (4) where the public interest lies.’” Id. at 434 (quoting Hilton v. Braunskill, 481
+U.S. 770, 776 (1987)). “The first two factors . . . are the most critical.” Id.
+
+Ill. Analysis
+
+The U.S. Code clearly explains when a party can appeal an interlocutory order:
+
+When a district judge, in making in a civil action an order not otherwise appealable
+
+under this section, shall be of the opinion that such order involves a controlling
+
+question of law as to which there is substantial ground for difference of opinion and
+
+that an immediate appeal from the order may materially advance the ultimate
+
+termination of the litigation, he shall so state in writing in such order. The Court of
+
+Appeals which would have jurisdiction of an appeal of such action may thereupon,
+
+in its discretion, permit an appeal to be taken from such order, if application is made
+
+to it within ten days after the entry of the order: Provided, however, That application
+
+for an appeal hereunder shall not stay proceedings in the district court unless the
+district judge or the Court of Appeals or a judge thereof shall so order.
+
+28 U.S.C.A. § 1292(b). In this case, the Court explicitly reserved judgment on the merits of
+Nigeria’s motion to dismiss. Order Granting in Part and Denying in Part Nigeria’s Mot. to Quash
+Service and Dismiss Pet. at 1, July 25, 2014. The Court never stated in writing “that an immediate
+appeal from the order may materially advance the ultimate termination of the litigation,” and neither
+party asked the Court to do so. 28 U.S.C.A. § 1292(b). Nigeria alleges that the Court’s reasoning
+that Nigeria would not be prejudiced because it “‘appear[ed] to be using this action to re-litigate and
+delay the payment of claims already resolved by the agreed upon arbitration procedure”
+automatically converted the decision into a final, appealable order. Nigeria’s Mot. for Stay at 8-9;
+Nigeria’s Reply 1-2. Nigeria cites a single case, Gillespie v. United States Steel Corporation, 379
+U.S. 148, 152 (1964), to support this contention. Gillespie discussed “marginal cases” where
+determining “whether a ruling is ‘final’. . . is . . . so close a question that decision of that issue either
+way can be supported with equally forceful arguments.” Gillespie v. United States Steel Corp., 379
+U.S. 148, 152 (1964). No close question exists here. The Court explicitly reserved judgment on the
+merits pending ENPH effecting proper service, making it clear that its order was not a final ruling.
+Order Granting in Part and Denying in Part Nigeria’s Mot. to Quash Service and Dismiss Pet. at 1,
+July 25, 2014. Under Nigeria’s reasoning, any expression by a court whether one party or another
+would be prejudiced would automatically convert an order into a final, appealable judgment. This
+is obviously inconsistent with courts’ obligation to consider prejudice as a factor under a wide
+variety of legal standards that arise at various points in litigation. Consequently, as ENPH notes,
+Nigeria cannot succeed on the merits of its appeal because the District of Columbia Circuit does not
+have jurisdiction over it. ENPH’s Opp’n to Nigeria’s Mot. for Stay at 9.
+
+Nigeria also argues that it will suffer irreparable harm absent a stay because it has not been
+properly served and thus the Court has not established personal jurisdiction over it. Nigeria’s Mot.
+
+for Stay at 9-10. But the Court’s interlocutory order addresses precisely this alleged injury.
+
+Consistent with the Federal Rules and relevant precedent, the Court did not reach the merits of the
+matter and extended the deadline for ENPH to serve Nigeria properly. See Fed. R. Civ. P. 4(m);
+
+Mann v. Castiel, 729 F. Supp. 2d 191, 198 (D.D.C. 2010), aff'd, 681 F.3d 368 (D.C. Cir. 2012).
+
+ 
+
+Awaiting proper service for four months—during which nothing is required of or will happen to
+
+Nigeria—in a dispute that is over a decade old is hardly the type of “certain and great” injury that
+
+constitutes irreparable harm. Wisconsin Gas Co. v. F.E.R.C., 758 F.2d 669, 674 (D.C. Cir. 1985).
+In short, Nigeria has failed to demonstrate the two “most critical” factors in determining
+
+whether to grant a stay. Nken, 556 U.S. at 434. The Court will deny its motion.
+
+ 
+
+IV. Conclusion
+
+For the foregoing reasons, it is hereby
+
+ORDERED that Nigeria’s Motion for Stay of Proceedings Pending Appeal [ECF No. 27] is
+DENIED.
+
+SO ORDERED.
+
+Last ber Me, Unpea—
+
+CHRISTOPHER R. COOPER
+United States District Judge
+
+Date: _ October 2, 2014
+
+ 
+

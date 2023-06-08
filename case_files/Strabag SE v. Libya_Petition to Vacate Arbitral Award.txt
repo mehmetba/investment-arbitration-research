@@ -1,0 +1,856 @@
+Case 1:20-cv-02600 Document 1 Filed 09/15/20 Page 1 of 24
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ 
+
+STATE OF LIBYA,
+
+Petitioner,
+v. Case No.
+
+STRABAG SE,
+
+Respondent.
+
+ 
+
+ 
+
+PETITION TO VACATE ARBITRAL AWARD
+Petitioner State of Libya (“Libya”)! hereby petitions this Court for an order and judgment
+
+vacating or, alternatively modifying the arbitral award rendered on June 29, 2020 in Strabag SE
+
+ 
+
+v. State of Libya, ICSID Case No. ARB(AF)/15/1 (the “Award”) pursuant to the Federal
+Arbitration Act (“FAA”), 9 U.S.C. §§ 10, 11. A duly certified copy of the Award and the
+dissenting opinion of Professor Nassib G. Ziadé is appended as Exhibit | to the Declaration of
+Hermann Ferré dated September 15, 2020 (“Ferré Decl.”). In support of its Petition, Libya
+
+respectfully states as follows:
+
+THE PARTIES
+
+1. Petitioner State of Libya is a foreign state as defined in the Foreign Sovereign
+Immunities Act, 28 U.S.C. § 1603(a).
+
+2. Respondent Strabag SE (“Strabag”) is a corporation organized under the laws of
+the Republic of Austria. Strabag wholly owns ILBAU, a German company, which in turn
+wholly owns Strabag International Limited (“Strabag International”), a German company, which
+in turn holds a 60% interest in Al Hani General Construction Company (“Al Hani”) — the Libyan
+
+' This submission is without prejudice to Libya’s position that sums due on any arbitral award
+are to be paid by the Libyan Agencies as defined infra, and not by Libya itself.
+
+Case 1:20-cv-02600 Document 1 Filed 09/15/20 Page 2 of 24
+
+joint venture company at the center of the parties’ dispute. Award 7. The Libyan Investment
+
+and Development Company (“LIDCO”) holds the remaining 40% interest in Al Hani. Jd.
+
+ 
+
+JURISDICTION AND VENUE
+
+3. This Court has jurisdiction over the subject matter of this proceeding under 28
+U.S.C. § 1332(a)(4) because Libya is a foreign state as defined in the Foreign Sovereign
+Immunities Act (“FSIA”), 28 U.S.C. § 1603(a) and the amount in dispute exceeds $75,000.
+
+4. This Court also has jurisdiction over the subject matter of this proceeding under 9
+U.S.C. § 203, which provides that “[t]he district courts of the United States . . . have original
+jurisdiction over” any “action or proceeding falling under” the Convention on the Recognition
+and Enforcement of Foreign Arbitral Awards (the “New York Convention”). This proceeding
+falls under the New York Convention because it arises out of a commercial arbitration between
+Libya and Strabag, neither of which are citizens of the United States. See 9 U.S.C. § 202. In
+addition, the Award was rendered in Washington, D.C. and therefore this Court has primary
+supervisory jurisdiction over the Arbitration (as defined below) and the Award under the New
+York Convention and thus is the only jurisdiction with the authority to vacate the award. See
+Alghanim v. Toys “R” Us, 126 F.3d 15, 22-23 (2d Cir. 1997); Termorio S.A. E.S.P. v. Electranta
+S.P., 487 F.3d 928, 935 (D.C. Cir. 2007).
+
+5. This Court has personal jurisdiction over Strabag because Strabag is party to the
+Award, which was issued in Washington, D.C. See Am. Bureau of Shipping v. Tencara Shipyard
+
+S.P.A., 170 F.3d 349, 352 (2d Cir. 1999) (recognizing personal jurisdiction over parties to an
+
+Case 1:20-cv-02600 Document 1 Filed 09/15/20 Page 3 of 24
+
+arbitration at the place they arbitrate). Strabag submitted to this Court’s supervisory jurisdiction
+under the New York Convention.”
+
+6. Venue is proper in this Court pursuant to 9 U.S.C. §§ 10, 204 and 28 U.S.C.
+§ 1391 because the arbitration was seated in Washington D.C. and the award was rendered in
+
+Washington, D.C.
+
+FACTUAL BACKGROUND
+
+7. Petitioner the State of Libya is a foreign state as defined in the FSIA. Respondent
+Strabag is a corporation organized under the laws of the Republic of Austria. At the center of the
+parties’ dispute is Al Hani, a Libyan joint venture company in which Strabag holds an indirect
+60% interest through its 100% ownership of the German company ILBAU, which in turn wholly
+owns another German company, Strabag International. Award § 7. Strabag International holds a
+60% interest in Al Hani. Jd. LIDCO holds the remaining 40% interest in Al Hani. /d. Al Hani
+was “controlled, and its operations directed, in all practical respects by Strabag.” Jd. 128.
+
+8. The dispute between Strabag and Libya concerns six construction contracts (the
+“Contracts”) between Al Hani and certain Libyan government agencies, namely the Roads and
+Bridges Authority (“RBA”), the Housing and Infrastructure Board (“HIB”), and the
+Transportation Projects Board (“TPB”) (together, the “Libyan Agencies”). Id. §§ 59-60. The
+parties signed the Contracts between 2006 and 2010. Jd. 4 60. Performance was interrupted by
+the outbreak of hostilities in Libya in February 2011, which have since become known as the
+Libyan Revolution. Jd. §] 75-78. The Contracts and the parties’ dispute are further described
+
+infra.
+
+? Libya will be filing a motion for alternative service and will endeavor to timely serve Strabag
+under 9 U.S.C. § 12.
+
+-3-
+
+Case 1:20-cv-02600 Document 1 Filed 09/15/20 Page 4 of 24
+
+9. Strabag commenced the arbitration against Libya (the “Arbitration”) in 2015 after
+it sought outstanding payments under the Contracts as well as compensation for damage to Al
+Hani’s equipment caused by the Libyan Revolution. /d. § 93. Although Strabag’s claims
+pertained almost entirely to sums that the Libyan Agencies allegedly owed to Al Hani under the
+Contracts, the Contracts themselves do not provide for arbitration. Id. {J 189-90; see also, e.g.,
+Ferré Decl., Ex. 7, Article 53. Instead, they require that disputes be resolved through litigation in
+the Libyan courts. Award, {§ 189-90.
+
+10. Eschewing these contractual requirements, Strabag instead brought its claim
+under a bilateral investment treaty, the Agreement between the Republic of Austria and the Great
+Socialist People’s Libyan Arab Jamahiriya, entered into force on January 1, 2004 (the “Austria-
+Libya BIT” or the “Treaty”), which is appended as Exhibit 4 to the Declaration of Hermann
+Ferré. The Austria-Libya BIT sets out various protections that Austria and Libya each undertake
+to provide to “investments” made by qualifying “investors” of the other State.
+
+11. Strabag commenced its arbitration under Article 11 of the Treaty, which permits a
+qualifying investor to submit a dispute to arbitration under the rules governing the Additional
+Facility for the Administration of Proceedings by the Secretariat of the Centre (the “ICSID
+Additional Facility Rules”).? The Tribunal determined that the Arbitration would be seated in
+Washington, D.C. Award 19.
+
+12. Over the course of the Arbitration, the parties exchanged written submissions,
+witness statements and expert reports. Id. §§] 20-45. The ICSID Additional Facility Rules do not
+require arbitral hearings to take place at the seat of arbitration, and so the Tribunal held a two-
+
+week hearing in Paris in July 2018. Id. 446. It issued an Award on June 29, 2020. Id. 46.
+
+> As set forth infra, awards rendered under the ICSID Additional Facility Rules are subject to the
+New York Convention and not the ICSID Convention.
+
+-4-
+
+Case 1:20-cv-02600 Document 1 Filed 09/15/20 Page 5 of 24
+
+13. In its Award, the Arbitral Tribunal (the “Tribunal”) awarded Strabag
+€82,038,766.61, £1,118,721.20, and $497,533.80 (including €74,937,003.60 in damages plus
+€7,101,763.01 and £1,118,721.20 in attorney fees and $497,533.80 in arbitration costs).4 Id.
+
+9 979-80. Of the amount awarded to Strabag, the vast majority, approximately €68.7 million,
+was awarded in respect of Strabag’s claims for payments that Al Hani was owed under the terms
+of the Contracts. Id. { 979. In particular, the Tribunal determined that pursuant to the Treaty’s
+“Umbrella Clause,” it had jurisdiction over disputes under the Contracts. Jd. ¥ 188
+(“Accordingly, the Tribunal finds that the several contracts between Al Hani and RBA, TPB and
+HIB fall under Article 8(1) of the Treaty.”). This Umbrella Clause, Article 8(1), states that
+“{eJach Contracting Party shall observe any obligation it may have entered into with regard to
+specific investments by investors of the other Contracting Party.” Jd. { 137; Treaty, Article 8(1).
+
+14. The remaining €6.3 million was awarded based on Libya’s breach of another
+provision of the Treaty through the conduct of its military during the Libyan Revolution, the
+“War Clause.” Award § 979. The “War Clause,” Article 5, stipulates that States shall
+compensate investors for losses that their investments suffer due to wartime requisitioning or the
+use of military force in the absence of military necessity. Treaty, Article 5.
+
+15. The Award does not, however, account for the approximately €98 million in
+advance payments that Strabag was paid at the outset of the projects for work that was never
+performed. Although the Tribunal unanimously determined that it had jurisdiction to adjudicate
+Libya’s assertion of a set-off of these unearned advance payments, two of the three members of
+
+the Tribunal (the “Majority”) nevertheless refused to actually adjudicate the set-off. Instead of
+
+4 The Tribunal also awarded simple interest at the EURIBOR Annual Rate plus 4% on
+€51,608,403.60 of this amount running from March 1, 2011, and on the remainder running from
+January 1, 2012. Id.
+
+-5-
+
+Case 1:20-cv-02600 Document 1 Filed 09/15/20 Page 6 of 24
+
+resolving this issue, the Majority directed the parties to resolve the set-off of the prepayments
+“outside the context of this arbitration.” Award §§ 915-17, 921.
+
+16. Petitioner moves to set aside the award under 9 U.S.C. § 10(a)(4), and,
+alternatively, moves to modify the award under 9 U.S.C. § 11. By failing to adjudicate Libya’s
+assertion to an offset, the Tribunal did not issue a final award as required by 9 U.S.C. § 10(a)(4)
+and therefore the Award should be vacated. Alternatively, because the Award provides Strabag a
+double recovery, the Court should modify the Award pursuant to 9 U.S.C. § 11.
+
+17. Petitioner sets out below (A) the terms of the Contracts, including those
+governing the prepayments at issue in the present action; (B) the unsettled contractual issues
+resulting from the Libyan Resolution and the suspension of works; (C) the substance of the
+dispute in the Arbitration; and finally (D) the disagreement between the Majority and the Dissent
+over whether to account for the prepayments that Libya had already made to Strabag for works
+
+that have never been performed.
+
+IL. The Parties’ Contracts
+18. The six Contracts pursuant to which the Tribunal awarded the majority of the
+damages in the Arbitration are:
+
+e The “Benghazi Contract”. In 2006, Strabag International and RBA entered into the
+Benghazi Contract, which provided for the maintenance of a road near Benghazi, Libya.
+This Contract is appended as Exhibit 7 to the Declaration of Hermann Ferré.
+
+e The “Misurata Contract”. In 2007, Strabag International and RBA entered into the
+Misurata Contract, which provided for the maintenance of a road near Misurata, Libya.
+This Contract is appended as Exhibit 8 to the Declaration of Hermann Ferré.
+
+e The “Tajura Contract”. In 2008, Al Hani and HIB entered into the Taiura Contract,
+which provided for the design and construction of infrastructure for a suburban
+development in Tajura, Libya. This Contract is appended as Exhibit 9 to the Declaration
+of Hermann Ferré.
+
+Case 1:20-cv-02600 Document 1 Filed 09/15/20 Page 7 of 24
+
+e The “TIAR Contract”. In 2008, Al Hani and RBA entered into the TIAR Contract, which
+provided for the construction of a road in Libya. This Contract is appended as Exhibit 10
+to the Declaration of Hermann Ferré.
+
+e The “TIAR-NE Contract”. In 2009, Al Hani and RBA entered into the TIAR-NE
+Contract, which provided for the design of a road in Libya. This Contract is appended as
+Exhibit 11 to the Declaration of Hermann Ferré.
+
+e The “Garaboulli Contract”. In 2010, Al Hani and TPB entered into the Garaboulli
+Contract, which provided for the maintenance of a road in Libya. This Contract is
+appended as Exhibit 12 to the Declaration of Hermann Ferré.
+
+See Award § 60; see generally id. §§ 56-74; see also Exs. 7-12. In 2009, Strabag International
+assigned the Benghazi and Misurata Contracts to Al Hani. Award 47. In July 2010, TPB
+assumed all of RBA’s rights and obligations under the Benghazi, Misurata, TIAR and TIAR-NE
+Contracts. Id. § 8.
+
+19. As is standard in the construction industry, all work under the Contracts was
+priced, and all payments were to be made for the performance of a specified quantity of work.
+Each of the Contracts specifies a total price that the employer (i.e. the Libyan Agencies) would
+pay to the contractor (i.e. Al Hani) for its performance, the amount of work that the contractor
+was required to perform, and the period over which the contractor would perform the work. See,
+e.g., id. | 361 (describing “the projected contract price[]” and “the term of execution” as “central
+elements” of the Misurata Contract); Ferré Decl., Ex. 8, Article 2. The central contractual
+payment mechanism reflected this bargain: the contractor was paid through monthly “payment
+certificates” that stated the amount of work the contractor had performed during the covered
+period against quantities of materials and work indicated in the Contracts. Award § 61.
+
+20. In addition to this “payment certificate” mechanism, the beginning and end of
+performance were marked by additional payment mechanisms. Upon signing and site handover,
+
+each of the Contracts required the employer to make a substantial advance payment to the
+
+contractor, ranging from 15 to 20% of the total Contract price. Jd. J] 65-66. In addition,
+
+-7-
+
+Case 1:20-cv-02600 Document 1 Filed 09/15/20 Page 8 of 24
+
+throughout performance, a retention amount was withheld from the contractor’s payment
+certificates, which the contractor would be awarded upon completion of performance. Award
+463.
+
+21. Through the advance payment mechanism, Strabag received substantial amounts
+under each of the Contracts. RBA paid Strabag International €5.9 million under the Benghazi
+Contract and €4.2 million under the Misurata Contract. Ferré Decl., Ex. 7 Articles 2, 10; Ferré
+Decl., Ex. 8, Articles 2, 10. The Libyan Agencies also paid Al Hani advance payments of €6.2
+million under the TIAR Contract, €417,640 under the TIAR-NE Contract, €15.3 million under
+the Garaboulli Contract, and €89.9 million under the Tajura Contract. Ferré Decl., Ex. 9,
+Articles 2, 10; Ferré Decl., Ex. 10, Articles 2, 10; Ferré Decl., Ex. 11, Appx. B; Ferré Decl., Ex.
+12, Articles 2, 10; Award § 65. Although Strabag only owns sixty percent of Al Hani, one
+hundred percent of the advance payments made to Al Hani were passed on to Strabag. See
+Award § 132 (noting that Strabag’s corporate accounts included “[a]ny income received from
+the Libyan project”). Thus, Strabag received advance payments under each of the Contracts
+before commencing work, for a total of over €121.9 million.
+
+22. The contractor was required to pay back these advance payments over the term of
+the Contracts. Id. §{ 65-66. Al Hani’s payment certificates thus included pro rata deductions to
+account for the advance payments. Jd. { 65. For example, the Tajura Contract provided for a
+20% advance payment and therefore the monthly payment certificates issued by Al Hani would
+include a corresponding 20% deduction of the invoiced amount to pay back a portion of the
+
+advance payment received at the outset of the project. Jd. 66. This mechanism allowed the
+
+5 Under the Contracts, sums were paid partially in Euros and partially in Libyan Dinar according
+to fixed exchange rates. See, e.g., Ferré Decl., Ex. 10, Appx. No. 1, Article 6.
+
+-8-
+
+Case 1:20-cv-02600 Document 1 Filed 09/15/20 Page 9 of 24
+
+Libyan Agencies to gradually recoup the value of the advance payments from Al Hani as it
+performed and completed the works under the Contracts.
+
+23. The Contracts also required Al Hani to maintain irrevocable bank guarantees to
+secure any remaining “unearned” advance payment. /d. § 65. Notably, because LIDCO is a
+Libyan entity and was exempt from the guarantee obligation, Al Hani was only required to
+guarantee sixty percent of any outstanding advance payments, notwithstanding that in practice
+Strabag itself collected the entire advance payment. Jd. § 68.
+
+24. The guarantees consisted of standby letters of credit issued by Gumhouria Bank in
+Libya in favor of the Libyan Agencies. Jd. { 903. For certain guarantees, such as those under
+the TIAR and Tajura Contracts, Gumhouria Bank also required Al Hani or its parent companies
+to secure the bank’s exposure to the Libyan Agencies. For these guarantees, in addition to letters
+of credit in favor of the Libyan Agencies, or “fronting guarantees,” Strabag International’s bank’
+provided a “backing guarantee” in the form of a counter-guarantee letter of credit in favor of
+Gumhouria Bank. Jd. § 890; see also Dissent § 17. Because the backing guarantees were issued
+in favor of Gumhouria Bank, they could only be exercised by Gumhouria Bank and not the
+Libyan Agencies. See, e.g., Award § 890. The guarantees were to be released upon completion
+
+of all of the work under the Contracts. Id. ] 65.
+
+IL. The Libyan Revolution & Strabag’s Invocation of Force Majeure
+25. In February 2011, the Libyan Revolution began, leading to the overthrow of the
+
+regime of Muammar al Gaddafi. /d. §§ 75-77. On March 3, 2011, Al Hani sent letters to the
+
+° The amount of the bank guarantees was subject to reduction commensurate with the amounts
+Al Hani paid back through its performance and submission of payment certificates. Award 66.
+
+7 Strabag International used different banks for different backing guarantees, including ABC
+International Bank and Deutsche Bank. See, e.g., Dissent § 17.
+
+-9-
+
+Case 1:20-cv-02600 Document1 Filed 09/15/20 Page 10 of 24
+
+Libyan Agencies invoking force majeure as of February 20, 2011. Jd. §78. Thereafter, Al Hani
+ceased work under the Contracts and evacuated expatriate personnel. Jd. J 78.
+
+26. When Al Hani ceased performance, the Contracts were in varying stages of
+completion. The Benghazi Contract was nearly complete. Jd. § 60. However, Al Hani had only
+performed roughly 5% of the Tajura Contract, the largest of the Contracts. Jd. 472. A similar,
+minimal portion of the Garaboulli Contract had been performed. Jd. 4 776.
+
+27. The parties’ respective payment obligations were left unsettled. The Libyan
+Agencies recognized outstanding obligations of roughly €33 million pursuant to approved
+payment certificates for work that Al Hani had performed, and Al Hani asserted additional
+claims for additional works that it had performed, delays, and force majeure losses.* Id. 4 346.
+
+28. For its part, Al Hani still retained approximately €98 million in advance payments
+for which it had not completed any corresponding work. Jd. § 876. These unearned advance
+payments amounted to €853,807 under the TIAR Contract, €14,273,425 under the Garaboulli
+Contract, and €82,707,835 under the Tajura Contract.’ Id. §§ 71-72, 876. Meanwhile, the
+“fronting” guarantee of the advance payment under the Tajura Contract (i.e. the largest of the
+guarantees) lapsed. Id. { 67 (“[T]he ‘fronting’ guarantee for the Tajura guarantee apparently was
+allowed to lapse through a Libyan bank’s administrative error.”); see also Dissent J 22-31.
+
+8 As the Tribunal noted, Al Hani’s outstanding entitlements under payment certificates were
+largely agreed between the parties. Id. § 346.
+
+° In the Arbitration, Libya asserted a set-off for a portion of the advance payment under the
+TIAR-NE Contract based on its assertion that Al Hani had not performed work entitling it to full
+payment under the second or third payment certificate for that Contract (thus, Al Hani had not
+fully repaid the advance payment through performance). Jd. § 876. Because the principal
+mechanism through which Al Hani was to repay advance payments was through withholdings on
+duly earned payment certificates, the Tribunal’s finding against Libya with respect to these
+payment certificates disposes of the advance payment issue under that Contract. See id. § 65
+(describing this repayment mechanism); id. §{] 380-82, 391 (finding that Al Hani had performed
+its obligations under the TIAR-NE Contract). Libya’s entitlement to set-off for the remaining
+unearned advance payments are unaffected by the Award.
+
+-10-
+
+Case 1:20-cv-02600 Document1 Filed 09/15/20 Page 11 of 24
+
+29. Notwithstanding efforts by the Libyan Agencies from 2011 to 2013 to induce
+Strabag to resume work, including by making contractual payments and proposing processes for
+Strabag to recover the remainder of sums owing, Strabag has indicated that it will not re-
+
+mobilize in Libya due to deteriorating security conditions. See generally Award §§ 85-96.
+
+Ill. Strabag Commences the Arbitration
+
+30. In 2015, Strabag initiated the Arbitration under the Treaty. Strabag asserted that
+it was an “investor” under the Treaty, and that Al Hani, Al Hani’s contractual rights, and Al
+Hani’s construction equipment in Libya constituted its protected “investments.” Jd. § 100. It
+asserted claims under the War Clause of the Treaty for loss and damage to Al Hani’s equipment
+during the Libyan Revolution. Jd. § 211. Relying on the Treaty’s Umbrella Clause, which as
+described supra provides protection for “any obligation” entered into by Libya, Strabag also
+asserted claims to recover payments owed by the Libyan Agencies under the terms of the
+Contracts, including their force majeure provisions.'° Id. § 137.
+
+31. Libya raised several jurisdictional objections. Jd. § 101. Libya argued that the
+Contracts were not “investments” as defined in the Treaty. Jd. Libya also argued that Strabag
+was not an “investor” under the Austria-Libya BIT because Strabag itself had not made any
+investments in Libya and Strabag was not entitled to claim “investor” status under the Austria-
+Libya BIT based on the activities of its second-tier German subsidiary, Strabag International. Id.
+
+Libya similarly argued that Strabag had no rights in the assets of its third-tier Libyan subsidiary,
+
+‘0 Strabag also asserted claims under various other provisions of the Treaty. With the exception
+of one claim that was dismissed on the merits, the Tribunal declined to resolve these claims as
+they were based on the same underlying facts and did not affect the quantum of damages. Award
+(J 238-241; see also id. Jf 234-236 (rejecting Strabag’s argument that Libya failed to provide it
+“constant protection and security” by failing to prevent or investigate the seizure of certain Al
+Hani equipment in 2014 because Libya acted diligently in accordance with prevailing conditions
+in the country).
+
+-ll-
+
+Case 1:20-cv-02600 Document1 Filed 09/15/20 Page 12 of 24
+
+Al Hani. Id. In addition, Libya argued that the Umbrella Clause did not transform ordinary
+breaches of commercial contracts into treaty violations and therefore the Tribunal lacked
+jurisdiction over Strabag’s contract claims. Jd. § 141. Libya further argued that neither Libya
+nor Strabag were themselves parties to the Contracts, and that, in any event, the Contracts
+expressly provided for disputes to be resolved in the Libyan courts. Id. §§ 142, 189.
+
+32. On the merits, Libya argued, inter alia, that Strabag sought recovery for losses
+caused by military forces for which Libya was not responsible, such as NATO, and that Al
+Hani’s performance under the Contracts had been deficient. See, e.g., id. FJ 269, 406.
+
+33. Significantly, Libya argued that Strabag could not recover damages on its claims
+without accounting for the advance payments that Strabag had been paid under the Contracts for
+work that it had not performed. /d. § 875. Libya pointed out that Strabag received and retained
+approximately €98 million in advance payments under the Tajura, TIAR and Garaboulli
+Contracts, and that Strabag had an obligation to repay those prepaid amounts since they
+pertained to work that neither had been nor would be performed. Jd. 876. Because the
+Contracts were governed by Libyan law, Libya relied on provisions of the Libyan Civil Code
+governing unjust enrichment and restitution. Id. §§ 881, 883. It also relied on the terms of the
+Contracts themselves, which provided for repayment by the contractor of advance payments,
+generally tied payment obligations to performance obligations, required the contractor to secure
+the unearned advance payments, and contemplated a settlement of accounts upon termination or
+the completion of performance. Jd. 4 883.
+
+34, Following the hearing, the Tribunal invited the parties to file supplemental briefs
+to provide “clarifications ... in relation to the matter of the guarantees in order to assist the
+
+Tribunal in completing its mandate.” Id. {§ 54, 878. This communication is appended as
+
+-12-
+
+Case 1:20-cv-02600 Document1 Filed 09/15/20 Page 13 of 24
+
+Exhibit 4 to the Declaration of Hermann Ferré. The parties filed supplemental briefs setting out
+the status of the guarantees in November and December 2019. Award §] 54, 879. At no point
+during the Arbitration did the Tribunal ask the parties to address whether, as a matter of law, it
+
+had the ability to take action with respect to the guarantees.
+
+IV. The Majority Award and the Dissenting Opinion
+
+35. On June 29, 2020, the Tribunal issued its Award. The Tribunal agreed on issues
+pertaining to jurisdiction and liability with respect to Strabag’s claims. However, the arbitrators
+did not agree on whether to resolve the set-off of the advance payments. While the Tribunal
+found unanimously that it had jurisdiction over the set-off for the advance payments, two of the
+arbitrators refused to actually adjudicate the matter and, instead, found that the parties should
+resolve the matter “outside the context of” the Arbitration. Award J 921. Professor Nassib G.
+Ziadé, a former Acting Secretary General of ICSID, issued a strong dissenting opinion (the
+“Dissent”). He concluded that the Tribunal, having assumed jurisdiction over the case, had an
+obligation to resolve the set-off in order to meaningfully resolve the contractual dispute and to
+avoid double recovery by Strabag.
+
+A. The Tribunal’s Rulings
+
+36. The Tribunal determined that it could exercise jurisdiction over Strabag’s claims.
+It held that Strabag’s indirect interest in Al Hani and Al Hani’s Contract rights constituted an
+“investment” under the Treaty. Award J 109, 110, 118. It found that Strabag could claim
+directly for sums owed to Al Hani under the Contracts because “in reality, Al Hani was not in
+fact an autonomous entity.” Jd. § 128. The Tribunal also held that it had jurisdiction over
+Strabag’s contract claims under the Umbrella Clause. Jd. { 188. It determined that the Treaty’s
+
+Umbrella Clause did not require the investor to be a party to the contracts constituting the
+
+-13-
+
+Case 1:20-cv-02600 Document1 Filed 09/15/20 Page 14 of 24
+
+“investment,” and that the text of the Umbrella Clause did not restrict the type of conduct which
+could give rise to a breach. Id. §§ 164, 167, 173, 188.
+
+37. The Tribunal recognized that the Contracts contained forum selection clauses
+requiring the parties to litigate any disputes arising out of the Contracts in the Libyan courts. Id.
+q 195. Nevertheless, the Tribunal held that enforcement of the forum selection clauses was
+excused as impossible in light of the ongoing security concerns in Libya. It found that, “due to
+poor security conditions, the courts are not regularly operating in Libya since the Revolution of
+2011” and that “there is not today, and has not been for some years, the possibility for Claimant
+to pursue its claims in Libyan courts in tranquility and safety.” Id. §§ 196, 202. It therefore
+concluded that the forum selection clauses in the Contracts did not prohibit the exercise of
+arbitral jurisdiction over Strabag’s contract claims under the Umbrella Clause of the Treaty. Id.
+§ 208.
+
+38. On the merits, the Tribunal awarded Strabag compensation for the requisition and
+destruction of equipment during the Libyan Revolution. Jd. f 263, 298. It reduced Strabag’s
+claims to account for the damage caused by forces other than the Libyan military. See, e.g., id.
+49 292, 298. It also awarded sums owed to Al Hani under approved payment certificates (which,
+as noted above, Libya had recognized as due and owing), and granted an additional €25.76
+million for uncompensated delays and additional works under certain of the Contracts. Id. § 979.
+
+39. The Tribunal also found that conditions in Libya made further performance of the
+Contracts impossible, triggering force majeure under Article 36 of the Contracts and applicable
+Libyan law. Jd. J 813, 842. Although the Tribunal found that the parties had not considered the
+Contracts terminated as of February 2011, it acknowledged that hostilities had triggered a right
+
+to terminate under Article 36 of the Contracts. Id. §§ 795, 807. The Tribunal awarded Strabag
+
+-14-
+
+Case 1:20-cv-02600 Document1 Filed 09/15/20 Page 15 of 24
+
+approximately €17.1 million in force majeure compensation under Article 36 and related
+provisions of the Tajura, TIAR and Garaboulli Contracts on the understanding that performance
+could not resume. Id. §§ 795, 810 (“[C]onditions in Libya following the Revolution would not
+have allowed the resumption of substantial works under Al Hani’s Contracts.”).
+
+40. The Tribunal also deemed certain Contracts to be effectively completed and
+undertook to resolve Strabag’s entitlements on that basis. It thus held that Strabag was entitled
+to recover the “retention payments” withheld by the Libyan Agencies under the Benghazi,
+Misurata and TIAR Contracts as though the work had been completed, awarding approximately
+€3.9 million on that basis notwithstanding the fact that a quarter of the works under the TIAR
+Contract remained to be performed. Id. {§ 768, 769, 773, 979. However, the Tribunal denied
+Strabag’s claims to recover the retention amounts under the Tajura and Garaboulli Contracts on
+the grounds that Al Hani had completed very little of the works under those Contracts. Jd.
+
+99. 774-77.
+
+B. The Majority’s Rulings on Libya’s Advance Payment Claims, Resulting in a
+Double Recovery by Strabag
+
+Al. The Tribunal unanimously held that it had jurisdiction to adjudicate Libya’s
+assertion that any compensation awarded to Strabag should be reduced by the amount of advance
+payments — approximately €98 million — that had been paid to Strabag by the Libyan Agencies
+and neither earned back through performance nor repaid. Jd. § 897. This finding was consistent
+with its application of other Contract-based reductions to Strabag’s damages claims under the
+Contracts in recognition of the Libyan Agencies’ rights thereunder. See, e.g., id. J§ 391, 699,
+706. Nevertheless, the Majority refused to resolve the set-off, instead expressly leaving the issue
+
+to the parties to resolve between themselves. Id. FJ 916, 921.
+
+-15-
+
+Case 1:20-cv-02600 Document1 Filed 09/15/20 Page 16 of 24
+
+42. The Majority recognized that the Libyan Agencies “made substantial advance
+payments in connection with all of the contracts at issue,” and that “large amounts were not
+recovered” through Al Hani’s performance as anticipated under the Contracts. Id. §§ 875-76.
+However, the Majority was “concerned” by the “continued existence” of guarantees securing a
+portion of the advance payments. Jd. § 918. The Tribunal observed that the guarantees securing
+60% of the advance payments received by Strabag under the TIAR and Garaboulli Contracts
+remained in effect. Id. § 909. While the Tribunal recognized that the fronting guarantee issued
+in favor of HIB to secure 60% of the advance payment received by Strabag under the Tajura
+Contract (by far the largest of the advance payments) had lapsed, it nevertheless found that
+“significant elements in the chain of guarantees securing the Tajura advance payment remain in
+effect” — meaning the backing guarantee in favor of Gumhouria Bank and not HIB. See id. J
+67, 905. The Majority was concerned that if it applied a set-off for the amount of the unearned
+advance payments “without firm arrangements in place to assure that Claimant’s exposure under
+the guarantees would at the same time be reduced or ended to the extent of any set-off,” Libya
+might wrongfully call on these guarantees notwithstanding that it would fully recover its advance
+payments through set-off. Jd. 4919. It considered that the Tribunal lacked the authority to
+implement such “firm arrangements.” Jd. {§ 919-20.
+
+43. The Tribunal requested post-hearing submissions on the status of the guarantees,
+but it never told the parties about its concern that it lacked the power to condition a set-off on a
+release of the guarantees. The Tribunal relied on Article 15 of the Treaty to assert that it did not
+have adequate remedial authority to fashion its preferred remedy. Id. { 920. However, the list of
+remedies that an arbitral tribunal may provide, as set out in Article 15, includes, “with the
+
+agreement of the parties to the dispute, any other form of relief.” Treaty, Article 15(1)(d). The
+
+-16-
+
+Case 1:20-cv-02600 Document1 Filed 09/15/20 Page 17 of 24
+
+Tribunal did not seek the parties’ consent to any particular form of relief that would have, in the
+Majority’s view, been adequate. See Ferré Decl., Ex. 6.
+
+44. Instead, the Majority’s analysis focused exclusively on the perceived hypothetical
+tisk of an unlawful call on the guarantees by Libya. Award §§ 918-19. It did not assess Libya’s
+rights under the Contracts and applicable principles of Libyan law on restitution, but instead
+identified the remedy that the Majority would want to grant as a matter of “good order and
+fundamental fairness” if it were to decide in Libya’s favor on set-off. Jd. 4919. That remedy
+would condition application of any set-off on Libya’s release of the guarantees.'! Id.
+
+45. Despite the Majority’s anxiety about the possibility of a wrongful call on the
+guarantees by Libya, the Majority did not address the double recovery that results from its award
+of compensation to Strabag, which does not account for the sums that Strabag has already been
+paid. The Award grants Strabag approximately €68.7 million for work that Al Hani performed
+under the Contracts, notwithstanding that Strabag has received approximately €98 million in
+advance payments under those same Contracts for work that will never be done.
+
+46. The Majority also ignored the fact that a set-off of the unearned advance
+payments was necessary to avoid double recovery on Strabag’s remaining claims for
+compensation under the War Clause of the Treaty for lost and damaged equipment. As the
+
+Majority itself found, Strabag had used some of the advance payments that it had received from
+
+'! Although Libyan courts would have been able to comprehensively resolve Strabag’s contract
+claims, Libya’s set-off and the issue of the outstanding guarantees, the Majority concluded that,
+unlike Libyan courts, it lacked the authority to condition its application of a set-off for the
+advance payments on Libya’s release of the guarantees. Award §§ 915-17. Thus, because it felt
+that it could not fashion its preferred remedy, it simply told the parties to address the issue of the
+advance payments “outside the context of this arbitration.” Id. | 921.
+
+-17-
+
+Case 1:20-cv-02600 Document1 Filed 09/15/20 Page 18 of 24
+
+the Libyan Agencies to purchase that equipment. See, e.g., id. § 902. In other words, absent a
+set-off of the advance payments, Libya will be forced to pay for that equipment twice.!”
+
+47. The Majority reached its determination that it could not fashion its preferred
+remedy sua sponte. While Strabag argued unsuccessfully that the Tribunal lacked jurisdiction to
+determine the set-off (id. § 887), it never argued that the Tribunal would be powerless to fashion
+a remedy for the set-off that addressed the guarantees if, as the Tribunal held, it had jurisdiction
+over the set-off. Moreover, while the Majority stated that “there is a lack of clarity regarding the
+advance payment guarantees,” it never asked the parties for their positions on whether the
+Tribunal could condition a set-off of the advance payments on a release of the guarantees. Id.
+
+4 894. Nor did it seek the parties’ agreement to an appropriate comprehensive remedy, as
+expressly contemplated by the Treaty, or simply set off the unearned advance payments that
+were not secured by guarantees. Jd. § 894; Treaty, Article 15(1)(d). Instead, the Majority
+refused to address the approximately €98 million in advance payments which the Award
+effectively allows Strabag to retain in addition to the over €83 million awarded to Strabag as
+compensation, attorney’s fees and costs.
+
+Cc. The Dissent’s Ruling on Libya’s Advance Payment Claims
+
+48. Professor Ziadé issued a strong dissenting opinion on the issue of the set-off. The
+Dissent asserted that the Tribunal not only had the power to adjudicate the set-off, but in fact had
+an obligation to do so, explaining that the Majority’s refusal to adjudicate the set-off was
+
+“untenable” for several reasons. Dissent § 32.
+
+"2 The Majority also failed to consider that the guarantees only secured 60% of the outstanding
+unearned advance payments, as discussed supra. Thus, even if the Libyan Agencies had called
+on the guarantees (and as noted they could not with respect to the Tajura Contract), they would at
+most have only been able to recover only 60% of the unearned advance payments.
+
+-18-
+
+Case 1:20-cv-02600 Document1 Filed 09/15/20 Page 19 of 24
+
+49. The key problem, as the Dissent highlighted, was that the Majority abdicated its
+obligation to fully resolve the parties’ dispute under the Contracts. It stated that “the issues of
+the advance payments, the bank guarantees, and Claimant’s claims for damages are intertwined
+and cannot be resolved separately.” Id. § 44. Accordingly, the Dissent found that:
+
+Having determined that it had jurisdiction over Claimant’s
+
+contractual claims, and having supplanted Libyan courts for the
+
+purpose of deciding those claims, the Tribunal was under the
+
+obligation to comprehensively resolve the dispute, as Libyan
+
+courts would have done. Consequently, it was incumbent on the
+
+Tribunal to rule on the issue of the advance payments with a
+
+view to settling all amounts against all contracts.
+Id. § 34 (emphasis added). In other words, the Dissent concluded that once the Tribunal decided
+to adjudicate Libya’s liabilities under the Contracts, it was obliged to adjudicate Strabag’s
+corresponding liabilities under those same Contracts.
+
+50. The Dissent further explained that it was particularly untenable for the Majority to
+“selectively” adjudicate Strabag’s contract claims while refusing to resolve Libya’s assertion of a
+set-off “arising from the same contractual relationship” in light of the Tribunal’s decision to
+override the forum selection clauses in the Contracts, which provided for litigation in Libyan
+courts. Jd. 433. The Dissent thus recognized the fundamental unfairness of providing Strabag a
+forum to litigate its claims under the Contracts while declining to provide Libya the same rights
+under those same Contracts. Id. J 44 (“This fragmentation is not conducive to ‘good order and
+fundamental fairness.’”).
+
+51. The Dissent also dismissed the Majority’s concerns regarding the guarantees. It
+found that, even if all of the advance payment guarantees were still valid, the existence of those
+guarantees would not present an insurmountable obstacle to resolving the set-off. The Dissent
+
+disagreed with the Majority’s conclusion that it was powerless to condition a set-off of the
+
+advance payments on the release of the guarantees. Jd. § 39. The Dissent explained that,
+
+-19-
+
+Case 1:20-cv-02600 Document1 Filed 09/15/20 Page 20 of 24
+
+because the Tribunal unanimously held that it had jurisdiction over the set-off, the Tribunal
+could simply “determine the amount of the unearned portions of the advance payments and allow
+Respondent to proceed with set-off only after releasing all the bank guarantees still in its
+possession,” or, alternatively, request that Libya “provide evidence that the guarantees had been
+cleared prior to any ruling on set-off.” Jd. (emphasis in original).
+
+52. The Dissent further points out that the Majority “overlooks the obvious overlap
+between the advance payments and some of Claimant’s claims for damages.” Jd. 440. For
+instance, the Dissent explains that “the Award compensates Claimant for equipment and other
+costs that, by Claimant’s own admission, have already been covered using unearned portions of
+the advance payments, i.e., monies from Respondent.” Jd. §42. Absent a set-off, Strabag would
+receive “twice the value of the equipment: first by way of damages and second by means of the
+unearned retained Advance Payments.” Jd. 443. Accordingly, the Dissent agreed with Libya
+that a set-off of the advance payments was necessary to avoid an impermissible double recovery
+by Strabag. Id.
+
+53. The Dissent concluded that the Majority’s decision to rule on Strabag’s contract
+claims while abstaining from ruling on Libya’s assertion of a set off for the advance payments
+made under the same Contracts only served to exacerbate — not resolve — the parties’ dispute. Id.
+4 44 (“A task partially completed may prove in practice to be more problematic than a task not
+initiated at all.”). And it determined that the Majority’s decision ultimately undermined the
+fundamental fairness of the arbitration. Id.
+
+COUNT ONE
+(Vacatur of the Award under 9 U.S.C. § 10)
+
+54, Libya incorporates each and every allegation in the preceding paragraphs as if set
+
+forth fully herein.
+
+-20-
+
+Case 1:20-cv-02600 Document1 Filed 09/15/20 Page 21 of 24
+
+55. Article 3 of the ICSID Additional Facility Rules states that the ICSID Convention
+does not apply to awards rendered pursuant to the Additional Facility Rules. Ferré Decl., Ex. 3,
+Article 3. Thus, this Award is not governed by 22 U.S.C. § 1650a, the statute implementing the
+ICSID Convention. Rather, as an international award rendered in the United States, which is a
+party to the Convention, to resolve a commercial dispute between foreign parties, it is governed
+by the New York Convention and the FAA. See, e.g., Crystallex Int'l Corp. v. Bolivarian
+Republic of Venez., 760 F. App’x 1, 2 (D.C. Cir. 2019).
+
+56. Article V(1)(e) of the New York Convention states that an award may be set aside
+by a “competent authority of the country in which, or under the law of which, that award was
+made.” Because Washington, D.C. was the agreed seat of the arbitration, the award was made in
+Washington, D.C. and therefore this Court is a competent authority to set aside the Award under
+the New York Convention.
+
+57. The New York Convention is codified under Chapter 2 of the FAA. Pursuant to
+the New York Convention and 9 U.S.C. § 208, this Court may vacate the Award based on any of
+the grounds enumerated in 9 U.S.C. § 10.
+
+58. Section 10 of the FAA authorizes this Court to vacate an arbitral award when the
+arbitral tribunal has so imperfectly executed its powers that it has failed to render a mutual,
+definite and final award. 9 U.S.C. § 10(a)(4). An award is not final unless it has resolved the
+issues submitted to it by the parties, such that no further litigation will be needed to determine
+their mutual rights and obligations. That standard is not met here. Despite determining
+Strabag’s claims and holding that it had jurisdiction to resolve Libya’s corresponding assertions
+of a set-off, the Majority declined to determine the credit to which Libya is entitled for its
+
+advance payments, stating: “This is a matter that must be addressed by the Parties, if it is to be
+
+-21-
+
+Case 1:20-cv-02600 Document1 Filed 09/15/20 Page 22 of 24
+
+addressed, outside the context of this arbitration.” Award J 921. The Award thus made a
+decision regarding Strabag’s claims while leaving Libya’s assertion of a set-off for
+approximately €98 million unresolved, effectively allowing Strabag to recover twice. This
+failure to render a mutual, definite and final award requires that the Award be vacated by this
+Court.!3
+
+59. Section 10 also allows this Court to vacate an arbitral award when the arbitral
+tribunal has exceeded its powers by straying from the authority granted to it by the parties’
+agreement to arbitrate. 9 U.S.C. § 10(a)(4). In this case, the Majority abstained from evaluating
+Libya’s entitlement to a set-off under applicable law because of an avowed concern that Libya
+might initiate an unauthorized call on the guarantees thereafter. In doing so, the Tribunal was
+improperly substituting its own notions of justice for the real limit of its authority, which remains
+the agreement between the parties — in this case, the bilateral investment treaty purportedly
+authorizing the tribunal’s jurisdiction over the dispute.'* Instead of deciding an issue over which
+it had jurisdiction on the basis of the applicable law, the Majority expressly reached its outcome
+on the basis of its concern about the practical risk that Strabag would face of wrongful action by
+Libya if the tribunal were exercise the jurisdiction that it possessed. This decision, based on the
+Majority’s arbitrary and unlitigated conception of “good order and fundamental fairness,” rather
+than the legal rights and obligations of the parties, constitutes an “excess of powers” which
+requires vacatur of the Award.
+
+'3 As set forth more fully in the accompanying Memorandum of Law, the Tribunal had ample
+means at its disposal to resolve all claims between the parties.
+
+'4 The Tribunal also exceeded its powers by improperly asserting jurisdiction over the dispute in
+contravention of the terms of the Treaty. As discussed further in the Memorandum of Points and
+Authorities in Support of this Petition to vacate or modify the Award, Strabag did not “make” an
+investment as required by Article 1(1)(b) of the Austria-Libya BIT and thus could not properly
+avail itself of the opportunity to arbitrate its dispute under the Treaty.
+
+-22-
+
+Case 1:20-cv-02600 Document1 Filed 09/15/20 Page 23 of 24
+
+60. For the reasons stated above and discussed further in the accompanying
+Memorandum of Points and Authorities, this Court should vacate the award because the tribunal
+has both failed to render a mutual, definite and final award and exceeded its powers.
+
+COUNT TWO
+(Modification of the Award under 9 U.S.C. § 11)
+
+61. Libya incorporates each and every allegation in the preceding paragraphs as if set
+forth fully herein.
+
+62. Asset out above, the Award is subject to the FAA and the New York Convention.
+The Award was rendered in Washington, D.C. and therefore this Court may modify the Award
+pursuant to 9 U.S.C. § 11.
+
+63. Section 11 of the Federal Arbitration Act permits this Court to modify or correct
+an award which evidences a material miscalculation or a material mistake so as to effect the
+intent thereof and promote justice between the parties. In this case, the Award grants Strabag
+damages for the claims it brought to the Tribunal, but ignores the payments that Strabag had
+already received. The Tribunal found that it had jurisdiction over both Strabag’s claims and
+Libya’s corresponding entitlement to a set-off, but the Majority declined to adjudicate the set-off
+issue, deciding that its own perception of the resulting risk to Strabag of an unauthorized call on
+its guarantees by Libya precluded it from granting relief in the form it deemed most preferable.
+The result of the Majority’s decision is to allow Strabag to retain the advance payments even
+though it did not earn those payments through performance and also to compensate Strabag for
+those same amounts through the award of damages. This constitutes an impermissible double
+recovery to Strabag.
+
+64. Caselaw in the D.C. and other Circuits demonstrates that when presented with an
+
+arbitral award which provides double recovery, a court is obligated to modify the award to
+
+-23-
+
+Case 1:20-cv-02600 Document1 Filed 09/15/20 Page 24 of 24
+
+prevent the manifest injustice that would result from confirming it. Here, in attempting to
+address the possibility of double recovery by one party, the tribunal effectively granted such
+double recovery to the other. Under the terms of the Award, Strabag is permitted to both receive
+amounts owed to it under the Contracts and retain the approximately €98 million in unearned
+advance payments already paid to it for work that it will not perform. This Court can and should
+modify the Award to prevent such impermissible double recovery.
+PRAYER FOR RELIEF
+
+WHEREFORE, Petitioner State of Libya respectfully requests this Court to enter an order
+vacating the Award pursuant to 9 U.S.C. § 10 or, alternatively, modifying the Award pursuant to
+9 U.S.C. § 11 to set off the unearned advance payments received and retained by Respondent
+Strabag. Petitioner further requests that this Court award any other relief that this Court, in the
+interests of justice, deems necessary and proper.
+Dated: Washington, D.C.
+
+September 15, 2020
+
+Respectfully submitted,
+
+CURTIS, MALLET-PREVOST,
+COLT & MOSLE LLP
+
+By: _/s/ Joseph D. Pizzurro
+Joseph D. Pizzurro
+
+(D.C. Bar No. 468922)
+Kevin A. Meehan
+
+(D.C. Bar No. 1613059)
+1717 Pennsylvania Avenue, N.W.
+Washington, D.C. 20006
+Tel.: (202) 452-7373
+
+Fax: (202) 452-7333
+
+Email: jpizzurro@curtis.com
+Email: kmeehan@curtis.com
+
+ 
+
+ 
+
+Attorneys for Petitioner State of Libya
+
+-24-
+

@@ -1,0 +1,1147 @@
+Translated by Thames Translation
+
+Email: gluce@thamestranslation.com
+Web site: https://www.thamestranslation.com
+
+ 
+
+HAMES
+T- TRANSLATION
+ECLI:NL:GHDHA:2021:180
+Court The Hague Court of Appeal
+Judgment Date 16-02-2021
+Publication date 10-06-2021
+Case number 200.259.875/01
+Formal relationship First instance: ECLIINL:RBDHA: 2018:15532,
+Upheld/A ffirmed Practice areas Civil law
+Particulars Appeal
+Summary
+
+The Republic of India is seeking the annulment of an arbitration award
+concerning the expropriation of investments in a telecommunications
+network in India. Claim rejected because annulment grounds under
+Article 1065 Civil Procedure Code not met.
+
+Published on: Rechtspraak.nl
+
+Judgment
+
+THE HAGUE COURT OF APPEAL
+
+Civil Law Department
+
+Case number: 200.259.875/01
+
+District Court case number: C/09/529140 / HA ZA 17-315
+judgment of 16 February 2021
+
+in the matter of:
+
+The Republic of
+
+India, having its
+
+seat in New Delhi,
+
+India, appellant,
+
+hereinafter: the Republic of India,
+
+advocate: mr. T.L. Claassens of Rotterdam,
+
+Translated by Thames Translation
+Email: gluce@thamestranslation.com
+Web site: https://www.thamestranslation.com
+
+ 
+
+against:
+
+14. CC/Devas (Mauritius) Ltd.,
+
+2. Devas Employees Mauritius Private Limited,
+
+ 
+
+3. Telcom Devas Mauritius Limited,
+all having their seat in Port Louis,
+Mauritius, appellees,
+
+hereinafter: Devas et al,
+
+advocate: mr. G.J. Meijer in Amsterdam.
+
+1 The appeal proceedings
+
+1.1 By summons of 12 February 2019, the Republic of India appealed against the judgment
+rendered among the parties by The Hague District Court on 14 November 2018. In its
+appeal memorial with exhibits, the Republic of India has raised nine pleas. Devas et al
+have disputed the pleas in their counter-memorial with exhibits.
+
+1.2 Thereafter, on 3 December 2020, the parties pleaded the case, whereby the Republic of
+India was represented by her advocate, and Devas et al - by their advocate and mr. Van
+der Plas-Hoebeke, advocate in Amsterdam; the oral pleadings were based on skeleton
+arguments submitted in advance. The Republic of India submitted a number of additional
+exhibits. One such exhibit (exhibit 163, letter from the Additional Solicitor General of India
+dated 30 November 2020) was not admitted because it had not been timely despatched to
+the Court of Appeal and the other party in advance of the hearing. Finally, the Court of
+Appeal fixed the date for rendering judgment.
+
+2 Factual background
+
+2.1 The facts established by the District Court in its 14 November 2018 judgment are not in
+dispute. The Court of Appeal will therefore proceed based thereon. The present case
+concerns the following.
+
+2.2 On 20 June 2000, a bilateral investment treaty (hereinafter: the Treaty) between the
+Republic of India and the Republic of Mauritius (hereinafter also: the Contracting States)
+entered into force. The object of the treaty is to promote the investments of Mauritian
+investors in India and of Indian investors in Mauritius. Article 8 of the Treaty provides for
+
+Translated by Thames Translation
+
+Emai
+
+ 
+
+ 
+
+gluce@thamestranslation.com
+
+Web site: https://www.thamestranslation.com
+
+ 
+
+2.3
+
+2.4
+
+2.5
+
+2.6
+
+2.7
+
+HAMES
+TRANSLATION
+an arbitration procedure for the settlement of disputes between an investor of one of the
+Contracting States and the other Contracting State.
+
+In Article 1(1)(a) of the Treaty, defines the notion of ‘investment’ as follows:
+
+“investment” means every kind of asset established or acquired under the relevant
+laws and regulations of the Contracting Party in whose territory the investment is
+made, and in particular, though not exclusively, includes:
+
+(i) movable and immovable property as well as other rights in rem such as mortgages, liens
+or pledges,(ii) shares, debentures and any other form of participation in a company
+
+(iii) claims to money, or to any performance under contract having an economic value;
+
+(iv) intellectual property rights, goodwill, technical processes, know-how, copyrights,
+trade-marks, trade-names and patents in accordance with the relevant laws of the
+respective Contracting Parties
+
+(v) business concessions conferred by law or under contract, including any concession to
+search for, extract or exploit natural resources”
+
+Article 11(3) of the Treaty provides the following with respect to “essential security
+interests”:
+
+“The provisions of this Agreement shall not in any way limit the right of either
+Contracting Party to apply prohibitions or restrictions of any kind
+or take any other action which is directed to the protection of
+
+its essential security interests (...).”
+
+Devas et al are (indirect) shareholders of Devas Multimedia Private Limited, an Indian
+company (hereinafter: Devas Multimedia). Devas et a/ are companies established in
+Mauritius. Antrix Corporation Limited (hereinafter: Antrix) is a commercial entity of the
+Indian Space Research Organisation (hereinafter: ISRO) and is engaged in the
+
+ 
+
+of Indian satellites. The i of Devas et al in Devas
+Multimedia have been approved by the Indian Foreign Investment Promotion Board.
+
+On 28 January 2005, Devas Multimedia entered into an agreement with Antrix regarding
+the lease of 70 MHz capacity in S band for a period of twelve years with the possibility of
+extension (hereinafter: the Devas Agreement). For this purpose, transponders were to be
+placed on two satellites yet to be developed. Devas Multimedia wanted to use the satellites
+and the corresponding spectrum, together with a network of cell towers that it intended to
+develop, to provide wireless audio-visual broadcasts and broadband access to its customers
+in India (hereinafter: the Devas Services).
+
+In the period 2005-2010, Devas Multimedia collaborated with, among others, Antrix and
+ISRO to prepare those services. In that context, Devas Multimedia made payments of
+around USD 13 million to reserve capacity on the two satellites. The payments were
+financed with capital contributions from Devas ef a/ in Devas Multimedia in the amount of
+approximately USD 32 million. In addition, Deutsche Telekom Asia (hereinafter: DT Asia)
+invested approximately USD 75 million in Devas Multimedia, for which it acquired a 20%
+
+Translated by Thames Translation
+Email: gluce@thamestranslation.com
+
+Web site: https://www.thamestranslation.com
+THAMES
+
+TRANSLATION
+
+stake in Devas Multimedia.
+
+ 
+
+2.8 On 17 February 2011, the Cabinet Committee on Security, consisting of the Prime
+Minister and the Ministers of Defence, Home Affairs, Foreign Affairs and Finance of the
+Republic of India (hereinafter: the CCS), decided to terminate the Devas Agreement.
+This decision was preceded by consultations with various government agencies and
+committees. The press release issued on the CCS decision on the same date reads as
+follows:
+
+CCS Decides to Annul Antrix-Devas Deal
+Cabinet Committee on Security (CCS) has decided to annul the Antrix-Devas deal.
+Following is the statement made by the Law Minister (...) on the decision taken by the
+CCS which met in New Delhi today:
+
+“Taking note of the fact that Government policies with regard to allocation of spectrum
+have undergone a change in the last few years and there has been an increased demand
+for allocation of spectrum for national needs, including for the needs of defence, para-
+military forces, railways and other public utility services as well as for societal needs, and
+having regard to the needs of the country’s strategic requirements, the Government will
+not be able to provide orbit slot in S band to Antrix for commercial activities, including for
+those which are the subject matter of existing contractual obligations for S band.
+
+In light of this policy of not providing orbit slot in S Band to Antrix for commercial activities,
+the [Devas Agreement, added by the Court of Appeal] shall be annulled forthwith.”
+
+2.9 On 25 February 2011, Antrix formally informed Devas Multimedia of the
+termination of the Devas Agreement.
+
+2.10 On 8 July 2012, Devas ef a/ brought an arbitration against India under Article 8 of the
+Treaty (hereinafter referred to as the Arbitration Proceedings). The place of the arbitration
+was The Hague.
+
+2.11 By arbitral award of 25 July 2016 (hereinafter: the Partial Award), the arbitral tribunal
+decided as follows:
+
+- i) Unanimously, that the Claimants’ claims relate to an “investment” protected under the
+Treaty;
+
+- ii) Unanimously, that the notice of termination of the Devas Agreement sent by Antrix to
+Devas
+
+constituted an act of State attributable to the Respondent.
+
+- iii) By majority, that the Tribunal lacks jurisdiction over the Claimants’ claims insofar as the
+
+Respondent's decision to annul the Devas Agreement was in part directed to the
+
+protection of the Respondent's essential security interests;
+
+- iv) By majority, that the Respondent has expropriated the Claimants’ investment insofar as
+the
+
+Respondent's decision to annul the Devas Agreement was in part motivated by
+other than the p of the Resp' ’s essential security interests;
+
+- v) By majority, that the protection of essential security interests accounts for 60% of the
+
+Respondent's decision to annul the Devas Agreement, and that the compensation owed by
+
+the Respondent to the Claimants for the expropriation of their investment shall therefore be
+
+Translated by Thames Translation
+Email: gluce@thamestranslation.com
+Web site: https://www.thamestranslation.com
+
+THAMES
+TRANSLATION
+
+limited to 40% of the value of that investment;
+
+- vi) U , that the has its to accord fair and
+equitable
+
+treatment to the Claimants between July 2, 2010 and February 17, 2011;
+- vii) Unanimously, that the Claimants’ other claims shall be dismissed;
+
+- viii) Unanimously, that any decision regarding the quantification of compensation or
+damages, as well
+
+as any decision regarding the allocation of the costs of arbitration, shall be reserved for a
+later stage of the proceedings.”
+
+ 
+
+ 
+
+The Arbitration Proceedings were then continued with respect to quantum of damages.
+2.12 On 28 July 2016, the Partial Award was filed with The Hague District Court.
+
+2.13 On 11 August 2016, the Indian Central Bureau of Investigation (hereinafter: CBI) filed at
+court a so-called ‘charge sheet’ with a view to initiating criminal proceedings against the
+former Indian officials who had approved the Devas Agreement, as well as against Devas
+Multimedia and some of its former and current directors. A ‘supplementary charge sheet’
+was filed on 8 January 2019. (The ‘charge sheet’ and the ‘supplementary charge sheet’
+shall hereinafter be referred to together as the “Criminal Complaint”).
+
+2.14 On 13 October 2020, the arbitral tribunal issued a final award determining the value of
+Devas Multimedia on 17 February 2011 at USD 740 million and ordering the Republic of
+India to pay damages to each of Devas ef a/in the amount equivalent to 40% of USD 740
+million multiplied by the percentage held by each of Devas ef a/in Devas Multimedia.
+
+3 The First Instance Proceedings
+
+3.1 At first instance, the Republic of India requested the annulment of the Partial Award under
+Article 1065 Civil Procedure Code and an order of costs against Devas et al. Devas et al
+put forward a defence. By judgment of 14 November 2018, the District Court rejected the
+Republic of India’s claim and ordered the Republic of India to pay the costs of the
+proceedings. The central findings of the judgment can be summarised as follows.
+
+3.2 At first instance, the Republic of India claimed that the arbitral tribunal had wrongly
+accepted jurisdiction over the claims of Devas et al (Article 1065(1)(a) Civil Procedure
+Code) because Devas et a/ did not make an ‘investment’ within the meaning of the Treaty
+and because the decision to annul the Devas Agreement was justified on the basis of
+“essential security interests”. With regard to whether there was an ‘investment’ within the
+meaning of the Treaty, the Republic of India argued that the activities of Devas et al
+consisted exclusively of preparatory steps (“pre-investments”), partly in view of the fact
+that Devas Multimedia did not have a license to provide telecommunications services of
+“Wireless Planning and Coordination Wing” of the Indian Department of
+Telecommunications (hereinafter: WPC Licence). The District Court did not accept this
+defence. In the District Court's opinion, Devas Multimedia’s right to a part of the S band in
+itself represented significant value. In addition, Devas Multimedia made advance payments
+of USD 13 million for the reservation of satellite capacity and Devas et al obtained the
+permission from the Indian authorities for its investment in Devas Multimedia. According to
+the District Court, there is therefore an ‘investment’ within the meaning of the Treaty even
+
+Translated by Thames Translation
+
+Email: gluce@thamestranslation.com
+
+Web site: https://www.thamestranslation.com
+THAMES
+
+TRANSLATION
+
+without the WPC Licence.
+
+ 
+
+3.3 The Republic of India further argued that the arbitral tribunal has not complied with its
+mandate (Article 1065(1)(c) Civil Procedure Code), failed to provide (sufficient) reasoning
+for its award (Article 1065(1)(d) Civil Procedure Code) and/or violated the fundamental
+right of the Republic of India to be heard and to present its case (Article 1065(1)(e) Civil
+Procedure Code) by failing to discuss a number of key allegations and defences put forward
+by the Republic of India with respect to the absence of an ‘investment’, or by rejecting
+them without (sufficient) reasoning. That position was also rejected by the District Court,
+which held that the arbitral tribunal did, in fact, sufficiently reason its decisions on the
+Republic of India’s essential allegations and defences. The District Court considered that it
+lacked the power under Article 1065 Civil Procedure Code to review that reasoning on the
+merits.
+
+3.4 Furthermore, the Republic of India argued at first instance that the Treaty did not permit
+the arbitral tribunal to accept jurisdiction in part (Article 1065(1)(a) Civil Procedure Code).
+The District Court rejected this argument on the ground that the existence of “essential
+security interests” did deprive the arbitral tribunal of jurisdiction, but, rather, could have
+the consequence that Devas ef a/ could not rely on the Treaty to resist the termination of
+the Devas Agreement. The District Court likewise rejected the Republic of India’s
+argument that the arbitral tribunal had failed to comply with its mandate (Article
+1065(1)(c) Civil Procedure Code) by accepting the “essential security interests” objection
+for 60% of the S band spectrum. The District Court held that the arbitral tribunal did not
+thereby award more than was claimed. The District Court also rejected the Republic of
+India’s arguments that the arbitral tribunal's decision to allow the “essential security
+interests” defence for 60% of the S band spectrum was not sufficiently reasoned (Article
+1065(1)(d) Civil Procedure Code), and that the arbitral tribunal therefore wrongly faced
+the parties with a surprise decision (Article 1065(1)(e) Civil Procedure Code).The District
+Court held that the Partial Award did contain reasoning, the merits of which the court
+could not review, and that the arbitral tribunal was not bound to hear the parties on its
+intention not to allow this defence for 100% of the S band spectrum.
+
+3.5 The Republic of India further based its first instance claim for the annulment of the Partial
+Award on the Criminal Complaint. It requested the District Court to stay the proceedings
+pending an Indian criminal court's decision on the Criminal Complaint. The District Court
+rejected this request on the grounds that it was not clear at what time such a decision was
+to be expected, and the interests of due process therefore weighed against a stay in the
+circumstances. The Republic of India further argued there was no legitimate “investment”
+because the alleged criminal conduct rendered the Devas Agreement void (Article
+1065(1)(a) Civil Procedure Code). However, the District Court held that the Criminal
+Complaint had no legal consequences as long as it has not led to a (final) criminal
+conviction, and nullity of the Devas Agreement could not be accepted in connection with
+the alleged criminal offences. The District Court likewise rejected the Republic of India’s
+contention that the Partial Award suffered from a reasoning defect because the arbitral
+tribunal had failed to address the Republic of India’s argument that Devas Multimedia
+misrepresented that it held the required intellectual property rights at the time of the
+Devas Agreement. The District Court held that, given that this contention only appeared in
+a footnote in the Republic of India’s submissions in the arbitration proceedings, it could not
+be regarded as an essential defence which the arbitral tribunal was obliged to address.
+Finally, the District Court rejected the Republic of India’s argument that the Partial Award
+
+Translated by Thames Translation
+Email: gluce@thamestranslation.com
+Web site: https://www.thamestranslation.com
+
+ 
+
+THAMES
+TRANSLATION
+
+was contrary to public policy and good morals because the arbitral tribunal assumed that
+the Devas Agreement was valid although its conclusion had been accompanied by criminal
+conduct. According to the District Court, this has not been established, and the Republic of
+India has not sufficiently demonstrated the alleged criminal offences.
+
+4 The appeal
+
+44
+
+4.2
+
+4.3
+
+On appeal, the Republic of India requests that the District Court's judgment be
+annulled and its first instance claim be granted, with an order of costs, including
+post-judgment costs, increased by statutory interest. To this end, the Republic of
+India has raised nine grounds of appeal against the District Court's judgment, which
+can be summarized as follows.
+
+Grounds 1 and 2 are directed against the District Court's findings relating to the existence
+of ‘investment’ falling within the scope of the Treaty. According to the Republic of India, the
+arbitral tribunal and the District Court have wrongly treated as the subject matter of the
+arbitration proceedings the Devas Agreement instead of the entire Devas Multimedia
+project. The Devas Multimedia project could not be carried out without the required
+permits; because such permits were not granted, there could not be an ‘investment’ within
+the meaning of the Treaty. In addition, according to the Republic of India, the arbitral
+tribunal and the District Court adopted far too broad a definition of the notion of
+‘investment’, and made several errors in applying that notion (Article 1065(1)(a) Civil
+Procedure Code). Furthermore, the Republic of India argues that the District Court
+overlooked the arbitral tribunal's failure to comply with its mandate and its duty to state
+reasons by failing to engage (with reasons) with the eight essential defences of the
+Republic of India regarding the notion of ‘investment’ (Article 1065(1)(c) Civil Procedure
+Code).
+
+The Republic of India’s grounds of appeal 3, 4 and 5 target the District Court's findings with
+respect to the issue whether the termination of the Devas Agreement could be justified
+based on “essential security interests”. On appeal, the Republic of India no longer argues
+that the existence of “essential security interests” deprived the arbitral tribunal of
+jurisdiction to decide on the claims of Devas et al. It, does, however, argue that the arbitral
+tribunal has, in several respects, failed to comply with its mandate (Article 1065(1)(c) Civil
+Procedure Code) (which the District Court overlooked). The arbitral tribunal should have
+examined whether the decision of the Republic of India to terminate the Devas Agreement
+could be justified based on “essential security interests”, instead of proceeding based on the
+enquiry of the extent to which the S band spectrum would be used for “essential security
+interests”. By proceeding in this manner, the arbitral tribunal misunderstood the
+dichotomous nature of the “essential security interests” exception, and wrongly engaged in
+a full review of that exception. Furthermore, by making an ex aequo et bono determination
+as to what part of the S band spectrum was intended for the protection of “essential
+security interests”, the arbitral tribunal applied a standard not presented by the parties and
+supplemented the facts. In addition, the Republic of India’s argues that the arbitral
+tribunal's decision to allow the “essential security interests” defence for 60% of the S band
+spectrum was not (sufficiently) reasoned (Article 1065(1)(d) Civil Procedure Code)(which
+the District Court allegedly overlooked), and that this constituted an unacceptable surprise
+
+Translated by Thames Translation
+Email: gluce@thamestranslation.com
+
+Web site: https://www.thamestranslation.com
+THAMES
+
+TRANSLATION
+
+decision (Article 1065(1)(d) and (e) Civil Procedure Code).
+
+ 
+
+4.4 Grounds 6 to 9 relate to the Criminal Complaint and the Republic of India’s allegation that
+Devas Multimedia misrepresented that it held intellectual property rights. The Republic of
+India argues that the District Court wrongly assumed that the (facts underlying) the
+Criminal Complaint could or would only have legal consequences for the validity of the
+Devas Agreement once there was a final criminal conviction. According to the Republic of
+India, the Devas Agreement is void as a result of the offences committed, and, accordingly,
+does not constitute an ‘investment’ within the meaning of the Treaty from which the arbitral
+tribunal may derive its jurisdiction (Article 1065(1)(a) Civil Procedure Code). The Republic
+of India further argues that the Partial Award is not (sufficiently) reasoned because the
+Arbitral Tribunal failed to address the alleged inaccuracy of the warranties given by Devas
+Multimedia in relation to intellectual property rights (Article 1065(1)(d) Civil Procedure
+Code). The District Court is said to have wrongly ignored this annulment ground on the
+basis that this was evidently not a matter of essential defence given that the Republic of
+India only invoked the incorrectness of such warranties in a footnote. Finally, the Republic
+of India considers that the Partial Award is contrary to public order and good morals
+because the arbitral tribunal assumed that the Devas Agreement was valid despite the
+offences committed (Article 1065(1)(e) Civil Procedure Code). The Republic of India accuses
+the court of disregarding these offences on the ground that it has not been established that
+the directors and officers of Devas et al were guilty of such offences. The Republic of India
+requests that the proceedings of the matter be stayed in so far as they relate to the
+annulment ground based on the Criminal Complaint pending the final verdict concerning the
+alleged offences by the Indian Court. The Republic of India states that the criminal
+proceedings against the persons charged are to begin at the end of 2019.
+
+4.5 Devas et al raise defences which shall, to the extent necessary, be addressed below, and
+request the dismissal of the claims and an order that the Republic of India pay the costs of
+the proceedings including post-judgment costs, increased by statutory interest.
+
+5 The court’s assessment
+
+Preliminary remarks
+
+5.1 Given that the arbitration proceedings commenced before 1 January 2015, they are
+governed by the provisions of the Fourth Book of the Civil Procedure Code as it in force
+before 1 January 2015. References in this judgment to Articles of the Civil Procedure Code
+are reference to those provisions.
+
+5.2 The place of arbitration is The Hague, such that the District Court and, on appeal, the Court
+of Appeal, have jurisdiction to hear the Republic of India’s claim under Article 1064 Civil
+Procedure Code. Pursuant to Article 1073(1) Civil Procedure Code, the claim for annulment
+is governed by the provisions of Title 1 of the Fourth Book of the Civil Procedure Code
+
+5.3 According to Article 1065(1) Civil Procedure Code, an arbitral award may be set aside
+on inter alia one of the following grounds:
+
+a. there is no valid arbitration agreement;
+
+Translated by Thames Translation
+Email: gluce@thamestranslation.com
+Web site: https://www.thamestranslation.com
+
+THAMES
+TRANSLATION
+
+b. (..
+c. the arbitral tribunal has not complied with its mandate;
+
+d. the award is (...) not reasoned;
+
+e. the award, or the manner in which it came about, is contrary to public order or good
+morals.
+
+ 
+
+5.4 In accordance with Article 1057(4)(e) Civil Procedure Code, the arbitral tribunal must
+provide the reasons for its decision. If reasoning is lacking, the arbitral award can be set
+aside on the basis of Article 1065(1)(d) Civil Procedure Code. The absence of reasons is
+equated with the case where reasons were given, but provide no possibility to discern any
+plausible explanation for the decision.
+
+5.5 The starting point for the application of Article 1065 Civil Procedure Code is that the State
+court must exercise its power to set aside an arbitral award with restraint. The required
+restraint is related, among other things, to the fact that a procedure on the basis of Article
+1065 Civil Procedure Code may not be used as a disguised appeal, because of the public
+interest in an effectively functioning arbitral procedure. This is different insofar as the
+dispute concerns the existence of a valid arbitration agreement (Article 1065(1)(a) Civil
+Procedure Code) and the question whether the arbitral award is contrary to public order and
+good morals as referred to in Article 1065(1)(e) Civil Procedure Code), which would, inter
+alia, be the case if the making of the arbitral award was accompanied by a violation of the
+fundamental principle of due process. With respect to these questions, the arbitral award is
+subject to a full review. The Court of Appeal does not follow the view of Devas et a/ that a
+full review of the arbitral tribunal's jurisdiction is not appropriate when a jurisdictional
+objection is raised by a State. That view is based on the mistaken assumption that a State
+is not entitled to rely on the fundamental nature of the right of access to justice. The
+fundamental nature of this right also applies vis-a-vis states. This fundamental nature has
+the effect that the arbitral tribunal's jurisdiction must be reviewed in full (cf Supreme Court
+26 September 2014, ECLI:NL:HR: 2014:2837).
+
+5.6 The Court of Appeal will first deal with the grounds of appeal relating to the notion of
+‘investment’ under the Treaty (grounds 1 and 2), then the grounds relating to the
+protection of “essential security interests” (grounds 3, 4 and 5) and finally the grounds of
+appeal concerning the Criminal Complaint and the (alleged) misrepresentations by Devas et
+al as to intellectual property rights (grounds 6, 7, 8 and 9).
+
+‘Investment’ within the meaning of the Treaty; jurisdiction of the arbitral tribunal
+
+5.7 The Republic of India’s grievances relating to the notion of ‘investment’ concern the
+jurisdiction of the arbitral tribunal and its assessment of what the Republic of India sees as its
+essential defences.
+
+5.8 The Court of Appeal agrees with the District Court that the arbitral tribunal correctly
+assumed that there was an ‘investment’ for the purposes of the Treaty, such that it had
+jurisdiction to consider the claims brought by Devas et al. Devas et al acquired shares in the
+Indian company Devas Multimedia. This falls under “shares, debentures and any other form
+of participation in a company” as referred to in paragraph (ii) of the definition of
+“investment” in Article 1 of the Treaty. The shares were issued against capital contributions
+by Devas ef a/ of approximately USD 32 million, which had been approved by the Indian
+Foreign Investment Promotion Board. The investments made by Devas et al were thus
+
+Translated by Thames Translation
+Email: gluce@thamestranslation.com
+Web site: https://www.thamestranslation.com
+
+  
+
+HAMES
+TRANSLATION
+implemented in accordance with the “relevant laws and regulations” of the Republic of India,
+as required by paragraph (a) of the definition of “investment”. As a shareholder in Devas
+Multimedia, Devas et a/ indirectly own a number of “assets” which can also be viewed as
+“investment” for the purposes of the Treaty, such as the rights under the Devas Agreement
+with Antrix. Under this contract, Devas Multimedia leased capacity on two satellites for a
+period of 12 years, for which it made prepayments of USD 13 million per satellite. The
+Treaty includes “claims to (...) any performance under contract having an economic value”
+) under contract” as examples of “investments”. The
+investments of Devas et a/ represent(ed) significant value, as evidenced by the fact that, in
+March 2008, DT Asia paid around USD 75 million for a 20% stake in Devas Multimedia.
+Against this background, the Republic of India’s argument that the arbitral tribunal should
+have considered the Devas Project rather than the Devas Agreement lacks relevance. The
+cancellation of the Devas Agreement certainly had implications for the Devas Project, but
+that does not detract from the nature of the investments identified above. Its arguments
+that there had merely been “pre-investment” fails at this juncture. This was not a case of
+“pre-investment” given that Devas et a/ have made actual investments within the meaning
+of the Treaty.
+
+ 
+
+ 
+
+and “business concessions conferred (.
+
+5.9 The Republic of India argues that the arbitral tribunal has applied far too broad a definition
+of the notion of ‘investment’. According to the Republic of India, in addition to the definition
+of “investment” in the Treaty, there must be met five criteria of the autonomous concept of
+‘investment’, which it derives from arbitral decisions based on the ICSID Convention: (i) a
+contribution to the host state in terms of (financial) resources, (ii) a certain duration of the
+activity in question in the host state, (iii) an acceptance of risks by the investor, (iv) the
+expectation of profit or revenue, and (v) if mentioned in the preamble to the relevant
+treaty, a contribution to the economic development of the host country. | doesn’t need to
+be decided whether the arbitral tribunal was required to apply this autonomous concept
+because, as Devas ef a/ correctly argued, the capital contributions of Devas ef a/ and their
+use by Devas Multimedia alone were sufficient to meet five of the criteria referred to by the
+Republic of India; specifically, the capital contributions and the advance payments for the
+reservation of satellite capacity constitute a contribution to the host state, the lease of
+satellite capacity has a duration of at least 12 years, the investments involve risk and are
+capable of providing significant returns, given the amounts that DT Asia was willing to pay
+for a 20% stake in Devas Multimedia. While the Treaty’s preamble recognises that
+investments can contribute to the host country’s economic development, but does not make
+such a contribution a requirement (“RECOGNISING that the promotion and protection of
+such investments will lend greater stimulation (...)”). In any case, investments in
+telecommunications infrastructure of this magnitude can be expected to contribute to the
+economic development of the Republic of India. The fifth criterion is thus also satisfied. For
+that reason alone, while the District Court applied the Vienna Treaties Convention correctly,
+the Republic of India's discussion on this matter can be omitted. For the sake of
+completeness, the Court of Appeal considers that India failed to put forward sufficiently
+convincing arguments why the arbitral tribunal was required to depart from the clear
+wording of Article 1 of the Treaty in favour of applying the notion developed within the
+framework of the ICSID Convention.
+
+5.10 Nor does the Court follow the Republic of India in its contention that an ‘investment’
+within the meaning of the Treaty could only exist after all the permits required for the
+performance of the Devas Services had been granted. There is no basis whatsoever for such
+a requirement. Possible uncertainty about the granting of a WPC License or other necessary
+
+Translated by Thames Translation
+Email: gluce@thamestranslation.com
+Web site: https://www.thamestranslation.com
+
+THAMES
+
+TRANSLATION
+
+operational and service permits can, at most, imply that the investment of Devas et a/
+involved certain risks. As the arbitral tribunal rightly assumed, this can affect the value of
+the investment that the Republic of India may have to compensate, but it cannot mean that
+there is no investment in the first place. This could be different if Devas et a/ had been
+refused the necessary project permits, or if it were clear in advance that the required
+permits could not be obtained. However, at the time when the Republic of India annulled
+the Devas Agreement, no required permits had been refused, and the Republic of India has
+failed to provide sufficient evidence to be able to assume that such permits would have
+been refused. It stated merely that the acquisition of a WPC Licence, in particular, would
+have been an “extensive procedure” (Statement of Appeal, 214).
+
+ 
+
+5.11 The doctrine of “general unity of an investment operation” which the Republic of India
+invoked in this regard does not lead to any other conclusion. The essence of the doctrine is
+that a transaction that does not itself qualify as an investment within the meaning of the
+applicable investment treaty can nonetheless be treated as such if it forms part of an
+operation that qualifies as an ‘investment’ viewed as a whole (see decision of 24 March 1999
+in CSOB v Slovakia, which the article by Schreuer and Kriebaum, At What Time Must
+Legitimate Expectations Exist?, Liber Amicorum Thomas Walde, p 271 (Devas ef al exhibit
+G-59), quotes as the standard-setting case in this field). The arbitral tribunal held that the
+capital contributions of Devas et a/ and the advances for the reservation of satellite capacity
+in themselves qualify as ‘investments’ within the meaning of the Treaty. In such a case, the
+“general unity of an investment operation” doctrine is not necessary to qualify these
+investments as such. The Republic of India wrongly relies on this doctrine to argue that an
+‘investment’ for the purposes of the Treaty can only exist once the entire investment
+operation is completed and all the required permits for the realisation of that investment’s
+objective have been obtained.
+
+5.12 For these reasons, the grounds of appeal relating to the arbitral tribunal's jurisdiction
+fail.
+
+Essential defences with regard to the notion of ‘investment’
+
+5.13 The Republic of India further contends that the arbitral tribunal has not complied with its
+mandate (Article 1065(1)(c) Civil Procedure Code) and breached its obligation to state
+reasons (Article 1065(1)(d) Civil Procedure Code) by not addressing with reasons or not
+deciding with reasons on five essential defences in relation to the notion of ‘investment’
+(subdivided into two groups of three and five essential defences). The Court of Appeal must
+approach these annulment grounds with restraint. The Court of Appeal may only annul the
+Partial Award on one of these grounds if the arbitral tribunal failed to decide on an essential
+defence or failed to provide any reasoning for its decision.
+
+- The first group of three essential defences
+
+5.14 The Republic of India argues that the arbitral tribunal failed to address its defence that
+only the Devas project as a whole, and not the shareholding of Devas et al or assets such
+as the Devas Agreement, could qualify as an ‘investment’ for the purposes of the Treaty.
+The District Court rejected this argument with reference to paragraphs 199 through 210 of
+the Partial Award. The Court of Appeal concurs with the District Court's judgment that the
+arbitral tribunal has addressed this defence in those paragraphs. In paragraphs 199
+through 210 of the Partial Award, the arbitral tribunal found that the shareholding of Devas
+
+Translated by Thames Translation
+Email: gluce@thamestranslation.com
+Web site: https://www.thamestranslation.com
+
+THAMES
+TRANSLATION
+
+et alin Devas Multimedia and the indirect ownership by Devas et a/ of the Devas
+Agreement qualified as ‘investments’ within the meaning of the Treaty. The arbitral
+tribunal held in this regard: “(...) the Tribunal finds deficient the Respondent's argument
+that the Claimant's activities were “only pre-investment activities” because their
+investment was the alleged right to proceed with the Devas project pursuant to the Devas
+Agreement and because said project could not proceed without the WPC License, which
+Devas had no right to receive under the Devas Agreement’. This holding was further
+explained in the following paragraphs. The arbitral tribunal thus did, in fact, address this
+defence of the Republic of India. The court cannot review the arbitral tribunal's substantive
+assessment in an annulment proceeding. The court may only verify whether the arbitral
+tribunal has addressed an essential defence. In this case, the arbitral tribunal did so. The
+arbitral tribunal's reasoning is not so incomprehensible as to be tantamount to no
+reasoning at all.
+
+ 
+
+5.15 The second essential defence allegedly left unaddressed by the arbitral tribunal concerns
+the arbitral decisions cited by the Republic of India. The Republic of India argues that the
+District Court misinterpreted its position. The Republic of India is not concerned with those
+decisions as such, but, rather, with the defence supported by those decisions, namely that
+only the Devas project as a whole can qualify as an ‘investment’. If so, the Republic of
+India’s objection targets the treatment of the same essential defence as discussed in
+paragraph 5.14, such that it suffices for the Court of Appeal to refer to that paragraph. In
+any event, the Court of Appeal subscribes to the District Court's view that the arbitral
+tribunal was not required to substantively discuss the case law cited by the Republic of
+India.
+
+5.16 The Republic of India also alleges that the arbitral tribunal has not paid sufficient attention
+to its defence that Devas Multimedia could not have rolled out satellite-only services without
+a WPC Licence. The Republic of India claims that the arbitral tribunal rejected this defence
+without any reasoning. That is not correct. The arbitral tribunal held: “foJn the basis of the
+evidence received by the Tribunal, it is satisfied that, even without a WPC license, Devas
+could have rolled out satellite-only services” (Partial Award, paragraph 209). The evidence
+marshalled in the arbitration proceedings was mentioned by the arbitral tribunal in
+paragraph 181 of the Partial Award. The arbitral tribunal also took note of the documents
+which the parties had provided with respect to this matter after the hearing (see Partial
+Award, paragraphs 46 to 54). It appears from the cited paragraph that the arbitral tribunal
+based its decision, among other things, on that evidence. Pursuant to Article 1065 Civil
+Procedure Code, the arbitral tribunal's evidentiary assessment is not subject to judicial
+review. This is compounded by the fact that the question whether Devas Multimedia would
+have been able to roll out satellite-only services without a license is not determinative for
+the arbitral tribunal's conclusion that there has been an ‘investment’ within the meaning of
+the Treaty.
+
+- The second group of five essential defences
+
+5.17 According to the Republic of India, the arbitral tribunal failed to address the essential
+defence that the shareholding of Devas ef a/ and the indirect ownership of Devas
+Multimedia’s assets were not expropriated by the Republic of India, and Devas et a/ cannot
+rely on the Treaty in relation to those assets. That objection is unfounded. In paragraph 411
+of the Partial Award, the arbitral tribunal concludes that there has been an expropriation of
+Devas et als property within the meaning of Article 6(1) of the Treaty. In doing so, the
+
+Translated by Thames Translation
+Email: gluce@thamestranslation.com
+Web site: https://www.thamestranslation.com
+
+THAMES
+TRANSLATION
+
+arbitral tribunal refers to its conclusion in paragraph 210, which is based on the findings set
+out in paragraphs 199 through 209. The arbitral tribunal evidently considered that the
+Republic of India’s decision to annul the Devas Agreement as a result of which Devas
+Multimedia lost its rights to the spectrum on both satellites was tantamount to an
+expropriation of the investments of Devas ef a/in Devas Multimedia. That finding, which did
+address the relevant defence, is not so incomprehensible as to be treated as though it
+lacked reasoning.
+
+ 
+
+5.18 Furthermore, the Republic of India states that the arbitral tribunal failed to address its
+essential defences that the Devas Agreement did not, as such, constitute an ‘investment’,
+and that the amount of the investments of Devas et a/ could not affect their nature, where
+by the Republic of India again refers to the (arbitral) case law cited by it. This amounts to a
+repetition of the statements made by the Republic of India which have already been
+rejected for this purpose in paragraphs 5.14 and 5.15.
+
+5.19 The last two essential defences that the arbitral tribunal, according to the Republic of
+India, failed to deal with relate to the (lack of) WPC Licence. The Republic of India
+reproaches the arbitral tribunal for providing no explanation for its view that the lack of
+entitlement to a WPC Licence could be relevant to the value of the investment, but not to
+the question whether there was an investment as such. That is not a fair reproach given
+that the arbitral tribunal based the relevant view on the finding that a WPC Licence was not
+required for satellite-only services and that the right to the spectrum, as such, already
+represented value since it excluded the use of that spectrum by others (see Partial Award
+paragraph 209). Finally, the Republic of India criticises the arbitral tribunal's finding that
+Devas Multimedia was able to roll out satellite-only services without a WPC Licence. That
+reproach has already been discussed and rejected in paragraph 5.16 above.
+
+5.20 In view of the above, the grounds of appeal relating to the issue of whether there is an
+‘investment’ within the meaning of the Treaty (Republic of India’s grounds of appeal 1 and
+2) fail.
+
+“Essential security interests”
+
+5.21 Article 11(3) of the Treaty provides that the Treaty shall not limit the right of a Contracting
+Party (in this case: the Republic of India) to take any action which is directed to the
+protection of its “essential security interests”. The Republic of India did not raise an
+objection to the arbitral tribunal's jurisdiction under this provision in the arbitration
+proceedings. Neither did the arbitral tribunal understand the invocation of that provision as
+such in the findings of the Partial Award (see paragraphs 293 et seq of the Partial Award).
+Only in the Partial Award’s dictum did the arbitral tribunal state: “(...) that the Tribunal lacks
+jurisdiction over the Claimants’ claims insofar as the Respondent's decision to annul the
+Devas agreement was in part directed to the protection of the Respondent's essential
+security interests.” Unlike the District Court, the Court of Appeal does not conclude from
+this that the arbitral tribunal construed the Republic of India’s claims concerning “essential
+security interests” as a jurisdictional objection. Rather, the Partial Award’s dictum must be
+interpreted in the light of its findings, wherein the arbitral tribunal did not treat this as a
+jurisdictional objection. Be that as it may, it is no longer in dispute between the parties in
+these appeal proceedings that Article 11(3) of the Treaty does not concern the arbitral
+tribunal's jurisdiction, but, rather, an exception to the Treaty’s provisions aimed at
+protecting “essential security interests”.
+
+ 
+
+Translated by Thames Translation
+Email: gluce@thamestranslation.com
+Web site: https://www.thamestranslation.com
+
+THAMES
+TRANSLATION
+
+5.22 Accordingly, the Republic of India’s grounds of appeal with regard to the protection of
+“essential security interests” do not concern the arbitral tribunal's jurisdiction. According to
+the Republic of India, the District Court disregarded that the arbitral tribunal's assessment
+of this exception was contrary to the arbitral tribunal's mandate (Article 1065(1)(c) Civil
+Procedure Code), that the arbitral tribunal failed to support its findings with reasons (Article
+1065(1)(d) Civil Procedure Code), and that the arbitral tribunal's decision is in breach of
+public policy and good morals (Article 1065(1)(e) Civil Procedure Code). As explained
+above, the court must exercise its power to annul on the first two grounds with restraint.
+
+ 
+
+The court may only engage in a full review of the arbitral tribunal's decision in the event of
+a breach of public policy and good morals.
+
+- The arbitral tribunal’s mandate
+
+5.23 The Republic of India argues that the arbitral tribunal acted in breach of its mandate by
+applying the “essential security interests” provision to the S band spectrum instead of to
+the decision to terminate the Devas Agreement. The Court of Appeal cannot share this view
+of the Republic of India. Having analysed the need for the use of the S band spectrum for
+strategic/military purposes, the arbitral tribunal, in paragraph 351 of the Partial Award,
+found as follows: “But this is not the end of the matter. While the events related above
+provide helpful information concerning the administrative process followed both before and
+after the CCS decision, what is the determinant factor for the Tribunal is that decision itself
+and whether it was directed to the protection of the Respondents essential security
+interests”. The arbitral tribunal thus did, in fact, take the decision to terminate the Devas
+Agreement as the starting point.
+
+5.24 The Republic of India further argues that the arbitral tribunal misunderstood the
+dichotomous character of the “essential security interests” provision. When referring to the
+dichotomous character of the provision, the Republic of India means that “essential security
+interests” either exist or they do not. The Court of Appeal cannot follow this argument
+either. It is established that different parts of the S band spectrum can be used for different
+purposes. The District Court established that this possibility already followed from the
+Devas Agreement, wherein Devas Multimedia and Antrix agreed that 90% of the spectrum
+would be used for civil/commercial purposes, while the remaining 10% would be used for
+strategic/military purposes (paragraph 4.50 of the District Court judgment). This has not
+been contested by the Republic of India on appeal. The “essential security interests” may
+well be viewed as “dichotomous” in so far as it might exclude the use of the same part of
+the S band spectrum both for the protection of “essential security interests” and for other
+purposes at the same time. However, the use of a part of the S band spectrum for the
+protection of “essential security interests” does not exclude the use of a different part of the
+S band spectrum for other purposes. Either way, the record was capable of supporting that
+conclusion of the arbitral tribunal.
+
+5.25 The Republic of India also argues that the arbitral tribunal had gone ultra petita by
+engaging in a full rather than deferential review of the “essential security interests”
+objection. This objection is unfounded given that the arbitral tribunal did, in fact, apply a
+deferential standard of review, which follows, /.a., from the arbitral tribunal's following
+findings:
+
+“243. While, in the present case, the Respondent does not have to demonstrate necessity in
+the sense that the measure adopted was the only one it could resort to in the
+
+Translated by Thames Translation
+Email: gluce@thamestranslation.com
+Web site: https://www.thamestranslation.com
+
+  
+
+circumstances, it still has to establish that the measure related to its essential security
+interests; it cannot therefore be any security interest but it has to be an essential one (...)
+
+ 
+
+244. In performing this analysis, however, the Tribunal has also no difficulty in
+recognizing the “wide measure of deference” mentioned by the Respondent.”
+
+5.26 The Republic of India maintains that the arbitral tribunal did not comply with this
+deferential review standard because it ultimately itself decided that the protection of
+“essential security interests” did not require the full S band spectrum. In addition,
+according to the Republic of India that this decision is based on an incorrect allocation of
+the burden of proof whereby the Republic of India was required to prove the validity of its
+reliance on “essential security interest”.
+
+5.27 This objection is likewise unfounded. The arbitral tribunal found that the protection of
+“essential security interests” did not require the full S band spectrum, based on the
+decision of the CCS. In this regard, the arbitral tribunal relied on the press release of 17
+February 2011 in which this decision was communicated. In that press release, the
+decision to terminate the Devas Agreement was justified by a reference to “increased
+demand for allocation of spectrum for national needs, including the needs of defence,
+para-military forces, railways and other public utility services as well as for societal
+needs”. That press release, on which the arbitral tribunal had to rely given that it was
+the only notice of the CCS decision, was capable of supporting the arbitral tribunal's
+conclusion that the decision to terminate the Devas Agreement was not exclusively
+intended for the protection of “essential security interests”.
+
+5.28 The deferential standard of review of the Partial Award under Article 1065(1)(c) Civil
+Procedure Code leaves no scope for a substantive assessment of the arbitral tribunal's
+allocation of the burden of proof. In any event, the Court of Appeal considers the arbitral
+tribunal's judgment that it was incumbent on the Republic of India to establish that the
+decision to terminate the Devas Agreement was related to “essential security interests” (see
+paragraph 242 of the Arbitral Award) to be understandable. After all, the Republic of India
+relied on a provision that contains an exception to the protection of investments under the
+Treaty. In this regard, the arbitral tribunal took into account the discretionary power (“wide
+measure of defence”) of the Republic of India by setting a high threshold for the defence of
+Devas et al (see paragraph 245 of the Arbitral Award).
+
+5.29 The Republic of India further argues that the arbitral tribunal failed to comply with its duty
+to decide in accordance with “the rules of law” by making an ex aequo et bono
+determination of the part of the spectrum intended for the protection of “essential security
+interests” at 60%. This objection lacks factual basis. In view of the reasoning provided by
+the arbitral tribunal for its decision, it decided in accordance with the “rules of law”. The
+relevant ruling (paragraph 373 of the Partial Award) does not support the view that, in
+determining the part of the spectrum intended for the protection of “essential security
+interests”, the arbitral tribunal applied a different (ex aequo et bono) decision-making
+standard than that applicable under the Treaty. The mere fact that the arbitral tribunal
+speaks of a “reasonable allocation of spectrum” in this paragraph is not enough to support
+such a conclusion, given that reasonableness also plays a role when deciding under the
+“rules of law”.
+
+5.30 Finally, the Court of Appeal rejects the Republic of India’s argument that the arbitral
+
+Translated by Thames Translation
+Email: gluce@thamestranslation.com
+Web site: https://www.thamestranslation.com
+
+THAMES
+TRANSLATION
+
+tribunal added to the facts by basing its finding that no more than 60% of the S band
+spectrum was intended for the protection of “essential security interests” on the finding
+(paragraph 370 of the Partial Award) that:“(...) All around the world, governments are faced
+every year with very large demands for funds for various projects from their military
+establishment and, just as regularly, governments grant only a percentage of such
+requests.” That argument is based on an incorrect reading of the Partial Award. As stated in
+the first sentence of paragraph 373 of the Partial Award, the arbitral tribunal found that up
+to 60% of the S band spectrum was intended for the protection of “essential security
+interests” “[o] n the basis of the evidence submitted to it as described above and bearing in
+mind that the Respondent had already reserved to itself 10% of the spectrum in question
+(...)” in the Devas Agreement. The arbitral tribunal's conclusion is therefore not, or, in any
+case, not exclusively, based on the finding referred to by the Republic of India.
+
+ 
+
+- Reasons
+
+5.31 According to the Republic of India, the arbitral tribunal failed to state the reasons for its
+decision that no more than 60% of the S band spectrum was intended for the protection
+of “essential security interests”. That is not correct. As explained above, as apparent from
+paragraph 373 of the Arbitral Award based on “the evidence submitted to it as described
+above and bearing in mind that the Respondent had already reserved to itself 10% of the
+spectrum in question (...)” in the Devas Agreement. Whether this reasoning is
+substantively accurate is outside the scope of the Court of Appeal’s assessment under
+Article 1065(1)(c) Civil Procedure Code. The same applies to the additional reasoning
+defects alleged by the Republic of India (Statement of Appeal, paras 457 ef seq). There is
+no need to decide whether 100% of the S band spectrum is currently being used for
+military and paramilitary purposes given that the Court of Appeal is not required to
+provide a substantive decision on the application of the “essential security interests”
+defence, but only needs to verify whether the arbitral award must be set aside. The
+Republic of India’s offer of proof regarding the current use of the S band spectrum
+therefore lacks relevance and will be disregarded.
+
+- Surprise decision
+
+5.32 Like the District Court, the Court of Appeal considers that the arbitral tribunal's decision
+that no more than 60% of the S band spectrum was intended for the protection of “essential
+security interests” cannot be viewed as a surprise decision. In the arbitration proceedings,
+the Republic of India has been given (ample) opportunity to substantiate its position that
+100% of the S band spectrum was necessary for the protection of “essential security
+interests”. It is not clear why the arbitral tribunal should have separately heard the Republic
+of India with respect to its intention to accept the Republic of India’s reliance on the
+“essential security interests” provision for less than 100% of the spectrum. The Republic of
+India does not indicate what arguments it could have put forward against that intention that
+it could not have put forward to support the use of 100% of the S band spectrum for the
+protection of “essential security interests”. This could have been different had the arbitral
+tribunal been required to take into account the possibility that the use of different parts of
+the S band spectrum for different purposes would lead to problems. However, the arbitral
+tribunal was not required to take this into account given that the Devas Agreement itself
+already provided that 90% of the spectrum would be used for civil/commercial purposes and
+the remaining 10% — for strategic/military purposes.
+
+Translated by Thames Translation
+Email: gluce@thamestranslation.com
+
+Web site: https://www.thamestranslation.com
+THAMES
+
+TRANSLATION
+
+5.33 The grounds of appeal relating to the “essential security interests” defence
+
+ 
+
+(grounds 3, 4 and 5) thus fail for these reasons.
+The Criminal Complaint and misrepresentation regarding intellectual property rights
+
+5.34 As the first ground for annulment in this context, the Republic of India has argued, with
+reference to the Criminal Complaint, that the Devas Agreement was concluded under the
+influence of criminal acts, with the consequence that no valid ‘investment’ had been made
+and the arbitral tribunal was not competent to decide on the claims of Devas et al (Article
+1065(1)(a) Civil Procedure Code). According to the Republic of India, the District Court
+wrongly disregarded the facts mentioned in the Criminal Complaint on the grounds that
+they have not yet resulted in a (final) criminal conviction.
+
+5.35 The Court of Appeal notes, first and foremost, that the two parts of the Criminal
+Complaint (the “charge sheet” and the “supplementary charge sheet”) do not, under
+Indian law, constitute an official indictment. The “charge sheets” are submitted to the
+court, and only when the judge determines that the recorded complaints are prima
+facie well-founded can such complaints be included in an official indictment. The
+“charge sheets” were submitted to the Indian judge quite some time ago (the “charge
+sheet” dates from 11 August 2016 and the “supplementary charge sheet” from 8
+January 2019). During the appellate pleadings, Devas et a/s attorneys alleged that
+the judge had meanwhile rejected the request to proceed in the matter. However,
+Devas et al did not submit a copy of that decision or any other document proving that
+the judge thus decided. When asked, the Republic of India’s attorney was unable to
+confirm whether or not a decision on the Criminal Complaint had been taken.
+
+5.36 Even if the Criminal Complaint is still pending, it cannot be assumed that the Devas
+Agreement was concluded under the influence of criminal acts. Whether, as the
+District Court assumed, that would require a (final) court decision need not be
+decided. As long as the Indian court has not granted permission to include the
+allegation mentioned in the Criminal Complaint in an official indictment, it cannot be
+assumed that such complaints are founded even prima facie. Apart from referring to
+the Criminal Complaint, the Republic of India has stated only in the broadest terms
+what the alleged offences consist of (Statement of Appeal, para 505). The Republic of
+India has thus failed to sufficiently substantiate its claim that the Devas Agreement
+was concluded under the influence of criminal offences.
+
+5.37 In its Statement of Appeal, the Republic of India also referred to an enquiry into Devas
+Multimedia under the “Prevention of Money Laundering 2002” and another enquiry under
+the “Foreign Exchange Management Act” that had resulted in the imposition of fines on
+Devas Multimedia, its directors and officers, as well as DT Asia. However, the Republic of
+India only mentioned these investigations “for the sake of completeness” (Statement of
+Appeal, para 508), and has not referred to them as the basis of its annulment claim; the
+Court of Appeal will not, therefore, take these enquiries into consideration.
+
+5.38 The Republic of India further argues that the Partial Award must be annulled for lack of
+'s argument
+that, at the time the Devas Agreement was entered into, Devas Multimedia wrongly
+represented that it held certain intellectual property rights (Article 1065(1)(d) Civil
+Procedure Code). The District Court rejected this annulment ground because that argument
+
+ 
+
+reasoning because the arbitral tribunal did not address the Republic of Indi
+
+Translated by Thames Translation
+Email: gluce@thamestranslation.com
+Web site: https://www.thamestranslation.com
+
+THAMES
+TRANSLATION
+
+only appeared in a single footnote in the arbitration proceedings, such that the arbitral
+tribunal was not required to treat it as an essential defence. The Republic of India counters
+this by stating that it had requested the documents relating to intellectual property rights in
+the “document production phase” of the arbitral proceedings, and that the arbitral tribunal
+had ordered Devas et al to produce such documents. Devas et al failed to produce those
+documents, allegedly because they were not in its possession. However, that could not have
+prevented the Republic of India to develop this argument further and to back up its
+significance for its defence. The Republic of India failed to do so. Devas et al argued
+unopposed that the Republic of India did not raise this argument anywhere in the
+arbitration proceedings other than the footnote in question; not in any other procedural
+document, not during the hearing and not in the examination of the various witnesses
+appearing for Devas ef al. In view of this positioning, the arbitral tribunal was not required
+to comprehend that this was an essential defence of the Republic of India’s on which it had
+to expressly decide. The Court of Appeal thus endorses the District Court's decision with
+respect to this annulment ground.
+
+ 
+
+5.39 Finally, the Republic of India argues that the arbitral tribunal “remedied” Devas
+Multimedia’s criminal conduct in the Partial Award by treating the Devas Agreement as valid
+and binding in spite of such conduct. Therefore, according to the Republic of India, the
+award is contrary to public policy and good morals and subject to annulment based on
+Article 1065(1)(e) Civil Procedure Code. The Court of Appeal concurs with the District
+Court's judgment that the reliance on this annulment ground fails because it has not been
+established in court that the formation of the Devas Agreement was accompanied by
+criminal conduct (paragraph 4.74 of the District Court judgment).
+
+5.40 The Court of Appeal rejects the Republic of India’s request to stay these proceedings
+pending the outcome of the criminal proceedings in India. In its Statement of Appeal, the
+Republic of India anticipated that the criminal proceedings against the persons mentioned
+in the Criminal Complaint would commence in 2019. However, there are, at present, still
+no criminal proceedings pending in India. The persons at issue have not even yet been
+officially indicted, and it is at least uncertain whether that is still going to happen (see para
+5.35 above). Like the District Court, the Court of Appeal therefore considers that the
+granting of such a request would be contrary to due process.
+
+5.41 In view of the above, grounds of appeal 6 through 9 are also dismissed.
+Offer of proof
+
+5.42 The offer of proof formulated by the Republic of India at the end of its Statement of
+Appeal is dismissed. Insofar as that offer of proof relates to the Republic of India’s
+allegations concerning the relevant permits, the findings set out above demonstrate that
+such allegations either lack sufficient backing or are not determinant for the resolution of
+the claim in these annulment proceedings. Insofar as the offer of proof relates to the
+current use of the GSAT-6 satellite, it is irrelevant (see para 5.31 above). To the extent
+that it relates to the production of documents, the position is that the Republic of India
+should itself have provided any documents on which it intends to rely.
+
+Conclusion and allocation of costs
+
+5.43 Given that the grounds of appeal fail, the District Court's judgment shall be affirmed. The
+
+Translated by Thames Translation
+
+Email: gluce@thamestranslation.com
+
+Web site: https://www.thamestranslation.com
+THAMES
+
+TRANSLATION
+
+Republic of India shall, as the losing party, be ordered to pay the costs of the proceedings.
+
+ 
+
+ 
+
+The Court of Appeal:
+
+- affirms the District Court's judgment issued among the parties on 14 November 2018;
+
+- orders the Republic of India to pay the costs of the proceedings incurred by Devas et al,
+assessed at € 741.- in court fees, € 3,342.- in representation costs and € 163,- in post-
+judgment representation costs to be increased by €85. - if the judgment is not voluntarily
+complied with within fourteen days from notification and the judgment is subsequently served,
+and determines that these amounts must be paid within 14 days from the day of the judgment,
+or, with respect to the amount of € 85. -, after the date of service, failing which such amounts
+shall be increased by the statutory interest as provided in Article 6:119 Civil Code accruing from
+the expiry of the stated 14-day period;
+
+- declares this judgment provisionally enforceable with respect to the costs order;
+
+This judgment was issued by mrs P. Glazener, J.J. van der Helm and D. Aarts and
+pronounced at the public court session of 16 February 2021 in the presence of the
+Registrar.
+

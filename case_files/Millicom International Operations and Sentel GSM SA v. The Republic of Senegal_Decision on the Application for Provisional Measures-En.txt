@@ -1,0 +1,1130 @@
+INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
+WASHINGTON, DC
+
+MILLICOM INTERNATIONAL OPERATIONS B.V. AND SENTEL GSM SA
+CLAIMANTS
+Vv.
+THE REPUBLIC OF SENEGAL
+RESPONDENT
+(ICSID CASE NO. ARB/08/20)
+
+Decision on the Application for provisional measures submitted by the
+Claimants on 24 August 2009
+
+Arbitral Tribunal
+
+Prof. Pierre Tercier, President
+Judge Ronny Abraham, Arbitrator
+Prof. Kaj Hobér, Arbitrator
+
+Secretary of the Arbitral Tribunal
+Ms. Aurélia Antonietti
+
+The Arbitral Tribunal
+In light of
+
+- the Request for Arbitration submitted by the Claimants on 11 November 2008;
+- the letter from the Respondent dated 5 December 2008;
+
+- the letter from the Claimants dated 19 December 2008 and their Observations on
+jurisdiction of the Centre of the same date;
+
+- the Minutes of the first session of the Arbitral Tribunal of 7 September 2009;
+- Procedural Order No. 1 of 14 September 2009;
+
+- the Provisional Measures Application submitted by the Claimants (hereinafter referred
+to as the “Application’”’) of 24 August 2009;
+
+- The “Reply in response to the application for provisional measures” filed on 5 October
+2009 by the Respondent (hereinafter referred to as the “Reply”);
+
+- the hearing of 9 November 2009, held in Paris;
+
+ruling on the Application for provisional measures submitted by the Claimants and
+applicant Parties,
+
+after having set out
+
+I. In fact
+
+In this section, the Arbitral Tribunal will confine itself to providing a brief summary of the
+facts underlying the dispute, to the extent required for this decision.
+
+A.
+
+1.
+
+The Parties
+
+The first Claimant, Millicom International Operations B.V. (hereinafter referred to
+as “Millicom”, or “Claimant 1”, or alternatively “MIO”), is a limited liability company
+organised and existing under Dutch law.
+
+The second Claimant, Sentel GSM S.A. (hereinafter referred to as “Sentel”, or
+“Claimant 2”) is a limited company with a share capital of 60,000,000 CFAF,
+organised and existing under Senegalese law. Sentel is a wholly-owned subsidiary of
+Millicom (see Request for Arbitration, no. 12), and has run a mobile telephony
+network in Senegal (“Tigo”) since 1999.
+
+Both Millicom and Sentel are part of the Millicom International Cellular S.A. Group
+(hereinafter referred to as “MIC”), a company under Luxembourg law established in
+1990, founded by Millicom acting in joint venture with another mobile telephone
+operator, Industrif6rvaltnings AB Kinnevik (Sweden). MIC is not a party to these
+arbitration proceedings.
+
+MIC is a global telecommunications company. Via its subsidiaries, it provides
+telecommunication services in sixteen countries, in Asia, Latin America and Africa
+(Request for Arbitration, no. 12). According to the Claimants, Millicom (Claimant 1)
+is a wholly-owned subsidiary of MIC, and Sentel (Claimant 2) is a wholly-owned
+subsidiary of Claimant 1 (idem).
+
+Claimant 1 and Claimant 2 shall be jointly referred to as the “Claimants”. They are
+represented by Messrs. Stephen Jagusch, Andrew Battisson, and Mark Levy of the
+firm of Allen & Overy LLP, London.
+
+The Respondent is the Republic of Senegal (hereinafter referred to as “Senegal” or
+the “Respondent”). It is represented by Mr. Abdoulaye Dianko, State Judicial Officer,
+Mr. Rémi Sermier, Esq., from the firm of Brandford-Griffith & Associés, Paris, Mr.
+Frangois Sarr, Esq., SCP Francois Sarr & Associés, Dakar, and Professor Thomas
+Clay, Versailles.
+
+Summary of the facts
+
+On 3 July 1998, the Republic of Senegal granted Sentel a concession for its mobile
+telephony services entitled: “Convention de concession entre I’Etat du Sénégal et la
+Société Sentel GSM S.A. pour l’exploitation d’un réseau public de radiotéléphonie
+mobile cellulaire numérique GSM au Sénégal’ (hereinafter the “Concession”;
+Claimants’ Exhibit C2).
+
+This Concession was concluded under the Senegalese Telecommunications Code of
+1996, which was in force at the time (Reply, no. 8). It granted Sentel the right to
+operate a (first) mobile telephony network in Senegal. Sentel undertook to abide by
+the terms and conditions of operation (Article 2) and to pay a licence fee to the
+Respondent (Article 9). The term of the Concession was set at twenty years, beginning
+on the publication of the Decree approving it (Article 1).
+
+Decree no. 98-719 approving the Concession between The State of Senegal and Sentel
+(Exhibit C3) was published on 2 September 1998, so the Concession was intended to
+lapse on 2 September 2018.
+
+On 17 July 2000, Sentel was given a formal warning by the Respondent for serious
+breaches of the Concession (Reply, no. 13; Respondent’s Exhibit R6). The document
+accused Sentel of having failed to pay the licence fee due on 1 January 2000; of being
+responsible for blatant violations of its obligation to provide technical, administrative
+and financial information; and of failing to respect the schedule for the radioelectric
+coverage of the National Territory (Exhibit R6). Sentel was given one month to
+respond to the allegations made against it.
+
+On 29 September 2000, Mr. Bernard Sambou, Esq., bailiff, acting for the Respondent,
+visited the premises of Sentel to serve notice that, in accordance with Article 7.4 of the
+Concession, the Concession was being formally terminated, since Sentel had failed to
+comply within the period allotted to it in the formal warning and had failed to remedy
+the defects of which it was accused (Reply, nos. 14 and 15).
+
+On 19 October 2000, Sentel informed the Judicial Officer of Senegal via Mr. Aloyse
+Ndong, Esq., bailiff, that it was formally contesting the reasons set out in the notice
+served on 29 September 2000 (Exhibit R8).
+
+On 17 January 2001, the Respondent passed Decree no. 2001-23, intended to be the
+final stage in the proceedings terminating the Concession (Exhibit C5). This text has
+however still not been published.
+
+On 13 March 2001, the Managing Director of Sentel filed an administrative appeal
+with the President of the Republic of Senegal against Decree no. 2001-23 of 17
+January 2001. In this filing he contested the reasons for termination and emphasised
+that Sentel had respected all the terms and conditions of use of the Concession
+(Exhibit R11). On 15 March 2001, the Managing Director of Sentel sent to the Judicial
+Officer of Senegal a “preliminary application”, the contents of which were identical to
+the contents of the filing submitted to the President of the Republic of Senegal
+(Exhibit R12).
+
+Neither of these letters received any response from the authorities to whom they were
+addressed. According to the Respondent, who is relying on Article 729 of the
+Senegalese Code of Civil Procedure, the silence kept for over four months by the
+authorities is equivalent to a decision of dismissal (Exhibit R21).
+
+Still according to the Respondent, the Claimant Sentel allegedly accepted the end of
+the Concession, since it was fully aware of Decree no. 2001-23 and had failed to bring
+any court proceedings in respect of that Decree. This situation is alleged to have
+become definitive on 17 August 2001.
+
+On 27 December 2001, the new Senegalese Telecommunications Code came into
+force (Application, no. 14). Its transitional provisions include the following (Article
+76, Exhibit R4):
+
+"Les titulaires de concession d’établissement et d’exploitation de réseaux de
+télécommunications ouverts au public et de  fourniture de services de
+télécommunications en place a la date d’entrée en vigueur du présent Code,
+bénéficient de plein droit de Jlexploitation des réseaux et services de
+télécommunication qui leur ont été concédés.
+
+Ils bénéficient, en outre, des droits d’utilisation des fréquences radioélectriques
+relatives a l’exploitation de leurs réseaux et services visés ci-dessus. Cependant, ils
+sont soumis aux nouvelles conditions relatives aux licences notamment au paiement de
+contre partie financiére, de redevances et de contributions prévues dans les cahiers de
+charge prévues par le présent Code. Toutefois, pour les besoins de la mise en ceuvre
+du présent Code, l’'ART peut procéder a des modifications des assignations de
+fréquences existantes.
+
+Dans un délai de six mois, un cahier des charges, approuvé par décret, fixera les
+nouvelles conditions dans lesquelles les services de télécommunications seront
+rendus.” (article 76).
+
+On 9 August 2002, Senegal and MIC concluded an agreement, the content of which is
+as follows:
+
+“Le Groupe Millicom International adhére a la politique de I’ Etat du Sénégal relative
+a la modernisation et la régulation du secteur des télécommunications du Sénégal et
+
+traduite récemment par la promulgation d’une nouvelle loi sur les
+télécommunications, la naissance d’une_ Agence de Régulation des
+Télécommunications et l’annonce de l’arrivée prochaine d’un nouvel opérateur.
+
+Ainsi, soucieuse de se conformer a ce nouveau processus, le Groupe Millicom
+International accompagné de sa filiale Sentel a informé l’Etat du Sénégal de sa
+volonté de négocier de bonne foi les nouvelles conditions mutuellement acceptables
+devant régir ses opérations au Sénégal.
+
+A la suite de cet engagement, le groupe Millicom International, a travers sa filiale
+Sentel continuera d’opérer en toute légalité sous le cadre juridique de la Convention
+de 1998.”
+
+This agreement, on whose scope the Parties have differing opinions, was signed by
+Abdoulaye Balde for Senegal and by David Kimche for MIC (Application, no. 14;
+Reply, no. 28; Exhibits C6 and R13).
+
+Despite the documents that were served to it, Sentel has continued and is still
+continuing to operate the Concession, developing its service and extending its
+subscriber base. It claims that it also regularly paid Senegal the licence fee in
+connection with the subscriptions it received during this period, in accordance with the
+Concession of 1998.
+
+On 24 September 2008, the Respondent wrote to MIC inviting it to submit a tender for
+a second licence, informing it that a reasonable tender would be around two hundred
+million USD (Exhibit C10). This amount corresponded to the amount that Sudan
+Telecom Company Ltd. (Sudatel) had accepted to pay, when the latter obtained a full
+licence in autumn 2007 (Decree no. 2007-1333 of 7 November 2007, Exhibit R15).
+Correspondence was subsequently exchanged (Exhibits R16 and C11).
+
+On 10 October 2008, Sentel submitted a tender stipulating the payment of twenty-one
+million USD, in preparation for the improvement of the network covered by the
+Concession (Exhibit C4).
+
+The Respondent informed MIC by letter dated 22 October 2008 that it rejected this
+offer. It added: "[...] le Gouvernement a décidé de mettre fin a cette situation
+provisoire. Aussi je vous informe que, faute par vous de vous ressaisir et de nous
+proposer un montant de contrepartie financiére tenant compte du prix plancher que
+représente le versement effectué par Sudatel pour une 3éme licence, la publication du
+décret n° 2001-23 du 17 janvier 2001, dont vous trouverez ci-joint une copie,
+interviendra au Journal Officiel de la République du Sénégal, le vendredi 31 octobre
+2008.” (Exhibit C12). Another exchange of correspondence took place following this
+(Exhibit R17 and Exhibits C15 and C16).
+
+On 3 November 2008, Decree no. 2001-23 terminating the Concession (see no. 9
+above) was published in the Official Journal (Exhibit R3).
+
+That same day, the Respondent issued a press release stating that it had brought legal
+proceedings before the Dakar Regional Court to confirm the end of Sentel’s licence
+(Exhibit C14).
+
+On 11 November 2008, the Respondent brought proceedings against Sentel (Claimant
+2 in these proceedings) and MIC (which is not a party to these proceedings) before the
+Dakar Regional Court (Exhibit C17A). It requested the Dakar Court on the one hand
+to order Sentel to cease and desist its illegal activity immediately and on the other
+hand to compel Sentel and MIC to pay damages for the harm that the two companies
+would have caused to the State, on the grounds that they allegedly used false promises
+to ensure that Senegal allowed Sentel to continue operating under a provisional
+framework since 2000 (Reply, nos. 59 and 60).
+
+These proceedings continued as follows:
+
+- On 28 January 2009, MIC and Sentel submitted their requests for relief to the
+Dakar Regional Court (Exhibit C17B). They confined themselves to contesting
+the Court’s jurisdiction, and did not submit any arguments on the merits of the
+case. According to them, Article 11 of the Concession grants exclusive
+jurisdiction to international arbitration institutions, such as the OHADA
+Arbitration Court, ICSID or the ICC in Paris (Exhibit C17B, p. 6).
+
+- On 10 February 2009, the Respondent submitted its response (Exhibit C17C).
+With regard to jurisdiction, the Respondent replied to the Claimants’ claims by
+alleging that Article 11 of the Concession did not contain an arbitration clause,
+and that if it did, the clause was not valid, and that in any event it fell to the
+Court before which proceedings were brought to rule on its own jurisdiction.
+
+- On 11 March 2009, MIC and Sentel submitted their reply, in which they
+confined themselves to confirming their jurisdictional objection of the Dakar
+Regional Court, without making any submissions as to the merits (Exhibit
+C17D).
+
+- On 7 April 2009, the Respondent filed its summary submissions in rejoinder
+(Exhibit C17E). It maintained its previous submissions with respect to the issue
+of jurisdiction of the Dakar Regional Court (Exhibit C17E).
+
+- On 13 May 2009, MIC and Sentel made their summary submissions in rejoinder
+(Exhibit C17F). They once again raised the lack of jurisdiction of the Dakar
+Regional Court in favour of ICSID.
+
+- On 27 May 2009, the Respondent made additional submissions with respect to
+the jurisdictional objection (Exhibit C17G). It concluded that the Dakar
+Regional Court had jurisdiction.
+
+- On 24 June 2009, MIC and Sentel indicated that they did not intend to reply to
+the latest Respondent’s submissions on the grounds that it was merely a
+repetition. They stated that they were upholding all of their requests, allegations
+and claims as they had been set out in their previous written submissions
+(Exhibit C17H).
+
+20.
+
+21.
+
+- At an unspecified date, the Dakar Regional Court is, according to the statements
+of the Respondent, alleged to have closed the proceedings (Transcript of the
+hearing of 9 November 2009, English version, p. 134).
+
+The Dakar Regional Court had set a hearing for 23 September 2009. Under the rules
+of the Senegalese Code of Civil Procedure, the purpose of this hearing was to inform
+the parties that the judgement was being deliberated, which meant that the Court could
+issue its decision on a date that it would communicate to the Parties.
+
+Following the joint interventions of the two Parties recommended by this Arbitral
+Tribunal during the first session held on 7 September 2009, the Dakar Regional Court
+accepted to postpone the hearing until 23 December 2009.
+
+Notwithstanding these letters and proceedings, Sentel continues to operate the
+Concession.
+
+Summary of Arbitration Proceedings
+
+On 11 November 2008, the date on which the Respondent brought proceedings before
+the Dakar Court (see no. 17 above), the Claimants jointly submitted a “Request for
+Arbitration” (hereinafter the “Request for Arbitration”) to the Secretariat of the
+International Centre for Settlement of Investment Disputes (hereinafter referred to as
+the “Secretariat”).
+
+In that Request they made the following requests for relief:
+
+“The Claimants request the following relief:
+(i) a declaration that the Respondent has violated Articles 3, 4 and 8 of
+the Treaty;
+(ii) a declaration that the Respondent has violated the Licence, as well as
+applicable rules of Senegalese and international law;
+(iii) an order that the Respondent make full reparation to the Claimants for
+the injury or loss to their investment arising out of the Respondent’s
+violation of any of the Treaty, the Licence, and applicable rules of
+Senegalese and international law, such full reparation being in the form of
+damages or compensation paid to the Claimants in an amount to be
+determined, including interest thereon;
+(iv) compensation for the moral damages done to the Claimants, in an
+amount to be determined by the Arbitral Tribunal;
+(v) an order that the Respondent pay the costs of these arbitration
+proceedings including the costs of the arbitrators and ICSID, as well as the
+legal and other expenses incurred by the Claimants including but not
+limited to the fees of their legal counsel, experts and consultants as well as
+the Claimants’ own employees, on a full indemnity basis, plus interest
+thereon at a reasonable commercial rate; and
+(vi) any other relief the Arbitral Tribunal may deem appropriate in the
+circumstances.”
+
+On _ 26 November 2008, the Secretariat asked the Claimants to provide additional
+information about Sentel’s incorporation in Senegal, Sentel’s representation,
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+Millicom’s ownership of Sentel, Millicom’s status as a “national” for the purposes of
+the Bilateral Investment Treaty between the Netherlands and Senegal (hereinafter
+(“BIT” or the “Treaty”) and the consent of Senegal to submit this dispute to the
+jurisdiction of the Centre.
+
+On 5 December 2008, the Respondent asked the Secretariat to refuse to register the
+Request for Arbitration in the ICSID Arbitration Register on the grounds that the
+Centre has no jurisdiction. In response, the Claimants submitted a document entitled
+“Observations on the jurisdiction of the Centre” on 19 December 2008 (hereinafter
+referred to as “Observations on the jurisdiction of the Centre”).
+
+On 30 December 2008, the Secretariat received the information it had requested (see
+no. 21 above) and on 31 December 2008, it registered the Request for Arbitration.
+
+On 14 January 2009, the Claimants proposed a method for constituting the Arbitral
+Tribunal. Following an exchange of correspondence dated 19 February, 23 February,
+26 February and 2 March 2009, the Parties agreed to constitute a tribunal of three
+arbitrators, with each Party appointing an arbitrator and the two arbitrators thereby
+appointed nominating a President.
+
+On 1 April 2009, the Claimants appointed Professor Kaj Hobér as an arbitrator, who
+accepted this appointment.
+
+On 7 April 2009, the Respondent appointed Judge Ronny Abraham as an arbitrator,
+who accepted this appointment.
+
+On 5 June 2009, the two co-arbitrators appointed Professor Pierre Tercier as President
+of the Arbitral Tribunal, who accepted this appointment.
+
+On 12 June 2009, the Arbitral Tribunal was constituted.
+
+On 24 August 2009, the Claimants submitted a “Provisional Measures Application”
+(hereinafter referred to as the “Application”; see no. 36 below).
+
+On 27 August 2009, the Arbitral Tribunal held a telephone conference to discuss the
+Application submitted by the Claimants and the agenda for the first session of the
+Tribunal that it intended to hold.
+
+On 1 September 2009, the Respondent informed the Arbitral Tribunal by letter that the
+Application submitted by the Claimants was the Claimants’ latest tactic to gain time.
+However, the Respondent would not be opposed to postponing the hearing originally
+scheduled to be heard before the Dakar Regional Court on 23 September 2009 (see no.
+18 above).
+
+On 7 September 2009, the Arbitral Tribunal held its first session with the Parties, in
+Paris. With regard to the unresolved questions, it was agreed that the Arbitral Tribunal
+would take the necessary decisions in a procedural order (see Minutes of the session,
+p. 14).
+
+33.
+
+With respect to the provisional measures regarding the proceedings before the Dakar
+Regional Court, the Arbitral Tribunal acknowledged that the Respondent was not
+opposed to a joint letter being drafted with the Claimants in order to apply to have the
+hearing scheduled for 23 September 2009 to be postponed. The Parties furthermore
+agreed that whichever of them would subsequently win would not enforce any
+decision from the Dakar Regional Court (see Minutes of the first session, p. 15).
+
+That same day, the Respondent confirmed by letter the undertaking it had made during
+the first session.
+
+On 14 September 2009, the Arbitral Tribunal issued its Procedural Order No. 1, in
+which it ruled as follows:
+
+“
+I.
+
+In principle, hearings of the Tribunal will take place in Paris, unless the Parties
+
+agree on another venue and inform the Arbitral Tribunal in a timely fashion.
+
+2.
+The proceeding will be conducted simultaneously in French and in English. All
+documents from the Arbitral Tribunal or the Centre will be written in both languages
+and all hearings will be subject to simultaneous interpretation.
+Each Party is entitled to write its submissions (with annexes) and its correspondence
+in the language of its choice without having to provide a translation into the other
+language;
+The Arbitral Tribunal will decide at a later stage and in accordance with its
+assessment on the allocation of costs generated by this decision.
+
+3.
+The Parties are invited to file a first round of written submissions limited to
+objections to jurisdiction;
+The Respondent is invited to submit its memorial on jurisdiction by October 29,
+2009, at the latest;
+The Claimants are invited to file their counter-memorial within forty-five days upon
+receipt of the first submission, or by December 14, 2009, at the latest;
+Upon receipt of the counter-memorial, the Arbitral Tribunal will decide if it
+continues to address this issue as a preliminary matter or if it intends to address the
+case altogether;
+In either case, the Arbitral Tribunal will fix a timetable after consultation with the
+Parties.
+
+4.
+The Parties' undertakings with regard to the proceeding pending before the Court in
+Dakar are noted.
+
+The Respondent has until October 5, 2009, to respond to the request for provisional
+measures;
+
+If they so wish, the Claimants may file their comments on this response within ten
+days upon receipt of the response;
+
+34,
+
+35.
+
+36.
+
+If it so wishes, the Respondent may file its observations on these comments within ten
+days upon their receipt;
+
+A hearing will take place in Paris on November 9, 2009, to hear the Parties’ oral
+arguments on this issue.”
+
+On 5 October 2009, the Respondent submitted its “Mémoire en réponse 4 la
+demande de measures conservatoires” (hereinafter referred to as the “Reply”; see
+no. 37 below).
+
+On 9 November 2009, the Arbitral Tribunal held a hearing in Paris with the Parties
+(see Transcript of the hearing of 9 November 2009). The representatives of the Parties
+were given the opportunity to submit their arguments orally and to respond to
+questions from the Arbitral Tribunal. Following this hearing, the representatives of the
+two Parties stated that they did not wish to formulate any new applications with regard
+to this stage of the proceedings.
+
+During that same hearing, the Arbitral Tribunal discussed with the representatives of
+the Parties the potential timetables for the subsequent stages in the proceedings,
+depending on whether or not it decided to bifurcate the proceedings and address the
+jurisdictional objections and the questions on the merits in two successive phases; it
+should be recalled that this decision is to be taken in accordance with Procedural
+Order No. 1 (see no. 33 above) after having received a response from the Claimants
+regarding the jurisdictional objections that must be filed by 14 December 2009 at the
+latest. In that regard, it was agreed that if the Arbitral Tribunal were to order the
+“bifurcation” of the proceedings, the Respondent would submit its reply on the
+Tribunal’s jurisdiction by 15 January 2010; the Claimants would submit their rejoinder
+by 15 February 2010; and the hearing would take place in Paris on 31 March and/or 1
+April 2010 (see Transcript of the hearing of 9 November 2009 at the end).
+
+Il. Inlaw
+The Submissions of the Parties
+
+In their Application (no. 29 above), the Claimants made the following requests for
+relief:
+
+“(a) that the Respondent, the Republic of Senegal (Senegal), discontinues, or
+causes to be discontinued, the proceedings instituted by it in the Regional
+Court of Dakar, Senegal (the Regional Court) against Millicom International
+Cellular S.A. (MIC) (the ultimate parent of the Claimants) and Sentel, as
+described in section 2 below (the Regional Court Proceedings);
+
+(b) _ in the alternative, that Senegal agrees to stay such proceedings, or causes them
+to be stayed, for the duration that the present ICSID arbitration proceedings
+under reference number ICSID Case No. ARB/08/20 (the ICSID Arbitration
+Proceedings) are pending;
+
+(c) that Senegal does not seek to enforce, or cause to be enforced, any interim or
+final judgment of the Regional Court in relation to the Regional Court
+Proceedings while the ICSID Arbitration Proceedings are pending;
+
+37.
+
+38.
+
+(d) that the parties refrain from conduct that might aggravate or further extend the
+dispute submitted to this Tribunal; and
+
+(e) that the Tribunal recommends any further measures or relief that it deems
+appropriate in the circumstances to preserve the rights identified in section 3.4
+below, including the maintenance of the status quo.» (Application, n° 1).
+
+In its Reply, the Respondent requested the following:
+
+“On these grounds, the Republic of Senegal requests that it please the Arbitral
+Tribunal to reject in its entirety the application for provisional measures submitted by
+MIO and Sentel." (Reply, p. 37).
+
+The basis for the provisional measures
+
+The principle of provisional measures is set out in Article 47 of the Convention on the
+Settlement of Investment Disputes between States and Nationals of Other States
+(hereinafter referred to as the “ICSID Convention” or the “Washington Convention”),
+on the basis of which these proceedings were opened and which stipulates:
+
+“Except as the parties otherwise agree, the Tribunal may, if it considers that the
+circumstances so require, recommend any provisional measures which should be
+taken to preserve the respective rights of either party.”
+
+Article 47 of the ICSID Convention is referred to, extended and developed by Rule 39
+of the Arbitration Rules, which in its current version reads:
+
+“(1) At any time after the institution of the proceeding, a party may request that
+provisional measures for the preservation of its rights be recommended by the
+Tribunal. The request shall specify the rights to be preserved, the measures the
+recommendation of which is requested, and the circumstances that require such
+measures.
+
+(2) The Tribunal shall give priority to the consideration of a request made pursuant to
+paragraph (1).
+
+(3) The Tribunal may also recommend provisional measures on its own initiative or
+recommend measures other than those specified in a request. It may at any time
+modify or revoke its recommendations.
+
+(4) The Tribunal shall only recommend provisional measures, or modify or revoke its
+recommendations, after giving each party an opportunity of presenting its
+observations.”
+
+It should be added that provisional measures, which are temporary in nature and by
+definition, may be modified or cancelled at any time by the Arbitral Tribunal, do not
+have the same authority as an issue already judged (res judicata), are valid only for as
+long as the proceedings last and become automatically null and void if the Arbitral
+Tribunal rules that it does not have jurisdiction to hear the dispute.
+
+39.
+
+40.
+
+41.
+
+In accordance with Rule 39(4) of the Arbitration Rules, the Arbitral Tribunal gave
+“each party an opportunity of presenting its observations”, and the Parties have had
+ample opportunity to express themselves both orally and in writing.
+
+The Arbitral Tribunal is thus able to give an informed ruling on the Claimants’
+Application.
+
+Conditions
+Provisional measures may be granted only on the following four conditions:
+
+- The Arbitral Tribunal must be prima facie competent to hear the merits of the case
+(see ch. 1 below);
+
+- The measure requested must intend to preserve the rights the protection of which
+has been sought (see ch. 2 below);
+
+- The measure must be necessary (ch. 3 below); and
+
+- The measure must be urgent (ch. 4 below).
+
+The Arbitral Tribunal will examine each of these conditions below.
+The prima facie jurisdiction of the Arbitral Tribunal
+
+The Parties disagree as to the jurisdiction of the Arbitral Tribunal to rule on the
+Application for provisional measures.
+
+- In short, the Claimants deem that the prima facie jurisdiction of the Arbitral
+Tribunal is chiefly established by the registration of the Request for Arbitration in
+accordance with Article 36 of the ICSID Convention (Application, no. 35); that
+the Arbitral Tribunal has jurisdiction over Sentel in application of Article 11 of
+the Concession; and that the Arbitral Tribunal has jurisdiction over MIO and
+Sentel in application of Article 10 of the BIT between Senegal and the Republic
+of the Netherlands.
+
+-  Inshort, the Respondent deems that the mere fact that the Request for Arbitration
+was registered is not sufficient to establish a prima facie jurisdiction, that Article
+11 of the Concession does not contain an arbitration clause, and that Article 10 of
+the Treaty does not apply, since MIO is not an investor as defined by that
+provision and Sentel is not a national from another State.
+
+The core of the debate centers around two provisions, whose content it is worth
+restating:
+
+- Article 11 of the Concession states as follows:
+
+“Les Parties feront tout leur possible pour régler a l’amiable tout différend
+résultant de l’exécution de la Présente Convention. Elles devront, au préalable si
+les lois et réglements en vigueur le permettent, recourir a tout organisme de
+conciliation de réglementation et d’arbitrage compétent en matiére de
+télécommunications. Il en sera de méme en cas de conflits entre opérateurs
+
+notamment lors des accords d’interconnexion. Si le litige persiste, les parties
+pourront en définitive recourir @ V'arbitrage d’organismes internationaux tels que
+la cour d’arbitrage de l’OHADA, le Centre International de réglement des
+différends sur les investissements (CIRDI) ou la Chambre de Commerce
+Internationale de Paris (CCIP) etc...”
+
+- Article 10 of the Treaty between Senegal and the Netherlands states as follows:
+
+“La Partie Contractante sur le territoire de laquelle un ressortissant de |’autre
+Partie Contractante effectue ou envisage d’effectuer un investissement, devra
+consentir a@ toute demande de la part de ce ressortissant en vue de soumettre, pour
+arbitrage ou conciliation, tout différend pouvant surgir de cet investissement au
+Centre institué en vertu de la Convention de Washington du 18 mars 1965 pour le
+réglement des différends relatifs aux investissements entre Etats et ressortissants
+d@autres Etats.”
+
+42. It is accepted jurisprudence for the tribunals that have issued rulings based on the
+Washington Convention that the mere fact that a party contests the jurisdiction of an
+arbitral tribunal to which the case is referred is insufficient to deprive that tribunal of
+the jurisdiction to order provisional measures’. If the contrary were to be accepted, it
+would be easy for a party to raise any jurisdictional objection in order to deprive in
+practice a large part of the institution’s competence. It is also undisputed and
+indisputable that provisional measures form an essential part of the operation and the
+effectiveness of the ICSID arbitration system; while waiting for a decision to be given
+on the merits of a case and provided that the conditions have been met, the aim is to
+ensure as far as possible that no decisions can be taken that risk depriving that decision
+of its main effect in fact”.
+
+ 
+
+That said, on the other hand, it is not enough for one party to bring proceedings to
+establish the jurisdiction of the Arbitral Tribunal before which an application for
+provisional measures has been brought. The solution would be every bit as
+indefensible.
+
+In order to take account of these conflicting interests, it is accepted practice for the
+Arbitral Tribunal to find that it holds at least prima facie jurisdiction to rule on the
+merits. This implies that the Arbitral Tribunal cannot and must not examine in depth
+the claims and arguments submitted on the merits of the case; it must confine itself to
+an initial analysis, i.e. “at first sight”. For this, it is necessary and sufficient that the
+
+' See for example Victor Pey Casado and Fondation President Allende v. Republic of Chili, 1CSID Case no.
+ARB/98/2, Decision on provisional measures, 25 September 2001, para. 7: “Aussi la jurisprudence
+internationale est-elle claire a cet égard : l'instance dont la compétence est contestée n'est nullement privée du
+pouvoir de décider des mesures provisoires.” (hereinafter referred to as “Pey Casado”).
+
+* See for example, Tokios Tokeles v. Ukraine, (CSID Case No. ARB/02/18, Procedural Order No. 1, 1 July 2003,
+para. 2: “the parties to a dispute over which ICSID has jurisdiction must refrain from any measure capable of
+having a prejudicial effect on the rendering or implementation of an eventual ICSID award or decision, and in
+general refrain from any action of any kind which might aggravate or extend the dispute or render its resolution
+more difficult” (hereinafter referred to as “Tokios Tokeles”). See also Pey Casado, cited above., para 26: “les
+mesures conservatoires ont, notamment ou principalement, pour but de préserver ou protéger l'efficacité de la
+décision @ intervenir sur le fond, donc d’éviter de “porter préjudice & l’exécution de la sentence” et/ou
+d’empécher que, de facon unilatérale, une Partie par action ou omission porte atteinte aux droits éventuels de la
+Partie adverse.”
+
+43.
+
+facts alleged by the applicant establish this jurisdiction without it being necessary or
+possible at this stage to verify them and analyse them in depth.
+
+It is in light of these principles that the Arbitral Tribunal intends to examine whether it
+has prima facie jurisdiction to rule on the requests submitted to it:
+
+a) The Claimants base their argument on the fact that the ICSID Secretariat agreed to
+register the Request for Arbitration filed by the Claimants (see “In fact” above). It
+is correct that the Secretariat was entitled to refuse to register such a request, in
+application of Article 36(3) of the Washington Convention, which states as
+follows:
+
+“The Secretary-General shall register the request unless he finds, on the basis of
+the information contained in the request, that the dispute is manifestly outside the
+jurisdiction of the Centre. He shall forthwith notify the parties of registration or
+refusal to register.”
+
+For the Arbitral Tribunal, the mere fact that the Request for Arbitration has been
+registered might certainly constitute a sign of prima facie jurisdiction, but under no
+circumstances may it constitute a sufficient condition. The registration process is
+summary in nature and is intended solely to perform an initial check in order to
+dismiss immediately any requests manifestly outside the jurisdiction of the Centre.
+The decision is taken solely on the basis of the Request for Arbitration and the
+additional information provided by the requesting party, without waiting for or
+formally requesting any comments from the other party.
+
+Requirements are necessarily stricter at the provisional measures stage, since the
+Arbitral Tribunal will have had the opportunity to receive additional information
+(whether unprompted or at its own request), which therefore enables it — still on a
+provisional basis, of course — to give an initial ruling on its own jurisdiction.
+
+Registration as an argument is therefore insufficient in and of itself to establish the
+Arbitral Tribunal’s prima facie jurisdiction.
+
+b
+
+The Claimants then deem that the prima facie jurisdiction of the Arbitral Tribunal
+is established pursuant to Article 11 of the Concession, reproduced above. This
+jurisdiction may extend only to Sentel, which is a party to the Concession, but not
+to MIO, which is not.
+
+According to the Arbitral Tribunal, the clause under Article 11 of the Concession
+is not without ambiguities. It seems to imply that recourse to arbitration is one
+possibility open to the parties (“may”) rather than the only option; it leaves open
+the issue of which institution will govern the proceedings; the list of institutions
+set out (OHADA, ICSID and ICC) is itself not exhaustive (“efc.”). As asserted by
+the Respondent, it is not impossible that this provision is intended as an invitation
+for the parties to agree on an arbitration agreement in order to refer the dispute to
+one of the institutions listed.
+
+According to the Arbitral Tribunal, these arguments do not automatically exclude
+another interpretation. The provision does not actually make any reference to local
+
+44.
+
+courts, and there would be good reasons for making disputes relating to
+concessions of this nature subject to the jurisdiction of international arbitration,
+under the auspices of the institutions mentioned. What is more, the clause contains
+a clear reference to arbitration, and it is not automatically excluded that the option
+given to the party refers not to the choice of proceedings but to the choice of the
+institution, as the Claimants maintain.
+
+The fact is that the Claimants also contested the jurisdiction of the Dakar Regional
+Court, even going so far as to take the risk of renouncing to comment on the
+submissions made by the Republic of Senegal on the merits of the case before that
+Court.
+
+In these conditions, the Arbitral Tribunal considers that it does have prima facie
+jurisdiction to rule on the Request for Arbitration, to the extent that the latter is
+
+based on the Concession.
+
+c
+
+The Claimants finally maintain that the Arbitral Tribunal also has jurisdiction to
+rule on the issue by virtue of Article 10 of the Treaty, the text of which has been
+reproduced above. This jurisdiction would primarily extend to MIO, which
+maintains that it can avail itself of the Treaty, and only indirectly to Sentel, which
+is a Senegalese company.
+
+According to the Arbitral Tribunal, its jurisdiction is not given from this
+perspective either, since it is incumbent on Claimant 2 to prove that it can benefit
+from this protection despite the fact that the Treaty appears to confine this
+protection to individuals, and it must also be established that the Claimant actually
+made an investment in Senegal as defined by the Treaty.
+
+That said, the Arbitral Tribunal admits that there is room for doubt, since the
+phrasing of the Treaty is not without ambiguity, as it is possible that MIO made an
+investment in Senegal, via links that will be described below, in the form of its
+(direct or indirect) investment in Sentel’s share capital.
+
+What is more, it appears to the Arbitral Tribunal that, since it has acknowledged its
+prima facie jurisdiction over Sentel, it can acknowledge that same jurisdiction by
+analogy over MIO, especially as the provisional measures requested mainly relate
+to the continuation of the proceedings before the Dakar Regional Court, precisely
+because MIO is not a party to those proceedings.
+
+Preserving rights the protection of which has been sought
+
+The second condition required to grant provisional measures is that those measures
+must be necessary to preserve rights the protection of which is being sought in the
+proceedings brought on the merits.
+
+a) In the Claimants’ view, granting the measures is directly linked to the rights that
+they are requesting be protected: the right to bring the dispute exclusively before
+the jurisdiction of ICSID, in accordance with Article 26 of the ICSID Convention,
+to the exclusion of any remedy under national, international, judicial or
+administrative law; and the right to continue bringing their claims without the
+
+45.
+
+arbitration proceedings becoming meaningless owing to a judgement to the
+contrary passed by the Senegalese courts (Application, no. 42).
+
+b
+
+In the Respondent’s view, there is no link between the provisional measures
+requested and the dispute brought before the Arbitral Tribunal. In their
+Application, the Claimants request that the Arbitral Tribunal suspend the effective
+application of the decision in which the Republic of Senegal has decided to
+terminate the authorisation to operate enjoyed by Sentel. This is apparently a
+fundamental request, and examining it would require adopting a position on the
+merits of the case, and thus issuing a pre-judgement (Reply, no. 97). Furthermore,
+the Claimants apparently did not make a request for relief to the Arbitral Tribunal
+intended to annul the decision terminating their authorisation to operate (Reply,
+no. 99). With regard to the argument concerning Article 26 of the ICSID
+Convention, the Respondent alleges that the two disputes are not connected
+(Reply, no. 110). Allegedly, neither the parties nor the subject-matter of the
+proceedings is identical, since before the Dakar Regional Court the applications
+would be based exclusively on the behaviour of MIC and Sentel in the wake of the
+termination of the Concession (Reply, nos. 132 and 133). Finally, the causes of
+action in the two disputes are not identical (Reply, nos. 134 ef seg.) A judgement
+from the Regional Court upholding the submissions of Senegal in their entirety
+would not by any means harm the interests that the Claimants intend to assert as
+part of these arbitration proceedings (Reply, no. 141).
+
+According to the Arbitral Tribunal, the objections raised by the Respondent are not
+decisive:
+
+a
+
+Although it is true that the requests for relief made by the Claimants thus far
+before the Arbitral Tribunal appear to be intended merely to obtain damages,
+nothing prevents the Claimants from modifying their requests during the
+proceedings. Such a measure is not by any means prohibited, provided it respects
+the principle of the right to be heard and the scope of the Arbitral Tribunal’s
+jurisdiction. What is more, in spite of the phrasing of these requests for relief, as
+set out under paragraph 20 above, the argument developed refers to the possibility
+of claiming restitution (see no. 60 of the Request for Arbitration).
+
+b
+
+It cannot be disputed that both sets of proceedings concern the same set of facts,
+i.e. the development of the status of the parties bound by the Concession for
+mobile telephony. In spite of the provisional or temporary phrasing of the
+requested relief, it is based or can be based on the same issue, namely the existence
+and continuation of the Concession. The outcome of any pecuniary submissions
+made in either circumstance depends directly on this.
+
+c
+
+The Respondent states that the parties are different between the two proceedings,
+since MIC is a party to the State proceedings but not a party to these proceedings,
+whereas MIO is a party to these proceedings but is not a party to the Senegalese
+proceedings. This argument is not conclusive either, given that the status of the
+parties is not necessarily defined in the same way in both sets of proceedings. In
+particular, in so far as the other conditions have been met, Claimant 2 in these
+proceedings (MIO) has an obvious interest in the outcome of the Senegalese
+
+46.
+
+47.
+
+proceedings, if it can claim the benefit of a protected investment by virtue of its
+interest in Sentel’s capital.
+
+d) Itis worth noting that the Arbitral Tribunal will not rule on the question of whether
+it would have the power to order restitution and the power to order the Republic of
+Senegal to respect the Concession, if the latter were to be held valid. Regardless of
+the requests for relief submitted, the essence of both proceedings concerns whether
+or not the Concession is valid.
+
+e) Finally, it is admitted that protected rights can also include procedural rights such
+as the general right to status quo and the right to non-aggravation of the dispute* :
+
+Necessity
+
+In order for an arbitral tribunal to be able to recommend provisional measures, they
+must also be necessary:
+
+a) According to the Claimants, a judgement from the Dakar Regional Court would
+cause irreparable harm, if the Concession were to be held invalid (Application, no.
+59).
+
+b) According to the Respondent, the existence of irreparable harm has not been
+proven, due to the fact that if a judgement were passed that caused harm to the
+Claimants, the latter would be able to request the Arbitral Tribunal for equitable
+compensation measures in order to remedy the situation (Reply, no. 89).
+Furthermore, Millicom would not be affected by any judgement from the Dakar
+Regional Court, since it is not even party to the Senegalese proceedings.
+According to the Respondent, it would be unfair if the Arbitral Tribunal were to
+grant Millicom the right to cease all proceedings brought by Senegal against Sentel
+and MIC, on the sole ground that Millicom availed itself of the ICSID Convention
+and the Treaty between Senegal and the Netherlands despite the fact that Senegal
+had no means of bringing any claim whatsoever against that company (Reply, nos.
+116 and 128). With regard to the harm suffered, the Respondent alleges that if the
+Dakar Regional Court were to uphold Senegal’s requests in their entirety and
+sentence MIC and Sentel jointly and severally to pay all sums claimed by the
+State, MIC would be able to pay the sums required without placing its existence in
+jeopardy (Reply, no. 146).
+
+According to the Arbitral Tribunal, it is correct that, strictly speaking, there is nothing
+preventing both sets of proceedings from taking place more or less simultaneously, a
+situation that has already occurred in other cases submitted to ICSID. This situation is
+admittedly far from perfect and may cause a range of practical difficulties, depending
+
+3 See for example, Burlington Resources Inc. and others v. Republic of Ecuador and Empresa Estatal Petroleos
+del Ecuador, ICSID Case No. ARB/O8/5, Procedural Order No. 1, 29 June 2009, para. 60: “In the Tribunal's
+view, the rights to be preserved by provisional measures are not limited to those which form the subject-matter
+of the dispute or substantive rights as referred to by the Respondents, but may extend to procedural rights,
+including the general right to the status quo and to the non-aggravation of the dispute. These latter rights are
+thus self-standing rights”, relying on other decisions. In the same sense, Tokios Tokeles, cited above. Procedural
+Order No.. 3, 18 January 2005, para. 7: “Among the rights that may be protected by provisional measures is the
+right guaranteed by Article 26 to have the ICSID Arbitration be the exclusive remedy for the dispute to the
+
+exclusion of any other remedy |. . 1.
+
+on the speed adopted by the Court or the Tribunal. For this reason, two scenarios must
+be considered:
+
+a) Itis probable that, if no specific measures are taken, the Dakar Regional Court will
+
+b
+
+give its judgement before the arbitration proceedings have finished. It is
+admittedly possible that the party that would have lost, whether the Republic or
+Sentel, would file an appeal against that decision, or even an appeal to a higher
+authority after the decision of the Court of Appeal. According to the information
+given at the hearing of 9 November 2009, an appeal will suspend the enforcement
+of the judgement, unless the Dakar Regional Court orders provisional enforcement
+at the request of one of the parties, and such a request was made during the current
+proceedings.
+
+Leaving these aspects aside temporarily, it is conceivable that the judgement of the
+Dakar Regional Court might be rendered before the award of the Arbitral Tribunal.
+
+The Tribunal is certainly not bound by the decisions taken by national courts’, It is
+however true that the purpose of these arbitration proceedings is liable to change,
+since the Claimants might, depending on the circumstances, wish to incorporate
+the outcome of the Senegalese proceedings into their allegations, with regard to the
+Concession, or even to the Treaty.
+
+Pursuing both sets of proceedings in parallel would necessarily involve
+complications, misunderstandings or even serious resistance at the stage of
+enforcing the decision, if the Arbitral Tribunal were to find in favour of the
+Claimants.
+
+It is theoretically possible that the arbitration proceedings will end before all
+potential legal remedies in Senegal have been exhausted. The difficulty in this
+situation, if the decision is not equivalent to the rulings of the Senegalese courts,
+will be to have that decision accepted and followed, since it would then have
+priority over the aforementioned rulings.
+
+Either way, pursuing both sets of proceedings in parallel will generate difficulties,
+which would not necessarily be in the interests of either party, not to mention the
+misunderstandings or discontent that could occur as a result. The objective of the
+measure would thus be to guarantee the status quo.
+
+In concrete terms, the response is heavily dependent on the time factor, which is why
+it is important to move onto examining the issue of urgency.
+
+* De facto, “The right to seek access to international adjudication must be respected and cannot be constrained
+by an order of a national court. Nor can a State plead its internal law in defence of an act that is inconsistent
+with its international obligations. Otherwise, a Contracting State could impede access to ICSID arbitration by
+operation of its own law”, SGS Société Générale de Surveillance S.A.v. Islamic Republic of Pakistan, \CSID
+Case No. ARB/O1/13, Procedural Order No. 2, 16 October 2002, 18 ICSID Rev.-FIJL (2003), p. 300.
+
+18
+
+48.
+
+49.
+
+5 ee hs
+See in this sense, Pass
+
+The urgency of the decisions
+
+It is undisputed that, in order to be admitted, the provisional measures must also be
+urgent. It must be proven that if the measures are not ordered rapidly, there are serious
+risks that the rights of the applicants will be jeopardized®,
+
+In the case in question, it is likely that, subject to the reservations expressed above, the
+Dakar Regional Court will rule before the Arbitral Tribunal. If the difficulties that
+have just been set out are to be avoided, a measure must be taken to prevent the
+arbitration proceedings from losing the essential part of their scope in practice.
+
+Such a measure, which would be provisional in nature, must not be unduly extended,
+owing to the uncertainty it will create. For this reason, it must be of a limited duration
+only. This precaution is especially justified in the present case given that it seems that
+the Arbitral Tribunal could rule quickly on the central issue at this stage, namely the
+issue of its own jurisdiction. The fact that this decision implies suspending
+proceedings before the Dakar Regional Court should not seem unacceptable to the
+Respondent: according to the Respondent and if the Respondent is right, the illegal
+situation has been going on for several years now, and asking it to endure that
+situation for another couple of months is not going to cause it irreparable harm,
+especially since if it were to emerge that it was entirely within its rights, it would
+retain the right to seek additional pecuniary damages.
+
+Consequences
+
+Since the conditions have been met, the Arbitral Tribunal accepts on principle the
+Application for provisional measures. According to the text of Article 47 of the ICSID
+Convention, an arbitral tribunal is entitled to issue "recommendations". It has
+nevertheless been held in certain decisions issued by tribunals formed on the basis of
+that Convention that the phrasing used does not prevent an arbitral tribunal from
+ordering such measures®. According to the Arbitral Tribunal, the question may remain
+undecided, since the nature of the measure required in the present case is scarcely
+compatible with imposing an injunction on the Parties:
+
+a) Suspending the proceedings may not be done unilaterally by the Respondent, since
+this can be done only by the Dakar Regional Court, on which this Tribunal has no
+power to command. What is possible, on the other hand, is to recommend to the
+Respondent that it request the Dakar Regional Court in a joint letter with the other
+Party to agree to suspend proceedings, in the interests of both sets of proceedings.
+This is the approach that was taken when applying for the hearing of 23 September
+2009 to be postponed, and it was implemented perfectly.
+
+age through the Great Belt (Finland v. Denmark), Provisional measures, Order of 29 July
+
+ 
+
+1991, LC.J. Reports 1991, p. 12, para 23: “Whereas provisional measures under Article 41 of the Statute {model
+of Article 47 of the ICSID Convention] are indicated "pending the final decision" of the Court on the merits of
+
+the case, and are therefore only justified if there is urgen
+
+in the sense that action prejudicial to the rights of
+
+ 
+
+either party is likely to be taken before such final decision is given.”
+See Christoph H. Schreuer, The ICSID Convention: A Commentary (Cambridge 2009), Article 47, paras. 15-
+22 and Pey Casado, cited above, paras. 17-24.
+
+50.
+
+Sl.
+
+b) The Arbitral Tribunal is confident that the Respondent, which is aware of what is
+at stake, will agree to follow this new recommendation, and that it will not be
+necessary to order it to do so. The understanding displayed by the Republic of
+Senegal thus far foresees that it will react in the same way to this recommendation.
+
+Even if this were not the case, the Arbitral Tribunal is aware of the fact that, if the
+recommendation were not followed, any injunction it could issue — presuming that
+it had the power to do so — would not in any event be suitable for forced execution.
+
+c
+
+For these reasons, the Arbitral Tribunal will issue a recommendation.
+
+As has been said above, if the Application is to be partially granted, the Arbitral
+Tribunal feels that the effects of its recommendation should be of a limited duration.
+
+The crucial question in the case in question is the issue of whether the Tribunal itself
+has jurisdiction to rule on the requests for relief that have been submitted to it. If it
+were to decide that it had no jurisdiction, the measures would automatically lapse, and
+the Respondent could pursue the proceedings before the Senegalese judicial
+authorities. If, on the other hand, it were to decide that it did hold jurisdiction, it would
+be appropriate to re-examine the situation and decide, on request by one of the parties
+or on its own initiative, whether or not its recommendation should be extended or
+modified.
+
+For this reason, the duration of the provisional measures must be limited to the
+decision that this Arbitral Tribunal will take as to its own jurisdiction.
+
+In accordance with the decisions taken in the Order of 14 September 2009 (see ch. 3),
+the Arbitral Tribunal will have to decide, once it has received the reply from the
+Claimants, whether it intends to address all issues simultaneously or whether the issue
+of its jurisdiction should be resolved in the first place. In light of the developments
+connected with the provisional measures requested, however, the Arbitral Tribunal is
+of the view that it is justified in the present case in beginning by ruling on the
+objections raised to its own jurisdiction. It is important that the relationships that exist
+or that may exist between the pending proceedings be clarified as quickly as possible.
+The objections made by the Respondent require a decision to be taken quickly, even if
+they cannot be admitted in the absence of an in-depth examination.
+
+During the hearing of 9 November 2009, the Arbitral Tribunal considered, together
+with the Parties, what the potential timetable might be if it were to decide to rule first
+and foremost on the objections raised to its own jurisdiction; it seems that the pace
+contemplated is rapid, which should enable the Arbitral Tribunal to decide before the
+summer. In its opinion, this finding also has the potential to ensure that the
+recommendation it is issuing to both parties, although chiefly to the Respondent, is
+acceptable.
+
+As a result, and without waiting for the reply from the Claimants, the Arbitral Tribunal
+decides to bifurcate the proceedings, and that it will begin by ruling on the objections
+raised by the Respondent with regard to its own jurisdiction, in accordance with the
+timetable it had contemplated during the hearing of 9 November 2009 (Transcript of
+the hearing of 9 November 2009, English version, pp. 153-157). The details of this
+
+20
+
+52.
+
+Paris,
+
+timetable will be confirmed by a procedural order that will be sent to the Parties as
+soon as this decision has been notified.
+
+The other applications
+
+The Claimants have made other submissions in addition to those concerning the
+suspension of the proceedings before the Dakar Regional Court (see no. 36 above).
+The Arbitral Tribunal deems that it is not currently necessary to rule on the issue, in
+view of the scope of the recommendation issued to the Parties.
+
+On these grounds, the Tribunal recommends the following:
+
+The Respondent is invited to send jointly with Claimant 2, an application to the
+Dakar Regional Court to have the pending proceedings in Senegal suspended.
+
+This measure shall be valid until the decision of this Arbitral Tribunal is taken
+concerning its own jurisdiction.
+
+In modification to the Order it issued on 14 September 2009, the Arbitral
+Tribunal decides that it will rule in priority on the objections to jurisdiction
+raised by the Respondent; the timetable for this stage of the proceedings will be
+communicated to the Parties in an Order that will be sent to them once this
+decision has been notified, on the basis of the timetable envisaged during the
+hearing of 9 November 2009.
+
+The other applications will, if necessary, be examined later, upon the express
+request of the Claimants.
+
+The Tribunal reserves its ruling on the costs of the proceedings.
+
+Date: 9 December 2009
+
+[Signed]
+
+On behalf of the Arbitral Tribunal
+Pierre Tercier, President
+
+21
+

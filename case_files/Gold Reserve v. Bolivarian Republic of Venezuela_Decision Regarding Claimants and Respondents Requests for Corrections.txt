@@ -1,0 +1,978 @@
+INTERNATIONAL CENTRE FOR THE SETTLEMENT OF INVESTMENT DISPUTES
+
+ICSID Case No. ARB(AF)/09/1
+
+IN THE PROCEEDING BETWEEN:
+
+Gold Reserve Inc.
+Claimant
+
+- And -
+
+Bolivarian Republic of Venezuela
+Respondent
+
+DECISION
+REGARDING THE CLAIMANT’S AND THE RESPONDENT?’S REQUESTS
+FOR CORRECTIONS
+
+Issued by an Arbitral Tribunal composed of:
+Professor David Williams QC
+
+Professor Pierre-Marie Dupuy
+Professor Piero Bernardini, President
+
+Secretary of the Tribunal:
+
+Ann Catherine Kettlewell
+
+Date: December 15, 2014
+
+L
+
+Procedure
+
+. On 31 October 2014, the Respondent submitted a letter to the Secretary-General of ICSID
+
+requesting that, pursuant to Article 56 of the ICSID Arbitration (Additional Facility) Rules,
+she obtain from the Tribunal certain corrections to the Award issued on 22 September 2014
+(“The Respondent’s Request”). On 3 November 2014, the Claimant submitted a letter
+opposing The Respondent’s Request on the basis that it had not been correctly particularized.
+On the same date, the Secretary-General acknowledged receipt of The Respondent’s Request
+
+for corrections and the Claimant’s letter and transmitted both to the Tribunal.
+
+. On 4 November 2014, the Claimant submitted a “Request for Correction of Award, dated
+
+September 22, 2014” (“The Claimant’s Request’). This request for correction was made
+pursuant to Article 56 of the ICSID Arbitration (Additional Facility) Rules. On the same date,
+the Secretary-General acknowledged receipt of The Claimant’s Request and transmitted the
+
+Request to the Tribunal.
+
+. On 5 November 2014, the Tribunal invited (i) the Respondent to elaborate further on its
+
+request indicating the specific grounds and corrections and (ii) the Claimant to submit a reply
+to the Respondent’s elaborated request. In its communication, the Tribunal reserved the right
+
+to decide on the admissibility and/or merits of The Respondent’s Request.
+
+. On the same date, the Respondent submitted a supplement to its 31 October 2014 letter
+
+entitled “Request for Corrections by the Bolivarian Republic of Venezuela”(“The
+
+Respondent’s Supplemental Request”).
+
+5. On 6 November 2014, the Tribunal invited both Parties to submit replies to the other Party’s
+request for corrections by 13 November 2014. Again, the Tribunal reserved the right to
+
+decide on the admissibility and/or merits of the Parties’ requests.
+
+6. On 13 November 2014, both Parties filed a reply to the other Party’s request.
+
+I. The Respondent’s Request for Correction of the Award
+A. The Respondent’s Request
+
+7. The Respondent submitted that the Tribunal appeared to have made significant clerical,
+arithmetical and similar errors in its Award. The Respondent’s Request alleged that the
+Tribunal had made such errors in relation to: (i) the deduction for the value of silver; (ii) its
+use of the RBC Capital Markets Report as the source of a 4% country risk premium; (iii) its
+exclusion of the sovereign yield spread; (iv) its computation of the WACC; (v) failure to use
+
+the DCF model to calculate effects of new inputs; and (vi) other similar errors.!
+
+8. The Respondent requested that the Secretary-General obtain from the Tribunal the corrections
+to the Award by scheduling, or having the Tribunal schedule, in consultation with the Parties,
+dates for submissions by the Parties with respect to its requests. It also reserved its right to
+
+supplement The Respondent’s Request and to request a hearing in the subject.
+
+' The Respondent’s Request, p. 1.
+
+9. The Respondent further developed its arguments in the Respondent’s Supplemental Request.
+The only “other similar error” specified in the Supplemental Request was the adoption of a
+
+one year delay period for operations under a new mine plan.
+
+10. In relation to the silver value deduction, the Respondent noted that the Tribunal had used the
+Claimant’s DCF calculation as the starting point for the valuation. Based on that, it argues
+that the Tribunal made a clerical error in using the US$ 31 million figure from Dr. Burrows’
+table as a deduction for silver rather than US$ 58 million used in Mr. Kaczmarek’s table.
+Therefore, Venezuela requests that the amount of the Award in relation to silver should be
+
+adjusted by further US$27 million.”
+
+11. The Respondent also argues that the Tribunal made a clerical, arithmetical or similar error by
+using a 4% country risk premium based on the RBC Capital Markets Report. The
+aforementioned report, according to the Respondent, refers to a 5% country risk premium
+which results in a cost of equity of 12.92% and a WACC of 10.84%.> This would result in
+an adjustment of US$ 182 million and not of US$ 130 million as calculated by the Tribunal,
+
+subject to two further points developed below.
+
+12. According to the Respondent, in addition to the 5% country risk premium and its impact on
+the cost of equity and the WACC, the Tribunal erroneously assumed a straight-line or linear
+correlation. With the correct curvilinear relationship and correct 5% country risk premium,
+
+the amount to be deducted would be US$ 250 million and not US$ 130 million.
+
+? The Respondent’s Supplemental Request, paras. 9-13.
+3 Id., paras. 14-22.
+
+13. Regarding the sovereign yield, the Respondent states that the Tribunal’s finding that the
+sovereign yield spread (6.7%) suggested by Dr. Burrows as a possible country risk premium
+included “an element reflective of the State policy to nationalise investments” was a clerical
+or similar error. This is because, according to the Respondent, the sovereign yield spread
+reflects political risk, but not expropriation risk. The Respondent suggested that both experts
+agreed on this, as well as the figure of 6.7%. The Respondent requests that the Tribunal apply
+a sovereign yield spread as of March 2008 as the measure for country risk. This would then
+result ina WACC of 12.11 and a reduction in damages of US$ 346 million using the correct
+
+curvilinear computation instead of US$ 130 million.4
+
+14. The Respondent also argues that the Tribunal committed an arithmetic error by using rough
+approximations to estimate the effects on the value of the Brisas project of its adjustments to
+Mr. Kaczmarek’s DCF model, agreed to and used by the Parties and their experts, instead of
+either running the model itself or requesting the Parties to run the model. The Respondent
+submits that the difference between the rough approximation approach as implemented by
+the Tribunal and the precise results calculated using the DCF model are well over US$ 100
+
+million.°
+
+nw
+
+. Finally, the Respondent claims that the Tribunal made a clerical or similar error in deciding
+that a one year delay was reasonable since it overlooked that the Parties agreed that a two
+
+year delay in the no-layback scenario was appropriate. This would have had an impact in the
+
+“Id., paras. 30-38.
+5 Id., para. 40.
+
+ 
+
+DCF model resulting in (i) a $104.5 million error if taking a 4% country risk premium, or (ii)
+a US$ 178.4 million error if a 5% country risk premium; or (iii) a US$ 288.5 million error if
+
+taking a 6.7% country risk premium.°
+
+16. As a result, Venezuela requested a correction to the Award of damages by US$ 361.4 million
+to the amount of US$ 351.6 million or such amount as the Tribunal may determine based on
+the various correction of the clerical, arithmetical, and other similar errors indicated by
+
+Venezuela and using the computerized DCF model.
+
+B. The Claimant’s Reply
+
+17. On 13 November 2014, the Claimant filed its reply to the Respondent’s request for correction
+of the Award (“The Claimant’s Reply”). After addressing its arguments regarding the
+applicable standard for a correction of the Award under the ICSID Arbitration (Additional
+Facility) Rules, the Claimant continued to address each one of the corrections requested by
+
+the Respondent.’
+
+18. On the alleged error in the silver value deduction, the Claimant argued that there is no basis
+for Respondent to characterize the US$31 million deduction as an error. The Claimant also
+explains that as the experts indicated at the hearing, the magnitude of the deductions to be
+
+taken is impacted by the order in which other deductions are made and the Tribunal was
+
+6 Id., paras. 46-53.
+7 The Claimant’s Reply, paras. 3-12.
+
+ 
+
+ 
+
+eo
+
+mindful of that in the Award and proceeded to do an appropriate sequence and level for the
+
+silver deduction. The Claimant concludes that there is no error in the silver value deduction.®
+
+. In respect to the alleged error relating to the country risk premium, the Claimant points to the
+
+expert evidence in the record that analyzed the RBC Capital Markets report that the country
+risk premium was at most 4% (indeed the Respondent’s expert, Dr. Burrows, said it was
+3.2%). A review of the report as suggested by the Respondent would not constitute an error
+
+within the meaning of Article 56 of the ICSID Arbitration (Additional Facility) Rules.’
+
+20. The Claimant indicates that this request for correction must be rejected as the Tribunal did
+
+2
+
+not err in relying upon the expert evidence presented to it. In any event, Respondent’s
+argument that the RBC Capital Markets Report supports a country risk premium of 5% is
+wrong. The RBC Capital Markets Report assumes a long term debt for Gold Reserve of US$
+200 million, representing approximately 20% of Gold Reserve’s assumed value. To derive
+Venezuela’s country risk premium, the Claimant’s says, from the RBC Capital Markets report
+as a component of the 80% cost of equity in its determination of the discount rate for Gold
+Reserve requires dividing 3.2% by 80%, which yields 4%. Therefore, the Claimant indicates
+that there is no basis for the Respondent’s request that the Award be corrected to include a
+
+further deduction from the Claimant’ s DCF value to account for a 5% country risk premium.'?
+
+. Similarly, the Claimant states that there is no basis to conclude that the Tribunal made an
+
+error by failing to use the curvilinear computational analysis that the Respondent alleges
+
+18-22,
+
+0 Jd., paras. 23-25.
+
+could yield a reasonable adjustment factor. The Respondent in reality is requesting that the
+Tribunal consider a more appropriate estimate, which in reality is not an error within the scope
+
+of Article 56 of the ICSID Arbitration (Additional Facility) Rules.!!
+
+22. In response to the alleged error in excluding the sovereign yield spread, the Claimant says
+that the Respondent’s arguments are not a request to correct an error. Instead, the Respondent
+is requesting a reconsideration of the Tribunal’s ruling on this issue and the Tribunal should,
+therefore, reject the request for correction. The Claimant further argues that the Tribunal was
+
+not mistaken in its analysis of this issue in the Award.!?
+
+2.
+
+w
+
+. The Claimant also requested that the Tribunal reject the Respondent’s request for correction
+regarding the use of the Claimant’s DCF valuation model since the Tribunal expressly
+acknowledged during the hearings and in the Award that the process by which the deductions
+were estimated was appropriate. There is no error since the Tribunal made the deliberate
+decision to base its award of damages on what it considered to be a rough, but fair and
+reasonable, level of compensation. The Claimant further states that the Tribunal has no
+authority to accept further evidentiary submissions as to alternative measures of damage or
+otherwise, and that there are no grounds to reconsider the Award since it is final and binding
+
+on the Parties.'
+
+24. Regarding the alleged error in assuming one year delay, the Claimant also notes that this is
+
+not an error. The Tribunal’s decision that a one year delay was reasonable was based on its
+
+u wid. pars 26-29.
+
+  
+
+3 i paras, 39-45,
+
+2:
+
+Til.
+
+n
+
+as
+
+ 
+
+sment that the changes to the mine plan without layback, while important, were not so
+significant that they would have required extensive additional work to be approved.
+Moreover, the parties did not agree that a two year delay was reasonable as the Respondent
+suggests, based on a comment at the hearing by Mr. Kaczmarek. As to the Respondent’s
+allegations that the one year delay was not argued by either party, the Claimant replies that
+this is not a basis for a correction under Article 56(1) of the ICSID Arbitration (Additional
+Facility) Rules. In any case, Article XII(9) of the BIT gives a wide discretion to a Tribunal
+
+when ass
+
+ 
+
+ssing damages for a breach of FET. Therefore, the Tribunal was authorized to
+
+exercise its discretion to use a one year delay.'*
+
+. Finally, the Claimant requested that the Tribunal reject The Respondent’s Request for further
+
+submissions and a hearing.!°
+
+The Claimant’s Request for Correction of the Award
+
+A. The Claimant’s Request
+
+26. The Claimant requested a correction to the deduction in relation to the cost associated with
+
+stockpiles. In the Award, the Tribunal indicated that it was satisfied that no additional cost
+should be included for geomembrane liners, and therefore, rejected the Respondent’s
+
+calculation relating to the geomembrane liner of US$ 78.5 million. The Tribunal also rejected
+
+ 
+
+the US$ 10 million cost associated with providing an ARD plant, since there was no evidence
+
+that suggested that ARD or oxidation would be an issue.'®
+
+27. The Claimant argues that these costs rejected by the Tribunal were undiscounted cost amounts
+(i.e., before discounting and inflation adjustment). This calculation impacted the deduction
+
+in the total for the stockpile costs of US$ 154 million.!7
+
+28. According to the Claimant, the undiscounted maximum amount in stockpile costs was US$
+65.5 million which resulted from deducting US$ 88.5 (the rejected costs) from US$ 154
+million (the total stockpile costs). The Claimant argues that the discounted present value and
+inflation adjusted total should have been US$ 45.5 million and not US$ 80 million as deducted
+
+by the Tribunal.'*
+
+29. On the alternative, the Claimant argues that if the Tribunal intended that US$ 80 million was
+a mid-point calculation, such calculation inadvertently results in an over-deduction of US$
+53 million. The Claimant calculates that such mid-point would be US$ 27 million (i.e., US$
+
+80 million — US$ 53 million).!”
+
+30. The Claimant requests that the Tribunal correct an arithmetic error in the US$ 80 million
+deduction relating to stockpile costs which, depending on the reasoning of that the Tribunal
+
+intended, either should have been a deduction of US$ 27 million or, at the most, a deduction
+
+6 The Claimant’s Request, paras. 9-10.
+"Id. para. 13.
+
+'8d., para. 14.
+
+9 Id., paras 16-17.
+
+of US$ 45 million. Therefore, the Claimant requests that paragraphs 762, 848 and 863(ii) of
+
+the Award be corrected accordingly.
+
+B. The Respondent’s Reply
+
+31. On 13 November 2014, the Respondent filed a reply to The Claimant’s Request for Correction
+
+of the Award (“The Respondent’s Reply’’).
+
+32. The Respondent alleges that the Claimant’s calculation of the stockpiling costs excluding the
+geomembrane liner and ARD plant is based on erroneous data and a misunderstanding as to
+what the $154 million figure included (the Respondent says it did not include the liner or
+
+ARD plant costs and in any case related to small stockpile costs — not large stockpiles).”°
+
+33. The Respondent says that the Claimant has not substantiated the basis for its correction and
+further requests that the Tribunal provide it with an opportunity to comment on the Claimant’s
+
+Reply and to set a hearing date.”!
+
+IV. The Tribunal’s Analysis
+1. The Legal Framework
+34. Both The Respondent’s Request and The Claimant’s Request characterize these requests as a
+
+“Request for Correction” of the Award under Article 56(1) of ICSID Additional Facility
+
+2” The Respondent's Reply.
+2 Id., paras, 10-11.
+
+Rules.” It is convenient to examine the text of Article 56(1) in order to determine the precise
+
+scope of this provision. Article 56(1) provides:
+Within 45 days after the date of the award, either party, with notice to the other party,
+may request the Secretary-General to obtain from the Tribunal a correction in the
+award of any clerical, arithmetical or similar errors. The Tribunal may within the same
+period make such corrections on its own initiative.
+
+Article 56(2) is limited to mentioning that Articles 52 (dealing with “The Award”) and 53
+
+(dealing with “Authentication of the Award; Certified Copies; Date”) “shall apply to such
+
+corrections”.
+
+35. Article 56 is part of Chapter IX of the Additional Facility Rules entitled “The Award”. There
+are two other Articles in this Chapter providing for the Tribunal’s intervention following the
+rendering of the Award: Article 55, dealing with “Interpretation of the Award”, and Article
+57, dealing with “Supplementary Decisions”. The three provisions represent exceptions to the
+principle, recognized by most national legal systems, according to which the arbitral tribunal
+is “functus officio” once it has rendered the award, meaning that it has no further power to
+
+revisit the award.
+
+36. There are various policy reasons which underlie the functus officio principle, including the
+objective of achieving finality in the resolution of disputes” and the avoidance of continuous
+debate about the correctness, completeness and meaning of the award with resultant delay,
+uncertainty and cost. Specific exceptions to the principle are usually made in the governing
+
+22 The Respondent’s letter dated 31 October 2014, p. 1; Request for Corrections by the Bolivarian Republic of Venezuela
+dated 5 November 2014, para. 1; The Claimant’s Request for Correction of the Award dated September 22, 2014, dated
+November 4, 2014, paras. 1-2.
+
+?3 Under Article 52(4) of the Additional Facility Rules, “The award shall be final and binding on the parties”.
+11
+
+procedural law or in institutional arbitration rules which allow arbitrators to correct errors,
+clarify ambiguities or complete an award by deciding any questions that it has omitted to
+decide. This is the case of Articles 55, 56 and 57 of the ICSID Arbitration (Additional
+
+Facility) Rules.
+
+3
+
+_
+
+Article 56(1) prescribes narrow circumstances under which a correction may be made and
+the provision should be interpreted in the light of the finality principle described above. The
+provision allows either party, with notice to the other party, to request a correction in the
+award of “any clerical, arithmetical or similar errors”. This formulation is similar to
+provisions found in most arbitral rules” and national arbitration legislation. Article 56(1)
+addresses the situation where the arbitral tribunal has failed to write what was intended. As
+the rule is commonly interpreted, corrections cannot be used to revise a substantive decision,
+
+to enable the arbitrators to review the award on its merits, to decide whether their stated
+
+48uch as ICC Arbitration and ADR Rules (2012), Article 35(1)(2):
+
+(1) On its own initiative, the arbitral tribunal may correct a clerical, computational or typographical error, or any errors
+of similar nature contained in an award, provided such correction is submitted for approval to the Court within 30.
+days of the date of such award.
+
+(2) Any application of a party for the correction of an error of the kind referred to in Article 35(1), or for the interpretation
+of an award, must be made to the Secretariat within 30 days of the receipt of the award by such party, in a number
+of copies ted in Article 3(1). After transmittal of the application to the arbitral tribunal, the latter shall grant the
+other party a short time limit, normally not exceeding 30 days, from the receipt of the application by that party, to
+submit any comments thereon. The arbitral tribunal shall submit its decision on the application in draft form to the
+Court not later than 30 days following the expiration of the time limit for the receipt of any comments from the other
+party or within such other period as the Court may decide.
+
+?5 Such as Article 1485 of the French Code of Civil Procedure (“CPC”), which provides:
+La sentence dessaisit le tribunal arbitral de la contestation qu’ elle tranche. Toutefois, 4 la demande d’une partie, le tribunal
+arbitral peut interpréter la sentence, réparer les erreurs et omissions matérielles qui l’affectent ou la compléter lorsqu’il a omis
+de statuer sur un chef de demande. II statue aprés avoir entendu les parties ou celles-ci appelées. Si le tribunal arbitral ne peut
+tre 4 nouveau réuni et si les parties ne peuvent s’accorder pour le reconstituer, ce pouvoir appartient a la juridiction qui eft
+été compétente a défaut d’ arbitrage.
+
+English translation (from ICCA Intl. Handbook on Comm. Arb. Suppl. 64- May 2011): Once an award is made, the arbitral
+tribunal shall no longer be vested with the power to rule on the claims adjudicated in that award. However, on application of
+a party, the arbitral tribunal may interpret the award, rectify clerical errors and omissions, or make an additional award where
+it failed to rule on a claim. The arbitral tribunal shall rule after having heard the parties or having given them the opportunity
+to be heard. If the arbitral tribunal cannot be reconvened and if the parties cannot agree on the constitution of a new tribunal,
+this power shall vest in the court which would have had jurisdiction had there been no arbitration.
+
+12
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+reasons were correct, or to review the evidence. Essentially, the rule cannot be used by the
+arbitral tribunal to reconsider its award, as confirmed by the official commentary of its rules
+
+by one arbitral institution’® and an expert of French arbitration.””
+
+3
+
+oo
+
+. The purpose of the correction exception to the functus officio principle is to correct obvious
+omissions or mistakes and avoid a consequence where a party finds itself bound by an award
+that orders relief the tribunal did not intend to grant. The purpose is therefore to ensure that
+the true intentions of the tribunal are given effect in the award, but not to alter those intentions,
+amend the legal analysis, modify reasoning or alter findings.” An authoritative commentary
+confirms that the correction facility found in most arbitral rules is to be used to correct
+miscalculation or unintended errors of expression and that “that remedy cannot be used to
+alter the meaning of the decision.””? Any purported correction that goes beyond the scope of
+
+the Tribunal’s limited mandate in this regard is likely to be subject to challenge.
+
+ 
+
+© The Secretariat’s Guide to ICC Arbitration (2012) states: “Purpose. Article 35(1) allows an arbitral tribunal to correct an
+award that has already been approved, signed and notified to the parties. The provision should be used only for mistakes that
+could alter the meaning of the award. It is rarely used in practice because most such mistakes by the arbitral tribunal can and
+should be identified during the Court’s scrutiny process (Article 33) and any remaining error is more likely to be spotted by
+a party when reviewing an award after receiving it and in this case will lead to an application under Article 35(2). The time
+limit of thirty days removes the risk of any persisting uncertainty over the finality of the award’s content” (p. 347).
+
+27 Jarrosson, Juris-Classeur Commercial, Fasc. 197, n. 117
+
+« Réparation des erreurs et omissions matérielles. — I] est toujours possible qu’une sentence contienne quelque erreur de
+calcul, coquille typographique, ou que la dactylographie ait eu pour effet d’omettre une ligne, etc. Toujours dans le souci
+d’une bonne administration de la justice, il est préférable que ce soit I’ arbitre lui-méme qui effectue la réparation de l’erreur
+ou de l’omission matérielle. Son intervention doit se limiter strictement a la réparation visée. Il ne peut en profiter pour
+modifier le sens de la sentence précédemment rendue (v. Cass. civ. 1°, 16 juin 1976, 2 arréts : Rev. arb., 1977.269, note E.
+Mezger ; D. 1978.310, note Jean Robert ; adde, Cass. civ. 1", 8 juillet 2009 ; Rev. arb. 2011.119, note L.-M Pillebout).
+L’intervention de l’arbitre prend la forme d’une sentence rectificative, car elle constitue une décision. L’arbitre intervient soit
+de lui-méme, soit 4 la demande d’ une partie, mais doit dans les deux cas respecter le principe de la contradiction (v. Paris, 1
+Ch. C, 18 octobre 2001, D., 2001, IR 3327) et ne doit pas modifier le sens de la sentence (v. Cass. civ. 2°, 16 juin 1976, Rev.
+arb., 1977, p. 268, 2° esp., note E. Mezger) ».
+
+°8Born, International Commercial Arbitration (2™ ed., 2014), pp. 3125, 3138-3139.
+
+2°Fouchard Gaillard Goldman on International Commercial Arbitration (1999), p. 778.
+
+13
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+    
+
+39. The limited nature of the corrections available under Article 56(1) is confirmed by the
+language of this provision when compared to the language of the other Articles of Section IX
+of the ICSID Arbitration (Additional Facility) Rules providing for the Tribunal’s powers after
+the award is rendered. The three Articles in question provide for three distinct powers: the
+power to interpret (Article 55),*° the power to correct (Article 56)*! and the power to
+supplement (Article 57).*? Although the language of the three articles is the same regarding
+time limit to file the relevant notice, the Secretary-General’s intervention to obtain the
+requested decision from the Tribunal*® and the application in all cases of Articles 52 and 53*4,
+there is an important difference. Contrary to the other articles, Article 56(1) omits to provide
+that “[t]he Tribunal shall determine the procedure to be followed”. The omission is
+significant. The purpose of Article 56(1) being limited to correct “clerical, arithmetical or
+similar errors”, no need was perceived to have a “procedure” in place in order to reach what
+
+is considered to be an automatic result once the “error” is detected and made known to the
+
+*° Article 55 (Interpretation of the Award):
+(1) Within 45 days after the date of the award either party, with notice to the other party, may request that the Secretary
+General obtain from the Tribunal an interpretation of the award.
+(2) The Tribunal shall determine the procedure to be followed
+(3) The interpretation shall form part of the award, and the provisions of Article 52 and 53 of these Rules shall apply.
+3! The text of Article 56(1) (Correction of the Award) is reproduced supra, para. 34.
+> Article 57 (Supplementary Decisions):
+(1) Within 45 days after the date of the award either party, with notice to the other party, may request the Tribunal,
+through the Secretary-General, to decide any question which it had omitted to decide in the award.
+(2) The Tribunal shall determine the procedure to be followed.
+(3) The decision of the Tribunal shall become part of the award and the provisions of Article 52 and 53 of these Rules
+shall apply thereto.
+% The Tribunal being “functus officio”, the party’s request may not be addressed directly to the Tribunal
+* However, both Article 55(3) and Article 57(3) provide that the decision shall “form” or, respectively, “become” part of the
+award, these words being omitted by Article 56(2).
+14
+
+arbitral tribunal. It would have been beyond the limited scope of Article 56(1) to provide for
+
+further submissions by the Parties or even for a hearing.*°
+
+40. Despite the absence in Article 56(1) of the need “to determine the procedure to be followed”,
+
+41.
+
+the Tribunal has requested each Party to comment on the other Party’s request for correction
+in order to be better acquainted of the true scope of the respective requests. This was done
+also in view of the provision of Article 1485 of the French Code of Civil Procedure, according
+
+to which the arbitral tribunal “statue aprés avoir entendu les parties ou celles-ci appelées”.*®
+
+The Tribunal’s understanding of Article 56(1) is confirmed by reference to similar provisions
+in other institutional rules. For example, an analogy may be drawn with the UNCITRAL
+Arbitration Rules which similarly do not provide for any procedure under the Article 38
+corrections regime. The leading commentary on the UNCITRAL Rules by David Caron and
+Lee Caplan notes that “...the party that requests correction must do so within 30 days of
+receiving the award and must notify all other disputing parties of the request. Implied in this
+requirement is the right of the non-requesting party to comment on or contest his opponent’s
+request.”°7 Thereafter, if justified, the Tribunal may make the correction. The same procedure
+is expressly provided for under Article 35(2) of the ICC Rules.** Therefore, as under the
+ICSID Arbitration (Additional Facility) Rules, there is no provision under the UNCITRAL
+
+or the ICC Rules — or indeed under any other rules the Tribunal is aware of — for a protracted
+
+55 Further submissions and a hearing have been requested by the Respondent (letters of 31 October and 18 November 2014)
+and opposed by the Claimant (Reply, para. 51; letter of 18 November 2014).
+
+%© Article 1485 CCP is reproduced supra, footnote 25. The Tribunal notes that, as provided by the Minutes of the First Session
+dated April 23, 2010, Paris was confirmed to be the place of arbitration (point 7).
+
+37 Caron and Caplan, The UNCITRAL Arbitration Rules: A Commentary (2 ed, 2013),p. 813.
+
+38 Supra, footnote 24.
+
+15
+
+submissions procedure or an oral hearing. Consequently, having provided both parties with
+an opportunity to comment on the respective Requests, by letter of 17 November 2014, the
+
+Tribunal informed the parties that it did not foresee any further steps in the procedure.
+
+42. The limited scope of application of Article 56(1) is also confirmed by all publicly available
+decisions rendered under Article 56(1) and the corresponding provision in Article 49(2) of
+the ICSID Convention. Many of such decisions have been referred to by the Claimant,” all
+others are referred to hereafter by the Tribunal. In one case the Tribunal corrected a wrong
+identification of the payee in the award dispositif,“° in another the word “employee” was
+substituted for the word “official’”,*! in two others the name of a counsel for the State that had
+been omitted was added.*? In the other cases, the Tribunal has rejected requests for
+
+rectification since it was found that in reality they addressed substantive findings.”
+
+4
+
+»
+
+The foregoing analysis permits the Tribunal to conclude for the limited scope of Article 56(1)
+as indicated above. It is on this basis that the Tribunal shall now address the Parties’ requests
+for correction of the Award. It will consider first The Respondent’s Request, since it was filed
+
+prior to The Claimant’s Request.
+
+2° The Claimant's Reply, paras. 6-10.
+
+40 Archer Daniels Midland Company and Tate & Lile Ingredients Americas Inc. vy. United Mexican States, cited to by
+Claimant’s Reply, para. 6. The Claimant has made reference also to another similar decision in the case Feldman v. Mexico
+(ibid.).
+
+“| Emilio Augustin Maffezini v. The Kingdom of Spain, Rectification of the Award dated January 31, 2001, para. 21(1).
+
+2 Noble Ventures Inc. v. Romania, Rectification of Award dated May 19, 2006, paras. 2,7; Hussein Nuaman Soufraki v. The
+United Arab Emirates, Rectification of the Decision of the Ad Hoc Committee on the Application for Annulment of Mr.
+Soufraki dated 13 August 2007, paras. 3,8.
+
+# Enron v. Argentina, Vivendi v. Argentina, RDC v. Guatemala, cited to by the Claimant’s Reply, paras. 7-10. While all
+previous cases are under Article 56(1) of the Additional Facility Rules, these three cases are under Article 49(2) of the ICSID
+Convention.
+4 Supra, paras. 37-38.
+
+ 
+
+2. The Respondent’s Request for Correction of the Award
+
+44. The Respondent’s Request has regard to a certain number of alleged errors in the Award.
+
+They shall be considered in turn hereafter.
+(i) The Alleged Error in Silver Value Deduction
+
+45. The Tribunal has deducted for silver the amount of US $ 31 million, as indicated by the
+Respondent’s expert, Dr. Burrows, from the Claimant’s DCF valuation because that silver
+
+was not covered by the Claimant’s mining title.*°
+
+The decision to adopt Dr. Burrows’
+proposed silver deduction, rather than Mr. Kaczmarek’s proposed silver deduction (US$58
+million) was a deliberate and considered decision by the Tribunal, not an inadvertent error.
+As indicated at paragraph 849 of the Award, the experts had explained to the Tribunal that
+the sequence or order of deductions would affect the amount to be deducted. The Tribunal
+was conscious to keep the order as close as possible to that used by said experts to miniminize
+any impact in making adjustments.*°
+
+46. As such, a deduction of $58 million (the Claimant’s figure) would have been appropriate if
+no other deductions from the Claimant’s DCF figure were being made — or if silver was the
+first deduction in the list. However, as the Tribunal had made a number of other deductions
+suggested by Dr. Burrows and the Respondent’s other experts and had deliberately followed
+the Respondent’s order when making these deductions, using the Respondent’s figure being
+
+more appropriate.
+
+“5 Award, 781 and 782 (citing Burrows II in footnote 628).
+“© Award, para. 849.
+
+ 
+
+17
+
+No clerical, arithmetical or similar errors having been made, the request for correction is
+
+denied.
+
+(ii) | The Alleged RBC Country Risk Premium
+
+4
+
+Poa
+
+As stated at paragraph 842 of the Award, the Tribunal decided that it was appropriate to base
+
+the “country risk premium” component of the cost of equity calculation on the RBC Capital
+Markets Report, which was referred to and replied upon by both experts. As referenced in
+the Award, the Tribunal took the 4% figure from the Claimant’s expert, Mr. Kaczmarek, who
+opined that “given the political environment in Venezuela, which was hostile to foreign
+investment, however, RBC Capital Markets increases the country risk premium to 4%” 47
+
+4
+
+oo
+
+. Given the Tribunal’s reliance on Mr. Kaczmarek’s analysis, the Tribunal has examined the
+relevant evidence in detail to determine whether Mr. Kaczmarek had indeed made a simple
+transcription error in referring to a 4% premium rather than a 5% premium that according to
+the Respondent was assumed by RBC Capital Markets report, or whether in fact Mr.
+Kaczmarek had deliberately analysed the figures and concluded that the appropriate country
+risk premium for insertion into the cost of equity calculation would be 4% under the RBC
+analysis.
+
+49. After careful analysis, the Tribunal concluded that the use of the 4% country risk premium
+
+was indeed correct for the following reasons:
+
+i) The first component of the cost of equity calculation, as agreed by both experts, is the
+
+risk-free rate of return or US treasury yield (which is then adjusted to reflect risks
+
+“7 Award, para. 842, footnote 652 (citing Kaczmarek Il).
+18
+
+associated with equity securities and the consequent premium required to compensate for
+this risk in the US). In the RBC Report, this equates to the general worldwide base rate
+of 5% plus a 1.8% risk premium for the US, i.e., 6.8%.
+
+ii
+
+2
+
+The issue therefore is what the correct additional country risk premium should be to
+account for the fact that the investment is in Venezuela and not in the US. Mr Kaczmarek
+explained this in his First Expert Report as follows:**
+
+“The fourth component of the CAPM formula is the country risk premium.
+
+As our three previous components of the CAPM have been developed
+
+using data from the US market, an additional risk premium must be
+
+considered to account for the incremental risks to be borne by operating
+
+the Brisas Project in Venezuela vis-a-vis the United States.”
+
+iii) As the Respondent and its expert, Dr. Burrows, correctly surmised in the case of the RBC
+Capital Markets Report, the overall discount rate for Brisas was increased to 10% (i.e., by
+an additional 3.2%) on account of the fact that the investment was in Venezuela, not the
+US.
+
+iv) It was the Tribunal’s understanding that it would have therefore been incorrect to add
+
+3.2% to the 1.8% US country premium to give a total figure of 5% for the Venezuelan
+
+country risk premium, because in Mr. Kaczmarek’s and Dr. Burrows’ agreed
+
+methodology for calculating cost of equity, the 1.8% had already been taken into account
+
+in the first components of the calculation. To do so again would be double counting.
+
+“8 Kaczmarek I, para. 110.
+
+v) The issue is therefore whether the correct country risk premium to be added for Venezuela
+is 3.2% or 4%.
+
+vi) The Claimant has described clearly in its Reply to the Respondent’s Supplemental
+Request why Mr. Kaczmarek referred to a 4% premium, rather than the lower 3.2%
+premium referenced by Dr. Burrows. The Tribunal is satisfied with this explanation which
+demonstrates that Mr. Kaczmarek had not made an arithmetical error in his expert report
+on which the Tribunal relied when calculating the amended risk premium.
+
+50. Consequently, no clerical, arithmetical or similar errors have been made and the request for
+
+correction is denied.
+
+(iii) |The Alleged Error in Performing Linear Computation
+
+51.
+
+Having adopted a country risk premium of 4%, a new discount rate had to be calculated,
+resulting in a rate 1.87% higher than the one used by the Claimant in its DCF valuation, i.e.
+a discount rate of 10.09%. The Tribunal estimated that a deduction of US$130 million from
+the Claimant’s DCF valuation would be appropriate to reflect this new discount rate. The
+Tribunal explained that this figure was derived from “Dr Burrows’ use of a 16.5% discount
+
+rate [which] resulted in a $575 million difference”.
+
+52. There is no suggestion from either party that the Tribunal’s linear computation as explained
+in its Award contained an arithmetical error. The allegation is rather that the Tribunal should
+
+not have used a linear calculation in the first place. It is clear from the Award, that the
+
+* Award, 0.656 (p.218)
+20
+
+Tribunal understood that a linear computation would not yield a precise figure (which could
+only have been calculated by experts). Instead, the Tribunal derived its deduction figure using
+the information that was available to it. The Tribunal specifically stated that the calculation
+was based on a “rough” estimate giving an “approximate adjustment”. Using estimates and
+approximations for calculating the adjustment figures had been discussed at the hearing with
+the Respondent’s experts who agreed that the Tribunal could do a “back-of-the-envelope
+calculation and probably come up with a reasonable adjustment factor without having to
+actually rewind the model”.*°
+
+53.
+
+w
+
+Consequently, the use of a linear computation to estimate an appropriate adjustment to reflect
+that amended discount was not an error by the Tribunal, but a deliberate and considered
+decision based on the expert evidence before it and its own independent judgment.
+
+Consequently, there being no clerical, arithmetical or similar errors, the requested correction
+
+is denied.
+
+(iv) The Alleged Error in Excluding Sovereign Yield Spread
+
+54. The Respondent’s Request that the Tribunal adopt Dr. Burrow’s suggestion of using the
+sovereign yield spread (6.7%) as the country risk premium, rather than the 4% premium
+adopted by the Tribunal in the Award is clearly a request that the Tribunal revise its decision
+
+on this matter. It is not clerical error as suggested by the Respondent and is not within the
+
+50 Award, para. 842.
+21
+
+scope of the Article 56(1) correction as explained above. For this reason alone, the
+
+Respondent’s request must be rejected.
+
+55. The Tribunal notes in any case that paragraphs 840 and 841 of the Award make it clear that
+the Tribunal had not misinterpreted the evidence, as suggested in The Respondent’s
+Supplemental Request. The Tribunal rather, having weighed and balanced the arguments
+before it, decided to accept the evidence of the Claimant and its experts on this matter and
+agreed that that the sovereign yield spread of 6.7% was too high as it reflected “the market’s
+perception that a State might have a propensity to expropriate investments in breach of BIT
+obligations”.*! At the same time, it considered that the country risk premium adopted by Mr.
+Kaczmarek was too low since it took into account “only labour risks and not other genuine
+risks”.>? The Tribunal adopted therefore a country risk premium according to its best
+
+judgment. Consequently, even if the request were within the scope of Article 56, there is no
+
+error to correct.
+
+The request for correction is accordingly denied.
+
+(v) The Alleged Error in not Using the Claimant’s DCF Valuation Model
+
+56. According to the Respondent, the Tribunal should have run the model itself or should have
+requested the parties to run the model rather than making “rough adjustments” to the
+Claimant’s DCF model. As noted above, the decision to use “rough approximations” to make
+
+adjustments to the Claimant’s DCF model was taken by the Tribunal after discussing at the
+
+°! Award, para. 841.
+2 Ibid.
+22
+
+hearing with the parties and their experts how best to make such adjustments.** There is no
+“error” to be corrected since the decision was deliberate, with reasons being given for such
+decision.
+
+The request for correction is accordingly denied.
+(vi) The Alleged Error in Assuming One-Year Delay
+
+57. The decision to assume a one year delay in calculating the time needed for changes to the
+mine plan with no layback was taken by the Tribunal in the exercise of its best judgment
+regarding assessment of damages for breach of the BIT. Even if the experts of both Parties
+had agreed that a two year delay would be appropriate, as contended by the Respondent,™ the
+Tribunal still retained freedom of judgment. Reasons were given for the Tribunal’s decision.
+Once again, the Tribunal notes that there has been no error of a clerical nature or otherwise.
+This was a deliberate and considered decision and does not fall within the scope of an Article
+56(1) correction.
+
+There being no error to be corrected, the request is denied.
+
+58. In conclusion, none of the Respondent’s requests for correction of individual alleged errors
+
+in the Award having been accepted, The Respondent’s Request is dismissed in its entirety.
+
+3. The Claimant’s Request for Correction of the Award
+
+59. The Claimant’s Request concerns the Tribunal’s decision regarding the additional capital
+
+expenditures needed to manage stockpiles in the no layback scenario. The Claimant requests
+
+53 Award, para. 842 (citing rranscript hearing October 2013, Day 2, 227: 1-3).
+“The Respondent’s Request, paras. 51-52.
+
+ 
+
+23
+
+the correction of the amount calculated to be deducted from the DCF calculation to reflect
+costs associated with stockpiles. The Claimant assumes that the amount deducted contains an
+arithmetical error, as described below.
+
+60. The Claimant’s Request sums up items of cost that the Tribunal has accepted and deducts
+those that the Tribunal rejected (such as the cost of a geomembrane liner and an ADR plant).
+However, in arriving at its overall deduction, the Tribunal has taken into account other items
+of cost that have a bearing in assessing the required additional capital expenditures, as shown
+by the following provisions of the Award.
+
+61.
+
+After noting that the Claimant’s experts’ analysis of additional costs was limited, the
+Tribunal states that it “considers that the costs of operating such stockpiles could indeed be
+higher than the Claimant suggests”.*° It then states that the deduction of US $ 80 million from
+the Claimant’s DCF calculation “is fair and reasonable, taking into account any need to store
+higher grade ore in three of four different areas and general costs that will likely arise in
+establishing and managing such stockpiles”.*° According to the Tribunal, “[t]his deduction
+[i-e. the 80 million USD] would also take account of any increase in haulage time required if
+Claimant ’s preferred stockpile location is not possible”.°”
+
+62. The additional items of cost considered by the Tribunal, as mentioned above, and the
+reference to the amount of US$ 80 million as being “fair and reasonable” and as fixed “[o]n
+
+balance, looking at the issue overall”** evidence the fact that this amount is not the result of
+
+5° Award, para. 761 (at the end).
+56 Award, para. 762 (at the end)
+57 Award, par
+58 Award, para. 762.
+
+ 
+
+24
+
+63.
+
+64.
+
+a purely “arithmetical” addition or deduction of quantified items of cost, a calculation that
+might have incurred in mistakes to be corrected under Article 56(1). The amount of the
+deduction is an “overall” estimate that has been adjusted to encompass other (unquantified)
+items of cost that may have a bearing in assessing the amount of required capital expenditures.
+In conclusion, there are no arithmetical, computational or similar errors in the Tribunal’s
+
+ass
+
+ 
+
+ssment of additional capital expenditures required to managing stockpiles in the no-
+layback scenario. Such assessment was based on the Tribunal’s overall consideration of the
+various items of cost involved and was made according to its best judgment.
+
+Accordingly, The Claimant’s Request is dismissed.
+
+DECISION
+
+Tn view of the above considerations, the Tribunal decides to:
+
+(1) Reject The Respondent’s Request dated 31 October 2014 and 5 November 2014 for
+Correction of the Award dated 22 September 2014;
+
+(2) Reject The Claimant’s Request dated 4 November 2014 for Correction of the Award
+dated 22 September 2014;
+
+(3) Determine that each Party shall bear its own legal costs and pay one-half of the fees and
+expenses of the Centre and the Members of the Tribunal with the amount of such fees and
+
+expenses to be as determined by the Centre and notified to the Parties.
+
+25
+
+_
+
+Professor Pierre-Marie Dupuy Professor David A.R. Williams, Q.C.
+Arbitrator Arbitrator
+Date: 11 December 2014 Date: 5 December 2014
+
+ 
+
+Professor Piero Bernardini
+
+President
+
+Date: 11 December 2014
+
+26
+

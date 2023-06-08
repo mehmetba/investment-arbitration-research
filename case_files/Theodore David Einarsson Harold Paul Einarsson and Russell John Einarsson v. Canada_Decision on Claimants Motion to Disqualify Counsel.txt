@@ -1,0 +1,2419 @@
+IN THE MATTER OF AN ARBITRATION UNDER CHAPTER ELEVEN OF THE
+NORTH AMERICAN FREE TRADE AGREEMENT AND THE
+UNCITRAL ARBITRATION RULES (1976)
+
+-between-
+
+THEODORE DAVID EINARSSON, HAROLD PAUL EINARSSON,
+
+RUSSELL JOHN EINARSSON, AND GEOPHYSICAL SERVICE INCORPORATED
+
+(“Claimants”)
+
+-and-
+
+GOVERNMENT OF CANADA
+(“Respondent”)
+
+ICSID CASE NO. UNCT/20/6
+
+ 
+
+DECISION ON CLAIMANTS’ MOTION TO DISQUALIFY COUNSEL
+
+ 
+
+Members of the Tribunal
+
+Ms. Carita Wallgren-Lindholm (Presiding Arbitrator)
+Mr. Trey Gowdy
+Mr. Toby Landau, QC
+
+Secretary of the Tribunal
+Ms. Geraldine R. Fischer
+
+Date of dispatch to the Parties: 24 February 2022
+
+Il.
+
+VI.
+
+VIL
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INTRODUCTION 1
+PROCEDURAL BACKGROUND 1
+A. Commencement of Proceedings 1
+B. Appointment of the Tribunal 1
+C. Initial Exchanges and Procedural Meeting 2
+D. Claimants’ Challenge to Canada’s Legal Team in Canadian Courts ..........cccceeeeeeeeee 3
+E. The Parties’ Submissions on Claimants’ Motion to Disqualify Respondent’s Counsel.. 5
+FACTUAL BACKGROUND 8
+REQUESTS FOR RELIEF 12
+THE PARTIES’ POSITIONS 13
+A. Applicable Law 13
+(1) Claimants’ Position 14
+(2) Respondent’s Position 16
+B. Application of the Law to the Facts . .
+(1) Claimants’ Position 18
+(2) Respondent’s Position 19
+THE TRIBUNAL’S ANALYSIS 22
+A. Applicable Law 22
+(1) Governing Law 22
+(2) Applicable Principles 33
+B. Application of the Law of the Facts .......c.ccccessssesseseeeseesseesseeasseesseeeseesseeeeeeseeeaees 37
+
+(1) Introductory Co
+(2) Nature of Information Allegedly Received ..
+(3) Canada’s Right to Counsel of its Choice..
+(4) Costs
+
+ 
+
+ 
+
+DECISION 44
+
+INTRODUCTION
+
+This Decision addresses a motion filed by Mr. Theodore David Einarsson, Mr. Harold Paul
+Einarsson, Mr. Russell John Einarsson, and Geophysical Service Incorporated (“GSI”)
+(collectively, “Claimants”) to disqualify members of the legal team representing the
+Government of Canada (“Canada” or Respondent’) in these proceedings on the basis of
+
+an alleged conflict of interest.
+
+As explained in the body of this Decision, the motion is premised upon an allegation that
+one member of Respondent’s legal team, Ms. Alexandra Dosman, who joined the Trade
+Law Bureau in June 2019, had obtained confidential information of Claimants when
+previously employed at the third-party funder Vannin Capital LLC, from whom Claimants
+had sought litigation funding.
+
+PROCEDURAL BACKGROUND
+
+COMMENCEMENT OF PROCEEDINGS
+
+On 18 April 2019, Claimants submitted a Notice of Arbitration against Respondent
+pursuant to Chapter 11 of the North American Free Trade Agreement (“NAFTA”).
+
+As the Tribunal was not yet constituted, on 23 October 2019, Claimants filed an
+Application with the Federal Court of Canada (“FC Application”) challenging Canada’s
+legal team on the basis of the alleged conflict of interest. The procedural details of this
+
+challenge are contained in Section ILD infra.
+
+APPOINTMENT OF THE TRIBUNAL
+
+On 8 July 2020, Claimants requested that the Secretary-General of the International Centre
+for Settlement of Investment Disputes (“ICSID”) appoint a presiding arbitrator pursuant
+to Article 1124 of the NAFTA. Claimants had previously appointed Mr. Trey Gowdy, a
+U.S. national, as arbitrator, and Respondent had appointed Mr. Toby Landau, QC, a British
+
+national, as arbitrator.
+
+6. On 16 July 2020, the Secretary-General proposed a ballot procedure to appoint the
+presiding arbitrator, pursuant to NAFTA Article 1123, and invited the Parties to indicate
+whether they agreed to the proposed method of appointment. The ICSID Secretary-General
+further explained that, should the Parties fail to agree on any of the ballot candidates, the
+Secretary-General would proceed to make the appointment in accordance with NAFTA
+Article 1124(3) from the ICSID Panel of Arbitrators. On 23 July 2020, the Parties agreed
+
+to the proposed ballot procedure.
+
+7. On 26 August 2020, the ICSID Secretary-General informed the Parties that, pursuant to
+the Parties’ agreement under NAFTA Article 1123, the Parties had agreed to appoint Ms.
+Carita Wallgren-Lindholm, a Finnish national, as the presiding arbitrator in this case, and
+
+Ms. Wallgren-Lindholm had accepted her appointment.
+
+Cc. INITIAL EXCHANGES AND PROCEDURAL MEETING
+
+8. On 27 August 2020, Respondent informed the Tribunal that Claimants had filed “an
+application in the Federal Court of Canada [in October 2019] to disqualify Canada’s legal
+counsel, as well as Canada’s consultants and experts, for an alleged conflict of interest”,
+and Claimants had “also recently stated that they reserve their right to challenge the
+arbitrator appointment by Canada, Mr. Toby Landau QC.”! Canada denied that there was
+any merit to Claimants’ allegations “that Ms. Alexandra Dosman, who joined the Trade
+Law Bureau in June 2019 from the third-party funder Vannin Capital LLC, obtained the
+Claimants’ confidential information as they sought litigation funding from Vannin while
+
+she was employed there.”
+
+9. The Tribunal subsequently held its first conference, and, on 11 September 2020, the
+Tribunal President wrote to the Parties to coordinate a meeting with them to address certain
+preliminary matters, including Claimants’ application before the Canadian court to
+
+disqualify Canada’s legal team, and to discuss the procedural framework for the arbitration.
+
+'R. Letter of 27 August 2020, p. 1.
+?R. Letter of 27 August 2020, p. 2.
+
+On 14 October 2020, the Tribunal held an Initial Procedural Meeting with the Parties. On
+22 October 2020, the Tribunal circulated the finalized Initial Procedural Meeting minutes
+
+to the Parties, which incorporated their comments.
+
+At the Initial Procedural Meeting, it was agreed that ICSID be engaged as the
+Administrative Authority for these proceedings. The Parties further agreed that the 1976
+UNCITRAL Atrbitration Rules would apply, as modified by NAFTA, and that the place of
+
+arbitration, or seat, would be Calgary, Alberta, Canada.
+
+During the Initial Procedural Meeting, Claimants advised that there was no challenge to
+Mr. Landau QC based upon Claimants’ current knowledge, and the Tribunal noted that in
+their exchanges of draft procedural orders, both Parties “had included language
+anticipating that there was no objection to the constitution of the [Tribunal].”* The Parties
+also discussed Claimants’ challenge to Canada’s legal team. With respect to the “other
+matters to be reflected in [Procedural Order No. 1]”, the Parties confirmed that they “would
+need to await resolution of the Legal Team Challenge” as, according to Claimants, these
+
+matters also raised substantive issues.*
+
+On 27 October 2020, ICSID accepted its appointment as the Administrative Authority for
+
+the present proceedings.
+
+CLAIMANTS’ CHALLENGE TO CANADA’S LEGAL TEAM IN CANADIAN
+Courts
+
+On 20 October 2020, the Federal Court of Canada dismissed the FC Application, on the
+
+basis, inter alia, that the Tribunal has jurisdiction over the conflict-of-interest issue.*
+
+On 12 November 2020, Claimants filed a Notice of Appeal of the FC Judgment.°
+
+3 Summary Minutes from Initial Procedural Meeting, para. 7.
++ Summary Minutes from Initial Procedural Meeting, para. 11.
+5 Cl. Motion, para. 32 (citing C-023).
+
+6 Cl. Motion, para. 34.
+
+20.
+
+21.
+
+22.
+
+On 8 December 2020, the Tribunal requested an update from the Parties on any pending or
+intended court proceedings in Canada regarding Claimants’ challenge to Canada’s legal
+
+team, which the Parties provided on 15 December 2020.’
+
+On 17 December 2020, Claimants served Canada with a Motion to stay the Federal Court
+
+Appeal.®
+
+On 21 January 2021, the Tribunal asked the Parties to provide a second update on the status
+of the Federal Court of Appeal proceedings and Claimants’ motion to stay. On the same
+date, Claimants informed the Tribunal that the Parties were still awaiting the Federal Court
+
+of Appeal’s decision on their motion to stay the appeal.”
+
+On 4 February 2021, the Federal Court of Appeal issued a direction to the Parties
+requesting that Claimants seize the Tribunal of a Motion to disqualify Canada’s legal
+
+team.'°
+
+On 8 February 2021, the Parties notified the Tribunal of the Federal Court of Appeal’s
+directions, and Claimants noted that they “anticipate[d] bringing a Motion before the
+
+Arbitral Tribunal to disqualify Canada’s legal team.”!!
+
+On 26 February 2021, the Federal Court of Appeal granted the Stay Motion until 17 May
+2021, provided that the Parties would be able to report to the Court on or before 10 May
+2021 on the status of the Motion in the Arbitration to disqualify Canada’s legal team and
+
+whether a further stay of the Federal Court of Appeal was required.”
+
+On 28 October 2021, Claimants informed the Tribunal that the Federal Court of Appeal
+“granted an extension of the stay on September 27, 2021, to November 30, 2021.”
+
+7 Cl. Letter of 15 December 2020, p. 1.
+8 Cl. Motion, para. 35 (citing C-028).
+
+° Cl. Letter of 21 January 2021, p. 1.
+1 Cl. Motion, para. 36.
+
+1! CL. Letter of 8 February 2021, p. 1.
+2 Cl. Motion, para. 40.
+
+' CL. Letter of 28 October 2021.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+On 11 January 2022, Claimants informed the Tribunal of an Order granted by the Federal
+Court of Appeal providing “for the final extension of the stay of the FCA Proceedings to
+
+February 25, 2022, after which time the stay will expire and not be renewed.”
+
+THE PARTIES’ SUBMISSIONS ON CLAIMANTS’ MOTION TO DISQUALIFY
+
+RESPONDENT’S COUNSEL
+
+On 9 February 2021, the Tribunal invited the Parties to confer on a briefing schedule for
+Claimants’ motion to disqualify Canada’s legal team. The Parties, however, were unable
+to agree. Consequently, on 5 March 2021, the Tribunal decided to convene a Second
+Procedural Meeting to clarify the Parties’ positions on Claimants’ motion. The Second
+
+Procedural Meeting was held on 24 March 2021.
+
+On 25 March 2021, the Parties submitted their agreed briefing schedule, which was adopted
+by the Tribunal. In accordance with the agreed schedule, the Parties presented the following
+
+submissions:
+
+On 26 March 2021, Claimants filed their “Motion for Disqualification of Counsel due to
+Conflict of Interest” together with: (i) the Witness Statement of Harold Paul Einarsson,
+dated 26 March 2021(CWS 1); (ii) Exhibits C-001 through C-041; and (iii) Legal
+Authorities CLA-001 through CLA-026 (“Claimants’ Motion to Disqualify” or the
+“Motion”.).
+
+On 20 April 2021, Respondent filed its “Response to the Claimants’ Motion to
+Disqualify”, which was accompanied by: (i) the Witness Statement of Edith Alexandra
+Dosman, dated 20 April 2021; (ii) Exhibits R-001 through R-026; and (iii) Legal
+Authorities RLA-001 through RLA-019 (“R. Response”).
+
+On 27 April 2021, Claimants submitted “Claimants’ Reply to Canada’s Response to
+Motion for Disqualification of Counsel due to Conflict of Interest” and the following
+supporting documents: (i) Second Witness Statement of Harold Paul Einarsson, dated 27
+April 2021 (CWS 2); (ii) Exhibits C-042 through C-044; and (iii) Legal Authorities CLA-
+027 through CLA-030 (“Cl. Reply”).
+
+29. On 7 May 2021, Respondent filed its “Rejoinder to the Claimants’ Motion to
+
+Disqualify”, together with: (i) the Second Witness Statement of Edith Alexandra Dosman,
+dated 7 May 2021; (ii) Exhibit R-027; and (iii) Legal Authorities RLA-020 through RLA-
+
+028 (“R. Rejoinder”).
+
+30. The Hearing on the Motion to Disqualify (the “Hearing”) was held virtually via Zoom on
+
+18-19 May 2021 with the following individuals present:
+
+Tribunal:
+Ms. Carita Wallgren-Lindholm
+Mr. Trey Gowdy
+Mr. Toby Landau, QC
+
+ICSID Secretariat:
+Ms. Geraldine R. Fischer
+
+For Claimants:
+Counsel:
+Ms. Matti Lemmens
+Mr. Zachary Seymour
+
+ 
+
+Witness:
+Mr. Harold Paul Einarsson
+
+For Respondent:
+Counsel:
+Ms. Sylvie Tabet
+Mr. Alexander Gay
+Ms. Helen Gray
+Mr. Mark Luz
+Ms. Shawna Lesaux
+
+Witness:
+Ms. Alexandra Dosman
+
+Court Reporter:
+Ms. Margie Dauster
+
+President
+Arbitrator
+Arbitrator
+
+Secretary of the Tribunal
+
+Borden Ladner Gervais LLP
+Borden Ladner Gervais LLP
+
+Trade Law Bureau
+Justice Canada
+Justice Canada
+Trade Law Bureau
+Trade Law Bureau
+
+Worldwide Reporting, LLP
+
+31. The Parties disagreed regarding Canada’s representation at the Hearing and, in particular,
+
+with respect to the participation of Mr. Mark Luz.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+On 22 April 2021, Canada advised that Mr. Luz would attend the Hearing as part of
+Canada’s legal team. Claimants on 23 April 2021, asked clarification as to the “change of
+status” since at the Second Procedural Meeting on 24 March 2021 Mr. Luz had advised
+that he would not participate as Counsel at the Hearing at the Second Procedural Meeting
+
+on 24 March 2021.
+
+On 23 April 2021, Ms. Tabet, listed as the first participant for Canada at the Hearing, wrote
+that: “As stated during the Second Procedural Meeting on March 24, 2021, with respect to
+the Claimants’ Disqualification Motion, Mr. Gay and myself will be speaking on behalf of
+Canada at the May 18-19 hearing. Mr. Luz has been designated as an active participant
+for the purpose of addressing other issues related to the conduct of the arbitration, should
+
+such issues arise.”
+
+On the first day of the Hearing, the President inquired whether the Parties’ correspondence
+had exhausted the matter of Mr. Luz’s participation in the Hearing. Claimants advised that
+they might address the matter the following day while Ms. Tabet, on behalf of Canada,
+advised that Mr. Luz would be present without intending to participate on the
+disqualification motion but only possibly on other issues related to the arbitration, if
+
+necessary.
+
+After these exchanges at the outset of the Hearing, the President concluded that the Hearing
+
+would proceed with Mr. Luz present.
+
+Mr. Luz did not speak during the Hearing, and the matter of his presence was not raised or
+
+further addressed in the course thereof.
+
+The Hearing transcript and recordings were distributed to the Members of the Tribunal and
+
+the Parties, and the Parties submitted their revised transcripts on 28 May 2021.
+
+At the end of the Hearing both Claimants and Respondent confirmed that they had been
+treated with equality at the Hearing and been given a full opportunity of presenting their
+
+case on the Motion to Disqualify.
+
+Ill.
+
+39.
+
+40.
+
+Al.
+
+42.
+
+43.
+
+44.
+
+FACTUAL BACKGROUND
+
+Ms. Alexandra Dosman worked as a Managing Director for Vannin Capital LLC in New
+York from April 2018 until 3 May 2019.'4 Vannin Capital LLC (“Vannin”) is a legal
+funding firm offering funding for litigation and other expenses in return for a portion of
+any monies/damages collected. Vannin is not a law firm, nor does it hold itself out as
+offering legal or litigation services. According to Ms. Dosman, each Managing Director at
+
+Vannin was “responsible for securing and proceeding with their own ‘leads’” on possible
+business opportunities, and cooperation between and amongst Managing Directors was the
+
+exception. !°
+Ms. Dosman was licensed to practice law in both New York State and Canada.
+
+In late 2018, Claimants and their counsel, Borden Ladner Gervais LLP (“BLG”),
+commenced discussions with Vannin to enter into a litigation funding agreement in respect
+
+of this Arbitration.’
+
+In late 2018, Ms. Dosman began discussing potential employment as a legal counsel with
+
+the Trade Law Bureau.!”
+
+On 25 January 2019, Ms. Dosman interviewed with the Trade Law Bureau.'* After that
+initial interview, Ms. Dosman was told she would receive an offer of employment from the
+
+Trade Law Bureau.!”
+
+In early 2019, and before 8 February 2019,”° while employed at Vannin in New York, Ms.
+Dosman was apprised by Mr. José Antonio Rivas, a colleague based in Washington, D.C.,
+that he had been approached by GSI’s counsel about obtaining funding for a high value
+
+claim against Canada.”! Mr. José Antonio Rivas called Ms. Dosman to invite her to assist
+
+4 C010, Affidavit of Edith Alexandra Dosman, 18 December 2019, paras. 8, 16. RWS-01, Witness Statement of
+Edith Alexandra Dosman, 20 April 2021, para. 4.
+
+'S RWS-01, Witness Statement of Edith Alexandra Dosman, 20 April 2021, para. 5.
+
+'6 CWS-01, Witness Statement of Harold Paul Einarsson, 26 March 2021, para. 4.
+
+"7 C.010, Affidavit of Edith Alexandra Dosman, 18 December 2019, para. 16.
+
+'8 C.010, Affidavit of Edith Alexandra Dosman, 18 December 2019, para. 16.
+
+© C.010, Affidavit of Edith Alexandra Dosman, 18 December 2019, para. 16.
+
+2 RWS-02, Second Witness Statement of Edith Alexandra Dosman, 7 May 2021, para. 5.
+
+21 C-010, Affidavit of Edith Alexandra Dosman, 18 December 2019, para. 32.
+
+8
+
+him with the GSI file. 7? Ms. Dosman took the phone call while walking in a hallway and
+did not take notes of the conversation.?? Ms. Dosman declined Mr. Rivas’ invitation as she
+was “interviewing for a counsel position in the Trade Law Bureau and [she] did not want
+to involve [her]self in any new matter related to Canada.” She, however, did not give this
+reason to Mr. Rivas. During questioning by Claimants’ Counsel at the Hearing, Ms.
+Dosman further clarified that she “did not want to even skirt the shadow of a doubt of any
+possible impropriety, and so [she] declined, and thereafter actively did not participate in
+anything to do with that [Claimants’] file.”
+45. On 4 and 5 February 2019, Mr. Rivas copied Ms. Dosman on an email exchange between
+himself and Claimants’ Counsel, Ms. Lemmens.”° The subject of the email exchange was
+a business development trip to Toronto (as reflected in the email title “Vannin MDs in
+litigation funding in Toronto this week”), and Mr. Rivas’ 4 February 2019 originating
+message did not mention GSI.” In Ms. Lemmens’ 5 February 2019 response message,
+Ms. Lemmens noted, “J will catch up with you on the NDA and get that finalized so that
+we can share some more in depth information.”*8 Ms. Lemmens also wrote that “[i]¢ would
+make sense for you, Alex [Ms. Dosman], Matthew Kronby (BLG Toronto) and me to have
+a call next week to discuss funding.” Part of this email, as submitted, was redacted by
+Claimants as they assert that portion of the email is privileged. There is nothing in the
+record to suggest Ms. Dosman ever participated in the future call referenced in Ms.
+
+Lemmens’ email.
+
+46. On 8 February 2019, Vannin and Claimants’ Counsel, Ms. Lemmens, executed a Non-
+
+Disclosure and Common Interest Agreement (“Common Interest Agreement”).””
+
+2 RWS-01, Witness Statement of Edith Alexandra Dosman, 20 April 2021, Annex A, para. 36. Hearing Tr., Day 1,
+pp. 92-93.
+
+2 Hearing Tr., Day I, pp. 92-93, 153.
+
+24 RWS-01, Witness Statement of Edith Alexandra Dosman, 20 April 2021, Annex A, para. 36. Hearing Tr., Day 1,
+p. 121.
+
+25 Hearing Tr., Day I, pp. 121-122. See also, Hearing Tr., Day I, p. 165.
+
+26 R-003, Email from Matti Lemmens to José Antonio Rivas, Vannin Capital, 4-5 February 2019.
+
+27 R-003, Email from Matti Lemmens to José Antonio Rivas, Vannin Capital, 4-5 February 2019. Hearing Tr., Day 1,
+p. 117.
+
+28 R-003, Email from Matti Lemmens, to José Antonio Rivas, Vannin Capital, 4-5 February 2019.
+
+2° C-001, Non-Disclosure and Common Interest Agreement dated 8 February 2019 between Vannin Capital LLC and
+Borden Ladner Gervais LLP, 8 February 2019. R-006, Appendix A, Witness Statement of Harold Paul Einarsson, 8
+February 2019.
+
+47.
+
+48.
+
+49.
+
+Appendix A of the Common Interest Agreement was signed by Mr. Harold Einarsson on
+his own behalf and as Agent and Power of Attorney for his father, Mr. Theodore David
+
+Einarsson, and his brother, Mr. Russell John Einarsson.*°
+
+According to Claimants, “on or around February 8, 2019, following the execution of the
+Common Interest Agreement”, Claimants provided Vannin with the following documents
+
+they term “Privileged Information”:
+
+(a) a lengthy Memorandum prepared for the Claimants by BLG
+that assessed the merits of the Claimants’ claims against
+Canada in this Arbitration and the Claimants’ proposed
+litigation strategy in this Arbitration, which incorporated
+information prepared by GSI for the purposes of this
+Arbitration;
+
+(b) a proposed litigation budget for this Arbitration prepared
+for the Claimants by BLG, which included a detailed breakdown
+of all the steps BLG anticipated would be taken in this
+Arbitration based upon our litigation strategy, and an estimate
+of the costs of same based upon our litigation strategy; and
+
+(c) a draft report prepared by an expert witness regarding the
+Claimants’ claims in this Arbitration."
+
+On or about 12 March 2019, Ms. Dosman resigned from Vannin, and she officially and in
+practice left the company on 3 May 2019.*? When she resigned, Ms. Dosman informed
+
+Vannin that she intended to take a position at the Trade Law Bureau.*?
+
+During the period between Ms. Dosman’s notice of resignation and departure, Ms. Dosman
+continued to attend Vannin team meetings and receive weekly update charts on pending
+and prospective Vannin matters.** According to Ms. Dosman, “[t]he chart recorded some
+
+of the basic information. I did not receive any other information about GSI. Thus, all I
+
+39 C001. R-006, Appendix A, Witness Statement of Harold Paul Einarsson, 8 February 2019.
+31 CWS-01, Witness Statement of Harold Paul Einarsson, 26 March 2021, para. 5.
+
+32. C010, Affidavit of Edith Alexandra Dosman, 18 December 2019, para. 16.
+
+33 Hearing Tr., Day 1, p. 96.
+
+4 Hearing Tr., Day 1, pp. 96-97.
+
+50.
+
+Sl.
+
+52.
+
+53.
+
+54.
+
+knew was that: (a) GSI was represented by counsel in Alberta; (b) the claim was against
+Canada; (c) the claim was under the NAFTA; (d) the case involved intellectual property;
+(e) GSI was seeking funding; (f) the damages claimed against Canada were significant;
+
+and (g) José Antonio Rivas was in preliminary discussions with GSI counsel.”*>
+
+On 31 May 2019, the Trade Law Bureau provided Ms. Dosman with an offer letter, which
+
+she accepted on 3 June 2019.°°
+
+On 7 June 2019, Ms. Dosman started her employment at the Trade Law Bureau, and shortly
+afterwards, Ms. Dosman was assigned to several arbitration and advisory matters,
+
+including the present matter.°”
+
+On 24 July 2019, through a conversation with Mr. Luz, Claimants learned that Ms. Dosman
+
+38
+
+had begun working for the Trade Law Bureau.** Mr. Luz is the Trade Law Bureau’s
+
+Deputy Director and Senior Counsel.
+
+On 2 August 2019, Claimants wrote to Mr. Luz raising the issue of a potential conflict of
+interest related to Ms. Dosman and anyone at the Trade Law Bureau with whom she may
+have exchanged relevant information.*? On the same date, Respondent removed Ms.
+
+Dosman from the case and enacted an ethical screen.*°
+
+On 16 August 2019, Mr. Luz responded to Ms. Lemmens’ 2 August 2019 letter. Mr. Luz
+wrote that Claimants had provided “no details as to when such confidential information
+was provided to Vannin and under what conditions, what was the nature of such
+confidential information, why you believe that Ms. Dosman had access to such confidential
+information and, even if she did have access to anything provided by GSI to Vannin, what
+specific legal and ethical obligations are implicated and what prejudice GSI will suffer
+
+from Ms. Dosman’s continued involvement in the Arbitration.” Mr. Luz further wrote:
+
+35 Hearing Tr., Day 2, p. 287 (citing C-010, Affidavit of Edith Alexandra Dosman, 18 December 2019, para. 34).
+
+36 C-010, Affidavit of Edith Alexandra Dosman, 18 December 2019, para. 17.
+
+37 C010, Affidavit of Edith Alexandra Dosman, 18 December 2019, para. 17. Hearing Tr., Day 1, pp. 97, 103.
+
+38 Cl, Motion, para. 24 (citing CWS-01, Witness Statement of Harold Paul Einarsson, 26 March 2021, para. 9; C-002,
+Letter from Matti Lemmens, BLG, to Mark Luz, Canada, 2 August 2019.
+
+3° R-004, Letter from Matti Lemmens, BLG, to Mark Luz, Canada, 2 August 2019. Hearing Tr., Day 1, p. 130.
+
+49 R. Response, para. 67 (citing R-012, Letter from Mark Luz, Canada, to Matti Lemmens, BLG, GSI, 16 August 2019
+and R-016, Letter from Mark Luz, Canada, to Matti Lemmens, BLG, GSI, 9 October 2019).
+
+ll
+
+55.
+
+56.
+
+57.
+
+“Ms. Dosman has confirmed that she in fact never saw any documents provided by GSI to
+Vannin, had no involvement in discussions between Vannin and GSI and did no factual or
+legal research or analysis of GSI’s claims. As of the date when she left Vannin on May 3,
+2019, it was her understanding that there was no funding relationship between GSI and
+Vannin.” Mr. Luz’s letter did not indicate how Ms. Dosman knew the funding status as of
+
+the date she left or from whom she had acquired this information.*!
+
+On 18 September 2019, the Trade Law Bureau informed Claimants’ Counsel that it had
+determined, after investigation, that there was no conflict of interest prohibiting Ms.
+
+Dosman from working for Canada in this arbitration.”
+
+Between 18 and 20 September 2019, Ms. Dosman attended a meeting with Canada’s legal
+counsel and other members of the Trade Law Bureau.*? Claimants allege that this meeting
+was regarding copyright law and NAFTA, and that there was no other copyright matter
+
+pending in the Trade Law Bureau at the time, other than Claimants’ claim.
+
+REQUESTS FOR RELIEF
+
+In Claimants’ Motion to Disqualify, Claimants request that this Tribunal grant an Order:
+
+(1) declaring that Ms. Dosman and all Trade Bureau members,
+experts and consultants acting for or on behalf of Canada in
+this Arbitration who interacted with Ms. Dosman, including
+Mr. Luz, Ms. Dallaire, Ms. Kam and Ms. Reynolds-Fry, are
+in a conflict of interest, must be permanently removed from
+acting for or on behalf of Canada in this Arbitration and are
+prohibited from communicating with any new counsel or
+consultants to Canada regarding this Arbitration;
+
+(2) costs of this Motion; and
+
+41 R-012, Letter from Mark Luz, Canada, to Matti Lemmens, BLG, GSI, 16 August 2019.
+
+2 R014, Letter from Mark Luz, Canada to Matti Lemmens, BLG, GSI, 18 September 2019.
+
+“3 R. Rejoinder, para. 48. CWS-01, Witness Statement of Harold Paul Einarsson, 26 March 2021, para. 14.
+“4 Hearing Tr., Day 1, pp. 64-65.
+
+12
+
+58.
+
+59.
+
+60.
+
+61.
+
+(3) such other or further relief as this Tribunal may award.*
+
+During the Hearing on the Motion to Disqualify, Claimants modified the relief sought, such
+that their request to permanently remove members of Canada’s legal team in this arbitration
+
+was restricted to Ms. Dosman and Mr. Luz.*®
+
+In Respondent’s Rejoinder, “Canada respectfully requests that the Claimants’ motion to
+disqualify Ms. Dosman and other legal counsel from the Trade Law Bureau from
+representing Canada in these proceedings be rejected. Canada reserves the right to make
+
+further representations on costs related to this motion.”*”
+
+THE PARTIES’ POSITIONS
+
+The Parties agree that the Tribunal has jurisdiction to decide Claimants’ Motion to
+Disqualify Counsel.** The Parties, however, disagree on the applicable law and test that
+the Tribunal should apply to determine the Motion. The Parties’ positions are briefly
+summarized below. The summaries are not exhaustive, but rather reflect the Parties’
+principal arguments. The Tribunal has carefully considered the entirety of the Parties’
+
+evidence and submissions in arriving at its determination.
+
+APPLICABLE LAW
+
+In summary, Claimants’ primary argument is that Canadian law applies to the Motion to
+Disqualify whereas Respondent submits that Canadian law is not applicable, and that the
+Tribunal should be guided by the principles in NAFTA, the UNCITRAL Arbitration Rules
+
+and international law.
+
+45 Cl. Motion, para. 109. See also, Cl. Reply, para. 64 (“[...] the Tribunal should grant the Motion and disqualify the
+Conflicted Bureau Team to preserve the fairness and integrity of this Arbitration. Not doing so jeopardizes the entirety
+of this Arbitration’).
+
+46 Hearing Tr., Day 2, p. 324.
+
+47 R. Rejoinder, para. 59.
+
+48 See e.g. R. Presentation (19 May 2021), p. 20.
+
+62.
+
+63.
+
+64.
+
+qd) Claimants’ Position
+
+i. Claimants’ Primary Position- Canadian Law Applies to the Motion
+
+Claimants take the position that Canadian law applies to Claimants’ Motion to
+Disqualify.*? According to Claimants, “[t]he Tribunal has discretion to conduct this
+Arbitration [...], so long as that equality guarantee is upheld and both the Claimants and
+Canada have the full opportunity to present their cases.”*° As neither NAFTA nor the
+UNCITRAL Rules address conflicts of interest or motions to disqualify counsel, Claimants
+contend that the Tribunal must use its discretion to decide this motion and that the law of
+the place of arbitration —Calgary, Alberta— should be its guide.*! Claimants further posit
+that the facts of this arbitration and Motion support the application of Canadian conflict of
+interest principles, and Claimants note that prior investment arbitration tribunals have
+turned to domestic law for guidance on disqualification motions.*?
+
+Claimants argue that Canadian law employs an objective test for determining a conflict of
+
+interest,*> which involves two questions:
+
+(1) Did the lawyer receive confidential information attributable to a solicitor
+and client relationship relevant to the matter at hand?
+
+(2) Is there a risk that it will be used to the prejudice of the client?*+
+
+Claimants further explain that “Canadian law provides that once it is shown by the client
+that that there was a previous relationship that was sufficiently related to the retainer from
+which it is sought to remove the solicitor, the decision maker should infer that confidential
+information was imparted unless the solicitor satisfies the decision maker that no
+
+information was imparted that could be relevant.”*> Moreover, “prejudice is presumed [,
+
+* Cl. Motion, Section III(A).
+
+%° Cl, Motion, para. 42.
+
+51 Cl, Motion, paras. 44-45; Cl. Reply, paras. 27-28.
+
+%2 Cl. Motion, paras. 45-46 (citing CLA-003, Fraport AG Frankfurt Airport Services Worldwide v. Republic of the
+Philippines, \CSID Case No. ARB/03/25 — Annulment (Decision on Application for Disqualification of Counsel, 18
+September 2008 )(‘*Fraport”)); Cl. Reply, paras. 29-30.
+
+58 Cl, Motion, para. 42. Hearing Tr., Day 2, p. 207.
+
+%4 Cl, Motion, para. 47 (citing CLA-009, MacDonald Estate v. Martin, [1990] 3 S.C.R. 1235 (SCC) (Canada, May 10,
+1990) “Martin”)).
+
+55 Cl. Motion, para. 48 (citing CLA-009, Martin, p. 49). See also, Hearing Tr., Day 2, p. 207.
+
+14
+
+65.
+
+66.
+
+67.
+
+and cannot be rebutted,] when an individual actually received information of an adverse
+party that is confidential or privileged during the prior retainer.”*® Claimants underscore
+that “[i]n those cases, the Supreme Court of Canada has held that disqualification due to
+
+a conflict of interest is automatic.”*"
+
+According to Claimants, “[t]he question of whether a conflict of interest exists [...] is
+governed by whether a reasonably informed member of the public would conclude that Ms.
+Dosman ‘may well have acquired confidential information’ about the Claimants as a result
+of her employment at Vannin.”** Claimants argue that the reasonable person standard
+“recognizes how difficult it is to prove the sharing of information as between lawyers that
+work together”, which Claimants further contend is “near impossible” in an adversarial
+situation without such information being disclosed by Respondent, or without Claimants
+
+revealing their privileged information.”
+
+Claimants submit that “a lack of a solicitor-client relationship has no bearing on the
+
+260
+
+conflict’® and refute Respondent’s contention “that the test for a conflict of interest is
+
+different for lawyers and non-lawyers, even in cases that deal with legally privileged
+
+»61
+
+information like this one. Additionally, Claimants assert that Ms. Dosman breached
+
+common interest privilege by disclosing the information from Vannin to Respondent.
+
+ii. Claimants’ Alternative Position
+
+In the alternative, Claimants argue that if the Tribunal finds that “Canadian law does not
+govern the conflict of interest, the Conflicted Bureau Team must still be disqualified
+
+”63 Claimants assert that the few existing international
+
+pursuant to international law.
+arbitration disqualification decisions are distinguishable from the situation now at hand
+
+since they all involved ICSID Convention proceedings and the ICSID Rules, which
+
+56 CI, Motion, para. 49 (citing CLA-009, Martin, at 49).
+
+57 Hearing Tr., Day 2, p. 207.
+
+58 Cl. Motion, para. 50 (citing CLA-012, Williamson v. R., 2009 TCC 222 (Canada, April 23, 2009) (“Williamson”).
+© Hearing Tr., Day 2, p. 208.
+
+Cl. Reply, Section II(B)(ii).
+
+6! Cl. Reply, para. 35.
+
+® Cl. Reply, para. 48. Hearing Tr., Day 2, p. 211.
+
+® C1. Motion, para. 80.
+
+68.
+
+69.
+
+70.
+
+preclude the application of domestic law, and the present dispute involves the UNCITRAL
+
+Rules that do not.
+
+According to Claimants, however, “Fraport, Khudyan and Hrvatska set out legal principles
+that can guide the Tribunal’s analysis of the conflict of interest.”®> Fraport and Khudyan
+endorse an objective conflict of interest test that is substantially similar to the Canadian
+law test and “generally focused on whether: (i) the lawyer at issue represented the party
+alleging a conflict of interest in the same or a substantially similar proceeding; and (ii)
+there is a material risk that confidential information the lawyer at issue learned from the
+party alleging a conflict of interest could prejudice the client in the proceeding.”
+Moreover, in determining the conflict, the Tribunal can be guided by the Hrvatska general
+principles, namely the “conduct of counsel subsequent to the alleged conflict of interest
+being raised was relevant to assessing whether the conflict of interest created an
+‘[a]limosphere of apprehension and mistrust’ that impacted the perceived fairness of the
+
+proceedings”, which Claimants assert has occurred here.*”
+
+(2) Respondent’s Position
+
+Respondent disputes Claimants’ position that Canadian law on conflict of interest is
+applicable.® Relying on NAFTA Articles 1131 and 1120(2), Respondent submits that the
+Tribunal should instead be guided by the principles set out in the NAFTA, the UNCITRAL
+
+Arbitration Rules and international law to decide Claimants’ Motion.
+
+Respondent recognizes that the Tribunal has inherent powers to ensure the proper conduct
+of the arbitration, including guaranteeing due process and the preservation of the integrity
+of the proceedings.”” The source of this inherent power can be found in NAFTA Article
+1115 (observance of equal treatment and due process) as well as UNCITRAL Arbitration
+
+Rule 15(1), which provides that “the arbitral tribunal may conduct the arbitration in such
+
+Cl. Motion, para. 81. Hearing Tr., Day 2, p. 225.
+
+6 C1. Motion, para. 86.
+
+C1. Motion, para. 87.
+
+§ Cl. Motion, para. 88.
+
+& R. Rejoinder, para. 6.
+
+ R. Rejoinder, paras. 6-7. Hearing Tr., Day 2, pp. 258-259.
+7 R. Response, para. 29.
+
+16
+
+71.
+
+72.
+
+73.
+
+a manner as it considers appropriate” “provided that the parties are treated with equality”
+and that “each party is given a full opportunity to present its case.”"' When considering
+the applicable international law rules, Respondent argues that the Tribunal must be guided
+
+by these fundamental principles.”
+
+Citing UNCITRAL Arbitration Rule 4, Respondent further argues that the disputing parties
+have a fundamental right to select counsel of their choice, and only “in exceptional
+circumstances where risk of prejudice to the fairness of the proceedings has been
+
+demonstrated, could a disputing party’s right to choose its counsel be affected.”
+
+Respondent contends that the committee/tribunals in Fraport v. Philippines, Khudyan v.
+Armenia, Hrvatska v. Slovenia and Rompetrol v. Romania have all decided the relevant
+conflict issue “considering international law and the potential effect on the integrity and
+fairness of the proceedings and on the disputing parties[’] right to choose its own
+
+counsel,’
+
+not the application of domestic law.” Specifically, Canada submits that the
+Tribunal should apply the Khudyan tribunal test to decide Claimants’ Motion to Disqualify,
+which test requires that “it must be demonstrated that there is a real risk that [the allegedly
+conflicted individual, Mr. Tumanov] obtained confidential information that may be of
+significance to the dispute before the Tribunal.””° Moreover, the Khudyan tribunal
+“specifically refused to apply any presumption that Mr. Tumanov would have had access
+
+to privileged or confidential information about the case.””
+
+Canada disputes that the Tribunal is required to apply Canadian law on conflict of interest
+to decide the Motion as it would be contrary, for example, to NAFTA Article
+1131(1)(Governing Law) and it is not clear that Canadian law would even be the correct
+
+domestic law, given the U.S. and New York elements of the allegations.”* Additionally,
+
+7" R. Presentation, p. 20.
+
+7 Hearing Tr., Day 2, p. 259.
+
+73 R. Response, paras. 29-30 (citing UNCITRAL Arbitration Rule 4).
+
+7 R. Rejoinder, para. 11.
+
+75 R. Rejoinder, paras. 11-14.
+
+76 R. Rejoinder, para. 14 (citing RLA-011, Edmond Khudyan and Arin Capital & Investment Corp. v. Republic of
+Armenia, ICSID Case No. ARB/17/36, para. 59 (Procedural Order No. 2, 5 December 2018)(“Khudyan”)).
+
+1 Id (citing RLA-011, Khudyan, para. 72).
+
+78 R. Response, paras. 53 et seq.
+
+even if the Tribunal were to apply Canadian or U.S. law, Respondent submits that neither
+would support the disqualification of Ms. Dosman or the Trade Law Bureau. For example,
+Claimants’ cited test does not apply as Vannin and Claimants never had a solicitor-client
+
+relationship and Ms. Dosman never acted as Claimants’ legal counsel.”
+
+B. APPLICATION OF THE LAW TO THE FACTS
+
+74.
+
+75.
+
+76.
+
+(1) Claimants’ Position
+
+Claimants submit that the information they provided to Vannin was confidential or
+privileged, and Ms. Dosman, while employed at Vannin, received such confidential or
+privileged information.*° Claimants specifically contend that Ms. Dosman transferred or
+otherwise shared protected, privileged or confidential information with Canada’s legal
+
+team, including Mr. Mark Luz.*!
+
+Claimants allege that “Canada grossly mischaracterizes the evidence before [the]
+Tribunal”. First, Claimants argue that “Ms, Dosman has admitted to receiving privileged
+information”, including the fact that Claimants were seeking funding and approached
+Vannin and the weekly chart containing the amount of funding sought and other
+information.** Claimants further assert that Ms. Dosman was involved in internal reviews
+and discussions at Vannin regarding Claimants’ claim, including discussions with Mr.
+Rivas and attendance at weekly meetings. Claimants contend that Ms. Dosman does in
+fact recall the privileged information, specifically that Claimants were seeking funding,
+
+which Ms. Dosman, not Claimants’ counsel, relayed to Canada’s legal team.**
+
+Moreover, Claimants emphasize that within days of receiving notice of Ms. Dosman’s
+involvement in the arbitration, Claimants notified the Trade Law Bureau of the conflict of
+interest.*> Then, as the Tribunal was not yet constituted, Claimants immediately pursued
+
+their domestic court remedies by filing the FC Application (and then the FCA Appeal while
+
+7 R. Rejoinder, paras. 15-20. R. Response, paras. 58 et seq.
+
+Cl.
+sic].
+SC].
+SC.
+SC].
+SC].
+
+Motion, para. 3. Response, paras. 6 et seq.
+Motion, para. 3. Response, paras. 17 et seq.
+Reply, Section II(A).
+
+Reply, paras. 6-9.
+
+Reply, paras. 14-22.
+
+Motion, para. 100.
+
+77.
+
+78.
+
+79.
+
+80.
+
+seeking Respondent’s consent to stay the appeal). When Respondent did not consent to
+
+stay the appeal, Claimants brought the Motion before the Tribunal without delay.*°
+
+Contrary to Respondent’s assertions, Claimants submit that Canada will not suffer
+prejudice if the Motion is granted. There is no evidence that the approximately 35 Trade
+Bureau attorneys, who are not part of the conflicted Bureau team, are incapable of
+defending Canada in this dispute.*? Moreover, even if the Tribunal grants the Motion,
+Canada would still likely be represented by the Trade Law Bureau, so Canada would not
+
+be deprived of its counsel of choice.**
+
+Claimants, on the other hand, argue that they will suffer significant prejudice if the Motion
+is denied. Claimants highlight that both Canadian and international law “acknowledge that
+protecting privileged information is a fundamental component of ensuring the fairness of
+proceedings.”*” Claimants, moreover, strongly assert that “privilege trumps the right to
+
+choose counsel, especially at this early stage of these proceedings.”°
+
+According to Claimants, they have suffered significant prejudice as a result of the
+conflicted Bureau team continuing to act for Canada, including Claimants being prevented
+from prosecuting their claims in a timely manner and the impeding of Claimants’ ability to
+obtain litigation financing.*! Additionally, Claimants assert further possible future damage
+as the transferred privileged information could at the very least reveal their litigation
+strategy, and it is possible that Respondent will use the information to “improperly seek
+security for costs against the Claimants or continue delaying this Arbitration in an attempt
+
+to waste the Claimants’ time and money.”
+
+(2) Respondent’s Position
+
+According to Respondent, while at Vannin Ms. Dosman neither had access to, acquired,
+
+nor possessed privileged or confidential information, and was not acting as an attorney in
+
+*6 Cl. Motion, paras. 102-103.
+*7 Cl. Reply, para. 52.
+
+*8 Cl. Reply, para. 53.
+
+* Cl. Reply, para. 55.
+
+° Cl. Reply, para. 56.
+
+°! Cl. Reply, paras. 57-58.
+
+° Cl. Reply, para. 61.
+
+any event. Further, and regardless of the aforementioned, Ms. Dosman transferred no
+information to any member of Canada's legal team after moving from Vannin to Canada -
+save the fact that she confirmed Claimants were seeking litigation funding, a fact that
+
+Claimants’ themselves disclosed to Canada when they informed Canada that they had a
+
+“relationship with Vannin.”?
+
+81. Respondent underscores that “Claimants’ challenge is predicated on the fact that
+confidential and privileged documents were shared with Vannin, specifically with Mr.
+Rivas. Claimants have not produced any corroborating evidence regarding the
+communication of this information. Even if Vannin did receive such documents from
+Claimants, the evidence is that Ms. Dosman herself never did. And it is inaccurate to say
+
+that she admitted to receiving the information. In fact, no emails have been produced
+
+showing that privileged information was shared with her.”*
+
+82. Respondent submits that the Tribunal should consider the following facts when considering
+
+Claimants’ Motion:
+
+(a) There was no solicitor-client relationship, and indeed no
+fiduciary duty of loyalty, established between Ms. Dosman, on one
+side, and Vannin or the Claimants, on the other side. Contrary to
+the Claimants’ suggestions, Ms. Dosman’s employment contract
+shows that she was not employed as a legal counsel dispensing legal
+services. It is also clear that Vannin provides financing, not legal
+advice to its clients.
+
+(b) Ms. Dosman did not have access to any of the Privileged
+Information [defined by the Claimants as the BLG Memo prepared
+for Claimants, the proposed litigation budget; and a draft expert
+witness report”’] allegedly shared with Vannin. While employed at
+Vannin, she was not privy to any internal review or discussion of the
+Claimants’ case.
+
+(c) While employed at Vannin, Ms. Dosman did not obtain any
+confidential information that is of significance in the sense that it
+
+°3 R. Rejoinder, paras. 31 ef seq. R. Response, para. 66.
+° Hearing Tr., Day I, p. 21.
+°5 R. Rejoinder, para. 26 (citing Cl. Motion, para. 11; Cl. Reply, para. 3).
+
+20
+
+83.
+
+84.
+
+96
+
+would result in a prejudice to the Claimants’ interests in the
+arbitration at issue.
+
+(d) Ms. Dosman did not breach any confidentiality obligations
+under the NDA between Vannin and the Claimants or under her
+employment contract with Vannin: there has not been any disclosure
+of confidential information by her vis-a-vis Vannin or the
+Claimants.°®
+
+ 
+
+It is, therefore, Canada’s position that Ms. Dosman did not possess and consequently could
+not transfer any non-public, confidential, privileged, or other protected information to any
+other member of Canada's legal team and hence disqualification is not warranted under
+
+Canadian law, international law, or to preserve the integrity of the arbitration process.
+
+Furthermore, even if there is a conflict of interest, Respondent submits that the prejudice
+Canada would suffer from the disqualification of several Trade Law Bureau counsel far
+outweighs any prejudice suffered by Claimants.’ On 2 August 2019, Ms. Dosman was
+temporarily removed from the case and an ethical screen remains in place. Moreover, Ms.
+Dosman does not remember having any such confidential information, so she could not
+have passed it to any other Trade Law Bureau official. Consequently, “there is no basis
+for the Claimants’ request to disqualify other counsel in the Trade Law Bureau.” To
+exclude other Trade Law Bureau counsel “would be egregiously disproportionate and so
+prejudicial to Canada that it would violate the fundamental fairness of the proceedings
+and deprive Canada of its fundamental right to defend itself and fully present its case.”””
+Additionally, Respondent clarifies that the Trade Law Bureau is comprised of 12-15
+lawyers, not 35, and “Canada’s right to choose its counsel in this arbitration is a
+fundamental right which cannot lightly be interfered with, especially where, such as here,
+the reasons for doing so are tenuous and the potential effect on Canada’s fundamental
+
+rights would be significant.”!
+
+R. Rejoinder, para. 22.
+
+°7 R. Response, Section IV.
+°8 R, Response, para. 68.
+
+%® R, Response, para. 69.
+100 R. Rejoinder, para. 53.
+
+21
+
+85.
+
+VI.
+
+86.
+
+87.
+
+88.
+
+89.
+
+90.
+
+Respondent further rebuts Claimants’ accusations regarding its conduct. For example,
+Respondent has made a good faith effort to temporarily remove Ms. Dosman while the
+Claimants’ concerns were investigated and then, despite finding no evidence to disqualify
+
+her, Canada has maintained Ms. Dosman’s removal as a gesture of good faith. !°!
+
+THE TRIBUNAL’S ANALYSIS
+
+APPLICABLE LAW
+
+Claimants and Respondent agree that it is incumbent on this Tribunal to decide on the
+disqualification of Counsel for Respondent. Hence, the competence of the Tribunal to
+make the relevant ruling is not in dispute between the Parties but only the rules in reliance
+
+on which any determination is to be made.
+
+As summarised earlier, Claimants’ position is that the motion before the Tribunal must be
+determined in accordance with Canadian domestic law (being the law of the arbitral seat)
+— and in particular the provincial laws of Alberta as well as the Federal laws of Canada.
+Failing this, Claimants submit that the matter must be decided in accordance with
+international law. Respondent’s position is that the Tribunal must be guided by NAFTA,
+the UNCITRAL Rules (1976) and international law alone, without any reference to
+
+domestic law.
+
+Further, with respect to both competing approaches, the Parties disagree on the relevant
+
+principles to be applied.
+Each of these issues is addressed in turn.
+
+(1) Governing Law
+
+Having carefully considered each side’s submissions, the Tribunal concludes that there is
+
+no basis to apply Canadian domestic law (whether provincial or federal) to the Motion, and
+
+01 R. Rejoinder, para. 56.
+
+22
+
+91.
+
+92.
+
+that the Motion must instead be determined in accordance with NAFTA, the UNCITRAL
+
+Rules!” and international law.
+
+In arriving at this conclusion, there is an initial question as to the proper characterisation
+of the issue before the Tribunal. In this regard, there is a key distinction to be drawn
+between (1) regulating the conduct of counsel in terms of their professional duties and
+applicable ethical rules and (2) ensuring the integrity of the arbitration process itself,
+including fundamental principles of fairness, natural justice and equality as between the
+parties. In the Tribunal’s view, issue (1) is not a matter within its mandate but one for the
+regulatory authorities and courts of the jurisdiction to which any given counsel is subject.
+Issue (2), on the other hand, is squarely a matter for the Tribunal, and the core substance
+of the motion before it. Claimants themselves characterise their application for
+
+disqualification in the following manner:
+
+This Motion is about protecting the fairness of this Arbitration and
+upholding fundamental principles of natural justice.'°?
+
+This distinction between issues (1) and (2) was highlighted by the ad hoc committee in
+
+Fraport'™ at paragraphs 37 to 41:
+
+37. The Committee considers that it has the power and duty to
+conduct the process before it in such a way that the parties are
+treated fairly and with equality and that at any stage of the
+proceedings each party is given the opportunity to present its case.
+This power and duty necessarily includes the power and obligation
+to make sure that generally recognized principles relating to conflict
+of interest and the protection of the confidentiality of information
+imparted by clients to their lawyers are complied with. Indeed, such
+principles are of fundamental importance to the fairness of the
+Committee’s procedures, such that the Committee has the power
+and duty to ensure that there is no serious departure from them.
+
+ 
+
+39. However, the Committee does not have deontological
+responsibilities or jurisdiction over the parties’ legal
+
+02 Pursuant to NAFTA Article 1120(2), as modified by Section B of NAFTA Chapter Eleven.
+63 C], Motion, para. 41.
+"4 CLA-003, Fraport.
+
+23
+
+93.
+
+94.
+
+representatives in their own capacities. Despite the agreement of
+the parties to submit the present application to it, the Committee has
+no power to rule on an allegation of misconduct under any such
+professional rules as may apply. Its concern is therefore limited to
+the fair conduct of the proceedings before it.
+
+ 
+
+41. [...] the Committee's consideration of the matter is not, and
+should not be, based upon a nice reading of any particular code
+of professional ethics, applicable in any particular national
+jurisdiction. Such codes may vary in their detailed application.
+Rather, the Committee must consider what general principles are
+plainly indispensable for the fair conduct of the proceedings.
+
+Once the issue before the Tribunal has been characterised as issue (2), as distinguished
+from issue (1), it follows that domestic law does not govern. As explained below, this
+
+conclusion is so as a matter of principle and is also consistent with authority.
+
+First, as pointed out by Respondent, the NAFTA and the UNCITRAL Rules together
+constitute a complete, self-contained regime which includes broad discretion for the
+Tribunal to conduct the arbitral proceedings in any way it sees fit, so as to ensure fairness
+and equality between the parties. Absent the existence of mandatory principles which are
+to be applied pursuant to Article 1(2) of the UNCITRAL Rules (which are not alleged
+here)! this discretion is not tied to any domestic law. As noted in the leading commentary
+
+by Caron and Caplan:
+
+a choice of the UNCITRAL Rules is to be understood as an exclusion
+of all national arbitration law, except for its mandatory provisions.
+[...] [T]he arbitrators are not obliged to follow any domestic law in
+solving procedural problems not covered by the UNCITRAL Rules.
+They must, however, ensure that the mandatory norms of ‘the law
+applicable to the arbitration’ are not circumvented.'
+
+195 Article 1(2) of the UNCITRAL Rules provides: “These Rules shall govern the arbitration except that where any of
+these Rules is in conflict with a provision of the law applicable to the arbitration from which the parties cannot
+derogate, that provision shall prevail.”
+
+106 David D. Caron & Lee M. Caplan, The UNCITRAL Arbitration Rules: A Commentary, 2" Ed. (2013), at p. 35.
+
+24
+
+95.
+
+96.
+
+97.
+
+98.
+
+In particular, Article 15(1) of the UNCITRAL Rules provides for a very broad procedural
+
+discretion, as follows:
+
+[...] the arbitral tribunal may conduct the arbitration in such
+manner as it considers appropriate, provided that the parties are
+treated with equality and that at any stage of the proceedings each
+party is given a full opportunity of presenting his case.
+
+As Paulsson and Petrochilos note, Article 15(1) of the UNCITRAL Arbitration Rules:
+
+does not direct the tribunal to any national law (e.g. procedural law)
+as a source to draw upon."
+
+Claimants accept the existence of this broad discretion, '°* but argue that Canadian law must
+still be applied because neither NAFTA nor the UNCITRAL Rules address conflicts of
+interest or motions to disqualify counsel.'? But bearing in mind the distinction between
+issues (1) and (2) highlighted in paragraph 91 above, the alleged conflicts of interest that
+are the subject of the Motion are relied upon specifically in the context of ensuring the
+fairness and integrity of the proceedings. And the Tribunal’s power to safeguard the
+fairness and integrity of the proceedings is clearly a matter addressed and governed by the
+UNCITRAL Rules, in particular Article 15(1), or alternatively available by reason of the
+
+Tribunal’s inherent powers.
+
+It is useful in this regard to recall the breadth of Article 15(1) of the UNCITRAL Rules.
+
+This is elaborated by Paulsson & Petrochilos as follows: '!°
+
+[...] this provision is said to be ‘one of the most important sections
+of the [1976] UNCITRAL Rules [as it] provide[s] the key to a variety
+of problems not regulated elsewhere in the Rules’."!
+
+‘7 Jan Paulsson and George Petrochilos, UNCITRAL Arbitration (Kluwer 2017) (“Paulsson & Petrochilos”), pp. 120-
+
+121.
+
+"8 Cl, Motion, para. 42.
+
+‘© Cl, Motion, para. 44; Cl. Reply, para. 28.
+
+110 Paulsson & Petrochilos, pp. 120-122.
+
+\"1 Citing David D. Caron, Lee M. Caplan & Matti Pellonpiié, The UNCITRAL Arbitration Rules, A Commentary
+(OUP 2006), at p.26.
+
+25
+
+Arbitrators have thus relied on this broad authority for a variety of
+procedural decisions; [...]
+
+It may be helpful at the outset to examine the broad authority of the
+tribunal under article 15(1) of the 1976 Rules in the light of the
+doctrine of inherent powers. The doctrine was primarily developed
+in public international law ... and holds that tribunals possess
+certain powers that are not expressly conferred upon them, but
+which are nevertheless necessary for the proper discharge of their
+adjudicatory function or for the preservation of the integrity of the
+proceedings. [...]
+
+When powers are expressly conferred by the Rules, whether in
+broad or specific terms, it is difficult to see the need to resort to
+inherent powers. This applies [...] to the broad remit of a tribunal
+under article 15(1) of the 1976 Rules to ‘conduct the arbitration in
+such manner as it considers appropriate’ — there is nothing implied
+about this explicitly broad authority [...].
+
+99. In the alternative, if one looks beyond Article 15(1) of the UNCITRAL Rules, the existence
+of inherent powers on the part of international tribunals is, as Paulsson & Petrochilos
+observe, generally accepted. In particular, it is generally recognised that international
+tribunals have the inherent power to take measures to preserve the integrity of their
+proceedings and to ensure the effectiveness of their judicial function (being the core
+
+concern of this motion). In the words of Brower & Schill:
+
+[T]he inherent power of international courts and tribunals to act to
+preserve the integrity of proceedings, and to ensure the effectiveness
+of their judicial function, is a general principle of law in the sense
+of Art. 38(1)(c) ICJ Statute, independent of whether or not such
+powers are conferred explicitly upon a court or tribunal. The
+widespread acceptance of the authority of courts and tribunals to
+regulate the proceedings before them and to conduct them in an
+efficient manner further suggests that provisions in the constitutive
+documents of international courts and tribunals that can reasonably
+be understood as conferring such powers should be interpreted and
+applied accordingly [...].!!
+
+12.C, Brower & S. Schill, “Regulating counsel conduct before international arbitral tribunals” in P. Bekker, R. Dolzer,
+
+& M. Waibel (Eds.), Making Transnational Law Work in the Global Economy: Essays in Honour of Detlev Vagts
+(Cambridge: Cambridge University Press, 2010) 488-509, p. 499.
+
+26
+
+100.
+
+101.
+
+102.
+
+103.
+
+104.
+
+105.
+
+There are numerous instances of international tribunals deploying this inherent power. By
+
+way of example, in Libananco Holdings v. Turkey, the tribunal stated that it had:
+
+[no] doubt for a moment that, like any other international tribunal,
+it must be regarded as endowed with the inherent powers required
+to preserve the integrity of its own process [...].''5
+
+So it is (as noted e.g. by Paulsson & Petrochilos) that tribunals in proceedings under the
+UNCITRAL Rules routinely exercise discretion and fashion procedural solutions on a
+range of matters in order to ensure the fairness and integrity of their proceedings, without
+recourse to domestic law, despite there being no specific itemisation of the particular
+
+matters in the rules themselves.
+
+Indeed, Claimants’ own alternative case (that draws on international law) demonstrates that
+principles are readily available without the need to have recourse to domestic law, despite
+
+the lack of specific provision in NAFTA or the UNCITRAL Rules.
+
+It follows that, contrary to Claimants’ case, it is not correct that NAFTA and the
+UNCITRAL Rules contain a lacuna with regard to the issues raised by this motion and
+
+which must be filled by domestic law.
+
+Secondly, as emphasised by Respondent,!'* NAFTA in its Article 1131(1) (“Governing
+
+Law’) provides that:
+
+A Tribunal established under this Section shall decide the issues in
+dispute in accordance with this Agreement and applicable rules of
+international law.''°
+
+This is a mandate that excludes recourse to Canadian law for the purposes of deciding the
+issues in dispute. Whilst there is room for debate as to whether the phrase “issues in
+
+dispute” in Article 1131(1) is restricted to issues concerning the merits, rather than
+
+113 RLA-007, Libananco Holdings Co. Limited v. Republic of Turkey, \CSID Case No. ARB/06/8, para. 78 (Decision
+on Preliminary Issues, 23 June 2008).
+
+114 R. Response, para. 54; R. Rejoinder, para. 7.
+
+‘lS Respondent further relies upon the fact that NAFTA Article 1120(2) provides: “The applicable arbitration rules
+shall govern the arbitration except to the extent modified by this Section.” R. Rejoinder, para. 7.
+
+27
+
+106.
+
+107.
+
+108.
+
+109.
+
+procedural issues, the Tribunal considers that the intention behind Article 1131(1) is a
+
+general decoupling from domestic law of all the Contracting Parties to the treaty.
+
+Thirdly, even if the Tribunal were to look beyond the self-contained regime constituted by
+NAFTA and the UNCITRAL Rules, and consider connecting factors to determine which
+
+law ought to govern, for the reasons that follow, the position is not conclusive.
+
+Claimants point to the following connecting factors: (a) the arbitral seat being Calgary,
+Alberta; (b) the events at issue having occurred in Canada, including the allegedly
+privileged information at issue being located in Canada and having been transmitted to
+Respondent’s lawyers in Canada, and (c) the impugned members of Respondent’s legal
+team being Canadian lawyers, most of whom are registered with the Law Society of
+Ontario (Canadian conflict of interest laws being governed by Supreme Court of Canada
+jurisprudence which is equally applicable across Canadian provinces such as Alberta and
+
+Ontario). !'¢
+
+As for (a), the arbitral seat being Calgary, Alberta, in the absence of any mandatory
+principles of Alberta or Federal law that may be applicable pursuant to Article 1(2) of the
+UNCITRAL Rules, '"” the law of the seat has no obvious relevance to issues of conflicts of
+interest, which concern lawyer-client relations. Importantly, the arbitral seat is often
+chosen, as here, after the arbitration has commenced, and lawyer-client relationships have
+been concluded. It would be unfair to test such relations in accordance with a subsequently
+selected law that has not shaped expectations or conditioned conduct at a previous point in
+
+time.
+
+As for (b), the location of the events at issue, as noted by Respondent, there are factors
+
+8
+
+pointing in different directions.''® In particular, alongside the points identified by
+
+116 Cl, Motion, para. 45; Cl. Reply, para. 29.
+
+117 As noted by Respondent in paragraph 9 of its Rejoinder, there is no mandatory requirement in the Commercial
+Arbitration Act requiring the application of domestic rules on conflict of interest in international arbitrations seated in
+Canada. Moreover, in the course of the Claimants’ Federal Court proceedings, the Federal Court of Canada noted that
+“arbitrators have wide latitude to manage the proceedings before them, which includes setting procedural rules.”
+Geophysical Services Incorporated, et al. v. Her Majesty the Queen in Right of Canada, Federal Court File No. T-
+1735-19, Judgment and Reasons, 20 October 2020, para. 56.
+
+118 R. Response, para. 56.
+
+28
+
+110.
+
+111.
+
+112.
+
+113.
+
+114.
+
+Claimants, GSI transmitted the allegedly confidential and privileged information to
+Vannin, a U.S. firm, under a NDA which was subject to New York law and, at the time of
+the transmission of information, Ms. Dosman was employed by Vannin at their New York
+
+offices, under an employment contract also governed by New York law.
+
+As for (c), the impugned members of Respondent’s legal team being Canadian lawyers, the
+connecting factors relied upon by Claimants would be relevant to issue (1) as identified in
+
+paragraph 91 above, rather than issue (2).
+
+None of the connecting factors, therefore, mandate the application of Canadian law to this
+
+motion.
+
+The Tribunal therefore does not consider that domestic law provides the legal framework
+for determining this motion. This is not to say that no reference can be made to domestic
+law on conflicts of interest, or that domestic law cannot provide guidance, for example, as
+to what information may be confidential or privileged. But any such reference to domestic
+law can only be by way of broad guidance — in so far as needed — and must be in the context
+of the Tribunal’s exercise of its discretion under NAFTA and the UNCITRAL Rules under
+
+international law.
+
+This analysis is consistent with previous decisions of arbitral tribunals.'!? As noted by
+Respondent, '?° Claimants have not identified any decision by a tribunal constituted under
+international law that has applied a specific rule of domestic law to decide a motion to
+
+disqualify counsel or experts.
+
+Claimants have cited the decisions of (a) the ad hoc committee in Fraport; (b) the tribunal
+
+in Khudyan;'*! (c) the tribunal in Hrvatska;'” and (d) the tribunal in Rompetrol.'%
+
+119 The Tribunal is obviously not sitting in a hierarchical and unitary system which requires it to follow precedents.
+Prior decisions must nevertheless be considered as a matter of due process where these have been relied upon by the
+Parties. Further, there is value in considering the reasoning of prior tribunals who have grappled with similar issues.
+Further still, the Tribunal would be hesitant to depart from any jurisprudence constante.
+
+120 R. Rejoinder, para. 11.
+
+21 RLA-OLL, Khudyan.
+
+22 RLA-003, Hrvatska Elektroprivreda d.d. v. Republic of Slovenia, \CSID Case No. ARB/05/24 (Order Concerning
+the Participation of a Counsel, 6 May 2008) (“Hrvatska”).
+
+"3 RLA-004, The Rompetrol Group N.V. v. Romania, 1CSID Case No. ARB/06/3 (Decision of the Tribunal on the
+Participation of a Counsel, 14 January 2010) (“Rompetro!”).
+
+29
+
+Claimants place reliance on Fraport (in so far as the ad hoc committee referred to domestic
+law), and seek to distinguish the other authorities on the basis that they all involved
+proceedings governed by the ICSID Convention and Rules, which (unlike the UNCITRAL
+
+Rules) expressly preclude the application of domestic law. !*4
+
+115. In Fraport, it is correct that the ad hoc committee considered domestic law applicable to a
+lawyer who was subject to a disqualification application, despite the fact that the
+proceedings were governed by the ICSID Convention and Arbitration Rules, which
+preclude the application of domestic law. But importantly, the ad hoc committee made
+clear that it did so only in order to explore whether there were any “common general
+principles” which could guide it in the exercise of its discretion (under international law)
+
+in safeguarding the fair conduct of the arbitral proceedings:
+
+40. Mr. Schwartz is a member of the California and Paris Bars.
+The parties have made extensive reference in their submissions to
+the Californian law on legal ethics; and also to the ethical rules of
+the Paris Bar and, following the Committee’s request, to the Code
+of Conduct for Lawyers issued by the Council of the Bars and Law
+Societies of the European Union.
+
+41. This material is valuable to the extent that it reveals common
+general principles which may guide the Committee. But none of it
+directly binds the Committee, as an international tribunal.
+Accordingly, the Committee's consideration of the matter is not, and
+should not be, based upon a nice reading of any particular code of
+professional ethics, applicable in any particular national
+jurisdiction. Such codes may vary in their detailed application.
+Rather, the Committee must consider what general principles are
+plainly indispensable for the fair conduct of the proceedings. '?>
+
+116. Similarly, in each of the other decisions that have been cited, the tribunal approached the
+conflict issue from the perspective of its potential effect on the integrity and fairness of the
+arbitral proceedings. In each case, this was treated as a matter of international law, not
+
+domestic law.
+
+24 C], Motion, para. 81.
+5 CLA-003, Fraport, paras. 40-41.
+
+30
+
+117. In Khudyan, the tribunal stated that it had no authority to apply national law. Instead —
+citing Fraport — it approached the matter from the perspective of whatever was required to
+ensure the fair conduct of the proceedings, and formulated and applied a test as a matter of
+
+international law:
+B. Legal Standard
+
+SI. The Tribunal does not have the authority to police and
+sanction compliance with any particular national law or
+professional ethics code that may or may not be applicable to Dr.
+Tumanoy. Accordingly, the Tribunal will focus its assessment on the
+general principles that are indispensable for the fair conduct of the
+proceedings. In establishing which are the relevant general
+principles, the Tribunal will take guidance from the principles
+established by the ad hoc Committee in Fraport and those laid down
+in the Hague Principles, although it does not consider itself bound
+by them. '°6
+
+118. In Hrvatska, the tribunal’s analysis reflected the same approach as in Fraport. It drew the
+same distinction between issues 1 and 2 as in paragraph 91 above, and rejected the
+
+application of domestic rules regulating the conduct of counsel:
+
+23. [...] For an international system like that of ICSID, it seems
+unacceptable for the solution to reside in the individual national
+bodies which regulate the work of professional service providers,
+because that might lead to inconsistent or indeed arbitrary
+outcomes depending on the attitudes of such bodies, or the content
+(or lack of relevant content) of their rules. It would moreover be
+disruptive to interrupt international cases to ascertain the position
+taken by such bodies.
+
+119. Instead, the tribunal approached the conflict of interest objection before it from an
+exclusively international law perspective, and in particular the overriding principle of the
+immutability of properly constituted tribunals in Article 56 of the ICSID Convention;!2”
+
+the fundamental rule of procedure in Article 52(1)(d) of the ICSID Convention that the
+
+proceedings should not be tainted by any justifiable doubt as to the impartiality or
+
+26 RLA-OI1, Khudyan, para. 51.
+27 RLA-003, Hrvatska, paras. 25, 27-28.
+
+31
+
+120.
+
+121.
+
+122.
+
+123.
+
+independence of any tribunal member;!?*
+
+and the tribunal’s inherent power “to take
+measures to preserve the integrity of its proceedings”, which the tribunal held exists aside
+
+from the ICSID Convention and ICSID Arbitration Rules, being:
+
+[...] an ‘inherent power of an international court to deal with any
+issues necessary for the conduct of matters falling within its
+jurisdiction’; [and a] power [that] ‘exists independently of any
+statutory reference’.'”?
+
+Similarly, in Rompetrol, the tribunal made no reference at all to domestic law. Instead, it
+approached the application purely as a matter of international law, and on the basis that if
+the tribunal were to accede to the application to disqualify counsel, it would have to be
+
+because of:
+
+an overriding and undeniable need to safeguard the essential
+integrity of the entire arbitral process.'>°
+
+Consistent with the Tribunal’s approach, none of these decisions applied domestic law.
+Importantly, and contrary to Claimants’ submissions, this was not premised solely on the
+exclusion of domestic law by the ICSID Convention or Rules, but also on the distinction
+between issues (1) and (2) as set out in paragraph 91 above, and the lack of relevance of
+
+domestic law to issues concerning the integrity of the arbitral process itself.
+
+It follows from all these points that the Tribunal need not address the differences between
+the Parties as to the principles to be applied to this motion as a matter of the provincial law
+
+of Alberta and the Federal Law of Canada, where the Parties differ significantly.
+
+The Tribunal therefore turns to address the principles to be applied on the basis of NAFTA,
+the UNCITRAL Rules and international law.
+
+28 RLA-003, Hrvatska, para. 30.
+29 RLA-003, Hrvatska, para. 33.
+130 RLA-004, Rompetrol, paras. 16-17, 22.
+
+32
+
+(2) Applicable Principles
+
+124. In accordance with NAFTA, the UNCITRAL Rules and international law, safeguarding
+the fairness and integrity of these arbitral proceedings requires, in turn, the safeguarding of
+
+two fundamental principles, that must be balanced by the Tribunal:
+
+(1) The assurance of equal treatment as between the Parties in accordance
+with the principle of international reciprocity and due process
+(NAFTA Article 1115; UNCITRAL Rules, Article 15(1)); and
+
+(2) The right of the Parties “to be represented or assisted by persons of
+their choice” (UNCITRAL Rules, Article 4).
+
+125. As noted by the ad hoc committee in Fraport, the first of these principles:
+
+[...] necessarily includes the power and obligation to make sure that
+generally recognized principles relating to conflict of interest and
+the protection of the confidentiality of information imparted by
+clients to their lawyers are complied with. Indeed, such principles
+are of fundamental importance to the fairness of the Committee’s
+procedures, such that the Committee has the power and duty to
+ensure that there is no serious departure from them.'?!
+
+126. Butas also noted in Fraport, the second of these principles also raises fundamental issues,
+given that:
+[...] a decision to disqualify counsel from acting for a party in
+proceedings [...] affects that party’s freedom to rely upon advice
+and representation of counsel of its own free choosing. '*?
+127. Indeed in Rompetrol, the tribunal placed particular emphasis on this second principle,
+observing that:
+A power on the part of a judicial tribunal of any kind to exercise a
+
+control over the representation of the parties in proceedings before
+it is by definition a weighty instrument, the more so if the proposition
+
+31 CLA-003, Fraport, para. 37.
+82 CLA-003, Fraport, para. 38.
+
+33
+
+is that the control ought to be exercised by excluding or overriding
+a party’s own choice.'3
+
+128. These competing considerations were analysed and reconciled by the ad hoc committee in
+Fraport, as well as the tribunal in Khudyan. Both decisions are relied upon by Respondent
+and cited by the Claimants as part of their alternative case.'*4 Indeed the Claimants state
+
+in the Motion that:
+
+[...] #f the Tribunal rejects the Claimants’ primary position,
+Fraport, Khudyan and Hrvatska set out legal principles that can
+guide the Tribunal’s analysis of the conflict of interest.'*>
+
+129. In Fraport, an objection was made to a member of the claimant’s legal team acting in the
+arbitration on the ground that the lawyer in question had represented the respondent in prior
+related proceedings, during which time (inter alia) he had access to confidential
+
+information and the respondent’s case strategy.
+
+130. The objection in Fraport and the motion here are similar in that both concern the integrity
+and fairness of the arbitration procedure, rather than (as with other decisions cited) the
+impartiality or independence of the Tribunal itself. As noted by the respondent in Fraport,
+
+the order it sought from the tribunal was “[i]n the interest of safeguarding the integrity of
+
+these proceedings.”'*°
+
+131. The ad hoc committee, having noted the two competing interests identified in paragraph
+
+125 above, '*’ formulated the applicable standard in the following terms:
+
+whether there is a real risk that the lawyer could have received
+confidential information from that client, which may be of
+significance in the subsequent proceedings, and which may
+accordingly prejudice the fair trial of the second proceedings. '*
+
+"33 RLA-004, Rompetrol, para. 16. At paragraph 20, the tribunal also cited Article 6(3) of the European Convention
+on Human Rights, which refers to the right to defend oneself “{...] in person or through legal assistance of [one’s]
+own choosing” as part of the right to a fair trial [emphasis added by the tribunal].
+
+"4 Cl, Motion, paras. 86-89.
+
+85 Cl, Motion, para. 86.
+
+86 CLA-003, Fraport, para. 17.
+
+57 CLA-003, Fraport, paras. 37, 38.
+
+88 CLA-003, Fraport, para. 42.
+
+34
+
+132.
+
+133.
+
+134.
+
+135.
+
+136.
+
+This was described as appropriate for a situation involving a former client objecting to
+
+counsel, rather than a conflict arising from concurrent representation of clients.
+
+According to the ad hoc committee, the fact that counsel previously represented another
+party to the same or closely related proceedings — in and of itself — was not enough to meet
+the standard. For the integrity of the arbitral proceedings to be impugned, there must be a
+real risk of receipt in the first proceedings of confidential information which may be of
+
+significance in the subsequent proceedings.
+
+In Fraport, the respondent did not allege that the lawyer in question actually received
+specific confidential information, but submitted that there was a presumption that he would
+
+have done so.!*°
+
+Given the fundamental nature of each party’s right to be represented by the counsel of its
+choice, the ad hoc committee held that the receipt of confidential information may not be
+presumed lightly. Rather clear evidence is required, as a party cannot be prevented from
+
+access to its chosen counsel on the basis of mere appearances:
+
+The Committee cannot act in this regard simply on mere
+appearances since to prevent a party from having access to its
+chosen counsel cannot depend upon a nebulous foundation, but
+rather must flow from clear evidence of prejudice.'*°
+
+In Khudyan, an application was made to remove a member of the claimant’s legal team —
+Dr. Gevorg Tumanov — as counsel of record in the arbitration on the basis that he had
+worked on the case previously while in the employment of the respondent’s Ministry of
+Justice. It was the respondent’s case that “Dr. Tumanov’s present involvement as counsel
+for [c]laimants [...] constitutes a conflict of interest and makes a misuse of the confidential
+information he obtained while being employed by the Armenian Government highly
+
+likely.”'4!
+
+89 CLA-003, Fraport, para. 47.
+40 CLA-003, Fraport, para. 55.
+4 RLA-OI1, Khudyan, para. 26.
+
+35
+
+137. In terms of the nature of the complaint in Khudyan, though not necessarily the precise facts,
+there are obvious parallels with the motion before this Tribunal. Again, as with Fraport,
+the objection and the motion in Khudyan and here concern the integrity and fairness of the
+arbitration procedure, but — unlike other authorities cited — do not concern the impartiality
+
+or independence of the Tribunal itself.
+
+138. The tribunal in Khudyan proceeded by focusing on general principles that it considered are
+
+142
+
+“indispensable for the fair conduct of the proceedings,” '*” and for this purpose considered
+
+The Hague Principles on Ethical Standards for Counsel Appearing before International
+Courts and Tribunals, developed by the International Law Society Study Group on the
+Practice and Procedure of International Tribunals, and the reasoning of the ad hoc
+
+committee in Fraport, noting that it was bound by neither.
+
+139. The tribunal then formulated the relevant test and the relevant question in that case
+
+consistently with Fraport, as follows:
+
+In order to disqualify Dr. Tumanov, it must be demonstrated that
+there is a real risk that he obtained confidential information that
+may be of significance to the dispute before the Tribunal.'°
+
+Is there clear evidence of a material risk that Dr. Tumanov received
+confidential information from the Respondent about the dispute with
+the Claimants that could be of significance in the present
+proceedings such that there would be prejudice to the fair
+disposition of the dispute in this arbitration if the Claimants were
+allowed to continue being represented by Dr. Tumanov?'*+
+
+140. Agreeing with the approach in Fraport, the tribunal in Khudyan stated that:
+
+[...] it cannot act on the basis of a presumption that a prior retainer
+gives rise to a material risk that confidential information was
+imparted by the Respondent to Dr. Tumanov. As the mere
+appearance of a conflict of interest does not suffice to disqualify Dr.
+Tumanov, clear evidence is required of the existence of a material
+
+2 RLA-OI1, Khudyan, para. 51.
+43 RLA-OI1, Khudyan, para. 59.
+4 RLA-OI1, Khudyan, para. 60.
+
+36
+
+141.
+
+142.
+
+143.
+
+144.
+
+145.
+
+risk that the Respondent imparted to Dr. Tumanov confidential
+
+information, which may be of significance in these proceedings and
+
+accordingly may prejudice the fair disposition of the dispute in this
+
+arbitration.
+As for the other authorities cited by the Parties — Hrvatska and Rompetrol — these are not
+obviously relevant, since the tests developed in each were premised upon safeguarding the
+impartiality and independence of the arbitral tribunal, not the fairness and integrity of the
+
+proceedings as per the motion here. '*°
+
+The Tribunal considers that there is no basis to depart from the reasoning in both Fraport
+and Khudyan. Both carefully balance the fundamental competing interests at stake, and
+
+both provide a workable, balanced and fair approach.
+
+On this basis, the Tribunal finds that the relevant test here is as follows: Whether there is
+clear evidence of a material risk that Ms. Dosman and Mr. Luz have received confidential
+information from Claimants about the dispute that could be of significance in the present
+proceedings such that there would be prejudice to the fair disposition of the dispute in this
+
+arbitration if Respondent were allowed to continue being represented by them.
+
+APPLICATION OF THE LAW OF THE FACTS
+(1) Introductory Comments
+
+The Tribunal, while noting that it is not bound by legal precedent, '4” has articulated earlier
+that it will consider prior decisions as a matter of due process when relied upon by the
+
+Parties and also that it will be hesitant to depart from any jurisprudence constante.
+
+Both Claimants and Respondent have relied on Fraport and Khudyan, which both deal
+with situations similar to the one at hand. The Tribunal has already found!** that there is
+no basis to depart from the reasoning in such authorities, which well balance the two
+
+competing interests at stake, namely preservation of the integrity of the proceedings and
+
+45 RLA-OI1, Khudyan, para. 61.
+
+146
+
+This is accepted by Claimants with respect to Hrvatska. As stated in Cl. Motion at paragraph 88: “[...] Hrvatska
+involved a different type of conflict from the one at issue in this Motion [...]
+
+47 See fn. 119.
+48 See para. 142.
+
+37
+
+146.
+
+147.
+
+148.
+
+149.
+
+the right of a party to be represented by counsel of its choice. However, any determination
+of the existence of a conflict of interest is fact specific, and so the Tribunal must evaluate
+the largely uncontested facts in some detail and consider whether they include elements
+
+that differ from Fraport and Khudyan.
+
+This analysis must start with an assessment of the nature of the information about the
+dispute that Ms. Dosman is said to have received from Claimants, and subsequently
+transmitted to Mr. Luz, and that could be of significance in the present proceedings, since
+this grounds the prejudice to the fair disposition of the dispute in this arbitration of which
+
+Claimants complain.
+
+Claimants have asked that both Ms. Dosman and Mr. Luz be disqualified. The Tribunal’s
+analysis will center on Ms. Dosman, who also allegedly acted as the conduit of any
+information that may be in the possession of Mr. Luz. There is no evidence, nor indeed
+argument, that Mr. Luz had access to any information aside from that to which Ms. Dosman
+
+had access.
+
+(2) Nature of Information Allegedly Received
+
+i. Confidential Information
+
+The Tribunal considers that the notion of confidential information must include any
+confidential information imparted by clients to their lawyers without distinguishing
+between attorney-client privileged information or contractually confidential information
+under (here) the NDA. The Tribunal also does not find that the specific role or capacity in
+which Ms. Dosman, who is a lawyer, received the allegedly confidential information at
+Vannin makes any difference to the disposition of the Motion: both she and Mr. Luz act,
+or as regards Ms. Dosman intend to act, as counsel in these proceedings, and the Tribunal
+is tasked with determining whether any information that they possess could be significant
+
+in the arbitration and prejudicial to Claimants.
+
+According to Claimants, on 8 February 2019, following the execution of the Common
+Interest Agreement, they provided the following materials to Vannin (referred to as
+
+“Privileged Information”) for purposes of discussions aimed at funding this Arbitration: a
+
+38
+
+150.
+
+151.
+
+152.
+
+Memorandum prepared for Claimants by its Counsel that assessed the merits of Claimants’
+claims against Canada, and Claimants’ proposed litigation strategy; a litigation budget
+outlining relevant steps and a draft report prepared by an expert witness regarding
+Claimants’ claims in this Arbitration (as set out above).'*? These materials have not been
+made available to the Tribunal (due to their allegedly privileged nature) but the Tribunal
+has no reason not to believe that documents under the named headings were shared with
+Vannin, and that the information they contained regarding Claimants’ case was thereby
+made available at Vannin. This, in addition to the (also confidential) fact that Claimants
+
+were seeking litigation funding in the first place.
+
+Preceding the provision of these privileged materials, Ms. Dosman was copied on an email
+exchange on 5 February 2019!*° between Mr. Rivas of Vannin and Ms. Lemmens, Counsel
+for Claimants, which has been partially redacted by Claimants under an assertion of
+privilege. The email related to a prospective meeting among counsel for Claimants and
+Vannin. In Ms. Lemmens’ 5 February 2019 response message, Ms. Lemmens noted, “J
+will catch up with you on the NDA and get that finalized so that we can share some more
+
+in-depth information”.'*' It is not in dispute that this email was sent.
+
+Ms. Dosman has testified that she does not recall seeing or reading this email.'*? although
+she would generally read her emails. There is also nothing in the record to suggest Ms.
+
+Dosman ever participated in the future call referenced in Ms. Lemmens’ email.
+
+Ms. Dosman also seems to have had the information that Claimants’ claim was considered
+“high value,” based upon her, albeit unstable (see further below) recollection of an initial
+phone call with Mr. Rivas.'*? This evaluation allows for a conclusion that the claim was
+
+considered at Vannin to have at least some prospect of success.
+
+49 See para. 47.
+'50 R.003, Email from Matti Lemmens, to José Antonio Rivas, Vannin Capital, 4-5 February 2019.
+'S! R.003, Email from Matti Lemmens, to José Antonio Rivas, Vannin Capital, 4-5 February 2019.
+
+152
+
+R-009, Examination for Discovery of Alexandra Dosman, 27 January 2020, p. 33.
+
+'S3 Hearing Tr., Day 1, pp. 151-155.
+
+39
+
+153.
+
+154.
+
+155.
+
+156.
+
+157.
+
+ii. Clear Evidence of a Material Risk of Passing of Information
+
+The materials provided by Claimants on 8 February 2019 clearly constitute confidential
+information that in the Tribunal’s view — if available to Respondent — could be both
+significant in the arbitration and prejudicial to Claimants. Ms. Dosman has denied
+becoming privy to these specific materials, since she had declined to work on this lead, and
+
+there is no evidence to the contrary in the record.
+
+The concern for the Tribunal, however, is whether Ms. Dosman became privy to
+confidential information through the general information sharing and internal briefings that
+took place on a regular basis in the Vannin firm. It is not in dispute that Ms. Dosman
+participated in these information sharing and internal briefings, although, in her own words,
+“thereafter [1] actively did not participate in anything to do with that [Claimants’] file.”
+“Thereafter”, to the Tribunal’s understanding, refers to Ms. Dosman declining from the
+
+outset (early 2019) Mr. Rivas’ invitation to work on Claimants’ file.
+
+It is noteworthy, in this regard, that, at the time of its regular information sharing and
+internal briefings, Vannin did not know that Ms. Dosman was transferring to the Trade
+Law Bureau and there is no suggestion or evidence that any ethical walls had been put in
+place preventing Ms. Dosman’s access to Claimants’ file or information. Indeed, evidence
+from Vannin has not been presented in these proceedings. It was therefore up to Ms.
+
+Dosman to self-regulate in order not to access information.
+
+Since Vannin did not know the reason why Ms. Dosman had declined to work on
+Claimants’ case, she continued to attend general staff meeting calls and receive, via email,
+weekly charts including information about the status of the “/ead” involving Claimants and
+the prospective arbitration. Among the information contained in those weekly charts would
+have been the amount of funding that Claimants were seeking and whether that figure
+
+remained static or not.!*4
+
+Both the precise contours of the information regularly shared in Vannin’s internal briefings
+
+and the extent of attention paid my Ms. Dosman to any such information remain unclear,
+
+'S4 R009, Examination for Discovery of Alexandra Dosman, 27 January 2020, p. 25.
+
+40
+
+158.
+
+159.
+
+160.
+
+161.
+
+and this is compounded by the absence of any evidence from Vannin. It must, however,
+be presumed that some of this information was confidential, and the test that must now be
+applied is whether “there is a real risk that [Ms. Dosman] could have received [such]
+
+information.” In assessing this question, the Tribunal must consider the relevant timeline.
+
+On or about 12 March 2019, Ms. Dosman resigned from Vannin, and she officially and in
+practice left the company on 3 May 2019.'*> When she resigned, Ms. Dosman informed
+
+Vannin that she intended to take a position at the Trade Law Bureau. !°
+
+During the period between Ms. Dosman’s notice of resignation and departure, Ms. Dosman
+continued to attend Vannin team meetings and receive weekly update charts on pending
+and prospective Vannin matters. '*” According to Ms. Dosman, “[t]he chart recorded some
+of the basic information. I did not receive any other information about GSI. Thus, all I
+knew was that: (a) GSI was represented by counsel in Alberta; (b) the claim was against
+Canada; (c) the claim was under the NAFTA; (d) the case involved intellectual property;
+(e) GSI was seeking funding; (f) the damages claimed against Canada were significant;
+
+and (g) José Antonio Rivas was in preliminary discussions with GSI counsel.”'**
+
+While it has been concluded above that the record does not show or suggest that Ms.
+Dosman would have had access to the 8 February materials, it is clear that she did have
+access to the information shared in Vannin’s internal briefings. Ms. Dosman, however,
+has testified that she does not now recall anything said during these meetings beyond what
+was contained in the charts and further that the amount of funding sought would have been
+a column in the chart but that “7 don’t know if that number appeared for GSI, and I certainly
+
+don’t remember if it did.”'*?
+
+While Ms. Dosman’s recollection of the extent of information presented in internal
+
+meetings or charts has varied somewhat between the several testimonies given by her in
+
+155 C_010, Affidavit of Edith Alexandra Dosman, 18 December 2019, para. 16.
+
+156
+
+Hearing Tr., Day 1, p. 96.
+
+'57 Hearing Tr., Day 1, pp. 96-97.
+'58 Hearing Tr., Day 2, p. 287 (citing C-010, Affidavit of Edith Alexandra Dosman, 18 December 2019, para. 34).
+'S9 Hearing Tr., Day 1, p. 128.
+
+4l
+
+162.
+
+163.
+
+164.
+
+165.
+
+these proceedings and prior thereto before the Canadian court, the Tribunal has no reason
+
+to question her sincerity in giving evidence or in her contemporaneous actions.
+
+On 31 May 2019, the Trade Law Bureau provided Ms. Dosman with an offer letter, which
+she accepted on 3 June 2019.
+
+On 7 June 2019, Ms. Dosman started her employment at the Trade Law Bureau, and shortly
+afterwards, Ms. Dosman was assigned to several arbitration and advisory matters,
+
+including the present matter. !°°
+
+Ms. Dosman testified that even though she was aware of the fact Claimants were discussing
+seeking litigation funding from Vannin, she never shared that information with the Trade
+
+Law Bureau after she began working for them, with one exception.
+
+Ms. Dosman testified that once, at the Trade Law Bureau, she reviewed an exchange of
+letters between Ms Lemmens and Mr. Luz, dated 2 and 16 August 2019, in which Ms.
+Lemmens raised the issue of a conflict if Ms. Dosman were indeed working on this
+arbitration matter. The relevant line from Ms. Lemmens’ 2 August 2019 letter is that:
+“During the course of Ms. Dosman’s previous employment as Managing Director at
+Vannin Capital LLC (“Vannin”), GSI and its investors shared confidential information
+regarding the Arbitration with Vannin, and continue to have a relationship with Vannin as
+
+the Arbitration moves forward.” Canada’s position is that the letter from Ms. Lemmens
+
+implied that Vannin did in fact agree to fund this arbitration. When asked about this Ms.
+
+Dosman testified:
+
+it was put to me that the Claimant[s] here had a funding
+relationship, an ongoing relationship. I did read the letter. And I
+took that to mean that Vannin had decided to go ahead and fund the
+claim. And in light of that, I felt that it was appropriate to say that
+that was not the state of things as I knew it. That as I knew it, there
+was no funding agreement. So, at that point when the Claimants
+had come forward and said that had sought funding, so they had
+revealed that and implied—very strongly implied that you had—that
+
+160 C.010, Affidavit of Edith Alexandra Dosman, 18 December 2019, para. 17. Hearing Tr., Day 1, pp. 97, 103.
+
+42
+
+166.
+
+167.
+
+168.
+
+they had a funding relationship, I corrected that, to my
+knowledge. '°!
+
+It is unclear how Ms. Dosman would be in a position to know the relationship between
+Claimants and Vannin in August of 2019 given the fact that her conversation with Mr.
+Rivas was in January of 2019, and she has indicated that she did not actively participate in
+the matter and paid no or little attention to any discussions about the potential lead
+
+thereafter and left Vannin in May 2019.
+
+While, again, the Tribunal has no doubt that Ms. Dosman’s statements have been made
+bona fide, the above incident serves to illustrate a fundamental risk that is now presented
+in this arbitration — namely that a latent recollection can be triggered or unearthed by a
+supervening event. While Ms. Dosman has testified that she did not read or recall emails
+regarding this “/ead”, nor pay attention to information in emails, calls or charts, Ms.
+Dosman’s current (and understandable) inability to recall details of Claimants’ confidential
+information cannot be a conclusive answer. In particular, the Tribunal finds that there is a
+real risk that she may recall something of significance as a result of a triggering event. The
+test to be applied is not a determination that confidential information was passed, but that
+there is a real risk to this effect. In all the circumstances of this case, the Tribunal finds
+
+that this threshold has been met with respect to Ms. Dosman.
+
+However, when it comes to the request that Mr. Luz also be disqualified, the Tribunal finds
+on the evidence before it that the only information that has passed from Ms. Dosman to
+Mr. Luz is her correction of a (possible) understanding of a funding relationship between
+Claimants and Vannin. This is a matter, if true, which was already known to Canada prior
+thereto by virtue of Claimants’ own disclosure. The Tribunal does not believe that Ms.
+Dosman’s possible participation in a meeting at the Trade Law Bureau on intellectual
+property, shortly after her commencement of her employment at the Trade Law Bureau
+could have been such as to pass to Mr. Luz confidential information regarding Claimants
+or their case. The Tribunal is confirmed in this view by the absence of any evidence that
+
+matters of significance in these proceedings were addressed at the meeting.
+
+6! Hearing Tr., Day 1, p. 109.
+
+43
+
+169.
+
+170.
+
+171.
+
+VIL.
+
+172.
+
+162
+
+The Tribunal therefore decides to disqualify Ms. Dosman from representation of Canada
+
+in this arbitration while denying the request in relation to Mr. Luz.
+
+(3) Canada’s Right to Counsel of its Choice
+
+As already noted earlier, according to Khudyan, a party’s right to counsel of choice is
+fundamental. Hence clear evidence is required to disqualify counsel, as a party cannot be
+prevented from access to its chosen counsel on the basis of mere appearances. In this case
+the Tribunal has found clear evidence of a real risk. The Tribunal also finds that the
+consequences of this finding will not in any serious manner affect Canada’s right to counsel
+of its choice: Mr. Luz is the Trade Law Bureau’s Deputy Director and Senior Counsel,
+and the Tribunal understands that among the other Counsel representing Canada, at least
+those participating in the Hearing on the Motion, are lawyers of considerable seniority and
+experience at the Trade Law Bureau. Ms. Dosman’s disqualification is not therefore likely
+to have an adverse impact on Canada’s ability to plead its case. This, in particular, since
+Canada has represented that it has maintained Ms. Dosman’s removal as a gesture of good
+faith.'® Also, the fact that there is a challenge to Ms. Dosman has been known to Canada
+
+since the commencement of this arbitration.
+
+(4) Costs
+
+The Parties have not requested a cost order in this Decision and costs are accordingly
+
+reserved.
+
+DECISION
+
+On the basis of the foregoing considerations, the Tribunal:
+
+a. orders Ms. Alexandra Dosman to be permanently removed from acting for or on behalf
+
+of Canada in this Arbitration;
+
+b. reserves costs; and
+
+R. Rejoinder, para. 56. Hearing Tr., Day 1, p. 23.
+
+44
+
+c.
+
+rejects all other claims and requests.
+
+45
+
+Place of Arbitration: Calgary, Alberta, Canada
+
+Date: 24 February 2022
+
+(Lat
+
+Mr. Trey ly Mr. Toby Landau, QC
+
+Arbitrator Arbitrator
+
+ 
+
+ZA 4 ,
+AV hig oad lrler,
+
+Ms. Carita Wallgren-Lindholm
+President of the Tribunal
+
+46
+

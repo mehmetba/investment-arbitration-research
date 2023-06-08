@@ -1,0 +1,3549 @@
+PCA CASE NO. 2009-23
+
+IN THE MATTER OF AN ARBITRATION BEFORE A TRIBUNAL CONSTITUTED
+IN ACCORDANCE WITH THE TREATY BETWEEN THE UNITED STATES OF
+AMERICA AND THE REPUBLIC OF ECUADOR CONCERNING THE
+ENCOURAGEMENT AND RECIPROCAL PROTECTION OF INVESTMENTS,
+SIGNED 27 AUGUST 1993 (THE “TREATY”) AND THE UNCITRAL
+ARBITRATION RULES 1976
+
+BETWEEN: —
+
+1. CHEVRON CORPORATION (“Chevron”)
+2. TEXACO PETROLEUM COMPANY (“TexPet”)
+(both of the United States of America)
+The First and Second Claimants
+
+- and -
+
+THE REPUBLIC OF ECUADOR
+
+The Respondent
+
+ 
+
+First Partial Award on Track I
+
+dated 17 September 2013
+
+ 
+
+The Arbitration Tribunal:
+Dr Horacio A. Grigera Naén;
+Professor Vaughan Lowe;
+V.V. Veeder (President)
+
+Administrative Secretary: Martin Doe
+
+TABLE OF CONTENTS
+
+PART A: The Arbitration — Track I
+Introduction
+Procedure
+Written Pleadings
+Written Testimony
+The November Hearing
+Track IT
+
+PART B: The Principal Documents
+Introduction
+(i) The 1995 Settlement Agreement
+(ii) The 1996 Municipal and Provincial Releases
+(iii) The 1998 Final Release
+
+PART C: The Parties’ Respective Cases
+Introduction
+The Claimants’ Case
+The Claimants’ Claimed Relief
+The Respondent's Case
+
+The Respondent's Claimed Relief
+
+PART D: The Tribunal’s Analyses and Decisions
+I: Introduction — Legal Interpretation
+(i) The Relevant Rules
+
+(ii) The Expert Testimony
+
+04
+04
+04
+05
+05
+07
+08
+
+09
+09
+09
+13
+14
+
+16
+16
+16
+20
+23
+26
+
+28
+28
+28
+29
+
+(iii) Analysis — Legal Interpretation
+Article 9.3
+
+The Release
+
+Article 5
+
+Article 9.4
+
+Legal Ambiguity
+
+Decisions — Legal Interpretation
+
+II: Introduction — Legal Effect
+
+(i) Analysis — Legal Effect
+
+(ii) Article 19-2
+
+(iii) Decisions — Legal Effect
+
+PART E: The Operative Part
+
+APPENDIX 1: The 1995 Settlement Agreement (Spanish original version)
+
+32
+33
+33
+35
+36
+37
+37
+37
+38
+40
+43
+
+45
+
+PART A: THE ARBITRATION — TRACK I
+
+Introduction: This Partial Award addresses the Parties’ dispute concerning the legal
+interpretation and legal effect of the 1995 Settlement Agreement made between the
+Second Claimant (“TexPet”) and the Respondent as its signatory parties, to which the
+First Claimant (“Chevron”) was not a signatory Party. For ease of reference, a full
+copy of the 1995 Settlement Agreement in its original Spanish version is appended to
+and forms part of this Partial Award (Appendix 1). Given the original language of this
+Partial Award, for convenience only, references are made below to its English
+
+translation, save where otherwise indicated.
+
+Given the status of this Partial Award as the fifth award made in these arbitration
+proceedings, it serves no purpose here re-stating the formal parts set out in the
+Tribunal’s earlier awards; and for simplicity’s sake, the Tribunal here incorporates by
+reference Part I of its Third Interim Award on Jurisdiction and Admissibility dated 21
+
+February 2012.
+
+Procedure: In summary, applying a ‘prima facie’ standard appropriate to issues of
+jurisdiction, the Tribunal decided in that Third Interim Award that the Claimants’
+interpretation of the 1995 Settlement Agreement, albeit strongly disputed by the
+Respondent, was at least “serious”; but the Tribunal did not otherwise there finally
+decide on the interpretation or effect of the 1995 Settlement Agreement one way or
+the other. Instead the Tribunal decided, given that both were mixed questions relevant
+to the Respondent’s disputed jurisdictional objections under Article VI(1)(a) of the
+BIT and to the merits of Chevron’s disputed claims, to join the Respondent’s
+jurisdictional objection to the merits of those claims under Article 21(4) of the
+
+UNCITRAL Arbitration Rules.
+
+Subsequently, by its Procedural Order No 10 dated 9 April 2012, the Tribunal divided
+the merits of the Parties’ dispute into two parts, entitled “Track I” and “Track II”.
+Track I was to comprise preliminary legal issues arising from the 1995 Settlement
+
+Agreement, limited to its legal interpretation and legal effect as alleged by the
+
+4
+
+Claimants and disputed by the Respondent, including (in particular) whether or not
+Chevron is a “Releasee” under the 1995 Settlement Agreement and Article IV of the
+1998 Final Release: Paragraphs 2 & 3 of the Procedural Order.
+
+Given the complexities of the Parties’ overall dispute and its developing nature as this
+arbitration continues, the Tribunal also recognised in Procedural Order No 10 that it
+might not be possible or appropriate to decide these preliminary issues in full, thereby
+requiring the Tribunal to defer one or more decisions to Track II. Even in that event,
+however, the Tribunal recognised that time and expense would not necessarily be
+duplicated or wasted for the Parties or the Tribunal. As explained below, the Tribunal
+has decided that it is not appropriate in Track I to decide in full the legal effect of the
+1995 Settlement Agreement, applying the legal interpretation here decided by the
+
+Tribunal.
+
+Written Pleadings: Pursuant to the Tribunal’s procedural orders, the Parties submitted
+the following written pleadings relevant to Track I (the first two pre-dating Procedural
+
+Order No 10):
+
+(i) | The Claimants’ Memorial on the Merits dated 6 September 2010;
+
+(ii) The Claimants’ Supplemental Memorial on the Merits dated 20 March 2012;
+(iii) The Respondent’s Counter-Memorial dated 3 July 2012;
+
+(iv) The Claimants’ Reply Memorial dated 29 August 2012; and
+
+(v) The Respondent’s Rejoinder dated 26 October 2012.
+
+Whilst the Parties have submitted during these proceedings other written pleadings
+touching upon issues decided in this Partial Award, the Tribunal considers that their
+respective written cases for Track I can fairly be taken for present purposes from the
+
+five pleadings listed above.
+
+Written Testimony: The Claimants submitted the following written expert testimony
+
+relevant to Track I:
+
+(i) The first expert report of Dr Enrique Barros (undated);
+
+(ii)
+
+(iii)
+(iv)
+(v)
+
+(vi)
+(vii)
+
+The first and second expert reports of Dr César Coronel Jones dated 3
+September 2010;
+
+The first expert report of Professor Angel R. Oquendo dated 2 September 2010;
+The first expert report of Dr Gustavo Romero Ponce dated 3 September 2010;
+The second expert report of Dr Enrique Barros dated 27 August 2012;
+
+The third expert report of Dr César Coronel Jones dated 28 August 2012;
+
+The expert report of Professor William T. Allen dated 27 August 2012;
+
+(viii) The second expert report of Professor Angel R. Oquendo dated 28 August 2012;
+
+(ix)
+(x)
+
+(xi)
+(xii)
+
+The second expert report of Dr Gustavo Romero Ponce dated 27 August 2012;
+The third expert report of Dr Enrique Barros dated 19 November 2012;
+
+The fourth expert report of Dr Enrique Barros dated 19 November 2012; and
+The fourth expert report of Dr César Coronel Jones dated19 November 2012.
+
+The Claimants submitted the following written factual testimony relevant to Track I:
+
+(i)
+(ii)
+(iii)
+
+The witness statement of Mr Frank G. Soler dated 27 August 2010;
+The first witness statement of Dr Ricardo Reis Veiga dated 27 August 2012; and
+
+The second witness statement of Dr Ricardo Reis Veiga dated 28 August 2012.
+
+The Respondent submitted the following written expert testimony relevant to Track I:
+
+(i)
+
+(ii)
+(iii)
+
+iv)
+)
+
+(i)
+
+(vii)
+
+The first expert report of Professor Roberto Salgado Valdez dated 1 October
+2010;
+
+The first expert report of Professor Genaro Eguiguren dated 2 July 2012;
+
+The second expert report of Professor Roberto Salgado Valdez dated 2 July
+2012;
+
+The first expert report of Professor Gilles Le Chatelier dated 2 July 2012;
+
+The third expert report of Professor Roberto Salgado Valdez dated 26 October
+2012;
+
+The second expert report of Professor Genaro Eguiguren dated 26 October
+2012; and
+
+The second expert report of Professor Gilles Le Chatelier dated 25 October
+2012;
+
+The Respondent submitted the following written factual testimony relevant to Track I:
+
+(i) | The witness statement of Mr Giovanni Elicio Mario Rosania Schiavone dated
+
+24 October 2012.
+
+Pursuant to the Tribunal’s orders, the Parties also submitted the following joint expert
+
+reports:
+
+(i) The joint expert report dated 6 August 2012 of Dr Enrique Barros, Dr César
+Coronel Jones and Professor Roberto Salgado Valdez;
+
+(ii) The joint expert report dated 7 August 2012 of Dr Enrique Barros, Dr César
+Coronel Jones, Professor Genaro Eguiguren, Professor Angel R. Oquendo and
+Dr Gustavo Romero Ponce; and
+
+(iii) The joint expert report dated 7 August 2012 of Professor Gilles Le Chatelier and
+Professor Angel R. Oquendo.
+
+The November Hearing: The issues under Track I were argued by the Parties at the
+oral hearing in London held over three days from 26 to 28 November 2013, with the
+assistance of English and Spanish interpreters and recorded in the form of both
+English and Spanish transcripts (the “November Hearing”). The references below are
+made to the English version of the November Hearing’s verbatim transcript, as
+
+follows: D1.10 signifies the first day, at page 10.
+
+The Claimants and the Respondent were represented respectively at the November
+Hearing by those persons listed in the verbatim transcript; and it serves no purpose
+here listing these persons by name, save as follows: for the Claimants, opening oral
+submissions were made Mr Hewitt Pate [D1.8], Professor Crawford [D1.12] and
+Doak Bishop Esq [D1.33]; for the Respondent opening oral submissions were made
+by Attorney-General Garcia Carrion [D1.60] and Professor Douglas [D1.64]; for the
+Claimants, closing oral submissions were made by Mr Hewitt Pate [D3.471],
+Professor Crawford [D3.491 & D3.545] and Doak Bishop Esq [D3.522]; and for the
+Respondent, closing oral submissions were made by Luis Gonzales Esq [D3.555],
+
+Tomas Leonard Esq [D3.573] and Eric W. Bloom Esq [D3.594].
+
+The Claimants tendered three oral witnesses at the November Hearing: (i) Dr Ricardo
+Reis Vega [D2.244x, 247xx & 283xxx]; (ii) Professor Angel P. Oquendo [D2.298x,
+299xx & 376xxx]; and (iii) Dr Gustavo Romero Ponce [D2.381 & 383xx]. The
+Respondent tendered two oral witnesses at the November Hearing: (i) Mr Giovanni
+Elicio Mario Rosania Schiavone [D1.96x, 104xx & 147 xxx]; and (ii) Professor
+Genaro Eguiguren [D1.155x, 173xx & 219xxx].
+
+Track IT: At as the date of this Partial Award, the Parties are completing their written
+pleadings in Track II, to be achieved by 29 November 2013, with the oral hearing in
+Track II fixed to start on 13 January 2014.
+
+20.
+
+PART B: THE PRINCIPAL DOCUMENTS
+
+Introduction: It is necessary at the outset to describe briefly the three principal sets of
+contractual documentation to which further reference is made below: (i) the 1995
+Settlement Agreement, (ii) the 1996 Municipal and Provincial Releases; and (iii) the
+
+1998 Final Release.
+
+(i) The 1995 Settlement Agreement: On 4 May 1995, the Respondent acting by its
+Ministry of Energy and Mining (here for convenience called “the Ministry”) and
+PetroEcuador as “one Party” and TexPet as “the other party” initialed and signed a
+written agreement entitled “Contract for Implementing of Environmental, Remedial
+Work and Release from Obligations, Liability and Claims”, for ease of reference
+
+described in these arbitration proceedings as the “1995 Settlement Agreement”.
+
+The 1995 Settlement Agreement was made on the Ministry’s headed note-paper with
+the Respondent’s coat-of-arms; and it was signed for that Ministry by the Minister of
+Energy and Mines. It was also signed by a senior officer of PetroEcuador and two
+representatives of TexPet (now, but not then, indirectly owned by Chevron), one of
+
+whom was Dr Ricardo Reis Vega, a factual witness in Track I.
+
+The 1995 Settlement Agreement provided in the final two paragraphs of its preamble
+that TexPet agreed to undertake the “Environmental Remedial Work in consideration
+for being released and discharged of all its legal and contractual obligations and
+liability for Environmental Impact arising out of the Consortium’s operations.” By
+Article 1.3, the term “Environmental Impact” included: “[a]ny solid, liquid, or
+gaseous substance present or released into the environment in such concentration or
+condition, the presence or release of which causes, or has the potential to cause harm
+
+to human health or the environment.”
+
+As contemplated in the earlier 1994 MOU between the same signatory parties (which
+was to be substituted and become void by Article 9.6 and the last paragraph of Annex
+“A” of the 1995 Settlement Agreement), the 1995 Settlement Agreement, subject to
+
+its terms: (i) released TexPet from the Respondent’s and PetroEcuador’s claims based
+
+9
+
+21.
+
+22.
+
+upon Environmental Impact (except for claims related to TexPet’s performance of the
+Scope of Work); and (ii) provided that TexPet would be released from all remaining
+environmental liability upon completion of the remediation obligations described in
+
+that Scope of Work.
+
+Article 1.12 of the 1995 Settlement Agreement defined such release, as follows: “The
+release, under the provisions of Article V of this Contract, of all legal and contractual
+obligations and liability, towards the Government and Petroecuador, for the
+Environmental Impact arising from the Operations of the Consortium, including any
+claims that the Government and Petroecuador have, or may have against Texpet,
+arising out of the Consortium Agreements.” The term “Operations of the Consortium”
+was defined as “Those oil exploration and production operations carried out under the
+
+Consortium Agreement”, i.e. the 1973 Concession Agreement (ibid).
+
+Article 5.1 of the 1995 Settlement Agreement (“Article V”) in turn provided (inter
+
+alia):
+
+“On the execution date of this Contract [i.e. 4 May 1995], and in consideration of
+Texpet’s agreement to perform the Environmental Remedial Work in accordance with
+the Scope of Work set out in Annex A, and the Remedial Action Plan, the
+Government and Petroecuador shall hereby release, acquit and forever discharge
+Texpet, Texaco Petroleum Company, Compajiia Texaco de Petrdleos del Ecuador,
+S.A., Texaco Inc., and all their respective agents, servants, employees, officers,
+directors, legal representatives, insurers, attorneys, indemnitors, guarantors, heirs,
+administrators, executors, beneficiaries, successors, predecessors, principals and
+subsidiaries (hereinafter referred to as ‘the Releasees’) of all the Government’s and
+Petroecuador’s claims against the Releasees for Environmental Impact arising from
+the Operations of the Consortium, except for those related to the obligations
+contracted hereunder for the performance by Texpet of the Scope of Work (Annex A)
+
+The Tribunal has here emphasised the wording critical to the Parties’ disputed
+
+interpretation of the 1995 Settlement Agreement, to which the Tribunal necessarily
+
+returns below. The Government’s “claims” were addressed in Article 5.2.
+
+10
+
+23.
+
+24.
+
+Article 5.2 of the 1995 Settlement Agreement provided:
+
+“The Government and Petroecuador intend claims to mean any and all claims, rights
+to Claims, debts, liens, common or civil law or equitable causes of actions and
+
+Ities, whether s ding in contract or tort, c itutional, statutory, or regulatory
+causes of action and penalties (including, but not limited to, causes of action under
+Article 19-2 of the Political Constitution of the Republic of Ecuador, Decree No. 1459
+of 1971, Decree No. 925 of 1973, the Water Act, R.O. 233 of 1973, ORO No. 530 of
+1974, Decree No. 374 of 1976, Decree No. 101 of 1982, or Decree No. 2144 of 1989,
+or any other applicable law or regulation of the Republic of Ecuador), costs, lawsuits,
+settlements and attorneys’ fees (past, present, future, known or unknown), that the
+Government or Petroecuador have, or ever may have against each Releasee for or in
+any way related to contamination, that have or ever may arise in the future, directly
+or indirectly arising out of Operations of the Consortium, including but not limited to
+consequences of all types of injury that the Government or Petroecuador may allege
+concerning persons, properties, business, reputations, and all other types of injuries
+that may be measured in money, including but not limited to, trespass, nuisance,
+negligence, strict liability, breach of warranty, or any other theory or potential theory
+of recovery.”
+
+The Tribunal has here again emphasised the wording most critical to the Parties’
+
+disputed interpretation of the 1995 Settlement Agreement.
+
+The reference in Article 5.2 to Article 19-2 of the Ecuadorian Constitution (being the
+1978 Constitution effective in 1979 and, as later amended, in force in 1995) signified
+a cause of action available to the Respondent under Title II, Section 1 (On the Rights
+of People/Individuals') whereby the Ecuadorian State guaranteed to each person, inter
+alia (in English translation): “... the right to live in an environment that is free from
+contamination. It is the duty of the State to ensure that this right is not negatively
+affected and to foster the preservation of nature ...”. The fuller text of Article 19-2 in
+Spanish provides: “Sin perjuicio de otros derechos necesarios para el pleno
+desenvolvimiento moral y material que se deriva de la persona, el Estado le garantiza:
+.... El derecho de vivir en un medio ambiente libre de contaminacion. Es deber del
+Estado velar por que este derecho no sea afectado y tutelar la preservacién de la
+naturaleza. La ley establecera las restricciones al ejercicio de determinados derechos 0
+
+libertades para proteger el medio ambiente”. The reference to Decree No. 374 of 1976
+
+' The Claimants translate the Spanish term “las personas” as “people” or “persons” [D3.523]; and the
+Respondent as “individuals” and “persons” [D1.74 & D3.580]. In the Tribunal’s view, these
+differences in English translation are not material to its decisions in this Partial Award.
+
+11
+
+25.
+
+26.
+
+27.
+
+signified a cause of action available to the Respondent on the prevention and control
+of pollution. The reference to the Water Act of 1973 and Decree No. 2144 of 1989
+signified causes of action available to the Respondent in regard to water resources and
+water contamination. The reference to ORO No 530 signified the Regulations for the
+
+Exploration and Exploration of Hydrocarbons of 9 April 1974.
+
+The references to “the Government” in Articles 1.12 and 5 of the 1995 Settlement
+Agreement, rather than the Ministry, is explained by the facts that the 1973
+Concession Agreement was made between (inter alios) TexPet and the Respondent’s
+Government (albeit acting by the Ministry) and that, as appears from the 1995
+Settlement Agreement, the release was directed, in substantial part, to settling claims
+arising from that 1973 Concession Agreement (including its section 46). Moreover,
+Article 9.1 of 1995 Settlement Agreement as regards notices thereunder identified the
+Ministry as representing the Government. In any event, the Ministry, forming part of
+the Government, acted for the Government in concluding the 1995 Settlement
+Agreement and, constitutionally, the Respondent is therefore to be treated under
+
+Ecuadorian law as a signatory party to the 1995 Settlement Agreement.
+
+Article 9.3 of the 1995 Settlement Agreement contained a “Whole Contract”
+
+provision: namely:
+
+“This Contract contains all the terms and conditions agreed upon by the Parties hereto
+with respect to the Environmental Remedial Work and to all matters which in any
+way may affect said Environmental Remedial Work. No other agreements, oral or
+otherwise, regarding this Contract, shall be deemed to exist or to bind the Parties
+hereto.”
+
+Article 9.4 curtailed any benefit for “a third party”, namely (under the Parties’
+
+different English translations from the Spanish version)”:
+
+The Claimants: “This Contract shall not be construed to confer any benefit on any
+third party not a Party to this Contract, nor shall it provide any rights to such third
+party to enforce its provisions.”
+
+As noted, the first English translation is advanced by the Claimants [D1.57-58]; and the second is
+advanced by the Respondent [D3.575]. In the Tribunal’s view, these differences are not material to its
+decisions in this Partial Award.
+
+12
+
+28.
+
+29.
+
+30.
+
+The Respondent: “This Contract shall not be construed to confer benefits on third
+parties who are not a part of this Contract, nor shall it provide rights to third parties to
+enforce its provisions.”
+
+The term “third party” or “third parties” was not defined in the 1995 Settlement
+
+Agreement.
+
+Annex “A” to the 1995 Settlement Agreement contained the Scope of the
+Environmental Remedial and Mitigation Work and Socio-Economic Compensation to
+be undertaken by TexPet. It was separately signed by the signatory parties. Section
+VILC of Annex “A” provided:
+
+“C. Negotiations with the Municipalities of Lago Agrio (Nueva Loja), Shushufindi,
+Joya de los Sachas and Francisco de Orellana (Coca).
+
+Without prejudice to that agreed in this Scope of Remedial Work and in the
+Memorandum of Understanding of December 14, 1994, Texpet pledges to continue
+negotiations with the aforementioned Municipalities, in order to establish the
+participation of Texpet in the performance of the work based on projects on drinking
+water and/or construction of sewers and latrines in the corresponding canton seats.
+The results of such negotiations shall be independent from the current Scope and the
+Contract for Implementing the Environmental Remedial Work and Release of
+Obligations to be executed by the parties, nor shall they affect the performance of
+such Scope and Contract.
+
+The work that cannot be covered with the funds arising from the negotiations with
+Texpet shall be supplemented pursuant to Art. 3 of Executive Decree 675 of April 15,
+1993, published in Registro Oficial No.174 of the 22nd of the same month and year.”
+
+The 1995 Settlement Agreement contained no express provision for applicable law(s),
+dispute settlement or forum selection. It is nonetheless common ground between the
+Parties (together with their respective expert witnesses) that Ecuadorian law applies to
+its interpretation and effect, that agreed approach being here confirmed by the
+Tribunal for the purpose of these arbitration proceedings under Article 33 of the
+
+UNCITRAL Arbitration Rules.
+
+(ii) The 1996 Municipal and Provincial Releases: As provided by Annex “A” to the
+1995 Settlement Agreement (cited above), TexPet subsequently settled disputes with
+
+the four municipalities of the Oriente Region (Sushufindi, Francisco de Orellana
+
+13
+
+31.
+
+32.
+
+33.
+
+(Coca), Lago Agrio and Joya de los Sachas), under written agreements made with
+these municipalities, as also the Province of Sucumbios and the Napo consortium of
+municipalities (herein, for ease of reference, collectively called the “Municipal and
+Provincial Releases”). Under these six settlements, four of which were approved by
+the Ecuadorian courts owing to their nature as litigious disputes, TexPet, together with
+non-signatory parties (as explained below), were released from liability to these
+municipalities for the Consortium’s activities in the area of the concession. The
+Respondent, including its Ministry, were not signatory parties to these 1996
+Municipal and Provincial Releases, which were of course all made after the 1995
+Settlement Agreement. (The 1995 Settlement Agreement was not approved by any
+
+Ecuadorian court, not then having a litigious nature between its signatory parties).
+
+The Municipal and Provincial Releases provided (inter alia) for a release in somewhat
+different terms from Article 5.1 of the 1995 Settlement Agreement. For example, the
+fifth provision of the Release of 2 May 1996 made by the Province of Sucumbios
+extended to (as here translated into English): “ .... Texaco Petroleum Company,
+Texas Petroleum Company, Compajiia Texaco de Petrdleos del Ecuador, S.A., Texaco
+Inc., and any other affiliate, subsidiary or other related companies, and all their agents,
+employees, executives, directors, legal representatives, insurers, lawyers, guarantors,
+
+heirs, administrators, contractors, subcontractors, successors or predecessors ....”
+
+(iii) The 1998 Final Release: On 30 September 1998, pursuant to the 1995 Settlement
+Agreement, the Respondent (acting by its Minister of Energy and Mines),
+PetroEcuador, PetroProduccion and TexPet executed the Acta Final, certifying that
+TexPet had performed all its obligations under the 1995 Settlement Agreement and, in
+accordance with its terms, releasing TexPet from (as specified) any environmental
+
+liability arising from the Consortium’s operations.
+
+Article IV of the Final Release provided (inter alia) as follows, in English translation:
+
+“., The Government and PetroEcuador proceed to release, absolve and discharge
+TexPet, Texas Petroleum Company, Compafiia Texaco de Petréleos del Ecuador,
+S.A., Texaco Inc., and all their respective agents, servants, employees, officers,
+directors, legal representatives, insurers, attorneys, indemnitors, guarantors, heirs,
+administrators, executors, beneficiaries, successors, predecessors, principals and
+
+14
+
+subsidiaries forever, from any liability and claims by the Government of the Republic
+of Ecuador, PetroEcuador and its Affiliates, for items related to the obligations
+assumed by TexPet in the aforementioned Contract [the 1995 Settlement Agreement]
+
+The Tribunal notes that the critical contractual wording at issue in Article 5.1 of the
+1995 Settlement Agreement is materially the same in Article IV of the Final Release;
+and, accordingly, the issues relating to the latter’s interpretation and effect are here
+
+treated as the same issues relating to the 1995 Settlement Agreement.
+
+15
+
+34.
+
+35.
+
+36.
+
+37.
+
+PART C: THE PARTIES’ RESPECTIVE CASES
+
+Introduction: In the Tribunal’s view, as explained later in this Partial Award, the
+Parties’ disputed interpretation turns upon a few crucial Spanish words in Article 5 of
+the 1995 Settlement Agreement to be construed under the relevant rules of Ecuadorian
+law on contractual interpretation. Although the materials submitted by the Parties are
+voluminous, the essential issues of legal interpretation, whilst perhaps difficult, are
+
+relatively short and uncomplicated.
+
+Given also the limited approach taken by the Tribunal in this Partial Award as to the
+legal effect of that interpretation under Ecuadorian law, it is unnecessary here to
+summarise in full the Parties’ respective cases relating to Track I. In particular, as
+explained further below, the Tribunal does not here decide the full legal effect of the
+1995 Settlement Agreement (with the 1998 Final Release) as claimed in the Parties’
+
+respective claims for relief, as set out below later in this Part C.
+
+The Tribunal has nonetheless considered the Parties’ submissions and claimed relief
+at length; and the omission here of any reference to any part of such cases should not
+be taken as signifying otherwise. However, apart from issues and relief already
+reserved to Track II and given that part of the issues under Track I are here deferred to
+Track II by decision of the Tribunal, any part of such case not here addressed should
+not be taken as having been implicitly decided by the Tribunal one way or the other in
+
+this Partial Award.
+
+The Claimants’ Case: In summary, the Claimants contend that, under Ecuadorian law,
+Chevron is a “Releasee” under Article 5.1 of the 1995 Settlement Agreement and is
+also not an excluded “third party” beneficiary under Article 9.4 prevented from
+exercising its contractual rights in full as a Releasee, directly by itself or indirectly
+through TexPet. The Claimants submit that Chevron, following the ‘reverse triangular
+merger’ with Texaco Inc. (“Texaco) between 15 October 2000 and 1 November 2001,
+became TexPet’s indirect owner, controller and ultimate parent company, thereby
+falling within the meaning of the Spanish term “principales” listed for release in
+
+Article 5.1 of the 1995 Settlement Agreement. The Claimants emphasise that the
+
+16
+
+38.
+
+39.
+
+40.
+
+contrary argument is made by the Respondent for the very first time in these
+
+arbitration proceedings.
+
+The Claimants assert that Chevron, Texaco and TexPet were and remain separate and
+distinct corporations; and that, whilst Chevron is not the “successor-in-interest” with
+regard to any of liabilities of Texaco or TexPet, Chevron submits that the context of
+the term “principales” in Article 5.1 shows an objective intent under Ecuadorian law
+to release future parent corporations (such as Chevron) and does not signify only a
+principal in a principal-agent relationship. The Claimants invoke three particular
+
+points in support of their case.
+
+First, a “holistic” reading of Article 5.1 reveals the Parties’ objective intent to release
+parent corporations because the long and broad list of 22 categories of Releasees
+establishes an intent to release broadly all individuals and companies which might
+ever be alleged to be responsible for the conduct of TexPet, necessarily including a
+future parent company of TexPet. Conversely, with such an extensive list (including
+expressly TexPet’s existing parent company, Texaco), there is no evidence from this
+
+contractual wording of any intent to exclude any future parent company as a Releasee.
+
+Second, when coupled with “subsidiarias” in Article 5.1, the common legal and
+business language use of “principales” signifies a parent company. As submitted in
+
+paragraph 222 of the Claimants’ Reply Memorial - Track I:
+
+“A grammatical analysis of the phrase principales y subsidiarias is revealing of their
+meaning and use. Linguistically, the terms principales y subsidiarias, as used in
+Article 5.1, are attributive nouns - that is, they are adjectives acting as nouns in this
+instance. This linguistic phenomenon, known as the “attributive noun” or
+“nominalization of the adjective” (in Spanish, “sustantivacion del adjetivo”), occurs
+when the noun that the adjective complements is not included in the sentence, causing
+the adjective to become the noun in the phrase by taking the place of the missing
+noun. In this case, principales y subsidiarias is short form for las companias
+principales y subsidiarias (principal and subsidiary companies). The parties omitted
+the word “companies,” thereby transforming principales y subsidiarias into nouns.
+The phenomenon of the attributive noun occurs frequently in the Spanish language,
+and its use is well documented [citation omitted]. It also occurs frequently in English
+[citation omitted]. For instance, the word subsidiary is an attributive noun for the full
+phrase subsidiary corporation [citation omitted]. The fact that the Spanish
+subsidiarias is in the feminine gender (which coordinates with companias
+[companies] corporaciones (corporations), sociedades (companies or societies),
+
+17
+
+entidades (entities), or empresas (enterprises) - all feminine nouns) further supports
+this reading [citation omitted]. This analysis is important because, as shown below
+[paragraphs 220ff], in the Spanish legal and business contexts, principales and
+subsidiarias are often used as nouns and adjectives, always maintaining their core
+meaning.”
+
+41. The Claimants therefore reject as inapposite the Respondent’s reliance upon the
+
+Ecuadorian Commercial Code which defines “principales” as a_ principal
+
+corresponding to agency; and they refer to the supporting expert testimony of Dr
+
+Coronel and Dr Barros to such effect. Given the common use of the term
+
+“principales” to mean a parent company when paired with the term “subsidiarias”, the
+
+Claimants submit that it would be implausible that, in drafting Article 5.1, there was
+
+any objective intention to displace its ordinary meaning with a narrow technical
+
+meaning drawn from the law of agency.
+
+42. Third, the context of the word “principales” within the 1995 Settlement Agreement
+
+shows an objective intention to mean parent corporations; and, under Ecuadorian law,
+
+the interpretation of a contractual term is to be made in its contractual context, as
+
+provided by Article 1580 of the Civil Code. Such contractual context here comprises
+
+(paragraph 229, ibid):
+
+“@
+(ii)
+
+(iii)
+(iv)
+
+(v)
+
+The pairing of principales with subsidarias (as in principales y subsidiarias)
+shows the intent to use them as correlatives;
+
+The term principales is not coupled with agentes, which appears at the opposite
+end of the long list of Releasees (there are 15 categories of releasees separating
+them), which evidences an intent not to give principales a meaning within the
+agency context;
+
+Article 1.12 of the 1995 Settlement Agreement shows an overall intent to cover
+all persons related to TexPet;
+
+The Settlement Agreement’s express naming of Texaco Inc. and its successors
+evidences an intent to cover all present and future owners and parent companies
+that enter the corporate structure; and
+
+A harmonious and good-faith interpretation militates against an interpretation
+that covers only current affiliate companies in the corporate ownership
+structure, but excludes future companies.”
+
+ 
+
+43. The Claimants contend that the 1996 Municipal and Provincial Releases are relevant,
+
+under Ecuadorian law, to the interpretation of the 1995 Settlement Agreement
+
+because, with the 1998 Final Release, they all form part of the same overall
+
+transaction with mutual cross-references. Under the different wording of those 1996
+
+18
+
+44.
+
+4S.
+
+46.
+
+Releases, Chevron would manifestly benefit from a release as TexPet’s parent
+company; and accordingly the Claimants submit that this contractual documentation
+evidences a common intention in related transactions to release a future parent
+company of TexPet in the absence of any objective evidence indicating any contrary
+
+intention.
+
+The Claimants also contend that Article 9.4 of the 1995 Settlement Agreement does
+not preclude unnamed non-signatory “Releasees” from enforcing their contractual
+rights against the Respondent affirmatively. A Releasee is not a third party to the 1995
+Settlement Agreement, but a party to or part of such Agreement, as the Respondent
+had originally conceded in Paragraph 134 of its Reply Memorial on Jurisdiction. With
+such contractual rights, so the Claimants contend, there is nothing in the 1995
+Settlement Agreement to indicate that these rights can only be exercised by any
+Releasee defensively and not offensively, by way of a claim for damages, declaratory
+
+relief or specific performance against the Respondent.
+
+As to the legal effect of their interpretation, it is the Claimants’ case that the causes of
+action expressly described in Article 5.2 of the 1995 Settlement Agreement and for
+which Chevron is released as a Releasee include all “collective” or “diffuse”
+environmental rights exerciseable only by the Respondent in the general public
+interest “on behalf of the community” (which were therefore capable of settlement
+and release by the Respondent under the 1995 Settlement Agreement), as distinct
+from causes of action available to private individuals making claims for their own
+personal harm caused by environmental pollution (which were not compromised
+under the 1995 Settlement Agreement). The Claimants’ case relies (inter alia) upon
+
+the expert testimony of Dr Barros, Dr Coronel and Professor Oquendo.
+
+The Claimants acknowledge that the 1995 Settlement Agreement was not intended to
+bar and does not bar any environmental claims by individuals for personal harm
+suffered by those individuals, including other so-called “cow claims”. At the time
+when the 1995 Settlement Agreement was made, whilst collective and diffuse rights
+existed under Ecuadorian law, according to the Claimants, no private individual
+without a claim for personal harm had legal standing to bring any environmental
+
+claim (for remediation or damages) in respect of such collective or diffuse rights. As
+
+19
+
+47.
+
+48.
+
+explained by Counsel for Chevron in its closing oral submissions: “... I don’t think it
+has to do with the nature of the right itself, because the right did exist [in 1995]. The
+right was there. It’s that the right could be exercised by the Government on behalf of
+the people to protect the people but there wasn’t a direct action by the people to
+enforce that” and “... before the EMA in 1999 [i.e. the 1999 Environmental
+Management Act], the Aguinda plaintiffs did not have standing to vindicate the
+diffuse rights of the community. That was left to the Government, the Government
+
+had that power and that standing” [D3.529 & 541].
+
+The Claimants contend that the Lago Agrio Litigation, in contrast to the earlier
+Aguinda Litigation in New York, concerns environmental claims for collective or
+diffuse rights for unidentified persons which are precluded by the release in the 1995
+Settlement Agreement, as a matter of res judicata and collateral estoppel under
+Ecuadorian law applicable to settlements (Article 2362 of the Civil Code® and/or by
+analogy of law under Article 18 of the Civil Code); and that none of these claims are
+made by private individuals for their own personal harm, in contrast to the claims by
+identifiable persons made in the Aguinda Litigation in New York which involved only
+
+individual rights, with claims in respect of personal harm.
+
+The Claimants’ Claimed Relief: As regards the formal relief claimed by the Claimants
+in regard to the 1995 Settlement Agreement, it is necessary to recite in full Paragraph
+
+272 of the Claimants Reply Memorial — Track I, as follows:
+
+“272. Accordingly, Claimants request a Partial Award that effectively protects
+Claimants’ rights, and reverses (as far as possible) the harmful effects of Ecuador’s
+breaches of the Settlement Agreements [i.e. the 1995 Settlement Agreement and 1998
+Final Release] and its international-law obligations. To achieve this result, Claimants
+respectfully submit the following list of requests, from which the Tribunal can fashion
+a combination of declaratory, injunctive, and monetary relief in protection of
+Claimants’ rights [footnote here omitted].
+
+A. Specific Performance
+
+1. Order that Ecuador specifically perform the Settlement Agreements.
+
+> Article 2362 of the Civil Code in its original Spanish provides as follows: “La transaccion surte el
+efecto de cosa juzgada en tltima instancia; pero podra pedirse la declaracién de nulidad o la
+rescision, en conformidad a los articulos precedentes”.
+
+20
+
+B. Declaratory Relief
+(i) Scope of the Settlement Agreements
+
+1. Declare that both Claimants are “Releasees” under the Settlement Agreements, and
+were released from all diffuse environmental claims arising from TexPet’s operations
+in Ecuador; and
+
+2. Declare that the claims pleaded in the Lago Agrio Litigation (and upon which the
+Lago Agrio Judgment is based) are the same diffuse environmental claims settled and
+released in the Settlement Agreements.
+
+(ii) Legal Effect of the Settlement Agreements
+
+1. Declare that Claimants have no liability or responsibility for satisfying the Lago
+Agrio Judgment because they were fully released for all such claims by the Settlement
+Agreements;
+
+2. Declare that the claims pleaded in the Lago Agrio Litigation (and upon which the
+Lago Agrio Judgment were based) are barred by res judicata and collateral estoppel;
+
+3. Declare that under the Settlement Agreements, Claimants have no further liability
+or responsibility for diffuse environmental claims in Ecuador for Environmental
+Impact arising out of the Consortium’s operations, or for performing any further
+environmental remediation;
+
+4. Declare that Ecuador (through its various branches of Government) has breached
+the Settlement Agreements, inter alia, by refusing to specifically perform the
+Settlement Agreements, by refusing to ensure Claimants’ enjoyment of their releases
+and their right to be free of litigation, by refusing to dismiss the Lago Agrio Plaintiffs’
+claims, by refusing to indemnify Chevron for the Lago Agrio Plaintiffs’ claims, by
+seeking to comply with this Tribunal’s Interim Awards;
+
+5. Declare that Ecuador’s actions have breached the U.S.-Ecuador BIT, including its
+obligations to afford fair and equitable treatment, full protection and security,
+effective means of enforcing rights, and to observe obligations it entered into under
+the overall investment agreements;
+
+6. Declare that enforcement of the Lago Agrio Judgment within or without Ecuador
+would be inconsistent with Ecuador’s obligations under the Settlement Agreements,
+the BIT and international law;
+
+7. Declare that the Lago Agrio Judgment is a nullity as a matter of international law;
+
+and
+
+21
+
+8. Declare that: (i) the Judgment is not final, enforceable, or conclusive under
+Ecuadorian and international law, and thus, is not subject to recognition and
+enforcement within or without Ecuador; (ii) any enforcement of the Judgment would
+place Ecuador in violation of its international-law obligations; (iii) the Judgment
+violates international public policy and natural justice, and as a matter of international
+comity and public policy, the Judgment should not be recognized and enforced.
+
+C. Injunctive Relief
+
+1. Order Ecuador to use all measures necessary to comply with its obligations under
+the Settlement Agreements to release Claimants (and to ensure that Claimants may
+effectively enjoy the benefits of such releases) from any liability or responsibility for
+the Lago Agrio Judgment in Ecuador or in any other country;
+
+2. Order Ecuador to use all measures necessary to prevent the Lago Agrio Judgment
+from becoming final, conclusive, or enforceable in Ecuador or in any other country;
+
+3. Order Ecuador to use all measures necessary to stay or enjoin enforcement of the
+Lago Agrio Judgment, including enjoining the Lago Agrio Plaintiffs from obtaining
+any related attachments, levies, or other enforcement devices in Ecuador or in any
+other country;
+
+4. Order Ecuador to use all measures necessary to revoke and nullify the Judgment;
+
+5. Order Ecuador to make a written representation to any court in which the Lago
+Agrio Plaintiffs attempt to recognize and enforce the Lago Agrio Judgment that: (i)
+the claims that formed the basis of the Judgment were released by the Government;
+(ii) the Lago Agrio Court had no personal or subject-matter jurisdiction over Chevron;
+(iii) the Judgment is a legal nullity; (iv) the Judgment is not final, enforceable, or
+conclusive under Ecuadorian and international law, and thus, is not subject to
+recognition and enforcement within or without Ecuador; (v) any enforcement of the
+Judgment would place Ecuador in violation of its international-law obligations; (vi)
+the Judgment violates international public policy and natural justice; (vii) any
+enforcement proceedings should be stayed pending the Tribunal’s final award in this
+arbitration; and (viii) as a matter of international comity and public policy, the
+Judgment should not be recognized and enforced; and
+
+6. Order that, in the event that any court orders the recognition or enforcement of the
+Lago Agrio Judgment, Ecuador must satisfy the Judgment directly.
+
+D. Damages, Costs and Attorneys’ Fees
+
+1. Award Claimants full indemnification and damages against Ecuador in connection
+with the Lago Agrio Judgment, including a specific obligation by Ecuador to pay
+Claimants the sum of money awarded in the Judgment;
+
+2. Award Claimants any sums of money that the Lago Agrio Plaintiffs or others
+
+collect against Claimants or their affiliates in connection with enforcing the Judgment
+in any forum, with such sums to be paid by Respondent;
+
+22
+
+49.
+
+50.
+
+Sl.
+
+52.
+
+3. Award all costs and attorneys’ fees incurred by Claimants in (i) defending the Lago
+Agrio Litigation, (ii) pursuing this arbitration, (iii) opposing the efforts by Ecuador
+and the Lago Agrio Plaintiffs to stay this arbitration through litigation in the United
+States; and (iv) preparing for and defending against enforcement actions brought by
+the Lago Agrio Plaintiffs. These amounts will be quantified at the time and in the
+manner ordered by this Tribunal;
+
+4. Award both pre- and post-award interest (compounded quarterly) until the date of
+payment; and
+
+5. Award such other and further relief that the Tribunal deems just and proper,
+including any specific relief appropriate to wipe out all consequences of Respondent’s
+breaches of the Settlement Agreements and its violations of its obligations under the
+Interim Awards, the BIT and international law.”
+
+The Tribunal has here recited such relief in full, although it exceeds in part the issues
+intended to be addressed in Track I under the Tribunal’s Procedural Order No 10. The
+Tribunal has also taken note of the Claimants’ written requests for relief submitted by
+
+their Counsel at the November Hearing made in materially similar terms [D1.31].
+
+The Respondent’s Case: In summary, the Respondent denies that under Ecuadorian
+law Chevron is a “Releasee” under Article 5.1 or otherwise entitled to take advantage
+of the 1995 Settlement Agreement, to which it is an excluded “third party” under
+Article 9.4. Further, even if Chevron were a Releasee, the 1995 Settlement Agreement
+creates under Ecuadorian law no res judicata effect (nor any collateral estoppel) upon
+
+any of the plaintiffs’ claims in the Lago Agrio Litigation.
+
+As already noted, the Respondent takes issue with the Claimants’ interpretation of
+Article 5.1 of the 1995 Settlement Agreement. The Respondent submits that the
+Claimants’ characterisation of Chevron as TexPet’s “principal” within the list of
+“Releasees” is misplaced because it is based only upon Chevron’s indirect
+shareholding in TexPet, rather than on any relationship of principal and agent between
+
+Chevron and TexPet, as required by the contractual wording.
+
+As to agency, the Respondent contends that Chevron has consistently denied any
+agency relationship with TexPet. The Respondent further contends that, even if there
+were any agency relationship between Chevron and TexPet following the merger
+
+between Texaco and Chevron, there could have been no agency relationship in
+
+23
+
+53.
+
+54.
+
+55.
+
+relation to TexPet’s operations which caused environmental damage since those
+
+operations had ended in 1992, some nine years before that merger.
+
+The Respondent contends that Chevron cannot therefore be a “Releasee” under
+Article 5.1 of the 1995 Settlement Agreement because it is not there specified by
+name and the relevant evidence does not establish any intention to derogate from the
+plain meaning of the contractual terms, to be interpreted under Ecuadorian law. Under
+Ecuadorian law, the word “principales” refers only to the principal in the ordinary
+
+principal-agent representative relationship, thereby excluding Chevron.
+
+As to the Claimants’ arguments based on the comprehensive nature of the list of
+Releasees in Article 5.1, the Respondent relies upon the Latin maxim ‘inclusio unius
+est exclusio alterius’ as a canon of construction under Ecuadorian law. The
+Respondent rejects the relevance of the 1996 Municipal and Provincial Releases as an
+aid to interpreting the Article 5.1 because the Respondent did not agree such a release
+in Article 5.1, which is differently worded and made between different signatory
+parties; and, in any event, such materials are excluded from consideration by virtue of
+Article 9.3 of the 1995 Settlement Agreement. As to the Claimants’ linguistic
+arguments, the Respondent contends that the Spanish word “matriz” means parent
+company and that “principales” is not its substitute as an attributive noun; and in any
+event, if all parent companies had been intended to be released, that the Spanish term
+“Jas compaiiias” would have been used in Article 5.1. As to contractual context, the
+Respondent submits that there is no context in which the adjective “principales”,
+without being further defined, could ever serve to release all future parent companies
+in a contract governed by Ecuadoran law. Lastly, in the event of any ambiguity in the
+interpretation of Article 5.1, the Respondent contends that such ambiguity must be
+resolved in favour of the Respondent as the obligor under Article 1582 of the
+
+Ecuadorian Civil Code, as supported by the expert testimony of Professor Salgado.
+
+Even if Chevron were a Releasee within Article 5.1, the Respondent contends that
+Article 9.4 of the 1995 Settlement Agreement expressly prohibits any person other
+than the signatory parties from exercising the right, offensively, to bring a claim under
+the terms of the 1995 Settlement Agreement. Under its corrected translation (the
+
+second set out in Paragraph 27 above), whilst the Respondent accepts that a non-
+
+24
+
+56.
+
+57.
+
+58.
+
+signatory Releasee is “part of’ the 1995 Settlement Agreement, the Respondent
+submits that such a Releasee is nonetheless a third party and, as such, acquires no
+rights to enforce the provisions of the 1995 Settlement Agreement, as also supported
+
+by the expert testimony of Professor Salgado.
+
+This disability is not cured, according to the Respondent, by TexPet as a signatory
+party and the Second Claimant in these arbitration proceedings because TexPet has no
+standing to bring any contractual claim for breach of the 1995 Settlement Agreement.
+Under Article 1465 of the Ecuadorian Civil Code,* TexPet was free to contract in
+favour of a third person, but only that third person can sue for itself under that
+contract and accordingly TexPet cannot bring any claim in these proceedings for the
+benefit of Chevron under the 1995 Settlement Agreement; nor can TexPet bring any
+
+claim thereunder for itself not being a party to the Lago Agrio Litigation.
+
+Whether or not Chevron is a Releasee, it is the Respondent’s further case that, in
+agreeing the releases in Article 15.2, the Respondent was not acting in any
+representational capacity exercising “diffuse” or “collective rights” on behalf of
+Ecuadorian individuals but acting only in its capacity as a co-contractual party to the
+1973 Concession Agreement. As regards the former, Counsel for the Respondent
+explained in its closing oral submissions: “There was no law in 1995 that recognized
+diffuse rights. The concept of collective rights was introduced in Ecuadorian
+legislation for the first time in the 1998 Constitution, or the constitutional reform of
+1998, and the concept of diffuse interest was defined for the first time in 1999, one
+
+year later in the Environmental Management Act referred to as EMA” [D3.579-580].
+
+Further, as the laws of Ecuador stood in 1995, the Respondent submits that it had no
+power to represent the Ecuadorian people in regard to their individual rights and that
+individuals could bring personal claims and recover damages under Article 19-2 of
+
+the Ecuadorian Constitution, referring to (inter alia) the court decisions in the
+
++ Article 1465 of the Civil Code in its original Spanish provides as follows: “Cualquiera puede
+estipular a favor de una tercera persona, aunque no tenga derecho para representarla; pero sélo esa
+
+tercera persona podra de dar lo ; y mientras no intervenga su
+
+ 
+
+expresa o
+
+tacita, es revocable el contrato por la sola voluntad de las partes que concurrieron a él. Constituyen
+aceptacion tacita los actos que sélo hubieran podido ejecutarse en virtud del contrato”.
+
+25
+
+59.
+
+60.
+
+Gutiérrez case of 29 September 1993 and, albeit after 1995, the Delfina Torres case of
+19 March 2003.° As regards diffuse rights existing under Article 19-2 at the time of
+the 1995 Settlement Agreement, the Respondent contends that “collective” or
+“diffuse” environmental rights did not exist under Ecuadorian law until 1998/1999,
+after the 1995 Settlement Agreement and 1998 Final Release [D1.158ffx &
+D1.187ffxx].
+
+Accordingly, the Respondent contends that the 1995 Settlement Agreement was not
+intended to bar and could not create any bar under Ecuadorian law to individuals later
+bringing claims for environmental remediation (after 1999), both as individual claims
+for personal harm and also as claims for “diffuse” or “collective rights” under Article
+19-2 or any of the other provisions of Ecuadorian law listed in Article 5.2. The
+Respondent relies (inter alia) upon the expert testimony of Professors Eguiguren and
+
+Professor Le Chatelier.
+
+The Respondent's Claimed Relief: It is likewise necessary to set out in full below the
+relief requested by the Respondent in Track I, as pleaded in Paragraph 192 of its
+
+Rejoinder on the Merits — Track I (here with added paragraph numbers):
+
+“192. Based on the foregoing, the Republic respectfully requests that the Tribunal
+issue an Award that:
+
+(ji Denies all the relief and each remedy requested by Claimants in relation to
+Track 1, including the relief and remedies requested in Paragraph 272 of
+Claimants’ Reply on the Merits [recited above];
+
+(ii) Declares that Chevron is not a “Releasee” under the 1995 Settlement
+Agreement and therefore has no basis to assert claims under Article VI(1)(a)
+of the Treaty;
+
+(iii) | Dismisses Chevron’s claims under the 1995 Settlement Agreement and the
+1998 Final Release on the merits, should the Tribunal find that Chevron has
+standing in this Arbitration as a matter of jurisdiction;
+
+(iv) Declares that TexPet does not have standing to assert claims under the 1995
+Settlement Agreement as a matter of Ecuadorian law;
+
+(v) Dismisses TexPet’s claims under the 1995 Settlement Agreement and the 1998
+Final Release on the merits;
+
+> The Angel Gutiérrez case of 29 September 1993, Quito, Judicial Gazette, Year XCIV, Series XVI,
+No 1, p 11 [RLA-285]; and the Delfina Torres case of 19 March 2003, Quito,, File 229, Official
+Register 43 [RLA-286].
+
+26
+
+61.
+
+(vi)
+(vii)
+
+(viii)
+
+(ix)
+
+(x)
+
+(xi)
+(xii)
+
+Declares specifically that the Respondent has not breached the 1995
+Settlement Agreement or the 1998 Final Release;
+
+Dismisses all of Claimants’ claims as they relate to the 1996 Local Settlements
+[i.e. the 1996 Municipal and Provincial Releases], both as a matter of
+jurisdiction and on the merits;
+
+Declares further that the Respondent is under no obligation to indemnify,
+protect, defend or otherwise hold Claimants harmless against claims by, or
+judgments or other relief obtained by, third parties including the claims filed
+by the Lago Agrio Plaintiffs, the Lago Agrio Judgment, and the enforcement
+thereof;
+
+Declares that the 1995 Settlement Agreement has no effect on third parties,
+and specifically, that the release of liability contained therein does not extend
+to rights and claims potentially held by third parties or could otherwise bar
+third-party claims arising from the environmental impact;
+
+Declares that the Lago Agrio Litigation was not barred by res judicata or
+collateral estoppel;
+
+Awards Respondent all costs and attorneys’ fees incurred by Respondent in
+connection with this phase of the proceedings; and that
+
+Awards Respondent any further relief that the Tribunal deems just and
+proper.”
+
+As the Respondent recognised at the time of the November Hearing, this requested
+
+relief, pleaded in direct response to the Claimants’ requested relief extending beyond
+
+the issues under Track I, itself extends in part beyond Track I.
+
+27
+
+PART D: THE TRIBUNAL’S ANALYSES AND DECISIONS
+
+62. I Introduction — Legal Interpretation: As already indicated above, the Tribunal
+considers that the relevant issues of contractual interpretation under the 1995
+Settlement Agreement are, ultimately, relatively short and uncomplicated. The
+Tribunal sets out below the relevant Ecuadorian rules on contractual interpretation,
+followed by an analysis of the testimony by the Parties’ expert witnesses relevant to
+the issues of contractual interpretation, before analyzing and deciding upon its own
+
+interpretation of the 1995 Settlement Agreement.
+
+63. (i) The Relevant Rules: The Parties agree that the 1995 Settlement Agreement should
+be interpreted in the light of Ecuadorian law as at the time when it was executed
+[D3.507 & D3.577]. The Parties also referred to the joint expert report of Dr Enrique
+Barros, Dr César Coronel and Professor Roberto Salgado of 6 August 2012 which
+contains a helpful summary of the Ecuadorian legal rules of contractual interpretation
+relevant to the 1995 Settlement Agreement, as agreed by these Parties’ three expert
+witnesses. The Tribunal is content to adopt and apply these rules for the purpose of
+
+this Partial Award, as follows (here translated from the original Spanish):
+
+“(i) For purposes of interpreting the aforementioned contract signed in Ecuador,
+Ecuadorian laws are the applicable laws.
+
+(ii) The laws in effect when the agreement was executed must also be understood to
+be incorporated into the contract (Article 7, number eighteen, Civil Code).
+
+(iii) The Ecuadorian rules for interpreting the contract are those established in Title
+XIII of the Fourth Book of the Civil Code, Articles 1576 — 1582.
+
+(iv) The relevant rules ... are essentially the following:
+
+[a] No matter how general the terms of a contract are, they will apply only to
+the matter which the parties have contracted about (Article 1577).!
+
+® Article 7 of the Civil Code provides in its original Spanish, in relevant part: “La ley no dispone sino
+para lo venidero: no tiene efecto retroactivo; y en conflicto de una ley posterior con otra anterior, se
+observaran las reglas siguientes: .... En todo contrato se entenderan incorporadas las leyes vigentes
+al tiempo de su celebracion”.
+
+ 
+
+28
+
+[b] The meaning in which an article can produce some effect must take
+precedence over that in which it cannot produce any effect at all (Article
+1578).
+
+[c] In those cases where there is no contrary intent, the interpretation that best
+squares with the nature of the contract must be adhered to (Article 1579)."°!
+
+[d] The articles of a contract will be interpreted in light of the others, according
+to each the meaning that best suits the contract as a whole (Article 1580,
+first subsection).!""!
+
+[e] If none of the above rules of interpretation are applicable, ambiguous
+articles will be interpreted in favor of the obligor. But the ambiguous
+articles that have been drafted or dictated by one of the parties, whether
+obligee or obligor, will be interpreted against that party, provided that the
+ambiguity stems from a lack of an explanation that that party should have
+provided.!!!”
+
+64. (ii) The Expert Testimony: The Tribunal here addresses (in summary) the expert
+testimony on the contractual meaning of the word “principales” under Ecuadorian law
+
+in Article 5.1 of the 1995 Settlement Agreement.
+
+65. The written reports of the Claimants’ expert witnesses, principally the Second Expert
+Report of Dr Barros (the “Barros Report”) and the Second Expert Report of Dr
+Coronel (the “Coronel Report”), support the Claimants’ case that “principales” means
+
+a parent company in Article 5.1. Since Chevron is a legal person indirectly controlling
+
+ 
+
+T Article 1577 of the Civil Code in its original Spanish provides as follows: “Por generales que sean
+los términos de un contrato, sélo se aplicaran a la materia sobre que se ha contratado”.
+
+8 Article 1578 of the Civil Code in its original Spanish provides as follows: “E/ sentido en que una
+clausula puede surtir algun efecto deberd preferirse a aquél en que no sea capaz de surtir efecto
+alguno”.
+
+° Article 1579 of the Civil Code in its original Spanish provides as follows: “En los casos en que no
+apareciere voluntad contraria, debera estarse a la interpretacion que mas bien cuadre la naturaleza
+del contrato. Las clausulas de uso comun se presumen aunque no se expresen’”’.
+
+© Article 1580 of the Civil Code in its original Spanish provides as follows: “Las cldusulas de un
+contrato se interpretardn unas por otras, dandose a cada una el sentido que mejor convenga al
+contrato en su totalidad. Podran también interpretarse por las de otro contrato entre las mismas
+partes y sobre la misma materia. O por la aplicacién practica que hayan hecho de ella ambas partes,
+o una de las partes con aprobacion de la otra’.
+
+"| Article 1582 of the Civil Code in its original Spanish provides as follows: “No pudiendo aplicarse
+ninguna de las reglas precedentes de interpretaci6n, se interpretardn las clausulas ambiguas a favor
+del deudor. Pero las clausulas ambiguas que hayan sido extendidas o dictadas por una de las partes,
+sea acreedora o deudora, se interpretaran contra ella, siempre que la ambigiiedad provenga de la
+falta de una explicacion que haya debido darse por ella”.
+
+29
+
+66.
+
+67.
+
+68.
+
+and owning TexPet and is therefore to be regarded as a parent company, these two
+expert witnesses conclude that Chevron is a Releasee under Article 5.1 of the 1995
+
+Settlement Agreement (and also Article IV of the Final Release).
+
+The Barros Report (paragraphs 23 to 35) places special emphasis on the fact that the
+terms “principales y subsidiarias” are used jointly in the same phrase in Article 5.1,
+lines 8-9, of the 1995 Settlement Agreement. Dr Barros takes the view that in such a
+context “principales” refers not to any principal-agent relationship under agency law,
+but to the parent or controlling company/subsidiary relationship from the perspective
+
+of company law.
+
+Amongst other factors, Dr Barros indicates that: (a) if the parties had wished to use
+the term “principales” within the context of an agency relationship, they would have
+mentioned it together with the terms “agentes” or “mandatarios” found at line 6 of
+Article 5.1, which was not the case (paragraph 26 of the Barros Report); and (b) a
+harmonious interpretation (paragraph 31 of the Barros Report) and a good faith
+interpretation (paragraph 33 of the Barros Report) of the 1995 Settlement Agreement
+and its Article 5.1 militate against construing the release as only covering companies
+or persons in the ownership structure (including TexPet), as such structure then was
+and not also companies or persons that come into that same structure at a later date
+(after 1995). Dr Barros points out that a contrary interpretation of Article 5.1 would
+mean that officers in charge of TexPet when the release was agreed would be covered
+as Releasees but not its future officers who could be still held liable (paragraph 29);
+
+and that such an interpretation would not make any sense.
+
+This contextual interpretation is supported by the Coronel Report. Dr Coronel
+expresses the view that, through the linkage between the words “principales” and
+“subsidiarias”, Article 5.1 should be interpreted to mean that companies above and
+below those there mentioned by name are covered as Releasees, thereby including
+
+Chevron (paragraph 19). In this respect, Dr Coronel also refers specifically to the
+
+30
+
+69.
+
+70.
+
+provisions of the Civil Code: Article 1465, Article 1562,'? Article 1576, Article 1578
+and Article 1580 (Coronel Report, paragraphs 11-15).
+
+By relying upon Articles 1576 and 1580 of the Civil Code, Dr Coronel concludes that
+a joint reading of the definition of the release in Articles 1.12 and 5.1 of the 1995
+Settlement Agreement confirms the signatory parties’ intention not only to release
+TexPet but also “all persons and entities related to TexPet” (Coronel Report,
+paragraph 20). He testifies that Article 1.12 broadly extends the release to both legal
+and contractual obligations and responsibility to the Government and PetroEcuador
+resulting from the Consortium’s Operations and relating to the environment (not
+limited to TexPet), and that the broad listing of related entities covered by Article 5.1
+evinces an intention to extend the release broadly to companies, entities and persons
+
+not expressly mentioned or identified by name in Article 5.1.
+
+In particular, Dr Coronel concludes as regards Article 5.1 that: (a) the release covers
+Texaco, which was then the indirect controlling and owning parent of TexPet, which
+means that it should also extend to companies becoming in the future the indirect
+controlling and owning parent of TexPet; and (b) the reference to “successors”
+indicates that entities not expressly listed by name in its text could still benefit from
+the release. Dr Coronel states that when the 1995 Settlement Agreement was executed
+it was impossible to know or even to predict that Chevron (or any other person or
+company) would become the controlling and/or owning parent of TexPet. Since the
+highest parent corporation at that time was expressly covered by the release (i.e.
+Texaco), a logical approach to this provision requires its meaning to cover within the
+release any future company replacing Texaco as TexPet’s parent (Coronel Report,
+paragraph 20). In that sense (and only in that sense), according to Dr Coronel,
+Chevron is a “successor” of Texaco; i.e., Texaco was replaced with Chevron as an
+
+indirect controlling shareholder and parent of TexPet.
+
+'2 Article 1562 of the Civil Code in its original Spanish provides as follows: “Los contratos deben
+ejecutarse de buena fe, y por consiguiente obligan, no sdlo a lo que en ellos se expresa, sino a todas
+las cosas que emanan precisamente de la naturaleza de la obligacion, o que, por la ley o la
+costumbre, pertenecen a ella”.
+
+31
+
+71.
+
+72.
+
+73.
+
+74.
+
+75.
+
+Neither Dr Barros Report nor Dr Coronel Report denies that the term “principales”,
+outside the specific context in which such term is used in Article 5.1 but within the
+context of an agency relationship, can mean a principal or “mandante”. In this
+connection, as earlier noted in its Third Interim Award (paragraph 4.48), the Tribunal
+records that that the Diccionario de la Real Academia Espafiola defines “principal” as
+follows: (i) 19" Edition (1970): “For. El que da poder a otro para que lo represente,
+poderdante”; and (ii) 22" (last) Edition (2001): “Der. Poderdante”. In other words,
+within a technical legal context (this is what the references For. or Der. stand for)
+
+“principal” means: who grants a power of attorney in fact).
+
+The Tribunal notes that examples in which such term has been used differently in the
+technical context of Ecuadorian corporate law (Barros Report, paragraph 25) are
+exceptional, as shown in the reports of the Respondent’s expert witness, Professor
+
+Roberto Salgado Valdez, in particular his first report (the “Salgado Report”).
+
+However, the Salgado Report does not go much beyond pointing out the technical
+legal meaning of the term “principal”; and, in the Tribunal’s view, there is no
+compelling argument refuting the contextual interpretation advanced in the Barros and
+Coronel Reports. Professor Salgado limits himself to denying that interpretation (e.g.
+paragraph 20 of the Salgado Report), without addressing the analysis advanced in the
+Coronel and Barros Reports. Professor Salgado’s subsequent testimony does not
+
+materially alter the position.
+
+(iii) The Tribunal’s Analysis as to Legal Interpretation: The Tribunal considers that it
+falls within its task to interpret for itself the contractual wording applying the relevant
+rules under Ecuadorian law and not merely to adopt the conclusions reached by any
+one or more of the Parties’ expert witnesses. Moreover, the Tribunal notes that there
+may be differences in approach taken by certain of these expert witnesses and the
+
+cases advanced by the Parties presenting them as expert witnesses.
+
+As with all issues of contractual interpretation, it is necessary to start with the actual
+wording at issue, as here expressly required by Article 33(3) of the UNCITRAL
+
+Arbitration Rules. Moreover, in the Tribunal’s view, that contractual wording, being
+
+32
+
+76.
+
+77.
+
+78.
+
+agreed by all three signatories, is by far the best objective evidence of their common
+
+intentions under Ecuadorian law.
+
+Article 9.3: The Tribunal first takes account of the whole agreement provision in
+Article 9.3 of the 1995 Settlement Agreement. Its terms are unambiguous (recited in
+Part B above, in English translation). For these reasons, in regard to the interpretation
+of the 1995 Settlement Agreement, the Tribunal derives no material assistance from
+Dr Veiga’s testimony or from the terms of the release contained in any of the 1996
+
+Municipal and Provincial Releases, as invoked by the Claimants.
+
+The Release: From the 1995 Settlement Agreement itself, the Tribunal notes that it
+takes the form of a bipartite and not a tripartite agreement, notwithstanding its three
+signatories. Its signatories are the same signatory parties to the 1973 Concession
+Agreement (as modified with PetroEcuador’s novation in 1976) and the 1994 MOU.
+In the Tribunal’s view, it is clear from this background (as expressly set out in its
+preamble and terms) that the 1995 Settlement Agreement (with the 1998 Final
+Release) was intended to address “forever” all possible environmental claims by the
+Respondent and PetroEcuador on the one side against TexPet on the other side which
+had arisen or could conceivably arise from the Consortium’s operations under the
+1973 Concession Agreement in the Oriente region of Ecuador, together with the other
+
+nine agreements listed in its Annex B.
+
+Given the nature of environmental claims, these claims could not be limited to
+contractual claims against TexPet but extended to all “legal” claims, thereby including
+non-contractual claims, as described in the preamble’s last paragraph: “ ... Texpet
+agrees to undertake such Environmental Remedial Work in consideration for being
+released and discharged of all its legal and contractual obligations and liability for
+Environmental Impact arising out of the Consortium’s operations; ...”. Further,
+Article 1.12 defines the release in Article 5 as extending to “all legal and contractual
+obligations and liability, towards the Government and Petroecuador ...”.; and Article
+5.2 addresses “any and all claims, rights to claims, debts, liens, common or civil law
+or equitable causes of actions and penalties, whether sounding in contract or tort,
+constitutional, statutory, or regulatory causes of action and penalties ....”. Whilst the
+
+Tribunal accepts the Respondent’s submission that the 1995 Settlement Agreement
+
+33
+
+79.
+
+80.
+
+81.
+
+addressed for the most part contractual claims against TexPet, its object was not
+limited to contractual claims by the Respondent and Petro-Ecuador as co-contractors,
+but included expressly non-contractual claims by the Respondent in its other
+
+capacities with non-contractual rights and remedies.
+
+The Tribunal notes that there is nothing in the express wording of the 1995 Settlement
+Agreement which contains any ‘hold harmless’ provision, indemnity or duty to defend
+by the Respondent or PetroEcuador in the event that TexPet was sued for any legal
+obligation or liability for Environmental Impact arising from the Consortium’s
+operations. The release assumes that all claims falling within the scope of the release
+could only be made by the Respondent (with or without PetroEcuador), thereby
+making such provisions inapplicable to a non-contractual claim made by a third
+person in its own right. Moreover, there is a significant difference between a release
+and an indemnity for a State: the former is usually quantifiable at the time of the
+release and may cost the State little or nothing, whereas the latter, lying in the future
+and dependent upon a third person’s claim, is usually unquantifiable and potentially
+
+costly to the State.
+
+At the time of the 1995 Settlement Agreement, TexPet was facing separate claims
+from the Municipalities, four of which had brought legal proceedings against TexPet
+in Ecuador. The 1995 Settlement Agreement provided no relief to TexPet in regard to
+such claims. To the contrary, Annex A required TexPet to negotiate settlements with
+these Municipalities (which it did in the form of the 1996 Municipal and Provincial
+Releases, as recited above). The 1995 Settlement Agreement also makes no mention
+of the Aguinda Litigation then pending in New York, to which the Respondent was
+not a party.
+
+From the express terms of the 1995 Settlement Agreement, therefore, the Tribunal
+concludes that the release for any non-contractual claim made by the Respondent was
+applicable to claims in which the Respondent was asserting its own rights (in one or
+more of its capacities) and not to claims made by other third persons acting
+independently of the Respondent and asserting rights separate and different from the
+
+rights of the Respondent.
+
+34
+
+82.
+
+83.
+
+84.
+
+85.
+
+Article 5: Under Article 5.1, TexPet and its then parent company (Texaco) were
+expressly named as “Releasees” in the 1995 Settlement Agreement. The Tribunal
+considers that the description of “all” the subsequent categories of unnamed Releasees
+was generally intended to be as broad as was then conceived to be possible, covering
+both all existing and future persons associated with TexPet who might conceivably be
+the subject of any environmental claim by the Respondent and PetroEcuador. That
+general intent, however, must yield to the specific contractual wording agreed by the
+
+signatory parties.
+
+It is common ground between the Parties that the crucial wording appears in Article
+5.1 of the 1995 Settlement Agreement: “principales y subsidiarias”. The Parties’
+respective arguments have been summarised above, as also the conclusions reached
+by the Parties’ respective expert witnesses. It is ultimately a short point, in the
+Tribunal’s view; and it is therefore unnecessary for the Tribunal here to belabour it
+
+unduly.
+
+In brief, the Tribunal accepts the grammatical, contextual and common-sense
+approach to this wording proposed by the Claimants and their two expert witnesses,
+Dr Barros and Dr Coronel; and it does not accept the approach taken by the
+Respondent and its expert witness, Professor Salgado, based on the application of
+Ecuadorian law on agency. The Tribunal also considers that if the issue had arisen at
+the time the 1995 Settlement Agreement was being signed, both sides would have
+reacted similarly, to the effect that the wording “principales y subsidiarias” was an
+obvious shorthand term, requiring no additional wording, for “las compajfiias
+principales y subsidiarias”; and that neither side would have suggested then that their
+
+chosen wording referred to a principal-agent relationship.
+
+In the Tribunal’s view, the Respondent’s interpretation, as now advanced in this
+arbitration, would have been and remains materially inapposite, ineffective and
+inconsistent under the rules for contractual interpretation under Ecuadorian law listed
+in Paragraph 63(iv)(a)-(d) above. Moreover, with such a general intention attributable
+to the signatory parties to compromise such extensive classes of claims against such
+broad categories of potential defendants, with Texaco expressly included as TexPet’s
+
+existing parent, it would be an extreme oddity if the signatory parties had intended,
+
+35
+
+86.
+
+87.
+
+88.
+
+89.
+
+without the clearest wording, to exclude a future parent of TexPet because
+any future parent of TexPet (after Texaco) was the most obvious potential defendant
+with the deepest pockets. The Tribunal decides that there is no such objective
+
+intention evident from the terms of the 1995 Settlement Agreement.
+
+Accordingly, for these reasons, the Tribunal decides that Chevron is a “Releasee”
+under Article 5.1 of the 1995 Settlement Agreement and Article IV of the Final
+Release. It follows from the Tribunal’s decision that Chevron is contractually privy to
+the 1995 Settlement Agreement; in other words Chevron is “party”, albeit not a
+
+signatory party such as TexPet.
+
+Article 9.4: The next issue of interpretation arises from Article 9.4 of the 1995
+Settlement Agreement, invoked by the Respondent. In the Tribunal’s view, this issue
+raises also a short point of contractual interpretation. For ease of reference, the
+Tribunal here sets out the Spanish text of Article 9.4, with the two relevant phrases
+highlighted: “No se debera inferir que este Contrato conferira beneficios a terceros
+que no sean parte de este Contrato, ni tampoco que proporcionara derechos a terceros
+para hacer cumplir sus provisiones”. (The Parties’ rival English translations of this
+
+Spanish text are set out above in Part B, paragraph 27).
+
+The Tribunal decides that the wording of Article 9.4 addresses “third parties” who are
+not parties or part of the 1995 Settlement Agreement. That much is readily apparent
+from the first phrase in the Spanish version and indeed in both Parties’ English
+disputed translations. The issue only arises from the second phrase in Article 9.4
+which, so the Respondent contends, addresses more generally third parties, here
+including third parties which are also party to or part of the 1995 Settlement
+
+Agreement described in the first phrase of Article 9.4.
+
+In the Tribunal’s view, the second shorter phrase is intended as an abbreviated form of
+the first phrase. In other words, both phrases address third parties which are not party
+to or part of the 1995 Settlement Agreement. The Tribunal arrives at this
+interpretation as a matter of grammar, semantics and contextual consistency, but also,
+above all, as a matter of common sense and effectiveness under the rules for
+
+contractual interpretation under Ecuadorian law listed in Paragraph 63(iv)(a)-(d)
+
+36
+
+90.
+
+91.
+
+92.
+
+above. It would make no sense whatever to attribute to the signatory parties a
+common intent to include a person as a Releasee with ostensible contractual rights
+under Article 5 but then to exclude that same person from any benefit to enforce those
+rights under Article 9.4. If such an absurd result had been intended by the signatory
+parties, it would take much clearer wording than is expressed in Article 9.4; and, in
+the Tribunal’s view, such wording is significantly absent to establish any such
+
+intention.
+
+Legal Ambiguity: In the Tribunal’s view, although highly disputed between the Parties
+at great length, the terms of Articles 1.12, 5.1, 5.2, 9.3 and 9.4 are ultimately not
+legally ambiguous under Ecuadorian law. The mere fact that the interpretation of a
+contractual term is disputed by parties and subjected to their exhaustive submissions
+and materials does not make it ambiguous. Accordingly the Tribunal does not invoke
+the rule of contractual interpretation relevant to ambiguity under Ecuadorian law
+
+listed in Paragraph 63(iv)(e) above, including Article 1582 of the Civil Code.'*
+
+Decisions — Interpretation: Accordingly, for these reasons, the Tribunal decides that
+Chevron, as a party to and “part of” the 1995 Settlement Agreement, can enforce its
+contractual rights under Article 5 of the 1995 Settlement Agreement as an unnamed
+Releasee (as also under Article IV of the Final Release), in the same way and to the
+same extent as TexPet as a signatory party and named Releasee. Moreover, the
+Tribunal decides that Chevron and TexPet can exercise those rights both defensively
+and offensively, as claimant or respondent in legal or arbitration proceedings seeking
+in both any appropriate relief under Ecuadorian law. In the Tribunal’s view, nothing
+in the 1995 Settlement Agreement supports the contention that the manner in which
+
+those rights may be exercised is limited, as submitted by the Respondent.
+
+II Introduction - Legal Effect: The Tribunal has here experienced several problems in
+
+deciding in full the respective submissions made by the Parties as to the legal effect of
+
+'S Article 1582 of the Civil Code provides that, if none of its preceding rules of interpretation apply,
+ambiguous clauses shall be interpreted in a favour of the obligor. (In Spanish: “No pudiendo aplicarse
+ninguna de las reglas precedentes de interpretaci6n, se interpretardn las clausulas ambiguas a favor
+del deudor. Pero las clausulas ambiguas que hayan sido extendidas o dictadas por una de las partes,
+sea acreedora o deudora, se interpretaran contra ella, siempre que la ambigiiedad provenga de la
+falta de una explicacion que haya debido darse por ella’).
+
+37
+
+93.
+
+94.
+
+the 1995 Settlement Agreement. Quite apart from the Parties’ attempts to introduce
+into Track I submissions already reserved for Track II, the Tribunal considers that
+other parts of the Parties’ submissions overlap significantly with issues falling under
+Track II and that still other parts originally intended for Track I can now only be
+decided by the Tribunal with Track II, particularly in the light of the Parties’ written
+pleadings in Track II (which are still incomplete as at the date of this Partial Award).
+As Counsel for the Respondent rightly cautioned the Tribunal in its closing oral
+submissions at the November Hearing, there could be a risk of procedural unfairness
+if the Tribunal decided too much under Track I when one or more Parties were still
+
+pleading their full cases in Track II, particularly the Respondent [D3.625-626].
+
+For these reasons, the Tribunal declines to decide in this Partial Award under Track I:
+(i) whether or not the Respondent has breached Article 5 of the 1995 Settlement
+Agreement and Article IV of the Final Release; and, if so, precisely what remedies are
+available to Chevron and/or TexPet against the Respondent in respect of any such
+breach (i.e. damages, declaratory relief or specific performance); (ii) whether or not
+the claims pleaded by the Lago Agrio Plaintiffs rest upon individual rights, as distinct
+from “collective” or “diffuse” rights (in whole or in part) and whether or not those
+claims are materially similar to the claims made by the Aguinda Plaintiffs in New
+York; and (iii) the specific effect of any changes in Ecuadorian law taking place after
+the execution of the 1995 Settlement Agreement and the 1998 Final Release,
+including the interpretation and application of the 1999 Environmental Management
+Act. These issues are hereby reserved to further decisions by the Tribunal in a later
+
+award; and none are decided by the Tribunal in this Partial Award.
+
+(i) Analysis — Legal Effect: Nonetheless, there are certain other issues which the
+Tribunal can here fairly decide as to the legal effect of its interpretation of Article 5 of
+the 1995 Settlement Agreement, as regards Chevron and the Respondent, as at the
+time of its execution by the signatory parties. (The positions of TexPet and
+PetroEcuador, whilst not ignored, can here be set aside for present purposes; and, as
+already indicated, no separate consideration is here required as regards Article IV of
+
+the 1998 Final Release).
+
+38
+
+95.
+
+96.
+
+97.
+
+First, the Tribunal decides that the release granted to Chevron by the Respondent
+under Article 5 covers claims made by the Respondent (with or without
+PetroEcuador). As worded, the release does not extend to any claims made by third
+persons in respect of their own individual rights separate from the Respondent under
+Ecuadorian or other laws. In the Tribunal’s view, this factor is not materially disputed
+by the Parties. The Claimants recognise that the release does not affect such
+individual rights, both for personal harm claimed by an individual and also the
+
+personal claims made by the identifiable Aguinda Plaintiffs in New York.
+
+Second, the Tribunal decides that the release in Article 5 by the Respondent does not
+amount, from its own wording and under Ecuadorian law, to a settlement with a
+general “erga omnes” effect as res judicata upon any claims made by third persons in
+respect of their own individual rights separate from the Respondent under Ecuadorian
+or other laws. Under Ecuadorian law, in order to settle a claim, a person must have the
+ability to dispose of that claim; and the Respondent had no right to dispose of such an
+individual claim by a third person: Articles 2349 and 2354 of the Civil Code.'* This
+issue is different from and not to be confused with the next issue regarding the
+capacity of the Respondent in regard to “diffuse” or “collective” rights at the time of
+
+the 1995 Settlement Agreement.
+
+The words “diffuse” and collective” do not appear in the 1995 Settlement Agreement.
+However, as recorded in Paragraph 63 above, the Parties’ expert witnesses agree that
+the laws of Ecuador when the 1995 Settlement Agreement was executed are
+incorporated into the Settlement Agreement pursuant to Article 7, number eighteen, of
+the Civil Code.'* In their joint expert report dated 7 August 2012, Professors Le
+Chatelier and Oquendo agreed the following legal definition of diffuse rights:
+
+“Diffuse rights are indivisible entitlements that pertain to the community as a whole,
+
+'4 Article 2349 of the Civil Code provides that the only person who can settle a claim is the person
+who is able to dispose of the objects covered by the settlement (In Spanish: “No puede transigir sino
+la persona capaz de disponer de los objetos comprendidos en la transaccién’). Article 2354 of the
+Civil Code provides that a settlement regarding the rights of others is not valid (In Spanish : “No vale
+la transaccion sobre derechos ajenos 0 sobre derechos que no existen”).
+
+'S Article 7 of the Civil Code provides, in relevant part: “La Jey no dispone sino para lo venidero: no
+tiene efecto retroactivo; y en conflicto de una ley posterior con otra anterior, se observaran las reglas
+
+siguientes:
+
+... En todo contrato se entenderdn incorporadas las leyes vigentes al tiempo de su
+
+ 
+
+celebracion”.
+
+39
+
+98.
+
+99.
+
+100.
+
+such as the community’s collective right to live in a healthy and uncontaminated
+environment ...”. Although these two experts cite as references (inter alia) Ecuadorian
+laws subsequent to 1995 (including the 1999 Environmental Management Act), the
+Tribunal considers that this agreed definition is equally appropriate at the time when
+the 1995 Settlement Agreement was made as regards Ecuadorian law incorporated
+into the 1995 Settlement Agreement. For present purposes, the Tribunal sees no
+material distinction between the terms “diffuse” and “collective” rights, here
+
+preferring to use the former term only.
+
+(ii) Article 19-2: This issue of diffuse rights concerns, above all, the nature of the
+legal rights expressed in Article 19-2 of the Ecuadorian Constitution in force when the
+1995 Settlement Agreement was made by the signatory parties. That constitutional
+provision is expressly cited in Article 5.2 of the 1995 Settlement Agreement, as well
+as incorporated under Ecuadorian rules of contractual interpretation (for its relevant
+
+Spanish text and English translation, see Part B above).
+
+Although Article 19-2 is not framed in terms that explicitly confer any right of action,
+it is common ground between the Parties that it did confer a right to a pollution-free
+environment guaranteed by “the State”. Constitutionally, the “State” in Article 19-2 is
+of course the Respondent. Although there is no record (as at 1995) of the Respondent
+ever itself resorting to legal proceedings to make an environmental claim against any
+person pursuant to Article 19-2, it is clear from the wording of Article 5.2 of the 1995
+Settlement Agreement that such a possibility was objectively considered to exist by its
+signatory parties (including the Respondent), however remote the likelihood of it
+occurring in practice. Moreover, the Respondent’s expert witness, Professor
+Eguiguren, acknowledged in his oral testimony at the November Hearing that the
+Respondent could make such a claim in 1995 [D1.208-209]. Hence, the Tribunal
+concludes that Article 5 was intended to preclude the Respondent from itself making
+any claim against a Releasee (now including Chevron) under Article 19-2 of the
+
+Constitution (or its subsequent constitutional equivalent).
+
+On the other hand, as decided above, the contractual wording also records an intention
+by the signatory parties not to affect claims made separately by other third persons
+
+with their own individual rights; nor could it affect those separate third-person rights
+
+40
+
+as a matter of Ecuadorian law: see Article 2363 of the Civil Code.'° The Tribunal
+therefore concludes that, as at 1995, such an individual claiming damages for personal
+harm remained free to do so, notwithstanding the Respondent’s release in Article 5,
+even where that person invoked Article 19-2 of the Constitution in support of an
+individual claim for damages in respect of personal harm (actual or threatened)
+separate from the Respondent. The Tribunal notes the decision in the Gutiérrez case
+of 29 September 1993 where the individual plaintiff was awarded damages against the
+defendant pig farmer for personal harm to him, his wife and their property based (inter
+
+alia) upon a claim under Article 19-2 of the Constitution.'”
+
+101. However, the issue is not whether such an individual could make such a claim in
+respect of his or her personal harm, but rather whether such an individual could make
+a claim in respect of harm arising out of the alleged violation of a diffuse right under
+Article 19-2 of the Constitution without claiming to have suffered any personal harm.
+The Tribunal considers that, as at 1995, such a claim by such an individual was not
+possible under Ecuadorian law, that cause of action being confined under Article 19-2
+to the Respondent alone. It is here helpful to set out the rival approaches taken by the
+Parties’ respective expert witnesses, as largely recorded in their joint expert report
+
+dated 7 August 2012.
+
+102. In summary, the Claimants’ experts (Dr Barros, Dr Coronel, Professor Oquendo and
+Dr Romero) testified that the constitutional right under Article 19-2 was a diffuse and
+indivisible right because the owner of that right was the entire community of
+Ecuadorian citizens (not individuals or groups of individuals); the Ecuadorian
+Government asserted this right for the benefit of the entire community of Ecuadorian
+citizens in the 1995 Settlement Agreement, in the exercise of the Respondent’s duty to
+vindicate the right of its citizens to live in an environment free from contamination
+
+and to foster the preservation of nature; and, accordingly, the 1995 Settlement
+
+'© Article 2363 of the Civil Code provides that a settlement shall only be effective as between the
+
+parties to such settlement (In Spanish: “La transaccion no surte efecto sino entre los contratantes. Si
+son muchos los principales interesados en el negocio sobre el cual se transige, la transaccién
+consentida por uno de ellos, no perjudica ni aprovecha los otros; salvo, empero, los efectos de la
+novacion, en el caso de solidaridad’). Article 297 of the Code of Civil Procedure requires the
+common identity of (i) parties, (ii) causa petendi (as to facts and legal basis); and (iii) object.
+
+'7 The Angel Gutiérrez case of 29 September 1993 (ibid).
+
+41
+
+103.
+
+104.
+
+105.
+
+Agreement (with the Final Release) extinguished any possible environmental claim
+against the Releasees arising from the alleged violation of this diffuse right under
+
+Article 19-2, whether made by the Respondent or any third person.
+
+In summary, the Respondent’s expert witnesses (Professor Eguiguren, supported by
+Professor Le Chatelier), whilst acknowledging that a diffuse right was indivisible,
+testified that, in order to settle any right, the settling party must have the capacity to
+dispose of that right under Ecuadorian law; the Ecuadorian Government acted in the
+1995 Settlement Agreement to settle only its own rights arising from the 1973
+Concession Agreement; the Government did not have any capacity: (i) to dispose of
+the rights of individuals or (ii) to represent individuals for the purpose of settling in
+their name rights conferred upon them by Ecuadorian law, including rights under
+Article 19-2 of the Constitution; and for this purpose the nature of the right is
+irrelevant (ie. whether diffuse or otherwise) because a settlement, according to
+Ecuadorian law, can affect only the parties to that settlement and cannot affect the
+
+rights of third persons.
+
+As already noted above, the first of these propositions concerning ‘individual’ rights
+is common ground between the Parties’ expert witnesses and is not disputed by the
+Claimants. It is the second proposition concerning Article 19-2 which divides the
+
+Parties’ expert witnesses.
+
+From the materials adduced by the Parties and their expert witnesses in these
+arbitration proceedings, the Tribunal concludes that the diffuse and indivisible right
+under Article 19-2 of the Constitution was the same before and after the 1995
+Settlement Agreement. In particular, Professor Eguiguren testified at the November
+
+Hearing that “... the right remains the same. The right to live in a healthy
+environment is the same of [in] 1995. In reality, since 1983, when it was introduced in
+the Ecuadorian Constitution, it’s the same of [in] 1998 and 2008 ....” [D1.199]. What
+changed under Ecuadorian law after 1995 was the legal standing of a private
+individual to bring a claim under Article 19-2 asserting a diffuse constitutional right
+(not being a claim in respect of that individual’s personal harm). That new legal
+
+standing was subsequently confirmed by the 1999 Environmental Management Act.
+
+42
+
+106.
+
+107.
+
+108.
+
+In the Tribunal’s view, under Ecuadorian law as at the time when the 1995 Settlement
+Agreement was executed (i.e. before the 1999 Act), only the Respondent could bring
+a diffuse claim under Article 19-2 to safeguard the right of citizens to live in an
+environment free from contamination. At that time, no other person could bring such a
+claim. No instance of the Respondent bringing or settling such a claim (other than this
+case) and no decisive provision of Ecuadorian law was brought to the attention of the
+Tribunal. Nonetheless, it must follow from the circumstances prevailing in 1995 that
+the Respondent, and only the Respondent, had the legal capacity to make and settle a
+diffuse claim under Article 19-2. If the Respondent could not make and then settle a
+diffuse claim under Article 19-2, no-one else could. The Tribunal is therefore
+persuaded by the analysis submitted by the Claimants’ expert witnesses on this point,
+namely that in 1995 the Respondent (acting by its Government) could settle a diffuse
+claim under Article 19-2 “forever” against the Releasees; and that accordingly no such
+
+diffuse claim could be made in the future against any Releasee.
+
+After 1995, the Tribunal considers that the same situation prevailed: the right to make
+an environmental claim based upon the diffuse right under Article 19-2 against the
+Releasees remained settled “forever”. The new factor, confirmed by the 1999
+Environmental Management Act, that one or more private individuals now had
+standing to bring a claim asserting diffuse rights could not revive the diffuse right
+under Article 19-2 which had already been extinguished by the 1995 Settlement
+Agreement. It is not juridically possible for a person to exercise a right which no
+longer exists, even if, were that right to remain in existence, that person has newly
+acquired the right to exercise it. As agreed by the Parties’ experts, that diffuse right
+under Article 19-2 was “indivisible”: it was either settled in full or not at all. The
+Tribunal has rejected the latter possibility; and it decides upon the former. It rejects
+entirely the third possibility that the same diffuse right in Article 19-2 can exist in
+separate parts, to be exercised by multiple claimants at different times with successive
+diffuse claims, thereby making any effective final settlement or adjudication of such
+
+claims illusory.
+
+(iii) Decisions - Legal Effect: Accordingly, for these reasons, the Tribunal concludes
+that, under Ecuadorian law, Article 5 of the 1995 Settlement Agreement and Article
+
+IV of the Final Release preclude any claim by the Respondent against any Releasee
+
+43
+
+109.
+
+110.
+
+invoking the diffuse constitutional right under Article 19-2 of the Constitution, but
+that these releases also preclude any third person making a claim against a Releasee
+invoking the same diffuse constitutional right under Article 19-2, not being a separate
+
+and different claim for personal harm (whether actual or threatened).
+
+It will be noted that the Tribunal has not considered the other statutory provisions
+listed in Article 5.2 of the 1995 Settlement Agreement, particularly the Decree No.
+374, the Water Act of 1973 and Decree No. 2144. The Tribunal has heard much less
+about these provisions so far; and it is therefore reluctant to make any final decisions
+in their regard before satisfying itself that there are no material differences between
+the nature of the legal rights under these provisions and the rights under Article 19-2.
+The Tribunal will if necessary request further submissions from the Parties on this
+
+point.
+
+Lastly, the Tribunal has not here decided the nature and scope of popular actions
+under Articles 990 and 2236 of the Civil Code. From the Parties’ expert witness
+reports, there appears to be common ground that a claimant could not bring any
+environmental claim as a popular action without (inter alia) claiming actual or
+threatened personal harm. The Tribunal has again heard much less about these popular
+actions (both before and after the 1995 Settlement Agreement); and, whilst it seems at
+present that these actions are unlikely to be decisive one way or the other in this case,
+the Tribunal again prefers to defer its decision for the time being. Similarly, the
+Tribunal will if necessary request further submissions from the Parties on these
+
+popular actions.
+
+44
+
+111.
+
+112.
+
+PART E: THE OPERATIVE PART
+
+This Partial Award, although separately signed by the Tribunal’s members on
+
+three signing pages, constitutes a “Partial Award” signed by the three
+
+arbitrators under Article 32 of the UNCITRAL Arbitration Rules.
+
+For the reasons set out above, the Tribunal finally decides and awards as follows
+
+in Track I of these arbitration proceedings:
+
+qd)
+
+2)
+
+G)
+
+The First Claimant (“Chevron”) and the Second Claimant (“TexPet”) are
+both “Releasees” under Article 5.1 of the 1995 Settlement Agreement and
+Article IV of the 1998 Final Release;
+
+As such a Releasee, a party to and also part of the 1995 Settlement
+Agreement, the First Claimant can invoke its contractual rights thereunder
+in regard to the release in Article 5.1 of the 1995 Settlement Agreement and
+Article ITV of the 1998 Final Release as fully as the Second Claimant as a
+
+signatory party and named Releasee;
+
+The scope of the releases in Article 5 of the 1995 Settlement Agreement and
+Article ITV of the 1998 Final Release made by the Respondent to the First
+and Second Claimants does not extend to any environmental claim made by
+an individual for personal harm in respect of that individual’s rights
+separate and different from the Respondent; but it does have legal effect
+under Ecuadorian law precluding any “diffuse” claim against the First and
+Second Claimants under Article 19-2 of the Constitution made by the
+Respondent and also made by any individual not claiming personal harm
+
+(actual or threatened); and
+
+45
+
+(4) Save as aforesaid, the Tribunal does not here decide (one way or the other)
+any part of the formal relief claimed by the Parties respectively in regard to
+Track I, reserving to itself its full powers and discretion to do so in one or
+
+more later awards.
+
+PLACE OF ARBITRATION: THE HAGUE, THE NETHERLANDS
+
+DATE; 17 SEPTEMBER 2013
+THE TRIBUNAL:
+Dr Horacio A. Grigera Nan:
+
+Professor Vaughan Lowe;
+
+V.V. Veeder (President:) Fir Ma ola. has -
+
+_
+
+46
+
+(4) Save as aforesaid, the Tribunal does not here decide (one way or the other)
+any part of the formal relief claimed by the Parties respectively in regard to
+Track I, reserving to itself its full powers and discretion to do so in one or
+
+more later awards.
+
+PLACE OF ARBITRATION: THE HAGUE, THE NETHERLANDS
+
+DATE: 17 SEPTEMBER 2013
+
+THE TRIBUNAL:
+
+Dr Horacio A. Grigera Naén
+
+ 
+
+Professor Vaughan Lowe;
+
+V.V. Veeder (President:) A. Maat, Hos
+
+_
+
+46
+
+(4) Save as aforesaid, the Tribunal does not here decide (one way or the other)
+any part of the formal relief claimed by the Parties respectively in regard to
+Track I, reserving to itself its full powers and discretion to do so in one or
+
+more later awards.
+PLACE OF ARBITRATION: THE HAGUE, THE NETHERLANDS
+DATE: 17 SEPTEMBER 2013
+
+THE TRIBUNAL:
+
+Dr Horacio A. Grigera Naén:¢ >
+4 _ .
+
+Professor Vaughan Lowe; Le powtoe
+
+V.V. Veeder (President:) Jar. Marte, ese
+
+_
+
+APPENDIX 1
+THE 1995 Settlement Agreement
+
+(Spanish original version)
+
+ 
+
++k
+
+ 
+
+From : TEXACD QUITO 593-2-5§8612 may 0s. zase 11:27 AM Pe2
++ >
+
+ 
+
+8 Lcuapay
+as y tena Phlg sMazombor
+
+! ouador Remediation
+“VP-OUICA UBL. ECUADOR File. XLALD.i te
+10 DE ENERGIA ¥ MURAD
+
+ 
+
+te.
+
+CONTRATO PARA LA EJECUCION DE
+TRABAIOS DE REP ARS CION SEO OAMBTENTAL yi
+C] SP E
+
+ 
+
+ESTE CONTRATO para la Ejecucién de Trabajos de Reparacién Ambiental y Liberacién de
+Obligaciones, Responsabilidades y Demandas, se cclebra entre el Gobierno ‘del Ecuador,
+representado por el Ministro de Energia y Minas, Dr. Galo Abril Ojeda, al que se denominard
+"el Gobierno", y la Empresa Estatal Petréleos def Ecuador, PETROECUADOR, represemada
+por su Presidente Ejecutivo, Dr. Federico Vintimilla, a la que se denominard
+“PETROECUADOR’, por una parte; y por otra, Texaco Petroleum Company, una Corporacién
+de Delaware, con oficinas en la Ave. 6 de Diciembre 2816 y James Orton, Quito, Ecuador,
+representada por su Vicepresideme, Sr. Ricardo Reis ea y su Representante Legal, Dr.
+
+Rudrigo Pérez Pallarcs, a 1a que se denominaré “TEXP!
+
+CONSIDERANDO que, Texas Petroleum Company fi fi ra contrato de concesién de derechos
+de i e1 5 de marzo de 1964 y,
+
+Para la y
+
+Por el mismo instrumento, con aprobacién del Gebenn dicho contrato fue transferido a Ia
+Compaffa Texaco de Petréleos del Ecuador, C. A. y a Gulf Ecuatoriana de Petrdéleo, S.A.,
+contrato que fue registrado en el Ministerio de Minas el 14 de marzo del mismo aiio;
+
+CONSIDERANDO que, 1a Compafifa Texaco de Petréleos de) Ecuador, C,A. y Gulf
+Ecuatoriana de Petrdleo S.A. firmaron un contrato ampliatorio y modificatorio con el Gobierno.
+tl 27 de junio de 1969, el mismo que fue registrado en el Ministerio de Industrias y Comercio
+
+el 30 de junio del mismo afio;
+
+CONSIDERANDO que, con la i6n del yf Minit
+
+No. 844 del 20 de diciembre de 1965, im Cont Perolera Panes, Cc. “ yla Compafifa
+Petrolera Aguarico. S.A., para de
+Midrocasten es por sietic del teuipa efectuado por Minas y Peswleoe del Beuader, Sociedad
+Anénima;
+
+CONSIDERANDO que, las Compafifas Petrolcra Pastaza, C.A. y Petrolera Aguarico, $.A.,
+firmaron un contrato ampliatorio y modificatorio con el Gobierno el 27 de junio de 1969, el
+raismo que se registré en ¢l Ministerio de Industrias y Comercio cl} 30 de junio del mismo aio;
+CONSIDERANDO que, ja Compajfila Texaco de Petréleos del Ecuador, y Golf
+Hcuatoriana de Petréleo S.A., a las cuales sucedieron finalmente TEXPET y PTROREUADOR
+(de aqui en adelante denominadas “Consorcio"), firmaron un Acuerdo de Operacién Conjunta
+con TEXPET cl 1 de enero de 1965, que cubre la operacién de las instalaciones del Consorcio
+(de aquf en adelante denominado "Convenio Napo"): 2
+
+PAS
+
+we
+
+ 
+
+11.9, 2850 11:27 AM
+
+From} TEXACO QUITO 593-7 “68612 tee. G9. oer
+#1 ccusvon WA 3100,
+
+a V cena pays amazomitor
+
+AEPNUEA DEL ECUADUR
+SVR DE ENERGIA ¥ MIAS
+
+Pagina 2
+
+CONSIDERANDO que, !a unificacién de los contratos y/o 1a duracién de los misinos, asf como
+la sit c de la iva de Jas di: cra para
+la de las obli para el de la Industria Petrolera
+Ecuatoriana, como Io establece el Decreto Supremo No, 516 de mayo 11 de 1973;
+
+CONSIDERANDO que, el Gobierno, dando cumplimiento a las provisiones del Decreto
+Supremo No. 516/73, autoriz6 Ja unificaci6n, reemplazo y modificacién de los contratos
+firmados con anterioridad con la Compaiifa Texaco Petréleos del Ecuador, C.A., con Guif
+Ecuatoriana de Petréleo, S.A., y sus respectivas compayilas afiliadas, Compafifa Petrolera
+Pastaza C.A., y Compaiiia Aguarico, S.A., en un solo contrato para la exploraci6a y explotacién
+de hidrocarburos, el mismo que se firmé cl 6 de agosto de 1973 por y entre e] Gobierno,
+TEXPET y Ecuadorian Gulf Oil Company (a la que s¢ denominaré “Gulf*), el mismo que fue
+debidamente aprobado por el Decreto Supremo 925, del 4 de agosto de 1973 (al que se le
+denominaré ¢! “Contrato de 1973");
+
+CONSIDERANDO que, ta Corporacién Estatal Petrolera Ecuatoriana (CEPE), hoy
+PETROECUADOR, adquirié el 6 de junio de 1974 un 12.5% de participaci6n indivisible de los
+derechos y obligaciones de TEXPET y un 12.5% de participacién indivisible de los derechos
+
+y obligaciones de Gulf, en el contato de 1973 y convenios y acuerdos relacionados;
+
+CONSIDERANDO que. CEPE, que fue reemplazada por PETROECUADOR, adquirié el 27
+de mayo de 1977, los intereses, derechos y obligaciones Indivisibles restantes de Gulf en el
+contrato de 1973, y convenios y acuerdos relacionados;
+
+CEPE adquirié c] 100% de propiedad del Oleoducto Transecuatoriano
+
+CONSIDERANDO que,
+‘nico operadar del mismo el 1
+
+el 1 de marzo de 1986 y PETROECUADOR se convirtié cn el
+de octubre de 1989:
+
+CONSIDERANDO que, PETROECUADOR cjercié sus derechos cstipulados en el Convenio
+Napo y reemplaz6 a TEXPET como operadora del Consorcio cl 1 de julio de 1990;
+CONSIDERANDO que, él contrato de 1973 expiré el 6 de junio de 1992 y el Gobierno,
+PETROECUADOR y TEXPET han emprendido negociaciones para determinar el Impacto
+Ambiental potencial resultante de las operaciones del Consorcio en Ia Regién Oricntal del
+
+Heuador,
+
+Mos
+
+‘+ From  TEXACD QUITO S33-2-"S8612 Mav @9,285@ 11:27 AN Pea
+
+ACUADAR ha £100.
+Fs y'SEm8 Pars buatOmco"
+
+AEPVBLICA DEL ECUADOR
+ZALASYRRIO DE ENERGIA Y MINAS
+
+Pégina 3
+
+CONSIDERANDO que. como se describe en este Centrato, TEXPET, el Gobierno y
+
+PETROECUADOR han determinado y convenido en ¢l alcance del Trabajo de Reparacién
+
+Ambiental a ser realizado por TEXPET para descargo de todas sus obligaciones legales y
+les y sus resp por el Impacto Ambit de las det
+
+Consorcio;
+
+CONSIDERANDO quc, TEXPET conviene en emprender dicho Trabajo de Reparacién
+
+pene en consideracién a que seré liberada y descargada de todas sus eee Cae
+
+y por el Impacio
+
+ak
+
+Consoreios
+EN VIRTUD DE LO CUAL, las partes conviencn en Io siguicnte:
+
+ARTICULO}
+DEEINICIONES
+
+1.1 Convenios de} Consorcio.- Aquellos acuerdos relacionados con Ia exploracién y
+produccién, transporte y manejo del petréleo de Consorcio listados en el Anexo B de
+documento,
+
+este
+1.2 Qperaciones del Consorcio,- Aquellas ‘operaciones de exploracién y produccién de
+petréleo Ievadas a cabo de acuerdo con los convenios de} Consorcio.
+Impacto Ambiental.- Cualquier substancia sdlida, Iiquida o gaseosa presenic o liberada
+en cl ambiente a (al concentracién o condicién, cuya presencia o Hberacién causa o tiene
+el poder de causar dafio a 1a salud de los humanos o al medioambiente,
+
+1.4 Contratista.- La Compasifa seleccionada por TEXPET para realizar el Trabajo de
+Reparacién Ambiental de una lista de contratistas internacionales de servicios
+ambientales, aprobada por ef Ministerio de Energia y Minas a nombre del Gobierno y
+PETROECUADOR mediante el Memorandum 00S-SMA-95 de 7 de febrero de 1995,
+suscrito por el Subsecretario de Medioambiente, de acuerdo con este Contratu,
+
+ 
+
+From : TEXACO QUITO 593-2 “68612 Mae @9, 2050 11:27 AM Pes
+
+f
+
+PEFUBLICA DEL ECUADOR
+MINISTEKIO DE ENERGIA Y MINAS
+
+1 Fouscce ma YOD,
+(8 v Sena puis amazon
+
+Pigina 4
+
+Arbitro Técnico Independiente.- La entidad seleccionada por las Partes de una lista de~
+especialistas Internacionales de servicios amblentales, aprobada por ol Ministerto de
+Energia y Minas a nombre del Gobierno y PETROECUADOR, mediante el Officio # 066-
+95-DINAMA-SMA-951125 de 28 de abril de 1995, para resolver cualesquiera disputas
+con respecto a sj el Trabajo de Reparacién ‘Ambiental, en la forma en que se Jo haya
+realizado, conticne o no un Cambio Sustancial al Alcance def Trabajo establecido en el
+Anexo A, complementado en el Plan de Accién de Reparacién. Esta resolucién sera
+definitiva y obligatoria para Jas partes.
+
+1.6 Plan de AcciGn de ReparaciGn.- EJ plan detallado Para realizar cl Trabajo de Reparacién
+
+por Ia Contratista luego de fa
+
+de Servicios y aprobado por TEXPET y el Ministerio de Paces y Minas a nombre dei
+Gobierno y PETROECUADOR, que ser4 complementario al Alcance de! Trabajo adjunto
+
+como Anexo A
+
+we
+au
+
+Akance del Trabajo.- Et alcance def conjunto de trabajos y accioncs para la reparaciéa
+
+convenido entre las partes y establecido en el Anexo A que se requiere para
+
+y liberar a TEXPET, frente al Gobierno y PETROECUADOR, de todas Jas obligaciones
+
+legales y consractuales, y de Ia responsabilidad del Impacto Ambiental resultante de las
+jones del Consorcio.
+
+1.8 Trabajo de Reparacién Ambiental.- Todos los trabajos y acciones a cargo de TEXPET,
+su Contratista 0 los subcontratistas de éste, que deberdn ser ejecutados de acuerdo con
+el Alcance del Trabajo establecido en el Anexo A y el Plan de Accién de Reparacién y
+bajo los términos de este Contrato,
+1.9 — Contrato de Servicios.- El comtrato entre TEXPET y la Contratista que fija los términos
+y condiciones para Ia preparacién del Plan de Accién de Reparacién y 1a realizacién del
+Trabajo de Reparacién Ambiental contemplado en este Contrato.
+Notificacién de Cambio Sustancial.- Notificacién a TEXPET por parte del Ministerio
+de Energfa y Minas a nombre del Gobierno y PETROECUADOR, sefialando Ia opinién
+del Ministerio en el sentido de que el trabajo de Reparaci6n Ambiental, en Ja forma que
+ha sido realizado, contiene un Cambio Sustanclal a Jo estipulado cn ci Alcance ded
+Trabajo establecido en el Anexo A, complementado por ef Plan de Accién de
+
+Reparacidn.
+
+rh
+poss
+~
+
+rom : TEXACD GUITO 593-2-"68612 Mav @9.2858 11:27 AM Pee
+
+(RL ECUADOR Ha 2109,
+€2 V 5ene pats auAzomice®
+
+FA
+
+#EPIBLICA DEL. SCUADOR
+MINISTERIO DE ENERGIA Y MINAS
+
+Pégina S
+
+4
+* 1,11 Cambio Sustancial.- Una desviacién significativa del Alcance del Trabajo establecido
+en ef Anexo A, complementado por el Plan de Accién de Reparacién, resuitante de
+acciones u omisiones en Ia ejecucién por parte de Ja Contratista de! Trabajo de
+Reparact6n Ambiental, y que causare que este Trabajo de Reparacién Ambiental no
+cumpla con Io fijado en el Alcance del Trabajo y en el Plan de Accién de Reparacién.
+
+1.12 Liberaci6n.- La liberacién, bajo las provisiones del Articulo V de este Contrato, de
+todas las obligaciones legales y contractuales y de la responsabilidad, frente al Gobierno
+
+y PETROECUADOR, por Impacto Ambiental resultante de las Operaciones del
+incluyendo cualesquiera demandas que tengan o puedan tener tanto cl
+
+Consorcio,
+Gobierno como PETROECUADOR contra TEXPET, como resultado de los Convenios
+del Consorcio.
+ARTICULO JI
+ALCANCE DEL TRABAJO
+
+Las partes convienen en que el Trabajo de Reparacién Ambiental en el Area del Consorcio que
+se requiere para satisfacer y liberar de obligaciones a TEXPET bajo Jos Convenios del
+Consorcio, debe concordar con el Alcance del Trabajo descrito en ei Anexo A, a
+complementarse en el Plan de Accién de Reparacién, a ser preparado por Ja Contratista
+
+seleccionada por TEXPET, seguin fo aprobado por las Partes.
+
+ABTICULO WT
+REALIZACION DEL TRABAJO
+
+3.1 TEXPET deberd emprender el Trabajo de Reparacion Ambiental, a su solo costo y bajo
+su sola y exclusiva responsabilidad. Si TEXPET asi lo desca, podré realizar el reste
+
+de Reparacién Ambiental a través de una Contratista calificada y seleccionada por
+TEXPET, de Ia lista de compafifas aprobadas por el Ministerio de Janergfa y Mine a a
+G nombre del Gobierno y PETROBCUADOR, mediante e] Memorandum 005-SMA-95 de
+L . 7 de febrero de 1995, suscrito por el Subsecretario de Medioambiente, sin que esta
+ZN ¢ uprobacign Sa a eae ieee rene col
+
+ed del Trabajo de Reparacié: que, cate i
+i
+
+ 
+
+From : TEXACO QUITO 593-2-"8612
+
+aerveci
+
+ 
+
+May 99.2858 11:27 AM Per
+
+"HL 2CUADOR Ha 100.
+AS SERA pais AuAZOMICE
+
+ 
+
+A DEL ECUAOGR
+
+MUUSTERID DE ENERGIA Y MINAS
+
+aa
+
+ 
+
+3.2
+
+3.3 (a)
+
+3.3 (b)
+
+Pagina 6
+
+compromete a efectuar. E1 Pian de Reparacién Ambiental debe ser realizado de acuerdo
+con el Alcance del Trabajo, leyes y reglamentos ambientales vigentes en el Ecuador a
+la fecha de la firma del presente Contato, especialmente las Regulaciones Ambientales
+para las Actividades Hidrocarburlferas (Acuerdo Ministerial No. 621 de 1992) y, como
+complemento a ellas, las précticas y los estfndares internacionales actualmente vigentes
+para Ja industria pewrolera, especialmente los consignados en Ia "Gufa Operacional de la
+Industria Petrolera en Selvas Tropicales” del Foro E&P, de abril de 1991 y la “Gufa para
+el Manejo de Desechos de Exploraci6n y Produccién (E&P)", de septiembre de 1993.
+
+En el caso de que TEXPET decida ejecutar el Trabajo de Reparaci6a Ambiental a través
+de una Contratlsta, TEXPET celebraré con dicha Contratista un Contrato de Servicios
+para Ia realizacién de] Plan de Reparacién Ambicntal. Una vez que se haya firmado el
+Contrato de Servicios entre TEXPET y la Contratista, Ja Contratista debera a
+Plan de Acci6n de Reparaci6n para su revision y aceptaci6n por parte de TEXPET y el
+Ministerio de Fnergfa y Minas a nombre del Gobierno y de PETROBCUADOR. Esta
+aceptacién del Ministerio de Energia y Minas a nombre del Gobierno y
+PETROECUADOR o su objecién, total o parcial, del Plan de Accién de Reparacién
+deberin ser hechos en un plazo no mayor a quince (15) dias hébiles, coniados a partir
+de la fecha de su presentaci6n al Ministerio de Energia y Minas. En caso de objecién
+total o parcial, Jas partes negociarén de bucna fé la resolucién de esas discrepancias en
+un término de otros quince (15) dias hébiles.
+
+El Gobiemo y PETROECUADOR conviencn en penmitir al personal de la
+Contratista, a sus subcontratistas, el acceso a los sitios donde se
+realizar4 el Trabajo de Reparacién Ambiental, durante un perfodo razonable de
+tiempo, que le permita preparar el Pian de Accién de Reparacién y levar a cabo
+el Trabajo de Reparacién Ambiental.
+
+Tanto el Gobierno como PETROECUADOR y sus subsidiarias harfn los mejores
+esfuerzos para que sus propias operaciones no interfieran en lo posible con la
+pjecucién del Trabajo de R i ibiental, de d con ef Alcance
+del Trabajo establecido en el Anexo A y cl Plan de Acciém de Reparacién.
+PETROECUADOR deberé proveer a TEXPET, a sa Contratista o a los
+subcontratistas de éste, cuando fuere necesatio y en medida de las
+isponi i6n adecuada, apoyo
+logistico y seguridad de su personal, equipo y materiales empleados para la
+ejecucién del Trabajo de Reparacién Ambiental que TEXPET se compromete a
+
+realizar.
+
+ 
+
+. From : TEXACO QUITO 593-2-"68612 Ma 89.2858 11:27 AM Pes
+
+EL EEHANON ha ZC.
+€3 7 5Ene pars auazowes:
+MEPUBLACA DEL xCUADOR
+MnusTERIO DE ENERGIA Y MINAS
+Pégina 7
+
+4 3.3 (©) Los proyectas de compensacién socioeconémica previsios en el Alcance del
+Trabajo establecida en el Anexo A serén financiados por TEXPET segun lo
+acordado en dicho Alcance del Trabajo, y sin que TEXPET tenga responsabilidad
+
+alguna por la ejecucién de dichos proyectos.
+
+ARTICULO IV,
+CERTIFICACION Y ACEPTACION DEL TRABAJO
+
+TEXPET debe asegurarse que el Trabajo de Reparacién
+acuerdo con e} Alcance del Trabajo, a complementarse en el Plan de Accién de Reparacién
+aprobado por las Panes.
+
+4.1 Una vez que se haya completado e] Trabajo de Reparacién Ambiental en cada sitio,
+TEXPET deberé notificar, de inmediato y por escrito, al Ministerio de Energla y Minas
+que seré el tinico receptor a nombre del Gobiemo y PETROBCUADOR, que su
+obligacién de evar a cabo cl Trabajo de Reparacién Ambiental ha sido satisfecha, bajo
+Jos términos de cste Contrato. El} Ministerio tendré quince (15) dfas calendario contados
+a partir de Ja fecha cn que se haya efectuado Ia indicada notificacién para inspeccionar
+¢] Trabajo de Reparacién Ambiental en el sitio y para notificar a TEXPET de
+Cambio Sustancial con respecto al Alcance del Trabajo o Plan de Accién de Reparacién
+Ambiental. Si no se hace ninguna notificacién de Cambio sustancial durante e! indicado
+ae se consideraré que el Gobierno y PETROECUADOR han aceptado que cl
+Trabajo de Reparacién Ambiental ha sido ejecutado bajo los términos de este Contrato.
+Con Ia aceptacién del Trabajo de Reparacién Ambicntal por parte del Ministerio a
+nombre del Gobierno y PETROECUADOR. TEXPET habrd satisfecho sus obligaciones
+con respecto a aquel sitio y la Wberacidn establecida en el Ariiculo V de este Contrato
+se hard efectiva.
+
+4.2 Encl caso de que el Ministerio notifique a TEXPET su opinién cn ef sentido de que se
+
+ha dado lugar un Cambio Sustancial en ese sitlo, TEXPET y el Ministerio tienen quince
+(15) dfas calendario contados a partir de la fecha de !a notificacién de Sustancial
+para negociar en buena fe Ja resolucién de {a disputa. Si fas Partes no Megan a un
+acuerdo dentro de ese término, cada Parte tendr& cinco (5) dias calendario para remitir
+su posicién por escrito al Arbitro Técnico Independiente para su resolucién.
+
+ 
+
+ 
+
+we
+
+Mav @9.2858 11:27 Am Pes
+
+From : TEXACO QUITO S93-2-"58612
+
+“EL FCUADDA Ha S1DO,
+5 ¥ Sma Pals attaZOnico™
+
+REPUBLICA DEL ECUADOR
+MINISTERIO DE ENERGIA ¥ MINAS
+
+ 
+
+Pégina 8
+
+ARTICULO ¥
+LIBERACION DE LAS DEMANDAS
+
+A la fecha de suscripcién de este Contrato y en consideracién al acuerdo de TEXPET
+
+de realizar ef Trabajo de Reparacién Ambiental de acuerdo con el Alcance del Trabajo
+
+establecido en e) Anexo A y el Plan de Accién de Reparacién Ambiental, el Gobierno
+
+y PETROECUADOR liberarfn, absolverin y descargaran para siempre a TEXPET,
+
+Texas Petroleum Company, Compafifa Texaco de Petréleos de] Ecuador S.A., Texaco
+
+Inc., y a todos sus respectivos agentes, sirvicntes, empleados, funcionarios, directores,
+legales, abogados, garantes,
+
+y
+subsidiarias (a las que se denominarf "Las Exoneradas*) de cualquier otra demanda del
+Gobierno y PETROECUADOR en contra de Las Exoneradas por Impacto Ambiental,
+resultante de las Operaciones del Consorciv, a excepcién de aquelias reJacionadas con
+las obligaciones contrafdas en este Contrato para Ja ejecucién por TEXPET del Alcance
+del Trabajo (Anexo A), las cuales serén liberadas conforme se vaya ejecutando el
+Trabajo de Reparacién Ambiental a satisfaccién del Gobiemo y PETROECUADOR, de
+conformidad con las cldusulas 5.3 y 5.4 de este Contrato. El! Gobierno y
+PETROECUADOR en que sus d:
+disputadas y que TEXPET niega cualquier responsabilidad sobre cstas demandas.
+Adicionalmente, e] Gobiemo y PETROECUADOR convienen en que esta Liberacién de
+Demandas y compromisus no seré nunca ofrecida o admitida como evidencia contra
+TEXPET o interpretada como confesién o admisién de responsabilidad en cualquier
+
+Juicio o procedimiento legal.
+
+El Gobierno y PETROECUADOR entienden por demandas cualquiera y todas las
+demandas, derechos de demandas, deudas, embargos, acciones y multas por causas de
+orden comin, de derecho civil ° de equidad. basadas cn contratos o hechos oanen
+causas de accién y
+no limit4ndose a causas de acci6n bajo el Articulo 19-2) de Ia Constitucién Politica de de
+Ja Repiblica del Ecuador, Decreto No. 1459 de 1971. Decreto No. 925 de 1973, Ia Ley
+de Aguas, R.O. 233 de 1973, ORD No. 530 de 1974, Decreto No. 374 de1976, Decreto
+No. 101 de 1982 0 Decreto No. 2144 de 1989. o cualquier otra Icy o regulacién de Is
+Republica del Ecuador que sea pertinente), costos, juicios. Iiquidaciones, y honorarios
+de abogados (pasados, presentes, futuros, conocidos 0 desconocidos), que el Gobierno
+o PETROECUADOR tengan o puedan tener en contra de cada liberacion relacionados
+de alguna manera con la contaminacién, que cxista o pucda surgir. directa o
+indirectamente, de las Operaciones del Consorcio, incluyendo, pero no tno lirnitindose, »
+
+consecvencias de todos los tipos de dafios que el Gobierno o PETROECUADOR
+
+f
+
+ 
+
+. From: TEXACO QUITO S33-2-"<e612 Mav 99.2058 11:27 An Pia
+
+ 
+
+“EL ccus0NR
+SV SERA Paid amar
+
+ 
+
+AMSLICR DAL ccuan at
+siiiees LMIO DE ENEMGIA ¥ MAAS
+
+ws
+
+Mo Pégina 9
+
+Ppodieran alegar con respecto a las personas, propiedad, negocios, reputaciones, y todos
+
+los otros tipos de perjuicios que se puedan medir en términos de dinero, incluyendo, pero
+
+no a 5B
+incumplimiento de garantia, o cualquier teoria o tcorfa potencial de recuperac’
+
+5.3
+
+estricta,
+ibn.
+
+Con respecto al Trabajo de Reparaci6n Ambiental a ser ejecutado de acuerdo con el
+Alcance de} Trabajo establecido en el Anexo A, a complementarse con cl Plan de Accién
+
+de Reparacién, ta Liberacién para cada sitio se hard efectiva inmediatamente y de forma
+definitiva, bajo:
+
+a)
+
+b)
+
+c)
+
+la aceptacién del Ministerio de Energfa y Minas a nombre del Gobierno y de
+PETROECUADOR, segiin el Articulo 4.1 de este Contrato, de la notificaci6n de
+TEXPET de que el Trabajo de Reparacién Ambiemal requerido para un sitio ha
+sido completado en su totalidad de acuerdo con el Alcance de! Trabajo y el Plan
+
+de Accién de Reparacién aprobado; 0
+
+Ja determinacién del Arbitro Técnico Independiente de que e} Trabajo de
+
+Reparacién Ambiental, segdn el Articulo 4.2 de este Contrato, requerido para un
+
+sitio ha sido completado en su totalidad de acuerdo con el Alcance del Trabajo,
+
+ne Plan de Acci6n de Reparacién aprobado y que no ha existido ningdin Cambio
+istancial; o
+
+Ta ejecucién por parte de TEXPET o de su Contratista 0 de los subcontratistas de
+€ste, a costo de TEXPET, de todos los trabajos requeridos para que el Trabajo
+de Reparacién Ambiental sea complementado en su totalidad de acuerdo con el
+Alcance del Trabajo establecido en el) Anexo A y el Plan de Accién de
+Reparacién aprobado por Jas partes, en el caso de que el dictamen del Arbitro
+
+ 
+
+Técnico I total 0 las que el
+Ministerio de Energia y Minas haya formulado a la ejecucién del Trabajo de
+Reparacién Ambiental realizado por TEXPET, su Contratista o los subcontratistas
+
+de éste en un sitio que haya sido objeto de una notificacién expedids por
+TEXPET,
+
+ 
+
+From : TEXACD QUITO S93-2-"S8612
+
+ 
+
+JILDUCA BEI LCKADUR
+MIMISLERIO DE ENERGIA Y MINAS
+
+Pagina 10
+
+4 5.4 La Siberacién de Jas responsabilidades de TEXPET respecto a los Proyectos de
+Compensacién Socioeconémica contemplados en el Alcance del Trabajo establecido en
+el Anexo A, scré efectiva, de forma inmediata y definitiva, en el momento en que
+TEXPET efecnie los respectivos desembojsos, hecho que se produciré a la ‘probaciéa
+por parte del Ministerio de Energia y Minas de! Plan de Accién de Reparacién.
+
+ARTICULO VI
+TERMINACION
+
+6.1 Una vez que se haya firmado el Convenio de Prestaci6n de Servicios, TEXPET puede
+dar por terminado este Contrato sin tener Ia obligacién de realizar cl Plan de Reparacién
+
+Ambiental en el caso de que:
+
+a) el Ministerio de Energia y Minas a nombre del Gobierno y PETROECUADOR
+
+fio apruebe el] Plan de Accién de Reparacién; o
+
+el Gobierno se rehuse a aceptar la certificacién de TEXPET de que el Trabajo de
+ha remitido
+
+Reparacién Ambiental ha sido completado en un sitio, una vez que se
+la disputa al Arbitco Técnico Independiente y se ha encontrado que el Trabajo ha
+
+sido Nevado a cabo adec:
+
+b)
+
+ARTICULO VII
+SEGUROS
+
+TEXPET y PETROECUADOR deben obtener y mantener vigentes s¢guros que los peas
+contra cualquier pérdida de ta del Trabajo de
+cualquier otra actividad realizada bajo los términos y condiciones de este Contraio. Cada 1 a
+
++, { de las dos citadas Partes deberd nombrar a la otra como coasegurada en su péliza de seguros y
+uf proporcionardé a la otra parte copias de dichas pélizas.
+
+ 
+
+From
+
+ 
+
+8.1
+
+8.2
+
+ 
+
+Mar 99.2058 11:27 AM Pi2
+
+3 TEXACD QUITO 553-2 ~48612
+
+1th 360,
+aazomnco"
+
+ 
+
+ZI
+
+DedalCA DEL acdAOun
+2 DE ENERGIA Y MWNAS
+
+Pégina 11
+
+ARTICULO VII
+FUERZA MAYOR
+
+Ninguna de las partes seré responsable por demoras o incumplimiento de los términos
+de este Contrato siempre y cuando el incumplimicnto se deba a Fuerza Mayor. Para los
+efectos de cste Contrato Ia “Fuerza Mayor" comprende eventos 0 circunstancias mds allé
+del contro! razonable de la Parte, que prevenga o impida fa debida realizacién de este
+Contrato y que a pesar de sus esfuerzos fa Parte no pucde evitar, incluyendo caso
+fortuito, terremotos, incendios, inundaciones, o elementos de mala conducta,
+insurrecci6n, revueltas, huelgas, paros, boicots, motines, disturblos laborales, i
+
+piiblico, guerra (declarada o no declarada), cumplimiento de cualquier ley o regulacién,
+o cualquier causa fuera del control de cualquicra de las partes, similar o no a las causas
+
+aqu{ enumeradas.
+
+La Parte que no pueda realizar e} trabajo debido a Fuerza Mayor, inmediatamente deberd
+notificar por escrito a Ja otra Parte sobre las circunstancias que constituyan la Fuerza
+Mayor y su alcance, y deberé ser excusada de Ja realizacién o puntual realizacién de tales
+obligaciones si las condiciones de Fuerza Mayor continfan. La Parte afectada por la
+Fuerza Mayor deberd hacer todo el esfuerzo posible para minimizar sus efectos y deberf
+reiniciar los wabajos tan pronto como sea posible, una vez que las circunstancies de Ia
+Fuerza Mayor hayan sido climinadas. Bajo ninguna circunstancia, ninguna de las Partes
+deberé ser responsable por lucro cesante, o dafios especiales, indirectos o consiguientes,
+resultantes de cualquier demora causada por un evento de Fuerza Mayor.
+
+ARTICULO IX
+MISCELANEOS
+= Todas las notificaciones requeridss 0 permitidas bajo este Contrato
+
+Notificaciones
+deberdn enviarse por escrito y ser entregadas durante horas hébiles de trabajo, en persona
+0 por correo, por cualquier medio electrénico de transmisi6n de comunicacién escrita
+
+ 
+
+Mav @9.2058 11:27 AM Piz
+
+From : .TEXACD QUITO 593-2-"68612
+“RL cepaoon Ha a
+UY SER6 Pats awazonico™
+
+niPupuCA DEL ECUADOR
+MISTERIO DE ENERGIA Y MINAS
+
+Pagina 12
+
+ish y dirigidas a las .
+
+~~
+
+que proporci én de recibo de
+Partes, como se deacibe a continuacién:
+
+ 
+
+Santa Prisca 223 y Manvel Larrea, Quito
+
+Direccién:
+
+Seftor Ministro de Energia y Minas
+
+Atencién:
+cc; Subsecretario de Medioambiente
+
+PETROECUADOR:
+Direccién: —Alpallana y 6 de Diciembre, Quito
+
+Atenci6n: Presidente Ejecutivo
+
+ce: Jefe de la Unidad de Proteccién Ambiental
+TEXPET:
+Direccién:
+
+Atencién: Dr. Rodrigo Pérez P.
+cc: Sr, E. O, Wakefield
+
+Ave. 6 de Diciembre 2816 y James Orton. Quito
+
+9.2 Representante de Texaco.- TEXPET deberd designar por escrito a una o mas personas
+que representen a TEXPET en Jo relacionado con cl Trabajo de Reparacién Ambicntal,
+que deberd realizarse de acuerdo con este Contrato.
+
+9.3 Contrato Completo.- Este Contrato contiene tous los términos y condiciones acordados
+por las Partes con respecto al Trahajo de Reparacién Ambiental y con todos los asuntos
+que de alguna manera puedan afectar dicho Trabajo de Reparacién Ambiental, No se
+considerard la existencia de ningdn otro conveniv. verbal o de otra indole. en relacién
+con este Contrato o que comprometan a las Partes,
+
+9.¢ — Beneficios para Terceros.- No se deberd inferir que este Contrato conferira beneficios
+@ ferceros que no sean parte de este Contrato. ni tampoco que proporcionard derec!
+
+a tercerus para hacer cumplir sus provisiones.
+
+  
+
++k
+
+From : TEXACD GUITO S93-2-"sa612 Ma 3.2058 11:27 AM Pia
+
+“th ECUADOR HA HOD *
+es v otha Pare naAzOMCO"
+
+ 
+
+REPUBLICA DEL ECUADOR
+MINISTERIO DE ENERGIA Y MINAS
+
+Pégina 13
+
+9.5  Subtftulos.- Se utilizarin dnicamente Lp eran OS eer Ie ro
+limitar4n o describirin Ja intencién de ningtin Articulo o especificacin de este Contrato.
+
+9.6  Sustitucién - Este contrato sustituye y deja sin efecto el Memorando de Entendimiento
+suscrito por las partes el 14 de diciembre de 1994, en concordancia con lo estipulado en
+el dltimo parrafo del Alcance del Trabajo de Reparacién Ambiental suscrito por Ins
+partes cl 23 de marzo de 1995.
+
+EN VIRTUD DE LO CUAL, las PARTES firman este Contrato en Quito, a Ga NAY 1995
+
+Dad
+
+Dr. Galo Abril Ojeda ©
+MINISTRO DE ENERGIA Y MINAS
+
+Dr. Rodrigo Pérez Pailares
+REPRESENTANTE LEGAL DE
+TEXACO PETROLEUM COMPANY
+
+ 
+
+Mar. 89. 11:27 AN Pis
+Texrco Quito Ss3-2-"68612 . . ae
+“EL ECUADGR Ha S100,
+en ¥ Guna Pais amazomrecer
+
+From :
+
+AEPUBLICA DEL ECUADOR
+“{INISTERIO DE ENERGIA Y MINAS
+
+“ANEXO "A"
+
+ALCANCE DEL TRABAJO
+DE REPARACION AMBIENTAL
+
+De conformidad con las cléusulas |.a), Il y V del Memorando da
+Entendimiento entre el Estado Ecuatoriano, Petroecuador y Texaco
+ido el 14 de di de 1994, las
+
+(Texpet),
+partes han acordado eatablecer ef siguiente Alcance de! Trabajo de
+Reparaclén Ambiental y Mitigacién y Compensaciones
+
+Socloeconémicas;
+1. Clesre de Placinas en tae Locaciones de Pozos
+Jas en
+
+Serén
+las locaciones da Pe oF Jantiguo Consorclo ipearsecciadsre
+
+Texaco, a la fecha def 30 de junio de 1980 y que se encuentran
+Identificadas en ef inventario Oficial (Anexo 1). Dicho
+
+taponamlento consisiiré en to algulente:
+
+1. $e hard la recuperacién del crudo, el mismo que sera
+entregado en el lugar @ Petroscuador para su uso
+posterior, sin que Texpet tonga responsabilidad alguna
+respecto al destino y ulilizacién de ese crudo.
+
+2 crudo que no se incorporare a@ la produccién nacional
+serd tratado y entregado al Ministerio de Obras Pabiicas
+a través de Potroscuador, el que seré usado en las vias
+de la Amazonia en tos sectores de afectacién,
+
+El crudo que no pudiere ser recuperado serd tratado en
+
+EI
+ta propia placina o ex-situ.
+Teda el agua residual ser4 iguaimente tratada y
+
+ak
+
+8. Cuando ef caso fo amerite, se taponara la piscina con
+tierra, de forma de evitar la eroslén.
+
+6. Una vez taponada ta piscina se_-procedaré. a la
+revegstacién del area taponada. 2
+
+  
+
+From 2 ‘TEXACD QUITO S93-2-S68612 Ma. @9. 2858 11:27 AN Pig
+“tu tcus00n Ha B00.
+ev Sama Pals amAZORICO™
+
+AEPUBLICA DEL ECUADOR
+MINISTERIO DE ENERGIA Y MINAS
+Pagina 2
+
+7. Si ena realizacién de los trabajos de remediacién se
+encontraren otras plscinas relacionadas con los sitios
+de perforacién basados en ol Inventario Oficial (Anexo
+1), pero fuera de aquellos clitios, y que sean de
+
+bilidad del
+Texaco a la fecha def 30 he Junio de 1890, serin
+Incluidas en los trabajos a efectuarse.
+
+uh. istach de ci
+
+Se deben realizar modificaciones a las descargas de aguas do
+produccién en nueve estaciones de produccién que son:
+Aguarico, Atacap!, Yuca, Auca Sur, Lago Agrio Norte,
+Shushufind! Sur, Shushufindl! Sur Oeste, Guanta y Cononaco;
+y en cuatro locaciones de pozos en las que se descargaba
+agua de produccién, que son: Auca Sur 1, Dureno 1, Culebra
+1 y Yulobra 1, 2 fin de que las descargas cumplan con las
+limitaciones de calidad del agua existentes en Regulacionas
+Medioambientales Ecuatorianas actuales (Acuerdo Ministerial
+No. 621 y Decreto Ejecutive 1802). Las modificaciones deberin
+inclulr extensién de ta desembocadura en cuerpos de o-
+mas des que pir con las It
+
+donds no sea posible la extensién de ia desembocadura am
+manantiales de recension Eee grandes veces cuando sca
+
+ 
+
+definitiva, las aguas de i duecion enel ‘subsuclo,
+
+La revisién de la operacién de las plecinas de aguas de
+
+Produccién y su capeeieed debe Inctulr mejoras y
+{ajom.,
+
+untones ‘inferiores en fas iste jas de entrada para las aguas do
+del
+
+ 
+
+de
+
+desnatado, ete.).
+La tecnologia sera basada en [a clausule Il del Memorando de
+
+Entendimiento.
+
+ill. Instalaciones Abandonadas
+
+Las Instalaciones de! antiguo Consorclo que han sido
+abandonadas con anterioridad al 30 de junio.de.1590 y que
+constan en el Anexo 2, deberan ser pxamina
+
+de tas 16 t
+
+   
+ 
+
+de fa evaluacién,
+
+os
+
+mae @9.205@ 11:27 AM Pi?
+
+From : TEXACO GUITO S93-2-"S8612 :
+- “EL ECUADOR MA B00.
+8 ¥ Gama Pais amazomico”
+
+MEPUELICA DEL ICDADOR
+ERIO DE ENERGIA Y MINAS
+MINISTERIO DE E) Pagina 3
+
+ 
+
+ 
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+iv. Jo: im
+La contaminacién de suelos por nieces presente en las
+del de las
+operaciones anteriores al 30 de junto. ‘de 1990, debe ser
+remediada, Los suelos contaminados como resultado de las
+operaciones posteriores a! 30 de junio de 1990, no seran
+reparados como parte de este trabajo. La restauracién de los
+suelos contaminados se cefird a la Iimpleza de:
+1. Derrames de fluidos producidos
+2. Aquellos asoclados con los pozos, de confarmidad con
+Anexo 3.
+3. de tang! de
+compensacién y de lavado
+4 86D Pi por ib:
+aquellos provenientes de desagues y sumideros
+6. De con
+fosas de estaciones de producclény aquellos Soueriee
+en tuberias secundarias.
+Nota: alacla Ml del de
+V.  Reslembra
+
+Tanto en los sitios de perforacién (Anexo 1) como en fas
+Instalaclones abandonadas (Anexo 2) se resembraré el suelo
+con vegetacién propia del lugar y utilizando la técnica
+aproplada, .
+
+Nota: Ref la ala Vdel
+
+ 
+
+as
+
+Mau, @9, 2058 11:27 FM pis
+
+From : TEXACO QUITO S93-27-$68612
+. “Et ErvaboR MA SiD0.
+‘EY SEM Pars AMATONICO’
+ASPUBLICA CEL ECUADOR
+MINISTERIO DE ENERGIA Y MINAS
+Pagina 4
+
+Vi. Diques de Contencién
+16 ar de tos
+
+Se diques de
+de 15 tan en el
+
+Ituados en fas
+Anexo 4, conforme al Acta de entrega-Recepelén del Antiguo
+Consorclo PETROECUADOR-TEXACO, aplicando [a clausula fil
+
+del Memorando de Entendimiento.
+
+Vil. Compensaciones Socloeconémicas
+
+Por pedido del Ministerio de Energia y Minas y de
+Petroecuador, las partes han acordado sustitulr los proyectos
+de Cc que
+Identificados en el ilamado "Borrador Final-Propuesta
+Reparacién Ambiental” a qua hace referencia ta Cldvauia i w
+)) dal Memorando de Entendimliento
+
+(Alcanes de! Trabajo)
+firmado el 14 de diclembre de 1994, por fos siguientes:
+
+A. Recursos Naturales
+Texpet estableceré un fondo de US$ 1'000.000 para
+Proyectos a ser ejecutados por las Jones
+
+indigenas y camposzinas (FOISE y FCUNAE), bajo la
+y Minas
+
+coordinacién del Ministerio de
+
+(Subsocretaria del Medio Ambiente) y Petroecuador
+(Unidad de Proteccién Ambiental). Este fonde serd
+entregado a nombre del Ministerio de Energia y Minas,
+
+ef cual fo administraré de conformidad con lo
+
+establecido en la presente cléusula.
+
+Este fondo seré utilizado para ta rehabilitacién de las
+
+zonas afectadas estableciendo conjuntamente con ta
+de de
+
+los recuracs naturales: renovables, y su ejecucién re
+
+are duction y y.
+
+     
+
+Mav 99.2059 11:27 AM Pas
+
+From : TEXAOO QUITO 593-2-"68612
+“al ECuADOR ma BDO.
+© fea Pam amatonice
+
+AEPUsLICA Bet ECUADOR
+MINISTERIO DE ENERGIA Y MINAS Pagina 5
+
+8. = Infraestructura Comunitaria
+Texpet financiaré los proyectos que a continuacién se
+8.1 Se construiré cuatro Centros Educacionales
+
+Matrices (CEM) y cuatro Olspensarios Médicos
+adyacentes, con apoyo logistico de dos
+ambulancias fluviales en total, y una avioneta que
+estarin ubleados en los lugares a ser
+determinados por el Ministerio de Energia y Minas
+en coordinacién con los Ministerios de Educacion
+y de Salud y del Fondo de tas Naclones Unidas
+para la Infancia (UNICEF).
+
+Nota: La Avioneta se entregardé a la Misién Capuchina de
+Francisco de Orellana, (Coca) bajo su responsabilidad,
+sin que Texpet tenga obligacién ni responsabilidad
+alguna raspecto al uso y operacién de Ia aeronave.
+
+B.2 Entrenamiento y material didéctico para
+programas de educacién ambiental, a través de
+UNICEF y de acuerdo al Memorando de
+Entendimiento y pata promotores de salud.
+
+En ef orden padagdgico, al proyecto tlene ef propésito
+le el ilo de fa \
+
+Desde el punto de vista de desarrollo comunitario, ol
+Proyecto de los CEMS se centra en los aspectos
+algulentes:
+
+1 Entregar mensajes educativos adicionales a los
+miembros de la comunidad sobre aspectos de
+salud, madia ambiente, mejoramiento de la
+produccién, nutricién de los nifios, entre o| 7
+
+  
+
+From : TEXACD QUITO 533-2-“68612
+
+Mav. 29,2058 11:27 AN
+
+‘REPUBLICA DEL ECVADOR
+MINISTERIO DE ENERGIA Y MINAS
+Pagina 6
+
+2. Contribulr a mejorar las condiciones de salud en
+fa poblacién de mayor rlesgo: nifios y nifas,
+adolescentses de ambos sexcs y mujeres
+embarazadas.
+
+3. Apoyar actividades para ef mejoramiento del
+estado nutriclonal en menores de 6 afios y en
+mujeres embarazadas.
+
+Ademés de financiar la construcclén de los cuatros
+CEMS y los cuatro dispensarios médicos y la compra de
+las dos ambulancias fluviales y una avioneta, Texpot
+suministraré a UNICEF fos fondos necesarics pars la
+normal operacién de estos CEMS (a establecarse con
+
+La ejecucién total de este proyecto estaré a cargo de
+UNICEF, en coordinacién con los Ministerios de Energia
+
+y Minas, Educaclén y Salud.
+Negoclaciones con las Muntcipaiidades de Lago Aagrio
+(Nueva Lola), Shushufind!, Joya de los Sachas y
+Francisco de Orellana (Coca),
+
+Sin perjuicio de fo acordado en el presente Alcance de
+Mamorando de
+
+Trabajo de reparacién ambiental y en el
+Ertandimlontc dal 14 de diciembre de 1554, Teapet su
+
+compramete a continuar las negociaciones con las
+ds iba a
+
+arrii
+establecer la participacién de Texpet en la de
+obras en base a proyectos de agua potable y/o
+ién para las
+
+y P
+cabeceras cantonafes. Los resultados de estas
+9 seran del
+Al y del C de é yde
+Liberacién de Obilgaciones que suscribiran fa:
+nt afectaran la ejecucién de dichos Alcance
+
+P2o
+
+"tL ecuason Ha
+0 Y bans oun anatomece
+
+   
+
+wk
+
+May.09,2058 11:27 AA P21
+Fe $93-2-568612
+From i, TEXACO QUITO cay Sine Pit suabomcer
+
+REPUBLICA DIL ECUABOR
+
+MINISTERIO DE ENERGIA Y MINAS
+Pagina 7
+
+Los trabajos que no pudieren ser cublertos con los
+fondos resultantes de Jas negociaclones con Texpet
+seran complementados mediante (a aplicacién del Art. 3
+de! Decreto Ejecutivo 675 de 18 de abril de 1993,
+publicado en el Registro Oficial No. 174 del 22 do los
+
+mismos mes y afio.
+
+Las partas deci: que ai fi a
+14 da diciembre de 1994 seguird sted hasta Ja fecha en que se
+suscriba el Contrato para la Ejecucién del Trabajo de Reparacién
+
+Ambiental y Liberacién de Obilgaciones a que se reflere fa Clausula
+Queda también entendide que Texpet
+
+Vi de dicho Memorando.
+Iniclaré la ejecucién del presente Alcance del Trabajo de Reparacién
+Ambiental {uego de Ia firma del referido Contrato.
+
+_aceptan las eatiputaciones que
+a Trabajo en Quito, a
+
+  
+  
+
+Para constancla de que las Parte:
+anteceden, firman el presente
+
+Dr. Gato Abrit Sdotico pilla-Gaté
+MINISTRO DE ENERGIA Y MINGS7'?2RRSIDENTEEJECUTIVO, OE
+
+     
+  
+
+ 
+
+ 
+
+‘ 2 &
+Or. Rodrigo Pérez Pallares Dr. Ricardo Rels Vel
+REPRESENTANTE LEGAL DE VICEPRESIDENTE Di co
+TEXACO PETROLEUM COMPANY PETROLEUM COMPANY
+
+we
+
+From ?+ TEXACO QUITO 5S3-2-"68612
+
+P8t ecuacon,
+ENERGIA Y MINAS
+
+AnPUBLiCA
+MINISTERIO Dg
+
+ 
+
+11:27 AM P22
+Mav. @9, 205
+u cad Pag en 28S.
+hv seme Pare aceazoy
+‘
+
+ 
+
+mens
+
+From i+ TEXROD QUITO 553-2-"68612
+
+* REPUBLICA DEL scUADDA
+* MINISTERIO DE ENERGIA Y MINAS
+
+aE EEEESEEEEEEELE
+
+ 
+
+- 99.2058 14t2Z7 AM PAS
+Ma-- 89. ev SSmA eats dunia
+
+ANDO 1
+Pégina2
+
+at
+
+3
+
+Me- 99.2050 11:27 AM
+
+fr
+p
+
+From : ‘TEXACD QUITO S93-2 768612 scussoa
+-
+OV orns ony
+
+AEPUBLICA DEL SCUABOR
+MINIBTERIO DE ENERGIA ¥ MINAB
+
+te. |
+ANEXO 2
+INSTALACIONES ABANDONADAS
+
+SHUSHUFINDI-168
+SHUSHUFINDI-34
+SHUSHUFIND! 37
+
+INDI-39
+SHUSHUPINDI-65
+VISTA-1
+
+ 
+
+ 
+
+wk
+
+. From :, TEXACD QUITO 593~2-S68612 Me.89.2858 11:27 AN P2s
+
+“@. souabon wa B00.
+ESV SERA PALS amaTORICE
+
+ALPUBLICA OSL ECVACOR
+MINISTERIO DE ENERGIA Y MINAS
+
+ANEXO 3
+
+LISTA DE SITIOS DE PERFORACION
+PARA LA REPARACION DE SUELOS
+CONTAMINADOS CON HIDROCARBUROS
+
+ac-+
+AaG-6
+AG+4
+
+ 
+
+Ma 09,2059 11:27 A FS
+Orie tore
+
+From :+TEXACD QUITO S93-2-"68512
+. N
+
+7" + MEPVSLICA 5eL EcuASCA
+“MINISTERIO DE: ENERGIA Y MINAS:
+
+ANEXO 4
+LISTA DE SITIOS PARA CONSTRUCCION ate DIQUES
+PARA TANQUES DE CONTENCI
+
+ae
+
+SACHA NORTE 1 (POZO 36)
+CULEBRA 1
+AUCA SUR
+
+  
+
+May.09, 2858 11:27 AM Pa?
+
+From 5, TEXACO QUITO 593-2-68612
+
+“EL ECUADOR Ha 5100,
+ASV SERa Pais auazoMicor
+
+w@PURUICA BEL ECUAbOR
+MITISTERIO DE ENERGIA Y MINAS
+
+ah
+
+“-. ANEXO "B"
+
+ACUERDOS O CONVENIOS RELACIONADOS CON LA
+EXPLORACION, PRODUCCION, TRANSPORTE Y
+MANEJO DEL PETROLEO DEL CONSORCIO
+
+Contrato de concesién de derechos para la exploracién y explowcién de
+rascsits Geaea Testa Paticoatal Compang/V(el Gaukcris Get eestor al's a" stara a 1964
+
+y, por el mismo instrumento, con aprobacidn del Gobierno, este contrato fue transferido a
+la Compajiia Texaco de Petréleos del Ecuador, C.A. LO apr ea
+contrato que fue registrado en el Ministerio de Minas el 14 de Marzo de 1964.
+
+Conzrato ampliatorio y modificatorio firmado entre Texaco de Petréjeos del Ecuador, C.A.
+y Gulf Ecuatoriana de Petréleo S.A. y Gulf Ecuadorian de Petréleo S.A., con e] Gobierno
+el 27 de Junio de 1969, ef mismo que fue registrado en el Ministerio de Minas el 30 de
+Junio de 1969.
+
+Resolucién Ministerial No. 844 del 20 de Diciembre de 1965, mediante Ja cual la Compaiifa
+Petrolera Pastaza C.A. y la Compafifa Petrolera Aguarico, S.A., obtuvieron una concesién
+para ta exploracién y explotacién de hidrocarburos por medio del traspaso efectuado por
+Minas y Petréleos del Ecuador, Sociedad Anénima.
+
+Contrato ampliatorio y modificatorio suscrito entre el Gobierno Nacional y las 's
+Petrolera Pastaza, C.A. y Petrolera Aguarico, S.A., el 27 de Junio de 1969, el mismo que
+se registré en el Ministerio de Minas ef 30 de Junio de 1969.
+
+Contrato suscrito el 6 de Agosto de 1973 entre el Gobierno del Ecuador y las compafifas
+Texaco Petroleum Company y Ecuadorian Gulf Oi] Company, para la exploracién y
+explotacién de hidrocarburos en las entonces provincias del Napo y Pastaza.
+
+Actas suscritas e] 14 de Junio de 1974 entre e! Gobierno del Ecuador, la Corporacién Estatal
+Petrolera Ecuatoriana, CEPE, y las compafifas Texaco Petroleum Company y Ecuadorian
+Gulf Oil Company, por medio de las cuales CEPE hizo efectiva Ia opcién de participacién
+en el 25% de los derechos y acciones prevista en la Cléusula 52 del Contrato del 6 de
+Agosto de 1973. om
+
+From : TEXACO QUITO S53-2-S68612 May. WY, dupe lkeer ret tow
+
+a
+
+4
+8
+3
+r
+3
+
+5
+A
+8
+8
+
+<
+5
+
+ARPUBLICA DEL ECUADOR
+MINISTERIO DE ENERGIA ¥ MINAS
+
+ww
+
+Co rea I I ae pe tere
+compafifas Ecuadorian Gulf Oil
+
+Estata] Petrolera Ecuatoriana, CEPE, y las
+cane por medio del cual se hace efectiva la transferencia a favor de CEPE del 37.5%
+de los derechos y acciones en el Contrato del 6 de Agosto de 1973 que posefa esta compafifa
+
+8. as J ON ae er eV eee oe
+Agreement* suscrito entre las compafifas Texaco Petréleos del Ecuador C.A. y Gulf
+Ecuatoriana de Petréleos S.A.
+
+9. Acta de E
+Rav acl onmen Taal peslsn [onkan| Dogon ears tesTaetorans Ing. Ernesto Grijalva Haro,
+Gerente General de Petrotransporte; Dr. Rodrigo Pérez Pallares, Representante de Texaco
+Petroleum Company y el Ing. Carlos Loor, Director Nacional de Hidrocarburos, Encargado.
+
+10. See ee ee ee Rahat suscrita el iro.
+de Julio de 1990, a las OOOO, entre los sefiores: Dr. Juan M. Quevedo, Mandatario de
+Texaco Petroleum Company; Sr. Wilson Pfstor Morris, Gerente General, Encargado de
+
+Petroamazonas; y, el Ing. Fernando Albuja, Director Nacional de Hidrocarburos.
+
+gw
+
+iano y de su Op én, suscrita el
+

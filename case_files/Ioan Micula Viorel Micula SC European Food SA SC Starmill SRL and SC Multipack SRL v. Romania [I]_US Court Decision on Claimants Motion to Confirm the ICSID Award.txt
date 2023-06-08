@@ -1,0 +1,436 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+Viorel Micula,
+Petitioner,
+v. Civil No. 1:14-cv-00600 (APM)
+
+The Government of Romania,
+
+Respondent.
+
+MEMORANDUM OPINION
+
+I INTRODUCTION
+
+Petitioner Viorel Micula has asked this court to confirm an arbitration award entered in his
+favor against the Government of Romania under the Convention on the Settlement of Investment
+Disputes between States and Nationals of Other States. Confirming, or recognizing, that arbitration
+award would render it an enforceable judgment of this court. Micula contends that the court should
+confirm the award ex parte—that is, without serving the Government of Romania—under 22 U.S.C.
+§ 1650a, which provides: “The pecuniary obligations imposed by such an award shall be enforced
+and shall be given the same full faith and credit as if the award were a final judgment of a court of
+general jurisdiction of one of the several States.” The question before the court is whether a statute
+that empowers federal courts to “enforce” an international arbitration award as if it were a final state
+court judgment permits a federal court, as a precursor to enforcement, to recognize or confirm such
+an arbitration award on an ex parte basis.
+
+The court concludes that section 1650a does not permit use of such an ex parte procedure
+
+and therefore denies Micula’s petition. If Micula wishes to have his arbitration award recognized
+
+and enforced in a United States federal court, he must file a plenary action, with proper service on
+the Government of Romania under the Foreign Sovereign Immunities Act of 1976.
+Il. BACKGROUND
+
+A. The Convention on the Settlement of Investment Disputes between States and
+Nationals of Other States
+
+The Convention on the Settlement of Investment Disputes between States and Nationals of
+Other States (“Convention” or “ICSID Convention”) established the International Centre for
+Settlement of Investment Disputes (“ICSID”). Convention on the Settlement of Investment
+Disputes between States and Nationals of Other States art. 1, opened for signature Mar. 28, 1965,
+17 US.T. 1270 [hereinafter ICSID Convention]. The Convention entered into effect on October
+14, 1966, after it had been ratified by 20 countries, including the United States.' Id. art. 68; ICSID,
+Contracting States and Measures Taken by Them for the Purpose of the Convention, at 1-6, |CSID
+Doc. ICSID/8-A (Sept. 2014).
+
+The Convention’s purpose was to promote economic development and private international
+investment by providing a legal framework and procedural mechanism that could be used to resolve
+(primarily economic) disputes between private investors and governments. Jd. at Preamble;
+SEN. EXEC. REP. NO. 2, at 1 (1966). “ICSID has jurisdiction over a dispute where two requirements
+are met. First, there must be an investment-related legal dispute between a state party to the
+Convention and a national of another state that is also a party to the treaty. Second, the parties to
+the dispute must consent to ICSID’s jurisdiction.” Mobile Cerro Negro, Ltd. v. Bolivarian Republic
+
+of Venezuela, _ F. Supp. 3d __, No. 14 Civ. 8163, 2015 WL 631409, at *3 (S.D.N.Y. Feb. 13,
+
+" As of September 2014, 150 countries had become Contracting States to the Convention. ICSID, Contracting States
+and Measures Taken by Them for the Purpose of the Convention, at 1, ICSID Doc. ICSID/8-A (Sept. 2014).
+
+2
+
+2015). Where ICSID has jurisdiction, its decisions are final and are subject to review only within
+ICSID itself. Jd. at *4.
+
+The Convention, however, did not confer upon ICSID the power to enforce its awards. It left
+that function to its contracting states. Article 54(1) of the Convention provides:
+
+Each Contracting State shall recognize an award rendered pursuant to this
+
+Convention as binding and enforce the pecuniary obligations imposed by that award
+
+within its territories as if it were a final judgment of a court in that State. A
+
+Contracting State with a federal constitution may enforce such an award in or
+
+through its federal courts and may provide that such courts shall treat the award as
+
+if it were a final judgment of the courts of a constituent state.
+ICSID Convention art. 54(1).
+
+The ICSID Convention was not self-executing. See Medellin v. Texas, 552 U.S. 491, 506
+(2008) (explaining when a treaty obligation requires legislation to become domestic law). It thus
+required its Contracting States to “take such legislative or other measures as may be necessary for
+making the provisions of this Convention effective in its territories.” ICSID Convention art 69.
+Congress gave the ICSID Convention domestic effect in the United States by passing the
+Convention on the Settlement of Investment Disputes Act of 1966 (“Investment Disputes Act”).
+See Convention on the Settlement of Investment Disputes Act of 1966, Pub. Law 89-532, 80 Stat.
+334 (1966) (codified at 22 U.S.C. §§ 1650 and 1650a). Section 3 of the Investment Disputes Act,
+codified at 22 U.S.C. § 1650a, addresses the enforcement of ICSID arbitration awards in the United
+
+States. It provides in full:
+
+(a) Treaty rights; enforcement; full faith and credit; nonapplication of Federal
+Arbitration Act
+
+An award of an arbitral tribunal rendered pursuant to chapter IV of the
+convention shall create a right arising under a treaty of the United States. The
+pecuniary obligations imposed by such an award shall be enforced and shall be
+given the same full faith and credit as if the award were a final judgment of a
+court of general jurisdiction of one of the several States. The Federal
+
+Arbitration Act (9 U.S.C. 1 et seq.) shall not apply to enforcement of awards
+rendered pursuant to the convention.
+
+(b) Jurisdiction; amount in controversy
+The district courts of the United States (including the courts enumerated in
+section 460 of Title 28) shall have exclusive jurisdiction over actions and
+proceedings under subsection (a) of this section, regardless of the amount in
+controversy.
+22 U.S.C. § 1650a.
+B. Micula v. Romania Proceedings Before the ICSID Tribunal
+Petitioner Viorel Micula, along with four co-petitioners’ (collectively, “Claimants”,
+submitted an arbitration request to ICSID on August 2, 2005. Micula v. Romania, ICSID Case No.
+ARB/05/20, Award, § 10 (Dec. 11, 2013), ECF No. 1-4. The ICSID tribunal proceedings began on
+November 10, 2006. Jd. at § 16. Claimants asserted that they had made investments in certain
+regions of Romania in reliance on economic incentives instituted by the Romanian government.
+See, e.g., id. at § 131; see also Statement of P. & A. in Supp. of Pet. to Confirm ICSID Arbitration
+Award and Enter J., ECF No. 1-1 at 3 [hereinafter Pet’r’s P. & A.]. When Romania later revoked
+those incentives, Claimants alleged that they experienced significant financial losses. See, e.g.,
+Micula at §§ 131, 262. Further, Claimants argued that Romania’s actions violated its bilateral
+investment treaty with Sweden. See, e.g., id. { 131; see also Pet’r’s P. & A. at 3-4. In December
+2013, the ICSID tribunal ruled for the Claimants, awarding them monetary damages of 376,433,229
+Romanian Leu (RON)—the equivalent of 116,317,868 U.S. Dollars—plus interest at the rate of the
+three-month Romanian Interbank Offer Rate, plus 5%, compounded on a quarterly basis with
+
+respect to certain amounts and periods (“the Award”). Micula at § 1329; Pet’r’s P. & A. at 4;
+
+2 These co-petitioners were Viorel Micula’s brother Ioan Micula and three companies that they controlled, S.C.
+European Food S.A., S.C. Starmill $.R.L., and S.C. Multipack $.R.L. Micula v. Romania, ICSID Case No. ARB/05/20,
+Award, 2-7 (Dec. 11, 2013), ECF No. 1-4.
+
+Updated Statement of P. & A. in Supp. of Pet. to Confirm ICSID Arbitration Award and Enter J.,
+ECF No. 7-1 at 6 [hereinafter Updated Pet’r’s P. & A.].
+
+Cc. Procedural History in this Court
+
+Five months later, on April 11, 2014, Micula filed a petition with this court under 22 U.S.C.
+§ 1650a seeking confirmation of the Award on an ex parte basis (“Petition”).> Pet. to Confirm
+ICSID Arbitration Award and Enter J., ECF No. 1 at 1-4. Micula argued that, because section
+1650a is purportedly silent as to the proper procedure for confirming an ICSID award, the court
+should “look to the most analogous state law in crafting the procedural mechanism to confirm such
+judgments”—here, the District of Columbia Uniform Enforcement of Foreign Judgments Act,
+D.C. Code § 15-352. Pet’r’s P. & A. at 8. Under that statute, the Superior Court for the District of
+Columbia is permitted to confirm foreign judgments on an ex parte basis. See id. (citing Nader v.
+Serody, 43 A.3d 327, 333 (D.C. 2012)). Micula also cited a series of cases from the Southern
+District of New York in which the courts borrowed New York state procedural rules and confirmed
+ICSID awards ex parte. See id. (citing cases).
+
+Shortly before Petitioner filed in this court, Romania moved before ICSID to annul the
+Award. Updated Pet’r’s P. & A. at 5. ICSID’s Secretary-General granted Romania an initial stay
+of enforcement. Jd. After ICSID constituted an ad hoc Committee to consider the annulment
+request, Romania sought an extension of the stay pending the decision on annulment. Jd. The ad
+hoc Committee granted the stay request on August 7, 2014, but made it contingent upon on
+
+Romania’s filing of a written assurance that it would make unconditional, full payment of the Award
+
+3 The other Claimaints—loan Micula and the Micula brothers’ companies—did not formally join in the Petition before
+this court—at least they were not identified in the case caption or in the body of the Petition as “Petitioners.” However,
+counsel for Micula stated during a telephonic hearing in this matter that “we do not seek the award to be confirmed only
+as to our petitioner. We seek it to be confirmed as to all claimants.” Draft Tr. of Telephone Conference at 10, Micula
+v. Gov't of Romania, No. 14-600 (D.D.C. Apr. 16, 2015) [hereinafter “Draft Tr.”].
+
+5
+
+if the request for annulment was denied. Jd. When Romania did not file the written assurance, the
+ad hoc Committee revoked the stay as of September 7, 2014. Id. As a result, Petitioner Micula
+filed an updated petition, which again requested confirmation of the award on an ex parte basis, as
+well as entry of judgment of the award after its conversion into US dollars. Jd. at 9-10.
+
+On February 9, 2015, this court, newly assigned to this matter, entered a minute order
+seeking an update from Micula as to his “efforts to serve the government of Romania.” Min. Order,
+Micula v. Gov't of Romania, No. 14-600 (D.D.C. Feb 9, 2015). In his response to the court’s order,
+Micula argued that “[a]wards issued by [ICSID] should be confirmed ex parte pursuant to the ICSID
+Convention and applicable U.S. law.” Status Report, ECF No. 9 at 1. Relying again on decisions
+from the Southern District of New York, Micula asserted that, “[i]n keeping with the policy goals
+of the ICSID Convention and its enabling statute, federal courts have routinely confirmed ICSID
+awards on an ex parte basis.” Id. at 2 (citing cases).
+
+Although not served with the Petition, Romania informally appeared in this matter on March
+17, 2015, when a Romanian government official sent an email to the court which detailed the
+ongoing ICSID annulment proceedings, noted Romania’s efforts to secure a U.S. lawyer, and
+requested an extension of time in which to file a defense. Email from Darius-Bogdan Valcov,
+Minister of Public Finance, to the Honorable Judge P. Amit Mehta, United States District Court for
+the District of Columbia (Mar. 17, 2015), ECF. No 10-1 at 1. No lawyer, however, entered an
+appearance on Romania’s behalf, and the court never received a formal response to either Micula’s
+original or updated Petition.
+
+Notwithstanding the lack of a formal response from Romania, this court has closely studied
+the question whether a federal district court has the authority to confirm an ICSID award on an ex
+
+parte basis under section 1650a. The court’s scrutiny stems from the Supreme Court’s admonition
+
+that “[s]ervice of process, under longstanding tradition in our system of justice, is fundamental to
+any procedural imposition on a named defendant,” Murphy Bros., Inc. v. Michetti Pipe Stringing,
+Inc., 526 U.S. 344, 350 (1999), as well as the rule that, absent proper service, “federal courts lack
+the power to assert personal jurisdiction over a defendant,” Mann v. Castiel, 681 F.3d 368, 372
+(D.C. Cir. 2010). The court also found it unusual that, in light of international comity concerns,
+Congress would have granted federal courts the authority to confirm substantial arbitration awards
+against a foreign government without providing notice through formal service of process.
+
+On April 16, 2015, during a telephonic conference in which Romania participated, the court
+delivered its opinion orally that section 1650a does not permit ex parte confirmation of an ICSID
+award and denied the Petition. Order, ECF No. 12; Draft Tr. at 12-22. This Memorandum Opinion
+sets forth the legal analysis supporting the court’s decision.
+
+Til. LEGAL ANALYSIS
+
+A. Interpretation of Section 1650a
+
+To determine whether an ICSID award can be confirmed ex parte under section 1650a, the
+court begins, as it must, with the statute’s text. See Desert Palace, Inc. v. Costa, 539 U.S. 90, 98
+(2003) (stating that the “starting point” for statutory analysis “is the statutory text”). Courts are to
+presume that the “words used” in a statute should be given their “ordinary meaning.” Moskal v.
+United States, 498 U.S. 103, 108 (1990). When “the words of the statute are unambiguous, the
+judicial inquiry is complete.” Desert Palace, 539 U.S. at 98 (internal citations omitted). But if the
+statutory language is not clear, a court may use contextual analysis to determine the meaning of a
+statute. “Statutory construction . . . is a holistic endeavor. A provision that may seem ambiguous
+in isolation is often clarified by the remainder of the statutory scheme—because the same
+
+terminology is used elsewhere in a context that makes its meaning clear, or because only one of the
+
+permissible meanings produces a substantive effect that is compatible with the rest of the law.”
+United Savings Ass’n v. Timbers of Inwood Forest Assocs., 484 U.S. 365, 371 (1988) (internal
+citations omitted).
+
+Section 1650a provides minimal guidance on how a federal court should convert an ICSID
+arbitration award into a federal court judgment. Courts are directed to “enforce” and “give[] the
+same full faith and credit” to an ICSID award “as if the award were a final judgment of a court of
+general jurisdiction of one of the several States.” 22 U.S.C. § 1650a. But the statute does not
+address precisely how a court should go about “enforcing” and “giving full faith and credit” to an
+ICSID award—whether by complaint, motion, registration, or otherwise. See Mobile Cerro Negro,
+2015 WL 631409, at *5 (“The brief text of the enabling statute thus does not specify the procedural
+mechanism by which an arbitral award is to be converted into a federal judgment.”); see also id.,
+at *5 n.9.
+
+Federal district courts are split on how to interpret the limited text of section 1650a;
+no appellate court has addressed the issue. Trial courts in the Southern District of New York have
+routinely recognized ICSID awards on an ex parte basis. See, e.g., id.; Grenada v. Grynberg, No.
+11 Misc. 45 (S.D.N.Y. Apr. 29, 2011); Siag v. Arab Republic of Egypt, No. M-82 (PKC), 2009 WL
+1834562 (S.D.N.Y. June 19, 2009); Enron Corp. & Ponderosa Assets L.P. v. Argentine Republic,
+No. M-82 (S.D.N.Y. Nov. 20, 2007); Sempra Energy Int’l v. Argentine Republic, No. M-82
+(S.D.N.Y. Nov. 14, 2007). The court in Mobile Cerro Negro provided the most comprehensive
+explanation for this approach. Remarking that “ICSID awards . . . can and are expected to be
+recognized and enforced in national courts,” Mobile Cerro Negro, 2015 WL 631409, at *4, the
+court observed that section 1650a was “silent as to the antecedent process by which the award is
+
+converted into an enforceable U.S. federal court judgment,” id. at *7. Relying on a variety of
+
+sources—previous ICSID enforcement cases; the Rules of Decision Act, 28 U.S.C. § 1652;4 Federal
+Rule of Civil Procedure 69(a)(1);° and other areas of law which contain gaps in the federal statutory
+scheme—the court concluded that “there is compelling authority supporting filling this statutory
+gap by looking . . . to the law of the forum state.” Jd. at *7. Because New York state law permits
+ex parte recognition of a foreign judgment, the court invoked that procedure to recognize the ICSID
+award. Id. at *1, 11.°
+
+By contrast, the court in Continental Casualty Co. v. Argentine Republic, 893 F. Supp. 2d
+747 (E.D. Va. 2012), in the context of addressing a question of venue transfer, rejected any
+distinction between recognition or confirmation of an ICSID award, on the one hand, and
+enforcement, on the other, id. at 752. The court read section 1650a to provide “only for the
+enforcement of ICSID awards.” Jd. Focusing on the statutory text that federal courts should
+“enforce” an ICSID award as they would a final state court judgment, the court observed that
+“{t]here is no mechanism for the recognition or confirmation by a federal court of a state court
+judgment. Unlike state courts that have domestication procedures, federal courts have no procedure
+for the recognition or confirmation of state court judgments.” Id. at 753. Because federal courts
+
+do not recognize or confirm state court judgments, the court reasoned, “Congress in implementing
+
+4 The Rules of Decision Act provides: “The laws of the several states, except where the Constitution or treaties of the
+United States or Acts of Congress otherwise require or provide, shall be regarded as rules of decision in civil actions
+in the courts of the United States, in cases where they apply.” 28 U.S.C. § 1652.
+
+5 Rule 69(a)(1) states that: “A money judgment is enforced by a writ of execution, unless the court directs otherwise.
+The procedure on execution—and in proceedings supplementary to and in aid of judgment or execution—must accord
+with the procedure of the state where the court is located, but a federal statute governs to the extent it applies.” FED.
+R. Cl. P. 6%a)(1).
+
+6 Ina recent decision, Judge Rudolph Contreras of this court concluded that ex parte recognition of an ICSID award
+was appropriate under the ICSID Convention and 22 U.S.C. § 1650a. Miminco, LLC v. Democratic Republic of the
+Congo, No. 14-01987 (RC), 2015 WL 1061555 (Feb. 9, 2015). The reasoning behind Judge Contreras’ opinion,
+however, was different from that invoked in Mobile Cerro Negro. Judge Contreras found that recognition of an ICSID
+award should nor involve forum state law because “state-law rules governing recognition of foreign judgments have no
+place in an ICSID enforcement action commencing in federal court.” Id. at *2 n.3. Instead, Judge Contreras reasoned
+that an ex parte proceeding involving a certified copy of an ICSID award was consistent with the terms and purposes
+of the ICSID Convention, as well as the previous decisions of other courts. Id. at *2.
+
+the ICSID Convention provided a system for enforcement of awards, not for the recognition or
+confirmation of awards.” Jd. at 754-55. Thus, the court concluded that the only available method
+for converting an ICSID award into a domestic judgment was through the same method by which
+a state court judgment could be enforced in federal court—“a suit on the judgment as a debt,” or in
+other words, a plenary proceeding, which would require service on the foreign government. Jd. at
+754.
+
+This court has considered the competing interpretations of section 1650a and concludes that
+the court’s reading of the statute in Continental Casualty Co. is more consistent with its text and
+structure. The text of section 1650a expressly requires federal courts to treat ICSID awards in the
+same manner as “state court judgments.” 22 U.S.C. § 1650a. Notably, the statute uses only the
+verb “enforce” as it relates to state court judgments; it does not use the verbs “confirm” or
+“recognize.” That word choice is consistent with the procedural rule that “the proper treatment of
+a state court judgment by a federal court is not recognition, or registration, but enforcement.”
+Cont’! Cas. Co., 893 F. Supp. 2d at 753 (“In the federal courts, ‘a judgment of a state court may be
+
+sued on as a cause of action in a federal court having jurisdiction.””) (quoting 50 C.J.S. Judgments
+§ 1364 (2012)).
+
+Further, there is no federal statutory mechanism akin to the Uniform Enforcement of
+Foreign Judgments Act that enables a federal court to register, recognize or confirm a state court
+judgment. See Atkinson v. Kestell, 954 F. Supp. 14, 15 (D.D.C. 1997) (‘State court judgments
+cannot be registered in this court”; limiting the federal registration statute, 28 U.S.C. § 1963, to
+registration only of federal court judgments); Marbury Law Group, PLLC v. Carl, 729 F. Supp. 2d
+
+78, 83 (D.D.C. 2010) (finding that the court lacked subject matter jurisdiction to enforce a state
+
+court judgment because 28 U.S.C. § 1963 permits registration of only federal court judgments);
+
+but see GE Betz, Inc. v. Zee Co., Inc., 718 F.3d 615, 625 (7th Cir. 2013) (disagreeing with Marbury
+Law Group and permitting confirmation of state court awards under 28 U.S.C. § 1963 if other
+jurisdictional requirements are satisfied). Instead, as Professors Wright, Miller, and Cooper have
+written: “The most direct consequence of applying the full faith and credit statute is that a federal
+court must enforce a state court judgment when an action is brought for that purpose.” 18B
+CHARLES A. WRIGHT, ARTHUR R. MILLER & EDWARD H. COOPER, FEDERAL PRACTICE AND
+PROCEDURE §4469, at 79 (2d ed. 2002) (emphasis added). Because the plain language of the ICSID
+enabling statute requires arbitral awards and state court judgments to be treated in a parallel manner,
+it follows that ICSID awards were intended to be enforced by plenary actions.
+
+This reading is consistent with other parts of section 1650a. For instance, in subsection (a)
+of the statute, Congress expressly stated that the “Federal Arbitration Act (9 U.S.C. 1 et seq.) [FAA]
+shall not apply to enforcement of awards rendered pursuant to the convention.” 22 U.S.C.
+1650a(a). Section 9 of the FAA, which Congress enacted before 22 U.S.C. 1650a,’ is entitled
+“Award of arbitrators; confirmation; jurisdiction; procedure” and permits a prevailing party to
+“confirm” an arbitration award in federal court. 9 U.S.C. § 9 (emphasis added). Thus, when
+enacting the ICSID Convention’s enabling statute, Congress was keenly aware that domestic
+arbitration awards could be confirmed, but elected not to use that procedure for ICSID awards.
+
+Requiring an ICSID awardee to file a plenary action also is consistent with subsection (b)
+of section 1650a. That subsection provides that federal courts “shall have exclusive jurisdiction
+over actions and proceedings under subsection (a) of this section, regardless of the amount in
+controversy.” 28 U.S.C. § 1650a(b). The use of the words “actions” and “proceedings” strongly
+
+connotes a congressional intent to domesticate ICSID awards through a plenary action, rather than
+
+79 U.S.C. § 9 entered into law on July 30, 1947.
+
+ex parte confirmation or recognition. The Federal Rules of Civil Procedure provide support for this
+reading of the statute. Rule 1, in effect when section 1650a was enacted, provides that “[t]hese
+tules govern the procedure in all civil actions and proceedings in the United States district courts,
+except as stated in Rule 81.” FED. R. Civ. P. 1 (emphasis added). Rule 2 states that “[t]here is one
+form of action—the civil action.” FED. R. Civ. P. 2. And, under Rules 3 and 4, “civil actions are
+required to commence by the filing of a complaint, followed by the issuance and service of a
+summons.” SEC vy. Sec. Investor Prot. Corp., 842 F. Supp. 2d 321, 325 (D.D.C. 2012). “Congress
+can expressly provide by statute ‘to allow proceedings more summary than the full court trial at
+common law.”” Id. (quoting N.H. Fire Ins. Co. v. Scanlon, 362 U.S. 404, 407 (1960)). However,
+by expressly using the words “actions” and “proceedings” in section 1650a, Congress chose not to
+allow a summary, ex parte process to domesticate an ICSID arbitration award. Compare id. at 326
+(finding that Congress intended summary proceedings when it provided that the SEC “may apply”
+for an order of relief).
+
+Although the court finds that the text and structure of section 1650a compel the result here,
+the enabling statute’s legislative history lends additional support to the court’s conclusion. Both
+the House and Senate Reports state that “[i]f an action is brought in a U.S. district court to enforce
+the final judgment of a State court, it is, of course, given full faith and credit in the Federal court.
+Section 3(a)'*! would give the same status to an arbitral award.” H.R. REP. No. 1741, at 3-4 (1966)
+(emphasis added); SEN. REP. No. 1374, App. at 4 (1966) (emphasis added). Further, both reports
+refer to Section 3(b)'*! as providing a “uniform procedure for enforcement of awards rendered
+pursuant to the [C]onvention.” H.R. REP. No. 1741, at 4 (1966) (emphasis added); SEN. REP. No.
+1374, App. at 4 (1966). Nowhere does either report refer to ex parte proceedings or the need for
+
+® “Section 3(a)” refers to 22 U.S.C. 1650a(a), which was originally published as Pub. L. No. 89-532, § 3(a).
+° “Section 3(b)” refers to 22 U.S.C. 1650a(b), which was originally published as Pub. L. No. 89-532, § 3(b).
+
+12
+
+confirmation or recognition as a precursor to enforcement, even though Congress knew that such
+mechanism was possible under the FAA. As with the text of the statute itself, Congress’ use of the
+term “action” in the legislative history, without reference to a process of recognition or
+confirmation, indicates an intent to use a plenary proceeding to domesticate an ICSID award.
+Finally, the court finds later-enacted legislation to be instructive and to further support the
+court’s reading of section 1650a. See Ginsburg, Feldman & Bress v. Fed. Energy Admin., 591 F.2d
+717, 745 (D.C. Cir. 1978) (“[I]t is a well established principle that courts may look to subsequent
+legislation as an aid in the interpretation of prior legislation dealing with the same or similar subject
+matter.”). In 1970, only four years after it enacted enabling legislation for the ICSID Convention,
+Congress passed an enabling statute for another international dispute resolution convention, the
+Convention on the Recognition and Enforcement of Foreign Arbitral Awards (“Foreign Arbitral
+Awards Convention”).!° See Act of July 31, 1970, Pub. L. No. 91-368, 84 Stat. 693. Regarding
+such arbitral awards, Congress provided that “any party to the arbitration may apply to any court
+having jurisdiction under this chapter for an order confirming the award as against any other party
+to the arbitration.” 9 U.S.C. § 207 (emphasis added). The Foreign Arbitral Awards Convention
+enabling statute clearly demonstrates that when Congress wants to permit ex parte confirmation of
+a foreign arbitration award it knows how to do so. That only four year earlier Congress chose not
+to include such a process in the ICSID enabling statute is strong evidence that Congress did not
+intend for parties who had won ICSID awards to confirm such awards. Accordingly, the court
+concludes that Petitioner Micula must file a plenary action under section 1650a to convert his ICSID
+
+award into an enforceable judgment in this court.
+
+0 In delivering its oral ruling, the court mistakenly said that the Foreign Arbitral Awards Convention was enacted
+before the ICSID Convention’s enabling statute. Draft Tr. at 18. This written opinion corrects that error.
+
+13
+
+B. No Conflict with the United States’ Obligations Under the ICSID Convention
+
+The court’s interpretation of section 1650a does not conflict with, or abrogate in any way,
+the United States’ obligations under the ICSID Convention. See Owner-Operator Independent
+Drivers Ass’n, Inc. v. U.S. Dep’t of Transp., 724 F.3d 230, 234 (D.C. Cir. 2013) (“[C]ourts prefer
+to avoid such conflicts” “between statutes and treaties”; “Thus, we presume that newly enacted
+statutes do not automatically abrogate existing treaties.”). To be certain, Article 54 of the ICSID
+Convention obligates the United States to both “recognize” and “enforce” an ICSID award “as if it
+were a final judgment of a court in that State.” ICSID Convention art. 54. But the Convention does
+not obligate its contracting states to adopt any specific method for fulfilling those obligations.
+See generally id. § 6, arts. 53-55 (articles concerning “Recognition and Enforcement of the
+Award”). Rather, Article 54(3) contemplates that “the award shall be governed by the laws
+concerning the execution of judgments in force in the State in whose territories such execution is
+sought.” Jd. art. 54(3). And, in the case of “[a] Contracting State with a federal constitution,”
+Article 54(1) specifies that an award may be enforced “through its federal courts” and that the
+Contracting State “may provide that such courts shall treat the award as if it were a final judgment
+of the courts of a constituent state.” Jd. art. 54(2). The ICSID Convention anticipates that a
+Contracting State with a federal constitution, such as the United States, can elect to treat an ICSID
+award as a final judgment of a constituent state court. That is precisely what section 1650a does.
+Thus, requiring an ICSID award winner to file a plenary action to recognize and enforce the award
+does not in any way conflict with the United States’ obligations under Article 54 of the Convention.
+Iv. CONCLUSION
+
+For the foregoing reasons, the court concludes that Petitioner must file a plenary action,
+
+subject to the ordinary requirements of process under the Foreign Service Immunities Act, to
+
+convert its ICSID award against Romania into an enforceable domestic judgment. Therefore,
+Petitioner’s ex parte Motion to Confirm the ICSID Award is denied without prejudice. A separate
+
+order accompanying this Memorandum Opinion was filed on April 16, 2015. Order, ECF No. 12.
+
+Dated: May 18, 2015
+
+ 
+

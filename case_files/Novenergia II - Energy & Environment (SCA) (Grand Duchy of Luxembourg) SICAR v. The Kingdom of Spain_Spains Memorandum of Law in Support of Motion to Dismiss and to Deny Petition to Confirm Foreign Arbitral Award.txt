@@ -1,0 +1,1647 @@
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 1 of 45
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+NOVENERGIA II - ENERGY &
+ENVIRONMENT (SCA),
+Petitioner,
+v. Civil Action No. 1:18-cv-1148
+THE KINGDOM OF SPAIN,
+
+Respondent.
+
+RESPONDENT THE KINGDOM OF SPAIN’S
+MEMORANDUM OF LAW IN SUPPORT OF MOTION TO DISMISS AND TO
+DENY PETITION TO CONFIRM FOREIGN ARBITRAL AWARD
+ORAL ARGUMENT REQUESTED)
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 2 of 45
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table of Contents
+INTRODUCTION 1
+BACKGROUND 4
+I. The Applicable Legal Framework 4
+A. The EU Legal Order. 4
+B. The EU Judicial System 5
+II. Investment Treaties and EU Law 6
+III. The Dispute between Novenergia and Spain ...........c.ccccsccscsesseseeseseeeseeeseeseseessseenesteneanenees 8
+A. The Nature of the Dispute 8
+B. Spain’s Jurisdictional Objection 9
+c. The Award 10
+IV. The Achmea Case 11
+A. Background 11
+B. The Judgment of the EU Court of Justice... cece cece e cece eeeeneneneneeeeeetenes 11
+V. Spain’s Action to Set Aside the Award ........c.cccccccssesceesteseeneseeteseeeseeseseeeseensseensseeneaeenes 15
+VI. The Svea Court’s Order Suspending the AWard..........cccccsccscscestesstesestesesteseeeseeeseeeneeee 16
+VIL.Novenergia’s Petition to Enforce the Award in this District........0..0.ccccccscsseeteeeteeeenes 17
+ARGUMENT 17
+I. Recognition and Enforcement Must be Refused under Article (V)(1)(e) of the New
+York Convention Because the Award Has Been Suspended by the Svea Court.............. 19
+II. Recognition and Enforcement Must be Refused Because Article 26 of the ECT Does
+Not Apply between Spain and Luxembourg and No Arbitration Agreement Was
+Formed between Spain and Novenergia ..........c.cccccccesesssessseseeseeeeeseseeeeeeseneeeeeeeeeneceees 22
+A. There is No Arbitration Agreement «0.0.0.0... cece cece ceeeteteeeneeeeeeeeeeneneteee 22
+B. The Court Lacks Jurisdiction Because Spain is Immune from Suit under the
+Foreign Sovereign Immunities ACt........cc cece eee eeneeeesee este eeteteeeeeneneneeieeeee 27
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 3 of 45
+
+Cc. Recognition and Enforcement Must be Refused under Article V(1)(a) of the
+New York Convention Because There is No Valid Arbitration Agreement ......... 28
+
+III. Recognition and Enforcement Must be Refused under Article V(1)(c) of the New
+York Convention Because the Tribunal Exceeded its Jurisdiction.............c0ccceeeeeee 29
+
+IV. Recognition and Enforcement Must be Refused under Article V(2)(b) of the New
+York Convention as Contrary to the Public Policy of the United States... 30
+
+V. In the Alternative, This Action Should be Stayed Pending Resolution of the Set
+Aside Proceedings in Sweden 32
+
+ 
+
+CONCLUSION 37
+
+ 
+
+-ii-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 4 of 45
+
+Table of Authorities
+
+Cases
+
+Alto Mar Girassol v. Lumbermens Mut. Cas. Co.,
+Case No. 04 C 7731, 2005 U.S. Dist. LEXIS 7479 (N.D. Ill. Apr. 12, 2005).....0.c.cccceeseeeee 34
+
+AT&T Techs. v. Communs. Workers of Am.,
+475 U.S. 643 (1986) 25
+
+Baker Marine, Ltd. v. Chevron, Ltd.,
+191 F.3d 194 (2d Cir. 1999). 21
+
+Balkan Energy Ltd. v. Republic of Ghana,
+302 F. Supp. 3d 144 (D.D.C. 2018) ......cscecesesesesseesesseeseseeseeseeseeseeseesessssseeseneeeeenees 23, 24, 28
+
+Belize Bank Ltd. v. Gov’t of Belize,
+191 F. Supp. 3d 26 (D.D.C. 2016) 29
+
+Belize Soc. Dev., Ltd. v. Gov't of Belize,
+794 F.3d 99 (D.C. Cir. 2015) 27, 28
+
+Buckeye Check Cashing, Inc. v. Cardegna,
+546 U.S. 440 (2006) 26
+
+Chevron Corp. v. Republic of Ecuador,
+795 F.3d 200 (D.C. Cir. 2015) 27
+
+CPConstruction Pioneers Baugesellschaft Anstalt v. Republic of Ghana,
+578 F. Supp. 2d 50 (D.D.C. 2008) 33
+
+Creighton Ltd. v. Government of the State of Qatar,
+Case No. 94-1035 RMU (D.D.C. Mar. 22, 1995), reprinted in
+21 Yearbook Commercial Arbitration 751 (A.J. van den Berg ed., 1996) (EX. 1)... cee 21
+
+Energoinvest DD v. Democratic Republic of Congo,
+355 F. Supp. 2d 9 (D.D.C. 2004) 19
+
+Enron Nigeria Power Holding, Ltd. v. Federal Republic of Nigeria,
+844 F.3d 281 (D.C. Cir. 2016) 32
+
+Europcar Italia, S.P.A. v. Maiellano Tours,
+156 F.3d 310 (2d Cir. 1998). 33, 34, 35, 36
+
+Foremost-McKesson, Inc. v. Islamic Republic of Iran,
+905 F.2d 438 (D.C. Cir. 1990) 28
+
+- ili -
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 5 of 45
+
+Four Seasons Hotels & Resorts v. Consorcio Barr S.A.,
+377 F.3d 1164 (11th Cir. 2004) 29
+
+Four Seasons Hotels & Resorts v. Consorcio Barr, S.A.,
+267 F. Supp. 2d 1335 (S.D. Fla. 2003) 23
+
+FTC v. Compagnie de Saint-Gobain-Pont-A-Mousson,
+636 F.2d 1300 (D.C. Cir. 1980) 30
+
+Getma Int’l v. Republic of Guinea,
+142 F. Supp. 3d 110 (D.D.C. 2015)... ceccececcessesseesessessessesseeseeseeseesesseesssnsssaneenseneeseesy 33, 34, 35
+
+Getma Int’l v. Republic of Guinea,
+191 F. Supp. 3d 43 (D.D.C. 2016) 21, 33
+
+Getma Int’l v. Republic of Guinea,
+862 F.3d 45 (D.C. Cir. 2017) 20, 21, 33
+
+Granite Rock Co. v. Int’l Bhd. of Teamsters,
+561 U.S. 287 (2010) 26
+
+Hardy Exploration & Prod. (India) v. Gov’t of India,
+314 F. Supp. 3d 95 (D.D.C. 2018) 30
+
+In re Sealed Case,
+825 F.2d 494 (D.C. Cir. 1987) 31
+
+Ings v. Ferguson,
+282 F.2d 149 (2d Cir. 1960). 31
+
+Intern. Standard Elec. Corp. v. Bridas Sociedad Anonima Petrolera,
+745 F. Supp. 172 (S.D.N.Y. 1990) 21
+
+Jorf Lasfar Energy Co. v. AMCI Exp. Corp.,
+Case No. 05-0423, 2005 U.S. Dist. LEXIS 34969 (W.D. Pa. Dec. 22, 2005).
+
+ 
+
+Karaha Bodas Co. v. Perusahaan Pertambangan Minyak Dan Gas Bumi Negara,
+364 F.3d 274 (Sth Cir. 2004) 19
+
+KenAmerican Resources v. International Union, UMW,
+99 F.3d 1161 (D.C. Cir. 1996) 26
+
+Laker Airways, Ltd. v. Sabena, Belgian World Airlines,
+731 F.2d 909 (D.C. Cir. 1984) 32
+
+National R. Passenger Corp. v. Boston & Maine Corp.,
+850 F.2d 756 (D.C. Cir. 1988) 26
+
+-iv-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18
+
+Oxford Health Plans v. Sutter,
+569 U.S. 564 (2013)
+
+Page 6 of 45
+
+26
+
+ 
+
+Rent-A-Center, W., Inc. v. Jackson,
+561 U.S. 63 (2010)
+
+26
+
+ 
+
+Republic of Argentina v. Weltover, Inc.,
+504 U.S. 607 (1992)
+
+27
+
+ 
+
+Revere Copper & Brass, Inc. v. Overseas Private Inv. Corp.,
+628 F.2d 81 (D.C. Cir. 1980)
+
+31
+
+ 
+
+Salini Costruttori S.P.A. v. Kingdom of Morocco,
+233 F. Supp. 3d 190 (D.D.C. 2017)
+
+ 
+
+Saudi Arabia v. Nelson,
+507 U.S. 349 (1993)
+
+27
+
+ 
+
+Stati v. Republic of Kazakhstan,
+
+199 F. Supp. 3d 179 (D.D.C. 2016) .....ccccecccesceccseetesceseseeeseeesnesesteseaneneas
+
+TermoRio S.A. E.S.P. y. Electranta S.P.,
+487 F.3d 928 (D.C. Cir. 2007)
+
+soeeeseeseseeseneeee 28, 33, 34
+
+19, 20, 21
+
+ 
+
+TermoRio S.A. E.S.P. v. Electrificadora Del Atlantico S.A. E.S.P.,
+421 F. Supp. 2d 87 (D.D.C. 2006)
+
+21
+
+ 
+
+Ukrnafta v. Carpatsky Petro. Corp.,
+
+Case No. H-09-891, 2011 U.S. Dist. LEXIS 160485 (S.D. Tex. Oct. 12, 2011)
+
+Ukrnafta v. Carpatsky Petro. Corp.,
+
+Case No. H-09-891, 2017 U.S. Dist. LEXIS 163064 (S.D. Tex. Oct. 2, 2017) .
+
+Underhill v. Hernandez,
+168 U.S. 250 (1897)
+
+ 
+
+ 
+
+ 
+
+Yusuf Ahmed Alghanim & Sons v. Toys “R” Us, Inc.,
+126 F.3d 15 (2d Cir. 1997).
+
+Statutes
+
+28 U.S.C. § 1330(b)
+
+27
+
+ 
+
+28 U.S.C. §§ 1602 et seg.
+
+3, 22, 27, 28
+
+ 
+
+9 U.S.C. §§ 201 et seq.
+
+2,19
+
+ 
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 7 of 45
+
+ 
+
+ 
+
+ 
+
+Rules
+
+Fed. R. Civ. P. 12(b)(1) 17, 22
+Fed. R. Civ. P. 12(b)(2) 17, 22
+Fed. R. Civ. P. 12(b)(6) 17, 21
+Treaties
+
+Convention on the Recognition and Enforcement of Foreign Arbitral Awards, June 10, 1958,
+21 U.S.T. 2517, 330 U.N.T.S. 38 passim
+
+Energy Charter Treaty, Dec. 17, 1994,
+2080 U.N.T.S. 95 passim
+
+European Union Authorities
+
+C.J.E.U. Case C-106/77, Amministrazione delle Finanze dello Stato v. Simmenthal SpA,
+
+1978 E.C.R. 629 (Hindelang Decl. Ex. 12) .o.cccccccccssessesesseseeseseessseseseessseessstesssnesssneseseensaneneas 5
+C.J.E.U. Case C-284/16, Slovak Republic v. Achmea B.V.,
+2018, ECLI:EU:C:2018:158 (Hindelang Decl. Ex. 39)... ccceceeeneneneeettee teense passim
+
+C.J.E.U. Case C-689/13, Puligienica Facility Esco SpA (PFE) v. Airgest SpA,
+2016, ECLI:EU:C:2016:199 (Hindelang Decl. Ex. 37)
+
+ 
+
+C.J.E.U. Joined Cases C-402/05 P and C-415/02 P, Kadi v. Council and Commission,
+2008, ECLI:EU:C:2008:461 (Hindelang Decl. Ex. 31)
+
+ 
+
+C.J.E.U. Opinion 1/09, Draft Agreement on Creation of a unified patent litigation system,
+2011 E.C.R. I-1137 (Hindelang Decl. Ex. 34)
+
+ 
+
+C.J.E.U. Opinion 2/13, Draft International Agreement of the European Union to the European
+Convention for the Protection of Human Rights and Fundamental Freedoms,
+2014, ECLI:EU:C:2014:2454 (Hindelang Decl. Ex. 36)...
+
+ 
+
+4,5,6
+
+Communication from the Commission to the European Parliament and the Council: Protection
+of intra-EU investment, COM (2018) 547 final (July 19, 2018)
+(Hindelang Decl. Ex. 42) 14, 24
+
+Consolidated Version of the Statute of the Court of Justice of the European Union
+(Hindelang Decl. Ex. 7) Il
+
+Consolidated Version of the Treaty on European Union, Feb. 7, 1992,
+2012 O.J. (C 326) 13 (Hindelang Decl. Ex. 5)
+
+ 
+
+Consolidated Version of the Treaty on the Functioning of the European Union, Mar, 25, 1957,
+2012 O.J. (C 326) 47 (Hindelang Decl. Ex. 4) i
+
+ 
+
+-Vvi-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 8 of 45
+
+European Commission Decision 2015/1470, State aid Case SA.38517 — Arbitral Award Micula
+v. Romania of 1] December 2013, Mar. 30, 2015,
+2015 O.J. (L 232) 43 (EC) (Hindelang Decl. EX. 40) ........ccsscseessesesessesseeseesesseseeneeneeaeesee 7, 30
+
+European Commission Decision 2017/7384, State aid Case SA.40348 — Spain: Support for
+electricity generation from renewable energy sources, cogeneration and waste,
+
+Nov. 10, 2017, C(2017) 7384 final (EC) (Hindelang Decl. EX. 41)......0.0ccceeenees 2, 10, 30, 31
+Other Authorities
+Jay E. Grenig, International Commercial Arbitration (Jan. 2018) .......cccccceeeeeeete sete teeeeeeees 23
+Restatement (Third) of Foreign Relations Law (1987).......cccccccceesseseseseseeesesessseeeeeeseneeeeneeeee 31
+
+L. Woods et al., Steiner & Woods EU Law (13th ed. 2017)
+(Hindelang Decl. Ex. 44) 4,5, 24
+
+United Nations Conference on Trade and Development, Jnvestor-State Dispute Settlement:
+
+UNCTAD Series on Issues in Investment Agreements II (2014),
+https://unctad.org/en/PublicationsLibrary/diaeia2013d2_en.pdf 0.2... eee 7,25
+
+~ Vii -
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 9 of 45
+
+INTRODUCTION
+
+The Kingdom of Spain (“Spain”) submits this memorandum in support of its motion to
+dismiss the petition of Novenergia II — Energy & Environment (SCA) (“Novenergia”).
+
+By that petition, Novenergia asks this Court to enforce an arbitral award (“Award”) (D.E. 2-1)
+rendered in an arbitration in Sweden and subject to Swedish law, including the law of the
+European Union (“EU”). Novenergia seeks enforcement despite the fact that the competent
+court in Sweden, the primary jurisdiction, has ordered that “the arbitral award may not be
+enforced until further notice.” Decision of the Svea Court of Appeal, May 17, 2018, p. 2 (“Svea
+Court Decision”) (Decl. of Pontus Ewerléf Ex. 2)
+
+The Swedish court had good cause to order the Award’s suspension. The arbitral tribunal
+purported to act pursuant to the dispute resolution provisions of an investment treaty, the Energy
+Charter Treaty, Dec. 17, 1994, 2080 U.N.T.S. 95 (D.E. 2-2), even though the Court of Justice of
+the European Union (“EU Court of Justice” or “C.J.E.U.”) — the supreme judicial authority on
+matters of EU law — has ruled that such provisions are not applicable between EU Member
+States, such as Spain and Luxembourg (where Novenergia is incorporated). Specifically, the
+Court of Justice held in Slovak Republic v. Achmea that the treaties governing the EU “must be
+interpreted as precluding a provision in an international agreement concluded between Member
+States” under which “an investor from one of those Member States may, in the event of a dispute
+concerning investments in the other Member State, bring proceedings against the latter Member
+State before an arbitral tribunal whose jurisdiction that Member State has undertaken to accept.”
+C.J.E.U. Case C-284/16, Slovak Republic v. Achmea B.V., 2018, ECLI:EU:C:2018:158 J 60
+(“Achmea Judgment”) (Decl. of Steffen Hindelang Ex. 39). This precludes Novenergia from
+arbitrating disputes with Spain under the ECT. The European Commission, which enforces EU
+
+law, has determined that Spain would breach its legal obligations under EU law should it pay an
+
+-1-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 10 of 45
+
+award issued in such an arbitration. See European Commission Decision 2017/7384, State aid
+Case SA.40348 — Spain: Support for electricity generation from renewable energy sources,
+cogeneration and waste, Nov. 10, 2017, C(2017) 7384 final (EC) { 160 (“European Commission
+Decision 2017/7384”) (Hindelang Decl. Ex. 41).
+
+In these circumstances, there are multiple grounds for dismissing the petition. To begin
+with, the Award has been suspended in the primary jurisdiction. The petition is governed by the
+Convention on the Recognition and Enforcement of Foreign Arbitral Awards, June 10, 1958, 21
+U.S.T. 2517, 330 U.N.T.S. 38 (“New York Convention”), as incorporated in the United States by
+the Federal Arbitration Act, 9 U.S.C. §§ 201 ef seg. Article V of that Convention sets out the
+grounds for a court to refuse to recognize or enforce an award. These include where an award is
+“suspended by a competent authority of the country in which, or under the law of which, that
+award was made.” New York Convention art. V(1)(e). As explained in the accompanying
+Expert Declaration of Chief Justice Stefan Lindskog — the immediate past Chief Justice of the
+Supreme Court of Sweden and author of the treatise on Swedish arbitration law Arbitration: A
+Commentary — that is precisely what the Swedish Court did here.
+
+The Court should independently refuse to recognize and enforce the Award under Article
+V(1)(a) of the New York Convention because, as the EU Court of Justice ruled in Achmea, the
+purported arbitration agreement upon which the tribunal claimed to base its jurisdiction “is not
+valid under the law to which the parties have subjected it” or “under the law of the country where
+the award was made.” As explained below, because there was not a valid offer to arbitrate from
+Spain, no arbitration agreement was ever formed between Spain and Novenergia. The absence
+of a validly formed arbitration agreement also requires the Court to dismiss the petition for lack
+
+of jurisdiction because, under the Foreign Sovereign Immunities Act (“FSIA”), 28 U.S.C. §§
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 11 of 45
+
+1602 et seq., foreign sovereigns like Spain are immune from suit unless one of the enumerated
+exceptions to immunity apply. Here, neither exception invoked by Novenergia — the arbitration
+and implied waiver exceptions — abrogates Spain’s immunity. In both instances, Novenergia’s
+jurisdictional assertions are based on the false assumption that Spain entered into an enforceable
+agreement referring its dispute with Novenergia to arbitration.
+
+Even assuming Spain had entered into such an arbitration agreement — which it did not —
+the Award should still be refused recognition and enforcement under Article V(1)(c) of the New
+York Convention because it “deals with a difference not contemplated by or not falling within
+the terms of the submission to arbitration,” or “contains decisions on matters beyond the scope of
+the submission to arbitration.” In particular, the tribunal’s award of compensation constitutes
+impermissible state aid (i.e., subsidies) under EU law. EU law bestows upon the European
+Commission the exclusive competence to authorize state aid, and prohibits EU Member States
+from granting state aid without its authorization. The tribunal had no jurisdiction to make an
+award obligating Spain to provide state aid.
+
+Further, Novenergia’s petition should be dismissed under Article V(2)(b) of the New
+York Convention because recognizing and enforcing the Award would contravene the public
+policy of the United States. It would order Spain to violate its legal obligations under EU law
+and would transgress the basic constitutional arrangements that the EU Member States have
+agreed upon in the EU Treaties. A court of the United States should not issue such an order.
+
+Finally, to the extent the Court is not disposed to dismiss the petition, the Court should
+stay this litigation pending the outcome of the legal proceedings in Sweden, the primary
+jurisdiction for this dispute. Spain is asking the competent Swedish court to set aside the award
+
+and those proceedings are ongoing.
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 12 of 45
+
+BACKGROUND
+
+IL The Applicable Legal Framework
+
+A. The EU Legal Order
+
+The European Union is comprised of 28 Member States that have ceded to it aspects of
+sovereignty to establish an integrated Europe characterized by shared laws, values, and a single
+internal market. See L. Woods et al., Steiner & Woods EU Law 3-6, 25-26 (13th ed. 2017) (“EU
+Law’’) (Hindelang Decl. Ex. 44).
+
+The EU’s core foundational instruments are two international agreements: the Treaty on
+European Union and the Treaty on the Functioning of the European Union (collectively “EU
+Treaties”). “[U]nlike ordinary international treaties,” they established a “new legal order,
+
+possessing its own institutions.” C.J.E.U. Opinion 2/13, Draft International Agreement of the
+
+ 
+
+European Union to the European Convention for the Protection of Human Rights and
+Fundamental Freedoms, 2014, ECLI:EU:C:2014:2454 { 157 (“C.J.E.U. Opinion 2/13, ECHR”)
+(Hindelang Decl. Ex. 36). These include the European Parliament and Council, which enact
+legislation, see Consolidated Version of the Treaty on European Union, arts. 14, 16(1), Feb. 7,
+1992, 2012 O.J. (C 326) 13 (“TEU”) (Hindelang Decl. Ex. 5); the European Commission, which,
+among other functions, enforces EU law, id. art. 17; and the EU Court of Justice, which is the
+final judicial authority on the interpretation of EU law. /d. art. 19. See EU Law 26.
+
+EU law is based on the EU Treaties; legislation, directives and decisions adopted by EU
+organs; and the EU Court of Justice’s jurisprudence. See Hindelang Decl. { 11. It establishes,
+among other things, binding rules governing the free movement of goods, persons, and services.
+See EU Law 323-326. EU law protects, inter alia, rights to property, access to justice, and non-
+
+discrimination, which may be enforced through the national courts of Member States. See TEU
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 13 of 45
+
+art. 19(1); Treaty on the Functioning of the European Union, arts. 28-30 Mar. 25, 1957, 2012
+O.J. (C 326) 47 (“TFEU”) (Hindelang Decl. Ex. 4).
+
+The EU Court of Justice has made clear that EU Member States are “obliged” to “ensure,
+in their respective territories, the application of and respect of EU law,” and must “take any
+appropriate measure, general or particular, to ensure fulfilment of the obligations arising out of
+the Treaties or resulting from the acts of the institutions of the EU.” C.J.E.U. Opinion 2/13,
+ECRR { 173 (internal citations omitted).
+
+EU law enjoys “primacy over the laws of the Member States.” C.J.E.U. Opinion 1/09,
+Draft Agreement on Creation of a unified patent litigation system, 2011 E.C.R. I-1137 7 65
+(Hindelang Decl. Ex. 34). Where there is a conflict between EU and national law, EU law
+prevails. See Hindelang Decl. {{[ 18-20. “[E]very national court must, in a case within its
+jurisdiction, apply [EU] law in its entirety” and “must accordingly set aside any provision of
+national law which may conflict with it, whether prior or subsequent to the [EU] rule.” C.J.E.U.
+Case C-106/77, Amministrazione delle Finanze dello Stato v. Simmenthal SpA, 1978 E.C.R. 629
+9 21-22 (Hindelang Decl. Ex. 12). The EU Court of Justice has emphasized that “the very
+nature of E.U. law ... requires that relations between the Member States be governed by E.U.
+law to the exclusion ... of any other law.” C.J.E.U. Opinion 2/13, ECHR { 212.
+
+B. The EU Judicial System
+
+The EU Court of Justice is the supreme judicial authority on EU law. See EU Law 46.
+The Court of Justice is composed of 28 judges, one from each Member State, appointed for
+
+renewable six-year terms. TFEU art. 253.'
+
+' The EU Court of Justice also includes the General Court, which, among others hears actions
+brought by individuals against EU institutions. TFEU art. 256.
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 14 of 45
+
+The EU judicial system is designed to ensure consistency and uniformity in the
+interpretation of EU law in two ways. See C.J.E.U. Opinion 2/13, ECHR { 174; Hindelang Decl.
+Ql 15-16. First, Article 267 of the TFEU permits national courts to obtain from the EU Court of
+Justice rulings on questions concerning the interpretation of EU law. This is referred to as the
+preliminary ruling procedure. Once the Court of Justice has rendered such a ruling, or where its
+case law already provides the answer, a national court is “required to do everything necessary to
+ensure that that interpretation of EU law is applied.” C.J.E.U. Case C-689/13, Puligienica
+Facility Esco SpA (PFE) v. Airgest SpA, 2016, ECLI:EU:C:2016:199 {37 (“C.J.E.U. Case C-
+689/13, Puligienica) (Hindelang Decl. Ex. 37). This aspect of the EU judicial system, the Court
+of Justice has explained, allows for interactions between it and national courts that “secur[e]
+uniform interpretation of EU law.” See C.J.E.U. Opinion 2/13, ECHR { 176.
+
+Second, Article 344 of the TFEU forbids Member States from “submit[ting] a dispute
+concerning the interpretation or application of the Treaties to any method of settlement other
+than” their national courts. Member States therefore cannot establish dispute resolution bodies
+outside the EU judicial system that might interpret or apply EU law. See C.J.E.U. Opinion 2/13,
+ECHR { 212. This ensures that only courts which are able to refer questions to the EU Court of
+Justice under Article 267 may be called upon to interpret EU law. See id. { 210.
+
+I. Investment Treaties and EU Law
+
+Investment treaties are a class of treaties that provide protections to foreign investors
+including, typically, the rights to fair and equitable treatment, non-discrimination, “most-
+favored-nation” treatment, and protection against expropriation without compensation. Some
+investment treaties are bilateral; others are multilateral.
+
+Many such treaties include provisions that permit investors in defined circumstances to
+
+arbitrate disputes with the States that host their investments. See United Nations Conference on
+
+-6-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 15 of 45
+
+Trade and Development, Investor-State Dispute Settlement: UNCTAD Series on Issues in
+Investment Agreements II 37 (2014) (UNCTAD, Investor-State Dispute Settlement).> Unlike
+arbitration clauses in commercial contracts, investment treaties do not themselves constitute
+arbitration agreements. The investor is not a party to the treaty. Rather, investment treaties may
+contain offers by States to arbitrate that qualified investors can accept later. Jd. at 31-32. Under
+Articles 267 and 344 of the TFEU, however, EU Member States are prohibited from offering to
+arbitrate disputes with nationals of other Member States that might require interpretation or
+application of EU law, as arbitral tribunals cannot refer questions of EU law to the EU Court of
+Justice. See Achmea Judgment {ff 39-49, 60.
+
+Like the EU Court of Justice, the European Commission — the institution to which the EU
+Treaties give the responsibility for enforcing EU law — has confirmed that the principles of EU
+law enshrined in Articles 267 and 344 of the TFEU prohibit resort to arbitration in such
+circumstances. On March 30, 2015, for example, after a tribunal rendered an award against
+Romania under an investment treaty it had entered into with another EU Member State prior to
+acceding to the EU, the Commission stated that it had:
+
+consistently taken the view that intra-EU BITs [bilateral investment treaties], such
+
+as the BIT upon which the claimants base their claim, are contrary to Union law
+
+since they are incompatible with provisions of the Union Treaties and should
+
+therefore be considered invalid. The Commission has repeatedly made this view
+
+known to the Member States, including to the Member States in question.
+
+European Commission Decision 2015/1470, State aid Case SA.38517 — Arbitral Award Micula
+v. Romania of 1] December 2013, Mar. 30, 2015, 2015 O.J. (L 232) 43 (EC) { 102 (“European
+
+Commission Decision 2015/1470”) (internal citation omitted) (Hindelang Decl. Ex. 40).
+
+? https://unctad.org/en/PublicationsLibrary/diaeia2013d2_en.pdf.
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 16 of 45
+
+The Commission has determined that Member States may not pay arbitral awards
+rendered by such tribunals because doing so would constitute “state aid,” i.e., subsidies, that
+could only be authorized by the Commission itself. Jd. { 153 (“[P]ayment of the compensation
+awarded by the Tribunal to the claimants amounts to the granting of incompatible new aid which
+is incompatible with the Treaty.”).> The Commission therefore ordered that “any payment of the
+compensation awarded to the claimants by the Tribunal must be recovered by Romania ...
+without delay.” Id. J 160.
+
+III. The Dispute between Novenergia and Spain
+
+A. The Nature of the Dispute
+
+On May 8, 2015, Novenergia, an investor from Luxembourg, an EU Member State,
+commenced an arbitration against Spain, another Member State, purportedly under an
+international treaty known as the Energy Charter Treaty (“ECT”). Award {9. It did so despite
+the European Commission having determined that the dispute settlement provisions of
+investment treaties between EU Member States, such as the ECT, are inoperative.
+
+Novenergia’s claims concerned Spain’s regulation of the solar energy sector, an area
+falling within the EU’s competence. See TFEU art. 194. In 2007, Spain established a regime for
+investments in the field of photovoltaic energy that guaranteed certain producers fixed prices for
+energy produced through a feed in tariff. See Award {J 95-100. Spain subsequently adopted
+new decrees in 2013 and 2014 to remedy unsustainable growth of the tariff deficit resulting from
+
+this special regime, which had accumulated debt of more than €22 billion. See id. J 131-52;
+
+> Member States may not grant state aid without authorization from the Commission. The
+Commission must be “informed” of “any plans to grant or alter aid,” and a Member State may
+“not put its proposed measures into effect until this procedure has resulted in a final decision.”
+TFEU art. 108(2).
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 17 of 45
+
+Statement of Defense and Jurisdictional Objections of the Kingdom of Spain, Apr. 29, 2016, {I
+309, 583 (Decl. of Nicholas Renzler Ex. 2). Novenergia claimed, inter alia, that these energy
+sector reforms violated its right to fair and equitable treatment under Article 10(1) of the ECT to
+which the EU, Spain, and Luxembourg are parties. Award {J 551-60.
+
+Novenergia invoked the dispute settlement provisions in Article 26 of the ECT which
+provides that where “[d]isputes between a Contracting Party and an Investor of another
+Contracting Party relating to an Investment of the latter in the Area of the former” cannot be
+“settled amicably,” an investor may submit such a dispute to arbitration pursuant to certain
+enumerated arbitral rules. These include the rules of the Arbitration Institute of the Stockholm
+Chamber of Commerce (“SCC Rules”) (Renzler Decl. Ex. 1). ECT art. 26(2)-(4). Novenergia
+purported to submit the dispute to arbitration under the SCC Rules, Award {[f[ 9-10, and
+Stockholm was chosen as the “seat of arbitration.” Jd. { 18.
+
+B. Spain’s Jurisdictional Objections
+
+Spain objected to the tribunal’s jurisdiction on the ground that its offer to arbitrate in
+Article 26 of the ECT does not apply to investors from other EU Member States and is limited to
+investors from states that are not members of the EU. See id. [| 408- 426.
+
+The European Commission supported Spain’s objection, explaining in an amicus curiae
+brief, among other things, that allowing Novenergia to refer the dispute to arbitration would
+violate Articles 267 and 344 of the TFEU. The Commission explained that arbitration is
+“outside the complete system created by those articles, and, in particular, does not have the
+possibility or the obligation to refer preliminary questions to the [EU Court of Justice] pursuant
+to Article 267 TFEU.” Amicus Curiae Brief of the European Commission, May 2, 2017 J 98
+
+(Renzler Decl. Ex. 4).
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 18 of 45
+
+Separately, the European Commission issued a Decision regarding renewable energy
+policy in Spain dated November 10, 2017. Taking note of the fact that investors had commenced
+arbitrations against Spain under Article 26 of the ECT, the Commission determined that “any
+provision” of an investment treaty which “provides for investor-State arbitration between two
+Member States is contrary to Union law,” including Articles 267 and 344 of the TFEU. See
+European Commission Decision 2017/7384 {| 160. The Commission further stated that EU law
+precludes arbitration under Article 26 of the ECT because an “Arbitration Tribunal created on
+the basis of the Energy Charter Treaty in a dispute between an investor of one Member State and
+another Member” would “apply Union law” even though the tribunal “cannot make references to
+the ECJ.” Id. {| 162-63. It concluded that the “ECT does not apply to investors from other
+Member States initiating disputes against another Member State[].” Id.
+
+Moreover, the European Commission determined that “any compensation which an
+Arbitration Tribunal were to grant to an investor” would constitute unlawful state aid that a
+Member State is barred from paying. Jd. { 165. The Commission ruled that its Decision is
+“binding on Arbitration Tribunals.” Jd. | 166.4 Spain provided this Decision to the arbitral
+tribunal. See Award { 424.
+
+c. The Award
+
+On February 15, 2018, the arbitral tribunal issued its final award. Disregarding the
+European Commission’s Decision and the rules of EU law upon which it is based, the tribunal
+rejected Spain’s jurisdictional objections based on the unfounded and conclusory assertion that
+
+the arbitration was “not constituted on the basis of the European legal order and it is not subject
+
+4 Tn the same Decision, the Commission also ruled that the energy sector reforms challenged by
+Novenergia were compatible with EU law. Jd. at 34.
+
+-10-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 19 of 45
+
+to any requirements of such legal order.” Jd. 461. The tribunal partly accepted Novenergia’s
+claim of breach of the ECT and awarded damages in the amount of €53.3 million, plus costs. Id.
+{ 860.
+
+IV. The Achmea Case
+
+A. Background
+
+Like Novenergia, certain other investors from EU Member States have improperly
+invoked arbitration provisions in investment treaties to bring claims against Member States. One
+such arbitration was commenced against the Slovak Republic by Eureko (later Achmea BV), a
+Dutch company which claimed that reforms to the Slovak health insurance regime breached the
+Slovak Republic’s obligations under its BIT with the Netherlands. See Achmea Judgment {J 6-
+12. When, despite the Slovak Republic’s objection, the tribunal exercised jurisdiction and
+awarded compensation, the Slovak Republic sought to set aside the award in Germany, the
+arbitral seat. Id. J 12.
+
+Germany’s Federal Court of Justice invoked its authority under Article 267 of the TFEU
+to obtain a ruling from the EU Court of Justice on whether the arbitration clause relied on by
+Achmea violated EU law. Jd. { 14. Ordinarily, the EU Court of Justice sits in panels of three or
+five judges. See Consolidated Version of the Statute of the Court of Justice of the European
+Union art. 16 (Hindelang Decl. Ex. 7). Due to the exceptional importance of the case, however,
+the matter was assigned to a Grand Chamber of 15 judges, including the Court’s President and
+Vice President. See id.
+
+B. The Judgment of the EU Court of Justice
+
+On March 6, 2018, after receiving written and oral argument, including submissions from
+the European Commission and 16 Member States, the EU Court of Justice rendered its
+
+unanimous Judgment. The Court explained that it had to determine:
+
+-ll-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 20 of 45
+
+whether Articles 267 and 344 TFEU must be interpreted as precluding a provision
+
+in an international agreement concluded between Member States, such as Article
+
+8 of the BIT, under which an investor from one of those Member States may, in
+
+the event of a dispute concerning investments in the other Member State, bring
+
+proceedings against the latter Member State before an arbitral tribunal whose
+
+jurisdiction that Member State has undertaken to accept.
+
+Achmea Judgment { 31.
+
+The Court of Justice’s answer was unambiguous: Articles 267 and 344 “preclude[]” such
+an arbitration provision in an “international agreement concluded between Member States.” Id.
+60.
+
+In so ruling, the Court of Justice held that the question referred to it “must be answered in
+the light of’ the following “considerations.” Jd. [ 38. First, “according to settled case-law of the
+Court, an international agreement cannot affect the allocation of powers fixed by the [EU]
+Treaties or, consequently, the autonomy of the EU legal system, observance of which is ensured
+by the Court.” Jd. { 32. That “principle is enshrined” in Article 344 of the TFEU, “under which
+the Member States undertake not to submit a dispute concerning the interpretation or application
+of the Treaties to any method of settlement other than those provided for in the Treaties.” Id.
+(internal citation omitted).
+
+Second, “the autonomy of EU law with respect both to the law of the Member States and
+to international law is justified by the essential characteristics of the EU and its law, relating in
+particular to the constitutional structure of the EU and the very nature of that law.” Jd. 1.33. In
+that regard, “EU law is characterised by the fact that it stems from an independent source of law,
+the [EU] Treaties, by its primacy over the laws of the Member States and by the direct effect of a
+
+whole series of provisions which are applicable to their nationals and to the Member States
+
+themselves.” Jd. Those “characteristics” give “rise to a structured network of principles, rules
+
+-12-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 21 of 45
+
+and mutually interdependent legal relations binding the EU and its Member States reciprocally
+and binding its Member States to each other.” Jd. (internal citation omitted).
+
+Third, EU law is “based on the fundamental premis[e] that each Member State shares
+with all the other Member States, and recognises that they share with it, a set of common values
+on which the EU is founded.” This “implies and justifies the existence of mutual trust between
+the Member States that those values will be recognised, and therefore that the law of the EU that
+implements them will be respected.” Id. 34. Member States are thus obligated “to ensure in
+their respective territories the application of and respect for EU law, and to take for those
+purposes any appropriate measure, whether general or particular, to ensure fulfillment of the
+obligations arising out of the Treaties or resulting from the acts of the institutions of the EU.” Id.
+
+Fourth, “to ensure that the specific characteristics and the autonomy of the EU legal
+order are preserved, the [EU] Treaties have established a judicial system intended to ensure
+consistency and uniformity in the interpretation of EU law.” Jd. { 35. In “that context,” it is “for
+the national courts and tribunals and the [EU] Court of Justice to ensure the full application of
+EU law in all Member States and to ensure judicial protection of the rights of individuals under
+that law.” Jd. [.36. This rule is given effect by the EU “judicial system.” Jd. A “keystone” of
+that system is the “preliminary ruling procedure provided for in Article 267 TFEU, which, by
+setting up a dialogue” between “the Court of Justice and the courts and tribunals of the Member
+States, has the object of securing uniform interpretation of EU law, thereby serving to ensure its
+consistency, its full effect and its autonomy as well as, ultimately, the particular nature of the law
+established by the [EU] Treaties.” Jd. J 37.
+
+Applying these considerations, the EU Court of Justice found in Achmea that tribunals
+
+constituted pursuant to international treaties “may be called on to interpret or indeed to apply EU
+
+-13-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 22 of 45
+
+law, particularly the provisions concerning the fundamental freedoms, including freedom of
+establishment and free movement of capital.” Id. { 42. However, they “cannot be regarded as a
+‘court or tribunal of a Member State’ within the meaning of Article 267 of TFEU.” They are
+“not therefore entitled to make a reference to the Court for a preliminary ruling” under that
+provision. Jd. [ 49. As a result, reference to arbitration under such international treaties could
+“prevent those disputes from being resolved in a manner that ensures the full effectiveness of EU
+law, even though they might concern the interpretation of that law.” Jd. [ 56.
+
+The EU Court of Justice therefore determined that arbitration clauses such as that in the
+Slovak Republic-Netherlands investment treaty are barred by the TFEU. It held: “Articles 267
+and 344 TFEU must be interpreted as precluding a provision in an international agreement
+concluded between Member States” under which “an investor from one of those Member States
+may, in the event of a dispute concerning investments in the other Member State, bring
+proceedings against the later member State before an arbitral tribunal whose jurisdiction that
+Member state has undertaken to accept.” Jd. at Dispositif. See also id. { 60.
+
+The Court’s Judgment is without qualification and, by its terms, applies to any
+“international agreement concluded between Member States,” including the ECT. As a result of
+the Judgment, the arbitration clauses in treaties like the ECT are not applicable between EU
+Member States, ab initio. See Hindelang Decl. {J 35-45.
+
+Following the Judgment, the European Commission informed the European Parliament
+and Council that the EU Court of Justice had confirmed that investors may not “have recourse to
+arbitration tribunals established ... under the Energy Charter Treaty.” Communication from the
+Commission to the European Parliament and the Council: Protection of intra-EU investment,
+
+COM (2018) 547 final (July 19, 2018) (“EC Communication”), p. 26 (Hindelang Decl. Ex. 42).
+
+-14-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 23 of 45
+
+Vv. Spain’s Action to Set Aside the Award
+
+On May 14, 2018, Spain submitted an application to set aside the Award to the Svea
+Court of Appeal (“Svea Court”), see Ewerlof Decl. Ex. 1, Sweden’s court of first instance for
+seeking the set aside of arbitral awards, Decl. of Stefan Lindskog {ff 17, 22. In its application,
+Spain explained that the Award suffers from at least five fatal defects that require its set aside
+under the Swedish Arbitration Act (“SAA”).
+
+First, the Award must be set aside under Section 34(1) of the SAA (Lindskog Decl. Ex.
+3), which requires set aside where an award “‘is not covered by a valid arbitration agreement
+between the parties.” In particular, the tribunal lacked jurisdiction because Article 26 of the ECT
+does not apply between Spain and other EU Member States, and thus does not contain a valid
+offer by Spain to arbitrate disputes with investors from EU Member States, such as Novenergia.
+As a result, there was no enforceable arbitration agreement permitting the arbitral tribunal to take
+cognizance of the dispute. See Summons Application and Request for Suspension of the
+Kingdom of Spain, May 14, 2018, § 8.2 (“Summons Application and Request for Suspension”)
+(Ewerl6f Decl. Ex. 1).
+
+Second, even if Article 26 were deemed to apply between EU Member States, the Award
+must still be set aside under Section 34(1) of the SAA because Article 26 would violate higher
+ranking rules of EU law, including, inter alia, the principle of autonomy of EU law and Articles
+267 and 344 of the TFEU. /d. § 8.3. Under Swedish case law, a finding of invalidity in these
+circumstances requires a determination by the EU Court of Justice. Accordingly, Spain
+requested that the Svea Court refer the question to the Court of Justice pursuant to Article 267 of
+the TFEU. Id. {| 166-69.
+
+Third, the Award is invalid under Section 33(1) of the SAA, which requires the
+
+invalidation of an award that “includes determination of an issue which, in accordance with
+
+-15-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 24 of 45
+
+Swedish law, may not be decided by arbitrators.” The Award interprets and applies EU law
+thereby addressing matters that fall within the exclusive competence of the European
+Commission and the EU Court of Justice. As a result, the Award purports to resolve matters that
+are not arbitrable under Swedish law. Id. § 9.2.
+
+Fourth, the Award is invalid under Section 33(2) of the SAA, which requires a finding of
+invalidity “if the award, or the manner in which the award arose, is clearly incompatible with the
+basic principles of the Swedish legal system.” In particular, the Award was rendered pursuant to
+a purported arbitration agreement that is contrary to EU law and, by that law’s incorporation into
+Swedish law, the laws of Sweden as well. Id. § 9.3.
+
+Fifth, the Award must be declared invalid pursuant to Section 33(1) of the SAA because
+it is contrary to legal order in Sweden insofar as it awarded damages that qualify as unauthorized
+state aid in contravention of EU law. The arbitral tribunal was jurisdictionally incompetent to
+make such an award since the power to authorize state aid falls within the exclusive competence
+of the European Commission. Id. § 9.4.
+
+Spain’s application to set aside the Award remains pending with the Svea Court, as does
+its request that the Svea Court refer the matter to the EU Court of Justice for a preliminary ruling
+in accordance with Article 267 of the TFEU.
+
+VI. The Svea Court’s Order Suspending the Award
+
+With its set aside application, Spain simultaneously requested that the Svea Court order
+that “the recognition and enforcement of the Award be suspended until the Court of Appeal has
+given its judgment and this judgment has gained legal force.” Summons Application and
+Request for Suspension J 4. On May 17, 2018, the Svea Court granted Spain’s request for
+suspension, and ordered that “the arbitral award may not be enforced until further notice.” Svea
+
+Court Decision, p. 2. On September 28, 2018, Novenergia requested the Svea Court to
+
+-16-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 25 of 45
+
+reconsider the suspension of the award, but the suspension remains in place. Ewerléf Decl. { 5.
+As of the date of this memorandum, proceedings on that request are ongoing.”
+VII. Novenergia’s Petition to Enforce the Award in this District
+
+Aware that enforcement of the Award in Europe is impossible, Novenergia has not, as far
+as Spain is aware, sought to enforce it in any EU Member State. Instead, on May 16, 2018,
+Novenergia filed the present petition with this Court, D.E. 1, which it has continued to pursue
+notwithstanding the Svea Court’s Order forbidding enforcement “until further notice.” Svea
+Court Decision, p. 2.
+
+ARGUMENT
+
+Novenergia petitions this Court to recognize and enforce the Award even though the
+competent court in the primary jurisdiction has ordered that it may not be enforced until further
+notice. Beyond that, the EU Court of Justice has ruled that the EU Treaties preclude arbitration
+provisions in any “international agreement” between EU Member States that refer to arbitration
+matters where the tribunal might be called upon to interpret or apply EU law. The Court should
+accordingly reject Novenergia’s request and dismiss the petition under Fed. R. Civ. P. 12(b)(1),
+(2), and (6) for the following reasons.
+
+First, the Svea Court suspended the Award. Article V(1)(e) of the New York Convention
+specifies suspension by a competent court in the arbitral seat as a ground for denying recognition
+
+and enforcement.
+
+> On October 4, 2018 undersigned counsel sought Novenergia’s agreement to a modification of
+the briefing schedule in this case to postpone the initiation of briefing until after the Svea Court
+tules on Novenergia’s motion. Noverengia declined to agree.
+
+-17-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 26 of 45
+
+Second, the EU Court of Justice ruled in Achmea that dispute resolution provisions of the
+type invoked by Novenergia are precluded by the EU Treaties. They are thus void ab initio as
+between EU Member States like Luxembourg and Spain. Novenergia, a Luxembourg national,
+therefore could not enter into an arbitration agreement with Spain under Article 26 of the ECT.
+
+As a result, the two exceptions to Spain’s sovereign immunity under the FSIA that
+Novenergia asserts are inapplicable. Both exceptions are predicated on the misapprehension that
+an arbitration agreement exists. Therefore, the petition must be dismissed for lack of subject-
+matter and personal jurisdiction, as no exception to sovereign immunity applies. The absence of
+an arbitration agreement likewise necessitates dismissal pursuant to Article (V)(1)(a) of the New
+York Convention because the tribunal’s jurisdiction was not based on a valid agreement to
+arbitrate.
+
+Third, dismissal is required under Article V(1)(c) of the New York Convention. Even
+assuming arguendo there had been an enforceable agreement to submit a dispute to arbitration,
+which there was not, the Award went beyond any conceivable submission. The ECT’s choice of
+law provision places limits on the scope of a submission to arbitration by requiring arbitral
+tribunals to render awards in conformity with the rules of international law. Those rules include
+the EU Treaties that permit only the European Commission to authorize state aid. The tribunal,
+however, rendered an award that constitutes state aid.
+
+Fourth, Spain would violate its obligations under the EU Treaties by paying the Award
+without the European Commission’s prior authorization. Article V(2)(b) of the New York
+Convention provides for refusal of recognition and enforcement where such actions would
+contravene United States public policy. Not ordering foreign sovereigns to violate legal
+
+obligations is such a policy.
+
+- 18 -
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 27 of 45
+
+Finally, if the Court is not presently disposed to dismiss the petition, it should stay this
+action pending the completion of the set aside proceedings in Sweden.
+
+I. Recognition and Enforcement Must be Refused under Article (V)(1)(e) of the New
+York Convention Because the Award Has Been Suspended by the Svea Court
+
+The New York Convention “provides a carefully crafted framework for the enforcement
+of international arbitral awards,” which “mandates very different regimes for the review of
+arbitral awards (1) in the state in which, or under the law of which, the award was made, and (2)
+in other states where recognition and enforcement are sought.” TermoRio S.A. E.S.P. v.
+Electranta S.P., 487 F.3d 928, 935 (D.C. Cir. 2007) (quoting Karaha Bodas Co. v. Perusahaan
+Pertambangan Minyak Dan Gas Bumi Negara, 364 F.3d 274, 287 (5th Cir. 2004)). Under this
+framework, a court in the primary jurisdiction — the seat of the arbitration, or under whose laws
+the award was made — has the exclusive competence to set aside or suspend an award, which it is
+“free” to do “in accordance with its domestic arbitral law and its full panoply of express and
+implied grounds for relief.” Jd. (quoting Yusuf Ahmed Alghanim & Sons v. Toys “R” Us, Inc.,
+126 F.3d 15, 23 (2d Cir. 1997)). The D.C. Circuit has emphasized the “paramount importance”
+of the “power and authority of the local courts of the rendering state.” Jd. at 939 (internal
+quotations omitted).
+
+In contrast, courts in secondary jurisdictions where recognition and enforcement is sought
+consider whether one or more of the grounds for denial of such relief set forth in Article V of the
+New York Convention are met. Energoinvest DD v. Democratic Republic of Congo, 355 F.
+Supp. 2d 9, 11 (D.D.C. 2004) (citing 9 U.S.C. § 207). See also Salini Costruttori S.P.A. v.
+Kingdom of Morocco, 233 F. Supp. 3d 190, 193 (D.D.C. 2017) (Chutkan, J.).
+
+Article V(1)(e) of the New York Convention recognizes the primacy of the courts in the
+
+primary jurisdiction. It provides for the refusal of recognition and enforcement of an award that
+
+-19-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 28 of 45
+
+has been “set aside or suspended by a competent authority of the country in which, or under the
+law of which, that award was made.” New York Convention art. V(1)(e).
+
+This is precisely what the Svea Court did here. Spain’s submission to that court
+explained that the Award must be set aside because, among other things, it contravenes EU law
+as pronounced by the EU Court of Justice. Spain’s submission included a “Request for
+suspension” of the Award that sought an order that “enforcement of the Award not be permitted
+until the [Svea Court] has given a final judgment.” Summons Application and Request for
+Suspension { 170. On May 17, 2018, the Svea Court granted the suspension request; it ordered
+that “the arbitral award not be enforced until further notice.” Svea Court Decision, p. 2.
+
+This Court must respect the Svea Court’s decision. In applying Article V(1)(e), the D.C.
+Circuit has explained:
+
+for reasons of international comity, we have declined to “second-guess” a
+
+competent authority’s annulment of an arbitral award absent “extraordinary
+
+circumstances.” “The standard is high, and infrequently met,” such that we
+
+cannot enforce an annulled award on a mere showing that the annulment is
+erroneous or conflicts with the United States’s public policy. Instead, we will set
+
+aside an annulment only if it violates this country’s “most basic notions of
+morality and justice.”
+
+Getma Int’l v. Republic of Guinea, 862 F.3d 45, 48-49 (D.C. Cir. 2017) (quoting TermoRio, 487
+F.3d at 936-39).
+
+Disregarding the decision of the Svea Court would upset the New York Convention’s
+“carefully crafted framework for the enforcement of international arbitral awards.” TermoRio,
+487 F.3d at 935. It would also transgress the D.C. Circuit’s instruction that, when applying
+Article V(1)(e), a court in a secondary jurisdiction is not “free as it sees fit to ignore the
+judgment of a court of competent authority in a primary State vacating an arbitration award.” Id.
+at 937. For that reason, this Court has refused recognition and enforcement in both of the
+
+circumstances specified in Article V(1)(e), namely where the award has been set aside and where
+
+- 20 -
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 29 of 45
+
+it has been suspended. See Getma Int’! v. Republic of Guinea, 191 F. Supp. 3d 43 (D.D.C.
+2016), aff'd 862 F.3d 45; TermoRio S.A. E.S.P. v. Electrificadora Del Atlantico S.A. E.S.P., 421
+F. Supp. 2d 87, 99-103 (D.D.C. 2006), aff'd 487 F.3d 928 (citing Baker Marine, Ltd. v. Chevron,
+Ltd., 191 F.3d 194, 196-98 (2d Cir. 1999)); Creighton Ltd. v. Government of the State of Qatar,
+Case No. 94-1035 RMU (D.D.C. Mar. 22, 1995), reprinted in 21 Yearbook Commercial
+Arbitration 751 (A.J. van den Berg ed., 1996) (Ex. 1).
+
+In Creighton, this Court held that “[t]o determine whether an award has been set aside or
+suspended, the Court must look to the laws of the competent authority of the country under
+which the award was made.” /d. at 756. This is done by reference to the “regime or scheme of
+arbitral procedural law under which the arbitration was conducted.” Jd. (quoting Intern.
+Standard Elec. Corp. v. Bridas Sociedad Anonima Petrolera, 745 F. Supp. 172, 178 (S.D.N.Y.
+1990)). The award in Creighton was the subject of set aside proceedings in the arbitral seat —
+France — and had been suspended under French law. The Court accordingly refused to recognize
+and enforce it under Article V(1)(e). Id. at 758.
+
+Here, the Award has been suspended under the applicable Swedish law. The Svea
+Court’s Order unambiguously “finds reason to now order that the arbitral award not be enforced
+until further notice.” Svea Court Decision, p. 2. Justice Stefan Lindskog, the immediate past
+Chief Justice of the Supreme Court of Sweden, reviewed the Svea Court’s Order and concludes
+that the “Decision of the Svea Court of Appeal Suspends the Award” under Swedish law.
+Lindskog Decl. § III(B). See also id. J 23-25.
+
+In short, recognition and enforcement must be refused, and the petition dismissed
+pursuant to Fed. R. Civ. P. 12(b)(6), because the Award has been suspended by the competent
+
+judicial authority of Sweden.
+
+-21-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 30 of 45
+
+Il. Recognition and Enforcement Must be Refused Because Article 26 of the ECT Does
+Not Apply between Spain and Luxembourg and No Arbitration Agreement Was
+Formed between Spain and Novenergia
+Since the competent court in Sweden has suspended the Award, Novenergia’s petition
+
+should be dismissed on that basis alone. If, however, the Court were inclined to delve into the
+
+underlying substantive issues of EU law, it would have to conclude that no arbitration agreement
+was formed between Spain and Novenergia. For the reasons explained by the EU Court of
+
+Justice in Achmea, Article 26 of the ECT does not apply between EU Member States and does
+
+not contain a valid offer by Spain to arbitrate with investors from other EU Member States like
+
+Novenergia. Accordingly, there was no valid offer to arbitrate by Spain that Novenergia could
+
+accept and, therefore, no enforceable arbitration agreement could have been concluded.
+
+Two consequences flow from the absence of an arbitration agreement between Spain and
+Novenergia. First, this Court lacks jurisdiction under the FSIA because Spain, as a foreign
+sovereign, is immune from suit unless one of the statute’s exceptions to immunity apply. The
+only exceptions identified by Novenergia — the arbitration and waiver exceptions — depend upon
+the existence of an enforceable arbitration agreement. Since there is no such agreement, the
+petition must be dismissed pursuant to Fed. R. Civ. P. 12(b)(1) and (2). Second, separate and
+apart from Spain’s sovereign immunity, the petition must be rejected under Article V(1)(a) of the
+New York Convention because the putative arbitration agreement “is not valid under the law to
+which the parties have subjected it” or “under the law of the country where the award was
+made.”
+
+A. There is No Arbitration Agreement
+
+Whether Spain entered into an enforceable arbitration agreement with Novenergia must
+be determined under EU law. The choice of law provision in Article 26(6) of the ECT provides:
+
+“Ta] tribunal established under paragraph (4) shall decide the issues in dispute in accordance with
+
+-22-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 31 of 45
+
+this Treaty and applicable rules and principles of international law.” ECT art. 26(6). The
+“applicable rules and principles of international law” include the EU Treaties, as authoritatively
+interpreted by the EU Court of Justice. It is axiomatic that the EU Treaties — international
+agreements concluded by Spain and Luxembourg — constitute applicable rules of international
+law. As explained in the accompanying Expert Declaration of Professor Steffen Hindelang, the
+EU Treaties are international law and at the same time are the highest law of the EU. Hindelang
+Decl. {J 11, 13-14, 54 (citing TFEU, Preamble). See TEU at Preamble, art. 1(2); Achmea
+Judgment {[ 41; C.J-E.U. Joined Cases C-402/05 P and C-415/05 P, Kadi v. Council and
+Commission, 2008, ECLI:EU:C:2008:461 {| 285 (Hindelang Decl. Ex. 3). Thus, any dispute
+resolved under Article 26(6), including a dispute on the existence or validity of the arbitration
+agreement, must be decided in accordance with EU law, giving priority to the EU Treaties.
+
+The result is the same if the law of the seat of arbitration is applied to the question of the
+existence of the arbitration agreement: EU law applies because it is an integral part of Swedish
+law. Decisions of this Court have indicated that the law of the seat of arbitration governs the
+existence of any putative arbitration agreement. Balkan Energy Ltd. v. Republic of Ghana, 302
+F. Supp. 3d 144, 153 (D.D.C. 2018) (“In this case, because the parties designated in the arbitral
+clause that The Hague, Netherlands was to serve as the seat of arbitration, Dutch law supplied
+the law applicable to the arbitration agreement’) (citing Jay E. Grenig, International Commercial
+Arbitration § 7.2 (Jan. 2018)); see also Ukrnafta v. Carpatsky Petro. Corp., Case No. H-09-891,
+2017 U.S. Dist. LEXIS 163064, at *33 (S.D. Tex. Oct. 2, 2017) (validity of arbitration agreement
+decided under the law of the seat); Four Seasons Hotels & Resorts v. Consorcio Barr, S.A., 267
+
+F. Supp. 2d 1335, 1347 (S.D. Fla. 2003) (the law of the seat governs powers of arbitrators).
+
+-23-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 32 of 45
+
+Swedish law is the law of the seat and the relevant rules of EU law are incorporated into
+the law of Sweden. See Hindelang Decl. J 13-14. Swedish law must be applied in conformity
+with the jurisprudence of the EU Court of Justice. See Hindelang Decl. {ff 11, 16-17, 18-20. See
+TEU art. 19(1); C.J.E.U. Case C-689/13, Puligienica; EU Law 47. Therefore, EU law, as
+interpreted by the EU Court of Justice, is part of the law of Sweden, the seat of arbitration. And
+under Balkan Energy, Swedish law governs the determination of the existence of the arbitration
+agreement. See 302 F. Supp. 3d at 153.
+
+In the present case, the relevant rules of EU law are explained in Achmea and render
+Article 26 of the ECT inoperative between EU Member States. As the European Commission
+informed the European Parliament and Council, Achmea confirms that investors may not “have
+recourse to arbitration tribunals established ... under the Energy Charter Treaty.” EC
+Communication 547, at 26.
+
+The reasons that caused the EU Court of Justice to declare inoperative the dispute
+resolution provisions in the treaty between Slovakia and the Netherlands apply equally to Article
+26 of the ECT. First, as noted by Professor Hindelang in his Expert Declaration, arbitral
+tribunals formed under Article 26 are plainly not courts or tribunals within the EU legal system.
+See Hindelang Decl. { 38. In particular, they “lack the requisite ‘links with the judicial systems
+of the Member States’ and follow procedures that are not ‘a step in the proceedings before the
+national courts.” /d. (quoting Achmea Judgment J 48).
+
+Second, tribunals constituted under the Article 26 “may be called upon” to interpret and
+apply EU law. Hindelang Decl. {| 39-40; see Achmea Judgment {[ 42. Indeed, EU law
+constitutes part of the applicable law under Article 26(6), and, consequently, an arbitral tribunal
+
+instituted thereunder might be required to interpret or apply it. Achmea Judgment {If 36-40.
+
+-24-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 33 of 45
+
+Third, such tribunals cannot refer questions of EU law to the EU Court of Justice under
+Article 267 of the TFEU. See Hindelang Decl. 41. They therefore cannot avail themselves of
+the procedural mechanism established by that treaty to ensure the uniform interpretation and
+application of EU law. See Achmea Judgment. {{[ 42-49, 50-56. There is thus no assurance that
+they would resolve those disputes “in a manner that ensures the full effectiveness of EU law,
+even though they might concern the interpretation or application of that law.” Id. 56. Asa
+result, application of Article 26 of the ECT between EU Member States would impermissibly
+breach Articles 267 and 344 of the TFEU.
+
+This has consequences not just for the validity of the arbitration agreement, but for its
+formation and existence. Article 26 of the ECT is not itself an arbitration agreement between
+Spain and Novenergia. It is a clause in a multilateral treaty between States to which Novenergia
+is not a party. An arbitration agreement between Spain and Novenergia could only be formed if
+Spain made a legally binding offer to Novenergia and Novenergia validly accepted that offer.
+See UNCTAD, Investor-State Dispute Settlement, pp. 31-32. Because Article 26 does not apply
+between Spain and Luxembourg, Spain made no legally binding offer to arbitrate with
+Luxemburg nationals, such as Novenergia. Accordingly, as a matter of law, no arbitration
+agreement was formed. “[AJ]rbitration is a matter of contract and a party cannot be required to
+submit to arbitration any dispute which he has not agreed so to submit.” AT&T Techs. v.
+Communs. Workers of Am., 475 U.S. 643, 648 (1986) (internal quotations omitted).
+
+The fact that the arbitral tribunal erroneously considered there to be an arbitration
+agreement between Spain and Novenergia is of no moment. Because arbitration is strictly a
+matter of consent, whether an arbitration agreement was formed is a matter for the court to
+
+determine de novo. No deference is given to any prior view expressed by an arbitral tribunal. As
+
+-25-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 34 of 45
+
+the Supreme Court ruled in Granite Rock Co. v. Int’l Bhd. of Teamsters, “[t]o satisfy itself that
+such agreement exists, the court must resolve any issue that calls into question the formation or
+applicability of the specific arbitration clause that a party seeks to have the court enforce.” 561
+U.S. 287, 297 (2010).
+
+In other words, where the parties “disagree as to whether they ever entered into any
+arbitration agreement at all, the court must resolve that dispute.” National R. Passenger Corp. v.
+Boston & Maine Corp., 850 F.2d 756, 761 (D.C. Cir. 1988). That is because “[c]learly, if there
+was never an agreement to arbitrate, there is no authority to require a party to submit to
+arbitration. ... When there is an issue of formation, the court cannot be sure that the party
+resisting arbitration ever viewed the arbitrator as competent to resolve any dispute.” Jd. at 761-
+62. Thus, “issues of formation... must always be decided by the courts.” Jd. at 761; see also,
+e.g., KenAmerican Resources v. International Union, UMW, 99 F.3d 1161, 1163 (D.C. Cir.
+1996).°
+
+In sum, this Court must decide whether Spain entered into an enforceable arbitration
+agreement with Novenergia. As Achmea establishes, it did not. The arbitral tribunal’s mistaken
+
+view on that matter is immaterial.
+
+© “The issue of the agreement’s ‘validity’ is different from the issue whether any agreement
+between the parties ‘was ever concluded.’” Rent-A-Center, W., Inc. v. Jackson, 561 U.S. 63, 70
+n.2 (2010) (quoting Buckeye Check Cashing, Inc. v. Cardegna, 546 U.S. 440, 444 (2006)). Even
+if the issue were viewed as validity as distinct from formation, the Court would still need to
+determine the matter. The validity of an arbitration agreement is presumptively for the court to
+decide, absent clear and unmistakable evidence that the issue was intended to be decided by
+arbitrators. See Oxford Health Plans v. Sutter, 569 U.S. 564, 569 n.2 (2013). Here, there is no
+clear and unmistakable evidence to alter that presumption.
+
+- 26 -
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 35 of 45
+
+B. The Court Lacks Jurisdiction Because Spain is Immune from Suit under the
+Foreign Sovereign Immunities Act
+
+The absence of an enforceable arbitration agreement between Spain and Novenergia
+carries the necessary consequence that the Court lacks jurisdiction. The FSIA provides “the sole
+basis for obtaining jurisdiction over a foreign state in the courts of this country.” Saudi Arabia v.
+Nelson, 507 U.S. 349, 355 (1993). Under § 1604 of the FSIA, “a foreign state shall be immune
+from the jurisdiction of the courts of the United States and of the States” unless one of the
+limited exceptions enumerated in §§ 1605 to 1607A applies. If none does, courts in the United
+States are without jurisdiction. Id.; Belize Soc. Dev., Ltd. v. Gov’t of Belize, 794 F.3d 99 (D.C.
+Cir. 2015). Moreover, personal jurisdiction over a foreign sovereign will exist only if there is
+subject-matter jurisdiction and service of process has been effected in accordance with § 1608(a)
+of the FSIA. 28 U.S.C. § 1330(b); Republic of Argentina v. Weltover, Inc., 504 U.S. 607, 611
+(1992).
+
+Novenergia invokes the arbitration exception to immunity in § 1605(a)(6). This allows a
+court to exercise jurisdiction over an action brought “to confirm an award made pursuant to... an
+agreement to arbitrate” if the “award is or may be governed by a treaty or other international
+agreement in force for the United States calling for the recognition and enforcement of arbitral
+awards.” 28 U.S.C. § 1605(a)(6). The exception, however, only allows jurisdiction where there
+is a “valid agreement ... to submit to arbitration.” Belize Soc. Dev., 794 F.3d at 102 (internal
+quotation omitted). “If there is no arbitration agreement ... the District Court lacks jurisdiction
+over the foreign state and the action must be dismissed.” Chevron Corp. v. Republic of Ecuador,
+795 F.3d 200, 204 (D.C. Cir. 2015).
+
+Novenergia does not satisfy this requirement because, for the reasons set out in Achmea,
+
+Article 26 of the ECT does not apply between EU Member States and Spain did not make a valid
+
+-27-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 36 of 45
+
+offer in Article 26 of the ECT to arbitrate with investors from other EU Member States. Achmea
+Judgment 60. There was therefore no offer to arbitrate that Novenergia legally could accept,
+and no arbitration agreement could have been formed. As a result, there was no “valid
+‘agreement ... to submit to arbitration.” Belize Soc. Dev., 794 F.3d at 102 (quoting 28 U.S.C. §
+1605(a)(6)).
+
+Novenergia’s alternative reliance on the waiver exception in § 1605(a)(1), D.E. 1 16,
+fails for the same reason. Novenergia appears to rely on a species of implied waiver that permits
+jurisdiction where the foreign sovereign “agreed to arbitration in another country.” Stati v.
+Republic of Kazakhstan, 199 F. Supp. 3d 179, 188 (D.D.C. 2016) (quoting Foremost-McKesson,
+Inc. v. Islamic Republic of Iran, 905 F.2d 438, 444 (D.C. Cir. 1990)). Spain, however, did not
+enter into such an arbitration agreement with Novenergia. It was precluded from doing so under
+EU law.
+
+Cc. Recognition and Enforcement Must be Refused under Article V(1)(a) of the New
+York Convention Because There is No Valid Arbitration Agreement
+
+The absence of a valid arbitration agreement between Spain and Novenergia further
+requires dismissal of the petition under Article V(1)(a) of the New York Convention because it is
+based on a putative arbitration agreement that is “not valid under the law to which the parties
+have subjected it” or “under the law of the country where the award was made.” New York
+Convention art. V(1)(a). Achmea confirmed that dispute settlement provisions such as Article 26
+of the ECT do not apply between EU Member States. Because there is no legally operative
+arbitration clause between Luxembourg and Spain by which Spain could have made an offer to
+arbitrate to Novenergia, no arbitration agreement could have formed between them.
+
+Accordingly, the petition must be denied under Article V(1)(a). See Balkan Energy, 302 F.
+
+Supp. 3d at 157 (finding that Article V(1)(a) would permit denial of recognition and enforcement
+
+- 28 -
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 37 of 45
+
+of an award rendered pursuant an invalid arbitration agreement); Belize Bank Ltd. v. Gov’t of
+Belize, 191 F. Supp. 3d 26, 39 (D.D.C. 2016) (same); Four Seasons Hotels & Resorts v.
+Consorcio Barr S.A., 377 F.3d 1164, 1171 (11th Cir. 2004) (noting that Article V(1)(a) applies
+when the arbitration agreement is invalid).
+
+III. | Recognition and Enforcement Must be Refused under Article V(1)(c) of the New
+York Convention Because the Tribunal Exceeded its Jurisdiction
+
+Article V(1)(c) of the New York Convention provides another ground to dismiss the
+petition: The award “deals with a difference not contemplated by or not falling within the terms
+of the submission to arbitration,” and “contains decisions on matters beyond the scope of
+submission to arbitration,” New York Convention art. V(1)(c).
+
+The Award addressed matters that exceed any conceivable submission to arbitration.
+Had any such submission validly been made — which it was not — the submission would be
+circumscribed by Article 26(6) of the ECT, a provision that only permits arbitral tribunals to
+“decide the issues in dispute in accordance with this Treaty and applicable rules and principles of
+international law.” ECT art. 26(6). EU law forms part of those “applicable rules and principles
+of international law,” thereby restricting “the scope of submission to arbitration” to matters that
+are permitted to be arbitrated under that body of law.
+
+The European Commission’s functions include regulating the provision of state aid by
+EU Member States. Only the Commission may authorize Member States to provide such aid.
+See TFEU arts. 107(1), 108(3). Other bodies, such as arbitral tribunals, may not do so. See id.
+arts. 108(2)-(3). Notwithstanding this restriction on the tribunal’s competence, it rendered an
+award that ordered Spain to pay compensation that amounts to unauthorized state aid to
+Novenergia. Hindelang Decl. {{[ 49-51. The European Commission made precisely this point in
+
+its November 10, 2017 Decision on Spain’s renewable energy policy, when it determined that
+
+-29 -
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 38 of 45
+
+“any compensation which an Arbitral Tribunal were to grant to an investor” would be
+unauthorized state aid that Spain is prohibited from paying. See European Commission Decision
+2017/7384 ¥ 165.”
+
+The tribunal was on notice that “any compensation” it might order Spain to pay for
+having modified its tariff regime would constitute unauthorized state aid. Spain brought the
+Commission’s Decision to the tribunal’s attention. See Award {{ 63, 68. The tribunal made
+such an award anyway. In so doing, it acted ultra vires, deciding a matter that the applicable law
+establishes as beyond any submission to arbitration.
+
+IV. Recognition and Enforcement Must be Refused under Article V(2)(b) of the New
+York Convention as Contrary to the Public Policy of the United States
+
+The Court should refuse to recognize and enforce the Award under Article V(2)(b) of the
+New York Convention because recognition and enforcement would be “contrary” to at least two
+United States “public polic[ies]” of fundamental importance. New York Convention art.
+V(2)(b). See Hardy Exploration & Prod. (India) v. Gov’t of India, 314 F. Supp. 3d 95, 109-114
+(D.D.C. 2018)
+
+First, the United States must “not take action that may cause the violation of another
+nation’s laws.” FTC v. Compagnie de Saint-Gobain-Pont-A-Mousson, 636 F.2d 1300, 1327
+n.150 (D.C. Cir. 1980). Granting the petition, however, would require Spain to violate legal
+
+obligations imposed by EU law. See Revere Copper & Brass, Inc. v. Overseas Private Inv.
+
+7 The European Commission made a similar determination in regard to an award rendered
+against Romania. See European Commission Decision 2015/1470 {J 153, 160 (determining that
+“payment of the compensation awarded by the Tribunal to the claimants amounts to the granting
+of incompatible new aid which is incompatible with the Treaty” and ordering that “any payment
+of the compensation awarded to the claimants by the Tribunal must be recovered by Romania ...
+without delay”).
+
+-30-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 39 of 45
+
+Corp., 628 F.2d 81, 83 (D.C. Cir. 1980). (“the public policy exception to the enforcement of
+arbitration awards” extends to awards that “compell[] the violation of law’) (internal quotations
+omitted). See also Ings v. Ferguson, 282 F.2d 149, 152 (2d Cir. 1960) (“fundamental principles
+of international comity” preclude orders that could “cause a violation of the laws of a friendly
+neighbor”); Restatement (Third) of Foreign Relations Law § 441 (1987) (“a state may not require
+a person to do an act in another state that is prohibited by the law of that state or by the law of
+the state of which he is a national’). As the D.C. Circuit has ruled, it would cause “considerable
+discomfort to think that a court of law should order a violation of law, particularly on the
+territory of the sovereign whose law is in question.” In re Sealed Case, 825 F.2d 494, 498 (D.C.
+Cir. 1987). That “discomfort” is especially acute where, as here, the party subject to the order
+“is not merely a private foreign entity” but a “[sovereign] entity.” Id.
+
+Granting the petition would order Spain to violate the EU law on state aid in direct
+contravention of a Decision of the European Commission stating that “any compensation” that
+“an Arbitral Tribunal” might “grant to an investor” as a remedy for the regulatory actions Spain
+undertook in regard to its renewable energy sector is unauthorized state aid. See European
+Commission Decision 2017/7384 {| 165. The Court should refuse to order such a violation of
+law.
+
+Second, recognizing and enforcing the Award would be contrary to the respect owed by
+the United States to the constitutional order that its closest partners have established in the
+European Union. The legal regime they created through the EU Treaties carefully divides
+attributes of sovereignty between the EU Member States and the EU’s institutions. They
+endowed the European Commission with the exclusive competence to authorize state aid and
+
+gave the EU judicial system exclusive authority to interpret and apply EU law. The Award
+
+-31-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 40 of 45
+
+disregards these fundamental pillars of the EU legal system. It violates the foundational
+underpinnings of the European constitutional system that are reflected in Articles 267 and 344 of
+the TFEU, as pronounced by its highest judicial authority, and awards a form of compensation
+that only the European Commission is competent to authorize under Articles 107-108 of the
+same treaty.
+
+The United States, which is “bound to respect the independence of every other sovereign
+State,” Underhill v. Hernandez, 168 U.S. 250, 252 (1897), must respect the EU’s constitutional
+choices, and should not enforce an award that transgresses them. To do otherwise would fail to
+give effect to the paramount values of “predictability and stability through satisfaction of
+[states’] mutual expectations.” Laker Airways, Ltd. v. Sabena, Belgian World Airlines, 731 F.2d
+909, 937 (D.C. Cir. 1984). See also id. (holding United States courts are ““compel[led] ... to act
+at all times to increase the international legal ties that advance the rule of law within and among
+nations”). Where an award would “undermine the public interest” and “public confidence in the
+administration of the law,” it should be denied recognition and enforcement under Article
+V(2)(b). Enron Nigeria Power Holding, Ltd. v. Federal Republic of Nigeria, 844 F.3d 281, 289
+(D.C. Cir. 2016) (internal quotation omitted).
+
+Vv. In the Alternative, This Action Should be Stayed Pending Resolution of the Set
+Aside Proceedings in Sweden
+
+Tf the Court is not inclined to dismiss the petition at this time, it should stay this action
+under Article VI of the New York Convention pending the resolution of the Swedish
+proceedings. Novenergia’s rush to enforce the Award in the United States creates a serious risk:
+if the Award is enforced against Spain’s assets in the United States, but the Svea Court
+subsequently sets it aside, Novenergia will have enforced an annulled award. “[W]here a parallel
+
+proceeding is ongoing in the originating country and there is a possibility that the award will be
+
+-32-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 41 of 45
+
+set aside, a district court may be acting improvidently by enforcing the award prior to the
+completion of the foreign proceedings.” Europcar Italia, S.P.A. v. Maiellano Tours, 156 F.3d
+310, 317 (2d Cir. 1998). This Court has stayed proceedings under Article VI where set aside
+proceedings are ongoing in the arbitral seat. See, e.g., Stati, 199 F. Supp. 3d at 181, 191; Getma
+Int'l v. Republic of Guinea, 142 F. Supp. 3d 110, 113-14 (D.D.C. 2015); CPConstruction
+Pioneers Baugesellschaft Anstalt v. Republic of Ghana, 578 F. Supp. 2d 50 (D.D.C. 2008),
+vacated on other grounds, 578 F. Supp. 2d 48 (D.D.C. 2008).
+
+The wisdom of a stay in these circumstances is illustrated by Getma Int’!. There, the
+respondent moved to set aside an adverse award in the jurisdiction in which the award had been
+made. 142 F. Supp. 3d at 112. While the set-aside proceedings were pending, this Court stayed
+its own proceedings under Article VI. Jd. at 119. The award eventually was set aside, and this
+Court denied the petition for recognition and enforcement. The D.C. Circuit upheld this decision.
+See Getma Int’l v. Republic of Guinea, 191 F. Supp. 3d at 55, aff'd 862 F.3d at 50. The Court’s
+judicious stay avoided protracted and expensive litigation, prevented inconsistent decisions, and
+saved Guinea from a perhaps futile effort to recover improperly seized assets.
+
+The circumstances warranting a stay here are at least as compelling. Spain promptly filed
+set aside proceedings in Sweden, the primary jurisdiction, and the Svea Court promptly
+suspended the award. Litigation in this Court concerning recognition and enforcement, while the
+Swedish set aside proceedings remain pending, would be costly, time-consuming, burdensome,
+and risks inconsistent decisions. If this case proceeds to recognition and enforcement, and the
+Svea Court later vacates the Award, Spain would have to seek recovery of any assets obtained by
+
+Novenergia in the interval. By then Novenergia, a company with no known presence in the
+
+- 33 -
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 42 of 45
+
+United States, could have moved those assets outside the United States, creating the need for yet
+further litigation where the prospects for successful recovery may be dubious.
+
+In determining whether to grant a stay under Article VI, this Court and others have
+assessed six non-exclusive factors set out by the Second Circuit in Europcar, 156 F.3d at 317-18.
+See Getma Int’l, 142 F. Supp. 3d at 113. The first concerns the “expeditious resolution of
+disputes and the avoidance of protracted and expensive litigation.” Europcar, 156 F.3d at 317.
+This supports a stay because “a decision by the [foreign court of primary jurisdiction] may limit
+or eliminate the need for continued and expensive litigation.” Stati, 199 F. Supp. 3d at 192. See
+also Getma Int’l, 142 F. Supp. 3d at 114; Jorf Lasfar Energy Co. v. AMCI Exp. Corp., Case No.
+05-0423, 2005 U.S. Dist. LEXIS 34969, at *7-8 (W.D. Pa. Dec. 22, 2005); Alto Mar Girassol v.
+Lumbermens Mut. Cas. Co., Case No. 04 C 7731, 2005 U.S. Dist. LEXIS 7479, at *11-12 (N.D.
+Ill. Apr. 12, 2005).
+
+The second factor is the “status of the foreign proceedings and the estimated time for
+those proceedings to be resolved.” Europcar, 156 F.3d at 317. Both parties have already
+submitted extensive briefing in the Swedish proceedings. Ewerl6f Decl. {J 3, 5. There is no
+reason to anticipate that the proceedings would suffer from any undue delay. This aspect of the
+test thus weighs in favor of a stay. See Ukrnafta v. Carpatsky Petro. Corp., Case No. H-09-891,
+2011 U.S. Dist. LEXIS 160485, at *12 (S.D. Tex. Oct. 12, 2011) (absence of the “specter of
+unreasonably protracted litigation” in the Swedish courts weighed in favor of a stay); Jorf
+Lasfar, 2005 U.S. Dist. LEXIS 34969, at *8 (finding second factor weighing in favor of a stay
+when there was “no evidence that the French court will ... partake in excessive delay”);
+
+The third factor concerns whether “the award sought to be enforced will receive greater
+
+scrutiny in the foreign proceedings under a less deferential standard of review.” Europcar, 156
+
+-34-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 43 of 45
+
+F.3d at 317. The Svea Court will apply its greater familiarity with EU law and with recourse to
+the EU Court of Justice if needed to determine matters of EU law. By contrast, this Court does
+not normally apply EU law and cannot seek an authoritative interpretation from the EU Court of
+Justice. Moreover, the Svea Court is considering grounds for setting aside the Award that have
+no analogues under Article V of the New York Convention and thus are not before this Court,
+including whether the Award must be declared invalid for violating the Swedish legal order. See
+Summons Application and Request for Suspension, §§ 9, 10.
+
+The fourth factor addresses whether the Swedish proceedings “were initiated under
+circumstances indicating an intent to hinder or delay resolution of the dispute.” Europcar, 156
+F.3d at 318. That is not the case here. Spain appropriately “exercise[d] its right to post-
+arbitration review” of the Award. Getma Int’l, 142 F. Supp. 3d at 117. Spain did this promptly,
+within three months after the tribunal rendered the Award. See Summons Application and
+Request for Suspension J 3. Spain cannot be accused of having engaged in an improper attempt
+to hinder or delay. See id.
+
+The fifth factor is “a balance of the possible hardships to each of the parties.” Europcar,
+156 F.3d at 318. This factor favors a stay because the harm to Spain of premature enforcement
+could be significant and irreversible. In light of such risks, this Court has granted a stay in
+similar circumstances, holding “there would be very real harm to [Guinea] were [it] to confirm
+the award, [the petitioner] were [to] take action to execute on the judgment, and ... [the foreign]
+court were to later determine that the award was improper.” Getma Int’l, 142 F. Supp. 3d at 118
+(quoting Jorf Lasfar, 2005 U.S. Dist. LEXIS 34969, at *4) (first, second, and fifth alterations in
+original). By contrast, a stay would not prejudice Novenergia because its ability to collect on the
+
+Award — were it ultimately found to be valid — would not be affected by the passage of time.
+
+-35-
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 44 of 45
+
+The sixth and final factor is any other “circumstances that ... shift the balance in favor of
+... adjournment.” Europcar, 156 F.3d at 318. The validity of the Award implicates a matter of
+great significance to the European Union. If the Court is not inclined to dismiss the petition,
+granting a stay as an alternative would accord comity to the European judicial system and avoid
+potentially causing needless tension with an important partner of the United States.
+
+In short, if the Court does not to dismiss Novenergia’s petition, it should stay these
+proceedings pursuant to Article VI of the New York Convention until the Swedish set aside
+
+proceedings are completed.
+
+- 36 -
+
+Case 1:18-cv-01148-TSC Document 18-1 Filed 10/16/18 Page 45 of 45
+
+CONCLUSION
+
+WHEREFORE, Spain respectfully requests that the Court dismiss the petition and deny
+
+recognition and enforcement of the Award, or, in the alternative, stay these proceedings.
+
+Dated: October 16, 2018
+
+Respectfully submitted,
+KINGDOM OF SPAIN
+
+By its attorneys,
+
+/s/ Derek C. Smith
+
+Derek C. Smith (D.C. Bar No. 468674)
+dcsmith@foleyhoag.com
+
+Lawrence H. Martin (D.C. Bar No. 476639)
+lhm @foleyhoag.com
+
+Nicholas M. Renzler (D.C. Bar No. 983359)
+nrenzler@foleyhoag.com
+
+Diana Tsutieva (D.C. Bar No. 1007818)
+dtsutieva@ foleyhoag.com
+
+FoLey HoaG LLP
+
+1717 K Street, NW
+
+Washington, DC 20006-5350
+
+Tel: 202-223-1200
+
+Fax: 202-785-6687
+
+Andrew Z. Schwartz (pro hac vice admission
+
+pending)
+
+aschwartz@foleyhoag.com
+
+Andrew B. Loewenstein (pro hac vice admission
+pending)
+
+aloewenstein@foleyhoag.com
+
+FoLey HoaG LLP
+
+Seaport West
+
+155 Seaport Boulevard
+
+Boston, MA 02210-2600
+
+Tel: 617-832-1000
+
+Fax: 617-832-7000
+
+Attorneys for Respondent
+
+-37-
+

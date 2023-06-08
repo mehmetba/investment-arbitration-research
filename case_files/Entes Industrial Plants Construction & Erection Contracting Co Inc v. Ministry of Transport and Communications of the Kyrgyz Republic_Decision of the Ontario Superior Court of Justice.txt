@@ -1,0 +1,776 @@
+CITATION: Belokon et al. v. The Kyrgyz Republic, 2016 ONSC 4506
+COURT FILE NOS.: CV-15-10890-00CL
+
+CV-15-11142-00CL
+
+CV-11-9419-00CL
+
+CV-14-10731-00CL
+
+DATE: 20160711
+
+SUPERIOR COURT OF JUSTICE - ONTARIO
+
+COMMERCIAL LIST
+
+RE:
+
+AND RE:
+
+AND RE:
+
+AND RE:
+
+BEFORE:
+
+COUNSEL:
+
+VALERI BELOKON, Applicant (“Belokon”)
+AND:
+
+THE KYRGYZ REPUBLIC, KYRGYZALTYN JSC and CENTERRA GOLD INC.,
+Respondents
+
+ENTES INDUSTRIAL PLANS CONSTRUCTION & ERECTION CONTRACTING
+CO. INC., Applicant (“Entes”)
+
+AND:
+
+THE KYRGYZ REPUBLIC, KYRGYZALTYN JSC and CENTERRA GOLD INC.,
+Respondents
+
+SISTEM MUHENDISLIK iNSAAT SANAYI VETICARET ANONIM SIRKETI,
+Applicant (“Sistem”)
+
+AND:
+
+THE KYRGYZ REPUBLIC, KYRGYZALTYN JSC and CENTERRA GOLD INC.,
+Respondents
+
+STANS ENERGY CORP., Applicant (“Stans”)
+AND:
+
+THE KYRGYZ REPUBLIC, KYRGYZALTYN JSC and CENTERRA GOLD INC.,
+Respondents
+
+Conway J.
+Peter Cavanagh and Chloe A. Snider, for Belokon
+Robert Wisner and Stephen Brown-Okruhlik, for Entes
+
+Steven G. Frankel, for Sistem
+
+Page: 2
+
+John Terry and Vitali Berditchevski, for Stans
+Aaron Rubinoff and John Siwiec, for The Kyrgyz Republic
+Matthew Latella, Christina Doria and Matt Saunders, for Kyrgyzaltyn JSC
+
+HEARD: June 28 and 29, 2016
+
+REASONS FOR DECISION
+
+{1]  Belokon, Entes, Sistem and Stans (the “Applicants”) have brought applications in
+Ontario to recognize and enforce arbitral awards in their favour against the Kyrgyz Republic (the
+“Republic” or the “Government”).!
+
+[2] While each of these applications is a separate proceeding, they all have one issue in
+common: each Applicant seeks a declaration that the Republic has an ownership interest in
+shares of Centerra Gold Inc. (“Centerra”), a Canadian company, that are registered in the name
+of the Republic’s wholly owned subsidiary Kyrgyzaltyn JSC. The Applicants submit that the
+ownership interest of the Republic in the Centerra shares is subject to seizure by way of
+execution under the Execution Act, R.S.O. 1990, c. E.24.
+
+[3] This hearing was held to determine the common issue in all four applications.” For the
+reasons that follow, the applications for a declaration that the Republic has an exigible ownership
+interest in Centerra shares are dismissed.
+
+Overview of the Kumtor Project
+
+[4] The Republic, formerly a territory within the USSR, gained independence as a country in
+1991. Shortly thereafter, it started to attract foreign investors for the exploration and
+development of the Kumtor Gold Mine, the country’s largest gold mine and a key strategic asset
+(the “Kumtor Project”).
+
+[5] In 1992, the Republic granted rights for the Kumtor Project to CJSC Kumtor Gold
+Company (“Kumtor Gold Co.”). Originally, Kumtor Gold Co. was owned 66.67% by
+Kyrgyzaltyn State Concern (a state concern with no separate existence), and 33.33% by Kumtor
+Mountain Corporation, a subsidiary of Cameco Corporation, a Canadian company.
+
+{6] In the late 1990s, the Republic was moving from a state-controlled economy towards a
+more modern market economy. As part of that effort, the Republic restructured the Kumtor
+
+' The arbitral award in favour of Stans has been set aside. Stans is challenging the set aside decision in its Ontario
+recognition application.
+
+? Since the issue of the Republic’s interest in the Centerra shares was common to all four applications, and to avoid
+any inconsistency of results, this hearing proceeded for a single determination of the issue for the four applications.
+All counsel consented to or did not oppose proceeding on that basis. Centerra did not appear or take a position on
+the issue.
+
+Page: 3
+
+Project and transferred its shares in Kumtor Gold Co. from the state concern to a “joint stock
+company”, Kyrgyzaltyn JSC (“Kyrgyzaltyn”). In exchange for the transfer, the Republic
+became the 100% shareholder of Kyrgyzaltyn.
+
+[7] | Under the Kyrgyz Civil Code (the “Code”), a joint stock company (“JSC”) is a
+commercial company that has full ownership rights to its assets.’ The Code provides that upon
+establishment of a JSC and the transfer of assets to it by its founders, the founders no longer have
+any property rights in the assets transferred but instead obtain shareholder rights in the company.
+Accordingly, once the Republic transferred the shares of Kumtor Gold Co. to Kyrgyzaltyn, the
+shares became the property of Kyrgyzaltyn and the Republic relinquished any rights it had in
+those assets.
+
+[8] According to the Kyrgyz law governing joint stock companies (“JSC Law”),’ a joint
+stock company’s assets are to be separately accounted for on its own balance sheet; shareholders
+are not responsible for the liabilities of the company; and the company is not responsible for the
+liabilities of its shareholders.
+
+[9] In 2003, the Kumtor Project was further restructured. The shareholders of Kumtor Gold
+Co. transferred their shares of Kumtor Gold Co. to Centerra, in exchange for which they received
+shares in Centerra. Kyrgyzaltyn received a 33% shareholding in Centerra (the “Initial Shares”)
+and Cameco Corporation and its related entities (collectively, “Cameco”) received a 67%
+shareholding in Centerra. At that point, Kyrgyzaltyn and Cameco were the sole shareholders of
+Centerra, which in turn operated the Kumtor Project through its operating subsidiaries. In 2004,
+Kyrgyzaltyn sold some of the Initial Shares, reducing its Centerra shareholding to approximately
+17%.
+
+[10] | The uncontradicted evidence of Kyrgyzaltyn and the Republic is that:
+
+. the Centerra shares have been accounted for as an asset on Kyrgyzaltyn’s
+financial statements;
+
+. the Centerra shares have not been listed on the registry of state property
+maintained by the State Property Fund (the entity that manages the
+Republic’s shareholdings in companies such as Kyrgyzaltyn). There is no
+evidence of any accounting or other record that identifies the Centerra
+shares as assets of the Republic;
+
+. all dividends on the Centerra shares have been paid by Centerra to
+Kyrgyzaltyn; and
+
+. Kyrgyzaltyn attends and votes at meetings of Centerra shareholders.
+
+3 This is unlike a transfer of assets by the Republic to a “state institution” or a “state enterprise” where the Republic
+continues to own the assets after the transfer.
+
+4 The Law of Business Partnerships and Companies No. 60, 15 November 1996, Chapter 4 of which was later
+replaced by the Law on Joint Stock Companies No. 64, 27 March 2003.
+
+Page: 4
+
+The Agreement on New Terms
+
+[11] | Several years later, disputes arose between Centerra and the Republic about the Kumtor
+Project. Centerra and Kumtor Gold Co. commenced an investor-state arbitration against the
+Republic. In 2008, the parties agreed to suspend the arbitration to negotiate and establish new
+ownership terms for the operation of the Kumtor mine. This culminated in the “Agreement on
+New Terms for the Kumtor Project” dated April 24, 2009 (the “ANT”).
+
+[12] The ANT is an umbrella agreement among the Government (acting on behalf of the
+Republic), Kyrgyzaltyn, Cameco, Centerra and its two operating subsidiaries. The ANT refers
+to the settlement of all claims in the arbitration and sets out, in detail, the basis for amended
+agreements to govern the Kumtor Project.
+
+[13] The second recital to the ANT (on which the Applicants rely as discussed below),
+describes the existing shareholders of Centerra. It reads (my emphasis in this and following
+clauses added in bold):
+
+Whereas, Cameco, directly or through its subsidiary Kumtor
+Mountain Corporation, which is in turn wholly owned by Cameco
+Gold Inc., a wholly-owned subsidiary of Cameco, and
+Kyrgyzaltyn, which holds shares in Centerra on behalf of the
+Government (Kyrgyzaltyn, together with the Government, the
+“Kyrgyz Side”) are the largest shareholders in Centerra;
+
+[14] | Under the ANT, the Republic expanded the Kumtor mining concession and implemented
+a more favourable tax regime for one of Centerra’s operating subsidiaries. In exchange,
+Kyrgyzaltyn acquired an additional 15.7% of the shares of Centerra (43,532,615 common shares)
+(the “Additional Shares”), bringing Kyrgyzaltyn’s shareholding in Centerra up to 32.7%.
+
+[15] The Additional Shares were acquired by Kyrgyzaltyn in two ways: (a) 25,300,000
+through a transfer from Cameco pursuant to a custodial arrangement under which the shares were
+to be released to Kyrgyzaltyn on certain conditions (the “Cameco Contributed Shares”); and
+(b) 18,232,615 in treasury shares issued directly by Centerra to Kyrgyzaltyn (the “Treasury
+Shares”).
+
+[16] Section 2.1(a) is the operative section of the ANT with respect to the Cameco
+Contributed Shares:
+
+Cameco shall (out of its existing holding of Centerra common
+shares) deposit in escrow with the Custodian 25,300,000 common
+shares in Centerra (the “Cameco Contributed Shares”) (without
+any off-setting, contribution, payment or issuance by Centerra in
+Cameco’s favor) to be held for the benefit of and on behalf of
+Kyrgyzaltyn and/or Cameco, as the case may be. The Cameco
+Contributed Shares shall be held and transferred by the Custodian
+
+Page: 5
+
+as provided in this Agreement on New Terms and the Custodian
+Agreement.
+
+[17] Section 2.2(a) is the operative section of the ANT with respect to the Treasury Shares.
+The first sentence reads:
+
+On the Completion Date, the Treasury Shares shall be issued by
+Centerra to Kyrgyzaltyn so that Kyrgyzaltyn will beneficially own
+and be entitled to all the benefits arising from (including the
+exercise of all rights attaching to) such shares, subject only to the
+terms of this Agreement on New Terms and the Restated
+Shareholders’ Agreement.
+
+[18] The ANT provided that the existing shareholders’ agreement for Centerra would be
+restated to reflect the new arrangements in the ANT. The parties to the restated shareholders’
+agreement (the “RSA”) are Kyrgyzaltyn, Cameco Gold Inc., Kumtor Mountain Corporation and
+Centerra. The RSA states that Kyrgyzaltyn is the registered and beneficial owner of the Centerra
+shares. The Republic is not a party to the RSA.
+
+[19] | While the ANT provides that the Additional Shares are to be transferred or issued to
+Kyrgyzaltyn, the Applicants rely on the fact that there are references in the ANT to “the Kyrgyz
+Side” in relation to the Centerra shareholdings, including:
+
+The Kyrgyz Side shall have no restrictions on the transfer or encumbrance
+of any Centerra common shares it holds ... (Section 2.4(c));
+
+Any Centerra shares held by the Kyrgyz Side shall be subject to the
+provisions of Section 3.8 of the 2004 Shareholders Agreement ... (Section
+2.4(d));
+
+Nominees [to be elected to the Centerra board of directors] shall include two
+individuals selected by the Government ... , provided, however, that (i) if
+the Kyrgyz Side’s ownership in Centerra is less than 10% but is greater
+than 5%, Centerra shall only be required to include one nominee selected by
+the Government ...; and (ii) if the Kyrgyz Side’s ownership in Centerra is
+equal to or less than 5%, without limiting any rights the Kyrgyz Side may
+have as a shareholder under applicable law, Centerra shall not be required to
+include any nominees selected by the Government ... (Section 3.3(a));
+
+The Restated Shareholders’ Agreement shall not include any restrictions of
+the transfer or encumbrance of any shares in Centerra held by the Kyrgyz
+Side other than as provided in this Agreement on New Terms. (Section
+5.8(c)).
+
+Page: 6
+
+[20] According to s. 6.5 of the ANT, the term “Kyrgyz Side” has the meaning given to it in
+the second recital — (Kyrgyzaltyn, together with the Government, the “Kyrgyz Side”).°
+
+[21] Section 6.6 provides that the ANT is to be governed by and construed in accordance with
+the laws of the State of New York.
+
+Ratification of the ANT
+
+[22] On April 24, 2009, the Prime Minister of the Republic signed the ANT for the
+Government and the President of Kyrgyzaltyn signed the ANT for that company. On the same
+day and in accordance with the conditions of the ANT, the Prime Minister signed a government
+resolution (“Resolution 254”) requesting approval of the ANT from the Kyrgyz Parliament, the
+Jogorku Kenesh. Paragraph 5 of Resolution 254 reads:
+
+To authorize the open joint stock company “Kyrgyzaltyn”, on
+behalf of the Government of the Kyrgyz Republic, to receive
+and hold shares in the company “Centerra Gold Inc.” which are
+owned by the Government of the Kyrgyz Republic in
+accordance with the Agreement mentioned under 1 of this
+Resolution [the ANT], and to exercise other rights with regard to
+said shares.
+
+[23] The Jogorku Kenesh approved the ANT on April 30, 2009. Pursuant to the “Law on
+Ratification”, the ANT acquired the status of law.® That same day, the Jogorku Kenesh also
+passed Decree No. 1141-IV, which instructed the Government to submit information to the
+Jogorku Kenesh regarding the ANT, including information concerning:
+
+ordinary shares received under the project “Kumtor” to the benefit
+of the Kyrgyz Republic from the company “Cameco Corporation”
+amounting to 25300000 and the additionally issued ordinary shares
+amounting to 18232615 shares, in the period before 1 July 2009.
+
+Positions of the Parties
+
+[24] The Applicants’ position is that the Government is the owner of the Centerra shares and,
+as such, its ownership interest in the shares is subject to seizure and sale by the sheriff pursuant
+to section 18 of the Execution Act. Section 18 provides that the sheriff may seize and sell “any
+equitable or other right, property, interest or equity of redemption in or in respect of any goods,
+chattels or personal property” of a debtor.
+
+5 Technically, the definition only consists of the words in the parentheses in the second recital. The preceding words
+“Kyrgyzaltyn, which holds shares in Centerra on behalf of the Government” are not included in the definition.
+
+® The Applicants did not argue or suggest that the Law on Ratification ranks ahead of or supersedes the property
+rights established by the Code.
+
+Page: 7
+
+[25] The Applicants rely on the ANT as the primary basis for their argument that the
+Government has an ownership interest in the Centerra shares. They argue that in the ANT, the
+Government and Kyrgyzaltyn agreed that the Government is the owner of the Centerra shares
+and that Kyrgyzaltyn is simply holding those shares on the Government’s behalf.? The
+Applicants do not assert that the Republic has any other type of interest in the shares besides an
+ownership interest.
+
+[26] The Applicants submit that the Republic’s ownership interest can be seen from the
+wording of the second recital of the ANT (which states that Kyrgyzaltyn “holds shares in
+Centerra on behalf of the Government”) and by the various references to the term “Kyrgyz Side”
+in the ANT set out above. They submit that when properly construed in accordance with New
+York law, the ANT is unambiguous in establishing the parties’ intention with respect to the
+Government’s ownership interest. They submit that if the court finds any ambiguity in the ANT,
+the language of Resolution 254 and Decree 1141-IV is evidence that supports their interpretation
+of the ANT that the Government owns the Centerra shares.
+
+[27] The Applicants submit that they are not attempting to assert that the Republic has an
+interest in any assets that are the property of Kyrgyzaltyn. Their position is that, as a contractual
+matter, the parties agreed in the ANT that the Republic, not Kyrgyzaltyn, owns the shares that
+are registered in Kyrgyzaltyn’s name. In other words, the Applicants assert that the Centerra
+shares are the property of the Republic, not of Kyrgyzaltyn.
+
+[28] The position of the Republic and Kyrgyzaltyn is that the Centerra shares are owned by
+Kyrgyzaltyn and are the sole property of that corporation, as provided by the Code and JSC Law.
+They submit that the Government has no ownership interest in the Centerra shares, which are the
+property of Kyrgyzaltyn, and that the Government’s interest is limited to its share ownership in
+Kyrgyzaltyn.
+
+[29] The Republic and Kyrgyzaltyn argue that the ANT did nothing to alter the property rights
+of Kyrgyzaltyn in the Centerra shares. They submit that the ANT, properly construed, is
+unambiguous in establishing that Kyrgyzaltyn, not the Government, is the owner of the Centerra
+shares.
+
+Applicable Legal Principles
+
+[30] The Execution Act is remedial in nature and is to be construed liberally.’ The Applicants
+submit that section 18 of the Execution Act should therefore be interpreted in a manner that
+facilitates the process of enforcing judgments, not in a manner that would deny creditors a
+
+7 The Applicants submit that the court does not need to decide whether the Republic acquired this ownership interest
+before or on the date of the ANT, since the ANT contained provisions that gave legal effect to the agreement of the
+parties with respect to the Centerra shares, As stated in the Belokon factum, the “ANT either confirmed or
+superseded the prior legal relationship between [Kyrgyzaltyn] and the Government in respect of the Centerra
+shares.” I note that, apart from the ANT, the Applicants do not rely on any document or agreement that purports to
+legally transfer any ownership rights in the Centerra shares from Kyrgyzaltyn to the Government.
+
+§ Legislation Act, 2006, 8.0. 2006, C. 21, Sched. F, s. 64(1).
+
+Page: 8
+
+remedy. The Applicants acknowledge that they have the burden of proof in establishing that the
+Republic has an exigible interest in the Centerra shares.
+
+[31] The Execution Act is a procedural statute. It does not create new rights — it only provides
+a process for the enforcement of otherwise existing rights.?
+
+[32] The issue to be determined is whether the Republic has any “equitable or other right,
+property, interest or equity of redemption in or in respect of” the Centerra shares that are
+registered in Kyrgyzaltyn’s name. If the Republic does, the court has the authority to order the
+sheriff to seize and sell the Republic’s interest in those shares to satisfy a debt owed by the
+Republic to the Applicants. If the Republic does not, the procedural mechanisms of the
+Execution Act are not engaged.
+
+Interpretation of the ANT
+
+[33] As noted above, the ANT is to be interpreted in accordance with New York law. Both
+sides presented expert evidence on New York law. The experts agree on the following principles
+of contract interpretation:
+
+. The fundamental principle is that agreements are construed in accordance
+with the parties’ intent, and the best evidence of what parties to a written
+agreement intend is what they say in their writing.
+
+e A written agreement that is complete, clear and unambiguous on its face
+must be enforced according to the plain meaning of its terms. Extrinsic
+evidence of the parties’ intent may be considered only if the agreement is
+ambiguous, which is an issue of law for the courts to decide.
+
+. Recitals in a contract do not control the operative clauses of the contract
+unless the latter are ambiguous. Where a recital clause and operative clause
+are inconsistent and the recital clause is clear, but the operative clause is
+ambiguous, the recital clause should prevail. Where a recital clause and an
+operative clause are inconsistent, the operative clause, if unambiguous,
+should prevail.'°
+
+[34] Sections 2.1, 2.2 and 2.3 are the key operative provisions of the ANT with respect to the
+Additional Shares to be issued or transferred to Kyrgyzaltyn. Those sections clearly state that
+those shares are to be acquired by Kyrgyzaltyn, Section 2.1 states that the Cameco Contributed
+Shares are to be held by the custodian “for the benefit of’ Kyrgyzaltyn (or Cameco, as the case
+may be). Section 2.3 provides that the Cameco Contributed Shares are to be released by the
+
+° As noted by Cumming J. in DSLangdale Two LLC v. Daisytek (Canada) Inc., [2004] O.J. No. 5281 (Ont. S.C.), at
+para. 19, the regime for enforcing judgments is a procedural, not substantive, matter.
+
+Each of the experts also provided his own interpretation of the ANT applying these principles. I have not relied
+on those interpretations but rather have conducted my own analysis using the applicable New York legal principles.
+
+Page: 9
+
+custodian to Kyrgyzaltyn. There is no reference to the Government having any ownership
+interest in the Cameco Contributed Shares.
+
+[35] Likewise, Section 2.2 states that the Treasury Shares are to be issued to Kyrgyzaltyn and
+that Kyrgyzaltyn “will beneficially own and be entitled to all the benefits arising from (including
+the exercise of all rights attaching to) such shares”, There is no reference to the Government
+having any ownership interest in the Treasury Shares.
+
+[36] There are additional references in the ANT to Kyrgyzaltyn’s rights and status as a
+Centerra shareholder — for example, the right to vote shares (s. 2.2(b)); the right to receive
+dividends (s. 2.2(d)); a right of first refusal on a rights issue (s. 2.4(a)); and its status as an
+accredited investor under Canadian securities regulations (s. 2.5(c)). None of these sections
+refers to the Government as having any ownership interest in the Centerra shares.
+
+[37] Further, the RSA (expressly contemplated by the ANT) explicitly refers to Kyrgyzaltyn
+as the registered and beneficial owner of the Centerra shares. There is nothing in that agreement
+that states or suggests that the Government is the owner of the Centerra shares.
+
+[38] The Applicants submit that the Government owns the Centerra shares based on (i) the
+wording of the second recital that reads “Kyrgyzaltyn, which holds the shares of Centerra on
+behalf of the Government”; and (ii) the use of the term “the Kyrgyz Side” in various sections of
+the ANT.
+
+[39] I reject the Applicants’ submission, for several reasons.
+
+[40] First, the Applicants rely on the words in the second recital and the defined term “the
+Kyrgyz Side” as constituting or evidencing an agreement that the Government owns all of the
+Centerra shares registered in Kyrgyzaltyn’s name.'' They argue that this applies to both the
+Initial Shares (that were Kyrgyzaltyn’s property pursuant to the Code and JSC Law) and the
+Additional Shares (that Kyrgyzaltyn acquired under the ANT).
+
+[41] In my view, if the parties had intended that the Government be the owner of all of these
+Centerra shares, they would not have done so on the strength of a few words and a definition
+contained in a recital. I note that there is nothing in the operative sections of the ANT that
+addresses the ownership of the Initial Shares or states that they are owned by the Government.
+The operative sections only address the Additional Shares, which are to be issued and transferred
+to Kyrgyzaltyn as the legal and beneficial owner. Further, nothing in the ANT conveys any
+rights in the Initial Shares or the Additional Shares from Kyrgyzaltyn to the Government;
+appoints Kyrgyzaltyn to hold any of the Centerra shares for the Government as the owner
+thereof; or refers to any other agreement or document that would have that legal effect.
+
+"| The Applicants argue that the court should draw an adverse inference against the Republic for failing to put forth
+evidence of any witness with knowledge of the negotiations of the ANT. However, any such witness would only
+provide evidence of subjective intent, which is not to be considered in interpreting the ANT, There is no basis for
+me to draw an adverse inference.
+
+Page: 10
+
+[42] Second, as noted above, the wording in the key operative clauses of the agreement
+(Sections 2.1, 2.2 and 2.3) are clear that Kyrgyzaltyn is to be the registered and beneficial owner
+of the Additional Shares issued and transferred to it under the ANT. There is no need to refer to
+the recitals to interpret those sections.
+
+[43] Third, even if I consider the language in the second recital, I do not find it inconsistent
+with those key operative clauses. In my view, the words “Kyrgyzaltyn, which holds the shares
+on behalf of the Government” simply reflect the fact that the Government is Kyrgyzaltyn’s sole
+shareholder and ultimately derives the benefit of the Centerra shares that are owned by (and are
+the property of) its subsidiary. In any event, if there is any inconsistency between the key
+operative clauses and the recital, the key operative clauses are unambiguous and therefore
+prevail.
+
+[44] Fourth, I read the use of the term “the Kyrgyz Side” in the sections set out above as
+general references to the shareholdings on the Kyrgyz Side, as opposed to the shareholdings on
+the other “side”, namely Cameco. I do not regard the use of “the Kyrgyz Side” as conferring an
+ownership interest in the Centerra shares on the Government or reflecting the Government as the
+owner of the shares. The use of this language is entirely consistent with the fact that the
+Government and Kyrgyzaltyn are on the same “side” — Kyrgyzaltyn is the shareholder of
+Centerra and the Government is the sole shareholder of Kyrgyzaltyn. I also note that the term
+“the Kyrgyz Side” is used in other clauses of the ANT that have nothing to do with the Centerra
+shareholdings.'?
+
+[45] In summary, when reading the ANT as a whole, I find that the agreement unambiguously
+provides that Kyrgyzaltyn, the existing shareholder of Centerra and owner of the Initial Shares
+under Kyrgyz law, acquired the Additional Shares as part of an overall resolution of the dispute
+between Centerra and the Government, the sole shareholder of Kyrgyzaltyn. The Additional
+Shares were expressly issued and transferred to Kyrgyzaltyn as the registered and beneficial
+owner. The Applicants have failed to establish that the parties agreed in the ANT that the
+Government is the owner of the Centerra shares or that the ANT gives the Government any
+ownership interest in those shares.'*
+
+Additional Evidence
+
+[46] In light of my conclusion that the ANT is unambiguous, it is not necessary to look at any
+other evidence to interpret that agreement. However, if I am incorrect in my conclusion, I have
+considered the evidence relied on by the Applicants — in particular, the language of Resolution
+254 and Decree 1141-IV.
+
+” For example, Section 5.7 refers to “the Kyrgyz Side” having a pre-emptive right to purchase Products from the
+Project Companies. Section 6.1 refers to Parliamentary approval being obtained to vest “the Kyrgyz Side” with all
+necessary powers to perform the ANT and the Restated Project Agreements.
+
+'S The Applicants rely on the ability of an owner under Article 222(3) of the Code to transfer rights in its property to
+another person while still remaining the owner of the property. That section does not assist the Applicants. The fact
+that an owner has the ability to transfer rights does not establish that the Republic does in fact own the Centerra
+shares.
+
+Page: 11
+
+[47] Resolution 254 was a request by the Government for the Jogorku Kenesh to approve the
+ANT and to authorize Kyrgyzaltyn, “on behalf of the Government of the Kyrgyz Republic”, to
+receive and hold shares in Centerra “which are owned by the Government of the Kyrgyz
+Republic in accordance with [the ANT]’.4 The Applicants submit that this wording is evidence
+that supports their interpretation of the ANT.
+
+[48] I disagree. The wording of Resolution 254 is equally consistent with an interpretation of
+the ANT in which Kyrgyzaltyn, the existing shareholder of Centerra, acquired the Additional
+Shares as part of a resolution of the dispute between Centerra and the Government. The wording
+of Resolution 254 is also consistent with the fact that, under the ANT, the Government was
+increasing its stake in Centerra through its 100% shareholding in Kyrgyzaltyn.
+
+[49] Similarly, the language of Decree 1141-IV states that the Additional Shares are “to the
+benefit of the Kyrgyz Republic”. In my view, this language is likewise consistent with the fact
+that the Republic, as the sole shareholder of Kyrgyzaltyn, derived the benefit of an increased
+shareholding in Centerra.
+
+[50] _ The Applicants also rely on other conduct of the Republic (described below), both before
+and after the ANT, to support their argument that the Republic is the owner of the Centerra
+shares. They argue that this conduct is consistent with, and further evidence of, the agreement of
+the Republic and Kyrgyzaltyn in the ANT that the Republic is the owner of the shares.
+
+[51] The Applicants do not argue that this conduct had the legal effect of transferring the
+Centerra shares from Kyrgyzaltyn to the Republic (nor do they point to any document, other than
+the ANT, that purports to have that legal effect). They also do not argue that the Republic
+exerted such control over Kyrgyzaltyn that the separate legal personalities of Kyrgyzaltyn and
+the Republic should be ignored and the assets of Kyrgyzaltyn regarded as those of the Republic.
+As they state in their reply factum, “[t]his case does not turn on piercing the corporate veil.”
+Rather, they rely on this conduct as evidence that supports their interpretation of the parties’
+agreement in the ANT that the Republic is the owner of the Centerra shares registered in
+Kyrgyzaltyn’s name.
+
+[52] The Republic submits that the Applicants are in some cases mischaracterizing the
+Government’s conduct and that, in any event, all of the alleged conduct is consistent with the
+Government acting as the sole shareholder of Kyrgyzaltyn.'*
+
+“The Applicants do not submit that this resolution had the legal effect of transferring ownership of the Centerra
+shares to the Government. The Republic’s uncontradicted evidence is that Resolution 254 is subordinate to the Code
+and the JSC Law and therefore would not have had the effect of transferring any property rights of Kyrgyzaltyn to
+the Government.
+
+3 The Republic and Kyrgyzaltyn also point out that, under the hierarchy of normative legal acts under Kyrgyz law,
+any such acts taken by the Government are subordinate to the legal rights established by the Code and the JSC and
+would not have had the legal effect of transferring property rights from Kyrgyzaltyn to the Government. Normative
+legal acts are defined in Article 4(1) of the law On Normative Legal Acts of the Kyrgyz Republic and include, in
+ranking order, (i) the Constitution; (ii) codes (such as the Code); (iii) laws (such as the JSC Law); and (iv) certain
+
+Page: 12
+
+[53] | The conduct relied on by the Applicants, and the Republic’s response, are summarized as
+follows:
+
+. Disposition 610-p (2004). The Applicants rely on this Disposition, pursuant
+to which the Government ordered that all proceeds from the sale of 7.5
+million Centerra shares be assigned to the state budget. The Republic
+responds that the actual text of Disposition 610-p simply directs the State
+Property Fund to “bring to the consideration of the general meeting of
+shareholders” of Kyrgyzaltyn the issue of allocating the proceeds to the state
+budget, and that this was done in accordance with the JSC Law and the
+Charter of Kyrgyzaltyn.
+
+. Government Resolutions 239 and 247 (2006). Resolution 239 established a
+working group to address issues relating to the sale of the Centerra shares.
+Resolution 247 directed the State Property Fund to prohibit the sale of the
+Centerra shares without an appropriate Government resolution and to use
+the sale proceeds in the manner determined by the Government. The
+Republic argues that these acts are consistent with Kyrgyz law and the
+Republic’s rights as the sole shareholder of Kyrgyzaltyn.
+
+. Establishment of Working Group (2007). In May 2007, the Prime Minister
+of the Republic created an expert group that considered options for
+transferring Centerra shares held by Cameco. On August 30, 2007, the
+Government passed Resolution 382, which approved a draft agreement on
+new terms. The parties to the draft agreement were the Government and
+Centerra, but not Kyrgyzaltyn. A recital to the agreement states “Cameco
+and the Government are the largest shareholders in Centerra”. The
+resolution was ultimately declared null and void when the ANT was signed.
+The draft agreement was never signed.
+
+. Disposition No. 495-r (2011). Disposition 495-r established an interagency
+commission to advise Kyrgyzaltyn’s shareholder on issues relating to the
+Centerra shares. The Republic argues that obtaining advice on a major asset
+of its subsidiary is consistent with the Republic’s role as the sole
+shareholder and that any proposals raised by the commission would have
+had to go through the usual decision-making procedures for Kyrgyzaltyn.
+
+. Disposition 180-p (2011). The Applicants rely on Disposition 180-p,
+pursuant to which dividends declared by Centerra and received by
+
+ 
+
+resolutions of Parliament and the Government. There is no dispute among the parties’ experts that, according to this
+hierarchy, a normative legal act shall not contradict a higher-ranking normative legal act.
+
+Page: 13
+
+Kyrgyzaltyn were transferred to the Government on account of “future
+dividends” on three occasions. The Applicants submit that this transfer was
+contrary to the JSC Law. The Republic argues that the Disposition only
+instructed the State Property Fund to put the issue of the transfer of
+dividends on the agenda for an extraordinary shareholders meeting of
+Kyrgyzaltyn, that there was nothing illegal about the arrangement, and that
+the dividends were treated as income of Kyrgyzaltyn, which paid tax on that
+income. The Republic also notes that the minutes of the 2012 shareholders
+meeting of Kyrgyzaltyn state “the shares of Centerra Gold Inc. belong to
+Kyrgyzaltyn JSC with the right of ownership; dividends received by
+Kyrgyzaltyn JSC on these shares belong to Kyrgyzaltyn JSC with the right
+of ownership”.
+
+. Statements of the Government in various resolutions, reports and news
+articles that refer to its interest in the Centerra shares.'° The Republic
+argues that these statements were made in a highly politicized context and
+that, in any event, none of these statements can have the legal effect of
+altering the property rights of Kyrgyzaltyn in the Centerra shares.!”
+
+¢ The conviction in 2016 of the former Chairman of Kyrgyzaltyn on criminal
+charges relating to a dividend paid to Centerra by its subsidiary. The
+Applicants point to statements made to the court in that proceeding that refer
+to the Government’s ownership of Centerra. The Republic argues that the
+case involved a charge of abuse of official duties and the court did not
+consider or determine the issue of the ownership of the Centerra shares.
+
+[54] For their part, the Republic and Kyrgyzaltyn rely on evidence that the Government knew
+it had no proprietary interest in the Centerra shares. In 2006, a special working group meeting
+took place among senior representatives of the Government and Kyrgyzaltyn regarding loan
+negotiations between the Republic and the International Monetary Fund (IMF). They discussed
+transferring the shares “of the Kyrgyz side” in Centerra to state ownership so that the Republic
+could pledge those shares to the IMF. The working group concluded that the Centerra shares
+
+‘© For example, the Applicants rely on, among other reports and statements, a 2007 report of the Government that
+refers to “[rJevenues from the sale of shares and the privatisation of state property including Centerra Gold shares”;
+a 2009 report from the Prime Minister that states “[w]ith account of the increase in the paid shares of Centerra, 33%
+of the shares in that company are now in ownership of the Kyrgyz Republic”; a statement of the Prime Minister in
+2011 that “.we have 33% stake in Centerra and should have influence in operational, financial and other
+management to that degree”; a statement of the Prime Minister in 2014 that “Kyrgyzstan received dividends of $12
+million only. After payment of 5% taxes, we obtained only $11.4 million”; a statement by the Prime Minister in
+2016 with respect to a potential dilution of “Kyrgyzstan’s stake in Centerra Gold Inc... We are shareholder number
+1 having more than 32% of stocks.”
+
+'’ The Applicants also rely on reports by Centerra that conflate the interests of the Government and Kyrgyzaltyn.
+The Republic argues, relying on the evidence of Mr. Herbert, General Counsel of Centerra, that any reference to
+ownership interest of the Republic was to ensure proper disclosure under Ontario securities law, which deems a
+parent corporation to own shares that are legally owned by its affiliates.
+
+Page: 14
+
+“are the ownership of Kyrgyzaltyn JSC” and that any transfer of the shares to the Republic
+would have to be done through a repurchase on the Toronto Stock Exchange.
+
+[55] The Republic and Kyrgyzaltyn also rely on the evidence that Kyrgyzaltyn is a fully
+operating corporate entity. Their evidence is that Kyrgyzaltyn is a major corporation in the
+Republic and produces over 97% of the country’s gold. Kyrgyzaltyn employs 2,354 people and
+pays wages of over USD 6.8 million. Its operations include management of a number of services
+and businesses, including a transportation company, retail stores, a health resort, a medical
+centre, a hotel, and jewellery shops. It pays tax on all of its income, including on income from
+the Centerra shares.
+
+[56] I have considered the totality of this evidence as well as the arguments of the parties. I
+am not persuaded, on a balance of probabilities, that this evidence supports the Applicants’
+interpretation of the ANT that the parties intended and agreed that Republic owns the Centerra
+shares. In my view, all of this evidence is equally consistent with the interpretation that
+Kyrgyzaltyn is the owner of the Centerra shares and the actions of the Republic are those of the
+sole shareholder of Kyrgyzaltyn.
+
+Centerra Shares not held in Trust for the Republic
+
+[57] In the alternative to their argument based on the parties’ agreement in the ANT, the
+Applicants submit that Kyrgyzaltyn holds all of the Centerra shares in trust for the Republic. !®
+As set out in Sistem’s factum, “even if [Kyrgyzaltyn] at one point owned the shares, the
+Republic became the beneficial owner by the time that the ANT was entered into. The ANT
+either created, or reflected the creation of, an express trust whereby [Kyrgyzaltyn] held the
+shares as trustee for the Republic.”
+
+[58] The only documents the Applicants rely on in establishing a trust are the ANT and
+Resolution 254, Again, the Applicants rely on the language in the second recital “Kyrgyzaltyn,
+which holds the shares on behalf of the Government”, together with the language of Resolution
+254, as establishing or reflecting a trust arrangement.
+
+[59] I reject this submission. The language in the second recital and Resolution 254, as I have
+noted, is equally consistent with the parent-subsidiary relationship between the Republic and
+Kyrgyzaltyn. I do not accept that it reflects an intention on the part of Kyrgyzaltyn to grant the
+beneficial interest in the Centerra shares to the Republic and I consider this language insufficient
+to establish the certainty of intention required for an express trust.!? This is particularly so in
+
+'8 The parties disagreed on whether Kyrgyz or Canadian trust law applies. The Republic and Kyrgyzaltyn argue that
+Kyrgyz law applies and that it does not distinguish between legal and beneficial ownership rights. The Applicants
+argue that Canadian trust law applies and that it establishes that the Republic is the beneficial owner of the shares.
+In light of my conclusion that there is nothing in the ANT or Resolution 254 that gives rise to an express or resulting
+trust, even under Canadian law, I do not need to decide which law applies.
+
+'° A.H. Oostethoff, Robert Chambers and Mitchell McInnes, Oosterhoff on Trusts: Text, Commentary and
+Materials, 8" ed. (Toronto: Carswell, 2014), pp. 192-194,
+
+Page: 15
+
+light of the explicit language in Sections 2.1 and 2.2 of the ANT (and in the RSA) that
+Kyrgyzaltyn is the beneficial owner of the Additional Shares.
+
+[60] As a further alternative, the Applicants submit that since the Republic provided the
+consideration for the Additional Shares acquired under the ANT, Kyrgyzaltyn is presumed to
+hold those shares for the Republic on a purchase money resulting trust. None of the cases relied
+on by the Applicants stand for the proposition that where a corporation acquires an asset that is
+paid for by its shareholder, the corporation is presumed to hold the asset in trust for the
+shareholder.” In any event, even if a presumption did arise, it is rebutted by the language of
+Sections 2.1 and 2.2, which states that Kyrgyzaltyn is the beneficial owner of the Additional
+Shares, as well as the provisions of the RSA to the same effect.
+
+Cases Relied on by the Applicants are Distinguishable
+
+[61] The Applicants rely on two cases to support their argument that the Republic has an
+exigible interest in the Centerra shares. Both cases are distinguishable from the case at bar.
+
+[62] In Tracy (Litigation guardian of) v. Iranian Ministry of Information and Security, 2014
+ONSC 1696, a judgment creditor was permitted to enforce a judgment against real property
+found to be beneficially owned by the Islamic Republic of Iran, even though title to the property
+was in the name of a third party. That case was decided under the Justice for Victims of
+Terrorism Act, S.C, 2012, c. 1, and each of the four assets that the court found were the property
+of Iran were identified as “Iran’s Non-Diplomatic Assets in Canada”, a fact that was not disputed
+by Iran. In addition, the assets were either in the name of Iran or Iran was named as the applicant
+in various building and construction permit applications.
+
+[63] In 1454495 Ontario Inc. v. J=Systems Inc., 2002 CarswellOnt 458 (Ont. S.C.), a
+judgment creditor was permitted to enforce a judgment against shares that had been assigned by
+the debtor as collateral to a third party lender. The court found that there were “residual rights”
+remaining in the pledger/debtor that were subject to seizure and sale under the Execution Act.
+
+[64] Those cases are distinguishable as the court was satisfied, on the evidence before it, that
+the judgment debtor had some ownership interest in the assets in question that could be subject to
+seizure and sale. Here, the Applicants have not established, on a balance of probabilities, that the
+Republic has any ownership interest in the Centerra shares that would engage the provisions of
+the Execution Act.
+
+?° The Applicants rely on Rascal Trucking Ltd. v. Nishi, 2013 SCC 33, [2013] 2 S.C.R. 438, in which the Supreme
+Court of Canada explains, at para. 21, that a presumptive purchase money resulting trust arises where the
+consideration is provided by an unrelated party. In the present case, the consideration was provided by the sole
+shareholder of Kyrgyzaltyn. The Applicants also rely on the trust principles articulated in Pecore v. Pecore, 2007
+SCC 17 — that case deals with issues arising on transfers between personal family members. In the case of AMK
+Investment Ltd. (Trustee of) v. Kraus, 1996 CarswellOnt 3434 (Gen. Div.) a bankrupt corporation was found to have
+a beneficial interest in a license that it paid for and put into the name of an officer — that did involve a parent-
+subsidiary relationship as in the present case.
+
+Page: 16
+
+Decision
+
+[65] Kyrgyzaltyn and the Republic are separate legal entities. Under Kyrgyz law,
+Kyrgyzaltyn is a joint stock company that has full ownership rights to its property. The Republic
+is the sole shareholder of Kyrgyzaltyn but does not own the assets of Kyrgyzaltyn.
+
+[66] The Applicants seek to establish that the Republic has an ownership interest in the
+Centerra shares based on an agreement between the Republic and Kyrgyzaltyn in the ANT or,
+alternatively, based on trust principles. The Applicants have not met their burden of establishing
+any basis on which I can conclude, on a balance of probabilities, that the Republic has any such
+ownership interest in the Centerra shares.
+
+[67] The Republic therefore does not have any “equitable or other right, property, interest or
+equity of redemption” in the Centerra shares that is subject to seizure and sale pursuant to
+Section 18 of the Execution Act' The applications for such a declaration are therefore
+dismissed,
+
+[68] If the parties are unable to agree on costs, I will receive costs submissions from the
+Republic and Kyrgyzaltyn within 30 days and from the Applicants within 21 days thereafter.
+Cost submissions are to be no longer than three pages per party, double-spaced, exclusive of bill
+of costs. I direct that the parties coordinate their cost submissions to the greatest extent possible.
+
+Conway J.
+
+Date: July 11, 2016
+
+2! ‘The Applicants argue that while the interpretation of the ANT and the determination of the property rights of
+Kyrgyzaltyn and the Republic are matters of New York and Kyrgyz law, respectively, the existence of an “interest”
+in the Centerra shares for purposes of the Execution Act is a matter of Ontario law. Given my analysis of the
+unambiguous language of the ANT and the failure of the Applicants, on the evidence before me, to establish any
+ownership rights on the part of the Republic on a balance of probabilities, I have concluded that there is no such
+exigible “interest” under Ontario law.
+

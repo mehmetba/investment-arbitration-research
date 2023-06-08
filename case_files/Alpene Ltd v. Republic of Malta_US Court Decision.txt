@@ -1,0 +1,187 @@
+Case 1:21-mc-02547-MKB-RML Document 26 Filed 02/03/22 Page 1 of 6 PagelD #: 1873
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+
+ween n nnn nnn nn nennnnnnennnnne Xx
+
+IN RE APPLICATION OF ALPENE, LTD. MEMORANDUM
+
+FOR AN ORDER DIRECTING DISCOVERY AND ORDER
+
+FROM ELIZABETH McCAUL PURSUANT 21 MC 2547 (MKB)(RML)
+TO 28 U.S.C. §1782
+
+ween n nnn nnn nn nennnnnnennnnne Xx
+
+LEVY, United States Magistrate Judge:
+
+Alpene Ltd. (“Alpene”) commenced this case on August 30, 2021 for the purpose
+of seeking an expedited order authorizing Alpene’s counsel to issue subpoenas for documents
+and testimony to Elizabeth McCaul (“McCaul”) in aid of a foreign proceeding, pursuant to 28
+U.S.C. § 1782. By order dated September 9, 2021, the Honorable Margo K. Brodie, United
+States District Judge, referred the application to me. On September 20, 2021, I granted the
+request. (See Order, dated Sept. 20, 2021.) McCaul filed the instant motion to vacate on
+November 11, 2021. (See Motion to Vacate, dated Nov. 11, 2021 (“Mot.”), Dkt. No. 14;
+Memorandum of Law in Support of Motion to Vacate Order Granting Discovery Pursuant to 28
+U.S.C. § 1782, dated Nov. 11, 2021, Dkt. No. 15.) McCaul also moves for an order quashing
+and granting a protective order with respect to the document and deposition subpoenas. (See
+Mot.) [heard oral argument on January 11, 2022. (See Transcript of Oral Argument, dated Jan.
+11, 2022 (“Tr.”), Dkt. No. 25.) For the reasons stated below, the application is stayed pending
+
+the United States Supreme Court’s decision in AlixPartners, LLP v. The Fund for Protection of
+
+ 
+
+Investors’ Rts. in Foreign States, No. 21-518, 2021 WL 5858633 (U.S. Dec. 10, 2021).
+BACKGROUND
+Alpene, a Hong Kong corporation, is a claimant in an international treaty
+
+arbitration against the Republic of Malta before the World Bank’s International Centre for the
+
+Case 1:21-mc-02547-MKB-RML Document 26 Filed 02/03/22 Page 2 of 6 PagelD #: 1874
+
+Settlement of Investment Disputes (“ICSID”).! It brought this case to obtain discovery from
+McCaul, a New York resident, in connection with the ICSID proceeding. McCaul, a former
+executive at Promontory Financial Group (“Promontory”), is not a party to the ICSID arbitration
+and the ICSID tribunal cannot subpoena or otherwise compel her to provide documents or
+testimony.
+
+Alpene is the parent company of Pilatus Bank, a private bank that was registered
+in Malta in 2013. The European Central Bank revoked Pilatus Bank’s license in November
+2018, approximately eight months after the Malta Financial Services Authority (““MFSA”)
+appointed Lawrence Connell as Pilatus Bank’s administrator, or “Competent Person.” At the
+time, Promontory was a consultant to the MFSA. Alpene seeks documents and testimony from
+McCaul concerning, inter alia, her role in, and knowledge about, the MFSA’s decision to
+appoint Connell as Competent Person for Pilatus Bank. McCaul raises a number of objections,
+including relevance and privilege.
+
+DISCUSSION
+
+28 U.S.C. § 1782 empowers federal courts to order persons in the United States to
+
+give testimony or produce documents “for use in a proceeding in a foreign or international
+
+tribunal.” The statute imposes three requirements: “‘(1) that the person from whom discovery is
+sought reside (or be found) in the district of the district court to which the application is made;
+(2) that the discovery be for use in a proceeding before a foreign tribunal; and (3) that the
+
+application be made by a foreign or international tribunal or ‘any interested person.’” In re
+
+Edelman, 295 F.3d 171, 175-76 (2d Cir. 2002) (quoting In re Esses, 101 F.3d 873, 875 (2d Cir.
+
+' The treaty at issue is the Treaty between the People’s Republic of China and Malta on the
+Promotion and Protection of Investments. The ICSID operates under the Convention on the
+Settlement of Disputes between States and Nationals of Other States.
+
+2
+
+Case 1:21-mc-02547-MKB-RML Document 26 Filed 02/03/22 Page 3 of 6 PagelD #: 1875
+
+1996)). At issue here is whether the ICSID arbitration constitutes a “foreign or international
+tribunal” within the meaning of § 1782.
+
+The Supreme Court has only considered § 1782 once, and not in the context of
+international arbitration. In Intel Corp. v. Advanced Micro Devices, Inc., 542 U.S. 241, 248-49
+(2004), the Court held that an antitrust complaint filed before the Directorate-General for
+Competition of the Commission of the European Communities satisfied § 1782’s “foreign or
+international tribunal” requirement. Adopting a functional approach, the Court in Intel provided
+some guidance as to the characteristics that a “foreign or international tribunal” might possess.
+First, the Court noted that proceedings before such a tribunal would lead to “a final
+administrative action both responsive to the complaint and reviewable in court” or, stated simply,
+a dispositive ruling. Id. at 255. Second, it found that § 1782 applies to a “first-instance
+decisionmaker” in “administrative and quasi-judicial proceedings.” Id. at 257-58. Third, the
+Court cautioned that comparing § 1782, which is aimed at assisting tribunals abroad, with
+American domestic law “can be fraught with danger.” Id. at 263. According to the Court, §
+1782 “does not direct United States courts to engage in comparative analysis to determine
+whether analogous proceedings exist here.” Id. Finally, the Court rejected “categorical
+limitations” on the reach of § 1782, noting that “Congress left unbounded by categorical rules the
+determination whether a matter is proceeding ‘in a foreign or international tribunal.” Id. at 263
+nls.
+
+Since Intel, there has been disagreement, both in the courts and among
+
+ 
+
+commentators, about whether the phrase “foreign or international tribunal” in § 1782 includes
+
+private international commercial arbitral tribunals. In ZF Automotive US, Inc.v. LuxShare, Ltd.,
+
+ 
+
+No. 21-401, 2021 WL 4173622 (U.S. Sept. 10, 2021), which involves a private commercial
+
+Case 1:21-mc-02547-MKB-RML Document 26 Filed 02/03/22 Page 4 of 6 PagelD #: 1876
+
+arbitration in Germany between two companies, the Supreme Court granted certiorari to address
+that question.
+
+By contrast, courts “have regularly found that arbitrations conducted pursuant to
+Bilateral Investment Treaties, and specifically by the ICSID, qualify as international tribunals
+under § 1782 and are not private arbitrations.” In re Eni, No. 20 MC 334, 2021 WL 1063390, at
+*3 (D. Del. July 15, 2021) (collecting district court cases) (italics added). Despite the lack of a
+circuit split, in AlixPartners, LLP v. The Fund for Protection of Investors’ Rts. in Foreign States,
+No. 21-518, 2021 WL 5858633, at *1 (U.S. Dec. 10, 2021), the Supreme Court recently granted
+certiorari to address the question of “whether the phrase ‘foreign or international tribunal’ in 28
+U.S.C. § 1782(a) includes international arbitral tribunals constituted pursuant to a treaty signed
+by two or more sovereign States.” AlixPartners, which was consolidated with ZF Automotive,
+does not concern a proceeding before the ICSID, but rather an arbitration between a foreign State
+and an investor before an arbitral panel established by a bilateral investment treaty between
+Lithuania and the Russian Federation.
+
+If the Supreme Court finds that § 1782 does not apply to either commercial or
+investment treaty arbitrations, then litigants will be precluded from using United States district
+courts to compel discovery from any witness located in the United States. However, if the
+Supreme Court instead finds that § 1782 encompasses both commercial and investment treaty
+arbitrations, then litigants in such arbitrations could turn to the district court in which a witness
+resides to compel discovery for use in foreign arbitrations. Alternatively, the Supreme Court
+might distinguish between commercial and investment treaty arbitrations, and find that only the
+latter qualify as international tribunals subject to § 1782. In that event, litigants in investment
+
+treaty arbitrations, including Alpene, could invoke § 1782 to request discovery orders.
+
+Case 1:21-mc-02547-MKB-RML Document 26 Filed 02/03/22 Page 5 of 6 PagelD #: 1877
+
+Alpene argues that arbitrations before the tribunal in question here, the ICSID,
+will not be affected by the Supreme Court’s decision in Alix Partners, since the World Bank is a
+“quasi-governmental” authority. (Tr. at 37.) It is true that the use of the word “tribunal” in the
+statute is intended “to ensure that ‘assistance is not confined to proceedings before conventional
+courts,’ but extends also to ‘administrative and quasi-judicial proceedings.’” Intel, 542 U.S. at
+249 (quoting S. Rep. No. 1580, 88th Cong., 2d Sess., 7 (1964)). In In re Guo, 965 F.3d 96 (2d
+Cir. 2020), the Second Circuit provided a roadmap for analyzing whether a foreign arbitration
+should be deemed a private or quasi-governmental proceeding. The court explained that no
+single factor makes a tribunal private or state-sanctioned, but that courts must instead consider
+elements such as the degree of State affiliation, the State’s authority to intervene in arbitration,
+and the jurisdiction of the arbitral panel. Id. at 107-08. The arbitral body at issue in Guo, the
+China International Economic and Trade Arbitration Commission (“CIETAC”), was established
+by the People’s Republic of China and received “at least some funding from the Chinese
+government.” Id. at 100-01. However, the court concluded that CIETAC was “closer to a
+private arbitral body” than a governmental tribunal or other “state-sponsored adjudicatory body,”
+id. at 101 (brackets omitted), and therefore fell outside the ambit of § 1782, because there was no
+affiliation with the Chinese government, the ability of the government and courts to intervene in
+the arbitration was limited, the jurisdiction of the arbitral panel was created solely by parties’
+agreements, and the parties had the ability to select their own arbitrators. Id. at 107-08.
+
+I have not had occasion to analyze how the ICSID would fare under this analysis,
+and the parties have not briefed this issue. But given that the Supreme Court has reached out to
+decide an issue that was not in dispute—namely whether arbitrations conducted pursuant to
+
+bilateral investment treaties qualify as international tribunals under the statute—I am reluctant to
+
+Case 1:21-mc-02547-MKB-RML Document 26 Filed 02/03/22 Page 6 of 6 PagelD #: 1878
+
+predict how it might rule. Without a doubt, the Court will shed light on what qualifies as a
+foreign or international tribunal for purposes of § 1782. Counsel for Alpene has indicated that
+the parties to the ICSID arbitration have not yet scheduled their initial procedural conference
+(Tr. at 28), and I am not convinced that staying this matter would prejudice Alpene in any way.
+
+Accordingly, this case is stayed pending the Supreme Court’s decision in Alix Partners.
+SO ORDERED.
+
+/s/
+ROBERT M. LEVY
+United States Magistrate Judge
+
+Dated: Brooklyn, New York
+February 3, 2022
+

@@ -1,0 +1,1061 @@
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 1 of 30
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+REPUBLIC OF GUATEMALA,
+Petitioner,
+v. Civil Case No.
+
+IC POWER ASIA DEVELOPMENT LTD.,
+
+Respondent.
+
+MEMORANDUM OF LAW IN SUPPORT OF GUATEMALA’S PETITION FOR
+RECOGNITION OF AN ARBITRATION AWARD
+
+ 
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 2 of 30
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+INTRODUCTION 1
+STATEMENT OF FACTS 1
+ARGUMENT 5
+1 The Court has personal jurisdiction over ICPA..
+A. This Court has general jurisdiction over ICPA because ICPA and its agent, IC Power, are
+“at home” in New York, the forum state ..........cccccccescsseseseseseseeeeeeseeeseseseseseeeseeneteneteeeeeeaeee 5
+1. ICPA had extensive, direct contact with New York .......c.ccccccsceceseseseseseeesteteseseseeeseseeeees 7
+2. ICPA conducted business in New York through its agent, IC Power
+B. This Court also has specific personal jurisdiction over ICPA because the Petition is
+related to ICPA’s transaction in New York
+IL. This Court has subject matter jurisdiction over the Petition..........csecseeseeeseeeeeeeeeeeeee 15
+Ill. Venue is proper because there is subject matter jurisdiction, a consequence of Section
+203 of the FAA 17
+IV. This Court should recognize the Award
+A. Judicial review of arbitral awards is extremely limited 0.0.0... eeeeeeseeeeseeeeseeteseeeeeenees 17
+B. The New York Convention and the FAA require recognition of the Award............000 18
+V. Guatemala is entitled to receive pre- and post-judgment interests on the Award ............ 21
+VI. The Court should award Guatemala its attorneys’ fees and costs .
+
+CONCLUSION 23
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 3 of 30
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF AUTHORITIES
+CASES
+Africard Co. v. Republic of Niger,
+210 F. Supp. 3d 119 (D.D.C. 2016) 16
+Albaniabeg Ambient Sh.p.k. v. Enel S.p.A.,
+169 F.Supp.3d 523 (S.D.N.Y., 2016). 15
+Bautista v. Star Cruises,
+396 F.3d 1289 (11th Cir. 2005) 15
+Belize Soc. Dev. Ltd. v. Gov't of Belize,
+668 F.3d 724 (D.C. Cir. 2012) 18
+Belize Soc. Dev. Ltd. v. Gov't of Belize,
+794 F.3d 99 (D.C. Cir. 2015) 15
+BG Grp., PLC v. Republic of Argentina,
+572 U.S. 25 (2014) 16,17
+Burger King Corp. v. Rudzewicz,
+471 U.S. 462 (1985) 11
+Ceona PTE Ltd. v. Bmt Giant, S.A. De C.V.,
+No. 16CV4437, 2016 WL 6094126 (S.D.N.Y. Oct. 19, 2016). 20, 21
+China Midmeals Materials Imp. & Exp. Co. v. Chi Mei Corp.,
+334 F.3d 274 (3d Cir. 2003). 18
+Compagnie Sahelienne d'Entreprise v. Republic of Guinea,
+No. CV 20-1536 (TJK), 2021 WL 2417105 (D.D.C. June 14, 2021)... eects 20
+Daimler AG v. Bauman,
+571 U.S. 117 (2014) 5,6
+Deutsche Bank Sec., Inc. v. Montana Bad. of Invs.,
+850 N.E.2d 1140 (N.Y. 2006) 12
+Europcar Italia, S.p.A. v. Maiellano Tours, Inc.,
+156 F.3d 310 (2d Cir. 1998) 20
+
+ 
+
+Florasynth, Inc. v. Pickholz,
+750 F.2d 171 (2d Cir. 1984). 20
+
+iii
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 4 of 30
+
+Frummer vy. Hilton Hotels Int'l, Inc.,
+227 N.E.2d 851 (1967).
+
+Galgay v. Bulletin Company,
+504 F.2d 1062 (2d Cir.1974)
+
+GEM Advisors, Inc. v. Corporacion Sidenor, S.A.,
+667 F. Supp. 2d 308 (S.D.N.Y. 2009)
+
+Goodyear Dunlop Tires Operations, S.A. v. Brown,
+
+6,7
+
+11,14
+
+ 
+
+564 U.S. 915 (2011)
+
+Hecklerco, LLC v. YuuZoo Corp. Ltd.,
+252 F. Supp. 3d 369 (S.D.N.Y. 2017)
+
+Helicopteros Nacionales de Colombia, S.A. v. Hall,
+466 U.S. 408 (1984)
+
+14
+
+ 
+
+Herrenknecht Corp. v. Best Rd. Boring,
+
+No. 06 CIV. 5106 (JFK), 2007 WL 1149122 (S.D.N.Y. Apr. 16, 2007) .....ccscscesceseeceeeneee
+
+Hum. v. Czech Republic-Ministry of Health,
+824 F.3d 131 (D.C. Cir. 2016)
+
+ 
+
+Hunter v. Shanghai Huangzhou Elec. Appliance Mfg. Co.,
+505 F. Supp. 3d 137 (N.D.N.Y. 2020)
+
+ 
+
+In re Roman Cath. Diocese of Albany, New York, Inc.,
+745 F.3d 30 (2d Cir. 2014)
+
+Jaffe v. Boyles,
+
+ 
+
+616 F. Supp. 1371 (W.D.N.Y. 1985)
+
+Karaha Bodas Co. v. Perusahaan Pertambangan Minyak Dan Gas Bumi Negara,
+364 F.3d 274 (Sth Cir. 2004)
+
+ 
+
+Linsen Int'l Ltd. v. Humpuss Sea Transp. PTE LTD,
+
+No. 09 CIV. 10393 GBD, 2011 WL 1795813 (S.D.N.Y. Apr. 29, 2011) ....ceceseceseeceseeeee
+
+Metro. Life Ins. Co. v. Robertson-Ceco Corp.,
+84 F.3d 560 (2d Cir. 1996)
+
+MGM Prods. Grp., Inc. v. Aeroflot Russian Airlines,
+
+573 F. Supp. 2d 772 (S.D.N.Y. 2003), aff'd, 91 F. App'x 716 (2d Cir. 2004)...ccccsssesceee
+
+Milberg, LLP v. Drawrah Ltd.,
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 5 of 30
+
+844 F. App'x 397 (2d Cir. 2021) 20
+
+Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc.,
+473 U.S. 614 (1985) 17
+
+Moore v. Publicis Groupe SA,
+No. 11 CIV. 1279 ALC AJP, 2012 WL 6082454 (S.D.N.Y. Dec. 3, 2012)... 12
+
+Nat'l Football League Players Ass'n v. Nat'l Football League Mgmt. Council,
+523 F. App'x 756 (2d Cir. 2013) 17
+
+Palmieri v. Estefan,
+793 F. Supp. 1182 (S.D.N.Y. 1992). 7
+
+Parsons & Whittemore Overseas Co. v. Societe Generale De L'Industrie Du Papier (RAKTA),
+508 F.2d 969 (2d Cir. 1974). 18
+
+Republic of Ecuador v. Chevron Corp.,
+638 F.3d 384 (2d Cir. 2011). 15
+
+Sandoval v. Abaco Club on Winding Bay,
+507 F. Supp. 2d 312 (S.D.N.Y. 2007). 12
+
+Sistem Muhendislik Insaat Sanayi Ve Ticaret, A.S. v. Kyrgyz Republic,
+No. 12-CY-4502 (ALC), 2016 WL 5793399 (S.D.N.Y. Sept. 30, 2016), aff'd, 741 F. App'x 832
+(2d Cir. 2018). 17
+
+Stati v. Republic of Kazakhstan,
+199 F, Supp. 3d 179 (D.D.C. 2016) 16
+
+Trustees for The Mason Tenders Dist. Council Welfare Fund v. Euston St. Servs., Inc.
+No. 1:15-CV-6628-GHW, 2016 WL 67730 (S.D.N.Y. Jan. 5, 2016)
+
+ 
+
+Trustees of the New York City Dist. Council of Carpenters Pension Fund v. Jessica Rose
+Enterprises Corp.,
+No. 15-CV-9040 (RA), 2016 WL 6952345 (S.D.N.Y. Nov. 28, 2016)... cccseeeeeeeeneneeeeee 21
+
+Waterside Ocean Navigant Co. v. Int'l Navigation Ltd.,
+737 F.2d 150 (2d Cir. 1984). 20
+
+Wells Fargo Advisors, LLC v. Mercer,
+735 F. App'x 23 (2d Cir. 2018) 20
+
+Wiwa v. Royal Dutch Petroleum Co.,
+226 F.3d 88 (2d Cir. 2000) 5,6
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 6 of 30
+
+World-Wide Volkswagen Corp. v. Woodson,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+444 U.S. 286 (1980) 14
+Yusuf Ahmed Alghanim & Sons v. Toys "R" Us, Inc.,
+
+126 F.3d 15 (2d Cir. 1997) 17
+Zeiler v. Deitsch,
+
+500 F.3d 157 (2d Cir. 2007). 18
+STATUTES
+
+28 U.S.C.A. § 1961 22
+28. U.S.C. A. § 1961(a) 22
+9US.C. § 202 17,18
+9US.C. § 203 16,17
+9US.C. § 204 16
+9US.C. § 207 19, 23
+9US.C.A. § 12 21
+N.Y.C.P.L.R § 302 9,10
+OTHER AUTHORITIES
+
+3 Fed. Proc., L. Ed. § 4:140 20
+Restatement (Third) of Foreign Relations Law § 487 .....cccccscsssesseeseseeeseeeseesseeeseeseeeeeeeees 17
+
+The United Nations Convention on the Recognition and Enforcement of Foreign Arbitral
+Awards, Dec. 29, 1970, 21 U.S.T. 2517 15
+
+vi
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 7 of 30
+
+Petitioner, Republic of Guatemala (“Guatemala”), by and through the undersigned counsel,
+respectfully submits this Memorandum of Law in Support of its Petition to Recognize an
+Arbitration Award (the “Petition”). The Petition seeks the recognition of an international
+arbitration award (the “Award”) against IC Power Asia Development Ltd. (“ICPA”) pursuant to
+Article III of the New York Convention and Section 207 of the Federal Arbitration Act. For the
+reasons stated below, the Court should grant the Petition.
+
+INTRODUCTION
+
+As an international player in the electricity distribution business, ICPA has routinely and
+extensively benefited from the human and economic capital available in New York. Whether it is
+an acquisition, disposition, financing, or structure of long-term growth and assets, ICPA has
+realized hundreds of millions of dollars in benefits, all with the aid of investors, advisors, and
+economic structures created and implemented through New York. When ICPA wanted to sue
+Guatemala before an arbitration tribunal, it retained its right to bring the claim through a
+transaction in New York and governed by New York law. ICPA lost its claim, must now reimburse
+Guatemala for the costs and fees accrued, and has offered no defense to this obligation despite
+numerous requests. Guatemala now requests that this Court recognize the resulting arbitration
+award, granting pre-and post-judgment interest as well as reimbursement of the additional
+attorneys’ fees and costs that Guatemala has accrued.
+
+STATEMENT OF FACTS
+
+1. The Award pertains to an investment dispute under the bilateral investment treaty
+between Guatemala and Israel (the “Treaty”). See Agreement for the Reciprocal Promotion and
+Protection of Investments, Guatemala-Israel, Nov. 7, 2006 (referred hereafter as “Guatemala-Israel
+BIT”) (Cutz Declaration, Exhibit A). The Treaty provides several protections for investments
+
+made by investors of these two countries, known as Contracting Parties. See id., art. 2-8. Among
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 8 of 30
+
+other benefits, investors of a Contracting Party were given the right to settle an investment dispute
+with the other Contracting Party through an arbitration tribunal established under the Arbitration
+Rules of the United Nations Commission on International Trade Law (UNCITRAL). See id., arts.
+8(2)(e), 8(3). An award rendered pursuant to such an arbitration is “final and binding.” See id., art.
+8(5).
+
+2. ICPA'! is a company incorporated by Israel Corporation Ltd. (“IC”) in Tel Aviv,
+Israel, in January 2010. See Award, §100, (Exhibit 1); Notice of Arbitration, {{ 7, 11 (Exhibit 3).
+Five years after its incorporation, IC transferred its shares in ICPA to Kenon Holding Ltd.
+(“Kenon”), a company incorporated in Singapore. See Award, §101 (Exhibit 1). Kenon is listed
+on the New York Stock Exchange (the “NYSE”). See Shares Information, KENON HOLDINGS.” As
+of December 22, 2021, Kenon has a market capitalization of over USD 2.4 billion. See ibid.
+
+3. On May 3, 2015, Actis Infrastructure 2 LP (“Actis”), acting through its financial
+advisor Citigroup New York, invited ICPA to acquire its shares in “the two largest electricity
+distribution companies in Guatemala,” namely Distribuidora de Electricidad de Occidente, S.A.,
+(“DEOCSA”) and Distribuidora de Electricidad de Oriente, S.A (“DEORSA”) (referred together
+as the “Distributors.”).> See Award, { 102-103 (Exhibit 1); Letter from Pedro Aguirre Saravia,
+
+Managing Director, Citigroup Global Markets Inc., to Javier Garcia & Joaquin Coloma, Inkia
+
+1 Up until March 2016, ICPA was known as I.C. Power Ltd. See Certification of Company Name
+Change (Mar. 28, 2016) (Exhibit 2).
+
+2 https://www.kenon-holdings.com/investor-relations/share-information.aspx (last visited January
+10, 2022).
+
+3 The Distributors provide electricity services for “approximately 1.6 million households in
+Guatemala (representing approximately 60% of Guatemala's distribution clients) and distribute
+energy to approximately 100,000 km in Guatemala, covering approximately 10 million
+inhabitants.” See IC Power Ltd. Agrees to Acquire Energuate, a Private Electricity Distribution
+Business in Guatemala, KENON HOLDINGS LTD. (Dec. 30, 2015) (Exhibit 8).
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 9 of 30
+
+Energy Ltd. (May 13, 2015) (Exhibit 4). ICPA, if interested, was instructed to submit its offer to
+the managing director and vice president of Citigroup based in New York. See Letter from Pedro
+Aguirre Saravia, Managing Director, Citigroup Global Markets Inc., to Javier Garcia & Joaquin
+Coloma, Inkia Energy Ltd. (May 13, 2015), p. 2 (Exhibit 4).
+
+4. On January 28, 2016, ICPA accepted Actis’s offer and acquired its shares for USD
+265 million. See Award, § 221 (Exhibit 1). The acquisition was executed through an agreement
+concluded in New York and governed under New York Law. See Stock Purchase Agreement
+among IC Power Distribution Holdings Pte. Limited and DEORSA-DEOCSA Holdings Limited
+(Dec. 19, 2015), sec. 2.3, sec. 10.11, (Exhibit 5). To pay for the shares, ICPA borrowed USD 120
+million from Credit Suisse AG. See Award, § 221 (Exhibit 1); Kenon Holdings Ltd. and its
+subsidiaries, Annual Report, p. 73 (Dec. 31, 2016) (Exhibit 6).
+
+5. In March 2016, Kenon transferred “all of its equity interest” in ICPA to IC Power
+Pte. Ltd (“IC Power”)—Kenon’s wholly-owned subsidiary company incorporated in Singapore—
+to “serve as the holding company of [ICPA] and its business.” See IC Power Pte. Ltd., Registration
+Statement Under the Securities Act of 1933 (Form F-1), p. ii (Aug. 31, 2015);4 Share Transfer
+Agreement between Kenon Holdings Ltd., and IC Power Pte. Ltd., sec. 2 (Mar. 17, 2016) (Exhibit
+7). The following year, IC Power’s ordinary shares were approved for listing on the New York
+Stock Exchange under the ticker symbol “ICP.” See IC Power Ltd., a Wholly-Owned Subsidiary
+of Kenon Holdings Ltd., Launches Initial Public Offering, KENON HOLDINGS (Jan. 23, 2017).°
+
+6. In July 2016, a dispute in Guatemala arose after the Superintendence of Tax
+
+Administration of Guatemala (“SAT”) filed a criminal proceeding against ICPA for tax fraud and
+
+4 https://www.sec.gov/Archives/edgar/data/1649678/0001 193 12515307805/d81507df1.htm
+5 https://www.sec.gov/Archives/edgar/data/1611005/000119312517014663/d335608dex991 .htm
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 10 of 30
+
+the Fifth Criminal, Narcotics, and Environmental Crimes Trial Court of the Department of
+Guatemala (the “Criminal Court”) granted SAT’s request for a preventative seizure of the
+Distributors’ bank accounts. See Notice of Arbitration, {| 20-29 (Exhibit 3).
+
+7. In December 2017, ICPA sold, through an agreement governed by New York law,
+its Guatemalan assets to entities owned by I Squared Capital, a private equity fund headquartered
+in New York. See Award, § 342 (Exhibit 1) (citing Share Purchase Agreement by and among Inkia
+Energy Ltd., IC Power Distribution Holdings, Pte. Ltd., Nautilus Inkia Holdings LLC, Nautilus
+Distribution Holdings LLC, and Nautilus Isthmus Holdings LLC (Nov. 24, 2017) (Exhibit 9)).
+But ICPA retained from the sale the right to bring a claim based on the measures taken by
+Guatemala. See Award, § 344 (Exhibit 1); Share Purchase Agreement by and among Inkia Energy
+Ltd., IC Power Distribution Holdings, Pte. Ltd., Nautilus Inkia Holdings LLC, Nautilus
+Distribution Holdings LLC, and Nautilus Isthmus Holdings LLC (Nov. 24, 2017), art. 2.6 (Exhibit
+9).
+
+8. On February 20, 2018, ICPA invoked its right to bring a claim and commenced an
+arbitration against Guatemala invoking Article 8.2(e) of the Treaty (the “Arbitration”). See Notice
+of Arbitration, § 6 (Exhibit 3).
+
+9. On November 14, 2019, the Arbitral Tribunal was constituted to hear ICPA’s claim.
+The Arbitral Tribunal was composed of co-arbitrator Professor Guido Tawil (appointed by ICPA)
+and co-arbitrator Professor Ratl Emilio Vinuesa (appointed by Guatemala), who together
+nominated Professor Albert Jan van den Berg as the President of the Tribunal. See Award, §§ 15-
+16, 22 (Exhibit 1). ICPA was represented by attorneys of the law firm White & Case LLP, which
+has a significant presence in New York. See Award, § 1 (Exhibit 1).
+
+10. From May 2019 until March 2020, ICPA and Guatemala filed several written
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 11 of 30
+
+submissions on jurisdictional and substantive issues. See Award, § 17-63 (Exhibit 1). After each
+party made written submissions in support of their claim, the Tribunal convened a hearing from
+July 13-18, 2020. See Award, § 94 (Exhibit 1). A few days after the hearing, ICPA and Guatemala
+filed post-hearing briefs and submission on costs. See Award, {§ 95-96 (Exhibit 1).
+
+11. On October 7, 2020, the Tribunal issued the Award, rejecting ICPA’s claim in its
+entirety and awarding Guatemala USD 243,826.92 for arbitration costs and USD 1,559,215.69 for
+legal costs. See Award, § 655 (c)-(d) (Exhibit 1). Despite repeated requests, ICPA has not paid
+Guatemala any portion of the Award nor has it applied to set aside or annul the Award. See Letter
+from Guatemala (Exhibit 18).
+
+ARGUMENT
+
+I. The Court has personal jurisdiction over ICPA
+
+12. District courts “ordinarily follow state law in determining the bounds of their
+jurisdiction over persons.” Daimler AG v. Bauman, 571 U.S. 117, 125 (2014). Under New York’s
+long-arm statute, a court “may exercise general jurisdiction over a defendant under N.Y.C.P.L.R.
+§ 301 or specific jurisdiction under...N.Y.C.P.L.R. § 302.” Hecklerco, LLC v. YuuZoo Corp. Ltd.,
+252 F.Supp.3d 369, 376 (S.D.N.Y. 2017). For the reasons stated below, the Court has general and
+
+specific personal jurisdiction over ICPA.
+
+A. This Court has general jurisdiction over ICPA because ICPA and its agent, IC
+Power, are “at home” in New York, the forum state
+
+ 
+
+13. New York’s long-arm statute permits a court to exercise general personal
+jurisdiction over a foreign corporation if it is “doing business” in the state. See Wiwa v. Royal
+Dutch Petroleum Co., 226 F.3d 88, 95 (2d Cir. 2000) (citing N.Y. C.P.L.R. § 301). A foreign
+
+corporation is considered to be “doing business” in the forum state if its connections with the “State
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 12 of 30
+
+are so ‘continuous and systematic’ as to render [it] essentially at home in the forum State.” Daimler
+AG, 571 US. at 127 (quoting Goodyear Dunlop Tires Operations, S.A. v. Brown, 564 U.S. 915,
+919 (2011)) (internal quotation marks omitted); Jn re Roman Cath. Diocese of Albany, New York,
+Inc., 745 F.3d 30, 39 (2d Cir. 2014). In determining whether the corporation’s contacts with the
+forum state is “continuous and systematic”, courts consider the corporation’s “contacts with the
+United States over a period that is reasonable under the circumstances - up to and including the
+date the suit was filed.” Metro. Life Ins. Co. v. Robertson-Ceco Corp., 84 F.3d 560, 569 (2d Cir.
+1996); see also Helicopteros Nacionales de Colombia, S.A. v. Hall, 466 U.S. 408, 411 (1984)
+(examining the defendant’s contacts with the forum state over the past seven years).
+
+14. A foreign corporation can be subject to the general jurisdiction of the forum state
+even if it conducts its business in New York through an agent. See Wiwa, 226 F.3d at 95. A “formal
+agency relationship is not necessary to impute the acts of the agent to a defendant when he is being
+sued by a third party.” Jaffe v. Boyles, 616 F. Supp. 1371, 1375 (W.D.N.Y. 1985) (citing Galgay
+v. Bulletin Company, 504 F.2d 1062, 1065 (2d Cir. 1974)). Under New York law, an agency
+relationship exists for the purpose of jurisdiction when a foreign corporation “affiliates itself with
+a New York representative entity and that New York representative renders services on behalf of
+the foreign corporation that go beyond mere solicitation and are sufficiently important to the
+foreign entity that the corporation itself would perform equivalent services if no agent were
+available.” Perkins v. Sunbelt Rentals, Inc., No. 514CV1378BKSDEP, 2015 WL 12748009, at *10
+(N.D.N.Y. Aug. 13, 2015) (quoting Wiwa, 226 F.3d at 95) (internal quotation marks omitted); see
+also Frummer v. Hilton Hotels Int'l, Inc., 227 N.E.2d 851, 854 (N.Y. 1967) (holding that Hilton
+Reservation Service in New York acted as an agent of Hilton Hotels, a British corporation, because
+
+Hilton Reservation “does all the business which Hilton (U.K) would do were it here by its own
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 13 of 30
+
+officials”); Palmieri v. Estefan, 793 F. Supp. 1182, 1192 (S.D.N.Y. 1992) (finding an agency
+relationship between Sony Music, a New York corporation, and its foreign subsidiaries because
+the activities of Sony Music in New York “are sufficiently important to the affiliates that if they
+had no representative, their own officials would undertake to perform them.”). Common ownership
+of the foreign corporation and the New York based corporation “may give rise to a valid inference
+as to the broad scope of the agency.” Jd., at 1193 (quoting Frummer, 227 N.E.2d at 854).
+
+15. As explained below, ICPA conducted substantial business in New York both in-
+person and through its agent, IC Power.
+
+1. ICPA had extensive, direct contact with New York
+
+16. In 2015, ICPA acquired in New York the investments that are the basis of the
+Award. See Stock Purchase Agreement among IC Power Distribution Holdings Pte, Ltd. as
+Purchaser and Inkia Energy, Ltd. as Purchaser Guarantor and Deorsa-Deocsa Holdings Ltd. as
+Seller and Estrella Cooperatief BA (Dec. 29, 2015), sec. 2.3 (Exhibit 5); Letter from Pedro Aguirre
+Saravia, Managing Director, Citigroup Global Markets Inc., to Javier Garcia & Joaquin Coloma,
+Inkia Energy Ltd. (May 13, 2015), p.2 (Exhibit 4).
+
+17. ICPA has known for years that it was possible there would be jurisdiction over it in
+New York. As part of a planned offering of its shares on the NYSE, ICPA hired legal counsel to
+ensure that its investment in Guatemala complied with the Foreign Corruption Practices Act
+(“FCPA”). See Award, 9207 (Exhibit 1); Statement of Reply and Response to Jurisdictional
+Objections (Dec. 27, 2019), 487 (Exhibit 10). ICPA submitted the documents evidencing this
+knowledge in the Arbitration. See Award, 207, fn. 191 (Exhibit 1) (citing Letter from Jorge
+Asensio Aguirre, Garcia & Bodan, to Angela Grossheim & Daniel Urbina, ICPA (Oct. 28, 2015)
+
+(Exhibit 11)).
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 14 of 30
+
+18. ICPA also frequently retained the services of financial experts in New York. ICPA
+retained Yvette Austin Smith, who is based in New York. See Award, 494 (Exhibit 1). See also
+Yvette Austin Smith, BRATTLE.® As part of the transaction in 2017, ICPA benefited from the
+services of Bank of America Merrill Lynch (“BAML”) of New York, who acted as sell-side
+advisors and facilitated the sale of ICPA’s investments to I Squared Capital. See, Email from
+Thomas Lefebvre, I Squared Capital, to Yoav Doppelt, ICPA (Sep. 2, 2017) (Exhibit 12); Email
+from Thomas Lefebvre, I Squared Capital, to Yoav Doppelt, ICPA (Oct. 9, 2017) (Exhibit 13).
+
+19. ICPA availed itself of the New York financial system when two subsidiaries issued
+USD 300 million in promissory notes. See Energuate, Offering Memorandum, p. 3 (Apr. 27,
+2017).” The notes were held by a Cayman trustee, but the proceeds to repay the notes as well as
+related agreements were governed by New York law. /d., p. 37. Bank of New York Mellon served
+as administrative agent. Jd, p. 3. As part of the transaction, the owners of Energuate agreed to make
+payments in US Dollars in New York. Jd., p 22. The notes were deposited with a New York
+depository. Id., p. 28. The subsidiaries retained New York counsel. Jd., p. 238.
+
+20. Given ICPA’s extensive engagement in New York, the Court should exercise
+jurisdiction over ICPA.
+
+2. ICPA conducted business in New York through its agent, IC Power
+
+21. ICPA also conducted business in New York through IC Power. For jurisdictional
+
+purposes, IC Power should be considered an agent of ICPA because, besides sharing common
+
+ownership, IC Power’s service in New York was significantly important to ICPA that the latter
+
+° https://www. brattle.com/experts/yvette-austin-smith/ (last accessed on Jan 10, 2022).
+
+7 https://inkiaenergy.com/wp-content/uploads/2019/09/Project-Antigua-Offering-
+Memorandum.pdf
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 15 of 30
+
+would have performed them had IC Power been unavailable.
+
+22. In May 2015, IC Power was established for the sole purpose of “serv[ing] as the
+holding company of” ICPA. See IC Power Pte. Ltd., Registration Statement Under the Securities
+Act of 1933 (Form F-1) p.ii (Aug. 31, 2015).* In addition to sharing common ownership, the
+companies also shared directors and senior managers. For instance, in November 2015, Mr. Yoav
+Doppelt was serving as a member of the board of directors of ICPA and as chairman of the board
+of directors of IC Power. See Award, {220 (Exhibit 1); IC Power Pte. Ltd, Amendment No. | to
+Registration Statement Under the Securities Act of 1933 (Form F-1), p. 205 (Nov. 2, 2015).° Mr.
+Javier Garcia-Burgos was simultaneously acting as the chief executive officer of IC Power and
+ICPA. See IC Power Pte. Ltd., Registration Statement under the Securities Act of 1933 (Form F-
+1) (Aug. 31, 2015), p. 193;!° Witness Statement of Javier Garcia-Burgos, 2 (Exhibit 14).
+Similarly, Mr. Daniel Urbina concurrently served as the general counsel of ICPA and IC Power.
+See Witness Statement of Daniel Urbina, §3 (Exhibit 15); IC Power Pte. Ltd., Registration
+Statement Under the Securities Act of 1933 (Form F-1), p.194 (Aug. 31, 2015).!!
+
+23. IC Power’s service in New York was of meaningful importance to ICPA. As noted
+in the Arbitration, ICPA’s main “strategic objective” for acquiring the Distributors was to “balance
+[its] revenues” so that it could list its shares on the New York Stock Exchange. See Yoav Doppelt,
+Hr’g Tr. 6:10-17 (Exhibit 16). After ICPA acquired the Distributors in 2017, IC Power’s ordinary
+shares were approved for listing on the New York Stock Exchange. See IC Power Ltd., a Wholly-
+
+Owned Subsidiary of Kenon Holdings Ltd., Launches Initial Public Offering, KENON HOLDINGS
+
+8 https://www.sec.gov/Archives/edgar/data/1649678/000119312515307805/d81507df1.htm
+
+° https://www.sec.gov/Archives/edgar/data/0001649678/000119312515362467/d81507dfla.htm
+‘0 https://www.sec.gov/Archives/edgar/data/1649678/000119312515307805/d81507df1 .htm
+
+"| https://www.sec.gov/Archives/edgar/data/1649678/000119312515307805/d81507df1 .htm
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 16 of 30
+
+(Jan. 23, 2017).'? Without IC Power, ICPA would have no access to the world’s largest stock
+market.
+
+24. IC Power had a continuous and substantial business in New York. Bank of America
+Merrill Lynch of New York held the “preliminary prospectus relating to IC Power’s initial public
+offering” and five financial advisors from New York served as underwriters on its IPO. See Mark
+Stricherz, JC Power boosts IPO by $300 million afier entering electricity market, CQ ROLL CALL
+(Jan. 20, 2017) (Exhibit 17); JC Power Ltd., a Wholly-Owned Subsidiary of Kenon Holdings Ltd.,
+Launches Initial Public Offering, KENON HOLDINGS (Jan. 23, 2017).'3 To advance its business,
+IC Power also took loans from financial institutions in New York, such as Bank Hapoalim New
+York. See IC Power Pte. Ltd., Registration Statement under the Securities Act of 1933 (Form F-
+1), F-65 (Aug. 31, 2015).'4 Those loans financed ICPA’s operations, and ICPA would have had to
+seek out these same loans even if IC Power had been unavailable.
+
+25. IC Power actively pursued Power Purchase Agreements (“PPAs”) between its
+subsidiaries, such as ICPA, and its customers. Those PPAs often “provided for payment in US
+Dollars,” meaning that IC Power relied on banks in New York to process these transactions. See
+IC Power Pte. Ltd, Registration Statement under the Securities Act of 1933 (Form F-1), p. 7 (Aug.
+31, 2015).'° The weighted average life of these PPAs as of December 2015 was 10 years,
+establishing a long-term connection to New York. See IC Power Pte. Ltd, Amendment No. 2 to
+
+Registration Statement under the Securities Act of 1933 (Form F-1), p. 10 (Sept. 16, 2016).!° IC
+
+2 https:/Avww.sec.gov/Archives/edgar/data/1611005/000119312517014663/d335608dex991.htm
+'3 https:/www.sec.gov/Archives/edgar/data/1611005/000119312517014663/d335608dex991.htm
+'4 https://www.sec.gov/Archives/edgar/data/1649678/000119312515307805/d81507df1 .htm
+'S https://www.sec.gov/Archives/edgar/data/1649678/0001 193 12515307805/d81507df1 .htm
+
+‘Chttps://www.sec.gov/Archives/edgar/data/0001649678/000119312516711589/d102505dfla.ht
+m
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 17 of 30
+
+Power then used these PPAs to attract international lenders, including promissory notes sold
+pursuant to Regulation 144A, again seeking to attract US investors.
+
+26. ICPA received considerable benefits from IC Power’s continuous and substantial
+activities in New York, the hallmark of an agency relationship for the purposes of personal
+jurisdiction. Moreover, whenever ICPA needed to undertake important activities, whether it be
+acquisitions, capital raising, financing, dispositions, or creation of stability and long-term wealth,
+ICPA turned to New York. ICPA did not focus on the country of its incorporation, and it certainly
+did not look to the country of IC Power, its holding company. ICPA wanted all of the benefits of
+New York, including human and economic capital that netted ICPA hundreds of millions of
+dollars, and now that it lost the Arbitration, it cannot hide from its obligations to Guatemala by
+
+claiming a lack of connection.
+
+B. This Court also has specific personal jurisdiction over ICPA because the Petition
+is related to ICPA’s transaction in New York
+
+27. In New York, a court may exercise specific personal jurisdiction over a foreign
+corporation where: i) “it has a ‘statutory basis’ for such jurisdiction under New York’s long-arm
+statute, and ii) the exercise of such jurisdiction is consistent with due process. Hunter v. Shanghai
+Huangzhou Elec. Appliance Mfg. Co., 505 F. Supp. 3d 137, 145 (N.D.N.Y. 2020). Where the first
+condition is met, the defendant must present “‘a compelling case that the presence of some other
+considerations would render jurisdiction unreasonable.” Burger King Corp. v. Rudzewicz, 471 U.S.
+462, 477 (1985); GEM Advisors, Inc. v. Corporacion Sidenor, S.A., 667 F. Supp. 2d 308, 321
+(S.D.N.Y. 2009) (“[a]lthough an exercise of personal jurisdiction must comport with due process,
+where personal jurisdiction is appropriate under section 302(a), the requirements of due process
+are met.”).
+
+28. New York’s long-arm statute permits a state court to assume jurisdiction over a
+
+ll
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 18 of 30
+
+foreign corporation if it “transacts any business within the state... in person or through an agent.”
+N.Y. C.P.L.R. § 302(a)(1). To exercise jurisdiction under this statute, “proof of one transaction in
+New York is sufficient... so long as the defendant’s activities here were purposeful and there is a
+substantial relationship between the transaction and the claim asserted.” Deutsche Bank Sec., Inc.
+v. Montana Bad. of Invs., 850 N.E.2d 1140 (N.Y. 2006). The foreign defendant could be subject to
+the jurisdiction of the court even if it “only used electronic telephonic means to project themselves
+into New York to conduct business transactions.” Sandoval v. Abaco Club on Winding Bay, 507
+F.Supp.2d 312, 316 (S.D.N.Y. 2007); see also Moore v. Publicis Groupe SA, No. 11 CIV. 1279
+ALC AJP, 2012 WL 6082454, at *8 (S.D.N.Y. Dec. 3, 2012) (“a single communication may be
+considered a “business transaction” where it was “related to some transaction that had its center of
+gravity inside New York, into which a defendant projected himself.”) (internal quotation marks
+omitted).
+
+29. Here, this Court has specific personal jurisdiction over ICPA because the
+underlying dispute is closely connected to a transaction in New York. The Award pertains to
+ICPA’s investments in Guatemala through DEORSA and DEOCSA. See Award, § 3 (Exhibit 1).
+ICPA acquired these companies in New York from “Deorsa-Deocsa Holdings Ltd. (“DDHL”), an
+investment company of Actis LLP.” See I.C. Power Ltd. Agrees to Acquire Energuate, a Private
+Electricity Distribution Business in Guatemala, PR NEWSWIRE (Dec. 30, 2015);!’ Stock Purchase
+Agreement among IC Power Distribution Holdings Pte. Limited and DEORSA-DEOCSA
+Holdings Limited (Dec. 19, 2015), sec. 2.3 (Exhibit 5). The execution agreement that finalized
+
+the acquisition of these companies in January 2016 had several ties to New York. Citibank New
+
+" https://www.prnewswire.com/news-releases/ic-power-Itd-agrees-to-acquire-energuate-a-
+
+private-electricity-distribution-business-in-guatemala-300197902.html
+
+12
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 19 of 30
+
+York, acting on behalf of Actis, invited ICPA to acquire these companies. See Letter from Pedro
+Aguirre Saravia, Managing Director, Citigroup Global Markets Inc., to Javier Garcia & Joaquin
+Coloma, Inkia Energy Ltd. (May 13, 2015) (Exhibit 4). ICPA submitted a bid to acquire these
+companies to the managing director and vice president of Citibank located in New York. See id.,
+p. 2. And the execution agreement was governed by the laws of the state of New York. See Stock
+Purchase Agreement among IC Power Distribution Holdings Pte. Limited and DEORSA-
+DEOCSA Holdings Limited (Dec. 19, 2015), sec. 10.11 (Exhibit 5).
+
+30. When ICPA later disposed of these investments, the transaction was also intimately
+connected to New York. On December 31, 2017, ICPA, through a Share Purchase Agreement,
+sold its shares in the Distributors to I Squared Capital. See Award, § 342 (Exhibit 1); Share
+Purchase Agreement by and among Inkia Energy Ltd., IC Power Distribution Holdings, Pte. Ltd.,
+Nautilus Inkia Holdings LLC, Nautilus Distribution Holdings LLC, and Nautilus Isthmus
+Holdings LLC (Nov. 24, 2017), art. II (Exhibit 9). The Share Purchase Agreement had multiple
+links to New York. The parties selected the laws of the State of New York as the governing law
+and gave this Court the “exclusive[]” jurisdiction to hear “any [a]ction arising out of or relating”
+to the Share Purchase Agreement. See id., sec. 12.8-12.9 (Exhibit 9). New York law also governed
+other sub-agreements related to the Share Purchase Agreement. See id., e.g., Contingent Payment
+and Assignment Agreement, sec. 4.11, p. 435, Agreement Regarding SAT Criminal Proceedings
+and Investment Treaty Claims, { 6, p. 442, Transaction Services Agreement, J 12.2, p.456 (Exhibit
+9).
+
+31. In addition, the sale documents contained an express reference to the claim that led
+to this Petition. To seek damages for criminal proceedings brought against its Distributors by
+
+Guatemala, ICPA and its affiliates entered into a sub-agreement with I Squared Capital where the
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 20 of 30
+
+former retained “the right to pursue the Investment Treaty Claims against Guatemala and any
+proceeds thereof.” See id., Agreement Regarding SAT Criminal Proceedings and Investment
+Treaty Claims, p. 440 (Exhibit 9). The Petition arises from ICPA’s exercise of its right under this
+agreement. See Notice of Arbitration (Exhibit 3), Award, §§ 344, 372, 385 (Exhibit 1).
+
+32. The Court’s exercise of jurisdiction is consistent with due process. In light of the
+ever-increasing international trade and the ease of attending court proceedings virtually, “[t]he
+limits imposed on state jurisdiction by the Due Process Clause, in its role as a guarantor against
+inconvenient litigation, have been substantially relaxed over the years.” See World-Wide
+Volkswagen Corp. v. Woodson, 444 U.S. 286, 292 (1980). If a corporation “purposefully avails
+itself of the privilege of conducting activities within the forum State...it has clear notice that it is
+subject to suit there,” hence the forum state can exercise jurisdiction without violating due process.
+Id, at 297. See also Hecklerco, LLC 252 F. Supp. 3d at 376 (citing GEM Advisors, Inc. v.
+Corporacion Sidenor, S.A., 667 F. Supp. 2d at 321) (holding that “although an exercise of personal
+jurisdiction must comport with due process, where personal jurisdiction is appropriate under
+section 302(a), the requirements of due process are met”) (internal quotation marks omitted).
+
+33. By acquiring the underlying investment in New York, ICPA purposefully availed
+itself of the privilege of doing business in New York, and when a dispute from that investment
+arose, it entered into another transaction in New York where ICPA retained the right to bring a
+claim against Guatemala. See Share Purchase Agreement by and among Inkia Energy Ltd., IC
+Power Distribution Holdings, Pte. Ltd., Nautilus Inkia Holdings LLC, Nautilus Distribution
+Holdings LLC, and Nautilus Isthmus Holdings LLC (Nov. 24, 2017), sec. 2.6 (Exhibit 9). Any
+arbitration brought pursuant to this right would include both the chance of prevailing, thereby
+
+acquiring an award worth millions of dollars and potentially enforceable in New York, and the
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 21 of 30
+
+reality of losing and having to pay an adverse award of costs and fees. ICPA took its chances, and
+it had to foresee losing and being subject to the precise lawsuit it now faces, although it should
+
+have already paid its outstanding debt to Guatemala.
+
+II. This Court has subject matter jurisdiction over the Petition
+
+34, The United Nations Convention on the Recognition and Enforcement of Foreign
+Arbitral Awards (“New York Convention”) governs the recognition and enforcement of the
+Award. The New York Convention applies where the arbitral award: i) “was made in the territory
+of a State other than the State where the recognition and enforcement of such awards are sought,”
+ii) arose “out of differences between persons, whether physical or legal,” and iii) is “not considered
+as domestic awards in the State where the recognition and enforcement are sought.” The United
+Nations Convention on the Recognition and Enforcement of Foreign Arbitral Awards, art. I(1),
+Dec. 29, 1970, 21 U.S.T. 2517. All the elements exist in the present case, as described below.
+
+35. In the United States, the New York Convention is implemented by Chapter 2 of the
+Federal Arbitration Act (“FAA”). See U.S.C. §§ 201 et seq; Republic of Ecuador v. Chevron Corp.,
+638 F.3d 384, 391 (2d Cir. 2011). Section 203 of the FAA provides district courts subject matter
+jurisdiction for “action or proceeding falling under the [New York] Convention.” A/baniabeg
+Ambient Sh.p.k. v. Enel S.p.A., 169 F.Supp.3d 523, 526 (S.D.N.Y., 2016). An award “falls under
+the [New York] Convention” if the arbitration involves at least one foreign party and the arbitral
+award arose “out of a legal relationship, whether contractual or not, which is considered as
+commercial, including a transaction, contract or agreement...” See 9 USCA § 202 (emphasis
+added).
+
+36. While the FAA does not define the term “commercial,” the term “is construed
+
+broadly.” BCB Holdings Limited v. Government of Belize, 110 F.Supp.3d 233, 242 (D.D.C. 2015).
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 22 of 30
+
+Relying on the Third Restatement of Foreign Relations Law, circuit courts have interpreted the
+term to include “relationships, whether contractual or not, that arise out of or in connection with
+commerce.” Belize Soc. Dev. Ltd. v. Gov't of Belize, 794 F.3d 99, 104 (D.C. Cir. 2015) (quoting
+Restatement (Third) of Foreign Relations Law § 487 cmt. f); Bautista v. Star Cruises, 396 F.3d
+1289, 1298 (11th Cir. 2005) (“[t]he word ‘includes’ is usually a term of enlargement, and not of
+limitation... It therefore conveys the conclusion that there are other items includable, though not
+specifically enumerated by the statutes.”).
+
+37. Here, the Award falls within the scope of the New York Convention. First, the
+Award was made in the United Kingdom, satisfying the first requirement of Article I(1). Second,
+both parties to the Award are a foreign state and a company incorporated outside the United States.
+This meets the second requirement of Article I(1) that the award arise out of a difference between
+legal persons. Third, the Award arose out of a commercial relationship because it is based on a
+bilateral investment treaty, which is “a contract between nations.” BG Grp., PLC v. Republic of
+Argentina, 572 U.S. 25 (2014). In addition, the underlying dispute of the Arbitration arises from a
+commercial legal relationship, i.e., IC Power’s provision of electric services through DEORSA
+and DEOCSA. See Award, §§ 3, 103 (Exhibit 1); JC Power Ltd. Agrees to Acquire Energuate, a
+Private Electricity Distribution Business in Guatemala, KENON HOLDINGS LTD. (Dec. 30, 2015)
+(Exhibit 8). By virtue of the fact that the Award arises from a commercial relationship, it satisfies
+the requirements of the FAA. 9 U.S.C. § 202. Numerous courts have asserted subject matter
+jurisdiction over awards related to similar disputes. See Stati v. Republic of Kazakhstan, 199 F.
+Supp. 3d 179, 186 (D.D.C. 2016) (holding that the award issued under the Energy Charter Treaty
+is commercial for the purposes of 9 U.S.C. § 202 because, inter alia, the award pertains to the
+
+“petitioners” right to develop oil and gas fields within” Kazakhstan); Hum. v. Czech Republic-
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 23 of 30
+
+Ministry of Health, 824 F.3d 131, 136-137 (D.C. Cir. 2016) (holding that the petitioner’s
+“provision of healthcare technology and medical services [to the Czech Republic] has an obvious
+connection to commerce.”); Africard Co. v. Republic of Niger, 210 F. Supp. 3d 119, 124 (D.D.C.
+2016) (‘the dispute in this case, which arises out of a service contract between a company and a
+government to provide biometric and electronic passports... clearly “arise[s] out of or in
+
+connection with commerce.”).
+
+III. Venue is proper because there is subject matter jurisdiction, a consequence of Section
+203 of the FAA
+
+38. Venue is proper in this Court “because under the [New York] Convention, in the
+absence of an agreement to the contrary, venue is proper in any court that has subject matter
+jurisdiction.” Linsen Int'l Ltd. v. Humpuss Sea Transp. PTE LTD, No. 09 CIV. 10393 GBD, 2011
+WL 1795813, at *2 (S.D.N.Y. Apr. 29, 2011) (citing 9 U.S.C. § 204); see also Sistem Muhendislik
+Insaat Sanayi Ve Ticaret, A.S. v. Kyrgyz Republic, No. 12-CY-4502 (ALC), 2016 WL 5793399, at
+*4 (S.D.N.Y. Sept. 30, 2016), aff'd, 741 F. App'x 832 (2d Cir. 2018) (same). As explained in
+Section II, this Court has subject matter jurisdiction pursuant, making venue proper. See 9 U.S.C.
+
+§ 203.
+
+IV. This Court should recognize the Award
+
+A. Judicial review of arbitral awards is extremely limited
+39. Given the “emphatic federal policy in favor of arbitral dispute resolution,”
+(Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc. 473 U.S. 614, 631 (1985)), arbitral
+awards are given “considerable deference.” BG Group, 572 U.S. at 41; see also Yusuf Ahmed
+Alghanim & Sons v. Toys "R" Us, Inc., 126 F.3d 15, 23 (2d Cir. 1997) (“review of arbitration
+
+awards is very limited . . . in order to avoid undermining the twin goals of arbitration, namely,
+
+17
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 24 of 30
+
+settling disputes efficiently and avoiding long and expensive litigation.”) (internal quotation marks
+omitted); Nat'l Football League Players Ass'n v. Nat'l Football League Mgmt. Council, 523 F.
+App'x 756, 760 (2d Cir. 2013) (“FAA requires district courts to accord significant deference to
+arbitrators’ decisions.”).
+
+40. The New York Convention provides limited defenses against enforcement of
+arbitral awards, hence, “confirmation under the Convention is a summary proceeding in nature,
+which is not intended to involve complex factual determinations, other than a determination of the
+limited conditions for confirmation or grounds for refusal to confirm an arbitration award.” Zeiler
+v. Deitsch, 500 F.3d 157, 169 (2d Cir. 2007); see also Motions and affidavits, 3 Fed. Proc., L. Ed.
+§ 4:140 (“an arbitration award under the [New York] Convention may be enforced by filing a
+petition or application for an order confirming the award supported by an affidavit. The hearing
+on such a petition or application will take the form of a summary procedure in the nature of federal
+
+motion practice.”).
+
+B. The New York Convention and the FAA require recognition of the Award
+
+Al. Pursuant to Section 207 of the FAA, the Court must confirm the Award “unless it
+finds one of the grounds for refusal or deferral of recognition or enforcement of the award specified
+in the” applicable Convention. 9 U.S.C. § 207. See also Belize Soc. Dev. Ltd. v. Gov't of Belize,
+668 F.3d 724, 727 (D.C. Cir. 2012). And a party opposing the recognition of an award carries the
+“heavy” burden of establishing any of the grounds for denying recognition. See Zeiler, 500 F.3d
+at 169. Considering the well-established policy of favoring “enforcement of foreign arbitration
+awards,” courts have construed the grounds for nonrecognition “narrowly.” See China Minmetals
+Materials Imp. & Exp. Co. v. Chi Mei Corp., 334 F.3d 274, 283 (3d Cir. 2003); see also Parsons
+
+& Whittemore Overseas Co. v. Societe Generale De L'Industrie Du Papier (RAKTA), 508 F.2d
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 25 of 30
+
+969, 973 (2d Cir. 1974) (reading the public policy exception narrowly in line with “the general
+pro-enforcement bias informing the [New York] Convention.”); Karaha Bodas Co. v. Perusahaan
+Pertambangan Minyak Dan Gas Bumi Negara, 364 F.3d 274, 288 (Sth Cir. 2004) (holding that
+“{d]efenses to enforcement under the New York Convention are construed narrowly, to encourage
+the recognition and enforcement of commercial arbitration agreements in international contracts.”)
+(internal quotation marks omitted).
+
+42. Here, none of the grounds for rejecting the recognition of the Award applies. ICPA
+willingly accepted Guatemala’s offer to arbitrate under the Guatemala-Israel BIT by filing a Notice
+of Arbitration. See Guatemala-Israel BIT, art. 8.2(e) (Cutz Declaration, Exhibit A), Notice of
+Arbitration, §12 (Exhibit 3). Nor can ICPA claim that the Award fell outside the scope of the
+parties’ agreement or that the underlying dispute is non-arbitrable. The Award deals with an
+investment dispute that Parties agreed to settle through an ad-hoc arbitration constituted under the
+UNCITRAL Rules of Arbitration. See Notice of Arbitration, § 1, 37 (Exhibit 3); Guatemala-Israel
+BIT, art. 8(2)(e) (Cutz Declaration, Exhibit A). By filing a claim and submitting to the
+jurisdiction of the Tribunal, ICPA conceded that the dispute is within the scope of the Tribunal’s
+jurisdiction and that it is arbitrable.
+
+43. Given that ICPA had exercised its right in the appointment of the Tribunal and fully
+presented its case, without once questioning the composition of the Tribunal, it cannot reasonably
+challenge the enforcement pursuant to Article V(1)(b) or (d) of the New York Convention. ICPA
+took advantage of its right to appoint an arbitrator. Pursuant to Article 8.2(e) of the Treaty, ICPA
+appointed Professor Tawil who, together with Guatemala’s co-arbitrator, selected the President of
+the Tribunal, Professor Albert Jan van den Berg. See Guatemala-Israel BIT, art. 8.2(e) (Cutz
+
+Declaration, Exhibit A), Award, 48 (Exhibit 1). Throughout the arbitration proceeding, ICPA
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 26 of 30
+
+was represented by well-known, experienced attorneys from White & Case LLP, which made
+several written and oral submissions on behalf of ICPA. See Award, {§ 1, 12-96 (Exhibit 1). At
+no point was any objection raised to the composition of the Tribunal.
+
+44. The Award’s result is also consistent with the public policy of the United States.
+Recognition will be denied under the public policy exception “only where enforcement would
+violate the forum state’s ‘most basic notions of morality and justice.”” MGM Prods. Grp., Inc. v.
+Aeroflot Russian Airlines, 573 F.Supp.2d 772, 775 (S.D.N.Y. 2003), aff'd, 91 F. App'x 716 (2d
+Cir. 2004) (quoting Europcar Italia, S.p.A. v. Maiellano Tours, Inc., 156 F.3d 310, 315 (2d Cir.
+1998)). ICPA cannot establish that recognition of the Award would go against the nation’s basic
+notions of morality and justice, especially considering the “emphatic federal policy in favor of
+arbitral dispute resolution.” Compagnie Sahelienne d'Entreprise v. Republic of Guinea, No. CV
+20-1536 (TJK), 2021 WL 2417105, at *4 (D.D.C. June 14, 2021).
+
+45. Lastly, the Award is final and binding. ICPA has not sought to set aside the Award
+in the United Kingdom and is barred from seeking vacatur of the Award in the United States
+because more than three months have passed since the Award was issued, among other reasons.
+See 9 US.C.A. § 12 (“[nJotice of a motion to vacate, modify, or correct an award must be served
+upon the adverse party or his attorney within three months after the award is filed or delivered.”);
+Wells Fargo Advisors, LLC v. Mercer, 735 F. App'x 23, 24 (2d Cir. 2018) (quoting Florasynth,
+Inc. v. Pickholz, 750 F.2d 171, 175 (2d Cir. 1984)) (“a party may not raise a motion to vacate,
+modify, or correct an arbitration award after the three month period has run, even when raised as
+a defense to a motion to confirm”); Milberg, LLP v. Drawrah Ltd., 844 F. App'x 397, 399-400 (2d
+Cir. 2021) (denying the petition to vacate an arbitration award because the petition was filed more
+
+than three months after the award was rendered.).
+
+20
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 27 of 30
+
+V. Guatemala is entitled to receive pre- and post-judgment interests on the Award
+
+46. Guatemala requests that the Court award pre- and post-judgment interest. While the
+decision to “grant prejudgment interest in arbitration confirmations is left to the discretion of the
+district courts,” the Second Circuit has adopted “a presumption in favor of pre-judgment interest.”
+Ceona PTE Ltd. v. Bmt Giant, S.A. De C.V., No. 16CV4437, 2016 WL 6094126, at *2 (S.D.N.Y.
+Oct. 19, 2016) (quoting Waterside Ocean Navigant Co. v. Int'l Navigation Ltd., 737 F.2d 150, 154
+(2d Cir. 1984)) (internal quotation marks omitted). Hence, “[t]he common practice among courts
+within the Second Circuit is to grant interest at a rate of nine percent, the rate of pre-judgment
+interest under New York State law.” Trustees of the New York City Dist. Council of Carpenters
+Pension Fund v. Jessica Rose Enterprises Corp., No. 15-CV-9040 (RA), 2016 WL 6952345, at *4
+(S.D.N.Y. Nov. 28, 2016) (quoting Herrenknecht Corp. v. Best Rd. Boring, No. 06 CIV. 5106
+(JFK), 2007 WL 1149122, at *3 (S.D.N.Y. Apr. 16, 2007)) (internal quotation marks omitted).
+Guatemala thus requests pre-judgment interest at a rate of nine percent.
+
+47. Guatemala is also entitled to post-judgment interest. The relevant statute, 28 U.S.C.
+§ 1961(a), notes that “[i]nterest shall be allowed on any money judgment in a civil case recovered
+in a district court...calculated from the date of the entry of the judgment, at a rate equal to the
+weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors
+of the Federal Reserve System, for the calendar week preceding.” Ceona PTE Ltd., 2016 WL
+6094126, at *3 (S.D.N.Y. Oct. 19, 2016), (quoting 28 U.S.C.A. § 1961) (internal quotation marks
+omitted). Section 1961 is “mandatory” and applies to “actions to confirm arbitration awards.”
+Trustees for The Mason Tenders Dist. Council Welfare Fund v. Euston St. Servs., Inc., No. 1:15-
+CV-6628-GHW, 2016 WL 67730, at *2 (S.D.N.Y. Jan. 5, 2016).
+
+48. Accordingly, Guatemala requests pre-judgment interest at a rate of nine percent per
+
+21
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 28 of 30
+
+annum accruing from October 7, 2020, the date of the Award, until the date of judgment in this
+action. Guatemala also seeks post-judgment interest at a rate equal to the weekly average 1-year
+constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve
+
+System, for the calendar week preceding.
+VI. The Court should award Guatemala its attorneys’ fees and costs
+
+49. Courts ordinarily award reasonable attorneys’ fees to an award creditor where the
+award debtor fails to comply with the award “without any justification.” See First Nat'l
+Supermarkets, Inc. v. Retail, Wholesale & Chain Store Food Enrol. Union, Local 228, 118 F.3d
+893, 898 (2d Cir. 2007); Trustees of the New York City Dist. Council of Carpenters Pension Fund,
+2016 WL 6952345, at *5 (S.D.N.Y. Nov. 28, 2016) (awarding attorneys’ fees to the award creditor
+where the award debtor failed to provide “any justification” for its failure to comply with the
+award); Herrenknecht Corp., 2007 WL 1149122, at *4 (S.D.N.Y. Apr. 16, 2007) (awarding
+attorneys’ fees to the plaintiff because the defendant “offered no justification for refusing to
+comply with the decision of the arbitrator”); Ceona PTE Ltd., 2016 WL 6094126, at *3 (S.D.N.Y.
+Oct. 19, 2016) (same). In the Second Circuit, “[t]he most useful starting point for determining the
+amount of a reasonable fee is the number of hours reasonably expended on the litigation multiplied
+by a reasonable hourly rate.” Rose v. Solar Realty Mgmt. Corp., No. 16 CIV. 9766 (LGS), 2017
+WL 11569030, at *1 (S.D.N.Y. Mar. 31, 2017). A reasonably hourly rate is “the rate a reasonable,
+paying client would be willing to pay.” Arbor Hill Concerned Citizens Neighborhood Ass'n v.
+County of Albany, 522 F.3d 182, 193 (2d Cir. 2007).
+
+50. The Court should award Guatemala reasonable attorneys’ fees and costs because
+ICPA, despite repeated requests from Guatemala, has neither complied with the Award nor offered
+
+a justification for its non-compliance. See Letter from the Ministry of Economy of Guatemala
+
+22
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 29 of 30
+
+(Feb. 11, 2021) (Exhibit 18). Because ICPA initiated the claim, did not object to arbitrability or
+composition of the Tribunal, and never sought annulment or set aside, it has waived any reasonable
+objection. By remaining silent, ICPA has caused Guatemala to expend significant, additional sums
+to enforce a debt that ICPA could easily pay. This is fundamentally unjust, and Guatemala,
+therefore, respectfully requests for the Court to allow Guatemala to submit the fees and costs it
+incurred in this civil proceeding after the Court enters judgment on the Petition. Guatemala is
+willing and able to provide the necessary billing records upon the Court’s finding that Guatemala
+
+is entitled to its attorneys’ fees and costs.
+
+CONCLUSION
+51. For the reasons set forth above, Guatemala respectfully requests the following
+forms of relief:
+a) an Order recognizing the Award pursuant to Article III of the New York
+
+Convention and 9 USCA § 207 and entering Judgment thereon, including pre- and
+post-judgment interest;
+
+b) a Judgment in favor of Guatemala and against ICPA in the amount awarded
+Guatemala in the Award, US$ 1,803,042.61, plus pre- and post-judgment interest;
+
+c) an Award of Guatemala’s costs of this civil proceeding, including reasonable
+attorneys’ fees incurred in bringing this proceeding; and
+
+d) any other relief that this Court, in the interests of justice, deems necessary and
+proper.
+
+Dated: January 14, 2022
+Respectfully submitted,
+
+/s/ Quinn Smith
+GST LLP
+
+Quinn Smith
+
+pro hac vice pending
+quinn.smith@gstllp.com
+Katherine Sanoja
+
+pro hac vice pending
+
+23
+
+Case 1:22-cv-00394 Document 2 Filed 01/14/22 Page 30 of 30
+
+24
+
+Katherine.sanoja@gstllp.com
+Fabian Zetina
+
+Bar No. 5733340
+fabian.zetina@gstllp.com
+1111 Brickell Avenue
+
+Suite 2715
+
+Tel. (305) 856-7723
+
+Bethel Kassa
+
+Bar No. 5645650
+bethel.kassa@gstllp.com
+
+2600 Virginia Avenue, Suite 205
+Washington D.C., 20037
+

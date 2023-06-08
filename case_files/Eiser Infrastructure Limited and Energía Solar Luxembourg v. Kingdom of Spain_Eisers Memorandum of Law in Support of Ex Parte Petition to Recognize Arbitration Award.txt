@@ -1,0 +1,473 @@
+Case 1:17-cv-03808 Document 2 Filed 05/19/17 Page 1 of 15
+
+UNITED STATES DISTRICT COURT
+
+FOR THE SOUTHERN DISTRICT OF NEW YORK
+
+In the Matter of the Application of
+
+EISER INFRASTRUCTURE LIMITED and
+ENERGIA SOLAR LUXEMBOURG S.A R.L.,
+
+Petitioners,
+
+For Recognition and Enforcement of an
+Arbitration Award
+- against -
+
+KINGDOM OF SPAIN,
+
+Respondent.
+
+ 
+
+Civil Action No.
+17-CV-
+
+MEMORANDUM OF LAW IN SUPPORT OF PETITIONERS’
+EX PARTE PETITION TO RECOGNIZE ARBITRATION AWARD
+
+ 
+
+ALLEN & OVERY LLP
+Jacob S. Pultman
+
+Bradley S. Pensyl
+
+1221 Avenue of the Americas
+New York, New York 10020
+Tel: 212-610-6300
+
+Attorneys for Petitioners EISER
+Infrastructure Limited and Energia Solar
+Luxembourg S.a r.l.
+
+Case 1:17-cv-03808 Document 2 Filed 05/19/17 Page 2 of 15
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES ii
+PRELIMINARY STATEMENT 1
+STATEMENT OF FACTS 2
+ARGUMENT 4
+
+ 
+
+I. PETITIONERS ARE ENTITLED TO RECOGNITION OF THE
+AWARD AND ENTRY OF JUDGMENT IN THEIR FAVOR
+PURSUANT TO 22 U.S.C. § 1650a
+
+ 
+
+A. The Court Is Required To Give Full Faith And Credit To
+The ICSID Award 4
+
+B. Sovereign Immunity Does Not Apply .......cscceseseeseseeseseeseeeeeeeeeeeeeeneees 8
+
+CONCLUSION 10
+
+Case 1:17-cv-03808 Document 2 Filed 05/19/17 Page 3 of 15
+
+ 
+
+ 
+
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+Blue Ridge Invs., L.L.C. v. Republic of Argentina,
+735 F.3d 72 (2d Cir. 2013) 9,10
+Enron Corp. & Ponderosa Assets L.P. v. Argentine Republic,
+No. M-82 (S.D.N.Y. Nov. 20, 2007) (Buchwald, J.)..sscsscssssssssssssssssssssssssesssssesecsssssssesnsseeee 6
+Funnekotter v. Republic of Zimbabwe,
+No. 09 Civ. 8168 (CM) (S.D.N.Y. Feb. 1, 2010) secccssssscssssssscsssssssecssssssseeessssssvssssssseenseeee 6
+Grenada v. Grynberg,
+No. 11 Misc. 45 (S.D.N.Y. Apr. 29, 2011) (Batts, J.) v.ssccssssssscsssssessssssssssesssssessvssssessesensseee 6
+Liberian Eastern Timber Corp. (LETCO) v. Republic of Liberia,
+650 F. Supp. 73 (S.D.N.Y. 1986) 6
+Micula v. Gov't of Romania,
+No. 15 Misc. 107 (Part I), 2015 WL 4643180 (S.D.N.Y. Aug. 5, 2015)... csecseeeeeseeeeeeee 5,7
+Mobil Cerro Negro Ltd. v. Bolivian Republic of Venezuela,
+No. 14 Civ. 8163 (SD.N.Y. Oct. 10, 2014) wocceceeceseeseseeseseeeseeeseeeseeeseeeeseeeseeeeeeeeees 6
+
+Mobil Cerro Negro Ltd. v. Bolivian Republic of Venezuela,
+87 F. Supp. 3d 573 (S.D.N.Y. 2015).
+
+ 
+
+Sempre Energy Int'l v. Argentine Republic,
+No. M-82 (S.D.N.Y. Nov. 14, 2007) (Buchwald, J.)
+
+ 
+
+Siag v. Arab Republic of Egypt,
+No. M-82 (PKC), 2009 WL 1834562 (S.D.N.Y. June 19, 2009).
+
+ 
+
+Statutes and Rules
+
+22 U.S.C. § 1650 6
+22 U.S.C. § 1650a passim
+22 U.S.C. § 1650a(a).
+28 U.S.C. § 1605(a)(1). 9,10
+28 U.S.C. § 1605(a)(6). 8,9
+
+28 U.S.C. § 1605(a)(6)(B) 9
+
+Case 1:17-cv-03808 Document 2 Filed 05/19/17 Page 4 of 15
+
+ 
+
+ 
+
+ 
+
+ 
+
+N.Y.C.P.L.R. Article 54 passim
+N.Y.C.P.L.R. § 5401 8
+N.Y.CP.LR. § 5402(a) 8
+N.Y.C.P.L.R. § 5403 8
+Other Authorities
+
+David D. Siegel, N.Y. Practice § 435 (4th ed.) .....csccseeseseeseseeseseeeseeeseeeseeesesesessesesssesieeeeteeeeees 8
+
+H.R. 11315 — 94th Congress: Foreign Sovereign Immunities Act
+www.GovTrack.us. 1975. May 19, 2017
+https://www.govtrack.us/congress/Dills/94/hr11315......ccsecsseeseeesseseseeeeesteeeeeseeeeeeteeeteeeeeee 8,9
+
+ICSID Convention, 17 U.S.T. 1270, T.I.A.S. 6090, 575 U.N.T.S. 159 (Mar. 18, 1965)...... passim
+
+iii
+
+Case 1:17-cv-03808 Document 2 Filed 05/19/17 Page 5 of 15
+
+Petitioners EISER Infrastructure Limited (“EIL”) and Energia Solar Luxembourg
+S.a rl. (“ESL” and, together with EIL, the “Petitioners”) respectfully submit this memorandum
+of law in support of their Ex Parte Petition to Recognize an ICSID Arbitration Award pursuant
+to 22 U.S.C. § 1650a (the “Petition”) filed contemporaneously herewith.!
+
+PRELIMINARY STATEMENT.
+
+Petitioners seek recognition of an arbitration award issued in their favor on May
+4, 2017 (the “Award”) against Respondent Kingdom of Spain (the “Respondent” or “Spain’”)
+following an arbitration conducted under the Rules of Arbitration of the International Centre for
+Settlement of Investment Disputes (“ICSID”) in ICSID Case No. ARB/13/36 (the “ICSID
+Arbitration”). Pultman Decl., Ex. 1.
+
+ICSID is an autonomous international institution established under the
+Convention on the Settlement of Investment Disputes between States and Nationals of Other
+States (the “ICSID Convention”)” with over 150 member states. Pultman Decl., Exs. 3, 7. The
+ICSID Convention is an international treaty designed to stimulate economic development by
+removing major impediments to the free international flow of private investment posed by non-
+commercial risks and the absence of specialized international methods for investment dispute
+settlement. Pultman Decl., Ex. 6. To further that goal, ICSID provides a neutral arbitral forum
+to facilitate the resolution of investment disputes between sovereign states and foreign investors.
+
+Article 54(1) of the ICSID Convention provides that any arbitration award issued
+
+' Petitioners have also filed herewith the Declaration of Jacob $. Pultman (“Pultman Decl.) and the accompanying
+exhibits offered in support of the Petition, including the Declaration of Jeffrey Sullivan (Ex. 9), and a Proposed
+Order and Judgment (Ex. 10).
+
+2 ICSID Convention, 17 U.S.T. 1270, T.1.A.S. 6090, 575 U.N.T.S. 159 (Mar. 18, 1965).
+
+Case 1:17-cv-03808 Document 2 Filed 05/19/17 Page 6 of 15
+
+pursuant to the ICSID Convention must be recognized and enforced by each of the Contracting
+States. Pultman Decl., Ex. 3. Both the United States and Spain are Contracting States to the
+ICSID Convention. Pultman Decl., Ex. 7. To meet its obligations as a signatory to the ICSID
+Convention, the United States has enacted an enabling statute — 22 U.S.C. § 1650a — that requires
+federal district courts to recognize and enforce ICSID awards. Pultman Decl., Ex. 2. As set
+forth in 22 U.S.C. § 1650a, an ICSID award is entitled to the same full faith and credit in the
+federal courts as a judgment issued by a state court.
+
+Moreover, the courts of this District have repeatedly confirmed that an ICSID
+award creditor may convert an ICSID award into a federal court judgment by using the ex parte
+judgment recognition procedure set out in Article 54 of the New York CPLR. Recognition under
+this mechanism is intended to be an “automatic” process, and the court’s review of a recognition
+petition is limited to determining the authenticity of the award. An ex parte petition to recognize
+an award must be granted so long as the petitioner submits a true and correct copy of the award
+and an affidavit attesting that the award was not obtained by default, that the award has not been
+satisfied, and that the enforcement of the award has not been stayed.
+
+Petitioners here have submitted all of the materials required by CPLR Article 54,
+and have fully satisfied all of the criteria for recognition of the Award in this Court. As such, the
+Court should recognize the Award as a final judgment of this Court.
+
+STATEMENT OF FACTS
+
+The Award entered in Petitioners’ favor arises out of Petitioners’ investments in
+concentrated solar power (“CSP”) projects in Spain. In 2007, Spain enacted legislation to attract
+investments in CSP plants and other forms of renewable energy. Pultman Decl., Ex. 1 (Award)
+
+9 97-113. In reliance upon certain financial incentives and inducements offered by Spain
+
+Case 1:17-cv-03808 Document 2 Filed 05/19/17 Page 7 of 15
+
+pursuant to this regime, Petitioners made substantial investments in three CSP projects in Spain.
+Id. §§ 114-43. Between 2007 and 2011, Petitioners invested more than €126 million to develop
+these projects. Jd. § 121. Following a change of government in 2012, Spain abruptly shifted its
+stance on renewable energy and began cutting back its support of CSP programs. Jd. J 137-54,
+365. Between 2012 and 2014, Spain enacted a series of measures revoking the economic
+benefits extended to CSP investors under the 2007 legislation. Jd. Spain’s policy reversal
+culminated in the implementation of an entirely new regime in 2014 that dismantled the 2007
+legislation upon which Petitioners had relied in making their investments. Jd. The drastic
+changes made by Spain in the new legislation eliminated virtually all of the value of Petitioners’
+investments in the CSP projects. Id. | 365.
+
+On December 13, 2013, Petitioners filed a Request for Arbitration against
+Respondent with ICSID. Pultman Decl., Ex. 1 (Award) J 6. In the Request for Arbitration,
+Petitioners brought claims against Spain for breaches of Spain’s obligations under the Energy
+Charter Treaty (the “ECT”) adopted in 1994 between various countries, including Spain, the
+United Kingdom (where petitioner EIL is incorporated) and Luxembourg (where petitioner ESL
+is incorporated). Jd. §§ 99, 349. Among other claims, Petitioners alleged that Spain’s
+eradication of the legislative framework upon which Petitioners’ investments depended violated
+Spain’s obligation under Article 10(1) of the ECT to provide Petitioners with fair and equitable
+treatment. Id. § 349.
+
+On December 23, 2013, the Secretary-General of ICSID registered the Request
+for Arbitration in accordance with Article 36(3) of the ICSID Convention. Jd. 47. On July 8,
+2014, the ICSID arbitration tribunal (the “Tribunal’”) was duly constituted. Jd. § 10. A Hearing
+
+on Jurisdiction and the Merits was held in Paris, France from February 15-20, 2016. Id. § 73.
+
+Case 1:17-cv-03808 Document 2 Filed 05/19/17 Page 8 of 15
+
+Both Respondent and Petitioners were represented by counsel and fully participated in the
+hearing. Jd. Each party presented substantial documentary evidence, witness testimony and
+arguments to the Tribunal at the hearing. Jd. {§ 73-78. On April 13, 2017, the Tribunal declared
+the proceeding closed. Jd. 4 93.
+
+On May 4, 2017, the Tribunal issued the Award, unanimously ruling in favor of
+Petitioners and finding Spain liable. In the Award, a comprehensive 156-page decision, the
+Tribunal found that Spain had violated Article 10(1) of the ECT by failing to accord fair and
+equitable treatment to Petitioners’ investments in Spain. Jd. §§ 365, 418, 486. The Tribunal
+awarded Petitioners monetary damages in the amount of 128 million Euro, together with interest
+from June 20, 2014 to May 4, 2017 at the rate of 2.07%, compounded monthly, and interest from
+May 4, 2017 to the date of payment at the rate of 2.50%, compounded monthly. Award § 486.
+Petitioners have not been paid on the Award. Pultman Decl., Ex. 9.
+
+ARGUMENT
+
+IL. PETITIONERS ARE ENTITLED TO RECOGNITION OF THE AWARD AND
+ENTRY OF JUDGMENT IN THEIR FAVOR PURSUANT TO 22 U.S.C. § 1650a
+
+A. The Court Is Required To Give Full Faith And Credit To The ICSID Award
+The ICSID Convention and 22 U.S.C. § 1650a require that the Award be
+
+recognized and entered as a final judgment of this Court. Article 54(1) of the ICSID Convention
+
+provides that:
+
+Each Contracting State shall recognize an award rendered pursuant to this
+Convention as binding and enforce the pecuniary obligations imposed by that
+award within its territories as if it were a final judgment of a court in that State. A
+Contracting State with a federal constitution may enforce such an award in or
+through its federal courts and may provide that such courts shall treat the award as
+if it were a final judgment of the courts of a constituent state.
+
+Pultman Decl., Ex. 3 (ICSID Convention, Article 54).
+
+Case 1:17-cv-03808 Document 2 Filed 05/19/17 Page 9 of 15
+
+The United States is a Contracting State. Pultman Decl., Ex. 7. As a Contracting
+State, the United States has adopted implementing legislation that provides the federal district
+courts with exclusive jurisdiction over actions to enforce ICSID awards. See 22 U.S.C. § 1650a
+(Pultman Decl., Ex. 2). As set forth in this enabling statute, codified at 22 U.S.C. § 1650a,
+federal district courts are required to give full faith and credit to ICSID awards and to accord
+them the same treatment that is provided to final judgments rendered by state courts. Id.
+Specifically, 22 U.S.C. § 1650a(a) provides that “[t]he pecuniary obligations imposed by such an
+award shall be enforced and shall be given the same full faith and credit as if the award were a
+final judgment of a court of general jurisdiction of one of the several states.” Id.
+
+Although 22 U.S.C. § 1650a on its face requires the federal courts to recognize
+and enforce ICSID awards, the statute does not designate the process by which an ICSID award
+creditor is to obtain such judicial recognition. As the Court thoroughly explained in Mobil Cerro
+Negro Ltd. v. Bolivian Republic of Venezuela, 87 F. Supp. 3d 573, 582-83 (S.D.N.Y. 2015), this
+“statutory gap” should be “filled” by applying the judgment recognition procedures provided for
+under the law of the forum state. Thus, the courts in this District have consistently ruled that the
+recognition of an ICSID award may be obtained using the ex parte procedure set forth in Article
+54 of the New York CPLR, which governs judgment recognition in the State of New York. See,
+e.g., id. at 586 (holding that award creditor was entitled to recognition of ICSID award through
+
+the use of CPLR Article 54 procedure); Micula v. Gov't of Romania, No. 15 Misc. 107 (Part 1),
+
+Case 1:17-cv-03808 Document 2 Filed 05/19/17 Page 10 of 15
+
+2015 WL 4643180, at *3 (S.D.N.Y. Aug. 5, 2015) (same); Siag v. Arab Republic of Egypt, No.
+M-82 (PKC), 2009 WL 1834562, at *3 (S.D.N.Y. June 19, 2009) (same).
+
+For example, in Mobil, the petitioners filed an ex parte petition in this Court under
+the procedure outlined in CPLR Article 54, seeking recognition of a $1.6 billion ICSID
+arbitration award issued in the petitioners’ favor against the Bolivian Republic of Venezuela
+(“Venezuela”). Mobil Cerro Negro, 87 F. Supp. 3d at 575. On the same day the ex parte
+application was filed, the Court granted the petition and entered final judgment in the full amount
+of the ICSID award. Jd. at 586; Order and Judgment, Mobil Cerro Negro Ltd. v. Bolivian Rep. of
+Venezuela, No. 14 Civ. 8163 (S.D.N.Y. Oct. 10, 2014) (Pultman Decl. Ex. 8). After receiving
+notice that the judgment had been entered, Venezuela filed a motion to vacate the judgment,
+arguing that 22 U.S.C. § 1650a does not permit ex parte recognition procedures and instead
+requires the commencement of a plenary action in order to obtain recognition of an ICSID award.
+Mobil Cerro Negro Ltd., 87 F. Supp. 3d at 575. In a decision issued by Judge Engelmayer, the
+Court squarely and thoroughly rejected this position and denied Venezuela’s motion to vacate.
+Id. at 586, 602. The Court ruled that “a federal district court, asked to recognize and convert an
+ICSID award to judgment, may use the forum state’s recognition procedure.” Jd. at 586.
+Therefore, the Court held, “the recognition procedure set out in New York CPLR Article 54”
+
+may be used to obtain recognition of an ICSID award in the New York federal district courts. Id.
+
+> Ex parte applications to recognize ICSID awards have also been granted by this Court on other occasions. Liberian
+Eastern Timber Corp. (LETCO) y. Republic of Liberia, 650 F. Supp. 73 (S.D.N.Y. 1986); Order and Judgment,
+Grenada v. Grynberg, No. 11 Misc. 45 (S.D.N.Y. Apr. 29, 2011) (Batts, J.); Judgment, Funnekotter v. Republic of
+Zimbabwe, No. 09 Civ. 8168 (CM) (8.D.N.Y. Feb. 1, 2010); Order and Judgment, Enron Corp. & Ponderosa Assets
+LP. y. Argentine Republic, No. M-82 (S.D.N.Y. Nov. 20, 2007) (Buchwald, J.); Order and Judgment, Sempra
+Energy Int'l v. Argentine Republic, No. M-82 (8.D.N.Y. Nov. 14, 2007) (Buchwald, J.). True and correct copies of
+decisions and orders of this Court in which a judgment on an ICSID award has been entered pursuant to 22 U.S.C. §
+1650 are submitted herewith as Exhibit 8 to the Pultman Declaration. Pultman Decl. Ex. 8.
+
+Case 1:17-cv-03808 Document 2 Filed 05/19/17 Page 11 of 15
+
+In so finding, the court in Mobil relied on an earlier decision in Siag v. The Arab
+Republic of Egypt, No. M-82, 2009 WL 1834562 (S.D.N.Y. Jun. 19, 2009), where Judge Castel
+similarly ruled that an ICSID award may be converted to judgment through the use of the ex
+parte method set forth in CPLR Article 54. See Mobil Cerro Negro Ltd., 87 F. Supp. 3d at 581-
+82 (“Siag thus identified CPLR Article 54 as a mechanism available for converting ICSID
+awards into judgments in this District.”). In Siag, the Court explained that, because federal
+district courts in New York may apply Article 54 of the CPLR to register an out-of-state court
+judgment, and because 22 U.S.C. § 1650a requires federal courts to treat an ICSID award as a
+sister state judgment, a federal district court may recognize an ICSID award using the procedures
+set forth in CLPR Article 54. Siag, 2009 WL 1834562, at *2-3.
+
+The Court reaffirmed its approval of the use of the procedures set forth in CPLR
+Article 54 to effectuate the entry of judgment for an ICSID award in the decision issued by Judge
+Schofield in Micula, which was decided approximately six months after the Mobil decision was
+rendered. In Micula, like in Mobil, the Court entered final judgment recognizing an ICSID
+award on the same day the petitioners’ ex parte petition was submitted, and then denied the
+Government of Romania’s subsequent motion to vacate the judgment. Micula v. Gov’t of
+Romania, No. 15 Misc. 107 (Part I), 2015 WL 4643180, at *2 (S.D.N.Y. Aug. 5, 2015). Relying
+on Mobil, the Court held that “the ex parte procedure used here pursuant to Article 54 of New
+York’s CPLR” was the appropriate mechanism for converting an ICSID award into a federal
+court judgment. Jd. at *3. The Court further emphasized that recognition of an ICSID award is
+an “automatic” process and “a matter in which a court has no discretion once it determines that
+an award is authentic.” Jd. at *4; accord Mobil Cerro Negro Ltd., 87 F. Supp. 3d at 600
+
+(“Registration of ICSID awards was intended to be automatic.”).
+
+Case 1:17-cv-03808 Document 2 Filed 05/19/17 Page 12 of 15
+
+By its terms, CPLR Article 54 applies to “any judgment . . . of a court of the
+United States or any other court which is entitled to full faith and credit in this state.” CPLR §
+5401. Pursuant to Article 54, judgment creditors are required to submit a true and accurate copy
+of the arbitration award,’ together with an affidavit (i) stating that award was not obtained by
+default and has not been satisfied; (ii) setting forth the total amount of the award that remains
+outstanding; and (iii) attesting that enforcement of the award has not been stayed. CPLR §
+5402(a) (Pultman Decl. Ex. 4); Siag, 2009 WL 1834562, at *3.
+
+Article 54 does not require advance notice to the debtor. Rather, after the entry of
+a judgment, notice to the debtor must be provided within thirty days. CPLR § 5403 (Pultman
+Decl., Ex. 5), Siag, 2009 WL 1834562 at *3; David D. Siegel, N.Y. Practice § 435 (4th ed.)
+(“Article 54 of the CPLR sets up a procedure for the simple New York registration of an out-of-
+state judgment, obviating an action on the judgment.”). Here, Petitioners have satisfied all of
+these requirements of CPLR Article 54 and have thus complied with the procedures for
+registering an out-of-state court judgment in the courts of New York. See Pultman Decl. Ex. 9
+(Sullivan Decl.).
+
+B. Sovereign Immunity Does Not Apply
+
+Recognition of the Award against Spain does not implicate Spain’s sovereign
+immunity because Spain has clearly waived immunity from suit under at least two exceptions to
+the Foreign Sovereign Immunities Act (“FSIA”). The first exception that applies here is the
+
+“arbitral award” exception set forth in 28 U.S.C. § 1605(a)(6), which provides, in relevant part:
+
+* Article 54(2) of the ICSID Convention also requires that “a party seeking recognition or enforcement in the
+territories of a Contracting State shall furnish to a competent court or other authority which such State shall have
+designated for this purpose a copy of the award certified by the Secretary-General.” Pultman Decl., Ex. 3.
+
+Case 1:17-cv-03808 Document 2 Filed 05/19/17 Page 13 of 15
+
+A foreign state shall not be immune from the jurisdiction of courts of the United
+States or of States in any case . . . in which the action is brought . . . to confirm an
+[arbitration] award ... if... the .. . award is . . . governed by a treaty or
+international agreement in force for the United States calling for the recognition
+and enforcement of arbitral awards.
+
+28 U.S.C. § 1605(a)(6)(B).
+
+That provision squarely applies here because the Award is governed by a treaty,
+the ICSID Convention, “calling for the recognition and enforcement of arbitral awards.” Blue
+Ridge Invs., L.L.C. v. Republic of Argentina, 735 F.3d 72, 85 (2d Cir. 2013). In Blue Ridge
+Investments, the Second Circuit noted that “every court to consider whether awards issued
+pursuant to the ICSID Convention fall within the arbitral award exception to the FSIA has
+concluded that they do.” Jd. The Second Circuit confirmed that it agreed with that conclusion,
+and held that ICSID awards fall within the arbitral award exception of 28 U.S.C. § 1605(a)(6).
+Id.; see also Mobil Cerro Negro Ltd., 87 F. Supp. 3d at 588 (holding that the arbitral award
+exception to the FSIA applied “because the ICSID award against Venezuela was governed by a
+treaty, the ICSID Convention, ‘calling for the recognition and enforcement of arbitral awards’”).
+
+The second exception to sovereign immunity that applies here is the “implied
+waiver exception.” As set forth in the FSIA, “[a] foreign state shall not be immune from the
+jurisdiction of courts of the United States or of the States in any case .. . in which the foreign
+state has waived its immunity either explicitly or implicitly or by implication.” 28 U.S.C. §
+1605(a)(1). In Blue Ridge Investments, the Second Circuit held that the implied waiver exception
+
+to sovereign immunity also applies in the context of recognizing an ICSID award against a
+
+foreign sovereign. 735 F.3d at 84; see also Mobil Cerro Negro Ltd., 87 F. Supp. 3d at 588
+
+Case 1:17-cv-03808 Document 2 Filed 05/19/17 Page 14 of 15
+
+(ruling that the implied waiver exception to sovereign immunity applied to ICSID award against
+Venezuela).° Article 54 of the ICSID Convention contemplates such an implied waiver, as each
+Contracting State is obligated to “recognize an award rendered pursuant to this Convention as
+binding and enforce the pecuniary obligations imposed by that award within its territories.” Blue
+Ridge Invs., 735 F .3d at 84; Mobil Cerro Negro Ltd., 87 F. Supp. 3d at 588. Thus, by signing
+onto the ICSID Convention, Spain “must have contemplated enforcement actions in other
+[Contracting] States,” including the United States, and has waived sovereign immunity with
+respect to the recognition of ICSID awards under the implied waiver exception described in 28
+U.S.C. § 1605(a)(1). Blue Ridge Invs., 735 F.3d at 84 (quotation omitted).
+CONCLUSION
+
+For all of the foregoing reasons, the Court should grant Petitioners’ petition and
+enter the Proposed Order and Judgment submitted in connection with the Petition, recognizing
+the Award as a judgment of this Court pursuant to 22 U.S.C. § 1650a and Article 54 of the
+ICSID Convention and directing the Clerk of the Court to enter judgment against Respondent
+Kingdom of Spain in the amount of 128 million Euro, together with interest from June 20, 2014
+to May 4, 2017 at the rate of 2.07%, compounded monthly, and interest from May 4, 2017 to the
+
+date of payment at the rate of 2.50%, compounded monthly.
+
+5 In Mobil, in addition to confirming that exceptions to sovereign immunity in the FSIA applied in an action seeking
+to recognize an ICSID ward against a foreign sovereign, the Court also held that the service of process, venue, and
+personal jurisdiction requirements under the FSIA did not apply. 735 F.3d at 602. The court held that the imposition
+of such requirements in an ICSID award judgment recognition proceeding would be contrary to intentions of the
+ICSID Convention and its enabling statute, which contemplated that “award recognition would be automatic and not
+subject to contest.” Id. at 599-600.
+
+Case 1:17-cv-03808 Document 2 Filed 05/19/17 Page 15 of 15
+
+Dated: New York, New York
+May 19, 2017
+
+Respectfully submitted,
+
+ALLEN & OVERY LLP
+
+By: __/s/ Jacob S. Pultman
+Jacob S. Pultman
+Bradley S. Pensyl
+
+1221 Avenue of the Americas
+New York, NY 10020
+(212) 610-6300
+
+Attorneys for Petitioners EISER
+Infrastructure Limited and Energia
+Solar Luxembourg S.a r.l.
+

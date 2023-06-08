@@ -1,0 +1,5040 @@
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Caso CIADI No. ARB/10/5
+(1) TIDEWATER INVESTMENT SRL
+(2) TIDEWATER CARIBE, C.A.
+Demandantes
+-y-
+REPUBLICA BOLIVARIANA DE VENEZUELA
+
+Demandada
+
+LAUDO
+
+dictado por
+
+Profesor Campbell McLachlan QC, Presidente
+Dr. Andrés Rigo Sureda, Arbitro
+Profesora Brigitte Stern, Arbitro
+
+Secretario del Tribunal
+
+Sr. Marco Tulio Montafiés-Rumayor
+
+ 
+
+En representacién de Tidewater
+Sr. Miguel Lopez Forastier
+
+Sr. Thomas L Cubbage III
+
+Sr. Alexander A. Berengaut
+
+Sr. Daniel E. Matro y
+
+Sra. Gisselle S, Bourns
+COVINGTON & BURLING LLP
+850 Tenth Street, N.W.
+Washington, D.C. 20001-4956
+ESTADOS UNIDOS DE AMERICA
+
+Sr. Bruce Lundstrom
+TIDEWATER INC.
+
+6002 Rogerdale Road
+
+Suite 600
+
+Houston, Texas 77072
+ESTADOS UNIDOS DE AMERICA
+
+En representacién de Venezuela
+
+Dr. Reinaldo Enrique Mufioz Pedroza
+
+Procuraduria General de la Republica
+
+Av. Los Ilustres cruce con calle Francisco Laze Marti.
+Edificio Procuraduria General de la Republica. Piso 8.
+Urb. Santa Ménica.
+
+Caracas 1040,
+
+VENEZUELA
+
+Sr. George Kahale Ill
+
+Sra. Miriam K. Harwood
+
+Sr. Ben Preziosi
+
+Sra. Gabriela Alvarez Avila
+
+Sra. Claudia Frutos-Peterson
+
+Sr. Eloy Barbara de Parres
+
+CURTIS, MALLET-PREVOST, COLT & MOSLE LLP
+101 Park Avenue
+
+Nueva York, NY 10178
+
+ESTADOS UNIDOS DE AMERICA
+
+Fecha de envio a las Partes: 13 de marzo de 2015
+
+GLOSARIO DE TERMINOS DEFINIDO:
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INDICE DE CASOS iv
+1 INTRODUCCION 1
+A __ Solicitud de Arbitraje 1
+
+B_ Antecedentes procesale: 1
+
+C_ Antecedentes de hecho 4
+
+ll | ALEGACIONES DE LAS PARTES 8
+A Responsabilidad 8
+
+1. Introduccién. 8
+
+ 
+
+2. El alcance de la expropiacion....
+3. Sila expropiacién fue licita 0 ilicita.....
+
+4. Otras violaciones del TBI con Barbados.
+
+B_ Indemnizacion.
+
+1. Estandar de indemnizacion y fecha para la estimacion de la indemnizacion .....
+
+ 
+
+ 
+
+ 
+
+ 
+
+17
+
+18
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Método de valuacion 21
+
+3. Elementos del avaluo 22
+
+4. Intereses 32
+
+Il EL ANALISIS DEL TRIBUNAL 33
+A Responsabilidad 33
+1. Expropiacién 35
+
+2. Otros causas del reclamo 56
+
+57
+
+ 
+
+B  Compensacién
+
+1. Estandar de compensacion...
+
+2. Fecha de avaluo
+
+ 
+
+59
+
+ 
+
+3. Método apropiado para el calculo del valor justo de mercado
+
+4. Elementos del andlisis valuatorio DCF............
+
+C __ Intereses
+
+ 
+
+ 
+
+75
+
+ 
+
+D_ Costa:
+
+Iv LAUDO
+
+77
+
+80
+
+ 
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+GLOSARIO DE TERMINOS DEFINIDOS
+
+ 
+
+Astivenca
+
+Astilleros de Venezuela, C.A.
+
+ 
+
+TBI con Barbados
+
+Acuerdo entre el Gobierno de la Republica de Venezuela y el
+Gobierno de Barbados para la promociédn y proteccién de
+inversiones (suscripto el dia 15 de julio de 1994, en vigor desde el
+dia 31 de octubre de 1995), 1984 UNTS 181 (An. C-10)
+
+ 
+
+Brailovsky/
+Flores 1/2
+
+Primer Informe Pericial sobre Valuacién preparado por Vladimir
+Brailovsky y Daniel Flores (24 de octubre de 2013) y Segundo
+Informe (24 de abril de 2014)
+
+ 
+
+Presentacion
+
+Presentacién sobre Enfoque Valuatorio, Tasa de Descuento e
+
+ 
+
+Brailovsky 1 Intereses Anteriores al Laudo (10 de junio de 2014)
+Demandantes Tidewater Investment SRL y Tidewater Caribe, C.A.
+Tidewater
+
+ 
+
+Contrato Corocoro
+
+Contrato CO-067 (Ex. C-22)
+
+ 
+
+Contrato Cardén
+
+Ex. C-86.
+
+ 
+
+ 
+
+cvP Corporacién Venezolana del Petrdleo SA, filial totalmente controlada
+por PDVSA
+Figuera 1/2 Testimonio Directo de Rubén Figuera (24 de octubre de 2013) y
+
+Segundo Testimonio Directo (24 de abril de 2014)
+
+ 
+
+Presentaci6n Flores 1
+
+Presentacién de PowerPoint adjunta al testimonio directo del Dr.
+Flores (11 de junio de 2014)
+
+ 
+
+Respuestas de
+Brailovsky/Flores a
+Preguntas
+
+Presentacién de PowerPoint: Respuestas de los Expertos de la
+Demandada a las Preguntas del Tribunal (12 de junio de 2014)
+
+ 
+
+Gulmar Offshore
+
+Gulmar Offshore Middle East L.L.C.
+
+ 
+
+Ley de Inversiones
+
+Decreto con Rango y Fuerza de Ley de Promocién y Proteccién de
+Inversiones, de fecha 3 de octubre de 1999 (publicado en la Gaceta
+Oficial N.2 5.390 de fecha 22 de octubre de 1999)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kehoe 1/2 Testimonio Directo de Gerard P. Kehoe (29 de julio de 2013) y
+Segundo Testimonio Directo (22 de enero de 2014)
+
+La Cafiada La Cafiada, municipio ubicado en la costa del lago de Maracaibo,
+Venezuela, donde SEMARCA tenia su sede central
+
+Ministerio Ministerio del Poder Popular para la Energia y Petrdleo
+
+ 
+
+ 
+
+ 
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+ 
+
+Navigant 1/2
+
+Informe Pericial de Brent C. Kaczmarek para Navigant Consulting,
+Inc. (29 de julio de 2013) y Segundo Informe Pericial (24 de enero de
+2014)
+
+ 
+
+Presentacién Navigant
+1
+
+Presentacién de PowerPoint adjunta al testimonio directo del Sr.
+Kaczmarek (10 de junio de 2014)
+
+ 
+
+Respuestas de
+Navigant a Preguntas
+
+Presentacién de PowerPoint: Respuestas a las Preguntas del Tribunal
+de fecha 11 de junio de 2014 (12 de junio de 2014)
+
+ 
+
+PDVSA
+
+Petrdleos de Venezuela, S.A.
+
+ 
+
+PDVSA Petrdleo
+
+PDVSA Petrdleo, S.A.
+
+ 
+
+PetroSucre
+
+PetroSucre, S.A.
+
+ 
+
+Solicitud
+
+Solicitud de Arbitraje Modificada de fecha 1 de marzo de 2013
+
+ 
+
+Ley de Reserva
+
+Ley Organica que Reserva al Estado Bienes y Servicios Conexos a las
+Actividades Primarias de Hidrocarburos (7 de mayo de 2009) (An. RL-
+1)
+
+ 
+
+Demandada °
+Venezuela
+
+La Republica Bolivariana de Venezuela
+
+ 
+
+Resolucién N.2 51
+
+Resolucidn N.° 51 del Ministerio del Poder Popular para la Energia y
+Petrdleo (8 de mayo de 2009) (An. RL-7)
+
+ 
+
+SEMARCA
+
+Tidewater Marine Service, C.A.
+
+ 
+
+Empresa SEMARCA
+
+El valor del capital de las Demandantes en SEMARCA junto con la
+Sede Central de SEMARCA ubicada en La Cafiada (Memorial [96])
+
+ 
+
+ 
+
+Guanta Consult, C.A. y Servicios Picardi, C.A.
+
+ 
+
+Contrato de Barcazas
+
+(Contrato N.2 4627) (An. R-87)
+
+ 
+
+Tidewater Caribe o
+Segunda Demandante
+
+Tidewater Caribe, C.A.
+
+ 
+
+Tidewater Barbados o
+Primera Demandante
+
+Tidewater Investment SRL
+
+ 
+
+Contrato de
+Remolcadores
+
+(Contrato N.2 8027) (An. R-86)
+
+ 
+
+Wells 1/2
+
+Informe Pericial del Prof. Louis T. Wells (24 de octubre de 2013) y
+Segundo Informe Pericial (24 de abril de 2014)
+
+ 
+
+ 
+
+Directrices del Banco
+
+Mundial
+
+ 
+
+Directrices del Banco Mundial sobre el Tratamiento de la Inversién
+Extranjera Directa de 1992 (CL-152)
+
+ 
+
+ 
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+INDICE DE CASOS
+
+ 
+
+ADC c. Hungria
+
+ADC Affiliate Ltd c. Hungria, Caso CIADI N.2 ARB/03/16 (Laudo, 2 de
+octubre de 2006) 15 ICSID Rep 539
+
+ 
+
+ 
+
+ 
+
+ 
+
+AlG c. Iran American International Group, Inc c. Republica Islamica de Iran
+(Laudo, 19 de diciembre de 1983) 4 Iran-US CTR 96
+
+Amco Asia c. Amco Asia Corp c. Republica de Indonesia, Caso CIADI N.2 ARB/81/1
+
+Indonesia II (Laudo sobre el Fondo en el Marco de una Nueva Sumisién, 31 de
+mayo de 1990) 89 ILR 580
+
+Amoco Amoco International Finance Corp c. Republica Islamica de Iran
+(Laudo Parcial, 14 de julio de 1987) 15 Iran-US CTR 189
+
+AMT c. Zaire American Manufacturing & Trading, Inc c. Zaire, Caso CIADI N.°
+
+ARB/93/1 (Laudo, 21 de febrero de 1997) 5 ICSID Rep 14
+
+ 
+
+Burlington c.
+Ecuador
+
+Burlington Resources Inc c. Ecuador, Caso CIADI N.2 ARB/08/5
+(Decisién sobre Responsabilidad, 14 de diciembre de 2012)
+
+ 
+
+Chevron c. Ecuador
+
+Chevron Corp c. Ecuador, Caso CNUDMI (Laudo Parcial sobre el
+Fondo, 30 de marzo de 2010)
+
+ 
+
+Fabrica de Chorzow
+
+Fabrica de Chorzéw (Alemania c. Polonia) (Fondo) (1928) PCIJ Rep Ser
+AN.217
+
+ 
+
+CMS c. Argentina
+
+CMS Gas Transmission Company c. Argentina, Caso CIADI N.2
+ARB/O1/8 (Laudo, 12 de mayo de 2005)
+
+ 
+
+ 
+
+Continental Continental Casualty Co c. Argentina, Caso CIADI N.2 ARB/03/9
+Casualty c. (Decision sobre Jurisdiccién, 22 de febrero de 2006)
+
+Argentina
+
+Duke c. Pert Duke Energy International Peru Investments No 1 Ltd c. Pert, Caso
+
+CIADI N.2 ARB/03/28 (Decisién sobre Anulacién, 1 de marzo de 2011)
+
+ 
+
+Emmis c. Hungria
+
+Emmis International Holding BV c. Hungria, Caso CIADI N.2 ARB/12/2
+(Laudo, 16 de abril de 2014)
+
+ 
+
+Enron c. Argentina
+
+Enron Corp y Ponderosa Assets LP c. Argentina, Caso CIADI N.2
+ARB/01/3 (Laudo, 22 de mayo de 2007)
+
+ 
+
+Funnekotter c.
+Zimbabwe
+
+Funnekotter c. Republica de Zimbabwe, Caso CIADI N.2 ARB/05/6
+(Laudo, 22 de abril de 2009)
+
+ 
+
+ 
+
+Goetz c. Burundi
+
+ 
+
+Antoine Goetz c. Burundi, Caso CIADI N.2 ARB/95/3 (Laudo, 10 de
+febrero de 1999) 6 ICSID Rep 3
+
+ 
+
+ 
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+ 
+
+Himpurna c. PT
+(Persero)
+
+Himpurna California Energy Ltd (Bermudas) c. PT (Persero)
+Perusahaan Listruik Negara (Indonesia) (Laudo Definitivo, 4 de mayo
+de 1999) XXV Ybk Comm Arb 11
+
+ 
+
+Lemire c. Ucrania
+
+Joseph Charles Lemire c. Ucrania, Caso CIADI N.2 ARB/06/18 (Laudo,
+28 de marzo de 2011)
+
+ 
+
+LIAMCO
+
+Libyan American Oil Company (LIAMCO) c. Libia (Laudo, 12 de abril
+de 1977) 20 ILM 1
+
+ 
+
+Merrill & Ring c.
+Canada
+
+Merrill & Ring Forestry LP c. Canada (Laudo, 31 de marzo de 2010)
+
+ 
+
+Metalclad c. México
+
+Metalclad Corporation c. México, Caso CIADI N.2 ARB(AF)/97/1
+(Laudo, 25 de agosto de 2000) 5 ICSID Rep 212
+
+ 
+
+ 
+
+Middle East Cement | Middle East Cement Shipping & Handling Co SA c. Egipto, Caso CIADI
+c. Egipto N.2 ARB/99/6 (Laudo, 12 de abril de 2002) 7 ICSID Rep 178
+
+Mobil Cerro Negro Mobil Cerro Negro Ltd c. Petréleos de Venezuela SA y PDVSA Cerro
+
+c. PDVSA Negro SA, Caso CCI N.2 15416/JRF/CA (Laudo Definitivo, 23 de
+
+diciembre de 2011)
+
+ 
+
+Mondev c. Estados
+Unidos
+
+Mondev International Ltd c. Estados Unidos de América, Caso CIADI
+N.° ARB(AF)/99/2 (Laudo, 11 de octubre de 2002) 6 ICSID Rep 192
+
+ 
+
+Demandas de las
+Navieras Noruegas
+
+Demandas de las Navieras Noruegas (Noruega c. Estados Unidos),
+CPA (Laudo, 13 de octubre de 1922), 1 RIAA 307
+
+ 
+
+ 
+
+ 
+
+Plataformas Plataformas Petroliferas (Republica Islamica de Iran c. Estados
+Petroliferas Unidos de América) (Excepciones Preliminares) [1996] IC) Rep 803
+Patuha c. PT Patuha Power Ltd c. PT (Persero) Perusahaan Listruik Negara (Laudo
+(Persero) Definitivo, 4 de mayo de 1999)
+
+Papamichalopoulos | Papamichalopoulos y Otros c. Grecia, ECHR Ser A, Vol 330-B (Fallo, 31
+c. Grecia de octubre de 1995)
+
+ 
+
+Phoenix Action c.
+Republica Checa
+
+Phoenix Action, Ltd c. Republica Checa, Caso CIADI N.2 ARB/06/5
+(Laudo, 15 de abril de 2009)
+
+ 
+
+Pope & Talbot c.
+Canada
+
+Pope & Talbot Inc c. Canada (Laudo Provisional, 26 de junio de 2000)
+7ICSID Rep 69
+
+ 
+
+Quasar de Valores
+
+Quasar de Valores SICAV SA c. Federacién Rusa, Caso CCE N.2
+24/2007 (Laudo, 20 de julio de 2012)
+
+ 
+
+Rumeli c. Kazajstan
+
+Rumeli Telekom A/S c. Kazajstan, Caso CIADI N.2 ARB/05/16 (Laudo,
+21 de julio de 2008), confirmado: Decision sobre Anulacién, 25 de
+marzo de 2010
+
+ 
+
+ 
+
+Santa Elena
+
+ 
+
+Compaiiia de Desarrollo de Santa Elena SA c. Costa Rica, Caso CIADI
+
+ 
+
+ 
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+ 
+
+N.2 ARB/96/1 (Laudo, 17 de febrero de 2000)
+
+ 
+
+ 
+
+Sapphire Sapphire International Petroleums Ltd c. National Iranian Oil Co
+International (Laudo) (1963) 35 ILR 136
+
+Siemens c. Siemens AG c. Argentina, Caso CIADI N.2 ARB/O2/8 (Laudo, 6 de
+Argentina febrero de 2007)
+
+ 
+
+SPP c. Egipto
+
+Southern Pacific Properties (Middle East) Ltd c. Egipto, Caso CIADI N.2
+ARB/84/3 (Laudo, 20 de mayo de 1992) 3 ICSID Rep 195
+
+ 
+
+Tecmed c. México
+
+Técnicas Medioambientales Tecmed SA c. México, Caso CIADI N.2
+ARB(AF)/00/2 (Laudo, 29 de mayo de 2003) 10 ICSID Rep 134
+
+ 
+
+UPS c. Canada
+
+United Parcel Service of America Inc c. Canada (Laudo sobre
+Jurisdiccién, 22 de noviembre de 2002) 7 ICSID Rep 285
+
+ 
+
+Vivendi c. Argentina
+(Nueva Sumisién)
+
+Compaiiia de Aguas del Aconquija SA y Vivendi Universal SA c.
+Argentina, Caso CIADI N.2 ARB/97/3 (Laudo, 20 de agosto de 2007)
+
+ 
+
+ 
+
+Wena Hotels c.
+Egipto
+
+ 
+
+Wena Hotels Ltd c. Egipto, Caso CIADI N.2 ARB/98/4 (Laudo, 8 de
+diciembre de 2000) 6 ICSID Rep 89
+
+ 
+
+ 
+
+vi
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+INTRODUCCION
+
+Solicitud de Arbitraje
+
+El dia 16 de febrero de 2010, Tidewater Inc., Tidewater Investment SRL, Tidewater Caribe,
+C.A., Twenty Grand Offshore, L.L.C., Point Marine, L.L.C., Twenty Grand Marine Service,
+L.L.C., Jackson Marine, L.L.C. y Zapata Gulf Marine Operators, L.L.C. presentaron una
+Solicitud de Arbitraje en virtud de las Reglas de Arbitraje CIADI en contra de la Reptblica
+
+Bolivariana de Venezuela (Venezuela o Demandada).
+
+El dia 8 de febrero de 2013, el Tribunal emitid su Decisién sobre la Jurisdiccién en la que
+resolvid que goza de jurisdiccidn sdlo respecto de los reclamos planteados por Tidewater
+Investment SRL (Primera Demandante) y Tidewater Caribe, C.A. (Segunda Demandante)
+(en conjunto, Tidewater o Demandantes) de conformidad con el Articulo 8 del Acuerdo
+entre el Gobierno de la Republica de Venezuela y el Gobierno de Barbados para la
+promocion y proteccién de inversiones de 1994 (TBI con Barbados). A la luz de dicha
+Decisién, las Demandantes presentaron una Solicitud de Arbitraje Modificada (Solicitud)
+
+el dia 1 de marzo de 2013.
+
+La controversia se refiere a la inversién de las Demandantes en la prestacién de servicios
+de soporte maritimo a la industria petrolera en Venezuela. Los antecedentes de hecho de
+
+la controversia se resumen en la Parte I- C infra.
+
+Antecedentes procesales
+
+Los antecedentes procesales del presente arbitraje hasta la Decisién sobre la Jurisdiccién
+se repasan en dicha Decision.
+El dia 7 de junio de 2013, el Tribunal, con el consentimiento de las Partes, adopté un
+calendario procesal a fin de determinar las etapas restantes del procedimiento.
+Luego, las Partes intercambiaron los siguientes escritos sobre el fondo:
+
+a) El dia 29 de julio de 2013, las Demandantes presentaron su Memorial sobre
+
+el Fondo, junto con una declaracién testimonial del Sr. Gerald P. Kehoe
+
+(Vicepresidente y, posteriormente, Vicepresidente Principal de Tidewater,
+
+™
+
+10.
+
+11.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Inc. durante el periodo pertinente) y un informe pericial preparado por el Sr.
+
+Brent C. Kaczmarek (de Navigant Consulting, Inc).
+
+b
+
+El dia 25 de octubre de 2013, la Demandada presenté su Memorial de
+Contestacién sobre el Fondo, junto con una declaracién testimonial del Sr.
+Rubén Figuera (ex-Gerente General de Empresas Mixtas Costa Afuera en
+Corporacién Venezolana del Petrdleo, S.A. (CVP), subsidiaria de PDVSA), un
+informe pericial del Profesor Louis T. Wells (Profesor Emérito Herbert F.
+Johnson de Gestién Internacional, Escuela de Negocios de Harvard) y un
+informe pericial del Sr. Vladimir Brailovsky y del Dr. Daniel Flores (de
+
+Economia Aplicada, S.C. y Econ One Research, Inc, respectivamente).
+
+¢)
+
+El dia 25 de enero de 2014, las Demandantes presentaron su Réplica sobre el
+Fondo, junto con la segunda declaracién testimonial del Sr. Kehoe y el
+
+segundo informe pericial del Sr. Kaczmarek.
+
+d
+
+El dia 25 de abril de 2014, la Demandada presento su Duplica sobre el Fondo,
+junto con la segunda declaracién testimonial del Sr. Figuera, el segundo
+informe pericial del Prof. Wells y el segundo informe pericial del Sr.
+
+Brailovsky y del Dr. Flores.
+
+El dia 8 de noviembre de 2014, las Demandantes informaron al Tribunal del acuerdo de
+
+las Partes de no presentar solicitudes de produccién de documentos ante el Tribunal.
+
+El dia 20 de mayo de 2014, en respuesta a una solicitud del Tribunal, las Partes
+comunicaron el alcance de su acuerdo en cuanto a la organizacién de la audiencia sobre
+
+el fondo, incluidos el calendario de la audiencia y el orden de los testigos.
+
+El dia 21 de mayo de 2014, las Demandantes solicitaron autorizaci6n para incorporar al
+expediente los anexos adicionales C-250 a C-261. El dia 23 de mayo de 2014, la
+
+Demandada confirmo que ya no se oponia a la admisin de dichos documentos.
+En la misma fecha, el Tribunal resolvid las cuestiones pendientes relativas a la
+organizacién de la audiencia y le comunicé su decision sobre estos asuntos a las Partes.
+
+La audiencia sobre el fondo se celebré entre los dias 9 y 12 de junio de 2014 en la sede
+del Centro ubicada en Washington, D.C. Las siguientes personas participaron de la
+
+audiencia:
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Tribunal
+
+Profesor Campbell McLachlan QC (Presidente)
+Dr. Andrés Rigo Sureda
+Profesora Brigitte Stern
+
+Sr. Marco Tulio Montafiés-Rumayor (Secretario)
+Demandantes
+
+Abogados (Covington & Burling)
+
+Sr. Miguel Lopez Forastier
+
+Sr. Thomas (T.L.) Cubbage
+
+Sr. Alexander Berengaut
+
+Sr. Daniel Matro
+
+Sra. Gisselle Bourns
+
+Sr. Felipe Nazar Pagani
+
+Sra. Ana Maria Matias (asistente legal)
+Sr. Jorge Garcia (asistente legal)
+
+Partes:
+
+Sr. Jeffrey Gorski
+
+Sr. Bruce Lundstrom
+
+Sr. Matthew Mancheski
+Sr. Chris Ogle
+
+Testigo(s):
+Sr. Gerard Kehoe
+
+Experto(s):
+
+Sr. Brent Kaczmarek
+Sra. Isabel Kunsman
+Sra. Sarah Sherman
+Sr. Matt Shopp
+
+Demandada
+
+Abogados (Curtis, Mallet-Prevost, Colt & Mosle LLP)
+Sr. George Kahale, III
+
+Sra. Miriam Harwood
+
+Sra. Gabriela Alvarez Avila
+Sr. Eloy Barbara de Parres
+Sra. Claudia Frutos-Peterson
+Sr. Simon Batifort
+
+Sra. Arianna Sanchez
+
+Sr. Carlos Guzman
+
+Sra. Gloria Diaz-Bujan
+
+Sr. Francisco Sanchez
+
+Sr. Ali Topaloglu
+
+Sr. Herbert Tapia
+
+12.
+
+13.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Partes:
+
+Dr. Joaquin Parra
+
+Dr. Alvaro Silva Calderon
+Dra. Natalia Linares
+
+Dra. Moreeliec Pefia
+
+Testigo(s):
+Sr. Rubén Figuera
+
+Experto(s):
+
+Lic. Vladimir Brailovsky
+Prof. Louis T. Wells, Jr.
+Dr. Daniel Flores
+
+Sr. Andrea Cardani
+
+Sr. Jordan Heim
+
+Estendgrafos
+
+Sra. Liliana Avalos de Bulgarelli
+Sr. David Kasdan
+
+Intérpretes
+
+Sra. Silvia Colla
+Sr. Daniel Giglio
+Sra. Judith Leandre
+
+El dia 13 de junio de 2014, el Tribunal procedié a una deliberacién preliminar en
+
+Washington, D.C. Posteriormente, deliber6 a través de diversos medios.
+
+Antecedentes de hecho
+
+El grupo Tidewater fue fundado en el afio 1956 a fin de prestar servicios de transporte
+maritimo en el Golfo de México’. Comenzé sus operaciones en Venezuela en el afio 1958,
+mediante la adquisicién de la empresa actualmente denominada Tidewater Marine
+Service, C.A. (SEMARCA), sociedad constituida de conformidad con la legislacién de
+
+Venezuela”. Cuando tuvieron lugar los sucesos que constituyen el objeto del presente
+
+2 Memorial, [13].
+
+2 Memorial, [14].
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+arbitraje, Tidewater habia estado operando en forma continua en Venezuela desde el
+
+afio 1958.
+
+14. Con anterioridad al mes de mayo de 2009, SEMARCA era propiedad de la Segunda
+Demandante, Tidewater Caribe, C.A. (Tidewater Caribe), sociedad constituida en
+Venezuela. Luego de una reorganizacion societaria que tuvo lugar el dia 9 de marzo de
+2009, Tidewater Caribe, a su vez, se convirtid en propiedad de la Primera Demandante,
+Tidewater Investment SRL, sociedad constituida en Barbados. Cada una de las empresas
+demandantes forman parte del grupo empresario Tidewater, que, en definitiva, es
+
+propiedad de Tidewater, Inc, sociedad constituida en los Estados Unidos.
+
+15. SEMARCA tenia su sede central en el municipio de La Cafiada, ubicado en la costa
+occidental del lago de Maracaibo. Tidewater Caribe era propietaria de la parcela de
+
+terreno utilizada por SEMARCA a tal efecto.
+
+16. La industria petrolera de Venezuela fue nacionalizada en 1975. A partir de ese momento,
+la empresa petrolera estatal venezolana Petrdéleos de Venezuela, S.A. (PDVSA) y sus
+filiales parcial o totalmente controladas, contrataron a empresas privadas para brindar
+apoyo a la industria petrolera en el pais. Entre dichas filiales se encontraban tres
+empresas relevantes para el caso que nos ocupa: Corporacién Venezolana del Petrdleo
+
+SA (CVP), PDVSA Petrdleo, S.A. (PDVSA Petréleo) y PetroSucre, S.A. (PetroSucre).
+
+17. SEMARCA presto sus servicios de soporte maritimo en virtud de un contrato tanto a
+
+PDVSA Petrdleo como a PetroSucre.
+18. En principio, las operaciones de SEMARCA se limitaron al propio lago de Maracaibo.
+
+19. A partir de fines de la década de 1990, SEMARCA expandié sus operaciones a regiones
+
+costa afuera, incluido el Golfo de Paria ubicado cerca de la costa noroeste de Venezuela.
+
+20. A pesar de haber operado en Venezuela durante muchos afios, SEMARCA no tenia un
+contrato general de concesién con PDVSA o sus filiales. En su lugar, operaba sobre la
+base de una cuenta corriente a través de contratos de fletamento a corto plazo:
+contratos frecuentes con varios meses de duracién que se prorrogaban en forma
+
+periddica*. Las Partes coinciden en que, al momento de la confiscacidn de los activos de
+
+3 Memorial, [16], que cita Ex C-190. El resto de la parcela de terreno era (y contintia siendo) arrendado a
+un tercero: Memorial, [17].
+
+4 Tal como se destacara en la Decision sobre la Jurisdiccién, [153]; Memorial, [20], que cita Kehoe 1, (15]-
+{16}.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+las Demandantes, SEMARCA prestaba sus servicios tanto en el Lago de Maracaibo como
+en el Golfo de Paria, en virtud de cuatro contratos a corto plazo®:
+
+a) Lago de Maracaibo: SEMARCA le prestaba servicios de soporte maritimo a
+
+PDVSA Petrdleo conforme a dos contratos de fletamento a plazo
+
+determinado: i) el denominado Contrato de Remolcadores (Contrato N.°
+
+8027); y ii) el Contrato de Barcazas (Contrato N.2 4627)°.
+
+b
+
+Costa afuera: i) SEMARCA le habia fletado cuatro buques a PetroSucre a fin
+de brindar apoyo a las operaciones en el marco del Proyecto Corocoro en la
+zona occidental del Golfo de Paria (el Contrato Corocoro)’; y ii) SEMARCA
+tenia un contrato a corto plazo con Chevron Cardon Ill, S.A. a fin de que dos
+buques le brindaran apoyo a sus operaciones en el bloque Cardén III del
+Proyecto Rafael Urdaneta al norte del lago de Maracaibo (el Contrato
+
+Cardén)’.
+
+21. Las Partes cuestionan la duracion y el estado de dichos contratos a la fecha de la Ley de
+
+Reserva, cuestién que el Tribunal abordard mas adelante.
+
+22. Durante el periodo 2008-2009, los precios mundiales del petrdleo bajaron
+
+significativamente. PDVSA tuvo dificultades para cumplir sus obligaciones de pago con
+
+SEMARCA®.
+
+23. Tal como el Tribunal observé en la Decisién sobre la Jurisdiccién, las cuentas por cobrar
+
+5
+
+6
+
+7
+
+8
+
+9
+
+adeudadas a SEMARCA comenzaron a acumularse en el mes de junio de 2008"°. Al dia 31
+
+de mayo de 2009, el Informe Anual de Tidewater registraba que las cuentas por cobrar
+
+Memorial, [25]-[29]; Memorial de Contestacién, [40].
+
+Ex R-86 (Contrato de Remolcadores); Ex R-87 (Contrato de Barcazas).
+Contrato CO-067 (Ex C-22).
+
+Ex C-86.
+
+Memorial de Contestacién, [11].
+
+2 \éase Decisién sobre la Jurisdiccién, [154]-[181]. Tal como se destacara infra, las conclusiones de
+
+hecho a las que arribé el Tribunal a efectos de determinar si las excepciones a la jurisdiccién de la
+
+Demandada no son vinculantes respecto del Tribunal al momento de establecer los reclamos sobre el
+
+fondo de las Demandantes. No obstante, con sujecién a lo que sigue en el presente Laudo, dicho
+
+resumen describe los sucesos que derivaron en las confiscaciones y que dieron lugar al presente
+
+arbitraje.
+
+24.
+
+25.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+adeudadas a SEMARCA ascendian aproximadamente a 40 millones de ddlares
+
+estadounidenses™.
+
+El dia 7 de mayo de 2009, el Gobierno de Venezuela promulgoé la Ley Organica que
+Reserva al Estado Bienes y Servicios Conexos a las Actividades Primarias de
+Hidrocarburos (Ley de Reserva)”. El dia siguiente, 8 de mayo de 2009, el Ministerio del
+Poder Popular para la Energia y Petrdleo emitid una resolucion (Resolucién N.2 51) que
+identificé a las Demandantes, junto con otros 38 prestadores de servicios, como sujetos a
+
+la Ley de Reserva’.
+
+El mismo dia, los activos de SEMARCA en el Lago de Maracaibo, incluidos su sede central
+ubicada en La Cafiada y 11 buques, fueron confiscados*. SEMARCA continué prestando
+servicios a PetroSucre en el Golfo de Paria luego de dicha confiscacién, aunque, el dia 12
+de julio de 2009, los cuatro buques de las Demandantes asignados al Proyecto Corocoro
+en el Golfo de Paria también fueron confiscados’®. Las Partes disienten en cuanto al
+ambito de aplicacion de la Ley de Reserva, al alcance de las confiscaciones, y a la medida
+de los activos y operaciones restantes de las Demandantes en Venezuela. El Tribunal
+
+retomara dichas cuestiones en la Parte III del presente Laudo.
+
+21 Memorial, [32], que cita Ex C-207, 43. Este total estaba compuesto por aproximadamente 16 millones
+
+pagaderos en délares estadounidenses (USD) y el equivalente de 24 millones pagaderos en bolivares
+
+(veB).
+
+2
+
+Ley Organica que Reserva al Estado Bienes y Servicios Conexos a las Actividades Primarias de
+
+Hidrocarburos (Ex RL-1).
+
+43 Ex RL-7.
+
+* Kehoe 1, [35], y Ex C-14; Memorial de Contestacién, [16].
+
+25 Memorial, [62]; Memorial de Contestacién, [16].
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+u ALEGACIONES DE LAS PARTES
+
+26.
+
+27.
+
+28.
+
+En esta seccidn del Laudo, el Tribunal resume las respectivas alegaciones de las Partes
+respecto de las dos cuestiones que el Tribunal debe resolver: en primer lugar, el alcance
+de la responsabilidad de la Demandada; y en segundo lugar, la cuantia adecuada de
+indemnizacién adeudada a las Demandantes a la luz de las conclusiones del Tribunal en
+
+lo que se refiere a responsabilidad.
+
+Desde el principio el Tribunal observa que la Demandada acepta que la Ley de Reserva y
+los actos administrativos relacionados del Gobierno redundaron en la expropiacién del
+valor de la propiedad titularidad de las Demandantes’*. La Demandada acepta asimismo
+que tiene obligacién de pagarles a las Demandantes una indemnizacién por esas
+expropiaciones’”. En consecuencia, el foco de atencidn de las alegaciones de las Partes se
+circunscribié al alcance de la expropiacién de los bienes de las Demandantes por parte de
+la Demandada, la licitud de la expropiacién, y la cuantia adecuada de indemnizacién
+
+adeudada en consecuencia.
+
+Responsabilidad
+1. Introduccién
+
+Las Demandantes fundan su reclamo en este procedimiento de arbitraje en el TBI con
+Barbados. Observan que el derecho aplicable al fondo del reclamo se encuentra
+determinado por el Articulo 42(1) del Convenio CIADI, y aseveran que las ‘normas de
+derecho... acordadas por las Partes’ con arreglo a esa disposicion se encuentran en el
+propio TBI con Barbados, complementado por principios generales del derecho
+internacional*®. Afirman que la legislacién venezolana es de relevancia en la medida que
+atafie al alcance de los derechos de las Demandantes y las obligaciones de la Demandada;
+por otra parte el Articulo 11 del TBI con Barbados incorpora por referencia aquellos
+principios de derecho internacional o de la legislacién venezolana que sean mas
+
+favorable que los impuestos por el Tratado; igualmente no puede aplicarse la legislacién
+
++6 Memorial de Contestacién, [49].
+
+27 Memorial de Contestacién, [161].
+
+28 Memorial, (71]-{72].
+
+29.
+
+30.
+
+31.
+
+32.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+venezolana en la medida que es incongruente con las obligaciones legales
+
+internacionales de la Demandada’®.
+
+La Demandada no se opone a estas alegaciones.
+
+2. El alcance de la expropiacién
+
+Las Demandantes afirman que el efecto de la Ley de Reserva y los actos administrativos
+relacionados fue el de expropiar en forma directa activos tangibles y valiosos de
+titularidad de las Demandantes, asi como el de expropiar en forma indirecta sus acciones
+en la propia SEMARCA, privando de este modo a las Demandantes de un negocio con 50
+afios de historia en Venezuela y un probado historial de rentabilidad. En cambio, la
+Demandada afirma que las expropiaciones sdlo privaron a las Demandantes de una
+parcela en La Cafiada (conjuntamente con edificios e inventario), 15 embarcaciones (las
+cuales, como consecuencia de la Decisién sobre Jurisdiccién, se encuentran fuera de la
+competencia del Tribunal, al ser propiedad de las compafiias de Tidewater fuera del
+ambito del TBI con Barbados) y el breve periodo restante en los plazos de los dos
+
+contratos con PDVSA Petrdleo.
+(a) Alegaciones de las Demandantes
+
+Las Demandantes comienzan por observar que el Articulo 5(1) del TBI con Barbados
+prohibe tanto la expropiacién directa como indirecta. Define a esta Ultima como aquellas
+medidas tomadas por un Estado que ‘pueden interferir con los derechos de propiedad en
+tal medida que estos derechos se hacen tan inutiles que deben considerarse que han
+sido expropiados, atin cuando el Estado no pretende haberlos expropiado y el titulo legal
+ala propiedad permanece legalmente con el propietario original”°.
+
+De este modo, las Demandantes sostienen que tras la promulgacién de la Ley de Reserva
+el dia 7 de mayo de 2009 y el nombramiento Ministerial de las Demandantes el dia 8 de
+mayo de 2009, la expropiacién de la Demandada consta de tres elementos”:
+
+a) El dia 8 de mayo de 2009, la expropiacién directa de la sede principal de
+
+SEMARCA, operaciones y activos en el Lago de Maracaibo, asi como
+
+29 Memorial, (73]-{74].
+
+2 Memorial, [79], donde se cita Vivendi c. Argentina (Nueva Sumisién) (Ex CL-138), [7.5.16].
+
+21 Memorial, (80]-[81].
+
+33.
+
+34.
+
+35.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+determinados bienes inmuebles pertenecientes a la Segunda Demandante en
+
+La Cafiada.
+
+b) El dia 12 de julio de 2009, la expropiacidn directa de los activos y operaciones
+
+de las Demandantes costa afuera en el Golfo de Paria.
+
+c) Como consecuencia de todos los actos de la Demandada, la expropiacién
+indirecta de los derechos e intereses de las Demandantes en SEMARCA,
+
+incluida su participacion accionaria.
+
+Las Demandantes observan que la Demandada admite la primera etapa de la
+expropiacién”. Sin embargo, las Demandantes explican que la expropiacidn tuvo efectos
+mas amplios en otras operaciones de SEMARCA en el pais debido a que sus operaciones
+en el Golfo de Paria fueron privadas del acceso a despachadores, mecdnicos o repuestos
+
+situados en La Cafiada’’.
+
+En lo que se refiere a la segunda etapa, las Demandantes rechazan el argumento de la
+Demandada de que dado que, por sus términos, la Ley de Reserva sdlo era aplicable al
+Lago de Maracaibo, las Demandantes tenian (y conservan) la libertad de operar costa
+afuera. Las Demandantes observan que el dia 12 de julio de 2009 la Demandada confiscé
+cuatro embarcaciones que operaban costa afuera en apoyo al Proyecto Corocoro, que
+esto redundo en la finalizacién del Contrato Corocoro que se encontraba atin vigente™, y
+que esta confiscacién se hizo con arreglo a la Ley de Reserva. Invocan asimismo la
+conclusién del Tribunal en la Decision sobre Jurisdiccién de que el dia 12 de julio de 2009
+‘fueron expropiados los activos y operaciones restantes de las Demandantes en
+Venezuela”. La conclusién a la que las Demandantes pretenden que el Tribunal arribe es
+
+que éstas no conservaron la libertad de operar costa afuera.
+
+En lo que se refiere a la tercera etapa, las Demandantes afirman que la aplicacién de la
+Ley de Reserva por parte de la Demandada privé a la Segunda Demandante del control
+de SEMARCA, tal como fue demostrado por: i) multiples decisiones de los tribunales
+
+venezolanos que reconocen que SEMARCA se ha convertido en parte de PDVSA, o esta
+
+” Réplica, [75].
+
+23 Memorial, (61).
+
+24 Réplica, [48]. Las Demandantes afirman que la carta de PetroSucre de fecha 3 de julio de 2009 (Ex C-
+
+101) redundé en la renovacién del contrato por un periodo de tres meses.
+
+25 Réplica [43]-[50] & [76]-[77], donde se cita la Decision sobre la Jurisdiccién, [181].
+
+10
+
+36.
+
+37.
+
+38.
+
+39.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+representada por esta ultima; ii) el hecho de que se le prohibiera a la Segunda
+Demandante inscribir documentos para SEMARCA en el Registro de Comercio; iii) cartas
+de funcionarios de SEMARCA a la Demandada que explicaban que estos habian, en efecto,
+
+sido destituidos; y iv) la integraci6n de SEMARCA en las operaciones de PDVSA’°.
+
+Las Demandantes sostienen asimismo que los actos de la Demandada le restaron todo
+valor a las acciones en SEMARCA (y que las Demandantes no gozan del beneficio de las
+
+cuentas por cobrar dado que han perdido el control de la compafiia”’).
+
+Las Demandantes alegan que el argumento de la Demandada en el sentido de que las
+Demandantes no podrian haber sufrido una expropiacién indirecta dado que éstas
+carecian de derechos de propiedad expropiables no tiene sentido: sus acciones en
+SEMARCA constituian sin lugar a dudas un derecho de propiedad y ellas fueron privadas
+del beneficio de ese derecho. No es necesario que las Demandantes identifiquen ningun
+derecho contractual a largo plazo mas alla de aquella inversion para constituir un caso de
+
+expropiacién indirecta”®.
+(b) Alegaciones de la Demandada
+
+La Demandada afirma que las Demandantes han confundido la expropiacién por parte de
+un Estado con la reserva de un area de actividad dentro de sus fronteras”®. Sostiene que
+todo lo que fue expropiado fueron las embarcaciones, los activos tangibles en La Cafiada,
+
+y los periodos breves restantes en los dos contratos del Lago de Maracaibo*”.
+
+En lo que se refiere a los contratos, la Demandada asevera que la Ley de Reserva sdlo
+expropié un breve periodo restante en dos contratos (el Contrato de Remolcadores y el
+Contrato de Barcazas), cada uno de los cuales tenia sdlo 24 dias remanentes en su
+término y ningun derecho a ser renovado. La Demandada alega eso porque la Ley de
+Reserva solamente se aplicaba al Lago de Maracaibo, los contratos costa afuera no
+fueron expropiados y estos vencieron conforme a sus términos: el Contrato de Corocoro
+
+vencié el dia 30 de junio de 2009 (52 dias después de la promulgacién de la Ley de
+
+6 Réplica, [50}-[55], [81].
+
+27 Réplica, [82]-[84].
+
+28 Réplica, [85]-[89].
+
+?9 Memorial de Contestacién, [18].
+
+3° Memorial de Contestacién, [16], [49].
+
+11
+
+40.
+
+41.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Reserva) porque no se consensuaron los términos de prérroga**; y el Contrato Cardén
+vencié el dia 23 de mayo de 2009 pero continuo vigente hasta el dia 12 de junio de 2009,
+35 dias después de la promulgacidn de la Ley (después de la cual Chevron opt6 por no
+
+prorrogarlo ya que el proyecto no era comercial’).
+
+La Demandada sostiene asimismo que el alcance limitado de la Ley de Reserva le
+otorgaba a la compaiiia libertad para operar en cualquier otro lugar en Venezuela, y que
+esto queda demostrado por el hecho de que las Demandantes continuaron negociando
+con Repsol con respecto al Proyecto Cardén IV Rafael Urdaneta después de la
+promulgacién de la Ley de Reserva?. Afirma que, en consecuencia, no cabe debatir ‘la
+existencia de una indemnizacién en relacién con cualquier negocio fuera del area
+reservada*”. La confiscacién de las cuatro embarcaciones que prestaban servicios en el
+Proyecto Corocoro no demuestra que la Ley de Reserva fuese aplicable fuera del Lago de
+Maracaibo, dado que las cuatro embarcaciones se encontraban registradas alli y tres de
+
+ellas habian sido utilizadas para servicios de soporte maritimo en el Lago*®.
+
+En lo que se refiere a la alegacion de expropiacion indirecta, la Demandada sostiene que
+no existe nada en la Ley de Reserva que afecte la propiedad o control de SEMARCA.
+Alega que SEMARCA continu recibiendo pagos a su nombre después de la promulgacion
+de la Ley de Reserva, que continuo operando y negociando contratos costa afuera, y que
+las Demandantes permanecen en control de sus cuentas por cobrar*°. La Demandada
+afirma que no tomé posesién y control de SEMARCA ni destituy6 a sus funcionarios?’. La
+Demandada alega que las cartas de los funcionarios que invocan las Demandantes fueron
+en su propio beneficio y escritas con posterioridad a la expropiacién en aras de ‘crear un
+
+expediente de “expropiacién indirecta”>”’.
+
+3 Duplica, [33]-[43].
+
+32 Memorial de Contestacién, [42]-[45]; Duplica, [19], [47]-[55].
+
+33 Memorial de Contestacién, [54]-[55]; Duplica, [28], [76].
+
+34 Memorial de Contestacién, [76].
+
+% Duplica, [27].
+
+2 Memorial de Contestacién, [55]-[57]; Duplica, [68], [112].
+
+*” Duplica, [111], donde se cita Pope & Talbot c. Canadd (Ex RL-163).
+
+*8 Duplica, [69]-[72], [110].
+
+12
+
+42.
+
+43.
+
+44,
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+La Demandada afirma que, en ausencia de una confiscacién de un derecho de propiedad
+de titularidad de SEMARCA, no puede existir expropiacién indirecta**. En otras palabras,
+las Demandantes no pueden plantear un reclamo de expropiacién por derechos o
+intereses de los que las Demandantes nunca fueron titulares®”. En circunstancias en las
+que las Demandantes mantienen la titularidad legitima de las acciones en SEMARCA, las
+Demandantes no han identificado activo o derecho esencial alguno de titularidad de
+SEMARCA cuya confiscacién despojara a la compaiifa de su valor**. La Demandada
+sostiene que las Demandantes pretenden obtener una indemnizacién por la pérdida de
+
+un ‘derecho adquirido a continuar haciendo negocios con PDVSA que nunca poseyeron*.
+
+3. Sila expropiaci6n fue licita 0 ilicita
+(a) Alegaciones de las Demandantes
+
+Las Demandantes afirman que la expropiacién de la Demandada es ilicita porque no
+respeta dos de las condiciones impuestas por el Articulo 5(1) del Tratado: que la
+expropiacién se realice ‘en contrapartida de una pronta, adecuada y efectiva
+
+indemnizacion’, y que se lleve a cabo sobre una base no discriminatoria.
+
+Indemnizacién: las Demandantes observan que el TBI con Barbados exige que cualquier
+expropiacién esté acompafiada por el pago de una indemnizacién que equivaldra al valor
+del mercado de la inversién expropiada, calculada inmediatamente antes de la
+expropiacién (o de que se haga del conocimiento publico la expropiacién inminente“).
+Por lo tanto, las Demandantes comienzan por afirmar que el mero incumplimiento por
+parte de la Demandada de pagar una indemnizacién de conformidad con el TBI torna
+ilicita a la expropiacién. “4 Observan que el representante de la Demandada rechaz6 la
+
+propuesta del pago inmediato aunque parcial de la indemnizacién que consistia en la
+
+3° Memorial de Contestacién, [56]-[68].
+
+*© Duplica, [92]-98].
+
+“1 Memorial de Contestacién, [69]-[74], al distinguir Quasar de Valores (Ex CL-140) & Vivendi c. Argentina
+(Nueva Sumisién) (Ex CL-138); Réplica, [99]-[109}, al invocar Emmis c. Hungria (Ex RL-159) y al_distinguir
+Wena Hotels c. Egipto (Ex CL-141); AIG c. Irdn (Ex CL-159); Tecmed c. México (Ex CL-133) y Metalclad c.
+México (Ex CL-172) como casos en los cuales la compajifa fue despojada de derechos o activos de valor.
+
+ Duplica, [9].
+
+3 Memorial, [83], donde se cita el Articulo 5(1) del TBI con Barbados.
+
+“4 Memorial, [84] y los casos citados en él.
+
+13
+
+45.
+
+46.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+totalidad de las cuentas por cobrar, e indicé que los activos serian valorados sobre la
+base su valor contable*®. Las Demandantes sostienen que se le exigid a la Demandada,
+como minimo, realizar una ‘determinacion de buena fe del valor justo de mercado de la
+inversi6n... y ofrecer ese monto sin demora’ sin perjuicio de cualquier procedimiento
+legal por parte de las Demandantes para objetar la suficiencia de esa indemnizaci6n“*.
+Citan autoridades para alegar que el hecho de no ofrecer indemnizacién alguna‘’, o
+indemnizacién con arreglo al Tratado“®, torna ilicita a la expropiacién. Hacen una
+distincién entre las autoridades que invoca la Demandada en base a que concernian a la
+expropiacién sin indemnizacién en virtud del estandar del derecho internacional
+
+consuetudinario, o implicaban distintas disposiciones de los tratados*?.
+
+En cualquier caso, afirman que, dado que la Ley de Reserva exige que la Demandada
+pague una indemnizacion solo en base al valor contable, y prohibe la indemnizacion por
+‘lucro cesante o dafios indirectos’, la Ley de Reserva le prohibe a la Demandada el pago
+
+de la indemnizaci6n exigida por el TBI, y esto torna ilicita la expropiacién °°.
+
+Discriminacién: las Demandantes sostienen que, en virtud del Tratado, una expropiacion
+sera ilicita si no se realiza ‘sobre una base no discriminatoria’. Afirman que la
+expropiacién de SEMARCA fue ilicita porque no todos los proveedores de servicios de
+soporte maritimo a la industria del petréleo y gas natural en Venezuela situados de
+manera similar recibieron el mismo trato. En particular, afirman que otros tres
+
+operadores recibieron un trato mas favorable que SEMARCA™:
+
+Gulmar Offshore Middle East L.L.C. (Gulmar Offshore), compajiia de los
+Emiratos Arabes Unidos, fue uno de los operadores en el Lago de Maracaibo
+
+designado especificamente en la Resolucién N.° 51. Después de que la
+
+45 Memorial, [66]; Réplica, [66]-[69]; Kehoe 1, [49], al hacer referencia a la reunién celebrada el 21 de
+julio de 2009 con el coordinador del equipo de trabajo conformado por el Ministro de Energia en aras de
+
+aplicar la Ley de Reserva.
+
+46 Réplica, [94].
+
+47 Réplica, [95]-[96], donde en particular se cita Burlington c, Ecuador (Ex CL-135), [543]-[545] & Vivendi c
+Argentina (Nueva Sumisién) (Ex CL-138), [7.5.21].
+
+#8 Réplica, [97], donde se cita Rumeli c Kazakstan (Ex CL-95), (706).
+
+* Réplica, [97]-[104].
+
+5° Memorial, [84], Réplica, [92], al citar la Ley de Reserva, Articulo 6.
+
+54 Memorial, [63]-[65], [85]-[86]; Réplica, [56]-[65], [106]-[109].
+
+14
+
+47.
+
+48.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Demandada confiscara tres embarcaciones de titularidad de Gulmar Offshore
+de conformidad con esa Resolucién, posteriormente las devolvid y la
+compafiia continud operando en Venezuela (incluso haciéndose cargo de
+servicios anteriormente prestados por SEMARCA). Las Demandantes
+rechazan la explicacion de la Demandada de que PDVSA carecia de
+experiencia para operar las embarcaciones como causal para devolverlas,
+
+dado que esta excepcién no se encontraba dispuesta en la Ley de Reserva.
+
+ii. Guanta Consult, C.A. & Servicios Picardi, C.A. (Servipica), competidor
+venezolano de SEMARCA que no se encontraba enumerado en la Resolucién
+N.° 51 y cuyos activos no fueron expropiados. Finalmente Servipica procedié
+a contratar sus embarcaciones a Repsol en el proyecto Cardén IV, una
+operacion en la cual las Demandantes han mantenido negociaciones en pos
+
+de prestarle servicios.
+
+iii. Astilleros de Venezuela, C.A. (Astivenca), compafifa venezolana, que
+
+también operaba costa afuera y que no fue objeto de expropiacion.
+
+(a) Alegaciones de la Demandada
+
+Indemnizacién: Sobre los hechos, la Demandada afirma que entablé conversaciones
+acerca de la indemnizacién con las Demandantes, pero no pudieron prosperar porque las
+Demandantes insistieron en un acuerdo de confidencialidad excesivamente amplio.
+Sostiene que el acuerdo respecto de la indemnizacién ha sido asimismo obstaculizado
+por la insistencia de las Demandantes en ser indemnizadas por derechos que SEMARCA
+
+nunca poseyé™.
+
+En lo que se refiere al derecho, la Demandada sostiene que una expropiacién no se torna
+ilicita por el simple hecho de que no se haya pagado una indemnizaci6n, siempre que el
+gobierno ‘reconozca su obligacién de indemnizar’®. La Demandada sefiala que en el caso
+de la Chorzéw Factory (tal como se siguié en LIAMCO), la expropiacién fue ilicita porque
+el Gobierno de Polonia no tuvo derecho a expropiar el bien en cuestién de acuerdo con
+
+el Tratado aplicable, y que, en el supuesto de que Polonia hubiera tenido derecho a
+
+* Duplica, [81]-[89], [116].
+
+53 Memorial de Contestacién, [81] y los casos alli citados; Duiplica, [116].
+
+15
+
+49.
+
+50.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+expropiar, el estandar adecuado de indemnizacién habria sido ‘el valor de la empresa al
+momento de la desposesi6n’ incluso si Polonia hubiera incumplido con el pago de la
+indemnizaci6n™. La Demandada afirma que el concepto de ‘pago provisional’ invocado
+
+por las Demandantes carece de respaldo alguno en las autoridades*.
+
+La Demandada distingue los cinco casos que citan las Demandantes para la alegacioén de
+que la falta de pago de una indemnizacién convierte a la expropiacién en ilicita,
+argumentando que en esos casos excepcionales el Estado no habia realizado en ningun
+momento una oferta de indemnizacién, ni habia ofrecido una indemnizacién tan baja
+como para ser inexistente®®. Seguin la Demandada, el Articulo 6 de la Ley de Reserva no
+prohibe el cumplimiento de los términos del Tratado en lo que se refiere a la
+indemnizacién y no existe fundamento alguno para suponer que el Estado pretendia
+
+violar sus obligaciones internacionales al promulgar la Ley*”.
+Discriminacién: la Demandada afirma que no actu6 de manera discriminatoria®*:
+
+i. Las embarcaciones pertenecientes a Gulmar Offshore fueron devueltas
+porque PDVSA no tenia el entrenamiento necesario para operarlas. La
+Demandada sugiere asimismo que el trato de las embarcaciones de Gulmar
+Offshore fue consistente con la de las embarcaciones de las Demandantes
+President Tide y High Quest (que fueron liberadas por la Demandada),
+porque en ambos casos eran de bandera extranjera y tenian en su totalidad
+tripulaciones internacionales. La Demandada afirma asimismo que Gulmar
+Offshore ha estado litigando con Venezuela sobre los efectos de la Ley de
+
+Reserva y ya no opera en el pais®®.
+
+54 Memorial de Contestacién, [82]-[83], al citar la Chorzéw Factory (Ex RL-81), 46-7 y LIAMCO (Ex RL-114),
+
+138-9.
+
+55 Dup
+
+lica, [120].
+
+56 Memorial de Contestacién, [86]-[88], donde se cita en la primera categoria Burlington c Ecuador (Ex
+CL-135); Funnekotter c. Zimbabue (Ex CL-136); Wena Hotels c. Egipto (Ex CL-141); y Vivendi c. Argentina
+(Nueva Sumisién) (Ex CL-138) y en la segunda categoria Rumeli c. Kazakstan (Ex CL-95); Duplica, [118].
+
+57 Dup|
+
+58 Dup|
+
+lica, [119].
+
+lica, [125].
+
+5° Memorial de Contestacién, [92]-[94]; Duplica, [77].
+
+16
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Por el contrario, Servipica, no operaba en el Lago de Maracaibo en el
+momento de la Ley de Reserva y por lo tanto, no se encontraba incluida en la
+
+Resolucién N.° 51%.
+
+Astivenca estaba incluida en la Resolucién N.° 51 y sus activos en el Lago de
+
+Maracaibo fueron expropiados*®.
+
+4. — Otras violaciones del TBI con Barbados
+
+(a) Alegaciones de las Demandantes
+
+51. Las Demandantes alegan asimismo que la conducta de la Demandada constituye una
+
+violacion de otras tres protecciones otorgadas por el TBI con Barbados:
+
+Trato_justo_y equitativo: el Articulo 2(2) del TBI garantiza a los
+inversionistas ‘trato justo y equitativo en concordancia con las reglas y
+principios del Derecho Internacional’. Un ‘pilar central’ de la garantia del
+TBI es la proteccién de las expectativas legitimas, y las Demandantes
+afirman que la Demandada viold su expectativa legitima (sustentada en el
+TBI y la Constitucién de Venezuela) de que su inversion no seria expropiada
+sin indemnizacién. Las Demandantes sostienen, en particular, que la
+Constitucién de Venezuela exige que se pague una indemnizacion antes de
+cualquier confiscacién®. Las Demandantes alegan que la proteccién del
+Tratado no se encuentra calificada por el estandar minimo de trato a
+extranjeros del derecho internacional consuetudinario (menor), pero
+incluso ese estandar prohibe la expropiacién sin indemnizacién®.
+
+Medidas arbitrarias o discriminatorias: el Articulo 2(2) prohibe asimismo la
+
+obstaculizacién de las inversiones con medidas arbitrarias o
+
+discriminatorias. Las Demandantes sostienen que las medidas de la
+
+© Memorial de Contestacién, [95]; Duplica, [77], [80].
+
+® Duplica, [77].
+
+® Réplica, [113], donde se cita la Constitucién, Articulo 115 (Ex C-227).
+
+® Memorial, (87]-[91]; Réplica, [110]-[115].
+
+17
+
+52.
+
+53.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Demandada fueron arbitrarias porque eran violatorias del TBI y la
+
+Constitucidn, y discriminatorias por las razones esgrimidas supra™.
+
+Trato nacional y trato de nacién mas favorecida: las Demandantes alegan
+asimismo que el caracter discriminatorio de la conducta de la Demandada
+
+constituye una violacién independiente del Articulo 3 del TBI®.
+
+(b) Alegaciones de la Demandada
+
+La Demandada afirma que los otros antecedentes del reclamo de las Demandantes en
+
+virtud del TBI nada agregan a su reclamo de expropiacion:
+
+Trato justo _y equitativo: la Demandada asevera que la garantia en el
+Articulo 2(2) del TBI constituye el estandar minimo de trato del derecho
+internacional consuetudinario. Las Demandantes no alegan que tuvieran
+un derecho a operar en Venezuela a perpetuidad y la Demandada posee
+un derecho soberano a reservarse para si determinadas actividades. Por lo
+tanto, este reclamo se reduce a una alegacién de que no se ha pagado
+indemnizacion alguna y nada agrega al reclamo principal. Ese argumento
+no puede prosperar porque la Demandada siempre ha reconocido su
+
+obligacién de indemnizar®.
+
+Medidas arbitrarias 0 discriminatorias, trato nacional y trato de nacién mas
+favorecida: Estas reclamaciones simplemente reciclan la alegacion de las
+
+Demandantes de expropiacién discriminatoria®”.
+
+Indemnizaci6n
+
+Al momento de cierre de la etapa escrita, los calculos propuestos por los respectivos
+
+expertos guardan cierta distancia. Los expertos de las Demandantes cuantificaron el
+
+reclamo total en una suma que oscila entre 217 y 234 millones de délares
+
+estadounidenses sobre una base ex post, y entre 103 millones y 141 millones de dolares
+
+& Memorial, (92]-[94]; Réplica, [116]-[117].
+
+6 Memorial, [95]; Réplica, [118].
+
+6 Memorial de Contestacién, (107]-[121]; Duiplica, [128]-[130].
+
+®7 Duplica, [126]-[127].
+
+18
+
+54.
+
+55.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+estadounidenses sobre una base ex ante®. En cambio, los expertos de la Demandada
+arribaron a la conclusién de que la cuantia adecuada de la indemnizacién ascendia a la
+
+suma de 1,68 millones de délares estadounidenses®.
+
+Durante la audiencia fue evidente que una parte importante de la diferencia entre las
+valuaciones era atribuible a los distintos supestos que hubieron adoptado los expertos,
+en algunos casos siguiendo instrucciones de los abogados””. Durante la audiencia, se les
+brindé a los expertos de ambas Partes una oportunidad de realizar una breve
+presentacién directa de sus pruebas al Tribunal, antes de ser contrainterrogados e
+interrogados por el Tribunal. Posteriormente, y a instancia del Tribunal, los expertos de
+cada Parte presentaron valuaciones mofidicadas sobre la base de suposiciones
+alternativas. En esta seccién, el Tribunal delinea en primer lugar los diferentes enfoques
+que adoptaron las Partes en el ejercicio de valuacién, antes de explicar las cifras de
+
+valuacion presentadas por los expertos durante la audiencia.
+
+1. A de i jizacién y fecha para la esti i6n de la ii izacid
+(a) Alegaciones de las Demandantes
+
+Las Demandantes afirman que tienen derecho a restitutio in integrum: eso es, una
+indemnizacién que los coloque en la posicién en la que habrian estado de no haber
+existido los actos ilicitos de la Demandada”. Como minimo, tienen derecho al valor justo
+de mercado de la Empresa SEMARCA (el que ellos definen que incluye el valor de su
+patrimonio en SEMARCA mas el valor de la parte de la terminal en La Cafiada ocupada
+por la compafiia”) como empresa en operacién antes de que se hiciera de conocimiento
+publico la expropiaciédn (el enfoque ex ante). En este enfoque, las operaciones se
+encuentran valuadas sobre la base de las expectativas razonables en esa fecha”?. Pero
+
+las Demandantes afirman que, dado que la expropiacion fue ilicita, tienen derecho a ser
+
+68 Navigant 2, [4]-[6].
+
+69 Brailovsky/Flores 2, [10].
+
+7° Por ejemplo, se les instruyé a los expertos de la Demandada excluir de sus calculos las cuentas por
+cobrar: 12/438/17 — T4/439/1.
+
+71 Memorial, [97].
+
+Memorial, [96].
+
+73 Presentacion de Navigant N.° 1, Diapositiva 4.
+
+19
+
+56.
+
+57.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+indemnizadas por los flujos de caja netos de los que habrian gozado entre la fecha de
+expropiacién y la fecha de este Laudo, mas el valor de la Empresa SEMARCA en una fecha
+
+posterior (el enfoque ex post’*).
+
+Las Demandantes afirman que el estandar de indemnizacion prescripto en el Articulo 5(1)
+del TBI representa la condicién para una expropiacion licita, pero ese Articulo 5(1) no
+prescribe el estandar de indemnizacién que se debe pagar por una expropiacién que el
+Tribunal ha declarado ilicita o ilegitima’>. En consecuencia, el estandar aplicable es
+proporcionado por el derecho internacional consuetudinario tal como lo refleja el caso
+de la Chorzéw Factory, que exige una reparacion para ‘borrar todas las consecuencias del
+acto ilegal’’. Esto se corresponde con el enfoque ex post de las Demandantes’’. El
+mismo estandar es aplicable a cualquier violacién del TBI (tal como una violacién de la
+garantia de trato justo y equitativo”*). Las Demandantes sostienen que aunque ‘en la
+mayoria de las disputas sobre expropiacion resueltas’ la indemnizacién ha sido medida al
+momento de la desposesion, en esos casos no se solicité indemnizacién adicional o habia
+
+insuficiente evidencia para determinar el incremento en el valor”.
+
+Las Demandantes alegan que si la indemnizacién debe ser estimada a la fecha de la
+
+desposesiédn, debe excluirse el impacto adverso de las medidas anteriores a la
+
+expropiacién que fueran adoptadas en aras de reducir el valor de los intereses de las
+
+Demandantes®™.
+
+74 Memorial, [100].
+
+5 Réplica, [129]-[133].
+
+76 Memorial, (105]-[106] & Réplica, [122]-[123], donde se cita La Fabrica de Chorzdw (Ex CL-147), 47.
+
+77 Memorial, [108].
+
+78 Memorial, [114].
+
+79 Réplica, [133].
+
+® Réplica, [136].
+
+20
+
+58.
+
+59.
+
+60.
+
+61.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+(b) Alegaciones de la Demandada
+
+La Demandada comienza por afirmar que en este caso no existe diferencia alguna entre
+una valuacién ex ante y una valuacidn ex post, dado que, por las razones descriptas supra,
+
+la Demandada no expropié a la propia Empresa SEMARCA®!.
+
+En la medida en que la fecha de valuacion pudiera marcar una diferencia, la Demandada
+alega que el Articulo 5(1) del TBI establece el estandar de indemnizacién. No se
+encuentra circunscripto por sus términos a las expropiaciones ‘licitas’, y la autoridad
+respalda la alegacién de que el estandar de compensacidon establecido por el Tratado
+aplicable deberja ser aplicable independientemente de si la expropiacin es licita (pero
+particularmente cuando la Unica conducta ‘ilegitima’ es la falta de pago de una
+indemnizacién*®). La Demandada distingue el caso ADC c. Hungria sobre la base de que
+la expropiacién fue considerada ilicita por una serie de razones mas alla de la falta de
+
+pago de una indemnizaci6n®.
+
+2. Método de valuacién
+(a) Alegaciones de las Demandantes
+
+En el enfoque ex post elegido por las Demandantes, sus expertos calcularon la
+indemnizacion en dos tramos: i) los flujos de caja netos perdidos de la Empresa SEMARCA
+desde el dia 7 de mayo de 2009 hasta la fecha del Laudo; y ii) el valor justo de mercado
+
+de la Empresa SEMARCA a la fecha del Laudo.
+
+En lo que se refiere al propio valor de las operaciones, las Demandantes adoptan el
+enfoque de ‘comprador dispuesto/vendedor dispuesto’ avalado por, inter alia, las
+Directrices del Banco Mundial®, y afirman que en el enfoque ex post el inversionista
+tiene derecho al valor mayor entre el valor de las operaciones en el momento de la
+
+expropiacién y el valor que habria tenido a la fecha del Laudo teniendo en cuenta las
+
+®1 Memorial de Contestacién, [96], [106].
+
+® Memorial de Contestacién, [96]-[102], donde se cita La Fabrica de Chorzdw (Ex RL-81), 47.
+
+® Memorial de Contestacién, [103].
+
+® Memorial, [109], donde se citan las Directrices del Banco Mundial sobre el Tratamiento de la Inversion
+Extranjera Directa (Ex CL-152).
+
+21
+
+62.
+
+63.
+
+64.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+rentas que habria obtenido en el interin al valuar las operaciones®*. Los expertos de las
+Demandantes utilizan una combinacién de metodologias de valuacion: en primer lugar i)
+un analisis de Flujos de Caja Descontados (DCF, por sus siglas en inglés), asistido por ii) el
+enfoque de compafiias comparables que se cotizan en bolsa y iii) el enfoque de
+transacciones comparables®. En pos de implementar el enfoque DCF, los expertos de las
+Demandantes proyectan flujos de fondos futuros hasta el dia 31 de marzo de 2019
+(utilizando la misma metodologia general en lo que se refiere al periodo 2009-2013) y
+determinan el valor restante de las operaciones mas alla del afio 2019 con un calculo de
+
+valor terminal (0 residual)®”.
+(b) Alegaciones de la Demandada
+
+La posicién principal de la Demandada es que no es adecuado valuar a la Empresa
+SEMARCA, dado que no fue expropiada. En la medida que sea necesario valuar las
+operaciones, los expertos de la Demandada afirman que sdlo el avaltio DFC es el
+adecuado, y rechazan los enfoques de compafiias y transacciénes comparables de las
+
+Demandantes por los motivos que se esgrimen infra.
+
+3. Elementos del avaluo
+(a) Alcance de las operaciones
+
+Las Partes difieren sobre el alcance y las perspectivas a largo plazo de las operaciones de
+
+SEMARCA a la fecha de expropiacién.
+
+Demandantes: en lo que se refiere a las perspectivas de las operaciones a largo plazo, las
+Demandantes impugnan la afirmacién de la Demandada de que SEMARCA era vulnerable
+a una ‘competencia dura’ y al riesgo de que PDVSA prestara servicios ‘internamente’®’.
+Afirman que SEMARCA tenia un historial probado de éxito y numerosas ventajas
+
+competitivas, y era una de las pocas compafiias bien ubicadas para prestar servicios a la
+
+8 Memorial, [110]-[113] & Réplica, [124]-[128], al citar ADC c Hungria (Ex CL-107), Siemens c Argentina
+(Ex CL-128), Vivendi c Argentina (Nueva Sumisién) (Ex CL-205) y Amco Asia ¢ Indonesia Il (Ex CL-161).
+
+®6 Memorial, [117], [130].
+
+®7 Memorial, (131]-[135].
+
+8 Réplica, [14], [145].
+
+22
+
+65.
+
+66.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+creciente demanda después del afio 2009*°. En consecuencia, el hecho de que SEMARCA
+no tuviera derecho garantizado a contratos futuros en el Lago no era motivo valido para
+ignorar su capacidad futura de devengar ingresos®°. Sostienen que PDVSA carecia de un
+plan de internalizacién viable, afirman que el mercado no habria considerado a los
+‘planes’ aislados de PDVSA como una amenaza realista a las perspectivas de SEMARCA, y
+alegan que, en cualquier caso, los planes limitados se encontraban mayormente
+
+concentrados en los servicios que no prestaba SEMARCA”..
+
+En el supuesto de que el Tribunal tenga en cuenta operaciones que las Demandantes
+habrian emprendido en el periodo entre la expropiacién y la fecha de este Laudo, las
+Demandantes sefialan varios proyectos costa afuera que afirman habrian redundado en
+la expansion de sus operaciones. En particular, identifican: el Proyecto Rafael Urdaneta,
+una operacién de perforacién de gas natural de envergadura al norte del Lago de
+Maracaibo (del cual era parte el Proyecto Cardén Ill, al que SEMARCA aportéd
+concretamente dos embarcaciones — High Quest y President Tide®-); el Proyecto Mariscal
+Sucre, en el cual se ha comprometido a invertir PDVSA®?; y el Proyecto Plataforma
+Deltana fuera de la costa oriental de Venezuela, respecto del cual SEMARCA estaba en
+discusiones en el momento de la expropiacién™. No sostienen que los proyectos en curso
+habrian continuado necesariamente, sino que las Demandantes habrian capturado una
+significativa cuota de mercado de las operaciones costa afuera para emplear las
+embarcaciones existentes y ademés otras seis®®. Tal como se observara supra, las
+Demandantes refutan la sugerencia de que conservaban la oportunidad de explotar
+
+oportunidades costa afuera®.
+
+Demandada: la Demandada hace hincapié en que después del afio 1975 las
+
+Demandantes tenian un Unico cliente en el Lago de Maracaibo: PDVSA y sus filiales®”. Sin
+
+® Réplica, [17}-[19].
+
+°° Réplica, [143].
+
+% Réplica, (20]-[24], [146], [161].
+
+° Memorial, [41]-[46]; Réplica, [27]-[29].
+
+°3 Memorial, [47]-[48]; Réplica, [29]-[32].
+
+°4 Memorial, [49]-[50]; Réplica, [33]-[34].
+
+°5 Réplica, [165].
+
+9° Réplica, (147]-[149].
+
+97 Duplica, [17].
+
+23
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+importar sus antecedentes comerciales, SEMARCA no tenia garantia alguna de proseguir
+la operacién y estaba sujeta al riesgo de que el Estado optara por reservarse para si las
+actividades en el Lago de Maracaibo, tal como lo hizo®*. PDVSA tenia planes firmes de
+
+internalizacion, y todo lo que hizo la Ley de Reserva fue acelerarlos®’.
+
+67. La Demandada afirma que la Ley de Reserva no impide que las Demandantes participen
+en las operaciones costa afuera’. Sin embargo, alega que la historia contradice los
+planes hipotéticos de expansién en Rafael Urdaneta, Mariscal Sucre y Plataforma
+Deltana?“, en circunstancias en las cuales el negocio real de SEMARCA era ‘virtualmente
+inexistente’!. Por lo tanto, la Demandada sostiene que las Demandantes no han podido
+establecer qué habrian hecho las 17 embarcaciones que las Demandantes suponen
+habrian operado en Venezuela’, al observar, en particular, que las embarcaciones
+President Tide y High Quest salieron de Venezuela después de que concluyera el Contrato
+
+Chevron™™,
+
+68. La Demandada alega que el reclamo por dajios de las Demandantes es especulativo,
+supone de manera inadmisible que SEMARCA continuaria prestando servicios a
+perpetuidad, y se opone a la autoridad de que no deberia concederse una indemnizacion
+por dafios y perjuicios en el supuesto de que los contratos se renovarian cuando no
+existfa derecho alguno de renovacién’®. Afirma que ningun comprador hipotético
+
+valoraria SEMARCA sobre esa base’.
+
+8 Duplica, [22], [138].
+
+°° Duplica, [23], donde se cita Figuera 1, [42]-[44] & Figuera 2, [26]-[27].
+1° Duplica, [26], [178].
+
+181 Diiplica, [56]-[64].
+
+182 Memorial de Contestacién, [124].
+
+403 Duplica, [66], [179]-[187].
+
+104 Duiplica, [187].
+
+25 Memorial de Contestacién, (126]-[128], donde se cita Merrill & Ring c Canadd (Ex RL-99) & CMS c
+Argentina (Ex CL-162).
+
+296 Duiplica, [144].
+
+24
+
+69.
+
+70.
+
+71.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+(b) Cuentas por cobrar y capital de trabajo
+
+Las Partes coinciden en que las cuentas por cobrar adeudadas a SEMARCA ascendian en
+total a USD 44.888.040 al dia 8 de mayo de 2009. No obstante, no estan de acuerdo en la
+
+manera en la cual deberian tratarse las cuentas por cobrar en el calculo de dafios.
+
+Las Demandantes sostienen que dado que han sido privadas del control u operacién de
+SEMARCA, las Demandantes no pueden cobrar las cuentas pendientes*”’. Alegan que en
+el supuesto de que no se hubieran cometido los actos expropiatorios, es razonable
+pensar que PDVSA habria podido cumplir con las obligaciones, y por lo tanto, incluyen las
+cuentas por cobrar en su estimacidn de dafios’®. Sin embargo, suponen que parte del
+monto restante al mes de enero de 2009 se habria mantenido remanente, y parte se
+habria destinado a cancelar pasivos de los proveedores, por ello sdlo incluyen en sus
+calculos 16,48 millones de ddlares estadounidenses’™. Por lo tanto, las Demandantes
+sostienen que los expertos de la Demandada han excluido equivocadamente de su
+
+calculo la mayor parte del capital circulante de SEMARCA™.
+
+La Demandada invoca la afirmacién de las Demandantes en la etapa de presentacién de
+documentos de que ‘no estan buscando el pago de las cuentas por cobrar en este
+procedimiento™” y en consecuencia, se les ordené a sus expertos que excluyeran de sus
+cAlculos las cuentas por cobrar™”. Cuando se les dieron instrucciones precisas a los
+expertos de la Demandada de incluir en sus cdlculos las cuentas por cobrar, sustrajeron
+USD 27.464.640 en pasivo corriente, dejando un monto total recuperable de USD
+
+17.423.400"3.
+
+297 Réplica, (150]-[151].
+
++8 Memorial, [36].
+
+209 12/293/1-9. El cdlculo se halla en las Respuestas de Navigant a Preguntas, Diapositiva 10.
+
+20 Réplica, [193]-[198].
+
+411 Duplica, [75], donde se cita la Resp de las Di a la Resp de la Di al
+
+ 
+
+Primer Documento Solicitado por las Demandantes (17 de marzo de 2011), [40].
+
+382 2/438/17 — 12/439/1.
+
+183 Respuestas de Brailovsky/Flores a Preguntas, Diapositiva 7 (valor de liquidacin). En los cdlculos de la
+
+Demandada del valor de SEMARCA en virtud de la hipdétesis de empresa en operacién (DCF), la diferencia
+
+entre la valoracién que inclufa las cuentas por cobrar (al 100%) y la que las excluia en su totalidad
+
+oscilaban entre 18,762 millones de ddlares estadounidenses y 19,252 millones de dolares
+
+25
+
+72.
+
+73.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+(c) Flujos de Caja
+
+Las Partes no estan de acuerdo en si es adecuado adoptar un margen de tres ajios de
+flujos de caja histéricos (es decir, FY2006 a FY2008) 0 un margen de cuatro afios (FY2006
+a 2009) a los fines del calculo de los flujos de caja en el analisis del DCF. El experto de las
+Demandantes incluye en sus calculos el FY20097"*. Los expertos de la Demandada opinan
+que incluirlo distorsiona las cifras, en tanto el FY2009 fue un ajio de ingresos petroleros
+historicamente elevados, con el consiguiente efecto en las tasas diarias que podia
+
+imponer SEMARCA?S.
+
+(d) Tasa de descuento
+
+Demandantes: Luego de haber calculado los flujos de caja, los expertos de las
+Demandantes los descuentan a la fecha de valoracién al calcular el Promedio Ponderado
+del Costo de Capital (WACC, por sus siglas en inglés). Este toma en cuenta tanto el costo
+de capital como el costo de deuda. Para calcular el costo de capital, el experto de las
+Demandantes utiliza el Modelo de Determinacién de Costo de Capital (CAPM, por sus
+siglas en inglés), que tiene en cuenta tres factores principales: (i) la tasa de rentabilidad
+para inversiones libres de riesgo; (ii) la prima por riesgo en el patrimonio; (iii) una medida
+de riesgo sistematico asociado con titulo de valor determinado en relacién al mercado
+como un todo (conocido como el valor beta); y (iv) una prima por riesgo de pais". Como
+punto preliminar, las Demandantes afirman que los expertos de la Demandada atribuyen
+un cddigo de industria equivocado cuando extraen los datos del Anuario
+Ibbotson/Morningstar Cost of Capital Yearbook, lo que en si produce una reduccién de
+3,74 en el WACC™”. En lo que se refiere a los componentes individuales de la tasa de
+
+descuento:
+
+ 
+
+dependiendo de los : comparense las cifras en la primera
+
+columna de las Diapositivas 10 y 11.
+
+234 Navigant 1, [121] (Figura 27); Navigant 2, [116]-[137].
+
+448 Brailovsky/Flores 1, [71]; Brailovsky/Flores 2, [72]-[83].
+
+26 Memorial, [138].
+
+107 Réplica, [184].
+
+26
+
+a)
+
+b)
+
+¢)
+
+qd)
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Para la tasa libre de riesgo, el experto de las Demandantes utiliza el rendimiento
+hist6rico promedio de diez afios en las Letras del Tesoro de los Estados Unidos
+
+Protegidas contra la Inflacién*®.
+
+Para la prima por riesgo en el patrimonio, el experto de las Demandantes utilizo
+5,0 por ciento, que se dice es el promedio aproximado del rango de estimaciones
+recomendado en los estudios empiricos®. Las Demandantes afirman que la
+prima de la Demandada se basa en una Unica fuente y, al 6,5 por ciento, se
+
+encuentra en la parte superior del rango corriente de 3,5 a 7 por ciento”°.
+
+Para el activo beta, el experto utilizo una muestra de compafiias comparables
+para derivar un beta desapalancado de 0,618, ajustando las cifras para una
+supuesto razon de deuda: capital de 10:90 para SEMARCA. Justifica esta razon
+baja en que SEMARCA alquilaba sus buques, lo que significa que tenia
+necesidades financieras modestas’*. Sostiene que en el supuesto de que los
+expertos de la Demandada utilizaran el cddigo de __ industria
+
+Ibbotson/Morningstar correcto, el beta aplicable es de 0,691.
+
+Para la prima riesgo pais (que da cuenta de los dos tercios de la diferencia en la
+tasa de descuento global entre los respectivos expertos), el experto de las
+Demandantes excluyen el impacto de ‘determinadas politicas gubernamentales
+venezolanas, tales como su agenda de nacionalizacién, la cual incremento el
+nivel de riesgo legal, regulatorio y politico’. Afirma que el riesgo de
+expropiacién debe excluirse porque el TBI los protege contra él, y critica que
+los expertos de la Demandada se apoyen en el informe Ibbotson-Morningstar
+porque se basa en datos empiricos que incorporan inevitablemente estos
+
+riesgos’?5. Eso deja el riesgo de la moneda (estimado como moderado dado que
+
+28 Memorial, [139].
+
+88 Memorial, [139].
+
+220 Réplica, [186].
+
+21 Memorial, [140].
+
+222 Réplica, [187].
+
+23 Memorial, [141]; Réplica, [168]
+224 Réplica, (169]-[172].
+
+25 Réplica, [173].
+
+27
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+la mayor parte de los beneficios era en ddlares estadounidenses); el riesgo
+macroeconémico (también estimado como moderado debido al papel
+fundamental del sector de servicio de soporte maritimo en la economia
+venezolana); y el riesgo social, como por ejemplo el riesgo de disturbios laborales
+(estimado como moderado). Ademas, las Demandantes afirman que datos
+recientes sugieren que los inversionistas en las transacciones del mundo real no
+estan aplicando descuentos significativos de ‘riesgo pais’!”°. Distinguen los casos
+que invoca en apoyo la Demandada’’. Por lo tanto, el experto de las
+
+Demandantes adopta una prima de riesgo pais de 1,5 por ciento.
+
+e) Por ultimo, el experto calcula el costo de deuda en base a las tasas promedio a
+las cuales compafiias comparables podrian tomar préstamos en dolares
+estadounidenses para los tres afios anteriores a la expropiacién, optando por un
+
+6,68 por ciento’”®.
+
+74. Las Demandantes refutan asimismo los ajustes a la baja adicionales propuestos por la
+
+Demandada para el riesgo comercial:
+
+a) Las Demandantes niegan que SEMARCA deba ser tratada como dependiente
+de un Unico cliente, PDVSA, dadas las oportunidades de expansién costa
+afuera’®. Aunque un comprador pudiera en principio descontar el valor de
+una compafifa para dar cuenta de la elevada concentracién de clientes, las
+Demandantes sostienen que el riesgo para SEMARCA era reducido dado que
+PDVSA ya contaba con una clientela diversificada y un extenso historial de
+
+operacién ininterrumpida®?°.
+
+b
+
+Las Demandantes alegan que la concentracién geografica no constituia un
+
+riesgo significativo porque a ningun comprador potencial le habria
+
+26 Réplica, [174].
+
+27 Réplica, [175]-[179], donde se cita Himpurna c PT (Persero) (Ex RL-82), AMT c Zaire (Ex RL-139),
+Lemire ¢ Ucrania (Ex RL-140) & Mobil Cerro Negro c PDVSA (Ex RL-83).
+
+28 Memorial, [142].
+29 Réplica, [156].
+
+230 Réplica, [158]-[160].
+
+28
+
+75.
+
+76.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+preocupado que el mercado para los servicios de SEMARCA se agotara de
+
+forma repentina®?*.
+
+¢)
+
+Por ultimo, las Demandantes disienten con que la Demandada agregue la
+prima alpha de 2,27 y la prima de pequefia empresa de 1,08%, porque no
+reflejan como un comprador dispuesto habria valorado SEMARCA en la vida
+
+real’,
+
+En combinacién, y suponiendo un razon deuda: capital de 10:90, el experto de las
+Demandantes propone un WACC de 6,96 por ciento***. Para capturar el valor de la
+Empresa SEMARCA, el experto de las Demandantes posteriormente calculo el valor
+residual (terminal) utilizando el modelo de crecimiento constante de dividendos, en
+virtud del cual se divide el flujo de caja libre en el afio final del periodo de proyeccién por
+la diferencia entre el WACC y la tasa de crecimiento de la economia a largo plazo™*.
+Utilizando como fecha de valuacién el dia 31 de diciembre de 2013 (es decir, el enfoque
+ex post), el experto de las Demandantes calcula una valuacion de la Empresa SEMARCA
+de 153.781.338 délares estadounidenses*°. En el enfoque ex ante, calculan una
+valuacién de 81.677.467 ddlares estadounidenses al dia 8 de mayo de 2009, ademas de
+
+intereses’*®.
+
+Demandada: En el supuesto de que el andlisis del DCF fuera adecuado (es decir, que el
+Tribunal decida avaluar la propia Empresa SEMARCA) los expertos de la Demandada
+
+adoptan el siguiente enfoque:
+
+a) Al calcular la tasa de descuento, los expertos tienen en cuenta tres
+elementos: el costo de capital para una empresa en operacién que opera en
+el sector de SEMARCA en una economia madura, el costo de capital debido al
+
+riesgo pais y el de deuda a SEMARCA””.
+
+331 Réplica, [162].
+
+22 Réplica, [188].
+
+233 Memorial, [143].
+
+434 Memorial, [144].
+
+385 Navigant 2, [4] (Tabla 1). Esto excluye la suma separada de los flujos de caja perdidos, aunque fueran
+
+tomados en cuenta al calcular el valor de las operaciones al dia 31 de diciembre de 2013.
+
+286 Navigant 2, [6] (Tabla 2).
+
+137 Memorial de Contestacién, [153].
+
+29
+
+b)
+
+¢)
+
+d
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Los expertos de la Demandada utilizan los métodos CAPM y el Modelo de
+Determinacién de Costo de Capital Internacional (ICAPM, por sus siglas en
+idioma inglés), y en particular la implementacién por Ibbotson/Morningstar
+del método ICAPM, confirmado por referencia al ‘método de aporreo’ del
+
+Profesor Damodaran***.
+
+En lo que se refiere al riesgo de capital, los expertos de la Demandada
+adoptan el 6,5%3°. Explican que esta cifra representa el costo mas preciso
+del patrimonio neto a largo plazo y es respaldado tanto por el informe
+Ibbotson-Morningstar, que compara datos desde 1926 hasta la fecha de
+valuacién, como por otras fuentes de datos publicadas™°. Los expertos de la
+Demandada sostienen que la cifra de las Demandantes no es fiable, en tanto
+
+se basa en datos posteriores a la fecha de valuaci6n.
+
+En lo que se refiere al riego pais, la Demandada afirma que la tasa de
+descuento adoptada por el experto de las Demandantes ni siquiera seria
+adecuada para un proyecto en los Estados Unidos. Al invocar Himpurna, AMT,
+Lemire y Mobil Cerro Negro, |a Demandada sostiene que se deberia utilizar
+un riesgo pais mucho mas elevado***. Alega que la exclusién por parte de las
+Demandantes de factores tales como el riesgo de expropiacién se basa en
+una premisa equivocada. La regla de que el valor de un activo debe estimarse
+a una fecha anterior al anuncio de la expropiacion especifica no significa que
+se deba ignorar el riesgo general de la intervencién del gobierno que siempre
+ha acompafiado a las actividades de inversibn en Venezuela, incluido el
+riesgo de que el gobierno reserve al Estado un determinado sector de
+actividad”. No es una respuesta adecuada afirmar que estos riesgos son
+
+controlados por el Estado’?. El TBI tampoco permite que se excluya del
+
+238 Memorial de Contestacién, [153].
+
+239 Brailovsky/Flores 1, Tabla IV.1.
+
+140 Brailovsky/Flores 2, [201] — [209], Tabla IV.4; Informe Ibbotson-Morningstar, BF-23, Tabla A-1.
+
+241 Memorial de Contestacién, (139}-[144], Duplica, [167]-[170], donde se citan en particular Himpurna c
+PT (Persero) (Ex RL-82), AMT c Zaire (Ex RL-139), Lemire c Ucrania (Ex RL-140) & Mobil Cerro Negro c
+
+PDVSA (Ex RL-83).
+
+22 Memorial de Contestacién, [145]-[147].
+
+283 Duplica, [167].
+
+30
+
+77.
+
+78.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+analisis ese riesgo’. Los expertos de la Demandada proponen un riesgo pais
+
+para el capital de 14,76% y para la deuda de 11,89%"*°.
+
+e
+
+La Demandada afirma asimismo, al invocar el informe pericial del Profesor
+Wells, que se debe aplicar un descuento significativo para tener en cuenta el
+riesgo comercial, impulsado por el hecho de que SEMARCA operaba en base
+a contratos a corto plazo sin compromisos a largo plazo, y debido a la
+dependencia de SEMARCA de un cliente unico’®. La Demandada sostiene
+que las Demandantes confunden el riesgo de ‘cliente Unico’ con el riesgo de
+
+1147
+
+‘proveedor unico’**’, y que no tienen respuesta alguna para el riesgo de
+
+internalizacion"*.
+
+f) Teniendo en cuenta un razén deuda:capital adecuada, los expertos de la
+Demandada calcularon una tasa de descuento global del 24,57%*°.
+
+Los expertos de la Demandada presentan una valuacién final (en el supuesto de que el
+enfoque DCF sea el adecuado) de 2,9 millones de ddlares estadounidenses +,
+comparado con su valuacién de liquidacién de 1,6 millones de __ddlares
+
+estadounidenses*™.
+
+(e) Compaiiias y transacciones comparables
+
+Demandantes: los expertos de las Demandantes complementan sus calculos de DCF
+
+mediante el andlisis de compafifas comparables y transacciones comparables!:
+
+a) Los expertos identifican a tres compafiias cotizadas publicamente mas
+
+directamente comparables a SEMARCA, les asignan a cada una de dichas
+
+24 Memorial de Contestacién, [148]-[151]; Duplica, (171]-[175].
+
++45 Brailovsky/Flores 1, Tabla IV.1
+
+¥4 Memorial de Contestacién, [134]-[137]; Duplica, [146]-[160].
+
+247 Duplica, [156].
+
+¥48 Duplica, [158].
+
+29 Memorial de Contestacién, [153].
+
+150 Brailovsky/Flores 2, Tabla Ill.1.
+
+151 Brailovsky/Flores 2, Tabla Il.1.
+
+152 Réplica, [199]-[203].
+
+31
+
+79.
+
+80.
+
+b
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+compaifiias una calificacién de comparabilidad y posteriormente la ponderan
+de conformidad al miultiplo de Valor Empresarial/Ganancias Antes de
+Intereses e Impuestos (EV/EBIT, por sus siglas en inglés). Multiplicando el
+EBIT de SEMARCA para el afio 2013 por el multiplo EBIT ponderado produce
+el valor de la empresa’?. Los expertos refutan la afirmacién de la
+Demandada de que las compaiiias seleccionadas estan asociadas con perfiles
+de riesgo pais muy diferentes, porque una gran parte de la diferencia esta
+atribuida a un riesgo de expropiacién no indemnizado y a_ riesgos
+relacionados, y porque no existe correlacién alguna entre costo de capital
+‘interno’ y los miultiplos de valuacién EV/EBIT de las compaiias
+
+seleccionadas’™*.
+
+Los expertos adoptan un enfoque similar para transacciones comparables, al
+identificar seis en el periodo 2010 a 2013 que son eventualmente
+
+comparables a SEMARCA*?.
+
+Demandada: los expertos de la Demandada rechazan ambos analisis comparables de las
+
+Demandantes. Afirman que cada una de las empresas seleccionadas por las
+
+Demandantes opera sus propias embarcaciones; las empresas no trabajan en forma
+
+exclusiva en un area geografica o para un cliente Unico; la totalidad de las empresas son
+
+de mayor envergadura que SEMARCA; y las Demandantes no dan cuenta de diferentes
+
+riesgos pais
+
+4.
+
+156
+
+Intereses
+
+(a) Alegaciones de las Demandantes
+
+Las Demandantes pretenden que se les adjudiquen tanto intereses compuestos
+
+anteriores al laudo como intereses compuestos posteriores al laudo’*”. Las Demandantes
+
+proponen que la tasa deberja calcularse por referencia a la tasa de deuda soberana de
+
+153 Memorial, [146].
+
+154 Réplica, [201]-[202].
+
+155 Memorial, [147]-[148].
+
+156 Memorial de Contestaci6n, [155]; Duplica, [164].
+
+157 Memorial, [156]-[163]; Réplica, [208].
+
+32
+
+81.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Venezuela, ya que de otro modo las Demandantes habrian sido obligadas a servir como
+acreedores obligatorios de la Demandada. Alternativamene proponen una ‘tasa
+comercial normal’ segun lo exige el TBI. Sus expertos proponen como alternativa a la tasa
+de deuda soberana de Venezuela la Tasa de Interés Preferencial de los Estados Unidos +
+2 por ciento, o LIBOR + 4 por ciento’*. Afirman que la tasa propuesta por la Demandada
+
+no puede ser considerada como una tasa comercial normal**?.
+
+(b) Alegaciones de la Demandada
+
+La Demandada alega que los intereses anteriores al Laudo deberian basarse en una tasa a
+corto plazo y libre de riesgo, como la letra del Tesoro de los Estados Unidos mas 1,33 por
+ciento. De otro modo las Demandantes serian indemnizadas por riesgos que no
+asumieron’©°. La Demandada sostiene que el interés simple es el adecuado de acuerdo
+
+con el derecho venezolano y el derecho internacional!*.
+
+uM EL ANALISIS DEL TRIBUNAL
+
+82.
+
+Responsabilidad
+
+En su Decisién sobre la Jurisdiccién, el Tribunal resolvid que "tiene jurisdiccidn sobre los
+reclamos de Tidewater Barbados y de Tidewater Caribe conforme al articulo 8 del TBI con
+Barbados, en la medida en que tales reclamos se refieren a supuestos incumplimientos
+de la Demandada en virtud del Tratado que surgieron después del 9 marzo de 2009".
+Concluy6 que todos los demas reclamos planteados por el resto de las Demandantes se
+encontraban fuera de su jurisdiccién y no podian proceder en el marco del presente
+arbitraje. Estos incluian, principalmente, los reclamos de supuesta expropiacion de sus
+
+buques por parte de sociedades relacionadas de Tidewater Barbados dentro del grupo
+
+458 Réplica, [205]-[206].
+
+159 Réplica, [207].
+
+160 Memorial de Contestacién, [157]-[158]; Duplica, [190].
+
+461 Memorial de Contestacién, [159].
+
+182 Decisién sobre la Jurisdiccién, [199(2)].
+
+33
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Tidewater que eran propietarias de los buques utilizados por SEMARCA a efectos de la
+
+operacion de sus negocios en Venezuela.
+
+83. Al momento de adoptar su Decisién, el Tribunal tuvo que considerar las alegaciones de
+hecho actuales de las Demandantes en cuanto a los actos de la Demandada que dieron
+lugar a sus reclamos. El Tribunal tuvo que proceder a la evaluacién de estos hechos. El
+fundamento principal de la excepcidn a la jurisdiccidn formulada por la Demandada en
+virtud del TBI (finalmente rechazado por el Tribunal) consistia en afirmar que la
+invocacién por parte de las Demandantes del consentimiento al arbitraje de la
+Demandada en virtud del TBI constituia un abuso del proceso, dado que la controversia
+objeto del presente procedimiento ya existia o podria razonablemente haber sido
+prevista al momento de la constitucién de Tidewater Barbados y la transferencia a ella de
+
+la propiedad de Tidewater Caribe. Esto dependia de cuestiones de hecho*®.
+
+84. Sin embargo, es indiscutible que ninguna conclusiédn de hecho a la que un tribunal
+internacional arribe en el contexto de una impugnacidn de la jurisdiccién puede ser
+vinculante al momento de su determinacién posterior del fondo de la controversia. Por el
+contrario, a efectos de su determinacién en materia jurisdiccional, el tribunal de arbitraje
+debe presumir la veracidad de los hechos que sustentan el reclamo sobre el fondo
+alegados por la parte demandante (a menos que sea evidente que carecen de
+fundamento). En ese sentido, puede decirse que su determinacién es prima facie. Al
+momento de aplicar los hechos presuntos a la cuestidn legal de la jurisdiccién planteada
+ante él, el tribunal debe caracterizar tales hechos en forma objetiva a fin de determinar
+de manera definitiva si se encuentran dentro o fuera del alcance del consentimiento de
+las Partes. Al momento de realizar esta determinacion, el tribunal no puede adoptar
+simplemente la caracterizaci6n de la parte demandante sin examinarla. De este modo, el
+tribunal cuya jurisdiccidn se objeta establece un equilibrio entre evitar un prejuzgar el
+fondo, por un lado, y determinar objetivamente la cuestidn de la jurisdiccion, por el otro.
+Asi lo demuestra la jurisprudencia uniforme de la Corte Internacional de Justicia’ y de
+
+los tribunales CIADP®.
+
+183 jbid., [145].
+464 Qil Platforms (CL-39), [16]; Opinién Separada de Higgins, [31].
+
+285 UPS ¢ Canadé, 296-7; Continental Casualty c Argentina, (60]-[64]; Duke c Perd, [115]-[123]; Phoenix
+Action c Republica Checa (RL-45), (63]-[64].
+
+34
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+85. Por lo tanto, se concluye que el Tribunal aborda la determinacion de la responsabilidad
+sustantiva de la Demandada frente a las Demandantes, si la hay, de nuevo y en base al
+expediente probatorio presentado durante la fase escrita y oral de la etapa sobre el
+
+fondo.
+
+1. Expropiacién
+a) Causas del reclamo
+
+86. La primera y principal causa del reclamo planteado por las Demandantes consiste en
+afirmar que la Demandada expropi6 las inversiones de las Demandantes en Venezuela
+sin el pago de una pronta, adecuada y efectiva indemnizacién en violacién del Articulo 5
+del TBI*®.
+
+87. El Tribual analiza este reclamo en los siguientes cuatro pasos:
+
+a) Primero, considera los elementos constitutivos de la causa prevista por los Estados
+
+Contratantes en el Articulo 5 del propio TBI;
+
+(b) Segundo, identifica y analiza las medidas pertinentes adoptadas por el Estado que
+
+supuestamente constituyen los actos expropiatorios;
+
+c) Tercero, evalia si dichas medidas realmente tuvieron un efecto expropiatorio y, en caso
+
+afirmativo, en qué medida; y,
+d) Cuarto, considera si, en ese caso, dicha expropiacion fue licita o no.
+88. El Articulo 5 dispone lo siguiente:
+
+1) Las inversiones de nacionales 0 sociedades de una Parte Contratante no serdn objeto de
+nacionalizacién, expropiacién o de medidas equivalentes a nacionalizacién o expropiacién (en
+adelante denominadas "expropiacién"’) en el territorio de la otra Parte Contratante, salvo que
+dichas medidas se tomen por causas de interés pUblico relacionadas a las necesidades
+internas de dicha Parte Contratante, sobre una base no discriminatoria y en contrapartida de
+una pronta, adecuada y efectiva indemnizacién. La indemnizacién equivaldra al valor del
+mercado de su inversién expropiada inmediatamente antes de la expropiacién o de que se
+haga del conocimiento publico la expropiacién inminente; en cualquiera de los casos, incluira
+intereses a una tasa comercial normal hasta la fecha del pago y sera hecha sin demora, sera
+
+efectivamente realizable y libremente transferible. El nacional o la sociedad afectada tendran
+
++66 Solicitud, [56(a)(i)]; Ex C-10.
+
+35
+
+89.
+
+90.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+derecho de conformidad con la legislacion de la Parte Contratante que realice la expropiacion
+a una pronta revisién del caso y del avaluo de su inversién, por un Juez u otra autoridad
+independiente de esa Parte de conformidad con los principios establecidos en este pdrrafo.
+2) Cuando una Parte Contratante expropie los bienes de una sociedad organizada o
+constituida de conformidad con la legislacién vigente en cualquier parte de su propio
+territorio y en la cual nacionales o sociedades de la otra Parte Contratante posean acciones,
+deber asegurar que las disposiciones del pdrrafo (1) de este Articulo se apliquen en la
+medida necesaria para garantizar la pronta, adecuada y efectiva indemnizacién por su
+inversién a dichos nacionales 0 sociedades de la otra Parte Contratante que son propietarios
+de esas acciones.
+El término "inversion" se define en el Articulo 1 como "todo tipo de activo invertido por
+nacionales o sociedades de una Parte Contratante en el territorio de la otra Parte
+Contratante". Tales activos incluyen, inter alia, acciones en una compafiia’®’, buena fe y
+
+conocimientos técnicos (know-how)*®.
+
+De alguna manera, el Articulo 5 se encuentra habitualmente en muchos tratados de
+inversién. No prohibe la expropiacidn de las inversiones. En su lugar, cada Parte
+Contratante se compromete a expropiar solo si se cumplen determinadas condiciones
+
+especificas. La expropiacion debe reunir los siguientes requisitos:
+
+a) ser "por causas de interés publico relacionadas a las necesidades internas de dicha
+Parte Contratante";
+b) "sobre una base no discriminatoria"; y
+c) "en contrapartida de una pronta, adecuada y efectiva indemnizacion".
+Los Estados Contratantes extienden estas salvaguardias a "medidas equivalentes a
+nacionalizacién o expropiacién". También se comprometen a realizar una pronta revision
+
+judicial o independiente del caso del inversionista y del avallo de su inversién de
+
+conformidad con los principios establecidos en el Articulo 5.
+
++67 articulo 1(a)(ii).
+
+468 Articulo 1(a)(iv).
+
+36
+
+91.
+
+92.
+
+93.
+
+94.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+(b) Medidas pertinentes
+
+Se invocaron cuatro medidas constitutivas de actos mediante los cuales la Demandada
+
+expropié las inversiones de las Demandantes en Venezuela:
+i) Ley de Reserva de fecha 7 de mayo de 2009*®;
+ii) Resolucion Ministerial N.° 51 de fecha 8 de mayo de 2009?”°,
+
+iii) Confiscacion fisica de las operaciones comerciales de SEMARCA en La Cafiada, Lago
+
+de Maracaibo el dia 9 de mayo de 2009; y,
+
+iv) Confiscacion fisica de la operacién comercial de SEMARCA en Corocoro el dia 12 de
+
+julio de 2009.
+
+Es necesario tomar cada una de estas medidas por separado..
+
+(i) Ley de Reserva
+
+La propia Ley de Reserva, adoptada por la Asamblea Nacional de Venezuela el dia 7 de
+mayo de 2009, lleva el titulo de: Ley Organica que Reserva al Estado Bienes y Servicios
+
+Conexos a las Actividades Primarias de Hidrocarburos.
+
+Su objeto se encuentra establecido en el Articulo 1 y consiste en: ‘la reserva al Estado,
+por su caracter estratégico, de bienes y servicios, conexos a la realizacién de las
+actividades primarias previstas en la Ley Organica de Hidrocarburos’. En lo sucesivo,
+estas actividades deben ser realizadas por PDVSA, 0 la filial que esta designe, o a través
+de empresas mixtas controladas por ellas. Se las declara servicio publico y de interés
+
+publico y social*7*.
+
+Los bienes y servicios asi reservados incluyen ‘[I]os vinculados a las actividades en el Lago
+de Maracaibo: buques para [fines diversos]; mantenimiento de buques en talleres,
+muelles o diques de cualquier naturaleza’””. El Ministerio del Poder Popular para la
+
+Energia y Petrdleo con competencia en materia petrolera (el Ministerio) se encuentra
+
+169 Ex C-12.
+
+179 Ex C-13.
+
+471 articulo 5.
+
+1? articulo 2.
+
+37
+
+95.
+
+96.
+
+97.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+facultado para determinar mediante resolucién aquellos bienes y servicios de empresas a
+los que se les aplique la Ley’”?. Todo contrato vigente relacionado con las actividades
+reservadas se extinguira de pleno derecho’. A partir de la fecha de publicacién de la Ley,
+PDVSA o la filial que esta designe ‘tomard posesién de los bienes y control de las
+
+operaciones referidas a las actividades reservadas’””.
+
+El Ejecutivo Nacional se encuentra facultado para decretar la expropiacion total o parcial
+de las acciones o bienes de las empresas que realicen las actividades reservadas?”*. El
+justiprecio por una expropiacién tal se circunscribira al valor contable de los bienes. ‘[E]n
+
+ningtin caso se tomaran en cuenta ni el lucro cesante ni los dafios indirectos!””.
+
+Tal como se resumiera supra, la Ley de Reserva tenia dos funciones: a) la reserva para el
+Estado, en aras del interés publico, de las funciones de apoyo a la industria petrolera
+especificadas en esta ley; conjuntamente con b) la nacionalizacién de los bienes y
+operaciones de las empresas privadas que en ese momento desarrollaban estas
+
+actividades y prestaban estos servicios.
+
+Estas dos funciones se encontraban interconectadas. El Sr. Figuera, un testigo convocado
+por la Demandada, quien en ese momento se desempefiaba como Gerente General de
+las Compafifas Mixtas Costa Afuera para la Corporacién Venezolana del Petrdleo SA (CVP),
+
+una filial totalmente controlada por PDVSA, declar6 lo siguiente ante el Tribunal:
+
+[Nluestras operaciones en el Lago Maracaibo son enormes. Tenemos més de siete mil pozos,
+todos ellos son independientes, estan aislados. Siete mil pozos y mas de 17 mil kilémetros de
+oleoductos en la parte inferior del Lago, en el lecho del Lago. Tenemos aproximadamente
+doscientos, si no me equivoco, estaciones de flujo que tenemos que supervisar, mantener y
+operar. Tenemos una enorme cantidad de instalaciones, y ni siquiera quiero mencionar las
+plataformas de perforacién, y también todas las barcazas que estan alli y que se utilizan para
+colocar los ductos y también para las actividades de construccién y produccién en el Lago
+
+Maracaibo.
+
+173 Articulo 3.
+
+7 Ibid.
+
+15 Articulo 4.
+
+18 articulo 6.
+
+177 Ibid.
+
+38
+
+98.
+
+99.
+
+100.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Tenemos mas de 400 embarcaciones nuestras, y hemos contado siempre con una capacidad
+importante, significativa, para operar en el Lago. Pero sin embargo, eso no era suficiente.
+Entonces, hasta cierto punto bastante importante, dependiamos de los contratistas.
+
+Hay embarcaciones que... bueno, no las tenemos; tenemos algunos buques de suministro
+solamente . Eso nunca nos preocupamos de desarrollarlo 17°.
+
+La conclusién que saca del texto de la Ley de Reserva y de estas pruebas es que el
+
+objetivo de Venezuela al reservar para el Estado las actividades de servicios petroleros
+
+pertinentes exigia de manera integral la nacionalizacién de los bienes e instalaciones de
+los operadores privados que operaban en ese momento en el Lago de Maracaibo. Sin
+
+esta nacionalizacién, no podria haberse alcanzado el objeto de la Ley de Reserva.
+(ii) Resolucién Ministerial N.° 51 de 8 de mayo de 2009
+
+La Resoluciédn Ministerial contemplada en la Ley de Reserva fue promulgada al dia
+siguiente, el viernes 8 de mayo de 2009?”°. Reza asi: las ‘actividades que fueron objeto de
+esquemas de tercerizacién [outsourcing]... colocan en situacién de vulnerabilidad al
+Estado Venezolano’, de modo tal que se requiere ‘corregir y recuperar el
+desmembramiento de aspectos esenciales de la actividad petrolera, ya que ello atenta
+contra la soberania nacional’®”. Resuelve que ‘[I]os servicios de empresas o sectores y
+bienes... y las empresas que realizan dichas actividades que son afectadas por la medida
+de toma de posesidn’ son una serie de empresas enumeradas, incluida SEMARCA?*!. ‘Se
+instruye a PDVSA, o la filial que ésta designe, a tomar el control de las operaciones y
+posesion inmediata de las instalaciones, documentacién, bienes y equipos, afectos a las
+
+actividades a que se refiere esta Resoluci6én*®”.
+
+(iii) Confiscacion fisica de los activos de SEMARCA en La Cafiada el dia 8 de
+
+mayo de 2009
+
+Ese mismo dia, el viernes 8 de mayo de 2009, PDVSA asumid, tal como quedara asentado
+
+en un acta judicial contemporanea ‘la toma de los activos y control de las operaciones
+
+7871/141/7-19.
+
+179-13.
+
+48° |bid., Considerandos 1 & 2.
+
+181 Articulo 1; item 31, cuyas actividades se describen como ‘[Blarcaza con gria para transporte de
+
+materiales, diésel, agua industrial y otros insumos; remolcadores’.
+
+182 Articulo 2.
+
+39
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+relacionadas con las actividades reservadas y pertenecientes a la sede operativa de...
+SEMARCA?*?”. [Traduccién del Tribunal] El Sr. Kehoe, quien por ese entonces se
+desempefiaba como Gerente de SEMARCA, describe este evento en los siguientes
+
+términos en su Declaracion testimonial:
+
+Aproximadamente a la 1:30 AM del 8 de mayo de 2009, la Guardia Nacional venezolana llegd
+a la oficina central de SEMARCA en La Cajlada, entré a las instalaciones, y tomé el control.
+Nosotros no recibimos ninguna notificacién de que la Guardia Nacional vendria. A
+aproximadamente a las 5:00 AM, llegaron tres autobuses, cargados de muchos trabajadores
+de PDVSA vestidos completamente de rojo. Estos trabajadores de PDVSA también
+participaron en la toma de las instalaciones. Luego de la llegada de la Guardia Nacional, no se
+les permitié el ingreso a las instalaciones a los gerentes de SEMARCA excepto por citas
+especificas que debian ser solicitadas a través de la gerencia local de PDVSA. Se esperaba que
+los empleados de la némina regular (no gerencial) de SEMARCA se reportaran a trabajar luego
+
+de la toma***.
+
+(iv) Confiscacion fisica de los activos de SEMARCA en Corocoro el dia 12 de
+
+julio 2009
+
+101. Posteriormente, el dia 12 de julio de 2009, PetroSucre, sociedad afiliada de PDVSA,
+confiscé las operaciones restantes de SEMARCA en Corocoro en el Golfo de Paria,
+incluidos los cuatro buques que operaban en ese lugar. Se dieron instrucciones precisas a
+las tripulaciones de esos buques de que a partir de ese momento trabajarian para
+PetroSucre!®*. La Demandada no controvierte esta toma’®*. Sostiene que la Ley de
+Reserva se circunscribia a los servicios y actividades en el Lago de Maracaibo*’. Al ser
+
+interrogado por el Tribunal respecto del motivo por el cual estos buques fueron
+
+ 
+
+expropiados, el Sr. Figuera respondié:
+La Ley de Reserva indicaba que todas las embarcaciones relacionadas con el Lago Maracaibo y
+las operaciones en el lago Maracaibo debian ser tomadas. Asi que todas estas embarcaciones
+registradas en el Lago Maracaibo, que pertenecian a la flota del Lago Maracaibo, debian ser
+
+objeto de la toma. Estas inversiones también funcionaban en el Lago Maracaibo, y muchas
+
+283 C.13,
+
+284 Kehoe 1, [35].
+
+285-102.
+
+285 Memorial de Contestacién, [16].
+
++87 Duplica, [79].
+
+40
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+veces vimos que hubo una movilizacién desde Corocoro a las operaciones del Lago Maracaibo
+y brindaban servicios a nuestra flota, como parte de la flota del Lago Maracaibo”.
+
+102. En cualquier caso, la prueba indiscutida es que estos buques operaban, y continuaron
+
+operando al menos durante algun tiempo después de la confiscacién, para PetroSucre en
+
+Corocoro. Su confiscacién dio por terminadas las operaciones de SEMARCA en Venezuela.
+
+(c) Efecto expropiatorio
+
+103. La siguiente cuestidn consiste en determinar si estas confiscaciones tuvieron el efecto de
+nacionalizacién o expropiacién o si constituyeron ‘medidas que tuvieron un efecto
+equivalente a la nacionalizacién o expropiacién’ de la inversién de las Demandantes en
+
+Venezuela.
+
+104. Tal como lo confirman los términos del Articulo 5 del TBI, esta admitido en el derecho
+internacional que la expropiacién no necesita involucrar una toma del titulo de
+propiedad. Es suficiente que las medidas del Estado tengan un efecto equivalente. Tal
+como lo afirmara un tribunal:
+
+Toda vez que un Estado adopte medidas cuyo efecto es privar al inversionista del uso y
+beneficio de su inversién aunque pueda conservar la propiedad nominal de los derechos
+respectivos que constituyen la inversién, con frecuencia se hace referencia a estas medidas
+como expropiacién “progresiva” o “indirecta”, 0, como en el TBI, medidas “equivalentes a
+expropiacién®®”. [Traducci6n del Tribunal]
+
+105. Al llegar a una evaluacién de si las medidas tuvieron un efecto equivalente a la
+expropiacion, el Tribunal estima de utilidad considerar los factores invocados por el
+tribunal en Pope & Talbot como de relevancia en la determinacién de si la medida de un
+
+Estado tiene este efecto, a saber si:
+a) La inversién ha sido nacionalizada o la medida es confiscatoria;
+
+b) El inversionista conserva el control de la inversién y dirige sus operaciones
+
+cotidianas, o si el Estado ha tomado posesion de esta administracién y control;
+
+c) El Estado en este momento supervisa el trabajo de los empleados de la Inversion; y,
+
+288 71 /143/31-11/144/2.
+
+189 Middle East Cement c Egipto (CL-171), [107].
+
+41
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+d) El Estado se queda con el producto de las ventas de la compafia’®”.
+
+106. La Demandada acepta que los buques fueron expropiados, pero (correctamente) sefiala
+
+107.
+
+108.
+
+que, como consecuencia de la Decisién sobre la Jurisdiccién, la expropiacién de estos
+buques -sea en el Lago de Maracaibo o en Corocoro—que no era de titularidad de las
+Demandantes sino de sociedades vinculadas, esta fuera de la jurisdiccién del presente
+Tribunal. Acepta asimismo haber expropiado los activos tangibles de SEMARCA en La
+Cafiada, pero sostiene que estos tenfan un valor minimo?*?. Sin embargo, afirma que las
+acciones de las Demandantes en SEMARCA no fueron, ni han sido expropiadas. Por lo
+tanto, alega, otros bienes de SEMARCA, incluidas las cuentas por cobrar, permanecen en
+manos de las Demandantes, quienes conservan la libertad de participar en otras
+operaciones de suministro de petrédleo en Venezuela fuera del ambito de las actividades
+
+en el Lago de Maracaibo reservadas al Estado en virtud de la Ley de Reserva.
+
+La Demandada sefiala que, después de la primera confiscacién el dia 8 de mayo de 2009,
+SEMARCA procedio a afirmar su propiedad de los activos de la compafiia; a reclamar el
+pago de las cuentas por cobrar (que las Demandantes continuaron asentando en sus
+libros); y a pretender una reparacion por la confiscacién. Continué asimismo ejecutando
+sus contratos con PetroSucre en Corocoro, y con Chevron, facturando y procurando
+obtener el pago por deudas pendientes sobre esos contratos, y negociar contratos con
+Repsol relacionados con operaciones venezolanas. Esta conducta, sostiene la Demandada,
+es consistente con la titularidad ininterrumpida de SEMARCA por parte de las
+
+Demandantes’”.
+Al ser cuestionado en este respecto, el Sr. Kehoe declaré lo siguiente:
+
+[Lla expropiacién, para mi, fue un periodo de transicién desde el inicio, es decir, 8 de mayo a
+12 de julio. Al inicio pensamos que esto no nos iba a suceder, pero después, a medida que los
+hitos fueron concretandose, nos dimos cuenta de que era una realidad hasta la expropiacién
+
+final de las embarcaciones de PetroSucre en julio, 127°.
+
+190 Pope & Talbot c Canadd (RL-163), [100].
+
+191 74/851/11-15.
+
+182 En particular, la Demandada hace referencia a: SEMARCA a Petrosucre, 14 de julio de 2009 (Ex C-102);
+Estado de Cuentas por cobrar de Tidewater al 31 de julio de 2009 (C-27); Kehoe 2, [18] nota 13; Balance
+Provisional de SEMARCA al 31 de julio de 2009 (NAV-473).
+
+193 71/65/28-31.
+
+42
+
+109.
+
+110.
+
+111.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+El Tribunal ha ponderado esta prueba de manera minuciosa. Acepta el relato del Sr.
+Kehoe. La primera confiscacién se produjo sin advertencia alguna el mismo dia de la
+promulgacién de la Resolucién Ministerial, el dia posterior a la promulgacién de la propia
+Ley de Reserva, que elimind a las Demandantes del control de la sede de sus operaciones
+en La Cafiada. Las Demandantes habian operado un negocio de suministro de petrdleo
+en Venezuela durante cincuenta afios a ese nivel. Mientras que la confiscacién les habria
+tomado por sorpresa, el Tribunal no considera sorprendente que las Demandantes no
+aceptasen de manera inmediata este efecto. Ademas, el alcance de ese efecto sobre las
+inversiones de las Demandantes no fue finalmente claro hasta la confiscacién de los
+buques restantes en Corocoro alrededor de dos meses mas tarde. En estas circunstancias,
+los documentos de las Demandantes que confirman la continuidad de sus operaciones en
+este periodo de intervencién son consistentes con una comprension incipiente de que
+sus operaciones habjan sido nacionalizadas. No sustentan la proposicién de que, después
+del dia 12 de julio de 2009, las Demandantes conservaran el control efectivo de
+
+SEMARCA, su inversion en Venezuela.
+
+Por el contrario, pruebas contemporaneas de los Tribunales venezolanos avalan esta
+conclusién de que las operaciones en su conjunto habjan sido efectivamente
+nacionalizadas. Cuando los empleados de SEMARCA incoaron demandas laborales contra
+la compafifa en los meses de junio de 2009 y diciembre de 2009, los Tribunales
+ordenaron que las demandas se cursaran al Procurador General de la Republica. El
+expediente mostré que sdlo después de realizada la notificacidn pudieron continuar los
+procedimientos. En Tribunal explicé, en el primer caso, que eso fue ‘[pJor cuanto este
+Tribunal observa, que la Demandada de autos sociedad mercantil Tidewater Marine
+Service Compafifa Anénima, también conocida como SEMARCA, ha pasado a formar
+parte del Estado Venezolano, constituyendo un hecho notorio y comunicacional en el
+pais!*”. En el segundo caso, el Tribunal observé: ‘TIDEWATER MARINE SERVICE, C.A.
+(SEMARCA) es una empresa que fue objeto de expropiacién segtin consta en la
+Resolucién Numero 51... ya que se considera que la misma tiene un cardcter necesario y
+
+estratégico para Petréleos de Venezuela, S.A. y sus filiales!°™.
+
+Esta prueba se encuentra asimismo corroborada por la declaracién testimonial en la
+
+audiencia de testigos convocados tanto por las Demandantes como la Demandada. El Sr.
+
++54 Sentencia del dia 2 de junio de 2009 (Ex C-229).
+
++85 Sentencia del dia 14 de diciembre de 2009 (ExC-230).
+
+43
+
+112.
+
+113.
+
+114.
+
+115.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Kehoe, testigo para las Demandantes, declaré que, como consecuencia de la confiscacién,
+PDVSA obtuvo ‘toda la infraestructura de nuestra empresa, de SEMARCA, en Venezuela
+en ese momento’. El Sr. Figuera, testigo para la Demandada, confirmé que ‘PDVSA
+Operaciones Acuaticas ahora opera las embarcaciones que le pertenecian a SEMARCA
+antes’. Como tal ‘tiene un Director, tiene personal que se le ha asignado’*”. Confirmé
+que, aunque atin no se incorporé en forma separada, esto fue planeado de modo tal de
+
+convertirse en un centro de ingresos y costos diferentes’.
+
+La confiscacién se aplicé a la totalidad de los empleados no gerenciales de SEMARCA, que
+se esperaba que trabajaran para PDVSA después del 8 de mayo de 2009 - tanto las
+
+tripulaciones de los buques como el personal de tierra.
+
+Las Partes difieren sobre la cuestidn de si los activos de SEMARCA que estuvieron sujetos
+a la confiscacién incluian las cuentas por cobrar. Las Demandantes alegan que ambas
+partes reconocieron esto en su momento”. La Demandada alega que las Demandantes
+atin tienen derecho a iniciar acciones para recuperar las cuentas por cobrar, ya sea en los
+tribunales venezolanos o de otro modo, de conformidad con los términos de resolucién
+de controversias contractuales“?. La Demandada sefiala que Chevron le pagé a las
+Demandantes la porcién en délares de los montos pendientes de pago en virtud de su
+
+contrato venezolano de apoyo con posterioridad a la confiscacién.
+
+El Tribunal concluye, a la luz de las decisiones de los Tribunales venezolanos a los que se
+hiciera referencia supra, que a las Demandantes no se les habria reconocido el ejercicio
+del control efectivo de SEMARCA de modo tal que pudieran haber iniciado procesos
+judiciales en Venezuela para recuperar las deudas a favor de SEMARCA en Venezuela. Por
+el contrario, los Tribunales venezolanos trataron al Estado como al propietario efectivo
+
+de SEMARCA.
+
+Sin embargo, antes de abandonar esta secci6n, es necesario abordar otra argumento de
+
+la Demandada en lo que se refiere al alcance de la expropiacion. La Demandada afirma
+
+196 71/104/1-2.
+
+197 11/142/28-29, 143/2
+
+198 71/142/32 — 33.
+
+199 Kehoe 1, [34], [41]; Kehoe T1/198/20-199/13.
+
+200 Carta del dia 6 de julio de 2009 (C-59); Carta del dia 9 de diciembre de 2009 (C-247).
+
+201 74/868/21 — 871/20.
+
+44
+
+116.
+
+117.
+
+118.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+que la propiedad objeto de expropiacién solo puede determinarse por referencia a los
+derechos de propiedad en virtud de la legislacién del Estado receptor. La Demandada
+alega que, ademas de los activos fijos, los Unicos derechos de propiedad de titularidad de
+las Demandantes a la fecha de la confiscacion eran en virtud de dos contratos a corto
+plazo con PDVSA. Por ende, en el mejor de los casos sdlo los derechos en virtud de estos
+
+contratos pueden conformar el objeto del reclamo de las Demandantes.
+
+En virtud del derecho internacional la expropiacién contempla indudablemente los
+derechos de propiedad existentes en virtud de la legislacidbn local que hayan sido
+expropiados por el Estado”. Tal como lo expresara el Tribunal de Reclamaciones Iran-
+
+Estados Unidos en Amoco™:
+
+La expropiacién, que puede definirse como una transferencia obligatoria de derechos de
+propiedad, puede extenderse a cualquier derecho que pueda ser objeto de una transaccién
+comercial, es decir, venderse y comprarse libremente, y que, por lo tanto, tenga un valor
+monetario. [Traduccién del Tribunal]
+
+En Emmis c. Hungria, la razon por la cual no podria haber un reclamo por expropiacién
+
+radicaba en el hecho de que el derecho de propiedad que las demandantes en ese caso
+
+habian adquirido al realizar su inversidn en Hungria era una licencia de radiodifusién a un
+plazo fijo que habia vencido con anterioridad a la medida del Estado que presuntamente
+constituia la expropiacién. Por esa razon, las demandantes en ese caso, en sus
+presentaciones regulatorias contemporaneas, no le adscribian valor alguno a su inversion
+
+con posterioridad al vencimiento de la licencia”.
+
+En cambio, en el presente caso, la inversién de las Demandantes en Venezuela se habia
+iniciado muchos afios antes, al momento de la adquisicién de SEMARCA. Consistia en la
+operacioén de un negocio no concluyente en cuanto al tiempo. Los términos del TBI
+
+206
+
+confirman?” que una inversién puede incluir fondo de comercio y conocimientos
+
+técnicos asi como otros activos tangibles e intangibles, incluidos los derechos
+
+202 Al invocar inter alia Emmis c Hungria (RL-159).
+
+203 EnCana Corporation ¢ Ecuador (RL-101), [184]; Emmis ¢ Hungria (RL-159), [157].
+
+204 Amoco (CL-148), [108].
+
+205 Emmis (RL-159), (217]-[221].
+
+208 Articulo 1(a)(iv).
+
+45
+
+119.
+
+120.
+
+121.
+
+122.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+contractuales. La legislacion venezolana dispone lo mismo. El inciso 1 del Articulo 3 de la
+
+Ley de Inversiones””” define que una ‘Inversién’ incluye:
+Todo activo destinado a la produccién de una renta, bajo cualquiera de las formas
+empresariales o contractuales permitidas por la legislacién venezolana, incluyendo bienes
+muebles e inmuebles, materiales o inmateriales, sobre los cuales se ejerzan derechos de
+propiedad u otros derechos reales; titulos de crédito; derechos a prestaciones que tengan
+valor econdémico; derechos de propiedad intelectual, incluyendo los conocimientos técnicos,
+el prestigio y la clientela;...
+
+No hay duda de que ambas compafiias, SEMARCA y Tidewater Caribe, eran compaiiias
+
+debidamente incorporadas en virtud de la legislacisn venezolana y que la legislacion
+
+venezolana reconoce estos activos como propiedad.
+
+Es cierto que la naturaleza de corto plazo de los contratos a través de los cuales
+SEMARCA conducia sus operaciones en Venezuela, conjuntamente con otros factores,
+son elementos que pueden ser de relevancia en la determinacién del valor monetario
+que se le debe asignar a las operaciones, en el supuesto de haber sido objeto de una
+transaccién comercial (para utilizar el lenguaje de Amoco). Pero esta constituye una
+cuestién posterior al establecimiento de un derecho de propiedad capaz de ser
+expropiado. El Tribunal concluye que la inversion de las Demandantes en SEMARCA
+
+constituia un derecho de propiedad de este tipo.
+
+En sintesis, el efecto de las medidas de la Demandada fue la expropiacion de hecho de la
+totalidad de la inversién de las Demandantes en su filial en Venezuela, SEMARCA. El valor
+que debe adscribirse a esa inversién a fin de determinar cualquier indemnizacién que
+deba otorgarse a las Demandantes por su pérdida es una cuestién independiente, que se
+
+abordara en la Parte B del andlisis del Tribunal.
+
+(d) éLa expropiaci6n fue licita o ilicita?
+
+El Tribunal ha llegado a la conclusibn de que la Demandada expropié en efecto la
+inversion de las Demandantes en SEMARCA en Venezuela. La siguiente cuestidn consiste
+
+en determinar si esta expropiacion es licita 0 ilicita. El Articulo 5 del TBI, después de todo,
+
+207 C-9 Ley sobre Promaocién y Proteccién de Inversiones, de fecha 3 de octubre de 1999 (tal como fuera
+publicada en la Gaceta Oficial N.° 5.390 del dia 22 de octubre de 1999).
+
+46
+
+123.
+
+124.
+
+125.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+no prohibe que el Estado tome posesién de bienes a modo de nacionalizacién o
+expropiacién. Por el contrario, permite esta toma de posesi6n, pero sdlo en virtud de las
+
+condiciones especificadas en él. Es decir, la expropiacion debe ser:
+
+a) ‘por causas de interés publico relacionadas a las necesidades internas de dicha Parte’,
+
+ 
+
+b) ‘sobre una base no discriminatoria’; y
+c) ‘en contrapartida de una pronta, adecuada y efectiva indemnizacion’.
+
+Si se cumplen estas condiciones, la expropiacién concuerda con los términos del Tratado
+y, por lo tanto, no constituye una violacién del derecho internacional. Si no se cumplen
+las condiciones, la expropiacién debe tratarse como una violacién del derecho
+
+internacional.
+
+En el presente caso, ninguna de las Partes contradice la primera condicién, a saber que la
+expropiacién fue por una causa de interés publico relacionada a las necesidades internas
+de Venezuela. Las Partes efectivamente difieren en lo que se refiere a las condiciones
+segunda y tercera: no discriminacién e indemnizacién. Las Demandantes sostienen que
+la toma de posesion fue discriminatoria. Sefialan asimismo que la Unica indemnizacion
+que se dispone en virtud de la Ley de Reserva fue el valor contable de los activos. La Ley
+excluy6 de manera expresa el lucro cesante. Esto, por definicion, no cumplid con el
+estandar del Tratado de ‘adecuada y efectiva indemnizacion’ en tanto el propio Articulo 5
+especifica que dicha indemnizacién ‘equivaldra al valor del mercado de su inversion
+expropiada inmediatamente antes de la expropiacion’ [énfasis agregado]. Por otra parte,
+la Demandada, sostiene que la toma de posesién no fue discriminatoria. La totalidad de
+las operaciones de soporte petrolero en el Lago de Maracaibo fueron nacionalizadas,
+afectando a muchas otras compaiiias. Afirma la Demandada que la Ley de Reserva
+disponia en efecto la indemnizacion y que de inmediato después del dia 8 de mayo de
+2009 el Gobierno dejéd en claro a las Demandantes que estaba preparado para
+indemnizarlas, pero sdlo sobre la base de un acuerdo global. Fueron las Demandantes
+
+quienes no habian aceptado esa oferta y optaron en cambio, por proceder al arbitraje.
+
+Las Demandantes afirman que, en el supuesto de que la expropiacidn fuera ilicita, tienen
+derecho, como una cuestién de derecho internacional de responsabilidad del Estado, a
+
+una indemnizacion adicional, en el caso de que el bien que sea objeto de la expropiacién
+
+47
+
+126.
+
+127.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+ilicita haya aumentado su valor desde la fecha de adopcién de la medida por el Estado”.
+Por otra parte, la Demandada insiste en que la expropiacion fue licita, sostiene ademas
+que la fecha de avaluo prescripta en el Tratado es aplicable en cualquier caso, sea que la
+
+expropiacién fuese licita 0 ilicita?°’.
+
+El Tribunal considerard en primer lugar i) la cuestién de si la toma de posesién en el
+presente caso fue no discriminatoria; y posteriormente ii) la pertinencia y aplicacion del
+
+estandar de indemnizacion en la determinacion de la licitud de la expropiacion.
+
+(i) No-discriminacién
+Para ser licita, la expropiacién de bienes por parte de un Estado debe ser no
+discriminatoria. El Tribunal ha ponderado de manera minuciosa la evidencia invocada por
+las Demandantes en respaldo de su alegacidn de que, en el presente caso, la Demandada
+discriminé a las Demandantes en la aplicacién de la Ley de Reserva”!°. Considera que
+ninguna de las instancias de presunto trato diferenciado a otros contratistas constituye,
+
+de hecho, discriminacién contra las Demandantes:
+
+a) En el caso de los servicios prestados por Gulmar Offshore, la evidencia inobjetada
+del Sr. Figuera fue que sus buques fueron originalmente confiscados, pero luego
+liberados una vez que se establecié que se trataba de buques de bandera extranjera y
+con tripulacién extranjera — un trato igual al acordado a los buques de bandera
+extranjera de las sociedades relacionadas de Tidewater; y que en cualquier caso
+Gulmar ya no presta servicios en el Lago de Maracaibo y tiene un reclamo en un
+
+procedimiento de arbitraje contra PDVSA2".
+
+b) En el caso de Servipica, sus servicios eran prestados costa afuera y no se
+
+encontraban cubiertos por la Ley de Reserva.
+
+c) En el caso de Astivenca, sus servicios en el Lago de Maracaibo fueron en efecto
+
+expropiados en virtud de la Resolucién Ministerial N.° 5172.
+
+208 Memorial, [106]-[114]; 14/797/22-14/798/6.
+
+209 Memorial de Contestacién, [97]-[104].
+
+20 Memorial, [85]; Memorial de Contestacién, [90]; Réplica, [106]; Duplica, [77] (y subsiguientes).
+
+211 Figuera 1, [40].
+
+282 C.13, Apéndice, N.° 3.
+
+48
+
+128.
+
+129.
+
+130.
+
+131.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Por lo tanto, el Tribunal considera que la expropiacién no fue discriminatoria contra las
+Demandantes. Por esta raz6n, es necesario evaluar la relevancia de la falta de pago de
+
+una indemnizacién para la licitud o no de la expropiacién de la Demandada.
+
+(ii) Indemnizacién
+
+Ambas Partes invocan la decision fundamental de la Corte Permanente de Justicia
+Internacional (PCJ, por sus siglas en inglés o Corte Permanente) en la Chorzow
+Factory". En esa decision, la Corte Permanente explicé en primer lugar la diferencia
+entre una expropiacién que debe considerarse licita a condicidn de que se otorgue o se
+otorgare justa compensacién — posiblemente por parte de un tribunal — y una
+expropiacién que es ilicita per se. Una vez que se haya aclarado esa distincién, la PCI
+presento ‘los principios rectores segtin los cuales puede determinarse el monto de la
+indemnizacién adeudada”™’, y explicé que la indemnizacidn no debia ser la misma en
+
+ambas situaciones.
+La Corte comienza por elucidar una distincién entre una expropiacion licita y una ilicita:
+
+La accién de Polonia que la Corte ha juzgado ser contraria a la Convencién de Ginebra no es
+una expropiacién — para cuya licitud sélo habria faltado el pago de una indemnizacién justa;
+sino que es una confiscacién de propiedad, derechos e intereses que no podfan ser
+
+expropiados incluso mediante indemnizacién...”", [Traduccién del Tribunal]
+
+En este caso la Corte esta afirmando de forma expresa que la ilegalidad debe surgir de
+
+una circunstancia que va mas alla de una mera ausencia de indemnizaci6n.
+
+Después de haber postulado la distincién entre una expropiacién licita y una
+expropiacién ilicita, la Corte explica que las dos situaciones no conllevan el mismo nivel
+
+de indemnizacion:
+
+Se desprende que la indemnizacién del gobierno aleman no necesariamente esté limitada al
+valor de la empresa al momento de la desposesién, mds intereses a la fecha del pago. Esta
+limitacién s6lo seria admisible si el Gobierno polaco hubiera tenido el derecho a expropiar, y
+su hecho ilicito consistiera sélamente en no haber pagado a las dos Compaiiias el precio justo
+
+de lo que fue expropiado; en el presente caso, una limitacidn tal... seria equivalente a volver
+
+213 Ex RL-81.
+
+214 Ibid., 46.
+
+215 (dem.
+
+49
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+indiferenciables a la liquidacién licita y a la expropiacién ilicita en lo que se refiere a
+
+resultados financieros”"®, [Traduccién del Tribunal]
+
+132. Al haber afirmado de ese modo que la expropiacién licita e ilicita no deben tener las
+mismas consecuencias financieras, la Corte Permanente fija el estandar de indemnizacion
+
+de las expropiaciones ilicitas:
+
+EI principio esencial contenido en el concepto real de un hecho ilicito... es que la reparacién,
+en la medida de lo posible, elimine todas las consecuencias de un hecho ilicito y restablezca la
+situacién que, muy probablemente, habria existido en el supuesto de que no se hubiera
+cometido el acto. La restitucién en especie, 0, de no ser posible, el pago de una suma
+correspondiente al valor que tendria una restitucién en especie; la adjudicacién, si fuese
+necesario, de dafios por la pérdida sufrida que no estaria cubierta por la restitucion en
+especie 0 el pago en lugar de esta — constituyen los principios que deberfan servir para
+determinar el monto de la indemnizacién por un acto contrario al derecho internacional’.
+
+[Traduccién del Tribunal].
+133. El Tribunal de Reclamaciones Iran-Estados Unidos en el caso Amoco confirm6 que el nivel
+de indemnizacién dependia de la calificacion juridica de la expropiacién:
+
+[E]I Tribunal sostiene que la cuestién de licitud 0 ilicitud de la expropiacién tiene una
+
+relacion directa con la cuestién de la indemnizacién....
+
+Indudablemente, el primer principio establecido por el Tribunal es que debe realizarse una
+clara distincién entre expropiaciones licitas e ilicitas, ya que las normas aplicables a la
+indemnizacién que debe pagar el Estado expropiador son diferentes segun la caracterizacion
+
+juridica de la toma”"®, [Traduccién del Tribunal]
+134. El Tribunal de Reclamaciones Iran-Estados Unidos consideré ‘que la indemnizacion que se
+debe pagar en el caso de una expropiacion licita (0 de una toma que solo carece del pago
+
+de una indemnizacién justa para ser licita) se circunscribe al valor de la empresa al
+
+246 |bid., 47.
+217 fdem.
+
+28 Amoco (CL-148), [86], [192], citas omitidas. El mismo enfoque es adoptado por el TEDH:
+‘La accién del Gobierno Griego... contraria a la Convencién no
+
+ 
+
+Papamichalopoulos ¢ Grecia, [36]:
+constituyé una expropiacién que habria sido legitima salvo por la falta de pago de una indemnizacién
+justa... La ilicitud de dicha expropiacién afecta inevitablemente los criterios a ser utilizados para
+
+deudada por el Estado en tanto las ias pecuniarias de
+
+determinar la reparacién
+la expropiacién licita no pueden compararse a aquellas de una confiscacién ilicita’. [Traduccién del
+
+Tribunal]
+
+50
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+momento de la expropiacién””. [Traduccién del Tribunal]. Elucidé la distincién en el
+estandar de indemnizacién entre una expropiacion licita y una ilicita de la siguiente
+
+manera:
+
+193. Seguin la Corte en el caso de la Chorzéw Factory, la obligacién de reparacién de la
+totalidad de los dafios sufridos por el titular de un bien expropiado surge de una expropiacién
+ilicita. En este caso se aplican las normas de derecho internacional relativas a la
+responsabilidad internacional de los Estados. Estas normas disponen la restitutio in integrum:
+la restitucién en especie 0, en caso de ser imposible, su equivalente monetario. De ser
+necesario, se deberian otorgar asimismo “dafios por la pérdida sufrida que no estaria cubierta
+por la restitucién”. Véase la Fabrica de Chorz6w, supra, en el numeral 47. Por otra parte, una
+expropiacién licita debe dar origen al “pago de una indemnizacién justa”, id. en el numeral 46,
+© del "justiprecio de lo que fuera expropiado". fd. en el numeral 47. Esta obligacién se
+
+encuentra impuesta por una norma especifica del derecho internacional de expropiacién.
+
+[Traduccién del Tribunal]
+
+135. Decisiones de arbitraje de inversién mas recientes respaldan también el mismo enfoque.
+En Santa Elena, el Tribunal determindéd una indemnizacién a la fecha de la toma de
+posesion sobre la base de que la expropiacion fue legal, incluso si no se hubiese pagado
+indemnizacién alguna durante muchos afios”°. En Goetz c. Burundi, el Tribunal sostuvo
+que, al haberse cumplido todas las demas condiciones para una toma de posesion licita,
+la ausencia de pago de una pronta y adecuada indemnizacién no era suficiente ‘para
+estigmatizar a esta medida como ilicita en virtud del derecho internacional’ +.
+[Traduccién del Tribunal]. En Mondev c. EE. UU., el Tribunal consideré que, para convertir
+a la expropiacién en licita en virtud del tratado (TLCAN) todo lo que se exigia era que ‘el
+Estado que realizo la expropiacién reconozca la obligacién de indemnizar en el momento
+de la toma de posesiédn, 0 que exista en ese momento un procedimiento que la
+demandante pudiera invocar de manera pronta y efectiva en aras de garantizar la
+
+indemnizacién’?”. [Traducci6n del Tribunal].
+
+29 Amoco, [196].
+20 Santa Elena (RL-110), [68], [83].
+21 Goetz c Burundi (RL-112), [130].
+
+22 Mondev c EE. UU. (CL-046), [71]. Comparese la posicion en la cual el Estado no ofrece indemnizacion
+alguna (como en Wena c Egipto (CL-141), [100]; Vivendi c Argentina (Nueva Sumisién) (CL-138) u ofrece
+una suma que es tan insignificante como para no ser de buena fe (como en Rumeli c Kazakstén (CL-95)).
+
+51
+
+136.
+
+137.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+La doctrina ha insistido asimismo en la necesidad de distinguir la expropiacién ilegal per
+se y la expropiacion que sdlo exige una indemnizacién para ser considerada legal. En el
+supuesto de que una expropiacidn debiera ser considerada ilegal inmediatamente
+después de que no se otorgara indemnizacién alguna, la consecuencia, segn Salacuse
+
+seria la siguientee:
+
+.. en los casos en los que la expropiacién cumpla con todas las condiciones para que exista
+una expropiacién legal salvo por una determinacién del tribunal de que el Estado receptor no
+hubiera pagado el valor del mercado de la propiedad expropiada, una expropiacién tal
+deberia considerarse ‘ilegal’ y por lo tanto se otorgaria una indemnizacién no sobre la base
+del estandar de avaluo en el Tratado sino sobre la base del principio en el caso de la Chorzow
+Factory y el derecho internacional consuetudinario. Se sugiere que un resultado tal no estaria
+en consonancia con la intencién de las Partes contratantes tal como lo prueba el texto del
+Tratado”. [Traduccion del Tribunal]
+
+Walde y Sabahi sefialan que la inclusién en los tratados bilaterales de inversién de un
+
+lenguaje especifico con respecto al estandar de indemnizacion para la expropiacién tiene
+
+la consecuencia de que ‘practicamente la totalidad de las controversias de expropiacion
+no seran adjudicadas en virtud del derecho internacional consuetudinario, sino en virtud
+de lenguaje vinculante de los tratados’?**. [Traduccién del Tribunal]. Ripinsky y Williams
+afirman que ‘una oferta de buena fe, o la disposicién de una compensacion (incluso si no
+fuera en un monto suficiente, en tanto no sea a toda luz irrazonable) deberia convertir a
+la expropiacién en licita?*’. [Traduccién del Tribunal]. Marboe concluye:
+Aunque tiempo atras la mera ‘promesa’ de un Estado de pagar cualquier suma en cualquier
+momento no era suficiente para la legalidad de una expropiacién, en la actualidad parece
+existir consenso de que es suficiente, si un Estado, en el momento de la expropiacién, ofrece
+una indemnizacién o dispone la determinacién de una indemnizacién... Por lo tanto, se puede
+
+llegar a la conclusién de que seguin la practica arbitral y la doctrina, la mera existencia de una
+
+23 salacuse The Law of Investment Treaties (2009) (RL-123), 328.
+
+24 Walde y Sabahi ‘Compensation, Damages and Valuation’ en Muchlinski, Ortino y Schreuer The Oxford
+Handbook of International Investment Law (Oxford UP, 2008) (CL-163), 1070.
+
+25 Ripinsky y Williams Damages in international Investment Law (British Institute of International and
+Comparative Law, 2008) (RL-143), 68-9.
+
+52
+
+138.
+
+139.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+controversia respecto del monto de la indemnizacién no torna a la expropiacién en ilicita2°.
+
+[Traduccién del Tribunal].
+La mayor parte de los reclamos de expropiacién versan sobre la cuestién de si una
+medida es en modo alguno expropiatoria. En estos casos, cuando el tribunal considera la
+existencia de expropiacién, casi siempre se adeuda la indemnizacién. Son poco
+frecuentes los casos en los que se reconoce la expropiacién y la controversia gira en
+torno al monto de la indemnizacién; los casos en los que no se ha pagado indemnizacién
+alguna debido a que se discute la propia calificacién de expropiacién son la norma. Eso
+significa que practicamente la totalidad de las decisiones que consideran la existencia de
+expropiacién considerarian la existencia de expropiacidn ilicita — y por lo tanto,
+practicamente todos los tribunales dejarian de lado el estandar de indemnizacién por
+expropiacion del ‘valor justo de mercado en el momento de la expropiacién’. Asi pues,
+este enfoque convertiria efectivamente en insignificante un elemento detallado y
+elaborado de la disposicién sobre expropiacién en los TBI modernos, incluidas las
+
+disposiciones del Articulo 5 del TBI Venezuela-Barbados..
+
+El enfoque del Tribunal es también consistente con las Directrices del Banco Mundial?’.
+Las Directrices ‘pueden ser aplicadas por miembros de las instituciones del Grupo del
+Banco Mundial a las inversiones extranjeras privadas en sus respectivos territorios, como
+complemento a los tratados bilaterales y multilaterales aplicables’ (en la medida que no
+exista conflicto alguno entre ellos)?”°. [Traduccién del Tribunal]. La Parte IV trata de la
+expropiacién. Prohibe la expropiacién o las medidas que tengan efecto similar ‘salvo
+cuando esto se realice de conformidad con los procedimientos juridicos aplicables, en
+aras de la buena fe, por causas de interés publico, sin discriminacién sobre la base de la
+nacionalidad y en contrapartida del pago de una indemnizacién conveniente’?”?.
+[Traduccién del Tribunal] La indemnizacién se considera conveniente ‘si es adecuada,
+efectiva y pronta’?*°. [Traduccion del Tribunal]. La indemnizacion se considera adecuada
+
+‘si se basa en el valor justo de mercado del bien confiscado cuando ese valor se
+
+26 Miarboe Calculation of Compensation and Damages in International Investment Law (Oxford UP, 2009)
+(RL-117), [3.46], (3.48).
+
+227 CL-152.
+
+228 Ibid., 1.1.
+
+22911.
+
+230 1.2.
+
+53
+
+140.
+
+141.
+
+142.
+
+143.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+determine inmediatamente antes del momento en que ocurriera la confiscacién o de que
+la decisién de confiscar el bien se haga del conocimiento publico’**. [Traduccién del
+Tribunal]. La determinaciédn de este valor justo de mercado es aceptable si se realiza
+sobre una base consensuada entre el Estado y el inversionista extranjero ‘o por un
+
+tribunal u otro organismo designado por las Partes”*”. [Traduccién del Tribunal]
+
+De este modo, las Directrices refuerzan la conclusién del Tribunal de que una
+expropiacién que sdlo requiere la determinacién de una indemnizacion por parte de un
+tribunal internacional no debe tratarse como una expropiacién ilegal. Prescriben un
+estandar de indemnizacién que es idéntico a aquel exigido en virtud del Articulo 5 del TBI
+en el presente caso y luego disponen que el monto de dicha indemnizacién sera
+aceptable si es determinado ‘por un tribunal... designado por las Partes’. Se desprende
+que este tribunal debe tener la oportunidad de realizar su determinacién en lo que se
+refiere a la indemnizacion. Cuando este tribunal lo haya hecho (y en la presuncién de que
+
+se hayan cumplido las demas condiciones) la expropiacion no sera ilicita.
+
+El Tribunal concluye que debe hacerse una distincién entre una expropiacion licita y una
+expropiacién ilicita. Una expropiaciédn que solo requiere una indemnizacién justa debe
+ser considerada como una expropiaci6n provisionalmente licita, precisamente porque el
+
+tribunal que analiza el caso determinara y otorgara esta indemnizacion.
+
+La diferencia esencial entre las dos es que la indemnizacion por una expropiacion licita es
+la indemnizacién justa representada por el valor de la empresa en el momento de la
+expropiacién y la reparacién en el caso de una expropiacion ilicita es la restitucién en
+especie o su equivalente monetario. En el contexto moderno, la manera precisa en la
+cual debe aplicarse el estandar de valor justo a la fecha de la expropiacién debera ser
+
+considerada en profundidad en la Parte B del analisis del Tribunal.
+
+En el presente caso, el Estado no pretendié expropiar los activos sin indemnizacion. Pero
+las Demandantes sostienen que la expropiacién debe ser tratada como ilicita, debido a
+que la Ley de Reserva ordena un nivel de compensacién que se circunscribe al valor
+
+contable de los bienes y prohibe tomar en cuenta el lucro cesante o los dajfios
+
+231 1.3.
+
+232 1V.4.
+
+54
+
+144.
+
+145.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+indirectos?*?. Esto, argumentan las Demandantes, es incongruente con el estandar de
+
+indemnizacién exigido por el Articulo 5 del TBI, y, por lo tanto, es ilicita’**.
+
+El Tribunal observa que el Articulo 5 define la indemnizacidn que debe pagarse por
+expropiacién simplemente como ‘el valor de mercado de la inversién expropiada
+inmediatamente antes de las expropiacién’. No dispone de qué manera debe
+determinarse el valor de mercado. Ese avaltio es una cuestién que tanto Venezuela como
+Barbados, en calidad de Partes contratantes, han confiado a este Tribunal en virtud de su
+consentimiento al arbitraje en el Articulo 8 del Tratado. El Articulo 8(3) confirma que el
+laudo arbitral puede determinar, en caso de una diferencia relativa a la expropiaci6n, ‘el
+monto de la indemnizacién’. De este modo, para emplear el lenguaje de las Directrices
+del Banco Mundial, el presente Tribunal es un ‘tribunal... designado por las Partes’ para
+
+determinar el nivel aceptable de indemnizacion.
+
+Tal como se vera en la Parte B del andlisis del Tribunal, el estandar de ‘valor de mercado’
+del Tratado no denota un método particular de avaluio. El método adecuado de avaltio
+dependera del contexto. En algunos casos, el avaltio adecuado puede ser efectivamente
+el valor de libros de los bienes”®°. En virtud de los términos del TBI y el consentimiento a
+la determinacion del avaluo por parte de este Tribunal acordado por Venezuela en virtud
+de este Tratado, este Tribunal no se encuentra limitado por los limites de avaltio
+impuesto por la Ley de Reserva. Pero este Tribunal no esta dispuesto a considerar que los
+limites de valoracién en el Articulo 6 de la Ley de Reserva sean de naturaleza tal que
+puedan convertir en ilicita la expropiacién en su conjunto. El caso que nos ocupa no es
+uno en el cual el Estado haya confiscado bienes sin oferta alguna de indemnizacién. El
+expediente no demuestra que el Estado haya rehusado el pago de una indemnizacion. En
+cambio, revela que las Partes no pudieron llegar a un acuerdo respecto de la base o el
+proceso por el cual se calcularfa y pagarfa esta compensacién**. Por lo tanto, esta es una
+
+tarea que han sometido a este Tribunal.
+
+233 Articulo 6.
+
+234 Réplica, [92]; T4/790-2.
+
+235 CL-152, Directrices del Banco Mundial, IV-6(iii)(b).
+
+236 Kehoe 1, [49], Ex R-113, R-114, R-115, R-116.
+
+55
+
+146.
+
+147.
+
+148.
+
+149.
+
+150.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+A los fines presentes, es suficiente concluir que la expropiacién que nos ocupa fue licita,
+dado que sdlo exige una indemnizacién, una cuestién que las Partes delegaron en este
+
+Tribunal para su determinacién segtin los estandares prescriptos en el TBI??”.
+
+2. Otros causas del reclamo
+
+En esencia, ambas Partes plantearon el caso que nos ocupa como un reclamo de
+indemnizacion por expropiacién. Seguin la opinidn del Tribunal, este es el enfoque
+correcto. El fundamento principal del reclamo de las Demandantes consiste en afirmar
+que la Demandada confiscé sus bienes, a saber, su inversion en SEMARCA, a través de las
+medidas adoptadas por el Estado que el Tribunal analiz6 en la seccién anterior. Las
+verdaderas cuestiones que se plantean ante el Tribunal se relacionan con la legalidad de
+
+dicha confiscaci6n y el monto adeudado en concepto de indemnizacion respecto de ella.
+
+En su Solicitud de Arbitraje, las Demandantes agregaron reclamos de violacién del
+estandar de trato justo y equitativo previsto en el Tratado, adopcién de medidas
+arbitrarias o discriminatorias e incumplimiento del deber de otorgarles a las inversiones
+de las Demandantes el mismo trato que el que se le otorga a nacionales de Venezuela o
+
+terceros Estados.
+
+El Tribunal ya consideré y rechazé la alegacién en virtud de la cual las medidas de
+Venezuela eran discriminatorias en el contexto de su analisis de la legalidad de la
+confiscacion. Las causas adicionales del reclamo de adopcién de medidas discriminatorias
+o incumplimiento del deber de otorgar trato nacional o de naciédn mas favorecida no
+
+agregan nada a la luz de dicha conclusi6n.
+
+Seguin la opinién del Tribunal, el reclamo de violacién del estandar de trato justo y
+equitativo simplemente carece de relevancia en el presente caso en que el verdadero eje
+del reclamo no radica en la justicia procesal del trato de las Demandantes por parte de la
+Demandada, sino en la confiscacién de sus bienes. Considerar el caso a través del prisma
+de un reclamo de trato justo y equitativo no agrega nada a la consideracién por parte del
+
+Tribunal de las cuestiones de responsabilidad o cuantia del dafio. Las Demandantes
+
+237 Por lo tanto, debe distinguirse el presente caso de la posicién adoptada en ADC c Hungria, CL-107,
+
+donde el tribunal concluy6 que la expropiacién violaba los cuatro criterios mencionados en el TBI: no fue
+
+realizada en pos de favorecer el interés pUblico, no se realizé de conformidad con las garantias
+
+procesales, fue discriminatoria y no se previé indemnizacién justa alguna.
+
+56
+
+151.
+
+nay
+
+152.
+
+153.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+invocan las mismas medidas con respecto a este reclamo”*y no afirman que deba
+aplicarse otra medida del dafio. En este sentido, el Tribunal deja de lado las otras
+supuestas causas del reclamo y procede a analizar el nivel de indemnizacién que debe
+
+otorgarse por el reclamo principal de expropiacién.
+
+Compensacién
+1. Estandar de compensacién
+
+Una vez que se acepte la distincién entre expropiacién licita e ilicita, tal distincién debe
+traducirse en un estandar viable, aplicable al caso planteado ante el Tribunal, que es el
+de expropiacion licita. Aqui, el punto de partida es el estandar mencionado en el Articulo
+5 del propio Tratado, a saber, "[e]l valor de mercado de su inversién expropiada
+
+inmediatamente antes de la expropiacién".
+
+Segtin la opinién del Tribunal, las Directrices del Banco Mundial brindan orientacion
+razonable en cuanto al contenido del estandar seleccionado por los Estados Parte en el
+TBI como estandar de compensaci6n aplicable en casos de expropiacion licita, en los que
+la inversion constituia una empresa en operacién al momento de la toma de posesi6n.
+Las Directrices prescriben "el valor justo de mercado de los activos tomados en posesién
+en tanto este valor sea determinado inmediatamente antes del momento en que tuvo
+lugar la toma de posesién””®. [Traduccién del Tribunal]. Dicho estandar también es
+congruente con el estandar de compensacién justa exigido por el derecho internacional
+
+consuetudinario en el caso de la expropiacién licita’“°.
+
+ 
+
+La Comisién de Derecho Internacional destacéd que este enfoque fue ampliamente
+adoptado por los tribunales internacionales, en el caso de la nacionalizacion de uns
+
+empresa en operacién:
+
+Desde el afio 1945 las decisiones de numerosos tribunales ad hoc han estado dominadas por
+reclamos respecto de entidades comerciales nacionalizadas. El enfoque elegido en estos
+casos ha sido analizar los activos del negocio, tomando en consideracién el fondo de
+
+comercio y la rentabilidad segtin corresponda. Este método tiene la ventaja de fundamentar
+
+238 Memorial, [90].
+
+239 Directrices del Banco Mundial, IV-3.
+
+20 Demandas de Navieras Noruegas (Laudo, 13 de octubre de 1922), | RIAA 307, 340; Marboe
+Calculation of Compensation and Damages in international Investment Law (Oxford UP, 2009), [3.24]
+
+57
+
+154.
+
+155.
+
+156.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+la indemnizacion en cuanto sea posible en alguna estimacién objetiva del valor vinculado al
+activo tangible que respalda el negocio. El valor del fondo de comercio y otros indicadores de
+rentabilidad pueden ser inciertos, salvo que provengan de informacién provista por una venta
+reciente u oferta de mercado aceptable. Sin embargo, para entidades comerciales rentables
+donde el todo es mayor que la suma de sus partes, la indemnizacién seria incompleta si no se
+tomara debida consideracién de estos factores**. [Traduccién del Tribunal]
+En ausencia de acuerdo entre las Partes, las Directrices definen el valor justo de mercado
+como aquél que debe determinarse "segtin criterios razonables relacionados con el valor
+de mercado de la inversion, es decir, en un monto que un comprador dispuesto a
+comprar generalmente pagaria a un vendedor dispuesto a vender después de tener en
+cuenta la naturaleza de la inversion, las circunstancias en las cuales operaria en el futuro
+y sus caracteristicas especificas, incluido el periodo en el cual ha estado en existencia, la
+proporcién de activos tangibles en la inversién total y otros factores de relevancia
+correspondientes a las circunstancias especificas de cada caso"”. [Traduccién del
+
+Tribunal]
+
+Si bien dejan en claro que no existe validez exclusiva de un Unico criterio, las Directrices
+prevén el establecimiento de una distincién entre "una empresa en operacién con
+probados antecedentes de rentabilidad " [Traduccién del Tribunal] y otras empresas y
+activos que no tengan esta caracteristica. Cuando la empresa cumple con este criterio,
+las Directrices sefialan que la compensacién sera razonable si se determina "sobre la
+
+base del valor del flujo de caja descontado”**”. [Traduccién del Tribunal]
+
+En el dmbito del derecho de los tratados de inversion, los tribunales concluyeron con
+frecuencia que el método de flujos de caja descontados (DCF, por sus siglas en inglés)
+constituye el método mas util a fin de llegar a un avaltio de una empresa que hubiera
+estado operando con anterioridad a la toma de posesién. En el caso CMS c. Argentina, el
+tribunal respaldé la aplicacién del método DCF en el marco de dicho arbitraje, que
+
+involucraba una empresa en operacién. Concluyo el tribunal que se trataba de un
+
+24 Comisién de Derecho Internacional, "Responsibility of States for Internationally Wrongful Acts: Text
+of the Draft Articles with Commentaries thereto" (Crawford, Relator Especial) [2001] 2(2) YB ILC 31,
+Articulo 36(23). La nota al pie 587 observa lo siguiente: "Reclamos anteriores reconocieron que incluso
+
+cuando la toma de una propiedad fuera licita, la compensacién para una empresa en operacién
+
+demandaria algo mas que el valor de los elementos de propiedad del negocio”. [Traduccién del Tribunal].
+
+24 Directrices del Banco Mundial, IV-5.
+
+243 ibid, Articulo IV-6.
+
+58
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+"método apropiado para la valoracién de los activos de las empresas...[cuando] existen
+datos suficientes para realizar una valoracién racional de TGN'2“*. En el caso Enron, el
+tribunal resolvid que "existen pruebas concluyentes de que el método DCF sea una
+herramienta sdlida utilizada a nivel internacional a fin de valuar compafiias, aunque debe
+emplearse con cuidado, dado que puede dar lugar a especulacién"””° [Traduccién del
+
+Tribunal].
+
+157. Las Directrices del Banco Mundial definen una empresa en operacion en los siguientes
+términos:
+
+[U]na empresa que se compone de activos rentables que ha estado en funcionamiento
+durante un periodo de tiempo suficiente como para generar los datos necesarios para el
+cAlculo de ingresos futuros y que se pudiera esperar con certeza razonable, en el supuesto de
+que la toma no hubiese ocurrido, que continuaria produciendo ingresos legitimos en el curso
+de su vida Util en las circunstancias generales después de la toma por parte del Estado”.
+[Traduccién del Tribunal].
+
+158. Flujos de caja descontados se define en los siguientes términos:
+[Llos recibos en efectivo que se esperan de la empresa de manera realista en cada afio futuro
+de su vida util segdn proyecciones razonables, menos los gastos en efectivo previstos para
+ese afio, después de descontar este flujo de caja neto para cada afio multiplicado por un
+factor que refleja el valor temporal del dinero, la inflacién prevista, y el riesgo asociado con
+ese flujo de caja en circunstancias realistas. Esta tasa de descuento puede medirse mediante
+el examen de la tasa de retorno disponible en el mismo mercado en inversiones alternativas
+
+de riesgo comparable sobre la base de su valor presente”. [Traduccién del Tribunal]
+
+2. Fecha de avaluo
+
+159. Puesto que el Tribunal ya concluyo que debe aplicar el estandar previsto en el Tratado a
+la compensacion por expropiacion, la cuestidn relativa a la fecha que ha de tenerse en
+cuenta a efectos del avaltio puede abordarse con mayor brevedad. El propio Articulo 5
+
+establece que lo que debe determinarse es "el valor de mercado de la inversién
+
+284 CMS c Argentina (CL-162), [416].
+285 Enron c Argentina (CL-198), [385] (nota al pie omitida).
+246 Directrices del Banco Mundial, IV-6.
+
+247 Idem.
+
+59
+
+160.
+
+161.
+
+162.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+expropiada inmediatamente antes de la expropiacién". En otras palabras, la cuestién
+consiste en determinar lo que un comprador dispuesto a comprar le habria pagado a un
+
+vendedor dispuesto a vender por la inversién expropiada en ese momento.
+
+Por lo comtin, se ha denominado este tipo de valuacién ex ante, en tanto pretende
+determinar el valor de la inversién antes de la medida expropiatoria. Sin embargo,
+resulta importante dejar en claro que esto no significa que la valuacion no considere las
+
+perspectivas futuras:
+
+a) En primer lugar, tal como las Directrices del Banco Mundial mismas confirman, los
+factores que un comprador dispuesto a comprar tendria en cuenta en cuanto a la
+adquisicién de una inversion semejante incluyen necesariamente "las circunstancias en
+
+las cuales operaria en el futuro". [Traduccién del Tribunal].
+
+b) En segundo lugar, no es necesario que el Tribunal ignore los sucesos posteriores a la
+fecha del perjuicio si aclaran en términos mas concretos el valor aplicable a la fecha del
+
+perjuicio o convalidan la razonabilidad de una valuacién realizada a tal fecha”.
+
+Esta segunda limitacion, no obstante, no modifica la fecha del avaltio. El propdsito de
+hacer referencia a sucesos posteriores no consiste en presentar un negocio hipotético
+que nunca ocurrid en realidad y que un comprador dispuesto a comprar no habria tenido
+razonablemente en cuenta con anterioridad a la expropiacién. Se permite sdlo en casos
+en los que dichos sucesos aclaran en términos concretos el valor de la inversion antes de
+la expropiacién. Al momento de determinar el valor de la empresa a tal fecha, el Tribunal
+ignora las perspectivas comerciales que considera demasiado remotas o especulativas
+
+para justificar su inclusion.
+
+En el caso que nos ocupa, ambos expertos coinciden en que "el método ex post sdlo
+deberia usarse si la retrospeccién permite una medicién confiable de los flujos de caja
+perdidos entre la fecha de incumplimiento y la fecha actual'"”“°. Puede que, en casos
+particulares, la retrospectiva suponga un verdadero beneficio. Por las razones expuestas
+supra, el presente caso no se trata de una expropiacién ilegal, y, por ende, no es
+necesario que el Tribunal determine el contenido del estandar de compensacién
+
+requerido que exige el derecho internacional mediante la restitucién en un caso de tal
+
+248 Kantor Valuation for Arbitration: Compensation Standards, Valuation Methods and Expert Evidence
+(2008) 68-9; Rumelic Kazajstén (Decisién sobre Anulacién), [150].
+
+29 Navigant 1, [268]; Flores, T3/580/8 — 581/22.
+
+60
+
+163.
+
+164.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+naturaleza. Tal como la Comision de Derecho Internacional ha manifestado, el Tribunal es
+consciente de la necesidad de evitar "el riesgo del doble imputacién que surge de la
+relacién entre el valor del capital de una empresa y sus beneficios de base contractual"”>°.
+
+[Traduccién del Tribunal]
+
+En el caso que nos ocupa, no es necesario que el Tribunal indague en detalle en la
+postura planteada por las Demandantes en cuanto a las supuestas perspectivas futuras
+de SEMARCA en apoyo de la exploracién petrolera en aguas profundas de Venezuela. Los
+informes periciales en materia de cuantificacién de dafios y el contrainterrogatorio
+durante la audiencia utilizaron mucho tiempo en este aspecto del reclamo. El Tribunal
+considera que este negocio proyectado al futuro esta muy alejado del negocio
+establecido de SEMARCA que consiste en la prestacién de servicios de soporte en el lago
+de Maracaibo y el Golfo de Paria, y es muy especulativo, como para ser razonablemente
+susceptible de inclusién en el calculo de las pérdidas en cualquier caso. Esto viene
+demostrado por el hecho de que, cuando surgié la oportunidad de prestar servicios de
+soporte al programa de perforacién de Chevron en el bloque Cardon III (programa que
+Chevron abandono en el mes de junio de 2009 cuando advirtid que el pozo que habia
+perforado estaba seco), Tidewater brindé su apoyo mediante la provisién de buques
+
+tripulados de bandera estadounidense directamente de los Estados Unidos.
+
+3. Método apropiado para el calculo del valor justo de mercado
+
+Si bien a las Demandantes les corresponde demostrar que sufrieron algun dafio a fin de
+
+recibir compensacion, al Tribunal le corresponde determinar el monto otorgado en
+
+250 Comisién de Derecho Internacional, "Responsibility of States for Internationally Wrongful Acts: Text
+of the Draft Articles with Commentaries thereto" (Crawford, Relator Especial) [2001] 2(2) YB ILC 31,
+Articulo 36(26)..
+
+61
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+concepto de compensacién?*!. Se trata necesariamente de una cuestidn para la
+
+estimacion fundada del Tribunal a la luz de todas las pruebas que tiene a su disposicién?>”.
+
+165. El Tribunal considera que, en el caso que nos ocupa, corresponde determinar el valor
+justo de mercado de la inversion de las Demandantes en SEMARCA por via de referencia
+a_un analisis de los flujos de caja descontados por las siguientes razones: a)
+inmediatamente antes de la fecha de la toma de posesién, SEMARCA era una empresa en
+funcionamiento con antecedentes probados de rentabilidad; b) habia estada operando
+con éxito en Venezuela durante alrededor de cincuenta afios, y c) durante el periodo de
+cinco afios anterior a la toma de posesién, habia registrado ingresos operativos
+sustanciales conforme a su estado de resultados”?. En consecuencia, segun la opinion
+del Tribunal, no corresponde determinar el valor justo de mercado por via de referencia
+ni al valor de liquidacién de los activos de la Empresa SEMARCA ni al valor contable de
+dichos activos, tal como alega la Demandada™. Con arreglo a las Directrices del Banco
+Mundial, es probable que dichos métodos sdlo sean apropiados cuando la empresa no
+
+sea una probada empresa en operacién 7°.
+
+166. Sin embargo, la valuacién de la inversién de las Demandantes en SEMARCA como
+empresa en operacién presenta dificultades particulares en vista del caracter del negocio
+de SEMARCA. SEMARCA no era una sociedad que cotizaba en bolsa y su negocio se
+limitaba a un pais y a un cliente. El Tribunal no esta convencido de que las demas
+transacciones y empresas mencionadas por los expertos de las Demandantes en sus
+informes?* sean tan comparables al negocio de SEMARCA y al mercado en el que
+
+operaba como para ayudarlo a calcular el valor justo de mercado de SEMARCA. El
+
+251 Sapphire International, 187-8; SPP c Egipto (RL-113), 215. De esto modo, en Chorzéw Factory, la Corte
+Permanente concluyé que las dos empresas alemanas habjan sufrido alguin dafio como consecuencia del
+acto ilegal realizado por el Gobierno polaco al momento de desalojarlas de la Fabrica ubicada en
+Chorzéw (Chorzéw Factory, 46). Luego, asumié la tarea de determinar la cuantificacién de dicho dafio
+mediante el nombramiento de sus propios expertos a fin de que realizaran una investigaci6n: Ibid, 51, y
+Orden (Investigacién Pericial): (1928) PCIJ Ser. A No 17, 99-103.
+
+22 Rumeli c  Kazajstdn (Decisién sobre Anulacién) [141]-{149]; Gotanda "Recovering Lost Profits in
+International Disputes" (2004-5) 36 Georgetown JIL 61, 101.
+
+253 Navigant 1, Ex 1.5.
+254 Brailovsky Flores 1, [26] Tabla Il.2.
+255 Directrices del Banco Mundial, IV-6.
+
+256 Navigant 1, [199]-[255].
+
+62
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+Tribunal acepta las opiniones de los expertos de la Demandada en virtud de las cuales las
+diferencias entre los contextos comerciales en que las demas empresas operaban son
+
+muy importantes como para que sean comparables”*”.
+
+167. En consecuencia, el Tribunal debe abordar la valuacidn de SEMARCA sobre la base de los
+factores propios de su negocio. No obstante, aun cuando se las examino exclusivamente
+sobre esta base, las valuaciones ex ante preparadas por los expertos de las Partes eran
+muy diferentes. En sus informes escritos, los expertos de las Demandantes Ilegaron a una
+valuacién ex ante de 81,68 millones de ddélares estadounidenses (sin intereses)***. En
+cambio, los expertos de la Demandada, en su segundo informe, llegaron a una valuacion
+
+de 2,9 millones de ddlares estadounidenses”°*.
+
+168. Las razones de estas grandes diferencias en la valuacién pueden encontrarse en una serie
+de variables especificas adoptadas por los expertos sobre la base de supuestos que
+formularon respectivamente, sea por instruccién de sus abogados o conforme a su
+propia opinién. Por lo tanto, es necesario que el Tribunal llegue a sus propias
+conclusiones en cuanto a cada uno de los elementos sustanciales del analisis DCF en
+funcién de las pruebas que tiene a su disposicién. Una vez que se haya hecho esto, sera
+posible aplicar los supuestos que, segtn el Tribunal, corresponden al andlisis DCF a fin de
+poder llegar a una cifra adecuada. A instancia del Tribunal en el curso de la audiencia, los
+expertos de ambas Partes prepararon tablas ilustrativas que demuestran el efecto de los
+distintos supuestos en sus calculos, que son muy utiles para el Tribunal en esta parte de
+
+su tarea.
+
+ 
+
+4, Elementos del andlisis valuatorio DCF
+
+169. Los informes periciales adoptaron seis variables que tienen un efecto sustancial en la
+
+valuacion de la inversion de las Demandantes en SEMARCA:
+
+a) Ambito de actividad: Si se supone que la actividad de SEMARCA se limita a sus
+
+operaciones en el lago de Maracaibo o si se agregan las operaciones existentes en
+
+257 Brailovsky Flores 1, (193]-[236].
+258 Navigant 2, [6].
+
+259 Brailovsky Flores 2, [125] (Tabla Iil.1).
+
+63
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+el afio 2009 fuera del Lago de Maracaibo (y, en ese caso, si se incluyen los servicios
+
+prestados a las empresas petroleras internacionales o exclusivamente a PDVSA y
+
+sus filiales);
+
+b
+
+Cuentas por cobrar: Si las cuentas por cobrar por parte de PDVSA deben incluirse o
+
+no en el valor de la compafiia a la fecha del avaltio;
+
+c) Flujo de caja histérico: Si corresponde incluir todo el periodo comprendido entre el
+afio 2006 y marzo de 2009 o excluir el afio 2009 (en funcién de que el flujo de caja
+
+es desproporcionadamente elevado en comparacion con afios anteriores);
+
+d) Riesgo de capital: Si corresponde aplicar una prima de riesgo de capital del 5 % o
+6,5 %;
+e) Riesgo pais: Si corresponde aplicar una prima de riesgo pais del 1,5 % (experto de
+
+las Demandantes) 0 14,75 % (expertos de la Demandada);
+
+f) Riesgo comercial: Si corresponde o no realizar un ajuste por concentracién en un
+
+Unico cliente a una tasa estimada del 25 % anual.
+
+a) Ambito de actividad
+
+170. La actividad de SEMARCA se relacionaba principalmente con la prestacion de servicios de
+soporte a las operaciones petroleras de PDVSA en el Lago de Maracaibo. A la fecha del
+avaluo de 7 de mayo de 2009, esta actividad se desarrollaba utilizando 11 buques. El
+negocio era maduro. Se habia desarrollado con éxito y de manera rentable durante
+muchos afios. De todas formas, las Demandantes y su experto no pretendian sugerir que
+el negocio del Lago de Maracaibo presentara verdaderas oportunidades de expansion. Si
+bien contiene grandes reservas, el oleoducto del Lago de Maracaibo es un oleoducto
+maduro. Habia muchos otros operadores privados que prestaban servicios de soporte a
+
+PDVSA.
+
+64
+
+171.
+
+172.
+
+173.
+
+174.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+No obstante, a su vez, SEMARCA habia sido contratada para brindarles apoyo a otros dos
+proyectos petroleros, ambos de los cuales se Ilevaban a cabo costa afuera. En primer
+lugar, SEMARCA le brindaba apoyo a PetroSucre, sociedad afiliada de PDVSA, en sus
+operaciones en Corocoro en el Golfo de Paria con cuatro buques. El Tribunal ya concluyo
+sobre la base de las pruebas que PDVSA las trataba como si estuvieran al amparo de la
+Ley de Reserva y fueron expropiados el dia 12 de julio de 2009. Histéricamente, habian
+formado parte de la flota de SEMARCA ubicada en La Cafiada en el Lago de Maracaibo.
+Por lo tanto, el valor del negocio que representaban las operaciones de estos buques
+
+debe agregarse a los 11 buques efectivamente estacionados en el Lago de Maracaibo.
+
+La posicion es diferente, sin embargo, con respecto al negocio que representaban los dos
+buques, el President Tide y el High Quest, que fueron contratados para brindarle apoyo a
+Chevron en su proyecto de perforacién exploratoria en el bloque Cardén III?®°. Estos
+buques no formaban parte de la flota habitual de SEMARCA. Estaban registrados con
+bandera estadounidense”™ y tripulados por ciudadanos estadounidenses”®. El contrato
+con Chevron llego a su fin en el mes de junio de 2009, cuando las operaciones de
+perforacion de Chevron produjeron un pozo seco y Chevron abandon6 el bloque Cardén
+lll. El Tribunal considera que este contrato no puede tratarse como parte de las
+operaciones corrientes de SEMARCA a efectos de valuar su actividad como empresa en
+operacién. Se encontraba fuera del curso habitual de la actividad de SEMARCA y no
+continud. No tenia ni la misma organizacién ni el mismo personal que el resto de las
+
+operaciones de SEMARCA.
+
+En consecuencia, el Tribunal decide excluir el negocio que representaban estos dos
+buques del flujo de fondos de la empresa a efectos de calcular su valor. Por consiguiente,
+la actividad debe tratarse como si tuviera un ambito supuesto, en funcién de sus
+
+operaciones histéricas, representado por el flujo de fondos generado por 15 buques.
+
+b) Cuentas por cobrar
+
+El segundo elemento que dio lugar a diferencias en las valuaciones de los respectivos
+
+expertos fue el trato de las cuentas pendientes de pago. Las Partes coinciden en que, al
+
+269 Contrato Cardon de fecha 23 de marzo de 2009 (C-86).
+
+261 Kehoe 1, [46].
+
+282 Carta de Jacob (SEMARCA) dirigida a Hernandez, 15 de junio de 2009 (C-88).
+
+65
+
+175.
+
+176.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+dia 7 de mayo de 2009, los estados contables de SEMARCA registraban un monto
+importante (aproximadamente 44.888.040 ddlares estadounidenses) en concepto de
+cuentas por cobrar por parte de PDVSA/PetroSucre”. El experto de las Demandantes
+incluy6 estas sumas al momento de valuar la compajiia y realizo ajustes a fin de
+garantizar que no distorsionaran el flujo de fondos de la empresa en forma
+permanente”. Por otro lado, los abogados les habian ordenado a los expertos de la
+Demandada que no incluyeran las cuentas por cobrar en ninguno de sus avaltios”®. Los
+expertos justificaron esta exclusion sobre la base de que las cuentas por cobrar no habian
+sido expropiadas, ya que SEMARCA todavia existe como compaiiia y, por ende, tiene
+derecho a cobrar sus créditos”©. Su efecto en la valuacién DCF realizada por los expertos
+de la Demandada fue considerable. Los expertos de la Demandada excluyeron todas las
+cuentas por cobrar y otro capital de trabajo de su analisis DCF. Esto derivo en un flujo de
+fondos descontado a accionistas negativo y un flujo de fondos descontado negativo de
+2,433 millones de ddlares estadounidenses en el ejercicio 20107, con efectos
+
+consecuentes en ajios posteriores.
+
+En funcidn del expediente actual, incluidas las decisiones de los propios Tribunales de
+Justicia venezolanos, el Tribunal ya concluyé que la Demandada expropié la Empresa
+SEMARCA en su totalidad, al asumir el control de hecho de su negocio y todos sus activos.
+
+En consecuencia, la inversién que se perdido debe incluir las cuentas por cobrar.
+
+A efectos del avaltio de la empresa como empresa en funcionamiento en la fecha
+inmediatamente anterior a la expropiacién, deben incluirse las cuentas por cobrar.
+Constituyen un activo valioso de la empresa. El Tribunal esta seguro de que un
+comprador dispuesto a comprar también los consideraria valiosos. A la luz de la larga
+historia de negociaciones exitosas entre SEMARCA y PDVSA, estas sumas, que
+representan una deuda devengada respecto de contratos ya cumplidos, se considerarian
+susceptibles de recuperacién plena. En la etapa de jurisdiccién, se presentaron algunas
+
+pruebas de que PDVSA pretendia negociar descuentos respecto de sus deudas
+
+?63 Libro de Cuentas por cobrar Vencidas de SEMARCA de julio de 2009 (NAV-472).
+
+264 Kaczmarek, T2/405/21 — 409/20.
+
+285 Brailovsky, T2/468/5-21; Flores 13/585/17 — 588/7.
+
+286 Brailovsky T2/468/18 — 469/7.
+
+267 BF-5, Tabla 1A; Flores T3/585/17 — 58/7.
+
+66
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+pendientes de pago con sus proveedores principales a comienzos del afio 2009”, pero
+SEMARCA habia adoptado la posicién de que necesitaba recibir el pago en su totalidad.
+Durante la fase de fondo, la posicién de la Demandada consiste en afirmar que "el activo
+principal de la compafiia, sus cuentas por cobrar, no fue expropiado, y las Demandantes
+estan en libertad de buscar el cobro de cualquier cuenta pendiente de pago de
+
+conformidad con los contratos relevantes”*®.
+
+177. Por estas razones, el Tribunal decide incluir las cuentas pendientes de cobro de
+
+SEMARCA al dia 7 de mayo de 2009 a efectos de determinar el valor que ha de asignarse
+
+ala empresa.
+
+c) Flujo de caja
+
+178. El tercer elemento que contribuy6 a las diferencias en las valuaciones de los respectivos
+
+expertos de las Partes es la cuestion de si el flujo de caja de SEMARCA correspondiente al
+ejercicio finalizado el dia 31 de marzo de 2009 debe incluirse en la determinacién de los
+flujos de caja histéricos de la compajiia. Ambos expertos comienzan su calculo de los
+flujos de caja histdricos en el ejercicio 2006. El experto de las Demandantes incluye los
+resultados correspondientes al ejercicio 2009. Los expertos de la Demandada los
+excluyen, dado que el ejercicio 2009 fue un ejercicio excepcional en términos de
+rentabilidad?”°. Por lo tanto, estos hacen sus calculos con un promedio de los flujos de
+
+caja historicos correspondientes al periodo de tres afios finalizado en el ejercicio 2008.
+
+179. El Tribunal considera que corresponde incluir los resultados de los cuatro afios respecto
+
+268
+
+269
+
+270
+
+2m.
+
+de los cuales se presenta informacion relativa a los flujos de caja historicos. Un
+comprador dispuesto a comprar SEMARCA en el mes de mayo de 2009 habria tenido en
+cuenta toda la informacion financiera actual disponible acerca de los flujos de caja de la
+compafiia. Si bien las tasas dominantes durante el ejercicio 2009 fueron mas elevadas
+que en los ejercicios anteriores, cabe destacar que la industria petrolera es notoriamente
+volatil desde el punto de vista de los precios. Ademas, los precios mas elevados de 2009,
+
+en parte, reflejaban el incremento de los costos laborales””’. Seguin el Tribunal, tomar un
+
+Decision sobre la Jurisdiccién, [161]-[163].
+Duplica, [8].
+Flores T3/573/14 — 574/2.
+
+Carta de SEMARCA dirigida a PDVSA, 6 de julio de 2009 (C-59).
+
+67
+
+18
+
+181.
+
+272
+
+273
+
+274
+
+275
+
+qu
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+promedio de los cuatro afios de flujos de caja histéricos es el método que refleja la
+
+informacion disponible en forma mas justa.
+
+d) Prima de riesgo de capital
+
+0. Un cuarto elemento sustancial en el analisis del flujo de caja descontado que derivé en
+diferencias importantes entre los expertos es la prima porcentual que ha de aplicarse al
+riesgo involucrado en la inversién en titulos de participacidn en lugar de bonos del
+Tesoro de los EE. UU. libres de riesgo. El experto de las Demandantes sostiene que una
+tasa del 5 % es una estimacién razonable. Los expertos de la Demandada aplican una tasa
+del 6,5 %. Opinan que esta representa la media aritmética a largo plazo de primas de
+riesgo pais mas confiable en la industria pertinente y que el experto de las Demandantes
+
+habia aplicado un porcentaje sin el apoyo de la informacion primaria mas fiable.
+
+e
+
+El Tribunal ha examinado de manera minuciosa la informacion primaria con la que
+cuenta en la forma de anexos a los informes de los expertos. Le resultan particularmente
+salientes tres fuentes primarias de primas de riesgo de capital a largo plazo: el Informe
+Ibbotson-Morningstar (que cubre el periodo 1926-2009)”, el Informe Damodaran (que
+cubre el periodo 1928-2009)?” y el Informe Dimson-Marsh-Staunton (que cubre el
+periodo 1900-2009)?”. Estos informes presentan una prima de riesgo de mercado a largo
+plazo, al afio 2009, de entre el 6,0 % y el 6,7 %7”5. Por consiguiente, el Tribunal concluye
+que es razonable incluir una prima de riesgo de capital del 6,5 % en el calculo del costo
+
+de capital.
+
+BF-23.
+BF-113.
+BF-114.
+
+El Tribunal también ha examinado los trabajos adicionales en materia de primas de riesgo de capital
+ie el experto de las Demandantes adjunté como anexos a su Segundo Informe (NAV-388 — NAV-392 &
+
+NAV-474 — NAV-475). Concluye el Tribunal que estos postergan la fecha de valuacién, no presentan un
+
+conjunto de datos a largo plazo o representan diversas evaluaciones de analistas en lugar de informacion
+
+pri
+
+maria.
+
+68
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+e) Prima de riesgo pais
+
+182. El elemento que presenta mas diferencias entre el enfoque de los expertos es la prima
+aplicable al riesgo de invertir en un pais determinado, en este caso, Venezuela. El
+experto de las Demandantes adopt6 una prima de riesgo pais del 1,5 %, mientras que los
+
+expertos de la Demandada adoptaron una prima de riesgo pais del 14,75 %.
+
+183. En respuesta a una pregunta de un miembro del Tribunal, el experto de las Demandantes,
+Sr. Kaczmarek, acepto que Venezuela "posiblemente sea un pais con el riesgo mas alto"
+en el cual invertir?”°. El motivo por el cual su prima de riesgo pais es tan reducida es que
+considera que el riesgo politico deberia excluirse de la prima de riesgo pais. A su vez, esta
+opinion se basa en las inferencias legales de las salvaguardias en materia de inversion
+contenidas en el TBI Venezuela-Barbados. este experto sostiene que esto le daba
+derecho a excluir los "riesgos reales de que el Gobierno actuara en forma muy hostil
+hacia la inversion privada"”””. Considera que, a la luz de dichas salvaguardias, incluir tales
+riesgos le otorgaria un beneficio ilegitimo al Estado:
+
+Si el Estado puede crear estos riesgos que controla, por ejemplo, amenazar a las empresas,
+[...] bajar el el valor del negocio y después expropiar; si tenemos en cuenta todos estos
+riesgos, entonces llegan a comprar la empresa con un descuento muy marcado porque son
+sus propios riesgos que ellos mismos crearon y que son hostiles para estas empresas?”*.
+
+184. Seguin la opinién del Tribunal, el experto de las Demandantes combina dos elementos
+separados en un reclamo juridico de este tipo. El primer elemento consiste en una
+cuestion de responsabilidad: élas salvaguardias del Articulo 5 del TBI se ven
+comprometidas por los actos especificos del Estado receptor, de modo que el
+inversionista tenga derecho a recibir una compensaci6n por la pérdida de sus bienes? Tal
+como el Tribunal ya observd, el TBI no prohibe toda toma de posesién de propiedad
+privada por parte del Estado. En su lugar, requiere la toma de posesién por causas de
+interés publico y ofrece un mecanismo mediante el cual el tribunal internacional pueda
+otorgar el nivel de compensacién adecuado. Sin duda, el Tratado pretende alentar la
+
+inversién entre los Estados Contratantes. Sin embargo, no constituye una pdoliza de
+
+28 12/23/15-16.
+27 12/17/24.
+
+28 12/24/22-25; Navigant 2, [204]-[213].
+
+69
+
+185.
+
+186.
+
+187.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+seguros en contra de todos los riesgos politicos o de otra naturaleza asociados a dicha
+
+inversion.
+
+Si el Tribunal concluye que existe responsabilidad, en la segunda etapa de cuantificacion
+de dajios, el Tribunal debe determinar el "valor de mercado" de la inversion. En esencia,
+el segundo elemento del reclamo es una cuestién econdmica. Depende del valor que el
+mercado le atribuiria a la inversién objeto de debate. Si nos referimos nuevamente a las
+Directrices del Banco Mundial, en virtud de dichas Directrices, se trata del monto que un
+comprador dispuesto a comprar le pagaria a un vendedor dispuesto a vender por la
+inversién inmediatamente antes de la toma de posesidn en cuestidn. Cuando lo anterior
+se determina por medio del uso del método de flujo de caja, las Directrices invitan a
+considerar, especificamente, "el riesgo asociado con este flujo de caja en circunstancias
+
+realistas'"?”°. [Traducci6n del Tribunal].]
+
+No se trata de una cuestion de permitir que un Estado demandado se aproveche de su
+propio acto ilicito. Por el contrario, los dafios que el Tribunal tiene la facultad de otorgar
+en virtud del Tratado estan disefiados para garantizar que el inversionista privado sea
+compensado por la pérdida de su inversién. No obstante, al momento de determinar el
+monto de dicha compensacién por via de referencia a un analisis de los flujos de caja
+descontados, el Tribunal deberia considerar el valor que un comprador dispuesto a
+comprar le habria atribuido a la inversidn. Al momento de determinar este valor, uno de
+los elementos que un comprador tendria en cuenta es el riesgo asociado a la inversion en
+un pais en particular. Un factor semejante no es propio de la medida del Estado en
+particular que da lugar al reclamo. Dicha medida debe dejarse de lado al momento de
+calcular una valuacién, dado que, conforme al Articulo 5, hay que llegar a la valuacion de
+mercado "inmediatamente antes de la expropiacién o de que se haga del conocimiento
+publico la expropiacién inminente". En cambio, la prima de riesgo pais cuantifica los
+riesgos generales, incluidos los riesgos politicos, de hacer negocios en el pais en cuestion,
+tal como se aplicaban en dicha fecha y tal como podria razonablemente haberse
+esperado que afectaran las perspectivas y, por ende, el valor que ha de asignarse al flujo
+
+de fondos probable del negocio en curso.
+
+La inclusion de una prima de riesgo pais es un rasgo muy comun de los calculos de
+
+compensacién de los tribunales, dado que, tal como un tribunal observd, "la cuestién
+
+279 Directrices del Banco Mundial, IV-6.
+
+70
+
+188.
+
+189.
+
+190.
+
+191.
+
+9
+
+192.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+fundamental del riesgo pais [es] evidente para el empresario menos entendido"
+Traduccion del Tribunal]?®°. A modo de ejemplo, en una decisién reciente en relacién
+‘jemp
+
+con Venezuela, el tribunal adopto una tasa de riesgo pais del 18 %78.
+
+Por estas razones, el Tribunal rechaza la opinion del Sr. Kaczmarek en cuanto al
+
+fundamento apropiado en funcion del cual se debe abordar el riesgo pais.
+
+Por su parte, los expertos de la Demandada propusieron una prima de riesgo pais del
+14,75 %. Esta derivé del Informe sobre Costo de Capital de Ibbotson-Morningstar
+International correspondiente al afio 20097" y fue convalidada por la comparacién con el
+
+método adoptado por el Profesor Damodaran”®3.
+
+Segtin la opinion del Tribunal, una prima de riesgo pais para Venezuela en el afio 2009
+del 14,75 % representa una prima razonable y, de hecho, conservadora. A la luz de su
+rechazo del razonamiento de los expertos de las Demandantes, adopta esta prima a
+
+efectos de su avaluo de la inversion.
+
+ff) Riesgo comercial
+
+El ultimo elemento que redundo en diferencias sustanciales en los analisis de flujos de
+caja descontados de las Partes es la cuestidn que consiste en determinar si deberia
+aplicarse cualquier descuento a fin de tener en cuenta el riesgo de reduccidn de la
+
+actividad de SEMARCA con el tiempo.
+
+La Demandada, con el apoyo de la prueba pericial del Profesor Wells, Profesor Emérito
+de Gestion Internacional de la Escuela de Negocios de Harvard, argumenta que la
+actividad de SEMARCA estaba sujeta a un riesgo importante emergente de su
+concentracion en un Unico cliente: PDVSA y sus filiales. Sostiene que este riesgo exige un
+
+ajuste en el avaluo de la inversién a una tasa de reduccién estimada del 25 % anual”**.
+
+280 Himpurna c PT (Persero) (RL-82), [364].
+
+281 Mobil Cerro Negro c. PDVSA (RL-83), [777]; para otros ejemplos recientes, véase Himpurna ibid
+(Indonesia: 19 %); Patuha c PT (Persero) (RL-138), [482] (Indonesia: 21 %); Lemire c Ucrania (RL-140),
+[274] (18,5 %).
+
+282 Brailovsky/Flores 1, [157], BF-24.
+
+283 Damodaran "Risk premiums for other markets 2009" (BF-27).
+
+284 Flores 13/561/10-13.
+
+71
+
+193.
+
+194.
+
+195.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+El Tribunal consideré este riesgo en contra de la evidencia factica que escucho durante la
+audiencia. El Sr. Figuera, que, en el afio 2009, se desempefiaba como Gerente General de
+CVP, subsidiaria de PDVSA a cargo de las relaciones con los contratistas privados, presto
+un testimonio vivido en cuanto al tamafio y a la escala de los servicios de soporte de la
+industria petrolera que PDVSA debia requerir en el Lago de Maracaibo. Concluyé lo
+siguiente: "hasta cierto punto bastante importante, dependiamos de los contratistas"”®°.
+El Tribunal ya concluy6 que la Demandada promulgo la Ley de Reserva, no simplemente
+para reservarse la industria de soporte de servicios petroleros en el Lago de Maracaibo,
+sino también, a tal efecto, para expropiar los buques y el negocio de los operadores
+
+privados en el Lago.
+
+Los abogados interrogaron minuciosamente al Sr. Figuera en cuanto al estado de la
+planificacin de PDVSA con anterioridad al mes de mayo de 2009 a fin de internalizar el
+tipo de servicios de soporte prestados por SEMARCA y varias otras empresas privadas
+mediante la compra o fabricacién de sus propios buques y la capacitacién de su propia
+tripulacién”®°. El Tribunal ha ponderado estas pruebas de manera minuciosa. Sobre la
+base de los hechos, el Tribunal concluye que, si bien habia algunos planes de desarrollar
+
+787 estos no eran
+
+la propia capacidad de PDVSA en la prestacién de servicios de soporte
+tales como para representar un riesgo de pérdida importante para el negocio de
+SEMARCA. En ese momento, la propia PDVSA operaba algunos servicios de soporte en el
+Lago. Tal como declaré el Sr. Figuera, "hemos contado siempre con una capacidad
+importante, significativa, para operar en el Lago. Pero sin embargo, eso no era
+suficiente"?®*. Al dia 7 de mayo de 2009, PDVSA seguia teniendo dependencia en gran
+medida de operadores privados tales como SEMARCA y lo habria hecho si no hubiera
+sido por la Ley de Reserva que le permitid obtener la Empresa SEMARCA de la noche a la
+
+majfiana.
+
+Por consiguiente, el Tribunal rechaza, en funcidn de los hechos, la analogia que las
+pruebas del Profesor Wells presentan en reiteradas oportunidades de la pérdida de su
+negocio de consultoria con el Instituto para el Desarrollo Internacional de Harvard (HIID,
+
+por sus siglas en inglés), cerrado como consecuencia de una decision de su Universidad
+
+285 71/141/17.
+
+28 T1/210-234.
+
+287 Informe Anual 2008 de PDVSA (R-89), 107.
+
+288 T1/141/15-16.
+
+72
+
+196.
+
+197.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+en el afio 2000. En el afio 2009, PDVSA operaba un enorme negocio de extraccién de
+petrdleo constante en el Lago de Maracaibo. En gran medida, los servicios de soporte de
+dicho negocio eran prestados por empresas privadas, pero no exclusivamente. Esa fue
+una cuestion de eleccién voluntaria tanto para PDVSA como para Venezuela, que habian
+optado por nacionalizar la propia industria petrolera en el afio 1975, pero no la industria
+de servicios petroleros que le brindaba apoyo. Es cierto que esta actividad se
+desarrollaba entre los contratistas privados y un Unico cliente mediante contratos a corto
+plazo. Sin embargo, la funcién industrial subyacente requeria una gran estructura
+desarrollada que no podia abandonarse sin mas si la produccién en el Lago de Maracaibo
+iba a continuar (a diferencia de la decision de la Universidad de Harvard de suspender las
+actividades del HIID una vez que se considerdé que no era apropiado para el trabajo de la
+Universidad). Una funcién de tal naturaleza tampoco podia ser reemplazada por una
+
+prestacién de servicios interna sin un periodo prolongado de inversion interna.
+
+En consecuencia, el Tribunal no considera que un comprador dispuesto a comprar,
+teniendo en cuenta la adquisicién de este negocio con anterioridad a la promulgacién de
+la Ley de Reserva el dia 8 de mayo de 2009, habria aplicado un descuento respecto del
+
+riesgo de pérdida del negocio para su cliente.
+
+g) Conclusiones sobre el cdlculo DCF
+
+Por lo tanto, el Tribunal aplica los elementos que ha considerado apropiados, mediante
+
+el analisis DCF:
+
+a) Un negocio compuesto por los servicios prestados por los 15 buques que SEMARCA
+operaba en el Lago de Maracaibo o desde él;
+
+b) Con inclusién de las cuentas pendientes de cobro, como elemento tanto que
+sustentaba el capital de trabajo del negocio en curso como susceptible de
+recuperacion en si mismo;
+
+c) Tomando el promedio de los flujos de caja histéricos de la empresa
+correspondientes al periodo 2006 —2009;
+
+d) Aplicando un riesgo de capital del 6,5 %;
+
+e) Aplicando un riesgo pais del 14,75 %;
+
+f) Pero sin descuento adicional debido a su concentracién en un unico cliente.
+
+289 Wells 2, [21]-[27]; 13/59-60.
+
+73
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+198. Tal como se mencionara supra, durante la audiencia, el Tribunal solicité que los expertos
+
+19
+
+201
+
+201.
+
+9.
+
+0.
+
+g
+
+prepararan calculos adicionales utilizando sus modelos existentes incluidas, inter alia,
+estas variables. Los expertos prepararon tablas de calculos adicionales que presentaron
+ante el Tribunal en el curso de las presentaciones de cierre de las Partes. Estas tablas
+resultaron de gran ayuda para el Tribunal en sus deliberaciones. Produjeron una
+convergencia mucho mayor en las cifras de lo que habia ocurrido en los informes de los
+expertos que se presentaron durante la fase escrita. Sin embargo, continua habiendo
+diferencias sustanciales en el enfoque adoptado por los expertos, que, a su vez, afectan
+
+las cifras presentadas.
+
+Cuentas por cobrar: El experto de las Demandantes extrae el monto de cuentas
+pendientes de cobro a partir de sus calculos. Lo presenta como una suma adicional que
+deberia valuarse e incluirse como rubro contable separado. Luego de los ajustes, calcula
+que el capital de trabajo no recurrente total que ha de agregarse de esta manera
+asciende a USD 16.484.677 (del total adeudado por PDVSA y PetroSucre al dia 8 de mayo
+de 2009 de USD 44.888.040)”°°. Los expertos de la Demandada sdlo presentan el efecto
+de la inclusion de las cuentas pendientes de cobro como capital de trabajo dentro de sus
+
+calculos.
+
+Ambito de actividad: El experto de las Demandantes supone que la envergadura total del
+negocio de SEMARCA en el mes de mayo de 2009 incluye los dos buques fletados a
+Chevron, como consecuencia de lo cual presenta cifras correspondientes a solo 11
+buques (los que efectivamente operan en el Lago de Maracaibo) o a 17 buques. Los
+expertos de la Demandada limitan sus calculos de actividad adicional a 15 buques. En
+tanto el Tribunal ya concluy6 que deberia excluir los dos buques fletados a Chevron de su
+analisis, esto redunda en que los dos conjuntos de cifras no puedan compararse en forma
+
+directa.
+
+Con estas limitaciones, el diferencial de cifras presentadas por los dos expertos es el
+
+siguiente:
+
+(a) Demandantes: 31,959 millones de ddlares estadounidenses (sdlo 11 buques)
+(ingresos multiplo de 3,79) + 16,484 millones de ddlares estadounidenses en
+concepto de cuentas pendientes de cobro no recurrentes = 48,443 millones de
+
+dolares estadounidenses;
+
+290 Respuestas de Navigant a Preguntas, Diapositiva 10.
+
+74
+
+202.
+
+203.
+
+204.
+
+205.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+(b) Demandada: 27,407 millones de délares estadounidenses (15 buques con 100 % de
+
+recuperabilidad de cuentas pendientes de cobro).
+
+El Tribunal ya observé que la determinaciédn de un nivel de compensacién apropiado
+basado en un anilisis de los flujos de caja descontados de este tipo no es ni puede ser
+una ciencia exacta, sino que se trata de una cuestidn de estimacion fundada. El Tribunal
+considera que un comprador dispuesto a comprar habria valuado el negocio en
+aproximadamente 30 millones de ddlares estadounidenses, aunque también habria
+estado listo para pagar un monto adicional de 16,4 millones de ddlares estadounidenses
+en concepto de cuentas por cobrar no recurrentes, que habria tenido derecho a
+recuperar en su totalidad de PDVSA luego de adquirir el negocio. En consecuencia, el
+Tribunal arriba a un avaluo (sin intereses anteriores al laudo) a efectos de compensacién
+
+de 46,4 millones de dolares estadounidenses.
+
+Intereses
+
+En principio, las Partes no cuestionan el pago de intereses. En su lugar, difieren en cuanto
+alo siguiente: i) la tasa a la que los intereses deberian calcularse; y ii) si el interés deberia
+
+ser simple o compuesto.
+
+El Articulo 5 del TBI, que el Tribunal concluy6 que era aplicable a su determinacion de la
+compensacién en general, dispone el pago de intereses "a una tasa comercial normal
+hasta la fecha del pago". Las Partes aceptan que este es el punto de partida aplicable?*!,
+
+pero no coinciden en cuanto a la forma de determinar una tasa semejante.
+
+La primera tasa propuesta por las Demandantes era el rendimiento respecto de los
+bonos soberanos de Venezuela en ddlares estadounidenses, que resulta en un promedio
+de 13,4 % durante el periodo”*. Esta tasa la propusieron argumentando que las
+Demandantes, como consecuencia de la expropiacién, se habian convertido
+efectivamente en acreedores forzados de la Demandada y deberian ser compensados a
+la misma tasa que la Demandada debe pagarle a los prestadores voluntarios. Seguin la
+opinion del Tribunal, este enfoque confunde la razon por la cual los intereses anteriores
+
+al laudo se incluyen habitualmente en un calculo de compensacién en el marco de un
+
+291 Memorial, [158]; Memorial de Contestacién, [158].
+
+22 Memorial, [128], Navigant 1, [261].
+
+75
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+caso como el presente. En un caso de tal naturaleza, el Unico propdsito de los intereses
+consiste en compensar a la parte demandante por haber sido mantenido apartada de su
+dinero entre la fecha en que deberia haber sido compensada y la fecha de pago de un
+laudo exigible. Dicha compensacién no representa un castigo para la Demandada, pero,
+tal como la referencia del Tratado a una "tasa comercial normal" subraya, representa el
+costo de pedir prestada una suma que la parte demandante deberia haber recibido
+durante el mismo periodo de tiempo. Asi pues, el punto de referencia apropiado es el
+costo de un préstamo hecho a las Demandantes, y no el monto que la Demandada habria
+
+tenido que abonar.
+
+206. La Demandada propone el rendimiento de los bonos del Tesoro a tres meses mas el
+
+1,33 % equivalente a una tasa anual del 1,43 %793. Sin embargo, tal como sefialan las
+Demandantes, esta tasa no constituye una tasa comercial, ya que equivale a una tasa
+interbancaria, y no a una tasa comercial puesta a disposicién de una sociedad comercial
+
+por parte de sus banqueros.
+
+207. Como alternativa, las Demandantes proponen la tasa de interés preferencial en los EE.
+
+UU. + 2 % 0 la tasa LIBOR + 4 %. En cada caso, durante el periodo comprendido entre el
+dia 8 de mayo de 2009 y el dia 31 de marzo de 2013, ambas resultaron en un promedio
+del 5,2 %7%4. Su experto también sefiala que la propia Tidewater, sociedad controlante,
+pudo tomar préstamos a tasas que oscilaban entre el 4,35 % y el 4,47 % durante el
+periodo de tasas de interés anteriores al laudo”®>. El Tribunal considera que una tasa de
+interés del 4,5 % esta mas cerca de satisfacer el estandar acordado entre Venezuela y
+
+Barbados en el Articulo 5 del TBI.
+
+208. La segunda cuestion respecto de la cual las Partes disienten consiste en determinar si los
+
+293
+
+294
+
+295
+
+296
+
+intereses deberian calcularse sobre una base simple o compuesta. Las Demandantes
+alegan que “la prdctica prevaleciente de los tribunales internacionales"? consiste en
+
+otorgar interés compuesto. La Demandada argumenta que el interés deberia ser simple
+
+Memorial de Contestacién, [158].
+Memorial, nota 206; Navigant 1, [322].
+Navigant 2, [304], Tabla 32.
+
+Memorial, [158], donde se cita Chevron c Ecuador (CL-167), [555].
+
+76
+
+209.
+
+210.
+
+211.
+
+212.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+en funcién de las autoridades tanto del derecho venezolano como del derecho
+
+internacional’*’.
+
+Seguin la opinién del Tribunal, el fundamento en virtud del cual deben calcularse los
+intereses en el marco del caso que nos ocupa surge del lenguaje especifico del Articulo 5
+del TBI, que exige una "tasa comercial normal". Esta es la tasa a la que las propias
+Demandantes podrian haber tomado prestada la misma suma. Puesto que, por lo comtn,
+los bancos comerciales incrementan los intereses adeudados y pendientes de pago en
+forma trimestral, el Tribunal considera que el intereés otorgado deberia asimismo ser
+
+interés compuesto?®.
+
+Costas
+
+Por ultimo, el Tribunal procede a otorgar las costas del arbitraje. Con arreglo al Articulo
+61 del Convenio CIADI, el Tribunal tiene la obligacién de determinar la forma de pago y la
+manera de distribucién de las costas del procedimiento que nos ocupa y los gastos a él
+
+asociados, respecto de lo cual posee amplia discrecionalidad.
+
+El dia 11 de julio de 2014, conforme a las instrucciones dadas por el Presidente al cierre
+de la audiencia y aceptadas por los abogados de cada una de las Partes, cada Parte
+presenté ante el Tribunal una Declaracién sobre Costos. Cada Parte abono su parte del
+anticipo en concepto de honorarios y gastos administrativos solicitado por el Centro, que,
+
+en cada caso, ascendia a USD 450.000. Ademas:
+
+(a) Las Demandantes solicitan el reembolso de los honorarios de los abogados y
+expertos que ascienden a USD 7.534.361,33 mas gastos por la suma de USD
+177.739,31;
+
+(b) La Demandada solicita el reembolso de los honorarios de los abogados y expertos
+
+que ascienden a USD 8.479.879 mas gastos por la suma de USD 520.538,00;
+
+El Tribunal recuerda haber reservado los costos ocasionados por su Decisién sobre la
+Jurisdiccién?®®. En dicha etapa, cada Parte resulté vencedora en una de las dos causales
+
+de jurisdiccién que se habian invocado originalmente. Cada uno de dichos fundamentos
+
+297 Memorial de Contestacién, [159].
+
+298 Navigant 2, [307].
+
+29 Decision sobre la Jurisdiccién, [199(7)].
+
+77
+
+213.
+
+214.
+
+215.
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+de impugnacion de la jurisdiccién del Tribunal era sustancial, y requeria la consideracién
+y determinacién adecuada del Tribunal. La Decisién del Tribunal redund6é en que los
+reclamos de varias de las partes demandantes originales se encontraran fuera del Ambito
+de su jurisdiccién. Sin embargo, resolvié que los reclamos de las presentes Demandantes
+en virtud del TBI con Barbados se encontraban dentro del ambito de su jurisdiccion. Por
+lo tanto, en cuanto a los costos de la audiencia relativa a la excepcién a la jurisdiccién
+formulada por la Demandada y los gastos asociados a ella, el Tribunal resuelve que las
+Partes deben hacerse cargo en partes iguales de los honorarios y gastos administrativos
+
+de los miembros del Tribunal y del Centro y soportar sus propios costos.
+
+La posicién es diferente en lo que respecta a la fase de fondo del procedimiento. El
+Tribunal es consciente del hecho de que, en general, las Demandantes resultaron
+vencedoras en su reclamo. Por lo tanto, tuvieron que invertir mucho tiempo, dinero y
+preocupacion a fin de obtener la indemnizacién que Venezuela se habia comprometido a
+pagar en virtud de los términos del TBI con Barbados y deberia haber ofrecido en el afio
+
+2009.
+
+Si bien los costos en que cada una de las Partes afirma haber incurrido son relativamente
+muy altos para el caso, el Tribunal no considera que cada Parte haya hecho incurrir a la
+otra en importantes costos inutiles como consecuencia del modo en que se desarrolld el
+
+procedimiento.
+
+Por otro lado, el Tribunal destaca que las sumas que, en consecuencia, les otorgd a las
+Demandantes son muy inferiores a la suma de 234 millones de ddlares estadounidenses
+(mas intereses) que las Demandantes solicitaron durante la fase escrita®. En parte, esto
+se debidé a que las Demandantes perseguian un reclamo por lo que llamo "dajios ex post",
+que el Tribunal rechazo por fundamentos de derecho. Este reclamo si derivé en costos
+inutiles significativos en la fase probatoria, puesto que requirid que la Demandada (y el
+Tribunal) considerara(n) la viabilidad de diversas supuestas perspectivas de expansién del
+negocio de soporte en aguas profundas de SEMARCA en Venezuela durante el periodo
+
+posterior a la expropiacion.
+
+200 Navigant 2, [296] Tabla 30.
+
+78
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+216. Por lo tanto, el Tribunal esta preparado para otorgar a las Demandantes una parte de los
+costos en que incurrieron durante la fase de fondo, pero no una indemnizacion plena.
+Dadas las circunstancias, considera que la parte razonable de que la Demandada deberia
+
+hacerse cargo asciende a 2,5 millones de délares estadounidenses.
+
+79
+
+Caso CIADI No. ARB/10/5 Tidewater c. Venezuela
+
+LAUDO
+
+217. Por las razones expuestas en la parte de arriba, el Tribunal resuelve lo siguiente:
+
+(1) Que la Demandada expropié la inversién de las Demandantes en SEMARCA sin el pago de
+
+una pronta, adecuada y efectiva indemnizaci6n;
+
+(2) Que, por ende, las Demandantes tienen derecho a recibir indemnizacién de conformidad
+
+con el Articulo 5 del TBI;
+
+(3) Que el Tribunal determina que el monto en concepto de capital de la indemnizacion que
+
+ha de abonarse asciende a 46,4 millones de ddlares estadounidenses;
+
+(4) Que, asimismo, las Demandantes tienen derecho a percibir intereses desde el dia 8 de
+mayo de 2009 hasta la fecha de pago del presente Laudo a la tasa anual del 4,5 %
+
+capitalizados trimestralmente;
+
+(5) Que las Partes se hardn cargo en partes iguales de los honorarios y gastos de los
+miembros del Tribunal y del Centro, asi como de los costos en que cada una de ellas
+incurrié en virtud de la impugnacién por parte de la Demandada de la jurisdiccién del
+
+Tribunal;
+
+(6) Que la Demandada abonard a las Demandantes la suma de 2,5 millones de ddlares
+estadounidenses en concepto de reembolso parcial de los costos incurridos por las
+Demandantes durante la fase del fondo del procedimiento que nos ocupa y de los gastos
+
+ocasionados por ella.
+
+80
+
+Caso CIADI No. ARB/10/S Tidewater c. Venezuela
+
+ 
+
+[firmado] [firmado]
+Dr. Andrés Rigo Sureda Profesora Brigitte Stern
+Arbitro Arbitro
+Fecha Fecha
+[firmado]
+
+Profesor Campbell McLachlan QC
+Presidente
+
+Fecha
+
+81
+

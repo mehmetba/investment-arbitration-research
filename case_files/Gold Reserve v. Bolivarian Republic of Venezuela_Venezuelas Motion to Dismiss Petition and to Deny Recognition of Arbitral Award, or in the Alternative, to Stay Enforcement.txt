@@ -1,0 +1,1679 @@
+Case 1:14-cv-02014-JEB Document19 Filed 06/12/15 Page 1 of 50
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT COLUMBIA
+
+GOLD RESERVE INC.,
+Petitioner,
+v. Civil Action No. 1:14-cv-02014-JEB
+BOLIVARIAN REPUBLIC OF VENEZUELA,
+
+Respondent.
+
+RESPONDENT BOLIVARIAN REPUBLIC OF VENEZUELA’S MOTION TO DISMISS
+PETITION AND TO DENY RECOGNITION OF ARBITRAL AWARD, OR IN THE
+ALTERNATIVE, TO STAY ENFORCEMENT, WITH INCORPORATED
+MEMORANDUM OF POINTS AND AUTHORITIES
+ORAL HEARING REQUESTED
+
+Case 1:14-cv-02014-JEB Document19 Filed 06/12/15 Page 2 of 50
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+TABLE OF CONTENTS i
+TABLE OF AUTHORITIES ii
+INTRODUCTION 1
+BACKGROUND 4
+A. The Mining Concession 4
+B. The Arbitration 6
+ARGUMENT 18
+
+ 
+
+1. RECOGNITION OF THE AWARD SHOULD BE DENIED UNDER
+ARTICLE V OF THE NEW YORK CONVENTION
+
+ 
+
+A. The Award Exceeds The Scope of Venezuela’s Consent To
+
+ 
+
+Arbitration 19
+B. The Tribunal Violated Venezuela’s Due Process Rights In Its Conduct
+Of The Hearing 25
+
+ 
+
+Cc. The Award Is Contrary To Public Policy Of The United States
+Because It Assesses Punitive Damages Against A Foreign State.............. 29
+
+2. IF THE COURT DOES NOT REFUSE RECOGNITION OF THE AWARD,
+ENFORCEMENT SHOULD BE STAYED TO ARTICLE VI OF THE NEW
+
+ 
+
+ 
+
+YORK CONVENTION 33
+A. The Annulment Action Pending Before the Paris Court of Appeal........... 33
+B. Enforcement Should be Stayed ..........c cece eeeeseeeseeeeee cette eeeeeeeeneeeeeee 37
+CONCLUSION 44
+STATEMENT PURSUANT TO LCVR 7(M) ......scescessesessessesssesnesseeseeseeseeseesessssessessnsenseneeeeeseese 44
+
+CERTIFICATE OF SERVICE 45
+
+Case 1:14-cv-02014-JEB Document19 Filed 06/12/15 Page 3 of 50
+
+TABLE OF AUTHORITIES
+
+Authority Pages
+
+Court Opinions
+
+Alto Mar Girassol v. Lumbermens Mut. Cas. Co., No. 04 C 7731, 2005 U.S. 39, 40, 41,
+Dist. LEXIS 7479 (N.D. Ill. Apr. 12, 2005) 43
+Belize Soc. Dev. v. Gov’t of Belize, 668 F.3d 724 (D.C. Cir. 2012) 40
+Berkenhoff GmbH v. Global Trade Network, Inc., No. 1:11-cv-00475, 2012 39
+U.S. Distr. LEXIS 11579 (W.D. Ohio, Jan. 31, 2012)
+Chevron Corp. v. Republic of Ecuador, 949 F. Supp. 2d 57 (D.D.C. 2013) 40, 43
+Continental Transfert Technique Ltd. v. Fed. Gov’t of Nigeria, 697 F. Supp. 40
+2d 46 (D.D.C. 2010)
+Dole Food Co. v. Patrickson, 538 U.S. 468 (2003). 24
+D.R.C. Inc. v. Republic of Honduras, 774 F. Supp. 2d 66 (D.D.C. 2012) 40, 42
+* — Europcar Italia, S.P.A. v. Maiellano Tours, 156 F.3d 310 (2d Cir. 1998) 39, 40, 43
+GE. Transp. S.p.A. v. Republic of Albania, 693 F. Supp. 2d 132 (D.D.C. 40
+2010)
+Generica Ltd. v. Pharameutical Basics, 125 F.3d 1123 (7th Cir. 1997) 26
+Hertz Corp. v. Friend, 559 U.S. 77 (2010) 23
+Higgins v. SPX Corp., Case No. 1:05-cv-846, 2006 U.S. Dist. LEXIS 20771 Al
+(W.D. Mich. Apr. 18, 2006)
+In re Microsoft Corp., 630 F.3d 1361 (Fed. Cir. 2011) 23
+Int’l Trading & Indus. Inv. Co. v. DynCorp Aero Tech., 763 F. Supp. 2d 12 19
+(D.D.C. 2011)
+Tran Aircraft Industries v. Avco Corp., 980 F.2d 141 (2d Cir. 1992) 26, 27
+Jorf Lasfar Energy Co., S.C.A. v. AMCI Exp. Corp., Civil Action No. 05- Al
+
+0423, 2005 U.S. Dist. LEXIS 34969 (W.D. Pa. Dec. 22, 2005)
+
+Laminoirs-Trefilerie-Caleries de Lens, S.A. v. Southwire, 484 F. Supp. 1063 33
+(N.D. Ga. 1980)
+
+-ii-
+
+Case 1:14-cv-02014-JEB Document19 Filed 06/12/15 Page 4 of 50
+
+Authority Pages
+Miller & Lux, Inc. v. East Side Canal & Irrigation Co., 211 U.S. 293 (1908) 23
+PCH Mut. Ins. Co v. Cas & Sur. Inc., 750 F. Supp. 2d 125 (D.D.C. 2010) 21
+Scherk v. Alberto-Culver Co., 417 U.S. 506 (1974) 28
+Sec. Indus. & Fin. Mkts. Ass’n v. United States CFTC, Civil Action No. 13- 24
+1916, 2014 U.S. Dist. LEXIS 130871 (D.D.C. Sep. 16, 2014)
+
+Shu-Tao Lin v. McDonnell Douglas Corp., 742 F.2d 45 (2d Cir. 1984) 29
+Slaney v. Int’! Amateur Ath. Fed’n, 244 F.3d 580 (7th Cir. 2001) 26
+Spier v. Calzaturificio Tecnica, S.p.A., 663 F. Supp. 871, 875 (S.D.N.Y. 38
+1987)
+
+Tempo Shain Corp. v. Bertek, 120 F.3d 16 (2d Cir. 1997) 27
+Weinstein v. Islamic Republic of Iran, 184 F. Supp. 2d 13 (D.D.C. 2002) 32
+
+Arbitration Awards
+
+Phoenix Action Ltd. v. Czech Republic, ICSID Case No. ARB/06/05, Award, 23
+15 April 2009.
+
+Statutes
+
+9 U.S.C. §201 et seq. 19
+
+28 U.S.C. §1606 3, 33
+
+*  Décret n° 2011-48 du 13 janvier 2011 portant réforme de I’ arbitage 28, 34, 35,
+36, 37
+
+International Conventions and Treaties
+
+* Agreement Between the Government of Canada and the Government of the 21, 22, 24,
+Republic of Venezuela for the Promotion and Protection of Investments 31, 35, 37,
+
+(“BIT”). 38
+
+- ili -
+
+Case 1:14-cv-02014-JEB Document19 Filed 06/12/15 Page 5 of 50
+
+Authority Pages
+* The United Nations Convention on the Recognition and Enforcement of 19, 20, 26,
+Foreign Arbitral Awards of 1958 (“The New York Convention”) 30, 33
+Treatises
+Draft Articles on Responsibility of States for Internationally Wrongful Acts, 31
+
+with Commentaries, 2001.
+
+-iv-
+
+Case 1:14-cv-02014-JEB Document19 Filed 06/12/15 Page 6 of 50
+
+INTRODUCTION
+
+By its petition, Gold Reserve Inc. (“Gold Reserve”) asks this Court to recognize a
+massive arbitral award (the “Award”), in excess of $700 million, that was made against the
+Bolivarian Republic of Venezuela (““Venezuela’’) pursuant to the dispute resolution procedures
+set out in the bilateral investment treaty between Venezuela and Canada. The arbitration in
+question was seated in Paris, France, governed by French arbitration law, and conducted under
+the judicial supervisory authority of the courts in Paris. It is currently the subject of litigation
+pending before the Paris Court of Appeal, which must determine whether the Award should be
+annulled because of the numerous and serious defects that infected the arbitral process and
+resulting Award.
+
+Rather than wait for the Court in Paris to determine whether the Award is a nullity, Gold
+Reserve seeks recognition of the Award now. Its reason for doing so is transparent. Gold
+Reserve hopes that, if it can obtain immediate recognition of the Award from this Court, it can
+render the French annulment proceeding moot by using that recognition as the basis for attaching
+Venezuelan state assets before there is an opportunity for the Court in Paris to annul the Award.
+
+Gold Reserve’s attempt to achieve this end-run around the annulment proceeding should
+be rejected. There are at least four reasons for doing so, all supported by the Convention on the
+Recognition and Enforcement of Foreign Arbitral Awards of 1958 (the “New York
+Convention”), which governs whether an arbitral award should be recognized abroad.
+
+First, the arbitral tribunal (the “Tribunal”) had no jurisdiction to arbitrate the dispute.
+Venezuela’s consent to arbitrate was limited to the circumstances set out in its bilateral
+investment treaty with Canada. Among the relevant conditions imposed by the treaty are the
+requirements that the party seeking arbitration must be a “Canadian enterprise” and have made
+
+an investment in Venezuela. Gold Reserve satisfies neither. It is an American enterprise, based
+
+Case 1:14-cv-02014-JEB Document19 Filed 06/12/15 Page 7 of 50
+
+in Spokane, Washington; the company has never had any operations or personnel in Canada.
+Nor did Gold Reserve ever make an investment in Venezuela. Instead, seven years after the
+Venezuelan subsidiary of an American company had acquired another Venezuelan company
+which held mining concession rights in Venezuela, Gold Reserve manipulated its internal
+corporate structure so that a Canadian subsidiary of the American parent was transformed into
+the parent company, giving it an indirect ownership stake in the Venezuelan concession holder.
+No money or other form of investment ever flowed from Canada to Venezuela.
+
+Second, the plain language of Venezuela’s treaty with Canada prohibits arbitral tribunals
+from awarding to an investor compensation for losses incurred by a subsidiary, requiring instead
+that any compensation must be awarded to the subsidiary itself. The treaty is unmistakable about
+this. Article XII(9) provides: “Where an investor brings a claim. . . regarding loss or damage
+suffered by an enterprise the investor directly or indirectly owns or controls any award shall be
+made to the affected enterprise.” Despite the treaty’s clear and unambiguous requirement that
+compensation be awarded only to the subsidiary, the Tribunal awarded Gold Reserve over $700
+million for damages allegedly suffered by a third-tier subsidiary.
+
+Third, the procedures adopted by the Tribunal were grossly unfair and deprived
+Venezuela of fundamental due process rights. Among other things, Venezuela asked for a
+modest delay in the start of the oral hearings so that its newly appointed Attorney General, who
+had assumed office due to the unexpected death of the incumbent, could be adequately briefed.
+This was important because the Attorney General had personal responsibility for its oversight.
+In response, in granting the request, the Tribunal dictated that Venezuela would not have the
+same amount of time as Gold Reserve to present its case at the oral hearings. Further, despite the
+
+fact that the parties had agreed upon the appropriate methodology for determining the precise
+
+Case 1:14-cv-02014-JEB Document19 Filed 06/12/15 Page 8 of 50
+
+quantum of damages, the Tribunal failed to apply the agreed-upon methodology. Instead, it
+employed its own means for determining damages, even though the means it chose were,
+according to the Tribunal itself, capable of producing only a rough estimate. Compounding this
+error, the Tribunal did not provide Venezuela with a meaningful opportunity to present
+arguments on the Tribunal’s unilaterally adopted and imprecise approach for determining the
+amount of damages that Venezuela owed. This, despite the fact that Gold Reserve also
+challenged the Tribunal’s approach.
+
+Fourth and finally, the Tribunal imposed on Venezuela what amounts to punitive
+damages based on what it considered to be “equitable” considerations. It did this even though
+such damages are prohibited by the applicable law. They are also unenforceable under the
+express terms of the Foreign Sovereign Immunities Act, which states that “a foreign state . . .
+shall not be liable for punitive damages.” 28 U.S.C. § 1606.
+
+Notwithstanding the above, should this Court still decide to grant Gold Reserve’s petition
+for recognition, enforcement of the award should be stayed pending completion of the annulment
+proceeding now pending before the Paris Court of Appeal, as allowed by Article VI of the New
+York Convention. That Court is the only judicial institution in the world with the competence to
+determine whether the award should be annulled. There are serious grounds for annulling the
+Award under French arbitration law, which requires the Paris Court to scrutinize it thoroughly.
+
+The annulment action in Paris has reached a relatively advanced stage, and is likely to be
+completed by late 2015. If enforcement is not stayed, Gold Reserve will undoubtedly commence
+enforcement actions in jurisdictions throughout the United States, against which Venezuela will
+be forced to defend itself. There is a significant risk that, if authorized by this Court, Gold
+
+Reserve will be able to secure attachment of Venezuelan state assets prior to the Paris Court’s
+
+Case 1:14-cv-02014-JEB Document19 Filed 06/12/15 Page 9 of 50
+
+completion of the annulment proceeding, which may well result in the vacatur of the Award.
+
+Were this to occur, there is an equally serious risk that Gold Reserve, which is a shell company
+
+with no actual operations, will be able to transfer Venezuela’s assets to other entities, making it
+
+difficult—if not impossible—for Venezuela ever to recover them in the event of annulment.
+BACKGROUND
+
+A. The Mining Concessions!
+
+On April 18, 1988, Venezuela’s Ministry of Mines? granted a mining concession to a
+Venezuelan company, Compania Aurifera Brisas Cuyuni, C.A. (the “Brisas Company”) that
+covered the near-surface gold resources located within the 500-hectare Brisas property in
+southeastern Venezuela (the “Brisas Concession”). Gold Reserve v. Bolivarian Republic of
+Venezuela, ICSID Case No. ARB(AF)/09/1, Award, 22 September 2014 (the “Award”) (Dkt. 2-1
+through 2-4) J 11. The Brisas Concession was for a 20-year term and could be renewed for two
+additional 10-year terms. Id.
+
+In 1992, the Brisas Company was acquired by Gold Reserve de Venezuela (“Gold
+Reserve Venezuela’), a Venezuelan subsidiary of an American company, Gold Reserve
+Corporation (“Gold Reserve US”). Id.
+
+In March 1998, the Brisas Company secured a concession from Venezuela’s Ministry of
+Mines to extract gold, copper and molybdenum from the hard rock lying beneath the Brisas
+Concession (the “Unicornio Concession”). Jd. { 12. The Unicornio Concession was for a period
+of 20 years, and could be extended for two additional ten-year terms. Jd.
+
+' The factual background set out above serves to provide the context to Venezuela’s arguments against recognition.
+
+In describing the facts found by the Tribunal, Venezuela does not concede their accuracy, or waive its rights to
+challenge any such facts in this or any future hearing or proceeding.
+
+> The Ministry of Mines was previously known as the Ministry of Energy and Mines and then subsequently the
+Ministry of the People’s Power for Basic Industries and Mining.
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 10 of 50
+
+Claimant also claimed the right to use various other mining parcels surrounding the
+Brisas and Unicornio Concessions for infrastructure and services for the exploitation of the
+Brisas Project. Id. [{[ 275-76. These include the North Parcel (which became central in the Joint
+Expert Procedure, discussed infra), as well as other parcels: Barbara, Zuleima, NLEAV1,
+NLSAV1, Esperanza, Yusmari, El Pauji, Morauana, Venamo, Cuyuni and Mireya. Claimant
+referred to these, as well as the Brisas and Unicornio Concessions, as the “Brisas Project.” Id.
+
+In October 1998, petitioner Gold Reserve was incorporated in the Yukon Territory of
+Canada as a wholly-owned subsidiary of Gold Reserve US. Id. {7 11, 235. At the time of its
+incorporation, Gold Reserve had no ownership stake—direct or indirect—in either Gold Reserve
+Venezuela or that company’s subsidiary, the Brisas Company (which held the Brisas and
+Unicornio Concessions.) See id.
+
+On January 28, 1998, Venezuela’s bilateral investment treaty with Canada came into
+force. Id. 4. Shortly thereafter, in February 1999, a corporate reorganization reversed the
+parent-subsidiary relationship between Gold Reserve US and Gold Reserve. Id. {J 11, 235.
+Under the new corporate structure, Gold Reserve became the parent company of Gold Reserve
+US, and thus, indirectly (through Gold Reserve US and Gold Reserve Venezuela), the parent of
+the Brisas Company, which continued to hold the Brisas and Unicornio Concessions. Jd. No
+money transfer or flow of funds into Venezuela resulted from the restructuring which took place
+through a share-to-share swap outside of Venezuela. Id. { 256.
+
+Even after the corporate reorganization, Gold Reserve continued to function as an
+American enterprise. It never maintained operations in Canada. Its only contact there was a
+registered agent at a Canadian law firm. Jd. { 233. Gold Reserve continued to have the same
+
+management and board of directors as the earlier parent company, and continued to make
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 11 of 50
+
+decisions concerning the Brisas Concession from its office in Spokane, Washington. /d. Its
+registered office remained in Washington. /d. J 1. Gold Reserve did not, and does not, carry on
+any business in Canada, and has no offices, employees or physical assets there. Id. { 228.
+
+Under Venezuelan law, holders of mining concessions must comply with applicable
+mining and environmental laws. See id. { 8. In regard to the Brisas Company, this included the
+obligation to begin exploiting the Brisas Concession within three years of it being granted, and to
+begin exploiting the Unicornio Concession within seven years. Jd. [{[ 402, 432.
+
+The Brisas Company failed to comply with its mining and environmental obligations. As
+a result, Venezuela terminated the Brisas Concession on May 25, 2009, and terminated the
+Unicornio Concession on June 17, 2010. Id. {J 26, 28. It also revoked the partial environmental
+permit it had granted for use on the Brisas Concession. Jd. { 24.
+
+B. The Arbitration
+
+1. The Request For Arbitration
+
+On October 21, 2009, Gold Reserve initiated an arbitration against Venezuela under the
+arbitration rules of the International Centre for Settlement of Investment Disputes (Additional
+Facility) (“ICSID Additional Facility”). Request for Arbitration (Dkt. 2-6) at 1. Despite the fact
+that Gold Reserve was an American enterprise and had never made an investment in Venezuela,
+it claimed Venezuela had breached various obligations owed to Canadian investors under the
+“Agreement between the Government Canada and the Government of the Republic of Venezuela
+for the Promotion and Protection of Investments” (the “BIT”) (Dkt. 2-5), a bilateral investment
+treaty between Venezuela and Canada, and invoked the dispute resolution procedures available
+under that treaty.
+
+In particular, Gold Reserve alleged that Venezuela had:
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 12 of 50
+
+e failed to provide its investment with fair and equal treatment, in breach of Article
+(2);
+
+e failed to provide its investment with full protection and security, in breach of Article
+(2);
+
+e failed to treat its investment no less favorably than investments from other countries,
+in breach of Article III; and
+
+¢ expropriated its investment, in breach of Article V.
+Request for Arbitration {| 77-79.
+
+The Request for Arbitration did not specify the amount of Gold Reserve’s alleged
+damages, but characterized them as “sizeable” and “substantial.” Jd. { 80. In July 2011 in its
+reply in the arbitration, Gold Reserve quantified its damages claim at $2,083,819,000. See
+Declaration of Mélida Hodgson (“Hodgson Decl.,” filed herewith as Exhibit A) {| 14.
+
+On December 22, 2010, following the appointment of the arbitrators and their
+acceptances of appointment, Venezuela submitted a timely objection to the Tribunal’s
+jurisdiction on the ground that Gold Reserve could not avail itself of Venezuela’s offer to
+arbitrate disputes under its BIT with Canada because Gold Reserve was neither a Canadian
+enterprise, nor had it made an investment in Venezuela, both of which are requirements for the
+Tribunal to be able to exercise jurisdiction over a claim against Venezuela. Award {I 222-233.
+
+Simultaneously with its jurisdictional objections, Venezuela requested that the
+proceedings be suspended while its objections were pending. On February 25, 2011, the
+Tribunal declined to suspend the proceedings, and ruled that Venezuela’s jurisdictional
+objections would be joined with the merits of the arbitration. Jd. J 103.
+
+2. The Oral Hearings
+The parties and the Tribunal agreed during an April 23, 2010 teleconference that the
+
+hearing would begin on December 5, 2011 and that ten days would be reserved for the hearing.
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 13 of 50
+
+Id. 41, 65. On November 3, 2010, the Tribunal informed the parties that the selected dates
+would no longer work for the Tribunal and, a week later, informed them that the hearing would
+take place on February 6-17, 2012. Jd. On November 21, 2011, the Tribunal again postponed
+the hearing until February 9, 2012 due to its unavailability, and proposed sitting on Saturday,
+February 11, 2012 to make up one of the three lost days. Id. { 69. The proposal was adopted by
+the Tribunal on November 30, 2011. Jd. ¥71.
+
+On January 9, 2012, consistent with the bedrock principle in international arbitration of
+equal treatment, the parties requested that during the hearings “time should be shared equally.”
+Id. 73. This was enshrined in the Procedural Rules for the Hearing on Jurisdiction and the
+Merits adopted on 18 January 2012, Article 2.1 of which provided: “The hearing shall proceed
+on the basis of an equal share of the available hearing time.” Hodgson Decl. at Annex | (Jan. 18,
+2012 Procedural Rules).
+
+On January 26, 2012, counsel for Venezuela informed the Tribunal that Venezuela’s
+Attorney General, Dr. Carlos Escarra Malavé, who was “the official and only representative of
+Venezuela in cases before ICSID,” had unexpectedly died the previous day. Award 75; see
+also Hodgson Decl. at Annex 2 (Jan. 26, 2012 Goodman letter to Tribunal). Venezuela’s
+counsel explained that he was working with counsel for Gold Reserve in regard to the impact this
+might have on the hearing, but that he was limited in his ability to make any agreement on behalf
+of Venezuela until it could be confirmed with his client’s new representative. Jd. The Tribunal
+responded that it “understands the problem you mention due to this sad and unexpected event.”
+Id. at Annex 3 (Jan. 27, 2012 Tribunal letter to Goodman).
+
+On February 1, 2012, counsel for Venezuela informed the Tribunal that a new Attorney
+
+General had been appointed, who would have “direct responsibility for the arbitration.” Id. at
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 14 of 50
+
+Annex 4 (Feb. 1, 2012 Goodman email to Tribunal). Since the new Attorney General required a
+brief interval to “review urgent pending matters” and to “be briefed on this case,” Venezuela
+requested that commencement of the hearing be delayed by four days, until Monday, February
+13. It explained that the hearing could still be completed by February 17. This was because, as
+is often the case in international arbitration, it was not necessary to have live testimony in light of
+the extensive written statements of the witnesses and experts which had been presented to the
+Tribunal. Id.
+
+Gold Reserve responded the same day by objecting to Venezuela’s request if it would
+reduce Gold Reserve’s time to conduct direct examination of its witnesses or cross-examination
+of Venezuela’s witnesses. Jd. at Annex 5 (Feb. 1, 2012 Smutny letter to Tribunal). In response,
+Venezuela maintained its position as to the delayed start of the hearing and observed that Gold
+Reserve’s desire to have live testimony from its own witnesses was contrary to both an
+agreement that had been reached by the parties during the first procedural hearing and the
+procedural rules. Jd. at Annex 6 (Feb. 2, 2012 Goodman email to Tribunal). The email
+concluded, “In any event, we are confident that, whatever might be the Tribunal’s eventual
+rulings on that issue, it will be able to allocate time equitably and efficiently as between the
+parties, giving both parties an adequate opportunity to present their cases.” Id.
+
+On February 2, 2012, the Tribunal agreed to delay commencement of the hearing, which
+would have the effect of shortening it. However, to Venezuela’s surprise, despite the fact that
+Rule 2.1 of the agreed-upon procedural rules required that the time allocated for the hearing be
+divided equally, the Tribunal cast aside this rule of fundamental fairness, ordering:
+
+The principle of equal sharing of the available hearing time set forth in Rule 2.1
+
+of the Procedural Rules for the Hearing does not apply in this new situation,
+
+which is attributable to Respondent [Venezuela]. Claimant [Gold Reserve],
+therefore, is entitled to more than one-half of the five hearing days.
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 15 of 50
+
+Award {77.
+On February 7, 2012, Venezuela recorded its objection to this ruling, writing to the
+Tribunal:
+Respectfully, Venezuela cannot waive the principle of equality of time, a
+fundamental element of its right to due process, and therefore does not accept that
+Rule 2.1 of the Procedural Rules for the Hearing (the principle of equal sharing of
+time) agreed to by the parties and the Tribunal, should now be changed to its
+detriment, apparently for requesting a change in the start of the hearing as a result
+of unique and extenuating circumstances. We respectfully suggest that Claimant
+is not, as the Tribunal says “entitled” to more time than one-half of the five
+hearing days, simply because the hearing start date has been changed. Rather,
+both parties need to be given an adequate and equal opportunity to present their
+cases, in the context of the existence already of massive and multiple pleadings
+and witness and expert statements.
+Hodgson Decl. at Annex 8 (Feb. 7, 2012 Goodman email to Tribunal). Venezuela therefore
+requested “that the principle of equal time for both sides be respected.” Jd; Award {| 80;
+Nonetheless, on February 8, 2012, the Tribunal confirmed what it had said on February 2,
+2012; Gold Reserve would be given a disproportionate share of the time allocated for the
+
+hearings. Award { 82. Those hearings were held on February 13-17, 2012. Id. { 112.
+
+3. The Parties’ Agreement On The Proper Method Of Calculating
+Damages
+
+On July 25, 2012, more than five months after the completion of the hearing on
+jurisdiction and merits and following numerous post-hearing submissions by the parties, the
+Tribunal issued an order “invit[ing] the Parties to request their experts to confer and produce
+jointly a report” estimating the fair market value of Claimant’s gold mining project assuming
+Claimant lacked the right to use a certain parcel of land, referred to as the North Parcel. Award,
+9 113-127 (citing Procedural Order No. 2 of July 25, 2012).
+
+Venezuela objected to the Tribunal’s order because this issue had already been
+
+considered by the parties and their experts during the three-year course of the arbitration. Award
+
+-10-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 16 of 50
+
+{ 129; Hodgson Decl. at Annex 10 (Sep. 12, 2012 Venezuela letter to Tribunal). Venezuela had
+addressed extensively Gold Reserve’s failure to obtain the North Parcel in its first pleading in the
+arbitration and had reiterated this issue in subsequent written submissions and at the hearing on
+jurisdiction and merits. Hodgson Decl. { 15 and Annex 10 (Sep. 12, 2012 Venezuela letter to
+Tribunal). Moreover, the Tribunal itself had already asked Gold Reserve to consider the effect
+of the absence of the North Parcel on Claimant’s valuation claim on three prior
+
+occasions. Hodgson Decl. J 10 and Annex 10 (Sep. 12, 2012 Venezuela letter to Tribunal).
+Venezuela asserted that Gold Reserve failure to do so was an indication of its inability to carry
+its burden of proof concerning its claim for damages and that this failure to prove its case should
+result in a denial of damages, not the opening of an unanticipated, unusual, prolonged and
+expensive new stage of the arbitration. Jd. Subject to this objection, Venezuela nonetheless
+decided that it had to comply with the order. Id. { 16; Award { 129.
+
+Over the following year, the parties and their experts sought to implement the Tribunal’s
+request by considering the effect of the absence of the North Parcel on Claimant’s valuation
+claim via a proceeding referred to as the “Joint Expert Procedure.” Hodgson Decl. { 17. The
+Joint Expert Procedure substantively encompassed over a year and involved the submission of
+two rounds of reports by each party’s experts wherein they noted their points of agreement and
+disagreement on the matter; comments on the expert reports by each party; a hearing that took
+place on 15 and 16 October 2013 in Paris involving the participation of eighteen experts; and
+post-hearing submissions by the parties in December 2013. Award {| 153, 200, 212.
+
+During the Joint Expert Procedure, the parties and their experts confirmed their
+agreement on the use of a discounted cash flow (“DCF”) approach to calculating the fair market
+
+value of Claimant’s mining project for valuation purposes. Hodgson Decl. {| 18; Award {| 690.
+
+-ll-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 17 of 50
+
+Both parties’ experts based their DCF calculation on a detailed contemporaneous cashflow
+model developed by a consultant of Claimant in 2008 (the “DCF Model’). Award { 690.
+
+Following the Joint Expert Procedure, there were no further requests by the Tribunal,
+
+which declared the arbitration proceedings closed on July 23, 2014. Award { 221.
+4, The Tribunal’s Award
+
+The Tribunal rendered the Award on September 22, 2014. It dismissed Gold Reserve’s
+claim that its investment had been expropriated in violation of Article V of the BIT. In making
+this determination, the Tribunal held that Gold Reserve had failed to comply with “‘an important
+provision in both Concessions” by failing to “exploit [the Concessions] within the required
+timeframe.” Award J 667. Gold Reserve’s “failure” in this regard gave Venezuela the
+“contractual right to terminate” the Concessions. Jd. Accordingly, “termination on this ground,”
+the Tribunal held, “could not be said to be merely ‘pretextual,’” and Venezuela’s reasons “for
+terminating the Concessions were sufficiently well founded that the termination cannot be
+considered as a form of expropriation under international law.” Jd.
+
+The Tribunal also dismissed the claim that Venezuela had not provided Gold Reserve’s
+investment with full protection and security, as required by Article II(2) of the BIT. Id. { 622.
+The claim failed because there was “no suggestion” that Venezuela had “failed to protect
+Claimant’s investment from physical harm,” as would be required to establish a breach of this
+obligation. Id. 623.
+
+Nonetheless, despite having found that Gold Reserve had breached an important
+requirement of the Brisas and Unicornio Concessions that entitled Venezuela to terminate them,
+
+the Tribunal inexplicably found that Venezuela had violated the BIT because it did not accord
+
+-12-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 18 of 50
+
+“fair and equitable treatment” (“FET”) to Gold Reserve’s investment, id. J 564° Inconsistent
+with other findings, the Tribunal found incorrectly that because the concessions were terminated
+close in time, because the Brisas Concession was terminated in the same administrative
+procedure as another concession, as well as the fact that because Gold Reserve’s partial
+environmental permit was revoked, Venezuela had failed to provide fair and equitable treatment.
+Id. {J 601, 614-15.
+
+At a minimum, it is clear that the Tribunal’s decision to find that Venezuela had not
+accorded Gold Reserve’s investment fair and equitable treatment was based in significant part on
+its views concerning the political priorities of the Venezuelan Government, which the Tribunal
+found were at least partially responsible for the termination of the Concessions. See, e.g., id. J
+590 (“Clearly, the change in policy by Venezuela regarding mineral exploitation, as evidenced
+by the numerous announcements and statements made during this period by the highest level of
+the Administration, including President [Hugo] Chavez, motivated Respondent’s conduct.”). See
+also id. {| 580, 582, 600, 662. In so finding, the Tribunal also gave considerable weight to
+unreliable press reports. See, e.g., id. { 580 & nn. 490-494, 497.
+
+In regard to the determination of damages, as described above, both parties agreed that
+the proper standard for damages is fair market value (FMV), and further agreed on the
+mathematical model that should be used for calculating FMV with precision, namely the “DCF
+Model” described above. The only relevant differences between the parties, as previously
+mentioned, concerned the inputs that should be used in the DCF Model. Despite this agreement,
+
+the Tribunal disregarded the DCF Model in favor of making gross estimations that resulted in a
+
+* In light of its ruling on FET, the Tribunal declined to address Gold Reserve's claim for breach of the BIT’s most
+favored nation clause. Id. | 632
+
+-13-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 19 of 50
+
+significant overestimation of the investment’s FMV. Id. {| 772, 842. And it made these
+estimations without giving Venezuela the opportunity to present argument on them.
+
+For instance, both Venezuela and Gold Reserve agreed on how the DCF Model should
+account for the country risk premium that reflects the risk of investing in Venezuela. Id. JJ 841-—
+42. They parted ways on the value that should be assigned for the risk premium: Gold Reserve
+maintained it should be just 1.5%, while Venezuela argued that it should be no lower than 6.7%.
+The Tribunal selected a 4% country risk premium, which is approximately the midpoint between
+the parties’ respective positions. Jd. {{[ 840-42. However, rather than input the 4% value into
+the agreed-upon model, the Tribunal simply estimated that this reduced the FMV by $130
+million, based on the misassumption that the size of the risk premium has a linear impact on
+FMV, even while conceding that the resulting estimate “might be ‘rough.’” Jd. J 842.
+Venezuela was not accorded an opportunity to present argument on the accuracy of the
+Tribunal’s “rough” estimate, or on whether it would be appropriate for the Tribunal to abandon
+the parties’ agreed upon model for determining FMV. Hodgson Decl. { 21. Had the 4% country
+risk premium been input into the agreed-upon model, it would have reduced the valuation by
+$104.7 million. Jd. J 21.
+
+Similarly, both parties agreed that any period of delay before the mine entered into
+production is an important factor for determining FMV and further agreed on how this should be
+addressed in the DCF Model. Award { 770. Their difference concerned the length of the delay.
+Gold Reserve argued there should be no delay; Venezuela argued for a two-year delay to take
+account, inter alia, of the need for additional environmental permitting. Jd. {| 767-768. The
+Tribunal determined that a one-year delay was reasonable. Jd. 772. But rather than input that
+
+length of time into the agreed-upon model, the Tribunal estimated its financial impact, assuming
+
+-14-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 20 of 50
+
+that it would result in a reduction by one-half of the impact of a two-year delay, i.e, one-half of
+$217 million. Jd. It did this despite explicitly acknowledging that this technique yielded “only
+an approximation of the financial impact” that was no better than “roughly correct.” Jd. 772.
+Again, Venezuela was not given the opportunity to present argument on the Tribunal’s departure
+from the agreed-upon model. Hodgson Decl. { 25. Had a one-year delay been inputted into that
+model, it would have reduced the valuation by $104.5 million. Hodgson Decl. { 21.
+5. The Parties’ Attempts To Correct The Award
+
+On October 31, 2014, Venezuela requested corrections to the Award pursuant to Article
+56 of the Arbitration (Additional Facility) Rules, entitling either party to request that the
+Secretary-General of ICSID obtain from a tribunal a correction of any clerical, arithmetical or
+similar error in an award rendered by that tribunal. Hodgson Decl. { 25. Venezuela noted that
+there were several significant errors of this nature in the Tribunal’s Award, including the
+Tribunal’s failure to use the DCF Model that had been agreed upon by both Parties in the process
+of calculating the effects of its decisions on various assumption units (as discussed in more detail
+in Section B.4 on the Award above.) Jd. { 21.
+
+Venezuela subsequently supplemented its request to correct the Award on November 5,
+2014 with a formal memorandum detailing the clerical, arithmetical or similar errors. Id. 21.
+Venezuela showed how the correction of the errors it had identified would reduce the
+compensation granted to Gold Reserve by $361 million, over half of the $713 million award
+granted Claimant. Jd. Venezuela also requested that the Tribunal ask the experts for both Parties
+to jointly run the DCF Model they had agreed upon to obtain the most accurate results using the
+assumption units the Tribunal had decided upon. Jd. {| 22.
+
+Gold Reserve also sought to correct the Award. On November 4, 2014, Gold Reserve
+
+requested that the Tribunal correct its calculation of the effect of the Tribunal’s decision on the
+
+-15-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 21 of 50
+
+cost of the stockpiles on the value of the damages to be awarded Gold Reserve. Id. { 23. Gold
+Reserve asserted that this correction would increase the value of the compensation granted to it
+by between $34.5 million and $53 million. Id.
+
+At the Tribunal’s invitation, each Party responded to the other’s request for corrections
+on November 13, 2014. Hodgson Decl. { 24. In its submission of that date, Venezuela
+requested the opportunity to respond to Gold Reserve’s Reply to Venezuela’s request for
+corrections that had been filed on the same day. Jd. Venezuela also requested a hearing to
+address the Parties’ request for corrections. Id. A few days later, on November 17, 2014, the
+Tribunal informed the Parties that “it does not foresee any further steps in the procedure
+regarding the Parties’ request for corrections of the Award.” Id. { 25.
+
+The following day, Venezuela objected to the Tribunal’s decision to deny it the
+opportunity to respond to Gold Reserve’s comments on Venezuela’s request for corrections in
+written or oral pleadings as a breach of its right to adequately present its case and defend itself.
+Hodgson Decl . { 25.
+
+Nevertheless, without further consideration of Venezuela’s requests, on December 15,
+2014, the Tribunal decided not to correct the Award. The decision uncritically adopted much of
+Gold Reserve’s arguments against Venezuela’s requested corrections. Id. [ 26. The decision
+also held, inter alia, that its decision not to use the parties’ agreed upon DCF method to calculate
+the fair market value of Claimant’s mining project in favor of its own linear computation was
+“not an error by the Tribunal, but a deliberate and considered decision based on the expert
+evidence before it and its own independent judgment.” Jd. 27. This, despite the Tribunal’s
+earlier recognition at the hearing on the Joint Expert Procedure that the precise method it later
+
+adopted in the Award would be imprudent. Jd. J 27; see also id. at Annex 11. Transcript of the
+
+-16-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 22 of 50
+
+Joint Expert Hearing, at 225-227 (PRESIDENT: I take it as a warning for lawyers to be careful
+how to manage the amounts. A. (By MR. KACZMAREK [Claimant’s expert]): Absolutely”.)
+6. The Annulment Proceedings In France
+
+On October 20, 2014, Venezuela submitted a notice of petition to set aside the Award to
+the Paris Court of Appeal, which has jurisdiction over petitions to set aside arbitration awards
+seated in Paris. Declaration of Thomas Bevilacqua (“Bevilacqua Decl.,” attached hereto as
+Exhibit B) J 8. Venezuela’s petition challenges the Award based on four grounds: (1) the
+Tribunal incorrectly found that it had jurisdiction over this dispute where there was no
+investment by a Canadian investor in the territory of Venezuela as required by the BIT; (2) the
+Tribunal denied Venezuela due process under French law through inequitable treatment of the
+parties, use of a damages calculation that was not open to review and debate by the parties, and
+the refusal to allow written reply submissions or oral argument as part of the Award correction
+proceedings; (3) the Tribunal disregarded its mandate under French law by ruling in equity rather
+than in law; and (4) the Tribunal confused corporate entities by directing an award at a corporate
+parent for harm allegedly suffered by a subsidiary in violation of the requirements of the BIT and
+fundamental principles of international law. Id. {| 22-49.
+
+On October 31, 2014, Gold Reserve filed a petition with the Paris Court of Appeal to
+confirm the Award. Id. { 14. Venezuela opposed confirmation and, in the alternative, moved
+for a stay of the Award pending the completion of the set aside proceeding, while Gold Reserve
+moved for an order requiring Venezuela to put the judgment in escrow. Jd. J 15. In its order, the
+Court of Appeal granted confirmation of the Award and denied other requested pre-judgment
+relief. Jd. {| 16. Under French law, a court before which a petition for confirmation and
+enforcement has been filed must recognize the award if the existence of the award is established
+
+by the party seeking to benefit from it, and provided that recognition and enforcement are not
+
+-17-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 23 of 50
+
+“manifestly contrary to international public policy.” Jd. {11 (citing CPC 1514 and 1515).
+These extremely limited grounds for opposing the issuance of a recognition and enforcement
+order are readily distinguishable from the much broader set of grounds available to a party
+seeking to have an award set aside. Recognition and enforcement (exequatur) proceedings and
+setting aside proceedings (recours en annulation) are entirely distinct proceedings governed by
+different legal standards.
+
+The set-aside action is proceeding quickly. Venezuela filed its brief in support of its
+petition on March 20, 2015; Gold Reserve’s response is due on June 18, 2015. Id. { 17, 19.
+Venezuela’s reply is due on September 10, 2015, and Gold Reserve’s rejoinder is due on October
+8, 2015. Id. { 19. Oral argument is scheduled for November 3, 2015. Jd. A judgment is
+expected by the end of 2015. Jd. { 20. The Court will announce at the oral argument the date on
+which it intends to issue its decision. Id.
+
+Notwithstanding the ongoing annulment proceeding before the Paris Court of Appeal, on
+November 26, 2014, Gold Reserve filed the present petition for recognition with this Court. Dkt.
+1.
+
+ARGUMENT
+
+1. RECOGNITION OF THE AWARD SHOULD BE DENIED UNDER
+ARTICLE V OF THE NEW YORK CONVENTION
+
+This recognition proceeding is governed by the United Nations Convention on the
+Recognition and Enforcement of Foreign Arbitral Awards of 1958 (“the New York
+Convention”). The New York Convention is applicable to the courts of the United States
+pursuant to the Federal Arbitration Act (“FAA”). 9 U.S.C. § 201 et seq.
+
+Article V of the New York Convention specifies the grounds under which a court may
+
+refuse recognition or enforcement of an arbitral award. Int’! Trading & Indus. Inv. Co. v.
+
+- 18 -
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 24 of 50
+
+DynCorp Aero. Tech., 763 F. Supp. 2d 12, 19 (D.D.C. 2011). Here, at least three of the grounds
+for refusal under Article V apply:
+
+(1) the Award addresses matters over which Venezuela has not consented to arbitrate
+because (a) Gold Reserve is neither a Canadian enterprise nor a party that “ma[de] an investment
+in” Venezuela, both of which are requirements under the BIT for there to be an arbitration
+agreement; and (b) the Tribunal awarded damages to Gold Reserve even though the loss
+allegedly suffered was incurred by its subsidiary (the Brisas Company), which held the
+Concessions, and the BIT allows only that company, not its corporate parent (Gold Reserve), to
+be compensated (Art. V(1)(c));
+
+(2) Venezuela was denied due process because (a) the Tribunal entered an order that, by
+its express terms, gave more time to Gold Reserve to present its case than it did Venezuela; (b)
+Venezuela was not afforded a meaningful opportunity to present arguments on the Tribunal’s
+methodology for calculating damages, which materially departed from the methodology that the
+parties had agreed upon; and (c) Venezuela could not respond to Gold Reserve’s comments on
+its submission on corrections (Art. V(1)(b));
+
+(3) recognition of the Award would be contrary to important interests of public policy
+because (a) it awards compensation to an entity that the express terms of the BIT do not allow to
+be compensated; and (b) it awards punitive damages even though the applicable law
+(international law) forbids it from doing so, and this Court is precluded by the Foreign Sovereign
+Immunities Act from enforcing punitive damages against a foreign state except in extraordinary
+circumstances not present here (Art. (2)(b)).
+
+A. The Award Exceeds The Scope of Venezuela’s Consent To Arbitration
+
+Article V(1)(c) of the New York Convention permits a Court to refuse to recognize an
+
+arbitral award when:
+
+-19-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 25 of 50
+
+The award deals with a difference not contemplated by or not falling within the
+
+terms of the submission to arbitration, or it contains decisions on matters beyond
+
+the scope of submission to arbitration . . . .
+
+New York Convention, Art. V(1)(c).
+
+The Award should not be recognized because it deals with a difference not contemplated
+by or falling within the terms of the submission to arbitration. This is because the Tribunal had
+no jurisdiction over a dispute between Venezuela and a party, such as Gold Reserve, that does
+not qualify as an investor under the BIT. Recognition should also be denied for the further
+reason that the Award contains a decision on a matter beyond the scope of submission to
+arbitration. In that regard, the Tribunal awarded compensation to Gold Reserve in contravention
+of the express terms of the BIT, which allows compensation to be awarded only to the affected
+
+entity (the Brisas Company).
+
+1. The Tribunal Lacked Jurisdiction Over Gold Reserve’s Dispute With
+Venezuela
+
+It is axiomatic that an arbitral tribunal may exercise jurisdiction only if the parties to the
+dispute have consented to arbitration. PCH Mut. Ins. Co. v. Cas & Sur. Inc., 750 F.Supp.2d
+125, 142 (D.D.C. 2010) (“it is fundamental that arbitration is a matter of consent”). Unlike many
+arbitrations, where the parties’ consent to arbitrate is included in the same instrument (usually a
+contractual arbitration clause), investment arbitration generally operates differently. In that
+context, the State makes a standing offer to arbitrate, often in the dispute resolution provisions of
+an investment treaty. The offer to arbitrate is frequently subject to conditions. An arbitration
+agreement is concluded only if the investor accepts the State’s offer to arbitrate by consenting to
+arbitration, and fulfills the conditions set out in the treaty. Here, Venezuela’s offer to arbitrate
+
+under the BIT extended only to disputes with a party that qualifies as an “investor,” as that term
+
+- 20 -
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 26 of 50
+
+is defined in the treaty. Because Gold Reserve does not so qualify, the Tribunal had no
+jurisdiction.
+
+In particular, Article XII of the BIT limits the scope of Venezuela’s offer to arbitrate to
+disputes with an “investor.” That term is defined in the relevant part of Article I(g) of the BIT as
+“any enterprise incorporated or duly constituted in accordance with applicable laws of Canada,
+who makes the investment in the territory of Venezuela and who does not possess the citizenship
+of Venezuela.” BIT Art. I(g).
+
+Gold Reserve does not satisfy the BIT’s definition of “investor.” To begin with, it is not a
+bona fide Canadian enterprise. Although it may be formally incorporated in Canada, the
+company’s registered office is in the state of Washington. Award { 1. Following the corporate
+reorganization that put it atop the Gold Reserve corporate structure, the company continued to
+operate as had the original American parent company, that is, with the same management and
+board of directors, who continued to make decisions in relation to the Concessions from the
+company’s headquarters in Spokane, Washington. Its 1999 annual report to shareholders
+acknowledged that after the reorganization the existing shareholders’ ownership interest in the
+Gold Reserve companies “in aggregate was essentially the same as before the reorganization.”
+The company’s filing of a March 31, 2010 Form 10-K, which it submitted to the Securities and
+Exchange Commission just months after it commenced the arbitration, indicates that it had lost
+its status as a Canadian “foreign private issuer,” by virtue of more than 50 percent of its
+outstanding voting securities were held by residents of the United States, meaning the Company
+had to file statements with the SEC like any other US company. Gold Reserve lacks any real
+
+connection to Canada. It has no offices, employees, or assets there.
+
+-21-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 27 of 50
+
+Further, to qualify as an “investor” under the BIT, Gold Reserve must have made an
+“investment” in Venezuela. BIT Art. I(g). “Investment” is defined in Article I(f) of the BIT as
+“any kind of asset owned or controlled by an investor of one Contracting Party either directly or
+indirectly, including through an investor of a third state, in the territory of the other Contracting
+Party in accordance with the latter’s laws.” Gold Reserve, however, never made such an
+investment. When Gold Reserve was incorporated in October 1998—more than halfway through
+the 20-year term of the Brisas Concession and long after the Brisas Company had breached the
+requirement that it begin exploiting within three years—it was incorporated as a subsidiary of
+Gold Reserve US. It was only the following year, soon after the BIT between Venezuela and
+Canada came into force, and only through an internal corporate restructuring, that Gold Reserve
+gained any indirect interest in a Venezuelan company, when the parent-subsidiary relationship
+between Gold Reserve US and Gold Reserve was reversed. Even then, there is no evidence that
+Gold Reserve ever transferred any funds to either of its Venezuelan subsidies (Gold Reserve
+Venezuela and the Brisas Company). Indeed, there is no evidence that Gold Reserve ever
+expended any funds in Venezuela at all. Put simply, there is no evidence that Gold Reserve did
+anything that would be considered “mak[ing] an investment” under the plain meaning of those
+words.
+
+Permitting Gold Reserve to take advantage of protections intended for Canadian investors
+would be an abuse of rights. The Tribunal acknowledged—but failed to properly apply—the
+principle that where the test for nationality is “incorporation,” the Tribunal should extend its
+inquiry beyond just the articles of incorporation to see whether corporate formalities have been
+abused. Award 252. Abuse occurs when a party uses the legal corporate structure for the
+
+purpose of taking advantage of the rights contained in the BIT. Phoenix Action Ltd. v. Czech
+
+-22-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 28 of 50
+
+Republic, 1CSID Case No. ARB/06/5, Award, 15 April 2009.* That is what happened here; Gold
+Reserve reorganized its corporate structure to put itself in a position of indirect ownership over
+Gold Reserve Venezuela so as to bring the Brisas Concession under the BIT. Notably, it did so
+shortly after Venezuela’s bilateral investment treaty with Canada came into force and at a time
+when the Brisas Company was already in breach of its obligation to exploit the Brisas
+Concession.
+
+In short, Gold Reserve failed to satisfy the conditions necessary to qualify as an
+“investor” entitled to arbitrate disputes with Venezuela under the BIT. The Tribunal thus had no
+jurisdiction, and for that reason, the resulting Award should not be recognized.
+
+2. Gold Reserve Is Not The Enterprise That Suffered The Alleged Harm
+
+Refusal to recognize the Award is also warranted under Article V(1)(c) of the New York
+Convention because the Award contravened the express terms of the BIT by awarding damages
+to Gold Reserve for harm allegedly suffered by its indirectly held subsidiary, the Brisas
+Company.
+
+The BIT is clear that this may not be done. Article XII(9) of the BIT provides, in
+unmistakable terms, that “where an investor brings a claim under this Article regarding loss or
+damage suffered by an enterprise the investor directly or indirectly owns or controls any award
+
+shall be made to the affected enterprise.” However, despite the BIT’s requirement that
+
++ United States courts have applied similar tests to prevent a party from manipulating a court’s jurisdiction or
+
+venue. See Hertz Corp. v. Friend, 559 U.S. 77, 97 (2010) (“Indeed, if the record reveals attempts at manipulation —
+for example, that the alleged ‘nerve center’ is nothing more than a mail drop box, a bare office with a computer, or
+the location of an annual executive retreat — the courts should instead take as the ‘nerve center’ the place of actual
+direction, control, and coordination, in the absence of such manipulation.”); In re Microsoft Corp., 630 F.3d 1361
+(Fed. Cir. 2011) (reversing trial court’s grant of a venue transfer where plaintiff’s offices in Texas did not staff any
+employees and plaintiff incorporated in Texas just prior to filing suit); cf. Miller & Lux, Inc. v. East Side Canal &
+Irrigation Co., 211 U.S. 293, 305-06 (1908) (holding that a corporation could not create federal diversity
+jurisdiction by assigning its claim to an otherwise fictitious subsidiary just for that purpose).
+
+ 
+
+ 
+
+   
+
+-23-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 29 of 50
+
+compensation be paid only to an affected subsidiary—not the investor itself—this is precisely
+what the Tribunal did in the Award.
+
+First, it is incontestable that the Brisas Company, which is “indirectly own[ed]” by Gold
+Reserve through its ownership interests in Gold Reserve US and Gold Reserve Venezuela, is a
+separate corporate entity from Gold Reserve. See Award J 11. “As a general rule, two separate
+corporations are regarded as distinct legal entities even if the stock of one is owned wholly or
+partly by the other.” Sec. Indus. & Fin. Mkts. Ass’n v. United States CFTC, Civil Action No. 13-
+1916, 2014 U.S. Dist. LEXIS 130871, at *60 (D.D.C. Sept. 16, 2014) (quoting 1 William Meade
+Fletcher et al., Fletcher Cyclopedia of the Law of Corporations §43 (perm. ed., rev. vol 2013));
+see also Dole Food Co. v. Patrickson, 538 U.S. 468, 474 (2003) (stating that a basic tenet of
+corporate law is that the corporation and its shareholders are distinct entities).
+
+Second, it is beyond question that the Brisas Company, not Gold Reserve, was the
+“affected enterprise.” The mining concessions that underlie this dispute were awarded to the
+Brisas Company, not Gold Reserve, which continued to hold them until their termination. It was
+thus the Brisas Company that was “affected” when the concessions were terminated.
+
+Finally, the Tribunal unquestionably made the Award to Gold Reserve, rather than to the
+Brisas Company. See Award { 863(ii) (“Venezuela shall pay Gold Reserve compensation . . .”).
+
+In short, the Tribunal awarded damages to Gold Reserve, not the Brisas Company. This
+contravened the express terms of Article XII(9) of the BIT. In so doing, the Tribunal decided a
+matter beyond the scope of the submission to arbitration: the award of damages to an entity not
+entitled to receive them under the BIT. For that reason, too, the Award should not be
+
+recognized.
+
+-24-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 30 of 50
+
+B. The Tribunal Violated Venezuela’s Due Process Rights In Its Conduct Of
+The Hearing
+
+Recognition of the Award should also be denied because the arbitral process did not
+comport with fundamental principles of due process. Under Article V(1)(b) of the New York
+Convention, recognition of a foreign arbitral award may be denied if the defendant can
+demonstrate that it was “not given proper notice of . . . the proceedings or was otherwise unable
+to present his case.” “The defense provided for in Article V(1)(b) ‘essentially sanctions the
+application of the forum state’s standards of due process,’ and that due process rights are
+‘entitled to full force under the Convention as defenses to enforcement.’” Iran Aircraft
+Industries v. Avco Corp., 980 F. 2d 141, 145 (2d Cir. 1992) (quoting Parsons & Whittemore
+Overseas Co., Inc. v. Societe Generale de L’ Industrie du Papier (RAKTA), 508 F. 2d 969, 975—
+76 (2d Cir. 1974.)
+
+In order to comply with the requirements of Article V(1)(b), the arbitration must provide
+a fundamentally fair hearing. Slaney v. Int’t Amatuer Ath. Fed’n, 244 F.3d 580, 592 (7th Cir.
+2001). The tribunal must “give each of the parties to the dispute an adequate opportunity to
+present its evidence and its arguments.” Generica Ltd. v. Pharmaceutical Basics, 125 F. 3d 1123,
+1130 (7th Cir. 1997) (citing Hoteles Orlando Beach v. Union de Tronquistas, 763 F.2d 34, 39
+(Sth Cir. 1974.) An award should not be recognized pursuant to Article V(1)(b) if a party was
+denied an opportunity to be heard at a meaningful time and in a meaningful manner. Jran
+Aircraft Industries, 980 F.2d at 146 (citing Mathews v. Eldridge, 424 U.S. 319, 333 (1976)).
+
+Here, the Tribunal deprived Venezuela of due process in three ways. First, its pre-
+hearing orders, particularly the February 2, 2012 scheduling order, which it later confirmed on
+February 8, 2012, over Venezuela’s objection, expressly provided for disparate treatment of the
+
+parties in a way that no tribunal acting to ensure equal treatment would deem proper. Second,
+
+-25-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 31 of 50
+
+the Tribunal employed a damages calculation methodology that differed from what had been
+agreed upon by the parties and submitted to the Tribunal for use in calculating damages. Third,
+the Tribunal prevented Venezuela from fully addressing arguments concerning the errors in the
+Award after issuing it.
+
+1. The Tribunal’s Inequitable Treatment Of The Parties
+
+The Tribunal treated the parties differently. This is clear from its directive of February 2,
+2012, which it later confirmed on February 8, 2012, where the Tribunal responded to
+Venezuela’s request to delay the start of the oral hearings as an accommodation for the
+unexpected death of its Attorney General, whose replacement needed to be adequately briefed.
+The Tribunal consented to the delay, but as recorded in the Award itself, directed that Venezuela
+would not have as much time as Gold Reserve to present its case during the oral hearings. In the
+words of the Tribunal: “Claimant . . . is entitled to more than one-half of the five hearing days.”
+Bevilacqua Decl. { 32.
+
+The Tribunal made this patently inequitable ruling notwithstanding the fact that the
+procedural rules governing the hearings, which had been endorsed by both parties, expressly
+stated in Rule 2.1 that “[t]he hearing shall proceed on the basis of an equal share of the available
+hearing time.”
+
+This type of inequitable conduct by a tribunal cannot be countenanced under the New
+York Convention. For instance, when a tribunal refused to allow a witness to testify with
+evidence not found from other sources, the Second Circuit held that the tribunal acted in a
+manner that is fundamentally unfair and sufficient to vacate the award. See Tempo Shain Corp.
+v. Bertek, 120 F. 3d 16, 21 (2d Cir. 1997) (finding an arbitration panel’s refusal to continue a
+hearing to allow the only witness with evidence of fraud to testify amounted to fundamental
+
+unfairness and misconduct sufficient to vacate the award under the F.A.A.); see also Iran
+
+- 26 -
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 32 of 50
+
+Aircraft Indus., 980 F.2d at 146 (vacating an award pursuant to Article V(1)(b) when, during the
+hearing, the arbitrator changed the method by which evidence could be presented thus preventing
+a party from presenting its case).
+
+That the Tribunal’s unequal and inequitable treatment of the parties violated Venezuela’s
+due process rights is confirmed by the fact that it contravened the clear requirements of French
+arbitration law governing the conduct of the proceedings. In that regard, Article 1510 of the
+Décret n° 2011-48 of January 13, 2011 for reform of arbitration provides: “Irrespective of the
+procedure adopted, the arbitral tribunal shall ensure that the parties are treated equally and shall
+uphold the principle of due process.” Bevilacqua Decl. at Annex 2, Art. 1510. As explained in
+further detail below, the Tribunal’s breach of this requirement is the subject of one of
+Venezuela’s grounds for annulling the Award, which is currently under consideration by the
+Court of Appeal in Paris. For present purposes, Venezuela observes that the Court should not
+recognize under the New York Convention an award that is the result of procedures that violate
+the law of the seat of the arbitration because, as the U.S. Supreme Court has made clear, the
+“goal of the [New York] Convention, and the principal purpose underlying American adoption
+and implementation of it, was ... to unify the standards by which agreements to arbitrate are
+observed and arbitral awards are enforced in signatory countries.” Scherk v. Alberto-Culver Co.,
+417 U.S 506, 520 n.15 (1974).
+
+2. The Tribunal Denied Venezuela A Meaningful Opportunity To
+Respond To The Damages Adjustments Introduced By The Tribunal
+In Its Award
+
+The Tribunal also deprived Venezuela of due process during the hearing and the post-
+
+hearing submissions by denying Venezuela a meaningful opportunity to address issues that arose
+
+for the first time in or after the Award.
+
+-27-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 33 of 50
+
+As detailed above, the Tribunal ordered the parties to engage in a lengthy Joint Expert
+Procedure in order to narrow the damages issues in dispute and to arrive at areas of agreement.
+This procedure utilized the parties’ prior agreement in the main arbitration proceeding on the
+proper methodology for calculating with precision the fair market value of the mine project,
+which would be the measure for damages should Venezuela be found liable. In that regard, they
+agreed that the correct means for doing so was to apply a sophisticated mathematical algorithm
+embedded in a model which had been developed by one of Gold Reserve’s consultants in 2008.
+That model (the “DCF Model’) was capable of determining the investment’s fair market value
+on a discounted cash flow basis by taking account of the inter-relationship of a host of variables.
+Although Venezuela and Gold Reserve disagreed about the number values to be assigned to
+these inputs for the DCF Model, they agreed that applying the agreed-upon model was the
+correct means by which the fair market value of the investment should be calculated.
+
+Despite the agreement that the investment should be valued based on application of the
+DCF Model, the Tribunal disregarded it when determining damages, and did not provide
+Venezuela with an opportunity to present argument on this important matter. This denial of due
+process arose in the Award’s use of what was referred to as a “roughly correct” estimate of the
+effect that the Tribunal’s determinations of fact had on the fair market value determination, {{]
+772, 842. This was done instead of using the agreed-upon DCF Model. As described above, the
+Tribunal’s disregard of the DCF Model had a dramatic effect on the valuation, including most
+notably in regard to the impact on the valuation of delay in commencement of production and the
+country risk premium.
+
+When the Tribunal raised the possibility of taking this approach at the hearing, experts
+
+for both parties agreed that the impact of using different values for key variables was not linear,
+
+- 28 -
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 34 of 50
+
+which is why use of the DCF Model is important. Hodgson { 27. Nonetheless, the Tribunal
+determined fair market value based on this flawed approach. In so doing, it deprived Venezuela
+of the opportunity to present its case on the proper measure of damages, and on why the
+methodology employed by the Tribunal was flawed. See, Shu-Tao Lin v. McDonnell Douglas
+Corp., 742 F.2d 45, 49 (2d Cir. 1984) (holding that it was improper for a trial judge to make his
+own calculation of plaintiff’s damages that was based on inappropriate assumptions). This
+resulted in a damages award that exceeds the correct value, as determined by the agreed-upon
+DCF Model, by over $351.6 million.
+
+The Tribunal compounded this problem in its procedure for the submission on
+corrections. In that procedure, Venezuela notified the Tribunal of the significant erroneous
+effect of the Tribunal’s abandonment of the DCF Model. Hodgson Decl. Annex 16. But then,
+when Gold Reserve’s response to Venezuela’s submission raised several arguments for the first
+time, the Tribunal denied Venezuela the right to respond to those arguments in writing or at a
+hearing. Id. {{[ 25-26. The Tribunal then drew liberally from Gold Reserve’s responses in
+rejecting Venezuela’s corrections. See Hodgson Decl. at Annex 18. Again, Venezuela was
+deprived of the ability to present its case in a meaningful way.
+
+In sum, the Tribunal’s actions breached Venezuela’s right to a procedurally fair
+arbitration by denying it the opportunity to present its case on issues of paramount
+importance. The Award, which resulted from these serious deprivations of due process, should
+not be recognized.
+
+Cc. The Award Is Contrary To Public Policy Of The United States Because It
+Assesses Punitive Damages Against A Foreign State
+
+Recognition of the Award would also be contrary to the public policy interests of the
+
+United States. New York Convention, Article V(2)(b). In that regard, the United States has a
+
+-29 -
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 35 of 50
+
+compelling interest in ensuring that the rules of international law are respected, and an equally
+compelling interest in not endorsing, or furthering, the transgression of those rules. That interest
+is especially strong where, as here, the interests of co-equal foreign sovereigns are implicated.
+
+Recognizing the Award would be contrary to this public policy interest in at least two
+respects. To begin with, the investment treaty that Venezuela concluded with Canada provides
+clear rules on which corporate entities are entitled to receive compensation. It states, in
+unmistakable terms, that “where an investor brings a claim ... regarding loss or damage suffered
+by an enterprise the investor directly or indirectly owns or controls, any award shall be made to
+the affected enterprise.” BIT, Article XII(9) (emphasis added).
+
+That is not what happened here. Instead, the Tribunal awarded damages to Gold Reserve
+itself, even though the “affected enterprise” was unquestionably its indirectly owned subsidiary,
+the Brisas Company, the entity which held the Concessions at issue in the arbitration. The
+United States has a compelling interest in not sanctioning, or permitting the recognition or
+enforcement of an Award, that was plainly made in contravention of the treaty the Tribunal was
+obligated to apply.
+
+The United States’ interest in ensuring compliance with the rules of international law
+would be contravened in another way, were the Award to be recognized. The Award subjects
+Venezuela to punitive damages even though the applicable rules of international law, which are
+found in the BIT and customary international law, forbids such an award. Article XII(7) of the
+BIT provides, in relevant part, that “A tribunal established under this Article shall decide the
+issues in dispute in accordance with this Agreement and applicable rules of international law.”
+
+The applicable international legal rules make plain that punitive damages may not be
+
+awarded against a state no matter how egregious its wrongful conduct may have been. See, e.g.,
+
+-30-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 36 of 50
+
+Draft Articles on Responsibility of States for Internationally Wrongful Acts, with Commentaries,
+2001, p. 111 (“the award of punitive damages is not recognized in international law even in
+relation to serious breaches of obligations arising under peremptory norms”). Rather, a tribunal
+may only award compensatory damages, which in this context, the parties agreed was the fair
+market value of the investment.
+
+Despite the fact that international law barred the Tribunal from awarding punitive
+damages, this is what the Tribunal did. The punitive nature of the Tribunal’s damages award is
+readily apparent from the Award itself. The parties agreed on a precise mathematical model --
+the DCF Model -- for determining the fair market value of the investment, which they also
+agreed was the correct standard for compensation. Nevertheless, the Tribunal decided not to
+apply the agreed-upon model, which would have yielded the mathematically correct valuation.
+Instead, the Tribunal claimed the right to use “discretion,” or to apply what it called a “margin of
+appreciation,” in determining the amount of damages owed by Venezuela. The Tribunal then
+exercised that purported authority to inject into the damages determination what it referred to as
+“equitable considerations.” Award {| 686.
+
+The “equitable considerations” to which the Tribunal made reference are clear.
+Throughout the Award are references to what the Tribunal called the “seriousness” of
+Venezuela’s breach of fair and equitable treatment, which the Tribunal said would be taken into
+account in the determination of damages. For example, it stated that “[t]he number, variety and
+seriousness of the breaches make the FET violation by Respondent particularly egregious,” and
+that “[t]he compensation due to Claimant for such breaches should reflect the seriousness of the
+violation.” Award, 615. See also id. [ 668 (“The seriousness of the breach [of FET] shall be
+
+duly taken into account when determining the amount of the compensation due to Claimant...”).
+
+-31-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 37 of 50
+
+The considerations cited by the Tribunal are quintessential factors used for awarding punitive
+damages. Weinstein v. Islamic Republic of Iran, 184 F. Supp. 2d 13, 24 (D.D.C. 2002)
+(identifying punitive damages factors as including “the character of the defendant’s act” and “the
+nature and extent of the harm to the plaintiff that the defendant caused or intended to cause”).°
+
+Imposing punitive damages on Venezuela, however, is not permitted by the rules of
+international law. Recognizing an Award that makes such an unlawful assessment of damages
+would, therefore, be contrary to the public policy interests of the United States. Laminoirs-
+Trefilerie-Caleries de Lens, S.A. v. Southwire, 484 F. Supp. 1063, 1069 (N.D. Ga. 1980 (refusing
+to recognize arbitral award under Article V(2)(b) insofar as it imposed a rate of interest that is
+“penal rather than compensatory” because it would contravene public policy).
+
+Indeed, the United States’ public policy against subjecting sovereign states to punitive
+damages is so strong that it is expressly prohibited by the Foreign Sovereign Immunities Act.
+That statute, which is the sole basis on which a United States court may exercise jurisdiction
+over a foreign sovereign, provides that “a foreign state ... shall not be liable for punitive
+damages.” 28 U.S.C. § 1606.° Thus, were this Court to recognize or enforce such an award, it
+
+would be acting in excess of its jurisdiction.”
+
+5 The Tribunal’s application of equitable considerations is also evident from the numerous disparaging references it
+made to the political and economic priorities of the Venezuelan government. See, e.g., Award {{ 580, 582, 590,
+600, 662.
+
+© The very narrow exception to this rule set out in the FSIA have no application here.
+
+7 Venezuela reserves its right to assert all defenses available under the FSIA in any subsequent proceeding.
+
+-32-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 38 of 50
+
+2. IF THE COURT DOES NOT REFUSE RECOGNITION OF THE AWARD,
+ENFORCEMENT SHOULD BE STAYED TO ARTICLE VI OF THE NEW
+YORK CONVENTION
+
+Article VI of the New York Convention permits this Court to stay enforcement of an
+arbitral award where, as here, an application has been made before the courts of the seat of the
+arbitration to have the award annulled. New York Convention, Art. VI.
+
+Venezuela is convinced there are compelling reasons to refuse recognition of the Award,
+as set out above. However, if the Court is inclined to decide otherwise, Venezuela respectfully
+submits that the Award’s enforcement should be stayed because the validity of the Award is
+pending before the Court of Appeal in Paris -- the supervisory court in the seat of the arbitration -
+- where Venezuela has initiated annulment proceedings to address the serious breaches of French
+arbitration law that infected the arbitration and the resulting Award.
+
+A. The Annulment Action Pending Before the Paris Court of Appeal
+
+Gold Reserve and Venezuela jointly selected Paris to be the seat of the arbitration. In so
+doing, they willingly subjected the conduct of the arbitral proceedings and the Award to French
+arbitration law and the judicial supervision of the Court of Appeals in Paris. French law, as
+enshrined in Article 1520 of the Code of Civil Procedure (“CPC”), gives the Paris Court wide
+latitude to annul an award, including in circumstances where the Court finds that the Tribunal
+wrongly upheld jurisdiction; ruled without complying with the mandate conferred upon it;
+violated due process; or where recognition or enforcement of the award is contrary to
+international public policy. Bevilacqua Decl. Jf 13, 21.
+
+Venezuela has petitioned the Paris Court to set aside the Award on each of the
+aforementioned grounds. In particular, and as described more fully in the Declaration of Thomas
+
+Bevilacqua, Venezuela’s counsel in the annulment proceeding, which is attached hereto as
+
+- 33 -
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 39 of 50
+
+Exhibit B, Venezuela has advanced four arguments for annulment of the Award. Bevilacqua
+Decl. {| 23-49.
+
+First, Venezuela argues that the Award should be set aside under Article 1520(1) of the
+CPC because the Tribunal wrongfully upheld its jurisdiction over Gold Reserve’s claims; Gold
+Reserve cannot be considered a Canadian “investor” and cannot be considered to have made an
+“investment” in Venezuela within the meaning of those terms under the Venezuela-Canada BIT.
+This argument arises from Article XII of the BIT, which sets out Venezuela’s offer to arbitrate
+specific categories of disputes with specific types of investors and, in that regard, uses the terms
+“investment” and “investor,” which in turn are defined in Articles I(f) and (g) of the BIT. Id., {{
+26-27. The Canadian company Gold Reserve is not an “investor” and did not make any
+“investment” in the mining concessions at issue. Gold Reserve did not even exist at the time that
+Gold Reserve US acquired the mining concessions. The sleight-of-hand corporate restructuring
+that Gold Reserve US subsequently effected, in an effort to manufacture potential jurisdiction
+under the Venezuela-Canada BIT that had come into effect long after Gold Reserve US’
+subsidiaries had undertaken work on the mining project in Venezuela, took place outside of
+Venezuela, did not involve a transfer of capital to Venezuela, and therefore did not satisfy the
+condition of a territorial link with Venezuela that is required by the Venezuela-Canada BIT. Jd.
+q 29.
+
+Because this first ground for annulment goes to the very existence of an agreement to
+arbitrate, the Paris Court will, under established French law precedents, conduct a de novo
+review of all relevant questions of fact and law. In conducting that review, the Paris Court is not
+bound by the Tribunal’s determinations, and it is free to interpret the existence and scope of the
+
+BIT arbitration agreement in a manner different from the Tribunal. /d. { 25.
+
+-34-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 40 of 50
+
+Second, Venezuela argues that the Award must be annulled under Articles 1520(4) and
+(5) of the CPC because the Tribunal failed in its fundamental duty to treat Venezuela equally
+with Gold Reserve and to afford Venezuela due process, including an equal opportunity to be
+heard — essential principles which rise to the level of public policy in France pursuant to Articles
+1510, 1520(4), and 1520(5) of the CPC. Jd. J{[ 30, 33. The Tribunal breached that duty by
+punishing Venezuela for an event that should not have been imputed to it — the sudden death of
+the Attorney General of Venezuela, who had been in charge of the arbitration. When Venezuela
+requested a short delay in the proceedings due to the Attorney General’s death, so that his
+successor could be brought up to speed, the Tribunal attributed the situation to Venezuela and
+determined that it would not be given equal time to present its case at the hearing. Jd. 32.
+
+The Tribunal also violated Venezuela’s due process rights when it based its calculation of
+damages in Gold Reserve’s failure not on the method and formula for calculating damage to
+which the parties had already agreed, but instead a method that was never announced to the
+parties before the Award and which resulted in a “rough” estimate giving an “approximate
+adjustment” that did not reflect the method or formula, or any other basis, that either of the
+parties had had the opportunity to address. Jd. { 34. Equally improperly, the Tribunal based its
+damages calculations on what it concluded to be “egregious” and “serious” conduct by
+Venezuela, considerations that Gold Reserve had not asked the Tribunal to take into account and
+that Venezuela was afforded no opportunity to address. Id. 3538
+
+Third, Venezuela argues that, under Article 1520(3) of the CPC, the Award must be
+
+annulled because the tribunal based much of its decision on equitable considerations rather than
+
+§ The tribunal also violated Venezuela’s due process rights by refusing to allow oral argument on the requests for
+corrections of the Award or permit Venezuela to respond to gross errors in Gold Reserve’s response to Venezuela’s.
+corrections request. Id. { 36.
+
+-35-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 41 of 50
+
+legal ones, which all of Articles 1511 and 1512 of the CPC, consistent French jurisprudence, and
+Article XII(7) of the BIT prohibited it from doing. Jd. {{38-40. The Award is rife with what
+can only be deemed equitable, and not legal, factors. As just a few examples, the tribunal (a)
+adopted an ideological assessment of Venezuela’s conduct, based upon media reports of alleged
+statements by Venezuelan officials; (b) characterized Venezuela’s breach of the duty of fair and
+equitable treatment as, inter alia, “particularly egregious” and “serious;” announced that the
+supposed “seriousness” of the breach would be taken into account in setting what are essentially
+punitive damages; and (d) openly admitted that its damages calculation was based on such non-
+
+legal considerations as “‘back-of-the-envelope calculations,” “rough” estimates,” and “equitable
+consideration.” Id. [| 41-43.
+
+Fourth, Venezuela argues that, pursuant to Article 1520(1), (3) and (5) of the CPC, the
+Award should be annulled because the Tribunal failed to respect the separate juridical existence
+of the different entities involved in, variously, the dispute at issue and the arbitration. In this
+regard, all of the alleged rights at issue were held by Venezuelan companies that had become
+subsidiaries of Gold Reserve after the corporate reorganization, and not by Gold Reserve, and
+Gold Reserve failed to prove that it itself—separately from those subsidiaries—had suffered any
+harm. Despite this, the Tribunal conflated the Venezuelan subsidiaries with Gold Reserve and
+awarded damages to the latter, in contravention of the fundamental, universally-recognized legal
+principal of separate corporate existence. Id. [| 45-46.
+
+Moreover, the Tribunal ignored the unique provisions of the Venezuela-Canada BIT
+specifying that, while under BIT Articles XII(2) and (12)(a) a parent may bring claims on behalf
+of an entity that it owns or controls, any award must be made to the entity that actually suffered
+
+the harm, as mandated by BIT Article XII(9). Instead of awarding damages to the Venezuelan
+
+- 36 -
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 42 of 50
+
+subsidiaries that held the rights allegedly violated by Venezuela and that allegedly suffered the
+harm at issue, the Tribunal awarded damages to Gold Reserve. For this reason alone, the
+confirmation and enforcement of the Award would violate international public policy. Jd. {| 47—
+48.
+
+B. Enforcement Should be Stayed
+
+Despite the fact that the Paris Court of Appeal is the sole judicial institution that has
+responsibility for reviewing the Award in accordance with French law, the law of the arbitration,
+and is the only court in the world that can vacate the Award, Gold Reserve seeks to short-circuit
+that process by obtaining recognition of the Award from this Court. Gold Reserve has chosen
+this tactic so that it may pursue the Award’s enforcement before the Paris Court decides whether
+it should be annulled. This poses a serious risk. What if Gold Reserve enforces the Award
+against Venezuelan state assets, and then, after having done so, the Court of Appeal in Paris
+annuls the Award?
+
+Courts have recognized the need to be vigilant against allowing such an embarrassing
+result to occur. This is why the Federal District Court for the Southern District of New York
+ruled that “it is much better to permit the validity of [an] Italian arbitral award to be first tested
+under Italian law by Italian courts.” Doing so, the Court held, “is preferable to an American
+court seeking to apply the law of the foreign country where the award was made, and entering an
+order enforcing an award later condemned by the courts of that foreign country.” Spier v.
+Calzaturificio Tecnica, S.p.A., 663 F. Supp. 871, 875 (S.D.N.Y. 1987).
+
+The same concern caused another Federal District Court dealing with a situation where
+set aside proceedings were ongoing in France, the seat of the arbitration, to hold: “If parallel
+proceedings are ongoing in the originating country and in the district court and there is a
+
+possibility that the award will be set aside, ‘a district court may be acting improvidently by
+
+-37-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 43 of 50
+
+enforcing the award prior to the completion of the foreign proceeding.’” Alto Mar Girassol v.
+Lumbermens Mut. Cas. Co., No. 04 C 7731, 2005 U.S. Dist. LEXIS 7479, at *7 (N.D. Ill. Apr.
+12, 2005) (quoting Europcar, 156 F.3d 310, 317 (2d Cir. 1998)). See also, e.g., Italia, S.P.A. v.
+Maiellano Tours, Berkenhoff GmbH v. Global Trade Network, Inc., No. 1:11-cv-00475, 2012
+U.S. Dist. LEXIS 11579 (W.D. OH January 31, 2012at) *4 at *6 (staying enforcement on the
+ground that, “in order to avoid an inconsistent result, the interests of justice mandate that it stay
+its decision on the enforcement of the arbitral award in the United States until after such time the
+German Court system has concluded its review”).
+
+A stay is certainly justified here, for the reasons indicated by these District Courts: there
+is a substantial risk that the Court of Appeal in Paris will annul the Award after it has been
+enforced in the United States. Indeed, as shown below, the factors identified by the Second
+Circuit in Europcar Italia, S.P.A. v. Maiellano Tours, 156 F.3d 310, 317-18 (2d Cir. 1998) for
+determining whether enforcement should be stayed weigh heavily in favor of doing so. Those
+factors are:
+
+(1) the general objectives of arbitration—the expeditious resolution of disputes
+and the avoidance of protracted and expensive litigations;
+
+(2) the status of the foreign proceedings and the estimated time for those
+proceedings to be resolved;
+
+(3) whether the award sought to be enforced will receive greater scrutiny in the
+foreign proceedings under a less deferential standard of review;
+
+(4) the characteristics of the foreign proceedings including (i) whether they were
+brought to enforce an award (which would tend to weigh in favor of a stay) or to
+set the award aside (which would tend to weigh in favor of enforcement); (ii)
+whether they were initiated before the underlying enforcement proceeding so as to
+raise concerns of international comity; (iii) whether they were initiated by the
+party now seeking to enforce the award in federal court; and (iv) whether they
+were initiated under circumstances indicating an intent to hinder or delay
+resolution of the dispute;
+
+- 38 -
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 44 of 50
+
+(5) a balance of the possible hardships to each of the parties, keeping in mind that
+if enforcement is postponed under Article VI of the Convention, the party seeking
+enforcement may receive a ‘suitable security’ and that, under Article V of the
+Convention, an award should not be enforced if it is set aside or suspended in the
+originating country; and
+
+(6) any other circumstances that could tend to shift the balance in favor of or
+against adjournment.
+
+Europcar Italia, S.P.A., 156 F.3d at 317-18 (internal citations omitted).’
+
+1. Factor One: Staying Enforcement Would Facilitate The Expeditious
+Resolution of Disputes And Help Avoid Unnecessary Litigation
+
+The principal objectives of arbitration include the expeditious resolution of disputes and
+the avoidance of protracted and expensive litigation. Europcar Italia, S.P.A., 156 F.3d at 317.
+These goals would be seriously undermined if a stay is not granted and Gold Reserve is
+permitted -- while the annulment proceeding is pending before the Paris Court -- to pursue
+enforcement actions in jurisdictions throughout the United States. Not only would the
+enforcement actions be unnecessary if the Award is annulled, should Gold Reserve prove
+successful in attaching Venezuelan state assets, Venezuela would be forced to engage in
+additional and costly post-annulment litigation in order to attempt to recover its property.
+
+Federal District Courts faced with similar circumstances have not hesitated to stay
+enforcement, recognizing that doing so furthers arbitration’s goals of facilitating the timely
+
+resolution of disputes and reducing wasteful litigation. In Alto Mar Girassol v. Lumbermens
+
+° The District of Columbia Circuit has not formally adopted the Europcar factors. Cf, Belize Soc. Dev. v. Gov’t of
+Belize, 668 F.3d 724 (D.C. Cir. 2012) (holding Article VI did not apply because the appeal had not been made to a
+competent authority in the country in which the decision was made). This Court, however, has applied the Europcar
+factors. See Chevron Corp. v. Republic of Ecuador, 949 F. Supp. 2d 57, 71-73 (D.D.C. 2013); G.E. Transp. S.p.A. v.
+Republic of Albania, 693 F. Supp. 2d 132, 138-39 (D.D.C. 2010); Continental Transfert Technique Ltd. v. Fed.
+Gov't of Nigeria, 697 F. Supp. 2d 46, 59 (D.D.C. 2010); see also D.R.C., Inc. v. Republic of Honduras, 774 F. Supp.
+2d 66, 74 (D.D.C. 2012)) (stay lifted in D.R.C., Inc. v. Republic of Honduras, 999 F. Supp. 2d 1 (D.D.C. 2012).
+
+  
+
+ 
+
+- 39 -
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 45 of 50
+
+Mut. Cas. Co., the Disrict Court granted a stay because of an ongoing annulment proceeding in
+France, holding:
+
+While a stay will cause an immediate delay in resolution of the
+
+dispute, this delay is likely shorter than the possible delay that
+
+would occur if this Court confirms the award and the French court
+
+ultimately sets the award aside resulting in further litigation likely
+
+involving more complex issues. Waiting for the French court to
+
+tule will also likely aid in the avoidance of more expensive
+
+additional litigation that could arise.
+Alto Mar Girassol, 2005 U.S. Dist. LEXIS, at *11-12.
+
+Likewise, in Jorf Lasfar Energy Co., S.C.A. v. AMCI Exp. Corp., a case that also
+involved annulment proceedings in France, the District Court stayed enforcement. It explained:
+We find that although causing an immediate delay, this course of
+
+action will actually serve the objectives of resolving disputes
+
+expeditiously and avoiding protracted and expensive litigation.
+
+The delay that will be caused immediately is likely shorter than the
+
+possible delay that would occur if this court were to confirm the
+
+award and the French court then set it aside. More expensive
+
+litigation involving more complex issues would result from such a
+
+situation.
+Jorf Lasfar Energy Co., S.C.A. v. AMCI Exp. Corp., (Civil Action No. 05-0423, 2005 U.S. Dist.
+LEXIS 34969, (W.D. PA Dec. 22, 2005), at *7-8. See also, e.g., Higgins v. SPX Corp., (Case
+No. 1:05-cv-846, 2006 U.S. Dist. LEXIS 20771 (W.D. MI April 18, 2006) at *14 (“comity and
+efficient use of judicial resources does strongly favor staying this action to await the decision of
+the Brazilian courts as to the nullification action”).
+
+The same concerns that motivated the Courts in these cases to grant stays apply with at
+
+least equal force here, where there is a particularly high risk that allowing enforcement to
+
+proceed will result in a multiplicity of costly but redundant litigations, and where Venezuela
+
+would be greatly prejudiced by having to try to recover assets after they have been attached, in
+
+- 40 -
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 46 of 50
+
+jurisdictions throughout the United States, or indeed, elsewhere, should those assets be
+transferred out of the country.
+2. Factor Two: The Proceeding in Paris Will Be Completed Soon
+
+The second Europcar factor—the status of the foreign proceeding and the estimated time
+needed for it to be completed—weighs heavily in favor of the stay. The annulment proceeding
+in Paris is well-underway. Venezuela’s brief in support of its petition to set aside the Award was
+submitted to the Court on March 20, 2015. Gold Reserve’s response is due on June 18, 2015.
+Venezuela’s reply is due on September 10, 2015, and Gold Reserve’s rejoinder is due on October
+8, 2015. The oral hearings are already scheduled, and will take place on November 3, 2015. The
+Court of Appeal in Paris typically issues decisions just three weeks after oral arguments are
+heard. The Court’s judgment is thus likely to be received before the end of 2015, less than seven
+months from now. Bevilacqua Decl. {| 19-20.
+
+3. Factor Three: French Arbitration Law Allows The Paris Court to
+Subject the Award to Greater Scrutiny Than This Court
+
+The third Europcar factor considers the degree to which the court in the foreign
+jurisdiction will subject the award to a greater degree of scrutiny than will the District Court.
+That is the case here. It can be expected that the Paris Court of Appeal would deem itself to be
+under a particular duty to ensure that the Award be the subject of a full and proper review, as, in
+acting on the set aside petition, it is fulfilling its special role, as the court of the seat of
+arbitration, of judicial overseer of the arbitration proceeding. This role of judicial oversight of the
+proceedings began with the making available of a Paris first instance court judge (the “juge
+d’appui,” or judge assigned to act in support of the arbitration), to assist with any difficulties that
+could have arisen during the arbitration itself, and the responsibility continues with the French
+
+courts’ role in post-award proceedings. Nor will it be lost on the Paris Court that the outcome of
+
+-41-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 47 of 50
+
+the petition to set aside could have worldwide ramifications far beyond France’s borders. If the
+Award were set aside at the seat of arbitration, then courts in other enforcement venues would be
+free to deny recognition and enforcement in their own jurisdictions on this basis (New York
+Convention Art. V(1)(e)). Moreover, the size of the Award and the presence of a sovereign State
+as the arbitral respondent are no doubt additional factors that will not have escaped the attention
+of the Paris Court of Appeal and that will ensure that the matter receives the Court’s full
+attention.
+
+Finally, the Court of Appeal will readily recognize that a number of the grounds for
+annulment raised by Venezuela have direct analogs in a number of arbitration cases that the
+Court itself, and the French Supreme Court (the Cour de Cassation), have ruled on in recent
+years, meaning that the Court is especially well positioned to deal with the nuances raised in
+Venezuela’s petition.
+
+4, Factor Four: The Annulment Proceeding In Paris Is Not Intended To
+Hinder Or Delay The Dispute
+
+The characteristics of the Paris annulment proceeding—the fourth Europcar factor—
+favor staying enforcement as well. Both Venezuela and Gold Reserve have sought relief before
+the Court of Appeal in Paris: Gold Reserve to confirm the Award, and Venezuela to annul it. The
+fact that the proceedings in Paris were filed prior to Gold Reserve’s petition before this Court
+weighs in favor of a stay. DRC, Inc. v. Republic of Honduras, 774 F. Supp. 2d 66, 74-75
+(D.D.C. 2011) (that the proceeding in foreign courts was initiated prior to the enforcement
+proceedings favors staying enforcement) (stay lifted on other grounds).
+
+Venezuela’s invocation of the Paris Court’s jurisdiction to review the Award has not been
+done to hinder or delay its enforcement. See Eurpocar Italia, S.P.A., 156 F.3d at 317-18;
+
+Chevron, 949 F. Supp. 2d at 72; Alto Mar Girassol, 2005 U.S. Dist. LEXIS at *12 (lack of
+
+-42-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 48 of 50
+
+evidence of intent to hinder or delay resolution of the dispute weighed in favor of stay). To the
+contrary, Venezuela has compelling reasons for annulling the Award, as set out above.
+
+5. Factor Five: The Prejudice To Venezuela Of There Being No Stay
+Greatly Outweighs Any Hardship To Gold Reserve
+
+The balance of possible hardships to the parties weighs heavily in favor of a stay. Given
+the size of the Award—over $700 million plus interest—it is beyond dispute that payment of
+badly needed funds from the public treasury by Venezuela prior to completion of the proceedings
+in France would be a significant hardship. That hardship would be greatly increased were the
+Award to be set aside in France subsequent to the payment, as Venezuela is confident will occur.
+Tf that happens, Venezuela would likely be forced to commence costly actions in other fora to
+attempt to recover its assets. Gold Reserve is a shell corporation with little -- if any -- actual
+business operations. There is therefore a serious risk that it will transfer to other entities
+Venezuelan state assets that it is able to attach, making their recovery by Venezuela after
+annulment of the Award extremely difficult, if not impossible. At a minimum, prolonged and
+expensive litigation would be inevitable.
+
+By contrast, Gold Reserve would, at worst, be only minimally burdened by a stay since
+the proceeding before the Paris Court will likely be completed before the end of 2015. In any
+event, under the terms of the Award, Gold Reserve is entitled to be compensated for the delay by
+the imposition of post-Award interest, compounded annually at a rate of LIBOR plus two
+percent.
+
+In sum, the Europcar factors weigh decisively in favor of a stay. Failing to do so risks the
+awkwardness—and extreme prejudice to Venezuela—of the Award being annulled after this
+
+Court allows enforcement of the Award to proceed.
+
+-43-
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 49 of 50
+
+CONCLUSION
+
+WHEREFORE, Venezuela respectfully requests that the Court dismiss the petition and
+
+deny recognition of the Award or, in the alternative, stay its enforcement.
+
+Dated: June 12, 2015
+
+Respectfully submitted,
+
+BOLIVARIAN REPUBLIC OF
+VENEZUELA
+
+By its attorneys,
+
+/s/ Lawrence H. Martin
+Lawrence H. Martin (D.C. Bar # 476639)
+Imartin @ foleyhoag.com
+Janis H. Brennan (D.C. Bar # 412100)
+jbrennan@foleyhoag.com
+FOLEY HOAG LLP
+1717 K Street, N.W.
+Washington, D.C. 20006
+Telephone: (202) 232-1200
+Facsimile: (202) 785-6687
+
+s E! ‘T PURSUANT TO L' 7M.
+
+Counsel for Venezuela discussed this motion with counsel for Gold Reserve on June 12,
+
+2015 in a good faith effort to determine whether Gold Reserve opposes the relief sought and
+
+whether the areas of disagreement could be narrowed. Counsel for Gold Reserve indicated that
+
+Gold Reserve opposes the relief sought in this motion. Counsel were unable to narrow the areas
+
+of disagreement.
+
+Case 1:14-cv-02014-JEB Document 19 Filed 06/12/15 Page 50 of 50
+
+CERTIFICATE OF SERVICE
+Thereby certify that this document, filed through the ECF system, will be sent
+electronically to the registered participants as identified on the Notice of Electronic Filing (NEF),
+and paper copies will be sent to those indicated as unregistered participants on June 12, 2015.
+
+/s/ Lawrence H. Martin
+Lawrence H. Martin
+
+-45-
+

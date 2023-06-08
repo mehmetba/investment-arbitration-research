@@ -1,0 +1,1668 @@
+ 
+
+Neutral Citation Number: [2005] EWHC 774 (Comm)
+
+Case No: 2004 FOLIO 656
+IN THE HIGH COURT OF JUSTICE
+QUEEN'S BENCH DIVISION
+COMMERCIAL COURT
+IN THE MATTER OF AN ARBITRATION APPLICATION:
+
+Royal Courts of Justice
+Strand, London, WC2A 2LL
+
+ 
+
+Date: 29" April 2005
+
+Before :
+MR JUSICE AIKENS
+
+Between
+THE REPUBLIC OF ECUADOR Claimant/
+Respondent
+
+- and -
+
+OCCIDENTAL EXPLORATION AND Defendant/
+PRODUCTION COMPANY Applicant
+
+Mark Cran QC, David Lloyd Jones QC and Simon Birt (instructed by Weil, Gothal and
+Manges) for the Claimant/Respondent
+Christopher Greenwood QC and Toby Landau (instructed by Devoise and Plimpton
+LLP ) for the Defendant/Applicant
+
+Hearing dates: 1% 2" and 3“ March 2005
+
+Judgment Approved by the court
+for handing down
+(subject to editorial corrections)
+
+ 
+
+If this Judgment has been emailed to you it is to be treated as ‘read-only’.
+You should send any suggested d its as a separate Word document.
+
+
+Judgment Approved by rt for handing down Republic of Ecuador v Occidental Exploration
+
+{subject to editorial corrections)
+
+Mr Justice Aikens:
+A. Summary of the Issue raised by the application of Occidental
+
+1. This application concerns the English law doctrine of “non - justiciability”. The
+doctrine establishes a general principle that the Municipal courts of England and
+Wales do not have the competence to adjudicate upon rights arising out of
+transactions entered into by independent sovereign states between themselves on the
+plane of international law. The issue arises in the context of an Arbitration Award,
+dated 1 July 2004, which was made by a Tribunal of three arbitrators following an
+arbitration between Occidental Exploration and Production Company (“Occidental”)
+and the Republic of Ecuador (“Ecuador”). The arbitration was held under the
+Arbitration Rules of UNCITRAL and the seat of the arbitration was London.
+Ecuador then issued an Arbitration Application’ challenging the Award under section
+67(1) of the Arbitration Act 1996, on the ground that the arbitrators had exceeded
+their jurisdiction. Ecuador invites the court to set aside the Award.”
+
+2. Occidental, which is the defendant to that application, says that the doctrine of non -
+justiciability applies to prevent the English Court from determining that challenge to
+the Award. This is because Occidental’s claim, the arbitration proceedings and the
+Award all arose out of the terms of a Bilateral Investment Treaty between the USA
+and Ecuador signed on 27 August 1993 (“the BIT”).
+
+3. Occidental issued an Application Notice dated 24 November 2004 raising the point
+and seeking an order that the Court dismiss Ecuador’s Application on the ground of
+non — jusiciability? This is the first time that an arbitration award rendered pursuant
+to a Bilateral Investment Treaty has been brought before the English Courts. I was
+told that there are well over 2000 current BITs and that the number of arbitrations
+arising out of them has dramatically increased in recent years.
+
+B. The parties and the factual background to the arbitration
+
+4. The following factual background is set out for the purposes of the present
+application. The Defendant is a Californian Corporation and has been engaged in the
+exploration of oil in the territory of Ecuador since 1985. Under a contract dated 21
+May 1999 (“the 1999 Contract”) between Occidental and Petroecuador (a state-
+owned corporation of Ecuador), Occidental obtained the exclusive right to carry out
+hydrocarbon exploration and exploitation in Block 15 of the Ecuadorian Amazon
+basin region. In the past Petroecuador had had the exclusive right to exploit oil in
+Ecuador. Under the 1999 Contract, Occidental became a principal engaged in the
+exploration and exploitation of Ecuador’s oil fields.*
+
+Issued on 1] August 2004.
+Pursuant to section 67(3)(c) of the Arbitration Act 1996 (“the 1996 Act”).
+Ecuador’s Arbitration Application has also challenged the Award on the grounds of serious irregularity
+in the procedure and/or affecting the Award, under section 68 of the 1996 Act. Although originally
+Occidental’s application asserted that the doctrine of non — justiciability applied to that aspect of Ecuador’s
+application as well, that was not pursued before me: see para 43 of Occidental’s Outline Argument.
+
+This change was made possible by an amendment to Ecuador’s Hydrocarbons Law in 1993, so as to
+permit participation or production — sharing agreements: Arbitration Award para 27.
+
+3
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+{subject to editorial corrections)
+
+5.
+
+Cc.
+
+5
+para 8
+
+7
+8
+
+days:
+9
+
+The scheme of the 1999 Contract is that Occidental assumed virtually all the costs of
+its exploration and exploitation activities. In return, Occidental received a percentage
+of the oil produced and it was able to export the oil.’ Clause 8.1 of the 1999 Contract
+sets out an elaborate formula which determines the percentage of the oil produced to
+which Occidental is entitled. It was known as “Factor X”.
+
+Occidental made local purchases in Ecuador and imported goods and services from
+outside Ecuador in connection with the production of oil, which was subsequently
+exported in accordance with the 1999 Contract. Occidental paid VAT on these
+purchases and imports. It made regular applications to the Ecuadorian Internal
+Revenue Service® for the refund of VAT payments made after July 1999.’ At first
+repayments were made. But on 28 August 2001 the SRI passed Resolution 664,
+which denied Occidental’s claims for reimbursements. Further Resolutions were
+made by the SRI in 2002 and 2003, denying VAT refunds to Occidental and
+demanding the repayment to the SRI of refunds that had been made to Occidental
+from July 1999 to September 2000.
+
+The initial view of the SRI was that the Resolutions denying Occidental the right to
+VAT refunds were justified on the ground that Factor X was calculated so as to take
+account of VAT payments. However, it seems that subsequently both the SRI and
+then Ecuador (in the arbitration) took the view that Occidental had no right to VAT
+refunds under Article 69A of the ITRL, because VAT refunds were only available to
+exporters of “manufactured” products and the crude oil exported was not
+“manufactured”.
+
+Occidental filed four law suits in the Tax District Court No 1 of Quito,’ objecting to
+the Resolutions that the SRI had passed so as to deny Occidental the right to VAT
+refunds. The various lawsuits complained that the SRI Resolutions (denying
+Occidental the right to VAT refunds) were a violation of provisions in Ecuadorian
+law, in particular Articles 65 and 69A of ITRL.” The fact that Occidental pursued
+these lawsuits in the Tax District Court gave rise to one of the issues on jurisdiction
+that the Arbitrators had to consider.
+
+Occidental gave up submitting VAT refund applications as a futile exercise.
+
+In 2002 Occidental invoked the arbitration procedures provided for in the BIT and
+started an arbitration against Ecuador. Occidental alleged that the actions of the SRI
+(for which it said the Republic of Ecuador was responsible) amounted to breaches of
+Ecuador’s obligations under the BIT, ie. were a breach of Ecuador’s treaty and public
+international law obligations. In order to see how this fits in with the treaty it is
+necessary to explain BITs in general and the provisions of this BIT in particular.
+
+The Bilateral Investment Treaty
+
+This had not been possible under previous contracts: Witness statement of Eric Ordway: B 1/Tab 3
+
+Known as the “Servicio de Rentas Internas” or “SRI”.
+
+The applications were made under Article 69A of the Internal Tax Regime Law (“ITRL”).
+
+Under Ecuadorian tax law, an appeal of SRI resolutions must be made by the affected party within 20
+Award para 33.
+
+Award: para 38.
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+(subject to editorial corrections)
+
+Ll.
+
+10
+n
+
+Bilateral Investment Treaties have been developed as a mechanism to encourage
+investment between states, but using “investors” that are non — governmental
+organisations. It is a long — standing principle of public international law that states
+owe duties to other states to protect their citizens. This is known as the “doctrine of
+international protection”.'° Effectively, BITs are treaties that acknowledge this
+principle of public international law, apply it to particular circumstances between two
+states and develop the protection of investors by giving them “standing” to pursue a
+state directly in “investment disputes” between an investor and a state Party in ways
+set out in the BIT.'' The issue at the heart of this application is the nature of those
+rights and how they fit in with English Municipal law principles, when an investor
+has invoked its right to pursue an investment dispute through the mechanism of an
+arbitration which is, as both parties accept, subject to the 1996 Act and principles of
+English Municipal law.
+
+By the end of 2002 there were 2,181 BITs in force.'? When the USA — Ecuador
+Bilateral Investment Treaty was transmitted by the President of the USA to the Senate
+for its advice and consent to ratification, the Letter of Transmittal stated that the
+Treaty was designed to protect US investment and to encourage private sector
+development in Ecuador, as well as to support the economic reforms taking place
+there.
+
+In the “Letter of Submittal” sent to President Clinton by the Secretary of State,
+submitting to the President the USA/Ecuador Treaty, “the principal BIT objectives”
+are set out in the letter. These objectives include the principles: (i) that investments
+of nationals and companies of either Party'* will receive either “national treatment or
+most favoured nation treatment”, whichever is the better; (ii) that investments are
+guaranteed freedom from performance requirements;'* (iii) that expropriation can
+occur only in accordance with international standards; for a public purpose; in a non
+— discriminatory manner; under due process of law and upon payment of prompt,
+adequate and effective compensation. Most importantly for present purposes, (iv)
+there is the principle that nationals and companies of either Party will have access to
+binding international arbitration without first resorting to domestic courts in relation
+to investment disputes.
+
+The scheme of the USA/Ecuador BIT is as follows:
+(i) The Preamble sets out the aim of the Treaty, which is to promote greater
+
+economic cooperation and investment between the Parties, but on a defined
+and agreed basis;
+
+See: E de Vattel, Le Droit des gens ou les principes de Ia loi naturelle, vol 1, 309 (1758).
+Paulsson: “Arbitration without Privity” (1995) 10 ICSID Rev — Foreign Investment LJ 232 at pages
+
+255-6.
+
+2
+
+UNCTAD, World Investment Report for 2003, 17; quoted in Douglas, “The Hybrid Foundations of
+
+Investment Treaty Arbitration” (2003) BYIL 151, hereafter “Douglas”.
+
+1B
+“
+1s
+
+Letter of President Clinton dated 10 September 1993: B 2/Tab 19 page 317.
+That is either state that is a Party to the BIT.
+Such as the need to use local products or to export goods.
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+{subject to editorial corrections)
+
+Q)
+G)
+
+@
+6)
+(6)
+
+)
+
+(8)
+
+(9)
+
+Article I sets out various definitions. “Investment” is defined broadly.'°
+
+Article II sets out the basis on which each Party will permit and treat
+investment, which is in accordance with the principle set out at (i) in the
+preceding paragraph. It also provides that the Parties will ensure that
+investment will have fair and equitable treatment according to international
+law standards.
+
+Article III deals with expropriation or nationalisation of investments.
+Article IV deals with transfers, particularly of funds.
+
+By Article V the Parties agree to consult promptly to resolve any disputes in
+connection with the Treaty.
+
+Article VI deals with the resolution of “investment disputes” between a State
+Party and a national or company of the other State Party. Its terms are central
+to this application and I will return to them in the next paragraph.
+
+Article VII concerns the resolution of disputes between the two Parties to the
+treaty, ie. USA and Ecuador. If necessary, disputes are to be submitted to
+an arbitral tribunal, for binding decision “in accordance with the applicable
+rules of international law”.
+
+Article X deals with the tax policies of each Party and provides that each Party
+should strive to accord fairness and equity in the treatment of investments of
+nationals and companies of the other Party. _ It states that the provisions of the
+Treaty, in particular Articles VI and VII will nevertheless apply to matters of
+taxation only to a certain extent, as set out in the Article. This Article gave
+rise to argument about its scope in the arbitration between Occidental and
+Ecuador.
+
+15. Article VI must be set out in full. It provides:
+
+16
+
+“1. For purposes of this Article, an investment dispute is a dispute between a
+Party and a national or company of the other Party arising out of or relating to (a)
+an investment agreement between that Party and such national or company; (b) an
+investment authorization granted by that Party’s foreign investment authority to
+such national or company; or (c) an alleged breach of any right conferred or
+created by this Treaty with respect to an investment.
+
+2. In the event of an investment dispute, the parties to the dispute should initially
+seek a resolution through consultation and negotiation. If the dispute cannot be
+settled amicably, the national or company concerned may choose to submit the
+dispute, under one of the following alternatives, for resolution:
+
+The definition starts: ‘/mvestment means every kind of investment in the territory of one Party owned or
+
+controlled directly or indirectly by nationals or companies of the other Party, such as equity, debt, and service
+
+7
+
+and investment contracts". It then enumerates various examples.
+Article VII (1).
+
+Judgment Approved by tl rt for handing down Republic of Ecuador v Occidental Exploration
+(subject to editorial corrections)
+
+3.
+
+(a) to the courts or administrative tribunals of the Party that is party to the
+dispute; or
+
+(b) in accordance with any applicable, previously agreed dispute-settlement
+procedures; or
+
+(c) in accordance with the terms of paragraph 3.
+
+(a) Provided that the national or company concerned has not submitted the
+
+dispute for resolution under paragraph 2 (a) or (b) and that six months have
+elapsed from the date on which the dispute arose, the national or company
+concerned may choose to consent in writing to the submission of the dispute for
+settlement by binding arbitration:
+
+(i) to the International Centre for the Settlement of Investment
+Disputes (“Centre”) established by the Convention on the Settlement
+of Investment Disputes between States and Nationals of other states,
+done at Washington March 18, 1965 (“ICSID Convention”), provided
+that the Party is a party to such Convention; or
+
+(ii) to the Additional Facility of the Centre, if the Centre is not
+available; or
+
+(iii) in accordance with the Arbitration Rules of the United Nations
+Commission on International Trade Law (UNCITRAL); or
+
+(iv) to any other arbitration institution, or in accordance with any other
+arbitration rules, as may be mutually agreed between the parties to the
+dispute.
+
+(b) once the national or company concerned has so consented, either party
+to the dispute may initiate arbitration in accordance with the choice so
+specified in the consent.
+
+4. Each Party hereby consents to the submission of any investment dispute for
+settlement by binding arbitration in accordance with the choice specified in the
+written consent of the national or company under paragraph (3). Such consent,
+together with the written consent of the national or company when given under
+paragraph (3) shall satisfy the requirement for:
+
+(a) written consent of the parties to the dispute for purposes of Chapter II
+of the ICSID Convention (Jurisdiction of the Centre) and for purposes of
+the Additional Facility Rules; and
+
+(b) an “agreement in writing” for purposes of Article II of the United
+Nations Convention on the Recognition and Enforcement of Foreign
+Arbitral Awards, done at New York, June 10, 1958 (“New York
+Convention”).
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+(subject to editorial corrections)
+
+5. Any arbitration under paragraph 3(a) (ii), (iii) or (iv), of this Article
+shall be held in a state that is a party to the New York Convention.
+
+6. Any arbitral award rendered pursuant to this Article shall be final and binding
+on the parties to the dispute. Each Party undertakes to carry out without delay the
+provisions of any such award and to provide in its territory for its enforcement.
+
+7. In any proceeding involving an investment dispute, a Party shall not assert, as
+a defense, counterclaim, right of set-off or otherwise, that the national or
+company concerned has received or will receive, pursuant to an insurance or
+guarantee contract, indemnification or other compensation for all or part of its
+alleged damages.
+
+8. For purposes of an arbitration held under paragraph 3 of this Article, any
+company legally constituted under the applicable laws and regulations of a Party
+or a political subdivision thereof that, immediately before the occurrence of the
+event or events giving rise to the dispute, was an investment of nationals or
+companies of the other Party, shall be treated as a national or company of such
+other Party in accordance with Article 25 (2) (b) of the ICSID Convention”.
+
+D. The dispute between Occidental and Ecuador and the arbitration
+
+16. On 4 April 2002 Occidental gave notice to Ecuador'® that a dispute had arisen. After
+six months had elapsed from that date, on 11 November 2002 Occidental sent a
+Notice to Ecuador invoking the arbitration provisions of Article VI of the BIT. The
+Notice stated that, in accordance with Article VI.3(a)(iii), the Notice constituted
+Occidental’s written consent to an arbitration under UNCITRAL Rules. The Notice
+sets out details of the parties to the arbitration, gives a statement of the dispute and
+asserts that Occidental has the right to seek relief through the arbitration proceedings
+that it has invoked in accordance with Article VI.3 of the BIT. Paragraph 20 of the
+Notice alleges that Ecuador has failed to honour its obligations under the BIT and
+under international law. Occidental identified breaches of Articles I1.3(a),'°
+11.3(b),”° and IIl.1?! of the BIT and set out its case. It nominated the Honourable
+Charles N Brower as arbitrator.””
+
+17. Subsequently, Ecuador nominated Dr Patrick Barrera Sweeney” as its arbitrator. In
+accordance with Article 7 of the UNCITRAL Arbitration Rules (“the Rules”),
+Professor Francisco Orrego Vicuna™* was appointed as Chairman of the arbitrators.
+The parties were unable to agree on a place where the arbitration should be held. So,
+
+e In accordance with Article VI.2 and 3(a) of the BIT.
+
+To accord fair and equitable treatment to Occidental’s investment at all times, full protection and
+security and treatment no less favourable than that required by international law.
+
+9 Not to impair in any way by arbitrary or discriminatory measures the management, operation,
+maintenance, use or enjoyment of Occidental’s investment.
+
+7 Not to expropriate directly or indirectly through measures tantamount to expropriation all or part of
+Occidental’s investment in Ecuador except for a public purpose, in a non — discriminatory manner, upon
+payment of prompt, adequate and effective compensation and in accordance with due process of law and the
+general principles of treatment provided for in Art. II(3) of the BIT.
+
+He had been a member of the Iran ~ USA Claims Tribunal at the Hague since 1983.
+
+A distinguished Ecuadorian lawyer who had acted as Legal Advisor to the Central Bank of Ecuador.
+Professor of International Law at the University of Chile and President of the Administrative Tribunal of
+the World Bank; formerly Ad Hoc Judge on the Tribunal for the Law of the Sea.
+
+B
+4
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+(subject to editorial corrections}
+
+E.
+
+in accordance with Article 16 of the Rules the arbitrators considered submissions,
+held a hearing on the issue and decided that it should be London.”* In the hearing
+before me, it was agreed that London should be regarded as the seat of the arbitration
+for the purposes of section 3 of the 1996 Act.
+
+In September 2003, Ecuador raised objections to the jurisdiction of the arbitration
+Tribunal and the admissibility of Occidental’s claims. The parties submitted written
+cases on these issues, but the Tribunal decided to join those issues to the merits of the
+case. A ‘hearing on jurisdiction, admissibility and the merits was held in
+Washington DC between January 26 — 30 2004. “Post — hearing Memorials” were
+submitted on 16 April 2004. The Award was dated 1 July 2004 and sent to the
+
+parties on 12 July 2004.
+
+The Decision of the Arbitrators on the Jurisdiction and Admissibility Issues and
+
+the Merits of Occidental’s claims.
+
+19,
+
+20.
+
+The Award records”’ that Ecuador raised three objections to the Tribunal hearing
+Occidental’s claims. Ecuador’s arguments were:
+
+(1) _ that Occidental had submitted four lawsuits to Ecuadorian courts on the
+question of the VAT refund, so that Occidental had irrevocably chosen to
+submit its claims to the courts or administrative tribunals of Ecuador in
+accordance with Article V.2(a) of the BIT. That choice precluded submission
+of the disputes to arbitration under Article VI.3.78
+
+(2) In any event, Occidental’s claims were precluded by the terms of Article X of
+the BIT, because the claim for refunds of VAT (save for any claim of
+expropriation) did not fall within the matters of taxation embraced in
+paragraphs (a), (b) and (c) of Article X.2, so that the claim was outside those
+matters that can be the subject of arbitration under Article VI of the BIT.
+
+(3)  Occidental’s submission that there had been an expropriation of its investment
+by means of the taxation measures adopted by Ecuador” was unarguable, so
+that even if the claim fell within Article X.2, the Tribunal should not admit it
+as a claim.
+
+The Tribunal gave its decision on each of these three arguments on jurisdiction and
+admissibility. On the first issue (the “fork in the road” point), it held that Occidental
+would only have been precluded from bringing its claim in arbitration if there had
+been a real choice between tribunals, each of which could have determined the same
+claim. That was not the case here and Occidental had simply preserved its position
+with regard to “non-contractual domestic law questions” in the Ecuadorian courts,
+whilst pursuing “treaty — based” issues in arbitration.*°
+
+Decision of 1 August 2003.
+
+Award para 16.
+
+At para 37.
+
+This argument was dubbed “the fork in the road” argument in the Award.
+Contrary to Article III of the BIT.
+
+Award, paras 57 to 63.
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+{subject to editorial corrections)
+
+21.
+
+22.
+
+23.
+
+24.
+
+On the second jurisdictional issue, the Tribunal concluded that the key was the proper
+construction of Article X of the BIT. The arbitrators rejected Ecuador’s argument that
+all matters of taxation were outside the Treaty, apart from the specific categories
+mentioned in Article X.2(a), (b) and (c). The Tribunal concluded, after a close
+analysis of the Treaty wording and the negotiating history of the BIT, that the claim
+did fall within the BIT. The Tribunal held that the real issue was whether the VAT
+refund had been secured by the calculation of Factor X in the Participation Contract,
+so that it was fair of the SRI to pass Resolutions that denied Occidental the right to a
+refund of VAT (as Ecuador argued), or whether the refund had not been secured by
+Factor X, in which case the denial of a right to a refund in accordance with Ecuador’s
+Tax Law was unfair, (as Occidental argued). The arbitrators said that, put this way,
+the issue “automatically” brought in the question of whether Occidental had been
+accorded “fair and equitable treatment”, as required under Article II. Therefore the
+Tribunal had jurisdiction to consider the issue for two reasons. First, as there was a
+dispute about what was embraced by Factor X, that was a matter concerning the
+“observance” of the Participation Contract, which is an “investment agreement”.
+Therefore the claim concerned a matter of taxation with respect to the “observance of
+terms of an investment agreement” within Article X(2)(c). Secondly, because the
+claim raised issues under Article II of the BIT.*!
+
+On the third point the Tribunal commented that, normally, a claim of expropriation
+should be considered on the merits. But it concluded that it was so clear in this case
+that there had been no expropriation that the point should be dealt with at the
+jurisdictional stage. The Tribunal held the expropriation claim was inadmissible.”
+
+The Award then considered the merits. The arbitrators concluded® that: (1) the
+VAT refund was not within Factor X as calculated in accordance with the
+Participation Contract. (2) Accordingly, Occidental was entitled to have the VAT
+refunded under both Ecuadorian law and also Andean Community Law. (3) Because
+the VAT refunds had not been made, Ecuador was in breach of its obligation (under
+Article II.1 of the BIT) to accord Occidental a treatment no less favourable than that
+accorded to nationals or other companies. (4) Therefore Ecuador had also breached
+its obligations concerning fair and equitable treatment as required by Article II.3(a) of
+the BIT. (5) The claim that Ecuador had impaired the operation of Occidental’s
+investment by arbitrary measures (contrary to Article II.3(b) of the BIT) was only
+partially upheld. This was because the SRI had not acted deliberately to deprive
+Occidental of the VAT refunds; rather this had resulted from “an overall rather
+incoherent tax legal structure”.
+
+The Tribunal concluded that these breaches had caused Occidental damage. The
+arbitrators held that Occidental could retain the VAT refunds it had obtained and that
+it was entitled to be paid VAT refunds of over US$73 million for the period up to 31
+December 2003. Interest was also awarded, so that the total of VAT refunds and
+interest due to Occidental was US$75,074,929.34
+
+Award paras 74 — 77.
+
+Award para 92.
+
+Award paras 199 — 200.
+
+Because of the extant claims before the Ecuadorian Courts, the Tribunal made provision to prevent any
+
+double recovery by Occidental.
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+(subject to editorial corrections
+
+F. Ecuador’s Challenge to the Award
+
+25. | The Arbitration Notice that was issued by Ecuador on 11 August 2004 attaches a
+document called “Particulars for Arbitration Claim Form”. This sets out in detail the
+remedies Ecuador claimed and the grounds in support of them. As already noted, the
+Award is challenged on two bases: first, that the Tribunal exceeded its jurisdiction.
+Secondly that there were serious irregularities as to the procedure of the reference
+and/or that affected the Award. The present “non — justiciability” argument is
+directed only at the jurisdictional challenge.
+
+26. The jurisdictional challenge focuses on two points. First, Ecuador says that the
+Tribunal wrongly interpreted and applied Article X.1 of the BIT, 5 by determining
+that Article X.1 imposed “an obligation on the host State that is not different from the
+obligations of fair and equitable treatment embodied in Article II, even though
+admittedly the language of Article X is less mandatory”. Ecuador argues that the
+erroneous conclusion that Article X.1 created an enforceable obligation on “the host
+State” \ed the Tribunal to hold (wrongly) that it had jurisdiction to consider the claim
+of Occidental that Ecuador had been in breach of its Treaty obligations (under Article
+Il) in its treatment of Occidental in relation to the VAT refunds.?
+
+27. Secondly, Ecuador says that the Tribunal wrongly interpreted and applied Article X.2
+of the BIT in holding that the dispute between Occidental and Ecuador concerned a
+“matter of taxation....with respect to....(c) the observance and enforcement of terms
+of an investment agreement...as referred to in Article VI(1)(a) or (b)”? The
+reasoning of the Tribunal was that part, at least, of the dispute found its origin in the
+investment agreement (ie. the Participation Contract) “insofar as it is disputed
+whether VAT reimbursement is included in Factor X”. That enabled the Tribunal
+to consider whether Ecuador had been in breach of Article II.
+
+28. | Ecuador submits that: (i) on the correct interpretation of Article X.2, it did not
+permit claims alleging breach of Article II which concerned any issue of taxation to
+be submitted for determination in accordance with Article VI, because Article II is not
+mentioned in Article X at all;“' (ii) the “observance and enforcement” of the terms
+of the Participation Contract were not in issue between the parties, let alone “central
+to the dispute”, (iii) the Tribunal interpreted Article X.2 too broadly.”
+
+G. Occidental’s Response: the “non — justiciability” issue raised.
+
+35 Article X.1 provides: “With respect to its tax policies, each Party should strive to accord fairness and
+
+equity in the treatment of investment of nationals and companies of the other party”.
+
+36 "Award: para 70.
+
+Particulars to Arbitration Application: para 20.
+
+Article X.2 provides: “Nevertheless, the provisions of this Treaty, and in particular Article VI and VII
+shall apply to matters of taxation only with respect to the following: (a) expropriation, pursuant to Article III;
+..(¢) the observance and enforcement of terms of an investment agreement or authorisation as referred to in
+Article VI(1)(a) or (b)....”
+
+» Award: paras 72 and 73.
+
+Award: para 72.
+
+Ecuador pointed out that this was in contrast to Articles III and IV which are both specifically mentioned
+in Articles X.2 (a) and (b) respectively.
+
+#2 Particulars to Arbitration Notice: para 19.
+
+37
+38
+
+40
+a
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+{subject to editorial corrections)
+
+29.
+
+30.
+
+31.
+
+H.
+
+32.
+
+B
+
+On 11 August 2004 Occidental issued a cross application. In that application it stated
+that if the court decided that it would set aside the Award on the grounds raised e
+Ecuador, then Occidental would wish to make a cross application to challens e th
+Tribunal’s conclusion on jurisdiction with regard to the “expropriation” issue.*
+
+that stage Occidental did not raise the “non —justiciability” point.
+
+On 24 November 2004 Occidental issued a further Application Notice. This asserted
+that Ecuador’s challenge to the Award under sections 67 and 68 of the 1996 Act
+required the court to interpret provisions of an international treaty between two
+foreign states (ie. the BIT). The notice continued: “Jt is a rule of English law,
+however, that such a task of interpretation is not justiciable in the English Courts.
+This, therefore, prevents [Ecuador’s] challenge from proceeding”. Occidental
+asked that this issue be dealt with as a preliminary point. On 21 December 2004
+Colman J ordered that this be done and set a timetable for the service of evidence and
+a hearing of the preliminary point on “non — justiciability”.
+
+That hearing took place before me on 1, 2 and 3 March 2005. Although voluminous
+witness statements have been filed, the facts are not in dispute so far as this
+application is concerned and the arguments dealt with the law. 1 heard Mr
+Greenwood QC on behalf of Occidental and from Mr Lloyd Jones QC on behalf of
+Ecuador. I am very grateful to them both for their most interesting and helpful
+submissions. I reserved judgment.
+
+The parties’ arguments in outline
+
+Occidental’s Argument: | Mr Greenwood submitted that if the court had to decide
+the merits of Ecuador’s section 67 challenge to the Award on jurisdiction, this would
+involve a complete rehearing of the issues and the judge would have to approach the
+question of jurisdiction wholly afresh and without any preconception that the Tribunal
+had made the right decision. Therefore the court would have to interpret the BIT,
+rule upon its scope, effect and application and so determine the jurisdiction of the
+arbitrators. This exercise would involve: a consideration of the negotiating history
+and travaux préparatoires of the BIT and materials emanating from each state’s
+government; an examination of many other treaties to which the UK was also not a
+party; and evidence or submissions as to the views of both states on their
+understanding of the scope, meaning and application of the BIT.** As the USA is
+not a party to these proceedings, all this would be done in the absence of one of the
+Parties to the BIT. English courts are very reluctant to rule on the rights and
+obligations of a state that is not a party to the proceedings before it.“ The conclusion
+of the English court on the interpretation of the BIT would affect both Ecuador and
+the USA, as Parties to the BIT. Moreover, as the wording of this BIT is in a
+
+Application Notice of 11 August 2004, para 10. This application was made under section 67 of the
+
+1996 Act.
+
+“4
+
+Cf: Azov Shipping Co v Baltic Shipping Co [1999] 2 Lloyd’s Rep 39 at 41 per Longmore J; Azov
+
+Shipping Co v Baltic Shipping Co [1999] 2 Lloyd’s Rep 158 at 161 per Colman J.
+
+This broad investigation would be necessary because Articles 31 and 32 of the Vienna Convention on
+
+the Law of Treaties 1969 demands consideration of such matters in order to interpret treaties.
+
+Mr Greenwood referred in particular to the Buttes case (see below): [1982] AC 888 at 938C, per Lord
+
+Wilberforce, and the decision of the Divisional Court in CND v Prime Minister [2002] EWHC 2759 QB at
+para 37, per Simon Brown LJ.
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+(subject to editorial corrections) .
+
+33.
+
+34.
+
+36.
+
+50
+
+standard form that has been employed in many others, any ruling of the court would
+have an impact on other BITs to which states other than the UK are Parties.
+
+Mr Greenwood submitted that it is precisely because such an exercise would require
+the English court to consider the executive and diplomatic actions of foreign states for
+which there are “no judicial or manageable standards by which to judge these
+issues”,” that the courts have developed the doctrine of non — justiciability. This
+doctrine was enunciated by Lord Wilberforce in the Buttes Gas case after a full
+review of the authorities and it remains the law, despite some immaterial
+qualifications subsequently. Mr Greenwood particularly relied on the statements of
+principle made by Lord Oliver in JH Rayner (Mincing Lane) Ltd v DTI (“The Tin
+Council Case”).”
+
+Allied to this principle is a second one, Mr Greenwood submitted. This is that
+English courts will not interpret treaties that have not been incorporated into English
+law. Again, Mr Greenwood relied particularly on statements of the House of Lords
+in the Tin Council Case.”
+
+Mr Greenwood submitted that if the court were to entertain the application of Ecuador
+under section 67 of the 1996 Act, it would inevitably mean that it would have to: (i)
+tule upon the meaning of a treaty to which the UK was not a party and which was not
+part of UK domestic law; (ii) rule upon the transactions between the USA and
+Ecuador on the plane of international law; (iii) embark upon a difficult task of treaty
+interpretation without being sure that it had all the relevant necessary materials before
+it and without the USA being a party to the proceedings. He submitted that the fact
+that the arbitration had its seat in London, so that the 1996 Act applied, could not
+justify the court trampling on the well — established principles referred to above. He
+pointed out that section 67(3) of the 1996 Act is not mandatory,” so that the court
+can decline to make an order if to do so would contravene other English law
+principles. He argued that it is clear that the 1996 Act is subject to the principle of
+non — justiciability because of the saving of common law principles in section 81(1)
+of the Act.*!
+
+Ecuador’s Argument: Mr Lloyd Jones accepted that the BIT is a treaty governed
+by public international law and that it has not been made a part of the Municipal law
+of the UK. However, he submitted that, just because the proposed application
+under section 67 of the 1996 Act would involve consideration of a non — incorporated
+treaty between two friendly states, that does not make the matter a “no — go” area for
+the English Court. In this case the two state Parties to the BIT had expressly agreed
+that disputes between an investor and a state Party to the BIT could be determined by
+arbitration proceedings in states that are party to the New York Convention 1958.
+If there is an issue as to the scope of the jurisdiction of the arbitrators who have been
+
+Per Lord Wilberforce in Buttes Gas and Oil Co v Hammer (“The Buttes Gas case”) [1982] AC 888 at
+
+[1990] 2 AC 418 at 499 F-H.
+Particularly per Lord Templeman at page 476H to 477A; 481 B-C.
+It provides: “On an application under this section challenging the award of the arbitral tribunal as to its
+
+substantive jurisdiction, the court may by order...”.(emphasis mine).
+
+That provides: “Nothing in this Part shall be construed as excluding the operation of any rule of law
+
+consistent with the provisions of this Part...” That section is at the end of Part 1, in which section 67 is also
+placed.
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+subject to editorial corrections)
+
+appointed by the mechanism specifically set up by the state Parties to the BIT, then it
+should be justiciable before the court that supervises the arbitral process. Here that
+must be the English Court, because London is the seat of the arbitration and it is
+accepted that the arbitral procedure is governed by the 1996 Act.”
+
+37. Mr Lloyd Jones submitted that the court must distinguish between and consider two
+different matters in this case. First, the creation of the agreement to arbitrate the
+particular dispute that has arisen in this case between Ecuador and Occidental; and
+secondly, the nature of the rights that Occidental wishes to exercise by bringing its
+claim in the UNCITRAL arbitration proceedings.
+
+38. As to the first matter, he submitted that the effect of Article VI.2 of the BIT was that
+if an “investment dispute” arose between an investor and a state Party, then there
+was a “standing offer” by the State Party to submit that dispute to one of the three
+methods of dispute resolution set out in Article V1.2 (a), (b) and (c), the last one of
+which is binding arbitration as set out in Article V1.3. Occidental accepted
+Ecuador’s “standing offer” to arbitrate by its Notice of Arbitration and Statement of
+Claim. This meant that the parties to the arbitration agreed to arbitrate on the terms
+set out in the BIT, particularly Articles VI and X. Then, once the Tribunal had
+decided that London would be the seat of the arbitration, the arbitration became
+subject to the Municipal law of the state of the seat of the arbitration, ie. in this case,
+the law of England and Wales.
+
+39. | Mr Lloyd Jones drew an analogy with the case of Philippson v Imperial Airways
+Limited.** In that case the contract of carriage by air incorporated the Warsaw
+Convention 1929, at a time when it was not implemented in English domestic law.
+But in order to determine what the parties to the contract meant by “international
+carriage” in the contract terms, it was necessary to construe the terms of the Warsaw
+Convention and interpret the definition of “international carriage” which was
+described in the Convention as “the carriage between two places within the territory
+of two “High Contracting Parties” to the Convention. That is what Lord Atkin did,
+and also Lord Wright. *°
+
+40. As to the second matter, Mr Lloyd Jones submitted that the nature of the claim put
+forward by Occidental against Ecuador was a private law right, as opposed to a
+public international law right that was being exercised by Occidental (the investor) on
+
+2 Mr Lloyd Jones relied on the judgments in three Canadian cases, where courts had held that awards
+
+made by arbitral tribunals constituted under Chapter 11 of the North American Free Trade Agreement
+(NAFTA”) were susceptible to review by the Canadian Courts on the question of jurisdiction under the
+Cc bitration Act or the C bitration Act of Canada: United Mexican
+
+States v Metalclad (2001) 5 ICSID Rep 236; United States of Mexico v Martin Roy Feldman Karpa, 11
+January 2005; AG of Canada v SD Myers Inc, 13 January 2004. He also referred to Czech Republic v
+CME: Czech Republic BY (2003) 42 1LM 919, where ‘the Svea Court of Appeals in Sweden reviewed an issue
+of j of ip d to d an i dispute under a BIT between the Czech
+Republic and the USA.
+
+Law and Practice of International Commercial Arbitration (4" Ed. 2004) by Redfern & Hunter para 1
+~ 142.
+[1939] AC 332
+%8 As Lord Atkin recognised: page 351.
+6 At pages 348 —351; 364 - 369
+
+ 
+
+Judgment Approved by the court for handikQBkn ‘The Hon Mr Justice ATER of Ecuador y Occidental Exploration
+(subject to editorial corrections) Presiding Judge of the South Eastern Circuit
+
+behalf of the USA, as the other state Party to the BIT.” He submitted that it was
+important to note that Article VI.5 of the BIT stipulated that if the investor and state
+Party chose arbitration (other than one under the auspices of the International Centre
+for the Settlement of Investment Disputes —“ICSID”), then it had to have its seat in a
+state that is a party to the New York Convention 1958. That indicated that any award,
+made in favour of either an investor or a State Party, is to be enforceable like any
+other award involving private law rights, pursuant to the New York Convention
+1958. The State Parties also agree that an award will be enforceable in their own
+states: Article V1.6 of the BIT.
+
+41. Therefore, he submitted, the English courts might have to enforce an award made
+pursuant to Article VI.3(iii) of the BIT. Yet one of the grounds on which a court can
+refuse to enforce a New York Convention award is that it deals with a difference “not
+contemplated by or not falling within the terms of submission to arbitration... 8 oe
+a challenge was made to a BIT arbitration award on the ground of excess of
+jurisdiction, the English court would have to examine that issue and determine it in
+order to see to what extent (if at all) the award could be recognised or enforced:
+section 103 (4) of the 1996 Act.
+
+42. Mr Lloyd Jones submitted that this analysis had the following consequences.
+English courts have examined treaties that are not incorporated into English
+Municipal law if it is necessary to do so in order to determine some domestic law
+right or interest. Mr Lloyd . Jones pointed particularly to the decision of Hobhouse J
+in Dallal v Bank Mellat,”’ in which the judge examined the jurisdiction of the Iran —
+US Claims Tribunal, which was established by a treaty between two states and which
+was not part of UK Municipal law. The judgment concluded that the source of the
+authority of the arbitration tribunal lay in the treaty that set up the Claims Tribunal,
+ie. it was derived from international law. Hobhouse J decided that the tribunal
+derived its competence from international law and that international comity required
+the English Courts to recognise the validity of its decisions. Therefore Bank Mellat
+could rely on a defence of issue estoppel to Mr Dallal’s claim against it in the English
+Court. Mr Lloyd Jones also relied on CND v The Prime Minister." 1n that case
+Simon Brown LJ said that the English courts would not interpret “an instrument
+operating purely on the plane of international law”, unless it was necessary to do so
+
+“in order to determine rights and obligations under domestic law”. — Mr Lloyd
+Jones said that in the present case Ecuador had the right, granted by section 67 of the
+
+*7 Mr Lioyd Jones relied upon the argument set out in Douglas, pp 169-70; 179 - 180 and the
+
+acceptance, in argument, of that position by the USA in the case of GAMI Inc v United States of Mexico (see
+para 13 of the US Submissions), an arbitration conducted under Chapter 11 of the NAFTA and under
+UNCITRAL Rules. The contrary position was expressed by a distinguished arbitration panel in another
+NAFTA case: The Loewen Group Inc v USA, Award of 26 June 2003: (2003) 42 ILM 811; see particularly
+Para 233. That Award was made under the auspices of the International Centre for Settlement of Investment
+Disputes —“ICSID”, Washington, DC. Douglas argues that this observation is wrong in principle and an
+inaccurate description of the NAFTA arbitration process: pp 162-3; 175-6; 193.
+
+New York Convention Article V.1(c); Arbitration Act 1996 section 103(2)(d). Convention Awards are
+enforceable in the same manner as a judgment of the court under section 101.
+% [1986] QB 441.
+At page 462A
+[2002] EWHC 2759 QB (Divisional Court)
+See: para 36. Cf para 40: “There is no foothold in domestic law for any ruling to be given on
+international law”; and conclusion at para 47 (i). Maurice Kay LJ and Richards J agreed with the judgment of
+Simon Brown LJ, whilst adding reasons of their own.
+
+61
+@
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+{subject to editorial corrections)
+
+L
+
+43.
+
+44.
+
+45.
+
+1996 Act, to ask the court to review the exercise of the Tribunal’s jurisdiction, which
+it had exercised in a certain way and had decided that Occidental has private law
+tights that it can enforce against Ecuador in any court of a state that is party to the
+New York Convention.
+
+Analysis
+
+Points of Agreement: There are a number of matters that are not in dispute between
+the parties. These include the following points:
+
+qd) The BIT is an agreement between states on the plane of international law.
+
+(2) In this case the nature of Occidental’s allegations against Ecuador is that
+Ecuador has been in breach of its international law treaty obligations towards
+the USA that are set out in the BIT, particularly in Article [13. Occidental
+argued that, as a result of these breaches, it suffered loss, totalling US$75
+million. In the arbitration Occidental claimed a private law remedy, ie.
+damages or compensation of US$75 million.
+
+(3) | The Tribunal awarded damages or compensation of some US$75 million.
+That Award, if not challenged, can be given recognition and can be enforced
+under the provisions of the New York Convention 1958.
+
+(4) The seat of the arbitration between Occidental and Ecuador, which was only
+decided after the Tribunal had been constituted and had heard argument on the
+point, was London.
+
+(5) Part One of the Arbitration Act 1996, (which includes section 67), applies to
+arbitrations “where the seat of the arbitration is in England and Wales and
+Northern Ireland”: see section 2(1) of the 1996 Act. Therefore, unless the
+court is prevented from doing so by some principle of non —justiciability, the
+court has jurisdiction to determine Ecuador’s challenge to the Award of the
+Tribunal as to its substantive jurisdiction, which is made under section 67 of
+the 1996 Act.
+
+(6) There is a general principle of English common law which has been called,
+for convenience, the “non — justiciability” principle. The argument concerns
+its scope and application in this case.
+
+The issues to be decided: Two issues have to be decided, in my view. They are:
+
+(1) What is the nature of the right or remedy that Ecuador wishes the English
+Court to consider that might infringe the “non — justiciability” principle in
+English law?
+
+(2) Does the “non — justiciability” principle prevent the court from considering
+that right or remedy?
+
+What is the nature of the right or remedy that Ecuador wishes the English Court
+to consider that is said to infringe the “non — justiciability” principle in English
+law?
+
+judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+(subject to editorial corrections)
+
+46.
+
+47.
+
+48.
+
+49.
+
+a
+
+Two sets of rights and remedies require consideration. First, there are those which arise
+under the BIT itself. Secondly, there are the rights arising from the fact that
+Occidental called on Ecuador to arbitrate a dispute and an arbitration has taken place
+with its seat in London.
+
+During the hearing there was much debate on whether the rights and remedies that
+Occidental was seeking to enforce in the UNCITRAL arbitration arose under public
+international law or Municipal or private law. Mr Greenwood submitted that they
+were the former; Mr Lloyd — Jones that they were the latter. It is obvious that the
+BIT creates obligations between Ecuador and the USA on the plane of public
+international law. For example, Article III imposes obligations on the states not to
+expropriate or nationalise investments except in limited, defined circumstances.
+
+However, this BIT (in common with others) also clearly gives investors the right to
+make claims directly against states - in Mr Greenwood’s phrase, it gives them
+“standing”. | Mr Greenwood submitted that the rights, eg. those set out in Articles
+11.3, Il and X.1, remain public international law rights which are rights of the states,
+which the investor is permitted to enforce. He relies particularly on statements of the
+arbitration tribunal in the Loewen case,> which was an Award made under Chapter
+11 of the NAFTA. As the Loewen case featured strongly in much of the argument
+about the nature of the rights and claims of Occidental, I should explain the nature of
+that arbitration and the decision of the tribunal on the relevant point.
+
+The claimant in the Loewen case arbitration was a Canadian corporation that was
+owned and controlled by a US corporation. The respondent was the Federal
+Government of the USA. The arbitration arose out of a commercial dispute between
+two groups of companies, both of which, at the time, contained US corporations.
+One group was the Loewen group; the other was the O’Keefe group. The latter
+brought proceedings in the Mississippi State Court against the Loewen group for
+damages for breaches of commercial contracts. The jury awarded the O’Keefe group
+damages (including punitive damages) of US$500 million. The Loewen group did
+not raise the necessary and very large bond to appeal the verdict and so settled with
+the O’Keefe group for US$175 million. By the time of the NAFTA arbitration, the
+Loewen group had purported to assign any claims it had under NAFTA to a Canadian
+corporation, which was owned and controlled by a US corporation. That fact gave
+rise to one of the principal issues in the case.
+
+In the NAFTA arbitration the claimants were The Loewen Group Inc, (“TLGI”, a
+Canadian corporation) and Mr Raymond Loewen, a Canadian citizen and the
+principal shareholder and chief executive of TLGI. They sought compensation for
+damage inflicted on TLGI and another Loewen company (Loewen Group
+International Inc — “LGII”), and for damage to Mr Loewen’s interests which were
+said to be a direct result of alleged violations of Chapter 11 of the NAFTA, that had
+been committed primarily in the State of Mississippi in the course of the litigation
+between the Loewen group and the O’Keefe group.
+
+Award of arbitrators Sir Anthony Mason, Judge Abner J Mikva and Lord Mustill given on 23 June
+
+2003. Held under the auspices of the Centre for Settl of Disputes, W
+
+Dc.
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+{subject to editorial corrections)
+
+50.
+
+Sl.
+
+52.
+
+z
+
+&
+
+The tribunal first heard and dismissed one ground of objection to the competence and
+jurisdiction of the tribunal and it adjourned other grounds. The tribunal went on to
+consider the merits and the adjourned questions concerning competence and
+jurisdiction. | After the final hearing on the merits, the USA raised a further
+objection to the competence and jurisdiction of the tribunal, based on the
+reorganisation of TLGI under Chapter 11 of the US Bankruptcy Code. That
+reorganisation had resulted in the assignment by TLGI of its NAFTA claims to a
+newly created Canadian corporation, NAFCANCO, which was owned and
+controlled by a US Corporation.
+
+On the merits, the arbitrators concluded that the trial and verdict in the Mississippi
+court were improper and could not be squared with minimum standards of
+international law and fair and equitable treatment. They then had to consider the
+question of whether the claimants had a valid claim for an international wrong. That
+required the tribunal to decide whether it lacked jurisdiction because the claimants
+had not exhausted their “local remedies” before a party could bring a complaint of a
+breach of international law by a State. That in turn required the tribunal to decide
+whether the State in question (ie. the USA) provided local (or domestic) remedies, in
+the form of rights of appeal, that were effective, adequate and reasonably available
+to the complainant in the circumstances of the case. The arbitrators decided that,
+because Loewen did not explain why it had entered into the settlement, it could not
+hold that the domestic remedies were ineffective, inadequate or not reasonably
+available. It held that Loewen had failed to pursue its domestic remedies “notably the
+[Mississippi] Supreme Court option”, so that Loewen had not shown a “violation of
+customary international law and a violation of NAFTA for which [the USA] is
+
+responsible”.
+
+The effect of that conclusion was that there could be no claim against the USA under
+NAFTA. However, the tribunal then dealt with the objection to their jurisdiction
+which had been taken after the main hearings on the merits, ie. that arising out of
+TLGI filing for protection under Chapter 11 of the US Bankruptcy Code. Before it
+had gone out of business, TLGI assigned all of its right, title and interest in the
+NAFTA to a new company, NAFCANCO. In fact the NAFTA claim was the only
+interest of NAFCANCO and the pursuit of the claim its only business.°’ The tribunal
+held further hearings on this point and both Canada and Mexico submitted their views
+on the issues raised by this objection.
+
+The point taken by the USA was that NAFCANCO was owned and controlled by a
+US Corporation, LGII, which had been renamed Alderwoods Inc. The USA said
+that the format of NAFTA and in particular Chapter 11 of it was to protect the
+investing parties of one Contracting Party to the treaty against the unfair practices
+occurring in one of the other Contracting Parties. The tribunal agreed that NAFTA
+“was not intended to and could not affect the rights of American investors in relation
+to the practices of the United States that adversely affect such American investors.
+Claims of that nature can only be pursued under domestic law”. Further, in that
+case if NAFTA were being used by an American investor, then it “would in effect
+
+Award: para 142.
+Award: para 168.
+Award: para 217.
+Award: para 220.
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+{subject to editorial corrections)
+
+34.
+
+56.
+
+57.
+
+ag
+
+create a collateral appeal from the decision of the Mississippi Courts”, which was
+not the intent of NAFTA at all.° Therefore the issue that the tribunal had to consider
+was the nationality of the claimants. Under NAFTA, was the rule the same as in
+customary international law, ie. that a claim for compensation (by one state against
+another) for a failure to protect the assets of an entity of the claimant state, could only
+be maintained if the entity concerned had been a national of the claimant state from
+the time that the claim arose until the time of resolution of the claim?
+
+The argument of the USA was that even if a claim under NAFTA had existed at a
+time when the claimants were Canadian entities, if subsequently they became (even
+in part) US entities, then there was no longer “diversity of nationality” between the
+entity claiming and the respondent State, so that a NAFTA claim that had existed
+beforehand ceased to do so. The tribunal remarked that the effect of the assignment
+and change of nationality of the claimant interests was something “a private lawyer
+might well exclaim [was an] uncovenanted benefit to the defendant [that] would
+produce a result so unjust that it could be sustained only by irrefutable logic or
+compelling precedent, and neither exists”. It is in that context that the remarks of
+the tribunal which are relied on so heavily by Mr Greenwood, arise.
+
+In paragraph 233 of the Award, the arbitrators pointed out that NAFTA claims are
+not the same as rights of action under private law that arise from personal obligations,
+which are brought into existence by domestic law and are enforceable through
+domestic tribunals and states. The tribunal stated that NAFTA claims had quite a
+different character which stemmed from public international law. The passage on
+which Mr Greenwood relies then continues:
+
+“..by treaty, the powers of States under [public international law] to take
+international measures for the correction of wrongs done to its nationals has
+been replaced by an ad hoc definition of certain kinds of wrong, coupled with
+specialist means of compensation. These means are both distinct from and
+exclusive of the remedies for wrongful acts under private law: see Articles 1121,
+1131, 2021 and 2022 [of NAFTA].....There is no warrant for transferring rules
+derived from private law into a field of international law where claimants are
+permitted for convenience to enforce what are in origin the rights of Party states.
+If the effects of a change of ownership are to be ascertained we must do so, not by
+inapt analogies with private law rules, but from the words of Chapter Eleven [of
+NAFTA], read in the context of the treaty as a whole, and of the purpose which
+it sets out to achieve”.
+
+The tribunal concluded that, under the provisions of NAFTA, _ the rule of continuous
+nationality obtained. It also concluded that the consequence of TLGI’s decision to go
+into Chapter 11 insolvency was that the “chain of nationality” that NAFTA required
+had been broken so that the tribunal had no jurisdiction to determine the claim.”
+
+I have spent some time analysing the Loewen decision because Mr Greenwood
+attaches much importance to the characterisation of the claimants’ claims that is made
+by the tribunal at paragraph 233 of the award. But there are several points to note
+
+Award: paras 223 and 224.
+Award: para 232.
+Award: para 234, 237 and 240.
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+(subject to editorial corrections)
+
+58.
+
+59.
+
+60.
+
+61.
+
+1
+n
+B
+
+about what the Loewen tribunal says. First, it is analysing the position under the
+NAFTA, as opposed to the current treaty, a BIT between Ecuador and the USA.
+Secondly, the precise nature of the claim was not central to the point at issue in this
+part of the award; the key issue was whether there was continuity of nationality.
+Thirdly, it is noteworthy that when the arbitrators discuss the history of the doctrine
+of continuous nationality in the context of claims by one state against another, they
+comment on how the nature of “investment claims” has changed.”' They note that
+claimants have been allowed to “prosecute claims in their own right more often” and
+that in such cases provision has been made for the amelioration of the strict
+requirement of continuous nationality. They observe that this has been spelt out in
+specific treaties, including many “so-called BITs”.
+
+I am satisfied that the tribunal did not intend to make any general comment on the
+nature of claims made under BITs against states by investors that are entities created
+and existing under Municipal (or “domestic” or “private”) law. I am equally satisfied
+that the tribunal did not intend to lay down any general rule that, whatever the nature
+of the claim by the Municipal law entity, it was being made on behalf of the other
+State Party to the treaty.
+
+That does not solve the question of the nature of the rights and remedies given to an
+investor under a BIT. Mr Lloyd Jones pointed to the fact that, by Article VI, the BIT
+creates a direct relationship between a State Party and an investor so it can enforce its
+own rights. But that does not answer the question on the nature of the rights.
+Secondly Mr Lloyd Jones observed that the BIT confers rights which have effect in
+the Municipal law of Ecuador and can be enforced in the Municipal courts of
+Ecuador.” — But those facts do not help in the analysis from the standpoint of the
+English law and jurisdiction.
+
+Mr Greenwood emphasised that if the rights are private or Municipal law rights, then,
+classically under English conflicts of laws rules, they must be governed by some
+proper law or other, which is determinable at the time the rights are created.” There
+is nothing in the BIT to suggest that this exercise would be conducted if an investor
+made a claim against a state under the provisions of Article VI. Instinctively, it seems
+to me improbable that the Contracting State Parties intended that investors should be
+given the right to make claims that are governed by a particular Municipal law.
+
+In the absence of anything else to guide me I go back to the fact that the BIT creates
+rights and obligations between states on the level of public international law. Given
+the wording of the BIT, and in particular the wording of Article VI.1 and V1.2, two
+points seem to me to be logical. First, that the State Parties to the BIT intended to
+give investors the right to pursue, in their name and for themselves, claims against
+the other State party. Secondly, that those rights are granted under public
+international law and must be determined on principles of public international law, as
+they were by the Tribunal in this case.
+
+See para 229 of the Award.
+See: Arts IIL.2; VI.1(c) and VI.2(a).
+See, eg: Armar Shipping Co Ltd v Caisse Algerienne D’Assurance et de Reassurance [1981] 1 WLR
+
+207 at 215 per Megaw LJ.
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+(subject to editorial corrections}
+
+62.
+
+64.
+
+65.
+
+66.
+
+67.
+
+Next there is the question of the rights and remedies created by the arbitration. Mr
+Greenwood correctly pointed out that there are two aspects to these rights. First there
+is the agreement to arbitrate, which is contained in the BIT itself. As I have already
+indicated, that is in the form of a standing offer to arbitrate by the State Party, which
+offer can be accepted by the investor. Is that agreement governed by a Municipal
+law? If it is then it has to be capable of identification at the moment that the
+agreement is made.
+
+Again it seems to me inherently unlikely that the arbitration agreement would be
+governed by a Municipal law. The arbitration agreement between parties will
+determine the scope and nature of the issues that can be arbitrated between the parties.
+In the case of the BIT the scope of the arbitration agreement which is created by
+operation of Article VI.3 (a) and (b) must be within the confines of the wording of the
+BIT itself, in particular that of Article VI.1. There is no doubt that those provisions
+are governed by public international law. It would be logical that the arbitration
+agreement which is based on the BIT is also governed by the same law. Indeed,
+because the substantive rights and obligations created by the BIT are so intertwined
+with the scope of any arbitration concerning them, any other answer would be
+unworkable. In the current case the Tribunal dealt with both the merits and the
+jurisdiction of the Tribunal together and did so according to principles of public
+international law. The decision to use those principles for determining their
+jurisdiction (ie. the scope of the arbitration agreement), was obviously right.
+Whether those principles were used correctly is a different point and that is what
+Ecuador wishes to challenge under section 67 of the 1996 Act.
+
+That leaves the law by which the arbitral procedure is conducted. Everyone agrees
+that this is indeed governed by Municipal law, ie. the 1996 Act.
+
+So which of these three groups of rights and remedies is it that Ecuador wishes the
+English court to consider that might infringe the “non — justiciability” principle? _ It
+is not, at least directly, the first one, ie. the substantive rights granted to Occidental
+by virtue of the provisions of Articles VI.1 and VI.2 of the BIT. Ecuador has to
+accept that if the Tribunal interpreted the BIT correctly and had jurisdiction to
+consider the claims asserted by Occidental, then (subject to the section 68 challenge),
+it cannot question the Tribunal’s power to make the Award it did.
+
+Ecuador wishes the Court to consider the second bundle of rights and obligations, ie.
+the right to arbitrate certain claims. The scope of those rights is to be interpreted and
+defined according to public international law principles. It is because those rights
+concern the interpretation of a treaty to which the UK is not a party and which has not
+been incorporated into UK Municipal law that Occidental asserts that the Court
+cannot exercise the power it would otherwise have (under section 67) to consider
+Ecuador’s jurisdictional challenge.
+
+Does the “non — justiciability” principle prevent the court from considering
+Ecuador’s challenge to the Tribunal’s jurisdiction to determine the claims
+~asserted by Occidental?
+
+Mr Greenwood submits that the statements of principle made by the House of Lords in
+leading cases make it clear that the English court must not consider the scope of the
+jurisdiction of the Tribunal, because that depends on the proper interpretation of a
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+(subject to editorial corrections)
+
+68.
+
+69.
+
+treaty that has not been incorporated into English Municipal law. Therefore the courts
+have no power to enforce any rights created by the treaty, which is an agreement
+between states and on the plane of international law. He relied in particular on
+statements made in the leading case of JH Rayner Ltd v Department of Trade,” (“the
+Tin Council case”) particularly those of Lord Templeman and Lord Oliver. In that
+case various traders in the London tin market claimed sums from the member States of
+an international body, the International Tin Council, which had been established under
+a series of multi — lateral treaties to which the UK was a party. But those treaties had
+never been incorporated into English Municipal law. The ITC was accorded a
+corporate identity in English law by a series of Orders in Council. The ITC failed to
+meet substantial obligations to tin traders when the member States withdrew support for
+its activities (principally the sale and purchase of tin stocks to maintain world prices).
+The tin traders sought to fix liability on the States that were members of the ITC. Four
+main arguments were put forward in an attempt to do so. All failed at all stages of the
+litigation.
+
+All the arguments required the courts to look at the various International Tin
+Agreements (“ITAs”) that established and continued the ITC, the latest of which was
+called “ITA 6”. Lord Oliver dealt with the issue of the extent to which the courts
+could consider ITA 6 under the heading of “The Principle of Non — Justiciability”.”
+He set out the following principles,” noting that the contest was not so much in the
+principles themselves but the area of their operation. (1) “Municipal courts have not
+and cannot have the competence to adjudicate upon or to enforce the rights arising
+out of transactions entered into by independent sovereign states between themselves
+on the plane of international law.” (2) “A treaty is not part of English law unless
+and until it has been incorporated into the law by legislation”. (3) “So far as
+individuals are concerned, it is res inter alios acta from which they cannot derive
+rights and by which they cannot be deprived of rights or subjected to obligations...as
+a source of rights and obligations [an unincorporated treaty] is irrelevant”. (4)
+However, those “propositions do not...involve the corollary that the court must never
+look at or construe a treaty”. Lord Oliver gave three examples where that was
+commonly done: where the treaty was incorporated into Municipal law directly;
+where it was done indirectly to give effect to treaty obligations; and where parties
+had entered into a “domestic” contract and incorporated the wording of a treaty. 7 (5)
+The court could refer to a treaty and the facts of its conclusion and terms where that
+was a part of the factual background against which a particular issue arose. “Which
+states have become parties to a treaty and when and on what the terms of the treaty
+are are questions of fact. The legal results which flow from it in international law,
+whether between the parties inter se or between the parties or any of them and
+outsiders are not and they are not justiciable by Municipal courts”.
+
+Lord Oliver returned to this topic when he dealt with the appeal of one of the tin
+traders, Maclaine Watson & Co Ltd, which had sought the appointment of a receiver
+over the assets of the ITC. The argument was that one of those assets was a right of
+action that the ITC had as against the member states of ITA 6 to be indemnified by
+
+x, [1990] 2AC 418, at 476 (Lord Templeman) and 499 - 500 (Lord Oliver of Aylmerton).
+
+6
+
+At page 499E.
+Lords Keith, Brandon and Griffiths agreed with Lord Oliver and also with Lord Templeman, who gave
+
+the only other substantial speech. Lord Templeman made the same points in different language.
+
+7
+
+Lord Oliver cited the Philippson case [1939] AC 332 as an example of this last category.
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+{Subject to editorial corrections)
+
+the member states against the liabilities of the ITC in respect of sales and purchase
+contracts. Two questions arose: (i) did the ITC have a cause of action for an
+indemnity against the member states; and if it did (ii) was that justiciable in the
+English courts? Lord Oliver concluded that if any right to be indemnified existed, it
+could only be found in ITA 6, an unincorporated treaty between sovereign states.
+Lord Oliver’s preferred ground” for concluding that the court could not entertain the
+application for the appointment of a receiver was that the receiver would be
+attempting to obtain an indemnity from the member States by relying on the terms of
+ITA 6, an unincorporated treaty. That would involve a court having to see whether
+its terms provided for an indemnity either expressly or by implication. That was not a
+justiciable issue.”
+
+70. Mr Lloyd Jones pointed to the fact that there have been criticisms of the breadth of the
+“non — justiciability” rule as stated in The Tin Council case. But in Re McKerr, ©”
+Lord Steyn noted that the “rule” enunciated by the House of Lords in The Tin
+Council case , that an unincorporated treaty can create no rights or obligations in
+domestic law, had been subsequently affirmed by the House in two further cases.*!
+Lord Steyn observed that distinguished commentators had attacked the “narrowness”
+of the decision on this point, although he acknowledged that the critics would accept
+“the principled analysis” of Kerr LJ in the Court of Appeal that “the liability of the
+member states under international law is justiciable in the national court and that
+under international law the member states were not liable for the debts of the
+international organisation”. He said that “a comprehensive re-examination must
+await another day”. 8
+
+71. Despite the tempting blandishments of Mr Lloyd Jones’ arguments, I must take the
+“rule” as I find it in The Tin Council case. The question is whether it applies to
+prevent the court considering Ecuador’s challenge to the Tribunal’s jurisdiction in this
+case. In order to answer that it is vital to do two things. First, to note that because
+the seat of the arbitration between Ecuador and Occidental is London, in principle the
+court has jurisdiction to entertain a challenge to the Tribunal’s substantive
+jurisdiction. Secondly, to examine closely what the court would have to do in order
+to deal with that challenge.
+
+72. Because the court has the jurisdiction, in principle, to examine a challenge to the
+substantive jurisdiction of an arbitral tribunal by virtue of section 67 of the 1996 Act,
+it is necessary to see if, in doing so, it would infringe any of the “rules” of non —
+justiciability as set out by Lord Oliver. I will go through the principles set out by
+Lord Oliver that I have already enumerated above.
+
+73. First, will the court have to adjudicate upon or enforce rights arising out of
+transactions entered into by independent sovereign states between themselves on the
+plane of international law? It will, in part, but that is not the end of the matter.
+Some of the rights created by the BIT, which is a treaty between the USA and
+
+* He noted that in the Court of Appeal, Ralph Gibson LJ had also held that a claim for an indemnity would
+
+involve considering the agreement of sovereign states in international law, so would be precluded by “act of
+state non — justiciability”: see pages 519 E — F and 522F.
+
+At pages 521E and §22E.
+
+[2004] 1 WLR 807 at 821,
+
+Rv Sec of State for the Home Dept, Ex p Brind [1991] I AC 696; R v Lyons [2003] I AC 976.
+
+At page 822C -H.
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+(subject to editorial corrections}
+
+74.
+
+75.
+
+Ecuador on the plane of international law, are rights that are given to a class of
+entities which exist on the plane of Municipal law, ie. “investors”. In particular, the
+right to arbitrate “investment disputes” as defined in Article VI.1, is given to
+Municipal law entities. That right can be exercised in an arbitral tribunal (set up
+under UNCITRAL arbitration rules) that will be subject to procedural laws
+(UNCITRAL arbitration rules and, if the seat is in England, the 1996 Act), which
+exist on the “Municipal” or “private” or “domestic” law plane. So, although the
+rights have their origin in international law, they are rights that are intended to be
+exercised by Municipal law entities in a tribunal that is subject to control under
+Municipal laws. This, in my view, distinguishes the position in the present case
+from that in The Tin Council case. There the essence of the decision was that the tin
+traders, Municipal law entities, did not have any rights against the member States in
+international law that the court could entertain. In this case, Occidental and Ecuador
+have agreed that rights with their origin in international law will be considered by a
+tribunal whose procedure is subject to Municipal law.
+
+In this regard, it is instructive to note the approach of the Divisional Court in The
+CND v The Prime Minister.” 1n that case the CND sought declaratory relief from
+the court as to the true meaning of the UN Security Council Resolution 1441, and
+more particularly whether that Resolution authorised States to take military action in
+the event of non — compliance by Iraq with its terms. Simon Brown LJ summarised
+the application thus: “Jn short, the court is being invited to declare that the UK
+Government would be acting in breach of international law were it to take military
+action against Iraq without a further Resolution”® — The Court held that it had no
+jurisdiction to declare the true interpretation of an international instrument (the
+Resolution) which had not been incorporated into domestic law “and which it is
+unnecessary to interpret for the purposes of determining a person’s rights or duties
+under domestic law".
+
+In the course of his analysis of the cases and the arguments of Mr Singh QC on behalf
+of the CND, Simon Brown LJ pointed out that all the cases relied on by Mr Singh to
+show that the court had pronounced on some issue of international law were “cases
+where it has been necessary to do so in order to determine rights and obligations
+under domestic law”.** Simon Brown LJ referred to R ex p Abbasi v Sec of State
+Sor Foreign and Commonwealth Affairs [2002] EWCA Civ 1598, R v Home Sec.
+ex p Launder [1997] 1 WLR 839, Rv DPP ex p Kebilene [2002] 2 AC 326 and
+Oppenheimer v Cattermole [1976] AC 249 as all being examples of where the court
+examined an issue of international law in order to determine rights and obligations
+under English law. He noted that in the present case “there is...no point of reference
+in domestic law to which the international law issue can be said to go; there is
+nothing here susceptible of challenge in the way of the determination of rights,
+interests of duties under domestic law to draw the court into the field of international
+
+f Simon Brown LJ later expressed the point thus: “Here there is simply no
+foothold in domestic law for any ruling to be given on international law”.
+
+[2002] EWHC 2759 QB
+
+Para 2 of the judgment.
+
+Conclusion (i) at para 47 of the judgment.
+Para 36.
+
+Para 36.
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+{subject to editorial corrections)
+
+76.
+
+77.
+
+78.
+
+79.
+
+80.
+
+81.
+
+In my view, in this case there is a foothold in domestic law for a ruling to be given on
+international law. That foothold is the right given by section 67 of the 1996 Act to a
+party to an arbitration, whose seat is in England, Wales and Northern Ireland, to
+challenge the jurisdictional ruling of the arbitral tribunal. That is a Municipal, private
+or domestic law right. There is nothing in the 1996 Act to say that it is not available
+in certain circumstances. Even if the 1996 Act is subject to the principles of “non —
+justiciability” in general, the effect of the analysis of Simon Brown LJ in the CND
+case must be that the court is entitled to consider an unincorporated treaty if it has to
+do so in order to determine rights that exist under domestic law.
+
+Secondly, will the court be considering a treaty that is not part of English law? It
+would. But, in my view, it is entitled to do so if it must in order to determine the
+domestic law right of Ecuador to challenge the jurisdictional ruling of the Tribunal.
+
+So far as Lord Oliver’s third principle is concerned, in this case the BIT, although
+unincorporated in English law, is not entirely “res inter alios acta from which
+[individuals] cannot derive rights and by which they cannot be deprived of rights or
+subjected to obligations » 88 Article VI.1, VI.2 and VI.3 does create rights and
+obligations for “individuals” ie. investors. It is the scope of those rights and
+obligations on which the Tribunal has ruled that Ecuador wishes to challenge under
+section 67.
+
+As for Lord Oliver’s analysis of the position in the receivership application in The
+Tin Council case, in my view the situation is again different in the present case. In
+that case Lord Oliver held that the right of indemnity that the receiver would have
+asserted would have been one that only existed (if at all) in international law by virtue
+of ITA 6. The court would not adjudicate on that, because if it existed at all it must
+have been purely on the international law plane and had no reference to any domestic
+law rights or obligations. —_In this case the arbitral Tribunal has already made a
+ruling on the existence of rights that a Municipal law entity (Occidental) has and
+which can be enforced under Municipal law. It is the domestic law right of Ecuador
+to challenge that ruling which leads into a consideration of international law.
+
+I accept that the position in the present case does not fall within the examples that
+Lord Oliver gives when a court can look at or construe a treaty. In particular, it is
+not the same as in the Philippson case. 1 agree with the submission of Mr
+Greenwood that it is an incorrect analysis of the position to suggest that Ecuador and
+Occidental have concluded a Municipal law contract based upon or incorporating the
+terms of the BIT.
+
+But that does not affect my conclusions and analysis set out above. To my mind the
+exercise of examining the terms of the BIT in order to see whether or not to grant a
+right given by section 67 of the 1996 Act is no different in kind to that done by
+Hobhouse J in Dallal v Bank Mellat,”” where he examined the authority of the US —
+Tran claims tribunal, which he held was derived from international law. He did that
+exercise in order to determine whether the claimant in the English proceedings was
+
+At page 500C of the report.
+Although the applicants had, in both the CA and the HL, relied on domestic law analogies to
+
+demonstrate the existence of the right to indemnity by virtue of the terms of ITA 6.
+
+[1986] QB 441.
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+{subject to editorial corrections)
+
+82.
+
+83.
+
+84.
+
+1
+
+entitled to bring a further claim or was prevented from doing so by the defence of
+issue estoppel. In short Hobhouse J considered international law for the purpose of
+determining rights and obligations under domestic law.
+
+Mr Greenwood’s riposte to the argument that section 67 constitutes the domestic law
+right on which a consideration of international law issues can be founded is to say that
+section 67 is itself subject to the principles of “non — justiciability”. Therefore a court
+should refrain from exercising its jurisdiction to consider the right to challenge the
+jurisdiction of the Tribunal, because that would raise “non — justiciable” issues. I
+cannot accept that argument. If it were correct, then, logically, the same must be
+true of the challenge made by Ecuador under section 68 of the 1996 Act.”! It is
+noteworthy that Ecuador alleges that there were serious irregularities in the procedure
+of the Tribunal that affect the Award because, amongst other things, the Tribunal
+“failed to have regard to the principle of international law that international tribunals
+cannot declare the internal invalidity of rules of national law” and that the Tribunal
+exceeded its power by overriding legal proceedings before the Courts of Ecuador.”
+Those appear to me to raise issues of international law and go, once again, to the
+question of the jurisdiction of the Tribunal. But Mr Greenwood accepts that Ecuador
+can mount its section 68 challenge.
+
+Further, if Mr Greenwood is correct, it would mean that the English court could not
+consider a defence to an application, under section 101 of the 1996 Act, to enforce
+an award by a tribunal made under Article VI.3 of this BIT. As I understood him,
+Mr Greenwood accepted that if an award made under VI.3 of the BIT were presented
+to the English court for recognition and enforcement under section 101 of the 1996
+Act, the English Court would be bound to recognise and enforce it unless it upheld
+one of the limited grounds for refusing to do so. But he did suggest that if one of
+those grounds (eg. that in section 103 (2)(d), excess of jurisdiction), raised a
+“justiciability” issue, the court could refuse to apply that ground.” In my view the
+answer to this point is the same. An entity that is challenging the right to enforce an
+award has a statutory right to do so under section 103. The court would be entitled to
+consider the BIT to decide the scope of the arbitration agreement and whether the
+award was within its terms and so determine the rights of the parties granted under
+domestic law.
+
+As for the practical difficulties that Mr Greenwood said would be involved if the court
+did have to consider the challenge to the Tribunal’s jurisdiction and to interpret the
+BIT, I think that they should not be overestimated. The English courts do have to
+interpret international treaties and conventions and when they do they apply the rules
+of interpretation laid down in the Vienna Convention on the Law of Treaties, 1969.
+That is not a reason for refusing to undertake the task, however burdensome. I
+accept that the USA will not be a party to the proceedings, so that the court should be
+slow to rule on the rights and obligations of a state which is not a party to those
+proceedings. But that is a consequence of the structure of dispute resolution
+mechanism set up by Article VI of the BIT and so must have been contemplated by
+
+Occidental’s application of 24 November 2004 did indeed claim that Ecuador’s section 68 application
+
+could not be heard because it offended the principles of “non — justiciability”.
+
+8
+
+Grounds 7(1) and (4) of Ecuador’s Application: B1/TAB 2 pages 17 and 18.
+He relied on a statement of Mance LJ in Dardana v Yukos [2002] 2 Llyd’s Rep 326 at 330 para 8. But
+
+that did not refer to a justiciability issue, but domestic law defences such as estoppel.
+
+Judgment Approved by the court for handing down Republic of Ecuador v Occidental Exploration
+(subject to editorial corrections}
+
+85.
+
+J.
+
+86.
+
+87.
+
+4
+95
+
+the State Parties. And, if need be, the USA could make submissions through
+Occidental or apply to intervene to be heard on relevant points.
+
+I appreciate also that Article VII provides the means whereby the state Parties to the
+BIT can resolve a dispute as to the interpretation or application of the BIT through an
+arbitral tribunal “in accordance with the applicable rules of international law”.**
+But there is no dispute as between the USA and Ecuador, so far as I know. And that
+provision of the BIT cannot detract from the rights given to Occidental to have an
+investment dispute resolved in accordance with the procedures laid down in Article
+VI. That is what it has done and that is what Ecuador wishes to challenge.
+
+Conclusion
+
+For all these reasons,”* I have concluded that the doctrine of non — justiciability does
+not prevent the court from entertaining Ecuador’s application to challenge the
+substantial jurisdiction of the Tribunal under section 67 of the 1996 Act. Indeed, in
+my view it would be odd if the English court could not do so, once the Tribunal had
+chosen London as the seat of the arbitration and had therefore made its procedure
+subject to Part 1 of the 1996 Act.
+
+Accordingly, I must dismiss the application of Occidental dated 24 November 2004,
+which was, effectively, to strike out Ecuador’s application to challenge the Tribunal’s
+substantive jurisdiction under section 67 of the 1996 Act.
+
+Article VII.1
+I should note that Ecuador raised a further argument based on Article 6 of the ECHR, but | did not need
+
+to address that in the light of my conclusions.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

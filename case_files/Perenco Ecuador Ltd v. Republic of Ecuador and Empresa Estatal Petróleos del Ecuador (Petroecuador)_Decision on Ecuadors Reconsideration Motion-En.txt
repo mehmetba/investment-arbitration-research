@@ -1,0 +1,1361 @@
+INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
+
+WASHINGTON, D.C.
+
+In the arbitration proceeding between
+PERENCO ECUADOR LIMITED
+
+Claimant
+
+and
+
+THE REPUBLIC OF ECUADOR
+
+Respondent
+
+ICSID Case No. ARB/08/6
+
+ 
+
+DECISION ON ECUADOR’S RECONSIDERATION MOTION
+
+ 
+
+Members of the Tribunal
+Judge Peter Tomka, President
+Mr. Neil Kaplan, C.B.E., Q.C., S.B.S.
+Mr. J. Christopher Thomas, Q.C.
+
+Secretary of the Tribunal
+Mr. Marco Tulio Montafiés-Rumayor
+
+Date: 10 April 2015
+
+REPRESENTATION OF THE PARTIES
+
+Representing Perenco Ecuador Limited:
+
+Mr. Mark W. Friedman
+Ms. Ina Popova
+
+Mr. Thomas Norgaard
+
+Ms. Sonia Farber
+
+Ms. Terra Gearhart-Serna
+Debevoise & Plimpton LLP
+
+Representing the Republic of Ecuador:
+
+Dr. Diego Garcia Carrién
+Procurador General del Estado
+
+Dra. Blanca Gémez de la Torre
+Directora Nacional de Asuntos
+Internacionales y Arbitraje
+
+and
+
+Mr. Eduardo Silva Romero
+
+Mr. Pierre Mayer
+
+Mr. José Manuel Garcia Represa
+Mr. Philip Dunham
+
+Ms. Maria Claudia Procopiak
+Ms. Audrey Caminades
+
+Mr. Timothy Lindsay
+
+Dechert LLP
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I. Introduction 1
+A. Procedural History. 1
+B. Summary of the Motion 1
+
+Il. The provisions of the ICSID Convention, the ICSID Arbitration Rules and other authorities
+
+invoked by Ecuador 4
+
+Ill. The legal framework governing the Motion ..........0c ccc eeeeseeeeeseeeeeeteeeteeeeeneeeneneee 8
+A. Article 52 of the Convention 8
+B. The other provisions of the Convention and Arbitration Rules ........0.0.c eee 10
+
+(i) _ Post-award procedures open to a tribunal upon the application of a party...........0... 10
+(ii) Article 51 of the Convention 11
+(iii) Article 49 of the Convention 13
+(iv) Article 49(2) of the Convention, first IMD 0.0.0.0. eee este ee tees teeeneeeeeneee 15
+(v) Article 49(2) of the Convention, second ]imb .........cceeeeeeeeeeeee eee tees eeeeneneeeneee 16
+(vi) Arbitration Rule 38 17
+(vii) Arbitration Rule 25 18
+(viii) Article 44 of the Convention 18
+
+IV. _ The “serious departure from a fundamental rule of procedure” complaints............0.0.005 21
+
+V. Conclusion 23
+
+VI. Decision 23
+
+ 
+
+L Introduction
+
+A. Procedural History
+
+1. On 12 September 2014, the Tribunal issued its Decision on Remaining Issues of
+Jurisdiction and on Liability (the “Decision”).
+
+2. By letters dated 22 October and 7 November 2014, Ecuador indicated its intent to submit
+a Motion for Reconsideration (the “Motion”) of the Decision. By letters dated 29 October and 11
+November 2014, Perenco opposed any such motion, arguing that the Decision had decided the
+issues in dispute addressed within it and that the Tribunal lacked any power under the ICSID
+Convention to reopen what it had previously decided.
+
+3. In Procedural Order No. 11 dated 14 November 2014, the Tribunal allowed Ecuador’s
+request for leave to file a Motion for Reconsideration, subject to the following:
+
+a
+
+Ecuador’s Motion was to be filed no later than 15 December 2014;
+
+b) The Tribunal would not, at that stage, fix a subsequent briefing schedule on the
+Motion;
+
+c
+
+The Tribunal emphasised that it had already issued a reasoned Decision; that under
+the ICSID Convention and the Arbitration Rules no appeal is provided for, and that
+only in exceptional circumstances would it be open for the Tribunal to reconsider its
+prior reasoned decisions;
+
+d
+
+Ecuador was directed to focus its Motion on the existence of those exceptional
+circumstances which would justify the reconsideration of the Tribunal’s Decision.
+
+4. By agreement of the Parties, notified to the Tribunal on 11 December 2014, the deadline
+for the filing of Ecuador’s Motion for Reconsideration was extended to 19 December 2014.
+Ecuador duly submitted its Motion on 19 December 2014, accompanied by the fifth Expert
+Report of Juan Pablo Aguilar Andrade and its annexes, | factual exhibit (E-376) and 60 legal
+authorities (EL-204 to EL-264).
+
+B. Summary of the Motion
+
+5. In its Motion, Ecuador submits that the Tribunal has the power to reopen and amend its
+Decision and that it must exercise this power in the present case because of the “repeated
+instances of the [Tribunal’s] omitting to determine issues put to it, violating fundamental rules of
+procedure, manifestly exceeding its powers and failing to state the reasons on which the
+[Decision] is based.”! In its view, this renders the Tribunal’s findings as to its jurisdiction over
+the treaty and contract claims, and its findings as to Ecuador’s breaches of the Participation
+Contracts and of the Treaty “fundamentally and fatally flawed.”? It seeks from the Tribunal a
+
+Motion for Reconsideration (hereinafter “Motion”), para 3.
+2 Motion, para 3.
+1
+
+decision amending the Decision’s findings on jurisdiction and the merits, and an order
+bifurcating the Motion and staying the Quantum phase of the arbitration during the pendency of
+the Tribunal’s consideration of its application.*
+
+6. At paragraph 3(c) and (d) of Procedural Order No. 11, the Tribunal noted that “only in
+exceptional circumstances would it be open for the Tribunal to reconsider its prior reasoned
+decisions” and it accordingly directed Ecuador to focus its Motion “on the existence of those
+exceptional circumstances which would justify reconsideration” of the Decision. Ecuador
+submits that those “exceptional circumstances” exist where it can establish any of the grounds
+for reversal found in the ICSID Convention and the ICSID Arbitration Rules or when it is
+otherwise in the interests of justice. Ecuador submits that in each instance under the Convention
+and Rules, “the power to reopen and amend and/or reverse an extant decision is exercised
+exceptionally.”°
+
+7. Ecuador submits further that, contrary to the majority’s holding in ConocoPhillips v.
+Venezuela in a similar request for reconsideration, decisions preceding what Ecuador calls a
+“Convention award” do not have res judicata effect and the legal consequences that ensue from
+such status.° It cites in support of this position a statement made by Professor Schreuer with
+respect to Article 51 of the Convention, which addresses a tribunal’s power of revision, and
+where he states that while the procedure for revision was designed for situations in which the
+tribunal has terminated its activity and issued a final award, “[a] tribunal that is still in session
+can always revise its preliminary decisions informally.””
+
+8. As shall be seen in further detail below, Ecuador also relies upon certain Convention and
+Arbitration Rules provisions that permit tribunals to take certain steps in relation to their awards
+as well as the provisions of Article 52 which allow a party to seek the annulment of an award.*
+Amongst the grounds of annulment contained in Article 52, the Motion relies principally on
+three grounds: manifest excess of powers, serious departure from a fundamental rule of
+procedure and failure by a tribunal to state the reasons upon which its award is based.? Ecuador
+submits in relation to the three grounds that the standard of review that the Tribunal ought to
+apply to its Motion “‘is not the post-award annulment standard” but a lesser standard that should
+be applicable to the grounds of review before proceedings are closed:
+
+3 Motion, paras 2-3, 295-298.
+
+4 Motion, paras 14-15. At para 14, Ecuador states: “The Arbitral Tribunal therefore requested in
+Procedural Order No. 11 that Ecuador focus this Motion on the existence of those ‘exceptional
+circumstances’ which would justify the reconsideration of the [Decision].”
+
+5 Motion, para 15 [Italics in original, underlining emphasis added].
+
+Motion, paras 17-19.
+
+7 Motion, para 26, referring to C. Schreuer, L. Malintoppi, A. Reinisch, A. Sinclair, The ICSID
+Convention A Commentary, Cambridge University Press, 2nd Edition, paras 4-5 (EL-199).
+
+Motion, paras 19-60. At para 60, Ecuador asserts: “[E]ach of the grounds of annulment is an
+exceptional circumstance justifying the reversal of a Convention award, a remedy reserved for the most
+serious errors undermining the validity and legitimacy of Convention awards. It must necessarily follow
+that, upon a showing of such an error prior to the making of a Convention award, a tribunal has the power
+to reopen, amend and/or reverse a decision preliminary to a Convention award.”
+
+Motion, paras 29-60.
+
+6
+
+2
+
+“Pre-award, the error identified need not be to the heightened ‘manifest’, ‘gross’,
+‘egregious’ or ‘obvious’ standard. Rather, it is appropriate, and the purposes of the
+Convention require at this earlier stage, that a showing of any error is sufficient, in
+order that a tribunal ‘achieve _its il l_task_of arriving at a correct
+decision.””'° [Underlining added, italics in original.]
+
+9. In sum, Ecuador submits that the Tribunal can and ought to reopen and amend and/or
+reverse the Decision if it establishes that the Motion meets any of the grounds for reopening an
+Award or reviewing a decision prior to the making of an Award as set out in the Convention
+and/or the Arbitration Rules or where it is otherwise in the interests of justice to do so.'!
+
+10. Turning to the findings of the Decision that Ecuador submits should be reconsidered,
+Ecuador contends in turn:
+
+11. First, that the Tribunal should reconsider its finding of jurisdiction over Perenco’s claim
+that Ecuador breached the Block 21 Participation Contract when it declared caducidad because
+its holding allegedly contradicts its Decision on Jurisdiction and in so doing amounts to a
+manifest excess of power, a serious departure from a fundamental rule of procedure, and a failure
+to satisfy the requirement to state the reasons on which the Decision is based.'”
+
+12. Second, the Tribunal should reconsider its finding that Perenco was controlled by French
+nationals at the material time and that the Tribunal accordingly has jurisdiction over Perenco’s
+treaty claims, because it was allegedly arrived at in violation of Ecuador’s right to fair and equal
+treatment, due to the Tribunal’s committing a serious departure from a fundamental rule of
+procedure. '3
+
+13. Third, the Tribunal should reconsider its finding that Ecuador’s non-compliance with its
+prior Decision on Provisional Measures amounted to a breach of contract because the Tribunal
+allegedly omitted to decide the question of whether its recommendations in that Decision were
+decisions for the purposes of Clause 22.2.2 of the Participation Contract, failed to state the
+reasons upon which its finding was based, and its finding contradicts its Decision on Provisional
+Measures. '+
+
+14. Fourth, that the Tribunal should reconsider its interpretation of the exceptio non adimpleti
+contractus defence as a result of which it found that defence was open to Perenco in order to
+suspend operations in the Blocks. In this regard, this decision was said to have been arrived at as
+a result of the Tribunal’s having committed a manifest excess of powers, a serious departure
+from a fundamental rule of procedure, and a failure to state the reasons on which the Decision
+was based. !°
+
+10 Motion, paras 109-113 [italics in original], citing Swez, Sociedad General de Aguas de Barcelona,
+
+S.A, and Vivendi Universal S.A. v Argentine Republic (ICSID Case No. ARB/03/19), Order in Response
+
+to a Petition for Transparency and Participation as Amicus Curiae, 19 May 2005, para 11 (EL-257).
+Motion, paras 14-113, in particular, paras 98 and 113.
+
+2 Motion, paras 114-147.
+
+8 Motion, paras 148-159.
+
+4 Motion, paras 160-182.
+
+IS Motion, paras 183-204.
+
+15. Fifth, the Tribunal should reconsider its finding that Decree 662 breached the
+Participation Contracts because the finding allegedly discloses a manifest excess of powers in the
+interpretation and application of the jus variandi power, is contradictory to the Tribunal’s
+previous finding in the Decision that Law 42 at 50% did not amount to a breach of the
+Participation Contracts, and that Law 42 at 99% did not amount to an expropriation in breach of
+the Treaty, and it was arrived at arbitrarily.'°
+
+16. Sixth, that the Tribunal should reconsider its finding that the application of Decree 662 to
+Perenco as well as the ensuing measures breached Article 4 of the Treaty because, in Ecuador’s
+view, Decree 662 did not breach the Participation Contracts, the finding is contradicted by the
+Tribunal’s earlier finding in the Decision that Law 42 at 50% did not amount to a breach of the
+Treaty, and it was arrived at arbitrarily.'”
+
+17. Seventh, the Tribunal’s finding that Ecuador’s declaration of caducidad breached the
+Block 21 Participation Contract and affected an expropriation of Perenco’s contractual rights
+should be reconsidered because it allegedly contains a serious departure from a fundamental rule
+of procedure and was arrived at by the Tribunal having manifestly exceeded its powers. !*
+
+Il. The provisions of the ICSID Convention, the ICSID Arbitration Rules and other
+authorities invoked by Ecuador
+
+18. Ecuador refers to the following provisions of the ICSID Convention and the ICSID
+Arbitration Rules in support of its Motion. They are listed in the order of their citation by
+Ecuador:
+
+(i) Article 49(2), which permits a tribunal to, at the request of a party, decide any
+question which it had omitted to decide in its award or rectify any clerical,
+arithmetical or similar error in the award;!°
+
+(ii) Article 51, which permits a tribunal to revise its award on the ground of the
+discovery of some fact of such a nature as decisively to affect the award;”°
+
+(iii) — Article 52, which permits a party to request the establishment of an ad hoc
+Annulment Committee to seek annulment of an award under one or more of five
+grounds;7!
+
+(iv) — Arbitration Rule 38(2), which permits a tribunal, after closure of the proceedings
+but before the rendering of the award, to reopen the proceeding on the ground that
+new evidence is forthcoming of such a nature as to constitute a decisive factor, or
+that there is a vital need for clarification on certain specific points;”
+
+  
+
+  
+
+16 Motion, paras 205-240.
+7 Motion, paras 241-264.
+18 Motion, paras 265-283.
+9 Motion, paras 20-24.
+20 Motion, paras 25-28.
+21 Motion, paras 29-60.
+2 Motion, paras 61-71.
+
+(v) Arbitration Rule 25, which provides that any accidental error in any instrument or
+supporting document may with the consent of the other party or by leave of the
+tribunal, be corrected at any time before the award is rendered;”° and
+
+(vi) Article 44, which provides that if any question of procedure arises which is not
+covered by Section 3 of the Convention and, except as the parties otherwise agree,
+in accordance with the Arbitration Rules in effect, the tribunal shall decide the
+question.
+
+19. Ecuador submits that “[i]n each case, the power to reopen and amend and/or reverse an
+extant decision is exercised exceptionally, in order to ensure the validity and legitimacy of the
+ICSID arbitration process and, ultimately, the finality of Convention awards.” Ecuador asserts
+further that whilst Article 44 provides a “textual foothold” for the tribunal’s power “to take
+measures to preserve the integrity of its proceedings”, as noted by the Hrvatska tribunal in its
+tuling regarding the participation of David Mildon QC in further stages of the proceedings, “that
+power is in fact inherent.”*° Ecuador submits that this “inherent power most obviously and
+profoundly manifests itself in an overarching exceptional circumstance in which it is not only
+appropriate but necessary for a tribunal to reverse its decision: where such action is in the
+‘interest of justice’.”*’ Jurisprudence of the European Court of Human Rights is cited in support
+of the proposition that even if the applicable convention or court rules do not provide for the
+reopening of a court’s decision, this may be done in the interests of justice.”*
+
+20. Other cases, in particular Abaclat v. Argentine Republic and Churchill Mining v.
+Indonesia, are cited as examples of where tribunals have exercised their powers under Article 44
+to tailor the proceeding to special circumstances; in the former case the tribunal was said to have
+“used its Article 44 powers in a profoundly important way so as to affect the rights of 60,000
+investors and Argentina””’, and in the latter case the tribunal found that “Article 44 permitted it
+to reopen and reverse an earlier procedural order denying bifurcation of a preliminary issue.”*°
+
+21. Finally, Ecuador attaches particular significance to the “powerful dissenting opinion” of
+Professor Georges Abi-Saab in the case of ConocoPhillips v. Venezuela.*' In that case, the
+Tribunal was also presented with a request for reconsideration of its earlier decision. The
+majority denied the request on two bases, the first being that there was no power under the
+
+23 Motion, paras 72-75.
+
+a4 Motion, paras 76-94.
+
+Motion, para 15 [Emphasis in original].
+
+Motion, paras 95-98, discussing Hrvatska Elektroprivreda, d.d. v The Republic of Slovenia,
+ICSID Case No. ARB/05/24, Tribunal’s Ruling regarding the participation of David Mildon QC in further
+stages of the proceedings, 6 May 2008, para 33 (EL-262).
+
+7 Motion, para 97 [Emphasis in original].
+
+28 Storck v. Germany, ECHR, No. 61603/00, Decision on Admissibility, 26 October 2004, p 14 (EL-
+203) and Des Fours Walderode v. The Czech Republic (dec.), ECHR, NO. 40057/98, ECHR 2004-V, p 6
+(EL-264).
+
+2 Motion, paras 82-85, 89, 92, 94 [Emphasis in original].
+
+30 Motion, paras 86-89, 92, 94.
+
+at Motion, paras 91-92, 99-100.
+
+ICSID Convention to entertain such a request and the second being that the findings made by the
+tribunal in its prior decision were res judicata.*? Professor Abi-Saab disagreed.**
+
+22. The Tribunal will examine each of the provisions cited by Ecuador as well as pay
+particular attention to the ConocoPhillips decision and dissenting opinion in view of the
+relevance of that case to the present Motion.
+
+23. The Tribunal begins by noting the purposes for which the foregoing articles and rules
+have been cited by Ecuador:
+
+(i) Article 49(2): This is cited for the proposition that the need to decide any question
+which the tribunal omitted to decide in the award and the need to make clerical,
+arithmetical or similar errors “are exceptional circumstances which permit the
+reopening of a res judicata Convention award.”**
+
+(ii) Article 51: The “relevant point for present purposes is that the right of revision
+pursuant to Article 51 is an exceptional remedy, permitting a tribunal to reopen
+and amend a Convention award where a new fact arises of such a nature as
+‘decisively to affect the award’.”*
+
+(iii) — Article 52: This is said to be relevant because annulment “proceedings serve ... to
+validate and ratify the legitimacy of the ICSID dispute settlement system”*°
+Indeed, in Ecuador’s view, “‘such is the systemic importance of preventing such
+errors, reversal is justified even where the error was not “determinative of the
+claim.”*" It continues: “reconsideration of a decision preliminary to a Convention
+award will be appropriate, in order to safeguard the validity and legitimacy of the
+ICSID Convention and indeed such Convention awards themselves, where the
+grounds for annulment of such preliminary decision are made out.”**
+
+(iv) — Arbitration Rule 38: “As with the ability to revise, rectify and annul Convention
+awards, Rule 38 is a mechanism in the Arbitration Rules that is designed to assure
+the validity, legitimacy and finality of a Convention award by permitting a
+tribunal to correct problems that would undermine its correctness.”*? Ecuador
+adds that “as is evident from the terms of the Rule, the threshold for a tribunal’s
+intervention and reopening of a proceeding pursuant to Rule 38 (new evidence of
+
+2 ConocoPhillips Petrozuata B.V., ConocoPhillips Hamaca B.V. and ConocoPhillips Gulf of Paria
+B.V. v. Bolivarian Republic of Venezuela, 1CSID Case No. ARB/07/30, Decision on Respondent’s
+Request for Reconsideration, 10 March 2014 (“ConocoPhillips Majority Decision”) (EL-201); Motion,
+paras 18 and 90.
+
+38 ConocoPhillips Petrozuata B.V., ConocoPhillips Hamaca B.V. and ConocoPhillips Gulf of Paria
+B.V. v. Bolivarian Republic of Venezuela, ICSID Case No. ARB/07/30, Dissenting Opinion of Georges
+Abi-Saab (“ConocoPhillips Dissenting Opinion”) (EL-200); Motion, paras 91 and 92.
+
+M Motion, paras 20-24.
+
+Motion, paras 25-28 [Emphasis in original].
+
+Motion, para 34 [Emphasis in original], more generally, see paras 29-60.
+
+Motion, para 34 [Emphasis in original].
+
+Motion, para 35 [Emphasis in original].
+
+Motion, para 70.
+
+such a nature as to constitute a ‘decisive factor’ or a ‘vital need for clarification’)
+is clearly lower than the threshold of annulment of an award under Article 52.”*°
+
+(v) Arbitration Rule 25: This deals with accidental errors in any instrument or
+supporting document which may be corrected with consent of the other party or
+by leave of the Tribunal at any time up to the rendering of the award. Thus,
+according to Ecuador, “prior to the rendering of a Convention award, provisions
+such as Rule 25 bestow[s] upon the Arbitral Tribunal the power to permit
+significant amendments and corrections to the record.”4! For example,
+“Ti]ncorrect numbers in documents and discrepancies between two versions of the
+same document in a dual-language arbitration are situations which may give
+grounds for correction under Rule 25.”
+
+(vi) Article 44: Article 44 is said to confer “a wide residual discretion to decide
+procedural issues not covered by Chapter IV (Arbitration), Section 3 (Powers and
+Functions of the Tribunal) of the Convention, the Arbitration Rules or any other
+rules agreed by the parties.”*? At another point in the Motion it is said that the
+article confers upon the tribunal “prior to the closure of proceedings and rendering
+of a Convention award ... the widest possible powers to conduct the arbitration
+proceedings.”#
+
+Article 44’s precise relevance to the current Motion lies in Ecuador’s submission
+that: “...the matter of procedure this Arbitral Tribunal is called on to determine is
+whether it can, in the absence of an express procedural rule in the Convention or
+the Rules (or agreement of the Parties), reopen and amend the Decision on
+Jurisdiction and_Liability and, if so, in what circumstances. Once it has
+determined that matter of procedure, the Arbitral Tribunal is free to act in
+accordance with the procedure so determined.”*
+
+ 
+
+The Tribunal agrees with Ecuador that the threshold question is “whether [the Tribunal]
+can, in the absence of an express procedural rule in the Convention or the Rules (or agreement of
+the Parties), reopen and amend the Decision on Jurisdiction and Liability.” The second question
+posed by Ecuador in the passage quoted above (“and, if so, in what circumstances?”) arises only
+if the first question is answered in the affirmative.
+
+1946 947
+
+24. The Tribunal further notes that while terms such as “correction’ “rectification’
+“revision’*® and “reopen’’*? are employed in the various provisions invoked by Ecuador, what
+one does not find are terms such as “reconsider” or “reverse”, the terminology used by Ecuador
+
+Motion, para 70 [Emphasis in original].
+Motion, para 75.
+
+Motion, para 73.
+
+Motion, para 78.
+
+Motion, para 93.
+
+Motion, para 89 [emphasis added].
+
+46 Arbitration Rule 25.
+
+“ ICSID Convention, Article 49.
+
+6 ICSID Convention, Article 51.
+
+° Arbitration Rule 38.
+
+in its Motion.’ In this regard, the Tribunal recalls that Article 53 of the Convention states an
+award “shall not be subject to any appeal or to any other remedy except those provided for in this
+Convention.”
+
+25. Having set out the various provisions of the Convention and Arbitration Rules and the
+rationales provided by Ecuador for citing such provisions, the Tribunal will now examine each in
+turn.
+
+Il. The legal framework governing the Motion
+
+26. In performing its own review of the provisions cited by Ecuador, the Tribunal will not
+follow Ecuador’s ordering of the provisions, but it will address each in the course of its analysis.
+
+A. Article 52 of the Convention
+
+27. The Tribunal begins with annulment because this figures prominently in the Motion. It is
+appropriate to begin by differentiating between the powers conferred upon a tribunal as it
+proceeds through the course of an ICSID arbitration, and the powers conferred on an ad hoc
+Annulment Committee established to review the tribunal’s award after it has completed its work.
+
+28. Ecuador has reviewed the findings of various annulment committees to remind the
+Tribunal of the ways in which annulment committees have treated various transgressions of the
+grounds of Article 52(1) alleged to have been committed in the Decision.
+
+29. The Motion observes that “the most exceptional circumstances permitting the reopening
+and amendment and/or reversal of a Convention award” are the grounds for annulment.*! It
+draws from an extensive review of annulment committee consideration of the grounds listed in
+Article 52 that:
+
+“... each of the grounds of annulment is an exceptional circumstance justifying the
+reversal of a Convention award, the remedy reserved for the most serious errors
+undermining the validity and legitimacy of Convention awards. It must necessarily
+follow that, upon a showing of such an error prior to the making on a Convention
+award (sic), a tribunal has the power to reopen, amend and/or reverse the decision
+preliminary to a Convention award.”>*
+
+30. The Tribunal does not agree that it necessarily follows that upon the showing of an error
+prior to the making of an award, a tribunal has the power to reopen, amend and/or reverse the
+decision preliminary to the award. To the contrary, a tribunal’s power to “reopen, amend and/or
+
+50 For “reconsider”, see paras 2, 3, 11, 12, 13, 14, 15, 16, 35, 47, 51, 94, 97 et seq. For “reverse”,
+see paras 11, 15, 60, 71, 93, 97, 101, 102, 104, 105, 109, 165, 206 et seq. The term “reconsider” is only
+used in the Arbitration Rules in a specific context in Rule 55: “If a Committee annuls parts or all of an
+award, either party may request the resubmission of the dispute to a new Tribunal... If the original award
+had only been annulled in part, the new Tribunal shall not reconsider any portion of the award not so
+annulled.” [Emphasis added.] The term “reverse” is not used in Chapter IV (Arbitration) of the
+Convention or in the Arbitration Rules.
+
+St Motion, para 29.
+
+Motion, para 60.
+
+reverse” must first be shown to exist under the Convention before such power can be exercised
+and its existence cannot be inferred from the fact that the Convention contains an annulment
+procedure.
+
+31. The Tribunal also observes that although Ecuador has argued that the errors that the
+Tribunal is said to have committed are so serious as to constitute grounds for annulment, later on
+in the Motion, Ecuador shifts gears and argues that the “the standard of review that the Arbitral
+Tribunal ought to apply when determining whether to re-open and amend and/or reverse one or
+more of its earlier decisions must_necessarily be lower in pre-closing circumstances than the
+standard of review at the post-award annulment stage (or even in post-closing circumstances).”>?
+It argues further that the “the Convention provides that the earlier in the proceedings a request
+for reopening is made, the lower the standard of review.”**
+
+32. The Tribunal does not accept this argument. It has been told that each of the alleged
+defects in its Decision is a ground for annulment, yet it is then told that it ought to apply a less
+rigorous standard for reviewing its own work than an annulment committee would apply. In the
+Tribunal’s view, this is not persuasive. Either a tribunal commits an error which may constitute a
+ground for annulment, or it does not. On well-established practice and principle, if a tribunal
+commits some sort of error which falls short of providing a ground for annulment, the award
+stands (leaving to one side, as discussed below, the tribunal’s exercising any power to correct,
+interpret or revise the award — if the conditions for taking any of those actions are met).
+
+33. The Tribunal also considers that the allocation of roles and responsibilities in the ICSID
+system means that when deciding a claim, a tribunal should avoid taking on the role of
+simultaneously acting as if it were an annulment committee sitting in judgement of its own work.
+As intended by the Convention, the roles are different and must remain separate. Each body must
+discharge the mandate that it is given pursuant to the Convention and it is in principle wrong to
+mix the two. Just as many annulment committees have emphasised Article 53’s injunction that
+the award “shall not be subject to any appeal” and therefore have refused to enter into a
+consideration of the correctness of a tribunal’s legal reasoning>>, a tribunal equally cannot, in a
+
+Motion, para 109.
+
+4 Motion, para 112 [Emphasis added].
+
+This is well established. See Compafiia de Aguas del Aconquija S.A. and Vivendi Universal
+(formerly Compagnie Générale des Eaux) v. Argentine Republic, \CSID Case No. ARB/97/3, Decision on
+Annulment, (Yves Fortier, President, Professor James Crawford, Professor José Carlos Fernandez Rozas,
+Members), para 62: “Although the issue of the proper role of an annulment committee in the ICSID
+system must necessarily inform the analysis and the conclusions of this Committee, relatively little needs
+to be said about the issue for the reason that there seems to be little disagreement between the parties.
+Claimants and Respondent agree that an ad hoc Committee is not a court of appeal and that its
+competence extends only to annulment based on one or other of the grounds expressly set out in Article
+52 of the ICSID Convention. It also appears to be established that there is no presumption either in favour
+of or against annulment, a point acknowledged by Claimants as well as Respondent.” Patrick Mitchell v.
+The Democratic Republic of Congo, ICSID Case No. ARB/99/7, Decision on the Application for
+Annulment of the Award, (Antonias Dimolitsa, President, Robert S.M. Dissoupara and Professor Andrea
+Giardina, Members), para 19: "The ad hoc Committee considers it appropriate to discuss briefly its role
+within the annulment system established by Article 52 of the Washington Convention. No one has the
+slightest doubt — all the ad hoc Committees have so stated, and all authors specializing in the ICSID
+arbitration system agree — that an annulment proceeding is different from an appeal procedure and that it
+
+ 
+
+phased arbitration, hold the sword of Damocles above its head and second-guess itself as to
+whether it has manifestly exceeded its powers, seriously departed from a fundamental rule of
+procedure, and so on.
+
+34. The Tribunal therefore finds that the alleged basis for a tribunal power to “reopen, amend
+and/or reverse” is not to be inferred from the existence of an annulment procedure.
+
+B. The other provisions of the Convention and Arbitration Rules
+
+35. The Tribunal will now turn to the other provisions to which Ecuador has referred.
+
+36. The Tribunal begins by expressing its view that these provisions, to the extent that they
+deal with reopening an award (which for present purposes will be assumed to include a decision),
+do not take Ecuador’s Motion very far. The real issue is not whether an award can be rectified to
+correct a clerical error, for example, but rather whether an award can be revised (going so far as
+to be reversed, which is what Ecuador seeks in the present circumstances).*°
+
+37. There is a vast difference between reopening an award to correct a clerical error or to
+decide a question which the tribunal omitted to decide and revising an award. The grounds are
+entirely different and in particular, the single ground for revising an award in Article 51 of the
+Convention is specific and narrowly worded.
+
+(i) Post-award procedures open to a tribunal upon the application of a party
+
+38. The Convention contains three procedures that permit a party to revert to the tribunal
+after its award is issued:
+
+(i) the tribunal has the power under Article 49 to, at the request of a party,
+decide any question which it had omitted to decide in the award or to rectify any
+clerical, arithmetical or similar error;
+
+(ii) the tribunal has the power to interpret the award under Article 50; and
+
+ 
+
+does not entail the carrying out of a substantive review of an award.” MTD Equity Sdn. Bhd. and MTD
+Chile S.A. v. Republic of Chile, 1CSID Case No. ARB/O1/7, Decision on Annulment, (H.E. Judge Gilbert
+Guillaume, President, Professor James Crawford and Dr. Sara Orddiiez Noriega, Members), para 31:
+“Under Article 52 of the ICSID Convention, an annulment proceeding is not an appeal, still less a retrial;
+it is a form of review on specified and limited grounds which take as their premise the record before the
+Tribunal.” Hussein Nuaman Soufraki v. United Arab Emirates, ICSID Case No. ARB/02/7, Decision of
+the Ad Hoc Committee on the Application for Annulment of Mr. Soufraki, (Judge Florentino P. Feliciano,
+President, Mr. Omar Nabulsi and Professor Brigitte Stern, Members), para 20: “It is not contested by the
+parties that the annulment review, although obviously important, is a limited exercise, and does not
+provide for an appeal of the initial award. In other words, it is not contested that “... an ad hoc committee
+does not have the jurisdiction to review the merits of the original award in any way. The annulment
+system is designed to safeguard the integrity, not the outcome, of ICSID arbitration proceedings.” Wena
+Hotels LTD. V. Arab Republic of Egypt, \CSID Case No. ARB/98/4, Annulment Proceeding,
+(Konstantinos D. Kerameus, President, Professor Andreas Bucher and Professor Francisco Orrego
+Vicuiia, Members), para 18: “As has been stated in earlier published decisions made on requests for
+annulment of ICSID awards, the remedy of Article 52 is in no sense an appeal.”
+
+56 The Motion requests reversal of the Decision at paras 15, 60, 71, 86, 93, 97, 101, 102, 104, 105,
+109, 165, 206, 211, 236, 243, 248, 249, 260, 285-289, and 291.
+
+10
+
+(iii) the tribunal has the power to revise the award under Article 51 on the
+ground of discovery of some fact of such a nature as decisively to affect the award.
+
+39. Two of these three methods can be put to one side. Ecuador’s Motion does not seek an
+interpretation under Article 50. Ecuador has also acknowledged that Article 51 cannot apply to
+the present Motion:
+
+“The Article 51 procedure, as Ecuador has previously pointed out, is not available
+with respect to decisions preliminary to a Convention award such as the Decision
+on Jurisdiction and Liability. Indeed, as Prof. Schreuer expressly points out, the
+Article 51 procedure is not available with respect to ‘decisions on jurisdiction’
+and like decisions preliminary to Convention awards—which the Decision on
+Jurisdiction and Liability undoubtedly is.”*”
+
+ 
+
+40. This is undoubtedly correct. But in conceding that Article 51 is not available and putting
+it to one side, Ecuador’s Motion tends to obscure a crucial point.
+
+(ii) Article 51 of the Convention
+
+Al. In the Tribunal’s view, it is important to note that of the three post-award procedures
+available, the only one that permits a tribunal to revise the award is Article 51 and the only
+ground for engaging in such revision is the “discovery of some fact of such a nature as decisively
+to affect the award, provided that when the award was rendered that fact was unknown to the
+Tribunal and to the applicant and that the applicant’s ignorance of that fact was not due to
+negligence.”**
+
+42. This strongly suggests that once the tribunal has decided the issues before it, its decision
+becomes res judicata and cannot be revised unless a very specific situation which calls out for
+the tribunal to revisit its prior findings is presented. As shall be seen, the tribunal can take other
+post-award steps, but when it comes to revision, it can only do so in a single, specific instance.
+
+43. There is ample prior authority in support of the view once the tribunal decides with
+finality any of the factual or legal questions put to it by the parties, as was the case in the
+Decision on Remaining Issues of Jurisdiction and Liability, such a decision becomes res
+judicata.
+
+44. In the CMS Gas Transmission v. Argentine Republic Award, the tribunal commented:
+
+“Tt must also be noted that in connection with the merits the Respondent has again
+raised certain jurisdictional issues that were addressed in the jurisdictional phase of
+the case such as the jus standi of the Claimant. These issues were decided upon at
+that stage and will not be reopened in this Award.”*?
+
+7 Motion, para 27, quoting from Schreuer et al, paragraphs 4-5 (EL-199).
+58 Convention, Article 51(1); see also, Arbitration Rule 50(1)(c)(ii).
+» CMS Gas Transmission v. Argentine Republic Award, para 126 (Professor Francisco Orrego
+Vicuiia, President, the Honourable Mare Lalonde PC, OC, QC and H.E. Judge Francisco Rezek,
+Arbitrators).
+
+11
+
+45. In the Waste Management Inc. v. United Mexican States (Waste Management II)
+Decision on Mexico's Preliminary Objection concerning the Previous Proceedings (a case
+conducted under the ICSID Additional Facility Rules rather than the Convention) the tribunal
+stated:
+
+“In cases where the same issue arises at the level of jurisdiction and of merits, it
+may be appropriate to join the jurisdictional issue to the merits. But at whatever
+stage of the case it is decided, a decision on a particular point constitutes a res
+judicata as between the parties to that decision if it is a necessary part of the
+eventual determination and is dealt with as such by the tribunal.”°°
+
+46. In the Electrabel S.A. v. Republic of Hungary Decision on Jurisdiction, Applicable Law
+and Liability, the tribunal noted:
+
+“This Decision is made in regard only to the first phase of these arbitration
+proceedings, relating to extant issues of jurisdiction and liability; and it is not made
+in regard to any issue of quantum (including interest). Although necessarily
+described as a ‘Decision’ and not an ‘Award’ under the ICSID Convention and
+ICSID Arbitration Rules, the several decisions and reasons contained in this
+Decision are intended by the Tribunal to be final and not to be revisited by the
+Parties or the Tribunal in any later phase of these arbitration proceedings.”*!
+
+47. Finally, in the ConocoPhillips v. Venezuela Decision on Respondent’s Request for
+Reconsideration, the tribunal stated:
+
+“As noted, the Respondent characterises the Decision as “interim” or “preliminary”
+and, accordingly, capable of being reconsidered, perhaps on an informal basis. The
+only reason suggested in its submissions is the temporal one: a further stage in the
+proceedings, relating to quantum, remains. The Decision does not however take an
+interim or preliminary form in respect of the matters on which it rules.”
+
+And:
+
+“Those decisions in accordance with practice are to be incorporated in the Award.
+It is established as a matter of principle and practice that such decisions that resolve
+points in dispute between the Parties have res judicata effect. ‘They are intended to
+be final and not to be revisited by the Parties or the Tribunal in any later phase of
+their arbitration proceedings.”
+
+60 Waste Management Inc. v. United Mexican States (Waste Management II), \CSID Case No.
+
+ARB(AF)/00/3, Decision on Mexico's Preliminary Objection concerning the Previous Proceeding, para
+45. (Professor James Crawford, President, Benjamin R. Civiletti and Eduardo Magallén Gémez,
+Arbitrators.)
+
+Electrabel S.A. v. Republic of Hungary, 1CSID Case No. ARB/O7/19, Decision on Jurisdiction,
+Applicable Law and Liability, 30 November 2012, (V.V. Veeder, President, Professor Gabrielle
+Kaufmann-Kohler and Professor Brigitte Stern, Arbitrators.), para 10.1
+e ConocoPhillips Decision, para 20.
+
+63 Id., para 21.
+12
+
+48. The Tribunal recognises that Ecuador takes issue with the ConocoPhillips decision.“
+Nevertheless, with respect to the proposition for which it has just been cited, it fits within a well-
+established view as to the effect to be given to decisions made during the course of a phased
+arbitration such as the present one.
+
+49. Reverting to Article 51, the Tribunal further notes that the “decisively affect the award”
+test sets a very high standard with respect to the kind of fact that could justify reopening the
+tribunal’s prior evaluation of the evidence and the legal conclusions that it reached.
+
+50. In the Tribunal’s view, even if Article 51 were applicable in the present circumstances in
+temporal terms — which Ecuador concedes is not the case — it could be triggered only by the
+discovery of a new potentially decisive fact. There is no such fact put before the Tribunal in the
+present Motion. Indeed, in the Tribunal’s view, the seminal facts in this case are not disputed; it
+is instead their legal consequences on which the parties have disagreed. Even if the Decision
+were to be equated to an Award, the 5" expert report on Ecuadorian law of Professor Juan Pablo
+Aguilar submitted with the Motion would not fall within the ambit of Article 51.
+
+51. Although Ecuador has acknowledged Article 51’s inapplicability to its Motion,® the
+Tribunal has dwelt upon the article because it is the only one available to a tribunal which allows
+it to revise its award. As shall be seen, procedures other than that provided in Article 51 involve
+a lesser “modification”, as it were, of a tribunal’s award.
+
+52. The fact that Ecuador cannot fit its Motion within the narrow confines of the only article
+of the Convention that authorises a tribunal to revise its award essentially puts an end to the
+Motion. However, for purposes of good order, the Tribunal will deal with the balance of the
+provisions cited by Ecuador.
+
+(iii) Article 49 of the Convention
+
+53. Ecuador accepts that Article 49, which deals with the possibility of a tribunal’s deciding a
+question which it omitted to decide in the award or rectifying any clerical, arithmetical or similar
+error in the award, is also by its own terms related to the award.
+
+54. Ecuador refers to this article for the proposition that: “In each case, these are exceptional
+circumstances which permit the reopening of a res judicata Convention award” and argues that if
+the power can be said to exist in relation to an award, it ought perforce to exist in relation to a
+decision made prior to an award.
+
+55. Reference to a number of the cases in which Article 49(2) has been invoked shows that
+tribunals (and in one case an annulment committee) have carefully examined Article 49(2)
+requests to see whether or not they truly involve a question which was omitted to be decided or
+deal with a minor clerical error requiring rectification, on the one hand, or, are an attempt by a
+party to re-argue a point with a view to persuading the tribunal to change its mind, on the other.*”
+
+ot Motion, paras 18, 90-92, 99-100.
+
+6s Motion, para 27.
+
+66 Motion, paras 24 and 60.
+
+The inclusion of the word “similar” in the phrase “clerical, arithmetical or similar error” would,
+on the ejusdem generis rule, not permit the Tribunal to consider a “similar error” to be of a different genus
+
+13
+
+56. Although it was an ad hoc Annulment Committee decision, perhaps the best elaboration
+of the point was made in Compajiia de Aguas del Aconquija S.A. and Vivendi Universal S.A. v.
+Argentine Republic, the relevant parts of which the Tribunal quotes as follows:
+
+23. The Argentine Republic also requests the rectification of what it considers to be
+seven material errors in the Decision. It submits that the scope of the remedy of
+rectification provided for in Article 49(2) of the ICSID Convention is well
+established, as illustrated by recent precedents, and argues that the particular errors
+affecting the Decision in the present case are so serious that, unless rectified, they
+could “nullify the Decision on Annulment” and prejudice Argentina’s position in
+future ICSID arbitrations. The implication is that, in its deliberations and
+preparation of the Decision, the Committee disregarded many of the arguments put
+forward by the Respondent, to its significant detriment.
+
+24. The Claimant, for its part, argues that the seven requests for rectification should be
+rejected, on the grounds that they exceed the scope of Article 49(2) and, in effect,
+represent further attempts by the Respondent to reopen debate on issues already
+decided by the Committee.
+
+25.A review of pertinent arbitral awards illustrates that the availability of the
+rectification remedy afforded by Article 49(2) depends upon the existence of two
+factual conditions. First, a clerical, arithmetical or similar error in an award or
+decision must be found to exist. Second, the requested rectification must concern
+an aspect of the impugned award or decision that is purely accessory to its merits.
+Simply stated (and contrary to Respondent’s assertion at paragraph 26 of its
+Request), Article 49(2) does not permit the “rectification” of substantive findings
+made by a tribunal or committee or of the weight or credence accorded by the
+
+   
+
+tribunal or committee to the claims, arguments and evidence presented by the
+parties. The sole purpose of a rectification is to correct clerical, arithmetical or
+similar errors, not to reconsider the merits of issues already decided. As will be
+seen, below, many of the Respondent’s requests derive from a misunderstanding
+of this fundamental principle.”
+
+ 
+
+than clerical or arithmetical errors. The Motion, at para 23, seems to suggest that the Tribunal has a wider
+discretion than the Tribunal thinks it has. “Whilst clerical and arithmetical errors are generally easily
+identifiable, the reference to a “similar error” “was intended to permit other corrections that are required
+to make the Award correspond to the intent of the Tribunal.” If it is intended to suggest that in the guise
+of rectifying an error which is not clerical or arithmetical, the Tribunal should revise its legal reasoning,
+the Tribunal does not agree.
+
+68 Compania de Aguas del Aconquija S.A. and Vivendi Universal S.A. v. Argentine Republic, 1CSID
+Case No. ARB/97/3, Decision of the Ad Hoc Committee on the Request for Supplementation and
+Rectification of its Decision Concerning Annulment of the Award, 28 May 2003 (Yves Fortier, President,
+Professor James Crawford , Professor José Carlos Fernandez Rozas, Members), paras 23-25 [Emphasis
+added]. To the same effect, see Enron Creditors Recovery Corporation (formerly Enron Corporation)
+and Ponderosa Assets, L.P. v. Argentine Republic, \CSID Case No. ARB/O1/3, Decision on Claimants'
+Request for Rectification and/or Supplementary Decision of the Award, 25 October 2007 (Professor
+Francisco Orrego-Vicufia, President; Professor Albert Jan van den Berg and Pierre-Yves Tschanz,
+Arbitrators), para 57, and Railroad Development Corporation v. Republic of Guatemala, \CSID Case No.
+
+14
+
+(iv) Article 49(2) of the Convention, first limb
+
+57. Since Article 49 is expressly concerned with reverting to the tribunal after it has rendered
+its award, strictly speaking it is not applicable to the present Motion. However, the Tribunal will
+put that aspect of the article’s wording to one side and proceed arguendo on the basis that the
+reference to the word “award” could encompass a “decision” and therefore Article 49 could be
+triggered at this point in the proceeding. The Tribunal does so because it wishes to explain its
+conception of its duty to decide the questions presented to it.
+
+58. Section 5.1 of the Motion is entitled: “The Arbitral Tribunal’s finding that Ecuador’s
+non-compliance with the Provisional Measures amounted to a breach of contract omitted to
+decide an issue.”© The Tribunal observes however that the Convention does not refer to a
+tribunal’s omitting to decide an “issue”, but rather to its omitting to decide a “question.” It seems
+to the Tribunal that a “question” (which is not defined by the Convention) is capable of
+encompassing one or more issues and an alleged failure to decide an issue in the course of
+deciding a question is not what Article 49 is concerned with.
+
+ 
+
+59. The point has been made in a recent annulment committee decision in the course of
+discussing the Convention’s provisions in Article 48 on the contents of an award:
+
+“Article 48(3) refers to the tribunal’s obligation to ‘deal with’ ‘every question’
+submitted to it when rendering an ‘award’. The expression ‘every question’ has not
+been defined by the ICSID Convention. All versions of the ICSID Convention
+ought to be given the same meaning. When read in conjunction with the Spanish
+and French versions of the ICSID Convention, it seems without doubt that the
+words ‘every question’ in the English version refer to the heads of claim of the
+parties (‘las pretensiones’ in the Spanish version, les chefs de conclusions in the
+French version). Article 48(3), therefore, refers to the tribunal’s obligation to deal
+with, either directly or indirectly, all of the parties’ heads of claim within its
+award.” 7
+
+60. The Tribunal has carefully reviewed its Decision and finds it did not omit to decide the
+various questions identified by Ecuador in its Motion. For example, in relation to Ecuador’s
+complaint concerning whether or not Ecuador’s decision not to comply with the Decision on
+Provisional Measures could constitute a breach of the Participation Contracts, in addition to
+recounting the history of the coactiva proceedings (from paragraphs 150 to 179 of the Decision),
+the question is addressed in the Decision’s Findings at paragraphs 412 to 417.7!
+
+ 
+
+ARB/07/23, Decision on Claimant Request for Supplementation and Rectification of the Award, 18
+January 2013 (Dr. Andrés Rigo Sureda, President, Honourable Stuart E. Eizenstat and Professor James
+Crawford, Arbitrators), para 47.
+
+a Emphasis added.
+
+70 Daimler Financial Services A.G. v. Argentine Republic, ICSID Case No. ARB/05/1, Decision on
+Annulment, (Eduardo Zuleta, Chairman, Florentino Feliciano and Makhdoom Ali Khan, Members), para
+87 [emphasis in original].
+
+7m The operative paragraph is paragraph 417, which states as follows:
+
+15
+
+6l. The Tribunal holds the same view with respect to the other alleged failures to deal with
+every question submitted to it. Therefore, the Tribunal does not see any basis for the exercise
+powers under Article 49(2), first limb.
+
+(v) Article 49(2) of the Convention, second limb
+
+62. Turning to a tribunal’s power to rectify certain types of errors, since the Motion describes
+certain decisions taken by the Tribunal as being in error, the Tribunal wishes to record its view as
+to what can permissibly be rectified under Article 49 even if it were applicable.
+
+63. If a tribunal rectifies a clerical, arithmetical or similar error, it is “reopening” the award
+and the award is accordingly amended. But there is no suggestion in Article 49 that in the
+process of acting on these specific grounds a tribunal can engage in a full scale revision of its
+factual and/or legal analysis, that is, change its mind on questions that it has identified as
+necessary for decision and which it has then decided. The Compajiia de Aguas del Aconquija
+S.A. and Vivendi Universal S.A. decision quoted in paragraph 56 above makes this crystal clear.
+The Convention itself likewise makes this clear by addressing revision of awards in another
+article.
+
+64. This view as to the rectification procedure’s limited purpose is shared by the discussion
+in the second edition of The ICSID Convention: A Commentary, where it is stated:
+
+Art. 49(2) provides a remedy for inadvertent omissions and minor technical errors
+in the award. It is not designed to afford a substantive review or reconsideration of
+the decision but enables the tribunal to correct mistakes that may have occurred in
+the award’s drafting in a non-bureaucratic and expeditious manner.
+
+65. Indeed, reference to the decided cases shows that the kind of “error” which is likely to be
+accepted as requiring rectification is one where both parties to the arbitration agree that an error
+requires correction, or where the party that has not moved to rectify the award nevertheless does
+not object to such a motion by the other party.’? It need hardly be said that this is not the
+
+ 
+
+“In the Tribunal’s view, a plain reading of clauses 22.2.2 indicates that the contracting
+parties agreed that they would comply not only with a final award (i.e., in Spanish, the
+‘laudo’ issued by a tribunal), but in addition, they would observe and comply with the
+decisions (i.e., in Spanish, the ‘decisiones’) of the tribunal. The latter term constitutes a
+more capacious category of tribunal decisions of which the final award forms a part. Thus,
+under the Participation Contracts, Ecuador was bound to comply with the Decision on
+Provisional Measures and its failure to do so constitute a breach of contract.”
+
+n The ICSID Convention: A Commentary, 2nd edition, pp 849-850 [emphasis added].
+
+m See, for example, Emilio Augustin Maffezini v. Kingdom of Spain, (CSID Case No. ARB/97/7,
+Rectification of the Award, (Francisco Orrego Vicufia, President, Thomas Buergenthal, and Maurice
+Wolf, Arbitrators), paras 18-20; Noble Ventures v. Romania, ICSID Case No. ARB/O1/11, Rectification
+of Award, (Professor Karl-Heinz Béckstiegel, President, Sir Jeremy Lever and Professor Pierre Marie-
+Dupuy, Arbitrators) para 7; Industria Nacional de Alimentos, S.A. and Indalsa Peru (formerly Emprasas
+Lucchetti, S.A. and Lucchetti Peru, S.A.) v. Republic of Peru, \CSID Case No. ARB/03/4, Rectification of
+the Decision on Annulment of the Ad hoc Committee, (Justice Hans Danelius, President, Sir Franklin
+Berman and Professor Andrea Giardina, Arbitrators), para 8.
+
+16
+
+situation in the present case.”4 Nor, from the face of Ecuador’s Motion, can it be said that the
+errors which it alleges have been committed by the Tribunal are characterised as falling within
+the category of minor errors.’”° Article 49(2) is not concerned with re-opening an award to
+“correct” alleged errors of law.
+
+66. The Tribunal finds therefore that Article 49 does not advance Ecuador’s Motion for
+Reconsideration.
+
+(vi) Arbitration Rule 38
+
+67. Rule 38 deals with a different situation, namely, that which obtains after the parties have
+presented their cases and the proceeding is declared closed. Rule 38(2) provides:
+
+“Exceptionally, the Tribunal may, before the award has been rendered, reopen the
+proceeding on the ground that new evidence is forthcoming of such a nature as to
+constitute a decisive factor, or that there is a vital need for clarification on certain
+specific points.”
+
+68. Ecuador places considerable weight on this rule, but upon review it too is inapposite to
+the situation at hand.
+
+69. The operative assumption of Rule 38 is that, after the proceeding has been closed but
+prior to the making of the award, either new evidence comes to light that could decisively affect
+the outcome of the case (in this first respect, Rule 38 echoes Article 51 of the Convention) or
+there is a vital need for clarification on certain specific points.
+
+70. Since it is unlikely that the tribunal itself would come into possession of new evidence on
+its own, the former limb would almost certainly be one that would be activated by a disputing
+party’s filing a motion to reopen the proceeding on the ground that it had discovered new
+evidence of a decisive nature. This is not the situation in the present case.
+
+71. As for the second limb, while not ruling out the possibility that a disputing party would
+seek clarification of certain specific points between the time of the hearing and the issuance of
+the award, the prospect seems rather remote. The wording implies that the second ground is one
+that is activated by the tribunal itself. This could be expected to occur where the tribunal, having
+declared the proceeding closed and then having engaged in deliberations, realises that one or
+more specific points needs to be clarified and therefore calls upon the parties to file additional
+evidence and/or submissions.
+
+72. The point was made by the ad hoc Annulment Committee in Libananco Holdings Co.
+Limited v. Republic of Turkey:
+
+It is not unusual that, after written and oral proceedings are completed, during the
+course of deliberations tribunals discover issues that require further presentations
+
+™ Letter dated 11 November 2014 from Debevoise & Plimpton LLP to the Tribunal objecting to
+
+Ecuador’s seeking to have the Tribunal reconsider its Decision on Remaining Issues of Jurisdiction and
+Liability.
+® At various points of the Motion, the Respondent alleges “serious and fundamental", “manifest”
+and "gross" errors. Motion, paras 11, 47, 135.
+
+17
+
+by the parties. In the Committee’s view, the Rule was not meant to require an
+immediate closure of the proceeding upon the last filing or hearing. Rather, each
+tribunal or committee must be assured, after proper deliberations, that it has all
+necessary arguments and evidence upon which it has reached or will reach a
+determination concerning all issues in the case. Closing the proceeding while
+deliberations are still underway may in fact interfere with the deliberations. This is
+particularly so when the deliberations concern the question whether or not the case
+should proceed to the merits, since the tribunal may not have made up its mind
+about its jurisdiction immediately upon the last presentation in the jurisdictional
+phase and it cannot close the proceeding if it decides to continue on the merits.”°
+
+73. Once again, this is not the situation in the present case. Thus, the Tribunal finds the
+second limb of Rule 38(2) is also inapposite in the circumstances at hand.
+
+(vii) Arbitration Rule 25
+
+74. The next provision called into aid by the Respondent is Rule 25, Correction of Errors,
+which states as follows:
+
+An accidental error in any instrument or supporting document may, with the
+consent of the other party or by leave of the Tribunal, be corrected at any time
+before the award is rendered.
+
+75. Although the Motion contends that there is a “power to reopen and amend and/or reverse
+the record pursuant to Rule 25” and further that “provisions such as Rule 25 bestow upon the
+Arbitral Tribunal the power to permit significant amendments and corrections to the record”, in
+the Tribunal’s view, this rule has no relevance to the present Motion.” It plainly cannot be used
+to justify the Tribunal’s ‘reconsidering’ its Decision in order to reverse its prior findings.
+
+(viii) Article 44 of the Convention
+
+76. Finally, the Respondent has relied upon the Tribunal’s residual discretion to decide a
+question of procedure which is not covered by Section 3 or the Arbitration Rules or any rules
+agreed by the parties.
+
+77. The Tribunal does not consider that the matters raised in the Motion and the revisions
+requested fall within the genus of unaddressed procedural matters. To the contrary, as the
+foregoing review has shown, the circumstances in which a tribunal can reopen an award are
+comprehensively addressed and in specific and sometimes very narrow terms (as in the case of
+Article 51). The Tribunal once again recalls the terms of Convention Article 53, which provides:
+“The award shall be binding on the parties and shall not be subject to any appeal or to any other
+
+76 Libananco Holdings Co. Limited v. Republic of Turkey, 1CSID Case No. ARB/06/8, Excerpts of
+Decision on Annulment, (Andrés Rigo Sureda, President, Hans Danelius and Eduardo Silva Romero,
+Members), para 60 [Emphasis added].
+7 Motion, paras 11, 75.
+
+18
+
+remedy except those provided for in this Convention.” There is simply no general power to
+reopen and reverse awards, nor does the Tribunal view the absence of such a general power to be
+a lacuna that needs to be filled in the sense that the Abaclat majority sought to fill a perceived
+gap in the Arbitration Rules when it came to so-called “mass claims”.
+
+78. It is not persuasive to seek to link together discrete provisions of the Convention and the
+Rules that were designed with specific purposes in mind and with varying degrees of the power
+to reopen an award in order to support the claimed existence of a power — whether general,
+procedural or otherwise — which is said to vest in a tribunal simply because it has issued a
+decision, as opposed to an award.
+
+79. The examples provided by Ecuador, particularly Abaclat and Churchill Mining, are
+unavailing. The former case dealt with a very specific issue dealing with the question of whether
+a large number of claimants could bring a collective or mass claim under the applicable bilateral
+investment treaty and the ICSID Convention. At the jurisdictional stage, the majority of the
+tribunal concluded that there was a “gap” in the Convention and the Arbitration Rules which
+permitted it to formulate a means by which that group of claims could proceed collectively.
+Professor Abi-Saab dissented. Whether the tribunal was right or wrong in its analysis is not for
+this Tribunal to say; however, it appears to the Tribunal that this is an example of a tribunal in
+the early stages of a case seeking to design a procedure that would govern the special needs and
+demands of the case before it. As for Churchill Mining, the issue before that tribunal was purely
+procedural and simply involved the revisiting of a previously determined procedural schedule in
+light of new evidence that had been brought to the tribunal’s attention. It is entirely different
+from the present Motion.
+
+80. The Tribunal also does not find Ecuador’s appeal to the inherent powers of the Tribunal
+to advance its case. The clear structure of the Convention and the Arbitration Rules cannot be
+overridden by a general appeal to inherent powers.
+
+81. This takes the Tribunal to ConocoPhillips v. Venezuela. The Tribunal refrained from
+forming a view as to whether it preferred the approach taken by the majority or by the dissenting
+arbitrator until it had the opportunity to study each of the provisions of the Convention and
+Arbitration Rules cited by Ecuador and the reasons therefor. Having done so, and having regard
+to the differences in approach as between the majority and the minority in that case, the Tribunal
+has little difficulty in expressing its general agreement with the approach taken by the majority.
+
+82. That said, the Tribunal can see how Professor Abi-Saab could form his view that it was
+necessary for that tribunal to revisit a prior factual finding. His dissenting opinion was predicated
+upon Venezuela’s submission of new evidence that was not available to the tribunal when it
+rendered its earlier merits decision and which he considered to be of great decisiveness on a
+particular issue going to the question of whether or not the respondent had breached its
+obligation to negotiate compensation for an expropriation in good faith.”* In his view, the
+
+8 ConocoPhillips v. Venezuela Decision on Jurisdiction and the Merits, para 401. Professor Abi-
+
+Saab agreed with much of the Decision but dissented on two issues, both of which came to the forefront
+
+19
+
+tribunal was in the situation contemplated by Rule 38(2) (i.e., “[e]xceptionally, the Tribunal may,
+before the award has been rendered, reopen the proceeding on the ground that new evidence is
+forthcoming of such a nature as to constitute a decisive factor...”) and it is understandable why
+he considered that Rule 38(2) ought to be applied in effect even if it is temporally limited.
+According to Professor Abi-Saab:
+“\..the Tribunal [was being] requested to exercise the power of limited
+reconsideration of its prior partial Decision of 3 September 2013, while the case is
+
+still pending before it, is that of correcting a claimed material error committed by
+the Tribunal itself in establishing the facts, as well as in the legal conclusions and
+
+consequences it drew from or built on these erroneously established facts.””°
+
+ 
+
+83. The basis for the application was Venezuela’s contention that “the Tribunal was under
+certain misapprehensions with respect to the parties’ confidentiality commitments and the
+progress of the negotiations after the migration, as well as to consider some crucial related
+evidence recently revealed via Wikileaks.”*°
+
+84. Professor Abi-Saab found that in the prior Decision, from which he had also dissented,
+the majority had “committed a material error in establishing the facts” [his emphasis] in its
+treatment of settlement negotiations and from that it had divined “a presumption - drawn from a
+single_misconceived_ instance involving an error of fact - of a constant pattern of conduct
+
+attributable to the Respondent, of not hesitating to violate its obligations whenever it suited its
+
+purposes.”*!
+
+85. He argued both for a general power of reconsideration and further, that if he was wrong
+on that point, for a specific power of reconsideration “based on a particular or certain particular
+legal grounds”:*?
+
+“In sum, in certain contingencies which put or risk putting the credibility and
+integrity of the tribunal into question — such as its becoming aware that it had
+committed an error in interpreting evidence or in establishing the facts that led it
+astray in its legal findings; that the decision did not follow from the facts as
+determined; that new credible evidence demonstrate that the facts as established by
+the tribunal were based on wrong premises; or that changed circumstances have
+rendered the decision otherwise untenable — inherent jurisdiction empowers and
+even mandate the tribunal to reconsider the prior decision.”**
+
+86. The present Tribunal takes a different view as to the existence of a general power of
+reconsideration as well as on Arbitration Rule 38(2). But in any case, the type of situation which
+so concerned Professor Abi-Saab is simply not present in the present case.
+
+ 
+
+of his dissent in the subsequent request for reconsideration. ConocoPhillips Dissenting Opinion, paras 38-
+
+51, 61-65.
+
+” ConocoPhillips Dissenting Opinion, para 9 [emphasis added].
+80 Id., para 1.
+
+8 Id., para 17 [emphasis added].
+
+82 Id., para 52.
+83 Id., paras 52 and 61.
+20
+
+87. Nothing of the potential significance of the factual evidence that Venezuela adduced in
+support of its motion has been adduced by Ecuador. Professor Aguilar’s 5" expert report could
+not be taken to constitute the kind of recently discovered evidence that came to light after the
+ConocoPhillips Decision had been issued.
+
+88. Thus the facts in the ConocoPhillips case, in the view of this Tribunal, are so far removed
+as to deprive Professor Abi-Saab's views of any relevance to the instant case.
+
+IV. The “serious departure from a fundamental rule of procedure” complaints
+
+89. Ecuador has also raised various due process concerns. The Tribunal has already noted its
+view that it is not the appropriate body to review these types of complaints, since they are
+properly advanced before an ad hoc annulment committee. It will simply note that in complex
+cases such as the instant one, decisions must be taken at various points with respect to the way
+forward. It will illustrate the point by reference to one of Ecuador’s complaints.
+
+90. The Tribunal is criticised for allegedly having given Perenco an additional opportunity to
+establish French control (with respect to the question of Perenco’s standing to bring a claim
+under the Treaty) and for having “specifically advised the Claimant of the argument it needed to
+develop and the issues it needed to prove (which it had thus far been unable to) in order for the
+Arbitral Tribunal to find jurisdiction.”** In Ecuador’s view, “this same treatment, i.e., the
+opportunity to be advised of the Arbitral Tribunal’s legal and factual concerns and respond to
+them in further rounds of written and oral pleadings, was not accorded to Ecuador.”*° It alleges
+that the Tribunal departed from the parties’ pleaded cases on certain issues and based its
+decisions on propositions not presented by any of the parties and in so doing did not grant
+Ecuador the same opportunity or indeed any opportunity to provide its views on these newly
+developed propositions. *°
+
+91. It is not unusual for tribunals to defer consideration of jurisdictional objections pending a
+further development of the evidentiary record and tribunals commonly join jurisdictional issues
+to the merits, as indeed the Tribunal did in the instant case.®’ Thus, the Decision on Jurisdiction
+did not signal the end of the jurisdictional phase. Having reflected on the parties’ submissions
+and the evidence, the Tribunal decided it was appropriate to provide both parties with a further
+opportunity to address certain issues in respect of which the Tribunal was not yet prepared to
+tule.
+
+92. Both parties were therefore given the opportunity over two rounds of written pleadings to
+adduce further factual and expert evidence and to make submissions. With respect to questions
+of Bahamian law, both sides adduced expert evidence on questions such as the status of shares
+
+Motion, para 152.
+
+Motion, para 154.
+
+Motion, para 154.
+
+At paragraph 86 of the Decision on Jurisdiction, the Tribunal, in discussing whether the Claimant
+had a right of standing held that the issue would be joined to the merits because in the Tribunal's view
+certain other issues should be clarified prior to arriving at a definitive view as to the Claimant's standing
+to invoke the Treaty.
+
+21
+
+owned by an individual who died intestate and the steps required under Bahamian law to effect
+the transfer of title to the shares. Both parties also addressed the Treaty’s negotiating history,
+with Ecuador urging the Tribunal to pay particularly close attention to the evolution of the
+relevant provisions (as recorded in paragraphs 492 to 499 of the Decision), while Perenco’s main
+argument was that the plain meaning of the text prevailed, and further that the negotiating history
+was too fragmentary and incomplete to be reliable.
+
+93. There was nothing in Ecuador’s Counter Memorial on Liability and Counterclaims which
+suggested that Ecuador was not comfortable with the additional opportunity given to both parties
+to address Perenco’s claimed standing to invoke the Treaty. Indeed, Ecuador’s first pleading in
+the next phase requested the Tribunal to further bifurcate the proceeding so as to deal with all
+remaining jurisdictional issues before proceeding to the merits.*® The Counter-Memorial also
+devoted 71 paragraphs to recounting the factual aspects of the Perrodo family’s claim to control
+Perenco,, and 38 paragraphs on the Treaty’s structure when analysed in light of its negotiating
+history
+
+94. Ecuador now expresses its surprise at the Tribunal’s asking for the negotiating history in
+its Decision on Jurisdiction and then not discussing the produced texts in detail in its next
+Decision: “Ecuador fails to understand why the Arbitral Tribunal requested further evidence on
+the issue if it considered the history of the negotiations to be irrelevant.”
+
+95. The Tribunal did not consider the travaux to be irrelevant. While it expressly refrained
+from expressing a view in its Decision on Jurisdiction as to whether or not the negotiating history
+would assist it in deciding the point, the Tribunal was interested in examining such records as
+might be available and for that reason requested the parties to jointly approach the French
+authorities with a view to obtaining the relevant documents and make submissions thereon to the
+Tribunal. Upon carefully reviewing the parties’ submissions and the negotiating history, the
+Tribunal did not find the negotiating history to provide a determinate answer to the interpretative
+question that was different from the interpretation ultimately arrived at. (This explains the way in
+which the Tribunal expressed its findings at paragraphs 509 to 511 and 528.) A more elaborate
+set of reasons would not have led to a different result.
+
+96. There are a myriad of different ways in which a Decision or an Award can be drafted.
+The objective is to organize and decide the questions presented for decision in a suitably
+comprehensive and comprehensible fashion, at all times having regard to the fundamental
+imperative of treating the disputing parties equally and in accordance with due process. This is
+what the Tribunal has sought to do.
+
+Counter Memorial on Liability and Counterclaim, para 12.
+Counter Memorial on Liability and Counterclaim, paras 27-98 and 99-137, respectively.
+Motion, para 156.
+
+22
+
+Vv. Conclusion
+
+97. For the foregoing reasons, the Tribunal concludes that there is no power vested in it
+which would allow it to engage in the exercise requested of it, namely, to issue a decision
+amending its Decision on Remaining Issues of Jurisdiction and Liability dated
+12 September 2014 in respect of any of the seven issues identified by Ecuador in its Motion.
+Article 52 of the Convention does not vest this Tribunal with the power to reopen, amend and/or
+reverse a decision preliminary to its award. Similarly, the grounds for rectification of an award in
+Article 49 or revision of an award under Article 51 do not assist the Motion. Rules 25 and 38 of
+the ICSID Arbitration Rules likewise do not provide any support for the Motion. Article 44 of
+the Convention does not establish a general power of reconsideration of a tribunal’s decisions.
+Finally, there is no basis for the invocation of the Tribunal’s inherent powers. Such powers
+cannot be used to circumvent the Convention’s and the Arbitral Rules’ plain language when it
+comes to amending or otherwise re-opening an award. To the extent that it has responded to
+particular arguments advanced by Ecuador in its Motion with respect to specific findings of the
+Decision, the Tribunal has done so purely for illustrative purposes and without prejudice to its
+decision that it does not have the power to reopen and reconsider its findings in the manner for
+which Ecuador has contended.
+
+VI. Decision
+
+98. Accordingly, Ecuador’s Motion is dismissed, as are its consequent requests to bifurcate
+the proceedings and stay the Quantum phase of this arbitration.
+
+99. Costs are reserved for future determination.
+
+23
+
+[signed]
+Judge Peter Tomka
+
+President of the Tribunal
+
+[signed] [signed]
+Mr. Neil Kaplan, C.B.E, Q.C., S.B.S. Mr. J. Christopher Thomas, Q.C.
+
+Arbitrator Arbitrator
+

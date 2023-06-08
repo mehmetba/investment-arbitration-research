@@ -1,0 +1,1402 @@
+IN THE GENERAL DIVISION OF
+THE HIGH COURT OF THE REPUBLIC OF SINGAPORE
+
+[2022] SGHC 53
+
+Originating Summons No 900 of 2021 (Summons Nos 5125 and 5275 of
+2021)
+
+ 
+
+Between
+CNX
+... Plaintiff
+And
+CNY
+... Defendant
+GROUNDS OF DECISION
+
+ 
+
+[Arbitration — Enforcement — Foreign award — Order granting leave to
+enforce foreign award]
+
+[Civil Procedure — Service — Service of leave order on foreign State — Time
+for foreign State to apply to set aside leave order — Section 14(2) State
+Immunity Act]
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+INTRODUCTION 1
+BACKGROUND 2
+THE PARTIES’ CASES 5
+ISSUES TO BE DETERMINED ..
+
+ 
+
+ISSUE 1: WHETHER S 14(2) OF THE SIA APPLIES TO AN
+APPLICATION TO SET ASIDE THE LEAVE ORDER. .........c.cssssssssssseeee 9
+
+ISSUE 2: COMPUTATION OF TIME UNDER S 14(2) OF THE
+SIA 23
+
+ISSUE 3: WHETHER THE DEFENDANT SHOULD BE
+GRANTED AN EXTENSION OF TIME UNDER O 3 R 4(1) OF
+THE ROC 29
+
+ISSUE 4: WHETHER THE DEFENDANT SHOULD BE
+REQUIRED TO FURNISH SECURITY
+
+ 
+
+CONCLUSION 35
+
+ 
+
+This judgment is subject to final editorial corrections approved by the
+court and/or redaction pursuant to the publisher’s duty in compliance
+with the law, for publication in LawNet and/or the Singapore Law
+Reports.
+
+ 
+
+ 
+
+ 
+
+CNX
+v
+CNY
+
+[2022] SGHC 53
+
+General Division of the High Court — Originating Summons No 900 of 2021
+(Summons Nos 5125 and 5275 of 2021)
+
+S Mohan J
+
+3 December 2021
+
+14 March 2022
+S Mohan J:
+Introduction
+
+1 Where an award creditor is granted leave under s 29 of the International
+Arbitration Act (Cap 143A, 2002 Rev Ed) (“IAA”) to enforce an arbitral award
+in Singapore against a foreign State, how much time does the foreign State have,
+following service of the leave order on it, to take the steps necessary to challenge
+
+the order?
+
+2 Specifically, s 14(2) of the State Immunity Act (Cap 313, 2014 Rev Ed)
+(“SIA”) provides that any “time for entering an appearance (whether prescribed
+by Rules of Court or otherwise) shall begin to run 2 months after the date on
+which the writ or document is so received”. Does s 14(2) of the SIA apply to a
+leave order granted under s 29 of the IAA which is served on a foreign State,
+
+and if it does apply, how much time does the foreign State have? These were
+
+CNX v CNY [2022] SGHC 53
+
+some of the interesting issues that I had to consider in HC/SUM 5125/2021
+(“SUM 5125”). SUM 5125 was an application by the defendant State, for, inter
+alia, a declaration that it had an additional two months to apply to set aside an
+ex parte order granting the plaintiff leave to enforce a foreign arbitral award
+against the defendant; alternatively, it sought a corresponding extension of time
+
+to do so.
+
+3 HC/SUM 5275/2021 (“SUM 5275”) was a cross-application by the
+plaintiff for security to be furnished by the defendant State as a condition for
+
+granting any extension of time.
+
+4 Based on counsel’s research and submissions, it appears that this is the
+first time our courts have been squarely confronted with the issues I highlighted
+at [1]-[2] above. The only other reported case in which s 14 of the SIA arose
+for consideration is the decision of Justice Kannan Ramesh in Josias Van Zyl
+and others v Kingdom of Lesotho [2017] 4 SLR 849 (“Josias Van Zyl”).
+However, as I will elaborate below, Ramesh J’s comments on s 14(2) were
+obiter, as the ratio decidendi of Josias Van Zyl concerned s 14(1) of the SIA
+and the question of whether a leave order must be served in accordance with
+that provision. As such, and whilst there has been no appeal against my decision,
+given the dearth of direct local authority on the issues that arose before me, I
+
+consider it appropriate to provide my full grounds of decision.
+
+Background
+
+5 The plaintiff, CNX, is a company incorporated in Ruritania, while CNY,
+
+the defendant, is the sovereign state of Oceania.! A dispute arose between the
+
+! Ist affidavit of IR dated 2 September 2021 (“Ist affidavit of IR”) at paras 5-6.
+
+CNX v CNY [2022] SGHC 53
+
+parties relating to the defendant’s alleged breaches of a bilateral investment
+treaty between Ruritania and Oceania (the “BIT”).2 In September 2013, the
+plaintiff commenced arbitration proceedings against the defendant (the
+“Arbitration”) pursuant to an arbitration clause in the BIT. The Arbitration was
+seated in Danubia.‘ In May 2020, the arbitral tribunal issued its final award,
+ordering the defendant to pay to the plaintiff a sum in excess of US$90 million
+(exclusive of interest, costs and disbursements) (the “Final Award”).° It is not
+disputed that the time for any challenge to the Final Award to be mounted in the
+seat court has expired and there are no proceedings instituted by the defendant
+or pending before the seat courts in Danubia seeking to challenge the Final
+
+Award.®
+
+6 On 2 September 2021, pursuant to O 69A r 6 of the Rules of Court (2014
+Rev Ed) (“ROC”), the plaintiff applied ex parte in HC/OS 900/2021 (“OS 900”)
+for leave to enforce the Final Award against the defendant under s 29 of the
+IAA. On 3 September 2021, an assistant registrar granted leave in HC/ORC
+4992/2021 (the “Leave Order”). Paragraph 2 of the Leave Order stated as
+follows:
+
+Pursuant to Order 69A Rule 6(4) of the Rules of Court, the
+
+Defendant may apply to set aside the order to be made herein
+
+within 21 days after service of the order on the Defendant, and
+
+the Final Award shall not be enforced until after the expiration
+of that period or, if the Defendant applies within that period to
+
+2 Ist affidavit of IR at para 14.
+
+3 Ist affidavit of IR at para 11; 3rd affidavit of IR dated 6 December 2021 (“3rd affidavit
+of IR”) at para 8(a).
+
+4 Ist affidavit of IR at paras 12-13.
+
+5 Ist affidavit of IR at para 23; Ist affidavit of AS dated 10 November 2021 (“Ist
+
+affidavit of AS”) at para 11.
+
+6 Ist affidavit of IR at para 24; Defendant’s Written Submissions dated 29 November
+2021 (“DWS”) at para 129.
+
+CNX v CNY [2022] SGHC 53
+
+set aside the order, until after that application is finally
+disposed of ...
+
+[emphasis added in italics and bold italics]
+
+7 On 6 September 2021, the plaintiff filed a request by way of
+HC/SOD 58/2021 for the Leave Order to be served on the defendant through
+the appropriate consular channels, or the government of Oceania. The Leave
+Order was eventually served on the defendant’s foreign ministry in Oceania by
+the High Commission of Singapore on 20 October 2021.’ Pursuant to the terms
+of the Leave Order, the last day for the defendant to apply to set aside the Leave
+Order was 10 November 2021.
+
+8 On 9 November 2021, the defendant instructed Drew & Napier LLC
+(“D&N”) to act as its local counsel in OS 900.* On 10 November 2021, D&N
+took out SUM 5125, seeking more time for the defendant to apply to set aside
+the Leave Order. In particular, the defendant sought: (a) a declaration that it may
+apply to set aside the Leave Order within two months and 21 days from when
+the Leave Order was served on it, or alternatively, (b) a corresponding extension
+
+of time until 11 January 2022 to apply to set aside the Leave Order.
+
+9 In response, the plaintiff took out SUM 5275 on 18 November 2021.
+This was essentially an application for an order that the defendant furnish
+security, for a sum representing the Final Award plus accrued interest
+(amounting to US$137,228,887), as a condition of the court allowing
+SUM 5125, whether in whole or in part.
+
+7 Ist affidavit of AS at para 13.
+8 Ist affidavit of AS at para 15.
+
+CNX v CNY [2022] SGHC 53
+
+10 I heard both SUM 5125 and SUM 5275 on 3 December 2021. After
+considering the submissions from both parties, I delivered brief oral grounds of
+my decision. I allowed SUM 5125 in part and dismissed the plaintiffs
+application in SUM 5275.
+
+The parties’ cases
+
+ll I begin with a summary of the parties’ cases for SUM 5125. Mr Cavinder
+Bull SC, lead counsel for the defendant, explained the defendant’s case as
+follows. The starting point was that the Leave Order was a document that had
+to be served in accordance with s 14(1) of the SIA.° This was relatively
+uncontroversial and was not seriously disputed by the plaintiff, particularly
+since this was a point that had been the subject of detailed and authoritative
+analysis by Ramesh J in Josias Van Zyl. Section 14(1) of the SIA provides that:
+14.—(1) Any writ or other document required to be served for
+instituting proceedings against a State shall be served by being
+transmitted through the Ministry of Foreign Affairs, Singapore,
+to the ministry of foreign affairs of that State, and service shall
+
+be deemed to have been effected when the writ or document is
+received at that ministry.
+
+[emphasis added]
+
+12 Mr Bull argued that once the Leave Order was served on the defendant
+in accordance with s 14(1) of the SIA, s 14(2) of the SIA would then apply to
+govern the time that the defendant had to apply to set aside the Leave Order.'"
+Section 14(2) of the SIA states that:
+
+(2) Any time for entering an appearance (whether prescribed by
+Rules of Court or otherwise) shall begin to run 2 months after
+the date on which the writ or document is so received.
+
+[emphasis added]
+
+° DWS at para 33.
+0 DWS at paras 34-35.
+
+CNX v CNY [2022] SGHC 53
+
+13 In this regard, s 2(2)(b) of the SIA is also of relevance and provides that
+in the SIA, “references to entry of appearance ... include references to any
+corresponding procedures” [emphasis added]. Mr Bull contended that where a
+leave order granted under s 29 of the IAA has been served on a foreign State
+under s 14(1) of the SIA, the relevant “corresponding procedure” to an entry of
+appearance would be an application to set aside the leave order.'! In the present
+proceedings, the defendant argued that it therefore should have had two months
+from the date on which the Leave Order was served on it, plus the 21 days
+provided for in paragraph 2 of the Leave Order, to apply to set it aside.'? This
+would mean, Mr Bull argued, that by right the defendant had until 11 January
+2022 to apply to set aside the Leave Order, as opposed to 10 November 2021
+which was when the 21 days stated in paragraph 2 of the Leave Order would
+have lapsed.'3 Mr Bull also submitted that when the plaintiff applied ex parte in
+OS 900 for the Leave Order, it failed to make full and frank disclosure to the
+court of the existence of s 14(2) of the SIA and the additional two months
+provided therein.'* This failure was the reason the defendant had been
+
+compelled to take out SUM 5125.
+
+14 Alternatively, the defendant urged the court to exercise its powers under
+O 3 r 4(1) of the ROC to grant it an extension of time until 11 January 2022 to
+apply to set aside the Leave Order.'5
+
+u DWS at para 43.
+
+2 DWS at para 61.
+
+B DWS at paras 28 and 61.
+
+4 DWS at paras 21-22; Notes of Evidence, 3 December 2021, p 4, lines 2-6.
+is DWS at para 65.
+
+CNX v CNY [2022] SGHC 53
+
+15 The plaintiff, represented by Ms Koh Swee Yen as lead counsel, took
+the position that s 14(2) of the SIA does not apply to an application to set aside
+the Leave Order.'® Moreover, the defendant should be denied an extension of
+time, as any further delay in the enforcement proceedings would cause
+irremediable and serious prejudice to the plaintiff.!’ In the alternative, if s 14(2)
+of the SIA were applicable, the plaintiff advanced two alternative positions on
+how the time for setting aside the Leave Order should be computed. First, that
+the reference to “entry of appearance” in s 14(2) of the SIA or any
+“corresponding procedures” should not be interpreted as referring only to an
+application to set aside the Leave Order, but rather to any step in the proceedings
+which indicates that the defendant has had a chance to respond to them.'* In this
+case, that step had been taken by the defendant by its act of appointing D&N on
+9 November 2021 and the filing of SUM 5125 on 10 November 2021." The
+plaintiff contended that accordingly, the defendant was no longer entitled to the
+time period of two months provided for in s 14(2) of the SIA, and instead had
+to bring any application to set aside the Leave Order within 21 days from 20
+October 2021. The second and alternative argument advanced was that on a
+proper construction of s 14(2) of the SIA, the defendant was in any event only
+entitled to a maximum of two months to file its application to set aside the Leave
+
+Order, and not two months plus 21 days as contended by the defendant.”
+
+16 As for SUM 5275, Ms Koh submitted that any extension of time given
+
+to the defendant should be made conditional on it furnishing security for a sum
+
+16 Plaintiff's Written Submissions dated 29 November 2021 (“PWS”) at para 46.
+
+u PWS at para 127.
+8 PWS at para 113.
+9 PWS at para 116.
+20 PWS at para 120.
+
+CNX v CNY [2022] SGHC 53
+
+representing the Final Award plus accrued interest (amounting to
+US$137,228,887). Ms Koh contended that this would serve to remedy the
+prejudice the plaintiff would suffer from the delay in enforcement, in light of
+“clear evidence” that the defendant was taking steps to dissipate its assets in
+Singapore in order to frustrate enforcement efforts by its creditors.*! In its
+written submissions, the plaintiff initially relied on s 31(5) of the IAA as the
+basis for its application.» However, at the hearing before me, Ms Koh clarified
+that the plaintiff was not relying on s 31(5) of the IAA per se, but instead on the
+court’s powers under s 18(2) read with paragraph 15 of the First Schedule to the
+Supreme Court of Judicature Act (Cap 322, 2007 Rev Ed) (““SCJA”) and/or the
+
+court’s inherent jurisdiction.23
+
+17 The defendant’s case, in short, was that the court had no juridical basis
+to order security. Mr Bull argued that the facts of the present case did not fall
+within the ambit of any of the statutory provisions empowering the court to
+order the defendant to furnish security. Nor was this an exceptional case
+
+warranting recourse to the court’s inherent powers.
+
+Issues to be determined
+
+18 Based on the background laid out above, there were four issues for my
+
+determination:
+
+(a) Whether s 14(2) of the SIA applies to an application to set aside
+the Leave Order (“Issue 1”);
+
+2 PWS at paras 148-151.
+
+2 PWS at para 129.
+2 Notes of Evidence, 3 December 2021, p 13 lines 4-14.
+cy DWS at paras 132 and 138.
+
+CNX v CNY [2022] SGHC 53
+
+(b) If Issue 1 is answered in the affirmative, how much time does the
+defendant have to file its application to set aside the Leave Order (“Issue
+
+2”);
+
+(c) Whether the defendant should be granted an extension of time
+
+under O 3 r 4(1) of the ROC (“Issue 3”);
+
+(d) If SUM 5125 were allowed, whether the court can or should
+impose a condition that the defendant be required to furnish security
+
+(“Issue 4”).
+
+Issue 1: Whether s 14(2) of the SIA applies to an application to set aside
+the Leave Order
+
+19 It is clear that s 14(1) of the SIA applies to the service of the Leave
+Order. The plaintiff does not dispute this (see [11] above).
+
+20 As held by Ramesh J in Josias Van Zyl (at [41]-[44]), a leave order made
+under O 69A r 6 of the ROC is a document required to be served for the
+institution of proceedings to enforce an arbitral award against a foreign State.
+As such, the Leave Order had to be served on the defendant pursuant to s 14(1)
+
+of the SIA and in this case, appears to have been duly served (see [7] above).
+
+21 The key issue in dispute was whether s 14(2) of the SIA likewise applies
+to the Leave Order or an application to set aside the Leave Order. As this is a
+point that has not been considered at any length by our courts, I found it helpful
+to first consider the position under the State Immunity Act 1978 (c 33) (UK)
+(“UK SIA”), since the SIA was modelled after the UK SIA (see Singapore
+Parliamentary Debates, Official Report (7 September 1979) vol 39 at col 409
+(Mr E W Barker, Minister for Law and Science and Technology)). Even then,
+
+CNX v CNY [2022] SGHC 53
+
+there are conflicting English High Court authorities on this issue, as I detail
+
+below.
+
+22 In Norsk Hydro ASA v State Property Fund of Ukraine and others
+[2002] All ER (D) 269 (Oct) (“Norsk Hydro”), Justice Gross in the English High
+Court had to consider the applicability of s 12(2) of the UK SIA in the context
+of proceedings to enforce an arbitration award. Section 12(2) of the UK SIA is
+in pari materia with s 14(2) of our SIA. On the facts of the case, Norsk Hydro
+ASA (“Norsk”), having obtained an arbitral award against the Republic of
+Ukraine (one of the respondents), was granted permission to enforce the arbitral
+award against it (the “permission order”). The permission order, which was
+granted ex parte, provided that the Republic of Ukraine could apply to set aside
+the order within 21 days of service. Following service of the permission order
+and the expiry of the 21-day period, Norsk obtained a third party debt order (the
+English equivalent of a garnishee order) against Deutsche Bank AG in London.
+The Republic of Ukraine applied to set aside both the permission order and third
+party debt order. The questions before the court were, inter alia, whether s 12(2)
+of the UK SIA applied to the permission order and if so, how much time the
+Republic of Ukraine had to challenge the permission order. The latter question
+was particularly relevant to the issue of whether the third party debt proceedings
+
+had been commenced by Norsk prematurely.
+
+23 On the first question, Gross J found that s 12(2) of the UK SIA did apply
+to the permission order. The learned Judge observed (at [25]) that this
+conclusion could be supported by the plain wording of s 12(2) of the UK SIA,
+as well as the reference to “corresponding procedures” in s 22(2) of the UK SIA
+(which mirrors s 2(2)(b) of our SIA):
+
+(4) As it seems to me, s.12 means what it says. It deals with
+procedure. It is not to be confined to the court's ‘adjudicative
+
+10
+
+CNX v CNY [2022] SGHC 53
+
+jurisdiction’. The two month period is an acknowledgement of
+the reality that states do take time to react to legal proceedings.
+It is understandable that states should have such a period of
+time to respond to enforcement proceedings under ss. 100 and
+following of the 1996 Act; not untypically, an award will be
+made in one country but enforcement may be sought elsewhere,
+perhaps in a number of jurisdictions, where assets are or are
+thought to be located. I therefore decline to read words into s.12
+so as to preclude its application to the enforcement of a: wards
+[sic] under CPR 62.18.
+
+(5) Insofar as it remains in dispute, I am satisfied that the
+wording in s. 12(2) of the 1978 Act, ‘Any time for entering an
+appearance (whether prescribed by rules of court or otherwise)’
+applies to the time period to be set by the court as available to
+a defendant to seek to set aside an order for enforcement under
+CPR 62.18(9). If need be, s.22(2) of the 1978 Act (‘.. references
+to entry of appearance ... include references to any
+corresponding procedures), though, I suspect, primarily
+designed for other purposes, is capable of supporting such a
+construction; for my part, however, I would be inclined to arrive
+at my conclusion on the wording of s.12(2) standing alone but
+read in context.
+24 On the second question, Gross J concluded that the Republic of Ukraine
+was entitled to a total of two months and 21 days to apply to set aside the
+permission order, and that the third party debt application had thus been brought
+
+by Norsk prematurely (at [25(6)]).
+
+25 Justice Stanley Burnton had, however, expressed a conflicting view in
+AIC Limited v The Federal Government of Nigeria [2003] EWHC 1357 (QB)
+(“AIC”), which was a case that concerned registration of a foreign judgment. In
+AIC, Burnton J observed that an application to set aside the registration of a
+foreign judgment was not a “corresponding” procedure to an entry of
+appearance (at [23]). AIC Limited had obtained an order to register a foreign
+judgment against the Federal Government of Nigeria. It then obtained another
+order, extending the Federal Government of Nigeria’s time to apply to set aside
+the order for registration to two months from the date of service. The learned
+
+Judge noted that AIC Limited had made the application on the assumption that
+
+11
+
+CNX v CNY [2022] SGHC 53
+
+a notice of an order for the registration of a foreign judgment is the equivalent
+of a “writ or other document required to be served for instituting proceedings
+against a State” within the meaning of s 12(1) of the UK SIA, and that an
+application by a State to set aside the registration was the corresponding
+procedure to an entry of appearance within the meaning of ss 12(2) and 22(2)
+of the UK SIA (at [23]). Burnton J held that this assumption was erroneous and
+
+reasoned as follows:
+23 ... In my judgment, those assumptions are unfounded. An
+application to set aside the registration of a judgment is not a
+‘corresponding’ procedure to an entry of appearance. An entry of
+appearance is an act that precedes a judgment, whereas an
+application to set aside a registration is made after judgment has
+been entered into. The registration of a foreign judgment is not
+the equivalent of a judgment in default of appearance: it
+precedes the service of any United Kingdom proceedings on the
+defendant. ...
+
+[emphasis added]
+
+26 While AJC concerned an application to register a foreign judgment,
+Burnton J’s reasoning would suggest that an application to challenge a leave
+order should likewise not be construed as the corresponding procedure to an
+entry of appearance, since such an application also post-dates the arbitral award,
+rather than precedes it. The reasoning in AJC therefore stands in contradiction
+to that in Norsk Hydro. Although Norsk Hydro was decided before AIC, it was
+not raised or considered in AJC. Based on the authorities cited to me, it appears
+to me that the position in England has not been definitively resolved since then.
+While the correctness of AJC was doubted by Justice Teare in Gold Reserve Inc
+v Bolivarian Republic of Venezuela [2016] 1 WLR 2829 (“Gold Reserve”) (at
+[64]), and once more by the UK Supreme Court in General Dynamics United
+Kingdom Ltd v State of Libya [2021]3 WLR 231 (“General Dynamics
+(UKSC)’’) (at [68]), those doubts appear to have been in relation to a different
+
+point, namely Burnton J’s reasoning that s 12 of the UK SIA must be applicable
+
+CNX v CNY [2022] SGHC 53
+
+in its entirety to the proceedings in question or not at all. Further, the UK
+Supreme Court in General Dynamics (UKSC) declined to express any
+concluded view on whether an application to set aside a leave order is a
+corresponding procedure to an entry of appearance under s 12(2) of the UK SIA,
+as the point had not been fully argued before it (at [75]).
+
+27 Turning now to local case law, the issue of whether s 14(2) of the SIA
+applies to an application to set aside a leave order, as well as the conflicting
+authorities of Norsk Hydro and AIC, were considered by Ramesh J (albeit
+obiter) in Josias Van Zyl. The main question in Josias Van Zyl was whether an
+order granting leave to enforce an arbitral award against a foreign State has to
+be served in accordance with s 14(1) of the SIA (at [1]). In holding that s 14(1)
+of the SIA did apply to a leave order, Ramesh J observed that a consequence of
+this conclusion was that the reference to “corresponding procedures” in s 2(2)(b)
+of the SIA must accordingly be read to extend to the time for filing an
+application to set aside a leave order (at [68]-[69]). In particular, the learned
+Judge noted that the purpose of s 2(2)(b) of the SIA is that it “reconciles the
+provisions of s 14 [of the SIA] with the different terminology used to describe
+the institution of enforcement proceedings by service of a leave order” (at [69]).
+It was for this reason that the learned Judge rejected Burnton J’s interpretation
+of s 12(2) of the UK SIA in AIC as being “too literal and narrow”, and instead
+preferred the views expressed by Gross J in Norsk Hydro (at [71]):
+
+71 [AIC] conflicts with Norsk Hydro ([12] supra), which was
+
+not cited in AIC Limited. In Norsk Hydro, ‘entry of appearance’
+
+was clearly equivocated with an application to set aside an
+
+order granting leave to enforce. Moreover, Stanley Burnton J’s
+
+approach appears too literal and narrow; s 2(2)(b) (equivalent to
+
+s 22(2) of the UK Act) must exist precisely to cater to such
+
+differences as Stanley Burnton J identified. In my view, the
+
+correct approach is to first ask whether the proceedings in
+
+question are intended to fall within the scope of s 14. The stages
+of the proceedings in question cannot be expected to be
+
+CNX v CNY [2022] SGHC 53
+
+identical to the steps of entry of appearance and judgment in
+
+default in s 14. A corresponding provision need not necessarily
+
+be the same in texture and terminology. That would defeat the
+
+purpose of s 2(2)(b) of the Act. I therefore prefer the approach
+
+in Norsk Hydro.
+28 l agree with Ramesh J that the reasoning of Gross J in Norsk Hydro is to
+be preferred over that of Burnton J in AJC. Under Singapore law, it is trite that
+a statute must be interpreted purposively, having regard to the text of the
+provision as well as the context of the provision within the written law as a
+whole: Tan Cheng Bock v Attorney-General [2017] 2 SLR 850 (“Tan Cheng
+Bock’) at [37]. In other words, the interpretation of the provision in question
+should be informed by other relevant provisions within the same statute (Tan
+Cheng Bock at [44]). To my mind, it was clear that s 14(2) of the SIA must be
+read together with the relevant definition in s 2(2)(b) of the SIA, which extends
+the definition of “entry of appearance” to include “any corresponding
+
+procedures”.
+
+29 In my view, the plain meaning of the term “corresponding procedures”,
+when applied to s 14(2) of the SIA in the context of a leave order granted under
+O 69A r 6 of the ROC, does refer to an application to set aside the leave order.
+Based on a plain reading of s 2(2)(b) of the SIA, it is clear that the phrase “any
+corresponding procedures” is broad and meant to be an inclusive definition.
+Moreover, the very existence of s 2(2)(b) of the SIA suggests that s 14(2) of the
+SIA is meant to apply to a range of procedures, some of which may not have
+stages that are the same in “texture and terminology” to the steps of entry of
+appearance and judgment in default set out in s 14 of the SIA (Josias Van Zyl at
+[71]). In my judgment, the correct approach to determining the applicability of
+s 14(2) of the SIA is therefore to ask if the proceedings in question have a stage
+that is similar in substance to an entry of appearance. As observed in Singapore
+
+Court Practice (Jeffrey Pinsler gen ed) (LexisNexis Singapore, 2021) at para
+
+14
+
+CNX v CNY [2022] SGHC 53
+
+12/1/1, the rationale of entering an appearance is “to enable the defendant to
+officially communicate his intention to defend or challenge the action”. I agreed
+with the defendant that by parity of logic, in proceedings where leave has been
+granted to enforce an arbitral award against a foreign State and the leave order
+has been served on the defendant State in accordance with s 14(1) of the SIA,
+the corresponding procedure to an entry of appearance would be the next step
+that the defendant is required to take to communicate its intention to challenge
+the leave order.2s That next step would, in my view, be the defendant’s
+application to set aside the leave order. As provided for in O 69A r 6(4) read
+with O 69A r6(5) of the ROC, that is the very step that is required to be
+expressly stated in any leave order made under O 69A r 6 of the ROC. I was
+therefore satisfied that an application to set aside the Leave Order did fall within
+the meaning of “corresponding procedures” in s 2(2)(b) of the SIA, such that
+
+s 14(2) of the SIA applied to the present proceedings.
+
+30 Moreover, I was of the view that such a conclusion better accorded with
+the legislative purpose of s 14(2) of the SIA. The fact that s 14(2) of the SIA
+gives States a longer timeline to enter an appearance is an explicit recognition
+of “the reality” that States require more time to react to proceedings, as noted in
+
+Josias Van Zyl at [45]:
+
+45 This accorded with the underlying purpose of s 14 [of
+the SIA]. The two-month time period in s 12 [of the UK SIA]
+serves to acknowledge ‘the reality that states do take time to
+react to legal proceedings’. It is not disproportionately generous,
+since often ‘an award will be made in one country but
+enforcement may be sought elsewhere, perhaps in a number of
+jurisdictions, where assets are or are thought to be located’
+(Norsk Hydro ([12] supra) at [25(4)]). I thus agreed with the
+reasoning at [19] of the AR’s GD ([1] supra) that:
+
+25 DWS at para 43.
+
+CNX v CNY [2022] SGHC 53
+
+States require time to respond to proceedings brought
+
+against them, and enforcement proceedings are no
+
+exception. Proceedings to enforce an award may be
+
+brought in any jurisdiction in which the respondent
+
+State has assets, independent from that jurisdiction’s
+
+connection to the underlying arbitration or the merits of
+
+the substantive dispute. The need for time and
+
+opportunity to respond applies with equal force.
+31 I did not see any reason why the observations in Josias Van Zyl should
+not apply in the context of proceedings to enforce an arbitral award against a
+State. In its submissions, the plaintiff argued that a State does not require as
+much time to react to enforcement proceedings as compared to fresh claims
+against it, since it would be aware of the disputes and arbitral proceedings giving
+rise to the arbitral award, particularly in instances where the State had actively
+and fully participated in the underlying arbitration.’ I did not agree with this
+submission. As noted in Josias Van Zyl (at [46]), while the enforcement of an
+arbitral award may not take a respondent State by surprise, different
+considerations come into play when a State is faced with the potential
+enforcement of the award in a particular jurisdiction, as compared to the
+considerations at play in the underlying arbitral proceedings. In my judgment,
+this remains true even if parallel enforcement proceedings have been brought in
+other jurisdictions — the grounds for resisting enforcement may apply differently
+across different jurisdictions, and different jurisdictions may well have differing
+court processes for resisting enforcement of an arbitral award. Accordingly, I
+disagreed that the defendant should be deprived of its entitlement to the
+additional time allowed under s 14(2) of the SIA, simply because it had
+
+participated in the Arbitration.
+
+26 PWS at para 71.
+
+CNX v CNY [2022] SGHC 53
+
+32 For the foregoing reasons, I disagreed with the plaintiff that s 14(2) of
+the SIA does not apply to a leave order which was granted under O 69A r 6 of
+the ROC and served in accordance with s 14(1) of the SIA.
+
+33 In support of the plaintiffs position, Ms Koh also drew my attention to
+the comments of Teare J in Gold Reserve.” In discussing Burnton J’s judgment
+
+in AIC, the learned Judge stated as follows (at [63]-[64]):
+
+63 The basis of the decision [in AIC] appears to be
+that section 12 [of the UK SIA], which deals in
+subsection (1) with the mode of service, in subsections
+(2) and (3) with entry of appearance and in subsections
+(4) and (5) with judgments in default of appearance,
+must be applicable in its entirety to the proceedings in
+question. The procedure of ordering registration of a
+judgment without notice to the defendant and providing
+for the defendant to apply to set aside the order was not
+the equivalent of the provisions for entry of an
+appearance and for judgments in default of appearance.
+The judge concluded that an application for registration
+of a judgment required the issue and service of a claim
+form.
+
+64 With diffidence and with great respect to Stanley
+Burnton J I do not consider that the provisions of
+section 12 must be read in that manner. In my judgment
+section 12 makes special provision with regard to the
+questions of service, entry of appearance and judgments
+in default of appearance. But if the particular
+proceedings do not involve any one of those steps then
+the special provision of section 12 relating to that step
+does not apply. This appears to me to be clearly so with
+regard to section 12(1). It only applies to writs or other
+documents “required to be served”. If the document
+instituting the proceedings is not required to be served
+then the subsection has no application. If an entry of
+appearance (now acknowledgment of service) is required
+then subsections (2) and (3) apply. If an entry of
+appearance (now acknowledgment of service) is not
+required than the subsections do not apply. If judgment
+in default of appearance (now acknowledgment of
+
+2 PWS at para 47.
+
+CNX v CNY [2022] SGHC 53
+
+service) is sought then subsections (4) and (5) apply. If
+
+it is not sought then they do not apply.
+34 The plaintiff rightly observed that Gold Reserve is authority for the
+proposition that s 12(2) of the UK SIA does not apply by the mere fact that a
+writ or document is served in accordance with s 12(1) of the UK SIA; if
+proceedings commenced against a State do not involve an entry of appearance
+or a corresponding procedure, then s 12(2) of the UK SIA would not have any
+application. * As an aside, AJC was also doubted on this point in General
+Dynamics (UKSC); see above at [26]. However, in my view, Gold Reserve was
+ultimately of limited assistance to the plaintiff. As is clear from the above
+passage, Gold Reserve does not deal with the question before me, which was
+what, if anything, in the context of a leave order, constitutes a corresponding
+procedure to an entry of appearance. Moreover, for the reasons detailed above
+at [28]-[31], I considered that the present proceedings did envision a stage in
+the proceedings that would be the equivalent to an entry of appearance (ie, the
+defendant’s application to set aside the Leave Order) and that accordingly,
+s 14(2) of the SIA would apply to the Leave Order. Thus, Gold Reserve did
+
+little to buttress the plaintiff's case.
+
+35 Ms Koh also referred me to s 14(6) of the SIA, which provides that
+where a writ or other document has been served in a manner previously agreed
+to by a foreign State, the foreign State cannot avail itself of the two-month
+timeline prescribed under s 14(2) of the SIA. Ms Koh submitted that s 14(6) of
+the SIA shows that the procedural privileges afforded to States under s 14 are
+“not immutable”, and can be retracted when it is clear that the State is aware of
+
+the proceedings commenced against it and is able to respond.” As such, the two-
+
+28 PWS at para 47.
+2» PWS at paras 54-56,
+
+CNX v CNY [2022] SGHC 53
+
+month timeline prescribed under s 14(2) of the SIA was simply a “proxy” for
+what was thought to be a reasonable time for a State to conduct internal
+
+consultations before meeting a fresh claim brought against it.*°
+
+36 In my view, this argument was untenable. I did not find that s 14(6) of
+the SIA took anything away from the plain meaning or purpose of's 14(2). While
+the plaintiff may be correct to observe that s 14(6) of the SIA carves out certain
+circumstances under which States are not afforded the privilege of the additional
+time under s 14(2), the fact remains that the plain wording of s 14(2) of the SIA
+
+mandates that States be accorded a two-month timeline in all other cases.
+
+37 Moreover, even if the plaintiff is correct that the privilege of additional
+time under s 14(2) of the SIA is “not immutable”, I did not see any basis on
+which the additional time set out in s 14(2) SIA could be whittled down in the
+present case. In this respect, the plaintiff submitted that the court has the power
+under O 69A r 6(4) of the ROC to decide on the appropriate time period within
+which a State may apply to set aside a leave order, notwithstanding s 14(2) of
+the SIA.3! O 69A r 6(4) of the ROC provides:
+
+(4) Within 14 days after service of the order [granting leave to
+enforce an arbitral award] or, if the order is to be served out of
+the jurisdiction, within such other period as the Court may fix,
+the debtor may apply to set aside the order and the award shall
+not be enforced until after the expiration of that period or, if the
+debtor applies within that period to set aside the order, until
+after the application is finally disposed of.
+
+[emphasis added]
+38 The plaintiff contended that the phrase “within such other period as the
+
+Court may fix” expressly leaves it open to the court to decide on the appropriate
+
+30 PWS at para 63.
+u PWS at paras 66-70.
+
+CNX v CNY [2022] SGHC 53
+
+time period within which a debtor State may apply to set aside a leave order,
+notwithstanding the two-month timeline provided for in s 14(2) of the SIA? In
+support of its position, the plaintiff cited the English Court of Appeal decision
+in General Dynamics United Kingdom Ltd v State of Libya [2019] 1 WLR 6137
+(“General Dynamics (CAY’), as well as the decision of the High Court of
+Australia in Firebird Global Master Fund II Ltd v Republic of Nauru and
+another [2015] 326 ALR 396 (“Firebird”).
+
+39 I was not persuaded by the plaintiff's arguments and the case authorities
+cited above at [38] did not assist the plaintiff. With regard to General Dynamics
+(CA), Ms Koh drew my attention to the following excerpt from the judgment:
+
+51 ... such order must, in accordance with CPR r 62.18(9),
+
+set a period within which the state may apply to set aside the
+
+order and provide for it not to be enforced meanwhile. No doubt,
+
+in the case of a foreign state, the normal such period should be
+
+two months by analogy with section 12(2) but there is no
+
+statutory requirement that that period must always be given.
+
+[emphasis added]
+
+40 The above comments were made by the English Court of Appeal in
+endorsement of Burnton J’s decision in AJC. However, as I noted above (at
+[26]), AIC was not followed by the UK Supreme Court in General Dynamics
+(UKSC) and the decision in General Dynamics (CA) was in fact reversed by the
+UK Supreme Court. I therefore did not consider General Dynamics (CA) to be
+persuasive. Further, General Dynamics (CA) itself should be understood in its
+proper context. The issue that arose in that case was whether the requirements
+of s 12(1) of the UK SIA (in pari materia with s 14(1) of the SIA) were
+applicable to a leave order and if so, whether they were mandatory or capable
+
+of being waived or dispensed with. The decision did not therefore concern
+
+2 PWS at paras 66-68.
+
+20
+
+CNX v CNY [2022] SGHC 53
+
+s 12(2) of the UK SIA and as I mentioned at [26] above, the UK Supreme Court
+declined to express any concluded view on the applicability of s 12(2) of the
+
+UK SIA.
+
+Al Likewise, the observations in Firebird also need to be read and
+understood in context. The question in Firebird was whether a summons
+application to register a foreign judgment had to be served on the judgment
+debtor State, through one of the modes of service prescribed under the Foreign
+States Immunities Act 1985 (Cth). Justices Nettle and Gordon answered this
+question in the negative (at [215]). Nonetheless, they noted that under the
+Uniform Civil Procedure Rules 2005 (NSW), a court could still require the
+service of the summons through one of the prescribed modes of service, in
+situations where it would be expedient to do so. Where the judgment debtor is
+a foreign State, the court would also usually afford a longer time period to the
+foreign State to apply to set aside the registration order. It was in this context
+that the learned Judges made the observations that the plaintiff relied on, ie, that
+the rules on service are “facultative ... rather than imposing an inevitable and
+ineluctable service requirement regardless of the facts and circumstances of the
+
+case” (at [216]).
+
+42 From the foregoing, it is clear that the true purport of Nettle and
+Gordon JJ’s comments is that the court has a discretion to fix a /onger time
+period for setting aside a registration order where it is expedient to do so, and
+not that the court is entitled to shorten the time period for setting aside a
+registration order despite what may be prescribed by statute. Moreover, the
+comments of the learned Judges were made obiter, since the question before the
+High Court of Australia in Firebird did not touch on the time that a State had to
+set aside a registration order or leave order. I therefore found the plaintiffs
+
+reliance on Firebird to be of little assistance to its case.
+
+21
+
+CNX v CNY [2022] SGHC 53
+
+43 Ona proper reading of s 14(2) of the SIA, the plaintiff’s proposition that
+the court retains a residual discretion under O 69A r 6(4) of the ROC to fix any
+time limit it sees fit for an application to set aside a leave order was simply
+unsustainable. Section 14(2) of the SIA provides that “[a]ny time for entering
+an appearance (whether prescribed by Rules of Court or otherwise) shall begin
+to run 2 months after the date on which the writ or document is so received”
+[emphasis added]. It is clear from the italicised wording that the court’s power
+to fix a timeline under the ROC does not supersede or supplant the timeline
+prescribed under s 14(2) of the SIA — to hold otherwise would result in the tail
+wagging the dog. Rather, s 14(2) of the SIA and the ROC are meant to work in
+tandem, such that any time period fixed by the court under O 69A r 6(4) of the
+ROC begins to run two months afier the date of service. Where a foreign State
+has been served with a leave order to enforce an arbitral award, the effect of
+s 14(2) of the SIA is therefore this: the foreign State has two months under
+s 14(2) SIA to set aside the leave order, plus any further time afforded to it by
+the court in exercise of its discretionary powers under O 694A r 6(4) of the ROC.
+I elaborate on this below at [50]-[52], when I consider Issue 2. Suffice to say
+for now that I did not agree with the plaintiff that the court has power under
+O 69A r 6(4) of the ROC to shorten the time a State has for applying to set aside
+a leave order, irrespective of what is stipulated in s 14(2) of the SIA. In my
+judgment, the reference to “such other period as the Court may fix” in O 69A
+r 6(4) of the ROC simply refers to the court’s power to extend the period for
+setting aside a leave order beyond the minimum allowed under s 14(2) of the
+
+SIA.
+
+44 For the reasons set out above, I found that an application by the
+defendant to set aside the Leave Order constituted the corresponding procedure
+
+to an entry of appearance under s 14(2) of the SIA, and that the time the
+
+22
+
+CNX v CNY [2022] SGHC 53
+
+defendant had to set aside the Leave Order was therefore governed by s 14(2)
+of the SIA.
+
+Issue 2: Computation of time under s 14(2) of the SIA
+
+45 Having answered Issue | in the affirmative, I now turn to the issue of
+how time to set aside the Leave Order should be computed. Mr Bull submitted
+that the two-month period under s 14(2) of the SIA should be added to the 21
+days provided for in the Leave Order, such that the defendant would be entitled
+to two months and 21 days commencing from 20 October 2021, being the date
+on which the Leave Order was served. Time for applying to set aside the Leave
+Order would therefore expire on 11 January 2022. As I summarised at [15]
+above, Ms Koh advanced two alternative submissions on how the time should
+
+be computed:
+
+(a) First, the reference to an “entry of appearance” in s 14(2) of the
+SIA should be construed as referring not only to an application to set
+aside the Leave Order, but also to any step in the proceedings taken by
+the foreign State that indicates the State has had a chance to respond to
+the proceedings.*4 The plaintiff argued that the defendant took a step in
+the proceedings when it appointed D&N as local counsel on 9 November
+2021 and filed SUM 5125 on 10 November 2021. The plaintiff
+submitted that the defendant therefore entered an appearance on
+9 November 2021 and accordingly should only have 21 days from
+9 November 2021 (ie, up till 30 November 2021) to apply to set aside
+the Leave Order.
+
+8 DWS at para 61.
+aM PWS at para 113.
+
+23
+
+CNX v CNY [2022] SGHC 53
+
+(b) Alternatively, the plaintiff argued that based on a plain reading
+of s 14(2) of the SIA, the defendant should have a maximum of two
+months from the date on which the Leave Order was received, to apply
+
+to set aside the Leave Order.**
+
+46 With regard to the submissions at [45(a)] above, I disagreed that the
+appointment of D&N and the filing of SUM 5125, taken singly or together,
+constituted an “entry of appearance” or a corresponding procedure for the
+purposes of s 14(2) of the SIA. The plaintiff's interpretation of s 14(2) of the
+SIA is not supported by the ordinary meaning of the words in the provision. As
+noted above at [29], an entry of appearance enables the defendant to officially
+communicate his intention to defend or challenge the action. It is a specific
+action as compared to some other step in the proceedings. The plaintiffs
+interpretation was not, in my view, a possible interpretation having regard to the
+ordinary meaning of s 14(2) of the SIA. Thus, the plaintiff’s interpretation did
+not pass the first step of a purposive interpretation of s 14(2) of the SIA, which
+is to ascertain possible interpretations of the legislative provision: see Tan
+
+Cheng Bock at [37].
+
+47 Moreover, if I accepted the plaintiff's contention, the defendant would
+paradoxically be disadvantaged for trying to avail itself of the two-month
+timeline it would otherwise be entitled to under s 14(2) of the SIA. On the
+plaintiff's reasoning, the defendant would have been entitled to two months
+under s 14(2) of the SIA to react to the enforcement proceedings, once the Leave
+Order was served on it. Yet, by the very act of filing SUM 5125 to seek a
+declaration that it was indeed entitled to the time provided for in s 14(2) of the
+
+SIA, the defendant had supposedly waived its entitlement to the additional two
+
+35 PWS at para 120.
+
+24
+
+CNX v CNY [2022] SGHC 53
+
+months and would be left with only 21 days to apply to set aside the Leave
+Order. This somewhat circular and tautological conclusion cannot plausibly be
+the manner in which s 14(2) of the SIA was intended to operate. It would also
+fly in the face of the well-established canons of statutory interpretation that
+Parliament shuns tautology and does not legislate in vain: Tan Cheng Bock at
+
+[38].
+
+48 In any case, even if, arguendo, I accepted that the phrase “entry of
+appearance” in s 14(2) of the SIA encompassed any further step in the
+proceedings, I was not persuaded that anything done by the defendant thus far
+amounted to a further step in the proceedings. As held by the Court of Appeal
+in Carona Holdings Pte Ltd and others v Go Go Delicacy Pte Ltd [2008] 4
+SLR(R) 460, a “step in the proceedings” is one that evinces a party’s
+
+“unequivocal submission” to the jurisdiction of the courts (at [95]).
+
+49 On the facts before me, I did not think that the actions of the defendant
+satisfied this requirement. The appointment of D&N as counsel or the filing of
+SUM 5125 (which essentially asked for an extension of the deadline by which
+the defendant could apply to set aside the Leave Order) did not ipso facto
+evidence the defendant’s unequivocal intention to challenge the Leave Order. A
+defendant may very well apply for more time to apply to set aside a leave order,
+while it considers more carefully whether it indeed wishes to apply to set aside
+the order. In any event, I note that the defendant expressly reserved its right to
+dispute the regularity of service of the Leave Order (and consequently, the
+court’s jurisdiction) in the supporting affidavit filed with SUM 5125.% Put
+simply, it did not appear to me that any step taken by the defendant thus far
+
+36 Ist affidavit of AS at para 16.
+
+25
+
+CNX v CNY [2022] SGHC 53
+
+amounted to an unequivocal submission to the jurisdiction of the Singapore
+
+courts or an unequivocal intention to challenge the Leave Order.
+
+50 With regard to the plaintiff's second argument set out above at [45(b)],
+I was ultimately not persuaded that a plain reading of s 14(2) of the SIA
+supported the plaintiff's contention that the defendant should be entitled only to
+a maximum of two months to apply to set aside the Leave Order. In my
+judgment, a plain reading of s 14(2) of the SIA supported the defendant’s
+contention that it was entitled to two months and 21 days from the date of
+service of the Leave Order. As I suggested above at [43], on a proper reading of
+s 14(2) of the SIA, the two-month timeline under s 14(2) of the SIA is meant to
+be added to any time a State otherwise has for entering an appearance (or
+undertaking a corresponding procedure). This is the natural meaning of the
+words “/a/ny time for entering an appearance (whether prescribed by Rules of
+Court or otherwise) shall begin to run 2 months after the date on which the writ
+or document is so received” [emphasis added in italics and bold italics]. Put
+another way, the effect of the wording of s 14(2) of the SIA is to delay by two
+months the point at which the time period for entering an appearance (or
+complying with a corresponding procedure, as the case may be) would
+
+otherwise begin to run.
+
+51 Accordingly, I considered that the correct approach to computing the
+time that a State has under s 14(2) of the SIA to enter an appearance is as
+follows: (a) determine the “normal” or default time period that the State would
+have for entering an appearance, if not for the existence of s 14(2) of the SIA,
+and (b) add two months to this time period. As to how the normal time period
+for entering an appearance should be ascertained, s 14(2) of the SIA provides
+that the time period for entering an appearance may be “prescribed by Rules of
+
+Court or otherwise”. In my view, this simply makes clear that the normal time
+
+26
+
+CNX v CNY [2022] SGHC 53
+
+limit for entering an appearance may be contained in the ROC or elsewhere. So,
+for instance, in a writ action where a foreign State is the defendant, the foreign
+State would have the usual prescribed time period of 21 days (or such extended
+period as the Court may allow) under O 12 r 4(b) of the ROC, p/us an additional
+
+two months by operation of s 14(2) of the SIA, to enter an appearance.
+
+52 Where there is no time limit stipulated in the ROC, the question then is
+whether a time limit is prescribed “otherwise”. The words “or otherwise” in
+s 14(2) of the SIA would, in my view, include a time limit contained within an
+order of court. Thus, where an order required to be served under s 14(1) of the
+SIA, such as the Leave Order, provides for a time limit for a defendant State to
+undertake a procedure corresponding to entering an appearance, the time limit
+
+stated in the order begins to run two months after the date of service of the order.
+
+53 Applying my observations above (at [50]-[52]) to the present case, I
+agreed with Mr Bull’s submissions that the defendant was entitled to a total of
+two months and 21 days to apply to set aside the Leave Order. The time for
+applying to set aside a leave order is prescribed in O 69A r 6(4) of the ROC as
+“{w]ithin 14 days after service of the order or, if the order is to be served out of
+the jurisdiction, within such other period as the Court may fix”. On the facts
+before me, it is plain that the assistant registrar exercised his discretion under
+O 69A r 6(4) of the ROC to grant a longer time of 21 days to set aside the Leave
+Order, instead of the default time limit of 14 days. Accordingly, by virtue of
+s 14(2) of the SIA, the 21-day limit in the Leave Order would only begin to run
+two months after the date on which the Leave Order was served on the
+defendant, such that the defendant had a total of two months and 21 days (ie, up
+
+until 11 January 2022) to apply to set aside the Leave Order.
+
+27
+
+CNX v CNY [2022] SGHC 53
+
+54 In this regard, the conclusion I have reached above is also consistent
+with how the relevant time to set aside a leave order was computed in several
+cases that were cited by the parties. First, in Norsk Hydro, Gross J held that the
+Republic of Ukraine was entitled to two months under s 12(2) of the UK SIA
+plus the 21 days stipulated in the permission order, to apply to set aside the order
+(at [25(6)]), and that therefore, on the facts, the third party debt application had
+been commenced by Norsk prematurely. Likewise, in Dallah Real Estate and
+Tourism Holding Co v Ministry of Religious Affairs, Government of Pakistan
+[2009] 1 All ER (Comm) 505, the claimants’ solicitors initially drafted a leave
+order stating that the Government of Pakistan had 31 days to apply to set aside
+the leave order. After the English High Court observed that the claimants had
+failed to take into account the timeline provided for in s 12(2) of the UK SIA
+(at [54]), the claimant resubmitted and obtained a new leave order granting the
+Government of Pakistan two months and 23 days to apply to set aside the leave
+order. In addition, in Gold Reserve, the leave order provided that the Republic
+of Venezuela could apply to set it aside within two months and 22 days after
+service of the order (at [55]). On the other hand, I also noted that in General
+Dynamics (UKSC), the leave order provided that the State of Libya had two
+months from the date of the order to apply to set it aside (at [3]). Nonetheless, I
+was cognizant of the fact that none of these cases considered the appropriate
+methodology for computing the time limit for setting aside a leave order. I
+therefore based my decision primarily on the plain wording of s 14(2) of the
+
+SIA (as detailed at [50]-[52] above).
+
+55 For the foregoing reasons, I agreed with the defendant that it had a total
+of two months and 21 days to apply to set aside the Leave Order. In my
+judgment, the period of 21 days stated in the Leave Order was therefore
+
+incorrect. It should instead have stipulated that the defendant was entitled,
+
+28
+
+CNX v CNY [2022] SGHC 53
+
+pursuant to s 14(2) of the SIA, to two months and 21 days to apply to set aside
+the Leave Order. Alternatively, the defendant ought to have been separately
+notified that it had an additional two months under s 14(2) of the SIA to apply
+
+to set aside the Leave Order.
+
+Issue 3: Whether the defendant should be granted an extension of time
+under O 3 r 4(1) of the ROC
+
+56 If I was wrong in my interpretation of s 14(2) of the SIA, there remained
+the question of whether an extension of time should be afforded to the defendant
+pursuant to the court’s powers under O 3 r 4(1) of the ROC. The existence of
+this power was not disputed by the parties. For convenience, O 3 r 4(1) ROC
+
+provides that:
+
+Extension, etc., of time (O. 3, r. 4)
+
+4.—(1) The Court may, on such terms as it thinks just, by order
+extend or abridge the period within which a person is required
+or authorised by these Rules or by any judgment, order or
+direction, to do any act in any proceedings.
+
+57 It was common ground that the factors that a court should consider when
+deciding whether to exercise its powers under O 3 r 4(1) of the ROC were
+summarised by Justice Belinda Ang Saw Ean in Bloomberry Resorts and Hotels
+Inc and another v Global Gaming Philippines LLC and another [2021] 3 SLR
+725 (“Bloomberry Resorts’) at [49]:
+
+49 The words ‘such terms as it thinks just’ gives the court
+discretion to grant time extension in order to achieve justice in
+the circumstances of the case. Generally, the factors the court
+takes into consideration in deciding whether to grant an
+extension of time are: (a) the length of delay; (b) the reasons for
+delay; (c) the chances of the defaulting party succeeding on
+appeal if the time for appealing were extended; and (d) the
+degree of prejudice to the would-be respondent if the extension
+of time were granted: see Sun Jin Engineering Pte Ltd v Hwang
+Jae Woo [2011] 2 SLR 196 at [29]; AD v AE [2004] 2 SLR(R) 505
+at [10]) with the courts generally focusing on the first two:
+
+29
+
+CNX v CNY [2022] SGHC 53
+
+Falmac Ltd v Cheng Ji Lai Charlie and another matter [2014] 4
+SLR 202 at [14] ...
+58 Applying the factors set out in Bloomberry Resorts to the present case,
+I considered it just to grant the defendant an extension of time up to and
+including 11 January 2022 to challenge the Leave Order. Allowing the
+defendant an extension of time of approximately six weeks from the date of the
+hearing before me would not cause inordinate delay. More importantly, in my
+judgment, there were valid reasons for this delay. As discussed above at [30]-
+[31], foreign States reasonably require more time to react to proceedings to
+enforce an arbitral award, even where the State participated in the underlying
+arbitration. In any event, on the evidence before me, it was clear that the
+defendant did require more time to react to the enforcement proceedings
+commenced against it. While the Leave Order was first served on the defendant
+on 20 October 2021, the Leave Order was mistakenly forwarded to the wrong
+government department of the defendant, and only forwarded to the correct
+authority on 29 October 2021.37 The defendant notified its international counsel,
+White & Case Pte Ltd (“White & Case”), of the Leave Order on the same day.**
+White & Case then started the process of instructing Singapore counsel on
+1 November 2021, and eventually appointed D&N to act for the defendant in
+the present proceedings on 9 November 2021.*° If no extension of time were
+granted to the defendant, the defendant would have had to apply to set aside the
+Leave Order by 10 November 2021 (ie, 21 days after service of the Leave Order
+on 20 October 2021), merely one day after D&N had been appointed. Based on
+the foregoing, it was clear to me that the defendant reasonably required more
+
+time to respond to the Leave Order.
+
+7 2nd affidavit of AS dated 25 November 2021 (“2nd affidavit of AS”) at paras 21-22.
+
+8 2nd affidavit of AS at para 28.
+” 2nd affidavit of AS at paras 30-31.
+
+30
+
+CNX v CNY [2022] SGHC 53
+
+59 I did not think that the defendant should be expected to react to the
+enforcement proceedings commenced by the plaintiff within a shorter span of
+time, simply because the defendant had participated in the underlying
+Arbitration, or because the defendant has been represented by the same
+international counsel in proceedings in other jurisdictions to resist enforcement
+of the Final Award.” The fact remains that proceedings had not previously been
+brought to enforce the Final Award in Singapore. As I have elaborated above at
+[31], court processes and grounds for resisting enforcement may differ across
+jurisdictions; the defendant therefore cannot be expected to react more quickly
+
+simply because it is resisting enforcement in other jurisdictions.
+
+60 I was not persuaded by the plaintiff's arguments that granting an
+extension of time would cause the plaintiff substantial or irremediable prejudice.
+The plaintiff complained that the defendant was seeking an extension of time to
+delay enforcement of the award, and alleged that the defendant was dissipating
+its assets in the meantime.*! The plaintiff relied primarily on various news
+articles to support its allegations — in my view, this was clearly inadequate. At
+best, the articles cited by the plaintiff merely repeated accusations made by third
+parties. As Mr Bull pointed out during oral arguments, if the plaintiff genuinely
+believed that the defendant as a State party was dissipating assets in an effort to
+frustrate the Final Award, the appropriate remedy would have been a Mareva
+
+injunction” — however, this was not sought by the plaintiff.
+
+61 For these reasons and if necessary as an alternative ground for my
+
+decision, I found it just, in the exercise of my discretionary powers under
+
+40 3rd affidavit of IR at paras 40-45; 2nd affidavit of AS at paras 29 and 33.
+
+at PWS at paras 90-96 and 107-112.
+2 Notes of Evidence, 3 December 2021, p 6, lines 13-14.
+
+31
+
+CNX v CNY [2022] SGHC 53
+
+O3r4(1) of the ROC, to grant the defendant an extension of time until 11
+January 2022 to apply to set aside the Leave Order. I therefore made the
+following orders in SUM 5125:
+
+(a) I allowed the defendant until 11 January 2022 to apply to set
+
+aside the Leave Order; and
+
+(b) I ordered that the Final Award shall not be enforced until after
+11 January 2022, or if the defendant makes an application by 11 January
+2022 to set aside the Leave Order, until that application is finally
+disposed of.
+
+Issue 4: Whether the defendant should be required to furnish security
+
+62 Turning now to the plaintiff’s application in SUM 5275, this concerned
+the plaintiff's application for security amounting to the full sum of the Final
+Award plus interest (ie, US$137,228,887), in the event that the defendant was
+allowed an extension of time to apply to set aside the Leave Order. I dismissed
+
+SUM 5275 as I found no juridical basis for the application.
+
+63 In its written submissions, the plaintiff relied on s 31(5) of the IAA as
+
+the basis for its application.*? Section 31(5) of the LAA provides as follows:
+
+(5) Where, in any proceedings in which the enforcement of a
+foreign award is sought by virtue of this Part, the court is
+satisfied that an application for the setting aside or for the
+suspension of the award has been made to a competent authority
+of the country in which, or under the law of which, the award
+was made, the court may —
+
+(a) if the court considers it proper to do so, adjourn the
+proceedings or, as the case may be, so much of the
+proceedings as relates to the award; and
+
+8 PWS at para 129.
+
+32
+
+CNX v CNY [2022] SGHC 53
+
+(b) on the application of the party seeking to enforce the
+award, order the other party to give suitable security.
+
+[emphasis added]
+
+64 From the wording of s 31(5) of the IAA, a threshold requirement is that
+“an application for the setting aside or for the suspension of the award has been
+made to a competent authority of the country in which, or under the law of
+which, the award was made”. In the present proceedings, it was undisputed that
+no such application had been taken out or was pending before the seat court in
+Danubia (see above at [5]). I therefore could not see how s 31(5) of the IAA was
+even applicable in the present case. All the authorities cited by the plaintiff in
+its written submissions, including Continental Transfert Technique Ltd v The
+Federal Government of Nigeria [2010] EWHC 780 (Comm), involved in
+substance some form of proceedings taken or pending before the seat court to
+challenge the award. No authority was cited to me where a court, faced with
+similar circumstances as those before me, invoked the equivalent of s 31(5) of
+the IAA as the juridical basis for ordering the award debtor to furnish security
+as a condition of granting it time to apply to challenge a leave order.
+Unsurprisingly, at the hearing before me, Ms Koh conceded that s 31(5) of the
+
+IAA had no application in the present case.“
+
+65 Instead, Ms Koh put forward a number of alternative bases for the
+plaintiffs application. The first of which was s 18(2) of the SCJA read with
+paragraph 15 of the First Schedule to the SCJA, which concerns the court’s
+
+power to order interim payments:
+
+Interim payment
+
+15. Power to order a party in a pending proceeding to make
+interim payments to another party or to a stakeholder or into
+court on account of any damages, debt or other sum, excluding
+
+“4 Notes of Evidence, 3 December 2021, p 13, line 12.
+
+33
+
+CNX v CNY [2022] SGHC 53
+
+costs, which he may subsequently in the proceeding be
+
+adjudged to be liable to pay.
+66 I disagreed that this provision had any relevance or application to the
+present proceedings. Section 18(3) of the SCJA provides that the court’s powers
+in the First Schedule to the SCJA must be exercised in accordance with, inter
+alia, the ROC. First, the plaintiff's application was, essentially, for the
+defendant to furnish security and not for payment; an interim payment
+application was therefore, and by definition, a very different creature. Second,
+the plaintiff did not in any event bring an application for interim payment under
+O 29 r 10 of the ROC, which is the relevant provision governing applications
+for interim payment. Even assuming that an application for an interim payment
+was the appropriate application to make in the circumstances before me, such
+an application requires the applicant to show that the grounds in either O 29r 11
+or O 29r 12 of the ROC are made out. The plaintiff did not adduce any evidence
+in the present proceedings that would have assisted it to advance any arguments
+
+that an interim payment was warranted, whether unconditionally or otherwise.
+
+67 The second alternative basis advanced by Ms Koh was pursuant to the
+court’s inherent powers. I agreed with Mr Bull that the present case did not
+warrant an exercise of my inherent powers under O 92 r 4 of the ROC. It is well-
+established that the court will generally not invoke its inherent powers where
+there is an existing rule already covering the situation at hand, save in the most
+exceptional circumstances: Wellmix Organics (International) Pte Ltd v Lau Yu
+Man [2006] 2 SLR(R) 117 at [81]. Further, the “essential touchstone” for the
+court’s exercise of its discretionary inherent powers is really one of “need”: Wee
+Soon Kim Anthony v Law Society of Singapore [2001] 2 SLR(R) 821 at [27]. In
+
+this case, I disagreed that the present facts were sufficiently exceptional to
+
+34
+
+CNX v CNY [2022] SGHC 53
+
+warrant recourse to the court’s inherent powers; nor was there any need to do
+
+so. I therefore dismissed SUM 5275.
+
+Conclusion
+
+68 For the reasons set out in these grounds of decision, I allowed the
+defendant’s application in SUM 5125 on the terms set out above at [61] and
+dismissed SUM 5275.
+
+69 I awarded costs of both applications to the defendant. Taking into
+consideration the novelty surrounding the issues pertaining to s 14(2) of the SIA,
+I fixed costs in the round at $$22,000 together with disbursements at S$3,400
+to be paid by the plaintiff to the defendant.
+
+S Mohan
+Judge of the High Court
+
+Koh Swee Yen, Quek Yi Zhi Joel, Dana Chang Kai Qi, Andrea Seet
+Sze Yuen and Axl Rizqy (WongPartnership LLP) for the plaintiff;
+Cavinder Bull SC, Lin Shumin and Lee Zhe Xu (Drew &
+
+Napier LLC) for the defendant.
+
+35
+

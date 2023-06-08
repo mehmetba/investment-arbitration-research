@@ -1,0 +1,741 @@
+CITATION: Nelson v. The Government of the United Mexican States, 2022 ONSC 1193
+COURT FILE NO.: CV-21-00663626-00CL
+DATE: 2022-02-16
+
+ONTARIO
+
+SUPERIOR COURT OF JUSTICE
+
+(COMMERCIAL LIST)
+BETWEEN:
+JOSHUA DEAN NELSON
+
+Applicant Mark A. Gelowitz, Sonja Pavic and Riyaz
+—and— Dattu for the Applicant
+
+THE GOVERNMENT OF THE UNITED
+MEXICAN STATES
+
+the Respondent
+
+)
+)
+)
+)
+)
+)
+)
+) Vincent De Rose and Jennifer Radford for
+Respondent }
+)
+)
+)
+)
+)
+)
+
+HEARD: November 23, 2021
+
+PENNY J.
+
+(1)
+
+[2]
+
+[3]
+
+REASONS FOR JUDGMENT.
+
+The Applicant, Mr. Joshua Dean Nelson, seeks to set aside an arbitral award dated June 5,
+2020 (as corrected on July 31, 2020) made by a tribunal consisting of three arbitrators
+constituted under Chapter 11 of the North American Free Trade Agreement in an
+international arbitration proceeding between Mr. Nelson and the Government of the United
+Mexican States.
+
+The application is made under Article 34(2)(a)(ii) of the Model Law on International
+Commercial Arbitration, which provides the court with discretion to set aside an award on
+the basis that: “the party making the application... was otherwise unable to present his
+case.” Here, the applicant claims he was denied natural justice and procedural fairness
+because: (a) the award is based on a theory of the case not pleaded or argued by either of
+the parties; and, b) the tribunal ignored or failed to take the applicant’s expert evidence into
+account on issues which formed the basis on the tribunal’s award.
+
+For the reasons that follow, the application is dismissed.
+
+)22 ONSC 1193 (CanLII)
+
+20
+
+Page: 2
+
+Background
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+Mr. Nelson is an experienced businessperson in the telecommunications industry. In 2010,
+he invested in Tele Facil México, S.A. de C.V. (“Tele Facil”), a corporation organized
+under the laws of Mexico. On May 17, 2013, Tele Facil obtained a 30-year concession
+from Mexico’s Ministry of Communications and Transportation to operate a public
+telecommunications network.
+
+Tele Facil required interconnection rights with a Mexican carrier to allow Tele Facil’s
+customers to communicate with customers on other networks. Tele Facil approached
+Teléfonos de México and Teléfonos del Noroeste (which I will refer to jointly as
+“Telmex”), Mexico’s largest telecom providers.
+
+On August 26, 2013, Telmex offered Tele Facil a draft interconnection agreement for a
+period expiring on December 31, 2017. The proposed agreement included Telmex’s
+standard reciprocal interconnection rate that Tele Facil would charge for incoming calls.
+The standard reciprocal interconnection rate proposed was USD 0.00975 per minute of use.
+Telmex made no provision for what is called “indirect interconnection” and proposed
+certain portability charges. Tele Facil did not immediately respond to this draft offer.
+
+Meanwhile, on March 6, 2014, the Federal Institute of Telecommunications (“IFT”)
+declared Telmex to be a preponderant economic agent in the telecommunications sector.
+Twenty days later, on March 26, 2014, the IFT issued specific asymmetrical regulations
+which included the obligation of Telmex to provide indirect interconnection and a special
+interconnection rate of approximately USD 0.00172. This was, obviously, a significant
+reduction from the standard reciprocal rate offered to Tele Facil in the August 26, 2013
+draft.
+
+In a letter dated July 7, 2014, and sent the following day, Tele Facil provided its comments
+on the draft standard interconnection agreement that Telmex had sent on August 26, 2013.
+Tele Facil requested that Telmex include provisions allowing indirect interconnection and
+to eliminate portability charges. The language used in this letter is significant to the issues
+in the arbitration and in the award. In abbreviated form, the letter says:
+
+Re: Comments on the draft interconnection agreement
+
+In follow-up to the various negotiation meetings held at your client’s office... and
+in order to reach an agreement for the interconnection of the corresponding public
+telecommunications networks of both companies, attached please find Tele
+Facil’s comments on the draft framework agreement...
+
+We appreciate you taking into consideration our comments and modify the
+version we have received so that Tele Facil may be in a position to sign the draft
+agreement.
+
+1193 (CanLll)
+
+ONSC
+
+a
+a
+So
+a
+
+[9]
+
+[10]
+
+(11)
+
+(12]
+
+(13]
+
+[14]
+
+Page: 3
+
+On July 11, 2014, three days after providing its comments to Telmex, Tele Facil initiated
+disagreement proceedings under Article 42 of Mexico’s Federal Telecommunications Law
+(“FTL”) before the IFT to resolve alleged “divergences” between Tele Facil and Telmex
+over: (i) indirect interconnection; and (ii) portability charges.
+
+In its response to Tele Facil’s disagreement proceedings, Telmex submitted a different draft
+agreement than the one presented to Tele Facil on August 26, 2013. This draft did not
+include portability charges and allowed indirect interconnection. Telmex also argued that
+the parties had a disagreement on the applicable rates and requested the IFT to determine
+the rates.
+
+On November 26, 2014, the IFT, by unanimous decision, issued Resolution 381. In
+Resolution 381, the IFT:
+
+a) concluded that Telmex, in the course of the interconnection disagreement proceeding,
+had accepted the provision of indirect interconnection service and eliminated the portability
+clause;
+
+b) dismissed Telmex’s argument in connection with an alleged disagreement on
+interconnection rates and concluded that these rates “were defined in the draft agreement
+for the provision of fixed local interconnection services and its exhibits, sent by Telmex to
+Tele Facil on August 26, 2013; and
+
+c) ordered the parties to “interconnect their telecommunications networks and initiate the
+provision of the corresponding interconnection services” and “execute the interconnection
+agreement of their telecommunications networks” within 10 business days following the
+notification of the resolution.
+
+On December 10, 2014, Telmex sent to Tele Facil a new draft agreement. Telmex took the
+position that, under the new regulatory framework, it could no longer lawfully offer the
+USD 0.00975 reciprocal rate. The new draft agreement included indirect interconnection
+and did not include portability charges, as directed by the IFT. It also included an annex
+specifying that the rate of USD 0.00975 would only be valid until December 31, 2014.
+
+Tele Facil refused to accept this limitation on the rate and, on December 19, 2014,
+requested the IFT to enforce Resolution 381. At around the same time, Telmex challenged
+Resolution 381, through an amparo indirecto before a specialized Mexican court called the
+First District Court for Administrative Matters, specialized in Economic Competition,
+Broadcasting and Telecommunications. The amparo is a proceeding roughly analogous to
+judicial review in Canada. Both Telmex and the IFT’s Compliance Unit also sought
+“confirmation of criteria” from the IFT concerning the meaning and effect of Resolution
+381 as it related to rates.
+
+On April 8, 2015, the IFT, by a majority vote, issued Decree 77 in response to Telmex’s
+confirmation request. Decree 77 determined that the IFT’s powers were restricted to
+resolving only conditions not agreed upon by the parties which were, in the case of Tele
+Facil and Telmex, indirect interconnection and portability charges. Therefore, Resolution
+
+1193 (CanLll)
+
+ONSC
+
+a
+a
+So
+a
+
+(15]
+
+[16]
+
+(17]
+
+[18]
+
+Page: 4
+
+381 did not confirm or in any way establish the interconnection rate between the parties;
+nor did Decree 77. Decree 77 simply ordered the parties to interconnect their systems
+physically within ten business days and obligated the parties to execute the corresponding
+interconnection agreement without specifying any deadline for doing so.
+
+Telmex offered a new interconnection agreement to Tele Facil, which was declined.
+Accordingly, on June 16, 2015, Telmex submitted a new interconnection disagreement to
+the IFT, claiming that there was a disagreement on different terms, including the applicable
+interconnection rate for 2015.
+
+On October 7, 2015, the IFT issued Resolution 127 deciding Telmex’s interconnection
+disagreement proceeding. Resolution 127 held that the original interconnection agreement
+between Telmex and Tele Facil was null and void because it was never signed by Telmex.
+The IFT found that the applicable interconnection rate for calendar 2015 would be USD
+0.000253. Two of the five IFT commissioners dissented.
+
+On November 11, 2015, Tele Facil filed an amparo action against the IFT concerning
+Resolution 127 on the ground that it had illegally left without effect Resolution 381. The
+Mexican court dismissed Tele Facil’s amparo action. Tele Facil filed an appeal of this
+decision which was also dismissed.
+
+The Mexican court also dismissed Telmex’s earlier amparo action. Both Tele Facil and
+Telmex appealed this decision but those appeals were ultimately withdrawn.
+
+The Arbitration
+
+{19}
+
+[20]
+
+[21]
+
+Tele Facil decided that further challenges before the IFT and the local courts would be
+prolonged, costly and futile. Therefore, Mr. Nelson initiated the NAFTA arbitration against
+Mexico in 2016. In the arbitration, he alleged that Mexico’s measures resulted in an
+expropriation of Tele Facil’s interconnection rights in violation of Article 1110 of NAFTA,
+and that he and Tele Facil had been denied fair and equitable treatment by Mexico contrary
+to Article 1105 of NAFTA.
+
+The applicant alleged that there were three measures that resulted in expropriation: (i) the
+“confirmation of criteria” proceedings initiated by Telmex and the Compliance Unit of the
+IFT that allegedly avoided the enforcement of Resolution 381; (ii) Decree 77 through
+which Resolution 381 was allegedly repudiated and; (iii) Resolution 127 that, contrary to
+Resolution 381, imposed a new interconnection rate detrimental to Tele Facil but favorable
+to Telmex.
+
+The process followed by the arbitration was as follows:
+° On November 7, 2017, the applicant filed his statement of claim. The claim was
+
+280 pages in length and was accompanied by 7 witness statements, 4 expert reports,
+95 factual exhibits and 101 legal exhibits.
+
+1193 (CanLll)
+
+ONSC
+
+a
+a
+So
+a
+
+[22]
+
+[23]
+
+Page: 5
+
+° On March 14, 2018, the respondent filed its statement of defence. The defence was
+97 pages in length and was accompanied by 2 witness statements, 2 expert reports,
+62 factual exhibits and 13 legal exhibits.
+
+. On June 5, 2018, the applicant filed his reply. The reply was 256 pages in length
+and was accompanied by 2 witness statements, 5 expert reports, 18 factual exhibits
+and 53 legal exhibits.
+
+. On September 10, 2018, the respondent filed its rejoinder. The rejoinder was 96
+pages in length and was accompanied by 4 witness statements, 3 expert reports, 23
+factual exhibits and 6 legal exhibits.
+
+. Thus, at the close of pleadings, the tribunal had jointly received from the parties
+729 pages of written submissions, 15 witness statements, 14 expert reports, 198
+factual exhibits and 173 legal exhibits.
+
+. The hearing on jurisdiction, merits and quantum was held in Washington, DC from
+April 22 to April 26, 2019. In total, sixteen witnesses and experts provided direct
+evidence and were cross-examined during the hearing.
+
+. On August 15, 2019, both parties filed detailed post-hearing briefs. The applicant’s
+post-hearing brief was 60 pages in length and the respondent’s post-hearing brief
+was 52 pages in length.
+
+° On June 5, 2020, the Tribunal delivered a lengthy and final award of some 117
+pages, unanimously dismissing the applicant’s claim in its entirety and declaring
+that the respondent did not breach any of its obligations under NAFTA.
+
+Among other things, the tribunal found that an essential, threshold question was whether
+the applicant had interconnection rights which it lost as a result of the respondent’s
+impugned actions. These rights, the applicant had argued, derived from: i) the alleged
+agreement between Telmex and Tele Facil on the terms of a standard interconnection
+agreement proposed by Telmex (via Tele Facil’s “acceptance” of the August 2013 draft
+interconnection agreement); and, (ii) the IFT’s Resolution 381.
+
+Following a careful review of the events and circumstances leading up to July 2014 and
+the language of Tele Facil’s July 2014 letter itself, the tribunal found that nothing in the
+circumstances or in text of the letter suggested that Tele Facil accepted the draft
+interconnection agreement, conditionally or unconditionally. The tribunal found, to the
+contrary, that the letter did no more than indicate that Tele Facil was requesting
+modifications to the draft, that the agreement needed to be signed and that for Tele Facil to
+be in a position to sign, the modifications would have to be included. Accordingly, the
+tribunal found that the July 2014 letter did not constitute a letter of acceptance but merely
+contained comments on the draft provided by Telmex, acknowledged that the agreement
+would still have to be signed and that Tele Facil would sign if its proposed changes were
+made.
+
+1193 (CanLll)
+
+ONSC
+
+a
+a
+So
+a
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+Page: 6
+
+Based on these findings, the tribunal concluded that the applicant had not proven, for the
+purposes of its claim in the arbitration, that under Mexican civil and commercial law there
+was an agreement on interconnection rates between Tele Facil and Telmex resulting from
+the draft submitted by Telmex in August 2013.
+
+Further, after Telmex provided the August 2013 draft, the Mexican government and the
+IFT enacted significant regulatory changes to Telmex’s status and to the rate regime
+applicable to Telmex. Under the new regime, Telmex could not charge a reciprocal rate of
+USD 0.00975 as proposed in the August 2013 draft. Because Telmex took the position
+there was no agreement on the applicable interconnection rates, Telmex submitted the rate
+issue in disagreement proceedings to the IFT. The IFT decided the disagreement on the
+applicable rates in Resolution 127 in Telmex’s favour.
+
+The tribunal concluded that Tele Facil, rather than trying to conclude an agreement with
+Telmex in 2013/2014, saw an opportunity to steal a march when Telmex’s status and rate
+regime was changed by regulation in March 2014. After almost a year of inactivity on the
+draft agreement offered by Telmex in August 2013, Tele Facil submitted its “comments”,
+assiduously ignoring the reciprocal rate issue, and almost instantly, before even hearing
+back from Telmex on these “comments”, brought disagreement proceedings before the
+IFT.
+
+The tribunal concluded that in the absence of sufficient evidence of the existence of an
+interconnection agreement between Telmex and Tele Facil, the inevitable conclusion was
+“that Tele Facil had no ‘rights under the Interconnection Agreement’ that could have been
+determined by Resolution 381.”
+
+Even if Tele Facil had a valid and binding agreement with Telmex under Mexican law, the
+question remained whether Resolution 381 granted interconnection rights to Tele Facil.
+The tribunal found that under Article 42 of the FTL, the IFT only had authority to resolve
+interconnection conditions that could not be agreed upon by the telecommunications
+network carriers. When Tele Facil initiated disagreement proceedings under Article 42, it
+submitted only two disagreements: indirect connection and portability charges. Tele Facil
+did not submit any disagreement on the rates. Although Telmex tried to submit rates as a
+disputed issue, the IFT held Telmex had not done so properly and that this dispute was
+therefore “inadmissible” in the Tele Facil-initiated proceedings before them.
+
+For this reason, the tribunal concluded that the IFT did not, and could not, decide the issue
+of the applicable rates in Resolution 381. Rather than making any finding on rates, the IFT
+in Resolution 381 merely assumed there was no dispute on rates because no party had put
+this issue properly before it. In effect, Resolution 381 did not decide a dispute on the rates
+because the IFT believed that there was no dispute. This was, effectively, the conclusion
+of the IFT in its decision in Decree 77.
+
+Thus, Resolution 381 did not result in the conferral of any “rights” on Tele Facil to
+interconnect and to charge a differential rate of USD 0.00975 when it was only paying
+Telmex (under the new laws and regulations which intervened post-August 2013 draft)
+
+1193 (CanLll)
+
+ONSC
+
+a
+a
+So
+a
+
+Page: 7
+
+USD 0.00172. And, for the same reason, Decree 77 and Resolution 127 (and the dismissal
+of Tele Facil’s amparo actions in the Mexican court) could not, by definition, take away
+rights that Tele Facil never had.
+
+Analysis
+
+Jurisdiction
+
+(31]
+
+The “seat” of this arbitration was designated to be Toronto, Ontario. Accordingly, the
+award is subject to review by the Ontario Superior Court of Justice under the Model Law.
+
+Standard of Review
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+Article 34 of the Model Law, as modified by s. 6(2) of the International Commercial
+Arbitration Act, 2017, S.O. 2017, c. 2, Sched. 5, provides that an arbitral award may be set
+aside on an application to the court if one of the specified grounds is established. This
+application seeks to set aside the award based on Article 34(2)(a)(ii) of the Model Law,
+which provides that: “the party making the application... was otherwise unable to present
+his case.”
+
+Article 34(2)(a)(ii) embodies well-established principles of fairness and natural justice.
+While decisions of an international arbitral tribunal generally attract a high level of
+deference, they are not immune from being set aside by the courts of the seat of arbitration
+if minimum standards of due process and substantive fairness are not met. Ontario courts
+have held that the standard of review for setting aside an award under Article 34(2)(a)(ii)
+is whether the tribunal’s conduct is “sufficiently serious to offend our most basic notions
+of morality and justice” and “that it cannot be condoned under the law of the enforcing
+State”: Consolidated Contractors Group S.A.L. (Offshore) v. Ambatovy Minerals S.A.,
+2017 ONCA 9339, at para. 65, leave to appeal refused, 2018 CarswellOnt 17927 (S.C.C).
+
+In Consolidated Contractors, the Court also confirmed that a party may be said to have
+been “unable to present his or her case” under Article 34(2)(a)(ii) when:
+
+(a) the award is based on a theory of liability that either or both of the parties were not
+given an opportunity to address, or based on a theory of the case not argued for by either
+of the parties;
+
+(b) a party was not given an opportunity to respond to arguments made by an opposing
+party; or
+
+(c) the tribunal ignored or failed to take the evidence or submissions of the parties into
+account.
+
+A party is not permitted to review the award on its merits under the guise of alleged
+breaches of Article 34(2)(a)(ii). Where a party merely disagrees with the outcome, the court
+should not permit reargument of the merits in the guise of a claim for breach of procedural
+
+1193 (CanLll)
+
+ONSC
+
+a
+a
+So
+a
+
+Page: 8
+
+fairness: Consolidated Contractors Group S.A.L. (Offshore) v. Ambatovy Minerals S.A.,
+2016 ONSC 7171, at para. 89.
+
+The Issues
+[36] The applicant makes two arguments for why the award should be set aside.
+
+[37] | First, the applicant argues that, rather than considering and resolving the competing expert
+evidence advanced by the parties on the question of whether Tele Facil obtained
+interconnection rights under Mexican law, the Tribunal instead decided the issue on a novel
+theory not advanced or argued by either party. This conduct violated the applicant’s right
+to present its case and to be heard.
+
+[38] Second, the applicant argues that the tribunal failed to consider the applicant’s expert
+evidence and submissions on the core issue in the arbitration. This, he argues, also offends
+minimum standards of procedural and substantive fairness and should result in the award
+being set aside.
+
+Application
+
+Did the Tribunal Decide the Case on A Basis not Argued?
+
+ 
+
+[39] _ The principle that a tribunal cannot decide a case on a basis that was not pleaded or argued
+is well established and not in doubt. The issue joined in this case is a question of fact — was
+the basis upon which the tribunal determined that Tele Facil never had interconnection
+rights priced at USD 0.00975 pleaded or argued?
+
+[40] The applicant says he could not have anticipated that the tribunal would decide the case
+based on the form and content of Tele Facil’s July 2014 letter. That theory, he says, was
+not advanced by the respondent and the tribunal gave no indication to the parties that it
+considered this issue to be a determining one.
+
+[41] Iam not able to accept this submission.
+
+[42] _ In its claim, Tele Facil asserted that it accepted Telmex’s offered rates, that there were no
+negotiations on rates and that rates had been agreed upon. Telmex took the position in its
+defence that no agreement was ever signed and that Tele Facil never notified Telmex of
+any acceptance of the August 2013 proposal or any aspect of it.
+
+[43] The applicant’s experts on Mexican civil and administrative law testified that there was
+consent from both parties about the rates, and therefore an agreement. The respondent’s
+expert testified at length that, once Tele Facil gave what may have been a conditional
+acceptance of Telmex’s offer, that is, acceptance subject to two required changes before
+Tele Facil would sign, Telmex was no longer bound by its earlier draft proposal. As a
+result, the consent of both parties to the rate, which was required for there to be an
+agreement, was never given.
+
+1193 (CanLll)
+
+ONSC
+
+a
+a
+So
+a
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+Page: 9
+
+Tele Facil’s fact witnesses were cross-examined on the meaning and effect of Tele Facil’s
+July 7, 2014 letter. One of Tele Facil’s legal experts was also cross-examined on whether
+the July 7, 2014 letter constituted an acceptance of Telmex’s offer or was a counter offer.
+
+After the completion of evidence, the tribunal expressly asked the parties to address the
+meaning and effect of the July 7, 2014 letter in oral submissions by answering the following
+question:
+
+Question Four: What are the most relevant legal and evidential materials on the
+record to help the Tribunal decide whether under Mexican law the July 7, 2014,
+letter (Exhibit C-0024) constitutes an acceptance of an offer by Telmex or a
+counter-offer from Tele Facil to Telmex or a third category?
+
+Both the applicant and the respondent addressed this question in oral submissions on the
+final day of the hearing. Moreover, both parties were invited to address this issue further
+in their written post-hearing briefs which were submitted more than 3 months later.
+
+The respondent addressed the negotiations leading up to the July 7, 2014 letter, as well as
+whether the July 7, 2014 letter constituted acceptance of Telmex’s previous offer, in its
+post-hearing brief. The applicant chose not to do so.
+
+Thus, whether Tele Facil’s letter of July 7, 2014 created a binding interconnection
+agreement with Telmex was addressed in the parties’ pleadings as well as the written
+reports prepared by the legal experts and was the subject of cross-examination and
+questions from the tribunal members during the hearing. Both parties put their positions
+squarely before the tribunal on this issue.
+
+There was no failure of fairness or natural justice.
+
+Did the Tribunal Fail to Consider Relevant Evidence?
+
+[50]
+
+The applicant submits that the expert evidence on Mexican civil and administrative law
+(two experts for the applicant, one for the respondent) addressed a core issue in the
+arbitration — whether the USD 0.00975 interconnection rate was agreed to by the parties
+and confirmed in law by the IFT in Resolution 381. Yet, the applicant argues:
+
+. there is not a single reference to or acknowledgement of the position of the
+applicant’s experts in the 117 pages of the award
+
+. the tribunal made some reference to views expressed in the respondent’s expert
+report, but wholly failed to acknowledge or consider the evidence of the applicant’s
+experts that supported the applicant’s position, and
+
+. the tribunal acknowledged that to come to a determination as to the legal effect of
+Resolution 381, it must consider “the powers of the IFT under Mexican law”, yet
+the award contains no reference whatsoever to the experts’ evidence concerning the
+IFT’s authority and powers.
+
+1193 (CanLll)
+
+ONSC
+
+a
+a
+So
+a
+
+(51]
+
+[52]
+
+[53]
+
+[54]
+
+[55]
+
+[56]
+
+(57]
+
+Page: 10
+
+It is generally accepted that a trier of fact cannot ignore or fail to evaluate relevant portions
+of the evidence. A similar concept has been applied in the context of international
+commercial arbitrations. For example, in Oil Basins Ltd v. BHP Billiton LTD & Ors, [2007]
+VSCA 255, the Victoria Court of Appeal in Australia affirmed a lower court judgement
+which had set aside an arbitral award on the grounds that the tribunal had failed to deal
+with extensive expert evidence. In that case, both parties had submitted expert evidence
+regarding the meaning of the term “overriding royalty,” which was a key issue in the
+proceeding. The award made no reference to the evidence of the losing party, beyond a
+bare statement that the tribunal preferred the evidence of the other party’s witness. The
+lower court found that since the submissions and evidence were neither peripheral nor
+obviously untenable, but instead were “at the heart of the matter,” the tribunal was obliged
+to give intelligible reasons for its rejection. The Court of Appeal affirmed the decision,
+finding that the reasons were inadequate because of the tribunal’s “failure to condescend
+to any analysis of the competing evidence and reasons for rejecting it”: at para. 40.
+
+While it may be literally true that the applicants’ experts were not mentioned by name in
+the award, it must be understood that the parties submitted their respective expert evidence
+as exhibits to their pleadings and their pleadings addressed that expert evidence in detail.
+
+Throughout the award, the tribunal cited extensively from the applicant’s claim and reply.
+Many of the paragraphs cited by the tribunal expressly address the applicant’s expert
+evidence.
+
+For instance, in considering whether the respondent breached Article 1110 of NAFTA, the
+award cites paragraphs 381, 388-390, 394, 400, 408 and 424 of the statement of claim, and
+paragraphs 178-181 and 189 of the reply. All these paragraphs specifically address the
+applicant’s expert evidence as provided by Ms. Clara Luz Alvarez or Mr. Gerardo Soria.
+
+Similarly, in considering whether the respondent breached Article 1105 of NAFTA, the
+Award cites paragraphs 494, 496-497, 503-504, 506, 509, 540-542, 544, 546-547, 549,
+556-557, 561-563, 567 and 576 of the applicant’s statement of claim, and paragraphs 281,
+299, 301-302, 305, 345 and 354 of the respondent’s reply. Once again, all these paragraphs
+address the applicant’s expert evidence as provided by Ms. Clara Luz Alvarez or Mr.
+Gerardo Soria.
+
+In other words, the tribunal set out in great detail what the arguments of each party were
+and what those arguments were based on. The evidence was not repeated verbatim in the
+award but detailed and extensive citations were made referring to the parties’ positions and
+evidence on each issue and argument.
+
+Importantly, the tribunal did not just stop there and go on to state a bald conclusion. In 23
+pages of additional reasons, from paras. 221 to 284 of the award, the tribunal set out, again
+in great detail, its analysis and precise reasoning for why it rejected the applicant’s
+arguments on: a) whether there was an agreement between Tele Facil and Telmex on rates;
+and b) whether Resolution 381 established Tele Facil’s rates for interconnection.
+
+1193 (CanLll)
+
+ONSC
+
+a
+a
+So
+a
+
+Page: 11
+
+[58] The tribunal’s analysis does not take the form of “Clara Luz Alvarez says X and we do not
+accept her evidence as conclusive on the point because...”. But the fact is that the experts’
+arguments are fully referenced and the tribunal’s reasons for why it reached its conclusions
+are set out in detail. No one could reasonably be in any doubt about whether the tribunal
+considered the applicant’s evidence or why the tribunal decided the case the way it did.
+
+Conclusion
+
+[59] For the foregoing reasons, the application for relief under Article 34(2)(a)(ii) of the Model
+Law from the decision of the tribunal in this case is dismissed.
+
+Costs
+
+[60] _ The parties agreed that costs of $100,000 (all inclusive) should be awarded to the successful
+party. The United States of Mexico is therefore awarded costs in that amount.
+
+Penny J.
+
+Released: February 16, 2022
+
+CITATION: Nelson v. The Government of the United States of Mexico, 2022 ONSC 1193
+COURT FILE NO.: CV-21-00663626-00CL
+DATE: 2022-02-16
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+(COMMERCIAL LIST)
+BETWEEN:
+
+JOSHUA DEAN NELSON
+
+Applicant
+
+—and—
+
+THE GOVERNMENT OF THE UNITED MEXICAN
+STATES
+
+Defendant
+
+ 
+
+REASONS FOR JUDGMENT
+
+ 
+
+Penny J.
+
+Released: February 16, 2022
+
+1193 (CanLll)
+
+ONSC
+
+a
+a
+So
+a
+

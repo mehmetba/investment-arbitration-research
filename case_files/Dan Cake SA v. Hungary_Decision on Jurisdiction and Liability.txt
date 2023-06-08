@@ -1,0 +1,2341 @@
+INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
+WASHINGTON, D.C.
+
+In the arbitration proceedings between
+DAN CAKE (PORTUGAL) S.A.
+
+(Claimant)
+
+and
+
+HUNGARY
+
+(Respondent)
+
+ICSID Case No. ARB/12/9
+
+ 
+
+DECISION ON JURISDICTION AND LIABILITY
+
+ 
+
+Members of the Tribunal
+Professor Pierre Mayer
+Professor Jan Paulsson
+
+Mr. Toby Landau QC
+
+Secretary of the Tribunal
+Ms. Aissatou Diop
+
+Date of dispatch to the Parties: August 24, 2015
+
+REPRESENTATION OF THE PARTIES
+
+Representing Dan Cake (Portugal) S.A.
+
+Mr. Anténio Andrade de Matos
+Mr. Jorge Bastos Leitéo
+Andrade de Matos & Associados
+Lisboa, Portugal
+
+Representing Hungary
+
+Mr. Eric Ordway
+Weil, Gotshal & Manges LLP
+New York, U.S.A.
+and
+Mr. Chip Roh (until January 2015)
+Ms. Marguerite Walter (until March 2015)
+Weil, Gotshal & Manges LLP
+Washington, DC, U.S.A.
+and
+Mr. Laszl6 Nagy
+Mr. Laszlo Nanyista
+Mr. Tamas Simon
+Ms. Szandra Wolf
+Siegler Ugyvédi Iroda/Weil, Gotshal & Manges LLP
+Budapest, Hungary
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I. INTRODUCTION 1
+Il. THE PARTIES 1
+Ill. PROCEDURAL HISTORY 2
+A. Registration of the Request for Arbitration and Constitution of the Tribunal ............... 2
+B. First Session 3
+C. The Jurisdiction and Liability Phase ......0.0.. cece eee ee eeeeeeeeeeeeeeeeeteteteeeeeeeeees 4
+IV. FACTUAL BACKGROUND 5
+V. SUMMARY OF THE PARTIES’ CLAIMS AND RELIEFS ........-c:-cecessessesseessesseeeeseeseese 11
+VI. JURISDICTION 12
+VII. LIABILITY 14
+A. The scope of the Tribunal’s task
+B. The Metropolitan Court of Budapest’s refusal to convene a composition hearing...... 19
+(1) Analysis of the 22 April 2008 Decision of the Metropolitan Court of Budapest . 25
+(2) The 22 April 2008 Decision of the Metropolitan Court of Budapest constitutes a
+
+violation of the Bilateral Investment Treaty between the Portuguese Republic and
+
+the Republic of Hungary 37
+
+a) Breach of the obligation to accord fair and equitable treatment. 38
+
+b) Breach of the obligation not to impair the use, enjoyment, management,
+
+disposal or liquidation of the investment by unfair or discriminatory measures
+
+fee e eee e eee ee eee eeeeeeeeeeeeseeeseeeeeeseeseseeeeseeeeseeeeeseteeeeeeseeteeeeeeseeney 40
+
+C.. The sale of the factory by the liquidator... cece eee ee ee eeeeeeeeneeeseeeeeeteneeeeees 4l
+
+D. Consequences of Breach 42
+VIII. DECISION ON JURISDICTION AND LIABILITY ....0.......cececceesecsesseeseeseesneseeseeseeseese 42
+
+FREQUENTLY USED ABBREVIATIONS AND ACRONYMS
+
+ICSID Convention
+
+Arbitration Rules
+
+ICSID or the Centre
+
+BIT
+
+Request
+Cl. Mem.
+
+Resp. C-Mem.
+
+Cl. Rep.
+Resp. Rej.
+CE
+
+RE
+
+CLA
+RLA
+
+WS
+
+Amended Tr.
+
+Convention on the Settlement of Investment
+Disputes Between States and Nationals of
+Other States dated 18 March, 1965
+
+ICSID Rules of Procedure for Arbitration
+Proceedings
+
+International Centre for Settlement of
+Investment Disputes
+
+Agreement Between the Portuguese Republic
+and the Republic of Hungary for the Promotion
+and Reciprocal Protection of Investments
+Request for Arbitration
+
+Claimant’s Memorial, 1 July, 2013
+
+Respondent’s Counter-Memorial, 25 Nov.
+2013
+
+Claimant’s Reply, 24 Mar. 2014
+Respondent’s Rejoinder, 25 June 2014
+Claimant’s Exhibit
+
+Respondent’s Exhibit
+
+Claimant’s Legal Authority
+Respondent’s Legal Authority
+Witness Statement
+
+Amended Hearing Transcript
+
+Ralf Beckmann
+
+Carlos Custédio
+
+Patrique Fernandes
+
+Kissné Maria Hornyak
+
+Kantilal Jamnadas
+
+Gabor Juhaz
+
+Peter Kindler
+
+Katalin Ott
+
+Csongor Palotas
+
+Gyula Sévagé
+Henrik Thulesen
+
+Tacube Vali
+
+DRAMATIS PERSONAE
+
+Managing Director of Aldente GmbH
+
+Held managerial functions at both Dan Cake and Danesita. Joined
+Dan Cake in October 2009 and left the company in 2011.
+
+Claimant’s expert
+
+Worked at MKB Bank until 2009. Became head of Work Out
+Division and supervisor of Katalin Ott in January 2008.
+
+Managing Director of Dan Cake
+
+Partner at Bogsch and Partners, legal representative of Dan Cake
+and Danesita in the liquidation proceedings
+
+Respondent’s expert
+Worked at MKB Bank between 2006 and 2009 as deputy head of
+Work Out Division, responsible for day-to-day collection
+
+management in the Danesita liquidation matter.
+
+Associate at Bogsch and Partners, legal representative of Dan Cake
+and Danesita in the liquidation proceedings
+
+Danesita’s liquidator
+Managing Director of Royal Biscuit Nordic A/S
+Held various positions in Dan Cake from 1979 to 1997. Returned
+
+to the company from September 2002 to November 2006 as Exports
+Director and Business Manager for the Hungarian operation.
+
+IL.
+
+INTRODUCTION
+
+This case concerns a dispute submitted to the International Centre for Settlement of
+Investment Disputes (“ICSID” or the “Centre”) on the basis of the Agreement Between the
+Republic of Portugal and the Republic of Hungary on the Reciprocal Promotion and
+Protection of Investments (the “BIT” or “Treaty”), which entered into force on 8 October
+1997, and the Convention on the Settlement of Investment Disputes between States and
+Nationals of Other States, which entered into force on 14 October 1966 (the “ICSID
+
+Convention”).
+
+In 1996, the Portuguese company Dan Cake acquired a majority of the shares in a
+Hungarian company, later renamed Danesita, whose business consists in supplying biscuits
+and cookies to Eastern European, Southern European, and Scandinavian countries. In
+2006, Danesita’s creditors pursued the company for unpaid debts, and the liquidation of
+the company was ordered. With the help of Dan Cake, Danesita reached agreements with
+various creditors to settle its debts, and was in the process of concluding agreements with
+other creditors, including MKB Bank, whose loan was secured by a lien. Danesita
+requested that the Metropolitan Court of Budapest convene a “composition hearing,”
+during which it hoped that its creditors would vote in its favour. The Metropolitan Court
+of Budapest, however, instead ordered it to satisfy several conditions. Danesita did not
+satisfy these conditions. Shortly thereafter, the liquidator announced the sale of Danesita’s
+
+factory. Dan Cake thus lost its investment.
+
+Dan Cake claims that Hungary violated the BIT’s provisions on fair and equitable
+treatment, full protection and security, arbitrary and discriminatory measures impairing
+investment, and expropriation without compensation. Dan Cake claims € 47,869,000 in
+
+damages, plus pre- and post-award interest.
+
+THE PARTIES
+
+Claimant is Dan Cake (Portugal) S.A. and is hereinafter referred to as “Dan Cake” or as
+
+“Claimant.” Claimant is a company incorporated under the laws of Portugal.
+
+Claimant is represented by Messrs. Anténio Andrade de Matos and Jorge Bastos Leitao of
+
+Andrade de Matos & Associados, Lisbon, Portugal.
+
+Respondent is Hungary and is hereinafter referred to as such or as “Respondent.”
+Respondent is represented by the law firm Weil, Gotshal & Manges LLP, in particular
+Messrs. Eric Ordway (New York, U.S.A.), Chip Roh (Washington, D.C., U.S.A., until
+January 2015), and Laszl6 Nagy (Budapest, Hungary).
+
+Claimant and Respondent are hereinafter collectively referred to as the “Parties.”
+
+PROCEDURAL HISTORY
+
+Registration of the Request for Arbitration and Constitution of the Tribunal
+
+On 27 March 2012, ICSID received a request for arbitration dated 22 March 2012, from
+Dan Cake against Hungary (the “Request”).
+
+On 19 April 2012, the Secretary-General of ICSID registered the Request in accordance
+with Article 36(3) of the ICSID Convention and notified the Parties of the registration. In
+the Notice of Registration, the Secretary-General invited the Parties to proceed to constitute
+an Arbitral Tribunal as soon as possible, in accordance with Rule 7(d) of the Centre’s Rules
+
+of Procedure for the Institution of Conciliation and Arbitration Proceedings.
+
+On 25 June 2012, in the absence of an agreement between the Parties, Claimant invoked
+Article 37(2)(b) of the ICSID Convention as the method for constituting the Tribunal.
+Thus, the Tribunal would consist of three arbitrators; one arbitrator appointed by each
+Party, and the third arbitrator appointed by agreement of the Parties. That same day,
+Claimant appointed Professor Jan Paulsson, a national of France, Sweden and Bahrain, as
+
+arbitrator.
+
+On 17 July 2012, the Parties agreed to extend until 15 September 2012, the 90-day period
+following the dispatch of the notice of registration for appointing arbitrators not yet
+
+appointed.
+
+On 11 September 2012, the Parties agreed to extend by an additional 30 days, until 15
+October 2012, the period for appointing the President of the Tribunal. That same day,
+
+Respondent appointed Mr. Toby Landau QC, a national of Great Britain, as arbitrator.
+
+On 9 October 2012, the Parties agreed to extend until 15 November 2012, the period for
+
+appointing the President of the Tribunal.
+
+On 9 November 2012, the Parties agreed to extend by a further 30 days, until 15 December
+
+2012, the period for appointing the President of the Tribunal.
+
+On 12 December 2012, the Parties agreed to extend by 30 more days, until 15 January
+2013, the period for appointing the President of the Tribunal.
+
+On 9 January 2013, Respondent notified ICSID that the Parties had agreed to appoint
+Professor Pierre Mayer, a national of France, as President of the Tribunal, based on a
+proposal made by the co-arbitrators Professor Paulsson and Mr. Landau QC. Claimant
+
+confirmed the Parties’ agreement on 10 January 2013.
+
+On 17 January 2013, the Secretary-General, in accordance with Rule 6(1) of the ICSID
+Rules of Procedure for Arbitration Proceedings (“Arbitration Rules”) notified the Parties
+that all three arbitrators had accepted their appointments and that the Tribunal was therefore
+deemed to have been constituted on that date. Ms. Aissatou Diop, ICSID Legal Counsel,
+
+was designated to serve as Secretary of the Tribunal.
+
+First Session
+
+On 12 March 2013, the Tribunal held a first session by telephone conference with the
+Parties, after which the Tribunal issued Procedural Order No. 1 on 2 May 2013 “P.O.
+No.1”). P.O. No.1 noted the Parties’ agreements and the Tribunal’s decisions on several
+aspects of the procedure, as follows. The Parties confirmed that the Members of the
+Tribunal had been validly appointed and agreed, inter alia, that the applicable Arbitration
+Rules would be those in effect from 10 April 2006; that the procedural language would be
+English; and that the proceedings would take place in Paris, France. The Parties also agreed
+
+on a schedule for the production of documents.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+In addition, the Tribunal decided to bifurcate the proceedings, and to hear issues of
+jurisdiction and liability separately from damages. The Parties’ pleadings were to be filed
+according to the following schedule: Claimant’s Memorial was to be filed on 21 June 2013;
+Respondent’s Counter-Memorial on 15 November 2013; Claimant’s Reply on 14 March
+2014; and Respondent’s Rejoinder on 14 June 2014. The Tribunal reserved the issue of
+whether there would be a last filing on jurisdiction by Claimant, and the issue was to be
+decided during a conference call to be held within three weeks of the submission of
+
+Respondent’s Counter-Memorial.
+
+The Jurisdiction and Liability Phase
+
+On 3 June 2013, the Parties notified the Tribunal of their agreement that Claimant would
+have a 10-day extension of time until 1 July 2013, to submit its Memorial, and that
+Respondent could have a similar extension of time. The Tribunal approved the Parties’
+
+agreement. Respondent filed its Counter-Memorial on 25 November 2013.
+
+In advance of the conference call to be held within three weeks of receipt of the
+Respondent’s Counter-Memorial, the Parties indicated to the Tribunal by separate emails
+of 29 November 2013, that they had consulted and agreed that there would be no need to
+discuss the issue of a last filing on jurisdiction. On 6 December 2013, the Tribunal held
+the planned conference call with the Parties to discuss certain remaining procedural
+
+questions, including dates for the hearing on jurisdiction and liability.
+
+On 19 February 2014, the Parties agreed, and the Tribunal approved, a further extension of
+time for the Claimant to submit its Reply, to 24 March and for the Respondent to submit
+
+its Rejoinder, to 24 June 2014. The hearing dates would remain unaffected.
+
+On 24 July 2014, the Parties submitted their notifications of the witnesses that they each
+
+wished to cross-examine at the hearing.
+
+On 29 September 2014, the President of the Tribunal held, on behalf of the Tribunal, a pre-
+hearing organizational meeting with the Parties to discuss certain logistical and procedural
+
+matters relating to the hearing.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+IV.
+
+30.
+
+From 20 to 22 October 2014, the Tribunal held a hearing on jurisdiction and liability in
+Paris. In addition to the Members of the Tribunal, the Secretary of the Tribunal, and the
+
+Assistant to the Tribunal, present at the hearing were:
+For Claimant: Mr. Antonio Andrade de Matos and Mr. Jorge Bastos Leitao.
+
+For Respondent: Mr. Eric Ordway, Ms. Marguerite Walter, Mr. Laszlo Nanyista, Mr.
+Tamas Simon, and Ms. Szandra Wolf.
+
+The following witnesses were examined:
+
+On behalf of Claimant: Mr. Carlos Custédio, Mr. Iacube Vali, Mr. Csongor Palotas, and
+Mr. Henrik Thulesen.
+
+On behalf of Respondent: Banszeginé Dr. Katalin Ott and Dr. Gyula Sévag6.
+
+On November 3, 2014, following an agreement by the Parties, the Tribunal invited the
+Respondent to address in a post-hearing brief an issue raised by the Claimant during the
+hearing. The Respondent did so on November 5, 2014, and the Claimant replied on
+November 12, 2014.
+
+On November 7, 2014, each Party filed its submission on costs.
+
+On January 30, 2015, the Tribunal addressed questions to the Parties on points that had not
+been covered in their respective written and oral submissions. On March 3, 2015, each
+Party submitted its answers to the Tribunal’s questions followed, on March 31, 2015, by
+
+each Party’s reply to the other Party’s answers.
+
+FACTUAL BACKGROUND
+
+In 1996, Dan Cake took the strategic decision to enter the market and develop its industrial
+and commercial activities in Eastern European countries. The reason for this was that it
+exported to Russia significant quantities of Swiss rolls, but because of the distance between
+Portugal and Russia the goods took too long to reach their destination. In addition, the cost
+
+of the necessary logistics had increased considerably. Furthermore, Hungary has common
+
+31.
+
+32.
+
+33.
+
+34.
+
+borders with countries such as Austria and Ukraine, which were also important potential
+
+markets. Other Eastern European countries also seemed to be promising markets.
+
+Dan Cake acquired the shares of a Hungarian company named RELO, and subsequently
+renamed it Danesita Hungdria Edesipari Kft (“Danesita”). Dan Cake held 86.67% of
+Danesita’s registered shares, and a company named New Century Investments Ltd held the
+
+remaining 13.33%. This structure remained until the liquidation of Danesita in 2008.
+
+According to Dan Cake’s own witnesses, Mr. Carlos Custodio and Mr. Iacube Vali, the
+markets soon showed that they were not as promising as they had first seemed. In 1998,
+the Russian market crashed. Other countries were not prepared, at that time, to pay a
+premium for Danesita quality products. That led, in particular, to the withdrawal of the
+contract between Danone and Danesita, concerning distribution in the Czech Republic and
+in Slovenia. Danesita had to downsize its factory and prepare a re-launch, which was
+
+initiated in 2006.
+
+Dan Cake’s position in this dispute is that in 2007, Danesita, through the experience it had
+acquired, had built up the capability to become a profitable company, and had signed or
+was on the verge of signing contracts with strategic partners for the distribution of Danesita
+products in Greece, Romania, Denmark, Germany, and Italy. For instance, Mr. Henrik
+Thulesen, shareholder and managing director of Royal Biscuit Nordic A/S, a company
+incorporated in Denmark, testified that Royal Biscuit had started commercial relations with
+Danesita in 2007; had purchased, between January and April 2008, Danesita products
+worth a total of € 216,000; and had the intention to invest in Danesita, based on Mr.
+Thulesen’s favourable impression of his visit to Danesita’s factory and on his belief in the
+growth of the Scandinavian markets. Mr. Thulesen was cross-examined during the October
+
+hearing and confirmed his witness statement.
+
+Dan Cake submitted another witness statement from Mr. Ralf Beckmann, shareholder and
+managing director of Aldente GmbH, a German distributor, who testified that after a visit
+to Danesita’s factory in Budapest, Aldente chose Danesita to supply it with Luxury Cakes,
+expecting to buy € 2 to 3 million worth of cakes from Danesita in two years. Mr. Beckmann
+
+was not called to be cross-examined.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+Al.
+
+42.
+
+Hungary’s position is that these prospects did not in fact exist.
+
+However, at this stage of the proceedings, as will become apparent in the course of the
+Tribunal’s analysis of the events, it is not necessary for the Tribunal to assess Danesita’s
+
+future chances of commercial success.
+
+Throughout the life of Danesita, Dan Cake had to lend to its subsidiary significant sums of
+money. Danesita also took out several bank loans (reaching a total of more than € 5 million
+
+in 2007).
+
+Before the end of October 2006, Danesita incurred a debt towards its supplier of sunflower
+oil, Florena Termelé (“Florena”). Florena sent Danesita two payment reminders, one on
+28 October 2005 and another on 19 December 2005. These reminders explicitly warned
+Danesita that failure to pay the debt would result in Danesita’s liquidation. An agreement
+was entered into in April 2006, pursuant to which the debt would be paid in three
+instalments by 30 May 2006. However, Danesita did not repay the entirety of its debt
+
+within the agreed time-limit. Florena submitted a request for liquidation on 7 August 2006.
+
+Danesita had other creditors, and several of them initiated liquidation procedures against
+
+it.
+
+On 29 August 2006, the Metropolitan Court of Budapest, sitting as a bankruptcy court,
+issued a decision by which it served Danesita a copy of Florena’s request for liquidation
+and ordered it to declare, within 8 days, whether it admitted the contents of the request. It
+warned Danesita that if it failed to make the declaration by the above deadline, its
+
+insolvency would be presumed, based on Section 24(3) of the Hungarian Bankruptcy Act.
+
+Danesita did not respond to the Court’s order. Consequently, on 18 January 2007, the
+Court issued an order declaring Danesita insolvent and appointing a liquidator, Mr. Gyula
+
+S6vag6, a representative of the liquidating company PK-ECONO Pénziigyi Tanacsad6 Kft.
+
+Danesita sent the Court several letters, one of which was considered as an appeal by the
+
+Court. However the appeal was dismissed on 21 March 2007 on the ground that Danesita
+
+43.
+
+44.
+
+4S.
+
+46.
+
+47.
+
+48.
+
+had neither appointed counsel nor paid the stamp duty of HUF 7,000 (€ 30), as required by
+
+Hungarian law.
+
+On 27 October 2007, the High Court of Appeal, seized by Danesita, ruled that the dismissal
+of its appeal was justified and that Danesita had not explained why it had not complied
+
+with the statutory requirements.
+
+Dan Cake acknowledges that although it eventually paid its debt to Florena, it did not
+inform the Bankruptcy Court. The liquidation order became final. On 29 November 2007,
+
+the official statement on Danesita’s liquidation was published in the Companies Gazette.
+
+In the context of liquidation proceedings (as opposed to bankruptcy proceedings) the only
+way for the debtor company to avoid the sale of its assets is to enter into an agreement with
+its creditors. The liquidator is under the obligation to proceed with the public sale of the
+debtor company’s assets within 120 days from the date of the liquidation order, unless a
+creditors’ committee is formed and decides to postpone the commencement of the sale
+process. No creditors’ committee was formed. The conditions for a public tender were
+published on 7 February 2008. However, by 21 March 2007, which was the deadline for
+
+potential purchasers to submit bids, no bids had been submitted.
+
+Danesita and Dan Cake tried to enter into an agreement with Danesita’s creditors. The
+Bankruptcy Act provides the possibility for the debtor company to request from the
+Bankruptcy Court, under certain conditions, the convening of a composition hearing during
+which the creditors may vote on and approve, by a qualified majority, an agreement with
+
+the debtor. If the agreement is approved by the Court, the sale of the assets will be avoided.
+
+Pursuant to Section 44(1) of the Bankruptcy Act, “a composition agreement shall be
+deemed valid upon the consent of at least half of the creditors with proper entitlement to
+conclude a composition agreement in all groups, provided that their claims account for
+
+two-thirds of the total claims of those entitled to conclude the composition agreement.”
+
+Among the creditors which vote are those whose claims are “secured by a lien prior to the
+time of the opening of liquidation proceedings” (Section 57(1), category b). In Danesita’s
+
+case there was such a creditor, MKB Bank, whose claim was particularly large.
+
+49.
+
+50.
+
+51.
+
+52.
+
+On 10 April 2008, Danesita’s lawyers filed a request for the convening of a composition
+hearing with the Metropolitan Court of Budapest (Exh. C-026). Along with the request, in
+accordance with Section 41(5) of the Bankruptcy Act, Danesita served three other
+documents: a composition proposal (the ““Agreement on the termination of liquidation
+procedure,” Exh. C-021); the list of creditors drawn up by the liquidator; and an appropriate
+
+program for the restoration of solvency.
+
+To the draft “Agreement on the termination of the liquidation procedure” Danesita and Dan
+Cake attached agreements, in summary form, each of them signed by the relevant creditor.
+Thirty-two of them are attached to Claimant’s Memorial as Exh. C-027. In its request to
+the Bankruptcy Court, Danesita noted that the number of creditors which had signed was
+“significant,” and stated that “our contact with creditors is continual, during which
+signatory documents from creditors continually arrive at our office.” In its Memorial, Dan
+Cake claims that “[b]y the end of March, [sic] 2008 and beginning of April of the same
+year the majority of the creditors had already provided their consent to such agreement”
+(para. 102), and that “by April 2008 Dan Cake had engaged more than the creditors it
+needed to have the composition agreement approved” (para. 105). Respondent neither
+
+accepts nor denies these statements.
+
+It cannot be denied that MKB Bank was in favour of a settlement of Danesita’s debt. On
+20 March 2008, MKB Bank had submitted to Dr. Palotas, the lawyer representing Danesita
+and Dan Cake, a settlement proposal (Exh. C-020). On the same day MKB Bank had
+written to the liquidator, mentioning in particular: “we are pleased to inform you that our
+Bank supports the proposed liquidation agreement by the debtor, that is its Portuguese
+owner. We request, as much as it is possible, to delay making judgment on tender
+
+propositions appearing on February 07 2008 in the Company Gazette...” (Exh. C-023).
+
+Among the conditions of the settlement proposal was the issuance by the Portuguese bank
+Banco Esperito Santo of a standby letter of credit in favour of MKB Bank. Dan Cake
+submitted a draft, however MKB Bank considered that its wording was not in accordance
+with the terms required by the Bank. A surety in the form of a notarial deed by Dan Cake
+
+was also missing. Dr. Ott and Ms. Hornyak, two employees of MKB Bank who were
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+involved in the negotiations with Dan Cake, wrote witness statements strongly denying
+that an agreement had been found (Dr. Ott was heard in cross-examination and confirmed
+her witness statement). It is a fact that no document containing a settlement agreement was
+produced by Dan Cake in these proceedings, although it had been part of Hungary’s request
+
+for production of documents.
+
+However, as will be explained, the existence of an agreement between the debtor and its
+creditors is not a prerequisite to the convening of a composition hearing. Such agreement
+is only required to be present during the composition hearing, and is expressed by way of
+a vote. Even after the refusal by the Bankruptcy Court, on 22 April 2008, to convene a
+composition hearing, MKB Bank was still in favour of a settlement, and had not lost hope
+that the conditions could still be met, as shown by its letter of 9 May 2008 (Exh. C-003
+attached to the Reply).
+
+On 22 April 2008, the Metropolitan Court of Budapest declined to convene a composition
+hearing. It considered that Danesita’s request in its current form was not suitable to be
+served on the creditors and to convene a composition hearing, and ordered Danesita to
+make several supplementary filings. At the same time it insisted that the liquidator was
+obliged to proceed to the sale of the assets within 120 days from the publication of the
+liquidation proceedings. The decision (Exh. C-033) will be reproduced in its entirely in
+Part VII, Section B, of the present Decision. It was notified to the Parties and the liquidator
+
+on 5 May 2008.
+
+Both Parties agree that no appeal against this decision was possible.
+
+On 27 May 2008, the Metropolitan Court of Budapest dismissed Danesita’s request to
+invalidate the first tender, which had proved unsuccessful (Exh. C-031). The decision was
+
+notified to Danesita on 17 June 2008.
+
+On 29 May 2008, the liquidator announced the public tender for the sale of Danesita’s
+factory (Exh. C-036). The purchase price was fixed at HUF 730,000,000 plus VAT.
+
+On 23 June 2008, MKB Bank sent a letter to the liquidator, expressly supporting the sale
+(Exh. R-027).
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+The date for the opening of the bids was 17 June 2008. The sale was later confirmed for a
+
+total amount of HUF 370,000,000 plus VAT.
+
+SUMMARY OF THE PARTIES’ CLAIMS AND RELIEFS
+
+In its Request, Dan Cake summarised its position in the following terms:
+
+The liquidation of Danesita was only possible because the Court and
+the Liquidator [...] committed several shocking omissions and
+decisions that show total lack of interest in restructuring Danesita
+and safeguarding Dan Cake’s investment (para. 70).
+Dan Cake complains that Hungary has “violated the due process rule contemplated in four
+
+standards mentioned in the Portugal-Hungary BIT”:
+- the fair and equitable treatment standard (Article 3.1);
+- the full protection and security standard (Article 5.1);
+
+- the prohibition of arbitrary or discriminatory measures impairing the use, enjoyment,
+
+management, disposal or liquidation of the investments (Article 3.2); and
+- the prohibition of expropriation without compensation (Article 5.2).
+
+As a result of these violations, according to Claimant, it has suffered a loss of circa €
+47,869,000. Implicitly, but clearly, it claims damages of the same amount, plus (explicitly)
+“pre-award and post-award interest at a rate to be determined by the Arbitral Tribunal”; it
+also requests that Respondent bear “all costs, arbitrators’ fees, attorneys’ fees and all
+
+relevant disbursements.”
+
+It is to be noted that the relief thus requested was not mentioned in the relevant parts of the
+Memorial and of the Reply. There is, however, no reason to believe that Dan Cake did not
+
+maintain its requests for this relief.
+
+In its Memorial ( para. 224) and in its Reply (para. 133), Dan Cake expressed its prayers
+
+for relief in identical terms:
+
+65.
+
+66.
+
+VI.
+
+67.
+
+Dan Cake hereby requests that the Tribunal finds that:
+
+(a) Hungary has violated article 5.2 of the Treaty by unlawfully
+expropriating Dan Cake's investment in Danesita as (i) it did not
+serve any legitimate public purpose and failed to observe the due
+process of law and (ii) was not followed by the payment of a fair
+compensation;
+
+(b) Hungary has violated article 5.1 of the Treaty as it failed to
+ensure that Dan Cake's investment would enjoy full protection
+and security;
+
+(c) Hungary has violated article 3.1 of the Treaty as it failed to
+ensure that Dan Cake's investment would be accorded a fair and
+equitable treatment and,
+
+(d) Hungary has violated article 3.2 of the Treaty as it failed to
+ensure that Dan Cake's investment would not be impaired by
+unjust or discriminatory measures.
+
+There has however been a distinct evolution in the way Dan Cake criticizes Hungary’s
+behaviour. The Tribunal will have to determine, therefore, in Part VII of this Decision, the
+
+exact scope of its task.
+
+In its Counter-Memorial (para. 180) and in its Rejoinder (para. 60), Hungary requested that
+the Tribunal reject all of Dan Cake’s claims and issue an award (expressed in identical
+
+terms in both memorials) as follows:
+
+- Declaring that all of Dan Cake's claims are dismissed on the merits;
+
+- Assessing the full costs of this proceeding, including attorneys' fees and
+costs, against Dan Cake; and
+
+- Granting such other relief as the Tribunal may deem appropriate under
+the circumstances, or as Hungary may request from the Tribunal.
+
+JURISDICTION
+
+The jurisdiction of the Arbitral Tribunal has not been challenged by Respondent.
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+723.
+
+74.
+
+75.
+
+Claimant relies on Articles 3.1, 3.2, 5.1 and 5.2 of the Agreement between the Republic of
+Portugal and the Republic of Hungary for the Promotion and Reciprocal Protection of
+
+Investments (“the Treaty”).
+
+The quotations from the Treaty below are taken from the English translation provided by
+
+Claimant.
+
+Pursuant to Article 1, a, of the Treaty, the term “investor” means:
+
+“Each Party’s nationals, as they are defined in the law in force in
+
+their countries...”
+Pursuant to Article 3 of the Portuguese Companies’ Code, Dan Cake being a national of
+Portugal, in which it is incorporated and where it has its head offices, is an investor entitled
+
+to the protection offered by the Treaty.
+
+Pursuant to Article 1, b, of the Treaty:
+
+“the term ‘investment’ means every kind of asset or right connected
+
+to direct investment in accordance with the law in force in the
+
+territory of the Contracting Party where it is made....”
+Although neither the Treaty nor the ICSID Convention defines “direct investment,” there
+is no doubt that Dan Cake’s shares in Danesita are a direct investment in Hungary. It has
+not been contended that this investment was not made in conformity with Hungarian law.
+The liquidation of Danesita therefore affects Dan Cake’s direct investment in Hungary,
+
+and Dan Cake has a right to the protection offered by the Treaty in relation to it.
+
+Pursuant to Article 10, the Treaty applies to investments made after 1 January 1973. Dan
+Cake purchased shares of RELO, later renamed Danesita, in 1996. The Treaty is therefore
+
+applicable ratione temporis.
+
+Pursuant to Article 8.2 of the Treaty:
+
+[i]fa dispute cannot be settled amicably within six months following
+the beginning of conversations to the effect, it shall upon request of
+either litigant be submitted to the jurisdiction of the International
+
+76.
+
+77.
+
+78.
+
+79.
+
+VII.
+
+80.
+
+Centre for Settlement of Investment Disputes referred to in the
+
+Washington Convention of 18 March 1965.
+This provision constitutes an offer to arbitrate. Dan Cake accepted the offer by filing a
+request with ICSID. Dan Cake’s Notice of Arbitration was served upon Hungary on 30
+June 2009. In the absence of any agreement between the Parties to resolve the dispute, the
+
+Request for Arbitration was only filed on 22 March 2012.
+Pursuant to Article 8.3 of the Treaty:
+
+[s]Juch disputes shall be submitted to the competent legal
+
+proceedings of the Contracting Party where the investment was
+
+made, except for cases of expropriation, nationalization or
+
+measures having the equivalent effect. If within 18 months following
+
+the date of the filing of the lawsuit final judgment has not been
+
+passed, the dispute shall be settled in accordance with the
+
+provisions of the previous paragraph.
+This requirement does not apply in the present case. First, the measures of which Claimant
+complains had the effect of depriving it of the ownership of its investment, and can
+therefore be considered to be measures “having the equivalent effect” to an expropriation,
+even if it has not been established that they constitute an expropriation stricto sensu.
+Second, by not objecting to the filing of the Request for Arbitration, Hungary at any rate
+
+implicitly waived any right to require that a Hungarian court be first seized.
+
+As an ICSID Tribunal, the Arbitral Tribunal has jurisdiction over the present case since
+both the host State, Hungary, and the State of which Claimant is a national, the Republic
+
+of Portugal, are Parties to the ICSID Convention, and the dispute relates to an investment.
+
+LIABILITY
+
+A. The scope of the Tribunal’s task
+
+In its Memorial (para. 224) and in its Reply (para. 133) on the merits, Dan Cake has listed
+
+the legal grounds on which it rests its case. These grounds are the following:
+
+81.
+
+82.
+
+(a) Hungary has violated article 5.2 of Treaty by unlawfully
+expropriating Dan Cake’s investment in Danesita as (i) it did not
+serve any legitimate public purpose and failed to observe the due
+process of law and (ii) was not followed by the payment of a fair
+compensation;
+
+(b) Hungary has violated article 5.1 of the Treaty as it failed to
+ensure that Dan Cake’s investments would enjoy full protection and
+security;
+
+(c) Hungary has violated article 3.1 of the Treaty as it failed to
+ensure that Dan Cake’s investment would be accorded a fair and
+equitable treatment and,
+
+(d) Hungary has violated article 3.2 of the Treaty as it failed to
+
+ensure that Dan Cake’s investment would not be impaired by unjust
+
+or discriminatory measures.
+However, when one reads the arguments which Claimant develops in its Reply, it appears
+that neither expropriation nor full protection and security are mentioned, and that the
+particular acts of which Dan Cake complains are characterised as being in breach only of
+the BIT’s provisions on fair and equitable treatment (Article 3.1) and unfair or
+
+discriminatory measures (Article 3.2).
+
+In its Memorial, Dan Cake had severely criticised the Hungarian law on bankruptcy,
+quoting inter alia authors according to whom “bankruptcy law has become, in effect to
+some settlement (sic), legal extortion to get debts paid” (Akos Eros, Csara Vari and Thomas
+Salerno, “Hungary’s proposed insolvency law reforms — hope for the future?;” 2005/2006,
+p. 93 — Exh. CLA-015). It had concluded that “Hungary’s failure to provide a decent and
+workable legal framework regarding insolvency procedures is a clear violation of
+Hungary’s obligation to provide full protection and security of reorganising its business
+[and] has been widely recognised and duly criticized” (para. 200). However, neither in its
+Reply on the merits, nor in its opening and closing submissions at the hearing did Dan Cake
+mention this criticism again. Although Dan Cake has never formally abandoned this aspect
+of its claims, the Tribunal understands that its case is now that Hungarian law has been
+violated by the Metropolitan Court of Budapest and by the liquidator. Should the Tribunal
+consider that there was indeed a violation of the law, the question of whether the law did
+or did not, in itself, provide full protection and security will become moot: the cause of the
+
+harm suffered will not be the law, whether good or bad, but its violation. The Tribunal will
+
+15
+
+83.
+
+84.
+
+85.
+
+86.
+
+87.
+
+therefore deal with the alleged breach of Article 5.1 of the Treaty only in the event that it
+
+considers that Hungarian law has been applied in conformity with the terms of this Article.
+
+In the summary of Section 3 of the Reply, entitled “Merits of the Claim,” Dan Cake
+mentions that “[t]he main cause of action in this arbitration is the breach of the fair and
+equitable treatment standard ... as well as the breach of the obligation not to impair
+
+investment by unfair or discriminatory measures ...” (para. 101).
+
+The same Section 3 of the Reply describes the acts said to be attributable to Hungary.
+These comprise, first, a breach of the fair and equitable treatment standard (Article 3.1)
+and, second, a breach of the obligation not to impair investment by unjust or discriminatory
+measures (Article 3.2). Only one act is in fact described, and said to fall under both Article
+3.1 and 3.2 of the BIT: the decision of 22 April 2008, by which the Metropolitan Court of
+Budapest ordered Danesita to submit supplementary filings to complete its request for the
+convening of a composition hearing, and refused to convene a hearing until its orders had
+been complied with, at the same time recalling that under the Bankruptcy Act the liquidator
+must proceed with the sale of the debtor’s assets within 120 days from the publication of
+
+the debtor’s liquidation.
+
+In his closing statement on the last day of the hearing, Dan Cake’s Counsel presented his
+arguments, focusing principally upon an analysis of this decision of the Metropolitan Court
+of Budapest, and on the liquidator’s decision to proceed with the sale of the assets, which
+
+followed the Court’s decision.
+
+In its Memorial, Dan Cake had argued that the liquidator’s actions were attributable to
+Hungary. However in its Reply it only criticised the Metropolitan Court of Budapest’s
+
+decision of 22 April 2008, which is undeniably attributable to Hungary.
+
+At the hearing, in the course of closing arguments, Dan Cake’s Counsel made reference to
+the relationship between the Court’s decision and the liquidator’s action, in the following
+
+terms:
+
+88.
+
+89.
+
+by answering the questions that the Tribunal raised, Danesita
+almost answered one of the other two topics, which is the attribution
+of the liquidator’s decision to the judge —
+
+Mr. ORDWAY: To the judge??
+
+Mr. ANDRADE DE MATOS: - and consequently to the Hungarian
+Republic.'
+And:
+
+Ina nutshell, the reason why Dan Cake believes that the launch of
+
+the second tender and the sale of the assets is attributable to the
+
+Hungarian Court, and consequently to the Hungarian Republic, is
+
+that the judge gave directions, gave a clear permission; more than
+
+that, gave an indication to the liquidator that that is how he should
+
+proceed.”
+The Respondent’s Counsel understood these statements to imply that the liquidator’s
+action, as such, was directly attributable to the Respondent, and requested the right to file
+a brief on this issue: “there have been some new issues raised for the first time today,
+namely the defence of the liquidator as a State actor issue, which was not addressed
+
+previously; we had not anticipated that being addressed.”* The request was granted.
+
+The Tribunal does not share the Respondent’s understanding of Dan Cake’s statements
+quoted above. It understands them to mean that the Republic of Hungary was
+internationally liable vis-a-vis Dan Cake because the Court gave an indication to the
+liquidator to do something detrimental to Dan Cake (selling Danesita’s assets), which the
+liquidator duly followed. The Respondent’s organ whose conduct is impugned by Dan
+Cake is the Court, not the liquidator. Be that as it may, the Respondent filed a brief on 5
+November 2014, in which it insisted that Dr. Sévago, the liquidator, was a private actor,
+not a State actor or agent, and that he had not acted on the instructions of, or under the
+control of Hungary when he initiated the second sale tender of Danesita’s assets in May
+2008. Dan Cake replied on 12 November 2014. In the last section of its brief
+
+(“Attribution”) it took the position that the actions of the liquidator were attributable to
+
+Amended Tr., Day 3, 46:5-11
+2 Amended Tr., Day 3, 60:4-10
+3 Amended Tr., Day 3, 124:19-23
+
+Hungary pursuant to Article 5 of the International Law Commission’s Draft Articles on
+State Responsibility,+ because the liquidator was empowered by the law of the State to
+exercise elements of governmental authority. It insisted that the Court’s decision was, in
+
+fact, an instruction to the liquidator to carry on with the ongoing tender.
+
+90. As a consequence of the above, the scope of the Tribunal’s task comprises the following
+
+three components (subject to the observation in para. 79 above):
+
+- as to the acts allegedly attributable to Hungary and rendering it liable under
+
+international law:
+othe Metropolitan Court of Budapest’s decision of 22 April 2008,
+othe sale of Danesita’s assets by the liquidator;
+- as to the provisions of the Portugal-Hungary BIT relied upon by Dan Cake:
+
+o Articles 3.1 and 3.2 of the BIT, which the above-mentioned acts may have
+
+violated;
+
+o formally, Articles 5.1 and 5.2 of the BIT, it being observed that although they
+are mentioned in Dan Cake’s prayer for relief, no act attributable to Hungary is
+
+referred to in connection with these provisions;
+- as to the persons or organs whose acts may be attributable to Hungary:
+othe Metropolitan Court of Budapest,
+othe liquidator.
+
+91. The Tribunal will first examine whether the decision by the Metropolitan Court of
+
+Budapest not to convene a composition hearing constitutes a violation of the BIT,
+
+ 
+
+* International Law Commiss
+(2001).
+
+n, Draft Articles on Responsibility of States for Internationally Wrongful Acts
+
+92.
+
+attributable to Hungary. It will then turn to the question whether the sale of Danesita’s
+
+assets by the liquidator constitutes a breach of the BIT, attributable to Hungary.
+
+B.
+
+The Metropolitan Court of Budapest’s refusal to convene a composition
+hearing
+
+It appears that time for convening a composition hearing was of the essence for two
+
+reasons:
+
+(a)
+
+(b)
+
+The first reason, invoked by Danesita in its request to convene a composition
+hearing, was that the production of Danesita’s factory was affected by the
+
+liquidator’s decision to dismiss employees.
+
+The second reason is that, in the absence of a creditors’ committee, which could
+have objected to a sale of assets, and in the absence of the convening of a
+composition hearing, the liquidator was under an obligation to start the public sale
+of the debtor’s assets within 120 days of the date of publication of the liquidation
+proceedings. It is obvious that, after the assets are sold, no composition hearing can
+succeed (even if it can still be convened). This was confirmed by Dr. Ott in the
+course of her cross-examination.> Conversely, once a composition hearing has been
+convened — even if it has not yet taken place — the liquidator must abstain from
+selling the assets. The latter point was confirmed by Dr. Sévag6 in the course of
+
+his cross-examination.°
+
+“Question: Have they [Dan Cake] told you that for them it was important that the assets weren't sold?
+
+Answer: Well, I do believe it was in the interest of any creditor supporting a composition agreement because
+Danesita would only then have been able to meet its undertakings vis-a-vis the creditors, if the company
+continues its operation as a going concern.”
+
+(Amended Tr., Day 2, p. 148:10-17).
+
+“Question: Would you have initiated the second tender if a composition hearing had been scheduled by the
+
+court?
+
+Answer: No.”
+(Amended Tr., Day 2, p. 212:4-6).
+
+93.
+
+94.
+
+95.
+
+96.
+
+The prompt convening of a composition hearing was therefore the only way for Danesita
+and Dan Cake to avoid the sale of Danesita’s assets and the disappearance of Danesita, Dan
+
+Cake’s investment in Hungary.
+
+Under Hungarian bankruptcy law, there is no hierarchy between a composition hearing and
+the sale of assets. Although the normal course of liquidation proceedings is that it ends
+with the sale of the assets, the possibility for the debtor to request the convening of a
+composition hearing is specifically mentioned in the Code. The composition hearing may
+fail because it gives rise to negotiations between the creditors and ends with a vote, which
+can be negative, but the debtor has a right that it be at least convened by the court, provided
+the request is accompanied by the documents required by law, or deemed necessary. This
+is expressed in the part of the Bankruptcy Act entitled “Composition Agreement in
+Liquidation,” which contains 5 sections (41 to 45). Section 41(5) leaves no choice to the
+
+court seized of such a request:
+
+“Upon the debtor’s request, the court shall hold composition
+negotiations within 60 days following receipt of the petition ...”
+(emphasis added).”
+
+Three documents must be submitted with the request: a program for restoring solvency, a
+
+composition proposal, and a list of creditors.
+
+The Explanations on insolvency law make the following comment on Section 41(5) of the
+
+Bankruptcy Act:
+
+It is the duty of the court to schedule the settlement (composition)
+hearing within 60 days as of the receipt of the relevant petition
+request and the business plan aimed at restoration of the debtor’s
+solvency (in short: reorganization plan). It is essential that a
+hearing shall be held within the above deadline by all means if the
+subject petition has been filed adequately.
+
+Exh. RLA-055.
+
+Exh. CLA-002 attached to the Reply. Claimant notes, at footnote 23 of the Reply, that “the English version
+is a summary of the [sic] Hungary’s original prepared by Mr. Csongér Palotas.” The accuracy of this
+version has not been challenged by the Respondent.
+
+  
+
+20
+
+97.
+
+98.
+
+99.
+
+In its written and oral submissions, Hungary, citing authorities, insisted that the purpose of
+insolvency law in any country, including Hungary, is to protect the creditors’ interests, not
+the debtor’s, and that — quoting a decision of the Szeged High Court of Appeal of 1
+September 2004 (Exh. R-077) - “the main goal of the liquidation proceeding is not the
+reorganization.” What this means is that the creditors’ interests should not be jeopardised
+for the sake of the reorganisation of the debtor company. However, if a composition
+satisfies both the interests of the debtor and those of the creditors - who would only be
+bound if a qualified majority of them voted in favour of its adoption, thus expressing their
+preference for such outcome rather than for a sale of assets — there is no reason to refuse to
+
+convene a composition hearing.
+
+On 10 April 2008, Danesita submitted to the Budapest Metropolitan Court (sitting as
+bankruptcy court) its request that the Court convene a composition hearing. It is not
+disputed that the documents required by the Bankruptcy Act were submitted with the
+request. However the Court, by its Order of 22 April 2008 (Exh. C-033), declared that
+“the request to convene a composition hearing in its current form and with its current
+content is not suitable to be served on the creditors and to convene a composition hearing.”
+Instead, the Court ordered the debtor to make supplementary filings, and listed seven
+requirements to be fulfilled before a composition hearing could be convened. The Court
+also insisted on how much time would lapse after the convening, before a hearing could
+
+take place.
+
+The decision deserves being quoted in its entirety:
+
+Metropolitan Court of Budapest
+Economic Department Liquidation Group
+Bp. Il. Varsdnyi I. u. 40-44.
+
+1535 Budapest, Pf, 887
+
+25. Fpk. 01-06-004545/27.
+
+21
+
+The Metropolitan Court of Budapest in the liquidation proceedings
+of Danesita Hungaria Edesipari Kft. "fa." (1151 Budapest, Karolyi
+Sandor u. 156.), the debtor, represented by PK-ECONO Kft. (1134
+Budapest, Klapka u. 6.), the liquidator, has issued the following
+
+order
+
+Under the burden of refusing the request to convene a composition
+hearing submitted by the legal representative of the debtor /Dr.
+Juhdsz Gabor Ugyvedi Iroda, 1068 Budapest, Bencziir u. 10. II/10.,
+acting attorney-at-law: Dr. Juhdsz  Gdbor/, taking _ into
+consideration Section 124(3) of Act III of 1952 on the Code of Civil
+Procedure applicable in accordance with Section 6(3) of Act XLIX
+of 1991 (Bankruptcy Code), the court orders the debtor to make the
+following supplementary filing:
+
+- Submit a company registry extract of the foreign shareholder
+not older than three months and a certified Hungarian
+translation thereof, or a document from which the right of the
+shareholder's representative to represent the shareholder can
+be established - Section 50(1) of the Code of Civil Procedure.
+
+- Creditors with claims listed under Section 57(a) and (c) of the
+Bankruptcy Code may not participate in the composition
+agreement, since such "privileged" creditor claims shall be
+(and should have been) satisfied upon accrual. It cannot be
+established from the documents submitted in the proceeding
+that this has happened.
+
+- The court informs the debtor that the court approves the
+composition agreement based on the consenting declarations
+of the representatives of the debtor and the creditors present,
+and the court will not expect any documents signed at the
+composition hearing. Such documents, as letters of intent of
+the debtor and the creditors to enter into a composition
+agreement, may be submitted to the court if they have
+previously been signed by individual creditors, in order for the
+court to be able to get an understanding whether the ratio
+necessary for the composition agreement is likely to be
+achieved. This is particularly necessary in the instant case,
+because there are a large number of creditors including
+foreign companies.
+
+- The composition agreement may not depend on any conditions
+other than the court's approval. The court may only approve a
+composition agreement and only a composition agreement
+satisfies the creditors’ interest if the enforceability of such a
+
+22
+
+composition agreement is conditional solely upon the court
+approval becoming final and unappealable; the uncertainty of
+the existence of the bank guarantee as a condition of the
+composition agreement cannot be approved by the court.
+
+The composition agreement may only be entered into among
+entities which can be deemed as parties to this procedure, thus
+neither a financing bank nor the debtor's shareholder is party
+to the procedure or can participate in the composition
+agreement. The composition agreement concluded in
+liquidation proceedings is a special settlement agreement,
+which is entered into between the debtor and the creditors, and
+this court may not establish any obligations for persons
+performing obligations as third parties.
+
+Taking into consideration the high number and value of
+creditor claims, it appears necessary that coverage of payment
+obligations undertaken in the composition be provided for all
+creditors, even as to those creditors that may not be present at
+the composition hearing (Section 44(1) of the Bankruptcy
+Code). For this reason, the court hereby orders the debtor to
+prove within 15 days that the coverage necessary for the
+satisfaction of the creditors is available in its bank account, or
+is held in an escrow accepted by the creditors, the release of
+which depends only on the court order approving the
+composition agreement becoming final and unappealable. The
+court notes that the unsigned chart submitted in the procedure
+does not qualify as a certificate of escrow and does not contain
+the amounts necessary for the satisfaction of all creditors.
+When proving the coverage, please consider the amounts of
+category (a) and (c) liabilities, the liquidation costs that have
+arisen to date, and the fact that the liquidator's fee shall be
+borne by the debtor. The liquidator may provide information
+in order to specify the costs.
+
+Based on consistent judicial practice, there may be no ongoing
+proceedings regarding the adjudication of disputed creditor
+claims or objections at the time of the conclusion of the
+composition agreement. In the present case, there are such
+ongoing proceedings.
+
+Section 40(5) of the Bankruptcy Code undoubtedly sets a 60-
+day deadline for the court to convene the (first) composition
+hearing. However, this deadline starts running from the date
+when the court receives a request to convene a composition
+hearing which is clearly proper for scheduling such a
+composition hearing. For procedural matters not regulated in
+
+23
+
+the Bankruptcy Code, the provisions of the Code of Civil
+Procedure and its supplementing regulations, as well as
+respective EU-regulations shall apply. The Bankruptcy Code
+does not contain any provisions regarding the service of
+official documents. Therefore, Section 27 of the informative
+paper No. 8001/2001. (IK.4.) of the Ministry of Justice on the
+treatment of matters containing international elements shall
+be taken into consideration, which sets forth that when
+convening a hearing, the time foreseen for the international
+service of documents (the time necessary for returning the
+return receipt) shall be taken into consideration. According to
+Section 27/a of the informative paper, in case of service by
+direct mail this period is, in general, four months.
+
+- According to EC Regulation No. 1348/2000, delivery by direct
+mail is not excluded with respect to the Italian and Slovak
+creditors.
+
+- If the documents to be delivered need to be translated, the
+above deadlines are extended by the time period necessary for
+the translation. According to the EC Regulation, the (official)
+translation of documents to be delivered to Italy is
+indispensable in case of direct service to Italy. This
+requirement is also mandatory in case of service to Slovakia,
+except if the addressee understands the Hungarian language.
+(Obviously, if the creditors are represented by a Hungarian
+legal representative, the above time shall not be taken into
+consideration when scheduling the composition hearing.)
+
+The court notes that by initiating the sale of the debtor's assets, the
+liquidator has complied with its statutory obligations set out in the
+Bankruptcy Code. According to Section 48(1) of the Bankruptcy
+Code, the liquidator shall collect and enforce the debtor's due
+claims and sell the debtor's assets. According to Section 49(1) of the
+Bankruptcy Code, the liquidator shall sell the debtor's assets on a
+public sale for the highest market price achievable. The asset sale
+may take the form of a sale tender or an auction. The liquidator may
+only deviate from such procedure if the creditors' committee agrees
+thereto, or if the expected income would not cover the costs of the
+sale, or if the difference between the expected income and the
+foreseeable costs of the asset sale is less than 100,000 forints.
+Paragraph (2) provides that — unless the creditors' committee
+resolves otherwise — the liquidator shall initiate the sale of assets
+within 120 days of the date of publication of the liquidation
+proceedings.
+
+24
+
+Taking into consideration the above, the request to convene a
+composition hearing in its current form and with its current content
+is not suitable to be served on the creditors and to convene a
+composition hearing.
+
+For information purposes, the court serves this order on the
+liquidator.
+
+Budapest, April 22, 2008
+Dr. Modrovich Agota (sgd.)
+judge
+In witness thereof
+
+Laszloné®
+
+(1) Analysis of the 22 April 2008 Decision of the Metropolitan Court of Budapest
+
+The Penultimate Paragraph: Before examining the Court’s directions, it is
+necessary to quote the second to last paragraph of the Order, which calls for some
+
+comments.
+The said paragraph reads:
+
+The court notes that by initiating the sale of the debtor’s assets, the
+liquidator has complied with its statutory obligations set out in the
+Bankruptcy Code. According to Section 48(1) of the Bankruptcy
+Code, the liquidator shall collect and enforce the debtor’s due
+claims and sell the debtor’s assets. According to Section 49(1) of
+the Bankruptcy Code, the liquidator shall sell the debtor’s assets in
+a public sale for the highest market price achievable. The asset sale
+may take the form of a sale tender or an auction. The liquidator
+may only deviate from such procedure if the creditors’ committee
+agrees thereto, or if the expected income would not cover the costs
+of the sale, or if the difference between the expected income and the
+foreseeable costs of the asset sale is less than 100,000 forints.
+Paragraph (2) provides that — unless the creditors’ committee
+resolves otherwise — the liquidator shall initiate the sale of assets
+
+Metropolitan Court of Budapest, Order, April 22, 2008, Exh. C-033.
+
+25
+
+102.
+
+103.
+
+104.
+
+105.
+
+within 120 days of the date of publication of the liquidation
+proceedings.'°
+
+After refusing in the last paragraph of the Order to convene a composition hearing, the
+
+Court added: “For information purposes, the Court serves this order on the liquidator.”"'
+
+The presence in a decision, the subject of which was the convening of a composition
+hearing, of a paragraph strongly insisting on the liquidator’s duty to sell the debtor’s assets
+within 120 days of the date of publication of the liquidation proceedings, is surprising to
+say the least. It is all the more puzzling that in points 8 to 10 of the decision, the Court
+insisted that even after the debtor’s completion of the request for convening a composition
+hearing in accordance with the Court’s requirements, a long period of time might still have
+to be observed (four months, in principle) for the return receipt of the foreign creditors after
+the date of notification of the decision to them. In addition, time was necessary to translate
+the decision into the foreign creditors’ languages (the notifications being incumbent on the
+Court, not on the debtor, pursuant to Article 41(5) of the Bankruptcy Act). The brevity of
+the time-period in which the liquidator was to sell the assets, of which the Court reminds
+the persons on whom the decision is served, is thus to be contrasted with what was an
+alleged impossibility to abide by the law and hold a composition hearing within a 60-day
+
+period.
+
+For Claimant, the presence of the paragraph reminding everyone — including the liquidator,
+on whom the Court took care to serve the decision — of the liquidator’s duty to sell the
+assets, was an invitation to the liquidator to proceed with the sale as quickly as possible,
+thus making the convening of a composition hearing impossible. Whether such was the
+intent of the Court is impossible to tell, although no compelling alternative explanation has
+
+been suggested for this part of the Court’s Order.
+
+Be that as it may, the effect of the decision was that the liquidator published without delay
+the second tender for the sale of the assets (the first tender, although not annulled, had been
+
+unsuccessful).
+
+26
+
+106.
+
+107.
+
+108.
+
+109.
+
+In his Witness Statement, the liquidator — Dr. Sévag6 — declared (para. 38) that he was
+informed by the Bankruptcy Court at the beginning of May 2008 that Dan Cake had been
+asked by the Bankruptcy Court to provide additional information to support its request, and
+that it had failed to provide such information. That would explain, according to his
+testimony, why he proceeded with the second tender, which was published in the
+Hungarian official gazette (Exh. C-036) on 29 May 2008. However, this explanation
+cannot be correct. As Dr. Sdvag6 admitted in the course of his cross-examination, he must
+have requested the publication on 14, 15 or 16 May.'? At that time Danesita, on which the
+decision was served on 5 May, was still within the time-limit set by the Court — 15 days —
+to comply with its decision. A different explanation given by Dr. Sévago in his
+Supplemental Witness Statement (para. 17), was that MKB Bank had told him that no
+settlement agreement had been reached. This second version is not credible either, since it
+appears from the testimony of Dr. Ott, and from the letter of 9 May 2008 which she sent to
+Mr. Palotas, Danesita’s attorney (Exh. C-00 3 attached to the Reply), that MKB Bank was
+still willing to enter into a settlement and thought it was still possible. It is much more
+likely that Dr. Sévag6 realised that there would be no composition hearing and that he
+
+understood the Court’s decision to be inviting him to proceed with the sale of the assets.
+
+While the penultimate paragraph of the decision is devoted to the liquidator’s obligation to
+proceed with the sale of assets within a rather short time-limit, the first seven paragraphs
+of the decision set out the reasons why the Court refused to convene a composition hearing,
+
+and by the same token ordered Danesita to make the corresponding supplemental filings.
+
+The Court’s Power to Order Additional Documents: Before examining one by one
+the various alleged deficiencies in Danesita’s request, an initial legal issue must be
+
+resolved.
+
+Danesita having submitted the three documents required by law, the Parties are in
+disagreement as to whether the Court had the right to order the submission of additional
+documents. While Claimant denies that such a right exists, Respondent invokes the
+
+2 Amended Tr., Day 2, 206:14-17.
+
+27
+
+110.
+
+111.
+
+112.
+
+113.
+
+114.
+
+abovementioned decision of the Szeged High Court of Appeal, the writings of two authors
+
+and the Explanation of the Bankruptcy Code.
+
+The Szeged High Court of Appeal blamed the lower court for having convened a
+composition hearing in spite of the fact that the plan necessary for restoring the company’s
+solvency was missing. In addition, it noted, obiter, that the lower court had ordered the
+submission of the board resolution regarding the conclusion of a composition agreement
+and that such documents had been submitted. It neither disapproved nor approved the
+lower court’s decision to order the production of the latter document, which the law does
+not expressly require. The Respondent construes the High Court’s lack of comment as an
+
+implicit admission that the order was not in contradiction with the law.
+
+In his Commentary to Act XLIX of 1991 on Bankruptcy and Liquidation Proceedings, at
+p. 205, Andrea Csoke notes: “[iJn the case the request lacks some necessary information,
+the court shall issue a supplementation order which can request a broad range of additional
+information or documents, for example, a power of attorney, the composition offer in
+
+sufficient copies, etc.” (Exh. RLA-059).
+
+The Arbitral Tribunal notes that although the author refers to a “broad range” of additional
+information or documents that could be “necessary,” he only mentions two examples, and
+
+one of them is in fact a document required by the law.
+
+Although the Tribunal does not find the other quotations included in footnotes 56 to 63 of
+the Rejoinder to be relevant, it can but conclude that there is some authority for the
+proposition that a bankruptcy court has the power to require the submission of documents
+or information not mentioned in the Bankruptcy Act, provided they are “necessary.” This
+may be said to be the case for a power of attorney (mentioned by Andrea Cséke) and for a
+resolution of the board of the debtor company (mentioned in the Szeged decision), both
+
+establishing that the request is made by a person duly empowered to submit it.
+
+As to what document or information can more generally be considered “necessary,” one
+must take into account the specific nature of the requested measure. Respondent relies on
+
+the general reference made in Section 6(3) of the Bankruptcy Act to the provisions of the
+
+28
+
+115.
+
+116.
+
+117.
+
+Code of Civil Procedure, and more specifically to its Section 124, which permits a court to
+request additional information before convening a hearing. However Section 6(3) itself
+mentions that the Code of Civil Procedure shall only apply “mutatis mutandis,” and
+reserves “the derogations arising from the characteristics of non-litigious civil
+proceedings.” The proceedings for the examination of a request to convene a composition
+hearing obviously call for a derogation since they are non-contentious, they do not provide
+the opportunity for the requesting Party to make any arguments before the court and, above
+
+all, they are subject to time constraints imposed by the law.
+
+One must also distinguish between the documents and information that will be required on
+the day of the composition hearing, and those which should already have been submitted
+with the request, in the absence of which a composition hearing cannot be convened. It is
+obvious that, on the day (or days) of the composition hearing, numerous documents must
+be present, and a lot of information available. However the law does not require, and it
+would be absurd to require, that everything be in place on the day of the order convening
+the hearing. The weeks, or months, that extend between the convening and the hearing can
+be used to gather that which has to be gathered, which may require a lot of time. In
+addition, since things change with time, particularly when the debtor company is still
+active, any documents submitted prematurely may be out of date when they are used. Last
+but not least, the result of unnecessarily postponing the convening of the hearing may be
+
+that the conditions for a successful hearing will have simply disappeared.
+
+The Arbitral Tribunal will now examine each category of information or documents, the
+absence of which justified, in the opinion of the Court, its refusal to convene a hearing.
+None of the requirements formulated by the Court has any basis in a specific provision of
+
+the law; they were simply deemed “necessary” by the Court.
+
+It is not the task of this Tribunal to determine whether it agrees, or disagrees, with the
+Metropolitan Court of Budapest as to whether the items required were indeed necessary.
+The Tribunal is not a court of appeal. A mere disagreement with what the Metropolitan
+Court of Budapest decided on one or another point would not establish that the decision
+
+was unfair or inequitable. However, the Tribunal might regard the decision to be unfair or
+
+29
+
+118.
+
+119.
+
+120.
+
+121.
+
+inequitable if it found that some of the requirements were obviously unnecessary or
+impossible to satisfy, or in breach of a fundamental right, having in mind that since many
+employees had been laid off by the liquidator, the factory was not running at full capacity,
+as underlined in the request, so that unnecessarily postponing the convening could but ruin
+
+the possibility of a successful hearing, thereby dooming the investment to disappear.
+
+First Requirement: The first supplementary filing ordered by the Court was the
+following:
+
+Submit a company registry extract of the foreign shareholder not
+
+older than three months and a certified Hungarian translation
+
+thereof, or a document from which the right of the shareholder’s
+
+representative to represent the shareholder can be established —
+
+Section 50(1) of the Code of Civil Procedure.
+As much as it is understandable to require a power of attorney of the person requesting the
+convening of a composition hearing on behalf of the debtor company, it is not
+understandable to request, long before the moment the person will have to participate in
+the hearing, the power of attorney of the representative of the shareholder. And as
+Claimant pointed out in its closing arguments, what if, between the filing of the company
+registry extract “not older than three months” required by the Court to complete the request,
+there was a change in the board of directors of the shareholder company? Postponing the
+convening of the composition hearing as a result of such a requirement, in the Tribunal’s
+
+view, defeats common sense.
+
+Second and Sixth Requirements: The second and the sixth requirements must be
+
+examined together.
+The second supplementary filing required by the Court was as follows:
+
+Creditors with claims listed under Section 57(a) and (c) of the
+Bankruptcy Code may not participate in the composition agreement,
+since such “privileged” creditor claims shall be (and should have
+been) satisfied upon accrual. It cannot be established from the
+documents submitted in the proceeding that this has happened.
+
+30
+
+122.
+
+123.
+
+124.
+
+The sixth supplementary filing required by the Court was as follows:
+
+Taking into consideration the high number and value of creditor
+
+claims, it appears necessary that coverage of payment obligations
+
+undertaken in the composition be provided for all creditors, even as
+
+to those creditors that may not be present at the composition hearing
+
+(Section 44(1) of the Bankruptcy Code). For this reason, the court
+
+hereby orders the debtor to prove within 15 days that the coverage
+
+necessary for the satisfaction of the creditors is available in its bank
+
+account, or is held in an escrow accepted by the creditors, the
+
+release of which depends only on the court order approving the
+
+composition agreement becoming final and unappealable. The
+
+court notes that the unsigned chart submitted in the procedure does
+
+not qualify as a certificate of escrow and does not contain the
+
+amounts necessary for the satisfaction of all creditors. When
+
+proving the coverage, please consider the amounts of category (a)
+
+and (c) liabilities, the liquidation costs that have arisen to date, and
+
+the fact that the liquidator’s fee shall be borne by the debtor. The
+
+liquidator may provide information in order to specify the costs.
+The necessity of having the funds necessary in an escrow account to satisfy the payment
+obligations undertaken in the composition is natural. Whether the funds should already
+have been placed in escrow at the time of the request is less obvious, given that new
+
+creditors may appear after the convening, and that it is not required by the law.
+
+When it comes to the creditors belonging to classes (a) and (c), the requirement to prove
+that they have already received payment, or that the funds necessary for payment are placed
+in escrow, appears almost impossible to satisfy within 15 days, since they comprise
+numerous items, such as “severance pay due upon the termination of employment and other
+benefits”; “employers health-care contributions and membership fees paid to private
+pension funds”; “costs of cleanup of any environmental damage and contamination”;
+“verified costs in connection with the sale of the assets and the enforcement of claims”;
+“court costs paid by the economic operator under liquidation”; etc. It is a huge task, which
+the law does not mention as a prerequisite to the convening, and which it would be more
+logical to perform during the period between the convening and the hearing. This is all the
+
+more so, given that many of the costs enumerated will continue to accrue during that period.
+
+31
+
+125.
+
+126.
+
+127.
+
+Third Requirement: The third supplementary filing ordered by the Court was the
+following:
+
+The court informs the debtor that the court approves the
+
+composition agreement based on the consenting declarations of the
+
+representatives of the debtor and the creditors present, and the court
+
+will not expect any documents signed at the composition hearing.
+
+Such documents, as letters of intent of the debtor and the creditors
+
+to enter into a composition agreement, may be submitted to the court
+
+if they have previously been signed by individual creditors, in order
+
+for the court to be able to get an understanding whether the ratio
+
+necessary for the composition agreement is likely to be achieved.
+
+This is particularly necessary in the instant case, because there are
+
+a large number of creditors including foreign companies.
+It appears that the Court required documents that would allow it to determine whether it
+was “likely” that the legal conditions for a composition agreement would be met on the
+day of the hearing. In other words, if in the Court’s opinion it was not likely, it would
+
+refuse to convene a hearing.
+
+If the legislator had meant to grant the Court the power to refuse to convene the
+composition hearing on the basis of its assessment of the likelihood that the required
+percentages of favourable votes will be met, it would certainly have said so. On the
+contrary, it stated that upon the debtor’s request, the Court shall convene a composition
+hearing within 60 days. The Explanation on insolvency law makes it clear that “the
+settlement petition cannot be refused with a view to foreseeable/predictable shortcomings
+on the merit even if the experienced judge is well aware that the submitted material will
+not surely be suitable for concluding a composition agreement.”!? In addition, first, the
+time between the convening and the hearing may be used to convince some creditors to
+accept a proposal and second, a composition agreement is not the mere gathering of
+consents previously given: it involves a process of negotiations during the hearing and a
+
+vote at the end of it (see Section 41(5) of the Bankruptcy Act). The Court’s opinion as to
+
+Exh. CLA-002 attached to the Reply. See above, footnote 6, the Claimant’s comment on the translation
+into English.
+
+32
+
+128.
+
+129.
+
+the likelihood of success would therefore, at the stage of convening the hearing, be
+
+premature.
+
+Fourth Requirement: The fourth supplementary filing ordered by the Court was
+
+the following:
+
+The composition agreement may not depend on any conditions other
+than the court’s approval. The court may only approve a
+composition agreement and only a composition agreement satis
+the creditors’ interest if the enforceability of such a composition
+agreement is conditional solely upon the court approval becoming
+final and unappealable; the uncertainty of the existence of the bank
+guarantee as a condition of the composition agreement cannot be
+approved by the court.
+
+ 
+
+This paragraph shows a lack of understanding by the Court of the nature of the settlement
+agreement contemplated by Danesita, Dan Cake and MKB Bank. The existence of a bank
+guarantee was not a condition for the settlement, and even less a condition for the
+composition agreement. It was a requirement of MKB Bank for entering into a settlement
+agreement, which would only be conditioned upon the approval of a composition
+agreement (the exact opposite of the Court’s understanding). This was confirmed by Dr.
+Ott during her cross-examination.'t In addition, as explained by Dr. Ott, once the
+composition agreement had been approved, the bank would release its mortgage on
+Danesita’s assets: that was an obligation which would have been performed after the
+approval of the composition agreement upon which it was conditional, just as the
+settlement agreement, including the bank guarantee, was conditional upon the approval of
+
+the composition agreement.'>
+
+‘4 [After checking the contents of MKB Bank’s letter of 20 March 2008 to Dr. Palotas, Exh. R-025 or C-020]:
+“On page 2, paragraphs 3 and 5 suggest, I believe, that until the signing of the tripartite agreement between
+Dan Cake, MKB and Danesita, we had to fine-tune the text. But the agreement could only enter into force
+once we receive the signed bank guarantee. I believe that this should have happened before the court
+approval of the competition (sic) agreement” (Amended Tr., Day 2, 140:12-18).
+
+‘5 Dr. Ott’s cross-examination,: “Prior to the court’s approval we requested a surety in a notarised document
+and we requested a bank guarantee to be submitted to us, and in return we ed a conditional release of
+the mortgage in which we undertook responsibility and we stated that provided that the final approval of
+the composition agreement by the court and provided that all the bank guarantee and the surety documents
+are available, then MKB would have no other option but to issue the final release of the mortgage”
+(Amended Tr., Day 2, 122:12-21).
+
+  
+
+ 
+
+33
+
+130.
+
+131.
+
+132.
+
+133.
+
+The fact is that, at the time of the Court’s decision, no agreement had been entered into
+between MKB Bank and Danesita. Without an agreement between them there could be no
+composition hearing. But it was not necessary that the agreement be finalised at the time
+of the request, and the Court did not say otherwise. Even after the Court’s decision of 22
+April 2008, MKB Bank was still willing to enter into a settlement, as confirmed by Dr. Ott
+
+during her cross-examination.
+
+Fifth Requirement: The fifth supplementary filing ordered by the Court was the
+following:
+
+The composition agreement may only be entered into among entities
+
+which can be deemed as parties to this procedure, thus neither a
+
+financing bank nor the debtor’s shareholder is party to the
+
+procedure or can participate in the composition agreement. The
+
+composition agreement concluded in liquidation proceedings is a
+
+special settlement agreement, which is entered into between the
+
+debtor and the creditors, and this court may not establish any
+
+obligations for persons performing obligations as third parties.
+The statement that “neither a financing bank nor the debtor’s shareholder is Party to the
+procedure or can participate in the composition agreement” is more than surprising. As far
+as the shareholder, Dan Cake, is concerned, it is a creditor of Danesita, and the law, while
+distinguishing various classes of creditors, does not exclude shareholders of the debtor
+company. Moreover, since the amounts lent by Dan Cake to Danesita are part of its
+investment in Hungary, the refusal to accept Dan Cake, a Portuguese company, as a
+participant in a composition agreement, might in itself be construed as an expropriation of
+a foreign investment. However, the issue — which was not raised by Dan Cake — is moot
+
+since no composition agreement was concluded.
+
+Seventh Requirement: The seventh supplementary filing ordered by the Court was
+
+the following:
+
+Based on consistent judicial practice, there may be no ongoing
+proceedings regarding the adjudication of disputed creditor claims
+or objections at the time of the conclusion of the composition
+agreement. In the present case, there are such ongoing
+proceedings.
+
+34
+
+134.
+
+135.
+
+136.
+
+Both Parties agree that two objections raised by Dan Cake were pending at that time. First,
+Dan Cake was arguing that the liquidator had wrongfully assessed its creditor’s claims as
+late-filed. Second, Dan Cake and Danesita had submitted an objection to the Bankruptcy
+Court against the liquidator for allegedly wrongfully initiating the first sale tender, and on
+
+that basis had requested a stay of the tender.
+
+This common view was expressed by the Parties in their answers to questions asked by the
+Tribunal in the course of its deliberation, on 30 January 2015. On 3 March 2015, Claimant
+and Respondent submitted their answers to the Tribunal’s questions, and on 31 March 2015
+
+they submitted their replies to the other Party’s answers.
+
+Since the Court referred to “consistent judicial practice,” both Parties make reference to a
+judgment of the Metropolitan High Court of Appeal rendered in 2007 (Annex 4 to
+Claimant’s letter of 31 March 2015). Although Respondent’s interpretation of said
+decision is different, the Arbitral Tribunal’s understanding is that it excludes the possibility
+for a bankruptcy court to refuse to convene a composition hearing on the ground that
+creditors’ claims or objections, raised after liquidation proceedings have commenced, are
+
+pending. This results clearly from the following quotations from the judgment:
+
+In liquidation proceedings, the adjudication of disputed claims or
+objections is not a preliminary question from the perspective of
+scheduling the composition hearing since the courts does not have
+to summon to the composition hearing those creditors who are not
+entitled to conclude while there are any pending proceedings.
+Therefore, in such cases, the composition hearing shall be
+suspended until a final and binding decision is made in the
+proceedings pending in connection with such objections or disputed
+creditor claims (emphasis added).
+
+in accordance with the order published by the Metropolitan Table
+Court of Appeal and referenced by the first instance court, a final
+decision regarding the creditor claims disputed within the frame of
+the liquidation proceedings is indeed a preliminary question to the
+conclusion of the composition agreement. Therefore, after
+scheduling the composition hearing, the first instance court has to
+examine whether the disputed claims or objections have been
+decided upon by way of a final and binding order not subject to an
+appeal. (emphasis added).
+
+35
+
+137.
+
+138.
+
+139.
+
+140.
+
+141.
+
+In addition it was clear at the time of the Bankruptcy Court’s decision that the pending
+objections would not constitute an obstacle to the approval of a composition agreement, if
+
+one were reached.
+
+First, in its draft “Agreement on the termination of liquidation procedure” submitted to the
+Court with the request for the convening of a composition hearing (Exh. C-021), Dan Cake
+had undertaken to “resign from its claims” provided certain conditions were fulfilled at the
+relevant time (Clause 4.2). Those conditions, listed under Clause 6.1, consisted essentially
+in the approval by the Court of a composition agreement, in accordance with the provisions
+of the Bankruptcy Act. In other words, Dan Cake’s pending claims would automatically
+
+cease to exist and would not be an obstacle to the approval of a composition hearing.
+
+Second, as to the request made by Dan Cake on 15 February 2008 to stop the first sale
+tender, the Bankruptcy Court did not have to wait until 27 May 2008, as it did, to realise
+that this request was moot since there had been no bids before the deadline of 21 March
+2008, on the first tender. As the Court decided on 27 May 2008: “the sale tender was
+unsuccessful, and the Court therefore has no reasons to adjudicate this issue” (Exh. R-032).
+
+That had already become obvious on 22 April 2008.
+
+It is common ground between the Parties that no appeal was possible against the
+Bankruptcy Court’s decision of 22 April 2008. However Respondent contends that
+Claimant was not without a remedy, since Danesita could, at any time, have re-filed an
+
+adequate petition that complied with the law — or, rather, with the Court’s decision.
+
+The Tribunal disagrees. It results from the above analysis of the 22 April 2008 decision,
+first, that satisfying certain requirements would have taken a considerable time, while the
+operation of the factory with reduced personnel caused ever increasing losses. Second,
+among the obstacles raised by the Court was the existence of Dan Cake’s objection to the
+assessment by the liquidator of its creditor’s claims as late-filed. In his closing statement,
+Counsel for Hungary said: “This is something that Dan Cake could easily have resolved by
+
+simply withdrawing the claim, but they didn’t.”!® However Dan Cake could not be certain
+
+‘6 Amended Tr., Day 3, 81:13-15.
+
+36
+
+142.
+
+143.
+
+144.
+
+that, even if a composition hearing were convened, a composition agreement would be
+reached and would be approved, which was the condition precedent to the voluntary
+withdrawal of creditor’s claim. It was perfectly legitimate for Dan Cake not to withdraw
+
+its claim in the event of a judicial sale of Danesita’s assets.
+
+It is impossible, at this stage, for the Tribunal to determine whether a composition
+agreement would have been reached if a composition hearing had been convened.
+However one thing is certain: whatever the chance of a successful composition hearing, it
+was destroyed by the Bankruptcy Court’s decision to refuse to convene a hearing within
+60 days, as required by the law. It also results from the above analysis of the decision that
+it was rendered in flagrant violation of the Bankruptcy Act and that it purported to condition
+the mandatory convening of the hearing upon several requirements, all of which were
+unnecessary; two of which were in direct violation of Dan Cake’s creditor rights; and at
+least one of which was impossible to satisfy within a reasonable time. Moreover, the
+accumulation of seven unjustified obstacles, coupled with the reminder of the liquidator’s
+obligation to proceed with the sale of Danesita’s assets, is in the Tribunal’s considered
+view a manifest sign that the Court simply did not want, for whatever reason, to do what
+
+was mandatory.
+
+(2) The 22 April 2008 Decision of the Metropolitan Court of Budapest constitutes
+a violation of the Bilateral Investment Treaty between the Portuguese Republic
+and the Republic of Hungary
+
+There is no dispute as to the fact that the act of a State court is attributable, under
+
+international law, to the State itself.
+
+In the Section of its Reply entitled “Merits of the Claim” Claimant focused on the refusal
+by the Metropolitan Court of Budapest to convene a composition hearing, and in relation
+
+to this refusal it invoked:
+
+- the breach of the obligation to accord fair and equitable treatment, in the form of a
+
+denial of justice (Article 3.1 of the Treaty);
+
+37
+
+145.
+
+146.
+
+- the breach of the obligation not to impair the use, enjoyment, management, disposal or
+liquidation of the investment by unfair or discriminatory measures (Article 3.2 of the
+
+Treaty).
+
+a) Breach of the obligation to accord fair and equitable treatment
+
+By rendering its 22 April 2008 decision, the Metropolitan Court of Budapest deprived
+Danesita of the chance — whether great or small — to avoid the sale of its assets and its
+disappearance as a legal person. Hungarian law provides for the possibility of an
+agreement between the debtor and its creditors. Danesita had the right to the convening of
+a composition hearing, under certain conditions which it met; the Metropolitan Court of
+Budapest, for its part, had the obligation to convene the composition hearing. It refused to
+do so, ordering instead Danesita to submit a number of documents which were not required
+by the law and were obviously unnecessary. At the same time it imposed changes in the
+draft composition agreement — such as the elimination of Dan Cake as a creditor having
+the right to participate in the composition hearing — as well as the withdrawal of pending
+objections to certain decisions of the liquidator, both of which were in themselves unfair
+and inequitable. By so doing, it rendered inevitable the sale of Danesita’s assets and its
+demise as a legal person. This is a clear violation by the Hungarian State — of which the
+Metropolitan Court of Budapest is an organ — of its obligation to treat Portuguese investors
+
+in a fair and equitable manner.
+
+The violation of the obligation to treat the investor in a fair and equitable manner took the
+form of a denial of justice. Arbitral Tribunals have used, in order to characterize judicial
+decisions as denials of justice, various expressions which all perfectly fit the Metropolitan
+Court of Budapest’s 22 April 2008 decision: “administer[ing] justice in a seriously
+
+wlT «6
+
+inadequate way, clearly improper and discreditable,”'* “[m]anifest injustice in the
+
+sense of a lack of due process leading to an outcome which offends a sense of judicial
+
+"7 Robert Azinian et al. v. United States of Mexico, ICSID case n° ARB(AF)/97/2, Award of 1 November 1999
+(para. 102); 5 ICSID Rep. 269, 290; CLA-022.
+
+'8 Mondev International Lid v. United States of America, ICSID case ARB(AF)/99/2, Award of 11 October
+2002 (para. 127); 6 ICSID Rep. 192, 226; CLA-025.
+
+38
+
+147.
+
+148.
+
+149.
+
+150.
+
+propriety....”!° The International Court of Justice defined denial of justice as “a wilful
+disregard of due process of law, an act which shocks, or at least surprises, a sense of
+juridical propriety.””° The decision of the Metropolitan Court of Budapest does shock a
+
+sense of juridical propriety.
+
+Respondent has objected that, even if there was a denial of justice — which it denies —- Dan
+
+Cake has not satisfied the requirement of exhaustion of local remedies.
+
+In its opening statement, Respondent listed the actions which Dan Cake and Danesita could
+
+have attempted in order to avoid the sale of its assets:
+
+Dan Cake and Danesita consistently failed to avail themselves of
+remedies afforded by the framework. They did not respond to the
+initial notice of liquidation; they did not file appeals on time or in
+proper form, or in some cases at all; they did not take advantage of
+the opportunity to reorganise through agreement with Danesita’s
+creditors; and they did not respond to the court’s request for
+documentation in order to convene a hearing.”!
+The Arbitral Tribunal, however, considers that none of the actions mentioned by
+
+Respondent constitutes a remedy which ought to have been exhausted.
+
+Some of the suggested courses of action would have had to take place before the 22 April
+2008 decision: e.g. filing for bankruptcy protection; responding to the Bankruptcy Court’s
+notice of the liquidation request in time to prevent the insolvency order; correcting the
+faulty appeal of the insolvency order. These failures to act certainly played a causal role
+in the situation from which Danesita tried to extricate itself by entering into an agreement
+with its creditors. Nevertheless, being in that situation, it had a right to the convening by
+the Court, on its request, of a composition hearing. That right was denied by the Court’s
+decision, which the Tribunal has analysed as a denial of justice. The failure to act prior to
+
+the decision cannot be equated to a failure to exhaust a remedy against the decision. Only
+
+'° The Loewen Group and Raymond L. Loewen v. United States of America, ICSID case n° ARB(AF)/98/3,
+Award of 26 June 2003 (para. 132); 7 ICSID Rep. 442, 467; RLA-021.
+
+2 Elettronica Sicula S.p.A. (ELSI), United States of America v. Italy, 1989 ICJ 15 (para. 128); CLA-024.
+2! Amended Tr., Day 1, 60:10-18.
+
+39
+
+151.
+
+152.
+
+153.
+
+154.
+
+155.
+
+an appeal against the decision would have constituted a remedy, but it is common ground
+
+between the Parties that no such appeal was possible under Hungarian law.
+
+Respondent also mentioned, in its opening statement, the fact that Claimant could have
+appealed the decision of 29 May 2008, which dismissed its request to suspend the first
+
+tender.”
+
+But in itself that dismissal caused no harm, since there had been no bidders
+(which was the reason for the dismissal). What caused harm was the second tender, but
+there was no way to prevent it or to put an end to the process of the sale, precisely because
+
+no composition hearing had been convened.
+
+The other two alleged failures mentioned by Respondent — failure to reorganise through
+agreement with Danesita’s creditors, and failure to respond to the Court’s request for
+documentation — presuppose an analysis of the Court’s decision which the Tribunal does
+
+not share (see sub-section B.1 above).
+
+Lastly, Respondent invokes the fact that “Dan Cake still could have preserved its
+investment by bidding on Danesita’s assets itself....”?? However bidding on Danesita’s
+assets cannot be considered as a remedy to the direct consequence of the Court’s decision,
+which is the sale of the assets; Dan Cake legitimately wanted to avoid such sale through an
+agreement with Danesita’s creditors. Moreover it has not been established that bidding on
+
+Danesita’s assets would have served Dan Cake’s interests.
+
+The absence of any reasonably available further recourse against the Court order is such
+
+that, in the circumstances of this case, the breakdown must be treated as « systemic ».
+
+b) Breach of the obligation not to impair the use, enjoyment, management, disposal
+or liquidation of the investment by unfair or discriminatory measures
+
+Pursuant to Article 3.2 of the Treaty:
+Neither of the Contracting Parties shall impair by unfair or
+
+discriminatory measures the use, enjoyment, management, disposal
+
+2 Amended Tr., Day 1, 61:3-5. Respondent mistakenly referred to it as the “May 29" 2008 decision.”
+23 Amended Tr., Day 1, 61:7-9.
+
+40
+
+156.
+
+157.
+
+158.
+
+159.
+
+or liquidation of the investments in its territory of investors of the
+other Contracting Party.
+Unlike some treaties, the Treaty does not require that the measure be at the same time unfair
+
+and discriminatory.
+
+It has already been established (para. 142 above) that the 22 April 2008 judgment of the
+Metropolitan Court of Budapest was a measure tainted by unfairness, impairing Dan
+
+Cake’s rights in connection with the liquidation of its investment in Hungary.
+
+Cc. The sale of the factory by the liquidator
+
+There have been lengthy discussions, both orally and in writing, as to whether the
+liquidator, when it published the second tender, was doing so because he had been,
+implicitly but clearly, ordered to do so by the Metropolitan Court of Budapest’s decision
+of 22 April 2008. The discussion may be relevant to the question whether the Court
+misbehaved when it inserted, at the end of its decision, the surprising reminder that the
+liquidator was under a duty to proceed rapidly with the public sale of the factory. But it is
+not relevant to the question whether the liquidator is, pursuant to Article 5 of the ILC Draft
+Articles on State Responsibility, “a person or entity ... which is empowered by the law of
+[the] State to exercise elements of the governmental authority,” the conduct of which “shall
+be considered an act of the State under international law, provided the person or entity is
+acting in that capacity in the particular instance.” The liquidator does not need to be
+empowered by a court to proceed with the sale of the debtor’s assets in the context of
+liquidation proceedings; it is not even certain that a court could confer such a power. The
+power to proceed to the sale results from the law, more precisely from Section 49 (1) and
+
+(2) of the Bankruptcy Act.
+
+The Parties also discussed whether the power to proceed to the forced sale of the debtor’s
+assets is an element of governmental authority. Contrary to what Hungary has pleaded,”*
+it is not an act which any private person, even representing creditors, could accomplish; it
+
+rests on a power specifically conferred by the law to the liquidator, and it is an act which
+
+24 Amended Tr., Day 3, 85:1 - 87:4.
+
+41
+
+160.
+
+161.
+
+Vill.
+
+162.
+
+deprives, under constraint, the debtor of the ownership of its assets. It certainly involves
+an element of public authority. Can it be said to constitute an element of governmental
+
+authority? The Parties did not discuss this point.
+
+Nor is it necessary to resolve it, since the liquidator’s action, even if it were attributed to
+the Hungarian State, did not constitute a violation of international law. What was shocking
+was the refusal by the Court, in violation of Hungarian law, to convene a composition
+hearing, which was the only way to prevent the sale of the factory. The liquidator did not
+take any part in that decision. From the moment the Court refused to convene a
+composition hearing, the liquidator, who did not have the power to challenge the decision,
+could but accept that he was not relieved from his duty to proceed to the sale — even if, as
+Claimant remarks, he should have waited a few days more. Proceeding with the sale of the
+debtor’s assets, as the final act of liquidation proceedings, is not a specific feature of
+
+Hungarian law; it is the normal outcome of liquidation proceedings under any law.
+
+D. Consequences of Breach
+
+Having concluded that, by virtue of the conduct of the Metropolitan Court of Budapest,
+Hungary breached its obligations under the Treaty, there is then a question as to the
+consequences of this breach. In particular, there remains an issue as to the extent (if at all)
+that the breach caused any loss to the Claimant, which in turn will depend inter alia upon
+whether the Court’s decision was the operative factor that prevented the conclusion of a
+settlement with all creditors; and whether, had a composition hearing been convened, a
+composition agreement would have been concluded. Further, assuming the establishment
+of a causal link, there remains the issue as to the quantification of any damages. All of
+
+these matters are reserved for subsequent determination.
+
+DECISION O| IRISDICTION AND LIABILITY
+
+ 
+
+For the reasons set forth above, the Arbitral Tribunal:
+
+- Declares that it has jurisdiction over the claims of Dan Cake;
+
+42
+
+Decides that Hungary has breached its obligation to ensure that Dan Cake’s investment
+
+be accorded fair and equitable treatment;
+
+Declares that Hungary has breached its obligation not to impair by unfair measures the
+
+liquidation of Dan Cake’s investment;
+
+Will take the necessary steps for the continuation of the proceedings toward the next
+
+phase by way of a procedural order to be issued after consultation with the Parties;
+
+Reserves any decision on costs.
+
+[signed] [signed]
+Prof. Jan Paulsson Toby Landau QC
+Arbitrator Arbitrator
+[signed]
+
+Prof. Pierre Mayer
+President of the Tribunal
+
+Date: August 24, 2015
+
+43
+

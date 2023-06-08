@@ -1,0 +1,3172 @@
+Public Version
+
+IN THE ARBITRATION
+
+UNDER CHAPTER ELEVEN OF THE NORTH AMERICAN FREE TRADE AGREEMENT
+
+BETWEEN
+MOBIL INVESTMENTS CANADA INC. & MURPHY OIL CORPORATION
+(Claimants)
+AND
+CANADA
+(Respondent)
+
+ICSID Case No. ARB(AF)/07/4
+
+ 
+
+AWARD
+
+ 
+
+Tribunal
+Professor Hans van Houtte, President
+Professor Merit E. Janow
+Professor Philippe Sands QC
+Secretary of the Tribunal
+
+Ms. Martina Polasek
+
+Date of Dispatch to the Parties: February 20, 2015
+
+Representing the Claimants:
+
+Mr. David W. Rivkin,
+
+Ms. Samantha J. Rowe
+Debevoise & Plimpton LLP
+919 Third Avenue
+
+New York, New York 10022
+United States of America
+
+Mr. Barton Legum
+Dentons
+
+5, Boulevard Malesherbes
+75008 Paris
+
+France
+
+Ms. Sophie Lamb
+Debevoise & Plimpton LLP
+65 Gresham Street
+
+London EC2V 7NQ
+
+United Kingdom
+
+Mr. Rene J. Mouledoux.
+Mr. Tomasz J. Sikora
+Mr. Eugene J. Silva
+Exxon Mobil Corporation
+
+800 Bell Street-CORP-EMB- 16861
+
+Houston, Texas 77002
+United States of America
+
+Mr. Walter Compton
+Murphy Oil Corporation
+P.O. Box 7000
+
+El Dorado, AR 71730
+United States of America
+
+Public Version
+
+Representing the Respondent:
+
+Ms. Sylvie Tabet,
+
+Mr. Mark Luz,
+
+Mr. Adam Douglas,
+
+Trade Law Bureau (JLT)
+
+Department of Foreign Affairs and
+International Trade
+
+Lester B. Pearson Building, 125 Sussex
+Drive
+
+Ottawa, Ontario, KIA 0G2
+
+Canada
+
+Public Version
+
+TABLE OF CONTENTS
+
+IL INTRODUCTION 1
+IL. PROCEDURAL HISTORY 2
+
+Tl. THE MAJORITY’S ANALYSIS
+
+  
+
+ 
+
+ 
+
+ 
+
+A. INTRODUCTION 7
+B. INCREMENTAL SPENDING 10
+(a) Parties’ Position: 10
+
+(b)
+
+(c)
+
+|
+a
+
+ 
+
+(i) “Consistent with the Needs”.......
+(ii) Spending Which Pre-dates the Guidelines...
+(iii) Spending Which Pre-dates 2009....
+
+ 
+
+ 
+
+(iv) Spending in Line with the Accord Acts and Benefit Decisions........ 14
+
+ 
+
+The Individual Expenditures and the Majority’s Findings ....
+@
+),
+i) es
+) i
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total Spending Determined to be Incremental by the Majority
+
+C. SR&ED (TAX) CREDIT: 38
+
+(a)
+
+Parties’ Position: 39
+
+Public Version
+
+(b) — Majority’s Finding
+D. ROYALTY DEDUCTIONS
+
+ 
+
+(a) _ Parties’ Position:
+
+(b) — Majority’s Finding
+E. SHORTFALL
+
+(a) Parties’ P
+
+ 
+
+ 
+
+ 
+
+(b) — Majority’s Finding
+
+ 
+
+ 
+
+Iv. OTHER MATTERS 54
+A. INTEREST. 54
+B. Cost. 54
+
+ 
+
+Vv. AWARD 57
+
+Public Version
+
+TABLE OF ABBREVIATIONS
+
+2004 Guidelines
+
+Arbitration Rules
+BNA
+
+Board
+
+C-CORE
+
+CA
+
+CE
+
+Claimants
+
+CNLOPB or the “Board”
+
+Counter-Memorial on
+Damages
+
+CRA
+
+Cl. Mem.
+
+Cl. Mem. on Damages
+Cl. Reply
+
+Cl. Reply on Damages
+Cl. P. Brief
+
+Cl. Reply P. Brief
+Damages Hearing
+E&T
+
+HMDC
+
+Mobil Canada
+MUN
+
+Murphy Oil
+
+Guidelines for Research and Development Expenditures
+adopted by the Canada-Newfoundland Offshore Petroleum
+Board in November 2004
+
+Arbitration (Additional Facility) Rules of 2006
+
+Ben Nevis Avalon
+
+Canada-Newfoundland Offshore Petroleum Board
+Center for Cold Ocean Research
+
+Claimants’ Authorities
+
+Claimants’ Exhibits
+
+Mobil Canada and Murphy Oil
+
+Canada-Newfoundland and Labrador Offshore Petroleum
+Board
+
+Respondent’s Counter-Memorial on Damages of October
+19, 2012
+
+Canada Revenue Agency
+
+Claimants’ Memorial of August 3, 2009
+
+Claimants’ Memorial on Damages of July 23, 2012
+Claimants’ Reply Memorial of April 8, 2010
+
+Claimants’ Reply on Damages of November 30, 2012
+Claimants’ Post-Hearing Brief (Redacted) of January 7,
+2011
+
+Claimants’ Reply Post-Hearing Brief of January 31, 2011
+Hearing on damages of April 23, 2013
+
+Education and Training
+
+Hibernia Management and Development Company Ltd.
+Mobil Investments Canada Inc.
+
+Memorial University of Newfoundland
+
+Murphy Oil Corporation
+
+NAFTA
+NL
+
+Parties
+POA
+Projects
+R&D
+
+RA
+
+RE
+Rejoinder on Damages
+Respondent
+SR&ED
+
+Public Version
+
+North American Free Trade Agreement
+
+Province of Newfoundland and Labrador
+
+Claimants and Respondent
+
+Production Operations Authorization
+
+Hibernia and Terra Nova
+
+Research and Development
+
+Respondent’s Authorities
+
+Respondent’s Exhibits
+
+Respondent’s Rejoinder on Damages of January 25, 2013
+Government of Canada
+
+Scientific Research and Experimental Development
+
+Public Version
+
+I. INTRODUCTION
+
+On May 22, 2012, the Tribunal issued a Decision on Liability and on Principles of
+Quantum (“Decision”). By a majority, the Tribunal decided that the Guidelines for
+Research and Development Expenditures adopted by the Canada-Newfoundland
+Offshore Petroleum Board in November 2004 (2004 Guidelines”), as applied to the
+investment projects Hibernia and Terra Nova (“Projects”), are not covered by Canada’s
+reservation under Article 1108(1) of the North American Free Trade Agreement
+(“NAFTA”) and therefore violate Article 1106 of the NAFTA. The majority of the
+Tribunal also concluded that the Claimants are entitled to recover damages incurred as
+aresult of the breach, provided that the Claimants submit evidence of any such damages
+no later than 60 days of receipt of the Decision and that the Tribunal finds such evidence
+
+persuasive.
+
+Professor Philippe Sands Q.C. issued a Partial Dissenting Opinion (‘Dissent’)
+concluding that there was no breach of Article 1106 of the NAFTA and that, therefore,
+the question of damages does not arise. The Decision and Dissent are incorporated into
+
+this Award as Annex 1.
+
+Public Version
+
+II. PROCEDURAL HISTORY
+
+The procedural history of this case leading up to the issuance of the Decision is
+contained in its paragraphs 7-33. This section provides the procedural history from the
+
+date of the Decision until the date of this Award.
+
+In accordance with the Tribunal’s Decision, on July 23, 2012, the Claimants filed a
+Damages Submission (“Cl. Mem. on Damages”), accompanied by the Fourth Witness
+Statement of Paul Phelan and exhibits CE-249 to CE-337, as well as legal authority
+CA-267.
+
+On September 7, 2012, pursuant to Article 41(2) of ICSID Arbitration (Additional
+Facility) Rules (“Arbitration Rules”), the Respondent requested that the Tribunal order
+the Claimants to produce certain documents. By letter of September 17, 2013, the
+Claimants objected to the production. On October 3, 2012, the Tribunal decided to
+grant the Respondent’s requests and ordered the Claimants to produce the relevant
+documents and information within one week from receipt of the Tribunal’s decision.
+As a result, the Respondent was granted an extension to file its response to the Cl.
+Mem. on Damages. The Tribunal further invited the Parties to file a second round of
+
+written pleadings on damages.
+
+On October 10, 2012, the Claimants informed the Tribunal that they had no documents
+responsive to the Respondent’s requests, as granted by the Tribunal. The Claimants
+therefore proposed that the Respondent file its response on damages within one week.
+On October 11, 2012, the Respondent countered that, in view of the fact that the
+Claimants had produced no documents, there be no Reply and Rejoinder. On October
+16, 2012, the Tribunal directed the Respondent to file its response by October 24, 2012
+
+and confirmed its previous directions concerning a Reply and Rejoinder.
+
+On October 19, 2012, the Respondent filed its Reply to the Claimants’ Submission on
+Damages (“Counter-Memorial on Damages”). The submission was accompanied by a
+Fourth Expert Report of Richard E. Walck (including Annexes 1 and 2) and exhibits
+RE-65 to RE-72.
+
+Public Version
+
+Following a request for an extension granted by the Tribunal, the Claimants filed their
+Reply on Damages on November 30, 2012 (Cl. Reply on Damages”), including a Fifth
+Witness Statement of Paul Phelan, Witness Statements of Paul Durdle and Ryan
+Noseworthy, exhibits CE-338 to CE-359 and legal authorities CA-268 to CA-271.
+
+Due to the extension of time for the filing of the Reply and Rejoinder, the Tribunal
+consulted the Parties and postponed the date for a potential hearing on damages
+
+(initially scheduled to January 15 and 16, 2013) to April 23, 2013.
+
+On January 25, 2013, the Respondent filed its Rejoinder on Damages (“Rejoinder on
+Damages”), accompanied by a Fifth Expert Report of Richard E. Walck, exhibits RE-
+73 to RE-96 and legal authorities RA-171 to RA-173.
+
+On March 27, 2013, following requests by the Parties concerning the conduct of the
+hearing on damages and admissibility of new documents, the Tribunal issued its
+Procedural Order No. 3 addressing these matters. In addition, the Order invited the
+Parties to comment on a number of questions posed by the Tribunal. The Parties
+
+subsequently responded to the Tribunal’s queries by letters of April 9, 2013.
+
+On April 5, 2013, in accordance with Procedural Order No. 3, the Claimants sought to
+introduce ten new documents into the record. By letter of April 10, 2013, the
+
+Respondent objected to the admissibility of eight of the new documents.
+
+On April 12, 2013, the Tribunal issued Procedural Order No. 4 on the admissibility of
+the Claimants’ new documents. It admitted exhibits CE-360 and CE-361 on certain
+conditions, reserved its position as to two other exhibits and declined to admit the
+
+remaining documents.
+
+On April 17, 2013, pursuant to the conditions in Procedural Order No. 4, the Claimants
+submitted exhibits CE-362 to CE-367 and CE-370 to CE-372.
+
+The Tribunal held the hearing on damages in Washington D.C. on April 23, 2013
+
+(“Damages Hearing”). Pursuant to the Parties’ agreement, the hearing was not open to
+
+Public Version
+
+the public. In addition to the Tribunal and the Secretary, the following persons were
+
+present:
+
+On behalf of the Claimants:
+
+Mr. David W. Rivkin, Debevoise & Plimpton LLP
+Ms. Samantha Rowe, Debevoise & Plimpton LLP
+
+Ms. Mary Grace McEvoy, Debevoise & Plimpton LLP
+Mr. Tomasz J. Sikora, Exxon Mobil Corporation
+
+Mr. Nathan Baines, ExxonMobil Canada
+
+Mr. Roger Landes, Murphy Oil Corporation
+
+Mr. Paul Phelan, Witness
+
+Mr. Paul Durdle, Witness
+
+Mr. Ryan Noseworthy, Witness
+
+On behalf of the Respondent:
+
+Mr. Nick Gallus, Counsel, Trade Law Bureau
+
+Mr. Mark Luz, Counsel, Trade Law Bureau
+
+Mr. Adam Douglas, Counsel, Trade Law Bureau
+
+Ms. Heather Squires, Counsel, Trade Law Bureau
+
+Ms. Melissa Perrault, Paralegal, Trade Law Bureau
+
+Ms. Annette Tobin, Senior Policy Advisor, Natural Resources
+
+Mr. Matthew Tone, Senior Trade Policy Analyst, Department of Foreign
+Affairs and International Trade
+
+Mr. Jeff O’Keefe, Manager Resource Management, Chief Conservation
+Officer, Canada-Newfoundland and Labrador Offshore Petroleum Board
+
+Mr. Richard (Rory) E. Walck, Expert
+The hearing was recorded and a verbatim transcript was made.
+
+On May 14, 2013, the Tribunal requested that the Parties provide information on certain
+matters that arose at the Damages Hearing. The Parties subsequently responded to the
+
+Tribunal’s queries by letters of May 28, 2013. The Respondent requested an
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+Public Version
+
+opportunity to respond to certain points raised in the Claimants’ letter of May 28, 2013
+and this request was granted by the Tribunal on May 30, 2013. The Respondent
+
+submitted a further response by letter of June 12, 2013.
+
+On August 1, 2013, the Tribunal notified the Parties that it expected the Respondent to
+indicate its final position on a proposal made by the Claimants in relation to an aspect
+
+of their claim by August 16, 2013 (the “Proposal”).
+
+The Parties each filed a statement of costs on August 14, 2013. The Claimants
+
+subsequently objected to the format of the Respondent’s statement of costs.
+
+On September 12, 2013, the Tribunal directed the Respondent to file a statement of
+costs which was similar to that filed by the Claimants on August 14, 2013. Following
+an enquiry from the Respondent, on September 17, 2013, the Tribunal clarified that it
+
+did not wish to receive the Parties’ arguments on the allocation of costs at that stage.
+
+On August 28, 2013, the Respondent wrote to the Claimants seeking further
+information to assist them in considering the Proposal. By letter of September 12, 2013,
+the Tribunal informed the Parties that it could not consider any further information that
+was provided in the letter from the Respondent or that might be provided in response
+
+to that letter.
+
+On September 17, 2013, the Respondent indicated that it could not accept the Proposal.
+
+On November 27, 2013 the Claimants were invited by the Tribunal to file observations
+on specific aspects of the Respondent’s statement of costs filed on August 14, 2013.
+The Tribunal also indicated that the Respondent would be permitted to file a response
+to any submission the Claimants made. The Claimants subsequently requested, and
+were granted, an extension, filing their submission on costs on December 27, 2013. The
+
+Respondent filed a further response on January 17, 2014.
+The proceeding was closed on January 21, 2014.
+
+On January 22, 2014, the Parties informed the Tribunal that they had agreed on a
+
+standstill of the arbitral proceedings to pursue settlement discussions. They requested
+
+26.
+
+Public Version
+
+that the Award be released only in the event that the standstill were terminated. The
+Parties specified that the standstill could be terminated by either Party on providing
+notice to the other Parties and the Tribunal, and that the Tribunal may subsequently
+issue the Award after two weeks. By letter of January 22, 2014, the Tribunal took note
+of the Parties’ agreement and confirmed that it would continue drafting its Award,
+which would be rendered after two weeks from the date of a notification by either Party
+
+that the standstill was terminated.
+
+On February 4, 2015, counsel for the Claimants notified the Tribunal of the termination
+of the standstill of the proceeding and requested that the Tribunal issue its Award as
+soon as possible after February 18, 2015. Accordingly, by letter of February 18, 2015,
+
+the Tribunal confirmed that it would proceed accordingly.
+
+27.
+
+28.
+
+29.
+
+Public Version
+
+Ill. THE MAJORITY’S ANALYSIS
+A. INTRODUCTION
+
+By a majority (the “Majority”), the Tribunal has found that the 2004 Guidelines, as
+applied to the Projects, breach Article 1106 of the NAFTA and this “gives rise to a right
+
+to claim compensation.”!
+
+The Majority emphasized in the Decision that the Claimants must prove “that a call for
+payment has been made or that damages have otherwise occurred (i.e. that they are
+“actual”).”? The Decision indicated that money need not have been expended for
+compensation to be due, but there must, at minimum, be a “firm obligation to make a
+
+payment.”?
+
+The Claimants claim losses in two distinct categories. First, claimed losses for
+“incremental spending” represent amounts that the Claimants have already spent on
+R&D or E&T* as a result of the Guidelines. Such spending, according to the Claimants,
+would not have been undertaken in the ordinary course of business in the absence of
+the Guidelines. Second, the Claimants advance “shortfall” losses, being the difference
+between spending undertaken pursuant to the Guidelines and the spending required by
+the Guidelines.° For the Claimants, the fact that they have been informed of the shortfall
+
+for Hibernia through to April 2012, and for Terra Nova through to December 2011,
+
+' Decision, { 487.
+2 Decision, { 488.
+3 Decision, { 440.
+
+4 The Guidelines regime, and the regime that preceded it, require spending on research and development and
+education and training (“R&D” and “E&T”). These terms are used, as appropriate, herein. The Claimants”
+claim for incremental spending pertains primarily to projects which are classified by the Claimants as R&D,
+with the exception of JN (see I{[ 94-96) and the (see 9] 89-93
+below)). A great deal of the Claimants’ spending on E&T was accepted by the Respondent as incremental
+(see {{ 128 below and the Annexes to Phelan Statement IV).
+
+ 
+
+5 Based on the practice of the Board and the terms of the Guidelines, this shortfall can be met in several ways:
+via spending (either incremental or ordinary course), via payment into an R&D fund, or via the drawing down
+of a letter of credit (the drawn down monies are apparently then to be paid to a “recognized research or
+education agency” according to the terms of the letters of credit (see, e.g. CE-315, EMM0004860, clause
+2B)). Historically, the Claimants have also applied spending from subsequent periods to the shortfall relating
+to earlier periods to neutralize the shortfall (see CE-252).
+
+Public Version
+
+means that compensation is required as an actual call for payment has occurred. Thus,
+they should be compensated for both their incremental expenditures and the identified
+
+shortfall.
+
+The Respondent asserts that a significant portion of the Claimants’ incremental
+spending is in fact spending which occurred in the ordinary course of business. The
+Claimants dispute this. Additionally, the Respondent argues that if any incremental
+spending is compensable, it should be reduced to reflect certain benefits that the
+Claimants have received as a result of such spending. These alleged benefits result from
+the Scientific Research & Experimental Development program (“SR&ED”), under
+which the Claimants receive tax credits for eligible R&D spending, and a Provincial
+program whereby R&D and E&T spending reduces the royalties payable to the
+
+Province on Project revenue.
+
+The Majority deals first with the Claimants’ incremental spending claim, followed by
+the impact of the SR&ED and royalty deduction programs, and then turns to the claim
+
+resulting from the shortfall.
+
+By way of general remarks, the Majority notes that it has faced various difficulties in
+assessing the Claimants’ losses. As the Claimants themselves have noted, the situation
+in these proceedings is a novel one. The regulatory regime from which the Claimants’
+alleged losses flow continues to operate. Thus, the situation involves a continuing or
+ongoing breach as applied to these Claimants, and (to the Majority’s knowledge) has
+not been litigated before a NAFTA arbitral tribunal previously.° The Decision dealt
+with some of the peculiarities that arise from this with regard to future damages, but
+other difficulties resulting from this fluid situation remain to complicate the Majority’s
+
+task.’ The Tribunal has been asked in several instances to take into account events
+
+6 “(NJ]o NAFTA tribunal has yet been faced with a continuing treaty violation or investment impairment
+scenario” (Cl. P. Brief, { 55). More specifically, NAFTA tribunals have been confronted with continuing
+breaches (see, e.g., Merrill & Ring Forestry L.P. v. Canada, UNCITRAL Award, March 31, 2010; and
+Marvin Roy Feldman v United Mexican States, ICSID ARB (AF)/99/1, Award, December 16, 2002), but,
+so far as the majority is aware, there have been no decisions by NAFTA tribunals which dealt with the
+question of damages resulting from such breaches.
+
+7 For example, Mr. Phelan said in a witness statement submitted November 30, 2012 that “Hibernia will
+have spent down its current shortfall by the end of 2013” (Phelan Statement V, 43) but the Tribunal has
+
+Public Version
+
+which have not yet occurred, which therefore by nature require a degree of conjecture,
+as a future event can never be supported completely by evidence or information.*
+Conscious of this conjecture, the Majority has had to consider carefully the evidence
+that relates to or indicates the likelihood of a future event, and whether that evidence
+
+can meet the standards set forth in the Decision.°
+
+The Majority also notes that whilst it has not influenced its decision herein, some of
+the uncertainty surrounding this claim'® would not have arisen if the Claimants had
+opted to pay the amount of spending required under the Guidelines into a fund
+administered by the Board. Business imperatives apparently dictated otherwise.!! The
+consequence, however, of not having taken that approach has required an extensive
+examination of the rationale behind previous and ongoing expenditures without a clear
+
+baseline.
+
+The Majority’s task at this stage in the proceeding has largely been an evidence-based
+one. Few purely legal matters remain between the Parties? as the Decision sought to
+lay out principles which would apply to the determination of compensation and because
+the Parties were invited by the Tribunal in the Decision to submit evidence, rather than
+
+further legal argument."*
+
+not seen any firm evidence of this and instead the Claimants maintain their claim for a shortfall amount for
+the relevant period (i.e. as opposed to incremental spending). This illustrates the fluidity of the “continuing
+breach” situation that the Parties and the Tribunal find themselves in.
+
+8 A few examples may be illustrative: the Claimants argue against a reduction to their compensation for
+SR&ED and royalty deductions on the basis of an audit that may take place in the future and that may deny
+them these benefits; the Respondent argues for a deduction to the Claimants’ compensation on the basis of
+ordinary course spending which might take place to neutralize the shortfall in spending required under the
+Guidelines; and the Claimants argue against reduction of their compensation on the basis that future
+proceedings will allow for any necessary reconciliation.
+
+° Le. “reasonable certainty” (Decision, §] 439).
+‘0 With respect to both incremental spending-based compensation and shortfall-based compensation.
+11 CL. Reply on Damages, | 17; Phelan Statement I, {{ 29.
+
+'? With the exception of, inter alia, certain principles alleged by the Claimants to be applicable, such as that
+doubts as to quantum or evidence of damages should be resolved against the party in breach (Cl. Reply on
+Damages, 7); issues relating to the burden of proof (see, e.g. Rejoinder on Damages, {| 8-16) and the
+appropriate weight to be given to witness statements (Rejoinder on Damages, {| 17-28).
+
+8 Decision, 1 490.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+Public Version
+
+ 
+
+iCREMENTAL SPENDING
+
+The Claimants claim “in compensation for their incremental
+
+spending.'*
+
+(a) Parties’ Positions
+
+The Claimants have sought to fulfill their obligations under the Guidelines in part via
+
+spending on R&D and E&T projects in the Province.!°
+
+The fundamental disagreement between the Parties therefore, is whether expenditures
+claimed as incremental, can be said to be solely motivated by the Guidelines, and
+whether the Claimants would have abstained from such spending “but for” the
+
+Guidelines.””
+
+The Respondent says that in fact, a large part of the Claimants’ spending would have
+taken place in the ordinary course of business in the absence of the Guidelines, or was
+motivated by other imperatives, and is thus not compensable. For the Respondent, there
+is therefore no causal link between the Guidelines and much of the spending for which
+
+the Claimants seek compensation.
+
+The Claimants accept that “ordinary course”’'’ spending is not compensable and claim
+
+compensation only for expenditures that they submit “would not have been made in the
+
+4 See Annex A to Phelan Statement V. Mobil Canada claims J and Murphy Oil
+
+a
+'S With claimed interest, this figure is JNM according to the Respondent’s expert Mr. Walck
+(see Annex | to Walck Statement V) or| according to the Claimants’ witness Mr. Phelan
+
+ 
+
+(see Annex A to Phelan Statement V). The difference in these two figures appears to be attributable to
+rounding (see Walck Statement V, Annex 1, § 2). For the purposes of the Majority’s determination at § 129
+below, the figure [J has been used as it is the slightly more conservative number and as the
+breakdown of figures utilized by Mr. Walck was found to be more user-friendly.
+
+'6 Cl, Mem. on Damages, { 18.
+
+ 
+
+‘7 “In our view, the additional spending requirement, even taking the Respondent’s numbers as a base line,
+involves expenditures of millions of dollars beyond that which would have likely been spent but for the
+2004 Guidelines” (Decision, {| 401).
+
+'8 In Procedural Order No.3, the Parties were requested to provide a definition of “ordinary course”. In the
+Majority’s view, the responses from the Parties did not materially add to the submissions they had already
+
+40.
+
+Al.
+
+42.
+
+Public Version
+
+ordinary course of business in the absence of the Guidelines.”'? Thus, the Claimants
+confirm that whatever spending they considered to be in the “ordinary course” has
+already been deducted from their claim.*? The Respondent holds that the Claimants
+have made insufficient deductions on this basis and “ordinary course” spending
+
+improperly remains part of the Claimants’ damages claim.2!
+
+The following categories are the different bases on which the Respondent says the
+
+Claimants spending is not incremental.”
+(i) “Consistent with the Needs”
+
+The Respondent argues that any spending which is “consistent with the needs” of the
+Projects or directly relates to the “specific needs” of the Projects (such as, inter alia,
+expenditure to increase oil production or to improve safety) should be classified as
+
+“ordinary course” and is therefore not compensable.
+
+The Respondent says that the fact that spending is related to the needs of the Projects
+is evidenced in several ways, including: that it was “previously budgeted” in the
+Claimants’ records;* that it may benefit the Projects;* that it was subject to an
+
+economic incentive,* or that it was in line with a previously stated research aim or area
+
+made on this matter. The Claimants indicated that they had sought the agreement of the Respondent on a
+definition but no agreement was forthcoming.
+
+© Cl. Mem. on Damages, | 6.
+2 Phelan Statement IV, {| 30.
+
+2! Inter alia, the Respondent says that the Claimants’ assessment and deduction of what spending is in the
+“ordinary course” and what is properly incremental is unsound because it has been performed by Mr.
+Phelan, who is an employee of Mobil Canada (and thus lacking the requisite independence) (Counter-
+Memorial on Damages, {{ 10).
+
+» Or as otherwise not attributable to the Guidelines.
+2 Rejoinder on Damages, J 37.
+24 Eg. through the production of more oil, see Rejoinder on Damages, | 44.
+
+25 Rejoinder on Damages, { 33.
+
+Public Version
+
+of R&D.” Moreover, the Respondent submits that safety-related spending was clearly
+
+ordinary course spending, inter alia because such spending was necessary.”’
+
+The Claimants argue that “consistent with the needs of” the Projects is not necessarily
+synonymous with “ordinary course” and that by focusing on criteria such as this, the
+Respondent has “re-characterized” the relevant test.2* Claimants admit “that they have
+sought, in the first instance, to comply with their Guidelines obligations by undertaking
+incremental expenditures that would relate to the needs of the Projects” (emphasis
+added).”’ Indeed, as their witness Mr. Phelan indicated “[s]ince the money must be
+spent in any event, we are actively looking for opportunities to undertake work that
+could at least be of some benefit to the project, even if it is unnecessary.”*° For the
+Claimants, the relevant criterion is not whether spending is related to or benefits the
+
+Projects, but rather whether it was motivated by the Guidelines.
+
+The Claimants reject the Respondent’s argument that R&D and E&T directed at
+enhancing oil production or the safety of the Projects is all ordinary course spending.
+Relying on the evidence of Mr. Noseworthy, they posit that the “idea that Claimants
+are in the business of undertaking R&D simply because it might ‘enhance oil recovery’”
+goes against common sense and the evidence.*! Similarly, while safety is a key concern
+for Exxon Mobil generally, there is a limit to spending on safety in the ordinary
+course.” The Claimants also point to Exxon Mobil’s strong safety record in the oil
+
+industry (which means that less R&D and E&T spending on safety is necessary). They
+
+2 Rejoinder on Damages, | 45.
+
+27 See, e.g., Rejoinder on Damages, {{ 70.
+
+28 Cl. Reply on Damages, 1 5.
+
+2° Cl. Reply on Damages, { 17.
+
+3 Cl. Reply on Damages, { 17; Phelan Statement I, | 29.
+
+3! Cl. Reply on Damages, { 19; Noseworthy Statement I, 4 6.
+
+* The Claimants analogize using car safety, stating that “[i]f Canada’s argument were to be followed to its
+logical conclusion, every car on the road would be equipped with all the newest safety features no matter
+the cost, which is not the case” (Cl. Reply on Damages, 20).
+
+Public Version
+
+allege they have in fact not sought compensation for the “vast majority of their safety-
+
+related expenditures.”**
+(ii) Spending Which Pre-dates the Guidelines
+
+The Respondent asserts that spending that was already ongoing or was conceived of
+
+prior to the Guidelines has not, by its very nature, been motivated by the Guidelines.**
+
+The Claimants argue that the Guidelines have precipitated a change in the character of
+the relevant spending or that the expenditure was entirely different to begin with. For
+the Claimants this is evidenced in several ways: that the spending was restructured, for
+example where it was transferred from the Project operator to the joint account of the
+Project owners (so it could be applied against the Guidelines), and/or the amount of
+spending was increased; or, that, despite a similar or the same description for pre-
+
+Guidelines versus post-Guidelines expenditures, it is in fact different in substance.
+(iii) | Spending Which Pre-dates 2009
+
+The Claimants’ witness, Mr. Phelan, stated that “neither Hibernia nor Terra Nova made
+any incremental expenditures during the 2004-2008 period”** (emphasis added). The
+Respondent thus concludes that R&D and E&T expenditure on projects which began
+
+before 2009 cannot be incremental.
+
+The Claimants argue that the expenditure that falls under this argument by the
+Respondent is either a) not the same expenditure that began prior to 2009;” or b) if it
+
+is expenditure that began prior to 2009, only a portion of the costs involved in the
+
+% CL. Reply on Damages, {{ 22.
+
+* Rejoinder on Damages, 89-99.
+
+* eS Phelan Statement V, {21 and IE Phelan Statement V, § 22.
+*¢ Phelan Statement IV, {f 32.
+
+5 CL. Reply on Damages, {{ 34.
+
+Public Version
+
+overall expenditure (specifically costs related to transferring the expenditure to the
+
+Province) are claimed.**
+
+(iv) | Spending in Line with the Accord Acts and Benefit
+
+Decisions
+
+The Respondent argues that the Claimants were already obligated to spend on R&D
+and E&T prior to the implementation of the Guidelines.** Therefore, any spending
+compatible with the Accords Acts and Benefits Decisions fails the “but for” test and
+
+must be deducted from the damages claimed.
+
+The Claimants, however, highlight that the Accord Acts and Benefit Plans set no ceiling
+or floor for spending, and argue (relying upon the language of the Decision) that the
+2004 Guidelines, by contrast, require the Claimants to spend “millions of dollars
+beyond that which would have likely been spent but for the 2004 Guidelines.“ The
+Claimants’ spending in 2000 and 2001, ranging between Qy
+HE’ Was deemed consistent with the Benefits Plans by the Board.* This spending
+level has, since the introduction of the Guidelines, been far exceeded; the Claimants
+say the timing of this increase indicates a causal link to the Guidelines. The Claimants
+further hold that even if the Accord Acts and Benefits Plans required R&D and E&T
+spending, the Respondent’s argument would still fail, as “[e]xpenditures on specific
+R&D projects were never required by the Board before, or even since, the Guidelines,
+
+and Canada has not introduced any evidence that suggests otherwise.”
+
+38 Noseworthy Statement I, {| 46.
+
+3° Counter-Memorial on Damages, {| 37-43; Rejoinder on Damages, ff 108-113.
+
+4° Cl, Reply on Damages, {{ 37 (citing Decision, {| 401).
+
+41 Cl, Reply on Damages, { 38.
+
+#2 As the Claimants point out, POAs would not otherwise have been issued (Cl. Reply on Damages, 38).
+
+3 Cl. Reply on Damages, | 42.
+
+51.
+
+52.
+
+Public Version
+
+(b) The Individual Expenditures and the Majority’s Findings
+
+The Majority starts by observing that the categories outlined above by the Respondent
+as the basis for construing whether spending is incremental or ordinary can be useful,
+but are not entirely dispositive. For example, the mere fact that an expenditure may be
+beneficial to the Claimants or Projects does not definitively answer whether it was
+undertaken as a result of the Guidelines or not. It is logical that if the Claimants were
+under an expenditure requirement, they would seek to make the necessary expenditures
+of some utility. Any sensible investor would not choose to make an expenditure that
+was wholly superfluous to the investment. If an expenditure was wholly superfluous,
+or contrived, it would indicate that it is incremental. But as with benefit, this also might
+not be determinative; the mere identification as superfluous would not necessarily
+capture the totality of the expenditures that are properly deemed incremental. Similarly,
+expenditure that predates the Guidelines may properly be seen as ordinary. However,
+even if an expenditure is related to a Project that predates the Guidelines, this may not
+in itself definitively answer the question of whether the continued expenditure is
+ordinary course or incremental. The absence of a clear baseline of pre-Guidelines
+expenditure has added considerable complexity to the Majority’s task. The Majority
+finds itself thus obliged to consider the particular facts and characteristics of each of
+the identified and challenged expenditures, together with the related testimony and
+
+evidence before us, separately.
+
+Accordingly, the Majority now turns to the individual incremental expenditures and
+projects. The Majority notes at the outset that the burden of proof to show that each of
+the incremental expenditures would not have been made in the ordinary course of
+business in the absence of the Guidelines lies with the Claimants. The Majority has
+already noted in the Decision that the relevant standard of proof is “reasonable
+certainty,” not “absolute certainty,” and that damages must not be too speculative or
+
+remote.*
+
++ Decision, 437-438.
+
+54.
+
+Public Version
+
+The Majority faces the inherent difficulties of retrospectively applying the definition
+of “ordinary course” to R&D and E&T spending which was not conceived with this
+definition in mind. The Majority appreciates that the Claimants have had to conduct
+their assessment as to what spending was ordinary course subsequent to its occurrence
+or conception, and have sought to be conservative in doing so.** Nonetheless, there are
+difficulties inherent in the kind of retro-fitting which the Claimants, and now the
+Majority, have to engage in to assess what spending may have been in the ordinary
+course. These difficulties however, do not relieve the Claimants of their burden of
+proof.** The Majority is similarly not convinced by the Claimants’ argument that
+uncertainty is to be construed against the wrongdoer.*’ The Majority does not find this
+to be an applicable principle of international law as the Claimants allege. ‘* The
+Majority has relied upon the evidence it found to be the clearest indicator of spending
+being either ordinary course or incremental and has applied the “reasonable certainty”
+
+standard.”
+Qs
+
+1h I wes carried out by HMDC in 2010
+and 2011 at thc [i which is “highly
+
++5 Phelan Statement IV, 4 42.
+
+46 The Tribunal notes the submission to this effect by the Claimants’ counsel at the Damages Hearing: “to
+
+the extent there is any uncertainty because documents were not created at the time that says this is
+incremental spending because what they were trying to do was meet the Guidelines, and until 2012, we
+didn't have the standard from the Tribunal that it was going to apply, rather we were trying to look at the--
+trying to do a life-of-field analysis of what would be ordinary, that can't be held against us” (Damages
+Hearing Transcript, p.419). The Tribunal does not find that the Claimants’ burden is alleviated on this basis
+and notes that the Claimants themselves introduced the “ordinary course” concept (see, e.g. Cl. Mem,
+218; Rosen Statement I, [ 28 Cl. Mem. on Damages, {{ 6).
+
+ 
+
+ 
+
+47 Cl. Reply on Damages, {| 7. The Tribunal notes that the situation is further complicated by the fact that
+the Claimants themselves have created uncertainty by not simply paying the amount of required spending
+into a fund, as is permissible under the Guidelines.
+
+48 The references relied upon by the Claimants: Mark Kantor, Valuation for Arbitration, at 72 (Wolters
+Kluwer Law 2008); Sapphire International v. National Iranian Oil Companies, Award of March 15, 1963,
+at 187-188) are an insufficient basis to establish a rule of international law.
+
+* Decision, {{ 438. The Tribunal notes that the Claimants submitted at the Damages Hearing that the
+relevant standard of proof is a “preponderance of the evidence” standard (Damages Hearing Transcript,
+p.419). The Tribunal finds it more useful to focus on the reasonable certainty standard, which was clearly
+adopted in the Decision.
+
+Public Version
+
+faulted,” ° “slot constrained” and “technologically challenged.” *' The Claimants
+submitted that the JJ sought to understand “possible connectivity, or
+
+252
+
+communication, across faults dividing reservoir blocks.
+
+The Respondent argues that the [NN addresses the needs of Hibernia and that
+the Claimants themselves recognized the need for the study in Benefit and
+Development Plan Applications, which were subsequently approved by the Board with
+the J included as a condition.* The Claimants say that they were required to
+es Out that the My as such does
+
+not fall within that obligation.
+
+The Respondent also asserts that the Claimants’ own witness (Mr. Graham) has stated
+that this expenditure was made in the ordinary course of business and that the
+Claimants’ evidence indicates that the J was “previously budgeted” and
+therefore was made in the ordinary course.*! The Claimants object that the evidence
+relied upon to make these assertions has been misconstrued and taken out of context.
+Specifically, they say that Mr. Graham is not referring to the J as the
+Respondent alleges (he was instead referring to the broader obligation
+MM) 2nd the label “previously budgeted” refers to a point in time that was part
+
+of the post-Guidelines timeframe, rather than pre-Guidelines.*°
+
+The Majority accepts the Claimants’ explanation of how the J inclusion in
+an internal accounting document as “previously budgeted” did not necessarily refer to
+a period pre-dating the Guidelines. The Majority also accepts that the Claimants’
+
+witness, Mr. Graham, in stating that the JJ was “ordinary course,” referred
+
+5° Noseworthy, Statement I, { 10.
+
+5! Merits Hearing Transcript, Day 2, p. 468, testimony of Mr. Ringvee.
+2 Noseworthy, Statement I, 16.
+
+53 Counter-Memorial on Damages, {{ 20.
+
+54 Counter-Memorial on Damages, {[ 22. Le., that the spending pre-dates the Guidelines, as evidenced by
+the descriptor “previously budgeted,” and therefore could not have been motivated by the Guidelines.
+
+55 Cl. Reply on Damages, { 32
+56 Phelan Statement V, { 10.
+
+58.
+
+59.
+
+Public Version
+
+instead (0 [aS Te
+Majority finds, however, that the Claimants have not proven that the J is an
+
+incremental expenditure. Lack of clear evidence as to the differentiation between the
+NE (ich the Claimants accept
+was in the ordinary course of business), and the allegedly narrower ay
+prevents the Majority from determining with requisite certainty that the
+
+was not in the ordinary course of business.**
+
+ 
+
+The costs claimed in relation to this project are for the establishment, by HMDC, of a
+ES «ich «il!
+carry out studies of enhanced oil recovery by aS
+EE «© culminating in a pilot program referred to as the yy
+es © Tbe Claimants are under an obligation to “maximize
+
+recovery” at Hibernia pursuant to the Newfoundland Offshore Petroleum Drilling and
+Production Regulations.” The J itself will not take place until 2014, and is
+
+the second component of the project.”
+
+The Respondent argues that J has long been an R&D focus at Hibernia
+
+and this project is thus ordinary course spending. The Respondent also asserts, as it did
+
+ 
+
+57 The Tribunal notes that whilst it has been able to discern that Mr. Graham was referring to the broader
+EE it has not followed that Mr. Graham’s evidence has assisted in clarifying the
+scope of the narrower [I (see Graham Statement I, {| 18 and the discussion below).
+
+ 
+
+58 The Tribunal notes, for example, that Mr. Noseworthy, when he is describing the jg in his
+witness statement, referred to Claimants’ Exhibit CE-212 (Noseworthy Statement I, { 16). At the Damages
+Hearing however, Mr. Noseworthy indicated that parts of this exhibit do not relate to the
+
+These two conflicting parts of CE-212 contain similar phraseology, which creates confusion as to what in
+exhibit CE-212 can be relied upon as a clear description of the aa
+
+ 
+
+ 
+
+5? Noseworthy Statement I, {[ 23.
+
+°° Noseworthy Statement I, {{ 21.
+
+  
+
+1 Rejoinder on Damages, 46. The Claimants a
+
+so concede that Hibernia is obligated 0
+HEE (Noseworthy Statement I, { 22) but distinguish this from the gay
+
+© Noseworthy Statement I, Damages Hearing Transcript, p. 262.
+
+60.
+
+61.
+
+62.
+
+Public Version
+
+with respect to the i that thc i was “previously
+
+budgeted” and therefore was made in the ordinary course.
+
+The Claimants argue that Canada is conflating the qq with earlier,
+unrelated work that was undertaken at Hibernia.“ They say that the evidence relied
+upon to conclude that the study was “previously budgeted” has been misconstrued and
+taken out of context. The Claimants’ witness Mr. Noseworthy asserted that but for the
+Guidelines, x! would not have been established,
+es
+
+The Respondent also argues that the fact that some of the work relating to this project
+was carried out at x indicates that it is
+ordinary course expenditure, inter alia, because such expenditure cannot defray the
+Claimants’ Guidelines obligations. The Respondent also points to a discrepancy in Mr.
+Noseworthy’s statement regarding when [i
+which was aimed at identifying whether x © Mr.
+Noseworthy says that this J was post-Guidelines, the Respondent says
+that it was in fact done before the Guidelines.* The Claimants concede that work
+relating to this project has been carried ou MY. but say that this does not
+indicate that the project is ordinary course. Rather, this can be explained by capacity
+limitations in the Province and an occasional need to carry out initial R&D elsewhere
+
+to get a project “off the ground.”
+
+The Majority finds that the Claimants have proven that this expenditure is incremental.
+
+As with the NN. the fact that the NE was included in an
+
+® See J 56 above.
+
+° Noseworthy Statement I, {{ 20.
+
+© Noseworthy Statement |, {| 27.
+
+© Rejoinder on Damages, 49; Noseworthy Statement I, 33
+
+© Rejoinder on Damages, { 49.
+
+8 Noseworthy Statement I, {| 20.
+
+63.
+
+Public Version
+
+internal accounting document® as “previously budgeted” does not mean that this
+
+expenditure pre-dated the Guidelines.”
+
+ee
+ee
+ee ee
+eS” is
+duplication is persuasive evidence that NN tepresents an
+expenditure that was motivated by the Guidelines. It is also significant that initially the
+Claimants did not apply for pre-approval xs this aspect
+was added later to <a
+HE ich in tum was hoped would increase the likelihood that this
+expenditure met the Guidelines and would be pre-approved.” These factors in
+combination demonstrate that this expenditure would not have been made in the
+ordinary course of business in the absence of the Guidelines. The Majority does not
+consider the fact that some work related to this project may have been carried out J
+HEE (© support that the project is ordinary course. Mr. Noseworthy’s explanations
+of why this was so are reasonable.* Nor does the Majority find it significant (for
+determining whether or not this spending was incremental) that some of the preparatory
+work for this project may have been carried out in 2008.” Costs relating to this work
+
+are not claimed by the Claimants and therefore this work and its timing and location
+
+ae not relevant. rs
+
+© This document was compiled in August 2010 (Phelan Statement V, § 11).
+
+7 The Respondent and Claimants’ arguments regarding the “previously budgeted” label in the
+
+context (see 4 56 above) apply here also as the same document where the “previously budgeted” descriptor
+appears is at issue (CE-233).
+
+7! Noseworthy Statement I, § 27.
+
+7 At the Damages Hearing, in the course of a line of questioning by Arbitrator Sands, the Claimants’
+witness Mr. Noseworthy confirmed that|
+
+HE (Damages Hearing Transcript, p.317).
+
+7 Noseworthy Statement I, § 25.
+
+74 See Noseworthy Statement I, §§ 20, 33.
+
+75 Rejoinder on Damages, 49.
+
+64.
+
+65.
+
+66.
+
+67.
+
+Public Version
+
+a
+
+The Joint Industry NY project aims to “develop and test new
+technologies” which might lead to [the Grand Banks region.”
+
+The Claimants argue that the cost and risks involved are such that it is apparent that
+
+this expenditure would not have been undertaken in the ordinary course of business.”
+
+The Respondent argues that this project aims to enhance oil recovery and therefore
+directly relates to the needs of Hibernia and Terra Nova and is thus in the ordinary
+
+course of business.”
+
+The fact that this expenditure was conducted jointly by
+HEE Sv pports the Claimants’ assertion that the project was not specifically
+
+needed at Hibernia, and rather, that it was Guidelines-motivated. The Claimants have
+convincingly explained that this type of joint approach is unusual and was a novel
+initiative that was a response to the Guidelines.” The Majority notes however that the
+novel nature of this approach stems not only from the fact that it was a joint industry
+initiative, (this alone might be unsound given that the evidence indicates that the
+Claimants have been involved in joint projects before the Guidelines came into effect)*
+but also because, inter alia, workshops were held to “devise both potential problems
+and their R&D solutions”.*! The documents relating to these workshops clearly indicate
+
+that the R&D under discussion at the workshops were being discussed in the context
+
+76 Noseworthy Statement I, {[ 37.
+7 Noseworthy Statement I, 37.
+
+78 Rejoinder on Damages, | 55
+
+™ Noseworthy Statement I, 17.
+
+89 See, e.g. CE-84, EMM0001616.
+
+8! Noseworthy Statement I, | 7.
+
+Public Version
+
+of Guidelines compliance.*” Thus, the discussion of a project in these documents is a
+strong indicator (in combination with other factors) that it involved incremental
+
+spending.
+
+Further, it appears that this project was considered to be high risk and indeed has not
+been pursued vigorously. These characteristics of the project support the finding that it
+
+would not have been made in the ordinary course of business but for the Guidelines.
+
+The Respondent, for its part, has not convincingly rebutted the Claimants’ assertion
+that this project was undertaken as an incremental expenditure and did not discuss this
+
+expenditure at the Damages Hearing.
+
+The Majority therefore finds that the Claimants have proven that this expenditure is
+
+incremental.
+
+Le
+
+The Claimants argue that they should be compensated pro-rata for a donation made by
+EMD C i [a
+es Por the Claimants, this is not required for basic
+safety training and in the ordinary course of business HMDC would not have made this
+
+donation.*
+
+Spending on safety, the Respondent argues, however, is necessary for the Projects and
+
+therefore is in the ordinary course. *° Moreover, this donation is based on a
+
+® See, e.g., CE-202, EMM0003359; CE-203, EMM0003366.
+
+8
+a
+
+a
+
+* Durdle Statement I, 16; CE-283.
+
+8S Durdle Statement I, 49f 14-21
+
+86 Counter-Memorial on Damages, 30-31.
+
+Public Version
+
+I 21< vould have been made
+
+in the absence of the Guidelines.*
+
+The Claimants reply that i 32s not,
+
+however, released until after the donation was made and did not recommend Hibernia’s
+
+donation.*
+
+The Majority finds that the Claimants have established that this expenditure was
+incremental. The that was funded went above and beyond what
+could be reasonably construed as “ordinary course” safety spending. Mr. Durdle’s
+testimony refuted effectively that this expenditure xy
+EE He pointed out that the timing of the expenditure did not
+correspond With. nor did the object of the expenditure.” yy
+He “hich further confirms that the
+funding would not be part of the Claimants’ “ordinary course” spending on safety.”!
+The Respondent has failed to show that this expenditure was necessary for safety at
+Hibernia or Terra Nova and thus would have been made in the ordinary course of
+
+business in the absence of the Guidelines.
+
+*’ The Offshore Helicopter Safety Inquiry was conducted in response to a helicopter crash in March 2009
+(see Counter-Memorial on Damages, {{ 31; RE-69; RE-80).
+
+88 Counter-Memorial on Damages, { 31.
+® Durdle Statement I, {22
+
+°° Damages Hearing Transcript, p. 366. See also Durdle Statement I, { 22 (footnotes omitted) “The donation
+
+was made and approved in July 20 |, ll
+
+°! Damages Hearing Transcript, p. 362.
+
+75.
+
+76.
+
+77.
+
+78.
+
+Public Version
+
+[|
+
+The See Which is a joint industry project conducted by
+HE © trains “workers to respond to emergencies.”® The relevant
+HE @e still under development.”
+
+The Claimants argue that any safety procedures or measures that follow from this
+project will not replace any of the current (ordinary course) training in place at
+Hibernia, and that this demonstrates that this project was instead precipitated by the
+Guidelines.®* The Claimants’ witness, Mr. Durdle, was convincing in his explanation
+of how the more basic, “ordinary course” procedurcs qs
+HE iffer from this safety measure, demonstrating that the latter goes
+
+beyond ordinary course spending.
+
+The Respondent’s arguments largely consist of questioning the statements of the
+Claimants’ witness, rather than offering tangible evidence to refute them. The
+Respondent argues that spending on safety is necessary for the Projects and therefore
+would have been undertaken even in the absence of the Guidelines.°’ However, it has
+failed to show that this particular expenditure was in any way specifically necessary
+for safety at Hibernia and it has not offered convincing rebuttal of the Claimants’
+
+assertion that this is incremental spending.
+
+For the foregoing reasons, the Majority finds that the Claimants have proven that this
+
+expenditure is incremental.
+
+* CE-288.
+
+°3 Durdle Statement I, {{ 23.
+
+4 Durdle Statement I, {| 23
+
+°5 Durdle Statement I, {{] 23-27.
+
+°© Durdle Statement I, {{ 25.
+
+°7 Counter-Memorial on Damages, If] 30-31.
+
+°8 This project was not discussed at the Damages Hearing.
+
+Public Version
+
+) es
+
+The SE project is a joint industry project with the ultimate
+objective of develop in: ll
+Lil
+
+The Respondent repeats that spending on safety is necessary for the Projects and
+therefore this spending would have been undertaken in the absence of the Guidelines.'”
+For the Respondent, the fact that part of the expenditure on this project was classified
+
+as ordinary course is indicative of the fact that the whole project was ordinary course.!°!
+
+The Claimants admit that certain expenditures in relation to the “exploratory” part of
+this project, which took place in 2009, are appropriately classified as ordinary course. '
+However, as this was in line with the operator’s desire to be a “good corporate
+citizen,”! it does not mean that the remainder of the spending on this project was
+likewise in the ordinary course. The project in its final form, the Claimants say, is not
+
+necessary for the Projects and would not have been conducted absent the Guidelines.'*
+
+The Claimants’ witness, Mr. Durdle, convincingly describes how various aspects of
+this project are above and beyond standard requirements. For example, part of the
+project is aimed at the development of ‘°° At Hibernia, at the
+same time as the development of these NNN is proceeding, the regular
+HE ve being replaced with the same type of regular gg. This seems highly
+suggestive of the exceptional nature of the spending on gS. Mr. Durdle
+also convincingly described how the J equipment may not even
+
+® Durdle Statement 1, {| 30.
+NS CE279. 12110004420)
+10 Counter-Memorial on Damages, If 30-31.
+
+©! Counter-Memorial on Damages, 31.
+
+102 Durdle Statement I, 4 33.
+
+63 Durdle Statement I, 4 33.
+
+04 Durdle Statement I, #{{ 30-35.
+
+LL (1c Statement I, 430).
+
+Public Version
+
+ultimately be appropriate for use at either Hibernia or Terra Nova, which further
+
+supports the non-ordinary course nature of this project.!°°
+
+By contrast, the Respondent merely challenges statements by the Claimants and their
+witness, rather than offering any evidential basis to refute the Claimants’ assertion.!”
+The Respondent has failed to show that this project was necessary for safety and/or in
+
+the ordinary course.
+
+For the foregoing reasons, the Majority finds that the Claimants have proven that this
+
+expenditure is incremental.
+
+Ci)
+The Claimants claim expenditure for a scoping study commissioned by Terra Nova,
+which was intended to “investigate/evaluate existing technologies folly
+
+HEE, Propose potential new/enhanced technologies, and develop a plan
+
+(roadmap) for future research and development.”'
+
+The Claimants point out that this vague project is merely a study to develop future
+studies, with no specific parameters or specifications, and that such a vague project is
+
+not something that would be undertaken in the ordinary course of business.'”
+
+The Respondent says that spending on safety is necessary for the Projects and therefore
+
+would have been undertaken in the absence of the Guidelines.'' The Claimants’
+
+  
+
+witness Mr. Durdle is unable to point to any specific features of this spending which
+distinguish it from ordinary course spending, other than that it is vague, and that to
+“come up with new studies without any defined parameters or specifications” is not a
+
+common approach.''! Mr. Durdle is moreover primarily engaged with the Hibernia
+
+106 Durdle Statement I, J 32.
+
+107 Rejoinder on Damages, {[ 80-85.
+
+108 CE-311, EMM0004809; Durdle Statement I, | 36-37.
+109 Durdle Statement I, §[ 36-38.
+
+110 Counter-Memorial on Damages, {fJ[ 30-31.
+
+'! Durdle Statement I, { 38.
+
+88.
+
+89.
+
+90.
+
+91.
+
+92.
+
+Public Version
+
+Project and he appears relatively unfamiliar with this project, which was centered on
+
+Terra Nova. Mr. Durdle merely claims to have been “aware of its content”.!”
+
+The Majority therefore finds that the Claimants have not proven that this is an
+
+incremental expenditure.
+Vii)
+
+Th;
+ee
+It was first created in 1998 and was initially funded by Petro Canada,'"* in the amount
+
+of MN per annum. In 2009 the funding for J was doubled and
+transferred to Terra Nova’s joint account.!'°
+
+The Respondent says that the Claimants have been funding J since 1998.1"
+The Claimants dispute this, arguing that they did not fund J prior to 2009."7
+
+The Majority finds that the Claimants have proven that this expenditure was
+
+incremental.
+
+The Majority is persuaded that the Claimants did not contribute to the funding of Jy
+HM Until the Guidelines came into effect.''* This is significant and probative of a
+causal link to the Guidelines. Whilst the funding off was occurring pre-
+
+Guidelines, it was borne by a different entity and was of a lesser amount. This
+
+1
+SS (Durdic Statement I, 38); Durdle Statement I, J 36.
+13 CE-227, EMM0003852.
+
+'l4 The Terra Nova project is organized as an unincorporated joint venture. The largest shareholder, Petro-
+Canada, which owned a 33.99% interest, managed and operated the project for a consortium of working
+interest owners, including the Claimants. In 2009, Petro-Canada merged with Suncor, which is now the
+operator.
+
+45 Phelan Statement V, { 21.
+‘46 Counter-Memorial on Damages, | 33.
+417 Phelan Statement V, 20-21.
+
+‘8 Phelan Statement V, J 21.
+
+94.
+
+95.
+
+96.
+
+97.
+
+Public Version
+
+expenditure was not spending the Claimants themselves were undertaking until the
+
+Guidelines came into effect.
+Ss
+
+The Claimants claim compensation for their donation qq.
+Dn
+
+The Respondent says that the “Claimants” have been donating’
+since 2003 and that this is therefore an expenditure that “pre-dates” the Guidelines and
+should thus not be compensable.” The Claimants accept that “Petro-Canada has
+provided relatively minor funding for qq since 2003”! but highlight
+
+that the Claimants themselves never contributed to this donation program.
+
+The Majority finds that the Claimants have proven that this expenditure was
+incremental. Similar to the MMM. it is significant that this donation
+was not spending that the Claimants were willing to undertake until the Guidelines
+
+came into effect.
+Qe
+
+The Claimants request compensation for the costs of is
+es |
+order for this J to occur in Newfoundland, it was necessary to
+CC —“C:sS:stéiaa
+
+'!? Phelan Statement V, J 22. At the hearing, Claimants clarified that Mobil makes its own contributions to
+the amount claimed in these proceedings is the Terra Nova “joint account” spend only (Damages
+
+;
+Hearing Transcript, p.252).
+
+2 Counter-Memorial on Damages, | 33.
+'2! Phelan Statement V, { 22.
+2
+
+Noseworthy Statement I, | 45.
+!23 Noseworthy Statement I, { 47.
+
+98.
+
+99.
+
+100.
+
+101.
+
+124
+
+125
+
+126
+
+127
+
+128
+
+129
+
+Public Version
+
+The Claimants are only claiming the costs of relocating the [J to the Province as
+incremental spending (as opposed to the cost of the itself). This part of the
+spending, the Claimants argue, is clearly linked to the Guidelines. The transfer of this
+HE «fo Newfoundland, they say, is “an excellent example of the distorted business
+
+practices Claimants have been forced to adopt as a result of the Guidelines.” 25
+
+The Respondent argues that this expenditure relates to an [ggg that “has long been
+conducted outside of the Province”'”* and that this [ggg “pre-dates” the Claimants’
+attempts to comply with the Guidelines via incremental spending and thus cannot now
+
+be construed as incremental.'?’
+
+The Majority finds that the Claimants have proven that these expenditures are
+incremental. The evidence offered by the Claimants that this project was moved to
+Newfoundland so that it would be Guidelines-compliant (combined with the timing of
+this move) indicates a clear causal link with the Guidelines.'** The fact that the [yy
+has been conducted for some time elsewhere is irrelevant in light of the fact that the
+
+Claimants claim only the cost of transferring the expenditure to the Province.
+
+i)
+
+The Claimants claim compensation for costs related to improving the
+HE 0 improve safety, operational efficiency and capability in existing and Arctic
+
+frontier regions.”'”°
+
+Noseworthy Statement I, i 45-48.
+Noseworthy Statement I, | 45.
+
+Counter-Memorial on Damages, {| 36.
+Counter-Memorial on Damages, { 35.
+
+Noseworthy Statement I, {{ 46-7. See also clause 3.1 of the Guidelines (“In order to be eligible, any R&D
+
+expenditure must occur in the Province of Newfoundland & Labrador”).
+
+CE-313, EMM0004838.
+
+102.
+
+104.
+
+105.
+
+Public Version
+
+The Respondent says that the Claimants have participated in this type of project since
+1999 and that this is therefore an ongoing expenditure, conceived of before the
+
+Guidelines, and is therefore not incremental.'*°
+
+The Claimants argue that the Respondent confuses this incremental expenditure with
+pre-Guidelines work (also focused on [MM undertaken by Petro-
+
+Canada/Suncor as an individual owner company."
+
+The Majority finds that the Claimants have proven that this expenditure was
+
+incremental.
+
+The MG 2 issue in these proceedings appears to be far more extensive
+than previous work focused on EE. both in terms of scope and costs.'*
+Further, additional factors such as that Hibernia’s fundamental structure is not
+susceptible to .’* and that this project was conceived at a joint industry
+workshop,'™ lead the Majority to believe that this expenditure is properly characterized
+
+as incremental.
+
+3 Counter-Memorial on Damages, 33; Rejoinder on Damages, 1{f 96-99.
+3! Noseworthy Statement I, 4 41-44.
+
+'8 Historical Benefit Plan reports for both Projects put the cost of previous J work at much
+lower amounts than the J total project cost estimated for thi (sce, c.g.
+CE-84, EMM0001616; CE-93, EMM0001871; and CE-92, EMM0001824 for historical Benefit Plans, and
+CE-313, EMM0004838 for the estimated cost of this 7 )
+
+    
+
+133 Noseworthy Statement I, { 43
+
+'4 Noseworthy Statement I, { 44, see the discussion above at {J 67.
+
+ 
+
+Public Version
+
+<i)
+—
+
+Th I ois to develop cv iT
+HEN, Specifically via the “development of 2 xs
+ (: 2p lication 0f Es”
+
+The Respondent refers to the Claimants’ witness’ testimony to argue that the project
+began in 2007 and “pre-dates” the Claimants’ attempts to comply with the Guidelines
+via incremental spending and should thus not be compensable.'*’ Moreover, this project
+
+is consistent with ExxonMobil’s R&D priorities, which for the Respondent indicates
+
+ 
+
+that it is ordinary course spending.'**
+
+For the Claimants, the 2007 project was completed that same year and the yy
+HE (hat was proposed in 2010, i.e. well after the implementation of the
+Guidelines, and the commencement of their attempts to comply with them began in
+earnest, is a separate expenditure. '° However, the Claimants’ evidence clearly
+describes this 2010 project as “Phase II” in several instances.'*” The Claimants further
+argue that ExxonMobil’s concomitant R&D priorities elsewhere in the world are
+irrelevant to assessing whether this Terra Nova expenditure constitutes an incremental
+
+expenditure.'*!
+
+The Majority finds that the Claimants have not proven that this is an incremental
+expenditure. They have not effectively refuted the Respondent’s argument that this
+
+project is a phased project that was conceptualized prior to the introduction of the
+
+A
+a
+ee
+
+86 CE-310, EMM0004801.
+
+57 Counter-Memorial on Damages, 35.
+
+'38 Rejoinder on Damages, {| 102.
+
+89 C1, Reply on Damages, 34.
+
+49 CE-310, EMM0004801.
+
+'41 Cl, Reply on Damages, 34.
+
+110.
+
+111.
+
+112.
+
+Public Version
+
+Guidelines. The Claimants have not offered an adequate explanation of this descriptive
+feature, which suggests that this project originated prior to the time at which the
+
+Claimants indicate they began carrying out incremental spending.
+(i)
+
+a Ocused R&D" is aimed at advancing, inter alia,
+“the state 0 ia and the
+ee
+
+The Respondent argues that the expenditures related to these projects fit within the
+Claimants’ pre-Guidelines commitments and therefore cannot be incremental. '* It
+further asserts that this type of R&D is directed towards the specific needs of the
+
+Projects.'*°
+
+The Claimants say that pre-Guidelines compatibility is irrelevant to the question of
+whether or not the expenditure was incremental. The Guidelines imposed a threshold
+for R&D spending.'’ This means that even if an expenditure is compliant with the pre-
+Guidelines regime, it does not necessary follow that it was not motivated by the
+
+Guidelines.
+
+The Majority finds that the Claimants have proven that these expenditures were
+
+incremental.
+
+‘2 The relevant projects are joint industry projects with [aa
+Le
+
+(Noseworthy Statement I, 53).
+
+143 CE- 291, EMM0004603. Two projects fall within this description, they are dealt with together partly as
+this was the approach taken by the Claimants’ witness Mr. Noseworthy (Noseworthy Statement I, {ff 52-
+54).
+
+4 Noseworthy Statement I, 53.
+
+'45 Counter-Memorial on Damages, 42.
+146 Counter-Memorial on Damages, {[ 42.
+
+47 Cl, Reply on Damages, ‘ff 36-40.
+
+Public Version
+
+The Majority notes that the R&D spending commitments under the Benefits Plans (the
+pre-Guidelines regime) were nonspecific." It is difficult, and inappropriate, for the
+Majority to now seek to late these specific i into pre-Guideli
+
+spending requirements which would function as a baseline. The Respondent’s
+arguments that rely on pre-Guidelines regime spending compliance are thus ineffective.
+
+The Majority also finds several aspects of the Claimants’ evidence persuasive.
+Foremost, the projects at issue were conceived of at a joint industry workshop. Such a
+workshop, as the Claimants’ witness Mr. Noseworthy has explained, is not how the
+Claimants would conduct and plan R&D in the ordinary course.'? Further, the serious
+nature of MG in this context’ aligns with Mr. Noseworthy’s statements
+that this research would have been undertaken earlier were it important, and that the
+Projects already have systems to address NN These various aspects
+support the Claimants’ assertion that this spending was Guidelines-motivated.
+
+iv) ee
+as
+
+The Claimants seek compensation for NS that will operate under
+the auspices of the I 2nd will conduct
+ee
+ee
+ee
+
+¥8 See, e.g, the examples given in the Counter-Memorial on Damages (4 37-38): “fund basic research”,
+“promote further research and development in Canada to solve problems unique to the Canadian offshore
+environment”, etc.
+
+149 Noseworthy Statement I, 47.
+
+10 See CE-291, EMM0004609: I presents a significant hazard to|
+
+a
+in environs TT such 2s for example, the
+Grand Banks...”.
+
+131 CE-286, EMM0004540.
+
+33
+
+117.
+
+118.
+
+119.
+
+120.
+
+121.
+
+Public Version
+
+The Respondent submits that this project fits within the Claimants’ pre-Guidelines
+
+commitments and therefore cannot be incremental.'*?
+
+The Claimants posit that pre-Guidelines compatibility is irrelevant to the question of
+
+whether or not the expenditure was incremental.'**
+
+The Majority finds that the Claimants have proven that [ggg entails incremental
+
+expenditure.
+
+HE functions as ang. which, as the Claimants point out,
+is accessible to all and can be used by their competitors. '* The Majority finds
+particularly convincing the Claimants’ observation that this type of sharing
+arrangement is not representative of the manner in which Projects normally carry out
+“ordinary course” R&D spending. The finding that this expenditure is incremental is
+also supported by the timing of its inception (which was in 2010),'** which is clearly in
+line with the time period when the Claimants began to comply with the Guidelines in
+
+earnest. '*°
+
+Further, the Majority again notes that the R&D spending commitments under the
+Benefits Plans (the pre-Guidelines regime) were general and unspecified. It is
+inappropriate for the Majority to now seek to translate these pre-Guidelines spending
+requirements into a particular baseline. The Respondent’s arguments are thus
+
+unconvincing in this regard.
+
+52 Counter-Memorial on Damages, 42.
+
+153 Cl. Reply on Damages, { 36-40; Noseworthy Statement I, {i 49-51.
+'54 Noseworthy Statement I, { 51.
+
+155 See CE-212.
+
+156 Phelan Statement IV, { 9.
+
+Public Version
+
+QV)
+The Claimants’ spending on this gg in 2011 entails funding which will initially
+
+provide for the JE that itis hoped will js
+[Ultimately direct funding for the will be provided!”
+| ly is = P
+
+For the Respondent, this expenditure is i with pre-Guideli i 158
+
+Indeed, the Respondent says, the Projects have funded J since 1986.1
+
+The Claimants hold that the fact that Projects have funded [gM in the past is
+irelevant. The current incremental (of i ) furthermore
+far exceeds pre-Guidelines funding by Hibernia and is for a different purpose,
+according to the Claimants.' Thus, even if the Claimants accepted that pre-Guidelines
+compatibility rendered certain expenses non-compensable (which they do not), this
+expenditure would be distinguishable.
+
+The Majority finds that the Claimants have proven that this is an incremental
+expenditure.
+
+Regarding the Respondent’s argument that this spending is in accordance with the pre-
+Guidelines regime, the Majority has already outlined its view that the mere fact that an
+expenditure is consistent with the pre-Guidelines regime does not resolve whether it is
+
+introduced as a result of the Guidelines or not.!
+
+The Majority finds the timing of this funding to be probative of a causal link to the
+Guidelines; the previous funding for JY began in 1986 and continued until
+1991. This amounts to a 20 year break in funding for or related to ) The
+
+157 Phelan Statement V, 9] 17 and 18.
+
+138 Counter-Memorial on Damages, 42.
+
+139 Counter-Memorial on Damages, 42.
+
+160 Phelan Statement V, §] 17-18; Cl. Reply on Damages, 41.
+161 See | 121 above.
+
+35
+
+Public Version
+
+reinstitution of this type of funding is convincingly explained by the inception of the
+
+Guidelines.
+
+Vi)
+Ce
+The Respondent accepts that the Claimants have spent yy
+
+HE “elated to EXT and R&D that are incremental.” The Majority therefore
+
+does not need to engage in discussion as to whether these expenses are incremental.
+
+(c) Total Spending Determined to be Incremental by the Majority
+
+The Majority finds that the Claimants have proven that worth of
+their expenditure was incremental and is compensable (subject to the adjustment
+
+discussed below'®), as indicated above and set forth in the table below:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Expenditure / ‘Ordinary Tncremental Share Mobil ‘Share Murphy Oil
+Project Course Expenditures! | Canada
+
+| | |
+Zz
+
+| | | |
+Zz
+
+Lt 7 7 7
+7
+
+a a | a
+|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12 See footnote 267 to the Rejoinder on Damages and Counter-Memorial on Damages, { 44; Walck
+Statement V, Annex 1. The Respondent accepts these expenditures but still asserts that deductions should
+be made for the tax and royalty-based benefits schemes (see discussion below at {J 130-150).
+
+183 See 4 138 below.
+164 See e.g. R. Walck, Report in Response to Claimant’s Damage Submission, dated 21 September 2012,
+Annex 1, p. 2-7.
+
+36
+
+Public Version
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Public Version
+
+ 
+
+Total —= | — —
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cc. SR&ED (TAX) CREDITS
+
+The SR&ED tax program is self-assessing. The Claimants assess and identify the
+portion of R&D expenditures that are eligible for credit under the program and reduce
+their tax liability in their annual returns accordingly.'® The applicable deduction rate is
+32% (i.e. the Claimants deduct from their tax payable 32% of the value of R&D
+expenditures self-assessed to be eligible). The self-assessed amounts can be audited by
+the Canadian Revenue Authority (“CRA”) for up to four years after the CRA issues a
+Notice of Assessment, which is issued “with all due dispatch” after the Claimants file
+
+their tax returns (reflecting the credits claimed).'®
+
+Prior to the Damages Hearing, the Claimants offered to deduct from the compensation
+they claim the SR&ED “credits” that they have self assessed and included in their tax
+returns to date.'®’ If however, at a later date, the CRA denies any of the credits that
+Claimants have deducted from their damages, Claimants will have to pay the CRA the
+amount of that credit. Under the terms of the offer, the Canadian government will then
+have to reimburse the Claimants the amount of that credit, which they had to pay to the
+
+CRA.
+
+At the Damages Hearing, the Claimants also indicated that they could (alternatively)
+withdraw their claims for tax credits so that if the Majority compensated them for
+
+incremental expenditures there would be no danger of overcompensation. '* The
+
+165 Claimants’ letter to the Tribunal of April 9, 2013; Respondent's letter to the Tribunal of April 9, 2013;
+Counter-Memorial on Damages, {| 49; Rejoinder on Damages.
+
+'66 Claimants’ letter to the Tribunal of April 9, 2013, p.3; Respondent’s letter to the Tribunal of April 9,
+2013, p. 2.
+
+'67 Claimants’ letter to the Tribunal of April 9, 2013, p.2.
+
+‘68 Damages Hearing Transcript, p.215.
+
+Public Version
+
+Claimants have since indicated that this is not a possible course of action for
+
+He (2 necessary step in fulfilling this offer).’°
+
+The Respondent ultimately rejected the offer made by the Claimants to settle the
+question of SR&ED credits.'”
+
+(a) Parties’ Positions
+
+The Respondent argues that the Claimants are receiving the benefit that these credits
+result in now and that if they are not deducted from the Claimants’ damages the
+Claimants will enjoy a windfall. Thus, for any incremental spending the Majority
+
+finds to be compensable, a 32% deduction should be applied.'”
+
+For the Claimants, the SR&ED credits (nor the deductions from their tax payable) are
+not “final,” or enjoyed in any “relevant sense”! because they have not yet been made
+subject to an audit by the Canadian government authorities and can therefore still be
+
+denied.
+
+The Claimants argue that it is far from certain that the CRA will in fact confirm the
+entirety of the credits that the Claimants have claimed. The Respondent disputes this.
+To these ends, the Parties differ on the historic and overall acceptance rate of self-
+assessed SR&ED credits by CRA, using Hibernia as an example. The Claimants put
+the acceptance rate at jggggjthrough 2009,”'" whereas the Respondent points to the
+
+‘© Claimants’ letter to the Tribunal of May 28, 2013, p.2. ees
+ee
+a
+
+170 Respondent’s letter to the Tribunal of September 17, 2013
+
+"7! Rejoinder on Damages, {f 115
+
+'? The Respondent argues that as the Claimants have not clarified which expenditures they have claimed
+credits in relation to, the Tribunal should assume they have claimed credits for all of its expenditure
+(Damages Hearing Transcript, p.79).
+
+173
+
+Cl. Reply on Damages, 1 45.
+"74 Cl, Reply on Damages, 147.
+
+Public Version
+
+high rate of acceptance from 2007 to 2009 (either J or )'” and argues that the
+
+Claimants have in fact conceded that the overall acceptance rate for Hibernia is gg.’
+
+Further, the Respondent says that the Claimants’ “offers” demonstrate that they
+themselves agree there should be a deduction to their damages to reflect the SR&ED
+credits they enjoy. The Claimants dispute this, explaining that whilst they have never
+sought to “double dip,” this does not mean that they agree that the Majority should
+make deductions from their compensation now. Rather, this simply demonstrates that
+the Claimants are willing to work with the Respondent to achieve other solutions to
+
+this issue that ensure that they are not left out of pocket.
+
+(b) Majority’s Finding
+
+The Majority finds that it is appropriate to deduct from the compensation granted to the
+Claimants under this Award an amount that reflects the benefits that they, by their own
+account, have received as a result of the SR&ED program. This will result in a 32%
+deduction to the amount the Majority has determined to be incremental spending where
+the expenditure appears to be eligible under the SR&ED program. So far as the
+Majority is aware, the Claimants have not indicated exactly which of their incremental
+expenditures they consider eligible and/or have used as a basis for claiming credits
+under the SR&ED program.'” The Majority therefore is necessarily guided by the
+indications of the Respondent’s expert in in this regard.'* Accordingly, applying the
+32% discount to the relevant incremental expenditures leaves a compensable amount
+
+of CONS clue to Mobil Canada and CDN$ gg due to Murphy Oil.'”
+
+"5 Respondent’s letter to the Tribunal of April 9, 2013, p.2.
+176 Rejoinder on Damages, {| 116.
+
+"77 See Damages Hearing Transcript, p.78. See also the Respondent's letter to the Claimants of August 28,
+2013. The Claimants have given only an approximate figure to indicate the total amount of their SR&ED
+claim.
+
+"8 See Walck Statement V, Annex 1.
+
+'?° The following table represents the Majority’s calculations to this end:
+
+ 
+
+Total with deduction for SR&ED
+credit
+
+Expenditure / | Incremental Spending
+Project Amount
+
+SR&ED eligible?
+(Walek
+
+ 
+
+ 
+
+ 
+
+Public Version
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mobil Murphy | Statement V, Mobil Murphy
+Annex 1)
+
+|__| i, os a a
+
+Vs
+
+=
+
+i = a | ves _ =
+
+Ll
+
+iL me Le a
+
+||
+
+=
+
+Lee
+
+mm 7 Mmm ss = =
+
+mz
+
+i
+
+=
+
+/
+
+7
+
+) | = i ves _ =
+
+|
+
+Le
+
+Zz = Mj = =
+
+|
+
+=
+
+= = Mj = =
+
+eel
+
+mm = Mmm = =
+
+|
+
+Lee
+
+a 7 Mmm ss = =
+
+|
+
+=
+
+/
+
+_
+
+_ me, ms 7 =
+
+|
+
+zz
+
+ne Oe Oe a a
+
+|_|
+
+|
+
+_
+
+eee!
+
+= ma a” a =
+
+|
+
+=
+
+| | 509.000 | some not all™ — —_
+
+be
+
+Total 12,701,000 | 2,856,000 10,310,605 2,273,635
+
+ 
+
+ 
+
+ 
+
+*Only 5 entries in the “spending not et
+
+ 
+
+hallenged” section of Annex 1 to W
+
+ 
+
+falck V are marked as SRRED eligible (H-3,
+
+H-4, H-16, TN-16 and H-49). The total amount of these entries is jg To arrive at the amount in the far right
+
+4l
+
+139.
+
+140.
+
+141.
+
+Public Version
+
+The Majority arrives at this finding by virtue of several aspects of the evidence and
+arguments that were put before it. Foremost, there is a significant likelihood that the
+Claimants will have the benefit they have already received confirmed. There is a clear
+record of a high acceptance rate for self-assessed credits under this program, at times
+reaching MJ even on the Claimants’ own evidence. '* No evidence has been
+presented to indicate that the CRA would change its practice with respect to SR&ED
+credit regime.
+
+The Majority also finds it significant that the (potential) audit process for the SR&ED
+
+program is relatively short, and does not entail any punitive claw-back provisions."*!
+
+D. RoyaLTy DEDUCTIONS
+
+Similar to the SR&ED program, the royalty deduction program allows the Clai
+
+to self-assess deductions from the royalties on revenue that they pay to the Province,!”
+based on their R&D expenditure.’ Royalties are paid to the Province on a monthly
+basis and deductions to royalties for R&D are made monthly as well.'* The deduction
+rates arq§j of the relevant expenditure for Hibernia andj of the relevant
+expenditure for Terra Nova.'® The royalty deduction program is governed by
+Provincial regulations and royalty agreements pertaining to each of the Projects.'*° The
+deductions that the Claimants make are subject to review and audit. The audit process
+
+columns, on respectively a and gg (pro rata off. i.e. amount eligible for deduction) the 32 % deduction
+ied,
+
+was applied.
+180 CE-354,
+181 In contrast to the royalties regime (see ff 130-150).
+
+1®2 See, e.g. the Hibernia Royalty Agreement (CE-355). The Tribunal notes the distinction between this
+type of royalty and royalties which might be payable in relation to know how or patents (see the letter from
+the Tribunal of October 3, 2012).
+
+183 Claimants’ letter to the Tribunal of April 9, 2013, p. 4; Respondent’s letter to the Tribunal of April 9,
+2013, p. 3.
+
+184 Claimants’ letter to the Tribunal of April 9, 2013, p. 4.
+185 Rejoinder on Damages, § 120.
+186 Phelan Statement V, 32.
+
+42
+
+142.
+
+143.
+
+Public Version
+
+for each of the Projects differs, but can take from five to seven years to resolve.'*’ If the
+Province ultimately determines, via the audit process, that certain deductions were
+invalid, these must be repaid to the Province with interest. The applicable interest rate
+for Terra Nova is prime + 2% and for Hibernia J (in both cases dating back
+
+to the month in which the relevant R&D expenditure was made).
+
+(a) Parties’ Positions
+
+For the Claimants, it is “simply too speculative” to determine at this time whether or
+not they will ultimately enjoy these royalty deduction benefits, such that there should
+be a deduction to the compensation granted to them by this Majority.'** The Claimants
+also object that this uncertainty is of the Respondent’s making, for the Respondent
+could simply guarantee that the deductions will be confirmed. If the Respondent did
+so, the Claimants would be happy to have a deduction applied to the compensation
+awarded by this Tribunal. They point to the fact that the Province is yet to audit any
+royalty payments from 2006 onwards, saying it is therefore unclear how R&D spending
+
+under the Guidelines will be treated in the royalty deduction program.'*°
+
+The Claimants argue that it is significant that the royalty regulations which apply to
+both Projects!” provide that if a cost which is eligible (here R&D expenditure) is offset
+in some way (i.e. by an award of damages in these proceedings), that cost becomes
+ineligible as the basis for a royalty deduction. '*! Thus, any deductions that the
+Claimants have made on the basis of R&D may ultimately be deemed ineligible for
+royalty deductions if they are also compensated as incremental expenditure by this
+
+Tribunal. At the Damages Hearing, the Respondent argued that it is not clear that the
+
+'87 Claimants’ letter to the Tribunal of April 9, 2013; Respondent’s letter to the Tribunal of April 9, 2013.
+The Claimants assert that the dispute resolution process that follows the audit process can take much longer
+(Claimants’ letter to the Tribunal of April 9, 2013, p. 5).
+
+188 Phelan Statement V, J 33.
+189 C]. Reply on Damages, {ff 48-49.
+
+19 And in the case of Hibernia, additionally the Royalty Agreement (Phelan Statement V, 32; CE-355;
+CE-356).
+
+'! Phelan Statement V, {{ 32.
+
+ 
+
+144.
+
+145.
+
+Public Version
+
+provisions of the royalty regulations and Hibernia Royalty Agreement would lead to
+
+such a claw back.'*
+
+As with the SR&ED credits, the Claimants have emphasized that they do not seek to
+“double dip” and that if they ultimately receive confirmation of the deductions they
+have made to their royalty payments, they will return any amount of overcompensation
+to Canada.'** Indeed, the Claimants have expressed that they are willing to have this
+
+Award direct them to do so.'
+
+The Respondent argues that the Claimants are enjoying the benefits of the royalty
+deduction program now (a fact which it asserts the Claimants have themselves
+accepted). '° To avoid overcompensation to the Claimants, these savings should
+therefore be deducted from any compensation awarded. The Respondent relies upon
+the fact that the Claimants have offered to deduct these savings from their damages
+under certain conditions to argue that indeed, the Claimants agree that there should be
+a deduction.'° The Respondent asserts that it is impermissible for the Tribunal to rely
+upon or include in this Award any kind of enforceable order or direction that the
+Claimants repay any amount of overcompensation at a later date. This would be outside
+the boundaries of the Tribunal’s powers pursuant to Article 1135 of NAFTA.'” The
+
+only option for the Tribunal is to deduct the royalty-based benefits at the present time.
+
+'®2 Damages Hearing Transcript, p.218.
+
+193 See, e.g. Phelan Statement V, 4 34; Damages Hearing Transcript, p.56.
+14 Damages Hearing Transcript, p.102.
+
+15 Rejoinder on Damages, {[ 115. The Claimants respond that earlier comments by their Expert in this
+regard (which the Respondent relies upon) are irrelevant because there is “no guarantee that [they] will
+actually enjoy these benefits” (Phelan Statement V, § 25, emphasis added). The Respondent asserts, and the
+Claimants appear to accept, that the amount they have deducted is in the order of CDN
+
+(Respondent’s letter to the Tribunal of April 9, 2013, p.4; Respondent's letter to the Tribunal of June 12,
+2013, p.3; Damages Hearing Transcript, pp. 204-205).
+
+9 Respondent's letter to the Tribunal of April 9, 2013, p.3.
+97 Article 1135(1) of NAFTA provides (emphasis added):
+
+“1, Where a Tribunal makes a final award against a Party, the Tribunal may award, separately or in
+combination, only:
+
+(a) monetary damages and any applicable interest;
+
+146.
+
+147.
+
+148.
+
+149.
+
+Public Version
+
+Regarding the Claimants’ assertion that Respondent could rectify the uncertainty
+(which is of the Respondent’s making) surrounding royalty deductions, the Respondent
+says that it has “no authority to ‘guarantee’ a result” in this way (i.e. that it ensure the
+
+royalty deductions are ultimately confirmed).'*
+
+(b) Majority’s Finding
+
+For several different reasons, the Majority finds that there should be no deduction to
+the Claimants’ compensation to reflect deductions made under the royalty regime
+
+applicable to the Projects.'°
+
+First, it appears far from certain that the deductions the Claimants have applied to
+royalties will ultimately be confirmed. xs
+ee
+I Unlike for the SR&ED tax credits
+regime, the Majority was not presented with reliable historical data showing acceptance
+
+rates for royalty deductions.
+
+The Majority observes that the audit process, which applies to the royalty deductions,
+is very lengthy”! and the interest rate that is applied to any amount the Claimants must
+repay for Hibernia is very high, bordering on the punitive. Thus, were the Majority to
+
+reduce the Claimants’ compensation as requested, the Claimants may well be left in a
+
+(b) restitution of property, in which case the award shall provide that the disputing Party may pay monetary
+damages and any applicable interest in lieu of restitution.
+
+A tribunal may also award costs in accordance with the applicable arbitration rules.”
+8 Rejoinder on Damages, { 117.
+
+'° The Tribunal notes that in its letter of October 3, 2012, it indicated that “a proper assessment of damages
+rests upon the Tribunal’s determination of any loss that has actually occurred. In this context, the possibility
+that the amount of actual damages may have to take into account any tax benefits that have been received has
+been recognized by the Claimants in their own pleadings.” (emphasis added). Having taken into account all
+of the evidence, the Tribunal has ultimately found that there is not yet sufficient certainty regarding the
+royalty deductions for any deduction to compensation to be warranted.
+
+ 
+
+2 Damages Hearing Transcript, pp.208-209.
+
+20! The Claimants’ witness Mr. Phelan testified that this process has been known to last up to 16 years
+(Damages Hearing Transcript, p.209, see also the Claimants’ letter to the Tribunal of April 9, 2013, p. 5)
+
+150.
+
+151.
+
+Public Version
+
+situation (many years hence”) where they are not only out of pocket but, for Hibernia,
+
+faced with a substantial penalty to pay in addition.
+
+Secondly, it is a possibility that the royalty deductions will be clawed back. The
+Province may, relying on provisions in the regulations and royalty agreement for
+Hibernia,” seek repayment of the deductions related to R&D expenditures for which
+the Majority granted compensation. This in turn creates a possibility that if the Majority
+reduced the Claimants’ compensation to reflect royalty deductions, the Claimants may
+later be left undercompensated. Whilst the Majority recognizes that this is not an
+absolute certainty, the relevant provisions of the regulations and royalty agreement
+
+indicate it is a possibility that warrants refusing the Respondent’s request for deduction.
+
+s
+
+SHORTFALL
+
+The Claimants claim CDN$ J in shortfall-related losses, being the pro-rated
+amounts for which Murphy Oil and Mobil Canada are responsible (CDN$
+and CDN$ J for Hibernia and Terra Nova respectively).2“ The Board has
+requested that a promissory note secured by a letter of credit be provided as security
+for the Hibernia shortfall amount?® and letters of credit have been put in place to secure
+
+the Terra Nova shortfall amount.?°
+
+22 This appears to be to an extent under the Province’s control, which, for the Tribunal, is further reason to
+deny the reduction requested by the Respondent.
+
+28 See Phelan Statement V, { 32. The Hibernia Royalty Agreement for example states that [7
+
+204 Phelan Statement IV, {| 58; Phelan Statement V, Annex A
+205 Phelan Statement IV, {| 18. The operators are responsible for providing and maintaining letters of credit
+for only their share of the shortfall for each Project
+
+206 CE-324 and CE-325.
+
+Public Version
+
+(a) Parties’ Positions
+
+The Claimants posit that the notifications of shortfalls that they have received constitute
+a “call for payment” within the terms of the Decision.” Additionally, the fact that the
+notification has been followed by a requirement that the Projects provide letters of
+credit to underwrite the shortfalls, and the accompanying risk that if the letters of credit
+are not provided, the Projects’ POAs may not be renewed, is further evidence of a call
+
+for payment.
+
+The Respondent says that it is likely that a great deal of the Claimants’ shortfall will be
+met with spending on R&D that is “ordinary course” spending.” Such ordinary course
+spending is not compensable and the Claimants are therefore not entitled to the full
+shortfall amount. The Respondent argues that a reduction should also be made to reflect
+the fact that the Claimants will likely meet some of the shortfall with spending that is
+
+consistent with their obligations under the Accord Acts and Benefits Decisions.”
+
+The Terra Nova shortfall, the Respondent says, is in fact already slated to be eliminated
+
+via a large R&D project*"' which the Claimants have recently had pre-
+
+212
+
+approved by the Board.’ Similarly, the Respondent points to the fact that the
+
+Claimants’ witness Mr. Phelan has made statements that indicate that their Hibernia
+shortfall will be “spent down.”?"? The Respondent argues that this too, may be ordinary
+
+course spending.
+
+207 Cl. Mem. on Damages, { 15.
+208 Cl. Mem. on Damages, { 16.
+
+2 Based on historical spending, ggg for Terra Nova and ggg for Hibernia (Rejoinder on Damages, |
+126).
+
+20 Rejoinder on Damages, { 125.
+
+21! This project seems to in fact be better characterized as a series or collection of projects, all targeted at
+the same issue (CE-362).
+
+212
+
+Rejoinder on Damages, {| 128.
+213 Phelan Statement IV, {[ 43.
+
+Public Version
+
+The Claimants allege that the Respondent accepts that they are entitled to the shortfall
+as compensation “as a matter of law.” ?' For the Claimants, the Respondent’s
+arguments regarding “ordinary course” spending and compatibility with the Accord
+Acts and Benefits Decisions are an unwarranted attempt to chip away at the Claimants’
+losses.” It is far from clear, argue the Claimants, that they will spend money on R&D
+to meet their shortfall. They may instead simply allow the Board to draw down the
+letters of credit that are held by the Board.?'* In the event that the Claimants do spend
+on R&D to meet the shortfall, and if that spending is “ordinary course,” the Claimants
+will not claim these amounts in future proceedings and this will allow for any necessary
+reconciliation.”'’ The Respondent rejoins that the Claimants’ evidence demonstrates
+that it is in fact likely that they will spend down the shortfall on R&D, and that it is
+inappropriate for this Tribunal to rely on the possibility of future proceedings to
+
+ameliorate the danger of overcompensation that is therefore present.?!*
+
+(b) Majority’s Finding
+
+The Majority finds that the shortfall is only partially compensable.
+
+The Majority observes that the shortfall is comprised of the difference between the
+spending required under the Guidelines over a particular POA period and the total
+spending undertaken by the Projects over that particular POA period. The shortfalls for
+both Projects over the first POA period after implementation of the 2004 Guidelines
+
+(2004 to 2008) were “spent down” fully by the Claimants.?!? However, the shortfalls in
+
+214 Cl, Reply on Damages, { 52.
+215 Cl, Reply on Damages, 53.
+
+216 Cl. Reply on Damages, ‘{ 56; Phelan Statement V, {| 40. The Board would then pay the drawn down
+money a “recognized research or education agency” (see e.g. the terms of Hibernia’s letter of credit issued
+May 19, 2010, clause 2(B) (CE-315) and Terra Nova’s letter of credit issued August 24, 2011 (CE-324)).
+
+27 Cl. Reply on Damages, { 60; Phelan Statement V, 41.
+218 Rejoinder on Damages, {ff 135-137.
+219 Phelan Statement IV, 491 45 and 48.
+
+158.
+
+159.
+
+160.
+
+Public Version
+
+the subsequent POA period, 2009 to 2011 (April 2012 for Hibernia), have, to the best
+
+of our knowledge, not yet been eliminated.”
+
+The Decision has indicated that in principle, shortfall amounts may be compensable, if
+their quantum is ascertainable with sufficient certainty and if there has been a call for
+payment. However, at this time, the Majority finds itself confronted by two key
+challenges: first, whether the Claimants have in fact received a “call for payment.”
+Second, the possibility that the current shortfalls will be mitigated by future ordinary
+
+course expenditures.
+
+Regarding the first issue, the Majority notes that the notification by the Board of the
+shortfall and the attendant actions associated therewith are not a conventional call for
+immediate payment. Rather, they amount to a call for the Claimants to fulfill their
+obligations, with a request for a guarantee. The practice has been that the Board’s
+notification and attendant actions are merely the first steps in a process whereby the
+Claimants may ultimately take several different courses of action to fulfill their
+obligation: via spending on R&D (either incremental or ordinary course); or via
+payment into an R&D fund.””! The letters of credit that are in place are best considered
+an interim measure; they may be amended and adapted to whatever course of action
+
+the Claimants take in meeting the shortfall.???
+
+More crucially, regarding the second issue, the Majority is concerned that
+compensating the entirety of the shortfall, as the Claimants request, may result in pre-
+financing of ordinary course expenditures. The Majority is not comforted in this regard
+by the Claimants’ assurance that any future ordinary course expenditures financed by
+
+this compensation will be off-set in any future claim or reconciliation proceedings.
+
+220 Phelan Statement IV, 491 46 and 49.
+
+221 See Article 4.2 of the 2004 Guidelines. As noted above (see footnote 5 above), the Board has also
+permitted the Claimants to apply spending from subsequent periods to shortfalls from previous periods. The
+Guidelines also permit the opposite of this (excess spending in one POA period to be applied against a
+shortfall in a subsequent period) (Article 4.2 of the 2004 Guidelines).
+
+ 
+
+22 See, e.g. CE-315, clause 6.
+
+223
+
+Damages Hearing Transcript, p.123.
+
+161.
+
+162.
+
+163.
+
+164.
+
+Public Version
+
+The Majority also finds parts of the Respondent’s approach to shortfall problematic. In
+particular, Respondent’s argument that the Accord Acts and Benefit Decisions dictated
+a quantifiable minimal obligation of spending and that some of the Claimants’
+projected shortfall expenditures should be deemed to be in conformity with such
+obligation f for Hibernia, and ia for Terra Nova)? has been found
+
+unconvincing and inapplicable elsewhere herein.”
+
+The Majority feels obligated to develop an understanding of possible spending by the
+Claimants in the immediately foreseeable future that may mitigate the shortfall in the
+specific POA period being examined herein. The Majority notes that the situation with
+respect to shortfall differs between the Projects. As discussed below, there are
+reasonably certain, large future expenditures at Terra Nova that are likely to eliminate
+its existing shortfall completely. The same is not true for Hibernia, and the Projects’
+
+shortfalls are therefore dealt with separately below where relevant.
+
+Whereas the previous shortfall was fully met through the Claimants’ spending, the
+present shortfall has not been extinguished and its final composition is thus currently
+undetermined (whether it will be met by incremental or ordinary course spending, or
+otherwise). As previously mentioned, the Claimants could have extinguished the
+shortfall by placing the full amount into a Board-administered R&D Fund, or insisting
+
+the Board draw down the letters of credit. The Claimants did not do so.
+
+For Terra Nova, as noted above, the Majority finds it reasonably certain that the
+shortfall will cease to exist via projected expenditures on the J which targets
+Eee | is also reasonably certain that, as they have
+done in the past by arrangement with the Board, the Claimants will use the expenditure
+on this project to eliminate the existing shortfall for Terra Nova. The fact that the
+Claimants have sought Board approval for this project is clear indication thereof. Given
+this reasonable certainty that the shortfall for Terra Nova will cease to exist in the
+
+foreseeable future, it is not appropriate, in the Majority’s view, that this Tribunal
+
+24 Counter-Memorial on Damages, {{ 70.
+
+25 See Y 121 above.
+
+165.
+
+166.
+
+Public Version
+
+compensate the Claimants at this time for the existing Terra Nova shortfall. The
+Majority notes that as they have done so in these proceedings, the Claimants may claim
+
+whatever portion of the Jj spending they believe is incremental, in later proceedings.
+
+By contrast, for Hibernia, the Majority accepts that the shortfall is partially
+compensable at present. Both the Claimants and Respondent agree on the initial
+compensability of the shortfall at Hibernia,”® but differ as to the possible future
+ordinary course spending that should be accounted for in the present compensation
+assessment. Whereas the Claimants demand full compensation upfront, but offer not to
+claim resulting pre-financed ordinary course spending in possible future proceedings,
+Respondent suggests applying a historic ratio (based on spending in the 2009-2011
+
+period) to differentiate the Claimants’ future ordinary from incremental spending.”
+
+The Majority was, in the Decision, reluctant to engage in speculative predictions of the
+future.” The Majority does not have the same concerns in using the historical
+incremental spending ratio over this specific POA period (as against some far distant
+past or future period) to estimate what proportion of the current Hibernia shortfall may
+be reduced or extinguished with ordinary course spending. The Majority is acutely
+aware that it cannot predict ordinary course spending well into the future — and neither
+would it be appropriate for it to attempt to do so. However, it is comfortable with the
+projection (based on historical data and practice) it is carrying out for a very narrow
+future time period. The projection allows the Majority to make a reasonable
+approximation of what portion of the shortfall may be met with incremental spending
+and is therefore compensable. This current assessment necessarily leaves unprejudiced
+
+the compensability of shortfall damages over future POA periods, or indeed the
+
+226 See, e.g., Counter-Memorial on Damages, | 73.
+
+227 Counter-Memorial on Damages, | 62; Rejoinder on Damages, {| 133; Walck IV, 9 38. Application of the
+historic spending ratio is only one of three categories the Respondent identifies as necessary deductions to
+the Claimants’ shortfall. However, the Respondent agrees that “the Tribunal can select individual categories
+to be deducted if it does not accept that all deductions should be made.” (Rejoinder on Damages, {] 144).
+
+28 Decision, | 473.
+
+167.
+
+168.
+
+Public Version
+
+compensability of spending not accounted for here, that the Claimants ultimately
+
+believe is incremental.
+
+The Majority therefore accepts, in principle, the application of the historic ratio
+between incremental and ordinary course spending, as suggested by the Respondent.
+However, whilst the Majority accepts this, it believes that the percentage of
+posited by the Respondent requires adjustment. The J figure was derived from
+information regarding the ratio of ordinary course versus incremental spending
+provided by the Claimants. The Respondent’s expert Mr. Walck arrived at the Jy
+figure by examining the 2009 to 2011 spending that was applied (by agreement with
+the Board) to the 2004 to 2008 shortfall. The Majority has adjusted the calculations to
+reflect our findings on historical incremental and ordinary course spending discussed
+above and to include the spending which it has determined was not incremental
+
+spending.”
+
+The Majority has also made some other minor adjustments in calculating the historical
+
+ratio of incremental spending. These adjustments include:
+
+a. calculating the ratio across all spending that was undertaken in that POA
+period, not just across the spending from 2009 to 2011 that was applied to the
+2004 to 2008 shortfall. The Tribunal believes this provides a more accurate and
+
+complete picture, and thus a more accurate historical ratio for present purposes;
+
+b. calculating the ratio over the period 2009 to April 2012, rather than across
+2009 and 2011, as this is the current Hibernia POA period; and
+
+c. calculating the ratio based on Mobil and Murphy’s proportion of the Hibernia
+
+project spend.
+
+~° Specifically, an amount of CDN$ | representing the spending on the
+
+has been added to the Claimants’ incremental spending to calculate the correct ratio.
+
+169.
+
+Public Version
+
+In light of the foregoing, the Majority finds that the applicable historical ratio is yy
+
+incremental spending / gg ordinary course spending. *° The Claimants are therefore
+granted Mj of the claimed shortfall amount for Hibernia of respectively CDN$
+HE (00 Mobil and CDNS gg for Murphy. **' Consequently, Mobil Canada
+is entitled to CDN$ J and Murphy Oil is entitled to CDNS as
+
+compensation for the relevant shortfall.?*
+
+280 The Majority’s calculations (references to “lines” are to Phelan Statement IV, Annex A, Table 2B) were:
+
+Total Hibernia Approved Expenditures 2009- April 2012 (line A): a
+|
+
+Pro rata total Hibernia expenditures:
+
+Mobil (33.125%) =
+
+Murphy (6.5%)
+
+Total pro rata Mobil + Murphy =a
+Incremental expenditures:
+
+Mobil :-
+
+Murphy: aa
+
+Correction for ME to be deducted from total incremental expenditures amount
+
+Pro rata deduction:
+Mobil (33.125 %):
+Murphy (6.5 %):
+
+~. Incremental expenditures:
+Mobi! :
+Mu phy
+
+- Total incremental expenditures Mobil and Murphy 2009-April 2012: Jaa
+
+-. Percentage of incremental expenditures Mobil and Murphy of their total expenditures:
+
+21 See e.g. Walck, Second Report in Response to Claimant’s Damage Submission, Annex 2 page 3.
+
+232 ‘The Tribunal has noted that Messrs. Phelan and Walck, the experts of the Parties, have considered that
+the shortfall should be subject to discounts and interest. In the Tribunal’s view, the shortfall remains a
+nominal amount, which is carried over into the future and either will result in incremental expenditures in the
+future or payment into the Fund. Until such actual expenditure or payment is made, no interest is due.
+
+ 
+
+170.
+
+Public Version
+
+IV. OTHER MATTERS
+
+A.
+
+171.
+
+INTEREST
+
+The Claimants seek compound prejudgment interest on their incremental spending
+compensation from the time of spending to the date of this Award.?*? The Claimants’
+entitlement to prejudgment interest does not appear to be disputed by the Respondent.*¥
+The Claimants have calculated their prejudgment interest at the rate of 12 month
+Canadian dollar LIBOR rate +4, on a calendar year basis.**> The Majority grants interest
+on this basis through to the date of this Award. Such interest is already incorporated
+into the amounts discussed herein in section III.B.*°° However, this interest appears to
+have been calculated and included by the Claimants (calculations that were followed
+by the Respondent) only to the date of their first damages submission (July 23, 2012).?%”
+Thus, interest at the rate of Canadian dollar LIBOR +4, compounded monthly, must be
+added to the amount of incremental expenditure that the Majority has deemed
+compensable above,”* in accordance with the methodology applied by the Claimants
+
+up to July 23, 2012.2
+
+Costs
+
+The Claimants’ legal fees and expenses incurred in the arbitration amount to US$
+8,204,365.40 (up until the Decision the legal fees and expenses amounted to US$
+7,103,207.50 and the remaining US$ 1,101,157.80 pertained to the damages phase of
+
+233 Cl. Mem. on Damages, {{ 23; Phelan Statement IV, 4 31.
+24 Walck Statement V, {| 6; Walck Statement IV, {If 33-34.
+
+235 Cl. Mem. on Damages, {[ 23; Phelan Statement IV, { 31 (“This calculation was performed on a calendar
+year basis; in other words, I assumed that each of the expenditures made in a given calendar year was made
+on December 31 of that year. In the case of Hibernia’s 2012 expenditures, I have assumed that they were all
+made in April 2012”). The Majority notes that it is apparent from Mr. Phelan’s calculations (see Phelan
+Statement IV, Annex A, p.7) that interest has been compounded monthly. As already noted, these calculations
+do not appear to be disputed by the Respondent.
+
+236 See also 138 above.
+
+27 Phelan Statement IV, 31, Annex A (pp. 7-9).
+238 CDNS I due to Mobil Canada and CDNS [ggg due to Murphy Cil., see {| 138 above.
+
+23 See Phelan Statement IV, Annex A, pp. 7-9.
+
+172.
+
+173.
+
+174.
+
+Public Version
+
+the proceeding). They have advanced US$ 525,000 on account of the fees and
+expenses of the Members of the Tribunal and the ICSID administrative fees and
+expenses (the “Arbitration Costs”), and a lodging fee of US$ 25,000. The Claimants
+
+seek an award of the entirety of these costs.
+
+The Respondent’s legal fees and expenses amount to CND$ 5,363,229.70 (CND$
+4,507,481.19 of which related to the proceeding on merits and on principles of
+
+quantum). It has advanced US$ 525,000 to ICSID.**"
+
+The Respondent initially requested that the Claimants be ordered to pay the costs and
+legal fees of Canada.” In its Statement of Costs of August 14, 2013, it requested the
+Tribunal to decide that the Parties should bear their own legal costs and share equally
+the Arbitration Costs. The Respondent argued that (i) ICSID and other tribunals have
+refused to award costs when the claimant failed to establish all alleged treaty breaches
+or recovered significantly less damages than claimed, meaning that there was no
+“unsuccessful party” in those cases; (ii) tribunals have consistently not awarded costs
+against parties that raised legitimate arguments, even if those arguments did not
+ultimately prevail, or where the dispute raised novel issues as in this case; (iii) the
+proceeding involved unnecessary costs due to unscheduled submissions filed by the
+
+Claimants and the Damages Hearing requested by the Claimants.”
+
+In their observations on the Respondent’s Statement of Costs, the Claimants maintained
+their position that the Respondent should bear the Claimants’ legal fees and expenses
+and the Arbitration Costs, arguing that the Tribunal should apply the “Costs Follow the
+
+Event” rule.“ The Respondent counter-argued that the “Costs Follow the Event Rule”
+
+240 Claimants’ Schedules of Costs of November 7, 2011 and August 13, 2014 and Claimants’ submission on
+costs of December 27, 2013.
+
+4! Respondent’s Summary of Costs Incurred by Canada of October 28, 2011, Respondent’s Statement of
+Costs of August 14, 2013.
+
+242 Respondent’s Counter-Memorial of December 1, 2009, {| 387.
+3 Respondent’s Statement of Costs of August 14, 2013, {ff 3-6.
+24 Claimants’ Observations of December 27, 2013, {Ill 1-6.
+
+175.
+
+176.
+
+177.
+
+245
+
+246
+
+Public Version
+
+is not a prevailing principle in investment treaty arbitration and that both the NAFTA.
+
+and the ICSID Additional Facility give full discretion to the Tribunal to award costs.*45
+
+Although the Parties disagree on the allocation of costs, they agree that the Tribunal
+has broad discretion to decide how and by whom the Arbitration Costs and the legal
+costs and expenses incurred by the Parties in connection with the proceeding shall be
+
+borne, pursuant to Article 58 of the Arbitration Rules and the NAFTA.
+
+This case involved novel and complex issues concerning the interpretation of the
+NAFTA and the quantification of damages. The Tribunal asked and addressed many
+questions in this respect, some of which were also addressed to the other NAFTA
+parties. Both Parties raised meritorious arguments, and presented their respective cases
+fairly and professionally, which ultimately lead to a majority opinion and a dissent. The
+need for a second phase of the arbitration on the quantification of the damages shows
+in itself the difficulties faced by the Tribunal. Ultimately, while the Claimants prevailed
+on the merits and were awarded damages on aspects of their claims, they were only
+
+partially successful in regard to these claims.
+
+Having considered all the circumstances of this arbitration, in the exercise of its
+discretion, the Tribunal has concluded that it is fair and appropriate that both sides bear
+the Arbitration Costs in equal share and that each side bears its own legal and other
+
+costs. 4°
+
+Respondent’s Response to the Claimants’ Observations of December 27, 2013, {if 2-3.
+
+The Parties will in due course receive a statement of the account from the ICSID Secretariat. Any
+
+remaining balance will be reimbursed to the Parties in proportion to the payments that they advanced to
+ICSID.
+
+Public Version
+
+Vv. AWARD
+
+178. On the basis of the foregoing, the Tribunal decides:
+
+a.
+
+That Canada shall pay Mobil Canada and Murphy Oil respectively CDN$
+10,310,605 and CDN$ 2,273,635 as compensation for incremental expenditures.
+These amounts shall bear interest at the 12-month Canadian Dollar LIBOR rate
+
++ 4%, compounded monthly, from July 23, 2012 to the date of this Award.
+
+. That Canada shall pay Mobil Canada and Murphy Oil respectively CDN$
+
+3,582,408 and CDN$ 1,127,612 as compensation for shortfall.
+
+That the Parties shall bear their own legal and other costs in relation to this
+
+proceeding, and shall bear the Arbitration Costs in equal share.
+
+Public Version
+
+[Signed]
+
+Professor Hans van Houtte
+President
+
+Dose Hl Fehnency 2015”
+
+[Signed] [Signed]
+Professor Merit E. Janow Professor Philippe Sands
+
+Date: O2 - [7 . (S Date: 1% febuory 2H
+
+58
+

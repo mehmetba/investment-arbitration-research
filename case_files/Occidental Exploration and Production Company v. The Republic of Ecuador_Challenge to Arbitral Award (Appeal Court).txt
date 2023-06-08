@@ -1,0 +1,806 @@
+Neutral Citation Number: [2007] EWCA Civ 656
+Case No: A3/2006/1116
+IN THE SUPREME COURT OF JUDICATURE
+COURT OF APPEAL (CIVIL DIVISION)
+ON APPEAL FROM THE HIGH COURT OF JUSTICE
+QUEENS BENCH DIVISION
+Mr Justice Aikens
+[2006]| EWHC 345 (Comm)
+Royal Courts of Justice
+Strand, London, WC2A 2LL
+
+Date: 04/07/2007
+Before :
+
+SIR ANTHONY CLARKE MR
+LORD JUSTICE BUXTON
+and
+LORD JUSTICE TOULSON
+
+ 
+
+ 
+
+THE REPUBLIC OF ECUADOR Appellant/
+Applicant
+-and -
+OCCIDENTAL EXPLORATION & PRODUCTION Respondent
+COMPANY
+
+Mark Cran QC, Simon Birt and Vaughan Lowe (instructed by Weil Gotshal & Manges) for the
+Appellant/A pplicant
+
+Christopher Greenwood QC and Toby Landau (instructed by Debovese & Plimpton LLP)
+for the Respondent
+
+Hearing dates : 26 & 27 February 2007
+
+Judgment
+Sir Anthony Clarke MR:
+This is the judgment of the court.
+Introduction
+1. This is an appeal from an order of Aikens J made on 2 March 2006 dismissing an
+
+application by the Republic of Ecuador (‘Ecuador’) under section 67 of the Arbitration Act
+1996 (‘the 1996 Act’) to set aside an award of arbitrators for want of substantive
+jurisdiction. The appeal is brought with the permission of the judge, whose judgment is
+
+reported at [2006] 1 Lloyd’s Rep 773. The arbitration was held under the UNCITRAL
+Rules and the seat of the arbitration was London. The arbitration award was dated | July
+2004. By their award, the arbitrators held that they had jurisdiction, made various
+declarations and directed that Ecuador pay the Occidental Exploration and Production
+Company (‘OEPC’) US$71,533,649 together with interest amounting to US$3,541,280.
+As the judge observed, all three arbitrators are well - known and respected public
+international law specialists, namely the Hon Charles N Brower and Dr Patrick Barrera
+Sweeney, who were appointed by OEPC and Ecuador respectively, and the chairman,
+Professor Francisco Orrego Vicuna, who was appointed under article 7 of the
+UNCITRAL Rules.
+
+The dispute between Ecuador and OEPC which gave rise to the award arose in connection
+with a Bilateral Investment Treaty (‘BIT’) between the USA and Ecuador signed on 27
+August 1993 and a contract between OEPC, Ecuador and Empresa Estatal Petroleos de
+Ecuador (‘Petroecuador’), a state-owned corporation of Ecuador, dated 21 May 1999 (‘the
+Contract’). The Contract granted OEPC the exclusive right to carry out the exploration
+and exploitation of hydrocarbons in an area called Block 15 in the Amazon basin region of
+Ecuador.
+
+The dispute giving rise to the arbitration was whether OEPC was entitled to obtain refunds
+of VAT payments that it had made. The VAT payments were on purchases of goods and
+services (both made locally and imported) in connection with the production of oil which
+was subsequently exported in accordance with the Contract. The dispute originally arose
+between OEPC and Ecuador’s Internal Revenue Service (‘the SRI’). When that dispute
+could not be resolved, OEPC invoked the arbitration procedures set out in the BIT and
+started an arbitration against Ecuador. OEPC’s case was that the actions of the SRI (for
+which it said Ecuador was responsible) amounted to breaches of Ecuador’s obligations
+under the BIT, which it is common ground is governed by public international law.
+
+Ecuador issued proceedings in the Commercial Court to set aside the award, relying on
+sections 67 and 68 of the 1996 Act. Ecuador’s principal case was (and is) that the
+arbitrators exceeded their jurisdiction under the BIT. In its turn OEPC challenged the right
+of Ecuador to question the arbitrators’ jurisdiction under section 67. It said that the issue
+of the arbitrators’ jurisdiction was not ‘justiciable’ before the English courts on the ground
+that the arbitration arose out of a treaty between states and was on the plane of public
+international law. On 29 April 2005 Aikens J rejected that challenge and his decision was
+upheld by this court on 9 September 2005. Those decisions are reported at [2005] 2
+Lloyd’s Rep 240 and [2006] QB 432 respectively. The interested reader can learn much
+more about all that in those reports.
+
+So it was that the judge came to hear Ecuador’s challenge to the award under section 67.
+Ecuador also challenged the award under section 68 on the ground that the arbitrators had
+exceeded their powers in such a way as to constitute a serious procedural irregularity in the
+arbitral proceedings, which it said had resulted in a substantial injustice to Ecuador. OEPC
+accepted that the court had jurisdiction to hear and determine that challenge and the judge
+determined the issues under section 67 and section 68 at the same time. The judge rejected
+both challenges and upheld the award. There is no appeal from his decision under section
+68. We should add that OEPC had a contingent cross-application under section 67 which
+
+failed before the judge and in respect of which the judge refused permission to appeal. In
+these circumstances this appeal arises solely out of the rejection by Aikens J of Ecuador’s
+challenge to the jurisdiction of the arbitrators under section 67 of the 1996 Act.
+
+6. Ecuador’s essential case is that the arbitrators made an award in respect of claims by
+OEPC that were “matters of taxation” and that by reason of the exclusion clause in Article
+X of the BIT, such matters fell outside the ambit of the BIT and so could not be the subject
+of a claim in arbitration under the dispute resolution procedure set out in Article VI. In
+response, the only ground upon which OEPC now says that the arbitrators had jurisdiction
+is by reason of the exception to that exclusion contained in Article X.2(c).
+
+The BIT
+
+7. The nature of a BIT treaty is now well known and is described in some detail in the reports
+of the judgments of both Aikens J and this court on 29 April and 9 September 2005. We
+do not repeat those descriptions here save so far as is necessary to determine the narrow
+question in dispute in this appeal. As the judge put it at [8] of his judgment, BITs are
+effectively treaties that acknowledge the principle of public international law called the
+‘doctrine of diplomatic protection’. They give investors, here OEPC, protection by giving
+them ‘standing’ to pursue a state directly in ‘investment disputes’ between an investor and
+a state party to the BIT in ways that are set out in the BIT.
+
+8. This court has previously held that the BIT confers or creates direct rights in international
+law in favour of OEPC. As the judge said at [9], those rights come into existence, at the
+least, at the point when investors pursue claims in one of the ways provided by Article VI
+of the BIT. The BIT was signed in Washington on 27 August 1993 and came into force
+on 22 April 1997. It was in the form of the then current prototype US model and was
+submitted to President Clinton for approval. Both parties relied upon the Letter of
+Submittal which included the following:
+
+“Article X (Tax Policies)
+
+The Treaty exhorts both countries to provide fair and equitable
+treatment to investors with respect to tax policies. However, tax
+matters are generally excluded from the coverage of the prototype
+BIT, based on the assumption that tax matters are properly covered
+in bilateral tax treaties.
+
+The Treaty, and particularly the dispute settlement provisions, do
+apply to tax matters in three areas, to the extent they are not subject
+to the dispute settlement provisions of a tax treaty, or, if so subject,
+have been raised under a tax treaty's dispute settlement procedures
+and are not resolved in a reasonable period of time.
+
+The three areas where the Treaty could apply to tax matters are
+expropriation (Article III), transfers (Article IV) and the
+observance and enforcement of terms of an investment agreement
+or authorization (Article VI (1) (a) or (b)). These three areas are
+important for investors, and two of the three -- expropriatory
+
+taxation and tax provisions contained in an investment agreement
+or authorization -- are not typically addressed in tax treaties.”
+
+9. In his judgment the judge correctly summarised at [12] the structure of the BIT, as he had
+done in his earlier judgment, as follows:
+
+“(1) The Preamble sets out the aim of the Treaty, which is to
+promote greater economic cooperation and investment between the
+Contracting Parties (ie. the two signatory States), but on a defined
+and agreed basis.
+
+(2) Article I sets out various definitions. “Investment” is defined
+broadly and this definition is relevant in the current dispute.
+
+(3) Article II sets out the basis on which each Contracting Party
+will permit and treat investment. The general principle is that
+investments of nationals and companies of either Party will receive
+either “national treatment or most favoured nation treatment”
+whichever is the better. Article II also provides that the Parties will
+ensure that investment will have fair and equitable treatment
+according to international law standards. This Article was central to
+the arbitration and relevant to the current challenge.
+
+(4) Article II deals with expropriation or nationalisation of
+investments. Expropriation or nationalisation of investments is not
+to take place either directly or indirectly except for a public purpose
+and on defined conditions. Article III is relevant to OEPC’s
+contingent cross — challenge to the arbitration tribunal’s apparent
+conclusion that it did not have jurisdiction to deal with OEPC’s
+allegations of expropriation.
+
+(5) Article IV deals with transfers, particularly of funds, that are
+related to an investment. The State Parties agree to permit transfers
+to be made freely and without delay in and out of their territories.
+
+(6) By Article V the Parties agree to consult promptly to resolve
+any disputes in connection with the Treaty.
+
+(7) Article VI deals with the resolution of “investment disputes”
+between a State Party and a national or company of the other State
+Party. Its terms, together with those of Article X, are central to
+these applications.
+
+(8) Article VII concerns the resolution of disputes between the two
+Parties to the treaty, ie. USA and Ecuador. If necessary, disputes
+are to be submitted to an arbitral tribunal, for binding decision “in
+
+accordance with the applicable rules of international law”.
+
+(9) Article X deals with the tax policies of each Party and provides
+that the tax policies of each State Party should strive to accord
+fairness and equity in the treatment of investments of nationals and
+
+11.
+
+companies of the other Party. Article X states that the provisions of
+the Treaty, in particular Articles VI and VII will not apply to
+matters of taxation except only to a limited extent, as set out in the
+Article. This Article is central to the disputes I have to rule on.”
+
+The judge noted that in Article I the definition of ‘Investment’ provided:
+
+“Investment means every kind of investment in the territory of one
+Party owned or controlled directly or indirectly by nationals or
+companies of the other Party, such as equity, debt, and service and
+investment contracts.”
+
+The judge set out large parts of the BIT in Appendix 1 to his judgment. The interested
+reader can study them there; so we do not reproduce them again here. The critical articles
+for present purposes are Articles VI and X. Article VI(1) provides that investment
+disputes between a party to the BIT (Ecuador) and a national of the other party (OEPC)
+may be submitted to arbitration in accordance with the provisions of the Article. Article
+VI(1) defines an investment dispute as
+
+“a dispute between a Party and a national or company of the other
+Party arising out of or relating to (a) an investment agreement
+between that Party and such national or company; (b) an
+investment authorization granted by that Party’s foreign investment
+authority to such national or company; or (c) an alleged breach of
+any right conferred or created by this treaty with respect to an
+investment .”
+
+Article X(2) provides, so far as relevant:
+
+“... the provisions of this Treaty, and in particular Article VI and
+VII, shall apply to matters of taxation only with respect to the
+
+following:
+(a) expropriation, pursuant to Article III;
+(b) transfers, pursuant to Article IV; or
+
+(c) the observation and enforcement of terms of an investment
+
+agreement or authorization as referred to in Article VI(1)(a) or (b),
+
+to the extent that they are not subject to the dispute settlement
+provisions of a Convention for the avoidance of double taxation
+between the two Parties, or have been raised under such settlement
+provisions and are not resolved within a reasonable period of
+
+time.”
+
+Both the arbitrators and the judge held that the dispute concerned the observance and
+
+enforcement of terms of an investment agreement within the meaning of Article X(2)(c),
+with the consequence that the provisions of the BIT, including in particular Article VI were
+applicable. The question in this appeal is whether the arbitrators and the judge were correct
+so to hold. We note in passing that at [111] the judge accepted that OEPC had not relied
+upon Article X(2)(c) before the arbitrators. The matter was however argued because (as
+the judge said at [113]) it was Ecuador’s own case that only Article X(2)(c) might apply
+but that on its true construction it did not apply on the facts. The arbitrators disagreed with
+Ecuador’s case on construction and held that they had jurisdiction. It was not argued
+before the judge that OEPC could not rely upon Article X(2)(c): see [111] to [114]. Nor
+was it argued before us.
+
+The Contract
+
+12.
+
+The background facts are set out at [1] to [36] of the award and [1] to [35] of the
+judgment. It is not necessary to repeat them here in any detail, OEPC had a long-standing
+commercial relationship with Petroecuador and its predecessor. Under the Contract OEPC
+obtained the exclusive right to carry out the exploration and exploitation of hydrocarbons
+in Block 15 and assumed virtually all the costs of doing so. It also had to pay VAT on
+any expenses it incurred. In return for its obligations under the Contract, it received a
+percentage of the oil, which it was permitted to export. This was called “Contractor
+Participation”. Clause 8.1 of the Contract set out a method of calculating the Contractor
+Participation in terms of the percentage to which it was entitled. The calculation included
+the calculation of a key component called “Factor X”, which itself involved the use of an
+elaborate formula.
+
+The arbitrators held that the negotiations between the parties proceeded on the common
+understanding that, although VAT would be payable by OEPC, it would subsequently be
+refunded to OEPC. They further held, which was not in dispute, that initially OEPC made
+regular applications to the SRI for the reimbursement of VAT which it had paid and that
+such reimbursement was made on a regular basis. However, in 2001 the Ecuadorian
+authorities changed their position. By Resolution 664 of 28 August 2001 the SRI denied
+OEPC’s claims for refunds for the period October 2000 to May 2001 and stated the SRI
+view that reimbursement was already effected under the Contract on the basis that Factor
+X already took account of the fact the OEPC paid VAT and in effect compensated OEPC
+in respect of its liability for VAT. By Resolution 234 of 1 April 2002 the SRI annulled
+previous “Granting Resolutions” and ordered OEPC to return previous amounts
+reimbursed with interest. There followed other resolutions denying the right to refunds
+including Resolution 406 of 31 January 2003 and Resolution 026 of 6 March 2003.
+
+The Head of the SRI, Ms de Mena, gave evidence to the arbitrators to the effect that “the
+State has the right to deal with tax questions via contractual modalities” and that it was the
+SRI’s view that Ecuador had done so in the Contract by providing reimbursement through
+Factor X. The arbitrators rejected the submission that the Contract provided
+reimbursement of VAT through Factor X but held that OEPC was entitled to such
+reimbursement under the Contract. They held that OEPC was entitled to retain the refunds
+which had been made by SRI and that it was entitled to reimbursement of the VAT which
+the SRI had refused to refund.
+
+Mr Cran stresses on behalf of Ecuador that OEPC did not make a claim against
+Petroecuador under the Contract and that its claim in the arbitration was brought entirely
+under the BIT. That is true but in our judgment of no real significance. The BIT creates
+rights and obligations as between OEPC and Ecuador. OEPC is entitled to enforce those
+rights, regardless of whether it could enforce similar rights against Petroecuador under the
+Contract. The significance of the Contract is that the position under it is directly relevant to
+answering the critical question, namely whether the judge was right to hold that the
+exception in respect of matters of taxation was excluded by Article X(2)(c) of the BIT.
+And the crucial parts of the arbitrators’ conclusions on the facts are quoted at [34] of the
+judgment and at [18] below.
+
+The judgment
+
+16.
+
+17.
+
+The judge summarised at [27] to [33] the issues of jurisdiction which were before the
+arbitrators and how they resolved them. There were three such issues but this appeal is
+concerned only with what the judge called the second jurisdictional issue. He summarised
+Ecuador’s case on this issue as follows at [27(2)]:
+
+“.. Occidental’s claims were precluded by the terms of Article X
+of the BIT, because the claims for breaches of the BIT arising out
+of the alleged failure to refund VAT (save for the claim of
+expropriation) did not fall within the matters of taxation embraced
+in paragraphs (a), (b) and (c) of Article X.2. Therefore the claims
+based on Article II of the BIT could not be pursued, because, as
+they concerned matters of taxation, they were outside the scope of
+the Treaty and outside the arbitration provisions of Article VI of
+the BIT.”
+
+The judge then described the arbitrators’ conclusions on this issue thus at [28] to [32]:
+
+“28. On the second jurisdictional issue, the Tribunal concluded
+that the key was the proper construction of Article X of
+the BIT. The arbitrators described Ecuador’s argument
+that all matters of taxation were outside the Treaty, apart
+from the specific categories mentioned in Article X.2(a),
+(b) and (c), as “not persuasive”. Nevertheless, the
+arbitrators went on to consider whether the dispute fell
+within one of the three paragraphs of Article X.2(a), (b)
+or (c). They said the relevant question in this dispute was:
+“...whether the observance and enforcement of the terms
+of an investment agreement concerning matters of
+taxation is at issue in this dispute”.
+
+29. The Tribunal concluded that the Contract was an
+“investment agreement” for the purposes of Article X.
+They held that the dispute found its origin in the Contract,
+“insofar as it is disputed whether VAT reimbursement is
+
+included in Factor X”. The arbitrators said that this point
+had been brought up by Ecuador itself. It meant that there
+
+was a dispute “concerning the observance and
+enforcement of the contract, which brings the tax dispute
+squarely within the exceptions of Article X and hence
+within the jurisdiction of the Tribunal”.
+
+30. The arbitrators emphasised that, at the heart of the dispute
+between the parties was the issue of what had been taken
+into account in calculating Factor X in the Participation
+Contract. Had the VAT refund been secured by the
+calculation of Factor X in the Participation Contract, so
+that it was fair of the SRI to pass Resolutions that denied
+Occidental the right to a refund of VAT (as Ecuador
+argued)? Or had the refund not been secured by Factor X,
+in which case the denial of a right to a refund in
+accordance with Ecuador’s Tax Law was unfair (as
+OEPC argued)?
+
+31. The Tribunal concluded that the dispute, “one way or the
+other, [thus] is clearly subject to the dispute settlement
+provisions of the Treaty”. That conclusion
+“automatically” brought in the standards of treatment of
+Article II, including “fair and equitable treatment” as
+required under Article II.
+
+32. On this second jurisdictional question the award
+concludes, at paragraph 77, that
+
+“The Tribunal accordingly finds that, because of
+the relationship of the dispute with the observance
+and enforcement of the investment Contract
+involved in this case it has jurisdiction to consider
+the dispute in connection with the merits insofar as
+a tax matter covered by Article X may be
+concerned, without prejudice to the fact that
+jurisdiction can also be affirmed on other grounds
+
+as respects Article X as explained above”.
+
+18. The judge then summarised the arbitrators’ conclusions on the merits at [34]:
+
+“... (1) the VAT refund was not within Factor X as calculated in
+accordance with the Participation Contract. (2) Accordingly,
+Occidental was entitled to have the VAT refunded under both
+Ecuadorian law and also Andean Community Law. (3) Because
+the VAT refunds had not been made, Ecuador was in breach of its
+obligation (under Article II.1 of the BIT) to accord Occidental a
+treatment no less favourable than that accorded to nationals or other
+companies. (4) Ecuador had also breached its obligations
+concerning fair and equitable treatment as required by Article II.
+3(a) of the BIT. (5) The claim that Ecuador had impaired the
+operation of Occidental’s investment by arbitrary measures
+(contrary to Article II.3(b) of the BIT) was only partially upheld.
+
+20.
+
+21.
+
+This was because the SRI had not acted deliberately to deprive
+Occidental of the VAT refunds; rather this had resulted from “an
+overall rather incoherent tax legal structure”. That confusion and
+lack of clarity resulted in “some form of arbitrariness, even if not
+intended by the SRI”. However, the Tribunal concluded that this
+arbitrariness had not caused any impairment of the management,
+operation, maintenance, use, enjoyment, acquisition, expansion or
+disposal of the investment of OEPC, so could not give rise to any
+further claim for breach of the BIT by OEPC.”
+
+It was on the basis of those conclusions, especially those at (1) to (4), that the arbitrators
+concluded that the breaches of Articles II(1) and II(3)(a) of the BIT had caused OEPC
+damage, that it could retain the VAT refunds it had received and that it was entitled to the
+refunds which had been withheld.
+
+It was not in dispute before the judge (or before us) that the Contract was an “investment
+agreement” within the meaning of Article VI(1)(a) and therefore Article X(2)(c). It was,
+as we understand it, accepted before the judge (and indeed initially before us) that the
+relevant “matters of taxation” were the issues underlying OEPC’s claim or the nature of
+the real dispute between the parties. However, in the course of Mr Cran’s concluding
+submissions before us on behalf of Ecuador, he submitted that the relevant matter of
+taxation was, as he put it in a written summary of Ecuador’s concluding submissions,
+simply Ecuador’s refusal to reimburse VAT paid on relevant inputs, without regard to
+Ecuador’s defence at the arbitration to an enquiry into the question whether the
+reimbursement of VAT had been included in the contractual formula. However, in our
+opinion, the judge was correct to say at [107] that the dispute between Ecuador and OEPC
+was whether, in the circumstances, Ecuador’s decision that OEPC was not entitled to a
+refund of VAT was a breach of Ecuador’s obligations under Articles II and III of the BIT
+and that that dispute involved matters of taxation, ie the VAT payments. The judge was
+correct to hold that “the provisions of the Treaty, and in particular Article VI’ did not apply
+unless those matters of taxation were “with respect to the observance of terms” of the
+Contract. As the judge observed at [46], the real issues before him were the extent of the
+exclusion and how the exclusion operated in the context of the dispute.
+
+The judge spelled out the respective submissions of the parties in considerable detail.
+Having done so, he concluded at [79] that, given the structure of the BIT and the nature of
+OEPC’s claim in the arbitration, it was inevitable that the court must examine not only the
+scope of the dispute resolution provisions in the BIT, but also the way in which the parties
+presented the dispute to the arbitrators. It followed that he would have to have regard to
+the factual aspects concerning the merits of OEPC’s claim and Ecuador’s defence to it,
+whilst taking care not to deal with the merits of OEPC’s claims. He concluded that the
+court had to consider first the nature of the dispute between the parties and then whether,
+on the true construction of the BIT, and Article X(2) in particular, the arbitrators had
+jurisdiction to determine the dispute. In our judgment, that was the correct approach.
+
+At [80] to [87] the judge set out the parties’ submissions and concluded at [88] that Mr
+Greenwood was correct in his submission on behalf of OEPC that, in order to determine
+whether Ecuador was in breach of its obligations under the BIT, the arbitrators had to
+
+22.
+
+23.
+
+24.
+
+consider the basis on which OEPC made its investment in Ecuador. They had to
+investigate and determine what OEPC’s legitimate expectations were by the time the
+Contract was concluded in May 1999, including in particular what Ecuador and OEPC
+understood the position was on the repayment (if any) of VAT paid by OEPC. The judge
+held that, in order to consider those questions the arbitrators had to look into the factual
+background of the negotiations of the Contract and it also had to analyse the terms of the
+Contract itself. We agree with those conclusions.
+
+We further agree with the judge at [91] that were it not for the fact that the current dispute
+concerned the question of VAT refunds, the dispute between the parties would fall within
+Article VI(1)(a) and (c) of the BIT. That is because the Contract is an “investment
+
+agreement” within the meaning of Article VI(1)(a) and the dispute arises out of or relates
+to the Contract and because the dispute arises out of or relates to an alleged breach by
+Ecuador of rights conferred or created by the BIT with respect to an investment within
+Article VI(1)(c) of the BIT. However, since the dispute involves “matters of taxation”
+within the meaning of Article 10(2), Article VI applies only with respect to one or more of
+the circumstances set out in paragraphs (a), (b) or (c) of Article X(2). Only paragraph (c)
+is now relied upon. As we see it, the reference in paragraph (c) to “terms of an investment
+agreement ... as referred to in Article VI(1) (a) ...” is simply a reference back to the terms
+of the relevant investment agreement and thus here to the Contract. It cannot be sensibly
+suggested that those terms were or are “subject to the dispute settlement provisions of a
+
+Convention for the avoidance of double ation between the two Parties”, or that they
+
+“have been raised under such settlement provisions and ... not resolved within a
+reasonable period of time”. It follows that the question is simply whether Article VI
+applies to matters of taxation in respect of “the observance and enforcement of terms of”
+
+the Contract.
+
+We agree with the conclusions of the judge at [92] to [94] that the parties to the BIT
+intended that generally all matters of taxation should be outside the scope of the BIT and
+that unless a particular matter of taxation comes within the ambit of paragraph (a), (b) or
+(c), it is outside the scope of the BIT.
+
+There were essentially two questions before the judge which are relevant to this appeal.
+The first is whether the claim falls within the ambit of Article X(2)(c) and the second is
+whether, if so, all the rules set out in the BIT, including those in Articles II and III, applied
+to such “matters of taxation” as are covered by Article X(2)(a), (b) and (c). The judge
+considered the second question first, at [96] and [97]. He then considered the first
+question at [98] to [109]. The judge resolved both issues in favour of OEPC. We will
+consider first the correct approach to construction of the BIT, then the first and second
+questions in turn.
+
+Discussion
+
+25.
+
+The correct approach to the construction of a provision of the BIT is not significantly in
+dispute. The BIT is governed by public international law and, as a treaty, its construction
+
+is governed by the rules on treaty interpretation which are set out in the Vienna Convention
+on the Law of Treaties 1969. It is agreed between the parties that these rules represent
+customary international law and that we must apply them.
+
+The judge set out part of Article 31.1 of the Vienna Convention at [90] of his judgment.
+Mr Cran observes that he did not include Article 31.2. We therefore include it below,
+although we are not persuaded that the judge’s failure to quote it is of any significance.
+Article 31 is part of Section III, which is entitled “Interpretation of Treaties”. Article 31 is
+itself entitled “General rule of interpretation” and provides:
+
+“1. A treaty shall be interpreted in good faith in accordance with
+the ordinary meaning to be given to the terms of the treaty in their
+context and in the light of its object and purpose.
+
+2. The context for the purpose of the interpretation of a treaty shall
+comprise, in addition to the text, including its preamble and
+annexes:
+
+(a) any agreement relating to the treaty which was
+made between all the parties in connexion with the
+conclusion of the treaty;
+
+(b) any instrument which was made by one or more
+parties in connexion with the conclusion of the
+treaty and accepted by the other parties as an
+instrument related to the treaty
+
+3. There shall be taken into account, together with the context:
+
+(a) any subsequent agreement between the parties
+regarding the interpretation of the treaty or the
+application of its provisions;
+
+(b) any subsequent practice in the application of the
+treaty which establishes the agreement of the parties
+regarding its interpretation;
+
+(c) any relevant rules of international law applicable in
+the relations between the parties.
+
+4. A special meaning shall be given to a term if it is established
+that the parties so intended.”
+
+Article 32 is entitled “Supplementary means of interpretation”. It provides:
+
+“Recourse may be had to supplementary means of interpretation,
+including the preparatory work of the treaty and the circumstances
+of its conclusion, in order to confirm the meaning resulting from
+the application of article 31, or to determine the meaning when the
+interpretation according to article 31:
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+(a) _ leaves the meaning ambiguous or obscure; or
+
+(b) leads to a result which is manifestly absurd or
+unreasonable”.
+
+In the light of Articles 31 and 32 of the Vienna Convention there is little, if any, dispute
+between the parties as to the correct approach to construction of the BIT. It is, for
+example, common ground that the Submittal Letter is an aid to its construction.
+
+We accept Mr Greenwood’s submission that the object and purpose of a BIT (including
+this BIT) is to provide effective protection for investors of one state (here OEPC) in the
+territory of another state (here Ecuador) and that an important feature of that protection is
+the availability of recourse to international arbitration as a safeguard for the investor. In
+these circumstances it is permissible to resolve uncertainties in its interpretation in favour
+of the investor: see eg the views of the arbitrators in paragraph 116 of their award in SGS v
+Philippines (2004) 8 ICSID Reports 515.
+
+It is common ground that the expression “observance and enforcement” should be
+construed disjunctively. Ecuador suggests that because of the reference in Article X(2)(c)
+to “the observation and enforcement of terms” of the Contract (our emphasis) the
+exclusion only applies where OEPC would have a claim for damages for breach of a term
+of the contract. However, in our judgment, that is to construe Article X(2)(c) too
+narrowly. Some assistance is to be gleaned in this regard from the Spanish text, which
+uses the term “observancia y el complimiento” for “observance and enforcement”. As Mr
+Greenwood submits, “complimiento” would more naturally translate into English as
+“performance” or fulfilment’. We accept Mr Greenwood’s submission that the
+observance of the Contract was precisely what the SRI claimed to be upholding in its
+decision on VAT reimbursement. Its decisions were based on what it regarded or asserted
+to be the observance of the Contract.
+
+We do not think that the reference to “terms” should be given too narrow a meaning. It
+does not mean express or implied terms in the sense those expressions are used in
+common law jurisdictions. We accept Mr Greenwood’s submission that the question is
+whether OEPC’s claim for reimbursement of VAT entails a departure from its bargain as
+set out in the Contract. This was what the judge essentially held at [100] and [101]. We
+agree with his conclusion at the end of [101], where he said:
+
+“Tn short, I think that, on its proper interpretation the phrase “terms
+of the investment agreement” means “the contractual bargain
+embracing all the parties’ obligations pursuant to the investment
+agreement”.
+
+Earlier at [98] and [99] the judge had considered what was meant by “with respect to” in
+the expression “with respect to ... the observance and enforcement of terms of an
+investment agreement”. He held that it was an expression which was broad in effect and
+that it simply meant that there must be a link between the matters of taxation and the
+observance and enforcement of the terms of the Contract. Here there was such a link
+because Ecuador, through the SRI, claimed reimbursement or payment of the VAT on the
+
+32.
+
+33.
+
+basis that such reimbursement was contemplated by the contract because the contract price
+included VAT through Factor X. Unfortunately for Ecuador, the arbitrators held that
+Factor X did not include VAT but that the contract was made on the footing that ary VAT
+paid would be refunded to OEPC.
+
+The judge spelled that out in detail at [103] to [108]. We agree with the judge’s
+conclusions in those paragraphs. It is sufficient for us to quote only [107] and [108] with
+which we agree:
+
+“107. The dispute between Ecuador and OEPC that was before
+the Tribunal was whether, in the circumstances,
+Ecuador’s decision that OEPC was not entitled to have a
+refund of VAT was a breach of Ecuador’s obligations
+under Articles II and III of the BIT. That dispute involved
+a matter of taxation, ie the VAT payments. But in my
+view, the dispute also involved a matter of taxation that
+“had reference to” the “performance” of the “obligations
+of the Contract”.
+
+108. — Ihave reached this conclusion for three particular reasons.
+First, the matter of the right to a VAT refund or not had
+reference to the obligations of OEPC to do all that was
+necessary to exploit the oil in Block 15, including the
+obligation to build all systems needed for that exploitation,
+because the VAT was paid in respect of purchases made
+in pursuance of that obligation of OEPC. Secondly, the
+question of a VAT refund had reference to the
+performance of OEPC’s contractual obligation to pay all
+taxes according to Ecuador’s laws. The dispute was
+whether that contractual obligation was concluded on the
+assumption or understanding that there would be a refund
+of VAT paid. Thirdly, the VAT refund question had
+reference to the underlying assumptions of the parties as
+to the “economy” of the Contract which formed the basis
+of the bargain contained in the Contract’s terms: was the
+assumption that VAT would be repaid or not? The
+underlying assumptions of the parties as to the
+“economy” of the contract [were] fundamental to how the
+Contract terms were to be observed and enforced.”
+
+Mr Cran submits that those conclusions are inconsistent with the terms of the Submittal
+Letter, which is an important aid to construction of the BIT. As already stated, we agree
+that the Submittal Letter is indeed an aid to construction and, no doubt, an important one.
+As Mr Cran observes, the judge set out the relevant part of the letter at [11] of his
+judgment. We in turn have set it out at [8] above. Mr Cran relies in particular upon the
+last sentence of the Submittal Letter as showing that the United States understood the
+exception in Article X(2)(c) as referring to “tax provisions contained in an investment
+agreement” and thus to the terms of the Contract properly so called.
+
+34.
+
+35.
+
+36.
+
+37.
+
+However, Mr Greenwood submits in response that the Submittal Letter supports OEPC’s
+approach to Article X(2) in four respects:
+
+i) it reinforces the conclusion drawn from the Preamble of the BIT that its object and
+purpose was to achieve a broad system of protection for the investor;
+
+ii) it reinforces the conclusion drawn from the text of Article X(2) that the object and
+purpose of Article X(2) was to avoid conflicts between the regime of double
+taxation conventions and that of BITs;
+
+iii) its statement that “the Treaty, and particularly the dispute resolution provisions, do
+apply in three areas” is incompatible with the notion advanced by Ecuador that
+Article X(2)(a) to (c) is essentially a provision for jurisdiction over particular types
+of claim, since the language used, namely the reference to applicability of the
+provisions of the BIT generally (and not individual provisions) supports the
+gateway analysis discussed below; and
+
+iv) it makes clear that one of the “areas” to which the BIT is applicable is “tax
+provisions contained in an investment agreement” and that this area is one not
+normally covered by double taxation conventions.
+
+We accept those submissions. We further accept the submission that, although the Letter
+is an aid to construction of the BIT, the language of the Letter was not intended to have
+contractual effect but was an attempt to précis the position in lay terms for the benefit of a
+Senate Committee. In any event, it seems to us that the use of the term “tax provisions” in
+the Letter is broad enough to embrace the contractual bargain regarding tax payments and
+the participation factor which was part of the Contract.
+
+In all the circumstances, like the judge, we conclude that OEPC’s claim falls within the
+exception to “matters of taxation” in Article X(2)(c). We answer the first question
+accordingly and turn to the second question, which has been called the gateway question.
+
+The question is whether, assuming that the judge was correct to hold that OEPC’s claim
+falls within the exception to “matters of taxation” in Article X(2)(c), all the rules set out in
+the BIT, including those in Articles II and III, applied to it. The judge held that it did. He
+accepted Mr Greenwood’s submission that, once it was held that the claim did not involve
+an excluded matter of taxation, the gateway to the other relevant provisions of the BIT was
+opened. As we understand it, his reasons, which are to be found at [96] and [97] of his
+judgment can be summarised in this way:
+
+i) The opening words of Article X(2) show that Articles VI and VII of the BIT apply
+to the matters of taxation which are not excluded because they provide that “the
+provisions of this Treaty, and in particular Articles VI and VII, shall apply to
+matters of taxation only with respect to” those matters which are included in
+paragraphs (a), (b) or (c).
+
+ii) Article VI contains the dispute resolution provisions as between the investor
+(OEPC) and the state (Ecuador), which include arbitration in accordance with
+UNCITRAL Rules.
+
+iii) Article X(2) does not limit the provisions of the BIT to disputes between the state
+and the investor which are expressly applied or (put another way) not expressly
+excluded by Article X. On the contrary, it simply provides that “the provisions of
+this Treaty” apply. As the judge expressed it at [96], “those words are clear and so
+must be given their ordinary meaning”.
+
+iv) This interpretation accords with the object and purpose of the BIT. The treaty sets
+out how the contracting parties will treat investors and their investments. The
+judge concluded:
+
+“Article X(2) accepts that, within a limited and defined scope.
+“matters of taxation” will affect both investors and investments
+and so need to be within the BIT provisions. Therefore it is logical
+that, to the extent of the scope defined in Article X(2), the
+Contracting Parties should agree that all the rules set out in the BIT,
+including those in Articles II and III, should apply to such
+“matters of taxation” as are covered by Article X(2)(a), (b) and
+().”
+
+v) In these circumstances the judge held at [97] that it was unnecessary to rewrite the
+opening words of Article X(2) and that, once a claim comes within (say) Article
+X(2)(c), that means that “the provisions of this Treaty, and in particle Articles VI
+and VII, shall apply”. Those provisions include Articles II and III.
+
+38. We agree with the judge for the reasons he gave. Mr Cran submits that not all the
+provisions of the BIT will be relevant in this context and there are good reasons why the
+parties would not have wished to include Articles II and III. We agree that there are some
+provisions which would not be capable of applying but that is not true of Articles II and
+III. The parties could have agreed to exclude Articles II and III from the scope of Article
+X. They did not do so. Indeed, they expressly included a reference to Article III in
+paragraph (a). They chose which matters of taxation were to be excluded and which were
+not. In our judgment, once it is held that they did not exclude the matters of taxation
+relevant in this situation, there is no reason in principle not to apply Articles II and III to
+them as well as Articles VI and VII. Of course, whether, for example, Article II would
+apply on the facts of any particular case will depend upon the circumstances of that case.
+Here it has been held to apply. As we see it, the answer to this second question follows
+from the answer given to the first question.
+
+CONCLUSIONS
+
+39. It follows that, in our opinion, the judge answered both questions correctly and that he was
+right to dismiss Ecuador’s challenge to the jurisdiction of the arbitrators under section 67
+of the 1996 Act. In essence, we see no reason why the parties should not have agreed that
+
+Article II of the BIT was applicable to the facts of this case. The rights and obligations in
+Article II (and indeed III) of the BIT are expressed in different terms from the way in
+which the rights and obligations of the parties to the Contract are expressed in the Contract.
+They are nevertheless binding on Ecuador and OEPC under the BIT. The arbitrators were
+entitled, as they did in the passage quoted by the judge at [34] and set out at [17] above, to
+hold that
+
+“\.. (1) the VAT refund was not within Factor X as calculated in
+accordance with the Participation Contract. (2) Accordingly,
+Occidental was entitled to have the VAT refunded under both
+Ecuadorian law and also Andean Community Law. (3) Because
+the VAT refunds had not been made, Ecuador was in breach of its
+obligation (under Article II.1 of the BIT) to accord Occidental a
+treatment no less favourable than that accorded to nationals or other
+companies. (4) Ecuador had also breached its obligations
+concerning fair and equitable treatment as required by Article II.
+3(a) of the BIT. ...”
+
+40. For the reasons we have given, which are essentially those given by the judge, we
+conclude that the arbitrators had jurisdiction to determine whether Ecuador was in breach
+of the terms of the BIT. We therefore dismiss the appeal.
+

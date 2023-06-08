@@ -1,0 +1,1494 @@
+ 
+
+Neutral Citation Number: [2021] EWHC 3422 (Comm
+
+Case No: CL-2020-000545
+IN THE HIGH COURT OF JUSTICE
+BUSINESS AND PROPERTY COURTS OF ENGLAND AND WALES
+
+QUEEN’S BENCH DI ON
+COMMERCIAL COURT
+
+Royal Courts of Justice, Rolls Building
+Fetter Lane, London, EC4A 1NL
+
+ 
+
+Date: 15 December 2021
+Before :
+
+MR JUSTICE ANDREW BAKER
+
+Between :
+GOLD POOL JV LIMITED Claimant
+- and -
+THE REPUBLIC OF KAZAKHSTAN Defendant
+
+Graham Dunning QC, Professor Malcolm Shaw QC and Edward Ho
+(instructed by Jones Day) for the Claimant
+Ali Malek QC and Cameron Miles
+(instructed by Curtis, Mallet-Prevost, Colt & Mosle LLP) for the Defendant
+Hearing dates: 13, 14 December 2021
+
+Approved Judgment
+
+Gold Pool y Kazakhstan
+
+Mr Justice Andrew Baker Wednesday, 15 December 2021
+(12:14 pm)
+
+Judgment by MR JUSTICE ANDREW BAKER
+
+Introduction
+
+1.
+
+This claim concerns an Agreement for the Promotion and Reciprocal Protection of Investments
+concluded between Canada and the USSR in Moscow on 20 November 1989 that entered into force
+
+on 27 June 1991 (“the FIPA”).
+
+. The defendant (“Kazakhstan”) came into being as part of the dissolution of the USSR as the
+
+successor state to the USSR in respect of the territory of the Soviet Socialist Republic of
+Kazakhstan, one of the USSR’s member republics. It is common ground that Russia declared itself
+to be, and was accepted by the international community as, the continuation of the USSR for public
+international law purposes. So Kazakhstan was, and is, a successor to, but not the continuation of,
+
+the USSR.
+
+. The claimant (“Gold Pool’) claims that in or about August 1997, it was deprived of a valuable
+
+investment in Kazakhstan causing it loss it has claimed can be quantified at over US$900 million.
+Gold Pool says that the circumstances of the case entitle it to compensation from Kazakhstan if the
+FIPA was binding between Canada and Kazakhstan at the material time. It is common ground that:
+qd) Canada and Kazakhstan concluded no succession treaty in respect of the FIPA providing in
+terms for that result.
+
+(2) As a successor state, Kazakhstan could have succeeded to the FIPA impliedly through
+words or conduct (often referred to in this field, not entirely helpfully, as a ‘tacit’ agreement). As.
+Kazakhstan put it in the skeleton argument from Mr Malek QC, “A tacit agreement will exist where
+the successor state ... has indicated by words or conduct that it considers itself to have succeeded to
+a treaty of the predecessor state ... and the other state party to that treaty ... indicates by words or
+
+conduct that succession is accepted such that the Treaty is in force between them”.
+
+wn
+
+Gold Pool y Kazakhstan
+
+(3) There is no requirement as to form in respect of an implied succession agreement, but the
+
+parties must be ad idem.
+
+. The FIPA contained an arbitration agreement providing investors of either contracting state with a
+
+right to refer to arbitration, in accordance with the Arbitration Rules of the United Nations
+Commission on International Trade Law, any dispute with the other contracting state relating to the
+effects of a measure taken by that state on the management, use, enjoyment or disposal of qualifying
+investments. Gold Pool commenced arbitration against Kazakhstan in respect of its asserted investor
+protection claim in March 2016, purportedly pursuant to that arbitration agreement, upon the basis,
+as it alleged, that there had been an implied succession agreement between Canada and Kazakhstan
+in respect of the FIPA. By an award dated 30 July 2020, the arbitrators found that they lacked
+jurisdiction ratione voluntatis in respect of Gold Pool’s claim because, in their view, Gold Pool had
+
+failed to establish any such agreement.
+
+. That award followed a full hearing of all issues as to jurisdiction and as to merits, without prejudice
+
+to the objection to jurisdiction, the arbitrators having refused an application by Kazakhstan to
+bifurcate the arbitral proceedings to deal with jurisdiction first and separately. By the award, the
+arbitrators declared that Kazakhstan did not succeed to the FIPA and that the FIPA was not in force
+between Canada and Kazakhstan at the date of the award, upheld Kazakhstan’s objection to
+jurisdiction ratione voluntatis and declared that they had no jurisdiction to entertain Gold Pool’s
+
+claim, ordered costs (and interest on costs) against Gold Pool, and formally rejected all other claims.
+
+The s.67 Claim
+
+6.
+
+By this claim, Gold Pool seeks the setting aside or variation of parts of the award under s.67
+Arbitration Act 1996. At the start of the first day of the hearing, I directed that it should continue in
+public, reversing a direction I made on paper for it to be in private under the default rule of CPR
+
+62.10(3)(b). The existence, nature and outcome before the arbitrators of the jurisdictional issue in
+
+Gold Pool y Kazakhstan
+
+the case is in the public domain, and the issue is of public interest. Neither party objected to sitting
+in public, and I concluded that it was in the interests of justice to do so. There will be no need to
+anonymise any part of this judgment in any report of it.
+
+. The nature of a s.67 claim, and the approach to be adopted by the court, requires no substantial
+elaboration on this occasion. It involves and requires a rehearing de novo by the court in which the
+arbitrators’ conclusions have no legal or evidential weight. I agree with the explanation of the
+position in GPF GP Sarl v Republic of Poland [2018] EWHC 409 (Comm), per Bryan J at [64] to
+[70]. It has been said that nonetheless the arbitrators’ conclusions and reasons may be of interest
+rather more often than it has been explained why that might be so. For example, in Dallah Real
+Estate v Pakistan [2010] UKSC 46 at [160], Lord Saville (no less) said that “The findings of fact
+made by the arbitrators and their view of the law can in no sense bind the court, though of course
+the court may find it useful to see how the arbitrators dealt with the question” without explaining
+why a court might find it useful to look at conclusions that have neither legal nor evidential weight
+before it.
+
+In Republic of Korea v Dayyani et al, [2019] EWHC 3580 (Comm) at [26], Butcher J said that “A
+
+challenge under section 67 proceeds by way of a de novo rehearing of the jurisdiction issue(s). The
+
+ 
+
+award of the arbitrators has no automatic legal or evidential weight. Nevertheless, and given that
+the arbitral tribunal has considered the same issues, the court will examine the award with care and
+interest. If and to the extent the reasoning is persuasive, then there is no reason why the court
+should not be persuaded by it.” That idea needs to be applied with a degree of caution however as
+the court’s task is to decide the case as presented to it by a party on the rehearing, as Bryan J
+explained in GPF v Poland at [70]. It should generally be for the parties to decide for themselves to
+what extent they each may wish to adopt any reasoning of the arbitrators as an argument of their
+
+own in court. In short, a s.67 claim does not operate by way of a review of the arbitrators’ decision.
+
+9.
+
+Gold Pool y Kazakhstan
+
+In the present case, in fact the arbitrators formulated the applicable legal rule accurately in the award
+and both parties accept as much. The arbitrators stated the rule in these terms: “... States may agree
+to continue a pre-existing treaty relationship following the emergence of one of them as a new State
+and such agreement may be either explicit or tacit and may lack the ordinary formalities associated
+with the conclusion of a new treaty. ... whether this represents the formation of a new legal
+agreement between the States concerned, or constitutes an agreement confirming succession to an
+earlier agreement represent[s] fine shades of nuance, but in either view the existence of an
+
+agreement is paramount.”
+
+. The question is whether, applying that rule to the facts, there was an implied succession agreement
+
+here. The case advanced by Gold Pool is a confined one that raises almost no disputed question of
+fact. Gold Pool claims that Canada and Kazakhstan impliedly agreed that Kazakhstan had succeeded
+to the FIPA such that it applied between them and bound them:
+
+qd) by paragraph 3 of a Declaration of Economic Co-operation between Canada and Kazakhstan
+signed between the two countries at Alma-Ata on 10 July 1992 in English, French, Kazakh and
+Russian (“the 1992 Declaration’’);
+
+Alternatively
+
+(2) by Note 43/94 dated 13 April 1994 from the Canadian Embassy in Almaty to the
+Kazakhstan foreign ministry, unsigned but stamped by the Embassy, and the latter’s signed reply
+dated 21 April 1994 although signed the previous day (“the 1994 Exchange”);.
+
+Alternatively
+
+(3) by a recital referring to the FIPA in a Trade Agreement between the Government of Canada
+and the Government of the Republic of Kazakhstan, signed between the two governments at Ottawa
+on 29 March 1995 in English, French, Kazakh and Russian, all four texts being said to be equally
+
+authentic (“the 1995 Recital” and “the Trade Agreement”).
+
+11.
+
+Gold Pool y Kazakhstan
+
+Since the views of the arbitrators in the very case before the court have no legal or evidential
+weight, all the more so the views of arbitrators in a different case considering the same or a similar
+question between different parties. Another Canadian company, World Wide Minerals Limited,
+together with Paul A Carroll QC, brought an investor protection claim against Kazakhstan pursuant
+to the FIPA alleging, as does Gold Pool, an implied succession agreement by reference to the 1992
+Declaration, the 1994 Exchange and the 1995 Recital. The arbitrators in that case decided that they
+
+did have jurisdiction on that basis.
+
+. An attempt by Kazakhstan to challenge that decision out of time under s.67 failed: State Party A v
+
+Party B et al [2019] EWCH 799 (Comm). It seems that the claim subsequently succeeded on the
+merits, although there was then a successful challenge under s.68 of the 1996 Act to the resulting
+damages award, with remission to the arbitrators, as it was held by the court that the arbitrators had
+awarded damages on a basis that Kazakhstan had not had a fair opportunity to address: Republic of
+
+Kazakhstan v World Wide Minerals Limited et al [2020] EWHC 3068 (Comm).
+
+. The award on jurisdiction in that case was considered by the arbitrators in this case, and referred to
+
+by the parties before me, especially by Gold Pool. Inasmuch as Mr Dunning QC chose to adopt
+passages of reasoning in that award in argument, they can be considered as such, i.e. as arguments.
+of Gold Pool and nothing more. I found unhelpful submissions by Mr Dunning seeking to compare
+the experience and expertise of the two sets of arbitrators as if the awards were expert evidence on
+the question I have to decide and my task was or included a choice as to which expert opinion to
+
+prefer.
+
+. Certain materials from the World Wide Minerals case in addition to the award on jurisdiction were
+
+also in evidence before me. To the limited extent they, or for that matter parts of the award,
+provided hearsay evidence as to matters of fact, they were in principle admissible in this claim
+
+(leaving aside questions of relevance or weight) in respect of any fact-finding that might be
+
+Gold Pool y Kazakhstan
+
+required, but that is a different point and it does not make the evaluation of the issue by the
+arbitrators in that case, or the reasons they gave for their decision, admissible evidence in this claim
+as to whether on whatever facts have been proved there was an implied succession agreement as.
+
+alleged by Gold Pool.
+
+The Main Facts
+
+15. For Gold Pool, Mr Dunning QC submitted, at all events as a primary argument, that an opinion or
+
+1
+
+7.
+
+understanding on the part of Canada or Kazakhstan, uncommunicated to the other, as to whether
+Kazakhstan had succeeded to the FIPA, was of little or no weight in determining whether agreement
+
+to that effect had been reached, expressly or impliedly. I agree, but I would be more definite.
+
+. An uncommunicated opinion or understanding on either side is irrelevant in this case, because it
+
+concerns the meaning and effect of the express consensus ad idem contained in the 1992
+Declaration, 1994 Exchange or the 1995 Recital respectively. This is not a case about whether it is
+properly to be inferred from evidence not itself evidence of an agreement that an agreement must
+have been reached. It is about the purport and effect of express, documentary accords.
+
+The fact that Canada or Kazakhstan had a certain State understanding — to the extent that were
+proved, which might be far from trivial — or the fact that an individual with some capacity to
+represent or act for Canada or Kazakhstan had a certain opinion, might make it more or less likely
+that Canada or Kazakhstan, or that individual, might have said or done something at a time when
+that understanding or opinion was held so as to make it relevant to a determination of a dispute
+about some such point or fact. However, the very limited element of factual dispute here does not
+
+involve any consideration of that kind.
+
+18. With this account of the main facts therefore, I focus only on facts that were inter partes between
+
+Canada and Kazakhstan, or that were public acts or statements by either of them intended, looking at
+
+the matter objectively, for consumption by the other (it may be amongst many others too).
+
+19.
+
+20.
+
+2
+
+22.
+
+Gold Pool y Kazakhstan
+
+Mr Dunning QC also submitted, again at all events as his primary argument, and again I agree with
+his submission, that subsequent expressions of view inter partes as to the meaning or effect of the
+1992 Declaration, or the 1994 Exchange or the 1995 Recital respectively, cannot influence or alter
+their true meaning and effect. An expression of view inter partes after one of them and before
+another of them might be capable of influencing an objective understanding of the latter, but not the
+former, applying Mr Dunning’s proposition here endorsed. No argument of estoppel arising after the
+fact as to the meaning of a prior agreement, if a doctrine of that kind would be known in this field,
+was advanced.
+
+In setting out the main facts now, therefore, I take matters only as far as July 1996 when Kazakhstan
+
+ratified the trade agreement.
+
+. Taking matters chronologically, then, I start by identifying some Soviet era treaties other than the
+
+FIPA to which reference is made in some of the post-Soviet materials with which I am concerned:
+first, a Long Term Agreement Between the Government of Canada and the Government of the
+USSR to Facilitate Economic, Industrial, Scientific and Technical Co-operation signed in Ottawa on
+14 July 1976 (“the 1976 Agreement”); second, an Agreement Between the Government of Canada
+and the Government of the USSR for the Avoidance of Double Taxation on Income signed in
+Moscow on 13 June 1985 (“1985 DTA”).
+
+As I noted at the outset, the FIPA was signed in Moscow on 20 November 1989 and came into force
+on 27 June 1991. It was thus a glasnost/perestrioka era treaty from President Gorbachev’s time in
+power as the USSR took steps to move away from the Cold War and engage more with the West.
+On Canada’s side, the evidence I have is that the FIPA was one of the first bilateral investment
+protection treaties concluded after Canada began negotiating such treaties for the first time in 1989.
+
+The other investor protection treaties resulting from that initial foray into the field by Canada were
+
+23.
+
+24.
+
+25.
+
+26.
+
+Gold Pool y Kazakhstan
+
+treaties with Argentina, Czechoslovakia, Hungary, Poland and Uruguay. History now tells us that as.
+the FIPA was thus coming into force in the summer of 1991, the end of the USSR was nigh.
+
+On 19 August 1991, several thousand soldiers, supported by tanks and armoured personnel carriers,
+were mobilised to Moscow in an attempt by hardliners to depose President Gorbachev. They failed
+and within three days the attempted coup had collapsed and President Gorbachev returned to
+Moscow. But his position, and potentially that of the USSR as a federal state, had been fatally
+weakened. A few days later President Gorbachev resigned and in the period that followed the USSR.
+was dissolved. The pre-existing Soviet Socialist Republics declared their independence as new
+states and the three Baltic States resumed their earlier sovereignty, as did Russia. In particular,
+Kazakhstan proclaimed itself a sovereign state on 25 October 1991 and formally seceded from the
+USSR on 16 December 1991 when it declared its own independence.
+
+In early December 1991, the then Presidents of Russia, Ukraine and Belarus met in the Belavezha
+forest in a final attempt to agree a new union treaty. The negotiations were unsuccessful, and in the
+absence of a new federal union treaty the three leaders decided to dissolve the USSR and create a
+new body, the Commonwealth of Independent States or “CIS”.
+
+The CIS was thus formally created by an Agreement establishing the Commonwealth of
+Independent States dated 8 December 1991 (“the CIS Agreement”). It was originally signed by
+those three originators — Russia, Ukraine and Belarus — and by a protocol dated 21 December 1991
+(“the CIS Protocol”) Kazakhstan, along with a number of other USSR successor states, agreed to be
+bound by it upon its ratification. In conjunction with the CIS Protocol, the parties to it also issued
+what has become known as the Alma-Ata Declaration, which set out a number of principles to
+which the signatories committed themselves.
+
+Article 12 of the CIS Agreement stated that the contracting parties undertook to discharge the
+
+international obligations incumbent on them under treaties and agreements entered into by the
+
+Gold Pool y Kazakhstan
+
+former USSR. To similar effect, the Alma-Ata Declaration pronounced amongst other things that
+the states participating in the CIS guaranteed, in accordance with their constitutional procedures, the
+discharge of the international obligations deriving from treaties and agreements concluded by the
+former USSR. They undertook to each other by the Alma-Ata Declaration, as States participating in
+
+the CIS, to comply strictly with that principle.
+
+. Three months later, on 13 March 1992, the CIS member states concluded an Agreement on
+
+Principles of Tax Policy (“the CIS Tax Policy Agreement”). That agreement therefore was signed
+amongst others by Kazakhstan. Its Article 4 referred back to Article 12 of the CIS Agreement and
+stated: “Jn accordance with [Article 12 of the CIS agreement] the parties shall ensure the
+performance of treaties that were concluded earlier by the Union of Soviet Socialist Republics with
+foreign states for the avoidance of double taxation of income and property.” Plainly, in the case of
+
+Kazakhstan, that would include the 1985 DTA with Canada.
+
+. At about this time, more specifically on 19 or 20 March 1992, Mr Ghani Kasimov, the chief foreign
+
+policy adviser to President Nazarbayev of Kazakhstan and himself a former deputy foreign minister,
+met with a Mr Quraishi, a representative of Canada’s Department of External Affairs and
+International Trade. Mr Kasimov was assessed by Canada, so far as I can see reasonably so at the
+time, as being the real power in Kazakhstan so far as concerned its nascent foreign policy as a new
+
+independent state.
+
+. At his meeting with Mr Quraishi, Mr Kasimov was recorded in a reporting cable sent to Canadian
+
+diplomats a few days later as having discussed with Mr Quraishi what were expressed to be
+Canada’s concerns in respect of Kazakh foreign policy which had been set out in a then recent letter
+from Canadian Prime Minister Mulroney to President Nazarbayev that had apparently landed on Mr
+
+Kasimov’s desk for consideration. Mr Kasimov is recorded as having sought to reassure the
+
+30.
+
+3
+
+32.
+
+33.
+
+Gold Pool y Kazakhstan
+
+Canadian representatives that Kazakhstan was “intent on honouring all international commitments
+inherited from the USSR including agreements on human rights, debt and nuclear weapons”.
+
+It will be no surprise, given the historical context of the end of the Cold War, that matters
+concerning nuclear weaponry were at the forefront of all international concerns and their dialogue
+with the succession States of the USSR in the early months of the collapse of the union, but plainly
+
+the reassurance was not limited to those particular and significant concerns.
+
+. At the same time, on 20 March 1992, the Council of the Heads of State of the members of the CIS
+
+issued a Decision (“the CIS Council Decision’), which was therefore signed, amongst others, by
+Kazakhstan, which stated, amongst other things: “Having reviewed a series of issues relating to
+succession with respect to treaties of mutual interest ... the heads of state have decided: (1) to
+acknowledge that all Member States of the Commonwealth of Independent States are successors to
+the rights and obligations of the former USSR ...”.
+
+A few months later, on 6 July 1992, the CIS States, again including Kazakhstan, concluded a
+Memorandum on Mutual Understanding on the issue of legal succession in respect of the treaties of
+the former USSR having mutual interest (“the Moscow Memorandum”). Without reviewing here the
+terms of the Moscow Memorandum in detail, it may be said that it envisaged the possibility under
+public international law of succession by the successor states to the USSR to both multilateral and
+bilateral treaties entered into by the former USSR, and was otherwise unspecific as to methods by
+which any such succession would, in the case of any given successor state, or any given treaty, be
+achieved or implemented if desired.
+
+That brings me to the 1992 Declaration concluded on 10 July 1992. It was signed for Canada by Mr
+Michael Wilson, Minister for International Trade, and for Kazakhstan by Mr Syzdyk Abishev,
+
+Minister of Foreign Economic Relations. It provided, inter alia, as follows:
+
+Gold Pool v Kazakhstan
+
+“Canada and Kazakhstan, inspired by the traditional links of economic co-operation which exist
+between them, and persuaded that market-based free enterprise forms the basis for greater
+prosperity, declare that:
+
+1. Canada and Kazakhstan will seek to begin negotiations on a more modern bilateral
+agreement on economic co-operation by I January 1993 with a view to replacing the [1976
+Agreement]. This agreement will create more appropriate conditions for the development of
+economic co-operation between Canada and Kazakhstan, taking into account the new realities
+which have appeared.
+
+2. The two countries recognise that economic restructuring and progress towards a market-
+based economy in Kazakhstan is creating expanded opportunities for business co-operation.
+Kazakhstan’s increasing role in international economic institutions dedicated to a more open global
+trading system and liberalised investment regime is also acknowledged ...
+
+3. Confident that a liberalised market-based system enhances the efficiency of national
+economies, Canada welcomes the ongoing transition of Kazakhstan towards a market economy.
+Both countries are conscious of the already substantial level of trade and economic co-operation
+between them. The two countries are resolved to facilitate sustained efforts to consolidate, develop
+and diversify their economic co-operation in accordance with [the FIPA] and [the 1985 DTA].
+
+4. Canada and Kazakhstan also recognise the broader and more diversified links between
+their respective business communities are of increasing interest. Greater efforts will be made to
+optimise contacts between government agencies, public institutions, enterprises and industry
+associations such as the Canada-Kazakhstan Business Council. The two countries are resolved to
+
+promote the activities of their respective business sectors in furthering joint endeavours. ...
+
+34.
+
+35.
+
+36.
+
+Gold Pool y Kazakhstan
+
+6. Canada and Kazakhstan will undertake to promote trade and investment missions,
+commercial exhibitions and seminars, exchange of commercial and technological marketing
+information, business and institutional linkages and other initiatives which bring together potential
+partners. ...
+Continuing at this stage just the chronology of the main facts, in January 1993 Kazakhstan adopted a
+transitional constitution, Article 7 of which provided that: “/nternational treaties of the USSR shall
+apply in the Republic of Kazakhstan to the extent they do not contradict this Constitution, laws and
+international treaties of the Republic of Kazakhstan. Contradictory provisions of said treaties shall
+become null and void as provided by Republic of Kazakhstan law.”
+By then, that is by early 1993, Canada and Kazakhstan were in the early stages of negotiating what
+eventually became the Trade Agreement in 1995, and a joint Declaration on Principles of Mutual
+Relations eventually executed along with the Trade Agreement on 29 March 1995 (“the Mutual
+Relations Declaration’).
+In December 1992, Canadian officials in Alma-Ata met Ms Gulnara Sattarova, the Chief of the
+Legal and Treaty Department of the Kazakhstan Ministry of Foreign Economic Relations, to discuss.
+the draft Trade Agreement as it then stood. The Canadian participants promptly reported to Canada
+from the Embassy in Moscow, with a summary of the key points of the discussion with Ms.
+Sattarova. That note included the following:
+“FORMER AGREEMENTS WITH USSR: GS [i.e. Ms Sattarova] SAID THEY DID NOT WANT
+REFERENCE TO PREVIOUS AGREEMENTS CONCLUDED WITH USSR, PREAMBULE
+[sic.| SHOULD RATHER MAKE REFERENCE TO DECLARATION ON ECONOMIC CO-
+OPERATION SIGNED DURING MIN WILSON VISIT IN JULY [i.e. the 1992 Declaration].
+
+WHEN WE EXPLAINED THAT REFERENCE TO PAST AGREEMENTS IN OUR DRAFT WAS
+
+12
+
+37.
+
+38.
+
+Gold Pool y Kazakhstan
+
+BASED ON SUCCESSOR OBLIGATIONS, E.G. REGARDING INVESTMENT PROTECTION,
+MADE EXPLICIT IN [the 1992 Declaration], SHE INTIMATED KAZAKHSTAN WOULD
+PREFER TO START NEGOTIATING NEW AGREEMENT ON INVESTMENT PROTECTION
+(POINT WHICH MFA [i.e. the Ministry of Foreign Affairs] HAD MADE EARLIER TO US)
+AND NOT HAVE REFERENCE TO FORMER AGREEMENT IN TRADE AGREEMENT.
+FORMER AGREEMENT WITH USSR WAS OBSOLETE AND DID NOT TAKE INTO
+ACCOUNT NEW INDEPENDENCE OF KAZAKHSTAN.”
+Ms Sattarova, in a witness statement provided to the arbitrators in this case, attempted to add what
+Mr Dunning QC in my judgment rightly characterised as a subjective and very belated gloss to this
+note by claiming that she “could not have meant that the [FIPA] continued to be in force and had
+merely become outdated”. Her evidence indeed went on to claim an ability almost 25 years later to
+recall more precisely that what she had said was that: “Jn order to have bilateral guarantees of
+investment protection between Kazakhstan and Canada it was necessary to conclude a new bilateral
+investment agreement because the former Canadian agreement with the USSR was not applicable to
+Kazakhstan upon the gaining of independence by Kazakhstan.”
+In my judgment it is highly improbable, to the point of fanciful, to suppose that Ms Sattarova might
+be able to recollect so many years after the fact so precisely what she said during the conversation,
+and Canada’s contemporary note of it is far more likely to be an accurate record of the gist of what
+she said. That said, as it seems to me, what she is recorded by way of gist to have said might have
+been intended to convey that the FIPA was not in force and a fresh treaty was required if there was.
+to be bilateral investment protection of the sort provided by such a treaty. Equally though, as it
+seems to me, the gist as recorded was capable of being understood as conveying no more than that
+the treaty concluded during the existence of the USSR would, in Kazakhstan’s view, need to be
+
+updated and replaced, but nonetheless would be regarded as applicable in the meantime.
+
+13
+
+Gold Pool y Kazakhstan
+
+39. In response it would seem to Ms Sattarova’s comments at the December 1992 meeting, as reported
+by the Canadian officials at the Moscow embassy, on 26 January 1993, the Deputy Director, Central
+and Eastern Europe Trade Development Division of Canada’s Ministry of External Affairs and
+International Trade, circulated a memo seeking comments on an attached draft telex to Moscow
+intended to form the basis for further discussions with Kazakh representatives. The draft telex
+included the following quote:
+
+“REFERENCES TO FORMER AGREEMENTS WITH THE USSR IN THE PREAMBLE AND
+ELSEWHERE IN THE AGREEMENT REFLECT CONTINUITY AND ARE IN LINE WITH THE
+ALMA-ATA DECLARATION OF DEC91 WHERE KAZAKHSTAN AND OTHER FSU STATES
+COMMITTED THEMSELVES TO RESPECT INTERNATIONAL OBLIGATIONS OF THE
+USSR. KAZAKHSTAN IS A SUCCESSOR STATE AND THESE REFERENCES
+DEMONSTRATE KAZAKH COMMITMENTS TO UPHOLD EXISTING OBLIGATIONS. IT IS
+FAR PREFERABLE FOR BUSINESS DEVELOPMENT BETWEEN OUR TWO COUNTRIES
+THAT KAZAKHSTAN MAINTAIN ITS COMMITMENTS UNDER THE AGREEMENTS SUCH
+
+AS [the FIPA] AND [the 1985 DTA]
+
+IF, HOWEVER, KAZAKH IS INTENT ON REMOVING USSR REFERENCES FROM
+
+PREAMBLE, WE WOULD REQUIRE A CLEAR UNEQUIVOCAL WRITTEN STATEMENT
+
+THAT KAZAKHSTAN WAS BOUND AND CONTINUES TO BE BOUND BY THE
+
+REFERENCED TRADE AND ECONOMIC AGREEMENTS SIGNED BY THE USSR. THIS
+STATEMENT WOULD NOT NEED TO BE CONTAINED IN THE AGREEMENT.”
+
+40. Mr Dunning QC submitted that, given the references to agreements in the plural, and specifically to
+
+both the FIPA and the DTA, in the context of a discussion of the preambles as they then stood in the
+
+draft for what became the Trade Agreement, I should find by inference that the draft, as it stood at
+
+14
+
+4
+
+Gold Pool y Kazakhstan
+
+that time, indeed referenced, presumably in similar or equivalent terms, both of those treaties; that is
+to say, both the FIPA and the 1985 DTA. In my judgment, that is a fair inference and I do make that
+finding. It is reinforced by the proposition in fact agreed between the parties that, in the Trade
+Agreement as ultimately concluded in March 1995, the 1985 DTA was not merely omitted, but
+
+reference to it in a prior draft had at some stage been removed.
+
+. On | February 1993, the Director of the Economic and Trade Law Division provided comments on
+
+the draft telex to Moscow. The two paragraphs I quoted were redrafted by the director to read as
+
+follows:
+“WE DO NOT AGREE WITH KAZAKHSTAN’S SUGGESTION OF REMOVING REFERENCES
+IN DRAFT AGREEMENT TO TREATIES BETWEEN CANADA AND THE FSU AND REASONS
+FOR REQUESTS ARE UNCLEAR. GRATEFUL YOU SEEK CLARIFICATION ON THIS
+POINT AND CONFIRM WITH KAZAKHSTAN THAT IT CONTINUES TO BE BOUND BY
+TREATIES AND AGREEMENTS BETWEEN CANADA AND FSU. FOR YOUR INFO, IN THE
+ALMA-ATA DECLARATION OF DECEMBER 1991, FSU SUCCESSOR STATES AGREED TO
+RESPECT THE FSU’S INTERNATIONAL OBLIGATIONS IN ACCORDANCE WITH THEIR
+
+CONSTITUTIONAL PROCEDURES.
+
+WE CAN AGREE TO REMOVE REFERENCES TO CANADA-FSU TREATIES IN PREAMBLE
+ONLY IF WE RECEIVE A CLEAR AND UNEQUIVOCAL WRITTEN STATEMENT FROM
+KAZAKHSTAN THAT IT IS BOUND AND CONTINUES TO BE BOUND BY THESE
+
+AGREEMENTS ... THIS STATEMENT NEED NOT BE CONTAINED IN THE AGREEMENT.
+
+GRATEFUL YOU SEEK KAZAKHSTAN’S ASSURANCES THAT IT CONSIDERS ITSELF
+
+BOUND TO IMPLEMENT THE UNDERTAKINGS GIVEN TO CANADA IN THE [FIPA]”.
+
+15
+
+42.
+
+43.
+
+44.
+
+4S.
+
+Gold Pool y Kazakhstan
+
+Mr Dunning QC invited the inference, as a matter he suggested of overwhelming inherent
+probability, that although a message as ultimately sent by way of instruction for any next round of
+negotiations has not been located, instructions along the lines of those indicated in those drafts for
+the telex to Moscow will have been sent. It seems to me again that that is a fair inference to draw,
+although going beyond that, to seek to make any finding as to what exactly was then said, when, and
+what response was made by Kazakhstan, at any next round of negotiations by reference to those
+instructions would become an exercise in speculation.
+
+So far as the chronology of main events is concerned, I move on over a year to April 1994. Early
+that month Kazakhstan’s then Deputy Minister of Foreign Affairs, Mr Gizzatov, met with the
+Canadian Chargé d’ Affaires, Mr Michael Vujnovich. In a diary entry made by Mr Gizzatov that has
+only emerged within the process of document retrieval within the litigation quite recently, Mr
+Gizzatov recorded himself as having emphasised that Kazakhstan would like to sign the Trade
+Agreement and the Mutual Relations Declaration in the course of what was then a proposed visit of
+Prime Minister Tereshchenko of Kazakhstan to Canada.
+
+Towards the end of the diary note, Mr Gizzatov records that he was asked for a comment or opinion
+concerning the status of former treaties as entered into between the USSR and Canada, and that he
+had responded that: “now they do not have legal force as the USSR as a state no longer exists and
+besides it had a planned economy. While Kazakhstan is transitioning to a market economy, its draft
+treaties and agreements reflect these realities.”
+
+At this time, as indicated by that diary note, advanced drafts appear to have been in existence for the
+Mutual Relations Declaration. They, however, included an express statement as to treaty succession
+to opposite effect to the view thus apparently expressed by Mr Gizzatov. Thus, a draft of the
+Declaration was circulated within the Canadian Department of Foreign Affairs and International
+
+Trade on 28 March 1994 for comment. Paragraph 13 of that draft said: “Taking into consideration
+
+16
+
+46.
+
+47.
+
+Gold Pool y Kazakhstan
+
+the fact that Kazakhstan is a successor state of the former Soviet Union, the parties agree that
+international treaties which have been concluded between the union of Soviet socialist republics and
+Canada remain in force until different provisions are made”. Internally still, on 14 April 1994, the
+Trade Law Department provided comments on that draft. Their comment on draft paragraph 13 was:
+“Canada takes the position that under international law a successor state is bound by agreements
+and treaties entered into by the former state. Thus, Kazakhstan, as a successor state to the USSR, is
+bound by treaties entered into by Canada and the USSR. Accordingly you may wish to discuss with
+JLAB/Fraser whether paragraph 13 is necessary.” To the extent that that expressed a view
+internally, it would seem, that succession might occur automatically by some operation of public
+international law upon the fact of Kazakhstan becoming an established successor state, and although
+not instructed to concede the incorrectness of that proposition, Mr Dunning QC has pursued no
+claim based upon any such possible contention.
+
+There is no evidence that I have seen as to whether a Canadian draft including that paragraph 13, or
+the particular draft there being discussed, found its way to Kazakhstan. However, it is clear that at
+about this time a Kazakh draft had gone to Canada, and indeed had done so by about the time of Mr
+Gizzatov’s comment, paragraph 9 of which Kazakh draft provided that: “Jnternational treaties
+which had been concluded between the USSR and Canada remain in force until the sides make
+different provisions.”
+
+That, then, was the context for the 1994 Exchange: Mr Gizzatov’s comment in his meeting with the
+Canadian Chargé d’Affaires, on the one hand; what Kazakhstan was apparently indicating its
+position to be, through the draft Mutual Relations Declaration, on the other hand. The Canadian
+Embassy to Kazakhstan therefore presented Note 43/94, dated 13 April 1994, to the Kazakh Foreign
+
+Ministry. It said:
+
+48.
+
+49.
+
+Gold Pool y Kazakhstan
+
+The Ministry of Foreign Affairs of Canada would also be grateful for a clarification of the
+statement that all previous agreements relating to the former Soviet Union are now null and
+void [I infer, a reference to Mr Gizzatov’s statement]. This appears to be at variance with
+paragraph 9 of the Kazakhstan draft declaration on principles of mutual relations which states:
+‘International treaties which had been concluded between the USSR and Canada remain in
+force until the sides make different provisions’.”
+The Kazakh ministry of affairs replied by its note dated 21 April 1994 in the following terms: “The
+Ministry confirms the provision in paragraph 9 of the draft declaration on principles of mutual
+relations between the Republic of Kazakhstan and Canada, as it is stated in the draft which was
+transmitted to the Canadian side for consideration. That said, the Kazakhstani side would like to
+inform of its intention to commence the revision of the early operating treaties between the USSR
+and Canada and to enter into new treaties of a bilateral basis.”
+Interrupting the chronological account of the facts, to dispose of one particular point along the way,
+it was suggested in his written skeleton argument by Mr Dunning QC that the 1994 Exchange was.
+an example of an Exchange of Notes which is “... in modern times the most frequently used device
+for formally recording the agreement of two governments on all kinds of transactions” and a “very
+convenient and flexible instrument for treaty makers”, as it is put by I Roberts in Satow’s
+Diplomatic Practice (7th Edition) 2016, at paragraphs 33.16 and 33.17 (see also Oppenheim’s
+International Law (9th Edition) 1992, at paragraphs 586 and 601 for a discussion). In my judgment,
+
+not so.
+
+. I agree with Mr Malek QC, not only because of, although reinforced by, examples that are in
+
+evidence of an Exchange of Notes such as is there described, that what is described in Satow and
+Oppenheim is, in truth, a formal, express treaty-making mechanism, albeit one that is recognised
+
+internationally as involving different, in a sense lesser, formalities than a fully-fledged formal treaty
+
+18
+
+5
+
+52.
+
+53.
+
+Gold Pool y Kazakhstan
+
+typically requiring subsequent contracting party ratifications. The 1994 Exchange, whatever it is or
+is not, is not an Exchange of Notes, such as would then have been immediately recognised as, and in
+
+all probability registered in Canada’s registry of treaties as, a new formal treaty.
+
+. Returning to the chronology, a second diary note of Mr Gizzatov has relatively recently been
+
+retrieved dated 1 September 1994. It is his record of a discussion he had with a Mr J P Armstrong,
+described in the diary entry as a Counsellor at the Canadian Embassy in Moscow. The note indicates.
+that Mr Gizzatov was asked about the progress of economic reforms in Kazakhstan, and historically
+a most interesting dialogue appears to have ensued. Passing over those elements, the conversation as.
+noted by Mr Gizzatov moved on to the fact that Kazakhstan had forwarded drafts for new treaties or
+bilateral agreements, co-operation agreements, with Canada for its consideration, including what
+would become the Trade Agreement and the Mutual Relations Declaration, and (it seems) early
+drafts for what might become new bilateral treaties on the promotion and protection of investments
+and on the avoidance of double taxation.
+
+Mr Gizzatov records himself as having commented that: “Aft the present time many Canadian
+
+c ies are doing business in Kazakhstan and it is necessary to legally set the framework of their
+
+ 
+
+activities for businessmen for which the latter two documents [that is a new investment protection
+treaty and a new double taxation agreement] are quite important. We are not insisting on signing
+these documents by the Canadian side, but would not like that the Prime Minister’s visit turns out to
+be a touristic trip.”
+
+On 3 November 1994, the Supreme Council of the Republic of Kazakhstan adopted a Resolution
+(“the 1994 Resolution”), having reviewed the question of the possible application in the territory of
+Kazakhstan of double taxation agreements concluded between the USSR and other states, in the
+
+following terms:
+
+Gold Pool y Kazakhstan
+
+“To terminate effective from I January 1995 the application in the territory the Republic of
+Kazakhstan the conventions on the avoidance of doubling taxation in respect of income and
+capital that had been signed on behalf of the government of the former USSR with governments
+
+of the other states.”
+
+54. A copy of that Resolution was presented formally by Kazakhstan to Canada, by way of a diplomatic
+
+note, on 1 December 1994. The note provided no covering explanation or comment.
+
+55. That brings me to March 1995, when the Trade Agreement and the Mutual Relations Declaration
+
+5
+
+5
+
+a
+
+x
+
+were signed, as I noted at the outset, in Ottawa, on 29 March 1995. The Trade Agreement included
+preambular reference to the 1992 Declaration, the 1976 Agreement and the FIPA, but not the 1985
+DTA. Thus the suggestion or request intimated by Ms Sattarova back in December 1992 not to
+include such preambular references either never came as a formal negotiating request, or was not
+prefaced. There is no record that I have seen in the evidence of how exactly that was dealt with in
+
+the negotiating process.
+
+. As to the Mutual Relations Declaration, as finally executed it did not include anything similar to
+
+paragraph 9 of the Kazakh draft that had been equivalent to paragraph 13 of at least one Canadian
+draft to which I referred from around a year earlier in April 1994. Again, there is no basis in
+evidence that I have for any finding one way or the other as to exactly when or why that provision
+
+was not retained, let alone what, if anything, was said inter partes as to its removal.
+
+. Mr Malek QC in that regard submits, by reference to some evidence that at about the time of the
+
+1994 Exchange or shortly thereafter there was internally in Kazakhstan a review of the draft, that the
+likelihood is that the paragraph was removed at that stage on the basis that the Kazakhstan side was.
+unwilling to commit to it. In my judgment, that is speculative, as is Mr Dunning QC’s submission
+
+that I could make a positive finding by inference that reference to the 1985 DTA was removed on
+
+20
+
+58.
+
+59.
+
+60.
+
+6
+
+Gold Pool y Kazakhstan
+the agreed basis that the 1994 Exchange had provided sufficient reassurance and confirmation of the
+position.
+
+The preambular references in the trade agreement were in these terms:
+
+“TAKING INTO CONSIDERATION the Declaration on Economic Co-operation between Canada
+and the Republic of Kazakhstan of July 10, 1992 [i.e. the 1992 Declaration];
+
+[TAKING INTO ACCOUNT] the Long Term Agreement to Facilitate Economic, Industrial,
+Scientific and Technical Co-operation of July 14, 1976, and the Agreement for the Promotion and
+Reciprocal Protection of Investments of November 20, 1989 [i.e. the 1976 Agreement and the
+FIPA]”.
+
+Whilst quoting from the Trade Agreement, Mr Dunning QC also placed reliance on a provision right
+at the end, Article XVII.4, which was in these terms: “Except as expressly provided herein, nothing
+in this Agreement overrides or modifies agreements already in force between the parties.”
+
+I should explain that I have rendered the preambular reference to the 1976 Agreement and the FIPA
+as commencing with the turn of phrase “TAKING INTO ACCOUNT”. In fact, the English
+authoritative text says “REFERRING TO”. However, it is common ground that in the equally
+authoritative Kazakh text the word used is more properly or more accurately translated as ‘taking
+into account’. I shall come back to that in relation to the submissions that the parties make about the
+1995 Recital. I render it the way I do because one upshot of the oral argument in relation to those
+submissions was a fair acceptance by Mr Malek QC that the claim made can and should properly
+stand or fall on the basis of construing the meaning and effect of the 1995 Recital, reading the
+English used, “REFERRING TO”, as intended to have the same sense as the Kazakh, that is to say,
+
+as “TAKING INTO ACCOUNT”.
+
+. There was also signed in Ottawa on that occasion, 29 March 1995, a Memorandum of Intent in these
+
+simple terms:
+
+21
+
+62.
+
+63.
+
+64.
+
+Gold Pool y Kazakhstan
+
+“(1) Pursuant to discussions conducted between officials of our two countries, the government of
+Canada and the government of the Republic of Kazakhstan intend to begin negotiations and to
+conclude on an ad referendum basis:
+(i) a convention for the avoidance of double taxation and prevention of fiscal evasion with
+respect to taxes on income and capital; and
+(ii) an agreement for the promotion and protection of investment.
+(2) It is the intention of the government of Canada and the government of the Republic of
+Kazakhstan to pursue negotiations in an expeditious manner with a view to signing the
+agreements at an early opportunity.”
+Internal Kazakh documents from February and early June 1995 make it tolerably clear that those
+responsible for implementing the 1994 Resolution in Kazakhstan took the view that Kazakhstan had
+succeeded by agreement to the 1985 DTA so that: (a) implementing the 1994 Resolution in respect
+of Canada would require the 1985 DTA to be terminated; and (b) that, in turn, would require steps to
+be taken in accordance with its termination provision, Article XXIII.
+There is no evidence that that internal analysis or understanding was shared with Canada. However,
+the action proposed by it, namely termination of the 1985 DTA in accordance with its terms, treating
+it thereby as having been in force the while, was duly taken by Note 18/812, signed and dated 26
+May 1995, from the Kazakh Ministry of Foreign Affairs to the Canadian Embassy, by which
+Kazakhstan gave notice of termination, expressed to be pursuant to Article XXIII of the 1985 DTA,
+to the effect that the 1985 DTA would “cease to be effective on I January 1996”.
+That DTA termination note went on to express the hope “that the Canadian side will accept this
+decision only as a desire of Kazakhstan which became a sovereign state to fulfil financial and tax
+obligations which have been entered into in view of new political and economic conditions on behalf
+
+of the government of Kazakhstan. The Ministry hopes for a swift commencement of negotiations to
+
+22
+
+65.
+
+66.
+
+67.
+
+Gold Pool y Kazakhstan
+
+prepare a new taxation agreement between the government and the Republic of Kazakhstan and the
+government of Canada as well as for further fruitful co-operation in a spirit of friendship and
+mutual understanding.”
+
+In due course a replacement DTA was indeed concluded between Canada and Kazakhstan, in
+September 1996, which when it entered into force in March 1998 had retrospective effect from 1
+January 1996 in that its provisions were stated to have effect, in respect of tax withheld at source,
+for amounts paid or credited on or after that date, and in respect of other taxes, for taxable periods.
+beginning on or after that date.
+
+Completing the main factual narrative, Kazakhstan ratified the Trade Agreement on 12 July 1996 by
+Law No 23-1, and notified Canada of that ratification on 22 July 1996.
+
+Those being the main facts, I turn now to consider and judge the rival contentions as to the meaning
+
+and effect of the 1992 Declaration, the 1994 Exchange and the 1995 Recital.
+
+The 1992 Declaration
+
+68.
+
+69.
+
+As relevant context, Mr Dunning QC emphasised that Kazakhstan had committed formally and
+publicly to honour the treaty commitments of the USSR applicable to its territory by acceding to the
+CIS Agreement under the CIS Protocol, by the Alma-Ata Declaration, and by the Moscow
+Memorandum, albeit the last of these was perhaps less by way of expressed commitment and more:
+by way of an agreement between the CIS member states as to means of achieving succession to
+
+former USSR treaties.
+
+. In March 1992, that commitment had been reiterated generally by the CIS Council Decision and, as
+
+regards DTAs specifically, by the CIS Tax Policy Agreement. Also in March 1992, Canada had
+received direct assurance from Mr Kasimov that Kazakhstan was intent upon honouring
+
+international commitments inherited from the USSR.
+
+23
+
+70.
+
+7
+
+72.
+
+73
+
+Gold Pool y Kazakhstan
+
+Furthermore, the FIPA was a very recent, outward-looking, bilateral treaty serving to encourage
+inward investment from an important Western economy. Whether or not this would be true for every
+single treaty entered into by the USSR to which Kazakhstan would have been capable of
+succeeding, no reason is apparent to me why Kazakhstan would not wish the FIPA to continue, even
+if for the longer term there might also be a wish to negotiate a fresh treaty to take over from it.
+
+Likewise as regards the 1985 DTA, albeit that was not quite so brand new.
+
+. No formality was required for there to be a binding succession agreement, so long as there was a
+
+meeting of minds between Kazakhstan and Canada on the point.
+
+For his part, Mr Malek QC emphasised that although indeed no formality was required, nonetheless.
+succeeding to the FIPA would be a serious legal commitment for Kazakhstan, granting to private
+parties, in the rather bespoke way that bilateral investor protection treaties do, both substantive
+rights and a binding procedural process whereby to seek to enforce them on neutral ground, viz. in
+international arbitration. Mr Malek took the submission too far, with respect, when he suggested that
+only words that were in themselves words of legal obligation, or that were contained in an
+instrument that was more generally intended to create legal obligations, would do. After all, it is
+recognised, and Kazakhstan accepted, that an implied succession agreement might be created simply
+
+by conduct.
+
+. The underlying point has force nonetheless, namely that succession to a treaty like the FIPA or the
+
+1985 DTA was a significant commitment. Though there is no requirement of form, the more
+informal the means by which it is claimed that succession was implied and agreed, the more room
+there may be to question whether that is clearly enough the import of what was said or done. Where,
+as in this case, what is relied on is bilateral communication using written words, the words as used
+
+in their context must not be reasonably and sensibly capable of having conveyed inter partes a
+
+24
+
+7
+
+z
+
+75.
+
+76.
+
+Gold Pool y Kazakhstan
+
+meaning other than that the parties were agreed on succession, as otherwise they are properly to be
+
+regarded as ambiguous, and ambiguous exchanges do not amount an agreement.
+
+. Mr Malek QC advanced a further submission arising out of the particular nature and consequences
+
+of the FIPA. Since such a treaty will be concluded for the benefit of investors of the contracting
+States, whereby indirectly to further their own public interest by the encouragement of inwards.
+investments and thus the building up of commercial links, it is not to be expected that States would
+keep such a treaty secret. As with the previous submission there is some force in the point, but it
+must not be taken too far. For example, it is irrelevant that in public-facing website listings
+maintained by Canada that did not exist in 1992 to 1995, the FIPA is listed as being in force
+between Canada and Russia but not as between Canada and Kazakhstan. There could be any number
+of reasons for that, but it could not be said, for example, that when concluding the 1992 Declaration
+the parties jointly contemplated the future existence of internet listings of treaties on which the FIPA
+would not be treated as in force between them.
+
+That responsive thought generalises. Unless it can be said that when concluding the 1992
+Declaration, or (below) when communicating through the 1994 Exchange or when including the
+1995 Recital in the Trade Agreement, the parties reasonably must have intended or understood that
+what they were doing would be kept secret, the need in concept for investors to be aware of the
+protection available to them adds nothing in my judgment to any debate over the meaning and effect
+of what the parties, i.e. Canada and Kazakhstan, actually said by the 1992 Declaration, respectively
+the 1994 Exchange or the 1995 Recital.
+
+Finally, by way of general submission, Mr Malek QC of course emphasised that if the parties meant
+to articulate an agreement that Kazakhstan was succeeding or had succeeded to the FIPA, it would
+have been easy for them to say so in terms. But it would be an empty doctrine that there can be an
+
+implied succession agreement, as in commercial law there would be almost nothing in any doctrine
+
+25
+
+77.
+
+78.
+
+79.
+
+80.
+
+Gold Pool y Kazakhstan
+
+of implied terms or indeed in the process of construing express terms, if that was a sufficient
+answer. It is of the essence of such a doctrine that it recognises as a reality that parties will say
+things together that realistically make sense only if something is agreed between them that they do
+not think to spell out in terms precisely because they both regard it as a given between them such
+that it does not need spelling out. In substance this is, in my judgment, but an aspect of the need for
+unambiguity.
+
+The 1992 Declaration was not a treaty, but it was a public joint declaration of intent in writing by
+appropriate ministers of the respective governments. It was, as it seems to me, an apt vehicle
+through which a consensus between Canada and Kazakhstan that the latter was to be treated as
+having succeeded to the FIPA, and for that matter the 1985 DTA, might find itself being articulated
+if it was not being made the subject of a fully-fledged and formal treaty.
+
+As regards the principal provisions of significance, it seems to me that the clear tenor of paragraph 1
+is that the parties are resolved to negotiate a replacement for the 1976 Agreement, recognising that it
+needs to be or appropriately should be updated, not that some such agreement should be put in place
+because there is nothing in place for the time being.
+
+In my judgment, in the context of the 1992 Declaration and its various statements as to the joint
+interests to be promoted by the parties acting in accordance with it in the future, the tenor of
+paragraph 3 is similar, save that (in this document at this time at any rate) there is not a record of the
+parties intending in the short term to negotiate replacement treaties. That is to say, as it seems to me,
+the way in which the parties expressed themselves in paragraph 3 takes it as a given not requiring to
+be spelt out that for the time being the FIPA and the 1985 DTA applied between Canada and
+Kazakhstan, as a successor state to the USSR.
+
+As a matter of specific linguistic points, I respectfully agree with Mr Dunning QC’s submission that
+
+that is the only sensible reading of the parties’ choice of language, to resolve as they did to facilitate
+
+26
+
+8
+
+Gold Pool y Kazakhstan
+
+efforts to expand from (I there paraphrase) what they have, namely the FIPA and the 1985 DTA, all
+“in accordance with” those agreements. The commitment was to foster sustained efforts to move
+beyond what was already there, already extant, and ongoing, namely “co-operation in accordance
+
+with [the FIPA] and [the 1985 DTA]”.
+
+-In my judgment, fully recognising that the 1992 Declaration is a joint declaration of the
+
+governments — what is sometimes referred to as a political declaration to distinguish it from a formal
+treaty — and that the parties could have chosen to memorialise the succession to the FIPA and the
+1985 DTA more explicitly and formally by way of short treaty or Exchange of Notes, thus bearing
+that and the other general submissions of Mr Malek QC well in mind, but also balancing those with
+the powerful submissions of Mr Dunning QC as to the background and context that I have already
+summarised, in my judgment by paragraph 3 of 1992 Declaration, Canada and Kazakhstan
+impliedly confirmed, as Gold Pool has claimed, that the FIPA then applied as between them. That
+was and is an implied succession agreement, and that is sufficient for this s.67 claim to succeed,
+since it is not suggested that the FIPA, if impliedly rendered applicable as between Canada and
+Kazakhstan by the 1992 Declaration, was disapplied at any material time thereafter, which, it is
+
+common ground, would have required an effectual treaty termination.
+
+The 1994 Exchange
+
+82. The parties’ respective general submissions as to context and approach when assessing the meaning
+
+8
+
+w
+
+and effect of Canada and Kazakhstan’s communications inter partes were repeated, and my
+
+assessment of them does not alter.
+
+. By April 1994, there was, additionally as context, the fact that Kazakhstan’s transitional constitution
+
+had provided for the applicability of international treaty obligations of the USSR in Kazakhstan
+where not inconsistent with Kazakh law. Mr Malek QC is correct, I apprehend, to submit that this is
+
+inconsistent with any notion that Kazakhstan accepted a doctrine of automatic succession to Soviet
+
+27
+
+84.
+
+85.
+
+86.
+
+Gold Pool y Kazakhstan
+
+treaties by virtue of being a successor state, since upon succession it would owe its treaty
+counterparties a legal obligation on the public international law plane not to legislate inconsistently.
+That, it seems to me, rather misses the point for present purposes, though, which is that since there is
+no suggestion there was anything in Kazakh law inconsistent with the FIPA, the transitional
+constitution enacted the FIPA into Kazakh law rendering it entirely plausible that Kazakhstan might
+so communicate with Canada so as to convey consensus infer partes that Kazakhstan had
+
+succeeded.
+
+. More specifically than that general legal and political context, as between Canada and Kazakhstan
+
+the context was of course: the comments of Ms Sattarova in December 1992 that I have concluded
+already are capable of more than one understanding or interpretation; the draft for the Trade
+Agreement, referring as I have found to the FIPA and the 1985 DTA, and the draft or drafts as it or
+they then stood for the Mutual Relations Declaration, containing a provision that would have
+articulated explicitly that there had been succession; and finally, the comment of Mr Gizzatov in
+early April 1994 that most directly triggered the request for clarification of Kazakhstan’s position.
+
+In my judgment the exchange, and in particular the Kazakh response completing the exchange,
+could not be clearer. Kazakhstan was asked officially by way of diplomatic note to clarify its stance
+or position vis-a-vis Canada, given the apparent opinion of Mr Gizzatov that former Soviet treaties,
+to which Kazakhstan would be capable in principle of succeeding, were inapplicable or null and
+void. Kazakhstan’s response was to confirm explicitly and in terms that its position on that matter
+was as stated in the provision it had provided at that stage to be a paragraph of the Mutual Relations
+Declaration under negotiation; and that was that treaties signed between Canada and the USSR
+remained in force until different provision was made between Canada and Kazakhstan.
+
+Given my conclusion on the 1992 Declaration, in my judgment that was in fact no more than an
+
+accurate reconfirmation of the extant position. Had I concluded that the 1992 Declaration was.
+
+28
+
+Gold Pool y Kazakhstan
+
+ambiguous, as submitted by Mr Malek QC, so as not to have involved an implied succession
+agreement, his secrecy point, if I can call it that, would have been a serious one at least to consider
+in this context, which it was not in relation to the very public 1992 Declaration. But even if the 1994
+Exchange itself was within the privacy, as between Canadian and Kazakh representatives, of their
+discussions in the context of draft instruments eventually to be concluded just under a year later and
+a particular meeting with Mr Gizzatov, there is no basis for supposing that at the time of the
+exchange its effect was intended, let alone mutually agreed, to be kept secret, viz. that upon the
+official request by Canada for confirmation of the position, Kazakhstan had given explicit and
+unambiguous confirmation that involved the proposition that the FIPA, and for that matter the 1985
+DTA, was in force and applicable between them.
+
+87. The proper characterisation of such a confirmation given in response to such a request is, in my
+view, that it is a clear consensus, and thus, had this not previously been the case, an agreement by
+implication upon the succession of Kazakhstan to the FIPA. Once again, bearing fully in mind that
+that parties have, as it happens, chosen this level of informal formality (if that can be a phrase), by
+way of exchange of diplomatic notes, and did not more formally formalise it by way of a short
+succession treaty or Exchange of Notes.
+
+The 1995 Recital
+
+88. Firstly, there is nothing in a point taken by Mr Malek QC that the 1992 Declaration on the one hand
+and the 1976 Agreement and the FIPA on the other hand appeared in separate recitals. In his
+skeleton argument, the point Mr Malek took was a linguistic one based upon the difference or
+apparent difference in the text between ‘taking into consideration’ for the 1992 Declaration and
+merely, as he put it, ‘referring to’ for the 1976 Agreement and the FIPA. As I indicated when
+introducing the recitals, on exploring the oral argument and the point about the Kazakh text, Mr
+
+Malek QC fairly did not press the linguistic point. He rested instead, in that regard, upon a
+
+29
+
+89.
+
+90.
+
+9
+
+Gold Pool y Kazakhstan
+
+submission in the alternative that it should be seen as significant that the 1976 Agreement and the
+FIPA were recited separately from the 1992 Declaration.
+
+In my judgment, putting it negatively, there is nothing in that point; that is to say, whether or not Mr
+Dunning QC is correct, which he may be, that there was just seen to be a natural distinction between
+the 1992 Declaration, not itself a treaty, and the 1976 Agreement and the FIPA, which were treaties,
+the similarity in truth of the introductory language and therefore the terms in which the three
+documents are recited means there cannot be said to be any significance in the fact that the 1976
+Agreement and the FIPA appear in one recital and the 1992 Declaration in the other.
+
+If anything, put more affirmatively, the very point that Mr Malek QC made in writing is a point
+against Kazakhstan. The point he made linguistically was that the 1992 Declaration was naturally
+recited as being ‘taken into consideration, being an extant bilateral agreement current between the
+parties, the FIPA being merely ‘referred to’ suggested that it did not have that same status as an
+extant or current document between the parties. When the language is assimilated, as fairly it needs
+to be, that the FIPA, and likewise the 1976 Agreement, is in fact being ‘taken into account’, as the
+1992 Declaration is being ‘taken into consideration’, one sees immediately the force of the
+
+observation that the linguistics, if anything, are against Kazakhstan.
+
+. Secondly, but conversely, there is nothing in the reliance by Mr Dunning QC upon Article XVII.4 of
+
+the Trade Agreement. Ultimately it begs the question to rely upon a provision preserving
+agreements that are presently in force to say that that indicates that the FIPA referred to in the recital
+is being treated as an agreement presently in force if, contrary to Mr Dunning’s argument, that
+would not be the tenor or sense or implication of the recital on its own terms. It was not the case that
+the Trade Agreement itself was the only new Canada-Kazakhstan treaty, that is to say a treaty
+entered into since the dissolution of the USSR, leaving aside any question of implied successions. In
+
+my judgment, contrary to a particular submission advanced by Mr Dunning, Article XVII.4 cannot
+
+30
+
+9:
+
+9.
+
+9.
+
+9:
+
+2.
+
+wo
+
+&
+
+n
+
+Gold Pool y Kazakhstan
+
+really be read as limited to bilateral treaties, and there had by the time of the trade agreement been
+
+accession or succession to, or entry into by Kazakhstan of, multilateral treaties done formally.
+
+. In any event, as it seems to me, Article XVIL4 is in the nature of a catch-all or savings clause into
+
+which it reads somewhat too much to assume that the parties must have been in agreement that there
+was a treaty or there were treaties then extant that they were making sure they saved rather than that
+
+they were including the treaty saving provision out of an abundance of caution.
+
+. Thirdly, the omission of the 1985 DTA from the 1995 Recital is somewhat enigmatic. I agree with
+
+Mr Dunning QC that it is not readily explicable, as Mr Malek QC sought to suggest, by the fact that
+the 1985 DTA is a taxation treaty. The Trade Agreement is not a tax treaty as such, but it does
+include provisions concerning taxation; and more generally, in the context of trade links and the
+related priority of attracting inwards investment, investor protection and the avoidance of double
+taxation are well recognised as going hand in hand, and had been treated between the parties
+
+previously as going somewhat hand in hand.
+
+. Further, the Memorandum of Intent executed along with the Trade Agreement treated the FIPA and
+
+the 1985 DTA identically in the sense that it memorialised Canada and Kazakhstan’s joint intention
+expeditiously to conclude an investment protection treaty and a double taxation agreement without
+
+saying anything as to whether there was in either respect any arrangement then current.
+
+. On balance, I agree with Mr Dunning QC that the best explanation is probably that the 1985 DTA
+
+was shortly to be terminated, whereas there was no plan to terminate the FIPA. I have no evidence
+for a finding that that had been communicated expressly to Canada, even if I am right to think that
+probably it was the thinking on the Kazakh side, although it would have been a reasonable inference
+for Canada to draw, if not given it expressly as explanation, since Kazakhstan had notified Canada
+
+at the end of 1994 of the legislation compelling, it said, a termination of the 1985 DTA, and had
+
+31
+
+Gold Pool y Kazakhstan
+
+linked its consequent intention to terminate that treaty with its desire, now publicly minuted by the
+Memorandum of Intent, to negotiate a replacement.
+
+96. Overall, to my mind the better reading of the 1995 Recital is that the 1976 Agreement and the FIPA
+were being treated as applicable between the signatories just as much as was the 1992 Declaration.
+Although one commentator, as I shall mention, has suggested that it does not support as strong an
+inference of accepted succession as does an explicit determination of a prior treaty, treating it as in
+force and requiring to be terminated, in my judgment the inference is strong enough. More properly,
+that is to say, since it is not in truth a matter of inferential fact-finding rather than interpretation,
+although less immediately obviously so than with an explicit termination or an express confirmation
+like the 1994 Exchange, upon serious consideration the 1995 Recital is also reasonably capable of
+having conveyed inter partes only one message, namely that the 1976 Agreement and the FIPA
+were agreed to be in force and effective between them.
+
+Supposed Contraindications
+
+97. Kazakhstan relied upon a wide range of subsequent materials, more or less clearly, it was submitted,
+indicating a view held by some individual or institution to the effect that there had not been or may
+not have been a succession by implication in the manner that I have been considering.
+
+98. In short, as regards all of them, it is a sufficient answer to say that they indeed come after the fact
+and are not part or parcel of any articulated consensus created by the 1992 Declaration, the 1994
+Exchange or the 1995 Recital respectively.
+
+99.1 will not lengthen this already long ex tempore judgment by taking each of them specifically in
+turn. I will, however, mention a few that were most clearly pressed.
+
+100. In 1997, as commercial relations were deteriorating towards what became the commercial dispute
+that many years later resulted in the investor protection claim, representatives of Gold Pool sought
+
+support or assistance from Canadian officials, in particular Ambassador Mann, who in various ways.
+
+32
+
+Gold Pool y Kazakhstan
+
+expressed, as one might expect, official support so far as it could be given for Gold Pool in its
+asserted difficulties. But it seems that he did not point Gold Pool in the direction of the FIPA as a
+possible means of recourse should the commercial venture fail in circumstances where it might be
+that a claim could be presented under such a treaty.
+
+101. Without meaning any disrespect to Ambassador Mann or diminishing the submission made as to
+his involvement, expertise and experience and therefore the position he may have been in to take an
+informed view on such matters, it seems to me an exercise in speculation to infer from that even that
+he himself had a particular opinion that Kazakhstan had not, by the materials I have considered,
+impliedly agreed to succeed to the FIPA. It is stretching it yet further to propose, even if one could
+conclude that his individual opinion was that there had not been succession, that that was in some
+sense the state opinion of Canada, not least in circumstances where at about that time, in June 1997,
+a formal departmental review of Canada’s treaty relations in this field concluded and stated that the
+FIPA was in force with Kazakhstan, which review indeed was at some stage, possibly in August
+1997, provided to Kazakhstan.
+
+102. A little later, namely on 6 March 1998, in response to an inquiry from Mr A T Griffis, chairman
+of Gold Pool’s parent company, Kazakhstan Goldfields Corporation, the Hon. Sergio Marchi, then
+Canadian Minister for International Trade, stated:
+
+“In your letter you asked about the application of the [FIPA]. This agreement has no application
+
+ 
+
+in Kazakhstan. We are currently negotiating a foreign in agreement to ipl the
+
+bilateral trade agreement and double taxation agreement which we have already signed.
+Unfortunately the terms of this agreement would not however apply retroactively.”
+
+103. Save that I imagine Mr Marchi’s observation is correct that the proposed new investment
+
+protection agreement was not envisaged, if concluded, to apply retroactively, there is little for me to
+
+say in response to that letter other than that, on my analysis of the 1992 Declaration and the 1994
+
+33
+
+Gold Pool y Kazakhstan
+
+Exchange and the 1995 Recital, and with respect, Mr Marchi was wrong to hold the view that the
+FIPA then had no application in Kazakhstan.
+
+104. There is some, albeit weak, indication in the factual materials, to the extent that submissions made
+to the arbitrators who have been considering this matter by Canada have, or can be taken to have,
+included factual evidence and not merely argument, that it is not now possible to identify any
+substantial consideration of the underlying materials by Mr Marchi, or basis upon which he had
+formed and expressed that view. But even if the record showed that he, for his own part, or with
+legal advisers, had engaged in a substantial review of the materials, his letter amounts to no more
+than the expression of a view, nearly three years after the last of the material instances, as have I
+held them to be, of implied succession agreement, that there had been no succession. It seems to me
+that view, then expressed by Mr Marchi, takes Kazakhstan nowhere.
+
+105. In 2012, so very much later again, an opinion provided by the then legal adviser to the Canadian
+department of foreign affairs and international trade, Mr A H Kessel, was included in the Canadian
+Yearbook of International Law of 2012, in which he discussed Canada’s practice and understanding
+as regards what constituted or did not constitute a succession of new and continuing states to
+existing treaties. His is the commentary to which I referred earlier suggesting that the 1995 Recital,
+or recitals like it, offered a less strong inference as to succession than an act such as terminating in
+accordance with its terms a treaty that would only have been in force had there been a succession.
+
+106. It seems to me that Mr Kessel’s article is a somewhat nuanced piece. Certainly it does not
+articulate in clear and unequivocal terms a view that the FIPA, or for that matter the 1985 DTA, had
+not been succeeded to by Kazakhstan by any of the bilateral materials to which I have referred and
+which I have concluded did involve an implied succession agreement. If anything his view appears.
+to have been, certainly as regards the 1985 DTA, that it was treated by both parties as having been
+
+succeeded to by Kazakhstan and applicable, and it is difficult to identify any reason why that might
+
+34
+
+Gold Pool y Kazakhstan
+
+have been the case if it were not that it was jointly referred to, with the FIPA, in the 1992
+Declaration.
+
+107. Even if Mr Kessel’s opinion had expressed more unequivocally a view that would now be
+favourable to Kazakhstan, it would be only that. It would be a view of no doubt a very distinguished
+and experienced gentleman in a position to hold a view, but a view on the very question that it is for
+this court to decide by reference to the primary materials and not by reference to the opinions of
+others more than 15, and up to 20, years later as to what they meant or conveyed.
+
+108. Finally, having indicated that I do not propose to go through each and every one of these supposed
+contraindications arising after the fact, reliance was placed on quite a range of material, albeit most
+of it internal only to either Canada or Kazakhstan, in the context of the protracted negotiations that
+even now are yet to reach fruition, for a new bilateral investor protection treaty. It was said to
+indicate more or less strongly at any given time a view held by either one party or an individual, or
+occasionally being communicated inter partes, that the treaty being negotiated would fill a void
+rather than be by way of update of and replacement for the FIPA. Overall, as it seems to me, that
+material does not paint anything like a clear or consistent picture in one direction or the other, not
+least because as Mr Dunning QC emphasises, in the course of the negotiations in 2012 and 2013 on
+the Kazakh side it was proposed to include an express termination provision confirming that with
+the entry into force of the new treaty the FIPA would cease to apply.
+
+109. Were it material to a consideration of what the 1992 Declaration, the 1994 Exchange or the 1995
+Recital meant or implied when executed to take account of this much later material, my conclusion
+would be that it did not sufficiently or unequivocally push the balance in one direction or the other
+to affect what would otherwise be the tenor, meaning and effect of those communicated
+
+consensuses. As I indicated at the outset of this section of my judgment, my primary conclusion is in
+
+35
+
+Gold Pool y Kazakhstan
+
+fact that all of this material says nothing as to that original, and therefore continuing having never
+been changed, effect of those 1992, 1994 and 1995 events.
+
+110. I therefore take up no time at all over a number of other after-the-fact pieces of evidence which
+for his part Mr Dunning QC pointed to as indicating opinions supportive of Gold Pool’s position,
+held or indicated over the years, on both sides.
+
+Conclusion
+
+111. Since this is a rehearing de novo and not a review, and I have given immediate judgment having
+come to a clear conclusion upon the argument, I shall not take up time commenting at length on the
+reasoning of the arbitrators that led them to their conclusion that Kazakhstan did not succeed to the
+FIPA, let alone take up time commenting on the reasoning of the arbitrators in the World Wide
+Minerals matter that led them to conclude, as I have done, that Kazakhstan did. No disrespect to the
+arbitrators is intended by the principle, or my application of it here, that I must make up my own
+mind on the point and if my view differs from that of the arbitrators then by operation of the 1996
+Act my view prevails.
+
+112. However, and stating matters broadly and concisely so as to give an indication out of respect to
+the arbitrators of why I have differed from them:
+
+(1) Generally, in my respectful view, the arbitrators were distracted by a substantial body of
+irrelevant material, in particular evidence of uncommunicated views internal to Canada or
+Kazakhstan, or evidence of subsequent events not capable of bearing upon the meaning and
+effect assessed objectively of the consensuses set out in writing inter partes in 1992 to 1995.
+
+(2) As regards the 1992 Declaration, the arbitrators regarded it as ambiguous and fairly open to
+multiple meanings, although without identifying the other meanings they thought it reasonably
+
+capable of conveying, whereas I regard its material tenor as clear and unambiguous.
+
+36
+
+Gold Pool y Kazakhstan
+
+(3) As regards the 1994 Exchange, the arbitrators felt there was nothing more there than
+“preparatory statements confirming succession [a reference to the language of paragraph 9 of
+the Kazakh draft for the Mutual Relations Declaration] and a final declaration that omits such
+confirmation”, whereas I see the then draft language together with Mr Gizzatov’s potentially
+concerning observation as the trigger for the 1994 Exchange, which on its own terms was not
+a drafting exchange about whether to include paragraph 9 or something like it, but an official
+request for specific confirmation, which was given, that what as it happens then appeared in
+that draft paragraph was Kazakhstan’s official position, bearing in mind Mr Gizzatov’s
+apparently contradictory comment.
+
+(4) As regards the 1995 Recital, the arbitrators accepted that it was “compatible with succession to
+the Treaty” and “indicative of succession”, but felt it did not compel them to the view that
+there had been a succession, or was not conclusive as to whether there had been, whereas to
+my mind the relevant question is whether the 1995 Recital, like the immediately preceding
+recital referencing the 1992 Declaration, is an unambiguous recognition inter partes that the
+instruments recited are in force between them, and in my view, read in its context, it is.
+
+113. My conclusion, for the reasons I have given, is that Canada and Kazakhstan impliedly agreed that
+the FIPA was in force and applicable between them, that is to say they impliedly agreed to the
+succession of Kazakhstan to the FIPA as successor state of the USSR for its territory, by the 1992
+Declaration, and they reconfirmed as much to each other by both the 1994 Exchange and the 1995
+Recital.
+
+114. Subject to the assistance of counsel, I envisage it will be appropriate in those circumstances to set
+aside the arbitrators’ award dated 30 July 2020, to recite or declare that they did and do have
+
+jurisdiction ratione voluntatis over Gold Pool’s substantive claims, and that they are bound now to
+
+37
+
+Gold Pool y Kazakhstan
+
+proceed on that basis, and to remit the case to them to determine Gold Pool’s substantive claims,
+
+and to consider all issues of costs anew, by and through a fresh award.
+
+ 
+
+38
+

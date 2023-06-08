@@ -1,0 +1,824 @@
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 1 of 23
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF IDAHO
+
+THE GOVERNMENT OF THE LAO
+PEOPLE’S DEMOCRATIC
+
+REPUBLIC,
+Case No.: 2:20-cv-00195-CRK
+Plaintiff,
+v. MEMORANDUM DECISION AND
+ORDER RE: MOTION FOR
+JOHN K. BALDWIN; BRIDGE JURISDICTIONAL DISCOVERY
+
+CAPITAL, LLC; COLEMAN LLC;
+and CAMPBELL HOLDINGS LLC,
+
+Defendants.
+
+ 
+
+I. INTRODUCTION
+Before the Court is Plaintiff The Government of the Lao People’s Democratic
+Republic’s (“Lao PDR”) motion for jurisdictional discovery. See Pl.’s Mot. for
+
+Jurisdictional Disc., Aug. 5, 2021, ECF No. 120 (“Pl. Mot.”); see also Am. Memo. in
+
+ 
+
+Supp. of Pl.’s Mot. for Jurisdictional Disc., Aug. 5, 2021, ECF No. 123 (“Rev. Pl. Br.”).
+Lao PDR requests discovery of six categories of documents and a non-party
+deposition, which it claims will establish (1) specific jurisdiction over Defendants
+John K. Baldwin (“Baldwin”) and Bridge Capital, LLC (“Bridge”); (2) quasi in rem
+jurisdiction over Baldwin and Bridge; and (3) Baldwin’s status as the alter ego of non-
+
+parties Sanum Investments Limited, a Macau limited company (“Sanum”) and Lao
+
+MEMORANDUM DECISION AND ORDER - 1
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 2 of 23
+
+Holdings, N.V., a public limited company incorporated in Aruba (“LHNV”).! See Decl.
+of Robert K. Kry, Ex. C, Aug. 5, 2021, ECF No. 120-2 (“Discovery Demands’).
+Defendants Baldwin and Bridge oppose the motion on the grounds that (i) the
+proposed discovery could not lead to any facts that would establish specific
+jurisdiction; (ii) Lao PDR cannot establish quasi in rem jurisdiction as a matter of
+law; (iii) non-party discovery is irrelevant to Lao PDR’s jurisdictional claims over
+Baldwin and Bridge; and (iv) Lao PDR’s requests are vague, overly broad, and unduly
+burdensome. See generally Resp. to [Pl. Mot.], Sept. 21, 2021, ECF No. 128 (“Def.
+Br.”). For the following reasons, Lao PDR’s motion is granted in part and denied in
+part.2
+IL. BACKGROUND
+
+A. Factual Background
+
+Lao PDR and various Baldwin-connected entities have a long history related
+to gambling ventures in Laos. See Third Am. Compl., {|| 77-79, July 16, 2021, ECF
+No. 108 (“TAC”). A dispute arose between Lao PDR and two of those entities, Sanum
+and LHNV. See id. §j 82-84, 88-91. Lao PDR obtained arbitral awards against
+
+Sanum and LHNV in 2017 (the “Awards”), and there have been various legal
+
+1 Lao PDR alleges that discovery might lead to a finding of general jurisdiction over
+Baldwin and Bridge; however, Lao PDR’s allegation of possible general jurisdiction is
+speculative. See Rev. Pl. Br. at 6.
+
+2 Because the Court is granting the motion in part, the Court will reserve its decision
+on the pending Motion to Dismiss the Third Amended Complaint, see ECF No. 121,
+until after jurisdictional discovery has been completed and the parties submit
+supplemental briefing on the significance of the materials produced in accordance
+with the Court’s order.
+
+ 
+
+MEMORANDUM DECISION AND ORDER - 2
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 3 of 23
+
+proceedings to enforce or set aside those Awards, including this action. See id. 4 122,
+Exs. C and D; see also Def. Br. at 3 n.2.
+
+Sanum and LHNV commenced arbitrations under bilateral investment
+treaties between China and Laos and the Netherlands and Laos, respectively. See
+TAC, Exs. C and D. Sanum and LHNV asserted that Lao PDR violated its treaty
+obligations by dealing unfairly with the companies and unlawfully and without
+compensation expropriating their property in connection with the gaming ventures
+Sanum and LHNV were jointly operating with a Laotian company, ST Holdings, in
+Laos. See id. Ex. C at 4] 1-2, 65-75, Ex. D at 4 1-2, 63-73. After initially asserting
+counterclaims, Lao PDR abandoned those claims and defended the arbitrations by
+asserting various alleged crimes and bad faith actions taken by Sanum and LHNV.
+
+Id. Ex. C §j 88-95, Ex. D 86-93; see also Memo. in Supp. of Defs.’ Mot. to Dismiss
+
+ 
+
+for Failure to State a Claim, 3, May 4, 2021, ECF No. 57-1. Both arbitral tribunals
+found that Lao PDR did not violate its treaty obligations in its dealings with Sanum
+and LHNV, respectively, and awarded costs, fees, and expenses to Lao PDR totaling
+$3,727,358.98. TAC Ex. C J§ 281-94, Ex. D § 251-66.
+
+Lao PDR alleges that it should be permitted to enforce the Awards against
+Baldwin and Bridge because various entities, including Sanum, LHNV, Bridge, and
+defendants Coleman LLC and Campbell Holdings LLC, are nothing more than
+Baldwin’s alter egos. See TAC {/{| 18, 124-202, 238-52. Baldwin and Bridge assert
+that the Court lacks personal jurisdiction over them and therefore cannot make any
+
+determination regarding their alter ego status. See Memo. in Supp. of [Baldwin and
+
+MEMORANDUM DECISION AND ORDER - 3
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 4 of 23
+
+Bridge’s] Mot. to Dismiss [TAC] for Lack of Personal Jurisdiction or Improper Venue,
+6-7, Aug. 5, 2021, ECF No. 121-1 (“Def. Br. Mot. to Dismiss TAC”)
+
+B. Procedural Background
+
+The procedural history of this case is long and convoluted, so only the history
+relevant to the current motion is discussed. Lao PDR commenced this action by filing
+a summons and complaint on April 21, 2020. See Compl., Apr. 21, 2020, ECF No. 1.
+Lao PDR’s initial complaint alleged a single cause of action—to enforce the Awards—
+against Baldwin and Bridge. Id. {4 148-62. On July 16, 2020, before Baldwin had
+been served with a summons, Bridge filed a motion to dismiss the complaint for lack
+of personal jurisdiction on the grounds that Lao PDR had named and served the
+incorrect company “Bridge Capital, LLC.” See Def. [Bridge’s] Mot. to Dismiss, July
+16, 2020, ECF No. 21 (“First Mot. to Dismiss”). In response, Lao PDR moved to amend
+its complaint to include the correct company “Bridge Capital, LLC,” opposed the First
+Mot. to Dismiss on the grounds that it should be permitted to conduct jurisdictional
+discovery to establish personal jurisdiction, and simultaneously moved to conduct
+jurisdictional discovery. See Mot. to Am. Compl., Aug. 31, 2020, ECF No. 26; Mot. to
+Conduct Jurisdictional Disc., Aug. 31, 2020, ECF No. 27; Pl.’s Resp. to [Bridge’s] Mot.
+to Dismiss, Aug. 31, 2020, ECF No. 28. Bridge opposed Lao PDR’s motions to amend
+the complaint and for jurisdictional discovery. See Resp. to Pl.’s Mot. to Conduct
+Jurisdictional Disc., Sept. 21, 2020, ECF No. 32; Resp. to Pl.’s Mot. to Am. Compl.,
+Sept. 21, 2020, ECF No. 33; see also Reply in Supp. of [Bridge’s] Mot. to Dismiss,
+
+Sept. 21, 2020, ECF No. 31.
+
+MEMORANDUM DECISION AND ORDER - 4
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 5 of 23
+
+On October 1, 2020, Baldwin moved to dismiss the initial complaint for lack of
+personal jurisdiction. See [Baldwin’s] Mot. to Dismiss, Oct. 1, 2020, ECF No. 34.
+After the parties entered into multiple stipulations to align the briefing schedules of
+the various pending motions, see ECF Nos. 35, 36, 39, and 40, the motions were all
+fully briefed as of December 11, 2020. See Pl.’s Resp. to [Baldwin’s] Mot. to Dismiss
+[Dkt. 34]; Pl.’s Reply in Supp. of Mot. to Am. Compl. [Dkt. 26]; AND Pl.’s Reply in
+Supp. of Mot. to Conduct Jurisdictional Disc. [Dkt. 27], Oct. 22, 2020, ECF No. 37;
+Reply in Supp. of [Baldwin’s] Mot. to Dismiss [Dkt. 34], Dec. 11, 2020, ECF No. 41.
+The Court then ordered oral argument of the various pending motions to be conducted
+on March 15, 2021. See Order, Dec. 18, 2020, ECF No. 42; Ltr. Re Oral Arg.
+Questions, Feb. 19, 2021, ECF No. 43; Amended Order, March 2, 2021, ECF No. 44.
+
+However, on March 5, 2021, Lao PDR filed a second motion to amend its
+complaint to (1) include a cause of action under the Uniform Voidable Transactions
+Act; (2) add Coleman, LLC as a party; and (8) add additional allegations in support
+of its argument that the Court has personal jurisdiction over the defendants. See
+Second Mot. to Am. Compl., March 5, 2021, ECF No. 45. The Court conducted oral
+argument on March 15, 2021, see Oral Argument, March 15, 2021, ECF No. 46, after
+which the parties entered into a stipulated schedule pursuant to which Lao PDR
+would file its Second Proposed Amended Complaint and the parties would brief their
+renewed motions to dismiss and for jurisdictional discovery, respectively. See
+
+Stipulation, March 18, 2021, ECF No. 49; see also Scheduling Order, March 18, 2021,
+
+ 
+
+ECF No. 50.
+
+MEMORANDUM DECISION AND ORDER - 5
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 6 of 23
+
+On March 19, 2021, Lao PDR filed its Second Amended Complaint and the
+Court granted Lao PDR’s unopposed second motion to amend its complaint. See
+Second Am. Compl., March 19, 2021, ECF No. 52; Order, March 19, 2021, ECF No.
+53. Subsequently, Baldwin and Bridge filed a new motion to dismiss for lack of
+personal jurisdiction. See [Baldwin and Bridge’s] Mot. to Dismiss for Lack of
+Jurisdiction or for Improper Venue, May 4, 2021, ECF No. 56. On May 21, 2021, Lao
+PDR moved to amend its complaint to add a new defendant and a new claim, and for
+leave to file a third amended complaint. See Third Mot. to Am. Compl., May 21, 2021,
+ECF No. 59. Lao PDR also filed opposition to Baldwin and Bridge’s motion to dismiss.
+See Pl.’s Resp. to Defs.’ Mot. to Dismiss for Lack of Personal Jurisdiction or Improper
+Venue, May 25, 2021, ECF No. 65.
+
+After the parties fully briefed the Third Mot. to Am. Compl., see Resp. to Pl.’s
+
+ 
+
+Third Mot. to Am. Compl., June 9, 2021, ECF No. 69; Decl. of [Baldwin], June 9, 2021,
+ECF No. 70; Decl. of Taylor Bruun, June 9, 2021, ECF No. 71; Decl. of Caleb Reed,
+June 8, 2021, ECF No. 72; Decl. of Bradley J. Shaw, June 8, 2021, ECF No, 73; Pl.’s
+Reply in Supp. of its Third Mot. to Am. Compl., July 6, 2021, ECF No. 82, the Court
+ordered an emergency hearing on Lao PDR’s motion to amend.® See Order, July 6,
+2021, ECF No. 83. The Court conducted that hearing on July 9, 2021, see ECF No.
+88, and granted Lao PDR’s motion to amend on July 15, 2021. See Memo. Dec. and
+
+Order re: Third Mot. to Am. Compl., July 15, 2021, ECF No. 101 (“TAC Order”); see
+
+3 Lao PDR also filed a motion for a preliminary injunction and temporary restraining
+order based on the proposed TAC, see Mot. for Temp. Restraining Order and Prelim.
+Injunction, May 21, 2021, ECF No. 58, which necessitated resolving Lao PDR’s Third
+Motion to Amend on an expedited basis.
+
+MEMORANDUM DECISION AND ORDER - 6
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 7 of 23
+
+also Am. Memo. Dec. and Order re: Third Mot. to Am. Compl., July 16, 2021, ECF
+No. 103. Lao PDR’s TAC was filed on July 16, 2021.4 See TAC.
+
+The Court subsequently denied Baldwin and Bridge’s motion to dismiss the
+Second Amended Complaint as moot. See Am. Scheduling Order, July 27, 2021, ECF
+No. 113. Pursuant to various stipulations and amendments to the Court’s scheduling
+order, the parties briefed new motions to dismiss and for jurisdictional discovery
+related to the TAC. See Pl.’s Mot.; Defs. Baldwin and Bridge’s Mot. to Dismiss [TAC]
+for Lack of Personal Jurisdiction or Improper Venue, Aug. 5, 2021, ECF No. 121
+(Mot. to Dismiss TAC”); Def. Br. Mot. to Dismiss TAC; Rev. Pl. Br.; Pl.’s Opp’n to
+Mot. to Dismiss, Aug. 31, 2021, ECF No. 125; Reply in Supp. of [Mot. to Dismiss TAC],
+Sept. 15, 2021, ECF No. 126; Def. Br. The Court conducted oral argument on Pl. Mot.
+and the Mot. to Dismiss TAC on October 28, 2021 (“Oral Arg.”). See Docket Entry,
+Oct. 28, 2021, ECF No. 135.
+
+After initially propounding discovery requests to defendants and receiving
+written objections, Lao PDR revised its requests to three categories broken down into
+seven separate requests consisting of six document requests and one request for a
+deposition, which it now asks the Court to order. See Discovery Demands. The
+specific discovery Lao PDR requests in support of its jurisdictional claims are:
+
+A. Idaho Independent Bank Account Information
+
+(1) Account statements from January 1, 2012 to December 31, 2019 for
+all accounts at Idaho Independent Bank owned by Baldwin, Bridge,
+
+Sanum, LHNV, or the John K. Baldwin Irrevocable Trust, or for
+which Baldwin has signing authority, including without limitation
+
+4 The TAC was deemed filed as of May 21, 2021. See TAC Order at 20.
+
+MEMORANDUM DECISION AND ORDER - 7
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 8 of 23
+
+the accounts identified in ECF No. 31-1 Exs. 3-4 and ECF No. 37-1
+Exs. C—J.
+
+(2) All communications between Baldwin and Idaho Independent Bank
+from January 1, 2012 to December 31, 2019.
+
+B. Baldwin and Bridge Property in Idaho
+
+(3) Documents sufficient to show all property, tangible or intangible, in
+the State of Idaho, in which Baldwin or Bridge has or had any
+ownership or other property interest, from January 1, 2017 to the
+present (including any interest in an LLC or other entity organized
+under the laws of Idaho or with its principal place of business in
+Idaho), and any acquisitions or dispositions of such property during
+that period.
+
+(4) For any such property that is an interest in an LLC or other entity,
+the organizational documents for the entity or other documents
+showing the entity’s ownership and any changes in ownership during
+that period.
+
+(5) The organizational and trust documents for the John K. Baldwin
+Irrevocable Trust, including documents sufficient to show the
+settlors, beneficiaries, and trustees thereof.
+
+C. Sanum/LHNV Alter Ego Status
+
+(6) Corporate records for Sanum and LHNYV, including organizational
+documents regardless of the date, as well as corporate resolutions,
+board meeting minutes and agendas, financial statements, and tax
+
+returns from January 1, 2012 to the present.
+
+(7) Deposition of non-party Clay Crawford, to be taken once document
+production is complete.
+
+For the reasons set forth below, Lao PDR’s motion for jurisdictional discovery
+
+is granted in part and denied in part.
+
+MEMORANDUM DECISION AND ORDER - 8
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 9 of 23
+
+Ill. DISCUSSION
+A. Standard of Review
+Ordering—or not ordering—jurisdictional discovery is within the discretion of
+the Court. Boschetto v. Hansing, 539 F.3d 1011, 1020 (9'» Cir. 2008). In the Ninth
+Circuit, jurisdictional discovery is appropriate where “pertinent facts bearing on the
+question of jurisdiction are controverted or where a more satisfactory showing of the
+facts is necessary.” Laub v. U.S. Dep't of Interior, 342 F. 3d 1080, 1093 (9t Cir. 2003)
+
+(quoting Butcher’s Union Local No. 498 v. SDC Inv., Inc., 788 F.2d 535, 540 (9th Cir.
+
+ 
+
+1986)). Courts will deny jurisdictional discovery where the request is “based on little
+more than a hunch that it might yield jurisdictionally relevant facts” or “based on
+bare allegations in the face of specific denials.” Boschetto, 539 F.3d at 1020; Terracom
+v. Valley Nat'l Bank, 49 F.3d 555, 562 (9t» Cir. 1995) (citation omitted). Although not
+binding on this Court, some district courts in the Ninth Circuit
+
+have required a plaintiff to establish a “colorable basis” for personal
+
+jurisdiction before discovery is ordered. This ‘colorable’ showing should
+
+be understood as something less than a prima facie showing, and could
+
+be equated as requiring the plaintiff to come forward with “some
+
+evidence” tending to establish personal jurisdiction over the defendant.
+Life Bliss Foundation v. Sun TV Network Limited, No. EDCV 13-00393-VAP, 2013
+WL 12132068, at *2 (C.D. Cal. Dec. 13, 2013) (quoting Johnson v. Mitchell, No. CIV.
+S-10-1968 GEB, 2012 WL 1657643, at *7 (E.D. Cal. May 10, 2012) and collecting
+
+cases); see also Lone Wolf Distributors, Inc. v. Bravoware, Inc., No. 2:15-cv-00016-
+
+ 
+
+BLW, 2016 WL 707359, at *1—2 (D. Idaho Feb. 22, 2016) (allowing discovery because
+plaintiff had “at least a colorable claim that discovery might yield facts sufficient to
+
+establish a prima facie case of personal jurisdiction”).
+
+MEMORANDUM DECISION AND ORDER - 9
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 10 of 23
+
+B. Proposed Discovery in Support of Specific Jurisdiction
+
+Lao PDR asserts that discovery into the first category of discovery, “Idaho
+Independent Bank Account Information,” is appropriate because “it would confirm
+whether Baldwin and Bridge purposefully used Idaho bank accounts to finance and
+operate the unlawful gambling ventures in Laos that gave rise to the arbitrations and
+pay for the arbitrations themselves,” and therefore would allegedly establish specific
+jurisdiction over Baldwin and Bridge. Rev. Pl. Br. at 3. Specifically, Lao PDR
+contends that the discovery it seeks is narrowly tailored and will reveal connections
+between Baldwin and Bridge’s activities in Idaho and the events underlying the two
+arbitrations. Id. at 4-6. In support of its argument, Lao PDR points to allegations in
+the TAC that Baldwin and Bridge used their Idaho bank accounts in connection with
+Sanum and LHNV’s Laotian gambling ventures. Id. at 4—5; see also TAC {jj 33-62.
+Lao PDR lists several transactions that it argues show a pattern by Baldwin and
+Bridge of using Idaho bank accounts to conduct business related to Sanum and
+LHNV’s gambling businesses. Rev. Pl. Br. at 5; see also Decl. of David Branson in
+Supp. of Pl.’s Resp. to [Baldwin’s] Mot. to Dismiss, {/] 29-38, Exs. C—J, Oct. 22, 2020,
+ECF No. 37-1 (“Branson Decl.”).
+
+In response, Baldwin and Bridge contend that discovery is not warranted
+because (i) banking records of non-parties are not relevant to the question of specific
+jurisdiction over Baldwin and Bridge; (ii) Baldwin and Bridge’s Idaho contacts must
+relate to the Awards, not the issues underlying the arbitrations, so discovery into
+their Idaho contacts is futile; (iii) even if Lao PDR is correct that the forum contacts
+
+need only relate to the issues underlying the arbitrations, Lao PDR still could not
+
+MEMORANDUM DECISION AND ORDER - 10
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 11 of 23
+
+demonstrate specific jurisdiction because it cannot show that its injury—i.e. the costs
+it incurred defending the arbitrations—are related to Baldwin and Bridge’s contacts
+with Idaho; and (iv) the specific requests LAO PDR propounded are overly broad and
+unduly burdensome to comply with. See Def. Br. at 3-6.
+
+Instead of a bright-line rule about whether the relevant forum contacts must
+relate to the events underlying the arbitration or to the conduct of the arbitration
+itself that is applicable to arbitral award enforcement actions, the case law
+demonstrates that courts look to the nexus between a defendant, the forum, and the
+plaintiffs claim. Compare Rey. Pl. Br. at 4 (citing Compafiia_de Inversiones
+Mercantiles, S.A. v. Grupo Cementos de Chihuahua S.A.B. de C.V., 970 F.3d 1269,
+1287 (10 Cir. 2020); Glencore Grain Rotterdam B.V. v. Shivnath Rai Harnarain Co.,
+
+284 F.3d 1114, 1123-24 (9t Cir. 2002)) with Def. Br. at 3-4 (citing Sharp Corp. v.
+
+ 
+
+Hisense USA Corp., 292 F. Supp. 3d 157, 163-64, 171 (D.D.C. Nov. 18, 2017); CRS,
+LLC v. Bitarts Ltd., No. 05-0437L, 2005 WL 8172582, at *2 (W.D. Wash. July 26,
+2005); CIMSA, 970 F.3d at 1286). In Sharp, the court analyzed the connection
+between the defendant’s contacts with the forum and the arbitral tribunal’s
+emergency order enjoining the plaintiff from making disparaging remarks about the
+defendant. 292 F. Supp. 3d at 170-71. The plaintiff complained that the emergency
+order allegedly infringed plaintiffs first amendment rights, so the court’s analysis
+necessarily looked to the relationship between the defendant’s forum contacts and the
+emergency order enjoining those rights. Id. Likewise, in Glencore Grain, the Ninth
+
+Circuit discussed the claims underlying the arbitration because the plaintiff in that
+
+MEMORANDUM DECISION AND ORDER - 11
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 12 of 23
+
+case sought to enforce a final arbitral award for damages against the defendant. See
+Glencore Grain, 284 F.3d at 1123-24.
+
+Lao PDR argues that CIMSA creates a bright-line rule that the appropriate
+inquiry is into the nexus to the claims underlying the arbitration. Rev. Pl. Br. at 4.
+In support of that argument, Lao PDR cites the Tenth Circuit’s statement in CIMSA
+that the
+
+substantive and procedural features of an action to confirm an
+
+arbitration award support the conclusion that the proper jurisdictional
+
+inquiry is whether the beneficiary of an award can show he or she
+sustained an injury caused by the defendant’s forum activities in
+connection with the claim that led to the arbitration, as opposed to an
+injury caused by the defendant’s forum activities in connection with the
+arbitration proceeding itself.
+970 F.3d at 1287; see also Rev. Pl. Br. at 4. Thus, according to Lao PDR, the Tenth
+Circuit held that specific jurisdiction exists as long as defendant’s forum contacts
+relate to the events underlying the arbitration.
+
+However, the CIMSA court also set forth the constitutional analysis when
+specific jurisdiction is contested.
+
+Consistent with the Due Process Clause, a court may exercise specific
+
+personal jurisdiction only if the litigation results from alleged injuries
+
+that arise out of or relate to activities by the defendant which were
+
+purposefully directed at the forum. In a case like this one, this guidance
+
+makes more sense—and perhaps only makes sense—if applied with an
+
+eye toward the underlying dispute.
+
+970 F.3d at 1286 (emphasis in original) (internal quotation marks and citations
+omitted). Thus, the language Lao PDR relies on, which relates specifically to
+
+jurisdictional features of the New York Convention, must be read together with the
+
+Tenth Circuit’s construction of the proper constitutional inquiry that a court must
+
+MEMORANDUM DECISION AND ORDER - 12
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 13 of 23
+
+make to satisfy due process. Therefore, the Tenth Circuit held that in a typical
+enforcement action (i.e., one in which an arbitral claimant seeks to enforce an award
+of damages against an arbitral respondent), the injury in question occurred prior to
+the arbitral proceedings and so the relevant constitutional inquiry is whether the
+defendant’s forum contacts relate to the underlying claims in the arbitration. Id. at
+1286-87. CIMSA does not address the specific jurisdictional analysis in contexts
+other than the typical enforcement action, such as the one presented here, except to
+the extent that it held that the constitutional framework remains the same. Id. at
+1286. Thus, CIMSA, Sharp, and Glencore Grain all look at the relationship between
+the plaintiff's claim and the defendant’s forum contacts.
+
+Given that the Court finds no real conflict in the authorities cited by the
+parties, the proper inquiry is whether a sufficient nexus exists between the forum,
+the defendant, and the plaintiffs cause of action. In this case, Lao PDR’s claim is to
+enforce two arbitral Awards for the costs, fees, and expenses it incurred in defending
+the arbitrations commenced by Sanum and LHNV. See TAC 4{ 119-20. The arbitral
+tribunals each found that Lao PDR had a complete defense to the claims asserted by
+Sanum and LHNYV, respectively, and, pursuant to the procedures agreed to by the
+parties to the arbitrations, the tribunals awarded Lao PDR costs, fees, and expenses
+for having to defend against Sanum’s and LHNV’s unsuccessful claims. See TAC Ex
+C44 281-94, Ex. D 4 251-66.
+
+Although the Awards are not for damages based on Lao PDR’s affirmative
+claims during the arbitrations, Lao PDR demonstrated a sufficient connection
+
+between the Awards and the claims underlying the arbitrations for the purposes of
+
+MEMORANDUM DECISION AND ORDER - 13
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 14 of 23
+
+this motion in that Lao PDR was awarded its costs, fees, and expenses based on the
+merits of its defenses.> Moreover, Lao PDR has submitted sufficient evidence to make
+its allegations regarding the nexus between Baldwin, Bridge, Idaho, and Lao PDR’s
+claim to enforce the Awards more than a hunch. Lao PDR proffered evidence of
+contacts with Idaho that relate to the conduct of the arbitrations themselves. Lao
+PDR submitted an email confirmation of an outgoing wire transfer of $200,000 that
+was sent from a Bridge account in Idaho to the International Bank for Reconstruction
+in connection with the LHNV arbitration. See Branson Decl. § 37, Ex. I. Moreover,
+Lao PDR alleges that Baldwin used an Idaho bank account to bribe a potential
+witness to not testify in the arbitral proceedings. See TAC § 54. Although the specific
+allegation that Baldwin’s Idaho account was used to pay the bribe is made on
+information and belief, the fact that the arbitral tribunals found that such a bribe
+was paid supports the allegation as more than hunch. See TAC Ex. C 4 154-62, Ex.
+D ¥/§/ 153-61. Additionally, Lao PDR submitted evidence of a number of financial
+transactions linking Idaho to Baldwin and Bridge’s activities in Laos. See Branson
+Decl. § 29-38, Exs. C—J. Although some of these transactions involve non-parties
+
+rather than Baldwin or Bridge, Lao PDR has done enough at this stage to warrant
+
+5 Given that Lao PDR’s claim is to enforce Awards for costs, fees, and expenses
+incurred during the arbitrations themselves, the Court is mindful of the analysis set
+forth in Sharp. In Sharp, plaintiff sought to set aside an emergency award issued by
+the tribunal. Sharp, 292 F. Supp. 3d at 163-64. In assessing jurisdiction, the court
+refused to consider contacts relating to the underlying dispute because the
+“grievances are grounded in the emergency order itself.” 292 F. Supp. 3d at 171.
+Here, unlike the emergency award in Sharp, which was an interim measure put in
+place during the pendency of the merits proceedings, the Awards reflect Lao PDR’s
+success on the merits of its defenses.
+
+MEMORANDUM DECISION AND ORDER - 14
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 15 of 23
+
+limited discovery into Baldwin’s and Bridge’s contacts with Idaho and how those
+contacts relate to the Awards.
+
+However, the Court agrees with Baldwin and Bridge that Lao PDR’s first
+category of requested discovery is overbroad. Lao PDR seeks eight years of account
+statements for “all accounts at Idaho Independent Bank owned by Baldwin, Bridge,
+Sanum, [LHNV], or the John K. Baldwin Irrevocable Trust, or for which Baldwin has
+signing authority.”6 Discovery Demands at 1. The Court remains unpersuaded that
+non-parties’ activities in the forum have any bearing on the Court’s jurisdiction over
+Baldwin and Bridge.’ Jurisdictional discovery into the John K. Baldwin Irrevocable
+Trust (the “JKB Trust”) is particularly unwarranted, as there is not even an
+
+allegation that the JKB Trust is Baldwin’s alter ego. Moreover, as discussed below,
+
+6 For the purposes of this motion, Lao PDR need not make a prima facie showing of
+specific jurisdiction over Baldwin and Bridge. Lao PDR has met its lesser burden to
+show “a colorable basis” of personal jurisdiction based on Baldwin and Bridge’s
+contacts with Idaho related to both the conduct of the arbitrations and the claims
+underlying the arbitrations. See Lone Wolf, 2016 WL 707359, at *1. Therefore, the
+requested time period is not overbroad. See Steel v. United States, 813 F.2d 1545,
+1549 (9t» Cir. 1987) (“courts must examine the defendant’s contacts with the forum
+at the time of the events underlying the dispute when determining whether they have
+jurisdiction”).
+
+7 Lao PDR contended at oral argument that Baldwin’s activities as a corporate officer,
+director, or trustee of various non-party entities could be imputed to Baldwin
+personally for the purposes of specific jurisdiction without a finding that Baldwin and
+those entities are alter egos. Oral Arg. at 23:24—25:30. Lao PDR’s contention is
+incorrect. See In re Boon Global Ltd., 923 F.3d 648, 651 (9'» Cir. 2019) (other than
+alter ego status and individual torts, corporate form generally shields officers from
+jurisdiction where the only contacts are with regard to performance of official duties).
+
+MEMORANDUM DECISION AND ORDER - 15
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 16 of 23
+
+the Court must have jurisdiction over Baldwin in order to reach the substantive
+question of which, if any, of his companies are merely his alter egos.
+
+Therefore, the Court will limit Lao PDR’s inquiry to accounts owned by
+Baldwin and/or Bridge. Lao PDR’s request for account statements for accounts owned
+by Sanum, LHNV, the John K. Baldwin Irrevocable Trust, and any account for which
+Baldwin has signing authority is denied to the extent that such accounts are not or
+were not also owned by Baldwin and/or Bridge during the relevant time period.
+Moreover, Lao PDR is not entitled to Baldwin and Bridge’s unredacted account
+statements. Baldwin and Bridge shall produce redacted statements showing only
+information that might reasonably be interpreted as relating to the Awards or the
+conduct that led to the arbitrations. Likewise, Lao PDR’s request for communications
+between Baldwin and Idaho Independent Bank from January 1, 2012 to December
+31, 2019 is limited to communications that might reasonably be interpreted as
+
+relating to the Awards or the conduct that led to the arbitrations.®
+
+8 Ranza v. Nike, Inc., relied on by Lao PDR in support of its argument that the Court
+can use alter ego liability to find personal jurisdiction over a defendant, is inapposite.
+See 793 F.3d 1059 (9 Cir. 2015). In that case, the Ninth Circuit found that it could
+not exercise jurisdiction over Nike’s subsidiary despite numerous contacts with the
+forum. Id. at 1069-70. Moreover, there was no dispute over the district court’s
+jurisdiction over Nike, which the plaintiff attempted to use to gain jurisdiction over
+the subsidiary. Here, in contrast, it is unclear whether the Court has jurisdiction
+over Baldwin, Bridge, Sanum, or LHNV, the latter two of which are not even parties.
+9 Although the Court is not obligated to rewrite overly broad discovery requests, see
+In re Pioneer Corp., No. cv-18-4524, 2018 WL 4963126, at *6 (C.D. Cal. Aug. 27, 2018)
+(collecting cases), the Court has broad discretion to manage discovery, including to
+narrow such requests. Id. at *6—7.
+
+ 
+
+MEMORANDUM DECISION AND ORDER - 16
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 17 of 23
+
+C. Proposed Discovery in Support of Quasi in Rem Jurisdiction
+
+Lao PDR requests the second category of discovery, “Baldwin and Bridge
+Property in Idaho,” in support of its theory that the Court can exercise quasi in rem
+jurisdiction over Baldwin and Bridge. Rev. Pl. Br. at 6-7. Lao PDR relies on an
+exception to the general prohibition against quasi in rem jurisdiction, set forth in
+Shaffer v. Heitner, that “[o]nce it has been determined by a court of competent
+jurisdiction that the defendant is a debtor of the plaintiff,” the creditor is permitted
+“to realize on that debt in a State where the defendant has property.” 433 U.S. 186,
+210 n.36 (1977). Although Lao PDR correctly notes that this exception also applies
+to the enforcement of arbitral awards, see Glencore Grain, 284 F.3d at 1127, Lao PDR
+does not have an arbitral award against Baldwin or Bridge. See TAC Exs. C and D.
+The Awards are against Sanum and LHNV, respectively, and no court or arbitral
+tribunal has determined that Baldwin or Bridge is a debtor to Lao PDR with respect
+to the Awards. See TAC 4 11-13. Indeed, whether Baldwin or Bridge is a debtor to
+Lao PDR is exactly the determination that Lao PDR is asking this Court to make.
+However, Lao PDR cannot put the cart before the horse: The Court must have
+jurisdiction over Baldwin and Bridge before it can make any substantive
+
+determinations regarding alter ego status.1° See Glencore Grain, 284 F.3d at 1127
+
+10 As discussed below, Lao PDR’s construction of alter ego liability as a jurisdictional
+question is not persuasive in this case. Although the Ninth Circuit has held that alter
+ego status can be used to extend jurisdiction over a party that would otherwise not
+be subject to jurisdiction, see Ranza, 793 F.3d at 1071, Lao PDR asks the Court to
+engage in a substantive alter ego analysis prior to determining that it has jurisdiction
+over any of the alleged alter egos. See Rev. Pl. Br. Without pre-existing jurisdiction
+over at least one of the alleged alter egos, the Court cannot analyze the alter ego
+question.
+
+MEMORANDUM DECISION AND ORDER - 17
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 18 of 23
+
+(quasi in rem jurisdiction available only after “it has been determined by a court of
+competent jurisdiction that the defendant is a debtor of the plaintiff’ (quoting Shaffer,
+433 U.S. at 210 n.36)). For the reasons set forth more fully below, the Court cannot
+determine alter ego status without first determining that it has jurisdiction over at
+least one of the alleged alter egos.
+
+Because Lao PDR has not satisfied the first requirement of quasi in rem
+jurisdiction that a court of competent jurisdiction has determined that Baldwin and
+Bridge are Lao PDR’s debtors, the Court finds that any further discovery into
+Baldwin and Bridge’s assets in Idaho would not be relevant to the Court’s
+jurisdictional analysis. The motion for jurisdictional discovery is denied with respect
+to the second category of discovery.
+
+D. Proposed Discovery in Support of Lao PDR’s Alter Ego Theory
+
+Finally, Lao PDR requests extensive discovery into non-parties Sanum and
+LHNV in support of Lao PDR’s claim that Baldwin is the alter ego of each of those
+
+entities. Rev. Pl. Br. at 8. Lao PDR relies primarily on Ranza and a District of Oregon
+
+ 
+
+case involving a default judgment proceeding. See Rev. Pl. Br. at 8-9 (citing, inter
+
+alia, Ranza, 793 F.3d at 1073; Bunge S.A. v. Pac. Gulf Shipping (Sing.) Pte. Ltd., No.
+
+ 
+
+3:19-cv-00491, 2020 WL 1528250, at *2—38 (D. Or. March 31, 2020).!! In opposition,
+
+Baldwin and Bridge cite another District of Oregon case for the position that a court
+
+11 CBF Industrua de Gusa S/A v. AMCI Holdings, Inc. is inapposite because personal
+jurisdiction was not an issue before that court. 850 F.3d 58, 73 (2d Cir. 2017). The
+other case cited by Lao PDR is distinguishable for the same reason as Ranza, namely
+that the court already possessed undisputed jurisdiction over one of the alter egos
+prior to analyzing the alter ego question. See Crystalles Int'l Corp. v. Bolivarian
+Republic of Venezuela, 932 F.3d 126, 138 (8d Cir. 2019).
+
+MEMORANDUM DECISION AND ORDER - 18
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 19 of 23
+
+cannot engage in an alter ego analysis prior to determining that it has jurisdiction.
+See Def. Br. at 7 (citing Cerner Middle E. Ltd. v. iCapital, LLC, No. 3:16-CV-01631,
+2017 WL 2579292, at *2 (D. Or. June 14, 2017), rev'd and remanded on other grounds,
+939 F.3d 1016 (9t Cir. 2019).
+
+In Bunge, the District of Oregon held that the plaintiff had met its burden of
+establishing a prima facie case that it was entitled to a default judgment, including
+that the court had personal jurisdiction over the non-answering defendants. Bunge,
+2020 WL 1528250, at *2-3. The plaintiff in Bunge commenced the action against an
+arbitral award debtor and the debtor’s alleged alter ego seeking to enforce the award
+against the alleged alter ego’s property within the district. Id. at *1.
+
+Although the basic facts in Bunge appear to be similar to this case, the
+procedural posture is completely different. In Bunge, the District Court analyzed a
+magistrate’s report that had determined that a default judgment was warranted. Id.
+Despite the magistrate finding that the two defendants were alter egos, the
+magistrate did not determine whether the court had personal jurisdiction. Id. at *2.
+Thus, the District Court analyzed whether it had jurisdiction over the claims. Id.
+
+The Bunge court relied exclusively on Ranza in support of its finding that “alter egos
+
+ 
+
+may be analyzed as if they were a single entity.” Id. The court thus found, “For the
+reasons set forth in the [magistrate’s report], the Court concludes that [the
+defendants] are alter-ego entities, and therefore, the London tribunal had jurisdiction
+to issue its judgment.” Id. Given this finding, the court held that it was appropriate
+to exercise quasi in rem jurisdiction over the defendants based on the alter ego’s
+
+property within the district. Id. at *2-3.
+
+MEMORANDUM DECISION AND ORDER - 19
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 20 of 23
+
+However, it does not appear that the Bunge court analyzed the question of
+whether it had jurisdiction to make the alter ego finding. In Ranza, the only case on
+which the Bunge court relied, there was no question that the court had jurisdiction
+
+over the parent company, Nike. Ranza, 793 F.3d at 1071 (describing Nike as a “local
+
+ 
+
+parent”). Therefore, the Ranza court did not have to undertake an alter ego analysis
+as a pre-requisite to finding jurisdiction; rather, it had jurisdiction over Nike and
+merely investigated if that jurisdiction could be extended to Nike’s subsidiary by
+finding the subsidiary and Nike were effectively one and the same. Id.
+
+Here, on the other hand, the Court does not have jurisdiction over the award
+debtors, Sanum and LHNV, as those entities are not parties to this suit. Even if Lao
+PDR had joined Sanum and LHNY,, it is unclear based on the record before the Court
+if Sanum or LHNV have any property in, or sufficient contacts with, Idaho. Thus,
+the Court would need to determine its jurisdiction over Sanum and LHNV prior to
+reaching any alter ego analysis. See Glencore Grain, 284 F.3d at 1122 (“In suits to
+confirm a foreign arbitral award under the Convention, due process requires that the
+
+district court have jurisdiction over the defendant”); see also Ranza, 793 F.3d at 1071
+
+ 
+
+(‘Ranza seeks to impute local parent’s contacts to a foreign subsidiary . . . whereas
+the alter ego test has traditionally been used to bring a controlling parent into a
+controlled subsidiary’s home forum, Ranza attempts to use the test to bring a
+controlled subsidiary into the controlling parent’s home forum”). Here, neither
+Baldwin, Bridge, Sanum, nor LHNV are subject to general jurisdiction, as Nike was
+in Oregon, so the Court would need to find jurisdiction over at least one of those
+
+entities prior to analyzing Lao PDR’s alter ego claim.
+
+MEMORANDUM DECISION AND ORDER - 20
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 21 of 23
+
+Glencore Grain is instructive here: The Ninth Circuit held that quasi in rem
+jurisdiction is appropriate only after “it has been determined by a court of competent
+jurisdiction that the defendant is a debtor of the plaintiff.” Glencore Grain, 284 F.3d
+
+at 1127 (quoting Shaffer, 433 U.S. at 210 n.36). Although an arbitral tribunal has
+
+ 
+
+determined that Sanum and LHNV are debtors of Lao PDR, no court of competent
+jurisdiction has determined that Baldwin and Bridge are debtors of Lao PDR. This
+Court cannot make that determination without first having personal jurisdiction over
+
+Baldwin and Bridge. Id.; see also Cerner, 2017 WL 2579292, at *2 (finding that court
+
+ 
+
+ 
+
+did not have jurisdiction to determine whether individual defendant was alter ego of
+award debtor because he was not a signatory to the arbitral contract and no court of
+competent jurisdiction had determined that he was subject to the award). !2
+
+Because the Court must have personal jurisdiction over Baldwin and Bridge
+before it can undertake an analysis of whether they are alter egos of Sanum and
+LHNV, and there is no allegation that the Court already possesses jurisdiction over
+Sanum or LHNV, discovery into Sanum and LHNV’s corporate histories and their
+
+relationships with Baldwin and Bridge would not aid the Court in determining its
+
+12 The problem with Lao PDR’s position becomes clear when considering the
+possibility that the Court analyzes the alter ego question prior to determining
+jurisdiction over at least one of the alleged alter egos and finds Sanum and LHNV to
+not be Baldwin’s or Bridge’s alter egos. In that case, the Court would not have
+jurisdiction over any of the alleged alter egos, yet the Court would have made a
+critical substantive finding, a finding that could have ramifications on Lao PDR’s
+ability to enforce the Awards, without any jurisdiction to have made such a finding.
+
+MEMORANDUM DECISION AND ORDER - 21
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 22 of 23
+
+jurisdiction over Baldwin and Bridge. Lao PDR’s motion for jurisdictional discovery
+is denied with respect to the third category of discovery. !8
+IV. CONCLUSION
+
+For the foregoing reasons, Lao PDR’s motion for jurisdictional discovery is
+granted in part and denied in part, and it is
+
+ORDERED that Lao PDR’s motion is granted in part and denied in part; and
+it is further
+
+ORDERED that within 30 days from the date this Memorandum Decision and
+Order is filed, Baldwin and Bridge shall produce all account statements from January
+1, 2012 through December 31, 2019 for any account at Idaho Independent Bank that
+either Baldwin or Bridge owns, owned, or partially owns or owned during that period.
+Such statements shall be redacted to include only information that might reasonably
+be interpreted as relating to the Awards or the conduct that led to the arbitrations;
+and it is further
+
+ORDERED that within 30 days from the date this Memorandum Decision and
+Order is filed, Baldwin and Bridge shall produce communications between Baldwin
+and Idaho Independent Bank from January 1, 2012 to December 31, 2019 that might
+reasonably be interpreted as relating to the Awards or the conduct that led to the
+
+arbitrations; and it is further
+
+13 The Court’s denial of any discovery related to Sanum and LHNV allegedly being
+Baldwin’s alter egos includes Lao PDR’s request to take the deposition of Clay
+Crawford.
+
+MEMORANDUM DECISION AND ORDER - 22
+
+Case 2:20-cv-00195-CRK Document 137 Filed 11/19/21 Page 23 of 23
+
+ORDERED that Lao PDR’s motion for jurisdictional discovery is otherwise
+DENIED without prejudice to renew if this case proceeds past the pending Motion to
+Dismiss TAC; and it is further
+
+ORDERED that the parties shall confer and submit a proposed schedule for
+supplemental briefing of Baldwin and Bridge’s pending Motion to Dismiss TAC with
+respect to any new factual allegations and/or legal arguments based on the discovery
+
+that will be conducted pursuant to this Order.
+
+/s/ Claire R. Kelly
+Claire R. Kelly, Judge*
+
+Dated: November 19, 2021
+
+* Judge Claire R. Kelly, of the United States Court of International Trade, sitting by
+designation.
+
+MEMORANDUM DECISION AND ORDER - 23
+

@@ -1,0 +1,534 @@
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 1 of 16
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+REPUBLIC OF KAZAKHSTAN,
+Plaintiff,
+
+v. Civil Action No. 17-2067 (ABJ)
+
+ANATOLIE STATI et al.,
+
+Defendants.
+
+MEMORANDUM OPINION
+
+Plaintiff, the Republic of Kazakhstan (“Kazakhstan”), brought this civil suit against the
+defendants — Anatolie Stati, Gabriel Stati, and the two companies they own, Ascom Group, S.A.
+and Terra Raf Trans Traiding Ltd. (the “Stati Parties”) — for alleged violations of the Racketeer
+Influenced and Corrupt Organizations Act (“RICO”), 18 U.S.C. § 1961 et seg., and the common
+law torts of fraud and civil conspiracy. Compl. § 1 [Dkt. # 1]. Kazakhstan claims that
+defendants obtained an arbitral award from the Stockholm Chamber of Commerce (“SCC”) in
+Sweden through fraud, and that defendants’ subsequent efforts to use legal process to enforce
+and collect on that arbitral award have been unlawful. Jd. §§ 6, 8. Kazakhstan filed this lawsuit
+while an action to enforce the arbitral award was already pending in this Court, and it seeks
+damages, attorneys’ fees, and an injunction preventing defendants from enforcing the foreign
+arbitral award in the United States. /d., “Prayer for Relief,” at 92-93.
+
+The Stati Parties moved to dismiss the complaint for failure to state a claim under Federal
+Rule of Civil Procedure 12(b)(6). Plaintiff opposed the motion, and the matter is ripe for
+
+decision. For the reasons that follow, the Court will grant defendants’ motion and dismiss the ill-
+
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 2 of 16
+
+advised lawsuit. A RICO civil suit is not a vehicle to challenge non-frivolous litigation, or in
+this case, a valid and final foreign arbitral award.
+BACKGROUND
+
+In a related case to enforce the same foreign arbitral award, this Court granted the Stati
+Parties’ petition to confirm the award pursuant to the New York Convention. Anatolie Stati v.
+Republic of Kazakhstan, 302 F. Supp. 3d 187, 209 (D.D.C. 2018).! The Court held that
+Kazakhstan did not establish any of the narrow grounds for denying confirmation of the foreign
+award. Jd. at 202-09. The facts surrounding this case are discussed in detail in that opinion.
+
+To briefly recap, the Stati Parties initiated arbitration proceedings seeking reparations
+against Kazakhstan with the Stockholm Chamber of Commerce on July 26, 2010 for the
+expropriation of their assets, including an unfinished liquified petroleum gas plant (“LPG
+plant”). Compl. §{ 6, 138. On December 19, 2013, the SCC tribunal found that Kazakhstan
+violated its obligations under the Energy Charter Treaty, and it issued an award in favor of the
+Stati Parties in the amount of $497,685,101.00, which included $199 million for the LPG plant.
+Id. §§ 158-59.
+
+Kazakhstan attempted to nullify the SCC award by instituting proceedings before the
+Svea Court of Appeal in Stockholm. Compl. § 183. It argued, among other things, that the SCC
+award was procured by fraud. Jd. § 185. The alleged fraud concerned the value of the LPG
+plant. Id. § 5. According to plaintiff, prior to the initiation of the arbitral proceedings, the Stati
+Parties “created a number of illegitimate contractual documents with related parties for the
+| Inthe same opinion, the Court also denied Kazakhstan’s motion to reconsider the Court’s
+denial of its motion for leave to include additional defense grounds premised on a theory that the
+Stati Parties obtained the SCC award through fraud. Stati, 302 F. Supp. 3d at 196-201. The
+Court found that it did not err as a matter of law when it found that Kazakhstan had failed to
+
+demonstrate a connection between the complained-of fraud and the arbitral decision. Jd. at 199—
+201.
+
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 3 of 16
+
+purpose of artificially inflating the construction costs of the LPG [p]lant.” Jd. § 65. These
+falsified construction costs, Kazakhstan alleges, were included in financial statements, which
+were in tur used to fraudulently induce companies, including the state-owned oil and gas
+company, KazMunaiGas (“KMG”), into bidding $199 million for the LPG plant in 2008. Jd. §
+5, 116, 130-31. Thus, Kazakhstan charges that the Stati Parties misrepresented the value of the
+LPG plant during the SCC arbitration when they proffered “the fraudulently procured bids,” the
+“falsified financial statements,” “false testimony regarding the amount of the investment in the
+LPG [p]lant,” and “expert reports” that restated those figures as evidence. Id. § 152. According
+to Kazakhstan, based upon this “false evidence” the arbitral panel awarded the Stati Parties $199
+million in compensation for the LPG plant. Id.
+
+Despite what Kazakhstan characterizes as its “detailed and specific allegations regarding
+[dJefendants’ fraudulent scheme,” the Svea Court of Appeal affirmed the arbitral award on
+December 9, 2016. Compl. § 188. Kazakhstan then filed a motion to the Swedish Supreme
+Court seeking to quash the Svea Court of Appeal’s judgment due to “grave procedural errors.”
+Id. § 190. That legal challenge also failed. On October 24, 2017, the Swedish Supreme Court
+denied Kazakhstan’s motion. Stati, 302 F. Supp. 3d at 196.
+
+Although the Swedish Supreme Court decision extinguished Kazakhstan’s hope of
+vacating the final arbitral award, the legal battle to resist the award’s enforcement rages on in
+several jurisdictions across Europe and the United States where the Stati Parties initiated
+
+enforcement proceedings to collect on the award.? Compl. {] 194-247. This suit, for alleged
+
+2 See TermoRio S.A. E.S.P. v. Electranta S.P., 487 F.3d 928, 939 (D.C. Cir. 2007) (“From
+the plain language and history of the [New York] Convention, it is thus apparent that a party may
+seek to vacate or set aside an award in the state in which, or under the law of which, the award is
+rendered.”).
+
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 4 of 16
+
+RICO violations, is the latest chapter. In its 93-page complaint, plaintiff accuses defendants of
+engaging in a “sophisticated and wide-ranging illegal pattern of racketeering,” based upon its
+efforts to fraudulently inflate the value of the LPG plant, both prior to and during the SCC
+arbitration, and its ongoing litigation activities to enforce and collect on the SCC award. Compl.
+92, 5-18.
+
+Plaintiff filed this suit on October 5, 2017. See Compl. Defendants moved to dismiss the
+complaint on April 20, 2018, arguing that plaintiff failed to state a claim, Defs.’ Mot. to Dismiss
+[Dkt. # 19] (“Defs.’ Mot.”); Mem. of P. & A. in Supp. of Defs.’ Mot. to Dismiss [Dkt. # 19-1]
+(“Defs.” Mem.”). Plaintiff filed its opposition to the motion on May 25, 2018, see Rep. of
+Kazakhstan’s Mem. of P. & A. in Opp. to Defs.’ Mot. [Dkt. # 26] (“Pl.’s Opp.”), and defendants
+filed their reply on June 11, 2018. See Reply of Defs.’ Mot. to Dismiss [Dkt. # 28] (“Defs.’
+Reply”).?
+
+The Court finds that plaintiff failed to state a RICO claim based upon a “scheme” that
+amounts to a protracted legal dispute over an LPG plant. Accordingly, the Court will dismiss the
+RICO claims with prejudice, and it declines to exercise supplemental jurisdiction over the
+common law claims of fraud and civil conspiracy.
+
+STANDARD OF REVIEW
+
+“To survive a [Rule 12(b)(6)] motion to dismiss, a complaint must contain sufficient
+factual matter, accepted as true, to state a claim to relief that is plausible on its face.” Ashcroft v.
+Igbal, 556 U.S. 662, 678 (2009), quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007).
+In Iqbal, the Supreme Court reiterated the two principles underlying its decision in Twombly:
+“First, the tenet that a court must accept as true all of the allegations contained in a complaint is
+3 On April 24, 2018, the Court granted defendants’ Motion to Vacate the Clerk’s Entry of
+
+Default against Ascom Group, S.A. and Terra Raf Trans Traiding Ltd. See Order [Dkt. # 20];
+Mem. Op. [Dkt. # 21].
+
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 5 of 16
+
+inapplicable to legal conclusions.” Jgbal, 556 U.S. at 678. And “[s]econd, only a complaint that
+states a plausible claim for relief survives a motion to dismiss.” Jd. at 679, citing Twombly, 550
+US. at 556.
+
+A claim is facially plausible when the pleaded factual content “allows the court to draw
+the reasonable inference that the defendant is liable for the misconduct alleged.” Iqbal, 556 U.S.
+at 678. “The plausibility standard is not akin to a ‘probability requirement,’ but it asks for more
+than a sheer possibility that a defendant has acted unlawfully.” Jd. A pleading must offer more
+than “labels and conclusions” or a “formulaic recitation of the elements of a cause of action,” id.,
+quoting Twombly, 550 U.S. at 555, and “[t]hreadbare recitals of the elements of a cause of
+action, supported by mere conclusory statements, do not suffice.” Id.
+
+In evaluating a motion to dismiss under Rule 12(b)(6), a court must “treat the complaint’s
+factual allegations as true and must grant plaintiff ‘the benefit of all inferences that can be
+derived from the facts alleged.” Sparrow v. United Air Lines, Inc., 216 F.3d 1111, 1113 (D.C.
+Cir. 2000) (internal citation omitted), quoting Schuler v. United States, 617 F.2d 605, 608 (D.C.
+Cir. 1979); see also Am. Nat'l Ins. Co. v. FDIC, 642 F.3d 1137, 1139 (D.C. Cir. 2011), quoting
+Thomas v. Principi, 394 F.3d 970, 972 (D.C. Cir. 2005). Therefore, when considering a motion
+to dismiss, a court must construe a complaint liberally in the plaintiff's favor. Kowal v. MCI
+Commc’ns Corp., 16 F.3d 1271, 1276 (D.C. Cir. 1994). Nevertheless, the court need not accept
+inferences drawn by the plaintiff if those inferences are unsupported by facts alleged in the
+complaint, nor must the court accept plaintiff's legal conclusions. Jd.; see also Browning v.
+Clinton, 292 F.3d 235, 242 (D.C. Cir. 2002). In ruling upon a motion to dismiss for failure to
+state a claim, a court may ordinarily consider only “the facts alleged in the complaint, documents
+
+attached as exhibits or incorporated by reference in the complaint, and matters about which the
+
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 6 of 16
+
+Court may take judicial notice.” Gustave-Schmidt v. Chao, 226 F. Supp. 2d 191, 196 (D.D.C.
+2002), citing EEOC v. St. Francis Xavier Parochial Sch., 117 F.3d 621, 624-25 (D.C. Cir.
+1997).
+
+ANALYSIS
+
+I. The RICO Claims
+
+In Count I and II of its complaint, Kazakhstan alleges that the Stati Parties violated the
+RICO statute, 18 U.S.C. § 1962(c), by engaging in a pattern of racketeering activity involving
+mail fraud, wire fraud, and money laundering, as well as a conspiracy to commit those offenses,
+18 U.S.C. § 1962(d). Compl. §§ 253-87.* Plaintiff alleges that defendants engaged in fraud to
+inflate the value of the LPG plant to enrich themselves, concealing the alleged fraud during the
+SCC arbitration and in the subsequent proceedings to enforce the arbitral award. Id. 4§ 5-11.
+
+Defendants have moved to dismiss the RICO claims on several grounds, arguing that: 1)
+the complaint fails to allege cognizable predicate acts of racketeering; 2) plaintiff has failed to
+allege a pattern of racketeering activity; 3) plaintiff seeks to impermissibly apply RICO to
+conduct that is overwhelmingly extraterritorial; 4) plaintiff fails to allege a domestic injury; and
+5) plaintiff fails to allege proximate causation between the predicate acts and the alleged harm.
+
+Defs.’ Mem. at 10-28.
+
+4 Kazakhstan requests that the Court deny the Stati Parties’ motion to dismiss on the basis
+of the doctrine of judicial estoppel “given that the Stati Parties, on March 26, 2018, represented
+to the High Court of London — in enforcement proceedings concerning the SCC Award — that the
+merits of Kazakhstan’s fraud allegations will be adjudicated in this case, after discovery and oral
+evidence.” Pl.’s Opp. at 1. The Court reviewed the judgment of the High Court, and it finds that
+judicial estoppel is unwarranted, see Moses v. Howard Univ. Hosp., 606 F.3d 789, 798 (D.C. Cir.
+2010), particularly given the Justice’s statements that he “certainly cannot assume there will be
+the trial in the United States,” and his observation that the Stati Parties’ counsel did not foreclose
+the possibility of a jurisdictional challenge to this RICO suit. Ex. A to Pl.’s Opp. [Dkt. # 26-1] J
+29.
+
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 7 of 16
+
+Because the Court finds that the complaint fails to adequately allege the necessary
+predicate acts and a pattern of racketeering, plaintiff's RICO claims fail, and the Court need not
+address defendants’ other arguments.
+
+Section 1962(c) provides that:
+
+It shall be unlawful for any person employed by or associated with any
+enterprise engaged in, or the activities of which affect, interstate or foreign
+commerce, to conduct or participate, directly or indirectly, in the conduct
+
+of such enterprise’s affairs through a pattern of racketeering activity or
+collection of unlawful debt.
+
+18 U.S.C. § 1962(c). Section 1964(c) allows “[a]ny person injured in his business or property by
+reason of a violation of section 1962” to bring a civil suit for treble damages, costs, and
+attorneys’ fees. 18 U.S.C. § 1964(c). A private RICO plaintiff must allege a domestic injury to
+its business or property, RJR Nabisco, Inc. v. European Cmty., 136 S. Ct. 2090, 2106 (2016)
+(emphasis in original), and the injury must be proximately caused by the alleged RICO violation.
+Anza v. Ideal Steel Supply Corp., 547 U.S. 451, 462 (2006).
+
+“Racketeering activity” encompasses “any act which is indictable” under a specific list of
+federal criminal offenses known as “predicate offense[s].” 18 U.S.C. § 1961(1)(B); RJR
+Nabisco, 136 S. Ct. at 2096-97.° In order to establish a “pattern of racketeering activity” a
+plaintiff must allege “at least two acts of racketeering activity . . . within ten years.” 18 U.S.C. §
+1961(5). And “in addition to the requisite number of predicate acts, the plaintiff must [also]
+
+show ‘that the racketeering predicates are related, and that they amount to or pose a threat of
+
+5 Under the statute, “racketeering activity” also “means (A) any act or threat involving
+murder, kidnapping, gambling, arson, robbery, bribery, extortion, dealing in obscene matter, or
+dealing in a controlled substance or listed chemical (as defined in section 102 of the Controlled
+Substances Act), which is chargeable under State law and punishable by imprisonment for more
+than one year.” 18 U.S.C. § 1961(1)(A).
+
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 8 of 16
+
+continued criminal activity.”” Edmondson & Gallagher v. Alban Towers Tenants Ass'n, 48 F.3d
+1260, 1264 (D.C. Cir. 1995), quoting HJ. Inc. v. N.W. Bell Tel. Co., 492 U.S. 229, 239 (1989).
+a. Plaintiff fails to allege predicate acts.
+
+Plaintiff's RICO claims are predicated on violations of the mail fraud, wire fraud, and
+money laundering statutes. Compl. §§ 263, 274, 283. Kazakhstan contends that by transmitting
+“pleadings, briefs, witness statements” and other litigation materials during the SCC arbitral
+proceeding and the subsequent enforcement actions, defendants committed various acts of mail
+fraud and wire fraud under 18 U.S.C. §§ 1341 and 1343. PIl.’s Opp. at 8; Compl. § 263.
+Kazkhstan also accuses the Stati Parties of engaging in “money laundering” in violation of 18
+U.S.C. § 1956(a)(2)(A) and (B)(i), because they paid their attorneys’ legal fees in connection
+with those proceedings. Compl. § 274; Pl.’s Opp. at 8. The complaint alleges that these
+litigation activities constituted a “pattern of racketeering” because the pleadings were
+transmitted, and the legal fees paid, on an ongoing basis. Compl. §§ 263, 274. Kazakhstan
+further alleges that these predicate acts were the direct and proximate cause of its injuries: “the
+money spent defending the U.S. Enforcement Actions.” Pl.’s Opp. at 28, citing Compl. §§ 252,
+277, 285.
+
+At bottom, the RICO claims are entirely predicated on defendants’ initiation and
+prosecution of non-frivolous litigation, and plaintiff's alleged domestic injuries consist of the
+legal costs it incurred in resisting the enforcement of a valid and binding arbitral award. This
+far-fetched theory of RICO liability lacks legal support.
+
+Courts do not allow allegedly fraudulent “‘litigation activities,’ such as filing fraudulent
+documents or engaging in baseless litigation to serve as predicate acts for RICO . . . where such
+
+acts constitute ‘the only allegedly fraudulent conduct.’” Feld Entm’t, Inc. v. Am. Soc’y for the
+
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 9 of 16
+
+Prevention of Cruelty to Animals, 873 F. Supp. 2d 288, 318-19 (D.D.C. 2012), quoting Daddona
+v. Gaudio, 156 F. Supp. 2d 153, 162 (D. Conn. 2000); see also Quick v. EduCap, Inc., 318 F.
+Supp. 3d 121, 141-42 (D.D.C. 2018) (“As Plaintiffs’ RICO claim is premised entirely on
+mailings done for the purpose of litigation activity, they have failed to state a claim.”). In a case
+in this district recently upheld by the D.C. Circuit, the court recited the broadly accepted
+principle that, “[a]busive or sham litigation does not constitute a RICO predicate act.”
+E. Sav. Bank, FSB v. Papageorge, 31 F. Supp. 3d 1, 13 (D.D.C. 2014) (collecting cases), aff'd,
+629 F. App’x | (D.C. Cir. 2015). In dismissing the RICO claims, the Court held that “the vast
+majority of the plaintiff’s litany of woes delineated in the complaint cannot, as a matter of law,
+form the basis of a RICO complaint, since they are all directly related to ongoing, non-frivolous
+litigation.” Jd. at 13-14.
+
+The same principle applies here. The predicate acts of mail fraud and wire fraud that
+Kazakhstan lists to support its RICO claim all involve the filing of legal documents and
+complaints. See, e.g., Compl. § 263 (“Stati Parties submit Request for Arbitration,” “Stati Parties
+file Petition to Confirm Arbitral Award,” “Stati Parties file Complaint to enforce, inter alia,
+amount of the SCC Award”).
+
+Numerous other circuit courts and district courts across the country have concluded that
+wrongful litigation activities cannot serve as RICO predicate acts. See Snow Ingredients, Inc. v.
+SnoWizard, Inc., 833 F.3d 512, 525 (5th Cir. 2016), quoting United States v. Pendergraft, 297
+F.3d 1198, 1208 (11th Cir. 2002) (“[P]rosecuting litigation activities as federal crimes would
+undermine the policies of access and finality that animate our legal system. Moreover, allowing
+such charges would arguably turn many state-law actions for malicious prosecutions into federal
+
+RICO actions.”); Pendergraft, 297 F.3d at 1208 (“Serving a motion by mail is an ordinary
+
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 10 of 16
+
+litigation practice. A number of courts have considered whether serving litigation documents by
+mail can constitute mail fraud, and all have rejected that possibility. . . . [T]hese courts have
+rejected this mail-fraud theory on policy grounds, recognizing that such charges are merely
+artfully pleaded claims for malicious prosecution.”); 1.8. Joseph Co., Inc. v. J. Lauritzen A/S, 751
+F.2d 265, 267-68 (8th Cir. 1984) (“If a suit is groundless or filed in bad faith, the law of torts
+may provide a remedy. Resort to a federal criminal statute is unnecessary.”); Snyder v. U.S.
+Equities Corp., No. 12-CV-6092, 2014 WL 317189, at *7-8 (W.D.N.Y. Jan. 28, 2014) (rejecting
+RICO mail fraud and wire fraud predicate acts where “the gravamen of the allegations is . . . that
+the defendants pursued fraudulent litigation, using fraudulent affidavits and filings, in an attempt
+to obtain money or property to which they were not entitled”); Curtis & Assocs., P.C. v. Law
+Offices of David M. Bushman, Esq., 758 F. Supp. 2d 153, 170-74 (E.D.N.Y. 2010), aff'd, 443
+Fed. Appx. 582 (2d Cir. 2011) (dismissing RICO claim predicated on mail fraud and wire fraud
+because all of the predicate acts “involve the mailing of litigation documents such as pleadings”);
+Auburn Med. Ctr., Inc. v. Andrus, 9 F. Supp. 2d 1291, 1298 (M.D. Ala. 1998) (“Numerous other
+courts have found that the actions underlying claims for malicious prosecution, or analogous
+actions in the litigation context, will not support a RICO action.”).
+The Court’s conclusion is consistent with the D.C. Circuit’s admonition regarding RICO
+
+claims premised on mail fraud or wire fraud in general:
+
+RICO claims premised on mail or wire fraud must be particularly
+
+scrutinized because of the relative ease with which a plaintiff may mold a
+
+RICO pattern from allegations that, upon closer scrutiny, do not support it
+
+. .. This caution stems from the fact that “[i]t will be the unusual fraud
+
+that does not enlist the mails and wires in its service at least twice.”
+W. Assocs. Ltd. P’ship, ex rel. Ave. Assocs. Ltd. P’ship v. Mkt. Square Assocs., 235 F.3d 629,
+
+637 (D.C. Cir. 2001), quoting A/-Abood ex rel. Al-Abood v. El-Shamari, 217 F.3d 225, 238 (4th
+
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 11 of 16
+
+Cir. 2000); see id. (“Although a RICO claim may be based only on predicate acts consisting
+exclusively of mail and wire fraud, scrutiny of such claims is necessary, and not inconsistent
+with the breadth of RICO.”).
+
+Plaintiff insists that its RICO suit can be distinguished from this general principle
+because the “fraud claims are not the only bases for the civil RICO violation” — the complaint
+included a money laundering claim as well. Pl.’s Opp. at 11. But that misses the mark since the
+alleged “money laundering” consists merely of defendants’ payments of their legal fees. See
+
+Compl. § 274.° This too is a litigation-related activity. Not surprisingly, plaintiff has not
+
+6 Moreover, plaintiff has not stated a claim for money laundering that could support the
+RICO allegations. Plaintiff alleges that defendants violated sections 1956(a)(2)(A) and (B)(i) of
+the money laundering statute by “making payments from outside the United States to counsel in
+the United States.” Compl. § 274. The federal money laundering statute provides:
+
+(2) Whoever transports, transmits, or transfers, or attempts to transport,
+transmit, or transfer a monetary instrument or funds from a place in the
+United States to or through a place outside the United States or to a place
+in the United States from or through a place outside the United States
+(A) with the intent to promote the carrying on of specified
+unlawful activity; or
+
+(B) knowing that the monetary instrument or funds involved in the
+transportation, transmission, or transfer represent the proceeds of
+some form of unlawful activity and knowing that such
+transportation, transmission, or transfer is designed in whole or in
+part —
+() to conceal or disguise the nature, the location, the
+source, the ownership, or the control of the proceeds of
+specified unlawful activity; or
+18 U.S.C. $§ 1956(a)(2)(A) & (B)(i)
+
+18 U.S.C. §§ 1956(a)(2)(A) & (B)(i).
+
+But Kazakhstan’s suggestion that funds were transmitted with the intent to promote
+“specified unlawful activity” in violation of section 1956(a)(2)(A) of the money laundering
+statute, fails for the reasons set forth above: according to plaintiff, the “unlawful activity” of
+mail fraud and wire fraud is based solely on the filing of “fraudulent pleadings, briefs, witness
+statements, and other evidence in the various legal proceedings.” Pl.’s Opp. at 12.
+
+11
+
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 12 of 16
+
+identified a single decision in which a court sustained RICO allegations based solely on the
+transmission of litigation materials and the payment of legal fees associated with the
+enforcement of a valid and binding arbitral award. The cases plaintiff cites are all
+distinguishable because the complained-of lawsuits were not only frivolous, but they involved
+other unlawful conduct, such as bribery and/or the intimidation of witnesses and third parties.’
+Pl.’s Opp. at 11.
+b. Plaintiff fails to allege a pattern of racketeering.
+
+Even if plaintiff had succeeded in alleging predicate acts that are cognizable under the
+RICO statute, its RICO claims would fail because it has not properly alleged a “pattern of
+racketeering activity.” 18 U.S.C. § 1962 (c). In Edmondson, the D.C. Circuit outlined six
+factors that are relevant in determining the existence of a “pattern of racketeering.” 48 F.3d at
+1263. These factors are: “the number of unlawful acts, the length of time over which the acts
+were committed, the similarity of the acts, the number of victims, the number of perpetrators,
+
+and the character of the unlawful activity.” Jd. at 1265, quoting Kehr Packages, Inc. v. Fidelcor,
+
+ 
+
+Plaintiff's claim under section 1956(a)(2)(B)(i) fares no better. To make out a claim
+under this provision a plaintiff must allege that a defendant transmitted money into or outside the
+United States, knowing that the monies involved “represent the proceeds of some form of
+unlawful activity.” 18 U.S.C § 1956(a)(2)(B)(i). Plaintiff's complaint recites the elements of the
+provision but fails to allege that the money used to pay defendants’ attorneys was derived from
+any “unlawful activity.” See Compl. § 274. In its opposition, Kazakhstan contends that the Stati
+Parties used “proceeds raised fraudulently in the United States” to pay their attorneys’ fees. Pl.’s
+Opp. at 13, citing Compl. §§ 38-57, 65-102. However, those paragraphs make no reference of
+the use of illegally obtained funds to pay attorneys’ fees. Therefore, plaintiff has failed to allege
+facts to support a conclusion that defendants engaged in the RICO predicate crime of money
+laundering.
+
+7 See U.S. v. Eisen, 974 F.2d 246, 257 (2d Cir. 1992) (criminal RICO case involving
+fraudulent lawsuits as well as witness bribery); Lemelson v. Wang Labs. Inc., 874 F. Supp. 430,
+434 (D. Mass. 1994) (alleging extortion in addition to mail fraud and wire fraud); Hall American
+Center Assoc. L.P. v. Dick, 726 F. Supp. 1083, 1097 (E.D. Mich. 1989) (alleging predicate acts
+outside the conduct of litigation, such as harassment of third parties, interference with a joint
+venture, and an attempt to persuade the United States Attorney to investigate the plaintiff).
+
+12
+
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 13 of 16
+
+Inc., 926 F.2d 1406, 1411-13 (3d Cir. 1991). The six factors serve as a guide, rather than a strict
+legal test, and courts are encouraged to evaluate cases using a “fact-specific approach” that is
+both “flexible” and “commonsensical.” W. Assocs., 235 F.3d at 637. In some cases, “some
+factors will weigh so strongly in one direction as to be dispositive.” Edmondson, 48 F.3d at
+1265.
+
+Applying this framework, the Edmonson court rejected a real estate developer’s RICO
+claim premised on allegations that a tenants’ association illegally blocked the sale of building.
+48 F.3d at 1265. The real estate developer accused the tenants’ association of committing
+extortion, bribery, and perjury by “exploit[ing] [a] quiet-title action, holding the building sale
+hostage and thereby attempting to force [the developer] to pay them off.” /d. at 1263. The D.C.
+Circuit affirmed the dismissal of the RICO claims because “the single scheme alleged — designed
+to frustrate one transaction and inflicting a single, discrete injury on a small number of victims —
+fail[ed] to meet RICO’s requirement of a ‘pattern of racketeering activity.’”” Jd. Notably, the
+Court held that when a plaintiff merely alleges a “single scheme, single injury, and few victims,”
+it is “virtually impossible for plaintiffs to state a RICO claim.” /d. at 1265. That is squarely the
+case here.
+
+Plaintiff's 93-page complaint describes a single scheme. As summarized by plaintiff:
+“The Complaint sets out the details of the Stati Parties’ elaborate and fraudulent scheme to
+artificially inflate the construction costs of the LPG plant, conceal that fraud during the SCC
+Arbitration to obtain the SCC Award, and then attempt to enforce the fraudulently procured SCC
+Award in multiple jurisdictions, including the United States.” Pl.’s Opp. at 10. While there are
+various stages to this alleged scheme, ultimately all of the actions described in the complaint
+
+were aimed at accomplishing a “single discrete goal,” Edmondson, 48 F.3d at 1265 — defendants’
+
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 14 of 16
+
+efforts to artificially inflate the value of the LPG plant to enrich themselves. Moreover, plaintiff
+pled a single, discrete injury — legal fees — and a single victim — itself. See Compl. §§ 252, 277,
+285.8 Accordingly, the Court finds that plaintiff has not pled a “pattern of racketeering.” See W.
+Assocs., 235 F.3d at 634 (dismissing RICO claim where plaintiff alleged single scheme of
+fraudulent bookkeeping entries, resulting in single injury to single set of victims); Papageorge,
+31 F. Supp. 3d at 13 (rejecting RICO claim because “plaintiff has only alleged that the
+defendants engaged in acts designed to” achieve a “single discrete goal”: “obtain[ing] control of
+the Property from the plaintiff at a low price”).
+
+Defendant insists that its RICO claims survive based upon Supreme Court and D.C.
+Circuit precedent which provides that in some circumstances, a single scheme may be sufficient
+under RICO. Pl.’s Opp. at 17, citing H.J. Inc. v. Nw. Bell Tel. Co., 492 U.S. 229, 234, 236, 240
+(1989) and W. Assocs., 235 F.3d at 634. While there may be cases that have recognized that
+possibility, the facts here do not support varying from the general principles that would apply to
+a complaint that alleges a single scheme, single injury, and single victim. The mere fact that the
+alleged scheme occurred over an extended period of time, is of no consequence in this case,
+because the acts listed relate to the same goal, and much of the time spent on these matters was
+expended dealing with Kazakhstan’s repeated efforts to undermine the arbitral award. See W.
+Assocs., 235 F.3d at 636 (“[T]he mere longevity of a scheme or schemes does not necessarily
+mean that a ‘pattern of racketeering activity’ is present.”).
+
+8 Plaintiff contends that it pled “multiple victims of the Stati Parties’ fraud,” including
+defrauded investors, the Kazakhstan-owned oil and gas company, and auditors. Pl.’s Opp. at 8.
+The complaint does not allege that these parties were the victims of the conduct that forms the
+basis of the predicate acts — the “wrongful” litigation and payments to counsel. See Compl.
+45, 130, 214, 252. But even if did, it would merely mean that plaintiff identified “a few” rather
+than single victim, which does not change the outcome. Edmonson, 48 F.3d at 1265; see also Lu
+
+v. Lezell, 45 F. Supp. 3d 86, 98 (D.D.C. 2014) (“Nor does RICO apply merely because a single,
+narrow, fraudulent scheme affects numerous plaintiffs.”).
+
+14
+
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 15 of 16
+
+At bottom, this suit is yet another attempt to relitigate the underlying arbitral award.
+Whatever fraud Kazakhstan contends occurred before and during the SCC arbitration more than
+eight years ago, it had a full opportunity to raise those issues in the appeals process in Sweden
+and its allegations were rejected. Kazakhstan tried again in the numerous subsequent
+proceedings where it has resisted the enforcement of the arbitral award on the same grounds. As
+the Court noted in its prior opinion, the grounds for refusing the enforcement of a foreign arbitral
+award under the New York Convention are “narrow,” and Kazakhstan failed to meet its “heavy
+burden.” Stati, 302 F. Supp. 3d at 202, 209. Casting defendants’ enforcement proceedings now
+as an unlawful “pattern of racketeering activity,” is an improper use of the auspices of this Court
+to revive and prolong a dispute that is over. The motion to dismiss will be granted.
+
+Because the Court finds that plaintiff failed to allege a substantive RICO violation under
+Section 1962(c), it also finds that it has failed to plead a conspiracy to violate RICO under
+Section 1962(d). See Papageorge, 31 F. Supp. 3d at 15—16 (dismissing RICO conspiracy claim
+under § 1962(d) where plaintiff failed to plead a RICO violation under 18 U.S.C. § 1962(a}-(c)).
+
+Accordingly, Counts I and II of the complaint are dismissed with prejudice.
+
+I. The State Law Claims
+
+Having dismissed plaintiff's federal law claims, the Court declines to exercise
+supplemental jurisdiction over the remaining state law claims of fraud and civil conspiracy.
+Under 28 U.S.C. § 1367(c) a district court “may decline to exercise supplemental jurisdiction
+over a claim” when the court “has dismissed all claims over which it has original jurisdiction.”
+28 U.S.C. § 1367(c). This decision “is a matter left to the sound discretion of the district court,”
+and is reviewed for “abuse of discretion.” Edmondson, 48 F.3d at 1265-66. However, the D.C.
+
+Circuit has noted that, “[i]n the usual case in which all federal-law claims are eliminated before
+
+15
+
+Case 1:17-cv-02067-ABJ Document 30 Filed 03/30/19 Page 16 of 16
+
+trial, the balance of factors to be considered . . . will point toward declining to exercise
+jurisdiction over the remaining state-law claims.” Anderson v. Holder, 647 F.3d 1165, 1174
+(D.C. Cir. 2011), quoting Carnegie-Mellon Univ. v. Cohill, 484 U.S. 343, 350 n.7 (1988); see
+also Edmondson, 48 F.3d at 1266-67 (holding that the principles of “comity and fairness
+point[ed] strongly towards having the District of Columbia’s courts decide the [local] claims,”
+and that the district court abused its discretion by exercising supplemental jurisdiction over the
+local-law claims after it had dismissed the federal RICO claims). Accordingly, the Court will
+dismiss Counts III and IV without prejudice.
+CONCLUSION
+
+Because plaintiff has failed to plead predicate acts or a pattern of racketeering activity,
+the Court will dismiss its RICO claims under Counts I and II with prejudice. The Court declines
+to exercise supplemental jurisdiction over the common law counts of fraud and civil conspiracy.
+
+Accordingly, Counts III and IV are dismissed without prejudice. A separate order will issue.
+
+B Shek ——
+
+AMY BERMAN JACKSON
+United States District Judge
+
+DATE: March 30, 2019
+

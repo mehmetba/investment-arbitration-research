@@ -1,0 +1,2162 @@
+[Date of dispatch to the parties: July 3, 2002]
+
+International Centre for
+Settlement of Investment Disputes
+
+(ICSID)
+
+ 
+
+In the Matter of the Annulment Proceeding
+in the Arbitration between
+
+COMPANIA DE AGUAS DEL ACONQUIJA S.A.
+and
+
+VIVENDI UNIVERSAL
+(formerly COMPAGNIE GENERALE DES EAUX)
+
+Claimants
+v.
+ARGENTINE REPUBLIC
+Respondent
+Case No. ARB/97/3
+
+ 
+
+DECISION ON ANNULMENT
+
+ 
+
+90
+
+ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+page
+THE ANNULMENT PROCEEDINGS ................555 1
+THE TRIBUNALS AWARD ......... 0.000 e eee eee eee 3
+(1) | The Tribunal’s Findings on Jurisdiction ................ 7
+(2) The Tribunal’s Findings on the Merits ................. 8
+(a) The Federal Claims : : a)
+(b) The Tucuman Claims ..........00 00000 e eee eee 11
+THE COMMITTEBR’S ANALYSIS ............. 00000 e eee 18
+(1) _ Relevant Provisions of the France-Argentina BIT ........ 19
+(a) Definition of “Investor” and “Investment” ......... 19
+(b) Local Remedies and Their Relation to Arbitration
+under the BIT... 0.0.2.0... cee eee eee 21
+(c) Scope and Application of Substantive Provisions
+ofthe BIT 2.00... eee eee 24
+(2) Role of Annulment Under the ICSID Convention . . 25
+(3) The Grounds of Annulment . 28
+(a) The Tribunal’s Jurisdictional Finding ... : . 29
+(b) The Tribunal’s Finding on the Merits............. 31
+(i) Serious departure from a fundamental
+rule of procedure: Article 52(1)(d) ... 1.6.6.6. 31
+(ii) Manifest excess of powers: Article 52(1)(b) . . 33
+(iii) Failure to state reasons: Article 52(1)(e) ........ 44
+COSTS 2... ccc eee eee ee 45
+
+CASES.
+
+President: Mt. L. Yves FORTIER, C.C., Q.C.
+
+Members of the Professor James R. CRAWFORD, S.C., FB.A.
+ad hoc Committee: Professor José Carlos FERNANDEZ ROZAS
+Secretary of the Committee: Mr. Alejandro A. Escobar
+
+In Case No. ARB/97/3
+
+BETWEEN:
+
+Compafiia de Aguas del Aconquija S.A. and
+Vivendi Universal (formerly Compagnie Générale des Eaux)
+(“Claimants”)
+
+Represented by:
+
+Judge Stephen M. Schwebel,
+
+as counsel
+
+Mr. Bernardo M. Cremades
+
+of the law firm B. Cremades y Asociados, as counsel
+
+Mr. Daniel M. Price and Mr. Stanimir A. Alexandrov
+of the law firm Powell, Goldstein, Frazer & Murphy LLR
+as counsel
+
+Mr. Luis A. Erize
+
+of the law firm Abeledo Gottheil Abogados, as counsel
+Mr. Ignacio Colombres Garmendia
+
+of the law firm Ignacio Colombres Garmendia & Asociados,
+as counsel
+
+And
+
+Argentine Republic (“Respondent”)
+
+Represented by:
+
+Dr. Rubén Miguel Citara, Dr. Ernesto Alberto Marcer,
+Mr. Hernan M. Cruchaga and Mr. Carlos Ignacio Suarez
+
+Anzorena
+of the Procuracién del Tesoro de la Nacién, as counsel
+
+92 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL
+
+THE AD HOC COMMITTEE
+
+After deliberation,
+
+Makes the following Decision:
+
+A. THE ANNULMENT PROCEEDINGS
+
+1. On 20 March 2001, Compafiia de Aguas del Aconquija S.A. (“CAA”)
+and Compagnie Générale des Eaux (“CGE”; CGE and CAA are referred to,
+collectively, as “Claimants”) filed with the Secretary-General of the
+International Centre for Settlement of Investment Disputes (“ICSID”) an
+application in writing (the “Application”) requesting the partial annulment of
+an Award dated 21 November 2000 (the “Award”) rendered by the Tribunal in
+the arbitration between Claimants and Respondent.!
+
+2. The Application was made within the time period provided in Article
+52(2) of the Convention on the Settlement of Investment Disputes between
+States and Nationals of Other States (the “ICSID Convention”). The
+Application sought partial annulment of the Award on three of the five
+grounds set out in Article 52(1) of the ICSID Convention, specifically: the
+Tribunal had manifestly exceeded its powers; there had been a serious depar-
+ture from a fundamental rule of procedure; and the Award failed to state the
+reasons on which it was based.
+
+3. The Application was registered by the Secretary-General of ICSID on
+23 March 2001. In accordance with Rule 50(2) of the ICSID Rules of
+Procedure for Arbitration Proceedings (the “Arbitration Rules”), the Secretary-
+General transmitted a Notice of Registration to the parties on that date and
+also forwarded to the Respondent copies of the Application and accompany-
+ing documentation. Thereafter, in accordance with Article 52(3) of the ICSID
+Convention and at the request of the Secretary-General, the Chairman of the
+Administrative Council proceeded to appoint an ad hoc Committee (the
+“Committee”).
+
+4. The Committee was subsequently duly constituted—composed of
+
+Professor James R. Crawford, Professor José Carlos Fernandez Rozas and Mr.
+L. Yves Fortier—and the parties were so notified by the Secretary-General on
+
+| The text of the award is published at 40 ILM 426 (2001).
+
+CASES. 93
+
+18 May 2001, in accordance with Rule 52(2) of the Arbitration Rules. On 25
+May 2001, the Secretary of the Committee informed the parties that Mr. L.
+Yves Fortier had been designated President of the Committee.
+
+5. The first meeting of the Committee was held at the seat of ICSID, in
+Washington, D.C., on 21 June 2001. At that meeting, all members made dec-
+larations in terms of Rule 6 of the Arbitration Rules. Mr. Fortier qualified his
+declaration in one respect, and the Respondent reserved the right to challenge
+him. Subsequently it did so, pursuant to Articles 14 and 57 of the ICSID
+Convention and Arbitration Rule 53. The challenge concerned Mr. Fortier’s
+disclosure that one of the partners in his law firm had been engaged by CGE
+to advise on certain specific matters relating to taxation under Quebec law. Mr.
+Fortier had had no personal involvement in the work, which was wholly unre-
+lated to the present case and which did not involve a general retainer. After
+receiving written statements from the parties, the other two members of the
+Committee, by a decision of 24 September 2001, dismissed the challenge.
+
+6. In accordance with the procedural timetable laid down by the
+Committee at its meeting of 21 June 2001, the parties filed their respective
+Memorials on 20 August 2001 and on 12 November 2001. Claimants’
+Memorial was accompanied by an Expert Opinion prepared by Professor
+Christoph H. Schreuer, and Respondent filed an Expert Opinion rendered by
+Professor Arthur T. von Mehren. Claimants thereafter submitted a Reply on
+10 December 2001. Respondent filed a Rejoinder on 8 January 2002.
+
+7. A two-day hearing in this annulment proceeding was held at the seat
+of ICSID on 31 January and 1 February 2002, at which counsel for both par-
+ties presented their arguments and submissions, and responded to questions
+from the members of the Committee. The parties subsequently made obser-
+vations to the English and Spanish transcripts made of the hearing, which have
+been taken into account by the Committee.
+
+8. In the absence of any agreed request by the parties to vary the rules of
+procedure laid down in the ICSID Convention and the Arbitration Rules, the
+annulment proceeding was at all times conducted in accordance with the
+applicable provisions of Section 3 of Chapter IV of the ICSID Convention
+and the Arbitration Rules.
+
+2 Article 52(4) of the ICSID Convention provides: “The provisions of Articles 41-45, 48, 49, 53
+and 54, and of Chapters VI and VII [of the Convention, dealing with arbitration proceedings) shall
+apply mutatis mutandis to proceedings before the Committee.”
+
+94 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL
+
+B. THE TRIBUNALS AWARD
+
+9. The dispute underlying the arbitration arose out of certain alleged acts
+of the Argentine Republic and its constituent Province of Tucumdén that,
+according to Claimants, caused the termination of a thirty-year concession
+contract (the “Concession Contract”) entered into by Tucuman and CAA on
+18 May 1995. In the arbitration, Claimants asserted that all of these acts were
+attributable to the Argentine Republic under international law and, as such,
+violated Argentina’s obligations under the Agreement between the
+Government of the Argentine Republic and the Government of the Republic
+of France for Reciprocal Protection and Promotion of Investments of 3 July
+1991 (the “BIT”).3 Relevant provisions of the BIT are set out later in this
+decision.
+
+10. The Award that is the subject of the present annulment proceeding
+was rendered on 21 November 2000. In the Award, the Tribunal rejected the
+objections to its jurisdiction raised by the Argentine Republic. Having upheld
+its jurisdiction, the Tribunal nonetheless dismissed the claim.
+
+11. In order to provide relevant background and context to the present
+decision, and before proceeding to consider the detailed findings of the
+Tribunal and the grounds for annulment to which those findings are said to
+give rise, the Committee can do no better than recite the Tribunal’s own
+“Introduction and Summary”:
+
+A. Introduction and Summary
+
+This case arises from a complex and often bitter dispute asso-
+ciated with a 1995 Concession Contract that a French compa-
+ny, Compagnie Générale des Eaux, and its Argentine affiliate,
+Compafiia de Aguas del Aconquija, S.A. (collectively referred
+to as “Claimant” or “CGE”), made with Tucumdn, a province
+of Argentina, and with the investment in Tucumén resulting
+from that agreement. The Republic of Argentina (“Argentine
+
+3 Signed 3 July 1991; entered into force 3 March 1993; United Nations Treaty Series, vol. 1728,
+p. 282 (French text). The BIT provisions quoted, in English, in the present decision are drawn from the
+official United Nations English translation: United Nations Treaty Series, vol. 1728, p. 298. Appendix 1
+to the Tribunal’s Award of 21 November 2001 is the source of the English translation of the provisions
+of the Concession Agreement referred to herein: 40 ILM 426 (2001), pp. 449-451.
+
+CASES.
+
+Republic”) was not a party to the Concession Contract or to
+the negotiations that led to its conclusion....
+
+The Concession Contract...makes no reference to either the
+BIT or ICSID Convention or to the remedies that are available
+to a French foreign investor in Argentina under these treaties.
+Articles 3 and 5 of the BIT provide that each of the
+Contracting Parties shall grant “fair and equitable treatment
+according to the principles of international law to investments
+made by investors of the other Party,” that investments shall
+enjoy “protection and full security in accordance with the prin-
+ciple of fair and equitable treatment,” and that Contracting
+Parties shall not adopt expropriatory or nationalizing measures
+except for a public purpose, without discrimination and upon
+payment of “prompt and adequate compensation.” Article 8 of
+the Argentine-French BIT provides that, if an investment dis-
+pute arises between one Contracting Party and an investor
+from another Contracting Party and that dispute cannot be
+resolved within six months through amicable consultations,
+then the investor may submit the dispute either to the nation-
+al jurisdiction of the Contracting Party involved in the dispute
+or, at the investor's option, to arbitration under the ICSID
+Convention or to an ad hoc tribunal pursuant to the
+Arbitration Rules of the United Nations Commission on
+International Trade Law.
+
+Article 16.4 of the Concession Contract between CGE and
+Tucuman provided for the resolution of contract disputes,
+concerning both its interpretation and application, to be sub-
+mitted to the exclusive jurisdiction of the contentious admin-
+istrative courts of Tucumdén. While this case presents many
+preliminary and other related questions, the core issue before
+this Tribunal concerns the legal significance that is to be
+attributed to this forum-selection provision of the Concession
+Contract in light of the remedial provisions in the BIT and the
+ICSID Convention. This question bears both on the jurisdic-
+tion of the Centre and the competence of this Tribunal under
+the ICSID Convention and on the legal analysis of the merits
+of the dispute between CGE and the Argentine Republic.
+
+ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+When CGE invoked the jurisdiction of ICSID in reliance on
+the terms of the BIT and the ICSID Convention and sought
+damages of over U.S. $300 million, the Argentine Republic
+responded that it had not consented to submission of the dis-
+pute for resolution under the ICSID Convention. Because of
+the close relationship between the jurisdictional issue and the
+underlying merits of the claims, the Tribunal decided that it
+would not be able to resolve the jurisdictional question with-
+out a full presentation of the factual issues relating to the mer-
+its. Accordingly, the Tribunal, after receiving memorials from
+the parties and hearing oral argument, joined the jurisdiction-
+al issue to the merits.
+
+For the reasons set forth in this Award, the Tribunal holds that
+it has jurisdiction to hear the claims of CGE against the
+Argentine Republic for violation of the obligations of the
+Argentine Republic under the BIT. Neither the forum-selec-
+tion provision of the Concession Contract nor the provisions
+of the ICSID Convention and the BIT on which the
+Argentine Republic relies preclude CGE’s recourse to this
+Tribunal on the facts presented.
+
+With respect to the merits, CGE has not alleged that the
+Republic itself affirmatively interfered with its investment in
+Tucuman. Rather, CGE alleges that the Argentine Republic
+failed to prevent the Province of Tucumén from taking certain
+action with respect to the Concession Contract that,
+Claimants allege, consequently infringed their rights under the
+BIT. CGE also alleges that the Argentine Republic failed to
+cause the Province to take certain action with respect to the
+Concession Contract, thereby also infringing Claimants’ rights
+under the BIT. In addition, CGE maintains that international
+law attributes to the Argentine Republic actions of the
+Province and its officials and alleges that those actions consti-
+tute breaches of the Argentine Republic’s obligations under the
+BIT.
+
+While CGE challenged actions of Tucuman in administrative
+agencies of the Province, CGE concedes that it never sought,
+pursuant to Article 16.4, to challenge any of Tucuman’s actions
+in the contentious administrative courts of Tucumén as viola-
+
+CASES.
+
+tions of the terms of the Concession Contract. CGE maintains
+that any such challenge would have constituted a waiver of its
+rights to recourse to ICSID under the BIT and the ICSID
+Convention.
+
+The Tribunal does not accept CGE’s position that claims by
+CGE in the contentious administrative courts of Tucumdn for
+breach of the terms of the Concession Contract, as Article 16.4
+requires, would have constituted a waiver of Claimants’ rights
+under the BIT and the ICSID Convention. Further, as the
+Tribunal demonstrates below, the nature of the facts support-
+ing most of the claims presented in this case make it impossi-
+ble for the Tribunal to distinguish or separate violations of the
+BIT from breaches of the Concession Contract without first
+interpreting and applying the detailed provisions of that agree-
+ment. By Article 16.4, the parties to the Concession Contract
+assigned that task expressly and exclusively to the contentious
+administrative courts of Tucumén. Accordingly, and because
+the claims in this case arise almost exclusively from alleged acts
+of the Province of Tucuméan that relate directly to its perform-
+ance under the Concession Contract, the Tribunal holds that
+the Claimants had a duty to pursue their rights with respect to
+such claims against Tucumén in the contentious administrative
+courts of Tucumén as required by Article 16.4 of their
+Concession Contract.
+
+CGE presented certain additional claims regarding allegedly
+sovereign actions of Tucumén that Claimants maintained were
+unrelated to the Concession Contract. CGE asserted that these
+actions of the Province gave rise to international responsibility
+attributable to the Argentine Republic under the BIT as inter-
+preted by applicable international law. Furthermore, CGE
+alleged that the Argentine Republic was also liable for its fail-
+ures to perform certain obligations under the BIT that
+Claimants submitted gave rise to international responsibility
+independent of the performance of Tucumdn under the
+Concession Contract. The Tribunal finds that many of these
+other claims arose, in fact, from actions of the Province relat-
+ing to the merits of disputes under the Concession Contract
+and, for that reason, were subject to initial resolution in the
+contentious administrative tribunals of Tucuman under Article
+
+98 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL
+
+16.4. To the extent such claims are the result of actions of the
+Argentine Republic or of the Province that are arguably inde-
+pendent of the Concession Contract, the Tribunal holds that
+the evidence presented in these proceedings did not establish
+the grounds for finding violation by the Argentine Republic of
+its legal obligations under the BIT either through its own acts
+or omission or through attribution to it of acts of the Tucumén
+authorities.4
+
+12. In the final section of its Award, after reviewing the procedural histo-
+ty of the arbitration,” summarising the facts and respective legal positions of
+the parties® and explaining its reasoning with respect to both its jurisdiction”
+and the merits,® the Tribunal disposed of Claimants’ case in the following
+terms:
+
+G. Award
+
+The Tribunal herewith dismisses the claims filed by the
+Claimants against the Republic of Argentina.?
+
+13. Before considering the grounds for annulment presented to the
+Committee, it is necessary to set out in some greater detail the Tribunal’s rea-
+soning both as to its jurisdiction and regarding the merits of the claim.
+
+(1) The Tribunal’s Findings on Jurisdiction
+
+14. The core of the Tribunal’s reasoning in support of its jurisdictional
+finding is contained in paragraphs 49 to 54 of the Award. The Tribunal found
+as follows:
+
+(a) Claimants’ claims concerning the actions of the federal government of
+Argentina as well as those of the provincial authorities of Tucuman are
+
+4 Award, Part A., pp. 1-3; 40 ILM 426 (2001), pp. 427-429 (Footnotes omitted).
+5 Award, Part B., paras. 1-23; 40 ILM 426 (2001), pp. 429-433.
+
+© Award, Part C., paras. 24-39; 40 ILM 426 (2001), pp. 433-435.
+
+7 Award, Part D., paras. 40-55; 40 ILM 426 (2001), pp. 435-439.
+
+8 Award, Part E., paras. 56-92; 40 ILM 426 (2001), pp. 439-446.
+
+9 Award, Part G., p. 35; 40 ILM 426 (2001), p. 447. Part F. of the Award, paras. 93-96, contains
+the Tribunal’s assessment and determination regarding the allocation of the costs and fees associated with
+
+the arbitration: 40 ILM 426 (2001), pp. 446-447.
+
+CASES. 99
+
+properly characterised as claims arising under the BIT, and not as con-
+tractual claims under the Concession Agreement.!°
+
+(b) Under international law, the acts of organs of both the central govern-
+ment and provincial authorities are attributable to the state—in this
+case, the Argentine Republic—with the result that Argentina cannot
+rely on its federal structure as a means of limiting its treaty obliga-
+tions.!!
+
+(c) Article 25(3) of the ICSID Convention is intended to allow for con-
+stituent subdivisions or agencies of a state party to the ICSID
+Convention to be subject to ICSID jurisdiction and to be parties to
+ICSID cases, in their own right and in their own name, where they
+have so consented and the Contracting State in question has approved.
+Article 25(3) neither limits the scope of the state's international
+responsibilities in accordance with normal rules of attribution nor
+qualifies the jurisdiction of an ICSID tribunal over that state. In the
+present case, it does not restrict the Tribunal’s jurisdiction over the
+Argentine Republic pursuant to the BIT, and there is no question of
+the Province of Tucuman itself being a party to the arbitration in its
+
+own name.!?
+
+(d) Similarly, Article 16(4) of the Concession Contract—which provides
+that “[f]or purposes of interpretation and application of this Contract
+the parties submit themselves to the exclusive jurisdiction of the
+Contentious Administrative Tribunals of Tucuman’—does not, and
+indeed could not, exclude the jurisdiction of the Tribunal under the
+BIT. Claimants’ claims “are not subject to the jurisdiction of the con-
+tentious administrative tribunals of Tucumdén, if only because, ex
+hypothesi, those claims are not based on the Concession Contract but
+allege a cause of action under the BIT.”!3
+
+10 Award, para. 50; 40 ILM 426 (2001), p. 438.
+
+11 Award, para. 49; 40 ILM 426 (2001), p. 437.
+
+2 Award, para. 51; in para. 52, the Tribunal supports this conclusion by reference to the travaux
+of Article 25; 40 ILM 426 (2001), p. 438.
+
+3 Award, para. 53; 40 ILM 426 (2001), pp. 438-439 (footnote omitted). This conclusion is sup-
+ported inter alia by reference to the decision of the ICSID Tribunal in Lanco International Inc v.
+Argentine Republic (Preliminary Decision on Jurisdiction of 8 December 1998), 40 ILM 457 (2001).
+
+100 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+714 insti-
+
+15. The Tribunal went on to state that “[b]y this same analysis,
+tuting proceedings against the Province of Tucumén before the contentious
+administrative tribunals for breach of the Concession Contract would not
+have been “the kind of choice by Claimants of legal action in national juris-
+dictions (7.e., courts) against the Argentine Republic that constitutes the ‘fork
+in the road’ under Article 8 of the BIT, thereby foreclosing future claims under
+the ICSID Convention.”!>
+
+(2) The Tribunal’s Findings on the Merits
+
+16. In considering the Tribunal’s findings on the merits, it is necessary to
+distinguish between what the Tribunal referred to as, on the one hand, claims
+“based directly on alleged actions or failures to act of the Argentine
+and, on the other hand, claims relating to conduct of the
+Tucuméan authorities which are nonetheless brought against Argentina and
+“rely...upon the principle of attribution.”!7 For the purposes of this decision,
+these two categories of claims will be referred to, respectively, as the “federal
+claims” and the “Tucumén claims.”
+
+17. Although, as mentioned above, the Tribunal expressly “dismisse[d] the
+claims filed by Claimants against the Republic of Argentina,”!® what it actu-
+ally did—and did not do—was much disputed between the parties. According
+to the Respondent, the Tribunal carefully considered and, as stated in its
+Award, dismissed all of Claimants’ claims on the merits. According to
+
+14 Referring to the analysis contained in paras. 53-54 of the Award (40 ILM 426 (2001), pp. 438-
+439) and summarized at para. 14(d) of this decision.
+
+15 Award, para. 55; 40 ILM 426 (2001), p. 439. Strictly speaking, this passage did not constitute
+part of the Tribunal’s findings on jurisdiction, though it flowed from its analysis of the jurisdictional sit-
+uation. We return to it later in this decision.
+
+16 Award, para. 50; 40 ILM 426 (2001), p. 438.
+
+17 Ibid. The terminology employed by the Tribunal in this regard is not entirely happy. All inter-
+national claims against a state are based on attribution, whether the conduct in question is that of a cen-
+tral or provincial government or other subdivision. See ILC Articles on Responsibility of States for
+Internationally Wrongful Acts, annexed to GA Resolution 54/83, 12 December 2001 (hereafter “ILC
+Articles”), Articles 2(a), 4 and the Commission's commentary to Article 4, paras. (8)-(10). A similar
+remark may be made concerning the Tribunal’s later reference to “a strict liability standard of attribu-
+tion” (Award, para. 63; 40 ILM 426 (2001), p. 440). Attribution has nothing to do with the standard
+of liability or responsibility. The question whether a state’s responsibility is “strict” or is based on due
+diligence or on some other standard is a separate issue from the question of attribution (cf. ILC Articles,
+Ants, 2, 12). Ie does not, however, appear that either of these terminological issues affected the reasoning
+of the Tribunal, and no more need be said of them.
+
+18 Award, Part G., p. 35; 40 ILM 426 (2001), p. 447.
+
+CASES. 101
+
+Claimants, the Tribunal never actually considered the merits of their BIT
+claims at all, and by purporting to dismiss those claims without effectively
+considering them on their merits, the Tribunal manifestly exceeded its powers.
+Further, Claimants submit, even if it could be said that the Tribunal did con-
+sider their claims on the merits, it nonetheless failed to give any reasons for dis-
+missing them. There is thus a fundamental difference between the parties as to
+the manner in which the Tribunal’s decision is to be characterised.
+
+(a) The Federal Claims
+
+18. The Tribunal dealt with the federal claims—that is, claims arising from
+alleged conduct on the part of the federal authorities of the Argentine
+Republic—in paragraphs 83-90 and 92 of the Award.
+
+19. It began by noting that on only one occasion—in a letter dated 5
+March 1996—did Claimants ever raise the issue, as against the federal author-
+ities directly, of a breach of the BIT.!? The Tribunal noted that nowhere in the
+letter did Claimants “ask Argentine officials to take any particular action relat-
+ing to the Concession Contract or the pending differences between Claimants
+and the authorities of Tucumdn.”?° Accordingly the Tribunal determined that
+“[t]he record contains no evidence that Argentine officials ever failed to take
+any specific action that the Claimants requested.””!
+
+20. The Tribunal nonetheless went on to deal with the federal claims in
+some detail. It surveyed the range of “legal and political means” which, accord-
+ing to Claimants, the federal authorities should have used “to protect
+Claimants’ rights.”? These included: commencing legal proceedings against
+Tucumén in a federal court (para. 87); exercising financial (para. 88) and polit-
+ical (para. 89) leverage over the province; and notifying Tucumdan that its con-
+duct was in breach of the BIT (para. 90).
+
+21. Representative of this discussion is the treatment of potential legal
+action by the federal government, in a federal court, designed “to compel
+Tucumén to comply with the BIT.”?3 The Tribunal acknowledged (but
+
+19 Award, para. 83; 40 ILM 426 (2001), p. 444.
+2” Ibid.
+
+21 Award, para. 84; 40 ILM 426 (2001), p. 444.
+22 Award, para. 86; 40 ILM 426 (2001), p. 445.
+23 Award, para. 87; 40 ILM 426 (2001), p. 445.
+
+102 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+declined to resolve) the contested issue of Argentine law as to whether a federal
+court action would lie against a province for breach of a treaty. It observed that
+recourse to the Tucumén tribunals was available to Claimants (or at least to
+CAA) under the terms of the Concession Contract. It concluded by holding:
+
+On the facts presented, the Tribunal finds that there was no
+action of the Province of Tucumén that, absent such a local
+court proceeding [viz. under Article 16(4) of the Concession
+Agreement], so obviously violated the BIT as to require the
+Argentine government to seek a legal remedy against the
+Province in the Argentine courts nor, for that matter, did the
+Claimants ever specify any such action to the Argentine
+Republic.”4
+
+22. The Tribunal’s overall conclusion regarding the federal claims was as
+follows:
+
+In conclusion, the Tribunal finds that the record of these pro-
+ceedings does not provide a basis for holding that the
+Argentine Republic failed to respond to the situation in
+Tucuman and the requests of the Claimants in accordance
+with the obligations of the Argentine government under the
+
+BIT.?°
+(b) The Tucumdén Claims
+
+23. Claimants’ claims arising from the alleged conduct of Tucumdan and its
+officials are discussed in paragraphs 57-82 and 91 of the Award.
+
+24, After some initial discussion of the arguments of the parties regarding
+the so-called “strict liability standard of attribution” (paras. 57-61), the
+Tribunal declared that it would resolve the case not by answering any general
+question as to whether treaty provisions “impose a strict liability standard on
+a central government for actions of a political subdivision,” but rather by
+analysing “the specific allegations on which the Claimants base their claims
+and their legal significance in light of the terms of the Concession Contract
+
+%4 Ibid.
+25 Award, para. 92; 40 ILM 426 (2001), p. 446.
+
+CASES. 103
+
+and the BIT.”6 It then proceeded to analyse what Claimants had identified as
+“four categories of ‘acts of the Province attributable to [Respondent] that vio-
+lated Claimants’ rights under the BIT.”?7
+
+25. The first category of alleged BIT violations by Tucumén concerned
+“{alcts that resulted in a fall in the recovery rate.”?8 These included a decision
+by the Ombudsman, in December 1996, which was said to have deprived
+CGE of “their right to cut off service to non-paying customers,” as well as cer-
+tain decisions of a local regulatory authority, ERSACT, which were said to
+have “forced a reduction in the tariff and thereby created uncertainty as to
+what invoices had to be paid.” In respect of all these decisions, the Tribunal
+found that “Claimants never challenged in the courts of Tucumdén any of these
+actions of the administrative agencies of Tucumén relating to implementation
+of the Concession Contract.””?
+
+26. Under this first category of impugned conduct, the Tribunal also con-
+sidered Claimants’ allegations concerning public statements by provincial leg-
+islators and others purportedly urging customers not to pay their water bills.
+The Tribunal remarked that those allegations concerned “a highly disputed
+issue of fact, i.e., whether Tucuman authorities organized a campaign for non-
+payment of invoices issued by Claimants”; but it determined that “[i]n any
+event, this non-payment issue relates to the grounds for non-payment under
+the Concession Contract,” and, as with the administrative decisions discussed
+above, the Tribunal found that “Claimants failed to challenge any of these acts
+in the Tucumdn courts.”3°
+
+27. The second category of Tucumdn conduct allegedly in violation of
+Claimants’ rights under the BIT concerned “[a]cts that unilaterally reduced
+the tariff rate.”! These were found to comprise essentially the same acts
+referred to in the first category, and the Tribunal determined that, as with the
+
+26 Award, para. 62; 40 ILM 426 (2001), p. 440. Thus, as mentioned above (see note 17), the con-
+fusion inherent in the phrase “strict liability standard of attribution” seems to have no operative effect in
+the Award.
+
+27 Award, para. 63; 40 ILM 426 (2001), p. 440.
+
+28 Award, paras. 65-66; 40 ILM 426 (2001), pp. 440-441.
+29 Award, para. 65; 40 ILM 426 (2001), p. 440.
+
+30 Award, para. 66; 40 ILM 426 (2001), pp. 440-441.
+
+31 Award, para. 67; 40 ILM 426 (2001), p. 441.
+
+104 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+impugned conduct comprising the first category, they “were never challenged
+in the Tucuman courts.”>?
+
+28. With respect to the third category of alleged Tucumén breaches of the
+BIT, which concerned certain “[a]buses of regulatory authority,”>? the
+Tribunal again noted that “CGE never challenged in the Tucumén courts the
+interpretation that the Tucumdn agencies gave to the provisions of the
+Concession Contract bearing on this issue.”34
+
+29. The fourth category of alleged BIT violations by Tucumén concerned
+certain “[dJealings in bad faith.”3> A number of examples were given, includ-
+ing conduct by the provincial Governor designed to alter unilaterally “the
+terms of the second renegotiated agreement that was submitted to the
+Tucumaén legislature” in the period March-August 1997 (paras. 70-71). After
+briefly reviewing the factual differences between the parties on this point
+(para. 72), the Tribunal observed that this aspect of the dispute related solely
+to the parties’ efforts to conclude a negotiated settlement. It stressed that, as
+Claimants themselves acknowledged, Tucumén was not “legally obligated to
+modify the Concession Contract” (para. 73). After noting that Argentina itself
+was involved in attempts to resolve the impasse, the Tribunal held that “on the
+evidence presented, the Tribunal does not find the basis for holding the
+Argentine Republic liable for actions of the Tucumdn authorities.”>°
+
+30. Three additional allegations were made by Claimants in support of
+their claim of bad faith. One concerned certain fines imposed on Claimants
+for poor water quality allegedly discovered during water testing by Tucumén.
+
+32 Ibid.
+
+33 Award, paras. 68-69; 40 ILM 426 (2001), p. 441.
+
+34 Award, para. 68. In para. 69, the Tribunal sidestepped a factual dispute as to whether “the ERS-
+ACT intervention” was a legitimate administrative intervention or was politically motivated, to the detri-
+ment of Claimants, noting again that “Claimants never brought any legal challenge in the courts of
+Tucumén [in respect] of the ERSACT intervention on the ground that such action violated the rights of
+CGE under the Concession Contract.” See 40 ILM 426 (2001), p. 441.
+
+35 Award, paras. 70-76; 40 ILM 426 (2001), pp. 441-442.
+
+36 Award, para. 73; 40 ILM 426 (2001), p. 442. This conclusion is repeated in para. 82 of the
+‘Award: 40 ILM 426 (2001), p. 444.
+
+CASES. 105
+
+Argentina argued that the fines were authorised by the Concession Contract,
+and were in any event never collected; Claimants asserted that the fines were
+politically motivated and were intended to induce it to modify the Concession
+Contract, thus amounting to an abuse of power. For its part, the Tribunal con-
+cluded that “[s]ince none of the fines were ever enforced against Claimants,
+the Tribunal cannot base a finding of bad faith dealings on this alleged action,
+particularly when the dispute concerning its justification appears to depend in
+significant part on an interpretation of the Concession Contract that the par-
+ties thereto agreed would be decided by the Tucumén courts.”5” Similarly, as
+regards the other acts of Tucumén allegedly committed in bad faith, the
+Tribunal concluded that “the parties disagree over the meaning and applica-
+bility of the pertinent provisions of the Concession Contract, as well as over
+the underlying facts.”>*
+
+31. The Tribunal’s conclusions, drawn from its analysis of these “four cat-
+egories” of Tucumén acts, are summarised in paragraphs 77-84 of the Award.
+
+32. The Tribunal opens this section of its Award with the statement that
+“it is apparent that all of the...actions of the Province of Tucumén on which
+the Claimants rely... .are closely linked to the performance or non-performance
+of the parties under the Concession Contract.” It concludes that “all of the
+issues relevant to the legal basis for these claims against Respondent arose from
+disputes between Claimants and Tucumdan concerning their performance and
+non-performance under the Concession Contract.” These findings lead to
+the Tribunal’s central conclusion:
+
+ 
+
+(T]he Tribunal holds that, because of the crucial connection in
+this case between the terms of the Concession Contract and
+these alleged violations of the BIT, the Argentine Republic
+cannot be held liable unless and until Claimants have, as
+Article 16.4 of the Concession Contract requires, asserted their
+rights in proceedings before the contentious administrative
+
+37 Award, para. 74; 40 ILM 426 (2001), p. 442.
+
+38 Award, para. 75; 40 ILM 426 (2001), p. 442. The Tribunal also referred summarily to the post-
+termination conduct of the parties, specifically Claimants’ allegations that they were forced to continue
+to provide services under the Concession Contract while the provincial authorities continued to obstruct
+their attempts to collect charges from their customers (para. 76). The Tribunal only summarised the
+arguments made by the parties in this regard.
+
+39 Award, para. 77; 40 ILM 426 (2001), p. 443.
+
+40 Bid.
+
+  
+
+106
+
+33.
+
+ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+courts of Tucumdn and have been denied their rights, either
+procedurally or substantively.“!
+
+The Tribunal went on to make a number of additional findings
+
+port of this overarching conclusion:
+
+{G]iven the nature of the dispute between Claimants and the
+Province of Tucumén, it is not possible for this Tribunal to
+determine which actions of the Province were taken in exercise
+of its sovereign authority and which in the exercise of its rights
+as a party to the Concession Contract.... To make such deter-
+minations the Tribunal would have to undertake a detailed
+interpretation and application of the Concession Contract, a
+task left by the parties to that contract to the exclusive juris-
+diction of the administrative courts of Tucuman.”?
+
+There is no allegation before the Tribunal that the courts of
+Tucuman were unavailable to hear such claims or that they
+lacked independence or fairness in adjudicating them.*3
+
+Because the Tribunal has determined that on the facts present-
+ed the Claimants should first have challenged the actions of
+the Tucumén authorities in its administrative courts, any claim
+against the Argentine Republic could arise only if Claimants
+were denied access to the courts of Tucumén to pursue their
+remedy under Article 16.4 or if the Claimants were treated
+unfairly in those courts (denial of procedural justice) or if the
+judgment of those courts were substantively unfair (denial of
+substantive justice) or otherwise denied rights guaranteed to
+French investors under the BIT by the Argentine Republic.‘4
+
+41 Award, para. 78; 40 ILM 426 (2001), p. 443.
+
+“2 Award, para. 79; 40 ILM 426 (2001), p. 443.
+‘3 Ibid.
+“4 Award, para. 80; 40 ILM 426 (2001), p. 443.
+
+in sup-
+
+CASES. 107
+
+The Tribunal emphasizes that this decision does not impose an
+exhaustion of remedies requirement under the BIT because
+such requirement would be incompatible with Article 8 of the
+BIT and Article 26 of the ICSID Convention.
+
+In this case, however, the obligation to resort to the local
+courts is compelled by the express terms of Article 16.4 of the
+[Concession Contract] and the impossibility, on the facts of
+the instant case, of separating potential breaches of contract
+claims from BIT violations without interpreting and applying
+the Concession Contract, a task that the contract assigns
+expressly to the local courts.4°
+
+34. Two further points should be noted. The first concerns Article 10 of
+the BIT, on which Claimants had relied to avoid the apparently preclusive
+effect of Article 16(4) of the Concession Contract. Article 10 provides that:
+
+Investments which have been the subject of a specific under-
+taking by one Contracting Party vis-a-vis investors of the other
+Contracting Party shall be governed, without prejudice to the
+provisions of this Agreement, by the terms of this undertaking,
+in so far as its provisions are more favourable than those laid
+down by this Agreement.
+
+35. In a footnote, the Tribunal declared:
+
+Article 10 protects rights granted to an investor under a special
+agreement if such rights are more favorable to the investor than
+those granted under the BIT. The question here is not whether
+one or the other is more favorable, but whether the Tribunal is
+in a position, on the facts of this case, to separate the breach of
+contract issues from violations of the BIT, considering that the
+parties to the Concession Contract have agreed to an exclusive
+remedy in the Tucumén courts for the determination of the
+disputed contractual issues which are not governed by the
+BIT.“
+
+45 Award, para. 81; 40 ILM 426 (2001), p. 444.
+46 Award, para. 78, note 20; 40 ILM 426 (2001), p. 449
+
+108 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+36. The second point concerns the Tribunal’s explanation of why, in its
+view, the so-called “fork in the road” provision of Article 8(2) of the BIT has
+no application to Claimants in the circumstances of this case. Article 8(2) pro-
+vides in relevant part that, “[o]nce an investor has submitted the dispute to the
+courts of the Contracting Party concerned or to international arbitration, the
+choice of one or the other of those procedures is final.” In the Tribunal’s view,
+recourse by Claimants to the contentious administrative courts of Tucumén
+would not have precluded them from subsequently bringing claims before an
+ICSID tribunal in accordance with the BIT, ie., it would not have amounted
+to a final “choice of one or the other of those procedures” within Article 8(2).
+The Tribunal addressed this question twice, in paragraphs 55 and 81 of the
+Award.
+
+37. In paragraph 55, the Tribunal announced this conclusion with the
+prefatory words “[b]y this same analysis.” The analysis in question is found in
+paragraphs 53 and 54, where, after analysing the decision in the Lanco case,
+the Tribunal stated:
+
+53. ... In this case the claims filed by CGE against
+Respondent are based on violation by the Argentine Republic
+of the BIT... As formulated, these claims against the
+Argentine Republic are not subject to the jurisdiction of the
+contentious administrative tribunals of Tucumdn, if only
+because, ex Aypothesi, those claims are not based on the
+Concession Contract but allege a cause of action under the
+BIT.
+
+54. Thus, Article 16.4 of the Concession Contract cannot be
+deemed to prevent the investor from proceeding under the
+ICSID Convention against the Argentine Republic on a claim
+charging the Argentine Republic with a violation of the
+Argentine-French BIT.
+
+55. By this same analysis, a suit by Claimants against Tucumén
+in the administrative courts of Tucumén for violation of the
+terms of the Concession Contract would not have foreclosed
+Claimant from subsequently seeking a remedy against the
+Argentine Republic as provided in the BIT and ICSID
+Convention. ..47
+
+“7 40 ILM 426 (2001), pp. 438-439 (emphasis added, footnote omitted)
+
+CASES. 109
+
+38. As these passages show, the Tribunal interpreted Article 8(2) as apply-
+ing only to claims of a breach of the BIT, and not to purely contractual or
+other claims within the jurisdiction of the administrative courts of Tucumén,
+even if those claims overlapped with the claims for breach of the BIT. In other
+words, in the view of the Tribunal, the fork in the road set out in Article 8(2)
+is limited in its application to claims which explicitly “allege a cause of action
+under the BIT” or which “[charge] the Argentine Republic with a violation of
+the Argentine-French BIT”; it does not apply in the circumstance of claims
+“based on the Concession Contract” or to “a suit by Claimants... for violation
+of the terms of the Concession Contract.”
+
+39. That this is the correct interpretation of the Tribunal’s ruling as to
+Article 8(2) is reinforced by the discussion contained in footnote 19, at para-
+graph 53 of the Award, where the Tribunal explicitly rejected Respondent's
+contention that the Tucumén courts would have had jurisdiction over “a claim
+against the Argentine Republic based on the BIT.” It gave two reasons: first,
+“the Argentine Republic could have engaged in conduct or failed to act in vio-
+lation of its obligations under the BIT even if Tucumén were not in violation
+of the Concession Contract”; and second, “the Tucuman courts do not have
+jurisdiction over such a suit [against the Argentine Republic] absent consent
+by Respondent.” The underlying assumption is, again, that for a claim before
+the Tucumén courts to be covered by Article 8(2), it would have to be “based
+on the BIT.”
+
+40. The Tribunal returned to the question in paragraph 81 of its Award:
+
+That is why the Tribunal rejects Claimants’ position that they
+had no obligation to pursue such local remedies against the
+Province or that, in the event of a denial of justice of [sic]
+rights under the BIT, that any such legal action in the
+Tucuman courts would have waived their right to resort to
+arbitration against the Argentine Republic before ICSID
+under the BIT.48
+
+41. The Tribunal’s stated rationale for rejecting Claimants’ position is “the
+impossibility, on the facts of the instant case, of separating potential breaches
+of contract claims from BIT violations without interpreting and applying the
+Concession Contract, a task that the contract assigns expressly to the local
+
+48 Ibid. p. 444.
+
+110 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+courts.” The Tribunal appears to have considered that, because Claimants’
+contract and treaty claims could not be separated, a distinct claim “based on
+the BIT” was impossible in the circumstances of the case, at least prior to sub-
+mission of the dispute to the provincial courts.
+
+42. Thus, it seems that the Tribunal’s conclusion that the fork in the road
+was never reached in this case is based on an interpretation of Article 8(2)
+which limits its application exclusively to claims alleging a breach of the BIT,
+that is, to treaty claims as such.
+
+43. The Tribunal returned to consider the Tucumén claims in paragraph
+91 of the Award, which addresses Claimants’ allegations regarding hostile and
+concerted “action by officials, legislative and executive.” In this regard, the
+
+Tribunal said:
+
+In addition to pointing out that the legislators on whose
+actions the Claimants rely were opponents of the governing
+party in Tucumén at the time that the disputes arose under the
+Concession Contract, Respondent presented a point by point
+refutation of the other evidence upon which Claimants rely for
+these allegations. After carefully reviewing the extensive
+memorials and testimony, the Tribunal finds that the record in
+these proceedings regarding these allegations does not establish
+a factual basis for attributing liability to the Argentine
+Republic under the BIT for the alleged actions of officials of
+Tucumén.“?
+
+Cc. THE COMMITTEE'S ANALYSIS
+
+44, Before proceeding to analyse the Tribunal’s reasoning in more detail,
+with a view specifically to assessing the validity of the grounds of annulment
+raised by the parties, it is necessary to say something about the France-
+Argentina BIT of 3 July 1991, and about the role of annulment panels and the
+scope of their powers.
+
+® Ibid, p. 446.
+
+CASES. lil
+
+(1) Relevant Provisions of the France-Argentina BIT
+
+45. The Agreement between the Government of the Argentine Republic
+and the Government of the Republic of France for Reciprocal Protection and
+Promotion of Investments was signed by France and Argentina at Paris on 3
+July 1991 and came into force on 3 March 1993.>° It deals, inter alia, with the
+following matters relevant to the present proceeding.
+
+(a) Definition of “Investor” and “Investment”
+
+46. Article 1(1) contains a broad definition of the term “investment,”
+which includes: “Shares, issue premiums and other forms of participation,
+albeit minority or indirect, in companies constituted in the territory of either
+Contracting Party,” which are invested in accordance with the law of the
+Contracting Party before or after the entry into force of the BIT.>!
+
+47. The term “investor” is defined in Article 1(2). It is stated to apply to:
+(a) individuals; (b) bodies corporate having the nationality of one of the
+Contracting Parties, and also to
+
+(c) Any body corporate effectively controlled, directly or
+indirectly, by nationals of one Contracting Party, or by bodies
+corporate having their registered office in the territory of one
+Contracting Party and constituted in accordance with that
+Party’s legislation.**
+
+48. Atthe time the Concession Contract was signed and the initial invest-
+ment was made, the shareholding in CAA was divided between CGE, a
+Spanish company, Dragados y Construcciones Argentina S.A. (Dycasa), and
+an Argentine company, Benito Roggio e Hijos S.A. (Roggio), none of which
+had a controlling shareholding in CAA. When the letter of 5 March 1996 was
+written, Dycasa maintained its interest in CAA, hence the letter referred not
+only to the Argentine-France BIT but also to a BIT between Spain and
+Argentina. Subsequently, in June 1996, CGE acquired Dycasa’s shareholding
+and thus had effective control of CAA within the meaning of Article 1(2)(c)
+
+5° Above, note 3.
+51 BIT, Article 1(1)(b).
+2 BIT, Article 1(2)(0).
+
+112 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+of the Argentine-French BIT at the time the arbitration proceedings were
+commenced.
+
+49. Notwithstanding these facts (on which there seems to be no dispute
+between the parties) the Tribunal held, in a footnote, that “CAA should be
+considered a French investor from the effective date of the Concession
+Contract.” The Respondent claims that this finding was unsupported by any
+reasons and was in fact contradicted by uncontested evidence before the
+Tribunal. According to the Respondent, CGE was not the controlling share-
+holder at the time when most of the alleged BIT violations occurred, and CAA
+was accordingly not an “investor” for the purposes of the BIT at that time.
+
+50. In common with other BITs, Article 1 clearly distinguishes between
+foreign shareholders in local companies and those companies themselves.
+While the foreign shareholding is by definition an “investment” and its hold-
+er an “investor,” the local company only falls within the scope of Article 1 if it
+is “effectively controlled, directly or indirectly, by nationals of one Contracting
+Party” or by corporations established under its laws. In accordance with these
+provisions, which determine the scope of operation of the BIT, issues might
+well arise where there has been a transfer of control of a local company from a
+shareholder of one nationality to a shareholder of another. For example, if
+Dycasa had a Spanish treaty claim prior to March 1996, questions might arise
+as to how that claim could be later transferred to a French company, or as to
+how CGE could have acquired a French treaty claim in respect of conduct
+concerning an investment which it did not hold at the time the conduct
+occurred and which at that time did not have French nationality. At least, such
+questions might affect the quantum of recovery, but they might have further
+and even more basic legal consequences. But while it is arguable that the
+Tribunal failed to state any reasons for its finding that “CAA should be con-
+sidered a French investor from the effective date of the Concession Contract,”
+that finding played no part in the subsequent reasoning of the Tribunal, or in
+its dismissal of the claim. Moreover it cannot be argued that CGE did not have
+an “investment” in CAA from the date of the conclusion of the Concession
+Contract, or that it was not an “investor” in respect of its own shareholding,
+whether or not it had overall control of CAA. Whatever the extent of its
+investment may have been, it was entitled to invoke the BIT in respect of con-
+duct alleged to constitute a breach of Articles 3 or 5. It is also clear that CGE
+controlled CAA at the time the proceedings were commenced, so that there
+
+53 Award, para. 24, note 6; 40 ILM 426 (2001), pp. 447-448.
+
+CASES. 113
+
+was no question that the Tribunal lacked jurisdiction over CAA as one of
+Claimants in the arbitration. In the circumstances, and for the purposes of the
+present proceedings, the Committee does not need to reach any conclusion on
+the precise extent of CAA’s and CGE’s treaty rights at different times.
+
+(b) Local Remedies and Their Relation to Arbitration under
+the BIT
+
+51. The role and effect, if any, of local remedies available to the investor
+under the France-Argentina BIT are addressed in Article 8 of the BIT, which
+is central to this case, and in certain articles of the ICSID Convention, espe-
+cially Article 26.
+
+52. In accordance with Article 26 of the Convention, consent to ICSID
+arbitration involves consent “to the exclusion of any other remedy.” A
+Contracting State may qualify its consent by requiring, as a pre-condition to
+arbitration, “the exhaustion of local administrative or judicial remedies.”
+Argentina did not impose such a pre-condition when it agreed to Article 8 of
+the BIT. Accordingly it is common ground (and the Tribunal so held) that the
+exhaustion of local remedies rule does not apply to claims under the BIT.
+
+53. Article 8 of the BIT expressly gives investors a choice of forum. Article
+8 provides in full as follows:
+
+1. Any dispute relating to investments made under this
+Agreement between one Contracting Party and an investor of
+the other Contracting Party shall, as far as possible, be settled
+amicably between the two parties concerned.
+
+2. If any such dispute cannot be so settled within six months
+of the time when a claim is made by one of the parties to the
+dispute, the dispute shall, at the request of the investor, be
+submitted:
+
+¢ — Either to the domestic courts of the Contracting Party
+involved in the dispute;
+
+* — Or to international arbitration under the conditions
+described in paragraph 3 below.
+
+114 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+Once an investor has submitted the dispute to the courts of the
+Contracting Party concerned or to international arbitration,
+the choice of one or the other of these procedures is final.
+
+3. Where recourse is had to international arbitration, the
+investor may choose to bring the dispute before one of the fol-
+lowing arbitration bodies:
+
+¢ The International Centre for Settlement of Investment
+Disputes (ICSID), established by the Convention on the
+Settlement of Investment Disputes between States and
+National of other States opened for signature in
+Washington on 18 March 1965, if both States Parties to
+this Agreement have already acceded to the Convention.
+Until such time as this requirement is met, the two
+Contracting Parties shall agree to submit the dispute to
+arbitration, in accordance with the rules of procedure of
+the Additional Facility of ICSID;
+
+¢ An ad hoc arbitral tribunal established in accordance with
+the Arbitration Rules of the United Nations Commission
+on International Trade Law (UNCITRAL).
+
+4, The ruling of the arbitral body shall be based on the pro-
+visions of this Agreement, the legislation of the Contracting
+Party which is a party to the dispute, including rules govern-
+ing conflict of laws, the terms of any private agreements con-
+cluded on the subject of the investment, and the relevant prin-
+ciples of international law.
+
+5.  Arbitral decisions shall be final and binding on the par-
+ties to the dispute. [Footnote omitted.]
+
+54. Two initial points may be made about these provisions. First, it is evi-
+dent that the term “national jurisdictions” as used in Article 8(2) (“juridictions
+nationales”/“jurisdiciones nacionales” in the authentic French and Spanish
+texts; “domestic courts” in the UNTS English translation) refers to all the
+courts and tribunals of the Contracting Parties, and not just to those at the
+federal level. In a treaty between a unitary and a federal state, such as France
+and Argentina respectively, one would not expect any disparity in the applica-
+tion of a phrase such as “national jurisdictions”: all French courts and tribunals
+are national, as are, for the purposes of the BIT, all courts and tribunals of
+
+CASES. 115
+
+Argentina. The relevant distinction, as Article 8(2) makes clear, is between
+“national” and “international” tribunals, not between “national” and “provin-
+cial” courts. Thus, there is no disparity between the phrases “national jurisdic-
+tions [#.e., courts]” and “jurisdictions [courts] of the Contracting Party” as
+used in the two paragraphs of Article 8(2). In consequence, the contentious
+administrative courts of Tucumdn are to be considered as national courts
+falling within the scope of Article 8(2).4
+
+55. Secondly, Article 8 deals generally with disputes “relating to invest-
+ments made under this Agreement between one Contracting Party and an
+investor of the other Contracting Party.” It is those disputes which may be sub-
+mitted, at the investor's option, either to national or international adjudica-
+tion. Article 8 does not use a narrower formulation, requiring that the
+investor’s claim allege a breach of the BIT itself. Read literally, the require-
+ments for arbitral jurisdiction in Article 8 do not necessitate that the Claimant
+allege a breach of the BIT itself: it is sufficient that the dispute relate to an
+investment made under the BIT. This may be contrasted, for example, with
+Article 11 of the BIT, which refers to disputes “concerning the interpretation
+or application of this Agreement,” or with Article 1116 of the NAFTA, which
+provides that an investor may submit to arbitration under Chapter 11 “a claim
+that another Party has breached an obligation under” specified provisions of
+that Chapter. Consequently, if a claim brought before a national court con-
+cerns a “dispute relating to investments made under this Agreement” within
+the meaning of Article 8(1), then Article 8(2) will apply.>> In the Committee’s
+view, a claim by CAA against the Province of Tucumén for breach of the
+Concession Contract, brought before the contentious administrative courts of
+Tucuman, would prima facie fall within Article 8(2) and constitute a “final”
+choice of forum and jurisdiction, if that claim was coextensive with a dispute
+relating to investments made under the BIT.
+
+(c) Scope and Application of Substantive Provisions of the BIT
+
+56. Claimants’ case before the Tribunal was based on Articles 3 and 5 of
+the BIT, which deal, respectively, with “fair and equitable treatment according
+
+ 
+
+54 Alehough counsel for the Respondent contended otherwise before the Committee, the issue
+does not appear to have been the basis for the Tribunal’s ruling on Article 8(2). See above, paras. 35-41,
+where the Committee summarises its understanding of the Tribunal’ reasoning on this point
+
+55. CE. Waste Management, Inc. v. Mexico (No. 1), 40 ILM 56 (2001) at p. 68 (para. 28).
+
+   
+
+ 
+
+116 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+to the principles of international law” and with “measures of expropria-
+tion...or any other equivalent measure.”
+
+57. Article 3 provides that:
+
+Each Contracting Party shall undertake to accord in its terri-
+tory and maritime zone just and equitable treatment, in accor-
+dance with the principles of international law, to the invest-
+ments of investors of the other Party and to ensure that the
+exercise of the right so granted is not impeded either de jure or
+
+de facto.
+
+58. Article 5 provides that:
+
+1. Investments made by investors of one Contracting Party
+shall be fully and completely protected and safeguarded in the
+territory and maritime zone of the other Contracting Party, in
+accordance with the principle of just and equitable treatment
+mentioned in article 3 of this Agreement.
+
+2. The Contracting Parties shall not take, directly or indi-
+rectly, any expropriation or nationalization measures or any
+other equivalent measures having a similar effect of disposses-
+sion, except for reasons of public necessity and on condition
+that the measures are not discriminatory or contrary to a spe-
+cific undertaking.
+
+Any such dispossession measures taken shall give rise to
+the payment of prompt and adequate compensation the
+amount of which, calculated in accordance with the real value
+of the investments in question, shall be assessed on the basis of
+a normal economic situation prior to any threat of disposses-
+sion.
+
+The amount and methods of payment of such compen-
+sation shall be determined not later than the date of disposses-
+sion. The compensation shall be readily convertible, paid with-
+out delay and freely transferable. It shall yield, up to the date
+of payment, interest calculated at the appropriate rate.
+
+3. Investors of either Contracting Party whose investments
+have suffered losses as a result of war or any other armed con-
+flict, revolution, state of national emergency or uprising in the
+
+CASES. 7
+
+territory or maritime zone of the other Contracting Party shall
+be accorded by the latter Party treatment which is no less
+favourable than that accorded to its own investors or to
+investors of the most-favoured nation.
+
+59. Both these Articles refer to an international law standard, expressly or
+by clear implication. The protection afforded under both Articles is extended
+to “investments made by investors.”
+
+60. Again itis evident that a particular investment dispute may at the same
+time involve issues of the interpretation and application of the BIT’s standards
+and questions of contract. Article 8(4), by expressly empowering the Tribunal
+to base its ruling on the provisions of the BIT as well as on the terms of any
+private agreements concluded on the subject of the investment, clearly
+acknowledges that possibility. So too does Article 8(2), which contemplates
+that the very same dispute may be submitted either to the domestic courts of
+the Contracting Party (to be determined in accordance with the domestic law
+of that State), or to international arbitration (to be determined in accordance
+with the applicable law identified in Article 8(4)).
+
+(2) The Role of Annulment Under the ICSID Convention
+
+61. It is against this background that the Committee has to consider the
+grounds for annulment relied on before it. Before doing so, however, some
+brief remarks on the role of annulment in the ICSID system are necessary.
+
+62. Although the issue of the proper role of an annulment committee in
+the ICSID system must necessarily inform the analysis and the conclusions of
+this Committee, relatively little needs to be said about the issue for the reason
+that there seems to be little disagreement between the parties. Claimants and
+Respondent agree that an ad hoc Committee is not a court of appeal and that
+its competence extends only to annulment based on one or other of the
+grounds expressly set out in Article 52 of the ICSID Convention. It also
+appears to be established that there is no presumption either in favour of or
+against annulment,*® a point acknowledged by Claimants as well as
+Respondent.
+
+56 Cf. MINE y. Guinea, Decision on Annulment of 22 December 1989, (1989) 4 ICSID Rep. 79
+at p. 86 (paras. 4.09-4.12); and see also C. Schreuer, The ICSID Convention: A Commentary (Cambridge,
+Cambridge Unversity Press, 2001) (hereafter “Schreuer”), at pp. 902-3.
+
+118 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+63. No doubt the Committee must take great care to ensure that the rea-
+soning of an arbitral tribunal is clearly understood, and must guard against the
+annulment of awards for trivial cause. But where a tribunal has “manifestly
+exceeded its powers” or has committed “a serious departure from a fundamen-
+tal rule of procedure’—both grounds for annulment under Article 52 of the
+ICSID Convention and both relied on by Claimants in this proceeding—the
+matter is by definition not trivial.
+
+64. A greater source of concern is perhaps the ground of “failure to state
+reasons,” which is not qualified by any such phrase as “manifestly” or “serious.”
+However, it is well accepted both in the cases and the literature that Article
+52(1)(e) concerns a failure to state any reasons with respect to all or part of an
+award, not the failure to state correct or convincing reasons.°” It bears reiter-
+ating that an ad hoc committee is not a court of appeal. Provided that the rea-
+sons given by a tribunal can be followed and relate to the issues that were
+before the tribunal, their correctness is beside the point in terms of Article
+52(1)(e). Moreover, reasons may be stated succinctly or at length, and differ-
+ent legal traditions differ in their modes of expressing reasons. Tribunals must
+be allowed a degree of discretion as to the way in which they express their rea-
+soning.
+
+65. In the Committee’s view, annulment under Article 52(1)(e) should
+only occur in a clear case. This entails two conditions: first, the failure to state
+reasons must leave the decision on a particular point essentially lacking in any
+expressed rationale; and second, that point must itself be necessary to the tri-
+bunal’s decision. It is frequently said that contradictory reasons cancel each
+other out, and indeed, if reasons are genuinely contradictory so they might.
+However, tribunals must often struggle to balance conflicting considerations,
+and an ad hoc committee should be careful not to discern contradiction when
+what is actually expressed in a tribunal’s reasons could more truly be said to be
+but a reflection of such conflicting considerations.
+
+66. Finally, it appears to be established that an ad hoc committee has a cer-
+tain measure of discretion as to whether to annul an award, even if an annul-
+lable error is found. Article 52(3) provides that a committee “shall have the
+authority to annul the award or any part thereof,” and this has been interpret-
+
+57 See Schreuer, pp. 984-1008.
+
+CASES. 119
+
+ed as giving committees some flexibility in determining whether annulment is
+appropriate in the circumstances.°® Among other things, it is necessary for an
+ad hoc committee to consider the significance of the error relative to the legal
+rights of the parties. This question, as it applies in the circumstances of the
+present case, is addressed below.
+
+67. Another question, which was debated between the parties in this case,
+is whether an ad hoc committee is limited to the grounds for annulment relied
+on by a Claimant, or whether the Respondent may itself raise additional
+grounds for annulment. In their Application, Claimants sought only the par-
+tial annulment of the Award, on three grounds: (1) that the Tribunal mani-
+festly exceeded its powers; (2) that there had been a serious departure from a
+fundamental rule of procedure; and (3) that the Award failed to state the rea-
+sons on which it is based.®? The Respondent not only resisted each of these
+contentions, it further argued that ifany of them were to be upheld, the Award
+as a whole should be annulled, on the grounds either that the Tribunal had no
+jurisdiction at all, or that there was a fundamental contradiction in the
+Tribunal’s reasoning as between that part which dealt with jurisdiction and
+that part which dealt with the merits. By way of reply, in their written plead-
+ings, Claimants argued that what they called Respondent’s “counterclaim” for
+annulment of the Award as a whole was inadmissible, on the ground that it
+was out of time and that Article 52 made no provision for counterclaims.
+
+68. The Committee agrees with Claimants that a counterclaim for annul-
+ment, that is, a claim which is not raised by the party concerned as a separate
+request in accordance with Article 52(1) of the Convention, is inadmissible.
+But it does not follow that a party, such as Respondent in the present case, may
+not present its own arguments on questions of annulment, provided that those
+arguments concern specific matters pleaded by the party requesting annul-
+ment, in this case the Claimants. In the opinion of the Committee, a party to
+annulment proceedings which successfully pleads and sustains a ground for
+annulment set out in Article 52(1) of the ICSID Convention cannot limit the
+extent to which an ad hoc committee may decide to annul the impugned
+award as a consequence. Certain grounds of annulment will affect the award
+as a whole—for example, where it is demonstrated that the tribunal which ren-
+dered the award was not properly constituted (Article 52(1)(a)). Others may
+
+58 §
+4.09-4.10.
+59 Application, para. 3; see also para. 2 of the present decision.
+
+ 
+
+Schreuer, pp. 1018-1023, with references to the authorities, especially MINE at paras.
+
+120 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+only affect part of the award. An ad hoc committee is expressly authorised by
+the Convention to annul an award “in whole or in part” (Article 52(3)).
+
+69. | Thus where a ground for annulment is established, it is for the ad hoc
+committee, and not the requesting party, to determine the extent of the annul-
+ment. In making this determination, the committee is not bound by the appli-
+cant’s characterisation of its request, whether in the original application or oth-
+erwise, as requiring either complete or partial annulment of the award. This is
+reflected in the difference in language between Articles 52(1) and 52(3), and
+it is further supported by the travaux of the ICSID Convention. Indeed,
+Claimants in the present case eventually accepted this view.
+
+70. In seeking in the alternative the annulment of the jurisdictional por-
+tion of the Award, the Respondent was not making a late annulment applica-
+tion by way of a counterclaim—a procedure which, as Claimants correctly
+asserted, is not contemplated by Article 52 of the ICSID Convention. Rather
+it was arguing that if Claimants’ position on the merits were to be upheld,
+either under Article 52(1)(b) or 52(1)(e), the effect must necessarily be to
+bring down the whole Award. That position was entirely open to the
+Respondent. It in no way entailed what would have been an inadmissible
+counterclaim for annulment on new grounds.
+
+(3) The Grounds of Annulment
+
+71. The Committee accordingly turns to the grounds for annulment
+themselves. Since, as explained above, the grounds validly pleaded by the
+Respondent extend to the Tribunal’s holding on jurisdiction, it is appropriate
+to consider first the issue of the Tribunal’s jurisdiction.
+
+(a) The Tribunal’s Jurisdictional Finding
+
+72. The Committee has already summarised the grounds on which the
+Tribunal upheld its jurisdiction. The Tribunal gave extensive reasons for doing
+so, and these reasons are not in themselves contradictory. Tt is true that
+Respondent argued, in the alternative, that there was a contradiction between
+those reasons and the reasons given by the Tribunal concerning the merits. But
+Argentina also argued that the Tribunal lacked jurisdiction in any event. If this
+
+6 With the possible exception of the matter concerning Dycasa’s shares, referred to above, para.
+
+48.
+
+CASES. 121
+
+is right, it was a manifest excess of power for the Tribunal to proceed to con-
+sider the merits, and the whole Award must be annulled. Accordingly, the
+question of failure to give reasons, including possibly contradictory reasons,
+does not arise so far as the Tribunal’s jurisdictional finding is concerned.
+
+73. For its part, however, the Committee has no difficulty accepting each
+of the four propositions, summarised in paragraph 14 above, on the basis of
+which the Tribunal held that it had jurisdiction and that its jurisdiction
+extended to the Tucuman claims.
+
+74. In particular, the Committee agrees with the Tribunal in characterising
+the present dispute as one “relating to investments made under this
+Agreement” within the meaning of Article 8 of the BIT. Even if it were neces-
+sary in order to attract the Tribunal’s jurisdiction that the dispute be charac-
+terised not merely as one relating to an investment but as one concerning the
+treatment of an investment in accordance with the standards laid down under
+the BIT, it is the case (as the Tribunal noted) that Claimants invoke substan-
+tive provisions of the BIT.
+
+75. The Committee likewise agrees that the fact that the investment con-
+cerns a Concession Contract made with Tucumén, a province of Argentina
+which has not been separately designated to ICSID under Article 25(1), does
+not mean that the dispute falls outside the scope of the BIT, or that the invest-
+ment ceases to be one “between one Contracting Party and an investor of the
+other Contracting Party” within the meaning of Article 8(1) of the BIT.
+
+76. This being so, the fact that the Concession Contract referred contrac-
+tual disputes to the contentious administrative courts of Tucuman did not
+affect the jurisdiction of the Tribunal with respect to a claim based on the pro-
+visions of the BIT. Article 16(4) of the Concession Contract did not in terms
+purport to exclude the jurisdiction of an international tribunal arising under
+Article 8(2) of the BIT; at the very least, a clear indication of an intention to
+exclude that jurisdiction would be required.
+
+77. The Lanco decision, cited by the Tribunal, supports its finding of juris-
+
+diction.®! In that case the contract at issue, which involved an agency of the
+federal government of Argentina, contained an exclusive jurisdiction clause
+
+6! 40 ILM 457 (2001), cited by the Tribunal in its Award, para. 53.
+
+122 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+referring contractual disputes to a federal contentious administrative tribunal.
+
+The Lanco Tribunal held:
+
+[T]he stipulation of Article 12 of the Concession Agreement,
+according to which the parties shall submit to the jurisdiction
+of the Federal Contentious-Administrative Tribunals of the
+City of Buenos Aires, cannot be considered a previously agreed
+dispute-settlement procedure. The Parties could have foreseen
+submission to domestic or international arbitration, but the
+choice of a national forum could only lead to the jurisdiction
+of the contentious-administrative tribunals, since administra-
+
+tive jurisdiction cannot be selected by mutual agreement.®
+
+78. But in any event the Lanco Tribunal denied that an exclusive jurisdic-
+tion clause could exclude ICSID jurisdiction, relying in particular on Article
+26 of the ICSID Convention. It said:
+
+§39 A State may require the exhaustion of domestic remedies
+as a prior condition for its consent to ICSID arbitration. This
+demand may be made (i) in a bilateral investment treaty that
+offers submission to ICSID arbitration, (ii) in domestic legis-
+lation, or (iii) in a direct investment agreement that contains
+an ICSID clause. The ARGENTINA-U.S. Treaty does not
+provide at any point for the exhaustion of domestic remedies,
+and the Argentine Republic, for its part, has not alleged that
+there is any such domestic legislation. The only requirement
+that the ARGENTINA-U.S. Treaty does provide for is the
+period of six months that is required for turning to ICSID
+arbitration.
+
+§40 In our case, the Parties have given their consent to ICSID
+arbitration, consent that is valid, there thus being a presump-
+tion in favor of ICSID arbitration, without having first to
+exhaust domestic remedies. In effect, once valid consent to
+ICSID arbitration is established, any other forum called on to
+decide the issue should decline jurisdiction. The investor’s con-
+sent, which comes from its written consent by letter of
+September 17, 1997, and its request for arbitration of October
+1, 1997, and the consent of the State which comes directly
+
+82 40 ILM 457 (2001), p. 466 (§ 26).
+
+CASES. 123
+
+from the ARGENTINA-U.S. Treaty, which gives the investor
+the choice of forum for settling its disputes, indicate that there
+is no stipulation contrary to the consent of the parties... In
+effect, the offer made by the Argentine Republic to covered
+investors under the ARGENTINA-U.S. Treaty cannot be
+diminished by the submission to Argentina's domestic courts,
+to which the Concession Agreement remits.%
+
+79. Indeed, Lanco was a stronger case on the facts than the present, as
+regards the effect of an exclusive jurisdiction clause, since the foreign claimant
+in Lanco was actually a party to the exclusive jurisdiction clause at issue, unlike
+CGE here.
+
+80. _ Forall these reasons, the Respondent's request that the Tribunal’s juris-
+dictional finding be annulled must be rejected.
+
+(b) The Tribunal’s Findings on the Merits
+
+81. Claimants relied on three grounds set out in Article 52 of the ICSID
+Convention as supporting its request for partial annulment. The Committee
+will deal with these in turn.
+
+(i) Serious departure from a fundamental rule of procedure: Article
+52(1)(d)
+
+82. The first of these grounds concerns the claim that “there has been a
+serious departure from a fundamental rule of procedure” (Article 52(1)(d)).
+Claimants argued that the Tribunal had departed from a fundamental rule of
+procedure in that its eventual decision, notably as to the dismissal of the
+Tucuman claims on grounds related to Article 16(4) of the Concession
+Contract, concerned a question not adequately canvassed in argument.
+
+3 Thid, SS 39-40.
+
+4 See also Salini Costruttori SpA v. Kingdom of Morocco, \CSID, jurisdictional decision, 23 July
+2001, reported in 129 Journal de droit international 196 (2002), with note by Gaillard, ibid., p. 209. This
+was a construction dispute focusing on the amount payable under a contract with a local jurisdiction
+clause, The Tribunal held that provisions in the BIT concerning measures of expropriation or national-
+ization “ne saurait étre interprétée dans le sens d’une exclusion de tout grief d’origine contractuelle du
+champ de application de cet article” (p. 209, para. 59), and further that, notwithstanding the local juris-
+diction clause, “le Tribunal arbitral demeure compétent pour les violations du contrat quii constituerait
+en méme temps, & la charge de I’Etat une violation de Accord bilatéral” (p. 209, para. 62).
+
+124 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+83. | The Committee cannot find in the record of the arbitration, including
+the Award, any basis for Claimants’ allegations in this regard. Under Article
+52(1)(d), the emphasis is clearly on the term “rule of procedure,” that is, on
+the manner in which the Tribunal proceeded, not on the content of its deci-
+sion. In the opinion of the Committee, the Tribunal proceeded with abundant
+care. It considered the issue of jurisdiction first, and it decided, in the exercise
+of its discretion, to join that issue to the merits of the dispute. It then consid-
+ered the merits at length and rendered a densely reasoned award.
+
+84. Claimants contend the Tribunal’s decision came unannounced, and
+that they had no opportunity to present arguments on the decision to dismiss
+their claim on the merits on grounds related to Article 16(4) of the Concession
+Contract. It may be true that the particular approach adopted by the Tribunal
+in attempting to reconcile the various conflicting elements of the case before
+it came as a surprise to the parties, or at least to some of them. But even if true,
+this would by no means be unprecedented in judicial decision-making, either
+international or domestic, and it has nothing to do with the ground for annul-
+ment contemplated by Article 52(1)(d) of the ICSID Convention. In fact, the
+Tribunal had already determined that the questions of jurisdiction and merits
+were closely linked, and it had joined the two. Moreover, in its questioning
+and especially its request for post-hearing briefs, the Tribunal clearly indicated
+that it had concerns as to how to reconcile Article 8 of the BIT and Clause
+16(4) of the Concession Contract.
+
+85. From the record, it is evident that the parties had a full and fair oppor-
+tunity to be heard at every stage of the proceedings. They had ample oppor-
+tunity to consider and present written and oral submissions on the issues, and
+the oral hearing itself was meticulously conducted to enable each party to pres-
+ent its point of view. The Tribunal’s analysis of issues was clearly based on the
+materials presented by the parties and was in no sense ultra petita. For these
+reasons, the Committee finds no departure at all from any fundamental rule
+of procedure, let alone a serious departure.
+
+(ii) Manifest excess of powers: Article 52(1)(b)
+
+86. I is settled, and neither party disputes, that an ICSID tribunal com-
+mits an excess of powers not only if it exercises a jurisdiction which it does not
+have under the relevant agreement or treaty and the ICSID Convention, read
+together, but also if it fails to exercise a jurisdiction which it possesses under
+
+CASES. 125
+
+those instruments.® One might qualify this by saying that it is only where the
+failure to exercise a jurisdiction is clearly capable of making a difference to the
+result that it can be considered a manifest excess of power. Subject to that qual-
+ification, however, the failure by a tribunal to exercise a jurisdiction given it by
+the ICSID Convention and a BIT, in circumstances where the outcome of the
+inquiry is affected as a result, amounts in the Committee's view to a manifest
+excess of powers within the meaning of Article 52(1)(b).
+
+87. No doubt an ICSID tribunal is not required to address in its award
+every argument made by the parties, provided of course that the arguments
+which it actually does consider are themselves capable of leading to the con-
+clusion reached by the tribunal and that all questions submitted to a tribunal
+are expressly or implicitly dealt with. In the present case, Claimants contend
+that, far from considering their claims concerning breach of the BIT prior to
+purportedly dismissing them, the Tribunal actually declined to decide
+Claimants’ allegations since it considered that, in order to do so, it would have
+had to address issues which, according to the Concession Contract, fell with-
+in the exclusive jurisdiction of the Tucumén courts. Claimants argue that if the
+Tribunal was wrong as regards this approach—that is, if the Tribunal erred in
+finding that it could not consider the BIT claims, in the circumstances—it
+failed to exercise its treaty jurisdiction, a jurisdiction which it had itself upheld.
+On that assumption, its failure to do so could also be said to be manifest.
+
+88. With these preliminary comments in mind, the Committee turns to
+the substance of Claimants’ request for partial annulment of the Award on the
+ground of manifest excess of powers. In doing so, it is necessary to distinguish
+between the Tribunal’s treatment of the federal claims and the Tucumén
+claims.
+
+The federal claims
+
+89. An initial point concerns Claimants’ argument that there was a breach
+of the BIT by reason of the actions and omissions of ministers and officers of
+the federal government of the Argentine Republic—the so-called “federal
+claims.” As the review of the Tribunal’s reasoning set out at paragraphs 18-22
+above demonstrates, the Award clearly evidences a certain reliance on Article
+16(4) of the Concession Contract even as to the federal claims; and the
+Tribunal’s interpretation of the obligations incumbent on the federal authori-
+
+6 Schreuer, pp. 937-938.
+
+126 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+ties under the BIT emerges more by implication from its treatment of the facts
+than as a result of any detailed analysis. However, in the opinion of the
+Committee, it is nonetheless clear that the Tribunal carefully considered the
+federal claims on the facts, and that it rejected those claims. The Tribunal
+committed no excess of power, manifest or other, so far as the federal claims
+are concerned.
+
+90. Claimants submit that, even if the Tribunal could be said to have con-
+sidered the federal claims on their merits, its consideration was vitiated in that
+the Tribunal’s handling of the federal and Tucuman claims was interdepend-
+ent. Specifically, Claimants argue that if Tucuméan’s actions did in truth con-
+stitute a breach of the BIT, then Respondent was under a far more stringent
+obligation to respond and to correct the situation than the Tribunal found
+applied to it. Claimants contend that the Tribunal—always with its mind set
+on Article 16(4)—failed to consider this alternative. In the opinion of the
+Committee, it is true, as mentioned in the preceding paragraph, that Article
+16(4) did obtrude into the Tribunal’s analysis of the federal claims to some
+degree. However, the Tribunal did not suggest that Claimants were in any
+sense obliged to pursue their federal claims in any domestic court or tribunal.
+It held, rather, that the federal authorities could reasonably have regarded the
+dispute as contractual in character, and that the extent of any federal obliga-
+tion to react could reasonably have been influenced by this perception.
+
+91. As to the Tribunal’s findings of fact, there is no basis under Article 52
+of the ICSID Convention for this Committee to disagree. The Tribunal found
+that the Argentine federal authorities responded to Claimants’ initiatives, that
+they sought to resolve the problem and in fact took reasonable steps to do so,
+that they did not fail to do anything requested of them and that they were
+never themselves charged, directly, with any breach of the BIT. As to the
+Tribunal’s findings of law, it may be that the Award lacks a detailed analysis of
+the relevant BIT provisions, as Claimants contend. Yet the gist of the
+Tribunal’s reasoning is clear enough. On its face, Article 3 of the BIT impos-
+es no more than an obligation on the Argentine Republic to take appropriate
+care. And the Tribunal’s findings, taken together, are more than sufficient to
+provide a basis for the Tribunal’s clear conclusion that the federal claims were
+not sustainable, and that there had been no breach of Article 3 as a result of
+any federal act or omission. Moreover the Committee does not consider that
+the Tribunal’s dismissal of Claimants’ federal claims was so intimately linked
+
+66 Award, para. 87; 40 ILM 426 (2001), p. 445.
+
+CASES. 127
+
+to its decision regarding the Tucumén claims, and to its alleged failure to exer-
+cise its jurisdiction with respect to the latter, that the Tribunal’s determination
+of the federal claims must fall in the event that its decision on the Tucumdn
+claims is annulled.
+
+92. For these reasons, Claimants’ request for partial annulment of the
+Award in relation to the Tribunal’s determination of the federal claims is
+rejected.
+
+The Tucumdn claims
+
+93. The second question in relation to Article 52(1)(b) is whether the
+Tribunal, having validly held that it had jurisdiction over the Tucumdan claims,
+was entitled nonetheless to dismiss them as it did. Claimants, for their part,
+submit that the Tribunal did not so much dismiss the Tucumén claims as
+decline to address them. They argue that the only reason those claims were dis-
+missed was that they were held to be substantially identical with claims against
+Tucumdén under the Concession Contract, which the Tribunal found it could
+not determine, and that the Tribunal’s refusal to decide the Tucumén claims
+on this basis was a manifest excess of powers. The Respondent argues that,
+assuming the Tribunal had jurisdiction over these claims, it acted correctly in
+dismissing them on the basis of Article 16(4) of the Concession Contract, but
+that in any event this was not the only reason for dismissal since the Tribunal
+did consider the Tucuméan claims on their merits.
+
+94. In dealing with these issues, it is necessary first to consider the rela-
+tionship between the responsibility of Argentina under the BIT and the rights
+and obligations of the parties to the Concession Contract (especially those
+arising from Article 16(4), the exclusive jurisdiction clause); and secondly, to
+consider precisely what the Tribunal decided with respect to the Tucumén
+claims.
+
+95. As to the relation between breach of contract and breach of treaty in
+the present case, it must be stressed that Articles 3 and 5 of the BIT do not
+relate directly to breach of a municipal contract. Rather they set an independ-
+ent standard. A state may breach a treaty without breaching a contract, and
+vice versa, and this is certainly true of these provisions of the BIT. The point is
+made clear in Article 3 of the ILC Articles, which is entitled “Characterization
+of an act of a State as internationally wrongful”:
+
+128 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL.
+
+The characterization of an act of a State as internationally
+wrongful is governed by international law. Such characteriza-
+tion is not affected by the characterization of the same act as
+lawful by internal law.
+
+96. In accordance with this general principle (which is undoubtedly
+declaratory of general international law), whether there has been a breach of
+the BIT and whether there has been a breach of contract are different ques-
+tions. Each of these claims will be determined by reference to its own proper
+or applicable law—in the case of the BIT, by international law; in the case of
+the Concession Contract, by the proper law of the contract, in other words,
+the law of Tucuméan. For example, in the case of a claim based on a treaty,
+international law rules of attribution apply, with the result that the state of
+Argentina is internationally responsible for the acts of its provincial authori-
+ties.°” By contrast, the state of Argentina is not liable for the performance of
+contracts entered into by Tucumén, which possesses separate legal personality
+under its own law and is responsible for the performance of its own contracts.
+
+97. The distinction between the role of international and municipal law in
+matters of international responsibility is stressed in the commentary to Article
+3 of the ILC Articles, which reads in relevant part as follows:
+
+(4) The International Court has often referred to and applied
+the principle. For example in the Reparation for Injuries case, it
+noted that “[a]s the claim is based on the breach of an inter-
+national obligation on the part of the Member held responsi-
+ble... the Member cannot contend that this obligation is gov-
+erned by municipal law.” In the ELS/ case, a Chamber of the
+Court emphasized this rule, stating that:
+
+ 
+
+“Compliance with municipal law and compliance with
+the provisions of a treaty are different questions. What
+is a breach of treaty may be lawful in the municipal law
+and what is unlawful in the municipal law may be
+wholly innocent of violation of a treaty provision. Even
+had the Prefect held the requisition to be entirely jus-
+tified in Italian law, this would not exclude the possi-
+bility that it was a violation of the FCN Treaty.’
+
+© See above, paras. 16, 23-33, 43.
+
+CASES.
+
+Conversely, as the Chamber explained:
+
+“...the fact that an act of a public authority may have
+been unlawful in municipal law does not necessarily
+mean that that act was unlawful in international law, as
+a breach of treaty or otherwise. A finding of the local
+courts that an act was unlawful may well be relevant to
+an argument that it was also arbitrary; but by itself,
+and without more, unlawfulness cannot be said to
+amount to arbitrariness... Nor does it follow from a
+finding by a municipal court that an act was unjusti-
+fied, or unreasonable, or arbitrary, that that act is nec-
+essarily to be classed as arbitrary in international law,
+though the qualification given to the impugned act by
+a municipal authority may be a valuable indication.’
+
+(7) The rule that the characterization of conduct as unlawful
+in international law cannot be affected by the characterization
+of the same act as lawful in internal law makes no exception for
+cases where rules of international law require a State to con-
+form to the provisions of its internal law, for instance by apply-
+ing to aliens the same legal treatment as to nationals. It is true
+that in such a case, compliance with internal law is relevant to
+the question of international responsibility. But this is because
+the rule of international law makes it relevant, e.g. by incor-
+porating the standard of compliance with internal law as the
+applicable international standard or as an aspect of it.
+Especially in the fields of injury to aliens and their property
+and of human rights, the content and application of internal
+law will often be relevant to the question of international
+responsibility. In every case it will be seen on analysis that
+either the provisions of internal law are relevant as facts in
+applying the applicable international standard, or else that
+they are actually incorporated in some form, conditionally or
+unconditionally, into that standard.
+
+68 Commentary to Article 3, paras. (4), (7) (footnotes omitted). The passages from the ELSI case,
+quoted in para. (4) of the commentary, are to be found at IC] Reports 1989 at p. 51, para. 73, and p.
+74, para. 124,
+
+130 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL
+
+98. In a case where the essential basis of a claim brought before an inter-
+national tribunal is a breach of contract, the tribunal will give effect to any
+valid choice of forum clause in the contract. For example in the Woodruff
+case,” a decision of an American-Venezuelan Mixed Commission in 1903, a
+claim was brought for breach of a contract which contained the following
+clause:
+
+Doubts and controversies which at any time might occur in
+virtue of the present agreement shall be decided by the com-
+mon laws and ordinary tribunals of Venezuela, and they shall
+never be, as well as neither the decision which shall be pro-
+nounced upon them, nor anything relating to the agreement,
+the subject of international reclamation.
+
+99. The Commission in that case held that Woodruff was bound by this
+clause not to refer his contractual claim to any other tribunal. At the same
+time, the exclusive jurisdiction clause did not and could not preclude a claim
+by his government in the event that the treatment accorded him amounted to
+a breach of international law:
+
+[Whereas certainly a contract between a sovereign and a citi-
+zen of a foreign country can never impede the right of the
+Government of that citizen to make international reclamation,
+wherever according to international law it has the right or even
+the duty to do so, as its rights and obligations can not be
+affected by any precedent agreement to which it is not a party;
+
+But whereas this does not interfere with the right of a cit-
+izen to pledge to any other party that he, the contractor, in dis-
+putes upon certain matters will never appeal to other judges
+than to those designated by the agreement, nor with his obli-
+gation to keep this promise when pledged, leaving untouched
+the rights of his Government, to make his case an object of
+international claim whenever it thinks proper to do so and not
+
+© That is, unless the treaty in question otherwise provides. See, e.g., Article I(1) of the Claims
+Settlement Declaration of 19 January 1981, 1 Jran-U.S. Claims Tribunal Reports p. 9, which overrode
+exclusive jurisdiction clauses concerning United States courts but not Iranian courts: see the cases cited
+by C.N. Brower & J.D. Brueschke, The Inan-United States Claims Tribunal (The Hague, Martinus
+Nijhoff, 1998) pp. 60-72. The Committee does not need to consider whether the effect of Article 8 of
+the BIT is to override exclusive jurisdiction clauses in contracts underlying investments to which the BIT
+applies.
+
+7 Reports of International Arbitral Awards, vol. 1X, p. 213.
+
+CASES. 131
+
+impeaching his own right to look to his Government for pro-
+tection of his rights in case of denial or unjust delay of justice
+by the contractually designated judges;...7!
+
+100. The Commission accordingly dismissed the claim “without prejudice
+on its merits, when presented to the proper judges,” on the ground that “by
+the very agreement that is the fundamental basis of the claim, it was with-
+drawn from the jurisdiction of this Commission.””
+
+101. On the other hand, where “the fundamental basis of the claim” is a
+treaty laying down an independent standard by which the conduct of the par-
+ties is to be judged, the existence of an exclusive jurisdiction clause in a con-
+tract between the claimant and the respondent state or one of its subdivisions
+cannot operate as a bar to the application of the treaty standard.”> At most, it
+might be relevant—as municipal law will often be relevant—in assessing
+whether there has been a breach of the treaty.
+
+102. In the Committee’s view, it is not open to an ICSID tribunal having
+jurisdiction under a BIT in respect of a claim based upon a substantive provi-
+sion of that BIT, to dismiss the claim on the ground that it could or should
+have been dealt with by a national court. In such a case, the inquiry which the
+ICSID tribunal is required to undertake is one governed by the ICSID
+Convention, by the BIT and by applicable international law. Such an inquiry
+is neither in principle determined, nor precluded, by any issue of municipal
+law, including any municipal law agreement of the parties.
+
+103. Moreover the Committee does not understand how, if there had been
+a breach of the BIT in the present case (a question of international law), the
+existence of Article 16(4) of the Concession Contract could have prevented its
+characterisation as such. A state cannot rely on an exclusive jurisdiction clause
+in a contract to avoid the characterisation of its conduct as internationally
+unlawful under a treaty.
+
+ 
+
+73 Te is not necessary for the Committee to pronounce on the content of the standard laid down
+in the BIT, in particular Article 3. It may be that “mere” breaches of contract, unaccompanied by bad
+faith or other aggravating circumstances, will rarely amount to a breach of the fair and equitable treat-
+ment standard set out in Article 3. The Tribunal did not, however, offer any interpretation of Article 3,
+nor seek to base itself on this consideration.
+
+132 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL
+
+104. The Respondent argues that, even if the Tribunal had jurisdiction, and
+even if it could not decline to exercise that jurisdiction by reference to the
+exclusive jurisdiction clause in the Concession Contract, this was not what the
+Tribunal did. According to the Respondent, it emerges clearly from the Award
+that the Claimants had no arguable case for a breach of Articles 3 or 5 of the
+BIT and that, at best, their claim was one for breach of contract: the issue of
+a treaty claim could only arise in the event that the contentious administrative
+tribunals of Tucumdn denied Claimants justice, substantively or procedurally.
+
+105. The question thus becomes how to characterize the Tribunal’s deci-
+sion. In considering that question, the Committee does not believe that it is
+material either that CGE was not a party to the Concession Contract or that
+the parties to the Concession Contract were CAA and the Province of
+Tucuméan, as opposed to CAA and the federal government. If the Tribunal was
+right in saying that it could not consider any allegation of breach of treaty
+which required it to interpret or apply the Concession Contract, then it is
+arguable that CGE could be in no better position than CAA. It is also arguable
+that this conclusion should apply even though CAA’s contractual commitment
+was to a province, since the acts of that province form the nub of the claim.
+But it is one thing to exercise contractual jurisdiction (arguably exclusively
+vested in the administrative tribunals of Tucumdn by virtue of the Concession
+Contract) and another to take into account the terms of a contract in deter-
+mining whether there has been a breach of a distinct standard of internation-
+al law, such as that reflected in Article 3 of the BIT.
+
+106. Claimants made a series of allegations as to the conduct of Tucumén,
+much of which, they claim, involved measures taken in bad faith. Such action
+included alleged instances of: acts of the Ombudsman and other regulatory
+authorities; incitement of consumers, by legislators and others, not to pay their
+water bills; unauthorized tariff changes; the incorrect imposition of fines
+(never in fact collected) for allegedly deficient water quality; incorrect invoic-
+ing for municipal and provincial water taxes; conduct relating to the “black
+water” problem, which was blamed on CAA, but which CAA denied was its
+fault; unilateral changes by the provincial Governor to the second renegotiat-
+ed agreement; and various post-termination conduct. This conduct, they con-
+tend, amounted on the whole to concerted action by the Tucumén authorities
+to frustrate the concession.
+
+107. The Tribunal expressed views on some of these allegations, but by no
+means all. For example, in paragraph 82 of the Award, the Tribunal took the
+
+CASES. 133
+
+view that the unilateral changes to the renegotiated agreement did not amount
+to a breach of the BIT because there was no legal duty to revise the concession
+contract.”4 In paragraph 91, under the general heading “Failure of the
+Argentine Republic to Respond to Actions of Tucumén Officials,” the
+Tribunal concluded that “the record...does not establish a factual basis for
+attributing liability to the Argentine Republic under the BIT for the alleged
+actions of officials of Tucumdn.””> In its context the latter passage is not
+unequivocal; it suggests that the Tribunal had in mind earlier discussion of the
+“strict liability standard of attribution,” and the reference to “alleged action” is
+troublesome: it is in the end unclear whether the Tribunal rejected the
+Claimants allegations of fact or whether they held that the allegations, though
+potentially made out, were not sufficient to “attribute liability” to the federal
+government.
+
+108. But however this may be, it is clear from the core discussion of the
+Tucumén claims, at paragraphs 77-81 of the Award, that the Tribunal declined
+to decide key aspects of the Claimants’ BIT claims on the ground that they
+involved issues of contractual performance or non-performance. The Tribunal
+itself characterised these passages, in paragraph 81, as embodying its “decision”
+with respect to the Tucuman claims.
+
+109. A key passage in this regard is found in paragraph 79, where the
+Tribunal said:
+
+{G]iven the nature of the dispute between Claimants and the
+Province of Tucumén, it is not possible for this Tribunal to
+determine which actions of the Province were taken in exercise
+of its sovereign authority and which in the exercise of its rights
+as a party to the Concession Contract considering, in particu-
+lar, that much of the evidence presented in this case has
+involved detailed issues of performance and rates under the
+Concession Contract.’°
+
+110. This passage calls for two remarks. First, it is couched in terms not of
+decision but of the impossibility of decision, the impossibility being founded
+
+74 Award, para. 82; 40 ILM 426 (2001), p. 444.
+75 Award, para. 91; 40 ILM 426 (2001), p. 446.
+76 Award, para. 79; 40 ILM 426 (2001), p. 443.
+
+134 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL
+
+on the need to interpret and apply the Concession Contract.” Yet under
+Article 8(4) of the BIT the Tribunal had jurisdiction to base its decision upon
+the Concession Contract, at least so far as necessary in order to determine
+whether there had been a breach of the substantive standards of the BIT.
+Second, the passage appears to imply that conduct of Tucuman carried out in
+the purported exercise of its rights as a party to the Concession Contract could
+not, a priori, have breached the BIT. However, there is no basis for such an
+assumption: whether particular conduct involves a breach of a treaty is not
+determined by asking whether the conduct purportedly involves an exercise of
+contractual rights.”
+
+111. For these reasons, and despite certain passages of the Award in which
+the Tribunal seems to go further into the merits, the Committee can only con-
+clude that the Tribunal, in dismissing the Tucumén claims as it did, actually
+failed to decide whether or not the conduct in question amounted to a breach
+of the BIT. In particular, the Tribunal repeatedly referred to allegations and
+issues which, it held, it could not decide given the terms of Article 16(4) of the
+Concession Contract, even though these were adduced by Claimants specifi-
+cally in support of their BIT claim.7? Moreover, it offered no interpretation
+whatsoever either of Article 3 or of Article 5 of the BIT, something which was
+called for if the claims were to be dismissed on their merits.
+
+112. It is not the Committee’s function to form even a provisional view as
+to whether or not the Tucumdn conduct involved a breach of the BIT, and it
+is important to state clearly that the Committee has not done so. But it is
+
+77 See also the Tribunal’s summary, cited in para. 11 above, where the Tribunal said it was “impos-
+sible...to distinguish or separate violations of the BIT from breaches of the Concession Contract with-
+out first interpreting and applying the detailed provisions of that agreement.”
+
+78 See ILC Articles, commentary to Article 4, para. (6), commentary to Article 12, paras. (9)-(10).
+See also C. Amerasinghe, “State Breaches of Contracts with Aliens and International Law,” American
+Journal of International Law, vol. 58 (1964), p. 881, at pp. 910-912: “The general proposition that,
+where a state performs an act which is prohibited by a treaty to which it is a party, it will be responsible
+for a breach of international law to the other party or parties to the treaty requires no substantiation. In
+accordance with the same principle, an act which constitutes a breach of contract would be a breach of
+international law, if itis an act which that state is under an obligation not to commit by virtue of a treaty
+to which it and the national state of the alien are parties’; R. Jennings & A. Watts, Oppenheim’
+International Law (9th edn.) (Harlow, Longman, 1992), p. 927: “It is doubtful whether a breach by a
+state of its contractual obligations with aliens constitutes per se a breach of an international obligation,
+
+ 
+
+unless there is some stich additional element as denial of justice, or expropriation, or breach of treaty, in
+which case it is that additional element which will constitute the basis for the state's international respon-
+sibility.”
+
+79 Award, paras. 65, 66, 67, 68, 69, 74, 75, 76, 77, 78, 79, 80, 81; 40 ILM 426 (2001), pp. 440-
+444,
+
+CASES. 135
+
+nonetheless the case that the conduct alleged by Claimants, if established,
+could have breached the BIT. The claim was not simply reducible to so many
+civil or administrative law claims concerning so many individual acts alleged
+to violate the Concession Contract or the administrative law of Argentina. It
+was open to Claimants to claim, and they did claim, that these acts taken
+together, or some of them, amounted to a breach of Articles 3 and/or 5 of the
+BIT. In the Committee’s view, the Tribunal, faced with such a claim and hav-
+ing validly held that it had jurisdiction, was obliged to consider and to decide
+it. Although the Tribunal expressed conclusions on certain aspects of the
+claim, it never expressed a conclusion as to the claim as a whole, still less did
+it assess Claimants’ case against the requirements of Article 3 or 5 of the BIT.
+
+113. In the light of Article 8 of the BIT, the situation carried risks for
+Claimants. Having declined to challenge the various factual components of its
+treaty cause of action before the administrative courts of Tucumdn, instead
+choosing to commence ICSID arbitration—and having thereby, in the
+Committee’s view, taken the “fork in the road” under Article 8(4)—CAA took
+the risk of a tribunal holding that the acts complained of neither individually
+nor collectively rose to the level of a breach of the BIT. In that event, it would
+have lost both its treaty claim and its contract claim. But on the other hand it
+was entitled to take that risk, with its associated burden of proof. A treaty cause
+of action is not the same as a contractual cause of action; it requires a clear
+showing of conduct which is in the circumstances contrary to the relevant
+treaty standard. The availability of local courts ready and able to resolve spe-
+cific issues independently may be a relevant circumstance in determining
+whether there has been a breach of international law (especially in relation to
+a standard such as that contained in Article 3). But it is not dispositive, and it
+does not preclude an international tribunal from considering the merits of the
+dispute.
+
+114. It should be stressed that the conduct complained of here was not
+more or less peripheral to a continuing successful enterprise. The Tucumén
+conduct (in conjunction with the acts and decisions of Claimants) had the
+effect of putting an end to the investment. In the Committee’s view, the BIT
+gave Claimants the right to assert that the Tucumdn conduct failed to comply
+with the treaty standard for the protection of investments. Having availed
+itself of that option, Claimants should not have been deprived of a decision,
+one way or the other, merely on the strength of the observation that the local
+courts could conceivably have provided them with a remedy, in whole or in
+part. Under the BIT they had a choice of remedies.
+
+136 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL
+
+115. For all of these reasons, the Committee concludes that the Tribunal
+exceeded its powers in the sense of Article 52(1)(b), in that the Tribunal, hav-
+ing jurisdiction over the Tucumdan claims, failed to decide those claims. Given
+the clear and serious implications of that decision for Claimants in terms of
+Article 8(2) of the BIT, and the surrounding circumstances, the Committee
+can only conclude that that excess of powers was manifest. It accordingly
+annuls the decision of the Tribunal so far as concerns the entirety of the
+Tucuman claims.
+
+(iii) Failure to state reasons: Article 52(1)(e)
+
+116. In view of the foregoing conclusion, it is unnecessary to consider the
+further ground of annulment relied on by Claimants, viz., that in dismissing
+the claim the Tribunal failed to state the reasons on which its decision was
+based. As to the federal claims, the Committee has already concluded that rea-
+sons for the dismissal of those claims were given. As to the Tucumén claims,
+in the Committee's view the Tribunal gave very full reasons for the step it took,
+viz., the dismissal of those claims without any overall consideration of their
+merits. The question of failure to state reasons would only arise if one took the
+view that the Tribunal actually did reach a conclusion adverse to Claimants
+under Articles 3 and 5 in respect of the Tucumén claims as a whole—a view
+the Committee has already rejected. Accordingly, nothing more needs to be
+said on this ground of annulment.
+
+D. COSTS
+
+117. The Tribunal made no order for costs, and required Claimants and
+Respondent to share equally the costs of ICSID. It observed that the dispute
+raised “a set of novel and complex issues not previously addressed in interna-
+tional arbitral precedent relating to the interplay of a bilateral investment
+treaty, a Concession Contract with a forum-selection clause and the ICSID
+Convention.”*? It noted that both parties had prevailed to some extent. These
+considerations apply equally to the present phase of the proceedings.
+Claimants have succeeded in part, but only in part. Moreover, Argentina was
+entitled to take the position it took, which itself raised a difficult and novel
+
+80 Award, para. 95; 40 ILM 426 (2001), p. 447.
+
+CASES. 137
+
+question of public importance concerning ICSID and the operation of invest-
+ment protection agreements on the model of the BIT.
+
+118. In the light of the importance of the arguments advanced by the par-
+ties in connection with this case, the Committee considers it appropriate that
+each party bear its own expenses incurred with respect to this annulment pro-
+ceeding, and that the parties bear equally all expenses incurred by the Centre
+in connection with this proceeding, including the fees and expenses of the
+members of the Committee.
+
+E. DECISION
+119. For the foregoing reasons, the Committee DECIDES:
+(a) The Tribunal rightly held that it had jurisdiction over the claims.
+
+(b) The Tribunal committed no annullable error in its rejection of the fed-
+eral claims (claims concerning the conduct of federal authorities) on
+the merits, and that rejection is accordingly res judicata.
+
+(c) The Tribunal manifestly exceeded its powers by not examining the
+merits of the claims for acts of the Tucumén authorities under the BIT
+and its decision with regard to those claims is annulled.
+
+(d) Each party shall bear its own expenses, including legal fees, incurred in
+connection with this annulment proceeding.
+
+(e) Each party shall bear one half of the costs incurred by the Centre in
+connection with this annulment proceeding. Accordingly, the
+Argentine Republic shall reimburse the Claimants one half of the total
+costs incurred by the Centre in connection with this annulment pro-
+ceeding once the amount has been determined by the Secretariat of the
+Centre.
+
+138 ICSID REVIEW—FOREIGN INVESTMENT LAW JOURNAL
+
+Done in English and Spanish, both versions being equally authoritative.
+
+ 
+
+L. YVES FORTIER, C Qc.
+President of the Committee
+
+ 
+
+Professor JAMES R. CRAWFORD, Professor JOSE CARLOS FERNANDEZ ROZAS
+Member Member
+

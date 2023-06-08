@@ -1,0 +1,1668 @@
+15-707
+Mobil Cerro Negro, Ltd. et al. v. Bolivarian Republic of Venexnela
+
+Gnited States Court of Appeals
+FOR THE SECOND CIRCUIT
+
+August Term, 2016
+(Argued: January 7, 2016 Decided: July 11, 2017)
+[Last submissions: May 23, 2016]
+Docket No. 15-707
+Mobi CERRO NEGRO, LIMITED, VENEZUELA HOLDINGS, B.V., MOBIL CERRO NEGRO
+HOLDING, LIMITED, MOBIL VENEZOLANA DE PETROLEOS HOLDINGS, INCORPORATED, MOBIL
+VVENEZOLANA DE PETROLEOS, INCORPORATED,
+Arbitration Award Creditors—Petitioners-Appellees,
+~vy-
+BOLIVARIAN REPUBLIC OF VENEZUELA,
+
+Arbitration Award Debtor—Respondent-Appellant.
+
+Before:
+
+POOLER, HALL, and CARNEY, Circuit Judges.
+
+Appeal from an order of the United States District Court for the Southern District
+of New York (Engelmayer, J.), denying a motion to vacate the judgment entered against
+the Bolivarian Republic of Venezuela on an award made by an arbitral panel of the
+International Centre for Settlement of Investment Disputes (“ICSID”) in accordance
+with the Convention on the Settlement of Investment Disputes between States and
+Nationals of Other States (the “ICSID Convention”). The District Court relied on 22
+U.S.C. § 1650a ( “Section 1650a”), the statute enabling U.S. participation in the ICSID
+
+Convention, and certain exceptions set forth in the Foreign Sovereign Immunities Act
+(“FSIA”), in exercising jurisdiction over the creditors’ action against Venezuela. The
+District Court concluded that the procedure by which the creditors obtained the
+judgment —filing an ex parte petition for “recognition” in accordance with New York
+state law, N.Y. CPLR Art. 54—was appropriate in light of a perceived procedural “gap”
+in Section 1650a. Compliance with the FSIA’s service of process and venue provisions
+was unnecessary, the District Court ruled, determining that to inject state processes into
+Section 1650a was more consistent with the ICSID Convention’s goal of affording
+streamlined enforcement proceedings than would be applying the FSIA’s provisions.
+
+We conclude that the District Court erred. We reject the proposition that Section
+1650a provides an independent grant of subject matter jurisdiction and hold that the
+FSIA provides the sole basis for federal court jurisdiction over foreign sovereigns in
+actions to enforce ICSID awards. Because the FSIA, not Section 1650a, governs these
+proceedings, the procedural requirements set forth in the FSIA’s comprehensive scheme
+must be satisfied before a federal court may enter judgment against a foreign sovereign.
+These requirements were not met here. We therefore REVERSE the order denying
+respondent's motion, VACATE the judgment, and REMAND the cause with
+instructions to dismiss the ex parte petition.
+
+REVERSED, VACATED, AND REMANDED.
+
+JOSEPH D. PIZZURRO (Kevin A. Meehan, Juan O. Perla, Joseph B.
+Heath, on the brief), Curtis, Mallet-Prevost, Colt & Mosle LLP, New
+York, New York, for Respondent-Appellant.
+
+STEVEN K. DAVIDSON (Michael J. Baratz, Bruce C. Bishop, Jared R.
+Butcher, Molly Bruder Fox, on the brief), Steptoe & Johnson LLP,
+Washington, D.C., for Petitioners-Appellees.
+
+Jennifer Jude, Benjamin H. Torrance, Christopher Connolly,
+Assistant United States Attorneys, for Preet Bharara, United States
+Attorney for the Southern District of New York, New York, New
+York, Benjamin C. Mizer, Principal Deputy Assistant Attorney
+General, Sharon Swingle, Civil Division, Department of Justice,
+Brian Egan, Legal Adviser, Department of State, Washington, D.C.,
+for amicus curiae United States of America.
+
+SUSAN L. CARNEY, Circuit Judge:
+
+This case requires us to examine the authority of a United States district court to
+adjudicate an arbitral award-creditor’s ex parte petition for entry of a federal judgment
+against a foreign sovereign premised on an award made under the International
+Convention on the Settlement of Investment Disputes between States and Nationals of
+Other States (the “ICSID Convention” or “Convention”). The award in this case arose
+from a dispute submitted to the International Centre for the Settlement of Investment
+Disputes by certain subsidiaries of ExxonMobil Corporation (collectively, “Mobil”) and
+the Bolivarian Republic of Venezuela (“Venezuela”). Directing Venezuela to pay Mobil
+approximately $1.6 billion, the award was announced on October 9, 2014 (the
+“Award”). The following day, Mobil filed an ex parte petition asking the U.S. District
+Court for the Southern District of New York to recognize the Award and to enter
+judgment based on it. The Motion Term Part I judge granted the petition and entered
+judgment in the full amount awarded by the ICSID panel.
+
+Venezuela learned of the judgment’s entry by letter delivered electronically to its
+legal counsel soon after the court’s action and promptly moved under Federal Rule of
+Civil Procedure 60(b) to vacate the judgment for both lack of subject matter and
+personal jurisdiction. The District Court judge subsequently assigned to the case denied
+
+the motion, concluding that it had subject matter jurisdiction under certain exceptions
+
+to sovereign immunity recognized in one provision of the Foreign Sovereign
+Immunities Act of 1976 (“FSIA”), 28 U.S.C. § 1605, and in 22 U.S.C. § 1650a (“Section
+1650a”), the statute enabling U.S. participation in the ICSID Convention. See Mobil Cerro
+Negro Ltd. v. Bolivarian Republic of Venezuela (“Mobil Cerro Negro”), 87 F. Supp. 3d 573,
+587-90 (S.D.N.Y. 2015). The ex parte procedures—which did not satisfy the FSIA’s
+requirements for personal jurisdiction—were sufficient, the District Court reasoned,
+because a procedural “gap” in Section 1650a permitted courts to take guidance from
+New York state law. Id. at 583-86. Accordingly, it turned to the summary procedures for
+recognizing and enforcing “foreign judgments” that are set forth in New York Civil
+Practice Law and Rules (“N.Y. CPLR”) Article 54. Id. at 584. The District Court
+disclaimed any need to obtain personal jurisdiction over Venezuela under the FSIA, in
+light of Venezuela’s participation in the Convention and the permission given by N.Y.
+CPLR Article 54 for New York state courts to enter “foreign judgments” even absent
+jurisdiction over the judgment debtor. Id. at 590-602.
+
+We conclude that the District Court erred in declining to vacate the judgment.
+We reject Mobil’s argument that Section 1650a provides an independent grant of
+subject-matter jurisdiction for actions against foreign sovereigns and decide that the
+FSIA provides the sole basis for subject-matter jurisdiction over actions to enforce ICSID
+
+awards against a foreign sovereign. Because actions to enforce ICSID awards against a
+
+foreign sovereign fall within the FSIA’s comprehensive scheme, plaintiffs pursuing such
+actions must satisfy the FSIA’s procedural requirements. The District Court was
+therefore mistaken in excusing Mobil from complying with the FSIA’s service and
+venue requirements. The ex parte proceedings that Mobil utilized are neither permitted
+by the FSIA nor required by Section 1650a. The FSIA’s procedural requirements
+regarding notice and venue serve Congress’s stated goals of promoting comity with
+other sovereigns and ensuring the United States’ consistency of approach with respect
+to federal courts’ interactions with foreign sovereigns. The ICSID Convention’s
+significant, but more modest, aims of allowing streamlined enforcement of
+authenticated ICSID arbitral awards and restricting substantive appeals of those awards
+to ICSID pose no significant conflict with the FSIA and can readily be accommodated by
+the FSIA’s comprehensive regime.
+
+Although several courts of the Southern District of New York (the “Southern
+District”) have from time to time allowed such ex parte proceedings as occurred here to
+provide the basis for entry of a federal judgment against a foreign sovereign, district
+courts in other districts have not, and have given precedence to the FSIA. We think the
+correct view is the latter: ICSID award-creditors must pursue federal court judgments to
+enforce their awards against a foreign sovereign by filing a federal action on the award
+
+against the sovereign, serving the sovereign with process in compliance with the FSIA,
+
+and meeting the FSIA’s venue requirements before seeking entry of a federal judgment,
+whether through a motion for judgment on the pleadings or for summary judgment.
+Those requirements were not met here. The court entering judgment needed, but
+lacked, personal jurisdiction over Venezuela under the FSIA.
+
+We therefore REVERSE the District Court’s order denying Venezuela’s motion to
+vacate, VACATE the judgment entered in favor of Mobil, and REMAND the cause to
+the District Court with instructions to dismiss the ex parte petition.
+
+BACKGROUND
+I. Statutory background
+
+The present appeal requires us to harmonize the ICSID Convention and its
+enabling statute, 22 U.S.C. § 1650a, with the Foreign Sovereign Immunities Act, 28
+U.S.C. §§ 1330, 1391(f), 1441(d), 1602-1611. We therefore begin with an overview of the
+relevant texts, as these provide the setting for the issues presented on appeal.
+
+A. The ICSID Convention
+
+Between 1962 and 1965, the World Bank spearheaded development of the ICSID
+Convention, a multilateral treaty aimed at encouraging and facilitating private foreign
+investment in developing countries. See Anthony R. Parra, The History of ICSID 11-12,
+24-26 (Oxford 2012) (“Parra, History”); Convention on the Settlement of Investment
+Disputes: Hearing on H.R. 15785 before the H. Comm. on Foreign Affairs, Subcomm. on Int'l
+
+Organizations and Movements, 89th Cong. 2-3 (1966) (“H.R. 15785 Hearing”) (statement of
+
+Hon. Fred B. Smith, Gen. Counsel, Dep’t of Treasury) (“Smith House Statement”).
+According to Parra (a former ICSID Deputy Secretary-General and Legal Adviser), the
+“immediate origins” of the Convention stem from the period between 1955 and 1962,
+when the “retreat of colonialism” quickly increased the number of developing
+countries. Parra, History, at 11. The amount of governmental development assistance
+available for these countries fell far short of their growing economic needs, leading to a
+widely shared hope “that private foreign investment would become an increasingly
+important source of funds.” Id. at 12. Private investors were wary of investment in these
+countries, however, citing risks of expropriation and other “government measures that
+might tend to impair the rights or assets of foreign investors.” Id. To help allay these
+concerns, the World Bank was called upon to create an effective and neutral dispute
+settlement forum.
+
+The ICSID Convention was the result. See International Convention on the
+Settlement of Investment Disputes between States and Nationals of Other States
+(“ICSID Convention”), Mar. 18, 1965, T.I.A.S. No. 6090, 17 U.S.T. 1270. The Convention
+established an international institution—the International Centre for Settlement of
+Investment Disputes, based in Washington, D.C. (the “Centre” or “ICSID”)—under
+whose authority arbitration panels may be convened to adjudicate disputes between
+
+international investors and host governments in “Contracting States”—those countries
+
+whose governments have adopted the Convention.! See ICSID Convention arts. 3, 25; see
+also Smith House Statement at 2-3. The final texts of the Convention (it has parallel
+versions in English, French, and Spanish) were approved by the Executive Directors of
+the World Bank on March 18, 1965, for submission to World Bank member
+governments. Parra, History, at 94. On June 10, 1966, the United States Congress ratified
+the Convention, and on October 14, 1966, after ratification by a twentieth country, the
+Convention officially entered into force. See id. at 95-97; Christopher H. Schreuer, et al.,
+The ICSID Convention: A Commentary 1270 (2d ed. 2009) (“Schreuer, Commentary”).
+
+The Centre convenes arbitral tribunals in response to requests made by either a
+member state or a national of a member state. ICSID Convention arts. 36-37. At the
+conclusion of the proceedings, the tribunals issue written awards that address “every
+question submitted to the Tribunal,” and “state the reasons upon which [the award] is
+based.” Id. art. 48. Of particular note here, Article 53 of the Convention provides that a
+party dissatisfied with an award may challenge it on various grounds, but may do so
+
+only through proceedings at the Centre and not collaterally in the courts of member
+
+| As of 2016, ICSID reported 161 signatories and 153 “Contracting States” —signatories that have
+ratified the Convention under the state’s domestic law. List of Member States,
+ICSID.WORLDBANK.ORG, https://icsid.worldbank.org/en/Pages/icsiddocs/List-of-Member-
+States.aspx (last visited May 1, 2017). The term “member state” appears to be used
+interchangeably with “Contracting State.”
+
+states.’ The limited role played by the member states’ courts is articulated in Article 54
+of the Convention, which provides that the member states agree to “recognize” ICSID
+awards “as binding” and to “enforce the pecuniary obligations imposed by that
+award.”? Id. art. 54(1). In member states with federal constitutions, such as the United
+States, ICSID awards may be enforced in a federal court: The Convention expressly
+allows courts of such countries to “treat the award as if it were a final judgment of the
+courts of a constituent state.” Id. And, to enforce an ICSID award, a prevailing party
+
+may execute on the losing party’s assets with the assistance of the courts of member
+
+? Article 53 provides, “The award shall be binding on the parties and shall not be subject to any
+appeal or to any other remedy except those provided for in this Convention.” ICSID Convention
+art. 53(1).
+
+3 The complete text of Article 54 is as follows:
+
+(1) Each Contracting State shall recognize an award rendered pursuant to this
+Convention as binding and enforce the pecuniary obligations imposed by the
+award within its territories as if it were a final judgment of a court in that
+State. A Contracting State with a federal constitution may enforce such an
+award in or through its federal courts and may provide that such courts shall
+treat the award as if it were a final judgment of the courts of a constituent
+state.
+
+(2)A party seeking recognition or enforcement in the territories of a Contracting
+State shall furnish to a competent court or other authority which such State
+shall have designated for this purpose a copy of the award certified by the
+Secretary-General. Each Contracting State shall notify the Secretary-General of
+the designation of the competent court or other authority for this purpose and
+of any subsequent change in such designation.
+
+(3) Execution of the award shall be governed by the laws concerning the
+execution of judgments in force in the State in whose territories such
+execution is sought.
+
+states in accordance with “the laws concerning the execution of judgments in force in
+the State in whose territories such execution is sought.” Id. art. 54(3).
+
+Member states’ courts are thus not permitted to examine an ICSID award’s
+merits, its compliance with international law, or the ICSID tribunal's jurisdiction to
+render the award; under the Convention’s terms, they may do no more than examine
+the judgment’s authenticity and enforce the obligations imposed by the award. Thus,
+the Convention reflects an expectation that the courts of a member nation will treat the
+award as final. See Schreuer, Commentary, at 1139-41 (describing principle of finality of
+awards and reporting that principle was the subject of “extensive discussion”).
+
+The Convention also envisions, however, that participating sovereign states
+remain subject to the immunity and other relevant laws of the jurisdictions in which
+enforcement is sought: Thus, Article 55 declares, “Nothing in Article 54 shall be
+construed as derogating from the law in force in any Contracting State relating to
+immunity of that State or of any foreign State from execution.” ICSID Convention art.
+55.
+
+B. The ICSID enabling statute: Section 1650a
+
+In August 1966, after ratifying the Convention, Congress adopted legislation to
+implement its provisions. Pub. L. No. 89-532, 80 Stat. 344 (1966) (“An Act [t]o facilitate
+
+the carrying out of the obligations of the United States under the Convention on the
+
+10
+
+Settlement of Investment Disputes Between States and Nationals of Other States, signed
+on August 27, 1965, and for other purposes.”). As relevant here, Section 3 of the brief
+Convention on the Settlement of Investment Disputes Act of 1966 is codified at 22
+U.S.C. § 1650a. So codified, subsection (a) of Section 1650a provides in full:
+
+An award of an arbitral tribunal rendered pursuant to
+chapter IV of the convention shall create a right arising
+under a treaty of the United States. The pecuniary
+obligations imposed by such an award shall be enforced and
+shall be given the same full faith and credit as if the award
+were a final judgment of a court of general jurisdiction of
+one of the several States. The Federal Arbitration Act (9
+U.S.C. 1 et seq.) shall not apply to enforcement of awards
+rendered pursuant to the convention.
+
+22 U.S.C. § 1650a(a). Subsection (b) of Section 1650a gives exclusive jurisdiction over
+“actions and proceedings under subsection (a)” to the federal district courts, “regardless
+of the amount in controversy.”*
+Cc. The Foreign Sovereign Immunities Act
+The Foreign Sovereign Immunities Act of 1976, Pub. L. 94-583, 90 Stat. 2891
+(1976), governs the jurisdiction of United States courts over actions against foreign
+sovereigns. Its enactment marked a watershed moment in the foreign relations law of
+
+the United States.
+
+4 Its full text is: “(b) Jurisdiction; amount in controversy|.] The district courts of the United States
+(including the courts enumerated in section 460 of title 28) shall have exclusive jurisdiction over
+actions and proceedings under subsection (a) of this section, regardless of the amount in
+controversy.”
+
+11
+
+As the Supreme Court described the pre-FSIA regime, “[f]or more than a century
+and a half, the United States generally granted foreign sovereigns complete immunity
+from suit in the courts of this country.” Verlinden B.V. v. Cent. Bank of Nigeria, 461 U.S.
+480, 486 (1982). Chief Justice Marshall’s seminal opinion in The Schooner Exchange v.
+McFaddon provided the roots for the United States’ embrace of the so-called “absolute
+theory” of sovereign immunity. See 7 Cranch 116 (1812). There, the Chief Justice wrote
+that a ship from Napoleonic France, “having entered an American port open for her
+reception[,] . .. must be considered as having come into the American territory, under
+an implied promise, that while necessarily within it, and demeaning herself in a
+friendly manner, she should be exempt from the jurisdiction of the country.” Id. at 147.
+The “implied promise” was that a foreign sovereign would receive absolute immunity
+in the courts of the United States: the host sovereign “wali]ve[d] the exercise of a part of
+that complete exclusive territorial jurisdiction” to which it was otherwise entitled,
+because “all sovereigns impliedly engage[d] not to avail themselves of a power over
+their equal, which a romantic confidence in their magnanimity has placed in their
+hands.” Id. at 137-38; see Robert B. von Mehren, The Foreign Sovereign Immunities Act of
+1976, 17 Colum. J. Transnat’] L. 33, 35-36 & n.10 (1978) (“R. von Mehren, FSIA”). Despite
+this broad language, The Schooner Exchange made clear that immunity was “a matter of
+
+grace and comity,” and the Court therefore continued to “defer[] to the [case-by-case]
+
+12
+
+decisions of the political branches—in particular, those of the Executive Branch—on.
+whether to take jurisdiction over actions against foreign sovereigns and their
+instrumentalities.” Verlinden, 461 U.S. at 486 (citing Ex Parte Republic of Peru, 318 U.S. 578
+(1943), and Mexico v. Hoffman, 324 U.S. 30 (1945)).
+
+In 1952, the State Department announced a change in course: it issued the “Tate
+Letter,” a landmark policy statement expressing the Executive Branch’s adoption of a
+more nuanced, “restrictive theory” of sovereign immunity, under which sovereigns
+would enjoy immunity as to their public acts, but not as to their private or commercial
+activities outside of their territories. See Ltr. from Jack B. Tate, Acting Legal Adviser,
+Dep't of State, to Acting Att’y Gen. Philip B. Perlman (May 19, 1952), available at Alfred
+Dunhill of London, Inc. v. Republic of Cuba, 425 U.S. 682, 711-15 (1976) (Appendix 2).
+Despite the Tate Letter’s clear policy statement, however, immunity determinations
+continued to be made by the State Department on a case-by-case basis, at times
+suggesting “immunity in cases where immunity would not have been available under
+the restrictive theory.” Republic of Argentina v. NML Capital, Ltd., 134 S. Ct. 2250, 2255
+(2014) (quoting Republic of Austria v. Altmann, 541 U.S. 677, 690 (2004)). When the State
+Department did not make a suggestion as to immunity, United States courts made the
+determinations “by reference to prior State Department decisions.” Id. (quoting
+
+Verlinden, 461 U.S. at 487); see also R. von Mehren, FSIA, at 41-42. As a result, the
+
+13
+
+patchwork quilt of immunity decisions continued to grow, with “sovereign immunity
+decisions . . . [being] made in two different branches, subject to a variety of factors,
+sometimes including diplomatic considerations,” resulting in standards that “were
+neither clear nor uniformly applied.” NML Capital, Ltd., 134 S. Ct. at 2255 (quoting
+Verlinden, 461 U.S. at 488) (alteration in original).
+
+In 1976, Congress stepped in to rectify the resulting disarray by passing the
+Foreign Sovereign Immunities Act. In the FSIA, which is codified at 28 U.S.C. §§ 1330,
+1391(f), 1441(d), and 1602-1611, Congress, “[f]or the most part,” adopted the restrictive
+theory of foreign sovereign immunity and vested responsibility for immunity
+determinations in the federal judiciary. Verlinden, 461 U.S. at 488-89. The FSIA was
+designed “to free the Government from the case-by-case diplomatic pressures, to clarify
+the governing standards, and to ‘assur[e] litigants that . . . decisions are made on purely
+legal grounds and under procedures that insure due process.’” Id. at 488 (quoting H.R.
+Rep. No. 94-1487, 1976 U.S.C.C.A.N. 6604, 6656 (1976)) (alterations in original). To this
+end, “the Act contains a comprehensive set of legal standards governing claims of
+immunity in every civil action against a foreign state or its political subdivisions,
+agencies, or instrumentalities.” Id. Congress declared categorically in the statute itself,
+
+“Claims of foreign states to immunity should henceforth be decided by courts of the
+
+14
+
+United States and of the States in conformity with the principles set forth in this
+chapter.” 28 U.S.C. § 1602.
+
+The FSIA provides that, “[s]ubject to existing international agreements to which
+the United States is a party,” foreign sovereigns “shall be immune from the jurisdiction
+of the courts of the United States and of the States” except as provided by one of the
+FSIA’s exceptions to jurisdictional immunity. 28 U.S.C. § 1604; see id. § 1605 (“General
+exceptions to the jurisdictional immunity of a foreign state”). Under the FSIA, federal
+courts are empowered to exercise personal jurisdiction over a foreign sovereign when
+two conditions obtain: (1) an exception from jurisdictional immunity established by the
+FSIA applies, and (2) the sovereign has been served with process in accordance with the
+FSIA’s provisions. See 28 U.S.C. § 1330(b); Shapiro v. Republic of Bolivia, 930 F.2d 1013,
+1020 (2d Cir. 1991) (“Under the FSIA . . . personal jurisdiction [over a foreign sovereign]
+
+equals subject matter jurisdiction plus valid service of process.”).> The procedural
+
+5 Section 1330 (“Actions against foreign states”) of Title 28, enacted as a part of the FSIA,
+provides in full:
+
+(a) The district courts shall have original jurisdiction without regard to amount
+in controversy of any nonjury civil action against a foreign state as defined in
+section 1603(a) of this title as to any claim for relief in personam with respect to
+which the foreign state is not entitled to immunity either under sections 1605-
+1607 of this title or under any applicable international agreement.
+
+(b) Personal jurisdiction over a foreign state shall exist as to every claim for relief
+over which the district courts have jurisdiction under subsection (a) where
+
+service has been made under section 1608 of this title.
+
+15
+
+requirements are set forth in 28 U.S.C. § 1608 (“Service; time to answer; default”), and
+the venue requirements are set forth in 28 U.S.C. § 1391(f) (“Civil actions against a
+foreign state”).
+
+We have held that the FSIA’s immunity provisions do not shield a foreign
+sovereign from federal courts’ exercise of jurisdiction over a civil action to enforce an
+ICSID award: the waiver and arbitration exceptions to immunity that are found in
+subsections 1605(a)(1) and (a)(6), respectively, apply, and allow such an action to
+proceed. See Blue Ridge Inv., L.L.C. v. Republic of Argentina, 735 F.3d 72, 83-85 (2d Cir.
+2013) (applying FSIA exceptions to sovereign immunity to find jurisdiction over
+sovereign in appeal from denial of sovereign immunity in plenary action for
+enforcement of ICSID award). Subsection (a)(1) of Section 1605 (the “waiver exception”)
+divests foreign sovereigns of immunity when the sovereign “has waived its immunity
+either explicitly or by implication.” 28 U.S.C. § 1605(a)(1). Subsection (a)(6) (the
+“arbitration exception”) deprives the sovereign of immunity when an action is brought
+either “to enforce an agreement made by the foreign state with or for the benefit of a
+
+private party to submit to arbitration” or “to confirm an award made pursuant to such
+
+ 
+
+(c) For purposes of subsection (b), an appearance by a foreign state does not
+confer personal jurisdiction with respect to any claim for relief not arising out of
+any transaction or occurrence enumerated in sections 1605-1607 of this title.
+
+16
+
+an agreement to arbitrate” if the agreement or award is subject to a treaty. Id.
+§ 1605(a)(6).°
+D. —_ICSID awards in federal district courts
+
+Nationally, district courts confronting requests to enter federal judgments upon
+ICSID awards against foreign sovereigns have adopted various approaches to
+“recognition” and “enforcement” of ICSID awards. Compare Micula v. Government of
+Romania (“Micula I’), 104 F. Supp. 3d 42 (D.D.C. 2015) (requiring plenary action
+governed by FSIA), and Continental Casualty Co. v. Argentine Republic, 893 F. Supp. 2d
+747 (E.D. Va. 2012) (contemplating plenary action governed by FSIA), with Mobil Cerro
+
+Negro, 87 F. Supp. 3d 573 (S.D.N.Y. 2015) (permitting ex parte action), and Siag v. Arab
+
+6 More completely, the two relevant subsections provide:
+
+(a) A foreign state shall not be immune from the jurisdiction of courts of the
+United States or of the States in any case—
+
+(1) in which the foreign state has waived its immunity either explicitly or by
+implication, notwithstanding any withdrawal of the waiver which the foreign
+state may purport to effect except in accordance with the terms of the waiver;
+
+(6) in which the action is brought, either to enforce an agreement made by the
+foreign state with or for the benefit of a private party to submit to arbitration all
+or any differences which have arisen or which may arise between the parties
+with respect to a defined legal relationship, whether contractual or not,
+concerning a subject matter capable of settlement by arbitration under the laws
+of the United States, or to confirm an award made pursuant to such an
+agreement to arbitrate, if (A) the arbitration takes place or is intended to take
+place in the United States, [or] (B) the agreement or award is or may be governed
+by a treaty or other international agreement in force for the United States calling
+for the recognition and enforcement of arbitral awards, ....
+
+17
+
+Republic of Egypt, No. M-82, 2009 WL 1834562 (S.D.N.Y. June 19, 2009) (same); see also
+Viren M. Mascarenhas & Camilla Gambarini, US Courts Adopt Different Approaches
+Regarding Recognition of ICSID Awards, 20 IBA Arbitration News 37 (2015). No United
+States court of appeals appears to have yet given studied consideration to how ICSID
+awards may be converted into federal judgments and enforced in federal courts, but
+two distinct approaches have developed in the district courts.
+
+The first approach permits entry of judgment on an ICSID award through ex
+parte proceedings like those at issue here. Since 1986, in the few reported opinions that
+have addressed the issue, district courts in the Southern District have acted on
+applications to enforce ICSID awards against foreign sovereigns by entering judgments
+ex parte. See Siag, 2009 WL 1834562; Liberian E. Timber Corp. v. Government of Republic of
+Liberia (“LETCO”), 650 F. Supp. 73 (S.D.N.Y. 1986); see also Micula v. Government of
+Romania (“Micula II’), No. 15 Misc. 107, 2015 WL 4643180 (S.D.N.Y. Aug. 5, 2015).’ We in
+fact summarily affirmed one of those decisions in a non-precedential Table decision. See
+LETCO, 650 F. Supp. 73, summarily aff'd in 854 F.2d 1314 (2d Cir. 1987) (Table) (affirming
+7 Mobil draws our attention, also, to three instances—two in 2007 and one in 2011—in which
+federal district courts in the Southern District, sitting in Motion Term Part I, employed ex parte
+procedures to enter federal judgments on an ICSID award without reported opinion or formal
+objection by the foreign sovereign award-debtor. See Grenada v. Grynberg, No. 11 Misc. 45
+(S.D.N.Y. Apr. 29, 2011); Enron Corp. & Ponderosa Assets L.P. v. Argentine Republic, No. M-82
+(S.D.N.Y. Nov. 20, 2007); Sempra Energy Int'l v. Argentine Republic, No. M-82 (S.D.N.Y. Nov. 14,
+
+2007); see also Mobil Cerro Negro, 87 F. Supp. 3d at 580 (referencing cases listed above and noting
+that “it appears that the award debtor did not object to the entry of any of these judgments”).
+
+18
+
+denial of motion to vacate judgment entered ex parte against foreign sovereign without
+directly addressing propriety of using ex parte procedures).
+
+The district courts adopting this approach interpret the Convention and Section
+1650a to require some sort of summary procedure to recognize the ICSID award, and
+generally look to state law for the appropriate procedure. But see Miminco, LLC v.
+Democratic Republic of Congo, 79 F. Supp. 3d 213, 217 n.3 (D.D.C. 2015) (granting ex parte
+petition, but declining to adopt procedures for enforcing a foreign judgment from
+District of Columbia Code). For example, in Siag, the Southern District’s most thorough
+discussion of the procedure for recognizing and enforcing ICSID awards before the
+District Court's opinion here, private ICSID award-creditors moved the district court to
+enter judgment ex parte on an ICSID award, having provided no advance notice of the
+motion to the ICSID award-debtor, the Arab Republic of Egypt. 2009 WL 1834562, at *1.
+Relying on the language of the ICSID Convention and Section 1650a, the Siag court
+concluded that it should “treat[] an ICSID arbitration award as [it] would the final
+judgment of state court,” and, based on its reading of our decision in Keeton v. Hustler
+Magazine, Inc., 815 F.2d 857 (2d Cir. 1987), turned to New York’s CPLR Article 54 to
+define the procedures to be employed in such a case. Siag, 2009 WL 1834562, at *2.
+
+Article 54 authorizes New York state courts to enforce “foreign judgments,”
+
+defined as “any judgment, decree, or order of a court of the United States or of any
+
+19
+
+other court which is entitled to full faith and credit in this state, except one obtained by
+default in appearance, or by confession of judgment.” N.Y. CPLR 5401. Under these
+tules, a New York state court clerk may enter a judgment upon presentation of a duly
+authenticated “foreign judgment” and in the absence of the party as to whom the
+judgment applies. N.Y. CPLR 5402.° The creditor must, however, mail notice of filing of
+the judgment to the debtor within thirty days of the judgment’s entry in New York, and
+the creditor is not permitted to obtain the proceeds of execution before thirty days after
+
+filing proof of service have passed. N.Y. CPLR 5403.’ The Siag court directed the award-
+
+8. N.Y. CPLR 5402 provides:
+
+(a) Filing. A copy of any foreign judgment authenticated in accordance with an
+act of congress or the statutes of this state may be filed within ninety days of
+the date of authentication in the office of any county clerk of the state. The
+judgment creditor shall file with the judgment an affidavit stating that the
+judgment was not obtained by default in appearance or by confession of
+judgment, that it is unsatisfied in whole or in part, the amount remaining
+unpaid, and that its enforcement has not been stayed, and setting forth the
+name and last known address of the judgment debtor.
+
+(b) Status of foreign judgments. The clerk shall treat the foreign judgment in the
+same manner as a judgment of the supreme court of this state. A judgment so
+filed has the same effect and is subject to the same procedures, defenses and
+proceedings for reopening, vacating, or staying as a judgment of the supreme
+court of this state and may be enforced or satisfied in like manner.
+
+° N.Y. CPLR 5403 provides:
+Within thirty days after filing of the judgment and the affidavit, the judgment
+creditor shall mail notice of filing of the foreign judgment to the judgment debtor
+
+at his last known address. The proceeds of an execution shall not be distributed
+to the judgment creditor earlier than thirty days after filing of proof of service.
+
+20
+
+creditor to comply with these procedures, 2009 WL 1834562, at *3, and subsequent cases
+in the Southern District have followed its guidance."
+
+The second approach requires award-creditors to pursue a plenary action in
+compliance with the FSIA’s personal jurisdiction, service, and venue requirements in
+order to enforce an ICSID award. Courts adopting this approach do not read Section
+1650a to require summary enforcement and turn to the FSIA for guidance regarding
+how to bring an enforcement action against a foreign sovereign. See Micula I, 104 F.
+Supp. 3d 42; Continental Casualty Co., 893 F. Supp. 2d 747.
+
+In Continental Casualty, an ICSID award-creditor filed an action in the Eastern
+District of Virginia seeking recognition—but not enforcement—of an ICSID award
+against Argentina. 893 F. Supp. 2d at 748. Argentina moved to dismiss for lack of
+subject matter and personal jurisdiction and for improper venue. Id. At the outset, the
+district court concluded that Section 1650a is not “itself a grant of subject matter
+jurisdiction,” and that the sole basis for jurisdiction over a foreign sovereign is the FSIA.
+Id. at 750. The court ruled that it had subject matter jurisdiction under the FSIA’s
+arbitration exception to immunity, 28 U.S.C. § 1605(a)(6), and that it had personal
+1 The New York City Bar Association endorsed the approach adopted in Siag in a report issued
+in 2012. See N.Y.C. Bar, Comm. on Int'l Commercial Disputes, Recommended Procedures for
+Recognition and Enforcement of International Arbitration Awards Rendered Under the ICSID
+Convention 26-27 (2012). The Report explained its authors’ view that this procedure would allow
+for “swift recognition and enforcement of ICSID awards, which is a guiding principle of the
+
+ICSID Convention,” and predicted that this approach would deter attempts by award-debtors
+to substantively challenge the award in federal court. See id. at 26.
+
+21
+
+jurisdiction over Argentina because the foreign sovereign had not challenged service of
+process and the FSIA’s service requirements had otherwise been satisfied, 28 U.S.C. §
+1608. Id. at 751-52. But the action could not proceed, the court held, because venue did
+not lie in the Eastern District of Virginia; rather, the FSIA’s venue provision, 28 U.S.C.
+§ 1391(f)(4), required that the action be brought in the District of Columbia. Id. at 754.
+The Micula I court adopted the approach presented in Continental Casualty,
+
+finding recourse to the FSIA’s procedures “consistent with [the] text and structure” of
+Section 1650a. 104 F. Supp. 3d at 49. It phrased the question succinctly:
+
+Confirming, or recognizing, that arbitration award would
+
+render it an enforceable judgment of this court... . The
+
+question before the court is whether a statute that empowers
+
+federal courts to “enforce” an international arbitration award
+
+as if it were a final state court judgment permits a federal
+
+court, as a precursor to enforcement, to recognize or confirm
+such an arbitration award on an ex parte basis.
+
+Id. at 44. Observing that Section 1650a uses only the term “enforce’”— and not
+
+“recognize,” “confirm,” or “register,” it concluded that Section 1650a does not
+contemplate recognition of ICSID awards as a judicial act separate from enforcement. Id.
+at 49. The plaintiff, an ICSID award-creditor, requested ex parte entry of judgment on its
+ICSID award rendered against the Government of Romania. Id. at 44. The court
+
+rebuffed this request, reasoning that Section 1650a “does not permit use of such an ex
+
+parte procedure . .. . [Micula] must file a plenary action, with proper service on the
+
+22
+
+Government of Romania under the Foreign Sovereign Immunities Act of 1976.” Id. The
+court explained that, as is the case for a creditor seeking to enforce a state court
+judgment, the ICSID award-creditor must file a “suit on the judgment as a debt” ina
+“plenary proceeding” against the sovereign. Id. at 49 (citing Continental Casualty, 893 F.
+Supp. 2d at 754).
+
+With these competing approaches to reconciling the ICSID Convention, Section
+1650a, and the FSIA in mind, we now turn to the present controversy.
+
+II. Factual background
+A. The underlying Award
+
+The parties do not dispute the basic facts giving rise to the ICSID panel’s
+decision.
+
+During the 1990s, Mobil (acting through the petitioner subsidiary entities)"
+invested in two oil development ventures undertaken in Venezuela: the Cerro Negro
+and La Ceiba projects. Cerro Negro was designed “to exploit extra-heavy crude in the
+Orinoco Oil Belt,” and La Ceiba was designed to explore and exploit “an area with light
+and medium crude potential adjacent to Lake Maracaibo.” Joint App’x (“J.A.”) 51.
+Mobil pursued both investments on a joint-venture basis with the state-owned entity
+Petrdleos de Venezuela, S.A. (“PDVSA”).
+
+1! These are Mobil Cerro Negro, Ltd; Venezuela Holdings, B.V.; Mobil Cerro Negro Holding,
+Ltd.; Mobil Venezolana de Petrdleos Holdings, Inc.; and Mobil Venezolana de Petrdleos, Inc.
+
+23
+
+In early 2007, in conjunction with the country’s nationalization of its oil industry,
+the Venezuelan government seized Mobil’s interests in the projects. The seizures were
+ratified by the National Assembly of Venezuela. Following the seizures, Mobil
+submitted a request for arbitration to the International Centre for Settlement of
+Investment Disputes, seeking compensation from Venezuela for its losses from the
+expropriation.
+
+Seven years later, on October 9, 2014, after lengthy arbitral proceedings in which
+both Mobil and Venezuela participated, a panel of ICSID arbitrators issued a
+unanimous award in Mobil’s favor. The panel ordered Venezuela to pay Mobil
+approximately $1.6 billion, plus 3.25% interest compounded annually and accruing
+from June 27, 2007 (the date of the expropriation), until payment.'”
+
+B. The ex parte petition to recognize the Award
+One day after the ICSID panel announced the Award, Mobil filed an ex parte
+
+petition in the Southern District of New York, asking the court to “recognize” the
+
+Award “pursuant to 22 U.S.C. § 1650a,” and to enter judgment directly on that Award
+
+? The Award’s text suggested the ICSID panel's willingness to allow Venezuela to offset its
+liability under the Award by a significant debt owed it by Mobil in connection with certain
+payments earlier made to Mobil by the Venezuelan governmental entity PDVSA. J.A. 162
+(noting Mobil’s “representation” that “in the event of a favorable award, [Mobil] [is] willing to
+make the required reimbursements to PDVSA” such that “[dJouble recovery will... be
+avoided”); see also J.A. 264 (Venezuela’s declaration citing “prior payments made to [Mobil] in
+February 2012 totaling US $907,581,000 in satisfaction of a separate award issued by an arbitral
+tribunal under the Arbitration Rules of the International Chamber of Commerce”).
+
+24
+
+in the amount of the full $1.6 billion, plus accrued interest at the rate specified in the
+Award. J.A. 14-21. Mobil provided the court with a certified copy of the Award in
+support of its application. “Ex parte recognition is appropriate,” Mobil explained,
+because “[r]ecognition of a state court judgment is a clerical function that does not
+require notice until after a judgment has been entered.” J.A. 24. In support, it cited the
+ICSID Convention, Section 1650a, and N.Y. CPRL Article 54.
+
+Sitting in the district’s Motion Term Part I, a calendar established primarily for
+emergency and miscellaneous matters,'> the District Court (Oetken, J.) granted the
+petition and entered judgment against Venezuela that day.
+
+Cc. The motion to vacate the Award
+
+Immediately after the judgment was entered, Mobil electronically delivered to
+Venezuela’s legal counsel notice of the judgment together with a demand for immediate
+payment. Venezuela then moved to vacate the judgment. In February 2015, the District
+Court (Engelmayer, J.) denied the motion to vacate, explaining its reasoning in a
+thorough and thoughtful decision. Mobil Cerro Negro, 87 F. Supp. 3d 573.
+
+The District Court briefly addressed Venezuela’s argument that the Motion Term
+Part I Court lacked subject matter jurisdiction over a recognition action. The court
+
+concluded that two exceptions to immunity in the FSIA, the waiver and arbitration
+
+13 See Southern District of New York Rules for the Division of Business Among District Judges,
+Rule 3(a), available at http://www.nysd.uscourts.gov/rules/rules.pdf.
+
+25
+
+exceptions to immunity, confer subject matter jurisdiction over actions arising out of
+ICSID awards, citing this Court's decision in Blue Ridge Investments, 735 F.3d at 83-84, in
+support of this conclusion. Mobil Cerro Negro, 87 F. Supp. 3d at 588. The court also noted
+a third potential basis for subject matter jurisdiction: the opening clause of the FSIA’s
+grant of sovereign immunity, which declares foreign sovereigns “immune from the
+jurisdiction” of federal and state courts except as provided in Sections 1605 to 1607 and
+“{s]ubject to existing international agreements to which the United States is a party at
+the time of the enactment of [the FSIA].” Id. (quoting 28 U.S.C. § 1604). The court
+suggested that the ICSID Convention might be such an agreement.
+
+The District Court dedicated the remainder of its opinion to addressing two
+arguments it characterized as “procedural”: Venezuela’s argument that Section 1650a
+does not authorize “borrowing” New York's ex parte procedures and that, even if
+Section 1650a once authorized such procedures, the FSIA supersedes it when an action
+is brought against a foreign sovereign and “imposes service-of-process, personal
+jurisdiction, and venue requirements not met here.” Id. at 577.
+
+The District Court first examined whether the ex parte procedures were
+authorized by the ICSID Convention and Section 1650a. Looking to the text of the
+Convention and Section 1650a, the court concluded that neither the Convention nor the
+
+statute specifies “the procedural mechanism by which an arbitral award is to be
+
+26
+
+converted into a federal judgment.” Id. at 579. From the statute’s silence in this respect,
+the court identified a “gap” in Section 1650a regarding how federal courts are expected
+to “enforce” ICSID awards—that is, how to convert them into enforceable federal
+judgments. After noting the Southern District decisions that previously addressed
+applications to enforce ICSID awards and offering its own examination of Section
+1650a, the court ruled that the gap could be filled by reference to state law, specifically
+New York’s CPLR Article 54.
+
+Importing these provisions into Section 1650a, the District Court concluded that
+it could enter the requested judgment against Venezuela ex parte, without requiring
+Mobil to comply with the procedural prerequisites to suits against foreign sovereigns
+imposed by the FSIA. The court reasoned that to apply the procedural requirements of
+the later-enacted FSIA would unacceptably run afoul of the expectations of streamlined
+procedures reflected in the ICSID Convention and implicit in Section 1650a; it therefore
+dispensed with them in favor of the summary New York procedures. Id. at 599. It
+further found that its exercise of personal jurisdiction over Venezuela—if personal
+jurisdiction was needed'— was consented to because, by becoming a contracting party
+
+to the ICSID Convention, Venezuela “must have contemplated enforcement actions in
+
+«4 The District Court observed that under N.Y. CPLR Article 54, a New York court need not have
+personal jurisdiction over the judgment debtor covered by the statute to enter a valid judgment.
+It therefore did not need personal jurisdiction over Venezuela to enter a valid judgment under
+Article 54. Mobil Cerro Negro, 87 F. Supp. 3d at 602 n.36.
+
+27
+
+other [Contracting] States,’ including the United States,” and therefore had waived any
+objections to personal jurisdiction. Id. at 602 n.36 (quoting Blue Ridge Invs., 735 F.3d at
+83-84) (alterations in original). For these reasons, the District Court rejected Venezuela’s
+claim that “the FSIA sub silentio amended [Section 1650a],” and held that the ex parte
+procedures utilized in the present case were authorized by Section 1650a. Id. at 602.
+
+The District Court therefore denied Venezuela’s motion to vacate the judgment.
+The court acknowledged at the same time that, after Venezuela moved to vacate the
+judgment, it also applied to ICSID for an annulment of the Award. The ICSID Secretary-
+General stayed enforcement of the award pending determination of the annulment
+request, and the District Court likewise stayed enforcement of the award pending
+ICSID’s resolution of Venezuela’s request. See Venezuela Holdings, B.V. et al. v. Bolivarian
+Republic of Venezuela, ICSID Case No. ARB/07/27, Decision on the Stay of the
+Enforcement of the Award, {| 10 (Sept. 17, 2015); Opinion & Order, Mobil Cerro Negro
+Ltd. v. Bolivarian Republic of Venezuela, No. 1:14-cv-8163 (S.D.N.Y. Feb. 13, 2015), ECF No.
+37.
+
+In a separate motion, Venezuela asked the District Court to “clarify” the interest
+rate imposed by the ex parte judgment, which had incorporated the 3.25% post-
+judgment interest rate provided for by the Award. Mobil Cerro Negro, No. 1:14-cv-8163,
+
+ECF Nos. 38-40 (S.D.N.Y. Feb. 13, 2015). The court denied the motion, concluding that
+
+28
+
+any change to the post-judgment interest rate would constitute a substantive revision to
+the Award and that such revisions are contrary to the ICSID Convention and Section
+1650a.
+
+D. The present appeal
+
+Venezuela timely appealed the District Court’s denial of its motion to vacate the
+ex parte judgment and its motion to adjust the interest rate applicable to the Award. On
+appeal, Venezuela argues that the District Court erred in not requiring Mobil to bring a
+plenary action before entering judgment on the Award; that the District Court lacked
+subject matter jurisdiction and personal jurisdiction over Venezuela under the FSIA;
+and that the federal interest rate on judgments established by 28 U.S.C. § 1961 governs
+the Award, not the rate set by the ICSID panel and adopted by the District Court. Mobil,
+in contrast, maintains that federal courts may use forum state procedures to enter
+federal judgments against foreign sovereigns on ICSID awards and that summary
+proceedings are adequate. It submits that the District Court had subject matter
+jurisdiction over its enforcement action under both Section 1650a and the FSIA, and did
+not need personal jurisdiction over Venezuela to enforce the Award. Finally, it argues
+that the District Court was not at liberty to alter the interest rate imposed by the ICSID
+
+panel.
+
+29
+
+This Court, after hearing oral argument from the parties, requested the views of
+the United States through the Office of Legal Adviser at the Department of State, on
+three issues: (1) whether 22 U.S.C. § 1650a provides a basis for subject matter
+jurisdiction over an award enforcement action against a foreign sovereign, or whether
+the FSIA establishes the sole source of jurisdiction over such actions; (2) the lawfulness
+of a federal court’s resort to state procedures allowing an ex parte entry of judgment on
+an ICSID award against a foreign sovereign; and (3) the federal court's authority to
+modify an interest rate imposed by an ICSID tribunal.
+
+In response, in March 2016, the United States joined Venezuela in taking the
+position that the FSIA provides the sole source of subject matter jurisdiction over an
+action to enforce an ICSID award against a foreign sovereign and that the FSIA’s
+procedural rules must be followed in such proceedings. See United States Br. as Amicus
+Curiae (“U.S. Br.”), Mobil Cerro Negro Ltd. v. Bolivarian Republic of Venezuela, No. 15-707
+(2d Cir. Mar. 30, 2016), ECF No. 87. It submitted that the District Court’s use of New
+York’s ex parte procedures to enter a federal judgment on the Award was improper
+under the FSIA; it agreed with Mobil, however, that the District Court was correct to
+decline to amend the interest rate included in the Award.
+
+During the pendency of this appeal, an ICSID ad hoc Committee annulled a large
+
+portion of the original $1.6 billion Award. See Venezuela Holdings, B.V., ICSID Case No.
+
+30
+
+ARB/07/27, Decision on Annulment, {| 196 (Mar. 9, 2017); Letter pursuant to Fed. R.
+App. P. 28(j) on behalf of Appellant Bolivarian Republic of Venezuela (“Venezuela 28(j)
+Letter”), Mobil Cerro Negro Ltd. v. Bolivarian Republic of Venezuela, No. 15-707 (2d Cir.
+Mar. 22, 2017), ECF No. 102. The Committee concluded that the original panel failed
+adequately to consider the compensation provisions contained in one of the Venezuela-
+Mobil agreements (the Cerro Negro Association Agreement) and the Venezuelan
+legislation approving the project (the Cerro Negro Congressional Authorization). As
+modified by this decision, the Award now gives Mobil compensation totaling
+$188,342,482, “a fraction of the original award of $1,600,042,482,” Venezuela 28(j) Letter
+at 2, but nonetheless a substantial sum.
+
+DISCUSSION
+
+Rule 60(b) of the Federal Rules of Civil Procedure provides an avenue to relief
+from a final judgment when the judgment is “void.” Fed. R. Civ. P. 60(b)(4). A judgment
+is void for purposes of the Rule if the court entering judgment lacked subject matter or
+personal jurisdiction over the judgment debtor. See City of New York v. Mickalis Pawn
+Shop, LLC, 645 F.3d 114, 138 (2d Cir. 2011). We review de novo a district court’s denial of
+a Rule 60(b)(4) motion. Id.
+
+This appeal requires us to reconcile the ICSID Convention and Section 1650a
+
+with the FSIA, so that we may determine the appropriate procedures for converting an
+
+31
+
+ICSID award into a federal judgment. The parties in this appeal each advocate for one
+of the two approaches adopted by the district courts.
+
+Mobil supports the approach adopted by district courts in the Southern District
+and applied by the District Court here. Mobil argues that federal courts may enter
+judgment on ICSID awards summarily, according to the procedures used in the state
+courts of the forum state—here, on an ex parte petition by the award-creditor. Mobil
+contends, and the District Court ruled, that this approach best accords with the
+provisions of the ICSID Convention precluding award-debtors from raising substantive
+challenges to the award in domestic courts.
+
+Venezuela and the United States as amicus curiae, in contrast, endorse the
+approach adopted by district courts in the District of Columbia and in the Eastern
+District of Virginia. Venezuela and the United States would require that award-
+creditors file a complaint seeking entry of judgment on the award; serve the complaint
+on the foreign sovereign award-debtor; and comply with the venue requirements of the
+FSIA, with these three steps conferring jurisdiction over the foreign sovereign in the
+federal district court and permitting that court to enter a valid judgment. This
+procedure would not necessarily permit a substantive challenge to a duly authenticated
+award, but it would allow the defendant sovereign to appear and be heard before entry
+
+of judgment.
+
+32
+
+Resolution of this dispute requires us to answer whether Section 1650a provides
+an independent source of jurisdiction over a foreign sovereign award-debtor or whether
+the later-enacted FSIA offers the sole basis for federal courts’ jurisdiction over foreign
+sovereigns. It also requires us to consider whether, even if the FSIA provides the sole
+source of jurisdiction over foreign sovereigns, Section 1650a empowers courts asked to
+enforce ICSID awards to modify the FSIA’s procedural requirements and adopt state
+court summary procedures for enforcing judgments in each state in which enforcement
+is sought.
+
+For the reasons set forth below, we agree with Venezuela and the United States
+as amicus curiae that the FSIA controls actions to enforce ICSID awards. We conclude
+that the FSIA provides the sole source of jurisdiction—subject matter and personal—for
+federal courts over actions brought to enforce ICSID awards against foreign sovereigns;
+that the FSIA’s service and venue requirements must be satisfied before federal district
+courts may enter judgment on such awards; and that Section 1650a does not
+contemplate “recognition” of an ICSID award as a proceeding separate from
+“enforcement.” Although the FSIA provides subject matter jurisdiction over this
+proceeding, the FSIA’s service and venue requirements have not been satisfied here.
+
+Accordingly, the District Court lacked personal jurisdiction over Venezuela. The
+
+33
+
+District Court’s Rule 60(b) order must therefore be reversed and its judgment must be
+vacated.
+
+I. Subject matter jurisdiction
+
+Mobil argues that Section 1650a provides its own independent grant of subject
+matter jurisdiction when it states that an ICSID award “shall create a right arising under
+a treaty of the United States” and provides federal district courts with “exclusive
+jurisdiction” over such action. Appellees’ Br. at 40 (quoting 22 U.S.C. § 1650a(a)-(b))
+(emphasis omitted). Mobil further argues that ICSID enforcement actions are exempted
+from the requirements of the later-enacted FSIA by the reservation in FSIA Section 1604
+that its provisions were adopted “[s]ubject to existing international agreements to
+which the United States is a party.” Id. at 41-42 (quoting 28 U.S.C. § 1604) (emphasis
+omitted).
+
+Venezuela does not contest that Section 1650a could serve as a grant of subject
+matter jurisdiction over some actions to enforce ICSID awards; rather, it argues that
+Section 1650a cannot confer subject matter jurisdiction on federal courts when the ICSID
+award-debtor is a foreign sovereign. In such a case, it urges us to conclude, the FSIA
+takes precedence. The ICSID Convention is not, it argues, one of the “existing
+
+international agreements” exempted from the FSIA’s operation. 28 U.S.C. § 1604.
+
+34
+
+The District Court found that, if the FSIA applied to this case, subject matter
+jurisdiction could arise from two exceptions to sovereign immunity found in the FSIA:
+the implied waiver exception and the arbitration exception, which we have discussed
+above. See 28 U.S.C. §§ 1605(a)(1), (6). On this point, we are in accord with the District
+Court. Indeed, our Court recently held as much in Blue Ridge Investments, 735 F.3d 72.
+We disagree, however, with Mobil’s assertion that Section 1650a also provides a grant
+of subject matter jurisdiction to the federal courts over award enforcement actions
+against foreign sovereign award-debtors, and that the FSIA did not abrogate that grant
+(if ever Section 1650a embodied such a grant). We reject this argument primarily for two
+reasons.
+
+First, the Supreme Court's decision in Argentine Republic v. Amerada Hess Shipping
+Corp., 488 U.S. 428 (1989), suggests that, even if Section 1650a once granted subject
+matter jurisdiction, after passage of the FSIA, Section 1650a cannot fairly be read to
+serve as an independent source of subject matter jurisdiction over a foreign sovereign.
+The Supreme Court’s emphatic and oft-repeated declaration in Amerada Hess that the
+FSIA is the “sole basis for obtaining jurisdiction over a foreign state in our courts,” id. at
+434; see also Republic of Austria v. Altmann, 541 U.S. 677, 699 (2004) (quoting Amerada
+Hess, 488 U.S. at 434-35); Saudi Arabia v. Nelson, 507 U.S. 349, 355 (1993) (same), is
+
+difficult to reconcile with an approach that preserves the potential of Section 1650a to
+
+35
+
+serve as an alternative. Recently, the Supreme Court emphasized that the FSIA is
+“comprehensive” —a term the Court has used “often and advisedly to describe the Act’s
+sweep” — meaning that “after the enactment of the FSIA, the Act—and not the pre-
+existing common law—indisputably governs the determination of whether a foreign
+state is entitled to sovereign immunity.” NML Capital, Ltd., 134 S. Ct. at 2255-56
+(alterations and citation omitted). We have similarly reiterated our understanding of the
+categorical nature of this declaration in Kirschenbaum v. 650 Fifth Avenue and Related
+Properties, 830 F.3d 107, 122 (2d Cir. 2016) (“The FSIA provides the exclusive basis for
+obtaining subject matter jurisdiction over a foreign state.”), and Blue Ridge Investments,
+735 F.3d at 83 (“The only source of subject matter jurisdiction over a foreign sovereign
+or its instrumentalities in the courts of the United States is the FSIA ....”). The
+comprehensiveness of the FSIA’s framework suggests that Section 1650a should not be
+read as providing an independent basis for courts to exercise subject matter jurisdiction
+over foreign sovereigns, or, at the very least, should no longer be read as providing
+such a basis, even if it once did.
+
+Second, although the question is not free from doubt, we are not persuaded by
+Mobil’s argument that FSIA Section 1604’s carve-out for “existing international
+agreements” includes the Convention. In Amerada Hess, the Supreme Court explained
+
+that international agreements that predate the FSIA are excluded from the Act’s reach
+
+36
+
+only when they expressly conflict with the Act’s immunity provisions. See 488 U.S. at
+442 (explaining that Section 1604’s carve-out “applies when international agreements
+expressly conflict with the immunity provisions of the FSIA” (emphasis added)
+(alterations and citation omitted)); see also H.R. Rep. No. 94-1487, at 6616 (“In the event
+an international agreement expressly conflicts with [the FSIA], the international
+agreement would control. . . . [But] the international agreement would control only
+where a conflict was manifest.” (emphases added)). Because actions to enforce ICSID
+awards rendered against foreign sovereigns fall neatly into the FSIA’s specific
+exemptions from immunity under Sections 1605(a)(1) (waiver) and (6) (arbitration), see
+Blue Ridge Invs., 735 F.3d at 83-86, we see no conflict between the FSIA’s immunity
+provisions and the ICSID Convention or Section 1650a that would trigger Section 1604’s
+carve-out as construed by the Supreme Court.
+
+Section 1650a’s legislative history also undermines the argument that FSIA
+Section 1604 exempts the ICSID Convention and Section 1650a from the FSIA’s
+jurisdictional provisions. The legislative record strongly suggests that, when Congress
+enacted Section 1650a in 1966, a decade before it passed the FSIA, it contemplated that
+actions against foreign sovereigns under Section 1650a would remain subject to
+sovereign immunity. Thus, during his appearance before the House Committee on
+
+Foreign Affairs, Deputy Legal Adviser at the Department of State Andreas Lowenfeld
+
+37
+
+testified tellingly: “Basically what this convention says is that the district court shall
+have jurisdiction over the subject matter. As to whether it has jurisdiction over a party,
+there is nothing in the convention that will change the defense of sovereign immunity.”
+H.R. 15785 Hearing, at 18 (statement of Andreas F. Lowenfeld, Deputy Legal Advisor,
+Dep't of State). He elaborated that if, for example, “someone wants to sue Jersey
+Standard in the United States, on an award, no problem. If somebody wants to sue Peru
+or the Peruvian Oil Institute, why it would depend on whether in the particular case
+that entity would or would not be entitled to sovereign immunity.” Id. (paragraph
+break omitted).
+
+His testimony is consonant with the venerable canon of construction that
+Congress is presumed to legislate with familiarity of the legal backdrop for its
+legislation. See Midlantic Nat'l Bank v. N.J. Dep't of Envtl. Prot., 474 U.S. 494, 501 (1986)
+(“The normal rule of statutory construction is that if Congress intends for legislation to
+change the interpretation of a judicially created concept, it makes that intent specific.”).
+We are aware of no contrary textual or record indication that Congress intended to
+exclude proceedings brought under Section 1650a from the ordinary operation of
+sovereign immunity, either as the principle of immunity stood before or after the
+
+enactment of the FSIA.'5
+
+15 The District Court pointed to the New York Convention and the contrast that it perceived
+
+38
+
+The Supreme Court's consideration of the Alien Tort Statute (“ATS”), 28 U.S.C.
+§ 1350, in Amerada Hess is also instructive. There, the Court rejected the argument that
+the ATS—which, like Section 1650a, predates the FSIA —continued to confer subject
+matter jurisdiction over a foreign sovereign after the FSIA’s enactment. Amerada Hess,
+488 U.S. at 436-38. To the extent the ATS ever provided a source of subject matter
+jurisdiction over foreign sovereigns, the Amerada Hess Court found it could no longer
+confer that authority after the passage of the FSIA, nor did Congress’s failure to repeal
+the ATS when it enacted the FSIA counsel otherwise. Id. at 437. The Court viewed as
+particularly significant in this regard the fact that the ATS “does not distinguish among
+classes of defendants,” and could therefore continue to have “the same effect after the
+passage of the FSIA as before with respect to defendants other than foreign states.” Id. at
+438 (emphasis added). In other words, any conferral of subject matter jurisdiction
+stemming from the ATS would be unaffected as to non-sovereign defendants, but the
+ATS could not confer subject matter jurisdiction over foreign sovereigns after passage of
+the FSIA.
+
+The same is true here. Section 1650a does not “distinguish” among classes of
+
+private defendants: it states broadly that “[t]he district courts of the United States...
+
+ 
+
+Congress wished to draw between that Convention's enforcement mechanisms, set out in
+Chapter 2 of the Federal Arbitration Act, and the simpler mechanism desired for ICSID. Mobil
+Cerro Negro, 87 F. Supp. 3d at 593-97. The point is sound, but it does not lead inexorably to the
+conclusion that state summary procedures are what Congress intended to authorize or require
+in Section 1650a.
+
+39
+
+shall have exclusive jurisdiction over actions and proceedings” to enforce ICSID
+awards. 22 U.S.C. § 1650a(b). Section 1650a’s grant of subject matter jurisdiction over
+private defendants may remain intact'*; but, after passage of the FSIA, Section 1650a no
+longer confers subject matter jurisdiction over foreign sovereigns. The ATS and
+
+Section 1650a, of course, enacted two centuries apart and addressing very different
+concerns, have scant overlap in most respects. Nonetheless, the Supreme Court’s
+reasoning about the interrelationship of the FSIA and the ATS as set forth in Amerada
+Hess provides a useful template for interpreting the FSIA’s comprehensive framework
+for sovereign immunity in the ICSID award context.
+
+Combined with the legislative history that suggests that Congress expected
+actions under Section 1650a to be governed by sovereign immunity, Amerada Hess in its
+holding as well as in its language confirms our decision that Section 1650a does not
+constitute an independent grant of subject matter jurisdiction over a foreign sovereign.
+The FSIA provides the sole basis for subject matter jurisdiction over actions in federal
+
+court to enter judgment against foreign sovereigns on ICSID awards.
+
+16 We offer no view about the status of Section 1650a as a jurisdictional basis for actions brought
+by an ICSID award-creditor against a non-sovereign award-debtor.
+
+40
+
+IL. Personal jurisdiction
+A. — Scope of the FSIA
+
+Having concluded that the FSIA provides the sole basis for subject matter
+jurisdiction in cases brought to enforce ICSID awards, we must now determine whether
+the FSIA also controls the procedures by which such actions must be brought against a
+foreign sovereign award-debtor. We conclude that it does.
+
+At Mobil’s urging, the District Court concluded that the FSIA’s service and
+venue requirements had no bearing on Mobil’s application for enforcement. The court
+first observed that the FSIA “leaves congressional intent unclear” regarding whether its
+service of process and venue requirements apply in the ICSID award context. Mobil
+Cerro Negro, 87 F. Supp. 3d at 593. Having identified this ambiguity, the court then
+turned to its own interpretation of the “objectives of the ICSID Convention and of
+Congress” in passing Section 1650a to determine whether the summary procedures
+invoked by Mobil would be appropriate. Id. at 599.
+
+We find no such ambiguity in the FSIA’s text. As the Supreme Court has advised,
+“{allthough a major function of the [FSIA] . . . is to regulate jurisdiction of federal courts
+over cases involving foreign states, the Act’s purpose is to set forth comprehensive rules
+governing sovereign immunity,” including “procedures for commencing lawsuits
+against foreign states.” Verlinden, 461 U.S. at 495 n.22 (internal quotation marks and
+citation omitted); see also H.R. Rep. No. 94-1487, at 6606 (“[T]his bill would for the first
+
+41
+
+time in U.S. law, provide a statutory procedure for making service upon, and obtaining
+in personam jurisdiction over, a foreign state... .”). The Act was intended to “provide
+when and how parties can maintain a lawsuit against a foreign state.” H.R. Rep. No. 94-
+1487, at 6604. The FSIA prescribes comprehensive procedures for bringing suit against
+foreign sovereigns, including suit for “recognition and enforcement of arbitral awards,”
+28 U.S.C. § 1605(a)(6), as to which the foreign state may be found to have waived the
+immunity otherwise conferred. Thus it is not Section 1650a’s silence on enforcement of
+ICSID awards that guides our reasoning. Rather, we accord conclusive weight to the
+affirmative and sweeping provisions in the FSIA’s comprehensive statutory scheme and
+the observation that the FSIA makes no provision for summary procedures in any
+instance.
+
+In fact, the FSIA explicitly contemplates the exercise of federal court jurisdiction
+over actions to enforce international arbitral awards against foreign sovereigns under
+the exemption from immunity provided by Section 1605(a)(6). And nowhere in the FSIA
+did Congress expressly exempt actions against foreign sovereigns under
+Section 1605(a)(6) from the statute’s service or venue requirements. See 28 U.S.C
+§§ 1391(f), 1608. Indeed, nowhere in the FSIA did Congress provide an expedited
+procedure to enter a federal judgment against a foreign sovereign in any circumstance.
+
+Cf. H.R. Rep. No. 94-1487, at 6612 (noting “sections 1330(b) [personal jurisdiction
+
+42
+
+provision], 1608 [service of process provision], and 1605-1607 [foreign sovereign
+immunity provisions] are all carefully interconnected”). We simply see no reason to
+conclude that an action to enforce an ICSID award, which is comfortably encompassed
+within Section 1605(a)(6), would be exempt from the FSIA’s procedural requirements.
+
+B. Conflict with the ICSID Convention or Section 1650a
+
+The District Court rejected this straightforward application of the FSIA’s service
+and venue provisions, in part, based on its concern that requiring compliance with these
+provisions of the FSIA “would bring the FSIA into grave tension with the objectives of
+the ICSID Convention and of Congress.” Mobil Cerro Negro, 87 F. Supp. 3d at 599. It thus
+endorsed instead the adoption of New York state procedures, which it viewed as more
+consistent “Congress’s expectation” that ICSID award recognition “would be automatic
+and not subject to contest.” Id. at 600.
+
+At the outset, we note that, in interpreting the ICSID Convention and its enabling
+act, we owe particular deference to the interpretation favored by the United States.
+Medellin v. Texas, 552 U.S. 491, 513 (2008) (“It is . . . well settled that the United States’
+interpretation of a treaty is entitled to great weight.” (internal quotation marks and
+citation omitted)). In its brief amicus curiae, the United States articulates its view that
+“the mechanics of enforcing ICSID awards are not and never were governed by treaty,”
+
+USS. Br. at 13, and that neither the Convention nor Section 1650a “requires or forbids
+
+43
+
+any particular set of procedures,” id. at 16. Instead, the ICSID Convention “reserves the
+means of enforcement to member states, which enforce awards in the same way that
+they enforce domestic judgments.” Id. at 13.
+
+We agree with the United States that the FSIA’s requirements and the United
+States’ obligations under the ICSID Convention do not stand in significant tension. As
+we have noted, the ICSID Convention contemplates treatment of an award “as if it were
+a final judgment of the courts of a constituent state.” ICSID Convention art. 54. Article
+54 affords ICSID arbitral awards the status of final state court judgments, and was
+included in the Convention at the insistence of the United States. See Schreuer,
+Commentary, at 1143. It does not, however, dictate the nature of the proceedings through
+which ICSID awards will be enforced in the United States.
+
+The United States was faithful to this provision when it enacted Section 1650a,
+requiring the federal courts to accord ICSID awards “full faith and credit as if the award
+were a final judgment of . . . one of the several States.” 22 U.S.C. § 1650a(a). The
+legislative history suggests that this provision was intended to immunize ICSID awards
+from substantive assault outside the ICSID tribunal. See, e.g., Smith House Statement at
+4 (“[A]n action would have to be brought on the award in a U.S. district court ....In
+such an enforcement action, the district court would be required to give full faith and
+
+credit to the arbitral award. Essentially, this means that district courts would be
+
+44
+
+precluded from inquiring into the merits of the underlying controversy.”). Requiring an
+enforcement action to comply with the FSIA does not contravene this mandate.
+
+To require that a civil action be prosecuted to conclusion before entering
+judgment on an ICSID award will not relieve federal courts of the responsibility under
+the Convention and Section 1650a to enforce ICSID awards as final. See ICSID
+Convention art. 53(1) (providing that ICSID awards “shall not be subject to any appeal
+or to any other remedy except those provided for in [the] Convention”); 22 U.S.C.
+
+§ 1650a(a) (providing that “pecuniary obligations imposed by [ ] an award . . . shall be
+given the same full faith and credit as if the award were a final judgment of a court of
+general jurisdiction of one of the several States”); see also Schreuer, Commentary, at 1139-
+Al.
+
+Litigation on actions to enforce awards need not be protracted. That the action
+might be referred to as “plenary” as opposed to “summary” does not portend a
+proceeding in which the court must entertain all manner of substantive defenses, or
+even defenses cognizable under the Federal Arbitration Act. Used in this context, the
+word “plenary” signals merely the need for commencing an action under Federal Rule
+of Civil Procedure 3, service of the complaint in compliance with Rule 4 (as modified by
+the FSIA), and the opportunity for the defendant sovereign to appear and file
+
+responsive pleadings. To initiate such an action, an ICSID award-creditor may file a
+
+45
+
+complaint in district court, detailing the terms of the award, establishing proper venue,
+and furnishing a certified copy of the award. After the complaint is filed and service
+effected, the award-creditor may file a motion for judgment on the pleadings, for
+instance, or a motion for summary judgment. The ICSID award-debtor would be a
+party to the action and would be able to challenge the United States court's jurisdiction
+to enforce the award —for instance, on venue grounds—but would not be permitted to
+make substantive challenges to the award.
+
+Moreover, requiring compliance with the FSIA facilitates an enforcement regime
+for ICSID awards that has a greater prospect of consistency across the nation. The
+District Court discounted any need for uniformity of enforcement in the ICSID context,
+observing that each member state to the Convention will enforce awards according to
+different procedures. But in so reasoning, the District Court overlooked the
+Congressional intent, manifest in the enabling legislation’s history and text, to provide
+for uniform enforcement within the United States. Congress vested exclusive
+jurisdiction over enforcement of ICSID awards in the federal courts. See 28 U.S.C.
+
+§ 1650a(b). Testimony given by the General Counsel of the Treasury before the Senate
+Committee on Foreign Relations reflects that in enacting Section 1650a, Congress was
+guided by a desire to provide a uniform enforcement procedure throughout the United
+
+States:
+
+46
+
+[T]he proposed legislation states that district courts of the
+United States shall have exclusive jurisdiction over actions to
+enforce arbitral awards. This provision is also based on
+article 54(1) of the convention, which states that . . . arbitral
+awards may be enforced in or through the Federal courts.
+The United States suggested this provision in order to be
+able to provide in the United States for a uniform procedure
+for enforcement of awards rendered pursuant to the
+convention.
+
+S. Rep. No. 89-1374, at 17 (1966), as reprinted in 1966 U.S.C.C.A.N. 2617, 2619 (emphasis
+added). Calling upon different state procedures in each of the states in which district
+courts sit at the entry-of-judgment phase would actively undermine the goal of
+establishing a nationally uniform procedure for enforcement of ICSID awards. Indeed,
+such a regime could be expected to achieve the opposite result, in which each state
+could potentially require a distinct procedure.” Applying the FSIA will facilitate
+national uniformity in procedure. Consistency as to enforcement seems to us
+importantly aligned with the values of predictability and federal control that foreign
+affairs demands and that the FSIA was designed to promote.
+
+We are confident that our decision that actions to enforce ICSID awards against
+foreign sovereigns must comply with the FSIA’s service and venue provisions is
+
+consistent with the United States’ obligations under the ICSID Convention.
+
+7 We recognize, of course, that executions on the judgment will proceed according to state law.
+See Fed. R. Civ. P. 69(a)(1). But this does not compel us to abandon the goal of consistency when
+the award is first converted to a federal judgment.
+
+47
+
+Cc. “Recognition” under Section 1650a
+
+The District Court’s contrary reasoning also derived from the notion that
+“recognition,” and not just “enforcement,” was part of the District Court’s task. The
+District Court viewed recognition, like confirmation in the context of other arbitral
+
+proceedings, as a mere ministerial act preliminary to enforcement.'* Other courts have
+
+18 We note the variability in usage of the words “confirmation,” “recognition,” and
+“enforcement,” in the context of treatment of an arbitral award. Our Court has recently
+reviewed that usage in some depth. See CBF Indtistria De Gusa S/A v. Amci Holdings, Inc., 850 F.3d
+58, 72 n.5 (2d Cir. 2017) (discussing terms in context of New York Convention and Federal
+Arbitration Act).
+
+“Confirmation” appears to have developed a particular meaning in the context of the
+Federal Arbitration Act (“FAA”), 9 U.S.C. § 1 et seq., including those of its provisions that enable
+the New York Convention (governing judicial treatment of certain foreign arbitral awards), see
+id. § 201 et seq. In FAA practice, an order “confirming” an arbitral award must be issued upon
+timely application of any party to the arbitration and upon prior notice served upon the adverse
+party unless the award is vacated, modified, or corrected as provided for by the Act. Id. §§ 9-11,
+207. Judgment entered on the basis of an order confirming the award has “the same force and
+effect, in all respects, as, and [is] subject to all the provisions of law relating to, a judgment in an
+action; and it may be enforced as if it had been rendered in an action in the court in which it is
+entered.” Id. § 13. We explained in CBF Industria that “confirmation,” as used in the FAA
+sections enabling the New York Convention, “is the equivalent of ‘recognition and enforcement’
+as used in the New York Convention for the purposes of foreign arbitral awards.” 850 F.3d at 72.
+No separate proceeding is required to “confirm” a foreign arbitral award under the New York
+Convention; an award-creditor need file only a single action to enforce the foreign New York
+Convention award under the FAA. Id. at 74.
+
+“Recognition” and “enforcement” thus appear to have taken on the basic meaning (in
+the foreign arbitral context) of converting the judgment of another jurisdiction into a federal
+judgment on which execution (attachment, imposition of a lien, garnishment) may occur. See
+Fed. R. Civ. P. 69(a)(1) (“A money judgment is enforced by a writ of execution, unless the court
+directs otherwise. The procedure on execution—and in proceedings supplementary to and in
+aid of judgment or execution—must accord with the procedure of the state where the court is
+located, but a federal statute governs to the extent it applies.”). We think it significant that,
+unlike the FAA, the ICSID Convention and Section 1650a do not refer to judicial “confirmation.”
+
+48
+
+rested their reasoning about their obligations with respect to ICSID awards in part on
+this distinction. See, e.g., Micula II, 2015 WL 4643180, at *3-4.
+
+As noted above, Article 54 of the Convention requires member states to
+“recognize an award rendered pursuant to this Convention as binding and enforce the
+pecuniary obligations imposed by that award.” ICSID Convention art. 54 (1)-(2)
+(emphasis added). In this, the Convention seems to refer to “recognition” and
+“enforcement” as if they were distinct actions. See Schreuer, Commentary, at 1128
+(describing “recognition” as “the formal confirmation that the award is authentic and
+that it has the legal consequences provided by the law” and noting that it may be “a
+step preliminary to enforcement”).
+
+But the Convention is not self-executing. See Medellin, 552 U.S. at 505-06 & n.3
+(treaties not specified as self-executing can be enforced only pursuant to implementing
+legislation); id. at 533-34 & n.1 (Stevens, J., concurring) (citing Section 1650a as an
+example). We must therefore focus in the first instance on the terms of the ICSID
+enabling act, Section 1650a, to determine the scope of a federal court's authority with
+respect to awards under the Convention, and refer to the Convention only for aid in
+construing Section 1650a where needed.
+
+In contrast to the Convention, Section 1650a(a) refers to enforcement, but not to
+
+recognition: it directs only that “[t]he pecuniary obligations imposed by such an award
+
+49
+
+shall be enforced and shall be given the same full faith and credit as if the award were a
+final judgment of a court of general jurisdiction of one of the several States.” 22 U.S.C.
+§ 1650a(a) (emphasis added). It makes no mention of recognition as a separate,
+additional judicial action, and we think that its framing was intentional.
+
+Other language from Section 1650a confirms this conclusion. Section 1650a(b)
+grants federal courts “exclusive jurisdiction over actions and proceedings under
+subsection (a).” Id. § 1650a(b) (emphasis added). The terms “actions” and “proceedings”
+typically connote something more than a summary ex parte conference leading to entry
+of a judgment on an award: after all, those terms are the foundation of the Federal Rules
+of Civil Procedure. Rule 1 provides, for example, “These rules govern the procedure in
+all civil actions and proceedings in the United States district courts,” subject to a few
+exceptions not relevant here.'’ Fed. R. Civ. P. 1. In similar vein, Rule 2 provides, “There
+is one form of action—the civil action.” Fed. R. Civ. P. 2; see also Fed. R. Civ. P.3 (“A
+civil action is commenced by filing a complaint with the court.”). Accordingly, we
+understand these terms to contemplate enforcement obtained through a civil action on
+
+the award. See Micula I, 104 F. Supp. 3d at 50 (“The use of the words ‘actions’ and
+
+'° Rule 81 exempts certain listed proceedings, such as prize proceedings in admiralty, Fed. R.
+Civ. P. 81(a)(1), and “other procedures” provided for by Title 9 of the United States Code, Fed.
+R. Civ. P. 81(a)(6)(B). Title 9 governs federal arbitration, but under Section 1650a, it does not
+apply to ICSID arbitration awards. 22 U.S.C. § 1650a(a).
+
+50
+
+‘proceedings’ strongly connotes a congressional intent to domesticate ICSID awards
+through a plenary action, rather than ex parte confirmation or recognition.”).
+
+Further, Section 1650a directs that “[t]he Federal Arbitration Act .. . shall not
+apply to enforcement of awards rendered pursuant to the [ICSID Convention].” 22
+U.S.C. § 1650a(a). This exemption carries two resonances of import here. First, the FAA
+specifically provides for confirmation of domestic arbitral awards by court order, not
+through an “action” or “proceeding.” 9 U.S.C. § 9 (“[A]t any time within one year after
+the award is made any party to the arbitration may apply . . . for an order confirming the
+award, and thereupon the court must grant such an order unless the award is vacated,
+modified, or corrected as prescribed [elsewhere in] this title.” (emphasis added)). That
+Congress so provided many years earlier suggests that, although it knew how to
+provide for summary procedures in the arbitral context, it simply elected not to do so in
+Section 1650a.”° See Micula I, 104 F. Supp. 3d at 50 (“Congress was keenly aware that
+
+domestic arbitration awards could be confirmed, but elected not to use that procedure
+
+20 In a hearing conducted by the House of Representatives Subcommittee on International
+Organizations and Movements on the bill that would become Section 1650a, the General
+Counsel of the Treasury, Fred Smith, testified that the FAA exclusion appearing in
+
+Section 1650a(b) was meant to convey that enforcement of ICSID awards could be pursued in
+“the courts of a contracting state regardless of whether judicial enforcement was specifically
+provided for in the agreement [to arbitrate].” Smith House Statement at 4-5. This was presented.
+as contrasting with the FAA, which allows confirmation of an award only by a court “specified
+in the agreement of the parties.” See 9 U.S.C. § 9. Smith also testified that the FAA’s exclusion
+was meant to insulate ICSID awards from substantive attack such as those recognized as valid
+by the FAA. Smith House Statement at 4-5. These statements reflect awareness of and a
+deliberate decision not to adopt the FAA’s summary procedures.
+
+51
+
+for ICSID awards.”).
+
+Second, the FAA prescribes grounds for vacating an arbitral award where the
+award was tainted by, among other things, fraud, corruption, or misconduct by the
+arbitrator. See 9 U.S.C. § 10. By expressly precluding the FAA’s application to
+enforcement of ICSID Convention awards, Congress intended to make these grounds of
+attack unavailable to ICSID award-debtors in federal court enforcement proceedings.
+See 112 Cong. Rec. 13148, 13149 (daily ed. June 15, 1966) (written statement of Sen.
+Fulbright) (conveying that substantive attack to ICSID awards on grounds provided by
+FAA can be made “only through the annulment proceedings provided for in the
+Convention,” not in federal court). Congress’s exclusion of the FAA’s provisions from
+Section 1650a may suggest an expectation that actions to enforce ICSID awards would
+not be protracted, as emphasized by the District Court. But the exclusion of the
+substantive attacks available under the FAA from ICSID award actions does not, in our
+judgment, imply an intention that a foreign sovereign award-debtor be denied notice of
+the action to enforce the award and the occasion to make non-merits challenges to the
+award: for example, to question the authenticity of the award presented for
+enforcement, the finality of the award, or the possibility that an offset might apply to
+the award that would make execution in the full amount improper. If the debtor were
+
+not entitled to notice of an enforcement attempt, it would have no opportunity to level
+
+52
+
+such attacks before the award became a federal judgment. Nor would remitting these
+challenges to the execution stage, which often would occur piecemeal and in various
+jurisdictions, be adequate, efficient, or in keeping with the general background of
+sovereign immunity law in the United States.
+
+Our reading of Section 1650a thus suggests that Congress did not contemplate
+federal court “recognition” of ICSID awards; it contemplated only enforcement. And
+enforcement should proceed, the statute directs, “as if the award were a final judgment
+of a [state court]” for which enforcement were sought in federal court and which is
+owed full faith and credit. 22 U.S.C. § 1650a. Accordingly, we turn briefly to what it
+means to “enforce” a state court judgment in federal court and award it full faith and
+
+credit.#?
+
+21 In reading the text of Section 1650a, Mobil urges us to apply the rule of construction known as
+the “last-antecedent” rule. See Upstate Citizens for Equality, Inc. v. United States, 841 F.3d 556, 576
+(2d Cir, 2016) (citing Lockhart v. United States, 136 S. Ct. 958, 962 (2016)). Under that rule, ina list
+of items that includes a limiting phrase at the end, the preferred reading applies the limitation
+only to the last item on the list and not to every item on the list. Thus, here the statute provides
+that “[t]he pecuniary obligations imposed by such an award shall be enforced and shall be given
+the same full faith and credit as if the award were a final judgment of a court of general
+jurisdiction of one of the several States.” 22 U.S.C. § 1650a (emphasis added). Mobil urges that
+the phrase “as if the award were a final judgment . . . of one of the several States” should be
+read to modify the phrase “full faith and credit” and not the phrase “shall be enforced.” We are
+not convinced that applying that rule would make a dispositive difference here. But in any
+event, for reasons set forth in the text, we think the better reading gives more weight to the final
+phrase: that is, that federal courts are directed both to “enforce[]” ICSID awards “as if they were
+a final judgment of one of the several States” and to give such awards “full faith and credit” —
+that is, res judicata effect. The last-antecedent rule is hardly a statutory mandate, in any event,
+and in this context, where the analogy to honoring judgments of constituent states of federal
+member states was sought by the United States in particular, the reading we adopt seems to us a
+
+53
+
+D. = “Full faith and credit” under Section 1650a
+
+Section 1650a requires federal courts to “enforce” ICSID awards and accord them
+“the same full faith and credit as if [they] were [ ] final judgments] of a court of general
+jurisdiction of one of the several States.” 22 U.S.C. § 1650a(a). To identify the type of
+action necessary to enforce ICSID awards in compliance with Section 1650a, we look to
+established procedures for enforcing state court judgments in federal court.
+
+Since 1948, federal courts have been directed by 28 U.S.C. § 1738 to accord state
+court judgments full faith and credit. See Pub. L. No. 80-773, 62 Stat. 869, 947 (1948)
+(codified at 28 U.S.C. § 1738).” Section 1738 does not, however, provide guidance as to
+how state court judgments may be enforced in federal court. Actions to enforce state
+
+court judgments in federal court are rare. See Siag, 2009 WL 1834562, at *1 (noting
+
+ 
+
+more natural one.
+2 Section 1738 provides:
+
+The Acts of the legislature of any State, Territory, or Possession of the United
+States, or copies thereof, shall be authenticated by affixing the seal of such State,
+Territory or Possession thereto.
+
+The records and judicial proceedings of any court of any such State, Territory or
+Possession, or copies thereof, shall be proved or admitted in other courts within
+the United States and its Territories and Possessions by the attestation of the clerk
+and seal of the court annexed, if a seal exists, together with a certificate of a judge
+of the court that the said attestation is in proper form.
+
+Such Acts, records and judicial proceedings or copies thereof, so authenticated,
+shall have the same full faith and credit in every court within the United States
+and its Territories and Possessions as they have by law or usage in the courts of
+such State, Territory or Possession from which they are taken.
+
+54
+
+rarity). They are not unknown, however. See, e.g., Weininger v. Castro, 462 F. Supp. 2d
+457, 466 (S.D.N.Y. 2006) (action brought in federal court on default judgment previously
+entered by state court against Republic of Cuba). As the United States’ brief amicus
+curiae points out, it was the case in 1966, and remains so today, that federal courts
+generally require that a civil action be filed, with notice to the judgment creditor, before
+enforcing a state court judgment. U.S. Br. at 17 n.5 (citing Midessa Television Co. v. Motion
+Pictures for Television, Inc., 290 F.2d 203, 204 (5th Cir. 1961), Caruso v. Perlow, 440 F. Supp.
+2d 117, 119 (D. Conn. 2006), and Continental Cas. Co., 893 F. Supp. 2d at 753)); see also 18B
+Charles Alan Wright, Arthur R. Miller & Edward H. Cooper, Federal Practice and
+Procedure: Jurisdiction § 4469 (2d ed. 2002) (“The most direct consequence of applying
+the full faith and credit statute is that a federal court must enforce a state court
+judgment when an action is brought for that purpose.”). In light of this history, it is
+reasonable to conclude that Congress was aware of this practice when it enacted
+Section 1650a, and thus would have contemplated that ICSID awards would be
+enforced in federal court by judgment entered on an action filed—and not on an ex parte
+petition—on an ICSID award.
+
+In further support for this view, we note in contrast that, by statute first enacted
+in 1948, federal district courts have been empowered summarily to register the
+
+judgments of other federal district courts to permit enforcement in the registering district.
+
+55
+
+See Pub. L. 80-773, 62 Stat. 869, 958 (codified at 28 U.S.C. § 1963) (“A judgment in an
+action for the recovery of money or property entered in any [federal court] may be
+registered . . . in any other district . . . .”)*3; Caruso, 440 F. Supp. 2d at 118 (“[Bly its
+express terms, § 1963 applies only to registration of federal-court judgments in another
+federal court.”); but see GE Betz, Inc. v. Zee Co., Inc., 718 F.3d 615, 625 (7th Cir. 2013)
+(utilizing Section 1963 to register state court judgment in federal court, but
+acknowledging that doing so was out of step with other courts). It is significant that
+Congress chose not to incorporate the well-established, streamlined, and unitary federal
+registration procedures of 28 U.S.C. § 1963 into Section 1650a, preferring instead to refer
+
+generally to the full faith and credit doctrine and preexisting federal practice for
+
+23 Section 1963, “Registration of judgments for enforcement in other districts,” provides in
+relevant part:
+
+A judgment in an action for the recovery of money or property entered in any
+court of appeals, district court, bankruptcy court, or in the Court of International
+Trade may be registered by filing a certified copy of the judgment in any other
+district or, with respect to the Court of International Trade, in any judicial
+district, when the judgment has become final by appeal or expiration of the time
+for appeal or when ordered by the court that entered the judgment for good
+cause shown. Such a judgment entered in favor of the United States may be so
+registered any time after judgment is entered. A judgment so registered shall
+have the same effect as a judgment of the district court of the district where
+registered and may be enforced in like manner.
+
+The procedure prescribed under this section is in addition to other procedures
+provided by law for the enforcement of judgments.
+
+56
+
+addressing state court judgments as commentary on the obligation to enforce such
+awards.
+
+An examination of the available legislative history of Section 1650a also tends to
+confirm our view that Congress did not invite the incorporation of summary
+enforcement procedures against foreign sovereign award-debtors. During a hearing on
+the bill proposing what became Section 1650a, Senator Fulbright offered a copy of the
+proposed legislation and an analysis section that advised:
+
+To give full faith and credit to an arbitral award as if it were
+a final judgment of a court of one of the several States means
+that an action would have to be brought on the award in a United
+States District court just as an action would have to be
+
+brought in a United States District court to enforce the final
+judgment of a State court.
+
+112 Cong. Rec. at 13149 (emphasis added). Senator Fulbright continued that, “[i]n such
+an enforcement action the United States District court would be required to give full
+faith and credit to the arbitral award.” Id. The proximity of his comment on full faith
+and credit to his remark about the need for an “action” to be brought highlights that full
+faith and credit, as used in Section 1650a, meant something less than automatic
+recognition and conversion of the award into a federal judgment, contrary to what
+Mobil now suggests. Nor was Senator Fulbright’s prepared text an offhand comment.
+The General Counsel of the Treasury testified to the same effect before the House
+
+Committee on Foreign Affairs. See Smith House Statement at 4 (“[A]n action would
+
+57
+
+have to be brought in a U.S. district court to enforce the final judgment of a State
+court.”).
+
+Based on our reading of Section 1650a, our discussion of the enforcement
+mechanism traditionally available to federal courts to enforce state court judgments,
+and our review of Section 1650a’s legislative history, we conclude that Section 1650a
+mandates enforcement of ICSID awards in federal court through an action on the award
+and not through an ex parte order.
+
+Mobil and the District Court rely heavily on our decision in Keeton v. Hustler
+Magazine, Inc., 815 F.2d 857 (2d Cir. 1987), to reach a contrary conclusion regarding the
+import of Section 1650a’s directive that the Award be enforced like a state court
+judgment. In doing so, however, Mobil and the District Court rely on an erroneous
+reading of Keeton introduced by the district court in Siag. See 2009 WL 1834562, at *2-3.
+
+In Keeton, a judgment creditor received a judgment in the District of New
+Hampshire. 815 F.2d at 857. She filed this judgment in the New York Supreme Court
+using the procedures specified in N.Y. CPLR 5402. Id. at 858.The judgment debtor then
+removed the action to the Southern District and sought to enjoin enforcement of the
+judgment, arguing, inter alia, that the judgment creditor should have applied the
+procedures for registering judgments of one federal district court in another federal
+
+district court, that is, 28 U.S.C. § 1963. Id. On appeal, this Court affirmed the propriety
+
+58
+
+of registering the New Hampshire federal judgment in New York state court using N.Y.
+CPLR Article 54, rather than the procedure offered by Section 1963. Id. at 861 (holding
+that “Article 54 was meant to be available for enforcement of out-of-state federal
+judgments and sister-state judgments” and that “this clear intention should not be
+overridden simply because the same result could also be achieved by the two-step
+procedure offered by section 1963”). Keeton thus addressed only the registration in state
+court of a federal district court judgment entered in another district.
+
+In Siag, the district court concluded that, because Section 1650a requires that
+ICSID awards be treated “as if the award were a final judgment of a court of general
+jurisdiction of one of the several states,” and Keeton “observed” that CPLR Article 54
+“provide[s] a vehicle through which the judgment of a ‘sister state’ could be enforced in
+New York,” judgment could be entered on ICSID awards using the summary
+procedures provided for in N.Y. CPRL 5402. Siag, 2009 WL 1834562, at *1-3. But Keeton
+did not concern a federal court's action on an out-of-district state court judgment. Siag’s
+reliance on Keeton was therefore misplaced. Keeton addressed a scenario that is the
+reverse of that presented here: Keeton dealt with a state court's treatment of a federal
+court judgment, whereas ICSID awards are to be treated by federal courts as state court
+judgments. Siag is thus unpersuasive, and the procedures adopted by courts in the
+
+Southern District relying upon Siag should no longer be applied.
+
+59
+
+Our conclusion that Section 1650a does not support summary registration for
+converting ICSID awards into federal judgments, but rather requires commencement of
+an action on the award in federal court, brings Section 1650a into alignment with our
+interpretation of the FSIA. Following Supreme Court precedent, we have consistently
+described the FSIA as providing the sole source of subject matter jurisdiction over
+foreign sovereigns. We continue to do so today.
+
+CONCLUSION
+
+Section 1650a of Title 22 requires federal courts to enforce ICSID awards as if
+they were final judgments of state courts—that is, pursuant to civil actions brought
+under the Federal Rules of Civil Procedure on such awards. The FSIA provides the sole
+basis for United States courts’ subject matter jurisdiction over foreign sovereigns, and
+Section 1650a embodies no exception to that rule. As a result, when the ICSID award-
+debtor is a foreign sovereign, the FSIA’s procedural mandates control, including the
+requirements that process be served to obtain personal jurisdiction under 28 U.S.C.
+
+§ 1330(b), and venue be proper under 28 U.S.C. § 1391(f).
+
+In light of our conclusion that the District Court did not have subject matter
+jurisdiction under Section 1650a and that the FSIA governs all aspects of this action, it
+follows further that the District Court’s judgment was void: Mobil did not serve
+
+Venezuela in accordance with the FSIA, 28 U.S.C. § 1608, and the District Court
+
+60
+
+therefore did not have personal jurisdiction over Venezuela, 28 U.S.C. § 1330(b).
+Furthermore, Mobil’s ex parte petition is devoid of any assertion that venue in the
+Southern District of New York is appropriate under the FSIA, nor is the propriety of
+that venue apparent from the face of the petition. We therefore reverse the District
+Court’s order denying Venezuela’s Rule 60(b) motion to vacate, and we vacate the
+judgment against Venezuela without prejudice to Mobil’s filing an action to enforce the
+ICSID award in a court in which venue is permitted under the FSIA. Because we vacate
+the judgment, we need not consider whether the District Court properly refused to
+adjust the interest rate imposed by the ICSID tribunal on the Award.
+
+The District Court’s order denying Venezuela’s motion to vacate is REVERSED,
+the judgment is VACATED, and the cause is REMANDED with instructions to dismiss
+the petition without prejudice to renewal in an action commenced in compliance with
+
+the Foreign Sovereign Immunities Act.
+
+61
+

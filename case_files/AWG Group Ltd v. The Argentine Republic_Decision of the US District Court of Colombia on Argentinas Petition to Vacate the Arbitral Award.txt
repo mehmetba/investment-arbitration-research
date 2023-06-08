@@ -1,0 +1,1467 @@
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 1 of 43
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+REPUBLIC OF ARGENTINA,
+Petitioner,
+v. Civil Action No. 15-1057 (BAH)
+AWG GROUP LTD., Judge Beryl A. Howell
+Respondent.
+
+ 
+
+MEMORANDUM OPINION
+The Republic of Argentina (“Argentina”) filed this lawsuit seeking vacatur of an
+international arbitration award against the country in the amount of $20,957,809, plus interest, in
+favor of the respondent AWG Group Ltd. (“AWG”). Pet. to Vacate Arbitration Award (“Pet.”),
+ECF No. 1. AWG, for its part, seeks confirmation, recognition, and enforcement of that same
+award. Cross-Pet. for Confirmation, Recognition and Enforcement of Award (“Resp.’s Cross-
+Pet.”), ECF No. 12.' Argentina’s instant petition is not the only effort by the country to avoid
+unfavorable arbitration awards arising out of disputes between Argentina and private consortia
+
+that contracted with Argentina to provide infrastructure and public services in the country. See,
+
+! The parties agree that their competing motions are subject to the Convention on the Recognition and
+
+Enforcement of Foreign Arbitral Awards, June 10, 1958, 21 U.S.T. 2519, T.LA.S. No. 6997 (“New York
+Convention”), codified in the Federal Arbitration Act (“FAA”) at 9 U.S.C. §§ 201 et seq., and that this Court,
+consequently, properly exercises subject matter jurisdiction over this case, Pet. | 8; Resp.’s Mem. in Opp’n Pet. to
+Vacate Arbitration Award and in Supp. of Cross-Pet. for Confirmation, Recognition and Enforcement of Award
+(“Resp.’s Mem.”) at 22, ECF No. 12; see 9 U.S.C. § 203 (“An action or proceeding falling under the Convention
+shall be deemed to arise under the laws and treaties of the United States. The district courts of the United States . ..
+shall have original jurisdiction over such an action or proceeding, regardless of the amount in controversy.”);
+Scandinavian Reins, Co. v. Saint Paul Fire & Marine Ins. Co., 668 F.3d 60, 71 (2d Cir. 2012) (“[T]he district court
+[has] subject-matter jurisdiction under 9 U.S.C. § 203, which provides federal jurisdiction over actions to confirm or
+vacate an arbitral award that is governed by the Convention on the Recognition and Enforcement of Foreign Arbitral
+Awards (the ‘New York Convention’)”).
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 2 of 43
+
+e.g., BG Grp. PLC v. Republic of Argentina, 134 S. Ct. 1198 (2014) (reversing the D.C. Circuit’s
+vacatur of a $185 million dollar arbitration award against Argentina in favor of British firm that
+was part of consortium with a majority interest in an Argentine entity holding “exclusive license
+to distribute natural gas in Buenos Aires”); Argentine Republic v. Nat’! Grid PLC, 637 F.3d 365
+(D.C. Cir. 2011) (affirming denial of Argentina’s petition to vacate a $53 million dollar
+arbitration award and grant of respondent National Grid’s cross-motion to confirm the same).
+The arbitration award at issue in this case arises from a now-terminated thirty-year
+contract between Argentina and a private consortium, which included AWG, “to operate the
+water distribution and treatment systems serving the city of Buenos Aires.” Resp.’s Mem. in
+Opp’n Pet. to Vacate Arbitration Award and in Supp. of Cross-Pet. for Confirmation,
+Recognition and Enforcement of Award (“Resp.’s Mem.”) at 1, ECF No. 12.2 AWG alleges that
+fewer than ten years into the contract, Argentina altered the investment framework, refused to
+authorize tariff adjustments, attempted to force a renegotiation of the contract, and ultimately
+terminated the contract, thereby breaching “Argentina’s obligation to grant foreign investments
+
+‘fair and equitable treatment”” and “Argentina’s obligation to provide foreign investments ‘full
+
+protection and security” under the governing bilateral investment treaty between the United
+Kingdom and Argentina, the Agreement Between the Government of the United Kingdom of
+Great Britain and Northern Ireland and the Government of the Republic of Argentina for the
+Promotion and Protection of Investments, Arg.-U.K. (“UK-BIT”). Jd. at 7-9. The UK-BIT
+
+provides for binding international arbitration arising out of an investment, Resp.’s Cross-Pet.,
+
+Ex. 6 to Decl. of Elliot Friedman (“Friedman Decl.”), Agreement Between the Government of
+
+Resp.’s Cross-Mot. and Resp.’s Mem. are docketed together at ECF No. 12. Further, Resp.’s Mem. is also
+docketed, in duplicate, at ECF No. 10 as the respondent’s Answer. To simplify citation, the Court will reference
+only one of the duplicate memoranda, and hereinafter, the Court will refer only to the memorandum at ECF No. 12.
+
+2
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 3 of 43
+
+the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic
+of Argentina for the Promotion and Protection of Investments, Arg.-U.K., Dec. 11, 1990 (“UK-
+BIT”), ECF No. 12-7, available at 1765 U.N.T.S. 33, 38, and when the country where the award
+is made is a signatory to the Convention on the Recognition and Enforcement of Foreign Arbitral
+Awards (“New York Convention”), codified by reference at 9 U.S.C. §§ 201 et seq., that
+convention governs enforcement of the award, see New York Convention, arts. I, III.
+
+In accordance with the terms of the UK-BIT, the parties’ dispute was submitted to
+binding international arbitration before an expert tribunal (the “Tribunal”), which confirmed its
+jurisdiction, see Pet., Ex. B to Decl. of Matthew Slater (“Slater Decl.”), AWG Grp. Ltd. v. The
+Argentine Republic, Decision on Jurisdiction (Aug. 3, 2006) (“Decision on Jurisdiction”), ECF
+No. 1-5, and after twelve years of proceedings entered a final award in favor of AWG in April
+2015. Resp.’s Mem. at 1, 4, 11-12. Argentina now seeks to vacate the Tribunal’s award under
+the Federal Arbitration Act (“FAA”), 9 U.S.C. § 10, arguing that one of the arbitrators acted with
+“evident partiality,” and that the Tribunal exceeded its powers, Pet. {{[ 2-3.> For the reasons
+explained below, Argentina’s request to vacate the Tribunal’s award is denied and AWG’s cross-
+
+petition to confirm the award is granted.*
+
+3 Argentina requests a hearing on its petition to vacate the arbitration award but, given the sufficiency of the
+ample briefing, this request is denied. See U.S. Dist. Ct. Rules, D.D.C., Local Civil Rule 7(f) (allowance of oral
+hearing is “within the discretion of the Court”).
+
+AWG has requested the posting of a pre-judgment bond, Mot. Pre-J. Bond (“Resp.’s Mot. Bond”), ECF No.
+13, but this request is denied as moot since the pending motions are resolved and judgment is entered in AWG’s
+favor with this Memorandum Opinion. See Republic of Argentina v. BG Grp. PLC, 715 F. Supp. 2d 108, 115 n.6
+(D.D.C. 2010) (“[T]he Court concludes that the posting of a bond is unnecessary, in light of the Court’s conclusion
+here that Argentina’s petition to vacate or modify the Award is entirely without merit. Accordingly, ... BG Group’s
+cross-motion for a pre-judgment bond is denied as moot.”).
+
+3
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 4 of 43
+
+I. BACKGROUND
+
+Summarized below is the factual and procedural background pertinent to the resolution of
+the pending motions.°
+
+A. The Concession Contract
+
+On December 28, 1992, Argentina awarded a concession for the “provi[sion of] water
+and sewage services to Buenos Aires and surrounding municipalities” to a private consortium,
+which included AWG, a British corporation. Pet. §§ 5, 13-14; Pet., Ex. C to Slater Decl., AWG
+Grp. v. The Argentine Republic, Decision on Liability (July 30, 2010) (“Decision on Liability”)
+49 1, 33, ECF No. 1-6. Prior to this award, Argentina had declared its public services to be in “a
+state of emergency” and had taken steps to establish “a regulatory framework to privatize certain
+public services.” Pet. §§ 10-11; Decision on Liability { 28-31. Under this scheme,
+concessionaires would provide services, new capital, and technology, and in turn, “would be
+entitled to the payment of tariffs.” Pet. 4§ 11-12; Decision on Liability {| 30-32. To attract “the
+necessary long-term private and foreign capital,” the new regulatory framework: (1) pegged the
+Argentine peso to the United States dollar at a ratio of 1:1; and (2) permitted tariff adjustments
+“to take account of changing and unexpected circumstances.” Resp.’s Mem. at 5—6; Decision on
+Liability {§ 29, 124. Argentina also entered into more than fifty bilateral investment treaties,
+including the UK-BIT,° through which the countries sought to “encourage cross-border private
+investment.” Resp.’s Mem. at 4; Decision on Liability 4 29, 124.
+
+The Buenos Aires water and sewage concession was granted to a consortium comprised
+
+of AWG and other foreign and Argentine companies, which together formed and operated as an
+
+5 The parties have filed a number of exhibits in this case that are immaterial to the legal conclusion reached
+
+here and, consequently, merit no discussion.
+The UK-BIT was signed on December 11, 1990, but came into force on February 19, 1993. UK-BIT at 33—
+34,
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 5 of 43
+
+Argentine company named Aguas Argentinas S.A. (“AASA”).’ Pet. § 13; Decision on Liability
+9 32-33. On April 28, 1993, AASA entered into a thirty-year contract with Argentina (the
+“Concession Contract”). Pet. § 14; Decision on Liability § 34. In accordance with the
+requirement in the Concession Contract to provide an “upfront investment to improve and
+expand the system,” AASA obtained loans from multilateral lending agencies, payable in United
+States dollars, while AASA had agreed to receive tariff payments in Argentine pesos, which
+were pegged under the terms of the Concession Contract to the United States dollar at a ratio of
+1:1. Pet. § 15; Decision on Liability { 35. The Concession Contract included a termination
+clause “allowing termination under specified circumstances, including termination for the
+concessionaire’s fault.” Pet. § 16; Decision on Liability § 114.
+
+By 2001, AASA had invested $1.7 billion in the Concession Contract, “yield[ing]
+substantial improvements in the water distribution and sewage system serving Buenos Aires.”
+Resp.’s Mem. at 6; Decision on Liability {§ 35-36. Around this time, however, Argentina
+“began to experience significant economic difficulties that would eventually lead to a financial
+crisis having serious consequences for the country, its people, and its investors, both foreign and
+national.” Decision on Liability § 41; Pet. § 18. “[T]o return stability to the country,” Argentina
+adopted “a series of policies and measures,” including, in 2002, Emergency Law No. 25,561.
+Pet. { 19; Decision on Liability § 44. This measure, inter alia: (1) “abolished the currency board
+that linked the Argentine peso to the U.S. dollar, which was followed by a significant
+depreciation of the Argentine peso;” (2) “abolished the adjustment of public service contracts
+
+according to the agreed-upon indexations;” and (3) “authorized the Executive branch of the
+
+7 The consortium included the following other companies: Suez, Vivendi Universal, S.A. (“Vivendi”),
+
+Socieded General de Aguas de Barcelona S.A. (“AGBAR”), Banco de Galicia y Buenos Aires $.A., Socieded
+Comercial del Plata $.A., and Meller S.A. Pet. {| 13; Decision on Liability § 32.
+
+5
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 6 of 43
+
+government to renegotiate all public service contracts.” Pet. { 19; Decision on Liability § 44.
+The Emergency Law “also forbade concessionaires from suspending or altering their contractual
+performance.” Resp.’s Mem. at 7; Decision on Liability § 44. These policies and measures,
+particularly the unpegging of the Argentine peso from the United States dollar, “had a ruinous
+effect on AASA’s cash flows, because AASA’s tariffs were calculated in Argentine pesos while
+its debt obligations were necessarily denominated in U.S. dollars.” Resp.’s Mem. at 7; Decision
+on Liability J 50.
+
+Starting in March 2002, Argentina and AASA engaged in negotiations “to adjust the
+terms of the Concession Contract,” but were unable to come to an agreement. Pet. J 20;
+Decision on Liability {§ 46-47, 49-50. Argentina ignored or rejected AASA’s requested “tariff
+adjustments and modifications to its operation conditions” and, instead, “demanded that AASA
+provide water and sewage services to areas outside the scope of [the Concession Contract]” and
+“insisted that AASA continue to comply fully with its investment obligations.” Resp.’s Mem. at
+7; Decision on Liability §§ 44-51. Argentina also “alerted AASA to several significant
+performance failures in violation of the Concession Contract.” Pet. § 20; Decision on Liability J
+52.
+
+In September 2005, the AASA requested termination of the Concession Contract, which
+Argentina refused. Resp.’s Mem. at 7; Decision on Liability § 53. Several months later, in
+March 2006, Argentina terminated the Concession Contract for fault by AASA. Pet. § 21;
+Decision on Liability { 56.
+
+B. The Arbitration
+On April 17, 2003, after passage of the Emergency Law, but prior to the termination of
+
+the Concession Contract, the foreign investors in AASA requested arbitration against Argentina
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 7 of 43
+
+claiming that Argentina’s actions “violate[d] three specific treaty provisions: 1) guarantees
+against direct and indirect expropriation of their investments; 2) guarantees to accord their
+investments full protection and security; and 3) guarantees to accord their investments fair and
+equitable treatment.” Decision on Liability ff 48, 127; see UK-BIT, arts. 2(2), 5.
+
+Each of the foreign investors (hereinafter “Claimants”) invoked Argentina’s consent to
+arbitrate in the bilateral investment treaty governing their investment.* Decision on Liability
+1-2. Since the other bilateral investment treaties provided for International Centre for Settlement
+of Investment Disputes (“ICSID”) arbitration, Argentina and AWG agreed that the ICSID would
+also administer AWG’s case, subject to the Arbitration Rules of the United Nations Commission
+on International Trade Rules (“UNCITRAL Rules”), which is a default international arbitration
+scheme provided for in the UK-BIT. Decision on Liability §{ 2, 4; BIT, art. 8(3). This scheme
+permitted all of the foreign investors’ claims to be arbitrated before the same tribunal. Decision
+on Liability {§ 2, 4; Pet. | 24.
+
+The Tribunal, appointed in fall 2003, was comprised of three members. Decision on
+Liability 5; Pet. 24. The Claimants appointed Professor Gabrielle Kaufmann-Kohler;
+Argentina appointed Professor Pedro Nikken; and, because the parties could not agree on a third
+arbitrator, ICSID appointed Professor Jeswald W. Salacuse to be the Tribunal President.
+Decision on Liability §§ 5—6; Pet. § 24. The seat of the arbitration was designated to be
+Washington, D.C. Pet., Ex. A to Slater Decl., AWG Grp. Ltd. v. The Argentine Republic, Award
+
+(Apr. 9, 2015) (“Final Award”) at i, ECF No. 1-4; Decision on Liability { 9.
+
+8 Suez and Vivendi’s investments were governed by the 1991 Bilateral Investment Treaty between the
+
+Argentine Republic and France (‘“France-BIT”), while AGBAR’s investment was governed by the 1991 Bilateral
+Investment Treaty between the Argentine Republic and the Kingdom of Spain (“Spain-BIT”). Decision on Liability
+42.
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 8 of 43
+
+Over the course of the arbitration, from the time of AWG’s request for arbitration in
+April 2003 to the Tribunal’s issuance of the final award twelve years later, in April 2015, the
+Tribunal issued five decisions. Decision on Liability J 1; Final Award at i. In the first decision,
+issued on August 3, 2006, the Tribunal rejected Argentina’s objections to the Tribunal’s
+jurisdiction to hear the claims. Decision on Jurisdiction { 69. The second decision responded to
+Argentina’s request to remove Professor Kaufmann-Kohler from the Tribunal, because she had
+served as an arbitrator in a different case, in which the panel had already issued an award against
+Argentina. Resp.’s Mem. at 14. This challenge was rejected by “the two unchallenged
+arbitrators (including Argentina’s appointee),” in accordance with agreed-upon procedures.
+Resp.’s Mem. at 14; Resp.’s Cross-Pet., Ex. 16 to Friedman Decl., AWG Grp. v. The Argentine
+Republic (Oct. 22, 2007) (“First Disqualification Decision”) §§ 12, 17, ECF No. 12-17 (citing
+ICSID Arbitration Rule 9(4)).? The third decision responded to a second request from Argentina
+to remove Professor Kaufmann-Kohler, following her appointment on April 19, 2006, to the
+Board of Directors of UBS (“UBS Board”), “on grounds that her directorship, and her decision
+not to disclose it, gave rise to justifiable doubts as to her impartiality and independence, in
+conflict with the ICSID Convention and the UNCITRAL Rules.” Pet. §§ 28-29; Pet., Ex. K to
+Slater Decl., Challenge to Mrs. Gabrielle Kaufmann Kéhler (“Second Disqualification
+Challenge”) at 1-2, ECF No. 1-14. The two unchallenged arbitrators, again, rejected Argentina’s
+claim.!° Pet., Ex. H to Slater Decl., AWG Grp. Ltd. v. The Argentine Republic (May 12, 2008)
+
+(“Second Disqualification Decision”) § 26, ECF No. 1-11. In any event, on April 15, 2009,
+
+° The First Disqualification Decision is not at issue in this action and Argentina has not objected to the
+
+procedure for reviewing challenges to arbitrators due to alleged bias.
+
+‘0 In the Second Disqualification Decision, the two unchallenged arbitrators explain that it was “their
+understanding that in keeping with the parties’ agreement that a single tribunal was to hear all three of the [related]
+cases the parties were bestowing on the remaining members the authority to decide the challenge under the
+UNCITRAL Rules in the case of AWG Grp. Limited v. the Argentine Republic.” Second Disqualification Decision
+13. According to the two arbitrators, Argentina did not object to “proceeding on this basis.” Id.
+
+8
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 9 of 43
+
+nearly a year after the Second Disqualification Decision, “Professor Kaufmann-Kohler resigned
+as an independent director [of UBS]” in order “to avoid any possible expression of doubt about
+her arbitral independence.” Resp.’s Mem. at 22; Resp.’s Cross-Pet., Ex. 23 to Friedman Decl.,
+Kaufmann Kohler Leaves UBS Board, Global Arbitration Review, May 1, 2009, at 1, ECF No.
+12-24.
+
+Over a year after Professor Kaufmann-Kohler had resigned from the UBS Board, the
+Tribunal issued its fourth decision, on July 30, 2010, finding Argentina liable for failing to
+provide the investments “fair and equitable treatment.” Decision on Liability {§ 247-48.
+Specifically, as described in the Decision on Liability, the Tribunal concluded that “Argentina’s
+actions in refusing to revise the tariff according to the legal framework of the Concession and in
+pursuing the forced renegotiation of the Concession Contract contrary to that legal framework
+violated its obligations under the applicable BITs to accord the investments of the Claimants fair
+and equitable treatment.” Jd. § 247.'! The fifth and final Tribunal decision on damages owed by
+Argentina, known as the “Final Award,” was issued on April 9, 2015, and awarded a total of
+$404,539,050, plus interest, to the Claimants, including $20,957,809, plus interest, to AWG.
+Final Award at 58-62.!2 AWG alleges that Argentina has not yet complied with the award, see
+
+Resp.’s Mem. at 3, and Argentina does not dispute this assertion.
+
+i The arbitrator selected by Argentina, Professor Nikken, wrote a separate opinion from the other two
+
+arbitrators in the Decision on Liability, but nevertheless agreed that Argentina violated its obligation to give the
+Claimant’s investments fair and equitable treatment. See Pet., Ex. I to Slater Decl., Separate Opinion of Arbitrator
+Pedro Nikken 1, ECF No. 1-5 (citing differing grounds than the majority for reaching the same conclusion).
+
+The Tribunal issued the Final Award in Washington, D.C. Final Award at i. Consequently, venue is proper
+in this district. See generally 9 U.S.C. § 9 (“If no court is specified in the agreement of the parties, then [an
+application to confirm an arbitration award] may be made to the United States court in and for the district within
+which such award was made.”); 9 U.S.C. § 10 (providing that the court “in and for the district wherein the award
+was made may make an order vacating the award”).
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 10 of 43
+
+C. Procedural History
+
+On July 6, 2015, Argentina petitioned to vacate the Tribunal’s arbitration award on the
+grounds that the Tribunal acted with evident partiality, under 9 U.S.C. § 10(a)(2) (authorizing
+vacatur of arbitration award “where there was evident partiality or corruption in the arbitrators”),
+and that the Tribunal exceeded its powers by improperly calculating damages and failing to
+apply international law, under 9 U.S.C. § 10(a)(4) (authorizing vacatur of arbitration award
+“where the arbitrators exceeded their powers, or so imperfectly executed them that a mutual,
+final, and definite award upon the subject matter submitted was not made”). See generally Pet.
+Less than two months later, on September 1, 2015, AWG filed a cross-petition to confirm the
+award, pursuant to 9 U.S.C. § 9, and Article IV of the New York Convention. See generally
+Resp.’s Cross-Pet. Both petitions are ripe for review.
+
+IL. LEGAL STANDARD FOR REVIEW OF CHALLENGED ARBITRATION
+AWARD
+
+Review of arbitral awards is “extremely limited,” Kurke v. Oscar Gruss & Son, Inc., 454
+F.3d 350, 354 (D.C. Cir. 2006) (quoting Teamsters Local Union No. 61 v. United Parcel Serv.,
+Inc., 272 F.3d 600, 604 (D.C. Cir. 2001)), and is “‘not an occasion for de novo review.”
+Scandinavian Reins. Co. v. Saint Paul Fire & Marine Ins. Co., 668 F.3d 60, 71 (2d Cir. 2012)
+(quoting Wallace v. Buttar, 378 F.3d 182, 189 (2d Cir. 2004)). Courts “do not sit to hear claims
+of factual or legal error by an arbitrator” as they would “in reviewing decisions of lower courts.”
+Kurke, 454 F.3d at 354 (internal citations and quotations omitted). Indeed, the standard of
+review of arbitral awards is so narrow that courts are “not authorized to reconsider the merits of
+an award even though the parties may allege that the award rests on errors of fact or on
+misinterpretation of the contract.” United Paperworkers Int’l Union, AFL-CIO v. Misco, Inc.,
+
+484 U.S. 29, 36 (1987). While an “arbitrator may not ignore the plain language of the contract . .
+
+10
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 11 of 43
+
+. L] as long as the arbitrator is even arguably construing or applying the contract and acting
+within the scope of his authority, that a court is convinced he committed serious error does not
+suffice to overturn his decision.” Jd. at 38.
+
+The Supreme Court has explained that this high level of deference is required for
+arbitration awards because, “[i]f parties could take ‘full-bore legal and evidentiary appeals,’
+arbitration would become ‘merely a prelude to a more cumbersome and time-consuming judicial
+review process.” Oxford Health Plans LLC v. Sutter, 133 S. Ct. 2064, 2068 (2013) (quoting
+Hall Street Assocs., L.L.C. v. Mattel, Inc., 552 U.S. 576, 588 (2008)). Thus, where the parties
+have chosen arbitration, they “must now live with that choice.” Jd. at 2071.
+
+The fact that the document containing an arbitration agreement is a treaty does not
+“make[] a critical difference,” since “[a]s a general matter, a treaty is a contract, though between
+nations.” BG Grp. PLC, 134 S. Ct. at 1208. “Consistent with the ‘emphatic federal policy in
+favor of arbitral dispute resolution’ recognized by the Supreme Court as ‘appl[ying] with special
+force in the field of international commerce,’ the FAA affords the district court little discretion in
+refusing or deferring enforcement of foreign arbitral awards... .” Belize Soc. Dev. Ltd. v. Gov’t
+of Belize (“Belize Soc. Dev. I”), 668 F.3d 724, 727 (D.C. Cir. 2012) (alteration in original)
+(quoting Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614, 631 (1985)).
+Ill. DISCUSSION
+
+Argentina urges vacatur of the arbitration award under two provisions of the FAA’s § 10.
+First, due to Professor Kaufmann-Kohler’s position on the UBS Board, and her alleged failure to
+investigate and disclose that position and its potential for conflict, Argentina contends vacatur is
+warranted under 9 U.S.C. § 10(a)(2). Pet. §§ 2, 43. Second, because the Tribunal allegedly
+
+awarded damages outside of the legal boundaries afforded by the UK-BIT and allegedly failed to
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 12 of 43
+
+apply international legal principles as required by the UK-BIT, Argentina argues that vacatur is
+also warranted under 9 U.S.C. § 10(a)(4). Id. {§ 3, 68. AWG discounts these arguments as
+“groundless” and contends that the arbitration award must be confirmed because none of the
+statutory bases for vacatur exist. Resp.’s Mem. at 3. Following review of the statutory
+framework, Argentina’s challenges to the Tribunal’s arbitration award are addressed seriatim
+below.
+A. Statutory Framework
+
+Both the United States and Argentina are parties to the New York Convention, which
+applies to arbitral awards made in the territory of a signatory country to the Convention. See
+New York Convention, art. I(1)); Belize Soc. Dev. I, 668 F.3d at 731 n.3 (“If the place of the
+award is ‘in the territory of a party to the Convention, all other Convention states are required to
+recognize and enforce the award, regardless of the citizenship or domicile of the parties to the
+arbitration.”” (quoting Creighton Ltd. v. Gov’t of the State of Qatar, 181 F.3d 118, 121 (D.C. Cir.
+1999))). The Supreme Court described the purpose of the New York Convention as to
+“encourage the recognition and enforcement of commercial arbitration agreements in
+international contracts and to unify the standards by which agreements to arbitrate are observed
+and arbitral awards are enforced in the signatory countries.” Scherk v. Alberto-Culver Co., 417
+U.S. 506, 520 n.15 (1974). Thus, the Convention “provid[es] for ‘the recognition and
+enforcement of arbitral awards made in the territory of a State other than the State where the
+recognition and enforcement of such awards are sought.’” Belize Soc. Dev., Ltd. v. Gov't of
+Belize (“Belize Soc. Dev. II”), 794 F.3d 99, 103 (D.C. Cir. 2015), petition for cert. filed, Dec. 24,
+2015 (quoting New York Convention, art. I(1)). “The basic understanding of the New York
+
+Convention is that ‘[e]ach Contracting State shall recognize arbitral awards as binding and
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 13 of 43
+
+enforce them in accordance with the rules of procedure of the territory where the award is relied
+upon, under the conditions laid down in the . . . articles [of the Convention].”” TermoRio S.A.
+E.S.P. y. Electranta S.P., 487 F.3d 928, 934 (D.C. Cir. 2007) (alteration in original) (quoting
+
+New York Convention, art. III). “‘[TJhe critical element is the place of the award: if that place is
+in the territory of a party to the Convention, all other Convention states are required to recognize
+and enforce the award, regardless of the citizenship or domicile of the parties to the arbitration.’”
+Id. (quoting Creighton Ltd., 181 F.3d at 121).
+
+The New York Convention, which has been codified as chapter 2 of the FAA, 9 U.S.C.
+§§ 201-08, provides that a party may apply to any court with jurisdiction for confirmation of an
+arbitration award within three years of when the award is made, id. § 207. The court is required
+to “confirm the award unless it finds one of the grounds for refusal or deferral of recognition or
+enforcement of the award specified in the [New York] Convention.” Jd. Article V of the New
+York Convention sets forth the exclusive grounds for refusal of recognition and enforcement of
+the award. See TermoRio S.A. E.S.P., 487 F.3d at 935 (noting that courts “may refuse to enforce
+the award [subject to New York Convention] only on the grounds explicitly set forth in Article V
+of the Convention.” (quoting Yusuf Ahmed Alghanim & Sons v. Toys “R” Us, Inc., 126 F.3d 15,
+23 (2d Cir. 1997))). As pertinent here, Article V(1)(e) provides for vacatur of an arbitral award
+that “has been set aside or suspended by a competent authority of the country in which, or under
+the law of which, that award was made,” New York Convention, art. V(1)(e), thereby
+authorizing parties to employ any grounds provided by domestic law in the jurisdiction where the
+award was made, “to the extent that” those domestic provisions are “not in conflict with” the
+New York Convention. 9 U.S.C. § 208. See also Scandinavian Reins. Co., 668 F.3d at 71
+
+(observing that “‘FAA and the New York Convention work in tandem, and they have
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 14 of 43
+
+overlapping coverage to the extent that they do not conflict”) (quoting Sole Resort, S.A. de C.V.
+v. Allure Resorts Mgmt., LLC, 450 F.3d 100, 102 n.1 (2d Cir. 2006)); Yusuf Ahmed Alghanim &
+Sons., 126 F.3d at 21 (“We read Article V(1)(e) of the [New York] Convention to allow a court
+in the country under whose law the arbitration was conducted to apply domestic arbitral law, in
+this case the FAA, to a motion to set aside or vacate that arbitral award.”).!
+
+Thus, when, as here, the award is made in the United States, the parties may, through
+Article V(1)(e), seek vacatur of the arbitration award under the FAA provisions applicable to
+domestic awards in 9 U.S.C. §§ 10 and 11. See Zeiler v. Deitsch, 500 F.3d 157, 164 (2d Cir.
+2007) (finding, where “arbitration took place in the United States” but where significant aspects
+of the arbitration, including certain parties and the governing law were international, “the awards
+entered . . . are at the same time subject to the FAA provisions governing domestic arbitration
+awards” and the New York Convention); see also Yusuf Ahmed Alghanim & Sons, 126 F.3d at 23
+(“The Convention specifically contemplates that the state in which, or under the law of which,
+the award is made, will be free to set aside or modify an award in accordance with its domestic
+arbitral law and its full panoply of express and implied grounds for relief.”).
+
+Under the domestic provisions of the FAA, the court must confirm an arbitration award
+unless there are statutory grounds to vacate, modify, or correct the arbitrators’ decision. 9 U.S.C.
+§ 9 (“[A]ny party to the arbitration may apply to the court [in and for the district within which
+
+such award was made] for an order confirming the award, and thereupon the court must grant
+
+B The New York Convention provides additional grounds for refusal to recognize or enforce an arbitral
+award, including: invalidity of the agreement to arbitrate, New York Convention, art. V(1)(a); lack of proper notice
+of the arbitration proceedings, id. art. V(1)(b); the award dealt with matters “not contemplated by or not falling
+within the terms of the submission to arbitration,” id. art. V(1)(c); “[t]he composition of the arbitral authority or the
+arbitral procedure was not in accordance with the agreement of the parties, or, failing such agreement, was not in
+accordance with the law of the country where the arbitration took place,” id. art. V()(d);_ or the award dealt with
+subject matter “not capable of settlement by arbitration under the law of,” or “contrary to the public policy of,” the
+country in which enforcement is sought, id. arts. V(2)(a)-(b).
+
+14
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 15 of 43
+
+such an order unless the award is vacated, modified, or corrected as prescribed in sections 10 and
+11 of [the FAA].”).'* Section 10 of the FAA provides the following four grounds for vacatur of
+an arbitration decision and award:
+
+(1) where the award was procured by corruption, fraud, or undue means;
+
+(2) where there was evident partiality or corruption in the arbitrators, or either of
+them;
+
+(3) where the arbitrators were guilty of misconduct in refusing to postpone the
+hearing, upon sufficient cause shown, or in refusing to hear evidence pertinent
+and material to the controversy; or of any other misbehavior by which the rights
+of any party have been prejudiced; or
+
+(4) where the arbitrators exceeded their powers, or so imperfectly executed them
+that a mutual, final, and definite award upon the subject matter submitted was not
+made.
+
+9 U.S.C. § 10(a).!5
+B. Argentina’s Claim of Evident Partiality by a Tribunal Member
+Invoking the grounds set out in the FAA’s § 10(a)(2), Argentina contends that “[t]he
+[a]ward must be vacated because Professor Kaufmann-Kohler had a direct interest in the
+
+outcome of the case by virtue of her service as a director (and a shareholder) of UBS,” Pet. J 43,
+
+i The D.C. Circuit has authorized vacatur of an arbitral award based on a decision made “in manifest
+
+disregard of the law.” Kurke, 454 F.3d at 354 (“In addition to the statutory grounds, ‘arbitration awards can be
+vacated . .. if they are in manifest disregard of the law.’” (quoting LaPrade v. Kidder, Peabody & Co., 246 F.3d
+702, 706 (D.C. Cir. 2001))). The Supreme Court has made clear, however, that the FAA’s §§ “10 and 11...
+provide the FAA’s exclusive grounds for expedited vacatur and modification,” Hall St. Assocs., 552 U.S. at 584,
+leaving unclear whether a manifest disregard for law continues to provide a viable basis for vacating an arbitration
+decision, see Stolt-Nielsen S.A. v. AnimalFeeds Int’l Corp., 559 U.S. 662, 672 n.3 (“We do not decide whether
+‘manifest disregard’ survives our decision in Hall Street Associates . ..”); Republic of Argentina v. BG Grp. PLC,
+No. 11-7021, 2014 U.S. App. LEXIS 9519, at *2 (D.C. Cir. May 21, 2014) (per curiam) (assuming, without
+deciding, that the manifest-disregard-of-law standard applies, but finding that the petitioner failed to meet that
+standard); Regnery Publ’g, Inc. v. Miniter, 368 F. App’x 148, 149 (D.C. Cir. 2010) (per curiam) (same);
+STMicroelectronics, N.V. v. Credit Suisse Secs. (USA) LLC, 648 F.3d 68, 78 (2d Cir. 2011) (expressing “skepticism
+about the validity of [the] ‘manifest disregard’ doctrine in light of recent Supreme Court precedent,” but finding that
+the respondent had failed to meet it). This issue need not be resolved here since Argentina does not raise “manifest
+disregard of the law” as a ground for vacatur.
+
+1s Section 1 of the FAA, which is not relied upon by Argentina or at issue in this case, also authorizes
+modification or correction of an arbitration award where there is “an evident material miscalculation of figures or an
+evident material mistake in the description of any person, thing, or property referred to in the award,” 9 U.S.C. §
+11(a), or “[wJhere the arbitrators have awarded upon a matter not submitted to them, unless it is a matter not
+affecting the merits of the decision upon the matter submitted” or “[w]here the award is imperfect in matter of form
+not affecting the merits of the controversy,” 9 U.S.C. § 11(b)-(c). As noted, FAA’s § 11 is not at issue in this case.
+
+15
+
+ 
+
+ 
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 16 of 43
+
+and that this arbitrator’s impartiality was further evidenced by her “failure to disclose her
+acceptance of the appointment as director and her failure to investigate adequately the potential
+for the appointment to compromise her independence and impartiality,” id. AWG responds that
+these claims are meritless in light of the deferential standard of review due to the two
+unchallenged arbitrators’ Second Disqualification Decision, and that, in any event, Argentina has
+failed to demonstrate that Professor Kaufman-Kohler’s position, or her failure to investigate or
+disclose the potential for conflict, amounted to the requisite “evident partiality” to refuse
+recognition and enforcement of the Final Award. Resp.’s Mem. at 25-34.
+1. Relevant Background
+
+Review of the chronology of events and the factual basis for the alleged partiality
+demonstrates that Argentina’s challenge to one of the Tribunal members falls far short. On July
+17, 2003, the Claimants appointed Professor Kaufman-Kohler as one of three arbitrators to hear
+the Claimant’s ICSID cases, including AWG’s case at issue in this litigation. Second
+Disqualification Decision { 3.'!° Subsequently, these three arbitrators on the Tribunal
+commenced hearings and issued decisions in the Claimant’s cases, on such issues as “timetables
+and procedures on submission of documents, the jurisdiction of the tribunal, requests by a group
+of nongovernmental organization to participate as amicus curiae, the withdrawal of certain
+parties, and various other matters concerning the orderly management and processing of the
+
+arbitral proceedings.” Id. § 6 (footnotes omitted).
+
+16 The parties do not challenge the relevant factual record collected and summarized by the Tribunal in the
+
+Second Disqualification Decision or the Decision on Liability in this case. See Pet.’s Sur-Reply in Supp. Pet. to
+Vacate Arbitration Award & in Opp’n Resp.’s Cross-Pet. for Confirmation, Recognition and Enforcement of Award
+(“Pet.’s Sur-Reply”) at 8 n.4, ECF No. 20. Accordingly, those facts are deemed undisputed and relied upon as the
+factual record in evaluating Argentina’s claim of evident partiality on the part of a Tribunal member.
+
+16
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 17 of 43
+
+During this ongoing arbitration activity, on April 19, 2006, Professor Kaufmann-Kohler
+was appointed to a three-year term as a non-executive member of the UBS Board. Jd. 411. At
+this time, “she submitted on a confidential basis a list of all her arbitrations to UBS and was
+subsequently informed by UBS that there were no conflicts of interest, except with respect to her
+position as a member of the America Cup Jury (since UBS sponsored a yacht in that
+competition), from which she resigned.” Jd. § 14. Although the arbitration at issue in this case
+had already commenced and was disclosed in the conflicts check to UBS, Professor Kaufmann-
+Kohler did not disclose her new UBS Board position to the instant parties or other arbitrators.
+
+Id. § 11. In the spring and fall of 2007, the Tribunal held hearings on the merits of each of the
+Claimant’s cases. Id. {§ 6, 8.
+
+Upon learning of Professor Kaufmann-Kohler’s appointment to the UBS Board over a
+year after her appointment, Argentina filed a challenge to disqualify Professor Kaufmann-Kohler
+from the arbitration proceedings on November 29, 2007.!7 Id. § 11. This challenge was
+premised on UBS’s ownership of shares in two members of the consortium responsible for “the
+Buenos Aires water privatization that is at the heart of the dispute.” Id. 421. Specifically,
+“{a]ccording to the Vivendi web site, UBS was a ‘main investor’ in the corporation, holding
+2.38% of its registered voting stock as of March 31, 2007. UBS also held some 2.1% of the
+voting shares of Suez as of March 7, 2007.” Jd. { 12. In its challenge, Argentina also pointed
+out that “UBS does research on and makes recommendations with respect to investments in the
+water sector, a sector in which the Claimants operate, and UBS has developed financial products
+
+that it sells to investors to permit them to invest in the water sector on a global basis.” Id.
+
+" Article 10(1) of the UNCITRAL Rules provides that: “An arbitrator may be challenged if circumstances
+
+exist that give rise to justifiable doubts as to the arbitrator’s impartiality or independence.” Second Disqualification
+Decision { 22.
+
+17
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 18 of 43
+
+Further, Argentina cited the fact that, as a non-executive member of the UBS Board, Professor
+Kaufmann-Kohler is compensated for her services, in part, with UBS stock. Id. Notably, UBS is
+not a shareholder of AWG. Id. 421.
+
+In a submission to the remaining two arbitrators determining the challenge, Professor
+Kaufmann-Kohler explained that until Argentina’s challenge was lodged, “she had no knowledge
+of the business relationships alleged to exist between the Claimants and [UBS].” Pet., Ex. F to
+the Slater Decl., Letter from Gabrielle Kaufmann-Kohler to Gonzalo Flores (Dec. 21, 2007)
+(“Dec. 21, 2007 Kaufmann-Kohler Letter”) at 1; Pet. § 14. After Argentina brought these
+business relations to her attention, she requested that UBS “verify the accuracy of the UBS
+shareholdings in the Claimants and was informed by the UBS Corporate Group General Counsel
+that UBS held 2.38% of the shares and voting rights of Vivendi Universal on March 31, 2007
+and 2.13% of Suez’s share capital on March 7, 2007 and 1.3% on April 18, 2006.” Second
+Disqualification Decision § 14; Dec. 21, 2007 Kaufmann-Kohler Letter at 1. Professor
+Kaufmann-Kohler submitted to the remaining two arbitrators on the Tribunal additional
+contextual information “that UBS, as a global financial institution, has many business
+relationships with many corporations and states worldwide but that she as an independent, non-
+executive director has no involvement in individual investment decisions and did not receive any
+information about such individual investment decisions” and “that non-executive directors do not
+deal with individual UBS client matters or transactions.” Second Disqualification Decision 14.
+
+Similarly, UBS itself confirmed, “[a]ll these shareholdings are fairly small, if not
+fractional. They do not have a strategic meaning of any kind. UBS would invest in hundreds, if
+not thousands of commercial enterprises around the globe in a similar way. Investment of this
+
+magnitude lies within the ordinary course of business of our bank.” Second Disqualification
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 19 of 43
+
+Decision { 14 (quoting “communication of December 20, 2007 to Professor Kaufmann-Kohler
+signed by UBS’ General Counsel and another Legal Advisor”).
+
+Notwithstanding the minimal nature of UBS’s investments in two consortium members
+other than AWG and the challenged arbitrator’s lack of knowledge about the UBS investments
+until alerted by Argentina, as well as her lack of any role or decision-making authority over
+UBS’s investments, Argentina attempted to bolster its challenge by offering expert reports from
+Cornell University Law School Professor Charles W. Wolfram (“Wolfram Reports”). Id. § 15;
+see generally Pet., Ex. D to Slater Decl., Expert Report of Charles W. Wolfram (Feb. 29, 2008);
+Pet., Ex. E to Slater Decl., Reply Expert Report of Charles W. Wolfram (Mar. 24, 2008). As
+noted by the unchallenged arbitrators, the Wolfram Reports focused almost entirely on
+consortium members, Suez and Vivendi, not AWG, to support Argentina’s argument that
+Professor Kaufman-Kohler’s position on the UBS Board rendered her impartial in evaluating
+AWG’s claims. Second Disqualification Decision § 15.
+
+Ultimately, the unchallenged arbitrators of the Tribunal, including Argentina’s appointed
+arbitrator Professor Nikken, concluded that Argentina’s Second Disqualification Challenge must
+be dismissed for failure “to prove any fact indicating a manifest lack of independence or
+impartiality.” Id. § V, 1. With respect to AWG, the unchallenged arbitrators reasoned that,
+“the only connection, if one may call it that, between Professor Kaufmann-Kohler and the
+Claimant AWG Group Limited is the fact that she is a director of UBS and that UBS, among its
+many other activities and interests throughout the world, conducts research and develops
+financial products related to the water sector,” but they concluded that this connection is
+insufficient to give rise to “justifiable doubts as to an arbitrator’s independence and impartiality.”
+
+Id. § 24. Based on this conclusion, the two unchallenged members further found that Professor
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 20 of 43
+
+Kaufmann-Kohler was not required to disclose facts that would not have given rise to justifiable
+doubts as to impartiality. Jd. {26. The two unchallenged members acknowledged “the
+possibility of a connection between the AWG case and the other two cases in the sense that if it
+were established that Professor Kaufmann-Kohler were predisposed to favor the Claimants in the
+ICSID cases such predisposition would also favor AWG Group Limited which is a partner with
+the other Claimants in the Buenos Aires water privatization,” id. § 21, but as they found no such
+predisposition, the arbitrators did not have occasion to address any implications of this
+connection, see id. {§ 40, 48.'®
+
+Notwithstanding the two unchallenged arbitrator’s findings, subsequent to the Second
+Decision on Disqualification, in an abundance of caution, Professor Kaufmann-Kohler cut short
+her UBS Board service and resigned from the UBS Board prior to the Decision on Liability and
+the Final Award. See Resp.’s Cross-Pet., Ex. 22 to Friedman Decl., Form 20-F for UBS AG at
+191 (2009 Annual Report noting Gabrielle Kaufmann-Kohler tendered her resignation at Annual
+General Meeting on April 15, 2009), ECF No. 12-23; see also Kaufmann Kohler Leaves UBS
+Board at 1 (contemporaneous interview by Professor Kaufmann-Kohler explaining that she
+resigned, in part, to avoid doubts arising about her independence “‘in arbitration proceedings”).
+
+2. Analysis
+Section 10(a)(2) of the FAA provides that the Court may vacate an arbitration award
+
+“where there was evident partiality or corruption in the arbitrators, or either of them.” 9 U.S.C. §
+
+ 
+
+18 Argentina suggests, in a single sentence, that these two arbitrators were themselves impartial, claiming that
+the “decidedly dismissive approach” in the Second Disqualification Decision reflects that they “had a conclusion in
+mind — that their esteemed co-arbitrator, colleague, and friend would not be disqualified — and back-filled
+‘reasons.”” Pet.’s Mem. in Opp’n Resp.’s Cross-Pet. for Confirmation, Recognition and Enforcement of Award &
+in Further Supp. Pet. to Vacate Arbitration Award (“Pet.’s Opp’n”) at 30, ECF. No 17. Nevertheless, Argentina did
+not move to disqualify the other arbitrators from the Tribunal, nor raise any challenge on evident partiality grounds
+to the unchallenged arbitrators in its petition here. To the extent this suggestion amounts to a belated effort to
+impugn the impartiality of these two arbitrators, it merits no further discussion.
+
+20
+
+  
+
+  
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 21 of 43
+
+10(a)(2).!? The Supreme Court provided some guidance for evaluating evident partiality
+challenges in its plurality opinion in Commonwealth Coatings Corp. v. Continental Cas. Co., a
+decision setting aside an arbitration award where one of the parties was a “repeated and
+significant” customer of one of the arbitrators. 393 U.S. 145, 146 (1968). Justice White, in his
+concurring opinion, provided the narrowest reasoning for the decision to vacate the award for
+evident partiality, observing that the “Court does not decide today that arbitrators are to be held
+to the standards of judicial decorum of Article III judges, or indeed of any judges.” Id. at 150
+(White, J., concurring). Instead, noting that arbitrators are often “effective in their adjudicatory
+function” because “they are men of affairs, not apart from but of the marketplace,” Justice White
+reasoned “that arbitrators are not automatically disqualified by a business relationship with the
+parties before them if both parties are informed of the relationship in advance, or if they are
+unaware of the facts but the relationship is trivial.” Jd. Nevertheless, “where the arbitrator has a
+
+substantial interest in a firm which has done more than trivial business with a party, that fact
+
+9 The parties disagree about the level of deference owed to the Tribunal’s legal conclusion, based on an
+
+undisputed factual record, that no evident partiality was established. Argentina argues that “[wJhen reviewing
+allegations under § 10(a)(2) of the FAA, courts apply a de novo standard,” in reliance on a number of out-of-circuit
+and State court decisions, which are all inapposite since none of these decisions involved either, as here, judicial
+review of a reasoned decision by neutral arbitrators regarding the purported bias of a fellow arbitrator, or the
+applicable standard of review when presented by a record with such an arbitration decision. Pet.’s Sur-Reply at 4-5
+(citing Flexsys Am. v. Local Union No. 12610, 88 F. Supp. 2d 600, 602-04 (S.D. W.Va. 2000); Sun Ref. & Mktg.
+Co. v. Statheros Shipping Corp., 761 F. Supp. 293, 301 (S.D.N.Y. 1991); Wages v. Smith Barney Harris Upham &
+Co., 937 P.2d 715, 720-22 (Ariz. Ct. App. 1997); Plastic Recovery Techs. Co. v. Samson, No. 11 C 2643, 2011 WL
+3205305 (N.D. Ill. July 28, 2011); Adams v. Barnes, No. 3:09-CV-1860-B, 2010 WL 2484251 (N.D. Tex. June 17,
+2010); Boll v. Merrill Lynch, Pierce, Fenner & Smith, Inc., No. 04-80031-CIV, 2004 WL 5589731 (S.D. Fla. June
+28, 2004); Jason v. Halliburton Co., No. CIV.A.02-1593, 2002 WL 31319945 (E.D. La. Oct. 15, 2002)). AWG
+urges application of the deferential standard of review generally accorded arbitral awards. See Resp.’s Mem. at 25.
+Such deference is consistent with the overwhelming weight of authority requiring deference to decisions of
+arbitration panels and the cautionary language in Commonwealth Coatings that: “The judiciary should minimize its
+role in arbitration as judge of the arbitrator’s impartiality. That role is best consigned to the parties, who are the
+architects of their own arbitration process, and are far better informed of the prevailing ethical standards and
+reputations within their business.” Commonwealth Coatings Corp. v. Continental Cas. Co., 393 U.S. 145, 151
+(1968) (White, J., concurring). Thus, the Court finds that deference should be given to the unchallenged arbitrators’
+Second Disqualification Decision. In any event, as explained infra, under either deferential or de novo review,
+Argentina has failed to demonstrate evident partiality by a member of the Tribunal under 9 U.S.C. § 10(a)(2).
+
+21
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 22 of 43
+
+must be disclosed.” Jd. at 151-52. Justice White also cautioned that “[t]his does not mean the
+judiciary must overlook outright chicanery in giving effect to their awards; that would be an
+abdication of our responsibility.” Jd. at 150. Justice Black, writing for a plurality of four
+Justices, articulated a stricter ethical standard for arbitrators, finding that “we should, if anything,
+be even more scrupulous to safeguard the impartiality of arbitrators than judges,” and that
+arbitrators must avoid even the “appearance of bias.” Id. at 149, 151.7°
+
+Following the lead of Justice White’s concurrence, the D.C. Circuit, in Al-Harbi v.
+Citibank, instructed that “‘the burden on a claimant for vacation of an arbitration award due to
+‘evident partiality’ is heavy, and the claimant must establish specific facts that indicate improper
+motives on the part of an arbitrator.”” 85 F.3d 680, 683 (D.C. Cir. 1996) (quoting Peoples Sec.
+Life Ins. Co. v. Monumental Life Ins. Co., 991 F.2d 141, 146 (4th Cir. 1993) (relying on Justice
+White’s concurrence in Commonwealth Coatings)). “‘The alleged partiality must be direct,
+definite, and capable of demonstration rather than remote, uncertain or speculative.” Al-Harbi,
+85 F.3d at 683 (quoting Peoples Sec. Life Ins. Co., 991 F.2d at 146) (internal quotation marks
+omitted). “‘[A] mere appearance of bias is insufficient to demonstrate evident partiality.””
+Hammad v. Lewis, 638 F. Supp. 2d 70, 75 (D.D.C. 2009) (quoting Alston v. UBS Fin. Servs.,
+
+Inc., No. 04-01798, 2006 WL 20516, at *3 (D.D.C. Jan. 2, 2006)).
+
+20 The divergence between the approaches of the plurality and Justice White’s concurrence left the Court
+without a majority opinion and, under the rule in Marks v. United States, “[w]hen a fragmented Court decides a case
+and no single rationale explaining the result enjoys the assent of five Justices, ‘the holding of the Court may be
+viewed as that position taken by those Members who concurred in the judgments on the narrowest grounds.” 430
+U.S. 188, 193 (1977) (quoting Gregg v. Georgia, 428 U.S. 153, 169 n.15 (1976) (opinion of Stewart, Powell, and
+Stevens, JJ.)). See also In re Sealed Case, 722 F.3d 361, 365-66 (D.C. Cir. 2013) (explaining when plurality versus
+concurring view is binding). Consequently, the narrow view articulated by Justice White for finding an arbitrator’s
+“evident partiality” is binding. See Morelite Constr. Corp. v. New York City Dist. Council Carpenters Benefit
+Funds, 748 F.2d 79, 83 (2d Cir. 1984) (noting “murky backdrop of Supreme Court precedent” and that “much of
+Justice Black’s opinion must be read as dicta”).
+
+22
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 23 of 43
+
+Other circuits to have considered the issue have employed an objective test that “evident
+partiality . . . will be found where a reasonable person would have to conclude that an arbitrator
+was partial to one party to the arbitration.”” Scandinavian Reins. Co., 668 F.3d at 72 (quoting
+Morelite Constr. Corp. v. New York City Dist. Council Carpenters Benefit Funds, 748 F.2d 79,
+84 (2d Cir. 1984)); see also Nationwide Mut. Ins. Co. v. Home Ins. Co., 429 F.3d 640, 645 (6th
+Cir. 2005) (same); JCI Commc’ns, Inc. v. Int’l Bhd. of Elec. Workers, Local 103, 324 F.3d 42, 52
+(1st Cir. 2003) (same). Even though the D.C. Circuit has not expressly endorsed this standard,
+the parties appear to agree that it applies here. See Resp.’s Mem. at 26 (citing Al-Harbi v.
+Citibank, N.A., No. 94-2425, 1995 WL 450523, at *2 (D.D.C. July 17, 1995)); Pet.’s Mem. in
+Opp’n to Resp.’s Cross-Pet. for Confirmation, Recognition and Enforcement of Award & in
+Further Supp. Pet. to Vacate Arbitration Award (“Pet.’s Opp’n’”) at 16, ECF. No 17 (stating
+award must be vacated where an arbitrator has a relationship “such that reasonable people would
+have to believe [that the relationship] provides strong evidence of partiality by the arbitrator”
+
+(alteration in original) (quoting Morelite, 748 F.2d at 85)).7!
+
+a The parties disagree (1) whether partiality must be proven by clear and convincing evidence; and (2)
+
+whether findings by other arbitral panels regarding the challenged arbitrator’s impartiality have any bearing on this
+case. These disagreements make no difference to the ultimate result in this case. First, while AWG asserts that “a
+party must establish by ‘clear and convincing evidence” the reasonable person standard, Resp.’s Mem. at 26 (citing
+district court adoption of “clear and convincing” burden of proof in Al-Harbi, 1995 WL 450523, at *2), Argentina
+posits that “neither a ‘clear and convincing evidence’ standard nor a requirement to prove actual bias has been
+adopted by the Circuit and they should not be applied here,”” Pet.’s Opp’n at 20 (footnote omitted). The Court need
+not resolve this disagreement over the burden of proof, because, even if that burden is less rigorous than “clear and
+convincing,” it remains “heavy” and Argentina has failed to provide sufficient evidence of any partiality.
+
+Second, both parties contest the impact of the Disqualification Decisions and other arbitration decisions on
+the “reasonable person” standard. AWG argues that Argentina cannot demonstrate “evident partiality” for the
+simple reason that two unchallenged arbitrators in this case concluded that Professor Kaufmann-Kohler was
+impartial and, consequently, “not all reasonable persons ‘would have to conclude’ that [her] affiliation with UBS
+rendered her incapable of judging impartially.” Resp.’s Mem. at 27-28 (citing, in addition, an arbitral decision in
+another investment-treaty dispute, EDF International S.A. and others v. Argentina, 1CSID Case No. ARB/03/23,
+Challenge Decision Regarding Professor Gabrielle Kaufmann-Kohler (“EDF Decision”) (June 25, 2008), ECF No.
+12-20, rejecting partiality challenge to Professor Kaufmann-Kohler due to her position on the UBS Board); see also
+Resp.’s Notice of Suppl. Authority at 1-2, ECF No. 24 (noting that the EDF Decision was upheld by an ICSID
+annulment committee on February 5, 2016). In response, Argentina cites a different arbitration decision involving
+this challenged arbitrator, Compania de Aguas del Aconquija S.A. and Vivendi Universal S.A. v. Argentina, (CSID
+
+23
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 24 of 43
+
+Set against the “onerous standard for vacatur,” Al-Harbi, 85 F.3d at 683, Argentina’s
+claim of evident partiality rests entirely on Professor Kaufmann-Kohler’s position as a non-
+executive member on the UBS Board for a limited three-year period, from April 19, 2006, to
+April 15, 2009, out of the twelve-year duration of the arbitration. Despite the notable facts that
+UBS held no interest in AWG, that the challenged arbitrator served on the UBS Board for only a
+fraction of the time she served on the Tribunal, and that she had resigned from the UBS Board at
+the time of issuance of the Decision on Liability and the Final Award, Argentina points to UBS’s
+investments in two of AWG’s consortium partners and UBS’s general investment activities in
+the water sector, as evidence of the challenged arbitrator’s partiality. This evidence is wholly
+insufficient to establish Argentina’s claim of evident partiality for at least three reasons.
+
+First, in the context of UBS’s overall business, that company’s interests in AWG’s
+consortium partners, Suez and Vivendi, was inconsequential. UBS “is among the world’s largest
+financial services companies, with operations in over fifty countries, some 80,000 employees,
+and over 200,000 registered shareholders.” Second Disqualification Decision § 10 (footnote
+omitted) (referencing www.ubs.com). Indeed, illustrating the ubiquitous nature of UBS’s
+business, Argentina itself was a client of UBS until January 17, 2005, after the arbitration
+proceedings had commenced. See Resp.’s Cross-Pet., Ex. 24 to Friedman Decl., AWG Grp. v.
+
+Argentine Republic, Argentina’s Additional Observations and Comments to Mrs. Kauffman-
+
+Case No. ARB/97/3, Decision on the Argentine Republic’s Request for Annulment of the Award rendered on
+August 20, 2007 (“Vivendi Annulment Decision”) (Aug. 10, 2010), ECF No. 17-10; Pet.’s Sur-Reply at 14, in
+which the ICSID Annulment Committee raised serious concern about the “compatibility” of serving on a board of an
+international bank and as an international arbitrator, Vivendi Annulment Decision § 218, but declined to annul the
+award since Professor Kaufman-Kohler and the parties were unaware of UBS’s investment in Vivendi before the
+panel made the award, id. {| 234-35. The Vivendi Annulment Decision is easily distinguishable on its facts, since
+the challenged arbitrator was not on the UBS Board at the time of the critical Decision on Liability or Final Award
+in this case. Moreover, deference is owed to the disqualification decisions, which were resolved by impartial
+arbitrators. See supra note 19.
+
+   
+
+24
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 25 of 43
+
+Kohler Remarks (Jan. 7, 2008) § 101, ECF No. 12-25 (Argentina acknowledging its relationship
+with UBS and noting that it ended on January 17, 2005). UBS’s investments in AWG’s
+consortium partners, Suez and Vivendi, were “‘fairly small, if not fractional,’” and amounted to
+only two of “‘hundreds, if not thousands of commercial enterprises around the globe.’”” Second
+Disqualification Decision § 14 (quoting “communication of December 20, 2007 to Professor
+Kaufmann-Kohler signed by UBS’s General Counsel and another Legal Advisor”). These
+investments “represented a mere one-twentieth of one percent (0.056%) of UBS’s total
+investments worldwide,” Resp.’s Reply Mem. in Further Supp. Cross-Pet. for Confirmation,
+Recognition and Enforcement of Award (“Resp.’s Reply”) at 10 (emphasis omitted), ECF No.
+18, were within the “ordinary course of business of [the] bank,” Second Disqualification
+Decision { 14, and consisted mainly of shares held on behalf of third parties, See Resp.’s Cross-
+Pet., Ex. 25 to Friedman Decl., AWG Grp. Ltd. v. The Argentine Republic, Claimant’s Comments
+on the Respondent’s Second Challenge to Professor Kaufmann-Kohler (Dec. 24, 2007) {fj 23-30,
+ECF No. 12-26 (noting UBS held approximately one-eighth of the Suez shares on its own behalf,
+while the rest of the Suez shares and all of the Vivendi shares were held on behalf of third
+parties). Indeed, the unchallenged arbitrators determined that “it is more likely that this
+arbitration, whatever its outcome, will have a negligible effect on the share price of Vivendi and
+Suez and certainly on the financial fortunes of UBS . . .. UBS’s holding in Suez and Vivendi
+would have an insignificant effect on UBS profitability given the enormous size and scope of
+UBS global operations.” Second Disqualification Decision § 36. Argentina contends that there
+is no requirement that it must prove that the award at issue here would have an impact on Suez
+and Vivendi’s share prices, and thus, UBS’s bottom line, see Pet.’s Sur-Reply in Supp. Pet. to
+
+Vacate Arbitration Award & in Opp’n Resp.’s Cross-Pet. for Confirmation, Recognition and
+
+25
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 26 of 43
+
+Enforcement of Award (“Pet.’s Sur-Reply”) at 9, ECF No. 20, but even so, the lack of this
+evidence in the record certainly does not help Argentina make its argument that the award would
+have had any effect on UBS.
+
+Relatedly, since UBS had no more than a trivial interest in Suez and Vivendi, the
+challenged arbitrator’s role at UBS and her compensation in UBS stock is likewise
+inconsequential. Courts have repeatedly rejected claims of evident partiality based on an
+arbitrator’s attenuated investment in one of the parties or, as here, an entity with tangential
+investments in a party.”? Transit Cas. Co. v. Trenwick Reins. Co., 659 F. Supp. 1346, 1353
+(S.D.N.Y. 1987) (denying vacatur on grounds that relationship was “trivial” where arbitrator
+owned stock in Cigna Corporation, which had a subsidiary, Cigna Holdings, which owned 100%
+of the Aetna Insurance Corporation, which in turn owned 7.6% of the shares of the challenging
+party’s parent company); Standard Tankers (Bahamas) Co. v. Motor Tank Vessel, Akti, 438 F.
+Supp. 153, 160 (E.D.N.C. 1977) (finding arbitrator’s ownership of “a small number of shares” in
+a party’s parent company was immaterial where there was still “such a vast number of
+
+outstanding shares of stock”); see also Sphere Drake Ins. Ltd. v. All Am. Life Ins. Co., 307 F.3d
+
+2 Argentina attempts to bolster its request for vacatur by citing cases where vacatur has been granted due to
+an arbitrator’s direct or substantial business dealings with a party to the arbitration. Pet. {| 50-51 (citing, e.g.,
+Commonwealth Coatings, 393 U.S. at 146 (vacating award where relationship between arbitrator and party “went so
+far as to include the rendering of services on the very projects involved in this lawsuit”); Applied Indus. Materials
+Corp. v. Ovalar Makine Ticaret Ve Sanayi, A.S., 492 F.3d 132, 138 (2d Cir. 2007) (vacating award where a branch
+of the arbitrator’s company was negotiating with a party to commence a business relationship); New Regency
+Prods., Inc. v. Nippon Herald Films, Inc., 501 F.3d 1101, 1103 (9th Cir. 2007) (vacating award where arbitrator was
+senior executive of a company “negotiating with a production executive of one of the parties to the arbitration to
+finance and co-produce an important motion picture”); Olson v. Merrill Lynch, Pierce, Fenner & Smith, Inc., 51
+F.3d 157, 159 (8th Cir. 1995) (vacating arbitration award where arbitrator “did not disclose that he is vice-president,
+chief financial officer, and compliance officer for [Jan investment firm that underwrites and sells municipal bonds,
+or that his firm does a substantial amount of business with Merrill Lynch,” one of the parties to the arbitration).
+This reliance is misplaced. These cases are plainly inapposite since UBS had insignificant investments in non-
+parties, Suez and Vivendi, rendering the challenged arbitrator’s role at UBS similarly immaterial for purposes of
+showing any partiality.
+
+26
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 27 of 43
+
+617, 621 (7th Cir. 2002) (“A judge can’t hold even a single share of a party’s stock, but this
+would not imply ‘evident partiality’ for purposes of § 10(a)(2).”).?3
+
+The challenged arbitrator’s role as a non-executive member of the UBS Board further
+demonstrates the attenuated nature of her relationship to the parties. As a matter of course, this
+arbitrator “ha[d] no involvement in individual investment decisions and did not receive any
+information about such individual investment decisions” and “[did] not deal with individual UBS
+client matters or transactions.” Second Disqualification Decision § 14. This role in an
+intermediary company is far more remote relative to the parties than the types of long-standing,
+direct, and repeated business relationship with a party that has supported a finding of evident
+partiality by an arbitrator. See, e.g., Schmitz v. Zilveti, 20 F.3d 1043, 1044 (9th Cir. 1994)
+(arbitrator’s law firm represented the parent company of a party in “at least nineteen cases during
+a period of 35 years”); Morelite, 748 F.2d at 84 (father-son relationship between an arbitrator
+and party). Thus, the challenged arbitrator’s role on the Board of a limited investor in non-
+parties Suez and Vivendi for a relatively short time period during the arbitration is so remote and
+trivial that no reasonable person would conclude she was partial to a party as a result of that
+
+relationship. Al-Harbi, 85 F.3d at 683.74
+
+23 Argentina argues that the relationships in these cases are more attenuated than the one between Professor
+Kaufmann-Kohler and AWG’s partners, Suez and Vivendi, but even if that were the case, it does not change the fact
+that the relationship here is also attenuated.
+
+a Throughout its briefing, Argentina urges that the finding regarding the challenged arbitrator set out in the
+Vivendi Annulment Decision be followed here, Pet.’s Opp’n at 18-20; Pet.’s Sur-Reply at 14, but that arbitral
+decision fails to consider the issue of materiality and is, thus, unpersuasive. In the Vivendi Annulment Decision, an
+appellate arbitral body, the ICSID Annulment Committee, reviewed an arbitration award made by a panel that
+included Professor Kaufmann-Kohler. Vivendi Annulment Decision {| 1. The claims raised by Argentina were the
+same as those at issue here—namely that Professor Kaufmann-Kohler’s position on the UBS Board rendered her
+partial and biased towards the claimant, Vivendi. Vivendi Annulment Decision {{j 18-23. The Annulment
+Committee found that a director’s fiduciary duties are “fundamentally at variance with his or her duty as an
+independent arbitrator in an arbitration involving a party in which the bank has a shareholding or other interest,
+however small it may be,” Vivendi Annulment Decision {fj 217-18 (footnote omitted), and that, generally speaking,
+the position of board member of an international bank and international arbitrator “may not be compatible and
+should not be, or in a modern international arbitration environment, should no longer be combined,” id. § 218.
+
+27
+
+  
+
+ 
+
+ 
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 28 of 43
+
+In further support of its position, Argentina cites the International Bar Association
+Guidelines on Conflicts of Interest in International Arbitration. Pet. {55 (footnote omitted)
+(referencing IBA Guidelines on Conflicts of Interest in International Arbitration (“IBA
+Guidelines”), Int’] Bar Assoc. (2014), available at http://www. ibanet.org/Publications/
+publications IBA_guides_and_free_materials.aspx). According to Argentina, these guidelines
+contain a “Non-Waivable Red List” of conflicts for arbitrators that cannot be waived, including
+when “[t]he arbitrator is a manager, director or member of the supervisory board, or has a
+controlling influence on one of the parties or an entity that has a direct economic interest in the
+award to be rendered in the arbitration.” IBA Guidelines, Part II, § 1.2. Other courts have found
+these guidelines to be persuasive, but not binding authority. See, e.g., New Regency Prods., Inc.
+v. Nippon Herald Films, Inc., 501 F.3d 1101, 1103 (9th Cir. 2007). In any event, the IBA
+Guidelines simply do not favor Argentina’s position. Instead, these Guidelines expressly focus
+on the substantive nature, or materiality, of a challenged arbitrator’s financial or business interest
+in the award by requiring a controlling interest in an entity with, or some other “direct economic
+interest in,” the award. IBA Guidelines, Part II, § 1.2. Such a material interest is wholly absent
+on the part of the challenged arbitrator.
+
+Second, the fact that UBS, “among its many other activities and interests throughout the
+world, conducts research and develops financial products related to the water sector,” Second
+Disqualification Decision § 24, contributes little to Argentina’s claim of evident partiality.
+
+Argentina cites no case law even suggesting that an arbitrator’s position with a company that
+
+Notwithstanding this finding, the Annulment Committee did not annul the award, as it determined that neither
+Professor Kaufman-Kohler, nor the parties, were aware of UBS’s investment in Vivendi before the panel made the
+award. See id. 4 234-35. By finding that an arbitrator’s position on the board of directors of an international
+investment bank always creates impartiality, no matter how small the connection between the investment bank and
+an arbitral party, the Annulment Committee’s decision lacks consideration of materiality, an important element that
+United States law embraces, and in this respect this decision is inconsistent with domestic law applicable here.
+
+28
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 29 of 43
+
+invests in the same general sector as the parties gives rise to evident partiality. To the contrary,
+arbitrators are often called upon from relevant industries because they bring the benefit of
+expertise. See Commonwealth Coatings, 393 U.S. at 150 (White, J., concurring) (recognizing
+that arbitrators are often “of the marketplace”); see also JCI Commce’ns, 324 F.3d at 52 (noting
+that “mere fact that the panel included business rivals of one party does not rise to the level of
+evident partiality” because arbitrators from relevant industries bring expertise that “would be a
+considerable benefit”).
+
+Finally, given the attenuated business interest between UBS and AWG’s business
+consortium partners, the challenged arbitrator had no duty to investigate and disclose these
+“marginally disclosable” facts. Al-Harbi, 85 F.3d at 683 (referencing Commonwealth Coatings,
+393 U.S. 145, 149 (1968)). Indeed, the challenged arbitrator was not, prior to Argentina’s
+requests for disqualification, aware of any relationship between UBS and the claimants, and had
+done her due diligence by conducting a conflicts check with UBS. Cf Ometto v. ASA Bioenergy
+Holding A.G., No. 12 Civ. 1328, 2013 WL 174259, at *4 (S.D.N.Y. Jan. 9, 2013) (finding even
+
+an inadequate conflicts check “not tantamount to ‘evident partiality”). Argentina’s argument
+that a conflict check done by UBS is inadequate because it was an interested party, see Pet.’s
+Sur-Reply at 17-18, defies practicality. UBS is in the best position to know of its matters, and
+accordingly, it was eminently reasonable for Professor Kaufmann-Kohler to rely upon the
+institution to inform her of meaningful conflicts. Moreover, this is not a case like Applied Indus.,
+relied upon by Argentina, where the Second Circuit determined that an arbitrator, who was
+Chairman, President, and CEO of a multi-billion dollar company, upon learning of a potential
+
+conflict, should have conducted an investigation that would have uncovered an ongoing
+
+relationship for services between a subsidiary of that arbitrator’s company and a party. 492 F.3d
+
+29
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 30 of 43
+
+132, 139 (2d Cir. 2007). The Court found that the revenue from this relationship—$275,000—
+was nontrivial, and accordingly, that the arbitrator’s failure “to investigate those discussions or
+disclose that he would make no further inquiries” amounted to evident partiality. Id.
+
+Unlike the relationship in Applied Indus., however, the relationship between the
+challenged arbitrator as a non-executive director and UBS is far more remote than that between
+the operational Chairman, President, and CEO of a company and the company he serves. Not
+only that, the relationship between UBS and AWG’s co-claimants was more remote because
+UBS was only a trivial investor, in contrast to the ongoing service contract relationship at issue
+in Applied Indus. In any event, once the challenged arbitrator was made aware of UBS’s
+investment in AWG’s partners, she immediately withdrew from deliberations, sought
+confirmation from UBS regarding “the accuracy of the UBS shareholdings in the Claimants,”
+and disclosed that information as part of the underlying disqualification proceedings. See Second
+Disqualification Decision {{ 13-14. In other words, upon being made aware of a potential
+conflict, even a trivial one, Professor Kaufmann-Kohler more than fulfilled her duty to
+investigate. See Applied Indus., 492 F.3d at 139 (stating that “[o]nce the arbitrator [i]s aware that
+a nontrivial conflict of interest might exist, the calculus change[s]” and “the arbitrator ha[s] a
+continuing duty to ensure that neither he nor his corporation ha[ve] a direct or indirect interest in
+the outcome of the arbitration.”) (internal quotation marks omitted)). These efforts and actions
+taken by the challenged arbitrator in an abundance of caution confirms that the record here lacks
+any facts “that indicate improper motives.” Al-Harbi, 85 F.3d at 683.
+
+In sum, the “evident-partiality standard is, at its core, directed to the question of bias.”
+Scandinavian Reins. Co., 668 F.3d at 73. The record here does not objectively suggest that the
+
+challenged arbitrator had any reason to be biased against Argentina. Thus, the Court agrees with
+
+30
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 31 of 43
+
+the conclusion of the two unchallenged arbitrators, whose decision is, in any event, due
+deference, that “[a]n objective analysis . . . does not . . . lead a reasonable, informed person to
+conclude that a justifiable doubt exists as to Professor Kaufmann-Kohler’s impartiality or
+independence” with respect to AWG. Second Disqualification Decision § 24.
+
+Cc. The Tribunal Did Not Exceed Its Powers
+
+Argentina claims that the Tribunal exceeded its powers by failing to apply applicable law
+in its computation of damages and its evaluation of the necessity defense, warranting vacatur
+under the FAA’s § 10(a)(4). Close examination of these claims, however, demonstrates that the
+Tribunal acted well within its powers, and no vacatur is warranted on these grounds.
+
+The FAA authorizes vacatur of an arbitration award “where the arbitrators exceeded their
+powers, or so imperfectly executed them that a mutual, final, and definite award upon the subject
+matter submitted was not made.” 9 U.S.C. § 10(a)(4). To succeed in vacating an award under §
+10(a)(4), a party must demonstrate that the “arbitrator stray[ed] from interpretation and
+application of the agreement and effectively ‘dispense[d] his own brand of industrial justice.’”
+Stolt-Nielsen, 559 U.S. at 671 (quoting Major League Baseball Players Ass'n v. Garvey, 532
+U.S. 504, 509 (2001) (per curiam)). ““[I]t is particularly necessary to accord the narrowest of
+readings to the excess-of-authority provision of section 10(d). That provision does not, it must
+be stressed, confer on courts a general equitable power to substitute a judicial resolution of a
+dispute for an arbitral one.’” Kanuth v. Prescott, Ball & Turben, Inc., 949 F.2d 1175, 1180 (D.C.
+Cir. 1991) (quoting Davis v. Chevy Chase Fin. Ltd., 667 F.2d 160, 165 (D.C. Cir. 1981)
+(analyzing prior version of statute when § “10(a)(4)” was numbered “10(d)”).
+
+The Supreme Court has cautioned that courts “have no business weighing the merits of
+
+the grievance [or] considering whether there is equity in a particular claim.” Garvey, 532 USS. at
+
+31
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 32 of 43
+
+509 (alteration in original) (internal quotation marks and citation omitted). Deference to an
+arbitrator’s judgment applies, even if the court is convinced that the arbitrator “committed
+serious error.” Jd. (internal quotation marks and citation omitted). “Because the parties
+‘bargained for the arbitrator’s construction of their agreement,’ an arbitral decision ‘even
+arguably construing or applying the contract’ must stand, regardless of a court’s view of its
+(de)merits.” Oxford Health Plans, 133 S. Ct. at 2068 (quoting Eastern Associated Coal Corp. v.
+United Mine Workers of Am., Dist. 17, 531 U.S. 57, 61 (2000)). Argentina simply cannot
+overcome this high hurdle requiring deference to the Tribunal’s determinations.
+
+1. The Tribunal Did Not Exceed Its Power When It Awarded Damages
+
+Argentina argues that the Tribunal exceeded its powers in awarding damages, claiming
+that the Tribunal lacked authority (1) to award damages arising after the Concession Contract’s
+lawful termination in 2006, and (2) to calculate damages assuming that Argentina was required
+to ensure AASA’s viability. AWG counters that “[t]he two damages-related excess of power
+arguments presented in the Petition are nothing more than quarrels with the way the Tribunal
+assessed the evidence and applied the law.” Resp.’s Mem. at 39. Despite Argentina’s efforts to
+cloak its challenge to the amount of damages awarded as jurisdictional arguments under FAA §
+10(a)(4), the Tribunal acted well within its authority in both interpreting the contractual terms
+between the parties and the amount of damages owed.
+
+Argentina concedes that “the Tribunal was only authorized to award damages for actions
+in violation of the BIT,” Pet. ¢ 74, which, in turn, required the Tribunal to look to “the applicable
+principles of international law,” UK-BIT, art. 8(4). Neither the UK-BIT itself, nor the
+UNCITRAL rules applicable here, expressly provide for awarding or calculating damages. In
+
+accordance with this direction in the UK-BIT, the Tribunal “look[ed] to customary international
+
+32
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 33 of 43
+
+law for the legal principles that govern the determination of damages.” Final Award § 23. As
+the Tribunal explained, the articulation of international law principles in the Articles on
+Responsibility of States for Internationally Wrongful Acts (2001) (“Articles”), which have been
+adopted by the United Nations’ International Law Commission (“ILC”), are “generally
+considered as a statement of customary international law” and “both parties in this case have
+relied [upon them] at various times.” Id. § 24; see also id. § 23 (“As both the Claimants and the
+Respondent in this case have agreed in their pleadings, the legal basis for awarding
+compensation in this case and the standard to be applied in determining the amount of that
+compensation is therefore to be found in international law; however, they do not agree on the
+specific content of the applicable international law principles and the way in which they should
+be applied to the precise facts of these cases. This Tribunal, like others, must therefore look to
+customary international law for the legal principles that govern the determination of damages in
+these cases.”) (footnote omitted)). Relying on these Articles, the Tribunal determined its
+mandate “to award ‘full compensation’ to the Claimants for the injuries caused by Argentina’s
+treaty violations, to seek ‘to wipe out all the consequences’ of Argentina’s illegal acts, and to
+place the Claimants ‘in the situation which would, in all probability, have existed’ if Argentina
+had not committed its illegal acts.” Jd. 27. Moreover, it determined “the basic standard to be
+applied is that of full compensation [] for the loss incurred as a result of the intentionally
+wrongful act.” Jd. Notably, Argentina does not question the Tribunal’s mandate under
+applicable principles of international law, but rather, Argentina challenges how the Tribunal
+calculated such damages.
+
+To assist with the calculation of damages, the Tribunal appointed an independent
+
+financial expert, Dr. Akash Deep, Senior Lecturer in Public Policy at the John F. Kennedy
+
+33
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 34 of 43
+
+School of Government of Harvard University and a former Senior Economist of the Bank for
+International Settlements in Basel, Switzerland. Id. { 12; see also Pet., Ex. L to the Slater Decl.,
+AWG Grp. v. The Argentine Republic, Final Report of the Financial Expert to the Tribunal (July
+22, 2013), ECF No. 1-15; Pet., Ex. M to the Slater Decl., AWG Grp. v. The Argentine Republic,
+Response to the Tribunal’s Query About the Failure of AASA (Sept. 21, 2014), ECF No. 1-16.
+The Tribunal determined, by applying customary international law principles on damages, that
+the process for calculating damages consisted of three steps: (1) “determine the value of the
+investment in the hypothetical situation where Argentina did not take measures that violated its
+treaty obligations,” (2) “determine the value of the investment as a result of the offending
+measures that Argentina did take,” and (3) “subtract the second value from the first and then
+actualize that amount by means of an appropriate interest rate to arrive at the damages owing to
+the Claimants so as to put them in the financial position they would have been [in] had Argentina
+not breached the applicable BITs.” Jd. § 28.
+
+The Tribunal noted that this damages calculation was complicated by the nature of the
+Claimants’ investments. Jd. § 29. In particular, the stream of revenue intended to compensate
+Claimants for their early-on investments “depended on many variables, both foreseen and
+unforeseen, over the next three decades, including population growth in the area, general
+economic conditions, technological changes, labor conditions, management efficiency, inflation,
+operating costs, and many others.” Jd. To assist in accounting for these multiple variables, the
+Tribunal used an economic model, which was designed by Dr. Deep, and “sought to capture
+numerous relevant economic variables and to determine with a certain degree of mathematical
+precision their impact on each other and on the costs, revenues, and profitability of the
+
+Concession [Contract].” Jd. § 30.
+
+34
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 35 of 43
+
+The Tribunal determined, as a preliminary matter, that the valuation period for
+calculating damages would begin at the point in time before Argentina’s illegal actions took
+place. Id. 36. The Tribunal further determined that starting in 2002, when Argentina first
+breached the BITs, “the Claimants[] had the right to a revenue stream which would continue for
+another 21 years until the year 2023, not just for another five years until the year 2006 when,
+unknown to them in 2002, Argentina would terminate the Concession [Contract].” Id.
+
+The Claimants detailed “five individual elements of loss as a result of Argentina’s treaty
+violations: (1) loss on AASA’s debts that the Claimants had guaranteed; (2) in the case of Suez,
+losses on future management fees (after 2002); (3) also in the case of Suez, losses on unpaid
+management fees earned before 2002; (4) losses on the Claimants’ equity investments in AASA;
+and (5) losses on unpaid dividends due to the Claimants as shareholders of AASA.” Id. [ 58.
+The Tribunal awarded damages for the first four of these elements, id. JJ 68, 83, 86, 103,
+ultimately determining that the last element, “losses on unpaid dividends,” was subsumed by the
+value of the shareholder’s equity in AASA, id. § 104.
+
+As noted, Argentina raises two challenges to this damages calculation. First, Argentina
+argues that because the Tribunal concluded no violation of the UK-BIT occurred when Argentina
+terminated the Concession Contract in 2006, see Decision on Liability {] 156, 246, any damages
+encompassing projected cash flows after 2006 fall outside of arbitrators’ scope of authority. Pet.
+4,74. This was an argument presented to and rejected by the Tribunal. See Final Award {§ 35—
+36. Specifically, in the underlying arbitration, Argentina unsuccessfully argued that “any injury
+incurred by the Claimants after the termination in 2006 was a matter to be resolved in Argentine
+courts according to the dispute resolution provisions of the Concession Contract.” Id. § 35
+
+While Argentina correctly states that the Tribunal found no violation of the UK-BIT from the
+
+35
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 36 of 43
+
+2006 termination of the Concession Contract, the Tribunal at the same time found that
+Argentina’s wrongful acts occurred much earlier than 2006 and continued to flow thereafter. Id.
+{ 36 (noting that the Tribunal determined that the first breach of the treaties took place in 2002).
+In other words, Argentina mischaracterizes the Tribunal’s award of damages for post-2006
+projected profits as damages “arising from termination of the Concession Contract,” Pet.’s Opp’n
+at 34, when they are not.
+
+A review of the Final Award makes clear that the Tribunal did not award damages for the
+termination of the Concession Contract itself, but instead determined that the UK-BIT violations
+entitled the Claimants to future lost profits post-dating 2006 regardless of whether the
+Concession Contract had been lawfully terminated in 2006. The Tribunal reasoned: “Under
+international law . . . the Claimants’ are entitled to full compensation for what they have lost as a
+consequence of Argentina’s treaty violations . . . . To limit the valuation period to five instead of
+twenty-one years would, of course, seriously undervalue the investments lost as a consequence
+of Argentina’s treaty violations.” Final Award § 36. Accordingly, the Tribunal found that at the
+time of the first breach in 2002, the claimants “had the right to a revenue stream which would
+continue for another 21 years,” and that the risk of termination (as did occur in 2006) “would be
+accounted for in the rate applied to discount to present value the remaining twenty-one years of
+projected cash flows.”?> Id.
+
+When, as here, “it is contemplated that the arbitrator will determine remedies for contract
+violations that he finds, courts have no authority to disagree with his honest judgment in that
+2s Argentina’s contention that the Tribunal did not “follow through by in fact adjusting the discount rate to
+account for the risk of termination” is of no matter. Pet. 74. The Supreme Court has made clear that “Courts [] do
+not sit to hear claims of factual or legal error by an arbitrator as an appellate court does in reviewing decisions of
+lower courts.” United Paperworkers, 484 U.S. at 38. In fact “as long as the arbitrator is even arguably construing
+or applying the contract and acting within the scope of his authority, that a court is convinced he committed serious
+
+error does not suffice to overturn his decision.” Jd. When, as here, the Tribunal undisputedly had the authority to
+calculate damages, any error in that calculation is not subject to challenge under the FAA’s § 10(a)(4).
+
+36
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 37 of 43
+
+respect.” United Paperworkers, 484 U.S. at 38. In this case, the Tribunal undisputedly had
+jurisdiction under the UK-BIT to award damages for a violation, and upon finding a violation,
+calculated those damages. There is simply no evidence that in calculating damages, the Tribunal
+exceeded its powers. See Oxford Health Plans, 133 S. Ct. at 2071 (“Under § 10(a)(4), the
+question for a judge is not whether the arbitrator construed the parties’ contract correctly, but
+whether he construed it at all. Because he did, and therefore did not ‘exceed his powers,’ we
+cannot give Oxford the relief it wants.”).7°
+
+Second, Argentina argues that the Tribunal exceeded its powers by assuming in its
+damages calculation that the country “should have taken certain measures to ensure AASA’s
+continued financial health throughout the crisis” and that AASA would have continued to be
+viable in the absence of Argentina’s treaty violations. Pet. §§ 76-77. Although Argentina
+asserts that none of these steps was required by the Concession Contract, see id. J 78, the
+damages in this case were based, in part, on “the hypothetical situation where Argentina did not
+take measures that violated its treaty obligations.” Final Award § 28. In Kanuth, this Circuit
+recognized that an arbitration damages award “based on accountant projections of future
+earnings for a company that had existed for less than ten months” was “[b]y [its] very nature...
+speculative,” but was nevertheless entitled to deference. 949 F.2d at 1181. Similarly, here, the
+
+Tribunal was required to engage in some degree of speculation to determine the predicted cash
+
+26 The non-binding cases cited by Argentina to support its argument that the Tribunal’s damages award
+exceeded its authority, Pet. 4 73, 75, are distinguishable and therefore unpersuasive since, in each of those cases by
+contrast to the Tribunal here, the arbitrators acted in complete disregard or in violation of express language
+governing the parties’ contract. See, e.g., Inter-City Gas Corp. v. Boise Cascade Corp., 845 F.2d 184, 188 (8th Cir.
+1988) (finding arbitrator disregarded plain and unambiguous contract when fashioning arbitration award); Mala
+Geoscience AB v. Witten Techs., Inc., No. 06-1343, 2007 U.S. Dist. LEXIS 38767, at *6 (D.D.C. May 30, 2007)
+(finding arbitrator awarded relief outside of the jurisdiction provided to him in the contractual scheme and vacating
+that portion of the arbitration award); Melun Indus., Inc. v. Strange, 898 F. Supp. 990, 993-94 (S.D.N.Y. 1990)
+(concluding arbitrator exceeded his powers where he made findings outside of express instructions in contract).
+
+37
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 38 of 43
+
+flows over the lifetime of the terminated contract. As the Circuit made clear, where nothing “on
+the face of the panel’s lump-sum award” suggests “that the panel failed to construe the contract,”
+any inquiry into “precisely how and why the panel derived the lump-sum award,” is “clearly
+outside of [the court’s] limited scope of review.” Jd. at 1182. Merely because Argentina does
+not agree with how the Tribunal calculated damages does not mean that the Tribunal lacked
+jurisdiction to do so.
+
+2. The Tribunal Did Not Exceed Its Powers When It Elected Not to Apply
+the Principle of Necessity
+
+Argentina claims that the Tribunal exceeded its power when it chose not to apply the
+“exculpatory customary international law principle of necessity” and instead “dispensed its own
+policy choices.” Pet. { 80. AWG dismisses this claim as “nothing more than a disagreement
+with the Tribunal’s factual and legal findings.” Resp.’s Cross-Pet. at 43. The Court agrees with
+AWG.
+
+As previously discussed, the UK-BIT required the Tribunal to look to “applicable
+principles of international law” when deciding disputes, UK-BIT, art. 8(4), and Argentina is
+correct that the necessity defense is such a principle. The necessity principle is set forth in
+Article 25 of the ILC’s Articles, which provides, in pertinent part:
+
+1. Necessity may not be invoked by a State as a ground for precluding the
+wrongfulness of an act not in conformity with an international obligation of that
+State unless the act:
+
+(a) Is the only way for the State to safeguard an essential interest against a grave
+and imminent peril; and
+
+(b) Does not seriously impair an essential interest of the State or States towards
+which the obligation exists, or of the international community as a whole.
+
+2. In any case, necessity may not be invoked by a State as a ground for precluding
+wrongfulness if:
+
+(a) The international obligation in question excludes the possibility of invoking
+
+necessity; or
+(b) The State has contributed to the situation of necessity.
+
+38
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 39 of 43
+
+Decision on Liability § 249.
+
+According to Argentina, the Tribunal insufficiently addressed the factors enumerated in
+Article 25(1)(a) and (2)(b) for the necessity defense by “summarily conclud[ing] that it was ‘not
+convinced that the only way Argentina could satisfy that essential interest was by adopting
+measures that would subsequently violate the treaty rights of the Claimants’ investments to fair
+and equitable treatment.” Pet. § 82 (quoting Decision on Liability § 260). Argentina bolsters
+this position by pointing out that “‘a combination of endogenous and exogenous factors
+contributed to the Argentine crisis at the beginning of this century.’” Jd. (quoting Decision on
+Liability § 264). According to Argentina, the Tribunal’s “summary” conclusions exceeded its
+authority because those findings “failed to define the applicable legal standards under customary
+international law,” as required by a decision issued by the ICSID Annulment Committee on the
+same day as the Tribunal’s Decision on Liability. Id. { 83 (citing Enron Creditors Recovery
+Corp., Ponderosa Assets, L.P. v. The Argentine Republic, 1CSID Case No. ARB/01/3,
+Annulment Decision, §{ 368-73 (July 30, 2010)). Argentina interprets this decision to require
+that a single definition of “only way,” a phrase used in Article 25(1)(a) “be adopted and
+explained,” and that “different definitions of ‘contributed to,”” a phrase in Article 25(1)(b), “be
+analyzed and explained with care before the necessity defense [can] be rejected.” Id.
+
+Notwithstanding that the Tribunal’s Decision on Liability and the ICSID Annulment
+Committee decision were issued contemporaneously, Argentina utterly fails to explain why the
+Tribunal should have found this ICSID Annulment Committee decision to be binding or even
+persuasive authority in its rejection of the necessity defense. While international law principles
+are binding on the parties in the instant arbitration, Argentina cites no principle of international
+
+law that the rulings by a set of arbitrators in one arbitration are or even should be binding on
+
+39
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 40 of 43
+
+another set of arbitrators presiding over different parties to a different dispute. To the contrary,
+generally arbitrators have “the power to determine whether a prior award is to be given
+preclusive effect ... .”” SBC Advanced Sols., Inc. v. Commc’ns Workers of Am., Dist. 6, 794 F.3d
+1020, 1028 (8th Cir. 2015) (quoting Trailways Lines, Inc. v. Trailways, Inc. Joint Counsel, 807
+F.2d 1416, 1425 (8th Cir. 1986)); see also W.R. Grace & Co. v. Local Union 759, Int’l Union of
+United Rubber, Cork, Linoleum & Plastic Workers of Am., 461 U.S. 757, 764-65 (1983) (finding
+an arbitrator’s determination that he was not bound by a prior arbitrator’s decision to be binding
+on the court).
+
+In any event, the Court need not determine whether the Tribunal’s interpretation of
+customary international law should have been informed or somehow bound by the
+determinations of another panel because the Decision on Liability demonstrates that the Tribunal
+
+as “arguably construing or applying the contract.” Kanuth, 949 F.2d at 1180-81 (quoting
+United Paperworkers, 484 U.S. at 38). In this decision, the Tribunal expressly analyzed the UK-
+BIT and concluded that “principles of international law” applied. See Decision on Liability J
+62-63. The Tribunal next separately addressed each of the four conditions on the application of
+the defense of necessity in Article 25 of the ILC Articles explaining: “The customary
+international law, as restated by Article 25 of the ILC Articles, quoted above, imposes additional
+strict conditions.” Jd. § 258. In analyzing each of the four conditions, the Tribunal set forth its
+reasoning for finding that Argentina failed to satisfy the defense. Jd. 4] 260-63 (discussing each
+of the four conditions). Although, only discussion of two conditions included express reference
+to international law sources such as the Commentary to the ILC Articles and decisions by other
+investment arbitration panels; in none of the discussions did the Tribunal suggest that it was
+
+departing from its mandate to apply “applicable principles of international law.” Id.
+
+40
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 41 of 43
+
+Accordingly, the Tribunal did not “‘dispense [its] own brand of industrial justice,’” but
+rather interpreted and applied the customary international law as was required. Garvey, 532 U.S.
+at 509 (quoting United Steelworkers of Am. v. Enterprise Wheel & Car Corp., 363 U.S. 593, 597
+(1960)). Even if the Tribunal’s interpretation or application was in error, that would be
+insufficient to vacate the award. See id. (finding even serious error to be insufficient to vacate
+arbitral award); Oxford Health Plans, 133 S. Ct. at 2068 (“Only if ‘the arbitrator act[s] outside
+the scope of his contractually delegated authority’—issuing an award that ‘simply reflect[s] [his]
+own notions of [economic] justice’ rather than ‘draw[ing] its essence from the contract’—may a
+court overturn his determination.” (alterations in original) (quoting Eastern Associated Coal, 531
+U.S. at 62)). Similarly, Argentina’s contention that “there simply was no interpretation” of
+customary international law, Pet.’s Opp’n at 36, amounts to a critique of the thoroughness of the
+Tribunal’s analysis, but, even if this were an accurate critique, a lack of extensive analysis is not
+grounds for vacatur, Lessin v. Merrill Lynch, Pierce, Fenner & Smith, Inc., 481 F.3d 813, 820
+(D.C. Cir. 2007) (finding arbitrators are not required to explain the basis for their award when
+the grounds can be gleaned from the record). The Tribunal was “arguably construing or applying
+the contract” when it applied its interpretation of international law and therefore did not exceed
+its power when rejecting the necessity defense.
+
+D. The Arbitral Award Must Be Confirmed
+
+For arbitral awards governed by the New York Convention, a “court shall confirm the
+award unless it finds one of the grounds for refusal or deferral of recognition or enforcement of
+the award specified in the [New York] Convention.” 9 U.S.C. § 207. In this case, Argentina has
+failed to establish any grounds for vacatur enumerated in Article V(1)(e) of the New York
+
+Convention or under FAA §§ 10 and 11. The two grounds for refusal of recognition or
+
+4l
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 42 of 43
+
+enforcement of the award under the New York Convention identified by Argentina here, namely:
+(1) Argentina’s purported inability to present its case due to the evident partiality of Professor
+Kaufmann-Kohler, and (2) the Tribunal acting outside the scope of the submission to arbitration,
+are, as Argentina concedes, “subsumed within the grounds for annulment under § 10(a) of the
+FAA.” Pet.’s Opp’n at 38 (citing Scandinavian Reins. Co., 668 F.3d at 71). As Argentina has
+failed to demonstrate evident partiality and excess of powers under the FAA, its admittedly
+redundant claims under the New York Convention must also fail.
+
+Still, to obtain confirmation of an award, the New York Convention requires that the
+applicant shall supply: “(a) [t]he duly authenticated original award or a duly certified copy
+thereof;” and “(b) [t]he original agreement referred to in article II or a duly certified copy
+thereof.” New York Convention, art. 1V(1). AWG has complied with these requirements by
+submitting to the Court a copy of the award, as authenticated and submitted by the Tribunal, see
+Final Award, and by directing the Court to “Article 8 of the BIT and in AWG’s submitting its
+claim to arbitration,” Resp.’s Mem. at 45 (footnote omitted); Chevron Corp. v. Republic of
+Ecuador, 949 F. Supp. 2d 57, 66-67 (D.D.C. 2013) (“Because the BIT constitutes Ecuador’s
+‘standing offer’ to arbitrate, all Chevron must show is that it was a U.S. ‘company or national’
+that submitted an ‘investment dispute’ in order for the Court to find it had a binding arbitration
+agreement with Ecuador.”). Accordingly, the arbitral award must be confirmed.
+
+Iv. CONCLUSION
+
+For the foregoing reasons, Argentina’s petition to vacate the arbitral award is denied and
+
+AWG’s petition to confirm the award is granted.
+
+An appropriate order will accompany this Memorandum Opinion.
+
+42
+
+Case 1:15-cv-01057-BAH Document 27 Filed 09/30/16 Page 43 of 43
+
+Digitally signed by Hon. Beryl A. Howell
+DN: cn=Hon. Beryl A. Howell, o=US. District
+Court for the District of Columbia, ou=Chief
+Judge,
+temail=Howell_Chambers@ded.uscourts.go
+v.c=US
+
+Date: 2016.09.30 20:19:32 04100"
+
+Date: September 30, 2016
+
+ 
+
+BERYL A. HOWELL
+Chief Judge
+
+43
+

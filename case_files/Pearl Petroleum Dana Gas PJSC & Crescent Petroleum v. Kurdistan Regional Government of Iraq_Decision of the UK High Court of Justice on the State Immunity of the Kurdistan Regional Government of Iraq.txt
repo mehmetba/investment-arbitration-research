@@ -1,0 +1,2082 @@
+ 
+
+Neutral Citation Number: [2015] EWHC 3361 (Comm
+Case No: CL-2015-000272
+
+IN THE HIGH COURT OF JUSTICE
+QUEEN'S BENCH DIVISION
+
+ 
+
+COMMERCIAL COURT
+Royal Courts of Justice
+Strand, London, WC2A 2LL
+Date: 20/11/2015
+Before :
+MR JUSTICE BURTON
+Between :
+(LD Pearl Petroleum Company Limited Claimants
+(2) Dana Gas PJSC
+(3) Crescent Petroleum Company International
+Limited
+- and -
+The Kurdistan Regional Government of Iraq Respondent
+
+Gordon Pollock QC and Zachary Douglas QC (instructed by Freshfields Bruckhaus
+Deringer LLP) for the Claimants
+Graham Dunning QC and Anton Dudnikov (instructed by Wilmer Cutler Pickering Hale
+and Dorr LLP) for the Respondent
+
+Hearing dates: 28, 29 and 30 October 2015
+
+Approved Judgment
+I direct that pursuant to CPR PD 39A para 6.1 no official shorthand note shall be taken of this
+Judgment and that copies of this version as handed down may be treated as authentic.
+
+MR JUSTICE BURTON
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+Mr Justice Burton :
+
+1.
+
+The Claimants (whom I shall call Pearl, Dana and Crescent) and the Respondent, the
+Kurdistan Regional Government of Iraq (“KRG”) are engaged in arbitration
+proceedings under the LCIA Rules, commenced in October 2013, in relation to
+disputes arising out of a contract (“the Heads of Agreement”) dated 4 April 2007.
+This is an application to the Court by the Claimants, for whom Mr Gordon Pollock
+QC and Mr Zachary Douglas QC appear, with the permission of the Arbitrators, (Lord
+Hoffmann, Lord Collins and Mr John Beechey), under s.42 of the Arbitration Act
+1996 (“the 1996 Act”) for an order by the Court enforcing a peremptory order made
+against the Respondent by the Arbitrators on 17 October 2014, whereby the
+Respondent was ordered to pay to the Claimants the sum of US$100 million. The
+Respondent, for whom Graham Dunning QC and Anton Dudnikov appear, resists that
+application and cross-applies for a declaration pursuant to CPR Part 11 that it is
+immune from the jurisdiction of the court by virtue of the State Immunity Act 1978
+(“the SIA”).
+
+The Respondent is a constituent region of the Federal Republic of Iraq, and as such it
+is common ground that it is not itself a State, but is a separate entity within the
+meaning of s.14 SIA (and no Order in Council has been made giving it immunity as if
+it were a State pursuant to s.14(5) SIA). By the Heads of Agreement between the
+Respondent (“duly represented by the Minister of Natural Resources and the Prime
+Minister of Kurdistan”) and, initially, Dana (which subsequently transferred 50% of
+its interest in the Contract to Crescent, following which Dana and Crescent transferred
+their interests to Pearl, a Special Purpose Vehicle (“SPV”) owned between them), the
+parties agreed to the exploitation by the Claimants of two gas fields known as Khor
+Mor and Chemchemal, which are situated in the Kurdistan Region of Iraq (“the
+KRI”), of which the Respondent is the Government. The term of the contract was not
+less than 25 years. By 2008 the Khor Mor field had been developed and was
+producing gas and condensate and by 2011 it was also producing LPG.
+
+There were the following material provisions of the Heads of Agreement. The recitals
+included the following:
+
+“AL The KRG has entered into a Strategic Alliance
+Protocol (“SAP”) dated 4" April 2007 with Dana and
+... [Crescent] (. . . the “Companies”) whereby the
+
+Companies will carry out optimization of the
+development and utilization of natural gas resources in
+the [KRI].
+
+B. The KRG wishes to appoint Dana to carry out certain
+works in the field of Khor Mor . . . and in the field of
+Chemchemal . . . in the [KRI]._ The work is urgently
+required to fulfil energy requirements in the [KRI] and
+in particular to provide urgent gas supplies for use at
+the power stations under construction at Erbil and
+Bazian, and thereby help to relieve the electrical
+power shortage affecting all the people of Iraq.
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+Cc. The KRG has endorsed a federal draft Oil and Gas
+Law for Iraq that requires petroleum contracts issued
+by federal and regional entities, including by the KRG,
+to meet agreed commercial criteria, in addition to
+other relevant provisions pursuant to the KRG and the
+Constitution of Iraq.
+
+F. The KRG, desirous of rapid and optimal economic
+development of the petroleum gas resources of the
+[KRI], gas-related industries, and job creation for the
+benefit of the people of Iraqand_ the [KRI], has
+declared its intention to associate and contract with
+Dana... to take the lead inthe — development of the
+gas resources of the [KRI], both for domestic gas
+utilization as a priority, as well as for export.”
+
+The following clauses are of particular relevance:
+
+“9. The KRG hereby grants Dana the exclusive right
+during the term of these HoA [minimum 25 years] . . .
+to develop and produce Petroleum within the Khor
+Mor Hod Area and the Chemchemal HoA Area.
+
+16. For the purpose of this Article, “Dispute” shall mean
+any dispute, controversy or claim (of any and every
+kind or type...
+
+If the Dispute cannot be resolved by negotiation within
+sixty (60) days after the date of the receipt by each
+party to the Dispute of the Notice of Dispute any party
+to the Dispute may seek settlement of the dispute by
+mediation in accordance with the London Court of
+International Arbitration (LCIA) Mediation
+Procedure, which Procedure shall be deemed to be
+incorporated by reference into this Article, and the
+parties to such Dispute shall submit to such mediation
+procedure:
+
+(a) If the Dispute is not settled by mediation within
+sixty (60) days of the appointment of the
+mediator, or such further period as the parties to
+the Dispute may otherwise agree in writing, any
+party to the Dispute may refer the Dispute to,
+and seek final resolution by, arbitration under
+the LCIA Rules, which Rules shall be deemed to
+be incorporated by reference into this Article.
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+(b) Any arbitration shall be conducted by three (3)
+arbitrators.
+
+(e) Arbitration shall take place in London, England.
+The language to be used in any prior negotiation,
+mediation and in the arbitration shall be English.
+During the arbitration procedure and until the
+arbitral decision, neither entity shall act in a
+manner that may affect the rights of the other Party
+under these HoA ... The arbitral award may
+include an award of specific performance and may
+be enforced by any court of competent jurisdiction,
+including the Kurdistan Region. Any award shall
+be expressed in US Dollars.”
+
+There were (inter alia) the following “Key Commercial Terms” contained in Annexure
+2:
+
+“« In the event Dana is unable to export and market the LPG’s
+[or] Condensates by any act or omission of government
+(including foreign neighbouring governments) and/or for
+political reasons beyond the control [of] Dana then the KRG
+shall purchase and lift (or arrange for the lifting by the
+domestic companies/users) and pay for the liquid petroleum
+products at international FOB Med market prices as quoted
+by Platts Oilgram Report or similar journals within 30 days
+from the month ends. [Identified by the parties as “Bullet
+7’).
+
+The KRG waives on its own behalf and that of the KRG any
+claim to immunity for itself and assets.”
+
+The history
+
+4.
+
+Disputes arose in about 2009 between the parties relating to the nature and extent of
+the Claimants’ rights in relation to the two fields and the prices payable to the
+Claimants by the Respondent for condensate and LPG produced at Khor Mor and sold
+to the Respondent. The Claimants contended that by September 2013 the Respondent
+had underpaid for product produced and lifted in a sum of US$1.12 billion.
+
+In 2013 the Claimants initiated mediation proceedings in accordance with clause 16 of
+the Heads of Agreement, and when the Respondent declined to participate in it, the
+Claimants commenced arbitration proceedings. The Respondent’s response to the
+mediation and arbitration was that instead of continuing to make relatively regular
+payments to the Claimants for the product produced and lifted, albeit on the
+Claimants’ case substantially short of what was due under the contract, the
+Respondent stopped making any payment, whilst continuing to require the Claimants
+to deliver up product. The structure of the contract was such that a quantity of gas
+which was produced was supplied free for the benefit of the Respondent, so that the
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+only source of revenue from which the Claimants could recover their capital
+investment and their annual running costs was the revenue which they received from
+their produced condensate and LPG sold and lifted by the KRG, the by-products of
+the gas production. The sudden cessation of any payment was ascribed by the
+Respondent to the existence of counterclaims dating back in some cases to 2009.
+
+6. On 21 March 2014 the Claimants applied to the Arbitrators for an interim measures
+order pursuant to Article 25 of the LCIA Rules, which provided, inter alia, for the
+Arbitrators to have the power on the application of any party “(c) to order on a
+provisional basis, subject to final determination in an award, any relief which the
+Arbitral Tribunal would have power to grant in an award, including a provisional
+order for the payment of money or the disposition of property as between any
+parties”. The application was that the Respondent be ordered to resume payments for
+product lifted, pending the resolution of the parties’ disputes. A major ground of this
+application was the serious financial damage which the Claimants alleged would be
+suffered by the Claimants, in the case of Dana involving potential bankruptcy, in the
+event that the Respondent continued with its refusal to make any payment for product
+which it lifted. The Claimants’ case was that by the making of an order for interim
+measures the Tribunal should restore the status quo by which the Respondent was
+paying for the condensate and LPG which it was lifting. I set out relevant passages
+from the Claimants’ application:
+
+“2. The Claimants seek an order to compel the Respondent
+... to restore the status quo ante and prevent further
+escalation of the dispute during the pendency of the
+present arbitration, by resuming payment for on-going
+deliveries of condensate and liquefied petroleum gas
+(LPG) and releasing and/or procuring the release of
+funds to the Claimants which were withheld by the
+KRG or on the KRG’s instructions following the
+Claimants’ commencement of mediation on 24 July
+2013.
+
+3. Absent the cash flows from the sale of condensate and
+LPG to the Claimants until their abrupt curtailment by
+the KRG with effect from July 2013, Dana... which
+operates the gas processing facilities at Khor Mor
+jointly with Crescent on behalf of Pearl, will face a
+cash crisis and is expected to run out of cash by the
+fourth quarter of 2014. As a consequence, Dana...
+will default on its debt obligations and the company
+will be forced into insolvency during the pendency of
+the present arbitration, causing irreparable damage to
+[Dana’s] . . . stakeholders, including its over 200,000-
+strong regional and international shareholder base.
+
+4, The insolvency of Dana... is likely to result in the
+KRG’s take-over of operations and the destruction of
+the rights under the Contract that are the subject
+matter of this dispute.
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+8. Prior to the initiation of the mediation on 24 July
+2013, the KRG was making regular (albeit deficient)
+payments (either directly or through third parties) for
+condensate and LPG, which were and continue to be
+critical to the Contractor's ability to continue
+operating the gas production facilities at Khor Mor
+and Dana Gas’s ability to service its home office costs
+and debt obligations.
+
+9. In an act of retaliation to the Claimants’
+commencement of mediation proceedings on 24 July
+2013, the KRG deliberately withheld all contractually-
+due payments it had previously been making on a
+regular basis for the supply to it of Khor Mor
+condensate. Moreover, and in order to ‘turn off’
+entirely the tap of the Claimant's revenue streams from
+the uninterrupted production that it continues to
+provide, the KRG altered the terms upon which it
+auctions the right to lift LPG to third parties by
+diverting payments away from the Claimants. The
+basis for the KRG’s retaliatory action is a set of
+contrived counterclaims which, despite allegedly
+amounting to nearly US$5 billion and being based on
+allegations dating back several years, had never
+previously been raised, let alone quantified or used as
+a basis for withholding payments to the Claimants.
+
+Ii. In the circumstances, and in the light of recent press
+reports regarding the KRG’s intentions to this effect,
+the Claimants have good reason to believe that the
+KRG’s conduct is part of a concerted strategy to
+manufacture excuses for a precipitate and unlawful
+termination of the Contract, take-over of operations
+and subsequent sale of the valuable exclusive rights
+under the Contract to a third party, the latter having
+already been attempted by the KRG in the recent past.
+The Claimants’ belief has been further reinforced by
+the KRG’s constant attempts at obfuscation and delay,
+first in resisting expedited formation of the arbitral
+tribunal, and then in its lengthy and _ repetitive
+objections to having preliminary issues heard and
+challenge to the jurisdiction of the Arbitral Tribunal.
+
+12. The KRG’s recent conduct and resulting alteration of
+the status quo ante will lead to the collapse of Dana
+
+will aggravate the present dispute and will likely
+
+result in an expropriation of the subject matter of this
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+arbitration long before the Arbitral Tribunal will have
+an opportunity to render a final award. To prevent
+this, the Claimants require assistance from the Arbitral
+Tribunal in the form of the interim measures set out in
+Section IV below.
+
+14, In order to address its purported concern all the KRG
+needs do is to continue what it has been doing in
+recent years, namely make and/or direct payments to
+the Contractor for Khor Mor condensate and LPG
+lifted by it or on its behalf.
+
+50. Article 25.1 of the LCIA Rules does not set out any
+explicit standards for the grant of interim measures.
+Nonetheless, in international arbitration practice
+arbitral tribunals typically take into account the
+following factors when considering a request for
+interim measures:
+
+(a) whether the applicant has a prima facie case on
+the merits;
+
+(b) whether the application is likely to suffer serious
+harm if the measures are not granted;
+
+(c) whether the request is urgent;
+
+(d) whether granting the request would prejudge the
+merits of a case; and
+
+(e) the harm the applicant is likely to suffer in the
+absence of interim measures as compared with
+the harm likely to result to the respondent if the
+measures are granted.
+
+56. Thirdly, many international tribunals require the
+requesting party to demonstrate urgency, which is
+closely related to the requirement of serious or
+substantial harm. The requirement of urgency has
+been construed sufficiently broadly by tribunals to
+justify interim measures designed to avoid the
+aggravation of the dispute that is the subject matter of
+the arbitration.
+
+[Citations of various international tribunals’ decisions were set
+out in footnotes].
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+74, ...Inany event, the fact that Dana. . . is being forced
+irretrievably to dispose of core assets in distressed
+sales is sufficiently serious to warrant interim
+measures of protection from the Arbitral Tribunal.
+
+76. With Dana... unable to fund the Contractor and the
+latter having run out of funds required to continue
+operating the Khor Mor facilities, the KRG will likely
+seek to step in (as it has already threatened to do),
+leading to the Claimants effectively losing their rights
+under the Contract, the very subject matter of the
+dispute.
+
+77. Such a scenario, which is entirely avoidable, would not
+only threaten the procedural integrity of these
+proceedings but also cause the Claimants irretrievably
+to lose the benefit of Article 16(e) of the Contract
+which specifically (1) obliges the parties to maintain
+the status quo ante during the pendency of an
+arbitration by not “actfing] in a manner that may
+affect the right of the other Party”; and (2) confers
+upon the parties a right to specific performance of the
+Contract.”
+
+7. The Respondent joined issue with these contentions in its Response, and at the outset
+stated in paragraph 5:
+
+“5, First, the Claimants’ requested interim measures
+would fundamentally alter the status quo... The
+Claimants’ application proceeds on the premise that
+there was an established “payment regime” in which it
+was commonly agreed or understood that the
+Claimants would continue to receive payments
+indefinitely on some undefined basis. In reality,
+however there was no such status quo. The KRG has
+never accepted or agreed that any of the Claimants
+would be entitled to the proceeds of the condensates
+and LPGs that the KRG has sold.”
+
+Further:
+
+“109. The Claimants rely on the financial position of Dana
+as a basis for interim measures, but, on their own case,
+Dana has purportedly novated all of its rights or
+obligations under the HoA (and thus has no existing
+funding obligations under the HoA). As such, there is
+no basis for concluding that Dana’s financial status is
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+even relevant, much less decisive, with regard to the
+purported inability of the Claimants to continue
+operations.
+
+Ii. ... there is no evidence that Pearl! will run out of funds
+required to continue operations in the absence of KRG
+payments. The Claimants have adduced very little
+evidence on Pearl's financial condition (which, it is
+common ground, is the Claimants’ burden to prove).
+Absent such evidence, it is impossible to conclude that
+the Claimants will be unable to continue operations
+under the HoA at Khor Mor.
+
+122... . the Claimants argue that Dana’s “risk of
+insolvency” constitutes “truly irreparable harm,” but
+this is both unproven and irrelevant. As set out above
+the evidence submitted by the Claimants does not
+establish that there is a true risk of insolvency. In any
+event, insolvency does not prevent the Claimants from
+pursuing their claims in arbitration, and therefore
+cannot constitute harm “not adequately reparable” by
+damages.”
+
+In paragraphs 160 to 173 of its Response the Respondent contended that the ordering
+of payments and of a mandatory injunction as an interim measure would prejudicially
+alter the status quo, and concluded at paragraph 183 that:
+
+“Accordingly, the Claimants’ Request must be denied because
+it would entail pre-judgment of both the Claimants’ claims and
+the KRG’s counterclaims.”
+
+In their Reply the Claimants contended as follows:
+a Preservation of the dynamic status quo ante
+
+95. First, as indicated in the Claimants’ Request, the KRG
+is contractually and legally obliged to maintain the
+status quo pending determination of this dispute
+pursuant to Article 16(e) of the Contract and Article
+50(Second)(4) of the KROGL. Notwithstanding the
+Respondent's smokescreen, the undisputed fact
+remains that the Respondent was making (or
+authorising third parties to make) regular payments to
+the Claimants in respect of products delivered over a
+five year period, whether under the Contract, or
+otherwise.
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+96. The Claimants only seek preservation of the
+commercially important “dynamic status quo” which
+can be achieved simply by the KRG releasing (or
+authorising third parties to release) payments for
+condensate and LPG it is taking from the Claimants.
+
+97. The fact remains that, even on the KRG’s own case,
+nothing has changed factually since July 2013 except
+that the Claimants have initiated mediation and then
+arbitration proceedings, which have been met by
+pressure tactics by the Respondent. There is no
+singular fact which justified the sudden change in the
+Status quo.
+
+98. Indeed, restoring the dynamic status quo is
+commercially imperative in order to ensure the
+continuation of operations at Khor Mor and thus the
+supply of electricity to the residents of the Kurdistan
+Region, continuation of the Claimants’ rights under
+the Contract and the continuation of Dana... as a
+solvent company. It also means protection of value for
+both parties including because it accelerates the
+Claimants’ cost recovery and Remuneration Fee
+payments and, therefore, the point at which the
+Respondent will earn its 90% of the Aggregate
+Revenues under the Contract.”
+
+9. Following an oral hearing on 16 May 2014, the Tribunal issued a Ruling on Interim
+Measures on 10 July 2014 (“the 10 July Ruling”), whereby the Respondent was
+ordered to make payments as from 21 March 2014 at a rate which was designed to
+reflect the payments which had been made in the period prior to July 2013, which
+amounted to some 70% of the Claimants’ invoices for condensate and LPG. The
+Tribunal dealt with the question of the status quo as follows:
+
+“21. The relevance of actions which seek to alter the status
+quo to the advantage of a party is underlined by
+Article 16(e) of the HoA itself:
+
+“During the arbitration procedure and until the
+arbitral decision, neither entity shall act in a
+manner which may affect the rights of the other
+party under these HoA/Service Agreements”.
+
+42. It appears to us unlikely that there will be a hearing
+followed by an award in this arbitration before the
+middle of 2015. On the evidence before us, there is an
+appreciable risk that Dana will become insolvent or at
+any rate suffer unnecessary loss through distressed
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+sales of assets if payments are not resumed before the
+award.
+
+45. It is unusual to have an application for provisional
+measures in which both sides do not claim to be
+seeking to maintain the status quo and this is no
+exception. In this case, however, we think that the
+status quo was that the KRG had for a lengthy period
+been buying the Claimants’ LPPs and paying for them.
+There may have been a dispute over the price properly
+payable but payments were being made. By stopping
+paying, they have altered the status quo, just as
+someone who cuts off the supply of electricity and
+plunges the house into darkness.
+
+47. The ultimate question for the Tribunal is: which course
+of action is more likely to promote justice, in the
+broadest sense: to grant the provisional measures or to
+refuse them? We think that there is a greater risk of
+injustice if the KRG are allowed to continue to receive
+the Claimants’ condensates (or their proceeds) and not
+pay for them. The KRG claims that the Claimants are
+free to export and market their liquid petroleum
+products in accordance with the HoA. If the KRG is
+able to procure the necessary licences for the
+Claimants to be able to do so, well and good. No
+further action as to the future is required. But if they
+cannot, and continue instead to have them lifted on
+their behalf, then we consider that pending a final
+resolution of this dispute they should pay for them.
+
+(i) Conclusion
+
+48. The practice of the KRG before July 2013 was, we are
+informed by counsel for the Claimants, to pay about
+70% of the invoiced prices (i.e. the international FOB
+Med prices) of the liquid petroleum products, which
+were lifted on their behalf. This is a very rough and
+ready figure, which can be recalculated after a full
+hearing. In the meanwhile, however, we consider that
+the KRG should, as from the date of the Claimants’
+application for interim measures (21 March 2014), pay
+the Claimants 70% of the international FOB Med
+prices of liquid petroleum products lifted by them or
+for their account. If at any time the KRG is able to
+procure the necessary permits and consents for the
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+Claimants to export and market these products
+themselves, they may apply to discharge this order.”
+
+On it becoming immediately apparent to the Claimants that the Respondent was not
+intending to comply with the 10 July Ruling, on 23 July 2014 they applied to the
+Tribunal for a peremptory order, both as regards the payment of an immediate
+quantified sum and as regards future continuing payments; the Respondent then
+applied to discharge the Ruling.
+
+Application and cross-application were heard at an oral hearing on 4 September 2014.
+The Arbitrators delivered a ruling on 17 October 2014 (“the 17 October Ruling”),
+dismissing the Respondent’s application to discharge, and ordering, on the Claimants’
+application for a peremptory order, that the Respondent pay to the Claimants the sum
+of US$100 million within 30 days (in the terms of the order below set out). The
+Arbitrators stated (in material part):
+
+“16. At the hearing on 5 September, Mr Partasides (for the
+Claimant) asked why the KRG did not simply reinstate
+the previous arrangement with PowerTrans, under
+which the KRG sold the products through PowerTrans,
+but accounted to the Claimants for what was assumed
+to be the price received. The KRG had similar
+arrangements with other international oil companies
+in Kurdistan. The answer of Mr Born, on behalf of the
+KRG, must be quoted in full:
+
+“Finally, the claimants asked repeatedly why
+doesn’t the KRG do what it does with other
+IOCs? This case is the answer for why the KRG
+doesn’t do what it does with other 1OCs. It
+doesn’t have arbitrations for bitter disputes with
+other OCs. It does have such a dispute with the
+claimants.”
+
+17. It should make no difference to the KRG whether the
+Claimants sell their products to Quaiwan for the lower
+price or through PowerTrans at a higher price. In
+neither case would the KRG be receiving the proceeds.
+The KRG does not deny that it could reinstate the
+previous PowerTrans arrangements. But it refuses to
+do so simply to disoblige the Claimants.
+
+18. The Tribunal is not in a position to express any view
+on the merits of the “bitter disputes” between the
+parties. It has however expressed the view in its order
+for provisional measures that justice requires that
+provisionally and pending a_ full hearing, the
+Claimants should not be deprived of the cash flow,
+which they had been deriving from their products. The
+KRG is in a position to enable them to do so. Instead,
+it claims that they are, and always have been, in a
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+position to export their products but for some
+irrational and quixotic reason have been unwilling to
+do so. The Tribunal is not persuaded that the
+Claimants are in practice in a position to export their
+products. They do not think that any rational
+producer, having been for over a year been in a
+position to export their products, would have chosen
+instead to apply at this stage for an order for interim
+measures.
+
+23. The Tribunal accepts, first, that the preservation of the
+status quo requires it to have regard to the position at
+the time when the KRG ceased payments and that
+going further back into history would not ordinarily be
+particularly relevant. It was therefore reasonable to
+have regard to the position under the arrangements
+with PowerTrans, which were in place from March to
+July 2013. Secondly, the Tribunal considers that one
+cannot calculate the percentage of invoiced price
+which the Claimants were receiving without knowing
+the shipments to which those prices related. Invoices
+may have been sent during the period in question
+which related to earlier shipments. The calculations of
+Ernst & Young were not challenged in the earlier
+proceedings and the Tribunal therefore does not think
+it was misled by Mr Pollock's figure.
+
+24, The KRG submits that recent events in Iraq have
+created a political and military crisis in Kurdistan that
+has changed the balance of convenience. The territory
+is defending itself against attack and finds itself
+responsible for the support of large numbers of
+refugees. It cannot afford to make payments to the
+Claimants. The KRG also claimed that the financial
+position of Dana was not as bad as it claimed because
+a press release of 10 September showed that it had
+been able to borrow $100 million to finance its UAE
+gas project. The Claimants replied that this was
+borrowing for a particular project and distinct from its
+general corporate debt.
+
+ 
+
+25. The Tribunal is of course aware of the difficult
+circumstances in which the KRG finds itself in the
+current situation in the area and has great sympathy
+for the plight of its people and those who have taken
+refuge it its territory. But it considers that it is in no
+position to estimate the significance of these
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+momentous events and that they lie altogether outside
+the matters to which a Tribunal can have regard in
+considering what is conventionally called the balance
+of convenience in an interlocutory application. In
+such a case, the Tribunal’s concern is to weigh the
+effect of granting or refusing the order on the potential
+outcome for the parties if one or the other should be
+successful . The purpose of the interlocutory order is
+to enable the Tribunal’s final order to do practical
+justice between the parties. It does not consider that
+the effect upon political events in Kurdistan, which the
+Tribunal is completely unable to calculate, can fall
+within the matters it can properly take into
+consideration.
+
+29. The KRG says that they have not failed to comply.
+They have applied for the discharge of the order and
+while that application was pending, they were not
+obliged to do anything. We do not think that is right.
+Any discharge of the order would not have been on the
+ground that it should not have been made but on the
+ground that the KRG had enabled the Claimants to
+export their products and thereby obtain a revenue
+stream in substitution for that which had previously
+been paid to them by or at the direction of the KRG.
+There was no question of the order being discharged
+retrospectively. As the Tribunal said in its ruling on
+provisional measures: “If the KRG is able to procure
+the necessary licences for the Claimants to be able to
+do so, well and good. No further action as to the
+future is required.”” The KRG has . . . failed altogether
+to comply with the order for payment for liftings from
+21 March 2014 to the present day. The Tribunal
+therefore has jurisdiction under section 41(5) to make
+a peremptory order.
+
+30. The Tribunal’s order for interim measures required
+payment of 70% of the “the international FOB Med
+price of liquid petroleum products” on the basis that
+this was the benchmark employed by the parties in the
+HoA and should be capable of being employed to
+calculate the amounts to be paid. It appears however
+from the submissions at the hearing of this application
+to discharge that there may be a dispute over what
+counts as the “international FOB Med price” of
+condensate and LPG. This dispute may at some stage
+have to be resolved by the Tribunal but in order to
+avoid further delay, the Tribunal will fix a provisional
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+figure for payment which it considers to be the least
+which would give effect to its order to date.
+
+31. The Ernst & Young report to which the Tribunal has
+referred in paragraph 23 above found that, in respect
+of the shipments they were considering, the Claimants
+had received 71% of the invoiced price. Whether the
+invoiced price had been correctly calculated or not,
+that was what they were receiving. That was the status
+quo. The evidence exhibited to the Claimants’
+application for a peremptory order showed that in the
+period 21 March to 27 July 2014 the invoiced price of
+condensate and LNG shipped by the Claimants was
+US$232,284,453. 70% of this sum is US$162,599, 117.
+The Tribunal considers that an immediate payment of
+US$100,000,000 should be the subject of a peremptory
+order. A possible further peremptory order can be
+considered later. The Tribunal therefore makes an
+order in the following terms:
+
+“Without prejudice to its order of 10 July 2014,
+the Tribunal orders that the Respondent shall
+within 30 days of this order pay to the Claimants
+US$100 million (to be set off against its liability
+under the order of 10 July 2014) and if the said
+sum shall be unpaid after 30 days, makes a
+peremptory order to the same effect.”
+
+No payment was made within 30 days, and so in accordance with the terms of the 17
+October Order the peremptory order took effect. The Claimants sought and obtained,
+against opposition from the Respondent, the Tribunal’s permission pursuant to
+s.42(2)(b), to make the application now before me to enforce the peremptory order.
+
+There have been developments since December 2014 while the parties have been
+resolving (with the assistance of the Court [2015] EWHC 68 (Comm)) defective
+service and then re-service, and preparing for, fixing and serving evidence for this
+hearing. The Respondent between September 2014 and 7 October 2015 permitted the
+Claimants to enter into local contracts for the sales of condensate and LPG, which
+thus earned them some income. However there was a Partial Final Award by the
+Arbitrators dated 30 June 2015, ruling on issues which they had heard between 20 and
+24 April, and which reached conclusions as to certain of the rights of the parties,
+resulting in a finding of liability on the Respondent in respect of the claim, but no
+monetary award was to be made until after a further hearing, fixed for 21 September
+2015, the award from which is awaited, as to whether, as against a sum of
+approximately US$1.9 billion in the Claimants’ favour there could be set off the
+counterclaims upon which the Respondent relied.
+
+The making of this Partial Final Award on 30 June resulted in a letter from the
+Respondent dated 26 July to the Claimants, notifying them that the Respondent would
+no longer permit the Claimants to proceed with their arrangements for local sales, and
+intended to lift the condensate and LPG itself; and, by letter dated 4 September to the
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+Claimants, the Respondent made clear that it did not accept that the Claimants had
+any entitlement to payment for the condensates and LPGs which it was to lift, because
+of the allegation that the Claimants had caused enormous damage to the Respondent
+through its breaches of the Heads of Agreement, such that it was not “obliged to pay
+for all petroleum products it lifts”. Meanwhile the Respondent confirmed, by various
+letters and public announcements in September 2015, that it was making and
+authorising payments to other international oil companies in substantial sums,
+because, as per an announcement by the Ministry of Natural Resources dated 7
+September 2015, “regular payments will be made to allow the exporting companies to
+cover their ongoing expenses and plan for further investment in the oil field”.
+
+15. No sum has been paid to the Claimants by the Respondent pursuant to the Heads of
+Agreement, or at all, since 7 October 2015, when the Respondent commenced lifting
+of, and receiving payment for, product. By letter dated 28 September 2015 sent to the
+Arbitrators, of which Mr Pollock was vigorously critical, the Respondent said that it
+would make payment to the Claimants if the Arbitrators agreed not to make an
+enforceable final payment award prior to the determination of the Respondent’s
+counterclaims:
+
+“The KRG undertakes that, if no enforceable final payment
+award is made prior to the determination of its counterclaim, it
+will pay the Claimants for liftings of condensates and LPGs
+delivered to the KRG an equivalent amount per tonne as it pays
+other IOCs in the Kurdistan Region who currently deliver their
+petroleum to the KRG. These payments would be provisional
+and subject to any final award, but would continue until any
+final award is rendered.”
+
+No explanation has been given by the Respondent for this letter to the Arbitrators,
+save that in his second witness statement of 12 October Mr Speller of the
+Respondent’s solicitors referred to that letter as one by which the Respondent “made
+clear that, going forward, it would be willing to treat the Claimants no less
+favourably than other [international oil companies]”.
+
+The Issues
+16. The issues before me were as follows:
+Issue 1 ‘Was the peremptory order properly made within the jurisdiction of the
+
+Arbitrators vested in them by s.41 of the 1996 Act and Article 25 of the LCIA
+Rules, and therefore does the Court have jurisdiction to make an order under
+s.42 of the 1996 Act? There were two sub-issues:
+
+a) Was it a requirement of the making of a peremptory order that the
+Respondent had failed to comply with an order to do something
+necessary for the proper and expeditious conduct of the arbitration,
+and if so was that its purpose?
+
+b) Was the Respondent given the opportunity to show sufficient cause for
+non-compliance before the making of the Order?
+
+MR JUSTICE BURTON
+
+Approved Judgment
+
+Issue 2
+
+Issue 3
+
+Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+
+Does the Respondent have immunity pursuant to the SIA? It is accepted that
+the burden of proof is on the Respondent to establish this. The sub-issues are:
+
+a)
+
+b)
+
+c)
+
+d)
+
+Do the proceedings relate to anything done by the Respondent in the
+exercise of sovereign authority (s.14(2) SIA).
+
+If so, was it an exercise of sovereign authority of the State (the
+Republic of Iraq) or of the Respondent as a separate entity see
+paragraph 2 above. It is common ground that the former is necessary
+(BCCI v Price Waterhouse (a firm) [1997] 4 All ER 108 at 112 and
+Pocket Kings Ltd v Safenames Ltd [2009] EWHC 2529 (Ch)).
+
+If so, were the circumstances such that a State would have been
+immune (s.14(2)(b) SIA)? The issues are whether, as a result of s.9
+SIA (“where a State has agreed in writing to submit a dispute which
+has arisen, or may arise, to arbitration, a State is not immune as
+regards proceedings in the courts of the United Kingdom which relate
+to the arbitration”) the Respondent is immune to these proceedings
+under s.42; and whether, by virtue of s.14(3) SIA, the Respondent is
+entitled to the protection of s.13(2)(a) SIA (“relief shall not be given
+against a State by way of injunction”) in respect of the s.42 order:
+
+i) Has the Respondent submitted to the jurisdiction within s.14(3)
+by virtue of s.9, such as to retain the benefit of s.13 SIA?
+
+ii) Even if so, do s.42 proceedings fall within s.9 and are they
+covered by s.13(2)(a)?
+
+Whether the Respondent has waived its immunity in respect of s.14(2)
+and, assuming it is entitled to such immunity, that granted by s.13(2)(a)
+by reference to s.13(3) SIA.
+
+Whether in the exercise of the Court’s discretion the order sought should be
+made: it is common ground that the Court does not “act as a rubber stamp on
+orders made by the tribunal” (Emmott _v Michael Wilson & Partners Ltd
+[2009] EWHC 1 (Comm) at paragraph 59 per Teare J).
+
+Issue 1: Section 42 of the 1996 Act
+
+17.
+
+Mr Pollock’s case is that the peremptory order was made by the Arbitrators
+straightforwardly upon the basis that the Respondent has failed to comply with the 10
+July Interim Measures Order without good or any cause. Mr Dunning submits that a
+s.42 order is only appropriate where the order of an arbitrator sought to be enforced
+was one which was made for the proper and expeditious conduct of the arbitral
+proceedings.
+
+Mr Dunning’s starting point is s.39 of the 1996 Act, whereby:
+
+“(1) The parties are free to agree that the tribunal shall have
+power to order on a provisional basis any relief which it would
+have power to grant in a final award.
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+20.
+
+21.
+
+(2) This includes, for instance, making —
+
+(a) a provisional order for the payment of money or the
+disposition of property as between the parties...”
+
+As set out in paragraph 6 above, as Mr Dunning accepts, by Article 25 of the LCIA
+Rules, to which the parties have agreed, the Arbitrators had power (inter alia) to make
+a provisional order for the payment of money. Although the heading of s.39 in the
+statute refers to “Power to make provisional awards”, it is not in any doubt that the
+words of s.39 itself are what is decisive, and plainly give the Arbitrators the power to
+make an order for interim measures, not simply an award.
+
+In the event of non-compliance with an arbitrator’s order an arbitrator can make a
+peremptory order pursuant to the terms of s.41(5):
+
+“If without showing sufficient cause a party fails to comply with
+any order or directions of the tribunal, the tribunal may make a
+peremptory order to the same effect, prescribing such time for
+compliance with it as the tribunal considers appropriate ”.
+
+Mr Dunning submits however that this is not a sufficient consideration of the context
+of the 1996 Act. He points to the “General duty” of the parties under s. 40:
+
+“(1) The parties shall do all things necessary for the proper
+and expeditious conduct of the arbitral proceedings.
+
+(2) this includes —
+
+(a) complying without delay with any determination of the
+tribunal as to procedural or evidential matters, or with any
+order or directions of the tribunal. . .”
+
+This rubric “necessary for the proper and expeditious conduct’ of the arbitral
+proceedings is then expressly repeated in s.41 relating to the “powers of tribunal in
+case of party’s default”:
+
+“(1) The parties are free to agree on the powers of the tribunal
+in case of a party’s failure to do something necessary for the
+proper and expeditious conduct of the arbitration.”
+
+Such powers, Mr Dunning submits, are the only powers for the arbitral tribunal which
+the parties are free to agree.
+
+Accordingly in the consequential sub-clauses of s.41 which (by virtue of s.41(2))
+apply “unless otherwise agreed by the parties”, powers are given to the tribunal.
+Consequently, although Mr Dunning did not expressly so submit, it must inevitably be
+that the words in s.41(5), which I have cited in paragraph 19 above, must be construed
+as dealing with where “a party fails to comply with any such order or directions of the
+tribunal” i.e. an order to do something “necessary for the proper and expeditious
+conduct of the arbitration”.
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+22.
+
+23.
+
+He refers to the words in Parliament (Hansard 5" series vol 568 cols 761-764 (18
+January 1996)) of Lord Fraser of Carmyllie, setting out the intention of the Bill as
+being to “curtail the ability of the court to intervene in the arbitral process except
+where the assistance of the court is clearly necessary to move the arbitration forward
+or where there has been a manifest injustice”. He also refers to the words of the
+Chartered Institute of Arbitrator’s Practice Guideline 14, referring to one of the
+purposes of the 1996 Act having been to provide that “once there has been an initial
+breach of a procedural order without sufficient cause the tribunal may make a
+‘peremptory order’ to the same effect”. He refers to s.41(6) of the 1996 Act, which
+provides for where a claimant fails to comply with a peremptory order of the Tribunal
+to provide security for costs and s.41(7), where the Tribunal may take various other
+steps where a party has failed to comply with any other kind of peremptory order.
+However it must be noted that such steps are expressly stated to be “without prejudice
+to 8.42”.
+
+ 
+
+As for the fact that there is an express power in s.39(2) to make a provisional order for
+the payment of money, Mr Dunning, when pressed as to what other payment of
+money (other than security for costs or interim payment of costs, which are expressly
+otherwise dealt with in the 1996 Act) would be on his case “necessary for the proper
+and expeditious conduct of the arbitral proceedings”, could not think of any.
+Nevertheless such an express proviso was in his submission required. He pointed to
+the words of Dyson J in Macob Civil Engineering Limited _v Morrison
+Construction Limited [1999] CLC 739, where, in an adjudication covered by Part 2
+of the Housing Grants, Construction and Re-Generation Act 1996, the Court was
+asked, pursuant to s.42, to enforce an adjudicator’s decision for payment of money
+under a construction contract. Dyson J described a s.42 order in such circumstances
+as a “mandatory injunction to enforce an adjudicator’s decision” (a description to
+which I shall return below) and he says (at paragraph 35) that “it would rarely be
+appropriate to grant injunctive relief to enforce an obligation on one contracting
+party to pay the other”. He stated (at paragraph 37) that “‘s.42 apart, the usual remedy
+for failure to pay in accordance with an adjudicator’s decision will be to issue
+proceedings claiming the sum due, followed by an application for summary
+judgment.” He continued:
+
+ 
+
+“38. it is not at all clear why s.42 of the Arbitration Act 1996
+was incorporated into the Scheme [for Construction
+Contracts]”.
+
+I understand that this has subsequently been amended out of the Scheme.
+He concluded:
+
+It may be that Parliament intended that the court should be
+more willing to grant a mandatory injunction in cases where
+the adjudicator has made a peremptory order than where he
+has not. The court should be slow to grant a mandatory
+injunction to enforce a decision requiring the payment of
+money by one contracting party to another.
+
+39... Tam not persuaded that I ought to exercise my discretion
+in favour of granting an injunction. ”
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+24.
+
+25.
+
+Mr Dunning submits that, adopting the approach of Dyson J, in this case also the
+Claimants could and should have followed the course not of applying under s.42, but
+by way of s.44 of the 1996 Act or s.37 of the Senior Courts Act 1981 for a mandatory
+injunction.
+
+It seems to me clear that Mr Dunning’s submissions go too far:
+
+i) As Mr Pollock pointed out, Dyson J was dealing with a case where the
+adjudicator had concluded that a sum was due under the contract which could
+have been the subject of an application for summary judgment. That is not the
+case here. It is plain that this was not a provisional award, nor an interim
+payment. As was emphatically stated by Mr Pollock, the Arbitrators were not,
+as Mr Dunning contended, “enforcing a putative substantive obligation on an
+interim basis”.
+
+ii) There is no purpose in there having been an application under s.44 or s.37 for a
+mandatory injunction, when there had been a straightforward order made by
+the Arbitrators, after considering the matter in great depth and hearing detailed
+submissions, leading them to make an order by way of interim measures. In
+any event, from the point of view of enforcing compliance, a Court order
+under s.42 and an injunction under s.44 would have the same effect (and
+would lead to identical or similar remedies if not complied with).
+
+iii) Dyson J concluded that he was exercising a discretion not to make a s.42
+order, not that he had no jurisdiction to make one.
+
+iv) As is clear from s.41(5), referred to above, it provides for the making of a
+peremptory order where there is a failure by a party to comply with “any order
+or directions of the tribunal”. Mr Dunning sought to point to s.41(1) as giving
+context. But that ignores s.40, upon which he relies for his argument, the
+General duty of parties. S.40(1) requires such parties to do “all things
+necessary for the proper and expeditious conduct of the arbitral proceedings”
+but that is then explained in terms in s.40(2), namely that “this includes
+complying with... any order... . of the tribunal” [my underlining].
+
+I said above that Mr Dunning seemed to me to go too far. In this case the parties
+clothed the Arbitrators with a power to enforce their orders, if necessary by a
+peremptory order, and including an order for the payment of money. Although the
+proper and expeditious conduct of an arbitration would normally include the parties’
+compliance with any order which the tribunal may make, nevertheless it is clear that,
+although arbitrators will in fact be making orders which they consider necessary for
+the proper and expeditious conduct of the arbitral proceedings, not every breach of
+every order will lead to a peremptory order — there must clearly be room for de
+minimis. I do not however consider that it is a requirement for arbitrators in making
+every order to spell out either that the order they are making is so necessary, or, once
+the order is made and a party persists in not complying with it, that it is necessary for
+the proper and expeditious conduct of the arbitration that the party should so comply.
+There is neither any need for arbitrators to spell out such words, nor (as so often has
+been said) a need for the Court to be astute to construe detailed reasons such as were
+here given by the Arbitrators in a context of assuming that experienced arbitrators are
+in some way failing to comply with their duty.
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+26.
+
+27.
+
+Mr Pollock points out the detailed submissions that were made to the Tribunal prior to
+the 10 July Ruling by the Claimants and responded to in terms by the Respondent,
+some of which I have set out in paragraphs 6 to 8 above. The Arbitrators were
+certainly reminded of American Cyanamid principles, and Lord Hoffmann,
+unsurprisingly, referred to the balance of justice. However, it is entirely clear that
+they were being asked to make, and were considering, an interim measures order to
+preserve the arbitration and the subject matter of the claims. I refer in particular to
+paragraphs 12, 76 and 77 of the Claimants’ submissions, set out in paragraph 6 above,
+and paragraph 122 of the Respondent’s set out in paragraph 7. The Arbitrators did not
+spell out a reference to the “proper and expeditious conduct” of the arbitration, but
+they clearly concluded that it was appropriate that the status quo ante, whereby the
+Respondent paid for what was lifted, should be restored, and that that was necessary
+for Dana in particular to be able to continue with the arbitration and be in a position to
+obtain any relief. This was not an order on the basis of an assessment of the eventual
+outcome, but of a return to the status quo irrespective of the outcome. It is quite clear
+that clause 16(e) of the Heads of Agreement (set out in paragraph 3 above) was at the
+very forefront of the Arbitrators’ minds (see for example paragraph 9(21) above).
+Their Order was neither intended to nor did prejudge the merits, as Lord Hoffmann
+made clear (6 May 2014 Day 1/164), but it was effectively preserving the subject
+matter of the arbitration, namely the rights under the 25 year contract which the
+parties were disputing. When that order was not complied with, it is even plainer that
+a further order was required for the same purpose, and that the order and compliance
+with it were required for the “proper and expeditious conduct” of the arbitration.
+Lord Hoffmann concluded (21 September 2015 at 101/103) that the Arbitrators had
+jurisdiction to make the order, and I similarly conclude that this Court has jurisdiction
+to make a s.42 order to enforce it. The Court is not, as Lord Fraser would describe it,
+intervening in the arbitral process, but assisting the Arbitrators to enforce compliance
+with their orders.
+
+The second ground upon which Mr Dunning challenges the making of a s.42 order is
+by reference to the need within s.41(5) for the Respondent to have been given an
+opportunity to show sufficient cause in respect of non-compliance. This contention is
+put in two ways:
+
+i) First that if the order is now to be interpreted as one which required the
+Arbitrators to have been satisfied that the making of such order was for the
+proper and expeditious conduct of the arbitral proceedings or that the
+Respondent’s failure to comply with it was a failure to do all things necessary
+for the proper and expeditious conduct of the arbitration, that was not spelt
+out. If the basis for the Arbitrators’ conclusion was that if the order were not
+made Dana could be ‘driven from the judgment seat’, the Respondent would,
+and it is suggested could, have addressed that point, or at any rate addressed it
+differently from the manner in which they made the submissions they did. I
+am however entirely satisfied that the parties before the Arbitrators knew what
+the issues were, and knew that the Claimants’ case was that if the status quo
+ante of payment for the products were not restored there could be catastrophic
+effects, including the inability of the Claimants to proceed with the arbitration
+and/or the loss of the Claimants’ rights under the 25 year contract.
+Opportunity to make representations to the contrary was fully taken up by the
+Respondent.
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+Issue 2
+
+28.
+
+ii)
+
+The second contention is by reference to the precise wording of the 17 October
+Ruling at paragraph 30. It is important to appreciate that the previous order of
+10 July 2014 had not been complied with, and remained in force, and what the
+Arbitrators were attempting to do was to put the Claimants at least in part into
+the position they would have been in if the earlier order had been complied
+with. Mr Dunning complains that the order that was made effectively turned
+into a peremptory order after 30 days, without giving the Respondent any
+further opportunity to make submissions. However, it is quite clear that what it
+was, however phrased, was a peremptory order that was effectively suspended
+for 30 days, to give the Respondent a last opportunity to make payment before
+it took effect. All the submissions that could possibly have been expected had
+been made, and the position could only be exacerbated if there had still been
+no payment (as in fact was the case) after another 30 days. It is quite plain that
+the Respondent was given the fullest opportunity to show sufficient cause.
+
+I turn to the question of state immunity, to which the Respondent submits that it is
+entitled as a separate entity (see paragraph 2 above). It consequently denies that the
+Claimants are entitled to any relief against it and asserts its own entitlement to a
+declaration pursuant to CPR Part 11. The relevant sections of the SIA are as follows:
+
+i)
+
+The starting point is s.14:
+
+“(1) The immunities and privileges conferred by this Part of
+this Act apply to any foreign or commonwealth State other than
+the United Kingdom; and references to a State include
+references to—
+
+(a) the sovereign or other head of that State in his public
+capacity;
+
+(b) the government of that State; and
+(c) any department of that government,
+
+but not to any entity (hereafter referred to as a “separate
+entity”) which is distinct from the executive organs of the
+government of the State and capable of suing or being sued.
+
+(2) A separate entity is immune from the jurisdiction of the
+courts of the United Kingdom if, and only if—
+
+(a) the proceedings relate to anything done by it in the
+exercise of sovereign authority; and
+
+(b) the circumstances are such that a State (or, in the case of
+proceedings to which section 10 above applies, a State
+which is not a party to the Brussels Convention) would have
+been so immune.
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+(3) If a separate entity (not being a State’s central bank or
+other monetary authority) submits to the jurisdiction in respect
+of proceedings in the case of which it is entitled to immunity by
+virtue of subsection (2) above, subsections (1) to (4) of section
+13 above shall apply to it in respect of those proceedings as if
+references to a State were references to that entity.
+
+(5) Section 12 above applies to proceedings against the
+constituent territories of a federal State; and Her Majesty may
+by Order in Council provide for the other provisions of this
+Part of this Act to apply to any such constituent territory
+specified in the Order as they apply to a State.
+
+(6) Where the provisions of this Part of this Act do not apply to
+a constituent territory by virtue of any such Order subsections
+(2) and (3) above shall apply to it as if it were a separate
+entity.”
+
+ii) Arbitration is provided for by s.9:
+
+“(1) Where a State has agreed in writing to submit a dispute
+which has arisen, or may arise, to arbitration, the State is not
+immune as respects proceedings in the courts of the United
+Kingdom which relate to the arbitration.”
+
+iii) 8.13 provides in material part as follows:
+“(2) Subject to subsections (3) and (4) below—
+
+(a) relief shall not be given against a State by way of
+injunction or order for specific performance or for the
+recovery of land or other property; and
+
+(b) the property of a State shall not be subject to any process
+for the enforcement of a judgment or arbitration award or,
+in an action in rem, for its arrest, detention or sale.
+
+(3) Subsection (2) above does not prevent the giving of any
+relief or the issue of any process with the written consent of the
+State concerned; and any such consent (which may be
+contained in a prior agreement) may be expressed so as to
+apply to a limited extent or generally; but a provision merely
+submitting to the jurisdiction of the courts is not to be regarded
+as a consent for the purposes of this subsection.”
+
+iv) So far as material s.2 provides:
+“(1) A State is not immune as respects proceedings in respect of
+
+which it has submitted to the jurisdiction of the courts of the
+United Kingdom.
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+29.
+
+(2) A State may submit after the dispute giving rise to the
+proceedings has arisen or by a prior written agreement; but a
+provision in any agreement that it is to be governed by the law
+of the United Kingdom is not to be regarded as a submission.”
+
+The first group of questions is as follows:
+
+i) Was the 25 year Heads of Agreement with the Claimants entered into by the
+KRG in the exercise of sovereign authority?
+
+ii) Was that sovereign authority its own sovereign authority, or that of Iraq (see
+Issue 2(b) in paragraph 16 above).
+
+iii) If so, pursuant s.14(2)(a) do these proceedings relate to anything done by KRG
+in the exercise of such sovereign authority?
+
+I shall take the first two of these questions together.
+
+Sovereign Authority
+
+30.
+
+The locus classicus for discussion of this question, fittingly in these days in which
+Latin has, by virtue of the Times Latin crossword, seemingly returned to
+respectability, is the discussion of the difference between acts ‘jure gestionis’ and acts
+‘jure imperii’, which Lord Wilberforce addressed in I Congreso del Partido [1983] 1
+AC 244 at 262. He there translated them, in a way which is strangely not quite as
+helpful in English as in Latin, as the difference between a sovereign or public act and
+a private act, meaning an act of private law character such as a private citizen might
+have entered into. Lord Goff returned to what he called Lord Wilberforce’s
+“authoritative statement” in Kuwait Airways Corporation v Iraqi Airways Co
+[1995] 1 WLR 1147 at 1158D, a case in which a plainly governmental act, being the
+expropriation of the Kuwait Airways fleet by the Government of Iraq, was followed
+by what were concluded to be commercial acts, namely the commercial running of
+those aircraft. Lightman J in In re Banco Nacional De Cuba [2001] 1 WLR 2039
+relied upon the analysis by Lord Wilberforce and by Lord Goff, particularly at
+paragraph 28, where he concluded on the facts of that case:
+
+“28. On the other hand BNC and BCC entered into what was in
+form a private law contract and completed it as such. There is
+no evidence that the sale was pursuant to any legislative or
+executive direction. In this respect the agreement is in a quite
+different position from the rest of the reorganisation which was
+effected by legislation. In the language of Lord Wilberforce in
+Congreso del Partido [1983] 1 AC 244, 263, everything was
+done as between vendor and purchaser: there was no exercise
+and no need for exercise of sovereign powers. The private law
+character of the transaction is not discoloured by the context in
+which the agreement was executed, i.e. the fact that the parties
+to it regarded the transfer of the shares to BCC as an obvious
+and necessary sequel to the statutory reorganisation. Nor is its
+private law character controverted by the purpose or motive
+behind the transaction of serving the interests of the state in
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+31.
+
+32.
+
+bringing to fruition the completion of the reorganisation of
+banking in the final form which it sought. I therefore hold that
+BCC’s entry into the completion of the agreement were
+commercial rather than governmental (albeit the parties to the
+agreement were both state-owned entities) and that accordingly
+BCC enjoys no immunity in respect of the transaction in
+question.”
+
+In Koo Golden East vy Bank of Nova Scotia [2008] QB 733 Sir Anthony Clarke MR
+concluded at paragraphs 40-42 that the Central Bank of Mongolia was a separate
+entity within the meaning of the SIA and concluded that it entered into the contract
+with the claimant in the exercise of sovereign authority because “the purpose of the
+transactions included the refining of the gold and the placing of a quantity of refined
+gold on the unallocated account at the bank . . . for the purposes of increasing
+Mongolia’s currency reserves”. Mr Pollock criticises this judgment because neither
+del Partido or Kuwait Airways, nor indeed Banco Nacional De Cuba were, it
+seems, cited.
+
+Mr Dunning refers inter alia to the Recitals to the Heads of Agreement, including (A),
+(B), (C) and (F) set out in paragraph 3 above, and above all to paragraph 9 also there
+set out. Mr Hamlan, the Minister of Finance of the KRI has produced a witness
+statement, which explains the constitutional background:
+
+“9. The Kurdistan Region is governed by the Presidency of the
+Kurdistan Region and the KRG. The capital city of the
+Kurdistan Region, and the seat of the KRG, is Erbil. The KRG
+was formed in 1992 by the Kurdistan National Assembly (later
+the Kurdistan Parliament), the first democratically-elected
+parliament in Kurdistan (and in Iraq). The KRG exercises
+executive power according to the Kurdistan Region’s laws, as
+enacted by the Kurdistan Parliament, and the Iraqi Federal
+Constitution. The Council of Ministers performs the KRG’s
+executive functions. The Council is composed of the Prime
+Minister, the Deputy Prime Minister, and 22 further cabinet
+Ministers. The current government, led by Prime Minister
+Nechirvan Barzani, took office in June 2014.
+
+10. The Iraqi Federal Constitution was negotiated in 2005. The
+Iraqi people ratified it by referendum on 15 October 2005 and
+it entered into force in 2006.
+
+11. Iraq is a federal state. The Iraqi Federal Constitution
+describes a federal, de-centralized system of government.
+Sovereignty is shared between the federal government of Iraq,
+the KRG (which is recognised in Article 117 of the Iraqi
+Federal Constitution) and the various provinces or
+“governorates” of Iraq. . .
+
+12. The Kurdistan Region and the KRG have a special status
+under the Iraqi Federal Constitution. Article 117, First of the
+Iraqi Federal Constitution provides:
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+“This Constitution, upon coming into force, shall recognize
+the region of Kurdistan, along with its existing authorities,
+
+as a federal region.”...
+13. Although the Iraqi Federal Constitution contemplates the
+creation of further regions as components of the federation,
+only the Kurdistan Region is recognised in the Iraqi Federal
+
+Constitution as a federal region exercising sovereign powers
+conferred under the Iraqi Federal Constitution.
+
+14. The KRG is the lawful, democratically-elected government
+of the Kurdistan Region. It acts on behalf of the Kurdistan
+Region and has sovereign powers derived from and conferred
+by the Constitution. Article 121 First and Fifth of the Iraqi
+Federal Constitution provide:
+
+“The regional powers shall have the right to exercise
+executive, legislative, and judicial powers in accordance
+with this Constitution, except for those authorities stipulated
+in the exclusive authorities of the federal government.” ...
+
+“The regional government shall be responsible for all the
+administrative requirements of the region, particularly the
+establishment and organization of the internal security
+forces for the region such as police, security forces, and
+guards of the region.”.. .
+
+15. Further, Article 121, Second, states:
+
+“In case of a contradiction between regional and national
+legislation in respect to a matter outside the exclusive
+authorities of the federal government, the regional power
+shall have the right to amend the application of the national
+legislation within that region.” . . .”
+
+33. The other relevant Articles of the Constitution, not there expressly referred to, would
+appear to be as follows:
+
+“Article 111:
+
+Oil and gas are owned by all the people of Iraq in all the
+regions and governorates.
+
+Article 112:
+
+First: The federal government, with the producing
+governorates and regional governments, shall undertake the
+management of oil and gas extracted from present fields,
+provided that it distributes its revenues in a fair manner in
+proportion to the population distribution in all parts of the
+country, specifying an allotment for a specified period for the
+
+ 
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+damaged regions which were unjustly deprived of them by the
+former regime, and the regions that were damaged afterwards
+in a way that ensures balanced development in different areas
+of the country, and this shall be regulated by a law.
+
+Second: The federal government, with the producing regional
+and governorate governments, shall together formulate the
+necessary strategic policies to develop the oil and gas wealth in
+a way that achieves the highest benefit to the Iraqi people using
+the most advanced techniques of the market principles and
+encouraging investment.
+
+Article 115:
+
+All powers not stipulated in the exclusive powers of the federal
+government belong to the authorities of the regions and
+governorates that are not organized in a region. With regard to
+other powers shared between the federal government and the
+regional government, priority shall be given to the law of the
+regions and governorates not organized in a region in case of
+dispute.”
+
+34. It is common ground that there has been a dispute between the Federal Government of
+Iraq (“FGI”) and the KRG as to who is entitled to control of Kurdistan’s oil and gas
+resources. Reza Mohtashami, of the Claimants’ solicitors, described this in part, in
+his second witness statement:
+
+“23. It is public knowledge that since the coming into force in
+May 2006 of current Iraq Constitution (approved by national
+referendum in 2005) there have been important disagreements
+between the FGI and the KRG as to the control of Iraq’s oil
+and gas resources and how the revenues derived therefrom are
+to be shared. In summary, the FGI and the KRG disagree on
+many issues including: (a) the jurisdiction and power of the
+KRG to award petroleum contracts; (b) the scope of
+cooperation between the FGI and the KRG in relation to the
+management of petroleum fields; and (c) the jurisdiction and
+power of the KRG to export petroleum produced in the
+Kurdistan Region. The dispute between the FGI and the KRG
+is pending before the Federal Supreme Court of Iraq and has
+been raised in several other legal fora in response to the
+KRG’s attempts since 2014 to undertake petroleum exports
+independently of the FGI.
+
+24... the FGI does not recognise the petroleum contracts
+granted by the KRG and considers the Federal Ministry of Oil
+and its subsidiary agency and marketing arm, the State Oil
+Marketing Organisation (SOMO), as the sole entity empowered
+to export petroleum produced anywhere in Iraq.”
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+35.
+
+The Claimants have exhibited a letter sent to Crescent by the Iraqi Federal Minister of
+Oil dated 17 December 2007 asserting that all contracts recently signed with the
+Ministry of Energy and Natural Resources of KRG without authorisation and
+approval of the Government of Iraq were “in violation of the prevailing Iraqi law”.
+
+In the context of the dispute between the FGI and the KRG as to who was entitled to
+the oil fields, an opinion was produced by Professor James Crawford, giving his
+advice, which was in fact relied upon, as I understand it, by both parties before the
+Arbitrators. His advice includes the following paragraph:
+
+“19. Article 112, First, regulates oil and gas “extracted from
+present fields”. It gives the federal government management
+powers in relation to that oil and gas, subject to three
+important qualifications. First, the management is to be
+undertaken “with the producing governorates and regional
+governments”, which I take to mean jointly and in cooperation
+with those governorates or governments or at least with their
+approval. Secondly, the joint management appears to be
+limited to oil and gas after it has been extracted, on which
+basis the management of the extraction and production process
+itself falls outside the federal joint management power. Joint
+federal power in respect of such oil and gas will be limited,
+presumably, to processing, transportation and export. Thirdly,
+revenues from present fields must be distributed in a fair
+manner, as stipulated in the Article.
+
+20. On its ordinary interpretation, the term “present fields”
+means fields already under production. This is indicated by the
+word “extracted” and by the reference to “producing”
+governorates. The clear inference is that Article 112, First,
+covers oil and gas extracted from fields presently in
+production. By contrast, areas merely being explored, e.g. by
+seismic survey, are not “present fields”; indeed they are not
+fields at all but large tracts of territory, most or all of which
+will never produce any hydrocarbons. On this basis, fields not
+producing, developed or even discovered - and the oil and gas
+yet to be extracted from them - fall outside Article 112, First.
+They fall under the Constitution to be managed by the relevant
+regional government alone.
+
+21. The time for determining whether a field is “present” or
+otherwise is the date of the entry into force of the Constitution
+(viz, 2006). I am instructed that at that date there were no
+producing fields in the present territory of the Kurdistan
+Region, i.e. no “present fields” in the sense indicated above. It
+follows that the provision for joint management under Article
+112, First, has no application. On the other hand there are oil
+and gas contracts with the KRG entered into prior to the
+coming into force of the Constitution and providing for future
+exploration, appraisal and, potentially, production. Under
+Article 141 all such contracts, entered into by Kurdistan since
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+36.
+
+1992, are considered valid in accordance with their terms (save
+and to the extent that they contradict some express provision of
+the Constitution).”
+
+His Executive Summary includes the following:
+
+“(1) Article 112 of the Constitution of Iraq gives only a
+qualified right to the Federal Government to
+“undertake the management of oil and gas extracted
+from present fields”. This right is to be exercised
+“with the producing governorates and_ regional
+governments”, and is subject to a condition of fair
+distribution of revenue on a basis regulated by law. As
+to non-producing and future fields, there is under
+Article 112, Second, no federal right to manage,
+although regional management of such fields has to
+respect strategic policies to be formulated by the
+federal government “with” the KRG.
+
+(3) The KRG is itself bound by Article 111: it is not open to
+it unilaterally and permanently to take over
+management of present (i.e. producing) fields in the
+absence of any arrangements for revenue sharing. As to
+fields other than present fields, the federal government
+has no unilateral rights under Article 112, Second, and
+in the absence of agreed strategic policies, the KRG is
+entitled to proceed in the exercise of its own
+constitutional authority and in compliance with its own
+constitutional duties.”
+
+Ireach the following conclusions. The Heads of Agreement relate to the grant for not
+less than 25 years of the right to operate the gas fields. It is not simply a contract for
+the sale of gas by a government to a commercial party, but the assignment of rights
+granted to the KRG under the Constitution to a third party. Mr Pollock submitted that
+the contract was simply “designed to ask us, and commercial operators, to carry out
+drilling, which is entirely a commercial operation, to build pipelines, a commercial
+operation, to get the gas up and to treat it, a commercial operation”. I note however
+that in Svenska Petroleum Exploration AB v The Government of the Republic of
+Lithuania [2007] QB 886, upon which both parties rely, Moore-Bick LJ, delivering
+the judgment of the Court considered, at paragraph 133, that although the first
+instance Judge (Gloster J) had pointed out that the agreement contained many of the
+hallmarks of a commercial transaction, “the fact that it relates to the exploitation of
+oil reserves within the territory of the state suggests that it involves an exercise by the
+state of its sovereign authority in relation to its natural resources and so falls outside
+the realm of activities which a private person might enter into.” Certainly, as Mr
+Dunning points out, and as is apparent from the Constitution, the ownership and
+management of oil and gas is plainly vested in “the people of Iraq” and the respective
+Governments, this is not simply a contract for sale, but a vesting of long-term rights,
+and the parties themselves thought it necessary to include in the Heads of Agreement
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+37.
+
+38.
+
+the waiver of immunity clause set out in paragraph 3 above. I am persuaded on
+balance that KRG entered into this agreement in the exercise of sovereign authority.
+
+However it is quite clear that this was an exercise of the sovereign authority of the
+KRG itself, not of Iraq. Professor Crawford’s advice creates a powerful case that it
+was only the “present fields”, i.e. the fields already producing at the date of the entry
+into force of the Constitution in 2006 (which applies to neither of these two fields),
+which vested in the FGI, and that the KRG has consequently at all times been acting
+in its own right. They would say so, and, because the FGI alleges that the KRG has
+had no right to do what they have done, the FGI would also assert that what was done
+was not done by way of exercise of the sovereign authority of Iraq. Consequently, as
+both parties before me accept that this is a necessary requirement (see paragraph 16
+(Issue 2(b)) referred to above), the Respondent, as a separate entity, does not have the
+protection of s.14(2) of the SIA.
+
+Tf I had reached a contrary conclusion in this regard, then I would have needed to
+have considered whether, within s.14(2), these proceedings relate to anything done by
+KRG in the exercise of sovereign authority. Mr Pollock refers to NML Capital Ltd v
+Republic of Argentina [2011] 2 AC 495. This was a case in which the cause of
+action relied upon in a fresh proceeding in the English Court was an action on a
+foreign judgment, being a final judgment in New York, which itself arose out of a
+commercial transaction. The Supreme Court decided by a majority that proceedings
+“relating to a commercial transaction”, within the meaning of s.3 of the SIA, did not
+extend to proceedings for the enforcement of a foreign judgment which itself related
+to a commercial transaction, and that the English proceedings for the enforcement of
+the judgment obtained by the claimant in New York related to that judgment, and not
+to the debt obligations upon which the New York proceedings were based. The
+careful logic of the majority is clear from the speech of Lord Mance at paragraphs 85-
+86. It is plain that he addressed the difference between a cause of action on a foreign
+judgment, which normally precludes reinvestigation of the facts and law thereby
+decided, and a claim on a cause of action, which does involve establishing the facts
+constituting the cause of action; and that the underlying cause of action had merged in
+the foreign judgment. I am satisfied however that none of that careful logic applies to
+this case, which is an application to enforce a peremptory order of Arbitrators who are
+in the process of resolving the dispute relating to the rights of the parties under the
+Heads of Agreement. Had I concluded that the Heads of Agreement fell within the
+protection of the SIA, I would have had no difficulty in concluding that the
+application before me now relates to it.
+
+If there was state immunity, has it in any event been lost by virtue of s.9 SIA?
+
+ 
+
+39.
+
+S.9 SIA:
+
+i) The first question is whether the s.42 application is a proceeding in the Courts
+of the United Kingdom which relates to the arbitration. Direct assistance can
+be drawn from the judgment of Moore-Bick LJ in Svenska Petroleum
+referred to above. The question in that case specifically referred to an
+application to enforce an award as a judgment:
+
+“117. Arbitration is a consensual procedure and the principle underlying
+section 9 is that, if a state has agreed to submit to arbitration, it has
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+ii)
+
+rendered itself amenable to such process as may be necessary to render the
+arbitration effective . . . In our view an application . . . for leave to enforce
+an award as a judgment is . . . one aspect of its recognition and as such is
+the final stage in rendering the arbitral procedure effective. Enforcement
+by execution on property belonging to the state is another matter, as section
+13 makes clear.”
+
+Mr Dunning refers to ETI Euro Telecom International NV v Republic of
+Bolivia [2009] 1 WLR 665, where an application was made pursuant to s.25
+of the Civil Jurisdiction and Judgments Act 1982 for a freezing order in
+support of the bringing of an arbitration in New York. The Court of Appeal
+upheld the defendant’s immunity because (per Lawrence Collins LJ):
+
+“\.. it is plain that there is nothing in section 9 which overrides the
+prohibition in section 13. Proceedings for a freezing order to preserve the
+position pending execution of an award are within section 13, and are not
+‘proceedings which relate to the arbitration’ for the purposes of section 9.”
+
+It is plain however that, although the Court noted that there might have been,
+but was not, an application under s.44 of the 1996 Act, these were proceedings
+external to the arbitration. The proceedings in this case however, initiated
+with the permission of the Arbitrators and pursuant to the 1996 Act and in
+order to enforce an order of the Arbitrators, plainly do relate to the
+arbitration.
+
+Has the Respondent submitted to the Courts of the United Kingdom? This is
+only relevant to a sophisticated argument between the parties with regard to
+the effect of s.14(3). If the Respondent has submitted to the jurisdiction, as
+provided for by s.14(3), then though a separate entity, it is entitled to the
+protection of s.13. Mr Dunning submitted that it has submitted and Mr
+Pollock that it has not: he submitted that s.9 does not operate by virtue of any
+submission to the jurisdiction, but simply records a loss of immunity, as with
+ss. 5, 6, 7 and 8 SIA. If Mr Pollock be right, then s.14(3) does not engage, and
+thus, given that by virtue of s.9 SIA the Respondent has lost its immunity, and
+it is not a State, and so is thus not automatically entitled to s.13 protection, it
+would seem that as a separate entity in such circumstances it would not have
+the benefit of s.13. There is no direct authority on this point, and the silent
+assumption that s.13 would apply even where s.9 applies in, for example,
+Svenska Petroleum can be explained by the fact that the defendant in that
+case was a State, not a separate entity. However Mr Dunning draws my
+attention to academic authority that consent to submit to arbitration constitutes
+a submission to any proceedings brought in the United Kingdom Courts in
+relation to such an arbitration (Fox & Webb The Law of State Immunity Bt
+Ed) 188 and Dickinson: State Immunity at 4.069). It seems to me clear that
+it cannot have been intended to exclude a separate entity agreeing to
+arbitration from the protection of s.13, and I have no doubt that s.14(3) should
+be so construed.
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+$.13(2) SIA
+40.
+
+Al.
+
+The next question is whether, if I had found that the Respondent was entitled to state
+immunity but for its submission within the meaning of s.9, but was entitled to the
+protection of s.13, it could have claimed such protection. It is common ground that
+the present case does not relate in any way to s.13(2)(b): this is not an application to
+enforce an award. The question is whether, when s.13(2)(a) provides that “relief shall
+not be given against a State [or, on the assumptions found above, a separate entity] by
+way of injunction”, this application for an order of the Court under s.42 is for an
+injunction. It is obviously common ground that if there had been application under
+s.44 of the 1996 Act, that would have been for an injunction:
+
+i)
+
+ii)
+
+Mr Dunning relies on the words of Dyson J in Macob, which I have set out in
+paragraph 23 above. Dyson J described a s.42 order as a mandatory injunction
+in paragraph 35 and in paragraph 38 (3 times), and in paragraph 36, although
+he contrasted a s.42 order with an injunction granted pursuant to s.37 of the
+Supreme (now Senior) Courts Act 1981, he again described a s.42 order as a
+“mandatory injunction to enforce a payment obligation”. He plainly
+deprecated the use of such an order in the field of building contracts
+adjudication, not least in carrying with it the potential for contempt
+proceedings and, as I have said in paragraph 23 above, I understand that a s.42
+order is no longer available within the Scheme for Construction Contracts. It
+is not clear whether there was any argument before him based upon any
+distinction between a s.42 order and a mandatory injunction. None appears in
+the course of his judgment: all that is said in paragraph 33 is that “there was
+some limited discussion as to whether, s.42 apart, the appropriate procedure
+was by way of writ and an application for summary judgment, or by way of a
+claim for a mandatory injunction’, so that it at least looks as though in the
+course of argument a s.42 order was not being equated with a mandatory
+injunction. However such was the decision of a Judge who was then in charge
+of the new Technology and Construction Court, albeit a first instance Judge.
+
+Mr Pollock however relies upon the decision of the Court of Appeal, Soleh
+Boneh International Limited vy Government of the Republic of Uganda
+[1993] 2 Lloyd’s Law Rep 208 CA, in which Staughton LJ gave the judgment,
+with which Neill and Roach LJJ agreed. The Ugandan Government
+complained that an order requiring them to provide security of US$5 million,
+in return for obtaining an adjournment of enforcement proceedings, was an
+injunction, and relied upon s.13(2)(a). Its Counsel had pointed out that a copy
+of the order was endorsed with a penal notice, directed at the High
+Commissioner of Uganda in the United Kingdom personally. Staughton LJ
+accepted at 213 the Defendant’s contrary “robust” submission that the order
+was “plainly not an injunction”. He concluded that “in the context of
+§.13(2)(a). . . I would not hold that a simple order for the payment of money
+from no specified source is an injunction”. In case he was wrong, he varied
+the order, but his conclusion was in my judgment a binding finding of the
+Court of Appeal, and one directly applicable to this case.
+
+I conclude that an application for a s.42 order is not an application for an injunction,
+such that s13(2)(a) would not have applied.
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+Waiver
+
+42.
+
+The third question relates to waiver. If there was statutory immunity and if s.13(2)(a)
+would otherwise apply, contrary to my findings in those regards, has the Respondent
+waived immunity by reference to the clause set out in paragraph 3 above? I repeat it
+here:
+
+“The KRG waives on its own behalf and that of the KRG any
+claim to immunity for itself and assets”
+
+It seems clear that the second reference to KRG must be a reference to KRI. These
+words, though concise, are robust. It is common ground that a waiver must be
+construed strictly and sensibly, and, as is stated in s.14(3) a written consent “may be
+expressed so as to apply to a limited extent or generally”. There is no issue between
+the parties that this waiver of immunity clause removes from the Respondent any
+adjudicative immunity, as it was referred to in the course of the hearing, nor was any
+issue raised at this hearing (though KRG reserved its position), because of the
+reference to assets, as to any immunity against execution. But what Mr Dunning
+submits is that it does not waive the immunity against injunctive relief (if that is,
+contrary to my conclusions above, what s.42 constitutes) or indeed against the other
+forms of relief specified in s.13(2), specific performance and recovery of land or other
+property. Therefore the question for me is whether the wording of the waiver in this
+case would exclude immunity against what one might call ‘s./3(2)(a) relief,
+including relief by way of injunction:
+
+i) Mr Pollock refers to the decision of Saville J in A Company Ltd vy Republic
+of X [1990] 2 Lloyds Law Rep 520. In that case there was a waiver to the
+effect: “The Ministry of Finance hereby waives whatever defence it may have
+of sovereign immunity for itself or its property (present or subsequently
+acquired)”. A Mareva injunction was sought against the defendant, which
+claimed sovereign immunity. Saville J concluded that the waiver “does
+amount to the agreement and consent of the State that its property can be
+made the subject of a Mareva injunction” (at 523). Mr Pollock submits that
+this is directly persuasive. Mr Dunning points out: (i) that Saville J may have
+been affected by the fact that, as he specifically stated at 523, the contract of
+which this waiver formed part was “undoubtedly a commercial bargain
+between the parties”: (ii) that a Mareva injunction does have an obvious
+impact upon a defendant’s property, such that it could be said to fall expressly
+within the wording: (iii) that Saville J said (also at 523) “it is not, of course,
+necessary to decide whether clause 6 does amount to consent to other forms of
+injunction”.
+
+ii) Mr Pollock refers to Sabah Shipyard (Pakistan) v Pakistan [2002] EWCA
+Civ 1643. The waiver clause there provided that the defendant “waives any
+right of immunity which it or any of its assets... now has or may in the future
+have in any jurisdiction ... and... consents generally in respect of the
+enforcement of any judgment against it . . . to the giving of any relief or the
+issue of any process in connection with such proceedings (including without
+limitation, the making, enforcement or execution against or in respect of any
+of its assets)”. In that case the Court of Appeal upheld an anti-suit injunction
+“to maintain the status quo pending judgment” (paragraph 23). Again this was
+
+ 
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+43.
+
+a clause contained in what Waller LJ described as “an ordinary commercial
+transaction”; it is plain however that the Court concluded that, albeit not
+specifically mentioned in the relatively long list of examples, there was waiver
+of immunity in respect of an anti-suit injunction. Mr Dunning refers however
+to Arab Banking Court v International Tin Council [1986] Int LR 1 where
+the Defendant was found to be immune from a Mareva injunction. There was
+there a very general clause submitting to the jurisdiction of the English Courts,
+and Article 6(1)(a) of the International Tin Council (Immunities and
+Privileges) Order of 1972 provided that the Council was immune from suit and
+legal process except to the extent that “it shall have expressly waived its
+ty in a particular case”. By reference to the then wording of Dicey &
+Morris, The Conflict of Laws (10 Ed) Vol 1 p. 176 to the effect that “waiver
+of immunity from jurisdiction in civil or administrative proceedings does not
+imply waiver of immunity in respect of execution of the judgment, for which a
+separate waiver is required’, Steyn J concluded that what he called the
+“narrower construction” of the jurisdiction clause should be accepted.
+
+ 
+
+There is no reported authority which suggests that which Mr Dunning was effectively
+submitting, namely what one might describe as ‘trifurcation’ of the question of
+immunity, by way of construing a waiver clause to see whether it covers what is now
+suggested to be three different matters, adjudication, s./3(2)(a) relief and execution.
+He referred to the passages in Fox & Webb and Dickinson, to which I have made
+reference above, and they all address the same point as was made by Steyn J by
+reference to the then edition of Dicey & Morris, namely a careful distinction
+between immunity from suit and immunity against execution. Plainly on any sensible
+construction of the waiver clause in the present case, it will be sufficient for that
+purpose. However Mr Dunning refers to the latest edition of Dicey, Morris &
+Collins: The Conflict of Laws (15" ed) at 345, which reads as follows:
+
+“The immunity from injunctive relief and execution is distinct
+from immunity from suit, and applies even if one of the
+jurisdictional exceptions applies. Thus, even though a State is
+not immune as respects proceedings relating to a commercial
+transaction, the State cannot be enjoined from breach of the
+contract. But the immunity from injunctive relief and execution
+is subject to two important exceptions. First, such relief may
+be given or process may be issued with the written consent
+(which may be contained in a prior agreement) of the State
+[Footnote reference is made to the Tin Council case and to
+Sabah where “waiver of immunity in a contractual submission
+to the English jurisdiction was held to extend to an anti-suit
+injunction restraining proceedings in Pakistan” ]. It has been
+held that a waiver of immunity in relation to property will
+allow a freezing injunction to be made against a foreign State,
+but that a contractual waiver of immunity from execution will
+not be regarded as extending to diplomatic premises.” [There
+is a footnote reference to Saville J’s judgment in A Company,
+with a note that on the latter (but not the former) point there
+was criticism by FA Mann in 1991 107 LQR 362].
+
+ 
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+44.
+
+Issue 3
+
+4S.
+
+46.
+
+47.
+
+48.
+
+I do not conclude that it is necessary for a waiver to spell out consent in respect of
+s.13(2)(a) relief, which, although this is not addressed by Dicey extends, as set out in
+paragraph 42 above, considerably wider, beyond simply injunctive relief, to other
+kinds of ‘suit’. I conclude that if the Respondent had been otherwise entitled to state
+immunity (which I have, as set out above, concluded it is not) the clause here in
+question would have been sufficient to amount to a waiver of immunity from suit,
+including an injunction, if I had not reached the conclusion I did in paragraph 41
+above.
+
+I turn finally to the question of my discretion, which both parties accept I have (see
+Issue 3 at paragraph 16 above), as to whether to make the order. Mr Dunning
+emphasises the view of Dyson J in Macob that a s.42 order for the payment of money
+should be rare — certainly in the field of building construction. Mr Pollock does not
+suggest that such an order should be frequent, but underlines that the particular facts
+of this case, and what he submits to be the egregious nature of the failure by the
+Respondent to comply with the orders of the Arbitrators in an ongoing arbitration,
+makes this exceptional.
+
+ 
+
+Both counsel referred to the words of Teare J in Emmott, where he gives examples,
+at paragraph 62, of matters which the Court may consider, when exercising its
+discretion as to whether to enforce the Arbitrators’ order:
+
+i) Mr Pollock submits that the Court should be supportive of the Arbitrators and
+not frustrate their intention. Mr Dunning, mindful of his arguments which I
+have addressed in Issue 1 above, submits that this should only be where the
+Arbitrators have acted for the purpose of the proper and expeditious conduct
+of the arbitration. As appears above, I am in any event satisfied that that was
+indeed the purpose of the Arbitrators.
+
+ii) Both sides accept that, subject to the question of change of circumstances, the
+court should not re-visit the argument before the Arbitrators provided that, as I
+am satisfied that they did here, the Arbitrators have addressed the correct
+questions. Mr Pollock submits that reconsideration should only arise where
+there has been an error of law or a serious irregularity by the Arbitrators i.e.
+something analogous to where the Court could intervene by reference to ss.67
+or 68 of the 1996 Act. That does not seem to me to put the point in any
+different way.
+
+iii) Tam entitled to consider any material change of circumstances.
+
+I accept that other matters can be considered by the Court, such as have been
+canvassed before me (iv) the issue of sovereign immunity — now dealt with, (v)
+questions of the utility of any order, (vi) if appropriate, Act of State, (vii) comity.
+
+I can deal shortly with (i) and (ii). I see no ground to interfere with or revisit the very
+carefully expressed reasoning of the Arbitrators and see no sign of any error or
+irregularity: I have already concluded that they addressed the correct questions.
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+49. With regard to (iii), and (vi), which I include here because it was not live before the
+Arbitrators:
+
+i)
+
+ii)
+
+iii)
+
+It is suggested that there has been a change of circumstance by virtue of the
+fact that the Respondent’s counterclaims have been considered to be
+sufficiently arguable to be the subject of debate at the 21 September hearing
+as to whether they amount to or constitute a set-off. It is clear however that,
+not least because the Arbitrators had previously concluded that the
+counterclaims were sufficiently arguable not to be disposed of summarily,
+there has been no material change in the approach of the Arbitrators in
+accordance with their conclusions in the 10 July Ruling and the 17 October
+Ruling. The question which the Arbitrators resolved was the restoration of the
+status quo, irrespective of the defence of set-off, i.e. the requirement that the
+previous arrangement of the Respondent paying for what was lifted should be
+restored.
+
+Mr Dunning submits that, on the evidence before me, there has been a change
+of circumstance in relation to the circumstances of the Claimants. I am
+satisfied, however, that the evidence before me does not show any
+improvement in the financial position of Dana (or of the SPV, Pearl). Indeed
+it seems clear that such financial position is more precarious because since the
+17 October Ruling, as appears in paragraphs 14 and 15 above, the Respondent
+has shut off the source of payment to the Claimants which it had temporarily
+permitted.
+
+Mr Dunning also relies on the position of the Respondent. The Respondent,
+which appears to continue to be deprived of resources from the FGI, has a
+continuing, and, no doubt, increasing, responsibility for arming the Peshmerga,
+its military arm, and coping with an increasing flood of refugees, quite apart
+from a budget deficit. Mr Dunning refers to paragraph 25 of the 17 October
+Ruling (set out in paragraph 11 above) in which the Arbitrators, while
+sympathising with the plight of the KRG, considered that they were “in no
+position to estimate the significance of these momentous events”, and that they
+lay outside the matters to which the Tribunal could conventionally have
+regard. The issue is whether, then or now, there are financial circumstances,
+possibly deteriorating such circumstances, which either the Arbitrators should
+have taken, or I should now take, into account. Mr Dunning places reliance on
+an Order dated 24 August 2015 by the Prime Minister of Kurdistan, which
+recorded a determination by the Council of Ministers that, in the light of the
+“strong and competing demands on the Kurdistan Region’s financial resources
+and the limitations on the financial resources available to the KRG”, the
+absence of a budgetary law for the two years of 2014 and 2015, the volatile
+national security situation and the continued budgetary dispute between the
+KRG and the FGI, “there are no funds available to allocate” to payment of the
+peremptory Order, and that “funds could not be paid to the above named
+companies without prejudicing the urgent demands on the KRG’s financial
+resources and priorities’. This, Mr Dunning submits, is a change of
+circumstance, equivalent to a subsequent Act of State, such as is referred to by
+Lord Hope in Kuwait Airways Corporation v Iraqi Airways Co (Nos 4 and
+5) [2002] 2 AC 883 at 1108, being a “legislative or other governmental act .. .
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+50.
+
+51.
+
+52.
+
+of a recognised foreign state or government within the limits of its own
+territory [which] the English Courts will not adjudicate upon, or call into
+question”. 1 agree however with Mr Pollock that he is not inviting me to take
+either of those courses. The Respondent’s Council of Ministers has concluded
+that there “are no funds available to allocate to the Payment”. The Arbitrators
+however plainly took notice, as do I, that in fact, had it so chosen, the
+Respondent could have secured payment to the Claimants without actually
+laying out any money themselves (see paragraphs 16 and 17 of the 17 October
+Ruling, set out in paragraph 11 above). The fact remains that, as set out in
+paragraph 14 above, since the 17 October Ruling and indeed since the Order
+by the Prime Minister of 24 August 2015, the Respondent has made and
+authorised very substantial payments to other international oil producers, but
+not to the Claimants. It is also noteworthy that the Respondent plainly was in
+a position to pay substantial monies to the Claimants in September 2015 when,
+as set out in paragraph 15 above, stating that it was only prepared to make
+payments if the Arbitrators agreed to the unorthodox step there proposed.
+There is no basis for any case, whether by way of change of circumstances or
+otherwise, for my taking a different view about the balance of justice in
+relation to the Respondent than was taken by the Arbitrators.
+
+As to (v) utility, the Respondent says that it is apparent that the purpose of the
+Claimants is to seek to issue contempt proceedings, based upon a failure to comply
+with a s.42 order, if I make it, and that that would not lead anywhere because there
+will be no remedy available upon a committal for such contempt, and/or the
+individual, Dr. Hawrami, who it is suggested may be amenable to the jurisdiction of
+this Court, would be entitled to diplomatic immunity. In the absence of any likely
+available remedy on a contempt application, Mr Dunning submits that this is simply
+illegitimate pressure by the Claimants.
+
+Mr Pollock however submits as follows:
+
+i) Now is not the time to speculate as to what remedy may be available on a
+contempt application, if such becomes necessary.
+
+ii) No assumption should be made at this stage that the Respondent will in fact
+fail to comply with an order of the Commercial Court as done in relation to the
+orders of Arbitrators.
+
+iii) This is the only way to enforce the Arbitrators’ orders, which will otherwise
+remain uncomplied with.
+
+iv) He submits that it is more than likely that a public declaration by this Court of
+failure to comply and of non-payment will be of effect upon the Respondent,
+given its role and profile internationally.
+
+Finally (vii) comity. Mr Dunning points to the fact that the Respondent is a friendly
+nation and an ally of this country, of whom, for good reason, laudatory things have
+been said by the House of Commons Foreign Affairs Committee. Comity is not
+usually used in this context: it is more usually applied in a situation in which the
+Court is pleased to pay deferential regard to the decisions of the Courts of other
+countries. It seems to me that this Court must do justice between the parties, and if a
+
+MR JUSTICE BURTON Pearl Petroleum and The Kurdistan Reg Gov Of Iraq
+Approved Judgment
+
+foreign State, or a foreign corporation, is friendly to this country, but is adjudicated by
+this Court to owe money or to have failed to comply with the order of an arbitrator or
+a Court, and not to have immunity, the political status of that defendant cannot stand
+in the way of justice.
+
+Conclusion
+53. For the reasons I have set out, the Respondent does not have state immunity in respect
+
+of the order sought, and I have jurisdiction to make that order, and in the exercise of
+my discretion I do so.
+

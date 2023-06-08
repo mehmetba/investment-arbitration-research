@@ -1,0 +1,3157 @@
+INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
+WASHINGTON, D.C.
+
+In the annulment proceeding between
+BOLIVARIAN REPUBLIC OF VENEZUELA
+
+Applicant
+
+and
+
+TIDEWATER INVESTMENT SRL AND TIDEWATER CARIBE, C.A.
+
+Respondents
+
+ICSID Case No. ARB/10/5
+
+ 
+
+DECISION ON ANNULMENT
+
+ 
+
+Members of the ad hoc Committee
+Judge Abdulqawi Ahmed Yusuf, President
+Tan Sri Dato’ Cecil W.M. Abraham
+Professor Dr. Rolf Knieper
+
+Secretary of the Committee
+Marco Tulio Montafiés-Rumayor
+
+Date of dispatch to the Parties: December 27, 2016
+
+REPRESENTATION OF THE PARTIES
+
+Representing Bolivarian Republic of
+Venezuela:
+
+Dr. Reinaldo Enrique Mufioz Pedroza
+Procurador General de la Reptblica
+Procuraduria General de la Reptiblica
+
+Av. Los Ilustres, cruce con calle Francisco
+Lazo Marti
+
+Edif. Procuraduria General de la Reptiblica,
+piso 8
+
+Urb. Santa Monica
+
+Caracas 1040
+
+Venezuela
+
+Ms. Gabriela Alvarez-Avila
+
+Mr. Eloy Barbara de Parres
+
+Curtis, Mallet-Prevost, Colt & Mosle, S.C.
+Rubén Dario 281, Pisos 8 & 9
+
+Col. Bosque de Chapultepec
+
+11580 Mexico, D.F.
+
+Representing Tidewater Investment SRL
+Tidewater Caribe, C.A.:
+
+Mr. Miguel Lépez Forastier
+Mr. Thomas L. Cubbage III
+Mr. Alexander A. Berengaut
+Ms. Clovis Trevino
+
+Mr. Mark D. Herman
+Covington & Burling LLP
+One City Center
+
+850 Tenth Street, N.W.
+Washington, D.C. 20001-4956
+United States of America
+
+Mr. Bruce Lundstrom
+Tidewater Inc.
+
+6002 Rogerdale Road
+Suite #600
+
+Houston, Texas 77072
+United States of America
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I. INTRODUCTION AND OVERVIEW OF THE APPLICATION
+Il. THEPROCEDURAL HISTORY
+Ill. THE PREVIOUS PROCEEDINGS.
+A. The Arbitration Proceeding .. 5
+B. The Revision Proceeding 8
+TV. THE PARTIES’ POSITIONS ...0......:ccceceecsessessesseessesseeeeseeseeseesessessssseseaseneeneesee 10
+(1) The Applicant 10
+A. Manifest Excess Of PoWe1S........c.cccccccsscsseesseseeteseeteseeeseeseseeseseensseesseeneseeneseenes 13
+B. — Failure to State Reasons ..........c.ccccsccccescsceseeseseeteseeeseeseseeseseeneseeneseensseeneseeneseenes 16
+C. A Serious Departure from a Fundamental Rule of Procedure.............cccc 17
+(2) The Respondents 19
+A. Manifest Excess of Power «..........ccscccsscssessesessesesesesseseeseseeseseesesnenesnsnesnenesneseenes 19
+B. Failure to State Reasons ............cccescesescssesteseseseeseseeseseesesesseseesesnesesnenssneneeneneenes 22
+C. Serious Departure froma Fundamental Rule of Procedure.............ccceeees 25
+Vv. ANALYSIS 27
+A. Introductory Observations on the Structure and Objectives of the Remedies
+under the ICSID Convention 27
+B. Article 52(1)(b): The manifest excess Of poWETS ..........ccccseeeeee
+C. Article 52(1)(d): The Serious Departure from a Fundamental Rule of
+Procedure 38
+D. Article 52(1)(e): The Failure to State Reasons .............ceccsceessesesseseeteeeeseeeeseeees 4l
+1.1. The Legal Standard 42
+1.2. The Application of the Standard 0.0... cece ees eee eeeeeeceneneneeseseseees 45
+1.3. The Consequence of the Application of the Standard «0.0.0... 51
+VI. COSTS 59
+VII. DECISION 61
+
+ 
+
+TABLE OF ABBREVIATIONS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Applicant Bolivarian Republic of Venezuela
+
+Application Application for Annulment of the Award rendered on March
+13, 2015, dated July 9, 2015
+
+Award Tidewater Investment SRL and Tidewater Caribe, C.A. v. the
+Bolivarian Republic of Venezuela (ICSID Case No.
+ARB/10/5), Award dated of March 13, 2015
+
+BIT Agreement between the Government of Barbados and the
+Government of the Bolivarian Republic of Venezuela for the
+Promotion and Protection of Investments which entered into
+force on 1994
+
+Cc. Claimants’ (Tidewater) Exhibit [number]
+
+ 
+
+Counter-Memorial
+
+Respondents’ Counter-Memorial on Annulment, dated
+February 29, 2016
+
+ 
+
+ 
+
+ 
+
+ 
+
+DCF Discounted cash flow
+
+Decision on Decision on the Revision Request, dated July 7, 2015
+Revision
+
+Hearing Hearing on Annulment of July 11, 2016
+
+ICSID International Centre for Settlement of Investment Disputes
+
+ 
+
+ICSID Arbitration
+Rules
+
+ICSID Rules of Procedure for Arbitration Proceedings,
+effective April 10, 2006
+
+ 
+
+ICSID Convention
+
+Convention on the Settlement of Investment Disputes Between
+States and Nationals of Other States, dated March 18, 1965
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Memorial Applicant’s Memorial in Support of Application for
+Annulment, dated January 11, 2016
+
+PDVSA Venezuela’s national oil company Petréleos de Venezuela, S.A.
+
+R-__ Respondent’s (Venezuela) Exhibit [number]
+
+Rejoinder Respondents’ Rejoinder on Annulment, dated May 23, 2016
+
+Reply Applicant’s Reply on Annulment, dated April 11, 2016
+
+ 
+
+ 
+
+ 
+
+ 
+
+Reply on Provisional
+Stay
+
+Tidewater’s Reply to the Applicant’s Request for a Continued
+Stay of Enforcement of the Award, dated October 28, 2016
+
+ 
+
+Reserve Law
+
+Organic Law that Reserves to the State the Assets and Services
+Related to primary Activities of Hydrocarbons
+
+ 
+
+Respondents
+
+Tidewater Investment SRL and Tidewater Caribe, C.A.
+
+ 
+
+Revision Request
+
+Venezuela’s Revision Request pursuant to Article 51(1) of the
+ICSID Arbitration Rules, dated March 20, 2015
+
+ 
+
+Stay Decision on
+Stay
+
+Committee’s Decision on the Applicant’s Request for a
+Continued Stay of Enforcement of the Award, dated February
+29, 2016
+
+ 
+
+Stay Request
+
+Applicant’s Request for Stay of Enforcement, dated July 9,
+2015
+
+ 
+
+Submission on
+Provisional Stay
+
+Applicant’s Submission in Support of a Continuation of the
+Provisional Stay of Enforcement of the Award, dated October
+7, 2015
+
+ 
+
+Tidewater’s PHB
+
+Tidewater’s Post-Hearing Brief, dated July 29, 2016
+
+ 
+
+ 
+
+ 
+
+Tr. __,2014 p._ Transcript of Hearing on the Merits (original proceedings) held
+on June 9 to June 12, 2014, followed by date and page number
+Tr. __,2016 p. _ Transcript of Hearing on Annulment, held on July 11, 2016,
+
+ 
+
+followed by date and page number
+
+ 
+
+ 
+
+Venezuela’s PHB
+
+ 
+
+Venezuela’s Post-Hearing Brief, dated July 29, 2016
+
+ 
+
+ 
+
+INTRODUCTION AND OVERVIEW OF THE APPLICATION
+
+This case concerns an application for annulment (the “Application’’) of the award
+rendered on March 13, 2015 in ICSID Case No. ARB/10/5 (the “Award”) in the
+arbitration proceeding between the Bolivarian Republic of Venezuela (the
+“Applicant” or “Venezuela”) and Tidewater Investment SRL and Tidewater
+Caribe, C.A. (the “Respondents” or “Tidewater’).
+
+In the Award, the Tribunal found that Venezuela had expropriated Tidewater’ s
+investment in Venezuela without payment of prompt, adequate and effective
+compensation. It determined that Tidewater was entitled to be compensated for that
+expropriation, and calculated the principal amount of the compensation to be paid
+
+at US$46.4 million plus interest.
+
+Venezuela applied for the annulment of the Award on the basis of Article 52(1),
+subparagraphs (b), (d) and (e) of the Convention on the Settlement of Investment
+Disputes between States and Nationals of Other States (“ICSID Convention”),
+identifying three grounds for annulment: (i) manifest excess of powers, (ii) serious
+departure from a fundamental rule of procedure, and (iii) failure to state reasons on
+
+which the Award was based.
+
+Venezuela notes that its Application does not relate to any of the legal holdings of
+the Tribunal, but only to one issue emerging from paragraphs 197, 201 and 202 of
+the Award. In its view the Tribunal’s determination of the final amount of
+compensation was based on an error which resulted in an award of compensation
+that does not follow from, and is significantly higher than the amount that would
+have been derived, based on the Tribunal’s decision regarding (a) the methodology
+that should be used to calculate compensation and (b) the elements that should be
+
+incorporated in that methodology.
+
+Il.
+
+The Applicant and the Respondents are hereinafter collectively referred to as the
+“Parties.” The Parties’ respective representatives and their addresses are listed
+
+above on page i.
+
+THE PROCEDURAL HISTORY
+
+On July 9, 2015, Venezuela filed with the Secretary-General of the International
+Centre for Settlement of Investment Disputes (“ICSID”) an Application for
+Annulment of the Award issued on March 13, 2015.
+
+The Application was filed in accordance with Article 52 of the ICSID Convention
+and Rule 50 of the ICSID Rules of Procedure for Arbitration Proceedings (“ICSID
+Arbitration Rules”).
+
+As mentioned above, Venezuela sought annulment of the Award on three of the
+five grounds set out in Article 52(1) of the ICSID Convention: (i) that the Tribunal
+had manifestly exceeded its powers; (ii) that there had been a serious departure
+from a fundamental rule of procedure; and (iii) that the Award had failed to state
+
+the reasons on which it was based.
+
+In its Application, Venezuela also requested the Secretary-General to provisionally
+stay enforcement of the Award (the “Stay Request”) of US$46.4 million plus
+interest in favor of Tidewater.' It further requested that the stay be maintained until
+
+the ad hoc Committee issued its Decision on the Application for Annulment.”
+
+On July 16, 2015, the Secretary-General registered the Application and notified the
+Parties of the provisional stay of enforcement of the Award pursuant to Rule 54(2)
+of the ICSID Arbitration Rules.
+
+| Application, { 18.
+
+? Ibid.
+
+On September 9, 2015, the Secretary-General notified the Parties that the ad hoc
+Committee (the “Committee”) had been constituted in accordance with Rule 52(2)
+of the ICSID Arbitration Rules. The Committee was composed of Judge Abdulqawi
+Ahmed Yusuf (Somali) as President; Tan Sri Dato’ Cecil W. M. Abraham
+(Malaysian) and Professor Dr. Rolf Knieper (German), as Members.
+
+The annulment proceeding was thus deemed to have begun on the above date. The
+Parties were also informed that Mr. Marco Tulio Montafiés-Rumayor, Legal
+
+Counsel, ICSID, would serve as Secretary of the Committee.
+
+On September 17, 2015, the Committee decided to extend the provisional stay of
+
+enforcement of the Award until it ruled on such request after its first session.
+
+On October 7, 2015, the Applicant filed a Submission in Support of a Continuation
+of the Provisional Stay of Enforcement of the Award (“Submission on Provisional
+
+Stay”).
+
+On October 28, 2016, the Respondents filed a Reply to the Applicant’s Submission
+Requesting Continuation of the Provisional Stay of Enforcement of the Award
+(“Reply on Provisional Stay’’).
+
+On November 23, 2015, the Committee held its first session with the Parties in
+Paris, France. After the session, the Committee heard oral arguments regarding the
+Stay Request (“Hearing on Stay”). The following persons attended the Hearing on
+Stay:
+
+For the Applicant:
+
+Curtis, Mallet-Prevost, Colt & Mosle,
+LLP
+Curtis, Mallet-Prevost, Colt & Mosle,
+LLP
+
+Ms. Gabriela Alvarez Avila
+
+Mr. Eloy Barbara de Parres
+
+20.
+
+21.
+
+22.
+
+For the Respondents:
+
+Mr. Miguel Lépez Forastier Covington & Burling LLP
+
+Mr. Daniel Hudson Tidewater Inc.
+
+On January 11,2016, the Applicant filed amemorial on Annulment (“Memorial”).
+
+On February 29, 2016, the Committee issued its Decision on the Applicant’ s
+
+Request for a continued Stay of Enforcement_of the Award (“Decision on Stay’’).
+In it, the Committee decided to (i) lift the stay of enforcement for the undisputed
+
+amount of US$27.407 million plus interest from May 8, 2009 to the date of payment
+at the rate of 4.5% per annum, compounded quarterly; and (ii) maintain the stay of
+enforcement of the amount of US$18.993 million in Claimants’ compensation
+awarded by the Tribunal and of US$2.5 million in partial reimbursement of
+
+Claimants’ costs.*
+
+On February 29, 2016, the Respondent filed a Counter-Memorial on Annulment
+(“Counter-Memorial”).
+
+On April 11, 2016, the Applicant filed a Reply on Annulment (“Reply”).
+
+On May 23, 2016, the Respondent filed a Rejoinder on Annulment (“Rejoinder’”).
+
+On July 11, 2016, a hearing on annulment (“Hearing”) was held in Paris, France.
+
+The following persons attended the Hearing:
+
+3 Decision on Stay, 162.
+
+For the Applicant:
+
+Ms. Gabriel Alvarez Avila Curtis, Mallet-Prevost, Colt & Mosle,
+
+LLP
+
+Mr. Eloy Barbara de Parres Curtis, Mallet-Prevost, Colt & Mosle,
+LLP
+
+For the Respondents:
+
+Mr. Miguel Lépez Forastier Covington & Burling LLP
+
+Ms. Clovis Trevino Covington & Burling LLP
+
+Mr. Bruce Lundstrom Tidewater Inc.
+
+23. On July 29, 2016, the Parties filed their post-hearing briefs (“PHBs).”
+
+24. On October 27, 2016, the proceedings were declared closed.
+
+Il. THE PREVIOUS PROCEEDINGS
+
+A. The Arbitration Proceeding
+
+25. The original dispute was submitted to ICSID under the Agreement between the
+Government of Barbados and the Government of the Republic of Venezuela for the
+
+Promotion and Protection of Investments 1994 (the “BIT’).
+
+26. Respondents, Tidewater Investment SRL and Tidewater Caribe, C.A., which were
+Claimants to the original proceeding, are two companies incorporated in Barbados
+
+and Venezuela respectively.*
+
+‘In its February 2013 Decision on Jurisdiction, the Tribunal dismissed the claims of six out of the eight
+Claimants from the Tidewater Group and found jurisdiction over only Tidewater Caribe, CA. a
+Venezuelan company, and Tidewater Investment SRL, a Barbados company that owned Tidewater Caribe,
+CA,, since 2009.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+SEMARCA, a Venezuelan company owned by Tidewater Caribe, had been
+providing marine transportation services since 1958 to subsidiaries of Venezuela’s
+
+national oil company Petrdleos de Venezuela, S.A. (“PDVSA”).
+
+On May 7, 2009, the Government of Venezuela enacted the Organic Law that
+Reserves to the State the Assets and Services Related to primary Activities of
+Hydrocarbons (“Reserve Law’). The following day, on May 8, 2009, the
+Government issued Resolution No. 51 that identified the Claimants, along with 38
+
+other service providers, as subject to the Reserve Law.
+
+That same day, SEMARCA’s assets on Lake Maracaibo, including its offices and
+
+11 vessels, were seized.
+
+On July 12, 2009, four more vessels of SEMARCA were seized.
+
+On February 12, 2010, the Claimants filed a Request for Arbitration under the
+ICSID Arbitration Rules against Venezuela.
+
+In its Award of March 13, 2015, the Tribunal found that Venezuela had
+expropriated Tidewater’s investment in Venezuela and awarded it US$46.4 million
+
+plus interest.5
+
+In calculating the amount of compensation, the Tribunal first determined the
+applicable standard of compensation, namely ‘the market value of the investment
+expropriated immediately before the expropriation’ as provided in Article 5 of the
+BIT.°
+
+5 Award, 4202.
+© Award, (151-158.
+
+34.
+
+35.
+
+36.
+
+The Tribunal then found that calculating the fair market value by reference to either
+the liquidation value of SEMARCA’s assets or the book value of the seized assets
+would likely only be appropriate where the enterprise was not a proven going
+concern. Given that SEMARCA was not a publicly listed company and its business
+was limited to one country and one customer, the Tribunal determined that a
+
+discounted cash flow (“DCF”) analysis was appropriate in this case.’
+
+The Tribunal continued with an analysis of the variables that should be utilized in
+a DCF analysis and made its own assessment as to each of the six relevant factors. ®
+
+The Tribunal summarized those elements as follows:
+
+“a) business consisting of the services performed by the 15 vessels that SEMARCA
+operated in or from Lake Maracaibo;
+
+b) Including the outstanding accounts receivable, both as an element supporting
+the working capital of the ongoing business and as being recoverable in itself;
+
+c) Taking the average of the historic cash flows of the business for the four years
+2006 — 2009;
+
+d) Applying an equity risk of 6.5%;
+e) Applying a country risk of 14.75%;
+
+f) But with no additional discount for single customer concentration.”?
+
+At the hearing of June 11, 2014, the Tribunal requested the experts to prepare
+additional calculations using their existing models, and taking into account the
+above-mentioned variables. The experts prepared additional tables which they
+
+presented to the Tribunal during the Parties’ closing submissions. !°
+
+7 Award, (9 165-166.
+8 Award, {if 169-196.
+9 Award, | 197.
+10 Award, { 198.
+
+37.
+
+38.
+
+39.
+
+40.
+
+The Tribunal noted that the tables prepared by both Parties’ experts “have proved
+of very considerable assistance to the Tribunal in its deliberations.”'' It also noted
+that “{tJhese tables produced a significantly greater convergence in figures than
+had been the case in the experts’ reports that were filed in the written phase.
+Nevertheless, there continue to be material differences in the approach adopted by
+
+the experts, which in turn affect the figures presented.” '?
+
+In paragraph 201 of the Award, the Tribunal set forth the results of the experts’
+calculations based on the variables it determined appropriate for this case and the
+
+qualifications set out in paragraphs 199 and 200, as follows:
+
+“(a) Claimants: US$31.959 million (11 vessels only)(an earnings multiple of 3.79)
++ US$16.484 million non-recurring accounts receivable = US$48.443 million;
+
+(b) Respondent: US$27.407 million (15 vessels with 100% recoverability of
+accounts receivable).” 3
+
+The Tribunal concluded that “a willing buyer would have valued the business at
+approximately US$30 million, but that it would also have been prepared to pay an
+additional amount of US$16.4 million for the non-recurring accounts receivable
+[...].” 4 Accordingly, the Tribunal calculated the principal amount of the
+compensation to be paid at US$46.4 million plus interest. !>
+
+B. The Revision Proceeding
+
+On March 20, 2015, Venezuela filed a Revision Request (“Revision Request”)
+pursuant to Article 51(1) of the ICSID Convention and Rule 50 of the ICSID
+Arbitration Rules.
+
+11 Award, J 198.
+
+2 Award, { 198.
+3 Award, { 201.
+14 Award, { 202.
+15 Award, { 202.
+
+Al.
+
+42.
+
+43.
+
+44.
+
+Venezuela argued that the Tribunal had erred in the calculation of the compensation
+that should have been awarded to the Claimants. It asserted that although the
+Tribunal in reaching the compensation figure “clearly had in mind the calculations
+of the parties’, instead of taking into account the amount figuring in the
+presentation of Tidewater’s expert, which was US$13,917,433 it mistakenly added
+the wrong figure of US$31,959,732.!° For this reason, Venezuela requested that the
+amount of compensation provided in the Award be ‘revised’ to take into account
+
+the figure that had been actually presented by the Tidewater’s expert.
+
+On July 7, 2015, the Tribunal issued its decision on the Revision Request (the
+“Decision on Revision’). In it, the Tribunal admitted that there was aclerical error
+in paragraph 201(a) in its transcription from the Tidewater’s expert presentation. It
+concluded that the sub-paragraph should correctly read as follows:
+
+“(a) Claimants: US$13.917 million (11 vessels only) (an earnings multiple of 1.65)
++ US$16.484 million non-recurring accounts receivable = US$30.401 million.””
+
+However, the Tribunal dismissed the Revision Request on the basis that Venezuela
+failed to present a new and unknown fact to the Tribunal in terms of Article 51(1)
+of the ICSID Convention.
+
+The Tribunal further noted that the illustrative tables submitted by the experts of
+both Parties during the hearing showed “the effect in the respective expert’s view of
+different assumptions upon that expert’s own calculation’’'® and “did not represent
+the experts’ respective opinions as to the appropriate valuation to be applied” in
+the case.!° It also recalled the significant differences in the approach adopted by the
+
+experts which explained the difference in the figures presented by the Parties.
+
+16 Revision Request, {ff 8-9.
+
+17 Decision on Revision, { 29.
+18 Decision on Revision, { 40.
+9 Decision on Revision, 41.
+
+4S.
+
+46.
+
+Iv.
+
+47.
+
+48.
+
+The Tribunal went on to explain that in view of the lack of comparability between
+the figures presented by the experts of both Parties, it had to take its own approach
+to determining valuation. The Tribunal pointed out to paragraph 202 of the Award
+in which the Tribunal explained that this “is not and cannot be an exact science,
+but is rather a matter of informed estimation” ?° and which, according to the
+Tribunal, clearly suggests that it did not adopt the figures put forward by the Parties’
+
+experts.?!
+
+In light of the aforementioned, the Tribunal concluded that, even if Venezuela’s
+Revision Request were admissible as being based upon a new and unknown fact,
+this was not of such a nature as ‘decisively to affect the award’; and thus it
+
+dismissed the Revision Request.
+
+THE PARTIES’ POSITIONS
+
+(1) The Applicant
+
+At the outset, the Applicant insists that “the Annulment Application does not relate
+to any of the legal holdings of the Tribunal and exclusively focuses on the section
+of the Award related to the Tribunal’s conclusion on the DCF calculation and
+how, as a matter of fact, the Tribunal did not apply the different elements it
+found to be applicable under an appropriate DCF analysis. In particular, the
+Application refers only to paragraphs 202 and 217(3) of the Award.”?2
+
+Venezuela is not seeking to have the Committee overturn the Tribunal’s selected
+method of determining the adequate compensation. As such, the Applicant argues,
+
+its Application does not constitute an appeal. Instead, the Applicant seeks the full
+
+20 Award, J 202.
+21 Decision on Revision, {{ 44.
+22 Memorial, 5.
+
+49.
+
+50.
+
+51.
+
+and effective application of the decisions made by the Tribunal regarding the
+
+calculation of Tidewater’s compensation.”> It explains:
+
+“In doing so and based on the parties’ submissions, the Tribunal also
+meticulously analyzed and decided each of the elements in dispute between
+the parties regarding the premises of an appropriate discount cash flow (“DCF”)
+analysis that would yield an adequate compensation for the expropriation.
+However, the Tribunal failed to apply its own decisions regarding such premises.
+Applicant submits that by doing that, the Tribunal manifestly exceeded its powers,
+failed to state the reasons for the value it finally attributed to SEMARCA’s
+business and committed a serious departure from a fundamental rule of
+procedure pursuant to Article 52(1), subparagraphs (b), (d) and (e) of the ICSID
+Convention, all of which warrant the partial annulment of the Award.”4
+
+Furthermore, the Applicant asserts that no matter how high the threshold of review
+is determined to be, this is “abundantly fulfilled” since the Tribunal disregarded its
+own decisions and contradicted its own reasoning in determining the amount of
+
+compensation due to Tidewater.?5
+
+Moreover, the Applicant submits that the remedy of annulment provided in Article
+52(1) of the ICSID Convention constitutes an exception to the principle of finality
+and to the binding force of ICSID awards, and as any other provision within the
+
+ICSID Convention it should be given full effect.?°
+
+The Applicant also argues that ad hoc committees are not empowered with the
+discretion not to annul an award once it is found that there are grounds for
+annulment. On the contrary, “if the Committee determines that any of these grounds
+for annulment is in fact present, then the Committee is under the obligation to
+
+partially annul the Award, as Venezuela has requested.”?7
+
+23 Reply, (99-18.
+
+24 Memorial, 44.
+
+25 Reply, 422.
+
+26 Reply, 423.
+
+27 Reply, (23-32. The Applicant relies on Kléckner Industrie-Anlagen GmbH and others v. United
+Republic of Cameroon and Société Camerounaise des Engrais, CSID Case No. ARB/81/2, Decision on
+Annulment, dated May 3, 1985 (“Kléckner”).
+
+52. According to the Applicant, the Award is annullable on three grounds set out in
+Article 52(1) of the ICSID Convention, namely:
+
+(a) The Tribunal has manifestly exceeded its powers because it awarded
+compensation in excess of the amount that had been calculated by the
+experts of both sides, who used a methodology that the Tribunal
+determined was appropriate and elements that the Tribunal determined
+
+were applicable.
+
+(b) The Award has failed to state the reasons on which it is based when the
+Tribunal valued SEMARCA’s business at an amount that is
+significantly higher than the amount that would have been derived based
+on the Tribunal’s decisions regarding the appropriate methodology and
+the applicable elements without stating any reason. It also failed to state
+any reason for going beyond the range of values as calculated by both
+
+Parties’ experts.
+
+(c) There has been a serious departure from a fundamental rule of procedure
+because the Tribunal did not respect the Parties’ right to be heard ona
+
+fundamental point regarding the value of SEMARCA’s business.
+
+53. In the course of the proceedings, the Applicant has adjusted its request. In its
+Application, it has requested that the Award be “partially annulled”?8; in its
+Memorial, it has requested that “the portion of the Award dealing with the
+conclusion on DCF calculation should be annulled”??; and in its Reply, it has
+requested that “the section of the Award regarding the determination of the total
+compensation awarded by the Tribunal to the Tidewater Parties should be
+
+annulled.”
+
+28 Application, $17 and 19.
+2° Memorial, 63.
+
+54.
+
+55.
+
+56.
+
+Finally, in its PHB, the Applicant submits that its request must not be understood
+as achallenge of only a portion of the Award while the ascertained compensation
+
+in an amount of US$36.481 million is recognized, as alleged by the Respondent:
+
+“This is incorrect. The Republic requested the annulment of the finding of the total
+compensation awarded in the Award (i.e. paragraphs 202 and 217(3) of the
+Award). Under the ICSID Convention, the Annulment Committee does not have
+powers to determine the amount of compensation owed to the Tidewater Parties,
+and in any event it may not consider, in order to determine the amount of
+compensation, evidence that was not before the Tribunal who issued the Award. If
+the parties cannot reach a settlement to end their dispute, it would correspond to
+a new tribunal the calculation of the compensation that would be owed for the
+expropriation under the Treaty, in which case such new tribunal would need to
+consider the decisions taken by the first Tribunal and that were not the subject of
+the annulment proceeding.” *°
+
+A. Manifest Excess of Powers
+
+According to the Applicant, a tribunal manifestly exceeds its powers under ICSID
+Convention Article 52(1)( b) when it fails to apply the law specified by the
+Parties.*! This is also the case when, even if the tribunal argues that it is applying
+the applicable law, an examination of the award clearly indicates that the applicable
+
+law was disregarded. >?
+
+The Applicant submits that the present “is not a case where the Tribunal erred in
+the interpretation of the law or in the weighing of evidence.”*> Instead, Venezuela
+contends that the Tribunal had “established” the legal framework for the Award by
+opting for the DCF analysis by reference to “the World Bank’s guidelines as an
+additional source of international law to interpret the compensation standard of
+the BIT.”>4 The Tribunal had thereby determined that the DCF analysis with its
+
+various elements “constitutes the legal framework” and thus the correct law.?> It
+
+30 Venezuela’s PHB, p. 2.
+
+31 Memorial, 4127.
+
+32 Memorial, 928.
+
+33 Reply, (39.
+
+34 Memorial, 436; Reply, 135.
+35 Memorial, 933.
+
+57.
+
+58.
+
+59.
+
+60.
+
+was bound to apply this law but subsequently has ignored its application as well as
+
+the evidence before it.>®
+
+In the Applicant’s view, the Tribunal first identified ‘very clearly’ the applicable
+law to the dispute, ie. the relevant provisions of the BIT. 37 Then, the Tribunal
+defined what ‘compensation’ meant under the applicable law. Next, the Tribunal
+described the methodology it would use to determine the ‘market value’ of the
+expropriated assets and pointed out to the special factors pertaining to
+SEMARCA’s business that had to be taken into account in implementing that
+methodology. Finally, the Tribunal determined the essential elements of an
+
+appropriate DCF analysis for this case.
+
+The Applicant contends that the Tribunal, “oddly enough”, disregarded the very
+same legal framework it had established, and thus ended up overcompensating
+
+Tidewater.?*
+
+According to the Applicant, the experts’ materials, which were at the Tribunal’s
+disposal during its deliberations, established a specific value range for the different
+scenarios anticipated by the Tribunal. Accordingly, the value of the SEMARCA
+business that had to be taken into account for the calculation of the adequate
+compensation would have to fall between US$13.917 and US$24.435 million, and
+
+by no means exceed that range.>?
+
+It follows from the above, the Applicant maintains, that by determining in
+
+paragraph 202 that the value of the SEMARCA business was of US$30 million, the
+
+36 Reply, (39.
+
+37 Memorial, 932; Reply, 1135-38.
+38 Memorial, { 33.
+
+39 Memorial, 934.
+
+61.
+
+62.
+
+63.
+
+Tribunal “clearly failed to apply the relevant provisions of [the legal framework it
+
+itself had established] . . . [and thus] manifestly exceeded its powers.”*°
+
+The Applicant contends that the Tribunal failed to make an “informed estimation
+in light of all the evidence available to it.’*! If the Tribunal were to consider the
+evidence available to it during the deliberations, it would under no possible scenario
+determine that an adequate compensation for Tidewater’s expropriated assets
+would exceed a principal amount of US$40.835 million, ie. the highest figure
+submitted by Tidewater’s experts, let alone the US$46.4 million that the Tribunal
+eventually awarded to Tidewater.4? For this reason, the Applicant argues that there
+is no logical sequence between, on the one hand, the amount of compensation the
+Tribunal awarded, and on the other hand, the evidence in the record and the legal
+
+framework it decided to apply.
+
+In light of the aforementioned, the Applicant explains that it is not enough that a
+tribunal declares to have applied the relevant law, but instead one should look into
+
+whether it actually did.44
+
+As evidenced by the compensation awarded to Tidewater, the Tribunal failed, in
+the view of the Applicant, to apply the elements that it itself declared to be
+applicable in this case, and to adequately consider the calculations presented by the
+
+Parties. Therefore, it manifestly exceeded its powers.*5
+
+40 Memorial, 435, quoting Amco Asia Corporation et al. v. Republic of Indonesia, ICSID Case No.
+ARB/81/1, Decision on Annulment of Award of June 5, 1990 and of Supplemental Award of October 17,
+1990, dated December 3, 1992 (“Amco”), 495.
+
+4! Memorial, 36, quoting Decision on Revision, 60-61.
+
+42 Memorial, 436; Reply, (9142-46.
+
+43 Reply, 47.
+
+44 Memorial, 37.
+
+45 Memorial, 937-38.
+
+64.
+
+65.
+
+66.
+
+B. Failure to State Reasons
+
+The Applicant submits that the obligation to state reasons follows from Articles
+48(3) and 52(1)(e) of the ICSID Convention. Both Articles require that the award
+
+enables a reader to follow the tribunal’s reasoning “from Point A to Point B.” 4°
+
+The Applicant cites different legal authorities to suggest that providing
+contradictory reasons equals to not providing reasons at all.47 It further contends
+that insufficient and inadequate reasons may also result in the annulment of an
+award.** Finally, the Applicant notes that Articles 48(3) and 52(1)(e) of the ICSID
+Convention also require that a tribunal deals with “the issues, arguments and
+
+evidence presented to it.”4°
+
+The Applicant argues that the Tribunal failed to state reasons on why it valued
+SEMARCA’s business at US$30 million, an amount that exceeded even the amount
+proposed by the Tidewater’s expert when considering a scope of business of 17,
+
+instead of 15, vessels. The Applicant alleges that
+
+“[I]t did so without stating any reasons at all for that departure. This resulted
+in an award of compensation that does not follow from, and is significantly
+higher than, the amount that would have been derived based on the Tribunal’s
+decisions regarding the methodology that should be used to calculate
+compensation and the elements that should be incorporated in that methodology.
+Therefore, the Tribunal’s reasoning for determining the appropriate
+compensation under the BIT is contradictory and cannot be followed from
+Point A to Point B.”*°
+
+46 Memorial, 440, quoting Maritime International Nominees Establishment v. Government of Guinea,
+ICSID Case No. ARB/84/4, Decision on the Application by Guinea for Partial Annulment of the Arbitral
+Award, dated December 14, 1989 (“MINE”).
+
+47 Memorial, 441, quoting Christoph H. Schreuer with Loretta Malintoppi, August Reinisch and Anthony
+Sinclair, THE ICSID CONVENTION: A COMMENTARY (2nd ed., Cambridge University Press 2009),
+Art. 52, p. 1011, 4389.
+
+48 Memorial, 43, quoting inter alia Hussein Nuaman Soufraki v. United Arab Emirates, ICSID. Case
+No. ARB/02/7, Decision on Annulment, dated June 5, 2007, §{122-123.
+
+4° Memorial, 46.
+
+50 Memorial, 447; Reply, 47.
+
+67.
+
+68.
+
+69.
+
+70.
+
+The Applicant further argues that the amount of US$30 million which the Tribunal
+used for the determination of the value of SEMARCA’s business cannot be “an
+informed estimation” because it is not based on the calculations presented by the
+Parties’ experts.>! Based on the latters’ calculations, SEMARCA’s business should
+have been valued between US$13.917 million and US$24.4 million. *? In this
+respect, the Applicant argues that the Tribunal failed to state any reasons in going
+beyond the estimates of the Parties’ experts. Clearly, the Tribunal made a mistake
+
+in calculating the compensation.>>
+
+In light of the above reasons, the Applicant requests that the Award be annulled for
+
+failure to state reasons.
+C. A Serious Departure from a Fundamental Rule of Procedure
+
+The Applicant states that two elements should be present in order to annul an award
+under Article 52(1)(d) of the ICSID Convention, namely: (i) the departure must be
+“serious”, ie. that it “had or may have had a material effect on the tribunal’s
+decision” ;*+ and (ii) it must be adeparture from a “fundamental” rule of procedure,
+ie. it must violate “a set of minimal standards of procedure to be respected as a
+
+matter of international law.”>>
+
+The Applicant submits that ad hoc committees have consistently recognized as
+“fundamental” a party’s right to be treated on a footing of equality, to present its
+case fully and the “right to be heard.”5®
+
+51 Memorial, (48-49.
+
+52 Memorial, 448.
+
+53 Memorial, 50.
+
+54 Memorial, 52.
+
+55 Memorial, [53 citing interalia Wena Hotels Ltd v. Arab Republic of Egypt,ICSID Case No. ARB/98/4,
+Decision in Annulment Proceedings, dated February 5, 2002 (“Wena”), 157; Iberdrola Energia, S.A. v.
+Republic of Guatemala, ICSID Case No. ARB/09/5, Decision on Annulment, dated January 13, 2015,
+q105.
+
+56 Memorial, 53-57, citing inter alia Amco, {{9.05-9.10; _Kléckner, 989-92; Wena, 157; CDC Group ple
+v. Republic of Seychelles, ICSID Case No. ARB/02/14, Decision of the Ad Hoc Committee on the
+Application for Annulment of the Republic of Seychelles, dated June 29, 2005 (“CDC”), 149.
+
+17
+
+71.
+
+72.
+
+723.
+
+The Applicant contends that the Tribunal breached its right to be heard by awarding
+Tidewater an amount that goes beyond both the amount that would result had the
+Tribunal applied the DFC analysis properly, and beyond the range of compensation
+presented by the Parties’ experts. When doing so, the Tribunal neither stated the
+reasoning behind this departure nor did it afford Venezuela the opportunity to
+respond to the Tribunal’s considerations. The Parties’ experts had established a
+range of criteria that determined the business value. The Tribunal’s intention to
+depart from these limits should have been announced beforehand, in order to give
+Venezuela the opportunity to react to this intention and to introduce arguments
+which might have changed the Tribunal’s reasoning.>7
+
+According to the Applicant, the only plausible justification behind the Tribunal’s
+decision to award this amount is that it took into account additional considerations,
+other than those pleaded by the Parties. If this is true, the Applicant argues, then the
+Tribunal engaged in a serious departure from a fundamental rule of procedure. The
+Applicant insists that
+
+“[N]obody can seriously deny that an over-compensation of more than 50% of the
+value of the business of the “SEMARCA Enterprise” did not have a “material
+impact in the award.” An over-compensation of that magnitude clearly has a
+material impact on the Award, and therefore, a serious departure from a
+fundamental rule of procedure took place.”>8
+
+Additionally, the Applicant submits that the Tribunal cannot be relieved of this
+breach on the ground that the “determination of the appropriate level of
+compensation...cannot be an exact science, but is rather a matter of informed
+estimation.”>? In making an ‘informed estimation’, the Tribunal should have taken
+
+into account the limits on the value of SEMARCA’s business under the various
+
+57 Memorial, 58-59.
+58 Reply, (9163-65.
+59 Memorial, 60, citing Award, { 202; Decision on Revision, (1161-62.
+
+18
+
+scenarios contemplated by the Tribunal, as laid out in the presentations of the
+
+Parties’ experts during the hearing on the merits.°°
+
+74. In light of the above, the Applicant requests the Committee to annul the section of
+the award regarding compensation because its right to be heard was breached,
+
+constituting a serious departure from a fundamental rule of procedure.
+
+(2) The Respondents
+
+75. At the outset, the Respondents make general remarks with respect to the standard
+of review for annulment applications.°! The Respondents recall that annulment
+constitutes “an exceptional and narrowly circumscribed remedy and the role of an
+ad hoc committee is limited” °? and that ad hoc committees are not appellate courts
+
+and thus should not review the merits.°*
+
+76. The Respondents further submit that the Applicant does not meet its burden with
+respect to each of the three grounds on which it bases its Application. In any event,
+assuming that Venezuela could establish that a ground for the annulment exists, the
+Committee has discretion not to annul the Award in light of the text of Article 52(3)
+of the ICSID Convention and the principle of finality of ICSID awards.°*
+
+A. Manifest Excess of Power
+
+77. The Respondents argue that the applicable test under Article 52(1)(b) of the ICSID
+
+Convention is to determine both whether (i) there is an ‘excess’ of powers; and (ii)
+
+© Memorial, 60.
+
+6! Counter-Memorial, 37-40.
+
+62 Counter-Memorial, 4139, quoting Total S.A. v. Argentine Republic, ICSID Case No. ARB/O4/01, Decision
+on Annulment, dated February 1, 2016 (“Total”), (167.
+
+63 Counter-Memorial, 439.
+
+4 Counter-Memorial, 40; Rejoinder, (10.
+
+78.
+
+79.
+
+80.
+
+whether the excess is ‘manifest’, Le. it is “obvious, clear or self-evident, and [...]
+
+is discernable without the need for an elaborate analysis of the award.”
+
+The Respondents contend that, although failure to apply the applicable law may
+constitute a ground for annulment, there is no basis for annulment when the
+Tribunal has identified and attempted to apply the correct law.® In support of their
+proposition, the Respondents point out to the annulment decisions in Lahoud and
+Teco.°' Accordingly, the Respondents submit that errors in the application of law
+or weighing of evidence cannot constitute a valid ground for annulment.®® This is
+evident in that the drafters of the ICSID Convention did not include the ‘manifestly
+
+incorrect application of the law’ as a possible ground for annulment.°
+
+The Respondents then explain why Venezuela’s argument that the factors identified
+
+by the Tribunal constitute a “legal framework” fails.
+
+First, the Applicant fails to cite any authority in support of its proposition that the
+Tribunals application of a DCF analysis constitutes a “legal framework” which
+limits the Tribunal’s judgement to determine the compensation due to the
+Respondents: “A tribunal’s conclusion that a given method of financial analysis is
+probative in the case at hand does not establish ‘applicable law’.’7 The BIT
+obliged the Tribunal to award compensation rather than a specific valuation
+method. “If the Republic’s view were accepted, annulment would be required any
+
+time a tribunal erred in weighing or applying evidence.”"!
+
+65 Counter-Memorial, [42 quoting Total, {171.
+
+66 Counter-Memorial, {]43-44, citing Daimler Financial Services v. Argentine Republic, ICSID Case No.
+ARB/05/1, Decision on Annulment, dated January 7, 2016 (“Daimler”), (191; CDC, 145; Rejoinder, (11.
+67 Rejoinder, 12.
+
+68 Counter-Memorial, 45, citing Total, 4180.
+
+© Counter-Memorial, 46.
+
+7 Counter-Memorial, 48-49; Rejoinder, (14.
+
+7! Rejoinder, 14.
+
+20
+
+81.
+
+82.
+
+83.
+
+84.
+
+Second, the relevant law does not establish a requirement to apply a specific
+
+valuation methodology, let alone a DCF analysis.7”
+
+Third, nowhere in the Award did the Tribunal hold that it had to apply the DCF
+methodology and take into account the five variables it identified earlier, neither
+did it suggest that the Parties’ respective evaluations were binding upon the
+Tribunal. 73 The Respondents note that the Tribunal repeatedly affirmed in its
+Award that its calculations were the product of “informed estimation in light of all
+
+the evidence available” and not the application of legal norms.”+
+
+Fourth, assuming arguendo that the DCF analysis constituted the ‘legal
+framework” for the calculation of Tidewater’s compensation, it cannot be argued
+that the Tribunal departed from this legal framework by not following the
+calculations of the Parties’ experts.’° In arguing so, the Respondents point out to
+several paragraphs of the Decision on Revision, in which the Tribunal purportedly
+explained why the figures identified in paragraph 201 of the Award did not provide
+a range within which the compensation should be calculated.7° Thus, it cannot be
+held that the compensation awarded to Tidewater exceeded that requested by the
+
+Respondents, or any limit set by the Award’s reasoning.77
+
+Finally, the Respondents argue that an error in the application of what the Applicant
+claims to be the applicable law and weighing of evidence does not amount to a
+failure to apply the correct law. A correction of such alleged error by the Committee
+
+would represent an inadmissible appeal.”
+
+7 Counter-Memorial, 50.
+7 Counter-Memorial, 451.
+74 Counter-Memorial, 52, citing the Award, 191164, 202.
+75 Counter-Memorial, 53.
+76 Counter-Memorial, 54.
+77 Counter-Memorial, 55.
+78 Counter-Memorial, 56.
+
+21
+
+85.
+
+86.
+
+87.
+
+88.
+
+B. Failure to State Reasons
+
+The Respondents submit that the Applicant has to meet a high standard when
+pursuing the annulment of an award under Article 52(1)(e) of the ICSID
+Convention.’? According to the Respondents, two conditions must be met in order
+to annul an award for failure to state reasons: (i) “the failure to state reasons must
+leave the decision on a particular point essentially lacking in any expressed
+
+rationale’; and (ii) “that point must itself be necessary to the tribunal’s decision.” ®°
+
+The Respondents further argue that, similarly to Article 52(1)(b), Article 52(1)(e)
+does not allow acommittee to deal with the correctness and persuasiveness of the
+reasoning of the award. Accordingly, the Respondents submit that Article 52(1)(e)
+
+only poses a “minimum requirement” of stating reasons.®!
+
+It should be also borne in mind, the Respondents say, that the tribunals are not
+“computational machines” and thus have a considerable measure of discretion in
+assessing compensation.8? According to the Respondents, consistent practice of ad
+hoc committees, which have refrained from overturning compensation awards,
+
+supports this proposition.*?
+
+Moreover, the Respondents make reference to certain ad hoc committees which
+have held that what may appear as contradiction may actually be the result of a
+compromise reached by the Tribunal. The Respondents further point out to certain
+annulment decisions which have accepted that in considering the contradictions of
+an award, the ad hoc committee must favor an interpretation that supports an
+
+award’s consistency, not its contradictions.8+
+
+7 Counter-Memorial, 58; Rejoinder, (17.
+
+80 Counter-Memorial, 58, quoting Daimler, {77, Compaiiia de Aguas del Aconquija S.A. and Vivendi
+Universal v. Argentine Republic, ICSID Case No. ARB/97/3, Decision on Annulment, dated August 10,
+2010 (“Vivendi”), 465.
+
+81 Counter-Memorial, 59, citing Wena, 179.
+
+82 Rejoinder, {19.
+
+83 Rejoinder, {19.
+
+84 Counter-Memorial, 60, citing interalia Daimler, (78.
+
+22
+
+89.
+
+90.
+
+91.
+
+92.
+
+93.
+
+94.
+
+In any event, the Respondents say, any contradictions existing in the award can be
+addressed through Articles 49 and 50 of the ICSID Convention as this has been
+
+additionally confirmed by two ad hoc committee decisions.®>
+
+The Respondents then move to counter Venezuela’s argument that the Tribunal
+either failed to state reasons, or it provided contradictory reasons by establishing
+
+the value of SEMARCA’s business at US$30 million.
+
+First, in their view, the Tribunal explicitly provided reasons of its valuation by
+explaining that the determination of the compensation “cannot be an exact science
+
+but is rather a matter of informed estimation.”*®
+
+Second, assuming the Tribunal did not provide sufficient reasons in the Award on
+how it reached the specific amount, it did state such reasons in its Decision on
+
+Revision.87
+
+Third, the Applicant incorrectly argues that the Award went beyond the
+Respondents’ valuation and that the maximum compensation supported by
+
+evidence was US$24.4 million. ®*
+
+Finally, the Respondents contend that the Tribunal never accepted to be bound by
+the figures submitted by the Parties’ experts when evaluating SEMARCA’s
+business.8? According to the Respondents, this is in line with the findings in Rumeli,
+
+where the Committee held that the Parties’ figures are not binding upon the
+
+85 Counter-Memorial, 9161-67, citing Wena, (991, 93; Rumeli Telekom A.S. and Telsim Mobil
+Telekomunikasyon Hizmetleri A.S. v. Republic of Kazakhstan, ICSID Case No. ARB/05/16, Decision on
+Annulment, dated March 25, 2010 (“Rumeli”), (146; Rejoinder, (18, 20.
+
+86 Counter-Memorial, 69, citing the Award, 202; Rejoinder, 422.
+
+87 Counter-Memorial, 470.
+
+88 Counter-Memorial, 471.
+
+89 Counter-Memorial, 472.
+
+23
+
+95.
+
+96.
+
+97.
+
+98.
+
+Tribunal, that estimation of damages is not exact science, and that the Tribunal had
+
+the right to test the reasonableness of the DCF.°°
+
+The Respondents further stress that the Tribunal reached the amount under dispute
+after considering the totality of evidence, and any doubt about it was erased by the
+
+Tribunal’s Decision on Revision.?!
+
+The Respondents affirm that the Tribunal applied its well-established discretion to
+assess the level of compensation. No contradiction exists. “Point A” of the
+Tribunals reasoning was its statement that not the experts but the Tribunal itself
+had to determine the amount of compensation in light of all evidence before it and
+exercising its informed estimation, based upon a discounted cash flow analysis.
+“Point B” was the determination that “a willing buyer would have valued the
+292,
+
+business at approximately US$ 30 million following the exercise of informed
+
+estimation.
+
+The Respondents thus conclude that Venezuela’s argument is merely a
+
+disagreement with the Tribunal’s evaluation of the evidence.°+
+
+Finally, contrary to the Applicant’s allegations, the Respondents submit that
+nothing prevents the Committee from considering the Decision on Revision, which
+reconfirms the finding of the Tribunal in the Award regarding the misreading of the
+significance of paragraph 201.°>
+
+9° Counter-Memorial, 72.
+91 Rejoinder, 423.
+
+92 Award, 1202.
+
+93 Rejoinder, 22.
+
+94 Counter-Memorial, 74.
+95 Rejoinder, 124.
+
+24
+
+99.
+
+100.
+
+101.
+
+102.
+
+C. Serious Departure from a Fundamental Rule of Procedure
+
+According to the Respondents, to annul an award under Article 52(1)(d) of the
+
+ICSID Convention, three elements need to be met, namely: °°
+
+e First, the procedural rule must be fundamental. “Fundamental” rules of
+procedure are “rules of natural justice i.e., rules concerned with the essential
+fairness of the proceedings.
+
+e Second, there must have been a “departure” from the relevant fundamental
+rule. Where a tribunal is acting within the significant degree of discretion afforded
+to it, there can be no such departure.
+
+e Third, the departure from the fundamental rules of procedure must be
+sufficiently “serious” to warrant annulment. As the Republic acknowledges, to be
+“serious”, the departure must have “produced a material impact on the award.”
+
+Although the Respondents agree with the Applicant that the “right to be heard” is
+a fundamental rule of procedure, they note that ad hoc committees have recognized
+to ICSID tribunals a wide margin of discretion as to how best to organize the
+
+proceedings in each case.”
+
+Moreover, ad hoc committees have consistently held, according to the
+Respondents, that a tribunal may afford the parties an opportunity to be heard under
+different ways and that in those cases, the Committee should reject the annulment
+of an award on the basis that there was a departure from a fundamental rule of
+
+procedure. °®
+
+According to the Respondents, the Applicant’s argument that its right to be heard
+was breached because the Tribunal went beyond the legal framework it established,
+and the Parties’ valuations should be rejected. Venezuela had “a full and fair
+
+opportunity to be heard” both during the merits phase and at the stage of Revision
+
+96 Counter-Memorial, 76.
+97 Counter-Memorial, {{77-78; Rejoinder, 27.
+98 Counter-Memorial, 480.
+
+25
+
+103.
+
+104.
+
+105.
+
+106.
+
+107.
+
+“through voluminous written submission, days of oral hearing, and an application
+
+for revision” on all the issues that have been raised in this case.°?
+
+In any event, assuming there was a departure from a fundamental rule of procedure,
+Venezuela has not established that this was “serious.” !°° Instead, Venezuela’s
+assertion that the alleged departure was “serious” is only based on a speculation
+
+that the Tribunal would have awarded lower compensation. !0!
+
+The Respondents further emphasize the fact that the tribunals have considerable
+discretion as to how to assess appropriate compensation. Accordingly, the
+
+Applicant should have expected that the Tribunal would exercise this discretion. !°7
+
+The Respondents further submit that Venezuela wrongly contends that Tidewater
+“pleaded” a DCF valuation under the factors the Tribunal determined to be
+appropriate. Instead, Tidewater submitted evidence about other methods of
+
+valuation which went well above US$40 million. 1°
+
+Finally, the Respondents argue that any speculation that the Tribunal would have
+awarded a lower amount is excluded by the Decision on Revision, where the
+Tribunal admitted to have known the correct figure as well as the transcription
+error, and which it found not to be of such a nature ‘as decisively to affect the
+
+award’ 104
+
+For the reasons set out above, the Respondents request the Committee to dismiss
+Venezuela’s argument that there has been a serious departure from a fundamental
+
+tule of procedure.
+
+°° Counter-Memorial, 81-85; Rejoinder, (926, 28, 30.
+100 Counter-Memorial, 86.
+
+101 Counter-Memorial, 87.
+
+102 Rejoinder, 428.
+
+103 Counter-Memorial, 488.
+
+104 Counter-Memorial, 489, 30.
+
+26
+
+108.
+
+Vv.
+
+109.
+
+As an overall conclusion, the Respondents contend that Venezuela “does not
+contest the Tribunal’s decision to award compensation for Respondents’
+investments’! but that it only requests the annulment of the portion of the Award
+that exceeds the allegedly correctly calculated compensation for the loss of business
+
+value and accounts receivable. They state:
+
+“The remainder of Tidewater’s Counter-Memorial, as well as Tidewater’s
+Rejoinder and argument at the Hearing on Annulment, makes clear that
+Tidewater’s position is that the Republic’s application for annulment should be
+dismissed in its entirety. Indeed, the Committee has no power to reduce the Award.
+“The drafting history of the ICSID Convention [...] demonstrates that annulment
+is not a procedure by way of appeal requiring consideration of the merits of the
+case, but one that merely calls for an affirmative or negative ruling based upon
+one [of the grounds for annulment].” As explained by the Committee in Tulip v.
+Turkey, “[u]nder the ICSID Convention, an ad hoc committee only has the power
+to annul the award. The ad hoc committee may not amend or replace the award by
+its own decision on the merits.”
+
+Nevertheless, should the Tribunal [sic] determine that the Republic’s Application
+is meritorious, the Committee should leave undisturbed the portion of the
+compensation awarded by the Tribunal that the Republic admits would have been
+supported by Navigant’s model (i.e., US$36.481 million). Even under the
+Republic’s view, had the Tribunal awarded this amount, it would not have
+manifestly exceeded its powers, failed to state reasons, or seriously departed from
+a fundamental rule of procedure. ”!%
+
+ANALYSIS
+
+A. Introductory Observations on the Structure and Objectives of the Remedies
+
+under the ICSID Convention
+
+The evolution of the present case after the Award is particular in two aspects. On
+the one hand, the whole range of remedies under the ICSID Convention was the
+focus of the Parties: a possible rectification of clerical errors (Article 49(2) ICSID
+Convention), a revision (Article 51 ICSID Convention) and an annulment (Article
+
+52 ICSID Convention). On the other hand, Venezuela has based its Application on
+
+105 Reply on Provisional Stay, {10 and 11.
+106 Tidewater’s PHB, {{9-10.
+
+27
+
+110.
+
+111.
+
+112.
+
+113.
+
+the grounds of a manifest excess of power, a serious departure from a fundamental
+tule of procedure and/or a failure to state reasons on one identical circumstance, the
+determination of Tidewater’s compensation. As stated in Venezuela’s Memorial,
+
+“the Application refers only to paragraphs 202 and 217(3) of the Award.”!7
+
+Under these circumstances, the Committee finds it appropriate to make two general
+observations: first, on the structure and objectives of the system of remedies under
+the ICSID Convention, and secondly, on the specificity of objectives of the different
+
+grounds for annulment.
+
+As to the observation on the different remedies under the ICSID Convention, the
+Respondents have consistently maintained that Venezuela’s applications, including
+the application for the partial annulment, is only based on a “clerical error” in the
+Award, and “that clerical error continues to be the sole basis for the Republic’s
+arguments that the Tribunal manifestly exceeded its powers, that the Award failed
+to state the reasons on which the quantum of compensation is based, and that the
+Tribunal seriously departed from a fundamental rule of procedure.” '°8 In reality
+“Arbitration Rule 49(2) provides the appropriate mechanism for bringing that type
+
+of error to the attention of the Tribunal.”!
+
+The term “clerical error” seems to lead naturally to an application of Article 49 of
+
+the ICSID Convention which provides for a procedure to “rectify any clerical,
+
+arithmetical or similar error.”
+
+Indeed, in its Decision on Revision, the Tribunal has recognized “a clerical error
+in its transcription from the underlying documents”, has corrected the error and
+
+stated how the respective paragraph should read.!!0
+
+107 Memorial, 5.
+
+108 Rejoinder, {1.
+
+109 Respondents’ Preliminary Response to Venezuela’s Revision Request, p. 1.
+110 Decision on Revision, 429.
+
+28
+
+114.
+
+115.
+
+116.
+
+117.
+
+However, the Applicant had not requested a rectification in accordance with Article
+49 ICSID Convention but a revision of the Award in accordance with Article 51 of
+the ICSID Convention, based on the fact that it had discovered, after the Award
+was rendered, that “the Tribunal’s determination of the final amount of
+compensation was based on an error in its review of the presentation of the
+Tidewater Parties’ expert.”''! In hindsight, Venezuela’s strategy not to seek a
+rectification seems understandable. It would not have led to the expected result,
+since the Tribunal has voluntarily corrected its ‘clerical error’ without any
+
+consequences for the outcome of the dispute.
+
+After a detailed and careful analysis, the Tribunal has rejected the application for a
+revision. It found that the criteria of Article 51 were not met: no new and unknown
+fact had been discovered, and, in any event, the clerical error had not decisively
+affected the Award. The Tribunal affirmed that it had made its own determination,
+which “is not and cannot be an exact science”, by way of its own informed
+estimation and not based on the “figures put forward by either experts.”!!? Thus,
+the Tribunal reiterated the correctness of its reasoning and the irreproachability of
+
+the Award.
+
+Unsurprisingly, the Respondents have condemned the Applicant’s request for an
+annulment as an effort to delay the enforcement of the correct and convincing
+Award: “Having twice raised and lost its arguments before the Tribunal, the
+
+Republic now seeks to challenge the quantum of compensation for a third time."
+
+However, the Committee recalls that the remedies of the ICSID Convention follow
+different rationales and objectives. The revision is concerned with circumstances
+
+that existed before the rendering of the Award but could not be taken into account
+
+111 Revision Request, 14.
+
+112
+
+Decision on Revision, 4961, 62.
+
+113 Counter-Memorial, 6.
+
+29
+
+118.
+
+119.
+
+120.
+
+121.
+
+122.
+
+by the tribunal because it was unaware of them and whose knowledge would have
+altered the outcome. The re-opening of the case allows for a correction because it
+is considered inappropriate to uphold a decision which is wrong in substance as
+evidenced by newly discovered facts. The correction is oriented to the protection
+
+of material justice.
+
+Differently, the annulment is concerned with the integrity of the proceedings and
+addresses fundamental issues “of the protection of parties against procedural
+injustice, as defined in the five sub-paragraphs of Article 52(1).”''4
+
+Therefore, the admissibility of either remedy depends on different prerequisites that
+are of equal value. They do not overlap and they do not exclude each other. The
+aggrieved party is free to pursue either or both remedies independently as long as
+the specific prerequisites are met. The fact that Venezuela lost its Revision Request
+
+does not de-legitimize its efforts to pursue the remedy of annulment.
+
+This leads to the general observation on the different grounds for annulment.
+
+The Applicant submits that the Tribunal has failed to apply its own decisions
+regarding the premises of an appropriate discounted cash flow analysis that would
+yield an adequate compensation for the expropriation and “by doing that, the
+Tribunal manifestly exceeded its powers, failed to state the reasons for the value it
+finally attributed to SEMARCA’s business and committed a serious departure from
+
+a fundamental rule of procedure.”'!>
+
+The one and identical fact of an alleged erroneous determination and miscalculation
+of the amount of compensation is taken as the one set of facts that fits all. Thereby,
+
+the three grounds for an annulment with their very different and specific rationales
+
+114 Background Paper on Annulment for the Administrative Council of ICSID, dated August 2,2012, 111.
+115 Memorial, 4.
+
+30
+
+and objectives are taken as a more or less identical and amalgamated trio under
+
+which the same fact is subsumed after some bending, stretching and twisting.
+
+123. The Committee insists with some gravity on the finality of ICSID awards. They
+“shall be binding on the parties and shall not be subject to any appeal or to any
+other remedy except those provided for in this Convention”, as unequivocally stated
+
+in Article 53 of the ICSID-Convention.
+
+124. Article 52 limits the finality of the Award to five exceptional reasons. They all
+protect the fundamental procedural integrity, propriety and fairness of the ICSID
+system but pursue each time a specific and well defined objective based on specific
+facts. The facts must be established separately and subsumed under the non-
+
+identical requirements of each of the specific grounds.
+
+125. The Committee has to determine whether the fact that the Tribunal had
+‘meticulously’ established the elements of the discounted cash flow analysis for the
+appraisal of the specific business value of SEMARCA and the specific conditions
+of the expropriation and had thereafter estimated and calculated a Dollar-amount
+of such value could represent at the same time a manifest excess of its powers, a
+failure to state the reasons and a serious departure from a fundamental rule of
+procedure. It insists that its findings on the existence of one of the grounds does not
+
+automatically reflect on to the other grounds.
+B. Article 52(1)(b): Manifest excess of powers
+
+126. It should be recalled that “Consent of the Parties is the cornerstone of the
+jurisdiction of the Centre.”!'® Part of the central significance of the parties’ consent
+is their freedom to agree on the applicable law. The tribunal’s power and mandate
+
+is circumscribed by the parties’ agreement. If it does not apply the law that both
+
+116 Report of the Executive Directors on the Convention of the Settlement of Investment Disputes between
+States and Nationals of other States, 23.
+
+31
+
+127.
+
+128.
+
+129.
+
+130.
+
+parties request it to apply, the tribunal exceeds its powers. The Committee
+subscribes to what it recognizes as jurisprudence constante, namely that both the
+non-application of the proper law and the application of a law that is not proper
+
+must be considered as such excess of powers.
+
+While the tribunal’s power to identify the applicable law is subject to the parties’
+consent, its power is not restricted with respect to the application and interpretation
+of the law properly identified. The tribunal has a duty to apply the law lege artis
+and cannot be bound by the parties’ directives, even consented, as to a specific
+method of application. It is for the tribunal to determine the outcome of the dispute
+in an independent interpretation of the different requirements of the law. If it is
+convinced that a specific method to appraise the quantum of compensation is more
+appropriate than another method, it will follow its conviction. The parties to the
+
+dispute have no authority to direct the tribunal’s choice in one way or another.
+
+Therefore, the non-application of the proper law must be distinguished from an
+erroneous application of the proper law. Allegations of an erroneous application of
+the proper law can only be scrutinized in a system of the administration of justice
+which provides for appeals of decisions through specific instances. Appeals are
+explicitly excluded in the ICSID system and ad hoc committees are not instance
+courts. That is a matter of the text of the ICSID Convention. In the abstract, it is not
+
+contested by either Party.
+
+Sometimes, the line between non-application of the proper law and_ its
+
+misapplication may be difficult to draw but it exists and must be found.
+
+The Committee notes that the Tribunal took great care to establish what the properly
+applicable law is in the present case. It has distilled from the Parties’ submissions
+that it is the BIT and the ICSID Convention by reference and, since there was no
+
+agreement to the contrary, the “Jaw of the Contracting State party to the dispute
+
+32
+
+131.
+
+132.
+
+133.
+
+134.
+
+[...] and such rules of international law as may be applicable”, as provided in
+
+Article 42(1) of the ICSID Convention.!!7
+
+The Tribunal found that Article 8(3) of the BIT empowered it to determine the
+“amount of compensation” once it had ascertained the claim for a breach of
+Venezuela’s obligations and resulting damages. It has further applied Article 5(1)
+of the BIT and found that Venezuela owed the Tidewater Parties “prompt, adequate
+and effective compensation”, which “shall amount to the market value of the
+investment expropriated immediately before the expropriation or before the
+
+pending expropriation became public knowledge.”
+
+In its search for a proper standard for the determination of the “market value” as
+specified in Article 5(1) of the BIT, the Tribunal reviewed in a first step doctrine,
+case law, the World Bank ‘Guidelines on the Treatment of Foreign Direct
+Investment’ as well as the Text and Commentary of the International Law
+
+Commission on ‘Responsibility of States for Internationally Wrongful Acts’.!!8
+
+The Tribunal found the World Bank Guidelines “reasonable [...] as to the content
+of the standard chosen by the State Parties to the BIT as the standard of
+compensation to be applied in cases of lawful compensation, where the investment
+constituteda going concern’,'!® while recognizing that the Guidelines make it clear
+
+“that there is no exclusive validity of a single standard.”!?®
+
+Convinced by the appropriateness of the World Bank Guidelines, the Tribunal
+stated that it would determine the fair market value by its “informed estimation in
+
+light of all the evidence available to it”’!*! and “by reference to a discounted cash
+
+117 Award, $28, 29.
+118 Award, 9152-158.
+119 Award, 4152.
+
+120 Award, 155.
+
+121 Award, (164.
+
+33
+
+135.
+
+136.
+
+137.
+
+2712
+
+flow analysis”!?? and not “by reference to either the liquidation value of the assets
+
+of the SEMARCA Enterprise, or the book value of those assets, as Respondent
+contends.”'?3
+
+In a second step, the Tribunal continued by identifying “six variables adopted in
+the experts’ reports that have a material effect on the valuation”, ie. the scope of
+business, accounts receivable, historical cash-flow, equity risk, country risk and
+
+business risk.!?4
+
+After a detailed analysis of the six variables, accompanied each time by the
+conclusion of whether a certain variable “must” or “must not” be taken into
+account, and if yes, at what figure, rate, price or amount, whatever the case may
+be, !?° the Tribunal concluded that it “applies the elements that it has found
+
+appropriate” using the DCF analysis, i.e:
+
+“a)A business consisting of the services performed by the 15 vessels that SEMARCA
+operated in or from Lake Maracaibo;
+
+b) Including the outstanding accounts receivable, both as an element supporting
+the working capital of the ongoing business and as being recoverable in itself;
+
+c) Taking the average of the historic cash flows of the business for the four years
+2006 — 2009;
+
+d) Applying an equity risk of 6.5%;
+
+e) Applying a country risk of 14.75%;
+
+f) But with no additional discount for single customer concentration.” !76
+
+In a third step, the Tribunal asked the Parties’ experts to prepare additional
+calculations using their existing models including, inter alia, the above variables !*7.
+Realizing that there were remaining differences in the experts’ calculations and that
+“a discounted cash flow analysis of this kind is not and cannot be an exact science,
+
+but rather a matter of informed estimation”, the Tribunal considered in a fourth
+
+122 Award, 165.
+123 Award, 166.
+124 Award, (169.
+125 Award, 1170-196.
+126 Award, 197.
+127 Award, {198
+
+34
+
+138.
+
+139.
+
+140.
+
+step “that a willing buyer would have valued the business at approximately US$30
+million, but that it also would have been prepared to pay an additional amount of
+
+US$16.4 million for the non-recurring accounts receivable.” !?8
+
+The Committee is of the view that the estimation of the amount of the market value
+is irreconcilable with the elements that the Tribunal affirmed to apply in its
+estimation of the appropriate amount of the market value. The Tribunal’s statement
+may have to be qualified as contradictory, in which case the Committee will have
+
+to specify the effect of such a contradiction.
+
+However, in the context of the discussion on a possible excess of powers as ground
+for an annulment, a finding on acontradiction in a tribunal's findings and reasoning
+is of no avail. It does neither equate a non-application of the proper law nor the
+application of a law that is not proper. At the same time, a possible contradiction is
+nothing so egregious and outrageous — and the Applicant does not contend so — that
+it might be worthwhile to examine whether it should be paralleled to a non-
+
+application.
+
+The Applicant appears to be conscious of that. It insists that “Venezuela is not
+arguing either, as the Tidewater Parties want the Committee to believe, that this
+case concerns a mistake in the application of the applicable law.”!?° Rather, it
+divides the four steps that the Tribunal has made in application of Articles 5 and 8
+of the BIT and tries to present them as hierarchically different. It cloaks the
+Tribunal’s interpretation of the term “market value” of Article 5 of the BIT, step 1,
+as applicable law. It quotes the elements identified by the Tribunal as appropriate
+to calculate the market value and contends that “fa]s explained by the Tribunal, the
+foregoing constitutes the legal framework to be applied in determining an
+adequate amount of compensation required under Articles 5 and 8 of the BIT
+
+[...and that] the Tribunal had to remain within the legal framework it had
+
+128 Award, 4202.
+29 Reply, 4939 and 35.
+
+35
+
+141.
+
+142.
+
+143.
+
+established.” '3° In doing so, the Applicant’s argumentation tries to treat as
+applicable law established by the Tribunal what in reality is step | of the Tribunal’ s
+application of law.
+
+The Applicant relies on the annulment decision in Amco, where the committee had
+found that the tribunal “clearly failed to apply the relevant provisions of Indonesian
+law. The ad hoc Committee holds that the Tribunal manifestly exceeded its powers
+in this regard.’'?! The Applicant uses the quotation by removing the words
+“Indonesian law” and replacing them by “legal framework.” The revised quotation
+reads, in seeming reference to the Amco Committee, that “the Tribunal clearly
+failed to apply the relevant provisions of [the legal framework it itself had
+
+established] ... [and thus] manifestly exceeded its powers” '3?.
+
+Further, the Applicant submits that the Tribunal “confirmed the provisions of the
+BIT related to the valuation criteria (valuation date and compensation standard),
+then it cited the World Bank’s guidelines as an additional source of international
+law to interpret the compensation standard of the BIT, and then it decided that the
+appropriate compensation shall be calculated by reference to a DCF analysis that
+took into account certain specific elements, which were also defined by the Tribunal
+itself.”'33 It qualifies this process as the various steps of the identification of the law,
+based on Articles 5 and 8 of the BIT as invoked by the Tribunal and asserts that
+
+subsequently, in the next step, the Tribunal ignored its application. !3+
+
+With respect to the foregoing submission, the Committee notes that it has not found
+an indication in the Award where the Tribunal has ‘explained’ that the elements for
+
+the determination of the market value constitute a legal framework.
+
+130 Memorial, {33 and 36.
+
+131 Memorial, 931.
+
+132 Memorial, 935.
+
+133 Reply, (35 (footnotes omitted).
+134 Reply, 939.
+
+36
+
+144.
+
+145.
+
+146.
+
+147.
+
+The Committee has equally not found an indication in the Award that the Tribunal
+qualifies the World Bank Guidelines as ‘an additional source of international law’.
+Rather, it found them, together with case law, doctrine and the International Law
+Commission Draft on the Responsibility of States, as providing ‘reasonable
+guidance’ for the interpretation of Articles 5 and 8 of the BIT. The Guidelines
+themselves do not pretend to be international law and clarify their status
+unequivocally by stating that they are meant to be “useful parameters in the
+
+admission and treatment of private foreign investment in their territories, without
+
+ 
+
+development.”'35
+
+In fact, the Tribunal did not have the power to create and establish law. The
+Applicant’s effort to elevate the application of law to the level of establishment of
+law must fail. It is therefore inappropriate to remove a reference to Indonesian law
+in the Amco decision and replace it by ‘legal framework that the Tribunal had
+established’.
+
+Instead, the Tribunal applied Articles 5 and 8 of the BIT in a sequence of four steps.
+There is no hierarchy between step one and the subsequent steps. To the extent that
+the steps are inconsistent and contradictory, we are at best or at worst confronted
+
+with a mistake in the application of the law and not with an excess of powers.
+
+For these reasons, the Committee rejects the request for the annulment of the Award
+
+for an excess of powers by the Tribunal.
+
+135 Guidelines on the Treatment of Foreign Direct Investment, in: Foreign Investment Law Journal 7/2
+(1992), pp. 297, 298 (CL-152) (emphasis by the Committee).
+
+37
+
+148.
+
+149.
+
+150.
+
+151.
+
+C. Article 52(1)(d): Serious Departure from a Fundamental Rule of Procedure
+
+The Committee has the authority to annul the Award, if and to the extent that the
+Tribunal departed in a serious manner from a fundamental rule of procedure. The
+Applicant asserts that the Tribunal violated its right to be heard when it ascertained
+compensation in an amount falling “beyond the amount that results from applying
+the key elements of an appropriate DCF analysis decided by the Tribunal itself,
+and beyond the range of compensation presented by the parties’ experts at the
+request of the Tribunal, without stating the considerations for that departure and
+without giving the opportunity to Venezuela to respond and contest those
+
+considerations” !>© and “without stating any reasons at all for that departure.”!37
+
+The Committee agrees with the Applicant’s assertion that the right to be heard and
+to present one’s case is one of the fundamental principles of due process. Its
+violation is a serious departure from a fundamental rule of procedure. Therefore,
+the Committee has to determine whether the Tribunal violated the Applicant’s right
+to be heard when it adjudicated compensation in an amount that was not consistent
+
+with the elements of the DCF analysis without prior consultation with the Parties.
+
+The Parties do not contest that the Tribunal studied the voluminous written
+submissions and heard the Parties and the experts on quantum extensively during
+
+the hearing.
+
+During the hearing, the Tribunal has formulated a set of questions to the Parties and
+in particular to the Parties’ experts “to ensure that we have the full range of
+possibilities ventilated before us’!>8. The questions related mostly to the two
+different methods to appraise the market value as provided for in Article 5 of the
+BIT, ie. the method to establish the liquidation value suggested by the Respondent
+
+136 Memorial, 58; Reply 163.
+137 Memorial, 59.
+138 Tr, July 11, 2014, p. 721.
+
+38
+
+152.
+
+153.
+
+154.
+
+in the main proceeding and the DCF analysis suggested by the Claimants. When
+asking the questions, the Tribunal insisted that none of them “are to be taken as
+any indication of any view that the Tribunal has one way or another on the very
+excellent submissions advanced before it?'?°. The questions were answered and
+discussed during the hearing and the Tribunal stated that they “will assist us in our
+
+deliberations greatly’!*°.
+
+At the end of the hearing “the Tribunal’s view was that it has been very greatly
+assisted by the very detailed written submissions and oral evidence and
+submissions given to it before this Hearing, and it does not consider that this is a
+case in which it would be greatly assisted by further Post-Hearing Briefs [...] it is
+anxious to be able to proceed to the deliberation phase”'*!. The Parties agreed to
+this view and conclusion and did not ask for a further opportunity to submit
+
+arguments or evidence.
+
+The Committee relates this part of the proceeding in some detail because it
+demonstrates the pain that the Tribunal had taken to afford both Parties exhaustive
+
+opportunities to present their case and be heard.
+
+The Applicant is conscious of that. In order to transport the facts under the provision
+of Article 52(1)(d), it alleges that the Tribunal has not applied its own standard, has
+not given reasons for its assessment and has certainly employed ‘additional
+considerations’ to which the Applicant was not able to react: “there is no other
+logical explanation as to why the Tribunal exceeded the amount that would have
+corresponded to the 17-vessel scenario, unless the Tribunal took into account
+additional considerations, other than the ones argued by the Parties. If that is
+the case, then the Tribunal, without a doubt, engaged in a serious departure from
+
+a fundamental rule of procedure, since it did not give Venezuela the opportunity
+
+139 Tr, July 11, 2014, p. 721.
+140 Tr, July 12, 2014, p. 947.
+M41 Tr, July 12, 2014, p. 969.
+
+39
+
+155.
+
+156.
+
+157.
+
+158.
+
+to be heard with regards to those additional considerations that it may have been
+taking into consideration, whatever they might have been.”'42 The Applicant
+submits that it had only been able to discover the violation after the Award which
+
+does not destroy its relevance. !4%
+
+Apparently, the first two of these assertions refer to Article 52(1)(b) and Article
+52(1)(e) respectively: the non-application of a legal standard targets an excess of
+powers and the reproach of not having given reasons for its decision targets the
+failure to state reasons. The serious departure of a fundamental rule of procedure is
+not concerned with either of these assertions.
+
+As to the third assertion, the Applicant speculates about additional considerations
+in the Tribunal’s deliberations without proffering any evidence. The only objective
+of the Applicant’s construction of considerations that the Tribunal “may have had”
+is to be able to allege that the Tribunal has hidden evidence or thoughts from the
+Parties. It cloaks the inconsistency and contradiction within the Tribunal’s analysis
+as something new which should have been brought to the attention of the Parties
+before the Award.
+
+The Committee has studied the Award carefully and tried to detect new elements
+on which the Tribunal might have based its decision. It has not found any. In
+addition, the Tribunal had unambiguously declared at the closing of the hearing that
+it had all the evidence before it that it would use during deliberations. It had further
+
+stated the obvious that before the end of the deliberations no decision was reached.
+
+The only evidence available on the deliberations is in the Tribunal’s Decision on
+Revision. In that decision, the Tribunal has stated, and the Committee has no reason
+
+to doubt, that it had not relied on ‘any other consideration’ in its deliberations but
+
+142 Reply, 164.
+
+143 Memorial, 4[56; the Applicant relies on the Decision on Annulment in Victor Pey Casado and President
+Allende Foundation v. Republic of Chile, 1CSID Case No. ARB/98/2, Decision on the Application for
+Annulment, dated December 18, 2012, (26.
+
+40
+
+159.
+
+160.
+
+161.
+
+162.
+
+that “it has taken into account the totality of the evidence presented to it in
+
+determining the appropriate level of compensation.” '4+
+
+The possible inconsistency and contradiction within the Award are what they are:
+possible contradictions with possible material consequences. The Committee will
+have to ascertain this under the appropriate ground for an annulment. They do not
+
+present at the same time procedural shortcomings.
+
+The Applicant bears the burden of proving both that (i) the Tribunal committed a
+serious departure from a procedural rule; and (ii) that the said rule was fundamental.
+This has not been done in the present case. Therefore, the Committee rejects the
+request for the annulment of the Award for a serious departure from a fundamental
+
+tule of procedure.
+
+D. Article 52(1)(e): Failure to State Reasons
+
+Read under any perspective, the Applicant’s submissions center on an identical
+gravamen: it complains that the Tribunal has established elements for the
+determination of the market value of the Respondents’ business and of the
+appropriate amount of compensation for the lawful expropriation and that it has
+
+fixed that amount in contradiction to these elements.
+
+The Committee will have to ascertain whether this determination and presentation
+by the Tribunal amounts to a failure to state the reasons on which its decision was
+
+based.
+
+144 Decision on Revision, 462.
+
+4l
+
+1.1. The Legal Standard
+
+163.
+
+164.
+
+165.
+
+The Committee recalls that the statement of reasons is one of the central duties of
+arbitral tribunals. An award is not a discretionary fiat but the result of the process
+of weighing evidence and applying and interpreting the law and subsuming the facts
+thus established under the law as interpreted by the Tribunal. The legitimacy of the
+process depends on its intelligibility and transparency. The statement of reasons
+allows the Parties to understand the process through which the tribunal makes its
+findings. Therefore, it is “the Tribunal’s duty to identify, and to let the parties know,
+
+the factual and legal premises leading the Tribunal to its decision.”'°
+
+The documentation of the process that leads an arbitral tribunal to its award is of
+particular importance in investor-state arbitration. In agreeing to arbitration, States
+surrender part of their sovereign prerogatives and allow arbitral tribunals to
+scrutinize the legality of acts of puissance publique. It is a matter of public policy
+that the parties to the dispute but also other States’ organs and the public be enabled
+to understand, if a tribunal rules against the State, why the tribunal believes that a
+sovereign act violated the law and what would be — in the eyes of the tribunal —a
+lawful sovereign act under the circumstances. A similar reasoning applies, mutatis
+
+mutandis, to rulings against an investor.
+
+In instituting the possibility of an annulment for failure to state reasons, the ICSID
+Convention recognizes the particularity of investment arbitration. While in
+commercial arbitration, parties are autonomous and free to exempt the tribunal from
+stating reasons, the participation of a State and the subject matter of the dispute
+forbid such waiver. The legitimacy of an arbitral decision to invalidate a sovereign
+act would be severely undermined if the tribunal did not have to explain why the
+
+act contradicts the law.
+
+145 Wena, 179.
+
+42
+
+166.
+
+167.
+
+168.
+
+169.
+
+At the same time, the procedural mandatory requirement to state reasons does not
+target the substantive correctness of reasoning in the award. In ratifying the ICSID
+Convention, the member States recognize the finality of the award and accept the
+tribunals’ determination of the (un-)lawfulness of their acts. The statement of
+reasons guarantees procedural legitimacy and validity and does not open the door
+to a controversy over the substantive correctness of the tribunals’ reasoning. The
+Contracting States to the ICSID Convention have decided to exclude such
+controversy by insisting on the binding character of the awards and the
+inadmissibility of any appeal. The ad hoc committee in Impregilo formulated a
+general conviction according to which “Article 52(1)(e) does not allow a committee
+to assess the correctness or persuasiveness of the reasoning in the award or to
+
+inquire into the quality of the reasons.”'46
+
+In light of these considerations, the Committee does not have the authority to
+reassess the merits of the dispute or to substitute the Tribunal’s determination by
+its own convictions. Its authority is limited to the examination of the award with
+respect to the alleged failure to state the reasons on which the Tribunal has based
+
+its decision.
+
+The Committee is mindful that it must try to avoid two errors. One concerns the
+appreciation of the quality of the reasons. The requirement of stating reasons does
+not install a benchmark of quality standard. Reasons may be long or succinct, they
+may be exhaustive or “baldly stated”!*”, they may quote heavily from preceding
+decisions or argue without referencing any — the difference of style or effort to
+
+convince the Parties is no reason to discredit reasons.
+
+It is the same with the frequent label “frivolous”: this Committee has never seen an
+
+award which lacked reasons completely and has difficulties to understand what the
+
+146 Impregilo S.p.A. v. Argentine Republic, ICSID Case No. ARB/O7/17, Decision on Annulment, dated
+January 24, 2014 (‘“Impregilo”), 4181.
+147 Counter-Memorial, 66.
+
+43
+
+170.
+
+171.
+
+172.
+
+qualification of reasons as frivolous may mean. Either a reasonable, attentive and
+willing reader is able to understand a tribunal’s motivation, in which case the
+reasons are not ‘frivolous’, whatever may be their quality, or the same reader is not
+enabled to understand the motivation, in which case the tribunal has failed to state
+
+reasons.
+
+With respect to the label “contradictory”, the Committee shares the view that not
+any maneuver in the tribunals’ analysis to present a common view can be qualified
+as contradictory but that only genuine contradictions which ‘cancel each other
+
+out’ !48 may amount to a failure to state reasons.
+
+The second error that the Committee needs to avoid concerns the line between the
+procedural failure to state reasons and the substantive correctness of the award. The
+Committee is conscious that it must not re-argue the merits of the case. It would do
+so if it discarded the Tribunal’s exercise of discretion in fixing the amount of
+compensation and replaced it by its own discretion. Particularly with respect to the
+amount of compensation, the Committee shares the view of the Wena ad hoc
+
+committee that stated:
+
+“The notion of ‘prompt, adequate and effective compensation’ confers to the
+Tribunal a certain margin of discretion, within which, by its nature, few reasons
+more than a reference to the Tribunal’s estimation can be given, together with
+statements on the relevance and the evaluation of the supporting evidence.” !#?
+
+It also subscribes to the views of the Rumeli ad hoc committee that stated:
+
+“The tribunal nust be satisfied that the claimant has suffered some damage under
+the relevant head as a result of the respondent’s breach. But once it is satisfied of
+this, the determination of the precise amount of this damage is a matter for the
+tribunal’s informed estimation in the light of all the evidence available to it.”!*°
+
+Therefore, the Committee will abstain from scrutinizing whether the Tribunal has
+
+established the facts correctly, has interpreted the applicable law correctly and has
+
+148 Vivendi, 65.
+149 Wena, 191.
+150 Rumeli, 4146.
+
+44
+
+1.2.
+
+173.
+
+174.
+
+175.
+
+subsumed the facts as established correctly under the law as interpreted. It must
+also not concern itself as to whether the Tribunal has used its discretion
+erroneously. That would necessarily imply a substitution of the Tribunal’s
+interpretation and discretion by its own interpretation and discretion and amount to
+an inadmissible decision on appeal. Rather, the Committee will determine whether
+the reasons developed by the Tribunal have enabled the addressees of the Award
+and, for that matter, the Committee itself, to understand the process leading to its
+
+conclusions and to the determination of the amount of compensation.
+
+The Application of the Standard
+
+The case at hand illustrates the rationale of the annulment mechanism based on the
+
+failure to state reasons.
+
+Venezuela had expropriated property of the Claimants by an act of puissance
+publique. Together with this act, it had proposed compensation for the
+expropriation. The Claimants objected to the Government’s decision because
+Venezuela’s proposal was based on a book value and liquidation value analysis of
+legally expropriated property and Tidewater’s proposal was based on a discounted
+cash flow analysis ex post an alleged illegal expropriation.'*! The Parties’ proposals
+
+and valuations submitted by the Parties’ experts “differed greatly.”!57
+
+The Tribunal has rejected parts of both Parties’ approaches to assess the appropriate
+amount of compensation and has affirmed that “it is for the Tribunal to determine
+the amount of compensation. This is necessarily a matter of informed
+estimation” !°3. The Parties and in particular Venezuela must be enabled to
+understand why the method and determination of compensation by an act of
+
+puissance publique did not meet the requirements of law. That is only possible if
+
+151 For the Tribunal’s discussion ofthe Parties’ respective positions cf. [53 ss.of the Award.
+152A ward, 167.
+153 Award, (164.
+
+45
+
+176.
+
+177.
+
+178.
+
+179.
+
+154 Award,
+155 Award, 14!
+156 Award, {I
+
+157 Award, $1
+
+the information on which the ‘informed estimation’ is based is clearly exposed to
+
+the Parties.
+
+The Tribunal has examined the Parties’ positions and came to the conclusions that
+(1) the “record does not demonstrate a refusal on the part of the Sate to pay
+compensation’, '>4 (2) the expropriation was lawful but (3) Venezuela’s proposals
+for compensation were inadequate. In the long and detailed Chapter III(B) of the
+Award, the Tribunal has unfolded its analysis with respect to the correct method,
+
+level and amount of compensation.
+
+After having stated that “the Treaty standard of ‘market value’ does not denote a
+particular method of valuation’’'>5, the Tribunal has opted for the DCF analysis as
+the appropriate method for its assessment and has given extensive reasons for this
+option. In particular, it has stated that “the Tribunal must approach the valuation of
+SEMARCA based upon the factors that are specific to its business’'>°. Tt has studied
+the experts’ reports of both Parties in great detail and has distilled six elements that
+have an effect on the market value. Again after a careful discussion, it has quantified
+
+these elements.
+
+Three elements are of particular relevance for the Committee’s determination.
+
+The first element concerns the scope of the Claimants’ business. The Tribunal has
+weighed the evidence before it and came to the conclusion that four vessels “must
+
+therefore be added to the 11 vessels actually stationed on Lake Maracaibo” leading
+
+to “a cash flow generated by 15 vessels.”!57
+
+45.
+
+uw
+
+(emphasis by the Committee).
+, 173 (emphasis by the Committee).
+
+a9
+
+46
+
+180.
+
+181.
+
+182.
+
+183.
+
+184.
+
+The second element concerns accounts receivable. The Tribunal has explained in
+detail that “the investment that was lost must include outstanding unpaid accounts
+receivable”, and has accepted the undisputed amount of US$16,484,677 presented
+
+by Tidewater’s expert. !>*
+
+The third element concerns the country risk premium. The Tribunal has pondered
+the experts’ opinions carefully and came to the conclusion that “a country risk
+premium of 14.75% represents a reasonable, indeed conservative, premium. In
+light of its rejection of Claimants experts’ reasoning, it adopts this premium for the
+purpose of its valuation of the investment.”!>°
+
+ 
+
+In its submissions in support of the Application, the Applicant had reiterated that it
+still preferred its initial proposals for compensation but had accepted the Tribunal’ s
+analysis of the variables and conclusion on the various elements it had found
+appropriate for purposes of compensation. The legitimizing effect of stating reasons
+
+had worked well as far as the identification of those elements was concerned.
+
+During the hearing, the Tribunal communicated the elements and their specification
+to the experts and asked them to prepare “additional calculations using their
+
+existing models including, inter alia, these variables.”
+
+The experts did so. The Tribunal recognized that this had been “of very
+considerable assistance to the Tribunal in its deliberations’, although there
+continued “to be material differences in the approach adopted by the experts which
+
+in turn affect the figures presented.”'®!
+
+158 Award, {175 and 199 (emphasis by the Committee).
+159 Award, 190 (emphasis by the Committee).
+
+160 A ward, 198.
+
+161 Award, (198.
+
+47
+
+185.
+
+186.
+
+187.
+
+188.
+
+The Tribunal then noted that the Claimants’ experts had based their calculation on
+11 vessels and presented an amount of US$31,959,732. As already indicated above,
+the Tribunal qualified the figure as “a clerical error in its transcription from the
+underlying documents” and corrected the “error” by inserting an amount of
+US$13,917,433. However, the Committee agrees with the Applicant that the figures
+do not represent clerical errors but the result of alternative calculations. The
+Claimants’ expert calculated the amount of US$31,959,732 on the assumption that
+the country risk premium is 1.5%, while the amount of US$13,917,433 used a
+country risk premium of 14.75%, each time departing from an eleven vessels
+
+scenario, !6
+
+Contrary to these calculations presented by the Claimants’ expert, the Tribunal had
+adopted a country premium risk of 14.75% and a 15 vessels scenario. Thus, by
+transcribing an amount of US$31,959,732 into the Award, which was based on a
+country risk premium of 1.5% which the Tribunal had rejected as being
+unreasonable, the Tribunal did not commit a ‘clerical error’ but contradicted its own
+
+reasoning.
+
+The Tribunal recognized that the Parties’ experts had been unable to present
+converging calculations and figures. The Claimants’ experts presented the amounts
+of US$31,959,732 for the scope of business (based on 11 vessels) and
+US$16,484,677 for accounts receivable, summing up to roughly US$48.433
+million, while the Respondents’ expert presented an amount of roughly US$27.407
+
+million based on 15 vessels and not isolating any amount for accounts receivable.
+
+After reiterating that “the determination of an appropriate level of compensation
+based upon a discounted cash flow analysis of this kind is not and cannot be an
+exact science, but rather a matter of informed estimation”, the Tribunal concluded
+
+that a willing buyer would have valued the business “at approximately US$30
+
+162 R-130.
+
+48
+
+189.
+
+190.
+
+191.
+
+million” and would have been prepared to pay “an additional amount of US$16.4
+million for the non-recurring accounts receivable”, adding up to US$46.4 million
+
+“for the purposes of compensation.” !®
+
+The Tribunal did not explicitly rely on the amounts forwarded by the Claimants’
+experts. In its Decision on Revision, it insisted “that the Tribunal has not adopted
+the figures put forward by either experts, whether in their original reports or in
+their illustrative tables” but that the conclusion was one of informed estimation. !6+
+However, it is obvious that the estimation is based on information derived from the
+calculations of the Claimants’ experts. The amounts presented by the Claimants’
+experts are slightly rounded down by the Tribunal. They are irreconcilable with the
+Tribunal’s findings on the elements of the proper assessment of the market value,
+ie. a fleet of 15 vessels and a country risk premium of 14.75%. The information
+and with it the estimation is based on a quantification of the country risk premium
+that the Tribunal rejected categorically and in a detailed reasoning. The two
+statements of the Tribunal cannot be reconciled. They are genuinely contradictory.
+Under any assumption on the scope of business — 11, 15 or 17 vessels — a valuation
+
+of US$30 million is not conceivable.
+
+The Respondents in the annulment proceedings assert that the Tribunal’s reasoning
+was free of contradiction, since “Point A” of the Tribunal’s reasoning was its
+statement that it had to determine the amount of compensation in light of all
+evidence before it and exercising its informed estimation, based upon a discounted
+cash flow analysis. “Point B” was the determination that “a willing buyer would
+have valued the business at approximately US$ 30 million”, following the exercise
+
+of informed estimation.
+
+The assertion demonstrates that in fact the reasoning does not allow a reasonable,
+
+attentive and willing reader to follow the Tribunal’s reasoning and the conclusion:
+
+163 A ward, 4202.
+164 Decision on Revision, 62.
+
+49
+
+192.
+
+193.
+
+“Point A” was, indeed, the Tribunal’s statement that it had to determine the amount
+of compensation by an informed estimation based on a DCF analysis. “Point B”
+was the scrupulous establishment of the six elements, which the Tribunal had
+defined as including a country risk premium of 14.75%. “Point C” was the
+Tribunals request to the experts to present calculations based on the elements
+established by it and the presentation of these calculations in the Award. “Point D”
+would have been a conclusion using the country risk premium of 14.75%, the 15
+vessels scenario and the other elements that — as the Tribunal had underlined — must
+be taken into account. Even by rounding up and down in a legitimate estimation,
+the result would have been US$16.484 million for accounts receivable and
+US$19.997 million for SEMARCA’s business to sum up to US$36.481 million.
+The Committee will come back to these amounts. For the present purposes it
+suffices to state that, using the Tribunal’s detailed analysis and careful specification
+of the elements of the DCF analysis, “Point D” would undoubtedly not be an
+amount of US$46.4 million.
+
+The Committee recalls the rationale of the Tribunal’s duty to motivate the process
+of its determination of compensation and its conclusions. It is the corollary of its
+power to determine that a sovereign State has violated international and national
+law by offering, after a lawful expropriation, an amount of compensation that did
+not correspond to the market value. The State as well as the investor may
+legitimately expect that the tribunal explains why the State’s offer would
+undercompensate the damage and what the correct standard and amount of
+compensation would be. The Tribunal is entitled to use its discretion and may
+estimate the correct compensation as long as it explains the process leading to the
+
+estimation.
+The Tribunal in the present case did so with remarkable clarity and force. But after
+
+having done so, the Tribunal contradicted its own analysis and reasoning by
+
+quantifying its estimation using one concrete criterion (a country risk premium of
+
+50
+
+194.
+
+195.
+
+196.
+
+1.3.
+
+197.
+
+1.5 per cent) which it had rejected as unreasonable. The contradiction cannot be
+
+argued away or cured. It is evident and decisive for the outcome.
+
+The Committee does not exclude that the calculation was based on an error by the
+Tribunal in transcribing the figures from the illustrative tables into the Award.
+However, the ascertainment of acontradiction rests on purely objective criteria and
+not on subjective reproaches against tribunals. A possible inadvertency of the
+
+Tribunal is therefore without relevance and does not have to be established.
+
+As aresult of the contradiction in the reasoning, Venezuela is not able to understand
+to what extent it has used its public power unlawfully when it offered
+compensation. That is not the consequence of a misuse of the Tribunal’s authority
+to discretion but of the Tribunal’s contradictory reasoning when presenting what,
+in its view, it considered the correct elements for the determination of
+compensation, but in reality used an element it had rejected earlier to fix the amount
+
+of compensation.
+
+The Committee does not have the authority to annul the Award or any part thereof
+for reasons of errors in the use of the Tribunal’s discretion. However, it has the
+authority to annul the part of the Award for which the Tribunal failed to state the
+reasons on which it based that particular part of the Award. The Committee
+recognizes the high quality of the bigger part of the Award, as both Parties also
+appear to do. At the same time, it holds that one part of the Award, where a
+genuinely contradictory reasoning on the amount of compensation cancels out
+
+another reasoning with respect to the same compensation, must be annulled.
+
+The Consequence of the Application of the Standard
+
+The contradiction has a material impact on the result of the Award. It cannot be
+
+cured by additional reasons. Under these circumstances, the Committee does not
+
+51
+
+198.
+
+199.
+
+200.
+
+201.
+
+have to decide whether in principle ad hoc committees have discretion to annul or
+not to annul the part of the Award for which the tribunal has failed to state reasons.
+Lifting the contradiction in reasoning would not lead to an adequate remedy. The
+material consequences of the contradiction would not vanish. It is the Committee’ s
+view that under such circumstances it has no discretion to abstain from annulling
+
+what is contradictory.
+
+Article 52(3) of the ICSID Convention bestows the authority upon the Committee
+to annul “the award or any part thereof.” Arbitration Rule 55(3) provides that “i/f
+the original award had only been annulled in part, the new tribunal shall not
+
+reconsider any portion of the award not so annulled.”
+
+The Committee’s existence and authority emerges with the application for
+annulment. Article 52(1) of the ICSID Convention provides that an application may
+be made for the annulment of the award. An application for a partial annulment is
+
+not explicitly foreseen. Arbitration Rule 50 does not provide otherwise.
+
+The Applicant has requested the annulment of “the portion of the Award dealing
+with the conclusion on DCF calculation’’!® and later specified that the “Republic
+requested the annulment of the finding of the total compensation awarded in the
+Award (i.e. paragraphs 202 and 217(3) of the Award)’, whereby a “new tribunal
+would need to consider the decisions taken by the first Tribunal and that were not
+
+the subject of the annulment proceeding.”'®
+
+The Respondents have requested that “the Republic’s application for annulment
+should be dismissed in its entirety. Indeed, the Committee has no power to reduce
+
+the Award. [...] The ad hoc committee may not amend or replace the award by its
+
+own decision on the merits.” '©7 However, they have requested alternatively:
+
+165 Memorial, 3.
+166 Venezuela’s PHB, p. 2.
+167 Tidewater’s PHB, 9.
+
+52
+
+202.
+
+203.
+
+204.
+
+“Nevertheless, should the Tribunal [sic] determine that the Republic’s Application
+is meritorious, the Committee should leave undisturbed the portion of the
+compensation awarded by the Tribunal that the Republic admits would have been
+
+supported by Navigant’s model (i.e., US$36.481 million).”'®8
+
+For reasons of procedural economy, the Committee shares the MINE ad hoc
+committee’s view that Article 52(3) of the ICSID Convention implies that a
+“request for partial annulment is clearly admissible” and that portions of the award
+for which annulment had not been requested “will remain in effect regardless of the
+annulment in whole or in part of the portion of the Award in respect of which
+
+Guinea has formulated its request for annulment.” '°°
+
+As stated above, the Committee’s authority includes the possibility to annul
+
+portions of the part of the Award for which annulment has been requested.
+
+The Applicant has requested the annulment of the totality of the Award that deals
+with the calculation of the DCF and compensation. At the same time, it has
+concentrated on the Tribunal’s inconsistent reasoning with respect to SEMARCA’s
+scope of business and the country risk premium. It has not alleged any
+inconsistency with respect to the relevance and the calculation of the accounts
+receivable. It has equally not submitted that the totality of the Tribunal’s
+calculations was contradictory but only the part which exceeds the amount based
+on 15 vessels and a country risk premium of 14.75%. It has presented a calculation
+to the Committee leading to an amount of US$19.997 million if the criteria had
+been properly applied. However, it has warned the Committee that it “does not
+have powers to determine the amount of compensation owed to the Tidewater
+Parties, and in any event it may not consider, in order to determine the amount
+
+of compensation, evidence that was not before the Tribunal who issued the Award.
+
+168 Tidewater’s PHB, {10.
+169 MINE, (4.07.
+
+53
+
+205.
+
+206.
+
+207.
+
+208.
+
+If the parties cannot reach a settlement to end their dispute, it would correspond
+
+to a new tribunal the calculation of the compensation that would be owed.”!7°
+
+The Applicant’s opinion is refuted by the Respondents. They submit that the
+Committee has the authority to leave the Award in effect with respect to the
+accounts receivable, ie. US$16.484 million, and the amount of the business value
+that flows from the non-contradictory application of the elements that the Tribunal
+had established, ie. US$ 19.997 million. The Respondents submit that the resulting
+sum of US$36.481 million is the direct and consistent conclusion of the application
+of the elements and that the “Republic acknowledges that Tidewater’s expert
+
+submissions would have supported a principal amount of US$36.481 million.”!7!
+
+Indeed, it was the Applicant that has calculated the corrected amount of the business
+value, based on the Claimants’ expert valuation model and using the elements
+identified by the Tribunal.!7? It has re-affirmed the figure on page 24 of its power-
+point presentation during the Hearing. However, it has insisted that the figure was
+
+“not in the record of Arbitration proceeding.”
+
+The Parties have no dispute over the following figures and do not allege any
+inconsistency between them and the Tribunal’s elements established for the
+valuation of SEMARCA’s market value: US$16.484 million for accounts
+receivable, US$19.997 million for SEMARCA’s business value, and the total sum
+of US$36.481 million.
+
+The Committee is conscious that its authority is limited to annulling or upholding
+
+the Award or parts of it. It is “not empowered to amend or replace” the Award by
+
+170 Venezuela’s PHB, p. 2.
+
+17! Counter-Memorial, footnote 3.
+
+172 Memorial, Note 26.
+
+173 Venezuela’s Hearing Power-Point Presentation, p. 24.
+
+54
+
+209.
+
+210.
+
+211.
+
+anew decision on the merits.!74 It “can extinguish a res iudicata but it cannot create
+anew one.”!7> Tt is equally conscious that it is not authorized to appraise new
+
+evidence.
+
+The Committee has found that the Tribunal has consistently and without
+contradiction estimated an amount of compensation for accounts receivable of
+US$16.4 million. The Tribunal has accepted this amount by using the Claimants’
+expert’s calculation [an amount of US$16.484 million] and by exercising its
+discretion of rounding it down to US$16.4 million. The calculation and the amount
+are undisputed by the Parties. Although the Applicant has applied for the annulment
+of the total compensation and calculation of the DCF, it has not pursued this request
+with respect to the accounts receivable and has not substantiated in what way the
+
+Tribunal has failed to state reasons for the adjudication of this amount.
+
+Therefore, the Committee rejects the request to annul the totality of the part of the
+Award that deals with compensation and its calculation. As a first step, it rejects
+the implied request to annul the Award with respect to the accounts receivable in
+
+an amount of US$16.4 million. This part of the Award is upheld as res iudicata.
+
+Further, the Committee has found that the Tribunal has stated reasons consistently
+and non-contradictorily for the determination of SEMARCA’s business value.
+According to both Parties, the amount of US$19.997 million flows directly from
+the application of the elements that the Tribunal had established to be able to
+estimate the appropriate amount on an informed basis. The Tribunal has stated the
+reasons which support the ascertainment of the claim in an amount of US$19.997
+million. It has only failed to state reasons why it has decided to go far beyond that
+
+amount.
+
+174 Occidental Petroleum Corporation and Occidental Exploration and Production Company v. Republic
+of Ecuador, ICSID Case No. ARB/O6/11, Decision on Annulment, dated November 2, 2015
+(“Occidental”), 1299.
+
+175 ©, Scheuer, The ICSID Convention — A Commentary, 2nd edition, 2009, Article 52, 1491.
+
+55
+
+212.
+
+213.
+
+214.
+
+215.
+
+216.
+
+It is the Committee’s duty to annul the portion of the Award for which no reasons
+are stated. The Tribunal has failed to state the reasons for the adjudication of an
+amount of US$30 million instead of US$19.997 million. That portion of the Award
+must be annulled. It will be for a new tribunal to assess and calculate whether such
+amount or another amount must be ascertained. It is not for this Committee to
+
+substitute its views in this regard.
+
+Conversely, the Committee has no authority to annul portions of the Award for
+which no ground for an annulment exists, in other words and in the present context,
+
+for which reasons are stated.
+
+The Committee holds that the Tribunal has stated the reasons for the application of
+the DCF analysis to establish the market value as requested by Article 5 of the BIT.
+The Tribunal has also motivated clearly and without contradiction its decision to
+isolate and describe the elements for the valuation of the market value and to
+quantify these elements for the specification of such analysis. This part of the
+
+Award is also upheld as res indicata.
+
+The Committee has been helped by the Parties to understand that the direct
+consequence of the application of these elements leads to an amount of US$19.997
+million. The Committee has to determine whether it has the authority to confirm
+this amount as res iudicata, as requested by the Respondents but contested by the
+
+Applicant.
+
+‘When weighing the arguments, the Committee has looked for assistance to the
+recent decision of the ad hoc committee in the Occidental annulment proceeding.
+That committee had found:
+
+“Consequently, the Committee’s decision to partially annul the Award must lead
+
+to the annulment of the quantification of damages (US$ 1,769,625,000) contained
+in Sub-paragraph (v) of the dispositive section of the Award to the extent that it
+
+56
+
+217.
+
+218.
+
+compensates the Claimants for 100% (and not for 60%) of the value of Block 15-
+but not of the rest of such Sub-paragraph.
+
+The next question to be addressed is whether the Committee is authorized to
+substitute the annulled figure of damages with the correct number, or whether this
+task must be entrusted to a new investment tribunal. The parties have discussed
+this issue, and while Respondent favours the constitution of a new tribunal,
+Claimants have accepted that in the proper circumstances annulment committees
+are authorized to insert correct data in partially annulled decisions.
+
+The Committee concurs with Claimants.
+
+It is true that annulment committees are not empowered to amend or replace
+awards. But this is not the task at hand. What is required in this case, in which the
+Committee is partially annulling the Award, is for the Annulment Committee to
+substitute the Tribunal’s figure of damages with the correct one. If this task can be
+performed without further submissions from the Parties and without additional
+marshalling of evidence, committees should be entitled to do so. Basic reasons of
+procedural economy speak in favour of this solution. There is no need for the
+parties to incur the additional cost and delay of going througha second investment
+arbitration, when the correct number can be inserted by the annulment committee,
+after performing a very simple arithmetic calculation and without further input
+from the parties.”!7
+
+Apparently, the circumstances of the present case are different. It is not the
+Committee that has to do a ‘very simple arithmetic calculation’ because it was done
+by the Applicant, based on the elements established by the Tribunal and using the
+matrix of the Claimants’ expert that had been accepted by the Tribunal. The
+Applicant’s calculation was agreed by the Respondents to be the direct result of an
+
+application of the Tribunal’s own criteria.
+
+Two issues must be addressed. The first one concerns the Applicant’s contention
+that the figure of US$19.997 million was not before the Tribunal, and can therefore
+not be taken into its consideration. With some hesitation, the Committee disagrees.
+It finds that only the naked figure was not in the records. All the elements leading
+to this figure were in the record, including the 15 vessels scenario and a country
+risk premium of 14.75%, as well as the calculation matrix that had led to the US$30
+million figure, ie. the Tribunal’s estimation. In fact, if the Tribunal had not
+
+contradicted itself by picking an amount based on a 1.5% country risk premium,
+
+176 Occidental, {4296-299 (footnotes omitted).
+
+s7
+
+219.
+
+220.
+
+221.
+
+222.
+
+which it had rejected before, the figure of US$19.997 million would have emerged
+naturally from the facts and evidence before the Tribunal. The figure is part of this
+evidence and not new. This is not different from the figure that emerged naturally
+in Occidental as a result of acalculation that had not been performed by the tribunal
+
+in that case.
+
+The second issue concerns the extent of the Committee’s authority. It does not
+cover the creation of a new res iudicata as the consequence of a new award. The
+Committee believes that this is not what it does when confirming an amount of
+
+US$19.997 million as part of the Tribunal’s Award.
+
+The amount is encapsulated in the US$30 million that the Tribunal has put forward
+in partial contradiction to its own reasoning. The Committee neither adds reasons
+when it confirms that amount as not contradicting the reasons stated by the
+Tribunal, nor does it fix a ‘new’ amount. It simply confirms that the amount of
+US$19.997 million is the direct and consistent consequence of the Tribunal’s
+reasoning, as presented by the Parties. By so holding, it does not amend or replace
+the Award and does not create a new res iudicata but preserves the Award in part
+
+and with it the res iudicata effect.
+
+In sum, the Committee has decided to follow the Respondents’ subsidiary request
+to “leave undisturbed the portion of the compensation awarded by the Tribunal that
+the Republic admits would have been supported by Navigant’s mode?’!77 and
+rejects the request to annul the finding of the total compensation. It upholds the
+adjudication of US$16.4 million for accounts receivable and US$19.997 million for
+the loss of business value, totaling US$36.397 million.
+
+At the same time, the Committee annuls a portion of the Award and the amount
+
+attached to this portion, ie. US$10.003 million, and extinguishes the res iudicata
+
+177 Tidewater’s PHB, {10.
+
+58
+
+223.
+
+VI.
+
+224.
+
+225.
+
+226.
+
+to that extent. It will be for a new tribunal to render an award with respect to this
+
+portion for which the Tribunal has failed to state reasons.
+
+The Committee is convinced —not differently from the Occidental committee — that
+reasons of procedural economy militate in favor of this decision. In addition, the
+high value of finality of awards, which is emphasized by Article 53 of the ICSID
+Convention, is best respected when the part of the Award, for which no ground for
+annulment exists, is maintained as res iudicata, and only the annullable portion of
+
+the award is extinguished.
+
+COSTS
+
+According to Article 61(2) of the ICSID Convention and Arbitration Rule 47(1) (j),
+which are applicable mutatis mutandis to annulment proceedings (Article 52(4) of
+the ICSID Convention), the Committee has discretion to determine “how and by
+
+whom’ the costs and expenses of ICSID, the Committee and the Parties are borne.
+
+In accordance with ICSID Administrative and Financial Regulation 14(3) (e), the
+Applicant was “solely responsible for making the advance payments [...] without
+prejudice to the right of the Committee in accordance with Article 52 (4) of the
+Convention to decide how and by whom expenses incurred in connection with the
+annulment proceeding shall be paid.” The Applicant has paid the advances as
+
+requested.
+
+The Committee notes that the Applicant’s request to annul the determination of
+the total compensation on the grounds of a manifest excess of power and of a
+serious departure from a fundamental rule of procedure has been dismissed,
+because it is clearly without merits, but that it has partly prevailed because the
+Tribunal has failed to state the reasons for a part of the Award. The Committee
+notes that the Parties might have been able to avoid these proceedings upon the
+
+discovery of the Tribunal’s motivation.
+
+59
+
+227.
+
+228.
+
+229.
+
+The Committee confirms that the Parties have conducted the proceedings
+
+efficiently and diligently.
+
+Under these circumstances, the Committee determines that the Applicant shall bear
+70% and the Respondents shall bear 30% of the fees and expenses of the Members
+of the ad hoc Committee and of the ICSID costs. Since the Applicant has made the
+entirety of the advance payments, the Respondents shall pay, in partial
+reimbursement to the Applicant, 30% of the total costs of the ad hoc Committee
+and of ICSID. !78
+
+Each Party shall bear the costs and fees it incurred.
+
+"8 The ICSID Secretariat will provide the Parties with a detailed financial statement of the case account as
+soonas all invoices are received and the accountis final.
+
+60
+
+VII. DECISION
+
+230. For the foregoing reasons, the ad hoc Committee decides unanimously as follows:
+
+1. The Committee annuls the portion of the Award for which the Tribunal has
+
+failed to state the reasons on which this part is based.
+
+2. All other grounds of the Applicant’s application for annulment are
+
+dismissed.
+
+3. The remainder of the Award, including the adjudication of US$36.397
+
+million, remains unaffected.
+
+4. The Respondents shall pay to the Applicant 30% of the total costs of the ad
+hoc Committee and of ICSID.
+
+5. Each Party shall bear its own costs and fees.
+
+6. In accordance with Arbitration Rule 54(3), the stay of enforcement is
+
+automatically terminated with respect to the unannulled part of the Award.
+
+61
+
+[Signed] [Signed]
+
+Tan Sri Dato’ Cecil W.M. Abraham Prof. Rolf Knieper
+Member Member
+December 19, 2016 December 12, 2016
+[Signed]
+
+Judge Abdulqawi Ahmed Yusuf
+President of the ad hoc Committee
+December 23, 2016
+
+62
+

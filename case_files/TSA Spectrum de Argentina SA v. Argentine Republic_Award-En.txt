@@ -1,0 +1,2567 @@
+ 
+
+INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
+
+ 
+
+In the Matter of the Arbitration between
+
+TSA SPECTRUM DE ARGENTINA S.A.
+Claimant
+
+ARGENTINE REPUBLIC
+Respondent
+
+ICSID Case No. ARB/05/5
+
+AWARD
+
+Members of the Tribunal:
+
+Judge Hans Danelius, President
+Professor Georges Abi-Saab, Arbitrator
+Mr. Grant D. Aldonas, Arbitrator
+
+Secretary of the Tribunal: Ms. Natali Sequeira
+
+ 
+
+Representing the Claimant: Representing the Respondent:
+
+Mr. R. Doak Bishop, Mr. Osvaldo César Guglielmino
+
+Mr. Craig S. Miles Procurador del Tesoro de la Nacién Argentina
+Mr. Roberto Aguirre Luzi Procuracién del Tesoro de la Nacién
+
+Ms. Silvia Marchili Posadas 1641 (1121), Buenos Aires
+
+Mr. Ben Love Argentina
+
+King & Spalding L.L.P.
+
+1100 Louisiana St., Suite 4000,
+
+Houston, Texas 77002, USA
+
+ 
+
+ 
+
+Date of Dispatch to the Parties: December 19, 2008
+
+ 
+
+VI.
+
+VIL.
+
+VIII.
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SUMMARY OF THE FACTS 2
+A. The Concession 2
+B. Criminal investigations 5
+THE ICSID CONVENTION AND THE BIT .........ccsccsessessesssessesseeseeseeseeseesessesnsenseneeneeseenees 5
+PROCEDURAL HISTORY 11
+CLAIMS AND JURISDICTIONAL ISSUES. ........:ccsccssessesssesseseseeseeseesessessnesseseneeneeneenees 13
+FIRST ISSUE OF JURISDICTION 15
+A. — The parties’ ar; 15
+
+1. The Argentine Republic 15
+
+2. TSA 17
+B. The Arbitral Tribunal’s findings ..0...0.0.c ccc ceeeeeee cece ceeeeeeeeeeeneeneeeeeeesenenenees 19
+SECOND ISSUE OF JURISDICTIO. 23
+A. — The parties’ ar; 23
+
+1. The Argentine Republic 23
+
+2. TSA 26
+B. The Arbitral Tribunal’s findingS ..0...0.0.c ccc eee eeeeeeeeeeee cece tees eeeeneeneeeeeeeeenenenees 30
+THIRD ISSUE OF JURISDICTION. 34
+A. — The parties’ ar; 34
+
+1. The Argentine Republic 34
+
+2. TSA 36
+B. The Arbitral Tribunal’s findingS ..0...0.0.c ccc eee eeeeeeeeeeee cece tees eeeeneeneeeeeeeeenenenees 39
+FOURTH ISSUE OF JURISDICTION ..........ccecescessessessesseeseeeeseeseeseeseesessessesanssnseneeneeeeenee! AT
+A. — The parties’ ar; 47
+
+1. The Argentine Republic 47
+
+2. TSA 49
+B. The Arbitral Tribunal’s findings ..0...0.0.0 ccc eee ceeeeeeeeeecseeeeeeeeeeeeeneseseeeeeenenenees 50
+COSTS 51
+AWARD 52
+
+ 
+
+SUMMARY OF THE FACTS
+
+A. THE CONCESSION
+
+Thales Spectrum de Argentina S.A. (formerly known as “Thomson Spectrum de
+Argentina S.A.” and hereinafter called “TSA”) is a company incorporated in Argentina.
+TSA is a wholly owned subsidiary of TSI Spectrum International N.V, (hereinafter called
+
+“TSI’), a company registered in the Netherlands.
+
+According to Decree 1073/1992, dated 30 June 1992, the Undersecretary of
+Communications and the National Commission of Telecommunications of the Argentine
+Republic (hereinafter called “CNC”) were instructed to commence a tender for the
+privatisation of the administration, management and control of the radio spectrum and to
+
+prepare bidding conditions for such a tender.
+
+On 5 November 1995, the Argentine Government published bidding conditions which
+were finally approved on 25 January 1996 by Resolution No. 144/1996 of the Ministry of
+
+Economy, Services and Public Works.
+
+On 30 December 1996, the Government published an updated version of the bidding
+conditions. Pursuant to this version, bidders had to submit three envelopes, consisting of
+
+the following:
+
+(a) First envelope: information on the bidder, including documentation proving the
+
+bidder’s or its controlling company’s capital.
+(b) Second envelope: the proposal of technical improvement.
+(c) Third envelope: the economic offer.
+
+By 14 March 1997, TSA and one other bidder had submitted their bids.
+
+In May 1997, the Evaluation and Pre-Awarding Commission pre-awarded the Concession
+
+to TSA.
+
+On 11 June 1997, CNC, by Resolution No. 716/97, approved the decision of the
+
+Evaluation and Pre-Awarding Commission and awarded the Concession to TSA.
+
+A Concession Contract setting out the conditions for the Concession and the obligations
+of the parties was signed on 11 June 1997 by TSA and CNC. The Contract was to be in
+force for a period of fifteen years, but the term could be prolonged for a further period of
+five years if the Concessionaire complied with its obligations under the contract and met
+certain criteria of the Contract Follow-Up Commission. Under the Contract, TSA was to
+provide radio spectrum administration, monitoring and control services to CNC which, in
+turn, was obliged to create a unified database. The objectives were to carry out spectrum
+management and planning and attribution policy, to assign frequencies and grant licenses
+and concessions, to approve equipment standards, specifications and authorisations, as
+well as to extend debt certificates for the judicial enforcement of matured debts. TSA and
+CNC were entitled to receive a specific percentage of the monthly tariffs collected as
+payment for services and use of spectrum. The Contract contained in Article 29 the
+
+following clause about settlement of disputes (original text):
+
+ 
+
+“ARTICULO 29.- JURISDICCION
+
+Toda cuestién a que dé lugar la aplicacién o interpretacién de las normas
+que rigen el CONCURSO o sobre cualquier cuesti6n vinculada directa 0
+indirectamente con el objeto y efectos del CONCURSO, sera sometida a
+la jurisdiccién de los Tribunales Nacionales de Primera Instancia en lo
+Contencioso Administrativo de la Capital Federal, renunciando a
+cualquier otro fuero o jurisdiccién que pudiera corresponder. También en
+el caso de que el oferente o uno de sus integrantes sea una sociedad
+
+extranjera.
+
+Sin perjuicio de ello, las partes podran someter las desavenencias que
+deriven de este contrato para que sean resueltas definitivamente en la
+ciudad de Buenos Aires de acuerdo con el Reglamento de Conciliacién y
+
+Arbitraje de la Camara de Comercio Internacional por uno o mas 4rbitros
+
+vl
+nombrados conforme a este Reglamento.
+
+9. By Resolution No. 242/04 of 26 January 2004, CNC declared the Concession Contract
+terminated and decided that CNC would operate the installations and assets that were the
+object of the Contract. The reasons given were in brief that TSA had breached the
+Contract in regard to the provision of an integrated information system and had unduly
+
+enriched itself.
+
+10. In a letter of 25 March 2004 to CNC, TSA, with reference to the bilateral investment
+treaties with the Netherlands, France and Germany, requested amicable negotiations
+under the terms of these treaties. TSA also requested the reversal of Resolution No.
+
+242/04.
+
+11. On 14 May 2004, CNC adopted Resolution No. 1231/04 by which these requests were
+
+rejected.
+
+12. In a letter, dated 4 June 2004 but filed on 17 June 2004, TSA, with reference to the
+bilateral investment treaties with the Netherlands, France and Germany, requested the
+
+Secretary of Communications to overturn Resolution No. 1231/04.
+
+13. In a letter of 10 December 2004 to the President of the Argentine Republic, TSA stated
+that, since more than 30 days had passed without an express reply from the Secretary of
+Communications, TSA’s request should be considered rejected according to Argentine
+law. TSA therefore notified the Argentine Republic of TSA’s consent to the exclusive
+jurisdiction of ICSID in order that the investment dispute be resolved through binding
+
+arbitration. TSA also notified its decision to interrupt, in compliance with Article 10(4) of
+
+* Claimant's Memorial on the Merits (Exhibit 4) and Respondent's Memorial on Jurisdiction (Exhibit A RA-2). English Translation of Exhibit 4:
+provided by the Claimant: “All issues arising out of the application or the interpretation of the rules governing the BIDDING PROCESS or any
+other issue directly or indirectly related to the object and the purpose of the BIDDING PROCESS, will be subject to the jurisdiction of the
+National Courts on Administrative Law Matters of the City of Buenos Aires, thus relinquishing any other forum or jurisdiction that might be
+applicable. This also applies in case the offeror or one of its members is a foreign company. Notwithstanding, the parties will also be entitled to
+submit the disputes resulting from this contract before one or more arbitrators appointed in accordance with the Rules of Arbitration and
+Conciliation of the International Chamber of Commerce in the city of Buenos Aires, so that they are definitely settled". English Translation of
+Article 29 provided by the Respondent (Respondent's Memorial on Jurisdiction, para, 12): “All the issues arising from the application or
+interpretation of the standards governing the BIDDING PROCESS or any other issue directly or indirectly related to the object and effects of the
+BIDDING PROCESS, will be subject to the jurisdiction of the National Federal Lower Court on Administrative Law Matters, thus relinquishing
+any other forum or jurisdiction that might be applicable. If the bidder or one of its members is a foreign company, all discrepancies deriving from
+this contract will be definitely settled in the City of Buenos Aires in compliance with the Rules of Conciliation and Arbitration of the International
+Chamber of Commerce by one or more arbitrators in compliance with these Rules”.
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+IL.
+
+the bilateral investment treaty between the Netherlands and the Argentine Republic, the
+
+administrative procedures instituted before CNC and the Secretary of Communications.
+
+On 23 May 2005, the Ministry of Federal Planning, Public Investment and Services
+rejected TSA’s appeal against Resolution No. 242/04.
+
+B. CRIMINAL INVESTIGATIONS
+
+Following an anonymous report on alleged irregularities in the bidding process which
+resulted in the Concession being granted to TSA, a criminal accusation was filed on 16
+July 2001 by the Anticorruption Office against persons belonging to the public
+
+administration or connected with TSA.
+
+On 1 October 2004, the Federal Court in Criminal and Correctional Affairs for the City of
+Buenos Aires No. 7 partially acquitted some of the persons charged, given that the
+
+investigated events had not taken place.
+
+On 15 November 2005, the Federal Court of Appeals in Criminal and Correctional
+
+Affairs, Court II, reversed the partial acquittal and ordered further investigations.
+
+On 26 February 2008, a federal judge ordered the prosecution without detention of a
+number of persons on charges of fraud by unfaithful administration aggravated by the
+infliction of damage to the state. The judge also decided to prosecute two persons
+connected to TSA — Mr. Jorge Justo Neuss and Mr. Jean Nicolas d’Ancezune — for
+complicity in such acts. The judge ordered the attachment of assets of the indicted
+persons, in the case of Mr. Neuss and Mr. d’Ancezune up to the amount of 200 million
+pesos each. As regards bribery, the judge noted that the investigation was incomplete and
+
+deferred the decision to be taken in this regard.
+
+THE ICSID CONVENTION AND THE BIT
+
+The Convention on the Settlement of Investment Disputes Between States and Nationals
+of Other States (hereinafter called the “ICSID Convention”), under which the
+International Centre for Settlement of Investment Disputes (hereinafter referred to as
+
+“ICSID”) was set up, provides in Article 25(1) and (2) and Article 26 as follows:
+
+“Article 25
+
+(1) The jurisdiction of the Centre shall extend to any legal dispute arising
+directly out of an investment, between a Contracting State (...) and a
+national of another Contracting State, which the parties to the dispute
+
+consent in writing to submit to the Centre. (...)
+(2) ‘National of another Contracting State’ means:
+
+(a) any natural person who had the nationality of a Contracting State
+other than the State party to the dispute on the date on which the parties
+consented to submit such dispute to conciliation or arbitration as well as
+
+on the date on which the request was registered (...); and
+
+(b) any juridical person which had the nationality of a Contracting State
+other than the State party to the dispute on the date on which the parties
+consented to submit such dispute to conciliation or arbitration and any
+juridical person which had the nationality of the Contracting State party
+to the dispute on that date and which, because of foreign control, the
+parties have agreed should be treated as a national of another Contracting
+
+State for the purposes of this Convention.
+Article 26
+
+Consent of the parties to arbitration under this Convention shall, unless
+otherwise stated, be deemed consent to such arbitration to the exclusion
+of any other remedy. A Contracting State may require the exhaustion of
+local administrative or judicial remedies as a condition of its consent to
+
+arbitration under this Convention.”
+The Argentine Republic and the Netherlands are parties to the ICSID Convention.
+
+The Agreement on Encouragement and Reciprocal Protection of Investments between the
+Kingdom of the Netherlands and the Argentine Republic (hereinafter called the “BIT”)
+was signed on 20 October 1992 and entered into force on 1 October 1994. It contains,
+
+inter alia, the following provisions:
+
+“Article 1
+For the purposes of the present Agreement:
+
+(a) The term ‘investments’ shall comprise every kind of asset invested by
+an investor of one Contracting Party in the territory of the other
+Contracting Party, in accordance with the laws and regulations of the
+
+latter Contracting Party, and shall include (...)
+
+(b) the term ‘investor’ shall comprise with regard to either Contracting
+
+Party:
+
+i. natural persons having the nationality of that Contracting Party in
+
+accordance with its law;
+
+ii. without prejudice to the provisions of paragraph (iii) hereafter, legal
+persons constituted under the law of that Contracting Party and actually
+doing business under the laws in force in any part of the territory of that
+Contracting Party in which a place of effective management is situated;
+
+and
+
+iii. legal persons, wherever located, controlled, directly or indirectly, by
+
+nationals of that Contracting Party.
+
+ 
+
+Article 3
+
+1) Each Contracting Party shall ensure fair and equitable treatment to
+investments of investors of the other Contracting Party and shall not
+impair, by unreasonable or discriminatory measures, the operation,
+management, maintenance, use, enjoyment or disposal thereof by those
+
+investors.
+
+2) More particularly, each Contracting Party shall accord to such
+investments the same security and protection as it accords either to those
+of its own investors or to those of investors of any third State, whichever
+
+is more favourable to the investor concerned.
+
+3) If a Contracting Party has accorded special advantages to investors of
+any third State by virtue of agreements establishing customs unions,
+economic unions, integration areas or similar institutions, or on the basis
+of interim agreements leading to such unions or institutions, that
+Contracting Party shall not be obliged to accord such advantages to
+
+investors of the other Contracting Party.
+
+4) If the provisions of law of either Contracting Party or obligations
+under international law existing at present or established hereafter
+between the Contracting Party in addition to the present Agreement
+contain a regulation, whether general or specific, entitling investments by
+investors of the other Contracting Party to a treatment more favourable
+than is provided for by the present Agreement, such regulation shall to
+
+the extent that is more favourable prevail over the present Agreement.
+Article 4
+
+1) Investments which are subject to a special agreement between one of
+the Contracting Parties and an investor of the other Contracting Party
+shall be ruled by the provisions of this Agreement and by those of such
+
+special agreement.
+
+2) Each Contracting Party shall observe any obligation it may have
+entered into with regard to investment of investors of the other
+
+Contracting Party.
+Article 5
+
+With respect to taxes, fees, charges and to fiscal deductions and
+exemptions, each Contracting Party shall accord to investors of the other
+Contracting Party who are engaged in any economic activity in its
+territory, treatment not less favourable than that accorded to its own
+investors or to those of any third State, whichever is more favourable to
+the investors concerned. For this purpose, however, there shall not be
+taken into account any special fiscal advantages accorded by that Party
+
+under an agreement for the avoidance of double taxation, by virtue of its
+
+participation in a customs union, economic union, integration area or
+
+similar institution, or on the basis of reciprocity with a third State.
+
+ 
+
+Article 7
+
+Neither of the Contracting Parties shall take any direct or indirect
+measure of nationalization or expropriation or any other measure having
+a similar nature or similar effect against investments made in its territory
+by investors of the other Contracting Party, unless the following
+
+conditions are complied with:
+
+Article 10
+
+1) Disputes between one Contracting Party and an investor of the other
+Contracting Party regarding issues covered by this agreement shall, if
+
+possible, be settled amicably.
+
+2) If such disputes cannot be settled according to the provisions of
+paragraph (1) of this Article within a period of three months from the
+date on which either party to the dispute requested amicable settlement,
+either party may submit the dispute to the administrative or judicial
+organs of the Contracting Party in the territory of which the investment
+
+has been made.
+
+3) If within a period of eighteen months from submission of the dispute
+to the competent organs mentioned in paragraph (2) above, these organs
+have not given a final decision or if the decision of the aforementioned
+organs has been given but the parties are still in dispute, then the investor
+concerned may resort to international arbitration or conciliation. Each
+Contracting Party hereby consents to the submission of a dispute as
+
+referred to in paragraph (1) of this Article to international arbitration.
+
+4) At the moment the dispute is submitted to arbitration each party to the
+
+22.
+
+dispute shall adopt all necessary measures to interrupt the procedures
+
+instituted at the organs as mentioned in paragraph (2) of this Article.
+
+5) Where the dispute is referred to international arbitration or
+
+conciliation, the investor concerned may submit the dispute either to:
+
+(a) The International Centre for Settlement of Investment Disputes
+(hereinafter referred to as I.C.S.I.D.) created by the “Convention on
+the Settlement of Investment Disputes between States and Nationals
+of Other States” opened for signature at Washington on 18th March
+1965 (hereinafter referred to as the Convention), once both
+Contracting Parties have become a party to the Convention; until
+such time as the latter condition shall be fulfilled, the Additional
+Facility for the administration of proceedings by the secretariat of the
+
+LC.S.LD. shall be used;
+
+(b) An ad hoc arbitration tribunal to be established under the
+arbitration rules of the United Nations Commission on International
+
+Trade Law.
+
+6) A legal person which is incorporated or constituted under the law in
+force in the territory of one Contracting Party and which, before a
+dispute arises, is controlled by nationals of the other Contracting Party
+shall, in accordance with article 25(2)(b) of the Convention be treated for
+the purposes of the Convention as a national of the other Contracting
+
+Party.
+
+7) The arbitration tribunal addressed in accordance with paragraph (5) of
+this Article shall decide on the basis of the law of the Contracting Party
+which is a party to the dispute (including its rules on the conflict of law),
+the provisions of the present Agreement, special Agreements concluded
+in relation to the investment concerned as well as such rules of
+
+international law as may be applicable.
+
+ 
+
+A Protocol to the BIT provides as follows:
+
+Til.
+
+23.
+
+24.
+
+25.
+
+“On the signing of the Agreement between the Kingdom of the
+Netherlands and the Argentine Republic on the encouragement and
+reciprocal protection of investments, the undersigned representatives
+have agreed on the following provisions which constitute an integral part
+
+of the Agreement:
+
+B. With reference to Article 1, paragraph b) (iii) the Contracting Party in
+the territory of which the investments are undertaken may require proof
+of the control invoked by the investors of the other Contracting Party,
+The following facts, inter alia, shall be accepted as evidence of the
+
+control:
+i. being an affiliate of a legal person of the other Contracting Party;
+
+ii. having a direct or indirect participation in the capital of a company
+higher than 49% or the direct or indirect possession of the necessary
+votes to obtain a predominant position in assemblies or company
+
+organs.”
+
+PROCEDURAL HISTORY
+
+On 20 December 2004, TSA filed a request for arbitration with ICSID. The request was
+registered on 8 April 2005 under ICSID Case No. ARB/0S/05.
+
+On 19 July 2005, the parties requested that the Arbitral Tribunal in this case be
+constituted in accordance with Article 37(2)(b) of the ICSID Convention. Accordingly,
+the Tribunal was to consist of three arbitrators, one arbitrator appointed by each party and
+the third, who should be the President of the Tribunal, appointed by agreement of the
+
+parties.
+
+The Claimant appointed Mr. Grant D. Aldonas, a national of the United States of America
+and the Respondent appointed Professor Georges Abi-Saab, a national of the Arab
+Republic of Egypt. The Acting Chairman of the Administrative Council appointed Justice
+
+Hans Danelius, a national of Sweden, as President of the Tribunal. By letter of 12 June
+
+11
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+2006, the Centre informed the parties that the Arbitral Tribunal was deemed to be
+constituted and the proceedings to have begun. On the same date Ms. Gabriela Alvarez
+Avila was appointed Secretary of the Arbitral Tribunal. She was subsequently succeeded
+
+in this capacity by Ms. Natalf Sequeira.
+
+The Arbitral Tribunal held a first session with the parties on 31 August 2006 in
+Washington D.C.
+
+On 29 January 2007, TSA filed its Memorial on the Merits.
+
+On 17 May 2007, the Argentine Republic submitted a Memorial on Objections to the
+Jurisdiction of the Centre and the Competence of the Tribunal. On 6 August 2007, TSA
+
+submitted a Counter-Memorial on Jurisdiction.
+
+Further briefs on the issue of jurisdiction were submitted on 26 December 2007 by the
+
+Argentine Republic and on 30 January 2008 by TSA.
+
+On 15 October 2007, the Arbitral Tribunal issued Procedural Order No. 1 in which it
+requested TSA to submit, no later than 20 November 2007, information asked for by the
+Argentine Republic as to the chain of ownership and control of TSA Spectrum de
+Argentina S.A., including specifications of the legal or physical persons having the
+effective control of the company. TSA’s request for an order to exclude certain
+
+documents from consideration was rejected.
+
+By letter of 20 November 2007, TSA, in response to Procedural Order No.1, submitted a
+Witness Statement. On 29 November 2007, the Argentine Republic objected that this was
+
+not sufficient compliance with the Procedural Order and requested further documents.
+
+On 6 December 2007, the Arbitral Tribunal issued Procedural Order No. 2, in which it
+requested TSA to submit, no later than 8 January 2008, copies or extracts of shares
+registries, or equivalent official documents, covering the period from 1997 until the
+present time, regarding certain companies, as well as further information about the
+character and contents of a fiduciary encumbrance upon the shares of TSA Spectrum de
+
+Argentina S.A. which had been referred to by TSA.
+
+33.
+
+34,
+
+35.
+
+Iv.
+
+36.
+
+37.
+
+On 31 January 2008, after an extension of the time-limit, TSA submitted further
+
+documentation about its ownership chain.
+
+On 5-7 May 2008, the Arbitral Tribunal held a hearing on the issue of jurisdiction in
+Washington D.C. at which TSA was represented by Mr. Doak R. Bishop, Mr. Craig S.
+Miles, Mr. Roberto Aguirre Luzi and Ms. Silvia Marchili (King & Spalding LLP) and Mr.
+Juan Pablo Martini (Cassagne Abogados). The Argentine Republic was represented by
+Mr. Adolfo Gustavo Scrinzi, Mr. Gabriel Bottini, Ms. Silvina Gonzalez Napolitano, Ms.
+Mariana Lozza, Ms. Verénica Lavista, Mr. Nicolas Duhalde (Procuracién del Tesoro de
+la Nacion Argentina) and Mr. Ignacio Torterola (Embassy of the Argentine Republic).
+The Arbitral Tribunal also heard testimonies by Mr. Horacio R. Della Rocca, Mr. Javier
+
+M. Guerrico, Mr. Jean Nicolas d’ Ancezune and Professor Eduardo Aguirre Obarrio.
+
+In a letter of 26 June 2008, TSA referred to a recent decision in an ICSID case which in
+TSA’s opinion had some resemblance with the present case. The Argentine Republic
+commented on the letter on 14 July 2008. There was some further correspondence in
+
+August and September 2008.
+
+CLAIMS AND JURISDICTIONAL ISSUES
+
+TSA claims that the Argentine Republic, in violation of the BIT, international law and
+
+Argentine law, has:
+
+(a) expropriated TSA’s investment;
+(b) failed to treat TSA’s investment fairly and equitably;
+
+(c) impaired by unreasonable measures the management, operation, maintenance, use,
+enjoyment, expansion or disposal of TSA’s investment; and
+
+(d) failed to protect TSA’s investment.
+
+The Argentine Republic contests TSA’s claims and raises four separate objections to the
+
+Arbitral Tribunal’s jurisdiction. Argentina requests the Arbitral Tribunal to declare, in
+
+accordance with Rule 41(4) of the Arbitration Rules, the lack of jurisdiction of the Centre
+
+and determine in conformity with Rule 41(5) of the Arbitration Rules the lack of
+
+13
+
+38.
+
+39.
+
+40.
+
+competence of the Tribunal to hear this case and thus to reject the Request for Arbitration
+
+with costs against TSA according to Rule 47(1)(j) of the Arbitration Rules.
+
+TSA requests:
+
+(a) a declaration that the dispute is within the jurisdiction of the ICSID Convention
+
+and within the competence of the Arbitral Tribunal;
+
+(b) an order dismissing all of Argentina’s objections to the admissibility of the dispute
+and dismissing all of Argentina’s objections to the jurisdiction of the ICSID
+
+Convention and the competence of the Arbitral Tribunal;
+
+(c) an order that Argentina pay the costs for the proceedings, including the Tribunal’s
+fees and expenses, and the costs of TSA’s representation, subject to interest until
+
+the day of payment.
+
+The Argentine Republic’s objections are, in brief:
+
+(a) that TSA relinquished in the Concession Contract any international arbitration
+based on the BIT;
+
+(b) that TSA initiated ICSID arbitration without respecting the pre-conditions for such
+arbitration in the BIT;
+
+(c) that TSA is not a legal person enjoying protection as an investor under the BIT;
+
+and
+
+(d) that TSA’s Concession was not obtained in accordance with Argentine law and is
+therefore not protected under the BIT.
+
+TSA finds the Argentine Republic’s four objections ill-founded and makes the general
+
+remark that the Arbitral Tribunal’s inquiry at the jurisdictional stage is rather limited
+
+under Article 25 of the ICSID Convention. In TSA’s opinion, the Arbitral Tribunal may
+
+look to the BIT in order to determine if its jurisdictional requirements are satisfied and to
+
+TSA’s pleadings in order to determine if the alleged facts, assumed for jurisdictional
+
+purposes to be true, could constitute a violation of the BIT.
+
+41.
+
+42.
+
+43.
+
+The Arbitral Tribunal has examined the parties’ written and oral submissions in their
+entirety as well as the written and oral evidence on which they have relied. In the
+following sections of this Award, the Arbitral Tribunal will deal with each of the
+Argentine Republic’s four objections separately and will, in respect of each objection,
+make a short summary of the parties’ main arguments and then set out the reasons on
+
+which the Tribunal bases its decision regarding the jurisdictional objection concerned.
+
+FIRST ISSUE OF JURISDICTION
+A. THE PARTIES’ ARGUMENTS
+
+1. The Argentine Republic
+
+The Concession Contract which is the object of TSA’s claim contains a clause in Article
+29 which provides that the competent forum for settling disputes regarding the application
+or interpretation of the Contract is either the National Federal Court on Administrative
+Law Matters or an arbitral forum in Buenos Aires which shall apply the Rules of
+Conciliation and Arbitration of the International Chamber of Commerce (hereinafter
+called “ICC’”). The clause is particularly comprehensive, since it refers to all
+discrepancies deriving from the Contract. The impact of Article 29 is that TSA has
+
+relinquished any other forum and jurisdiction.
+
+TSA’s claim is manifestly contractual, although TSA tries to conceal the true nature of the
+dispute by framing it under the provisions of the BIT. But it cannot be ignored that the
+parties agreed on a jurisdictional clause which provided for arbitration under international
+rules, but not under ICSID rules. This distinguishes the present case from other cases in
+which the jurisdiction agreed upon in a contract was that of the courts and tribunals of the
+host state, and not international arbitration. It is also worth noting that in some other cases
+the person filing for international arbitration was not a party to the contract, as a
+consequence of which the tribunals considered that it could be found that the claimant
+
+was not bound by the jurisdictional clause contained in the contract.
+
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+TSA cannot intend to have the Concession Contract regulations applied partially. This is
+not a choice process in which TSA can choose those parts of the Concession Contract that
+
+best suit it (cf. SGS Société Générale de Surveillance S.A. v. Republic of the Philippines”).
+
+The relinquishment of ICSID jurisdiction is consistent with Article 4(1) of the BIT which
+acknowledges that investments subject to a special agreement — such as the Concession
+Contract — shall be ruled not only by the provisions of the BIT but also by those of the
+special agreement. Thus, even accepting, arguendo, that the BIT is the essential basis of
+all TSA’s claims, the contractual jurisdictional clause shall apply to the exclusion of any
+
+other jurisdiction, as Article 4(1) of the BIT contains a renvoi clause referring us thereto.
+
+Neither can it be argued that the jurisdictional clause in the Concession Contract was
+executed by a person other than the one filing for arbitration under the BIT. Indeed TSA
+is the same person that signed the Contract, and the Contract provides for the exclusive
+jurisdiction of an arbitration tribunal set up under the ICC Rules, which TSA later ignores
+
+by invoking the jurisdiction of an ICSID arbitral tribunal.
+
+The jurisdiction agreed by TSA and Argentina in the Concession Contract must prevail
+as: (i) it derives from a special agreement that has priority over the general rule; (ii) the
+special agreement was entered into after the BIT had become effective; (iii) the special
+agreement was entered into with a specific and, at the same time, broad, scope for dispute
+resolution purposes; (iv) it was connected with all such matters as are related to the
+Concession Contract; (v) the jurisdiction in the special agreement was expressly
+
+consented to by TSA; and (vi) the BIT expressly refers to the special agreement.
+
+Consequently, TSA should have resorted to Argentine tribunals or to arbitration under the
+ICC Rules, and since it did not do so, the Arbitral Tribunal should declare its lack of
+jurisdiction on the basis of Article 29 of the Concession Contract and Article 4(1) of the
+
+BIT.
+
+? ICSID Case No. ARB/02/6, Decision on Objections to Jurisdiction, 29 January 2004, para. 154.
+
+49.
+
+50.
+
+Sl.
+
+Pursuant to Article 26 of the ICSID Convention, the Arbitral Tribunal also lacks
+jurisdiction to hear this arbitration proceeding, since that Article provides that consent of
+the parties to arbitration shall, “unless otherwise stated”, be deemed consent to such
+arbitration to the exclusion of any other remedy. The meaning of the phrase “unless
+otherwise stated” supports the criterion explained by Argentina as far as the existence of a
+
+special agreement recognised by Article 4(1) of the BIT is concerned.
+
+2. TSA
+
+The forum selection clause in the Concession Contract does not operate to divest the
+Arbitral Tribunal of ICSID jurisdiction. TSA is not asserting a breach of contract claims
+but violations of the BIT. The forum selection clause in the Concession Contract does not
+preclude TSA’s right to bring treaty claims, and Article 4(1) of the BIT does not
+effectively displace the forum selection clause in the BIT with that of the Concession
+
+Contract.
+
+Although Argentina breached the Concession Contract in many respects, this is not the
+dispute that TSA has put before the Arbitral Tribunal. Instead, TSA claims that Argentina
+violated the BIT when it expropriated TSA’s investment, when it failed to treat TSA’s
+investment fairly and equitably, when it impaired by unreasonable measures TSA’s
+management, operation, maintenance, use, enjoyment, expansion, or disposal of its
+investment, when it failed to protect TSA’s investment, and when it failed to observe
+obligations entered into with regard to TSA and its investments. There is case-law
+showing that the mere fact that certain elements of an investment dispute also involve
+breaches of contract does not suffice to transform a dispute into a non-international
+contract claim or to divest ICSID jurisdiction (e.g. Compajita de Aguas del Aconquija S.A.
+& Vivendi Universal v. Argentine Republic, called Vivendi I’, Azurix Corp. v. Argentine
+Republic’, LG&E Energy Corp., LG&E Capital Corp. and LG&E International, Inc. v.
+Argentine Republic’, Total S.A. v. Argentine Republic’, SGS Société Générale de
+
+5 ICSID Case No. ARB/97/3, Decision on Annulment, 3 July 2002, paras. 112-113.
+ion on Jurisdiction, 8 December 2003, para. 76.
+
+ 
+
+ 
+
+® ICSID Case No. ARB/04/1, Decision on Objections to Jurisdiction, 25 August 2006, para. 85.
+
+52.
+
+53.
+
+54.
+
+{IcsID Case No. ARB/O1/13, Decisi
+
+Surveillance S.A. v. Islamic Republic of Pakistan’, Lanco International, Inc. v. Argentine
+Republic’, Wena Hotels Ltd. v. Arab Republic of Egypt’, Salini Costruttori S.p.A. and
+Italstrade S.p.A. v. Kingdom of Morocco’, Eureko B.V. v. Republic of Poland'', Suez,
+Sociedad General de Aguas de Barcelona S.A. and Interagua Servicios Integrales de
+
+Agua S.A. v. Argentine Republic'”).
+
+TSA has presented to the Arbitral Tribunal facts that, on their face, could constitute a
+violation of the BIT, and this is the proper test for jurisdiction. Moreover, TSA argues that
+these facts constitute violations of the BIT, and Argentina contests these conclusions.
+Thus, TSA has fulfilled the jurisdictional requirement under Article 25(1) of the ICSID
+Convention to bring a “legal dispute” based on the BIT, and it will be for the Arbitral
+
+Tribunal to decide, on the merits, whether the facts indeed result in violations of the BIT.
+
+Article 29 of the Concession Contract, in its first paragraph, refers foreign companies to
+the same dispute resolution procedures as local companies, i.e. the National Lower Courts
+on Administrative Law Matters of the City of Buenos Aires. Under the clause in the
+second paragraph of the same Article, the parties have the option of submitting disputes
+relating to the bidding process to either the Federal Lower Courts on Administrative Law
+Matters of the City of Buenos Aires or arbitration under the ICC Rules. Article 29 refers
+to issues relating to the bidding process, not issues arising under the BIT. Thus, Article 29
+refers a very limited class of disputes to the local courts, not to arbitration. Under Article
+
+29, arbitration is simply an option, not a requirement.
+
+Even if ICC arbitration were a requirement, it would make no difference. When tribunals
+have held that a forum selection clause in an underlying contract does not divest a tribunal
+of jurisdiction to hear treaty claims, they have done so on the following bases: (i) the
+
+forum selection clause could not constitute a waiver of ICSID jurisdiction over BIT
+
+ 
+
+n on Objections to Jurisdiction, 6 August 2003, p:
+
+ 
+
+S ICSID Case No. ARB 97/6, Decision on Jurisdiction, 8 December 1998, 40 ILM (2001) at 463, 466, 469 and 470.
+
+° ICSID Case No. ARB/98/4, Dec
+
+ 
+
+on on Annulment, 5 February 2002, para. 31.
+
+‘© ICSID Case No. ARB/00/4, Decision on Jurisdiction, 23 July 2001, para. 62.
+'' UNCITRAL Arbitration, Partial Award, 19 August 2005, para. 112.
+" ICSID Case No. ARB/03/17, Decision on Jurisdiction, 16 May 2006, paras.43-45.
+
+55.
+
+56.
+
+57.
+
+58.
+
+claims; and, more importantly, (ii) the claims in question were based on the BIT, not the
+
+underlying contract.
+
+Even if the Concession Contract had provided for mandatory arbitration, this would not
+exclude Argentina’s consent to ICSID arbitration under the BIT without explicit language
+to that effect. Thus the fact that arbitration was an option under Article 29 of the
+Concession Contract is of no significance. Nor is it relevant that the parties concluded the
+forum selection clause in the Concession Contract after the entry into force of the BIT.
+Moreover, TSA and Argentina technically consented to ICSID arbitration after they
+
+signed the Concession Contract.
+
+B. THE ARBITRAL TRIBUNAL’S FINDINGS
+
+According to Article 10(3) of the BIT, an investor from one of the Contracting States
+may, on certain conditions, resort to international arbitration in order to settle a dispute
+with the other Contracting State regarding issues covered by the BIT. TSA alleges that its
+rights under the BIT have been breached in several respects, and this is disputed by the
+
+Argentine Republic.
+
+The question the Arbitral Tribunal has to consider is whether TSA, according to the terms
+of the Concession Contract, has undertaken not to avail itself of the right to dispute
+
+settlement it might otherwise have according to the BIT.
+
+Similar questions of the relations between contractual obligations and obligations under
+bilateral investment treaties have arisen in a number of previous ICSID arbitrations. As
+pointed out in Vivendi II, it is clear that a particular investment dispute may at the same
+time involve both issues of the interpretation and application of a treaty and questions of
+contract. In such cases, the questions as to whether there has been a breach of the treaty
+and whether there has been a breach of the contract are different questions, and each of
+them is to be examined separately. As stated in the Vivendi II case, “where ‘the
+fundamental basis of the claim’ is a treaty laying down an independent standard by which
+the conduct of the parties is to be judged, the existence of an exclusive jurisdiction clause
+
+in a contract between the claimant and the respondent state (...) cannot operate as a bar to
+
+19
+
+the application of the treaty standard”'*. Thus, if the contract contains a specific clause on
+dispute settlement, this does not exclude recourse to the settlement procedure in the treaty,
+unless there is a clear indication in the contract itself or elsewhere that the parties to the
+contract intended in such manner to limit the application of the treaty (see also SGS
+Société Générale de Surveillance S.A. v. Islamic Republic of Pakistan", Eureko B.V. v.
+Republic of Poland'’). The Arbitral Tribunal notes that in the case of SGS Société
+Générale de Surveillance S.A. v. Republic of the Philippines, referred to by the Argentine
+Republic, the main question was whether the claimant had presented an independent
+treaty claim different from a claim that could be based on the contract, and that the
+approach taken in that case does not exclude that contractual claims and treaty claims can
+
+in some circumstances be based on the same or similar facts.
+
+59. The Concession Contract contains the following provision in Article 29:
+
+ 
+
+“ARTICULO 29.- JURISDICCION
+
+Toda cuestién a que dé lugar la aplicacién o interpretacién de las normas
+que rigen el CONCURSO o sobre cualquier cuesti6n vinculada directa 0
+indirectamente con el objeto y efectos del CONCURSO, sera sometida a
+la jurisdiccién de los Tribunales Nacionales de Primera Instancia en lo
+Contencioso Administrativo de la Capital Federal, renunciando a
+cualquier otro fuero o jurisdiccién que pudiera corresponder. También en
+el caso de que el oferente o uno de sus integrantes sea una sociedad
+
+extranjera.
+
+Sin perjuicio de ello, las partes podran someter las desavenencias que
+deriven de este contrato para que sean resueltas definitivamente en la
+ciudad de Buenos Aires de acuerdo con el Reglamento de Conciliacién y
+
+Arbitraje de la Camara de Comercio Internacional por uno o mas 4rbitros
+
+'S See supra note 3, at para. 101.
+4 See supra note 7, at paras. 146 and 147.
+'S See supra note 11, at paras.112 and 113.
+
+   
+
+20
+
+916
+nombrados conforme a este Reglamento.
+
+ 
+
+60. The Arbitral Tribunal considers that, while the Concession Contract deals with spec
+contractual rights and obligations, the BIT concerns rights and obligations of a different
+and more fundamental nature. Consequently, not all breaches of CNC’s obligations in the
+Concession Contract would qualify as breaches of the BIT. On the other hand, some acts
+or failures by CNC or other State agencies may involve questions of the implementation
+of the Concession Contract as well as the observance of Argentina’s obligations under the
+BIT.
+
+61. In the present case, it is clear that, while some of the acts or failures referred to by TSA
+may also have concerned CNC’s obligations under the Concession Contract, a tribunal
+acting on the basis of Article 29 second paragraph of that Contract would not have been
+competent to examine the observance by Argentina of its more fundamental obligations
+under the BIT. In respect of alleged violations of such obligations, TSA’s only remedies
+
+were those provided for in the BIT.
+
+62. The Arbitral Tribunal considers that the wording of Article 29 of the Concession Contract
+is not such as to exclude recourse to a remedy under the BIT in cases where a dispute
+arises about acts which might constitute breaches of both the Concession Contract and the
+BIT. Nor can it be assumed without convincing evidence that TSA, by concluding the
+Concession Contract, intended to relinquish any right to a remedy under the BIT, in
+particular for serious acts such as the alleged expropriation of TSA’s contractual rights.
+No evidence of relinquishment has been presented in the present proceedings. Moreover,
+
+if Argentina had intended that the Concession Contract should have the far-reaching
+
+"© Claimant's Memorial on the Merits (Exhibit 4) and Respondent's Memorial on Jurisdiction (Exhibit A RA-2). English Translation of Exhibit 4
+provided by the Claimant: “All issues arising out of the application or the interpretation of the rules governing the BIDDING PROCESS or any
+other issue directly or indirectly related to the object and the purpose of the BIDDING PROCESS, will be subject to the jurisdiction of the
+National Courts on Administrative Law Matters of the City of Buenos Aires, thus relinquishing any other forum or jurisdiction that might be
+applicable. This also applies in case the offeror or one of its members is a foreign company. Notwithstanding, the parties will also be entitled to
+submit the disputes resulting from this contract before one or more arbitrators appointed in accordance with the Rules of Arbitration and
+Conciliation of the International Chamber of Commerce in the city of Buenos Aires, so that they are definitely settled". English Translation of
+Article 29 provided by the Respondent (Respondent's Memorial on Jurisdiction, para. 12): “All the issues arising from the application or
+interpretation of the standards governing the BIDDING PROCESS or any other issue directly or indirectly related to the object and effects of the
+BIDDING PROCESS, will be subject to the jurisdiction of the National Federal Lower Court on Administrative Law Matters, thus relinquishing
+any other forum or jurisdiction that might be applicable. If the bidder or one of its members is a foreign company, all discrepancies deriving from
+this contract will be definitely settled in the City of Buenos Aires in compliance with the Rules of Conciliation and Arbitration of the International
+Chamber of Commerce by one or more arbitrators in compliance with these Rules”.
+
+ 
+
+ 
+
+ 
+
+21
+
+63.
+
+64.
+
+65.
+
+66.
+
+effect of excluding application of the remedies under the BIT, it must have been
+incumbent on Argentina to indicate this in a clear manner in the Contract or in connection
+with the conclusion of the Contract. There is no evidence that Argentina did so or
+
+informed TSA that such was Argentina’s understanding of Article 29 of the Contract.
+
+Furthermore, in a more general manner, the Arbitral Tribunal observes that Argentina’s
+interpretation, if generally applied, would make it possible for governments to avoid their
+treaty obligations as regards important matters such as expropriation by the simple
+expedient of inserting clauses in their contracts that vitiated the right to international
+arbitration, thereby effectively rendering the arbitration provisions of a_ bilateral
+investment treaty a nullity. This would seem inconsistent with a state’s basic obligation
+
+under international law to implement its treaty obligations in good faith.
+
+The Argentine Republic has also referred to the phrase “unless otherwise stated” in
+Article 26 of the ICSID Convention. However, since the rights and obligations under the
+Concession Contract are different from those derived from the BIT, the exception from
+
+consent in Article 26 has no application in the present case.
+
+Thus, it remained open for TSA — provided that all other formal conditions were satisfied
+— to seek a remedy in the BIT for expropriation of its investment or for any alleged failure
+by Argentina to give adequate security and protection to the investment in accordance
+
+with the BIT.
+
+The Arbitral Tribunal therefore concludes that, notwithstanding Article 29 of the
+Concession Contract and Article 26 of the ICSID Convention, the dispute settlement rules
+in the BIT remained at the disposal of TSA, provided that the BIT was not for other
+
+reasons inapplicable to TSA.
+
+22
+
+VI.
+
+67.
+
+68.
+
+69.
+
+70.
+
+SECOND ISSUE OF JURISDICTION
+A. THE PARTIES’ ARGUMENTS
+
+1. The Argentine Republic
+
+Argentina and the Netherlands agreed in Article 10 of the BIT that, should it not be
+possible to resolve amicably a dispute between an investor and a Contracting Party, it
+should first be subject to the administrative or judicial agencies of the country of
+investment. Only if eighteen months later no final decision had been made, or if the
+decision had been given but the dispute prevailed, could the claim be filed with an
+
+international tribunal. TSA did not comply with these requirements.
+
+CNC’s Resolution No. 1231/04 of 14 May 2004 was not a final decision for the purpose
+of Article 10(3) of the BIT, since such decision was likely to be appealed. Indeed TSA
+filed an appeal which made the proceedings be referred to the Secretariat of
+Communications on 18 May 2004. Although there was no final decision, TSA submitted
+the case to ICSID on 20 December 2004 when only nine months had elapsed from 29
+March 2004, the date when the petition for reconsideration of Resolution No. 242/04 was
+filed.
+
+Article 10(3) of the BIT expressly provides for two cumulative requirements necessary
+for investors protected under the BIT to be authorised to resort to arbitration: (a) an
+eighteen-month term as from the submission of the dispute to the competent
+administrative or judicial bodies of the host state; and (b) absence of a final decision, or if
+a final decision has been issued, a remaining dispute between the parties. TSA has failed
+
+to meet such requirements.
+
+It cannot be concluded that at any time in this case there was a sign of the obvious futility
+of the local remedies available. TSA had the guarantees provided by the local remedies,
+and still decided to skip them in order to resort to ICSID’s jurisdiction. The parties to the
+BIT agreed upon a clear and precise procedure to be followed in order to file international
+arbitration proceedings. Such procedure does not allow investors arbitrarily and at their
+
+own discretion to decide not to comply with it. If investors choose not to comply with the
+
+23
+
+71.
+
+72.
+
+provisions agreed upon by the states, tribunals cannot grant them the protection afforded
+by said rules, since that would be against the common intention of the States Parties. The
+fact that a new submission of an arbitration claim would cause the investor to incur
+additional, maybe unnecessary, costs is not something which a decision on jurisdiction
+
+should depend on. This has been the decision of, and the risk taken by, the investor.
+
+The most favoured nation clauses (hereinafter called “MFN clauses”) in the BIT are not
+applicable. The MFN clause in Article 5 of the BIT relates exclusively to taxes, fees,
+charges and fiscal deductions and exemptions. The MEN clause in Article 3(2) relates to
+the protection and security standard and does not include dispute resolution. The intention
+of Argentina and the Netherlands was to add such protection to substantive issues and not
+to dispute resolution issues. This also appears from the wording of Article 3(2) which
+differs from the wording of MEN clauses in some other bilateral investment treaties which
+extend the protection to all matters governed by the treaty. Had it been the intention of the
+Argentine Republic and the Netherlands to include stipulations applicable to dispute
+resolution within the scope of the MEN clause, they would have included a phrase that
+allowed for such construction, or a general phrase referring to the whole BIT. Not only
+did they refrain from doing so, but they also limited the scope of application of the MFN
+clause to some particular events expressly stipulated, one of them being protection and
+security in Article 3(2). Argentina thus took a deliberate decision when negotiating the
+BIT with the Netherlands, which was executed by both Governments on 20 October 1992.
+By that time, Argentina had already executed other bilateral investment treaties in which
+there was no requirement to previously resort to the domestic jurisdiction within a specific
+
+period before opting for arbitration.
+
+Article 3(4) of the BIT is of no relevance for solving the issue, given that it only refers to
+two events which are not related to the MEN clause: (a) where there are national laws of
+one of the parties granting investments of the other Contracting Party a more favourable
+treatment than that set out in the BIT, and (b) where there are existing or subsequently
+established international law obligations between the Contracting Parties and in addition
+to the BIT granting a more favourable treatment to investments made by investors from
+
+the other Contracting Party.
+
+24
+
+73.
+
+74.
+
+75.
+
+76.
+
+The bilateral investment treaty between Argentina and the USA is also of no relevance in
+this context. It was not concluded in connection with the conclusion of the BIT with the
+Netherlands. The Argentina-US treaty was executed on 14 November 1991 and the
+Argentina-Netherlands BIT almost a year later, on 20 October 1992. Therefore, it could
+not be considered an instrument concluded in connection with the conclusion of the
+Argentina-Netherlands BIT. Neither does the Argentina-US bilateral treaty qualify as a
+relevant rule of international law applicable in the relations between the parties in the
+terms of Article 31(3)(c) of the Vienna Convention on the Law of Treaties, as it was not
+entered into by and between the same parties as the ones in the treaty to be interpreted, i.e.
+
+the Argentina-Netherlands BIT.
+
+The integration principle can under no circumstances back up the inclusion of procedural
+rules included in other international treaties with third states to the Argentina-Netherlands
+BIT, for instance in the case of the Argentina-US treaty. The distinction between
+conditional and unconditional clauses is not useful either, since the MEN clause in Article
+
+3(2) is limited by its own wording.
+
+TSA has not submitted any evidence that nullifies the authentic interpretation of the BIT
+made by the Argentine Republic. TSA is not a party to the BIT. Therefore only Argentina
+and the Netherlands can make an authentic interpretation of the BIT. TSA’s position
+cannot prevail over the express wording of the BIT, the Argentine Republic’s official
+position or the case-law in regard to other bilateral investment treaties. Moreover, if
+Article 3(2) comprised any issue included in the BIT, it would be difficult to understand
+the raison d’étre of other clauses providing for MFN treatment in specific matters. The
+only possible explanation is that Article 3(2) is limited to certain issues and does not
+comprise all articles of the BIT, thus the need to include other comprehensive clauses
+
+regarding other particular situations.
+
+An extension of the MEN clause to dispute settlement would also be inconsistent with
+
+previous ICSID case-law (Salini Costruttori S.p.A. and Italstrade S.p.A. v. Hashemite
+
+25
+
+77.
+
+78.
+
+79.
+
+80.
+
+81.
+
+82.
+
+"7 ICSID Case No. ARB/02/13, Decision on Jurisdiction, 29 November 2004,
+'S ICSID Case No. ARB/03/24, Decision on Jurisdiction, 8 February 2005, par
+226.
+
+Kingdom of Jordan", Plama Consortium Limited v. Republic of Bulgaria'*) and with the
+ejusdem generis principle. Article 3(2) makes reference to the protection and security
+standard which does not include the chapter on solution of disputes or the requirements
+for access to an international tribunal provided for in the chapter of the BIT on dispute
+
+resolution.
+
+The Arbitral Tribunal should therefore decline its jurisdiction based on the failure to
+
+comply with the requirement set forth in Article 10 of the BIT.
+
+2. TSA
+
+TSA duly notified the treaty dispute to the Argentine Government which refused to
+comply with the BIT. Furthermore, Article 10 of the BIT does not bar the Arbitral
+Tribunal’s jurisdiction over TSA’s claim, and even if it did, TSA may invoke the MFN
+clause in Article 3(2) of the BIT to displace the requirements of Article 10 with more
+
+favourable provisions from other bilateral investment treaties.
+
+First, TSA complied with Article 10 by submitting this treaty dispute to the competent
+“administrative organs” of Argentina, requesting them to undo the measures taken by the
+
+Argentine Government in violation of the BIT. This request was rejected.
+
+Second, Article 10 is a procedural rule that does not bar the Arbitral Tribunal’s
+
+jurisdiction over the substance of TSA’s claim.
+
+Third, the MFN clause in Article 3(2) of the BIT may be invoked to displace the
+
+requirements of Article 10.
+
+On 29 March 2004, TSA notified Argentina, through a communication to CNC, of an
+investment dispute under the BIT. In the same communication, TSA also requested that
+
+CNC resolve this dispute by undoing the termination of the Concession Contract, among
+
+   
+
+s. 114, 116 and 117.
+. 193, 198, 199, 207, 219, 223 and
+
+26
+
+83.
+
+84.
+
+85.
+
+86.
+
+87.
+
+88.
+
+other measures, and expressed its willingness to consult and negotiate with the Argentine
+
+Government to resolve the dispute amicably.
+
+On 14 May 2004, CNC rejected TSA’s request to settle the dispute amicably and undo the
+measures taken by the Government in violation of the BIT. Furthermore, CNC denied the
+
+existence of any dispute under the BIT.
+
+Although this decision was final under Argentine administrative procedure, TSA had an
+option to seek a revision of that final act by either the judiciary or CNC’s superior, the
+Secretary of Communications. TSA opted to submit its request for revision to the
+Secretary of Communications, on 17 June 2004, to overturn CNC’s decision and undo the
+
+measures taken by the Government in violation of the BIT.
+
+On 23 May 2005, the Ministry of Federal Planning, Public Investment and Services
+rejected TSA’s request to revise CNC’s decision. However, long before the Ministry
+rejected the request, TSA was entitled to proceed as if its administrative appeal had been
+
+rejected under the Argentine law doctrine of silencio denegatorio.
+
+Even assuming that the administrative law decisions were not final, there were no further
+
+effective local remedies available to TSA.
+
+The Ministry of Federal Planning, Public Investment and Services notified TSA of its
+negative decision on 27 June 2005. At that stage, the time required to receive a court
+decision would have well exceeded the three months left until September 2005 when the
+eighteen-month period provided for in the BIT expired. In addition, TSA’s investment
+had then already been expropriated and TSA’s directors were the subject of unfounded
+
+criminal accusations.
+
+Thus, (i) TSA had already received a final decision under Argentine administrative law;
+(ii) the Argentine judiciary lacks independence and is vulnerable to political pressure; (iii)
+in this particular case, the Argentine judiciary and executive targeted TSA and its
+employees as objects for harassment; (iv) even if there was a chance for a favourable and
+unbiased solution, it would have been technically impossible because of the length of time
+
+a review of CNC’s decision terminating the Concession Contract would have required.
+
+27
+
+89.
+
+90.
+
+91.
+
+92.
+
+It should be noted that according to Article 10(2) a party may submit a dispute to the
+administrative or judicial organs of the host state. The party thus has a choice between
+administrative and judicial organs but does not have to submit the dispute to both. In this
+
+case, TSA submitted its appeal to the relevant administrative organ, not once but twice.
+
+Under Argentine law an appeal is considered denied if not decided within 30 days by the
+administrative authority. The final appeal, submitted to the Secretary of Communications,
+did not prompt a decision for nearly a year, but should be considered to have been
+rejected well before that time. The decision eventually issued was thus superfluous, even
+when it also rejected TSA’s request, because under Argentine law it had already been
+implicitly rejected. The administrative remedies were thus exhausted. TSA observed the
+requirements of the waiting period in Article 10(3), since it had effectively received a
+
+final decision within the eighteen-month period and the parties were still in dispute.
+
+TSA also asks the Arbitral Tribunal to follow the case-law (Nicaragua v. United States of
+America’, Consorzio Groupement L.E.S.I. — DIPENTA v. People’s Democratic Republic
+of Algeria®, Ethyl Corporation v. Canada*', Ronald S. Lauder v. Czech Republic”, Wena
+Hotels v. Arab Republic of Egypt®, SGS Société Générale de Surveillance S.A. v. Islamic
+Republic of Pakistan™*) in categorizing the waiting period in Article 10(3) as a procedural
+stipulation rather than a jurisdictional requirement. Such a procedural stipulation cannot
+render TSA’s claim inadmissible. To dismiss TSA’s claim over a matter of form would be
+
+inimical to the structure and goals of the ICSID system.
+
+Given the finality of the decisions of CNC and the Secretary of Communications, TSA
+had no obligation under Article 10 to pursue further domestic remedies. In any case, such
+
+further remedies would not have given TSA relief. To suggest that TSA had further legal
+
+'° Military and Paramilitary Activities in and against Nicaragua (Nicaragua v. United States of America), 1CJ
+Judgment (Jurisdiction and Admissibility), 26 November 1984, ICJ Reports 427-429.
+
+29 ICSID Case No. ARB/03/08, 10 January 2005, Award, Questions of Law, para. 32.
+
+*! UNCITRAL, NAFTA, Award on Jurisdiction, 24 June 1998, para. 77.
+
+2 UNCITRAL, Final Award, 3 September 2001, para. 187-191.
+
+?3 See supra note 9, at para. 101-103.
+
+4 See supra note 7, at para. 184.
+
+28
+
+93.
+
+94.
+
+95.
+
+recourse in an environment of judicial harassment through criminal proceedings against
+
+TSA would be a flight of fancy.
+
+TSA also invokes, if necessary, the MFN clause in Article 3(2) of the BIT to import the
+more favourable dispute resolution provision found in Article VII of the Argentina-US
+
+bilateral investment treaty, which provides for a six-month notice period.
+
+First, ICSID case-law emphatically affirms the application of the MFN standard to import
+shorter waiting periods. Second, there is no evidence that the parties intended to limit the
+MEN coverage in the BIT to substantive issues. Third, the difference in wording between
+Article 3(2) and other MEN clauses is without consequence in this case. Because the BIT
+expresses the parties’ intention to promote economic co-operation through the protection
+in its territory of investment, a construction of the BIT that furthers these goals should
+prevail over one that defeats or detracts from them. Fourth, TSA’s interpretation of the
+MEN clause does not violate the ejusdem generis principle. There is no language in
+Article 3(2) that would limit MFN treatment to substantive issues. Article 3(2) refers to
+
+“protection” of which dispute resolution is one of the most important aspects.
+
+In fact, leading ICSID cases have extended MFN coverage to import shorter waiting
+periods and bypass local courts (Emilio Agustin Maffezini v. Kingdom of Spain”, Siemens
+A.G. v. Argentine Republic**, Camuzzi International S.A. v. Argentine Republic’’, Gas
+Natural SDG, S.A. v. Argentine Republic’, Suez, Sociedad General de Aguas de
+Barcelona and Interagua Servicios Integrales de Agua S.A. v. Argentine Republic”,
+National Grid ple v. Argentine Republic*’). All the claimants in these cases were faced
+with stipulated waiting periods, and some were faced with the obligation to pursue
+domestic remedies within that stipulated time. However, none of the tribunals denied the
+claimants’ requests to bypass the stipulated waiting periods and proceed directly to
+
+arbitration without first pursuing domestic remedies.
+
+?5 ICSID Case No. ARB/97/7, Decision on Objections to Jurisdiction, 25 January 2000, para. 54.
+
+26 ICSID Case No. ARB/02/8, Decision on Jurisdiction, 3 August 2004, para
+
+102-103.
+
+ 
+
+27 ICSID Case No. ARB/03/7, Decision on Objections on Jurisdiction, 10 June 2005, para. 34.
+
+?8 ICSID Case No. ARB/03/10, Decision on Preliminary Questions on Jurisdiction, paras. 29-31 and 49.
+° See supra note 12, at paras. 63, 65 and 224.
+
+* UNCITRAL, Decision on Jurisdiction, 20 June 2006, para. 88.
+
+29
+
+96.
+
+97.
+
+98.
+
+99.
+
+The Vienna Convention on the Law of Treaties requires that interpretation should take
+account of “any relevant rules of international law applicable in the relations between the
+parties”. The BIT expresses an acknowledgement by its parties of the relevance of general
+international law. The following two “relevant rules of international law” can be relied on
+in this case: (i) the principle of integration, i.e. that provisions of a treaty must be
+interpreted, not in isolation, but as a whole; and (ii) the principle of interpretation, which
+requires a construction that gives effect to each provision of a treaty, disfavouring
+interpretations that would render ineffective or lessen the effectiveness of, any specific
+provision. Together, these principles make it clear that the BIT, by its express terms and
+by the construction most consistent with customary international law, incorporates any
+standards of procedure or substance concerning the protection of investments that are
+more favourable to the foreign investor. The only limitations on the MFN coverage of the
+BIT are in Article 3(3). Those limitations are express, and thus comprehensive. Most
+importantly, procedural issues are not included in the list of exceptions in Article 3(3) and
+
+should therefore be covered by the MEN protection.
+
+In any case, the burden falls on Argentina to show that the parties intended otherwise.
+Even in the case of ambiguity, there can be no presumption that MFN coverage does not
+extend to dispute settlement provisions. In light of the object and purpose of the BIT, the
+
+Arbitral Tribunal is obligated to resolve such ambiguities in favour of the investor.
+
+B. THE ARBITRAL TRIBUNAL’S FINDINGS
+
+The Arbitral Tribunal notes that, according to Article 10(2) of the BIT, a party may
+submit a dispute to the administrative or judicial organs of the investment state.
+According to Article 10(3) of the BIT, a party may proceed to international arbitration,
+once there is a final decision or eighteen months have elapsed since the dispute was
+
+submitted to the said administrative or judicial organs.
+
+Article 10(3) of the BIT gives rise to various questions of interpretation, and the Arbitral
+Tribunal cannot find that the written or oral evidence in this case provides any answers to
+those questions and will therefore base its conclusions on an examination of the text of
+
+this provision as read in the context of the BIT in its entirety.
+
+30
+
+100.
+
+101.
+
+102.
+
+103.
+
+104.
+
+The Arbitral Tribunal first has to examine whether there was in the present case a final
+
+decision within the meaning of Article 10(3) of the BIT.
+
+There is no information in the case which clarifies how the Netherlands and the Argentine
+Republic intended the term “final decision” in Article 10(3) to be interpreted. However,
+since the term appears in an international treaty and not in a purely national context, it is
+appropriate to give it an autonomous meaning and thus interpret it independently of any
+meaning the same term may have in the national laws of the two Contracting States. It
+may be assumed that the purpose of the requirement of a final decision was to limit as far
+as possible the number of disputes that should be the subject of international settlement.
+The provision thus imposes a requirement of exhaustion of domestic remedies, but with a
+time limitation. If a final decision has not been obtained after eighteen months, no further
+
+use of domestic remedies is required.
+
+Against this background, the Arbitral Tribunal considers that in this context a decision
+should be considered final when there is no legal remedy which would give a party a
+
+reasonable chance of having the decision changed.
+
+It follows that it is not decisive whether, as alleged by TSA, CNC’s Resolution No.
+1231/04 of 14 May 2004 was a final decision according to Argentinian administrative
+law. Instead it is significant that TSA itself sought a remedy against that Resolution by
+submitting a request to the Secretary of Communications. It may be assumed that TSA,
+when resorting to this remedy, believed that there was a reasonable chance that
+Resolution No. 242/04 terminating the Concession Contract would be repealed or
+amended, or that some other relief might be obtained. The Arbitral Tribunal therefore
+considers that Resolution No. 1231/04 was not a final decision within the meaning of
+
+Article 10(3) of the BIT.
+
+However, TSA did not wait for a reply to his appeal. Such a reply did not reach TSA until
+June 2005, when the decision of the Ministry for Federal Planning, Public Investment and
+Services was communicated to TSA. Long before that, on 20 December 2004, TSA
+
+instituted ICSID proceedings. This gives rise to the following questions:
+
+31
+
+105.
+
+106.
+
+107.
+
+108.
+
+(a) whether TSA, before proceeding to ICSID arbitration, should have waited for a
+
+reply to his appeal to the Secretary of Communications, and
+
+(b) whether TSA, either before or after June 2005, should have lodged an appeal with
+an Argentinian court before instituting ICSID proceedings.
+
+TSA attaches weight to the fact that, according to Argentinian administrative law, the
+
+appeal to the Secretary of Communications could be considered rejected if there was no
+
+reply to it within 30 days, i.e. in July 2004. This was the rule relied on by TSA when it
+
+announced, in its letter of 10 December 2004 to the President of the Argentine Republic,
+
+that it had given its consent to the jurisdiction of ICSID in order to have the dispute
+
+resolved by arbitration.
+
+The Arbitral Tribunal is not convinced that the Argentinian rule that a request may be
+considered rejected by silence is decisive in the present case. As stated above, the concept
+of “final decision” in Article 10(3) of the BIT should be given an autonomous
+interpretation, the relevant criterion being whether there is a reasonable chance of having
+a decision changed within the domestic legal system. In this respect, it should be noted
+that the Secretary of Communications and/or the Ministry of Planning, Public Investment
+and Services continued the examination of TSA’s appeal after the 30-day period had
+elapsed, which means that, despite the 30-day rule in domestic administrative law, TSA
+continued to stand a reasonable chance of having its appeal granted during the whole
+
+period up to 23 May 2005 when the Ministry rendered its decision.
+
+It follows that, on 20 December 2004, when TSA requested ICSID arbitration, there was
+not yet a “final decision” within the meaning of Article 10(3) of the BIT. Nor had the
+eighteen-month period provided for in that Article elapsed. TSA’s institution of
+arbitration proceedings was therefore premature. The question arises what consequences
+this should have in the light of subsequent developments, in particular the rejection of the
+
+appeal on 23 May 2005.
+
+When TSA’s appeal was rejected on 23 May 2005, fourteen months of the eighteen-
+month period had elapsed. The decision was notified to TSA about one month later, on 27
+
+June 2005, when fifteen months had elapsed and only three months remained until the
+
+32
+
+109.
+
+110.
+
+111.
+
+112.
+
+expiry of the eighteen-month period. The question arises whether TSA, after receiving the
+Ministry’s negative decision, should have used further remedies before lodging its request
+
+with ICSID.
+
+The Argentine Republic has argued that it would have been possible for TSA to ask the
+Argentinian courts for judicial review. TSA has denied that it was obliged to do so and
+argued that Article 10(2) requires recourse to either administrative or judicial remedies
+and does not oblige an investor to use both categories of remedies. TSA has also argued
+that recourse to the Argentinian courts would have been meaningless and that in any case
+a court decision could not have been obtained before the end of the eighteen-month
+
+period.
+
+The Arbitral Tribunal has some doubts as to whether Article 10(2) should be understood
+to give an investor a choice between administrative and judicial remedies. The provision
+has some resemblance with Article 26 of the ICSID Convention which provides that a
+Contracting State may require the exhaustion of local administrative or judicial remedies
+as a condition of its consent to arbitration under the Convention. However, the purpose of
+Article 10(2) would seem to be that domestic remedies should be exhausted to the extent
+that this might produce results within an eighteen-month period, and this purpose is best
+served if the investor is required successively to avail himself of all remedies, whether
+administrative or judicial, which give him a fair chance of obtaining satisfaction at the
+
+national level within the said time frame.
+
+In the present case, however, since only three months out of the eighteen months
+remained after the decision of the Ministry for Federal Planning, Public Investment and
+Services had been notified to TSA, it is most unlikely that a decision by a court giving
+TSA satisfaction could have been obtained before the expiry of the eighteen months. The
+eighteen-month period would thus have elapsed without any resolution of the dispute,
+after which ICSID arbitration could have been instituted in full conformity with Article
+
+10(3) of the BIT.
+
+In these circumstances, and despite the fact that ICSID proceedings were initiated
+
+prematurely, the Arbitral Tribunal considers that it would be highly formalistic now to
+
+33
+
+113.
+
+VIL.
+
+114.
+
+115.
+
+116.
+
+reject the case on the ground of failure to observe the formalities in Article 10(3) of the
+BIT, since a rejection on such ground would in no way prevent TSA from immediately
+
+instituting new ICSID proceedings on the same matter.
+
+The Arbitral Tribunal therefore concludes that the case should not be rejected for lack of
+jurisdiction on the basis of the Argentine Republic’s second objection and, having regard
+to this finding, does not find it necessary, to examine whether the MEN clauses in the BIT
+
+could also be a valid defence to Argentina’s objection.
+
+THIRD ISSUE OF JURISDICTION
+A. THE PARTIES’ ARGUMENTS
+
+1. The Argentine Republic
+
+The ICSID Convention is the outer limit of ICSID’s jurisdiction. Article 25(2)(b) of the
+Convention permits the extension of the jurisdiction to local companies which, because of
+foreign control, the parties have agreed should be treated as nationals of another
+Contracting State for the purposes of the ICSID Convention. The “control” required is an
+
+objective requirement that shall not be replaced by an agreement.
+
+According to Article 25(2)(b) of the ICSID Convention, the critical date for analysing
+who controls a local company is the date on which the parties agree to ICSID’s
+jurisdiction. TSA consented to submit the dispute to ICSID on 13 December 2004, and
+this date shall be considered the moment to evaluate who the parent corporation of the
+local corporation is. Reference is made in this respect to the case of Vacuum Salt Products
+
+Ltd v. Republic of Ghana 1
+
+Article 10(6) of the BIT accepts ICSID jurisdiction in those cases where the Argentine
+companies were controlled by nationals of the other Contracting Party. “Controlled”
+means being actually under the control of the other company. In this case there is no local
+
+company actually controlled by a Dutch company. Given the circumstances of the present
+
+3! ICSID Case No. ARB/92/1, Award, 16 February 1994, para. 29.
+
+34
+
+117.
+
+118.
+
+119.
+
+case, the corporate veil must be pierced as the Dutch company that claims to have control
+over the local company is not controlling but is a mere vehicle to control the Argentine
+company through other companies. Reference is made in this respect to the case Aguas
+
+del Tunari S.A. v. Bolivia”.
+
+In the Barcelona Traction case, the International Court of Justice stated that, in
+international law, it is allowed to pierce the corporate veil, for instance to prevent the
+misuse of the privileges of legal personality or to prevent the evasion of legal
+
+requirements or obligations*’.
+
+In the Tokios Tokelés case™, the possibility of piercing the corporate veil of a Dutch
+company was analysed, but the tribunal did not allow this to be done, since it found none
+of the grounds indicated in the Barcelona Traction case to be present. This case differs
+from the present one, since there was no ostensible attempt to conceal the true controller
+of the company, taking advantage of the rights that a Dutch controlling shareholder could
+have in an Argentine company. Alternatively, the comments made by Professor Weil in
+his dissent should be applied. According to these comments, only a genuinely foreign
+
+investment should be protected by the ICSID mechanism.
+
+The Protocol to the BIT provides that certain facts, inter alia, shall be accepted as
+evidence of the control but does not state that those facts “prove” the control, only that
+they can be accepted as evidence of the control. In a case such as the present one, the facts
+relied on by TSA are not sufficient to prove the existence of such control by investors of
+the other Contracting Party. Plainly, TSI is a corporate vehicle without any real control
+over TSA. In this respect, Argentina attaches weight to the following circumstances: (i)
+the lack of Dutch citizens in the establishment of TSA and in its board of directors; the
+presence of French citizens until 2002 and of Argentine citizens from 2002; (ii) the
+
+difference between the corporate capital of the “controlling” and the “controlled”
+
+* ICSID Case No. ARB/02/3, Decision on Objections to Jurisdiction, 21 October 2005, para. 255.
+
+* Barcelona Traction, Light and Power Co. Ltd (Belgium v. Spain), ICJ 1970, 3, 5 February 1970, para. 58.
+
+* Tokios Tokelés v. Ukraine (ICSID Case No. ARB/02/18) Decision on Jurisdiction, 29 April 2004, paras. 54-56,
+and Dissenting Opinion of President Prosper Weil, para. 23.
+
+35
+
+120.
+
+121.
+
+122.
+
+123.
+
+124.
+
+125.
+
+corporation; (iii) the corporate seat registered for TSI at the same address as 225 other
+
+corporations; (iv) doubts about TSI’s corporate activities.
+
+The fact that there are some 225 companies registered at the same head office as TSI
+means that the head office does not actually exist. TSI was created on 15 August 1996
+with the purpose to invest in a concession for the Argentine radio-electric spectrum which
+was granted on 11 June 1997. On 20 August 1996, i.e. five days after the establishment of
+TSI, TSA was created. TSI is a vehicle company used by the true controllers of TSA to
+
+carry out their investment.
+
+TSA has not furnished any proof that TSI actually controls TSA. According to the ICSID
+Convention and the BIT there must be effective control in order to extend ICSID
+jurisdiction through Article 25(2)(b) of the ICSID Convention. Company stockholding is
+
+not enough but must be accompanied by effective control.
+
+Control over TSA was exercised until July 2002 by Thales, a French company. Then
+Thales sold its majority stockholding. There are two possibilities. Either the controlling
+company is another foreign company from another jurisdiction, in which case it cannot
+invoke the Argentina-Netherlands BIT. Or even more serious, the controlling company is
+
+an Argentine company or natural person. If so, the company is not under foreign control.
+
+The Argentine Republic thus requests that the Arbitral Tribunal declare that no foreign
+investor exists in light of Article 25(2)(b) of the ICSID Convention and Articles 1 b) (iii)
+and 10(6) of the BIT, since TSA is not controlled by TSI.
+
+2. TSA
+
+Contrary to Argentina’s assertions, TSA is controlled by TSI in the terms of Article
+25(2)(b) of the ICSID Convention and Articles 1 b) (iii) and 10(6) of the BIT. TSI owns
+100% of TSA’s shares and therefore meets the “control” criterion in the Protocol to the
+
+BIT.
+
+TSA’s case falls squarely within Article 25(2)(b) of the ICSID Convention. TSA meets all
+
+the requirements of that provision for the following reasons:
+
+36
+
+126.
+
+127.
+
+128.
+
+(a) TSA has the nationality of “the Contracting State party to the dispute”, i.e.
+
+Argentina, given that it is incorporated in Argentina and has been so since 1996.
+
+(b) TSA had that nationality on the date on which the parties consented to submit such
+dispute to arbitration, Indeed, TSA has been an Argentinian corporation since the
+
+beginning of the Concession up to the present.
+
+(c) Argentina and the Netherlands have agreed that TSA should be treated as a
+national of another Contracting State for the purposes of Article 25(2)(b) of the
+ICSID Convention, through both Article 1 b) (iii) and Article 10(6) of the BIT.
+
+(d) Argentina and the Netherlands have agreed to treat TSA as a national of the
+Netherlands because of “foreign control’, as stated in Articles 1 b) (iii) and 10(6)
+of the BIT.
+
+Undoubtedly, Articles 1 b) (iii) and 10(6) of the BIT are an agreement as to “foreign
+
+control”. In the light of Article 1 b) (iii), TSA need only fulfil one basic requirement: it
+
+should be controlled, directly or indirectly, by a national of the Netherlands, regardless of
+where it is located. The meaning of the term “controlled” was clarified in the Protocol to
+the BIT, and TSA satisfies the requirements indicated there, since TSA is an affiliate of
+
+TSI and the latter has a participation in the capital of TSA higher than 49% with direct
+
+possession of the necessary votes to obtain a predominant position in company organs.
+
+TSA also meets the requirements in Article 10(6), given that it was incorporated in
+
+Argentina before the dispute arose, and it has been controlled by a Dutch company since
+
+the date of its incorporation.
+
+There is no necessity to look for the nationality of the “ultimate controller”, since there is
+
+no such requirement in the BIT.
+
+Although not necessary for the ruling on this issue, TSA provides information on the
+chain of ownership of TSA and TSI at different points in time. In brief, this information
+
+indicates the following:
+
+37
+
+129.
+
+130.
+
+131.
+
+(a) Time of signature of Concession Contract (11 June 1997): At that time the
+
+ultimate owner of TSA and TSI was the French company Thomson CSF S.A.
+
+(b) Date before the dispute arose (5 January 2002): On that date the ultimate owners
+of TSA and TSI were the German-Argentinian citizen Jorge Justo Neuss, the
+
+French Thales Group and the French citizen Jean Nicolas d’ Ancezune.
+
+(c) Time of termination of the Concession (26 January 2004): At that time Jorge Justo
+Neuss and the Thales Group were ultimate owners with certain rights accorded to
+
+Jean Nicolas d’ Ancezune.
+
+(d) Time of notice of the dispute (16 December 2004): At that time Jorge Justo Neuss
+
+was the ultimate owner with certain rights accorded to Jean Nicolas d’ Ancezune.
+
+According to Article 25(2)(b) of the ICSID Convention, the relevant date as regards the
+nationality of the juridical person is the date on which the parties consented to submit the
+dispute to arbitration. According to Article 10(6) of the BIT, the critical date for the
+purposes of “foreign control” is the date before the dispute arose. In the present case, TSA
+has always been incorporated in Argentina, and before the date on which the dispute
+arose, i.e. on S January 2002, TSA was under foreign control, since TSI owned 100% of
+
+its shares.
+
+Consequently, TSA’s case falls within the provisions of Article 25(2)(b) of the ICSID
+Convention and Articles 1 b)(iii) and 10(6) of the BIT and the Protocol regarding foreign
+
+control.
+
+Argentina’s arguments with respect to the existence of “control” not only disregard the
+literal meaning of the BIT but are also not applicable to the present case, as evidenced by
+ICSID precedents (Aguas del Tunari S.A. v. Republic of Bolivia®>, Autopista
+Concesionada de Venezuela, C.A. v. Bolivarian Republic of Venezuela*®, AMCO Asia
+
+Corporation, Pan American Development Limited, PT Amco Indonesia v. Republic of
+
+% See supra note 32, at paras. 296 and 301.
+* ICSID Case No. ARB/00/5, Decision on Jurisdiction, 27 September 2001, paras. 67, 79, 86 and 112.
+
+38
+
+Indonesia*’, ADC Affiliate Limited and ADC & ADMC Management Limited v. Republic
+of Hungary”, Tokios Tokelés v. Ukraine*). In a recent case — Rompetrol Group N.V. v.
+Romania® — the fact that there was a Romanian majority shareholding in a Dutch
+company was not considered an obstacle to bringing proceedings against Romania under
+
+the rules of the ICSID Convention and the Dutch-Romanian bilateral investment treaty.
+
+132. Alternatively, even if the Tribunal (i) decides to analyse the nationality of all of the
+companies that directly or indirectly own TSA’s shares, and (ii) interprets the terms
+“foreign control” on the date before the dispute arose as meaning “effective foreign
+control” or as requiring the last controlling company in the ownership chain to be foreign,
+
+TSA would still fulfil the “foreign control” requirement.
+
+B. THE ARBITRAL TRIBUNAL’S FINDINGS
+
+133. The Arbitral Tribunal will start its examination on this point by analyzing Article 25(2)(b)
+of the ICSID Convention and then proceed to a consideration of its application in the
+circumstances of the present case and taking into account the contents of the BIT between
+
+Argentina and the Netherlands.
+L Article 25(2)(b) of the ICSID Convention
+
+134. Article 25 of the ICSID Convention defines the ambit of ICSID’s jurisdiction. In other
+words, it defines the extent, hence also the objective limits, of this jurisdiction (including
+the jurisdiction of tribunals established therein) which cannot be extended or derogated
+
+from even by agreement of the Parties.
+
+135. In respect of Article 25(2)(b) of the ICSID Convention, which is the provision of
+
+particular interest in the present case, Aron Broches has stated as follows:
+
+“The purpose of that provision, as well as of Article 25(1), is to indicate
+
+*” ICSID Case No. ARB/81/1, Decision on Jurisdiction, 25 September 1983, para. 14.
+
+8 ICSID Case No. ARB/03/16, Award, 2 October 2006, paras. 335, 337, 342, 343 and 357.
+
+® See supra note 34, at paras 22, 36 and 46.
+
+* ICSID Case No. ARB/06/3, Decision on Preliminary Objections on Jurisdiction and Admissibility, 18 April 2008,
+paras. 81-85, 93 and 110.
+
+ 
+
+39
+
+the outer limits within which disputes may be submitted to conciliation
+or arbitration under the auspices of the Centre with the consent of the
+
+parties thereto.” !
+
+136. The objective character of these limits has been noted by several ICSID Tribunals
+(Vacuum Salt Products Ltd v. Republic of Ghana®, and Rompetrol Group N.V. v.
+Romania: “reflects objective ‘outer limits’ beyond which party consent would be
+ineffective”“’).
+
+137. ICSID and the Convention establishing it have for sole purpose and function, as their very
+title indicates, “the settlement of investment disputes between States and nationals of
+
+other States”.
+
+138. Article 25(2)(b) defines the juridical persons that can have access to ICSID as “nationals
+
+of another Contracting State”, classifying them in two categories :
+
+(i) “any juridical person which had the nationality of a Contracting State other than
+the State party to the dispute on the date on which the parties consented to submit
+
+such dispute to conciliation or arbitration”, and
+
+(ii) “any juridical person which had the nationality of the Contracting State party to
+the dispute on that date and which, because of foreign control, the parties have
+agreed should be treated as a national of another Contracting State for the
+
+purposes of this Convention”.
+
+139. The second clause of Article 25(2)(b) introduces a significant exception to one of the
+major premises of the Convention (which also reflects a general principle of international
+law), i.e. that it deals exclusively with disputes between parties of diverse nationalities, to
+the exclusion of those between a State and its own national investors. The ratio legis of
+this exception is the wording “because of foreign control”. Foreign control is thus the
+
+objective factor on which turns the applicability of this provision. It justifies the extension
+
++! Broches, Academy of International Law, Recueil des cours, vol. 136 [1973 II].
+* See supra note 31, at paras. 36-38.
+* See supra note 40, at para. 80.
+
+40
+
+140.
+
+141.
+
+142.
+
+143.
+
+144.
+
+of the ambit of ICSID, but sets the objective limits of the exception at the same time. As
+was stated in Vacuum Salt Products Ltd v. Republic of Ghana, “[t]he reference in Article
+25(2)(b) to ‘foreign control’ necessarily sets an objective Convention limit beyond which
+
+ICSID jurisdiction cannot exist”.
+
+A significant difference between the two clauses of Article 25(2)(b) is that the first uses a
+formal legal criterion, that of nationality, whilst the second uses a material or objective
+criterion, that of “foreign control” in order to pierce the corporate veil and reach for the
+
+reality behind the cover of nationality.
+
+Once the Parties have agreed to the use of the latter criterion for juridical persons having
+the nationality of the host State, they are bound by this criterion as a condition for ICSID
+
+jurisdiction and cannot extend that jurisdiction by other agreements.
+In this respect, Professor Schreuer, after surveying the case-law, states:
+
+“These cases, especially Vacuum Salt, make it abundantly clear that
+foreign control at the time of consent is an objective requirement which
+
+must be examined by the tribunal in order to establish jurisdiction”. “
+
+The question as to whether, or to what extent, the corporate veil should be pierced or
+lifted in the application of Article 25(2)(b) of the ICSID Convention presents itself in a
+different light and can lead to different solutions, depending on whether the case falls
+
+under the first or the second clause of this provision.
+
+The first clause of Article 25(2)(b) mentions only the “nationality” of a Contracting State
+other than the State party to the dispute. In other words, it uses as a criterion the formal
+legal concept of nationality, which for legal persons is determined by one of the two
+generally accepted criteria of the place of incorporation or the seat (siége social) of the
+corporation. There is no reference here to “control”, whether foreign or other, nor any
+
+mention of “piercing” or looking beyond this nationality.
+
+“ Schreuer, The ICSID Convention: A Commentary, p. 312, para. 548.
+
+41
+
+145.
+
+146.
+
+147.
+
+148.
+
+This text may be interpreted in a strict constructionist manner to mean that a tribunal has
+to go always by the formal nationality. On the other hand, such a strict literal
+interpretation may appear to go against common sense in some circumstances, especially
+when the formal nationality covers a corporate entity controlled directly or indirectly by
+
+persons of the same nationality as the host State.
+
+In the two cases of Tokios Tokelés v. Ukraine and Rompetrol Group N.V. v. Romania, the
+Tribunals adopted the strict constructionist interpretation in spite of the control of the
+foreign companies by nationals of the host States. However, this interpretation has not
+been generally accepted and was also criticised by the dissenting President of the Tokios
+
+Tokelés Tribunal.
+
+The situation is different, however, when it comes to the second clause of Article 25(2)(b)
+of the Convention. Here, the text itself allows the parties to agree to lift the corporate veil,
+but only “because of foreign control”, which justifies, but at the same time conditions, this
+exception. Although the text refers to juridical persons holding the nationality of the host
+State that the parties have agreed should be treated as nationals of another contracting
+State “because of foreign control”, the existence and materiality of this foreign control
+have to be objectively proven in order for them to establish ICSID jurisdiction by their
+agreement. It would not be consistent with the text, if the tribunal, when establishing
+whether there is foreign control, would be directed to pierce the veil of the corporate
+entity national of the host State and to stop short at the second corporate layer it meets,
+rather than pursuing its objective identification of foreign control up to its real source,
+
+using the same criterion with which it started.
+
+However, in cases falling within the second clause of Article 25(2)(b), ICSID tribunals
+have not been constant in dealing with this issue of whether or not to pierce the second
+corporate layer after the one bearing the nationality of the host State, in identifying
+foreign control. In AMCO and others v. Republic of Indonesia, Autopista Concesionada
+de Venezuela, C.A. v. Bolivarian Republic of Venezuela and Aguas del Tunari v. Republic
+
+of Bolivia, the Tribunals refused to lift the veil beyond the first layer or rung of the
+
+42
+
+corporate ladder (bearing the nationality of the host State). On the other hand, the
+Tribunals in Société Ouest Africaine des Bétons Industriels (SOABI) v. Senegal and,
+most recently, African Holding Company of America and Société Africaine de
+Construction au Congo S.A.R.L. v. Republic of Congo" did not hesitate to pierce the
+successive corporate layers in identifying foreign control and the nationality of those
+
+holding it.
+
+149. _ It is to be noted that in all these cases what was at issue was not the objective existence of
+foreign control, which was not contested by the host State, but the nationality of this
+
+foreign control.
+
+150. In only one other case, Vacuum Salt Products Ltd v. Republic of Ghana, was the question
+of the existence and reality of “foreign control” raised, i.e. the question whether the
+company, formally national of the host State, was indeed under “foreign control” or
+whether it remained, directly or indirectly, in the hands of nationals of the host State and
+
+thus fell outside the objective bounds of ICSID’s jurisdiction under Article 25(2)(b).
+
+151. Indeed, in that case, the Claimant deduced from a jurisdictional clause referring to ICSID
+in the contract that the parties - Vacuum Salt Products Ltd., which was incorporated
+under Ghanaian law, and the Government of Ghana — had agreed to treat the Company
+“as a foreign national’, i.e. that they had recognised the existence of “foreign control”
+under the second clause of Article 25(2)(b). The Tribunal considered that such an
+agreement only “raises a rebuttable presumption that the ‘foreign control’ criterion of the
+second clause of Article 25(2)(b) has been satisfied on the date of consent’, Thereupon,
+the Tribunal proceeded to a thorough examination of the facts of the case, to reach the
+conclusion that the presumption was rebutted, i.e. that the criterion of foreign control was
+
+not satisfied, and dismissed the case for lack of jurisdiction.
+
++5 ICSID Case No. ARB/82/1, Decision on Jurisdiction, 19 July 1984.
+#6 ICSID Case No. ARB/05/21, Award, 29 July 2008.
+#7 See supra note 31, at para. 38.
+
+43
+
+152.
+
+153.
+
+154.
+
+155.
+
+Writers and commentators are also divided on the issue of piercing the corporate veil
+under Article 25(2)(b) in general. But a majority appear to favour piercing the veil and
+
+going for the real control and nationality of controllers**.
+
+The reasons for piercing of the corporate veil up to the real source of control is a fortiori
+more compelling under the second clause of Article 25(2)(b) when ultimate control is
+alleged to be in the hands of nationals of the host State, whose formal nationality is also
+that of the Claimant corporation. Thus, Professor Schreuer concludes his analysis with the
+following rhetorical question: “Is it sufficient for nationals of non-Contracting States or
+even of the host State to set up a company of convenience in a Contracting State to create
+the semblance of appropriate foreign control?” And his answer is that “the better approach
+would appear to be a realistic look at the true controller thereby blocking access to the
+Centre for juridical persons that are controlled directly or indirectly by nationals of non-
+
+Contracting States or nationals of the host State”.
+
+This is also why in the one case under the second clause of Article 25(2)(b) where
+national control was alleged (Vacuum Salt Products Ltd. v. Republic of Ghana), the
+Tribunal found the presumption of jurisdiction rebutted and declined jurisdiction. And in
+no other such case up to date has an ICSID Tribunal, after setting aside the nationality of
+the host State, stopped short at the second corporate layer or rung, refusing to pursue
+
+control to its real source.
+II. The Circumstances of the Case
+
+TSA bases “foreign control” mainly on the interpretation of Article 1(b)(iii) of the BIT
+
+between the Netherlands and Argentina, and its Protocol which provides under B:
+
+“S E.g. G.R. Delaune, “How to Draft an ICSID Arbitration Clause” ([CSID Rev -FILJ vol. 7 (1992)), p. 168 at 178;
+A. Broches, “Denying ICSID’s Jurisdiction : The ICSID Award in Vacuum Salt Products Ltd”, Journal of
+International Arbitration, vol. 13 (1996), p. 21 (Broches also presided the SOABI Tribunal); M. Hirsch, The
+Arbitration Mechanism of the ICSID (1993), p. 104; Ch. Schreuer, “Access to ICSID Disputes Settlement for Locally
+Incorporated Companies”, in Friedleweiss, Deuters & de Waart (eds.) International Economic Law with a Human
+Face (1998), p. 497; Ch. Schreuer, The ICSID Convention : A Commentary, (Commentary, op.cit., pp. 317-318,
+paras. 562-563); M. Burgstaller, “Nationality of Corporate Investors and International Claims against the Investor's
+own State”, Journal of World Investment and Trade, vol. 7, no 2 (Dec. 2006), p. 857.
+
+* Schreuer, Commentary, op.cit., p. 318 [para. 563].
+
+44
+
+“B. With reference to Article 1, paragraph b) (iii) the Contracting Party
+in the territory of which the investments are undertaken may require
+proof of the control invoked by the investors of the other Contracting
+Party. The following facts, inter alia, shall be accepted as evidence of the
+
+control:
+i. being an affiliate of a legal person of the other Contracting Party;
+
+ii. having a direct or indirect participation in the capital of a company
+higher than 49% or the direct or indirect possession of the necessary
+votes to obtain a predominant position in assemblies or company
+
+organs.”
+
+156. However, the provisions of the BIT cannot provide ICSID jurisdiction unless the
+conditions of Article 25(2)(b) of the ICSID Convention are satisfied. In this sense, the
+
+Vacuum Salt Products Ltd v. Republic of Ghana Tribunal stated:
+
+“(...) the parties’ agreement to treat Claimant as a foreign national
+‘because of foreign control’ does not ipso jure confer jurisdiction. The
+reference in Article 25(2)(b) to ‘foreign control’ necessarily sets an
+objective Convention limit beyond which ICSID jurisdiction cannot exist
+and parties therefore lack power to invoke same no matter how devoutly
+
+they may have desired to do so.”*”
+
+157. | What is decisive is therefore whether the circumstances are such that TSA, although it is
+an Argentinian juridical person, can base jurisdiction on the second clause of Article
+
+25(2)(b) of the ICSID Convention.
+
+158. TSA argues in this respect that the shares of TSA are wholly held by TSI, which is
+incorporated under the law of the Netherlands and is domiciled there. It thus satisfies the
+criterion of the Protocol and also Article 25(2)(b) of the Convention since the parties have
+agreed in the BIT that TSA, because of TSI’s incorporation in the Netherlands and its
+
+100% participation in TSA’s capital, should be treated as a national of the Netherlands.
+
+°° See supra note 31, at para. 36.
+
+45
+
+159.
+
+160.
+
+161.
+
+162.
+
+The Argentine Republic argues that TSA does not fulfil the conditions in Article 25(2)(b)
+of the ICSID Convention for being treated as a national of the Netherlands, since it
+appears from the information provided by TSA that at all possible critical dates (the
+request of arbitration, the consent to jurisdiction, the origin of the dispute), TSI was
+controlled by an Argentinian national, Mr. Jorge Justo Neuss, who held, directly or
+indirectly, a majority of its shares, starting with 51%, increasing over time to near totality.
+Therefore, TSA was not under foreign control and cannot be “treated as a national of
+
+another Contracting State”. The case must therefore be dismissed for lack of jurisdiction.
+
+The Tribunal has found above that in the application of the second part of Article 25(2)(b)
+it is necessary to pierce the corporate veil and establish whether or not the domestic
+company was objectively under foreign control. It also appears from the text of Article
+25(2)(b) that the relevant date is the date on which the parties consented to submit the
+dispute to arbitration. In a letter of 10 December 2004 to the President of the Argentine
+Republic, TSA consented to ICSID arbitration on the basis of the BIT which means that
+
+on that date both parties had consented to arbitration.
+
+TSA has submitted a chart showing that at the time of the notice of the dispute, on 16
+December 2004, thus close to the date of consent, TSA, via other companies, was wholly
+owned by TH Operations International NV (THOP) and that the owner of THOP’s shares
+was Mr. Jorge Justo Neuss, a German-Argentinian citizen. TSA contends, however, that
+Mr. Jean-Nicolas d’Ancezune, a French citizen, has rights to 75% of THOP’s shares
+through a “fiduciary encumbrance” agreed to by Mr. Neuss, who continues all the same to
+hold the shares on his behalf. In spite of questions put to TSA (and to Mr. d’Ancezune
+during his witness statement) about the arrangements made with Mr. d’ Ancezune and the
+nature of the “fiduciary encumbrance”, only scant information — and no corroborating
+evidence — was provided. TSA’s contention in this regard thus remains vague and
+unproven, and there is no evidence that TSA was, at the time of consent, under the real
+
+control of Mr. d’ Ancezune who, moreover, is not a Dutch but a French citizen.
+
+The only conclusion that can be drawn from the information and evidence available to the
+Tribunal is thus that the ultimate owner of TSA on and around the date of consent was the
+Argentinian citizen Mr. Jorge Justo Neuss. It therefore follows that, whatever
+
+46
+
+Vil.
+
+163.
+
+164.
+
+165.
+
+interpretation is given to the BIT between Argentina and the Netherlands, including the
+Protocol to the BIT, TSA cannot be treated, for the purposes of Article 25(2)(b) of the
+ICSID Convention, as a national of the Netherlands because of absence of “foreign
+control” and that the Arbitral Tribunal therefore lacks jurisdiction to examine TSA’s
+
+claims.
+
+FOURTH ISSUE OF JURISDICTION
+
+A. THE PARTIES’ ARGUMENTS
+
+1. The Argentine Republic
+
+The Arbitral Tribunal’s competence is outlined by Article 25(1) of the ICSID Convention
+in which the term “investment” is not defined. The BIT is the instrument in which the
+parties gave their consent and determined what kind of investment could be submitted to
+the ICSID jurisdiction. Article 1(a) of the BIT requires that an asset, in order to be
+protected, must have been invested in accordance with the laws and regulations of the
+relevant Contracting Party. An investment made in violation of such laws and regulations
+
+shall not be considered an investment for the purposes of the BIT.
+
+An investment made by illegal means such as corruption cannot be considered to have
+been made in accordance with the laws and regulations of the host state. TSA is being
+investigated in Argentina for corruption in regard to the awarding of the Concession
+Contract in June 1997. A criminal accusation was filed on 16 July 2001 by the
+Anticorruption Office. There was a partial acquittal but it was annulled by the Court of
+Appeals on 15 November 2005. On 26 February 2008, several public officials as well as
+Mr. Jorge Justo Neuss and Mr. Jean Nicolas d’Ancezune were charged with criminal
+
+offences in connection with the awarding of the Concession to TSA.
+
+There have been extensive press reports on corruption in connection with the Concession,
+and a certain Mr. Lionel Queudot has made accusations against TSA. It is possible to note
+the existence of bribery and/or corruption involving company officials and Argentine
+
+public officers. Argentina considers the existence of events proven which confirm the
+
+47
+
+166.
+
+167.
+
+168.
+
+corruption in which TSI and TSA have been involved. Consequently, they have breached
+the obligation for the investment to be executed according to the laws and regulations of
+the Argentine Republic. There is convincing and clear evidence of irregularities, not only
+at the time of granting the Concession in favour of TSA, but also during its subsequent
+operation. These irregularities are not merely based on news articles but they mostly find
+their support in the evidence that has been filed during the proceedings in which TSA is
+
+accused of the criminal offences.
+
+The payment of bribes to local public officials guaranteed TSA tailor-made bidding terms
+and conditions for the privatisation of the management, control and administration of the
+radio-electric spectrum and, then, the irregular performance thereof. Once the Concession
+Contract had been concluded, TSA continued enjoying the impunity that bribery ensured.
+In the face of its inability to honour the commitments it had undertaken, TSA had to
+trigger a process for the modification of the conditions of the Concession which, since the
+very beginning, it knew it would not be able to fulfil. A written testimony by Mr. Lionel
+Queudot to the Argentine Embassy in Berne bears evidence of the corruption that
+
+occurred.
+
+Although the criminal investigation started in July 2001, the complexity of the facts, the
+large amount of evidence, the diversity of agents and players involved, and the existence
+of some factors alien to domestic courts have prevented the issuance of a final decision to
+date. Nevertheless, the Arbitral Tribunal is not unable to determine that TSA’s investment
+
+was not made in accordance with Argentine law.
+
+TSA made its investment in violation of the general principles of law, since the
+investment resulted from the commission of crimes such as fraud and bribery.
+Consequently, the Arbitral Tribunal has competence and also an obligation to prevent
+
+TSA from benefiting from the rights granted by the BIT. Reference is made in this respect
+
+48
+
+to the ICSID cases of World Duty Free Company Limited v. Republic of Kenya® ' Tokios
+Tokelés v. Ukraine® and Inceysa Vallisoletana, SL v. Republic of El Salvador®>.
+
+2. TSA
+
+169. TSA denies the accusation of bribery. In any case, it is the Arbitral Tribunal, and not the
+Argentine courts, that must decide Argentina’s accusation of bribery. Argentina bears the
+
+burden of proving bribery and has failed to meet the burden of proof.
+
+170. Based on an anonymous accusation against members of TSA’s management, a criminal
+investigation was initiated. There was a partial acquittal which was reversed upon appeal.
+There is now a new unfounded accusation against Mr. Neuss and Mr. d’Ancezune. The
+charges have been analysed and criticised by Professor Aguirre Obarrio. Reference is
+
+made to his expert opinion.
+
+171. TSA neither bribed an Argentine official nor received tailor-made bidding conditions or
+performance advantages, and Argentina has not presented any evidence showing that they
+did so. The evidence used against TSA consists of reports by auditing agencies which are
+part of the Argentine Government and highly politicised. There is also a regrettable lack
+of independence of the Argentine judicial branch. TSA and its management have been
+
+harassed for many years by Argentina despite the absence of any evidence of bribery.
+
+172. An accusation of bribery requires the most rigorous level of proof, and no such proof has
+been adduced by Argentina. There have been media articles based on unreliable
+uncorroborated statements by Mr. Lionel Queudot who had been acting as a fiduciary of
+TSA and who had a strong motive to take revenge on TSA and its shareholders.
+Moreover, the allegation that Mr. Queudot had twice effected transfers of about USD 10
+million was not supported by any record. If Mr. Queudot was involved in bribing the
+Argentine Government, he would have been subject to prosecution or investigation. In
+
+any case, his allegations do not meet accepted standards of evidence in arbitration.
+
+5! ICSID Case No. ARB/00/7, Award, 4 October 2006, para. 157.
+» See supra note 34, at para. 84.
+> ICSID Case No. ARB/03/26, Award, 2 August 2006, paras. 236, 240, 243, 246.
+
+49
+
+173.
+
+174.
+
+175.
+
+176.
+
+Argentina does not deny that the Arbitral Tribunal is the sole organ competent to rule on
+Argentina’s bribery allegations in this arbitration. Rather, Argentina focuses its argument
+on the proposition that the Arbitral Tribunal must decline jurisdiction in this case if it
+finds that TSA’s investment was made in violation of Argentine law. TSA, on the other
+hand, submits that the legality of an investment is a question for the merits. Moreover,
+TSA notes the extreme reticence that arbitral tribunals display in granting jurisdictional
+objections on grounds of claimed illegality or corruption. Indeed, even tribunals that have
+declined jurisdiction on account of corruption or illegality have done so only after
+receiving clear and convincing proof. No such evidence has been presented in the present
+
+case.
+
+B. THE ARBITRAL TRIBUNAL’S FINDINGS
+
+The Arbitral Tribunal notes that investigations about criminal offences in connection with
+the Concession granted to TSA have been initiated in Argentina. These proceedings are
+being pursued but have not been terminated. There is an indictment against two persons
+connected with TSA — Mr. Neuss and Mr. d’Ancezune — for complicity in misuse of
+public office, but no judgment has been rendered, and the issue of bribery is still being
+
+investigated.
+
+The Arbitral Tribunal cannot find it established, on the basis of available materials, that
+the Concession was illegally obtained and that, for this reason, it is not protected under
+
+the BIT. On the other hand, investigations and proceedings in Argentina are still going on.
+
+If there had been no other jurisdictional obstacle in the present case, the Tribunal would
+have decided to join the fourth jurisdictional objection to the merits of the case. However,
+since the Tribunal has already found that the case should be dismissed on another
+jurisdictional ground, the questions raised under the fourth jurisdictional objection are not
+
+decisive for the outcome of the case.
+
+50
+
+Ix.
+
+1
+
+x
+
+178.
+
+179.
+
+180.
+
+7.
+
+COSTS
+
+Article 61(2) of the ICSID Convention provides:
+
+“In the case of arbitration proceedings the Tribunal shall, except as the
+
+parties otherwise agree, assess the expenses incurred by the parties in
+
+ 
+
+connection with the proceedings, and shall decide how and by whom
+those expenses, the fees and expenses of the members of the Tribunal
+and the charges for the use of the facilities of the Centre shall be paid.
+
+Such decision shall form part of the award.”
+
+Arbitration Rule 47(1)(j) requires that the Award contain “any decision of the Tribunal
+
+regarding the cost of the proceeding”.
+
+It does not appear that “the parties otherwise agree” within the meaning of Article 61(2)
+
+of the ICSID Convention.
+
+Each party has claimed that all costs should be borne by the other party. However, the
+Tribunal finds the circumstances to be such that each party shall bear its own expenses in
+connection with the proceedings and that the fees and expenses of the members of the
+
+Tribunal shall be shared equally by them.
+
+Sl
+
+AWARD
+
+For the reasons set forth above, a majority of the Arbitral Tribunal decides:
+
+A. To accept the third objection to the jurisdiction of the International Centre for
+
+Settlement of Investment Disputes raised by the Respondent;
+
+B. To declare that the Centre does not have jurisdiction over the dispute and that this
+
+Arbitral Tribunal is not competent to resolve it;
+C. To dismiss the Claimant's claims; and
+
+D. To order that each party shall bear in full its own costs and expenses and pay one
+half of the fees and expenses of the members of the Tribunal and the charges of
+
+the Centre.
+
+Done in English and Spanish, both versions being equally authentic.
+
+ 
+
+[signed] [signed]
+Mr. Grant D. Aldonas Professor Georges Abi-Saab
+Arbitrator Arbitrator
+Date: Date:
+Subject to the attached dissenting opinion Subject to the attached concurring opinion
+[signed]
+
+Judge Hans Danelius
+President of the Tribunal
+Date:
+
+52
+

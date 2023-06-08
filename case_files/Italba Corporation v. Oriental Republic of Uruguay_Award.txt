@@ -1,0 +1,4696 @@
+INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
+
+In the arbitration proceeding between
+ITALBA CORPORATION
+
+Claimant
+
+and
+
+ORIENTAL REPUBLIC OF URUGUAY
+
+Respondent
+
+ICSID Case No. ARB/16/9
+
+ 
+
+AWARD
+
+ 
+
+Members of the Tribunal
+Mr. Rodrigo Oreamuno, President
+Mr. John Beechey CBE, Arbitrator
+Prof. Zachary Douglas, Q.C., Arbitrator
+
+Secretary of the Tribunal
+Ms. Marisa Planells-Valero
+
+Date of dispatch to the Parties: 22 March 2019
+
+REPRESENTATION OF THE PARTIES
+
+Representing Italba Corporation:
+
+Mr. Alexander Yanos
+Mr. Carlos Ramos-Mrosovsky
+Ms. Kristen Bromberek
+Mr. Borja Alvarez Sanz
+Ms. Leticia Goni
+Alston & Bird LLP
+90 Park Avenue
+New York, NY 10016
+United States of America
+and
+Ms. Fara Tabatabai (until October 2017)
+Hughes Hubbard & Reed LLP
+One Battery Park Plaza
+New York, NY 10004
+United States of America
+
+Representing the Oriental Republic of Uruguay:
+
+Mr. Rodolfo Nin Novoa
+Ministro de Relaciones Exteriores de Uruguay
+Colonia 1206, 6to Piso
+Montevideo
+Uruguay
+and
+Dr. Miguel Toma
+Secretario de la Presidencia de Uruguay
+Secretaria de Presidencia
+Torre Ejecutiva, Plaza Independencia 710
+CP 11000 Montevideo
+Uruguay
+and
+HE. Carlos Gianelli Derois
+Ambassador of Uruguay to the United States
+Embassy of Uruguay, Washington, D.C.
+1913 I Street NW
+Washington D.C. 20006
+United States of America
+and
+Mr. Paul S. Reichler
+Ms. Clara Brillembourg
+Ms. Patricia Cruz Trabanino
+Ms. Melinda Kuritzky
+Mr. Ofilio Mayorga
+Mr. José M. Garcia Rebolledo
+Foley Hoag LLP
+1717 K Street, N.W.
+Washington D.C. 20006
+United States of America
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I. INTRODUCTION AND PARTIES 1
+II. PROCEDURAL HISTORY. 1
+A. Registration of the Request for Arbitration and Constitution of the Tribunal ............... 1
+B. The First Session 2
+C. The Parties Written Submissions and Procedural Applications
+D. The Oral Procedure 11
+Ii. FACTUAL BACKGROUND 15
+IV. THE PARTIES’ CLAIMS 28
+VY. EXPERT REPORT OF PROFESSOR DE MELLO .
+A. The Parties’ Positions 30
+B. The Tribunal’s Decision 34
+VI. JURISDICTION 39
+A. Ownership of the investment and control over Trigosul ...........::cesesesseesesseeeeeeseeeee 39
+(1) The Parties’ Positions 39
+(2) The Tribunal’s Analysi 49
+(3) The Tribunal’s Finding: 77
+VII. COSTS 81
+A. Claimant’s Cost Submissions 81
+B. Respondent’s Cost Submission 82
+C. The Tribunal’s Decision on Costs .........c:ccecsecseesessesssessesesesseeseesesseesessessnssnsssesseeneeses® 82
+
+VIII. DECISION 85
+
+TABLE OF SELECTED ABBREVIATIONS/DEFINED TERMS
+
+ 
+
+ANTEL
+
+National Telecommunications Administration
+(Administracién Nacional de
+Telecomunicaciones)
+
+ 
+
+Arbitration Rules
+
+ICSID Rules of Procedure for Arbitration
+Proceedings 2006
+
+ 
+
+C- [#]
+
+Claimant’s Exhibit
+
+ 
+
+Claimant’s Memorial
+
+Claimant’s Memorial on the Merits dated 16
+September 2016
+
+ 
+
+Claimant’s Post Hearing Brief
+
+Claimant’s Post Hearing Brief dated 16 March
+2018
+
+ 
+
+Claimant’s Reply
+
+Claimant’s Reply on the Merits and Counter-
+Memorial on Jurisdiction dated 12 May 2017
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CL- [#] Claimant’s Legal Authority
+
+DNC National Communications Authority
+(Direccion Nacional de Comunicaciones)
+
+Firm Ramirez, Xavier de Mello & Abal Firm
+
+GIE Economic Interest Group
+Hearing on jurisdiction, merits and quantum
+
+Hearing held from November 13, 2017 to November
+20, 2017
+
+IBA Rules IBA Rules on the Taking of Evidence in
+International Arbitration
+
+ICSID Convention Convention on the Settlement of Investment
+
+Disputes Between States and Nationals of
+Other States dated 18 March 1965
+
+ 
+
+ICSID or the Centre
+
+International Centre for Settlement of
+Investment Disputes
+
+ 
+
+ 
+
+Judgment
+
+ 
+
+Judgment 579/2014 of 23 October 2014
+rendered by the “Tribunal de lo Contencioso
+Administrativo”
+
+ 
+
+iii
+
+ 
+
+ 
+
+Uruguay Ministry of National Defense
+
+ 
+
+ 
+
+ 
+
+MDN (Ministerio de Defensa Nacional de Uruguay)
+
+MIEM Ministry of Industry, Energy and Mining
+(Ministerio de Industria, Energia y Mineria)
+
+Request Request for Arbitration dated 16 February
+
+R- [#] Respondent’s Exhibit
+
+ 
+
+Respondent’s Counter-Memorial
+
+Respondent’s Counter-Memorial on the Merits
+and Memorial on Jurisdiction dated 30 January
+2017
+
+ 
+
+Respondent’s Post Hearing Brief
+
+Respondent’s Post Hearing Brief dated 16
+March 2018
+
+ 
+
+Respondent’s Rejoinder
+
+Respondent’s Rejoinder on the Merits and
+Reply on Jurisdiction dated 11 August 2017
+
+ 
+
+RL- [#]
+
+Respondent’s Legal Authority
+
+ 
+
+Tr. Day [#] [Speaker(s)] [page:line]
+
+Transcript of the Hearing
+
+ 
+
+Treaty Between the United States of America
+and the Oriental Republic of Uruguay
+Concerning the Encouragement and Reciprocal
+
+ 
+
+ 
+
+ 
+
+ 
+
+Treaty Protection of Investment, signed on 4
+November 2005 and in force on 1 November
+2006
+Tribunal Arbitral tribunal constituted on 27 May 2016
+Trigosul Trigosul S.A., incorporated on 19 December
+1994
+Regulatory Unit for Communications Services
+URSEC (Unidad Reguladora de Servicios de
+
+ 
+
+Comunicaciones)
+
+ 
+
+ 
+
+I.
+
+INTRODUCTION AND PARTIES
+
+This case concerns a dispute submitted to the International Centre for Settlement of
+Investment Disputes (“ICSID” or the “Centre’’) on the basis of the Treaty Between the
+United States of America and the Oriental Republic of Uruguay Concerning the
+Encouragement and Reciprocal Protection of Investment, signed on 4 November 2005 and
+in force on 1 November 2006 (the “Treaty”), and the Convention on the Settlement of
+Investment Disputes between States and Nationals of Other States, which entered into force
+
+on 14 October 1966 (the “ICSID Convention”).
+
+The Claimant is Italba Corporation (“Italba” or the “Claimant”), a company incorporated
+
+under the laws of the State of Florida, United States of America.
+The Respondent is the Oriental Republic of Uruguay (“Uruguay” or the “Respondent”).
+
+The Claimant and the Respondent are collectively referred to as the “Parties.” The Parties’
+
+representatives and their addresses are listed above on page (i).
+
+This dispute relates to Uruguay’s revocation of the Claimant’s license to provide wireless
+data services in Uruguay, through the Uruguayan company Trigosul S.A. (“Trigosul’”),
+
+and which allegedly breached provisions of the Treaty.
+
+PROCEDURAL HISTORY
+Registration of the Request for Arbitration and Constitution of the Tribunal
+
+On 16 February 2016, ICSID received a Request for Arbitration of that same date from
+Italba against Uruguay (the “Request”). The Request was supplemented by the Claimant’s
+letters dated 10 and 20 March 2016.
+
+On 24 March 2016, the Secretary-General of ICSID registered the Request in accordance
+with Article 36(3) of the ICSID Convention and notified the Parties of the registration. In
+
+the Notice of Registration, the Secretary-General invited the Parties to proceed to constitute
+
+an arbitral tribunal as soon as possible, in accordance with Rule 7(d) of the ICSID Rules
+
+of Procedure for the Institution of Conciliation and Arbitration Proceedings.
+
+In accordance with Article 37(2)(a) of the ICSID Convention, and pursuant to the
+provisions of the Treaty, the Tribunal was to be constituted by three arbitrators to be
+appointed as follows: one by each Party and the third, the presiding arbitrator, by agreement
+of the Parties.
+
+The Tribunal was composed of Mr. Rodrigo Oreamuno, a national of Costa Rica, President,
+appointed by agreement of the Parties; Mr. John Beechey, a national of the United
+Kingdom, appointed by the Claimant; and Professor Zachary Douglas, a national of
+Australia, appointed by the Respondent.
+
+On 27 May 2016, the Secretary-General, in accordance with Rule 6(1) of the ICSID Rules
+of Procedure for Arbitration Proceedings (the “ICSID Arbitration Rules”), notified the
+Parties that the three arbitrators had accepted their appointments and that the Tribunal was
+deemed constituted on that date. Ms. Marisa Planells-Valero, ICSID Legal Counsel, was
+
+designated to serve as Secretary of the Tribunal.
+The First Session
+
+In accordance with ICSID Arbitration Rule 13(1), the Tribunal held a first session with the
+Parties on 26 July 2016, by teleconference.
+
+Following the first session, on 29 July 2016, the President of the Tribunal issued Procedural
+Order No. 1, recording the agreement of the Parties on procedural matters and the decision
+of the Tribunal on disputed issues. Procedural Order No. | provided, inter alia, that the
+applicable Arbitration Rules would be those in effect from 10 April 2006; that the
+procedural languages would be English and Spanish; and that the place of the proceeding
+would be Washington, DC. Procedural Order No. 1 also set out a schedule for the
+proceeding. Ms. Maria Jose Rojas was appointed as assistant to the President of the
+
+Tribunal.
+
+On 28 July 2016, the Tribunal and the Parties were informed that the Secretary of the
+Tribunal would be taking temporary leave, and that Ms. Luisa Fernanda Torres would serve
+
+as Secretary of the Tribunal during her absence.
+The Parties Written Submissions and Procedural Applications
+
+In accordance with Procedural Order No. 1, on 16 September 2016, the Claimant filed a
+Memorial on the Merits, together with witness statements by Dr. Gustavo Alberelli! and
+Mr. Luis Herbon;? an expert report by Mr. Santiago Dellepiane Avellaneda of Compass
+
+Lexecon; Exhibits C-001 to C-136 and Legal Authorities CL-001 to CL-085.
+
+On 14 October 2016, the Respondent advised that it did not intend to request the bifurcation
+of the proceeding, and that it would file its objections to jurisdiction with its Counter-
+
+Memorial.
+
+On 31 October 2016, the Claimant informed the Tribunal that, one of its witnesses, Mr.
+Herbon, had received a notice to appear before a criminal court in Montevideo, Uruguay,
+in connection with an investigation associated with his and Dr. Alberelli’s testimony in this
+
+arbitration (the “Investigation”).
+
+On 8 November 2016, the Respondent replied to the Claimant’s communication of 31
+
+October 2016.
+
+On 10 November 2016, the Claimant filed an Application for Provisional Measures and
+Temporary Relief pursuant to Article 47 of the ICSID Convention and Rule 39(1) of the
+ICSID Arbitration Rules. The Claimant’s Application sought, inter alia, to enjoin the
+criminal prosecution in Uruguay of Dr. Alberelli and Mr. Herbon pending the resolution
+of this arbitration. In addition, the Claimant requested temporary relief to preserve the
+status quo while the Claimant’s Application was pending, noting that Mr. Herbon was
+scheduled to appear for a hearing before the Uruguayan Criminal Court on 1 December
+
+2016.
+
+' President and Chief Executive Financial Officer of Italba.
+
+2 Current Legal Representative and previous Director of Trigosul.
+
+3
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+On 14 November 2016, the Tribunal invited the Respondent to provide its observations on
+
+the Claimant’s Application by 17 November 2016.
+
+On that same day, the Tribunal issued Procedural Order No. 2, amending certain
+requirements of Procedural Order No. | relating to the submission of hard copies of
+
+pleadings and accompanying documents.
+
+On 15 November 2016, the Respondent applied to the Tribunal for an extension of time
+
+until 21 November 2016 to provide its observations on the Claimant’s Application.
+On 16 November 2016, the Tribunal granted the extension requested by the Respondent.
+
+On that same day, the Claimant wrote to the Tribunal advising that, while it did not oppose
+the extension granted to the Respondent, it relied on that extension in order to renew its
+
+request for temporary relief.
+
+On 17 November 2016, the Respondent replied to the Claimant’s communication of 16
+November 2016. It requested the Tribunal to decline the Claimant’s request for temporary
+relief, arguing that there was no urgency, as the next event in the Investigation was not
+
+scheduled until 1 December 2016.
+
+On 21 November 2016, the Respondent submitted its Response to the Claimant’s
+Application for Provisional Measures and Temporary Relief in which, inter alia, it stated
+that Uruguay was prepared to guarantee that the Investigation would not prevent either Dr.
+Alberelli or Mr. Herbon from participating in the preparation or presentation of the
+
+remainder of the Claimant’s case (the “Guarantee’).
+
+On 24 November 2016, the Claimant submitted its Reply in Further Support of Its
+
+Application for Provisional Measures and Temporary Relief.
+
+On 25 November 2016, the President of the Tribunal invited the Respondent to confirm
+
+the Guarantee. On 28 November 2016, the Respondent confirmed the Guarantee.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+On 30 November 2016, the Tribunal wrote to the Parties inviting the Claimant to confirm
+whether the Guarantee was sufficient to protect its ability to present witness evidence from
+
+Mr. Herbon and Dr. Alberelli in these proceedings.
+
+On 5 December 2016, the Claimant filed observations in response to the Tribunal’s
+
+communication of 30 November 2016.
+
+On 6 December 2016, the Respondent filed a communication addressing certain allegations
+in the Claimant’s communication of 5 December 2016. On that same day, the Claimant
+
+sent a further communication in response.
+
+On 9 December 2016, the President of the Tribunal, on behalf of the Tribunal, invited the
+Parties to provide an update on whether “Mr. Herbon had, in fact, appeared before the
+Uruguayan Criminal Court [on 1 December 2016] and, if so, what were the circumstances
+
+of his appearance.”
+
+On 13 December 2016, the Respondent informed the Tribunal that “Mr. Herbon did not
+appear in court on 1 December 2016, as required by his summons”, adding that “[n]o reason
+for his failure to appear was given to the Court or the Prosecutor by Mr. Herbén or his
+counsel.” Uruguay added, however, that “the guarantee that Uruguay has given — in its
+Response to the Claimant’s Request for Provisional Measures (filed on 21 November 2016)
+
+and its correspondence with the Tribunal of 28 November 2016 — remains in place.”
+
+Also on 13 December 2016, the Claimant reported that Mr. Herbon’s counsel had been
+able to reschedule his court appearance for a date in February 2017, but that “Mr. Herbon
+and Dr. Alberelli remain unable to return to Uruguay to gather evidence and conduct
+business without the threat of pretrial incarceration.” The Claimant reiterated its request
+
+for provisional measures.
+
+On 5 January 2017, the Tribunal and the Parties were informed that Ms. Marisa Planells-
+
+Valero was reassuming her functions as Secretary of the Tribunal in this proceeding.
+
+On 30 January 2017, in accordance with Procedural Order No. 1 as modified by Procedural
+
+Order No. 2, the Respondent filed a Counter-Memorial on the Merits and Memorial on
+
+36.
+
+37.
+
+38.
+
+39.
+
+Jurisdiction, together with witness statements by Mr. Nicolas Cendoya, Ms. Elena Grauert,
+Ms. Alicia Fernandez, Mr. Fernando Garcia Piriz, Mr. Fernando Pérez Tabé, Mr. Gabriel
+Lombide, Mr. Juan Piaggio, and Mr. Leon Lev; expert reports by Prof. Santiago Pereira
+Campos and by Daniel Flores and Ettore Comi of Econ One Research; Exhibits R-008 to
+R-080 and Legal Authorities RL-024 to RL-119.
+
+On 9 February 2017, the Claimant filed a further communication informing the Tribunal
+that Mr. Herbon’s hearing before the Uruguayan Criminal Court was now scheduled for 15
+February 2017 and reiterating its request for provisional measures. On 14 February 2017,
+the Respondent filed observations in response to this communication, confirming again the
+
+Guarantee.
+
+On 15 February 2017, the Tribunal issued its Decision denying the Claimant’s Application
+for Provisional Measures and Temporary Relief. In doing so, the Tribunal concluded that
+the Claimant’s Application was based on the anticipated consequences of the Investigation,
+and that the Claimant had failed to file evidence that Dr. Alberelli’s and Mr. Herbon’s
+participation in this proceeding had been affected to date by their involvement in the
+Investigation. Furthermore, the Tribunal accepted that Uruguay’s commitment to respect
+the Claimant’s rights in this arbitration had been made in good faith and would be adhered
+
+to.
+
+On 14 February 2017, the Parties filed their requests for production of documents. On 15
+March 2017, each Party filed observations on the other Party’s requests. On 23 March
+2017, the Claimant filed a reply to its request for production of documents. On 29 March
+2017, the Respondent filed a reply to its request for production of documents. On 4 April
+2017, the Tribunal issued Procedural Order No. 3 concerning its decision on the Claimant’s
+
+requests for production of documents.
+
+On 25 April 2017, the Claimant requested an eleven-day extension to the deadline to submit
+its Reply Memorial originally due on 1 May 2017 and to shift the deadline for the
+Respondent’s Rejoinder from 31 July 2017 to 11 August 2017. On 26 April 2017, the
+Tribunal invited the Respondent to comment on the extension. On the same date, the
+
+Respondent agreed to the extension. On 28 April 2017, the Tribunal granted the extension.
+
+6
+
+40.
+
+Al.
+
+42.
+
+43.
+
+44.
+
+4S.
+
+46.
+
+On 13 May 2017, the Claimant filed a Reply Memorial, together with witness statements
+by Ms. Beatriz Alberelli, Mr. Alejandro Amaro, Mr. Alan Cherp, Mr. Christopher G. Hall,
+and Mr. Johnathan Alexander Van Arem; Second Witness Statements of Mr. Alejandro
+Amaro, Dr. Gustavo Alberelli and Mr. Luis Herbon; an expert report by Mr. John Hargett,
+Mr. Luis Lapique, Mr. Luis Valle, and a second expert Report by Mr. Santiago Dellepiane
+Avellaneda of Compass Lexecon; Exhibits C-154 to C-275 and Legal Authorities CL-102
+to CL-155.
+
+On 31 May 2017, the United States of America, the non-disputing Party pursuant to the
+terms of the Treaty (the “Non-Disputing Party”), notified the Tribunal that it would decide
+whether to file a Non-Disputing Party submission once it had received and reviewed the
+
+Respondent’s Rejoinder due on 11 August 2017.
+
+After further submissions from the Parties, on 31 May 2017, the Tribunal issued Procedural
+Order No. 4 concerning its decision on the Respondent’s requests for production of
+documents and setting up a framework for the protection of certain confidential documents
+
+to be produced by the Claimant pursuant to that Order.
+
+On 5 June 2017, the Tribunal proposed a calendar to the Parties for the scenario in which
+the Non-Disputing Party decided to file a submission in this proceeding. On 13 June 2017,
+the Parties confirmed that they had no objection to the Tribunal’s proposed calendar. On
+22 June 2017, the Tribunal invited the Non-Disputing Party to file a submission, if any, by
+12 September 2017.
+
+On 5 July 2017, the Parties informed the Tribunal that they had agreed on a Hearing of
+eight days.
+
+On 6 July 2017, the President of the Tribunal informed the Parties that Ms. Maria Jose
+
+Rojas would no longer be serving as Assistant to the President of the Tribunal in this case.
+
+On 11 August 2017, the Respondent filed a Rejoinder Memorial, together with second
+witness statements of Mr. Nicolas Cendoya; Ms. Alicia Fernandez; Mr. Fernando Garcia
+Piriz; second expert reports of Prof. Santiago Pereira Campos; Dr. Daniel Flores and Mr.
+
+Ettore Comi of Econ One Research, Inc.; expert reports of Mr. Louis T.M. Conti, Esq.; Mr.
+
+7
+
+47.
+
+48.
+
+49.
+
+50.
+
+Sl.
+
+Néstor Alejandro Paz Portela; Dr. Eugenio Xavier de Mello Ferrand of Ramirez, Xavier de
+Mello & Abal Abogados; Exhibits R-081 to R-125 and Legal Authorities RL-120 to RL-
+155.
+
+On 22 August 2017, the Tribunal invited the Parties to reach an agreement on certain
+organizational and logistical details of the Hearing by 29 August 2017. On 24 August
+2017, the Parties requested an extension. On 25 August 2017, the Tribunal granted the
+extension requested by the Parties. On 8 September 2017, the Parties submitted a joint
+
+statement on the organization of the Hearing.
+
+On 11 September 2017, the Non-Disputing Party filed a submission (the “Non-Disputing
+Party Submission”). On 25 September 2017, the Respondent submitted its observations
+on the Non-Disputing Party Submission. On 27 September 2017, the Claimant informed
+
+the Tribunal that it had no comments on the Non-Disputing Party Submission.
+
+On 11 September 2017, the Respondent submitted a list of the Claimant’s witnesses and
+experts whom it wished to cross-examine during the Hearing. On 12 September 2017, the
+Claimant submitted a list of the Respondent’s witnesses and experts whom it wished to
+cross-examine during the Hearing. On 15 September 2017, the Respondent proposed that
+it be allowed to produce six (6) of its witnesses for examination by the Claimant via video-
+conference or, in the alternative, that the Claimant be required to pay in advance for their
+transport, food and lodging. On 27 September 2017, the Claimant objected to the
+
+Respondent’s proposal.
+
+On 12 September 2017, the Respondent requested leave from the Tribunal to submit certain
+missing pages from the Claimant’s Exhibit C-116. On 19 September 2017, the Claimant
+informed the Tribunal that it had no objection to the Respondent’s request. On 20
+September 2017, the Tribunal granted the Respondent leave to introduce the missing pages
+
+from the Claimant’s Exhibit C-116 into the record.
+
+By that same letter, the Tribunal requested the Parties’ permission to allow Mr. Joao
+Valerio, Mr. Beechey’s colleague and administrative secretary, to attend the Hearing. On
+
+20 September 2017, the Respondent confirmed that they had no objection to Mr. Valerio
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+attending the Hearing. On 21 September 2017, the Claimant confirmed that they had no
+
+objection to Mr. Valerio attending the Hearing.
+
+On 26 September 2017, and pursuant to the Tribunal’s invitation of 20 September 2017,
+the Respondent introduced the missing pages from the Claimant’s Exhibit C-116 into the
+record as Exhibit R-126.
+
+On 27 September 2017, and pursuant to Procedural Order No. 4, Mr. Valerio submitted a
+
+signed declaration of confidentiality.
+
+On 5 October 2017, the Claimant informed the Tribunal that it no longer intended to call
+
+Uruguay’s technical expert, Dr. Alejandro Paz, for cross-examination during the Hearing.
+
+On that same date, the Tribunal rejected the Respondent’s proposal of 15 September 2017
+that it be allowed to produce six (6) of its witnesses for examination by the Claimant during
+the Hearing via video-conference or, in the alternative, that the Claimant be required to pay
+in advance for their transport, food and lodging. In doing so, the Tribunal invited the
+Claimant to carefully consider the need to cross-examine all of the Respondent’s witnesses,
+and to confirm the list of witnesses for cross-examination by 11 October 2017. On that
+date, the Claimant provided the Tribunal with a revised list of witnesses and experts for
+
+cross-examination during the Hearing.
+
+On 24 October 2017, the Claimant notified the Tribunal that it had terminated its
+engagement with Hughes Hubbard & Reed LLP as its counsel in this proceeding and that
+it had retained the law firm of Alston & Bird LLP.
+
+On 25 October 2017, the Respondent requested leave from the Tribunal to introduce a new
+legal authority into the record. On that same date, the Claimant indicated that it had no
+objection to the Respondent’s request. On 27 October 2017, in view of the Parties’
+agreement, the Tribunal granted the Respondent leave to introduce this new legal authority
+
+into the record as RL-159.
+
+On 26 October 2017, the Claimant requested a postponement of the Hearing on the basis
+
+of the sudden deterioration of Dr. Alberelli’s health, which would “preclude [him] from
+
+59.
+
+60.
+
+61.
+
+participat[ing] in the hearing at this time, while also making it impossible for Italba to
+prepare effectively for the hearing,” and suggested that the Tribunal advise the Parties as
+to possible alternative Hearing dates. On 31 October 2017, Uruguay opposed the
+Claimant’s request arguing, inter alia, that a postponement of the Hearing at so late a stage
+in the proceedings would cause serious prejudice to the Respondent. It informed the
+Tribunal that, in view of the circumstances, it was willing to “sacrifice its right to cross-
+examine Dr. Alberelli.” On that same date, the Claimant reiterated its request for a
+postponement of the Hearing. On 2 November 2017, the Respondent reiterated its
+willingness to forego cross-examination of Dr. Alberelli to avoid a postponement of the
+
+Hearing.
+
+On 3 November 2017, the Tribunal informed the Parties that the Tribunal did not wish to
+question Dr. Alberelli during the Hearing and that, after due consideration, it had decided
+to deny the Claimant’s request for a postponement of the Hearing. On that same date, the
+Claimant requested the Tribunal to reconsider its decision to deny a postponement of the
+Hearing. After due consideration, the Tribunal confirmed its decision to deny the
+Claimant’s request. In doing so, the Tribunal reiterated that Italba had failed to provide
+reasons to justify its claim that Dr. Alberelli’s health concerns and the absence in the
+hearing room of an officer or shareholder of Italba during the Hearing would preclude
+
+counsel for the Claimant from being able to present its case during the Hearing.
+
+On 5 November 2017, the Tribunal proposed, inter alia, the adoption of a Protocol for
+Protection of Confidential Information, aimed at ensuring both the maximum transparency
+of the Hearing under the transparency regime established by Article 29.2 of the Treaty and
+the protection of confidential information pursuant to Procedural Order No. 4. On 7 and 8
+November 2017, respectively, the Respondent and the Claimant confirmed their agreement
+
+with the Tribunal’s proposal.
+
+Also on 7 November 2017, the Non-Disputing Party informed the Tribunal of its intention
+to attend the Hearing, in accordance with Article 29 of the Treaty. In doing so, the Non-
+Disputing Party made a proposal to the Parties in connection with the procedure envisaged
+
+by Procedural Order No. 4 for the protection of confidential information from disclosure
+
+10
+
+62.
+
+63.
+
+64.
+
+65.
+
+66.
+
+during the Hearing. On that same date, the Parties indicated that they had no objection to
+
+the proposal made by the Non-Disputing Party.
+
+On 9 November 2017, the Tribunal informed the Non—Disputing Party that the Tribunal
+and the Parties welcomed its attendance at the Hearing. Furthermore, the Tribunal
+confirmed that, in accordance with Procedural Order No. 4 and the Protocol for Protection
+of Confidential Information, the Non-Disputing Party would be invited to leave the hearing
+room temporarily whenever confidential information was to be brought to the Tribunal’s
+attention at the Hearing. On the same day, the Non-Disputing Party acknowledged receipt
+
+of the Tribunal’s communication and provided a list of its attendees to the Hearing.
+
+On that same date, the Claimant sought leave to introduce into the record eight new factual
+
+exhibits, and three new legal authorities.
+
+On 10 November 2017, the Respondent objected to the Claimant’s request, with the
+exception of the three documents that post-dated the Claimant’s written pleadings. On
+
+that same date, the Claimant reiterated its request of 9 November 2017.
+
+On 11 November 2017, the Tribunal informed the Parties that it would be addressing the
+Claimant’s request of 9 November 2017 at the beginning of the Hearing on 13 November
+
+2017 and issuing a decision thereafter.
+The Oral Procedure
+
+On 13 to 20 November 2017, the Hearing on Jurisdiction, Merits and Quantum was held
+
+in Washington, D.C.* with the following people in attendance:
+
+Tribunal:
+Mr. Rodrigo Oreamuno President
+Mr. John Beechey Arbitrator
+Prof. Zachary Douglas QC Arbitrator
+ICSID Secretariat:
+Ms. Marisa Planells-Valero Secretary of the Tribunal
+
+3 In accordance with Article 29 of the Treaty, and pursuant to the Parties’ agreement, the Hearing was broadcast to the
+public at a room located at the World Bank, in Washington D.C.
+
+ll
+
+Mr. Joao Valerio
+
+For the Claimant:
+Counsel:
+Mr. Alex Yanos
+Mr. Carlos Ramos-Mrosovsky
+Ms. Kristen Bromberek
+Mr. Borja Alvarez
+Ms. Leticia Goni
+Mr. Ryosuke Funakoshi
+
+Support Staff:
+
+Mr. Garett Malter
+
+Ms. Kerrie Sekine-Pettite
+Ms. Julia Gewolb
+
+Witness:
+Mr. Luis Herbon
+
+Experts:
+
+Mr. Santiago Dellepiane Avellaneda
+Mr. Ariel Medvedeff
+
+Mr. Federico Gonzalez Loray
+
+Mr. Luis Lapique
+
+For the Respondent:
+Counsel:
+Mr. Paul Reichler
+Ms. Clara Brillembourg
+Ms. Christina Beharry
+Ms. Patricia Cruz Trabanino
+Ms. Melinda Kuritzky
+Mr. Ofilio Mayorga
+Mr. José Rebolledo
+
+Support Staff:
+
+Ms. Anna Aviles-Alfaro
+Ms. Ana Urgiles
+
+Ms. Alexandra Coon
+Ms. Nancy Lopez
+
+Mr. Raymond McLeod
+Mr. Danis Brito
+
+Parties:
+Dr. Miguel Angel Toma Sanchis
+Dr. Carlos Gianelli
+
+Assistant to Mr. John Beechey
+
+Alston & Bird LLP
+Alston & Bird LLP
+Alston & Bird LLP
+Alston & Bird LLP
+Alston & Bird LLP
+Alston & Bird LLP
+
+Alston & Bird LLP
+Alston & Bird LLP
+Bentham Capital
+
+Witness for Italba Corporation
+
+Compass Lexecon
+Compass Lexecon
+Compass Lexecon
+Lapique & Santeugini Abogados
+
+Foley Hoag LLP
+Foley Hoag LLP
+Foley Hoag LLP
+Foley Hoag LLP
+Consultant for Foley Hoag LLP
+Foley Hoag LLP
+Foley Hoag LLP
+
+Foley Hoag LLP
+Foley Hoag LLP
+Foley Hoag LLP
+Foley Hoag LLP
+DOAR
+DOAR
+
+Office of the Secretary of the Presidency
+Embassy of Uruguay
+
+67.
+
+Dr. Sara Ilha
+Dr. Marianela Bruno
+Ms. Silvana Sena
+
+Witnesses:
+
+Mr. Nicolas Cendoya
+Ms. Alicia Fernandez
+Mr. Leon Lev
+
+Mr. Juan Piaggio
+Ms. Elena Grauert
+Dr. Fernando Garcia
+
+Experts:
+
+Mr. Santiago Pereira
+
+Mr. Alejandro Paz
+
+Mr. Eugenio Xavier de Mello
+
+Mr. Louis Conti
+Dr. Daniel Flores
+Mr. Ettore Comi
+Mr. Ivan Lopez
+Ms. Eleanor Coates
+
+Non-Disputing Party:
+Ms. Lisa Grosh
+
+Ms. Nicole Thornton
+
+Ms. Terra Gearhart-Serna
+Mr. Matthew Olmsted
+Ms. Danielle Polebaum
+Mr. Grayson Orsini
+
+Court Reporters:
+
+Ms. Dawn Larson
+Mr. David Kasdan
+Mr. Paul Pelissier
+Ms. Luciana Sosa
+
+Interpreters:
+Ms. Silvia Colla
+Mr. Daniel Giglio
+Mr. Charles Roberts
+
+Office of the Secretary of the Presidency
+
+Embassy of Uruguay
+
+Office of the Secretary of the Presidency
+
+Witness for Uruguay
+Witness for Uruguay
+Witness for Uruguay
+Witness for Uruguay
+Witness for Uruguay
+Witness for Uruguay
+
+Rueda Abadi Pereira
+
+Ministerio de Industria, Energia y Mineria
+Estudio Ramirez, Xavier de Mello &
+
+Albal
+
+Holland & Knight
+
+Econ One Research, Inc.
+Econ One Research, Inc.
+Econ One Research, Inc.
+Econ One Research, Inc.
+
+U.S. Department of State
+U.S. Department of State
+U.S. Department of State
+U.S. Department of State
+U.S. Department of State
+U.S. Department of State
+
+Worldwide Reporting, LLP
+Worldwide Reporting, LLP
+DR Esteno
+DR Esteno
+
+English-Spanish interpreter
+English-Spanish interpreter
+English-Spanish interpreter
+
+During the Hearing, the following persons were examined:
+
+On behalf of the Claimant:
+Mr. Luis Herbon
+
+Witness for Italba Corporation
+
+68.
+
+69.
+
+70.
+
+Mr. Santiago Dellepiane Avellaneda Compass Lexecon
+Mr. Luis Lapique Lapique & Santeugini Abogados
+
+On behalf of the Respondent:
+
+Mr. Nicolas Cendoya Witness for Uruguay
+
+Ms. Alicia Fernandez Witness for Uruguay
+
+Mr. Leon Lev Witness for Uruguay
+
+Mr. Juan Piaggio Witness for Uruguay
+
+Ms. Elena Grauert Witness for Uruguay
+
+Dr. Fernando Garcia Witness for Uruguay
+
+Mr. Santiago Pereira Rueda Abadi Pereira
+
+Mr. Alejandro Paz Ministerio de Industria, Energia y Mineria
+
+Mr. Eugenio Xavier de Mello Estudio Ramirez, Xavier de Mello &
+Albal
+
+Mr. Louis Conti Holland & Knight
+
+Dr. Daniel Flores Econ One Research, Inc.
+
+Mr. Ettore Comi Econ One Research, Inc.
+
+On 13 November 2017, following a further exchange of views at the beginning of the
+Hearing, the Tribunal decided to grant the Claimant’s request of 9 November 2018. On
+14 November 2017, the Claimant introduced the eight new exhibits and three new legal
+authorities into the record with exhibit numbers C-276 through C-286 and CL-156 through
+CL-158.
+
+On 16 November 2017, the Claimant proposed a re-allocation among the Parties of part of
+the remaining hearing time reserved for the Tribunal’s questions during the Hearing. On
+that same date, the Respondent objected, and the Claimant sent a further communication
+
+to the Tribunal on this matter.
+
+On 17 November 2017, during the cross-examination of Professor Xavier de Mello, the
+Claimant objected to the Tribunal’s consideration of his evidence for lack of independence.
+By letters of 21 November and 1 December 2017, the Claimant reiterated its objections as
+to Prof. de Mello’s independence and requested the Tribunal to disregard his expert report
+and testimony in this proceeding. By communications of 30 November and 8 December
+2017, the Respondent objected to the Claimant’s request. On 18 December 2017, the
+
+Tribunal notified the Parties that it would decide on the Claimant’s request at an
+
+14
+
+71.
+
+72.
+
+73.
+
+74.
+
+Il.
+
+75.
+
+76.
+
+appropriate juncture in the proceeding. The Claimant’s Application is further discussed at
+
+Section V infra.
+
+On 19 November 2017, during the Hearing, the Claimant requested leave from the Tribunal
+to introduce a new document into the record and an order from the Tribunal instructing the
+Respondent to produce an additional document to the Claimant. On that same day,
+following an exchange of views among the Parties, the Tribunal decided to reject the
+
+Claimant’s request of 19 November 2017.
+The Parties filed simultaneous Post-Hearing Briefs on March 16, 2018.
+
+The Parties filed their submissions on costs on May 4, 2018. The Respondent submitted a
+
+letter updating the submission on costs on 7 November 2018.
+
+The proceeding was closed on January 15, 2019.
+
+FACTUAL BACKGROUND
+
+Italba was incorporated on 10 May 1982, under the laws of the State of Florida, United
+States of America.* It was founded by Dr. Gustavo Alberelli (Italian citizen, permanent
+resident of the United States of America since 1 August 1977),> owner of 50 shares and
+Ms. Beatriz Alberelli, (who was born in Cuba and who has held American citizenship since
+
+1967),° owner of the remaining 50 shares.”
+
+On 19 December 1994, Mr. Daniel Angel Pérez Blanco and Ms. Marisa Cristina Gonzalez
+Silvestri established the company named Mareland Sociedad Anénima in Uruguay. On 29
+December 1994, that corporation changed its name and became Trigosul Sociedad
+Anonima. On 3 February 1995, the General Tax Authority’s Taxpayers Registry of
+
+Uruguay approved the Bylaws of that corporation, which are registered in the Public and
+
++ Claimant’s Memorial, § 12; Italba Articles of Incorporation, C-002.
+5 Claimant’s Memorial, 12.
+
+© Statement of Ms. Beatriz Alberelli, 12 May 2017, § 1.
+
+7 Italba Articles of Incorporation, Article III, C-002.
+
+General Registry of Commerce with number 763 on page 838 of Book 2 of Bylaws, File
+11508/95.8
+
+77. Article 3 of Trigosul’s Bylaws reads as follows:
+
+“The capital consisting of one or more registered common shares
+with a par value of $U1.00 (one Uruguayan peso) each shall be
+$U 182,500.00 (one hundred eighty-two thousand five hundred
+Uruguayan pesos). The stock certificates shall contain the
+formalities established by Article 300 of Law No. 16,060. The
+Extraordinary Shareholders Meeting may approve an increase up
+to the sum of $U 912,500.00 (nine hundred twelve thousand five
+hundred Uruguayan pesos) on one or more occasions, without the
+need for an amendment or administrative consent. The Meeting may
+delegate the time of the issue and the payment method, terms and
+conditions to the Board of Directors or the Administrator, as the
+case may be. Share transfers shall be notified to the company and
+documented as provided in Law No. 16,060.” 9
+
+78. On 6 September 1996, six share certificates of Trigosul were issued. Each one represented
+9,125 shares, with a nominal value of one Uruguayan peso each. Three of the certificates
+were issued in the name of Ms. Carmela Caravetta Durante (Dr. Alberelli’s mother), and
+
+the other three in the name of Dr. Gustavo Alberelli Caravetta.'°
+
+79. Dr. Alberelli represented the following with respect to the dates of the certificates and to
+
+the acquisition of Trigosul:
+
+“Certain of Trigosul’s corporate records indicate that the company
+was acquired in 1996, not 1999. Trigosul’s Share Certificates (C-
+161), at 1-12; Trigosul’s Book of Shareholders and Directors
+Meetings (C-164), at 3-4. The reason for this disparity is that the
+original owners of Trigosul required, as a condition of the sale of
+the company, that the corporate records show that the acquisition
+took place in 1996, and I agreed to that condition.”!!
+
+® Notarial Certificate issued by the Civil Law Notary Public Bruno Santin Cagnoli on 9 August 1999, C-226; Trigosul
+Bylaws, C-226.
+
+° Trigosul Bylaws, Article 3, C-226.
+© Trigosul’s Share Certificates, C-161.
+1" Statement of Dr. Gustavo Alberelli, 12 May 2017, footnote number 6.
+
+16
+
+80.
+
+81.
+
+82.
+
+83.
+
+84.
+
+85.
+
+In addition to the six certificates mentioned in paragraph 78 above, on 30 June 1999,
+fourteen share certificates of Trigosul were issued; each one representing 9,125 shares,
+with a nominal value of one Uruguayan peso each, in the name of Dr. Gustavo Alberelli
+Caravetta,'? to complete the aggregate amount of 182,500 Uruguayan pesos that constituted
+
+Trigosul’s “authorized capital”.
+
+On 17 January 1997, through Resolution 75-219 of the Ministry of National Defense
+(hereinafter “MDN”, its Spanish acronym), Dr. Alberelli was “granted authorization for
+the provision, on a commercial basis, of dedicated wireless digital lines, without connection
+
+to the public telephone system, for the transmission of data between fixed points.”'>
+
+On 4 August 1997, the National Communications Authority, (hereinafter “DNC”, its
+Spanish acronym) through Resolution 227-97, allocated Dr. Alberelli, “the terrestrial fixed
+service radio channels”, on an “exclusive, national and secondary basis,” of the frequencies
+1865 to 1870 MHz. (out) — 1945 to 1950 MHz. (return), 1895 to 1900 MHz. (out) -- 1975
+to 1980 MHz. (return).'+
+
+On 9 August 1999, Dr. Alberelli requested the DNC to transfer the authorization granted
+
+in his name to Trigosul.'*
+
+At Dr. Alberelli’s request, on 8 February 2000, the MDN transferred to Trigosul through
+Resolution 142/000 the authorization granted to Dr. Alberelli, “...on the same terms and
+
+conditions as those stated.”!°
+
+On 3 October 2000, the MDN issued Decree 282/000, through which the 1700 to 2200
+MHz. frequency band save for those frequencies between 1910 and 1930 MHz., was
+
+reserved for the personal communication service called PCS. Through this Decree the DNC
+
+2 Trigosul’s Share Certificates, C-161.
+
+3 Claimant’s Memorial, | 16; Respondent’s Counter-Memorial, 138; Resolution 75-219 of 17 January 1997, from
+the Ministry of National Defense, C-003 and R-O11.
+
+4 Claimant’s Memorial, {| 16; Resolution 227-97 of 4 August 1997, National Communications Authority, R-012.
+'S Respondent’s Counter-Memorial, | 56; Letter dated 9 August 1999, R-014.
+
+6 Claimant’s Memorial, { 17; Respondent’s Counter-Memorial, | 18; Resolution 142/000, of 8 February 2000, from
+the Ministry of National Defense, C-005.
+
+86.
+
+87.
+
+88.
+
+was entrusted with the obligation to study the relevant proceedings for migration to other
+frequencies of those authorized to operate in the reserved frequencies. It was also
+
+commissioned to prepare a regulation on the proceeding for the allocation of frequencies.!”
+
+On 4 October 2000, through Resolution 278/2000issued on the basis of Decree 282/000,
+the DNC revoked the assignment of the frequencies allocated to Dr. Alberelli “... of the
+sub-blocks 1865 - 1870 MHz paired with 1945 - 1950 MHz. and 1895 - 1900 MHz. paired
+with 1975 - 1980 MHz.” That Resolution also provided for the return to Dr. Alberelli of
+the fees he had paid. '*
+
+Through that same Resolution 278/2000, the DNC allocated “provisionally and revocable
+at any time without right to claim and/or compensation of any kind [to Trigosul] the sub-
+block ‘K’ corresponding to the sub-frequency band 3425 - 3450 MHz. (out) and 3475 -
+3500 MHz. (return), for the installation and operation of the system aimed at commercially
+providing in national territory, wireless digital dedicated lines, without connection to the
+public telephone network, for the transmission of point-to-point and point-to-multipoint
+data.”!? That Resolution established 1 October 2001 as the deadline by which Trigosul was
+to start commercial operation of the system, and warned that, in the event that Trigosul
+failed to meet the deadline, its authorization would be rescinded. The Resolution also
+established the period during which Trigosul should make the corresponding advance
+payment for allocation of radio spectrum for the first two years, amounting to 632,674.00
+
+Uruguayan Pesos.”°
+
+With the purpose of enforcing Decree 282/000, the DNC, through Resolution 444/000 of
+12 December 2000, allocated “to TRIGOSUL S.A., on a provisional and revocable basis,
+without the right to claim or compensation of any type, the sub-blocks “K” and “M”
+corresponding to the 3425 - 3450 MHz. and 3525 - 3550 MHz. sub-frequency bands,
+
+intended for the installation and operation of the system aimed at the provision in national
+
+"7 Claimant’s Memorial, {| 20; Respondent’ Counter-Memorial, § 139; Decree 282/000 of 3 October 2000, C-10.
+'8 Resolution 278/200 of 4 October 2000, DNC, C-011.
+
+19 Td at 14.
+
+2© Claimant’s Memorial, 20; Resolution 278/2000 of 4 October 2000, DNC, C-011.
+
+18
+
+89.
+
+90.
+
+91.
+
+territory, on a commercial basis, of dedicated wireless digital lines, without connection to
+the public telephone network for the transmission of point-to-point and point-to-multipoint
+
+data,”?!
+
+On 21 February 2001, Law 17,296 created the Regulatory Unit for Communications
+Services (hereinafter “URSEC”, its Spanish acronym), as a decentralized body of the
+Executive Branch. Under Article 73 of this Law, the URSEC is responsible for regulating
+and controlling activities relating to telecommunications, “...which are understood as any
+transmission or reception of signs, signals, written messages, images, sounds, or
+information of any nature by wire, radio, optical, and other electromagnetic systems, and
+also those activities that concern the admission, processing, transportation, and distribution
+
+of correspondence by postal operators.”?”
+
+On 25 March 2003, Decree 114/003 on the Management and Supervision of the Radio
+Electric Spectrum, was approved for the purpose of, inter alia, providing for an efficient
+use of the radio electric spectrum, promoting the use thereof as a force for economic and
+social advancement and providing for an equal access to radio electric resources under
+
+open, transparent and nondiscriminatory procedures (Article 2).?
+
+On 25 March 2003, Decree 115/003 on the Telecommunications Licenses Regulation
+
+Decree was also approved. Article 9 thereof reads as follows:
+
+“1. Class A - Telecommunications License: Grants authorization for
+the operation of a public telecommunications network and the
+provision through these means of telecommunications services
+technically and legally feasible according to laws in force, with the
+exception of cable TV. The license includes the right and obligation
+to provide interconnection and negotiate reciprocal compensation
+for switched telephone network access and terminating access
+services.
+
+2. Class E - Telecommunications License: Grants authorization for
+the provision of telecommunications services using the network,
+
+21 Claimant’s Memorial, 20; Resolution 444/000 of 12 December 2000, DNC, C-012.
+2 Claimant’s Memorial, 4/21; Respondent’s Counter-Memorial, 214; Law 17,296 of 21 February 2001, C-013.
+23 Claimant’s Memorial, | 22; Decree 114/003 of 25 March 2003, C-017.
+
+19
+
+92.
+
+93.
+
+means or links owned by the holder or third party suppliers as
+support.
+
+There are three sub-classes within this category:
+
+Class BI Telecommunications License: Grants authorization for the
+provision of telecommunications services arising from its technical
+plan and for the provision of which the licensee needs to access
+numeration resources, links or other means of the networks of
+holders of Class A Telecommunications licenses.
+
+Class B2 Telecommunications License: Grants authorization for the
+provision of telecommunications services arising from its technical
+plan and for the provision of which the licensee does not need to
+access numeration resources, links or other means of the networks
+of holders of Class A Telecommunications licenses.
+
+3. Class C - License for the lease of telecommunications links, media
+and systems: Grants authorization exclusively for the installation of
+telecommunications links, media and systems for the provision
+thereof or to be leased to licensees of telecommunications services.
+
+4. Class D — Cable TV License: Grants authorization for the
+provision of television services through subscription which require
+the use of wired or wireless transmission media for the broadcast of
+contents. ”>*
+
+On 6 July 2005, Mr. Luis Herb6n, Director of Trigosul at that time, sent a letter to Engineer
+Juan Piaggio, URSEC’s General Manager (from 31 March 2005 to 1 December 2008)? in
+which he stated the following: “We are writing to request that you adjust TRIGOSUL
+S.A.’s data transmission license in accordance with the provisions set forth in Law No.
+17,296 dated February 21, 2001 and in Decrees 114/03 and 115/03 dated March 25,
+2003.”26
+
+On 15 August 2005, Mr. Herbon sent a further letter to Mr. Piaggio in which he reported
+
+the import of equipment by Trigosul and sought its homologation. In addition, he added
+
+24 Decree 115/003 of 25 March 2003, C-017.
+25 Statement of Mr. Juan Piaggio, 23 December 2016, § 1.
+
+26 Letter from Mr. Luis Herbén to URSEC, 6 July 2005, C-020; Statement of Mr. Luis Herbén, dated 16 September
+2016, 4 18.
+
+20
+
+94.
+
+95.
+
+96.
+
+the following: “... we would appreciate it if you could inform us of the procedure initiated
+some time ago, by letter dated July 6, 2005, for the adjustment of the allocation of
+frequencies to TRIGOSUL, S.A., in accordance with the provisions of Act No. 17.296 of
+February 21, 2001 and the Decrees 114/03 115/03 both dated March 25, 2003.”?”
+
+The Treaty was signed on 4 November 2005 and came into force on 1 November 2006.7*
+
+On 26 January 2006, Mr. Herbon sent a letter to Mr. Ricardo Martinez of URSEC in which
+he referred to a debt payment agreement of Trigosul with the URSEC (by way of usage of
+the radio spectrum), as per file 2003/1/1419; Mr. Herbon also referred to the request for
+adjustment of Trigosul’s license (as per file 2005/1/1476) and to a negotiation with another
+company called UTE, which required URSEC’s authorization to transport a data signal
+through dark fiber belonging to UTE. In addition, Mr. Herbon pointed out that the
+adjustment of the license had delayed another investment in the amount of USD 6,500,000,
+and that those investors demanded the adjustment as a condition to continue with the
+project.??
+
+On 23 March 2006, Mr. Herbon sent another letter, via fax, to Mr. Leon Lev, President of
+URSEC (from 15 August 2005 to 2 June 2008),*° in which reference was made to a meeting
+they had held on 15 March 2006. Mr. Herbon also referred to a meeting of Trigosul
+shareholders with potential investors, and he stated that the latter required the “B1 type
+license”, as per Decree 115/2003, to make their investment, for which reason he appealed
+
+to Mr. Lev of URSEC “...to define this situation [of the license] favorably.”*!
+
+2” Claimant’s Memorial, { 32; Letter from Mr. Luis Herbén to URSEC, 15 August 2005, C-21.
+
+28 Request, 1; Exh-1.
+
+2° Claimant’s Memorial, § 33; Letter from Mr. Luis Herbén to URSEC, 26 January 2006, C-22; Statement of Mr.
+Luis Herbén, of 16 September 2016, {| 20.
+
+39 Statement of Mr. Leén Lev, 28 December 2016, § 1.
+
+3 Claimant’s Memorial, | 34; Letter from Mr. Luis Herbén to URSEC, 23 March 2006, C-23; Statement of Mr. Luis
+Herbén, of 16 September 2016, § 21.
+
+21
+
+97.
+
+98.
+
+99.
+
+On 27 December 2006, Decree 249/006 set forth that URSEC would hold a public bidding
+process “...to allocate the available spectrum in the band from 3,300 MHz to 3,700 MHz
+
+for terrestrial services. ..”°7
+
+On 8 March 2007, the National Administration of Telecommunications (hereinafter,
+“ANTEL,” its Spanish acronym) issued the “Response of the National
+Telecommunications Administration to the Open Consultation on the ‘Public Bidding
+Process for the Allocation of Radio Spectrum in the Band 3300-3700 MHz.”” In that
+document, ANTEL expressed its opposition to the public bidding process proposed by
+URSEC. It concluded in a section under the title “Re-allocation and re-assignation of the
+Band” that, given the public bidding process project, the 3.3GHz to 3.7GHz band should
+be re-allocated in its entirety, under non-discriminatory conditions to the different
+
+interested telecommunications providers.**
+
+On 17 February 2009, Article 9 of Decree 115/003 (paragraph 91 above) was amended by
+
+Executive Order IE 810 in the following terms:
+“Article 9 — Classes of license
+
+Telecommunications License — Class A: Authorizes the operation of
+a public telecommunications system and the provision by those
+means of telecommunications services that are technically and
+legally viable according to current legislation, with the exception of
+the subscriber television service. The license includes the right and
+the obligation to provide interconnection and to negotiate
+reciprocal compensation for access services or telephone switched
+termination.
+
+Telecommunications License — Class B: Authorizes the provision of
+all data transmission services that are technically and legally viable
+according to current legislation, using as support their own
+network, resources or links or those of another provider, on the
+conditions freely agreed between the parties.
+
+     
+
+32 Claimant’s Memorial, 4 40; Decree 249/006 of 27 December 2006, C-024.
+
+33 Claimant’s Memorial, 4 40; Response of the National Telecommunications Administration to the Open Consultation
+on the “Public Bidding Process for the Allocation of Radio Spectrum in the Band 3300-3700 MHz.,” dated 8 March
+2007, C-025, page 6.
+
+22
+
+100.
+
+101.
+
+102.
+
+License for the hire of links, resources and_tel ication
+
+systems — Class C: Authorizes on an exclusive basis the installation
+
+of links, resources and telecommunications systems for their
+
+provision or hire to telec ications service licen.
+
+Subscriber Television License — Class D: Authorizes the provision
+of television services by subscription that require the use of wired
+or wireless transmission means for broadcast of the contents.”**
+
+On 30 July 2010, Mr. Herbon sent a letter to URSEC in which he reported the relocation
+of “...the transmission equipment from its current location to the city of Punta del Este, on
+the building El Torreén, pent house, District of Maldonado. This relocation involves a
+change in the service we are providing, as we will begin to [sic] provide [a] data
+
+transmission service.”
+
+On 28 December 2010, Dra. Graciela Coronel, URSEC’s General Counsel, issued a report
+regarding Trigosul in which she stated that on 21 December 2010, URSEC had conducted
+an inspection at the address reported by Trigosul in December 2006 (at Torre El Gaucho)
+and that the company was not found at that address. She added that URSEC had no record
+whatsoever of the relocation or the authorizations for new stations; she concluded that
+Trigosul was not providing services. Her report also noted that the last affidavit submitted
+by that company on the Regulatory Framework Control Fee was from the July-September
+2009 period. Based on Decree 114/003, Dra. Coronel recommended the revocation of the
+
+authorization and release of the frequencies.*°
+
+On 12 January 2011, Mr. Herbon sent a letter to Engineer Gabriel Lombide, President of
+URSEC (since 23 August 2010)*’ in which he referred to Dr. Coronel’s report. He
+explained that on 30 July 2010, Trigosul had sent a communication to URSEC, via fax, in
+which he reported Trigosul’s relocation to the District of Maldonado (see paragraph 100
+above); Mr. Herb6n also reported an inspection Trigosul had requested on 6 October 2010,
+
+and denied non-compliance with the payment for the use of the spectrum. In addition, Mr.
+
++4 Claimant’s Memorial, {| 50; Executive Order IE 810, Article 1, C-049.
+
+35 Claimant’s Memorial, {| 53; Letter from Mr. Luis Herb6n to Mr. G. Lombide dated 30 July 2010, C-026.
+36 Claimant’s Memorial, {| 63; Report dated 28 December 2010, URSEC, C-066.
+
+37 Statement of Mr. Gabriel Lombide, 21 December 2016, 1.
+
+23
+
+103.
+
+104.
+
+105.
+
+106.
+
+Herbon pointed out that since 2005, the company had requested readjustment of the license
+and he referred to a visit he had made, in March 2006, to Mr. Leén Lev, President of
+URSEC, at which he had submitted a Memorandum in which he stated that the lack of
+adjustment of the license “adds to our authorization a legal instability that made us threaten
+
+investments.”>*
+
+On 19 January 2011, Dra. Isabel Maassardjian, URSEC’s Legal Advisor, issued a “Legal
+Report” in which, among other things, she pointed out that the arguments invoked by
+Trigosul (see the preceding paragraph) contributed no new evidence “to contradict what
+has been duly reported” (referring to Dr. Coronel’s report). Therefore, she recommended:
+(a) releas[ing] the frequencies established in URSEC Resolution No. 444/000 of 12
+December 2000 (see paragraph 88 above) and (b) “propos[ing] that the Executive Power
+revoke the authorisation granted to the company by Resolution No. 142/000 of February
+8, 2000, annulling Resolution No. 97-219 of January 17, 1997.” (See paragraph 84
+
+above).°?
+
+On 20 January 2011, URSEC issued Resolution 001 by which it released “... sub-blocks
+K and M, corresponding to the 3425-3450 MHz and 3525-3550 MHz sub-bands of
+frequencies that were assigned to Trigosul S.A. through the National Department of
+
+Communications’ Resolution No. 444/000 of December 12, 2000.”*°
+
+On 1| March 2011, Trigosul filed “the appeal for revocation and the appeal on a subsidiary
+basis to the higher administrative authority” against Resolution 001 issued by URSEC on
+20 January 2011.4!
+
+On 8 July 2011, through Resolution 335/011, the Ministry of Industry, Energy and Mining
+(MIEM) revoked “... the authorization transferred to the company TRIGOSUL S.A.
+through the Executive Power’s Resolution No. 142/00 of 8 February 2000 [cited by the
+
+38 Letter from Mr. Luis Herbén to Mr. G. Lombide, 12 January 2011, C-026.
+3° Claimant’s Memorial, | 66; URSEC Report dated 19 January 2011, C-067.
+*° Claimant’s Memorial, {| 67; Respondent’s Counter-Memorial, 213; Resolution 001 of 20 January 2011, URSEC,
+
+C-068.
+
+4! Claimant's Memorial, 4] 68-69; Letter from Mr. A. Duran Martinez to Mr. G. Lombide, | March 2011, C-069.
+
+24
+
+Tribunal in paragraph 84], for the provision, on a commercial basis within the national
+territory, of dedicated digital wireless lines, without a connection to the public telephone
+network for point to point and point to multipoint data transmission, annulling the
+
+Executive Power’s Resolution No. 75,219 of 17 January 1997.4?
+
+107. On 28 October 2011, Trigosul submitted a “Petition for Annulment” before the “Tribunal
+de lo Contencioso Administrativo”, against URSEC’s Resolution 001 of 20 January 2011
+(paragraph 104 above).**
+
+108. On 22 March 2012, Trigosul submitted a “Petition for Annulment” before the “Tribunal
+de lo Contencioso Administrativo”, against Resolution 335/011 issued by the MIEM on 8
+July 2011 (paragraph 106 above).**
+
+109. On 25 October 2012 the “Tribunal de lo Contencioso Administrativo”, through
+interlocutory judgment No. 685/2012, decided the consolidation of the petitions for
+
+annulment described in paragraphs 107 and 108 above.**
+
+110. On 5 September 2013, URSEC, through Resolution 220/13, ordered the replacement of the
+
+allocation of the sub-blocks to the company Dedicado S.A. (Trigosul’s competitor), as
+
+ 
+
+ 
+
+ 
+
+follows:
+Sub-Blocks replaced Replacement Sub-Blocks
+3600-3625 MHz 3425-3450 MHz
+3675-3700 MHz 3525-3550 MHz
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 Claimant’s Memorial, { 72; Respondent’s Counter-Memorial, {] 237; Resolution 335/011 of 8 July 2011, MIEM,
+C-072.
+
+43 Claimant’s Memorial, { 74; Petition for Annulment, 28 October 2011, C-074.
+
+44 Claimant’s Memorial, 4 74; Petition for Annulment, 22 March 2012. C-075.
+
+45 Claimant’s Memorial, § 74; “Prueba Trigosul SA con Poder Ejecutivo - URSEC,” 25 October 2012, C-077.
+46 Resolution 220/13 of 5 September 2013, URSEC, C-084.
+
+25
+
+111.
+
+112.
+
+113.
+
+114.
+
+115.
+
+116.
+
+On 23 October 2014, the “Tribunal de lo Contencioso Administrativo” rendered Judgment
+579/2014 (the “Judgment”) that decided to annul the administrative acts challenged
+(URSEC Resolution 001 and MIEM Resolution 335/011).4”
+
+On 23 December 2014, Mr. Herbon sent a letter to URSEC in which he requested the
+homologation of the equipment to be imported.** On 19 January 2015, he repeated his
+
+requ est.?
+
+On 5 February 2015, Mr. Herbon sent a letter to Engineer Gabriel Lombide (Director of
+URSEC) (received on 9 February 2015), in which, on the basis of the Judgment, he asked
+URSEC to “[o]rder that TRIGOSUL S.A. be inscribed in the Register of Data Transmission
+Service Providers.” He also asked URSEC to “[o]rder that the necessary measures be taken
+to place TRIGOSUL S.A. in the situation that it was in when URSEC Decision No. 001 of
+January 20, 2011 (now annulled) was issued so that it can once again provide the
+
+7950
+
+telecommunications services made possible by the allocated frequencies.
+
+On 26 February 2015, Dra. Susana Gianarelli, Clerk of the “Tribunal de lo Contencioso
+Administrativo”, sent Engineer Lombide a letter whereby, as provided for in the Judgment,
+
+she returned the administrative record of Trigosul.*!
+
+On 5 August 2015, Italba informed the Government of Uruguay that the present dispute
+
+had arisen.”
+
+On 5 April 2016, by means of Executive Order IE 156, the MIEM decided: “[t]o overturn
+decision No. 335/011 of the Executive Branch, dated July 8, 2011, and to establish the full
+effectiveness of the authorization granted to Gustavo Alberelli by means of Executive
+
+Branch decision No. 75 — 219 of January 17, 1997 and the transfer to TRIGOSUL S.A.
+
+47 Claimant’s Memorial, {| 76; Judgment 579/2014 of the “Tribunal de lo Contencioso Administrativo”, dated
+23 October 2014, C-076.
+
+48 Claimant’s Memorial, 4 77; Letter from Mr. Luis Herbén to URSEC, 23 December 2014, C-078.
+* Letter from Mr. Luis Herbon to URSEC, 19 January 2015, C-079.
+
+5° Claimant’s Memorial, {| 78; Letter from Mr. Luis Herbon to URSEC, 5 February 2015, C-082.
+
+5! Claimant’s Memorial, {| 78; Letter from Mr. Luis Herbon to URSEC, 26 February 2015, C-083.
+
+® Letter from Italba to Uruguay International Economic Affairs Secretariat and President of Uruguay dated 5 August
+2015, C-090.
+
+26
+
+117.
+
+118.
+
+119.
+
+authorized by Executive Branch decision No. 142/000 dated February 8, 2000, indicating
+that it is authorized under the conditions established in the original decision: to provide in
+the national territory, commercial, dedicated wireless digital lines, without connection to
+the public telephone network, for the transmission of point-to-point and point to multipoint
+data.” In addition, such Resolution indicated: “[t]o order the Regulatory Unit of
+Communication Services to allocate the corresponding frequencies for the provision of the
+
+service, in accordance with the above paragraph.”**
+
+On 27 April 2016, Mr. Herbon sent Engineer Lombide a communication referred to as
+“Conducting of hearing,” stating that, according to URSEC Minutes No. 3 of 4 February
+2016, the following blocks of frequencies were reserved: 3600-3625 MHz and 2675-3700
+MHz [though not expressly stated in Mr. Herbon’s communication, the Tribunal
+understands that reservation was made for Trigosul]. Mr. Herbon added that those were not
+Trigosul’s previous frequencies, but that Trigosul S.A. had sub-blocks 3425-3450 MHz
+and 3525-3550 MHz. Moreover, he reported that the frequencies reserved by URSEC “are
+not as useful or valuable as the frequencies that TRIGOSUL S.A. had previously, which
+were taken from it by the annulled decision.” Mr. Herbon stated that that was the reason
+
+why he did not accept the frequencies proposed by URSEC.*
+
+On 6 May 2016, Mr. Yanos, Italba’s counsel, sent a letter to the Respondent’s counsel,
+stating that the 3600-3625 MHz and 3675-3700 MHz frequencies were not those
+previously expropriated by Uruguay from Italba and its subsidiary, Trigosul. He added that
+those frequencies were worthless and, therefore, did not conform to Uruguay’s obligation
+to provide Italba with “prompt, adequate, and effective” compensation under the Treaty.*>
+On the same day, Respondent’s counsel stated that Uruguay disagreed with the assertions
+
+made in such communication.*°
+
+On 19 May 2016, Uruguay sent Italba a draft URSEC resolution dated 9 May 2016.
+
+Uruguay proposed to revoke Decision No. 220/013, leaving without effect the replacement
+
+58 Claimant’s Memorial, J 81, Executive Order IE 156 of 5 April 2016, C-094.
+5 Communication from Mr. Luis Herbén to URSEC, 27 April 2016, R-064.
+
+55 Letter from Italba, 6 May 2016, C-096.
+
+56 Letter from Respondent, 6 May 2016, C-097.
+
+27
+
+of the allocation of sub-blocks established therein to the company, Dedicado S.A.,
+(paragraph 110 above) and to allocate to Trigosul frequency sub-blocks 3425-3450 MHz
+and 3525-3550 MHz, “of a temporary and revocable nature, for the provision in national
+territory, of commercial, dedicated wireless digital lines, without connection to the public
+
+telephone network, for the transmission of point-to-point to multipoint data.”>’
+
+120. On 31 May 2016, counsel for Italba sent a letter to counsel for the Respondent in
+connection with the draft Resolution dated 9 May 2016, stating that: “The Draft Resolution
+purports to comply, almost two years after the fact, with legal obligations that URSEC
+faced when the Uruguayan courts ordered it in October 2014 to reinstate the investments
+made by Italba in Uruguay. We write to advise you that Italba categorically rejects the
+
+proposal in the Draft Resolution.”**
+
+IV. THE PARTIES’ CLAIMS
+
+121. Italba’s position, based on Article 6 of the Treaty, is that Uruguay expropriated its
+investment.*®® Italba stated that it has 100% ownership and control of Trigosul, its
+subsidiary enterprise in Uruguay. According to the Claimant, through Trigosul, Italba held
+a license and had the right to operate in the spectrum and provide wireless data services in
+Uruguay. Italba contended that such license is a protected investment under Article 1 of
+the Treaty. It added that part of its investment includes telecommunications equipment,
+
+office equipment, commercial leases, and other tangible property held by Trigosul.©°
+122. Regarding its investments, Italba also pointed out that:
+
+“Ttalba began investing in Uruguay twenty years ago. Since that
+time, Italba has made substantial contributions of capital,
+amounting to several million dollars, toward the development and
+operation of a telecommunications company to provide wireless
+data services within Uruguay. Around 1999, Italba acquired
+
+57 Claimant’s Memorial, 4 83; Respondent’s Counter-Memorial, 26; Draft Resolution of 9 May 2016, C-098.
+58 Letter from Italba, 31 May 2016, C-099.
+
+°° Claimant’s Memorial, {fj 104-121; Claimant’s Reply, {J 172- 218; Claimant’s Post-Hearing Brief, 4 42-58.
+© Claimant’s Memorial, § 93.
+
+28
+
+123.
+
+124.
+
+125.
+
+Trigosul as a subsidiary enterprise. Through Trigosul, Italba
+purchased equipment, — hired _ personnel, obtained a
+telecommunications license, and began commercial operation in
+Uruguay in June 2003. Throughout the period of its development
+and operation of Trigosul, Italba was exposed to market risks in the
+telecommunications industry. Therefore, Italba’s acti
+Uruguay qualify as ‘investments.’”°!
+
+ 
+
+Italba claimed a breach of Article 5 of the Treaty whereby Uruguay had an obligation to
+accord investors fair and equitable treatment. According to the Claimant, the Respondent
+
+failed to accord it due process and also denied it justice.©
+
+The Claimant added that Uruguay accorded it a treatment less favorable than that accorded,
+in like circumstances, to other investors, in breach of Articles 3 and 4 of the Treaty. Based
+on Article 5 of the Treaty, it also contended that Uruguay failed to provide its investment
+with full protection and security. Furthermore, on the basis of Article 4 of the Treaty,
+which contains the Most Favored Nation clause, Italba relied on the Agreement between
+the Government of the Oriental Republic of Uruguay and the Government of the Republic
+of Venezuela for the Encouragement and Reciprocal Protection of Investments, which is
+
+not limited to police protection like the Treaty.©
+
+The Respondent considered that there was no expropriation in this case, as Uruguayan
+authorities complied with the Judgment.®° In addition, neither the revocation of the
+frequencies, nor their allocation to Dedicado S.A. may be deemed an expropriation, as the
+allocations of frequencies in the spectrum “...are provisional and revocable in nature, and
+
+do not confer rights recognized or protected by law in Uruguay.”®”
+
+6! Claimant’s Memorial, | 94.
+® Claimant's Memorial, {§] 122-150; Claimant’s Reply, {| 219-241 and 242-280; Claimant’s Post-Hearing Brief,
+4958-64.
+
+® Claimant’s Memorial, {if 151-166.
+
+ Claimant’s Memorial, {f 167-175; Claimant's Reply, 281-291.
+
+6 Claimant’s Memorial, §f 168-174.
+
+ Respondent’s Counter-Memorial, § 30; Respondent’s Rejoinder, #9 226-249.
+
+6
+
+ 
+
+*s Count ial, 41248; dent’s Rejoinder, {¥] 269-272.
+
+29
+
+126. Furthermore, the Respondent stated that Article 5 of the Treaty enshrines a minimum
+standard of treatment, which Italba purports to extend in its claim, although it has failed to
+show grounds for such a broad interpretation. Uruguay asserted that Trigosul was not
+treated less favorably than any other company in like circumstances,” and stated: “[nJone
+of the alleged adjusted or adapted licenses was issued to any of the companies mentioned
+
+by the Claimant.”
+
+127. In connection with full protection and security, Uruguay asserted that the protection set
+forth in the Treaty is limited to “...police protection of the investment against any action
+of a criminal nature.””! It added that “[t]he clear intention of the States Parties regarding
+the definition of this obligation, which was a fundamental condition of their agreement to
+the BIT, cannot be annulled by importing a contrary definition in another treaty by mere
+
+operation of a most favored nation clause.”””
+
+128. The positions of the Parties having been summarized, the Tribunal notes that, by reason of
+its decision on the jurisdictional objections, it will not elaborate further on the arguments
+
+on the merits of the dispute.
+
+129. Before it addresses the jurisdictional issues, the Tribunal will proceed, in the following
+
+section, to analyze the Claimant’s challenges to one of the experts for Uruguay.
+
+Vv. EXPERT REPORT OF PROFESSOR DE MELLO
+A. The Parties’ Positions
+
+130. At the Hearing, the Claimant questioned the independence of one of the experts for the
+Respondent, Professor Eugenio Xavier de Mello Ferrand, a member of the law firm
+
+Ramirez, Xavier de Mello & Abal (the “Firm”). The Claimant pointed out that members
+
+ Respondent’s Counter-Memorial, {f] 182-196; Respondent's Rejoinder, {¥] 286-296.
+
+ 
+
+® *s Counter- ial, 4/261; dent’s Rejoinder, 4 331-334.
+7 Respondent’s Counter-Memorial, §j 171.
+n *s Counter- ial, 4] 197; ds inder, § 351, 355-358.
+
+ 
+
+ 
+
+n *s Counter- ial, §| 203; dent’s Rejoinder, {¥] 359-366.
+
+30
+
+131.
+
+132.
+
+133.
+
+of the Firm are currently representing the Republic of Uruguay in another arbitration
+proceeding. In its communications of 21 November and | December 2017, the Claimant
+
+reiterated its objections and questioned the expert’s independence.”*
+
+In the course of the Hearing, Professor de Mello answered the questions posed by the
+Claimant’s counsel, confirmed that he is a member of the Firm, and indicated that he had
+recently learned that attorneys at the Firm were representing Uruguay in another case. He
+explained that the Firm is based on a model called an “economic interest group,”
+(hereinafter “GIE”, its Spanish acronym) a French concept, where there is a central
+services unit, but the relationship between the attorneys and their clients is individual, as
+
+each attorney works independently and autonomously from the others.”
+Professor de Mello stated:
+
+“Now, I’d like to add that the economic interest group is a contract
+which is entered in the national commercial registry. This economic
+interest group that I'm part of is entered in the national commercial
+registry, and the text expressly states that each attorney works
+separately and that we are not partners. We have no joint and
+several responsibility. We are not responsible or liable for what the
+other lawyers do. Therefore, I don't think that I need to be involved
+in any conflict of interest because of any action that my colleagues
+in the economic interest group may be involved in.””°
+
+Professor de Mello reported at the hearing that he had not consulted the other attorneys at
+the Firm about potential conflicts of interest when Uruguay retained him to issue the report
+
+in question, because the said attorneys enjoy autonomy in their professional work, and such
+
+GIE is regulated by the Uruguayan Commercial Companies Act (Articles 469 et seq).”°
+
+™ Transcript of the Hearing of 17 November 2017 (Day 5), 1179-1205; Italba’s Letters dated 21 November 2017 and
+1 December 2017.
+
+4 Transcript of the Hearing of 17 November 2017 (Day 5), 1179: 20-1180: 11; 1181: 17-1182: 3; 1183: 12-1184: 4.
+5 Transcript of the Hearing of 17 November 2017 (Day 5), 1184: 12-1185: 1.
+% Transcript of the Hearing of 17 November 2017 (Day 5), 1185: 12-22.
+
+31
+
+134.
+
+135.
+
+136.
+
+137.
+
+At the Hearing, counsel for Italba questioned Professor de Mello’s independence by stating
+that he was a “partner” of some attorneys at the Firm who are currently representing
+
+Uruguay in another case.”
+
+On 21 November 2017, Italba questioned Professor de Mello’s independence once again,
+on the basis of Article 5(2) (a) of the IBA Rules on the Taking of Evidence in International
+Arbitration (the “IBA Rules”). Italba pointed out that Professor de Mello had breached the
+provisions of such Article by failing to disclose in his report that the Firm was representing
+Uruguay in another proceeding. Italba questioned Professor de Mello’s alleged lack of
+awareness of the mandate of his “partners”, it being public and common knowledge that
+“{mJore importantly economic relationships similar to the one described by Prof. Xavier
+de Mello have been held to be insufficient to overcome the conflict created when one
+member of a law firm or law firm-like entity acts for a client and another member of the
+same firm proclaims independence from that client. On this point, the tribunal’s decision
+in Hrvatska v. Republic of Slovenia’® (“Hrvatska”) is instructive.””? For these reasons, by
+its letter of 21 November 2017, Italba invited the Tribunal to disregard Professor de Mello’s
+
+report.
+
+On 30 November 2017, Uruguay stated that Article 490 of the Commercial Companies Act
+(Law No. 16,060) (the “Commercial Companies Act”), enacted on 4 September 1989,
+draws a distinction between a GIE and a traditional law firm. According to the Respondent,
+the members of a GIE are independent from each other; it is a group of people who share
+facilities and administrative services for convenience. Each member has her/his own clients
+
+and receives her/his own fees.*?
+
+Regarding the IBA Rules and experts’ independence, Uruguay cited to the “Commentary
+
+on the revised text of the 2010 IBA Rules on the Taking of Evidence in International
+
+” Transcript of the Hearing of 17 November 2017 (Day 5), 1195: 7-11.
+
+8 Hrvatska Elecktroprivreda, d.d. v. Republic of Slovenia. Tribunal’s Ruling regarding the participation of David
+Mildon QC in further stages of the proceedings, 6 May 2008, ICSID Case No. ARB/05/24, CL-159 (“Hrvatska”).
+
+” Italba’s Letter, 21 November 2017, page 2.
+* Uruguay’s Letter, 30 November 2017, page 2.
+
+32
+
+138.
+
+139.
+
+140.
+
+141.
+
+Arbitration” as follows: “... the rules’ references to the independence of party-appointed
+experts is understood ‘in the sense that he or she has no financial interest in the outcome
+or otherwise has relationships that would prevent the expert from providing his or her
+
+honest and frank opinion.””*!
+
+In connection with the reference to “partners” on the Firm’s website, Uruguay indicated
+that, in the instant case, such term does not have the same meaning as that attributed to
+“partners” in the context of the members of an American law firm. Uruguay pointed out
+that another member of the Firm was one of the main experts in another case against
+Uruguay. It also stated that the Hrvatska case cited by Italba does not apply to this case, as
+
+it concerned a member of the arbitral tribunal itself rather than an expert.*?
+
+On 1 December 2017, Italba repeated its request that the Tribunal decline to consider the
+evidence of Professor de Mello. It pointed out that the Firm’s agreement to serve as counsel
+for Uruguay in a separate arbitration was in force when Professor de Mello issued his report
+in this arbitration proceeding and was still effective at the time of his testimony. It indicated
+that these facts disqualify Professor de Mello as an independent expert in accordance with
+
+Article 5 (2) (c) of the IBA Rules.
+
+Italba pointed out that on its website, the Firm describes itself as “... (a) a single law firm
+that (b) shares associates, (c) describes its clients as jointly held, and (d) seeks to share the
+prestige of each individual member for the benefit of the group and each of its members.”
+According to the Claimant, such website refers to the Firm’s “partners” and to the provision
+of a comprehensive professional service; it also stated that the members of the Firm share
+
+a team of associates and offer full legal assistance.**
+
+For Italba, the Firm owes loyalty to Uruguay, and, when referring to the case in which a
+
+member of the Firm acted as an expert against Uruguay in another arbitration proceeding,
+
+8! Uruguay’s Letter, 30 November 2017, page 2; IBA. Commentary on the revised text of the 2010 IBA Rules on the
+Taking of Evidence in International Arbitration (2010), p. 19.
+
+*2 Uruguay’s Letter, 30 November 2017, pages 3 and 4.
+% Italba’s Letter, | December 2017, page 2.
+
+Sid.
+
+33
+
+142.
+
+143.
+
+144.
+
+145.
+
+the Respondent forgets that such proceeding, and, thus, the potential conflict for this case,
+have concluded. In Italba’s opinion, Hrvatska is relevant in its analysis of the failure of the
+
+persons challenged to disclose their professional relationships.
+
+Italba considered that “...Mello’s undisclosed relationship disqualifies him as an
+
+85
+
+independent expert in this case.
+
+On 8 December 2017, Uruguay stated that Italba had taken no account of the fact that
+Professor de Mello obtained no economic benefit from the professional work of the other
+members of the Firm representing Uruguay or the colleague who issued a report in another
+
+case against Uruguay.*°
+
+Uruguay considered that the fact that the Firm’s website uses the word “partners” is
+irrelevant, as the GIE structure in Uruguay means an entity the members of which are both
+professionally and financially independent. The reference to “their clients” on the website
+does not support Italba’s statement that the members of the Firm share their fees. It also
+stressed that the members of the firm do not share clients or income or associate attorneys
+with one another. It asserted that the statement whereby the members of the Firm seek “...
+to benefit from their association with one another beyond the need to share costs” does not
+show how Professor de Mello’s independence is compromised. Uruguay disputed the
+application of the Hrvatska case to this proceeding and pointed out that, in response to the
+Tribunal’s questions at the hearing, Professor de Mello answered that he did not, and will
+
+not, receive any of the fees to be collected by his Firm colleagues.*”
+The Tribunal’s Decision
+
+As stated above, in the course of the Hearing and in their Post-Hearing Briefs on the matter,
+counsel for Italba questioned Professor de Mello’s independence on the ground that he is
+a “partner” of other attorneys at his Firm representing Uruguay in another case. The
+
+Tribunal adds that the word socio is often translated into English as “partner”. However,
+
+5 Italba’s Letter, | December 2017, page 3.
+
+86
+
+Uruguay’s Letter, 8 December 2017, page 2.
+
+*7 Uruguay’s Letter, 8 December 2017, pages 3 and 4.
+
+34
+
+this translation is not always accurate. According to “Diccionario de la Lengua Espafiola
+de la Real Academia Espafola,” the first entry of the word “socio” is “a person associated
+with another or others for a purpose.” In turn, the word “asociar” has several meanings.
+The one relevant to the issue in dispute is “to get together or gather for a purpose.” That is
+why there is not necessarily a complete correspondence between the English word
+
+“partner” and the Spanish word “socio.”
+
+146. The Tribunal considers that, in order to decide this issue, it should examine the rules that
+lay down the structure of GIE in Uruguay. Article 489 of the Commercial Companies Act
+
+provides:
+
+“(Concept). Two or more natural or legal persons may form an
+economic interest group for the purpose of promoting or developing
+the economic activity of its members, or else improving or
+increasing the results thereof. By itself, it shall entitle its associates
+neither to derive nor to be distributed profits, and it may be
+organized without a capital. It shall be a legal person.” [Tribunal’s
+Translation]**
+
+147. Pursuant to the foregoing Article, such an entity may be formed by natural or legal persons
+in order to promote or develop the economic activity of its members. In the case at issue,
+the economic activity of the members of the Firm is to offer professional legal services.
+The rule quoted above also provides that a further purpose of GIEs is to improve or increase
+the results of such activity. That does not necessarily mean that its members work jointly
+or seek to derive shared profits. Such Article is crystal clear when stating that the GIE itself
+entitles its associates neither to derive, nor to be distributed, profits and adds that it may
+even be formed without any capital contributions, which is not the case of other legal
+
+entities, such as corporations.
+148. Professor de Mello stated at the Hearing:
+
+“This economic interest group that I’m part of is entered in the
+national commercial registry, and the text expressly states that each
+attorney works separately and that we are not partners. We have no
+
+88 Commercial Companies Act of 4 September 1989, Article 489, EXM-006.
+
+35
+
+joint and several responsibility. We are not responsible or liable for
+what the other lawyers do.”*”
+
+149. — Italba questioned neither such registration nor the statements made by Professor de Mello;
+it particularly referred to the contents of the Firm’s website, which describes the Firm as a
+result of the merger of two firms, able to draw on the experience of its individual members
+to provide a full range of legal services to its clients. The website also refers to the Firm’s
+
+“clients” and describes its members as “partners”.”°
+
+150. The Tribunal is aware that there are various ways in which legal professionals collaborate
+to render their services. The most commonly adopted model has been that in which a group
+of legal professionals owns a law firm, which hires other attorneys to provide services as
+“associates”, “assistants” or in other capacities which vary depending on the country and
+the structure of the law firm. Nevertheless, the Tribunal is also aware that, in different
+countries, and especially in Latin America, it is often the case that attorneys work
+individually, or a group of legal professionals share expenses, facilities and other services,
+
+each of them being completely independent from the others as far as her/his professional
+
+work is concerned and obtaining no benefit from the work of her/his colleagues.
+
+151. The Tribunal considers that the GIE of which Professor de Mello is a member cannot be
+equated as a law firm in which the members are in partnership and share profits. An GIE
+in Uruguay is more akin to a barristers’ chambers in England and it has long been
+recognized that there is no automatic disqualification, for example, where a member of a
+barristers’ chambers acts as an arbitrator in a case where another member is acting as
+counsel. A fortiori, there cannot be an automatic disqualification in circumstances where
+
+a member acts as an expert either.
+
+152. The Claimant places particular emphasis upon the fact that Professor de Mello did not
+disclose, in his report or otherwise, that other colleagues of the GIE of which he is a
+member, are currently advising Uruguay in another arbitration. Professor de Mello
+
+acknowledged at the Hearing that he failed to disclose that Uruguay had retained other
+
+® Transcript of the Hearing of 17 November 2017 (Day 5), 1184: 12-1185: 1.
+°% Website of Ramirez Xavier de Mello Abal, C-287.
+
+36
+
+153.
+
+154.
+
+155.
+
+156.
+
+members of the Firm in those proceedings; he stated that he failed to make such disclosure
+because he was not aware of such circumstance when preparing his report for this
+
+arbitration proceeding. Italba questions this assertion as hard to believe.
+
+Once again, the nature of the GIE structure must inform the extent and content of any
+disclosure obligation upon Professor de Mello. If the members of a GIE do not share
+profits and are not considered to be in conflict of interest situation when they act on
+different sides in the same case under Uruguayan law, then there would be no reason for
+Professor de Mello to disclose that other members of the GIE of which he is part were
+advising Uruguay in another arbitration. Again, an analogy might be drawn with a
+barristers’ chamber in England where one member has no right to information about the
+activities of another member and it would be a breach of that member’s duty of
+confidentiality to his/her client to disclose such information. In those circumstances it
+cannot be appropriate to require the member to disclose information about the activities of
+other members within the same barristers’ chambers. There is no doubt that similar
+
+considerations apply to members of a GIE under Uruguayan law.
+
+In respect of the Claimant’s reliance on how the members of the Firm are characterized on
+the internet, the Tribunal considers that what is important is the legal structure of the Firm
+rather than how it is described on a website. In this case, the Firm is entered as a GIE in
+the National Commercial Registry. The contents of a website cannot alter the legal
+
+structure or registration of the Firm.
+
+Therefore, the Tribunal considers that the contents of the Firm’s website neither warrant
+Italba’s challenge to Professor de Mello’s independence nor prove that the professional
+service he rendered to Uruguay had been affected by the work currently or previously
+
+performed by other colleagues for or against Uruguay.
+
+Article 5 (2) (a) and (c) of the IBA Rules does not require an expert to submit a statement
+concerning the present or past relationship with the Parties of all the members of her/his
+law firm, office, corporation or any other legal structure of which the expert is part. Such
+tule is very specific and refers to the expert’s present or past relationship with any of the
+
+Parties and other actors in the proceeding (legal advisors and members of the Tribunal).
+
+37
+
+157. An expert’s objectivity and independence may be impaired, inter alia, by economic and
+personal factors. From the economic standpoint, it is crystal clear that merely receiving
+fees for the preparation of a report does not interfere with the expert’s independence;?! an
+expert could not be expected to work pro bono as a prerequisite to her/his independence.
+Objectivity could be impaired if an expert participated in an arbitration proceeding and it
+was shown that she/he would obtain an economic benefit if the outcome of the proceeding
+
+were favorable to the retaining party.
+
+158. Professor de Mello made it very clear at the Hearing that he was not aware of the fact that
+other members of the Firm serve as counsel for Uruguay in a separate arbitration
+proceeding. He was adamant that neither he nor the GIE of which he is a member obtains
+any direct economic benefit from the fees that his colleagues will receive in consideration
+
+for their work in such case.”
+
+159. An expert’s independence should be assessed on a case-by-case basis. In the instant case,
+Professor de Mello was not proved to have obtained from Uruguay, either directly or
+
+otherwise, an economic benefit which may affect his independence.
+
+160. The case cited by Italba, Hrvatska, does not assist the Tribunal’s analysis, because it
+addressed a fundamentally different issue; namely, the power to exclude a new member of
+a counsel team in circumstances where the independence and impartiality of an arbitrator
+could have been brought into question if that new member were permitted to continue to
+
+act.
+
+161. Based on the foregoing analysis, the Tribunal rejects Italba’s request that the report
+
+prepared by Professor de Mello be excluded from the record of this arbitration proceeding.
+
+9! International Bar Association. Commentary on the revised text of the 2010 IBA Rules on the Taking of Evidence
+in International Arbitration (2010), page 19.
+
+° Transcript of the Hearing of 17 November 2017 (Day 5), 1269: 11-1270: 3.
+
+38
+
+Vi.
+
+162.
+
+163.
+
+164.
+
+165.
+
+JURISDICTION
+
+Uruguay raised jurisdictional objections and defenses on the merits. It considers that the
+Tribunal has no jurisdiction because Italba neither owns nor controls Trigosul and therefore
+cannot rely on the protection of the Treaty or the ICSID Convention; in addition, Italba has
+no substantial economic and business activities in the United States and, moreover, it is
+controlled by a national of a country that is not a Party to the Treaty, as Dr. Alberelli is
+Italian. Uruguay also contends that Italba’s claims are time-barred, since Italba learned
+about Uruguay’s purported breach and the damage allegedly caused thereby on 29 March
+2011, not 2015, as Italba maintains. The Respondent also asserts that the rights arising from
+Trigosul’s authorization to provide services and its allocation of frequencies are not rights
+
+protected under domestic law, as required by Article 1 of the Treaty.”
+
+The Tribunal will summarize and analyze the Parties’ arguments, and set out its own
+
+analysis and conclusions, in the following Section.
+Ownership of the investment and control over Trigosul
+
+(1) The Parties’ Positions
+a. Respondent’s Counter-Memorial
+
+Uruguay submitted that, although Italba bore the burden of proof, it had failed to prove its
+ownership of Trigosul’s shares. Uruguay also indicated that the Claimant’s evidence, so
+far as those matters were concerned, consisted of the statements of Messrs. Alberelli and
+Herbon, both of whom have direct interest in this proceeding, and an Advocacy
+Questionnaire submitted by Mr. Herbén to the Embassy of the United States in Uruguay,
+
+in which he indicated that Italba owned Trigosul.*
+
+According to the Respondent, on 9 August 1999, when Dr. Alberelli requested the DNC to
+
+transfer to Trigosul the authorization that had been granted to him (see paragraph 83
+
+ 
+
+dent’s Counter- ial, 4 45-49; dent’s Rejoinder, § 3.
+
+*s Counter- ial, 4 52; Advocacy Questionnaire sent by Trigosul to the U.S. Embassy in Uruguay,
+
+11 June 2001, C-102 and R-8.
+
+39
+
+166.
+
+167.
+
+168.
+
+169.
+
+above), Italba did not own or control Trigosul. On 4 November 1999, Mr. Herbon sent the
+DNC a communication in which he indicated that Trigosul’s owners were Mr. Alberelli,
+with 95% of the shares, and his mother, Ms. Carmela Caravetta Durante, with the
+
+remaining 5%.°>
+
+Uruguay also submitted that, according to Article 15 of Decree 115/003, Trigosul, as a
+license holder, should have obtained prior authorization from the Executive or from
+URSEC to conduct any shareholding change”® and there is no evidence whatsoever that
+
+Trigosul had requested any such authorization.
+
+In addition, Uruguay adduced a report by the Director General of Public Registries and
+another by the Internal Revenue Services, in which those agencies indicated that there was
+
+no evidence in their records that Trigosul was a subsidiary of Italba.°”
+
+b. Claimant’s Reply Memorial
+
+Italba asserted that “at all relevant times,” it owned Trigosul and, in any event, controlled
+the company. Furthermore, it submitted that, according to Florida law and Uruguayan law,
+
+Italba owns Trigosul.”*
+
+Italba submitted the following: “...in 2002, when the Alberellis realized that they had not
+formally transferred Trigosul’s shares to Italba, they took action. First, in May 2002, they
+asked Dr. Alberelli’s mother to transfer her shares in Trigosul to Dr. Alberelli, which she
+did. Second, in August 2002, the shares were transferred to Italba and moved to Miami,
+Florida and placed in a safety deposit box that Dr. Alberelli and his wife owned for the
+
+purpose of maintaining important documentation belonging to Italba. To indicate that the
+
+°5 Respondent’s Counter-Memorial, {| 56; Letter from Mr. Luis Herbén to DNC, 4 November 1999, R-19; Notarial
+Certificate No. 603627 of 5 November 1999, R-020.
+
+96
+
+Respondent’s Counter-Memorial, | 57.
+
+°7 Respondent’s Counter-Memorial, {4 59-60; Letter by Lic. Joaquin Serra, Director General of Revenue, Internal
+Revenue Services to the Office of the President of the Republic, dated 16 December 2016, R-74; Report by the Civil
+Law Notary Public, Adolfo Orellano Cancela, Director General of Public Registries, dated 19 December 2016, p. 1,
+
+R-076.
+
+°8 Claimant's Reply, {| 70-71.
+
+40
+
+shares now belonged to Italba, Dr. Alberelli noted on the back of the bundle of shares that
+he was transferring them to Italba.”””
+
+170. In addition to the statements in the preceding paragraph, the Claimant asserted that, since
+the acquisition of Trigosul, Italba made the investments necessary to provide the company
+with all of its funds. Italba also pointed out that, on 11 June 2001, it registered with the
+Embassy of the United States of America as the owner of Trigosul, and that by letter of 9
+July 2001 it advised the Uruguayan government that Trigosul was owned by Italba.!°° It
+added that Italba negotiated with different companies, both in the United States and
+elsewhere, and that in those negotiations it held itself out as the owner of Trigosul.!°!
+
+171. Based on Articles 30 (1) of the Treaty and Article 2,398 of the Uruguayan Civil Code,
+Italba added that, considering that Dr. Alberelli was in Florida at the moment of
+transferring Trigosul’s shares to Italba (see paragraph 169 above), that transaction is
+governed by Florida law.'” It also submitted that, according to that legislation, the transfer
+of shares is completed with the act of delivery, which in this case occurred when, after
+endorsing Trigosul’s stock certificates with a notation indicating the transfer of his
+ownership interest to Italba, Dr. Alberelli placed them in a safety box in his and his wife’s
+
+name. !°3
+
+172. As to Italba’s ownership rights under Uruguayan law, Italba stated:
+
+°° Claimant’s Reply, | 72; Statement of Dr. Gustavo Alberelli, 12 May 2017, 4 17; Statement of Ms. Beatriz
+Alberelli,12 May 2017, 6; Share Certificates of Trigosul, C-161.
+
+100 Claimant’s Reply, | 73; Advocacy Questionnaire sent by Trigosul to the Embassy of the United States in Uruguay,
+11 June 2011, C-102; Letter from Albert Jansenson, Vice President and CFO of Italba Telecommunications Group to
+Raul J. Lago, Chief of Staff of the Office of the President of the Eastern Republic of Uruguay, 9 July 2001, C-182.
+101 Claimant’s Reply, {| 73; Letter from S. Rossi to A. Jansenson and G. Alberelli, 3 February 2002, C-014; Co-
+investment Agreement among Eastern Pacific Trust and Italba Corporation, dated 14 June 2002, C-015; Letter from
+A. Cherp to A. Jansenson, G. Alberelli and L. Herb6n, dated 8 January 2003, C-016; Joint Venture Terms Sheet
+between Phinder Technologies Inc. and Italba Corporation, of February 2007, C-030; Fax from D. Los Santos to A.
+Jansenson, dated 8 May 2001, C-168; Quotation No. 2501 of Wavelynx International, Inc., of 11 January 2000, C-
+159; Seller’s Agreement between Italba Corporation and Wavelynx International, Inc., of 27 February 2000, C-160;
+Quotation No. 2501 of Wavelynx International, Inc. of 18 February 2000, C-009; Invoice from StarMesh Technologies
+No. 107 to Italba, dated 12 June 2007, C-169.
+
+10 Claimant's Reply, {| 75-78.
+
+103 Claimant's Reply, § 79.
+
+  
+
+4l
+
+173.
+
+174.
+
+On the
+
+Based on that theory of economic reality, the Claimant submitted that: (a) Italba made
+Trigosul’s business decisions, developed its business plan, commissioned studies in 1999
+for that plan, and sought out, negotiated and contracted with potential partners on behalf of
+
+Trigosul;!°° (b) Italba contributed to the “overwhelming majority” of Trigosul’s share
+
+capital
+
+632,674 Uruguayan pesos”!°’ of which a capital increase from 182,500 to 690,000
+Uruguayan pesos was subsequently approved; therefore, Italba contributed 92,04% of
+Trigosul’s share capital;!°* (c) Italba funded Trigosul’s operations and purchased
+
+equipment for Trigosul; Mr. Herbén informed the DNC in October 2000 that Italba had
+
+“Under Uruguayan domestic corporate law, a party can
+demonstrate ownership [the text of Article 305 of the Commercial
+Companies Act refers to the transmission of shares] in one of three
+ways: (a) by endorsing a stock certificate with a notation of the
+transfer, delivering the certificates to the transferee, and/or
+registering the transfer in the company’s stock ledger; (b) in the
+absence of a formal transfer of shares, by demonstrating that, as a
+matter of “economic reality,” the party owned and acted as the
+owner of the company; and (c) by making capital contributions to
+the company.” !°*
+
+basis of its expert report, Italba submitted that:
+
+“In the case of Trigosul, Dr. Luis Lapique, an expert in Uruguayan
+corporate law, concluded that the corporate records are so mutually
+inconsistent and error-filled that they cannot be relied upon to
+represent the reality of how Trigosul functioned. Thus, ‘[iJt is
+imperative to resort to the economic reality behind Trigosul’ in
+determining its ownership and to consider evidence of how the
+company actually operated, including whether the parent company
+understood itself to be the owner of the subsidiary, acted in a
+manner consistent with ownership, and held itself out to third
+parties as the owner.”
+
+as follows: “[iJn early 2001, Italba made a capital contribution to Trigosul of
+
+104 Claimant’s Reply, § 80.
+
+105
+
+May 2017, 4 11.
+
+‘7 Claimant’s Reply, § 83; Trigosul’s Book of Shareholders and Directors Meetings, C-164, pages 5-6.
+
+Claimant’s Reply, 4 81; Dr. Luis Lapique’s Report, 12 May 2017, page 17.
+106 Claimant’s Reply, | 82; Statement of Mr. Luis Herbon, 12 May 2017, § 10; Statement of Dr. Gustavo Alberelli, 12
+
+‘08 Claimant’s Reply, § 83; Dr. Luis Lapique’s Report, 12 May 2017, page 11.
+
+42
+
+175.
+
+176.
+
+177.
+
+purchased equipment for Trigosul, and a resolution by the President of Uruguay in
+September 2002 recognized Italba’s purchase of equipment for Trigosul; issued checks for
+Trigosul’s expenses and used a USD 25,000 bond for that company’s expenses!””; and (d)
+
+Italba routinely held itself out to third parties as the owner of Trigosul.!!°
+
+With respect to the communication sent by Mr. Herbon in November 1999, in which he
+informed the DNC that Trigosul’s shareholders were Dr. Alberelli and Ms. Caravetta (see
+paragraph 165 above), Italba pointed out that, regardless of Mr. Herb6n’s understanding at
+that time about who Trigosul’s shareholders were, the truth was that Ms. Caravetta
+transferred her shares to Dr. Alberelli in May 2002 and Dr. Alberelli transferred all of his
+shares to Italba in August 2002.!!! As regards the obligation outlined in Decree 115/003
+(see paragraph 166 above), to ask for authorization for a change in shareholding in a
+corporate license holder, Italba explained that such rule post-dated the share transfer carried
+
+out by Ms. Caravetta and Mr. Alberelli.!!?
+
+For the Claimant, even rejecting the economic reality doctrine in favor of a formalistic
+approach to ownership, Italba would own 93.36% of Trigosul’s shares, because it
+contributed 92.04% of the share capital, and at least one of Trigosul’s shares (amounting
+to an “additional 1.33% of the company”) was transferred to Italba via an endorsement on
+
+the back of the share certificate.!'5
+
+Based on Dr. Lapique’s opinion, the Claimant asserted that, under the Uruguayan
+legislation, the contribution to the share capital suffices to confer shareholder status,
+regardless of the formalities. The Claimant pointed out that on 31 October 2001, Trigosul’s
+Shareholders’ Meeting agreed on a capital increase from 182,500 to 690,000 Uruguayan
+pesos and recognized Italba’s contribution of 632,674 Uruguayan pesos, (92.04% of the
+
+share capital). For Italba, the fact that Trigosul did not formally complete the increase in
+
+109 Claimant’s Reply, | 84; Statement of Dr. Gustavo Alberelli, 12 May 2017, 4 14, 15 and 19; Statement of Mr. Luis
+Herbén, 12 May 2017, 4 13 and 15.
+
+110 Claimant’s Reply, § 85.
+111 Claimant’s Reply, § 87.
+112 Claimant’s Reply, § 88.
+13 Claimant’s Reply, { 89; Dr. Luis Lapique’s Report, 12 May 2017, page 22.
+
+43
+
+178.
+
+179.
+
+180.
+
+the authorized capital by recording it with the National Registry of Commerce and failed
+to issue new shares reflecting Italba’s capital contribution does not deprive Italba of its
+
+92.04% ownership of Trigosul.!!4
+
+According to Italba, even if the Tribunal were to find that Italba does not own Trigosul, the
+Tribunal’s jurisdiction over the claims brought against Uruguay should still be upheld
+because Italba controls Trigosul within the meaning of Article 24 of the Treaty.''> Italba
+submitted that ICSID’s case law has analyzed the concept of control flexibly and broadly
+and with the intention to expand rather than restrict jurisdiction. Among the criteria used,
+Italba refers to: “share ownership, decision-making procedures, the exercise of
+management, and ‘other economic criteria.””!!° In particular, Italba states that in Perenco
+v. Ecuador “...the tribunal found that the claimants’ control of the relevant entity was
+sufficient for jurisdiction, even though the claimants did not hold formal legal title in that
+
+entity.”!!7
+Italba also argued the following:
+
+“\..the Tribunal should not ‘pierce any corporate veil’ to consider
+whether control over Trigosul was exercised by Dr. Alberelli in his
+individual capacity or in his capacity as the President of Italba. The
+case law does not support looking behind the corporate form of the
+claimant to its individual shareholders to determine which
+shareholders control the claimant—indeed, the relevant question
+for jurisdictional purposes is not who controls the claimant, but
+whether the claimant controls the subsidiary.”''*
+
+c. Respondent’s Rejoinder Memorial
+
+Uruguay submitted that there are “inconsistencies and discrepancies” in Italba’s account
+
+of the share transfer carried out in August 2002. As per Trigosul’s books, as at 10 October
+
+‘14 Claimant’s Reply, 90; Trigosul’s Book of Shareholders and Directors Meetings C-164, pages 5-6; Statement of
+Mr. Luis Herbén, 12 May 2017, { 13; Statement of Dr. Gustavo Alberelli, 12 May 2017, 4 16; Dr. Luis Lapique’s
+Report, 12 May 2017, pages 11, 13, 15 and 22.
+
+415 Claimant’s Reply, § 93.
+
+416 Claimant’s Reply, § 94.
+
+117 Claimant’s Reply, 95, referring to Perenco Ecuador Ltd. v. the Republic of Ecuador, CSID Case No. ARB/08/6,
+Decision on Remaining Issues of Jurisdiction and on Liability, 12 September 2014, CL-I11.
+
+118 Claimant’s Reply, 97.
+
+44
+
+181.
+
+182.
+
+183.
+
+2002 and as at 1 November of that same year, the only shareholders registered were Mr.
+Alberelli and his mother, Ms. Caravetta. According to Uruguay, the fact that Italba is not
+mentioned in those books is not an error or oversight, but a reflection of the reality of the
+company at that time. Uruguay strongly criticizes the Claimant’s argument that, as
+Trigosul’s records are not reliable, one should rely upon the statements made by Dr.
+Alberelli, who is an interested party in the outcome of these proceedings, to prove the
+
+alleged ownership of Trigosul’s shares.!!°
+
+Uruguay submitted that Trigosul’s shares were not validly transferred to Italba. Dr.
+Alberelli only endorsed one share in the name of Italba; the endorsement by Ms. Caravetta,
+Dr. Alberelli’s mother, fails to mention where it was made.'”° Among other reasons, since
+on the endorsement date (24 May 2002) they were both in Uruguay, Uruguayan law,
+pursuant to which the transfer should be recorded in the company’s books to be valid, must
+
+' Clearly, Trigosul’s corporate records do not contain a record of this alleged
+
+apply.!?
+transfer, and therefore the transfer was necessarily invalid. On this basis, Uruguay submits
+
+that Ms. Caravetta is still a shareholder in Trigosul.!”?
+
+With respect to Dr. Alberelli’s alleged transfer of Trigosul’s shares by way of a donation
+to Italba, in August 2002, Uruguay submitted that, although not applicable in this case,
+according to Florida law, donations require the following: donative intent, delivery of
+possession and acceptance by the recipient. None of these requirements are met in this
+
+case.'?5
+
+Regarding the intent to donate, Uruguay submitted that Dr. Alberelli only endorsed
+certificate number 4 out of 20 certificates and, on the basis of the report by his expert, Mr.
+Louis T.M. Conti, asserted that, “... the endorsement of only one stock certificate cannot
+
+serve as an endorsement of the others.”!2* According to Uruguay, delivery of the
+
+119 Respondent’s Rejoinder, {ff 49-53.
+'20 Respondent’s Rejoinder, 4] 57, 59 and 60.
+'2! Respondent’s Rejoinder, § 61; Immigration movements of Ms. Carmela Caravetta, R-089 and R-091; Immigration
+
+movements of Dr.
+
+122
+
+123
+
+ 
+
+justavo Alberelli, R-088.
+
+Respondent’s Rejoinder, § 61.
+Respondent’s Rejoinder, § 62.
+
+24 Respondent’s Rejoinder, {| 63; Mr. Louis T.M. Conti’s Report, 9 August 2017, page 11.
+
+45
+
+184.
+
+185.
+
+186.
+
+certificates did not take place either, as Dr. Alberelli retained possession of the shares at
+all times, without transferring his dominion and control, as required by Florida law.
+Furthermore, according to Mr. Conti, in Florida delivery can also be considered complete
+if the recipient exercises dominion and control of the donation. Mr. Conti concluded that
+Italba never exercised this dominion as there is no evidence on the record of Italba’s
+
+participation in Trigosul’s shareholders’ meetings.!”°
+
+As regards the acceptance requirement, Uruguay submitted that it was not met, given that
+what Dr. Alberelli did was to deposit Trigosul’s shares in a safety box in the name of
+himself and his wife, not in the name of Italba. In addition, Italba’s records from 2002 to
+
+the present date do not show any revenues, losses or contributions related to Trigosul.!7°
+
+Uruguay submitted that Italba recognized that, pursuant to Uruguayan law, it had no
+ownership of Trigosul’s shares through endorsement or delivery of the certificates.
+Instead, Italba argued that it owned Trigosul by virtue of the theory of economic reality.
+Uruguay notes that, even Dr. Lapique, Italba’s expert, recognizes that this theory is based
+on the concept of piercing the corporate veil, enshrined in Article 189 of the Commercial
+Companies Act, for cases of fraudulent evasion of the law and violation of public order
+and, as such, would not be applicable to the instant case.'?” Uruguay pointed out that its
+
+expert, Professor de Mello, agree that “this theory does not apply to the present case.” !?
+
+Uruguay submitted that, even if the economic reality theory were applicable to the present
+case, the documents adduced as evidence by the Claimant fail to support its assertion that
+Italba acted at all times as a shareholder of Trigosul. Some predate Trigosul’s license or
+refer to Trigosul as a strategic partner, but they failed to prove Italba’s assertion that it was
+
+1,129
+
+negotiating business plans on behalf of Trigosu Uruguay also criticized the evidence
+
+25 Respondent’s Rejoinder, {f] 65-66.
+
+'26 Respondent’s Rejoinder, §| 67. Mr. Louis T.M. Conti’s Report, page 14.
+
+27 Respondent’s Rejoinder, 72-73; Dr. Luis Lapique’ Report, 12 May 2017, page 18.
+
+28 Respondent’s Rejoinder, {| 74; Dr. Eugenio Xavier de Mello Ferrand’s Report, 31 July 2017, 455.
+
+'29 Respondent's Rejoinder, $f 76-77; Proposal for a Banking Communication Network, dated 6 January 1999, C-006;
+Site Survey Report: Uruguay, of 15 October 2001, C-165; joint venture agreement for the telecommunications project
+in Uruguay, dated July 1999, C-007; Shareholders’ Agreement, of October 1998, C-008; Co-Investment Agreement
+of 14 June 2002, C-015; Joint Venture Terms Sheet, of February 2007, C-030.
+
+46
+
+187.
+
+188.
+
+which Italba relied upon to prove that it was funding Trigosul: these are preliminary or
+draft documents that make reference to the shipment of equipment to Italba, not to Trigosul.
+Uruguay also denied Italba’s assertion that the President of Uruguay recognized that Italba
+had paid for Trigosul’s equipment (see paragraph 174 above); it argued that the document
+with which the Claimant seeks to prove this assertion is a claim by Trigosul for the purchase
+of radios from Italba, which was entitled “ITALBA invoice: USD 25,964,” and which
+would refute the theory that Italba was paying for Trigosul’s equipment.'*° Uruguay also
+criticized Italba’s attempt to prove its alleged funding of Trigosul during 15 years with
+nothing more than two checks and a bond purchase.'*! Moreover, according to Uruguay,
+the documents relied upon to prove that Italba held itself out as the owner of Trigosul fail
+to prove any such assertion: only two of them postdate the alleged transfer of shares to
+
+Italba, and none of them refers to the relationship between Italba and Trigosul.'>?
+
+Uruguay also submitted that the letter dated 9 July 2001 from Mr. Albert Jansenson to the
+Secretary of the Presidency (quoted at the footnote 100 of paragraph 170) predates the
+alleged share transfer of 2002 and, thus, contradicts Italba’s argument that it owned
+Trigosul; moreover, the sender of that letter was not Italba, and the signer thereof is a
+person who Italba has never mentioned as a director or shareholder of Italba. Finally, in
+the letter, reference was made to “majority shareholders” of Trigosul and, in these
+
+proceedings, Italba has claimed to be the sole shareholder of Trigosul.'**
+
+With respect to Italba’s alleged contributions to Trigosul’s share capital, Uruguay
+submitted that there are no documents on the record supporting this allegation.
+Additionally, in an attempt to prove those alleged contributions, Italba and its expert
+witness, Dr. Lapique, relied on Trigosul’s books, which they criticized as being “filed with
+errors” and unreliable.'*+ Uruguay also highlighted the inconsistencies between the date of
+
+the alleged transfer and the date of entry in the corporate and statutory books, on which
+
+30 Respondent’s Rejoinder, § 80.
+'3! Respondent’s Rejoinder, § 81.
+
+132
+
+133
+
+Respondent’s Rejoinder, § 82.
+Respondent’s Rejoinder, § 83.
+
+'4 Respondent’s Rejoinder, {ff 85-86.
+
+47
+
+189.
+
+190.
+
+138
+
+Italba presumably transferred to Trigosul USD 35,000, “as reimbursement”. Similar doubts
+were raised in respect of other alleged contributions in the amount of 632,674 Uruguayan
+pesos, paid by Trigosul to the DNC as an advance on the fees for Trigosul’s operation in
+the spectrum.'*> The Respondent also criticized the fact that, according to his own
+testimony, Dr. Lapique based his report on instructions received from Italba. Uruguay also
+indicated that Dr. Alberelli recognized that the funds with which he acquired Trigosul in
+1999 came partially from his mother and, based on this contribution, 50% of the shares
+were issued to Mrs. Caravetta, and the other 50% to himself, an acknowledgement that
+contradicts his assertion that Italba funded Trigosul’s acquisition. Uruguay also submitted
+that the fact that shares were never issued in favor of Italba is inconsistent with Dr.
+
+Alberelli’s argument that Italba contributed capital in the subsequent years.'*°
+
+Uruguay stated that its expert, Professor de Mello, asserted that Trigosul’s accounting
+records are not clear either regarding the nature and scope of the contributions to Trigosul,
+or regarding who made them.'3” Uruguay also highlighted the fact that Italba did not
+formally complete the increase in the authorized capital by recording it with the National
+Registry of Commerce and failed to issue new shares, a defect described as fatal to Italba’s
+
+claim.
+
+With respect to the control that Italba alleged to have over Trigosul, Uruguay repeated that
+the alleged investment in Trigosul was made, and is owned, by Dr. Alberelli, who is Italian;
+it is Dr. Alberelli who has control over Trigosul, not Italba.'*° According to the corporate
+records, Dr. Alberelli and his mother are the true shareholders of Trigosul since, according
+to the Shareholders’ Meeting and Board of Directors’ Minutes, it was they, who exercised
+
+their voting rights (Uruguay cited minutes from 1996 to 2002).'4° Uruguay also submitted
+
+Respondent’s Rejoinder, 4 88.
+
+36 Respondent’s Rejoinder, | 90; Mr. Louis T.M. Conti’s Report, 9 August 2017, pages 7 and 8; Statement of Dr.
+Gustavo Alberelli, 12 May 2017, 4 10.
+
+'37 Respondent's Rejoinder, § 91, Dr. Eugenio Xavier de Mello Ferrand’s Report, 31 July 2017, 4 59.
+
+38 Respondent’s Rejoinder, § 94.
+
+89 Respondent’s Rejoinder, § 97.
+
+140 Respondent’s Rejoinder, $f] 99-104.Trigosul S.A., Minutes of the Shareholders and Board of Directors Meetings,
+
+C-164.
+
+48
+
+that on 4 February 2011, Dr. Alberelli took the position of President of Trigosul, which
+proves that he controlled that company in his personal capacity, and not as Italba’s
+representative, and that he was the one who decided Trigosul’s business plan and had
+control over the financing of Trigosul’s operations.'*! Uruguay concluded that Italba failed
+to meet its burden of proof on the alleged control over Trigosul.'4”
+
+(2) The Tribunal’s Analysis
+
+191. The Tribunal will consider the rules applicable to a determination of the first objection
+
+raised by the Respondent.
+192. Article 1 of the Treaty defines the concept of “investor of a Party” as follows:
+
+Investor of a Party means a Party or state enterprise thereof, or a
+national or an enterprise of a Party, that attempts to make, is
+making, or has made an investment in the territory of the other
+Party; provided, however, that a natural person who is a dual
+citizen shall be deemed to be exclusively a citizen of the State of his
+or her dominant and effective citizenship.”
+
+193. Regarding the definition of “investment,” the same Article of the Treaty reads as follows:
+
+“Investment means every asset that an investor owns or controls
+directly or indirectly, that has the characteristics of an investment,
+including such characteristics as the commitment of capital or other
+resources, the expectation of gain or profit, or the assumption of
+risk. Forms that an investment may take include:
+
+ 
+
+ 
+
+(a) an enterprise;
+
+(b) shares, stock, and other forms of equity participation in an
+enterprise;
+
+(c) bonds, debentures, other debt instruments, and loans;
+
+(d) futures, options, and other derivatives;
+
+41 Respondent’s Rejoinder, {| 105.
+
+'42 Respondent’s Rejoinder, {| 107.
+
+49
+
+(e) turnkey, construction, management, production, concession,
+revenue sharing, and other similar contracts;
+
+(f) intellectual property rights;
+
+(g) licenses, authorizations, permits, and similar rights conferred
+pursuant to domestic law; and
+
+(h) other tangible or intangible, movable or immovable property,
+and related property rights, such as leases, mortgages, liens, and
+pledges” (emphasis added).
+
+194. Article 1(g) of the Treaty includes two footnotes:
+
+“Whether a particular type of license, authorization, permit, or
+similar instrument (including a concession, to the extent that it has
+the nature of such an instrument) has the characteristics of an
+investment depends on such factors as the nature and extent of the
+rights that the holder has under the law of the Party. Among the
+licenses, authorizations, permits, and similar instruments that do
+not have the characteristics of an investment are those that do not
+create any rights protected under domestic law. For greater
+certainty, the foregoing is without prejudice to whether any asset
+associated with the license, authorization, permit, or similar
+instrument has the characteristics of an investment.”
+
+“The term “investment” does not include an order or judgment
+entered in a judicial or administrative action.”
+
+195. In addition, Article 1 of the Treaty defines the concept of a “covered investment” as
+
+follows:
+
+“with respect to a Party, an investment in its territory of an investor
+of the other Party in existence as of the date of entry into force of
+this Treaty or established, acquired, or expanded thereafter.”
+
+196. Article 24 of the Treaty entitled “Submission of a Claim to Arbitration” provides the
+
+following:
+
+“7. In the event that a disputing party considers that an investment
+dispute cannot be settled by consultation and negotiation:
+
+50
+
+the claimant, on its own behalf, may submit to arbitration under this
+Section a claim:
+
+that the respondent has breached:
+
+an obligation under Articles 3 through 10;
+an investment authorization, or
+
+an investment agreement, and
+
+that the claimant has incurred loss or damage by reason of, or
+arising out of, that breach; and
+
+the claimant, on behalf of an enterprise of the respondent that is a
+juridical person that the claimant owns or controls directly or
+indirectly, may submit to arbitration under this Section a claim
+
+that the respondent has breached:
+
+an obligation under Articles 3 through 10;
+an investment authorization, or
+
+an investment agreement; and
+
+that the enterprise has incurred loss or damage by reason of, or
+arising out of, that breach.
+
+provided that a claimant may submit pursuant to subparagraph
+(a)(i)(C) or (b)(i)(C) a claim for breach of an investment agreement
+only if the subject matter of the claim and the claimed damages
+directly relate to the covered investment that was established or
+acquired, or sought to be established or acquired, in reliance on the
+relevant investment agreement.
+
+2. At least 90 days before submitting any claim to arbitration under
+this Section, a claimant shall deliver to the respondent a written
+notice of its intention to submit the claim to arbitration (‘notice of
+intent’). The notice shall specify:
+
+(da)...
+
+Sl
+
+3. Provided that six months have elapsed since the events giving rise
+to the claim, a claimant may submit a claim referred to in paragraph
+I:
+
+(a) under the ICSID Convention and the ICSID Rules of Procedure
+for Arbitration Proceedings, provided that both the respondent and
+the non-disputing Party are parties to the ICSID Convention;
+
+(b) under the ICSID Additional Facility Rules, provided that either
+the respondent or the non-disputing Party is a party to the ICSID
+Convention;
+
+(c) under the UNCITRAL Arbitration Rules; or
+
+(d) if the claimant and respondent agree, to any other arbitration
+institution or under any other arbitration rules.
+
+4. A claim shall be deemed submitted to arbitration under this
+Section when the claimant’s notice of or request for arbitration
+(‘notice of arbitration’):
+
+(a) referred to in paragraph 1 of Article 36 of the ICSID Convention
+is received by the Secretary-General;
+
+(b) referred to in Article 2 of Schedule C of the ICSID Additional
+Facility Rules is received by the Secretary-General;
+
+(c) referred to in Article 3 of the UNCITRAL Arbitration Rules,
+together with the statement of claim referred to in Article 18 of the
+UNCITRAL Arbitration Rules, are received by the respondent; or
+
+(d) referred to under any arbitral institution or arbitral rules
+selected under paragraph 3(d) is received by the respondent...”
+
+197. The Parties agreed that the Treaty protects an investor who owns or controls the
+investment.'*? The disagreement between them with respect to this matter is that the
+
+Claimant submitted that it owns, and has controlled, Trigosul. On the contrary, the
+
+43 Claimant’s Reply, | 70; Respondent's Rejoinder, § 47.
+
+52
+
+198.
+
+199.
+
+200.
+
+201.
+
+202.
+
+203.
+
+204.
+
+Respondent submitted that Italba does not own or control Trigosul, since, in fact, it is Dr.
+
+Alberelli, who owns and controls Trigosul, in his personal capacity.'4+
+
+As stated in the preceding paragraphs, it is crucial to determine whether Italba is indeed a
+shareholder of Trigosul and, failing that, if Italba controls Trigosul, either directly or
+
+indirectly.
+
+After resolution of those issues, the Tribunal must next determine whether Italba owned or
+
+controlled the investment at the time of the alleged breach of the Treaty by the Respondent.
+
+In the following paragraphs, the Tribunal will proceed to address the issue concerning the
+
+ownership of Trigosul’s shares, and, subsequently, the issue regarding control over them.
+
+a. Does Italba own Trigosul?
+
+Article 3 of Trigosul’s Bylaws provides that the company’s share capital is represented by
+
+“registered common shares.”!45
+
+On the record, there are six share certificates of Trigosul dated 6 September 1996.
+Certificates number 1, 2 and 3 are issued in the name of Ms. Carmela Caravetta Durante
+
+and number 4, 5 and 6—in the name of Dr. Gustavo Alberelli.
+
+Certificates 1 to 3 have on their reverse side an endorsement that reads: “On the date of
+May 24, 2002, this is transferred to Dr. Gustavo Alberelli”; the three endorsements are
+signed by “Carmela Caravetta”.!*° As already stated, certificates 4 to 6 were issued in the
+name of Dr. Alberelli, on 6 September 1996. Certificates number 7 to 20 dated 30 June
+
+1999 and also issued in the name of Dr. Alberelli, likewise appear on the record.'4”
+
+Additionally, a two-page copy (the cover and folio number 2) of the book of Records of
+
+Registered Securities belonging to Trigosul appears on the record.'** On folio 2 of the
+
+‘4 Claimant’s Reply, §§ 27, 29-37, 70-98; Respondent's Rejoinder, {fj 3, 38, 46-108.
+45 Trigosul’s Bylaws, C-226.
+446 Trigosul's Share Certificates, C-161.
+
+147 Iq.
+
+448 Trigosul’s Stock Ledger Book, C-163.
+
+53
+
+205.
+
+book, there is a description of the certificates numbered | to 20, with the specification of
+the “amount” that each of them represents and the certificate’s owner’s name. As already
+stated, the first three are in the name of Ms. Caravetta and the rest are in the name of Dr.
+
+Alberelli. There is no signature or date of any such entries.
+
+On the record there are also copies of thirteen folios of the Shareholders’ Meeting and
+
+Board of Directors’ Minutes Book,'*° that express the following:
+
+(a) minutes numbered | are dated 2 October 1996; on it, there appears a call for an
+
+Extraordinary General Shareholders’ Meeting, with an illegible signature;
+
+(b) on the following folio, there appear other minutes (unnumbered) of a
+Shareholders’ Meeting held on 10 October in that same year, which was chaired
+by Mr. Daniel Pérez (a founding partner of the company, see paragraph 76
+above). In those minutes, Mr. Luis Herbén was appointed Chairman of the first
+“Board of Directors of the Company” [Tribunal’s Translation]; at the end of the
+minutes, it is stated that shareholders Ms. Caravetta and Dr. Alberelli were in
+
+attendance;
+
+(c) on folio 4 of the aforementioned Shareholders’ Meeting and Board of Directors’
+Minutes Book, there appear other minutes dated 10 October 1996, likewise not
+
+numbered, in which Mr. Herbon accepted his appointment;
+
+(d) on folio 5 there appears a text, handwritten and partially illegible, that
+apparently refers to the Board of Directors’ Minutes of 2001; at the end, it states
+the authorized share capital and, once again, it mentions Ms. Caravetta and Dr.
+
+Alberelli as shareholders of the company;
+
+(e) on folios 5 and 6, there appear the minutes of the Extraordinary Shareholders’
+Meeting held on 31 October 2001, which refers to a capital increase. They also
+
+cite Dr. Alberelli and Ms. Caravetta as shareholders of the company;
+
+'49 Trigosul’s Book of Shareholders and Directors Meetings, C-164.
+
+54
+
+206.
+
+(f) on folio 7, there appear the Board of Directors’ Minutes dated 30 September
+2002, which refer to a call for an extraordinary shareholders’ meeting. On that
+folio, there also appear the Minutes of the Extraordinary Shareholders’ Meeting
+held on 10 October 2002; once again it is mentioned that the shareholders are
+
+Dr. Alberelli and Ms. Caravetta;
+
+(g) on folio 8, there appear the Board of Directors’ Minutes dated 11 October 2002
+in which a new Chairman was appointed (in the minutes, his name is illegible).
+On that folio, there also appears the Board of Directors’ Minutes dated 30
+
+October 2002 that refer to a call for a shareholders’ meeting;
+
+(h) on folio 9, there appear the Minutes of the Extraordinary Shareholders’ Meeting
+held on 1 November 2002, in which shareholders Dr. Alberelli and Ms.
+
+Caravetta once again appoint Mr. Herb6n as Chairman;
+
+(i) on folio 10, there appear the minutes of a session of the Board of Directors held
+on 2 November 2002 in which Mr. Herbén’s acceptance of his appointment is
+
+included;
+
+(j) on folio 11, there appear the minutes of a Board of Directors’ meeting held on 4
+
+February 2011 to call for a Shareholders’ Meeting;
+
+(k) on folio 12, there appear the Minutes of the Extraordinary Shareholders’
+Meeting held on 4 February 2011, in which Dr. Alberelli was appointed as the
+
+Board of Directors’ Chairman; and
+
+(J) on folio 13, there appear the Minutes of a Board of Directors’ meeting of 4
+February 2011, in which Mr. Herb6n resigned his office and Dr. Alberelli
+
+accepted appointment in his place.
+
+Following a careful review of the aforementioned minutes, the Tribunal notes that there
+are only three folios on which shareholders of Trigosul are mentioned, (at letters (b), (d),
+and (f) of the preceding paragraph) and Dr. Alberelli and Ms. Caravetta are the shareholders
+
+so mentioned. Conversely, there is no mention of Italba as a shareholder; no reference to
+
+55
+
+207.
+
+208.
+
+209.
+
+share endorsements or capital increases made by Italba, nor is there any suggestion that
+Italba made any decisions on the different appointments of the Chairman of the Board of
+
+Directors.
+
+Having analyzed the first three share certificates endorsed to Dr. Alberelli, cited in
+paragraph 203 above, the Tribunal confirms that none of them states the place of the
+endorsement. On the date of the endorsement indicated therein (24 May 2002), Ms.
+Caravetta and her son, Dr. Alberelli, were in Uruguay.'*° It follows that the law of Uruguay
+should apply to determine the validity of the endorsement of shares in this Uruguayan
+
+company.
+
+Additionally, the only certificate containing an endorsement in favor of Italba is number 4.
+It relates to 9,125 shares out of an aggregate amount of 182,500 and it reads: “On the date
+of August 15, 2002, this is transferred to Italba Corp. (Miami FL. 33183 8540 Sw 132
+
+court)” and below it reads: “Gustavo Alberelli Caravetta.”
+
+During the Hearing, the Claimant’s counsel stressed that Mr. and Mrs. Alberelli are not
+attorneys, and, for that reason, they failed to keep Italba and Trigosul’s documents in the
+“best order.”!>! In the Tribunal’s view, the fact that these persons were not experienced in
+managing corporate books does not justify the apparent inconsistencies in Trigosul’s
+certificates and books. Dr. Alberelli is an experienced businessman who established Italba
+in 1982;'>? Mr. Herbén presided over Trigosul during several years, he is a Uruguayan
+national, a holder of a degree in accountancy and he has vast experience in business
+administration.!*> It is not conceivable for this Tribunal to conclude that the lack of legal
+knowledge on the part of Trigosul’s officers was the cause of their failure to record the
+
+endorsement allegedly made in May and August 2002 in Trigosul’s books. Both Dr.
+
+150 Immigration movements of Ms. Carmela Caravetta, R-89 and R-91; Immigration movements of Mr. Gustavo
+Alberelli, R-88.
+
+'S! Transcript of the Hearing of 13 November 2017 (Day 1), 18:22- 19:10 and 114:8-11.
+'52 Statement of Dr. Gustavo Alberelli, 16 September 2016, {fj 8-10.
+'53 Statement of Mr. Luis Herbén, dated 16 September 2016, $f 4-6.
+
+56
+
+Alberelli and Mr. Herbon had enough experience and knowledge to handle the corporate
+
+documents appropriately.
+210. Article 305 of the Uruguayan Commercial Companies Act provides as follows:
+“(Transferability). Shares shall be freely transferable.
+
+Articles of incorporation may Set restrictions to the transferability
+of registered shares, or book entry shares, provided that no such
+restriction may amount to a prohibition on transfer. Any restriction
+shall be stated in the certificate or in the Book-Entry Stock Register,
+as applicable
+
+The corporation shall be given written notice of the transfer of a
+registered share or a book entry share or of the creation or transfer
+of rights in rem over any such shares, and an entry shall be made
+in the relevant stock register. These actions shall be enforceable
+against the corporation and third parties from the time of said
+registration.
+
+Endorsable shares shall be transferred by an uninterrupted chain of
+endorsements, and endorsees shall request the register to exercise
+their rights.”'** (Emphasis added).
+
+211. Based on Article 305 as set out above, the Tribunal concludes that for Dr. Alberelli to be
+able to exercise the rights relating to Trigosul’s shares represented by certificates number
+1, 2 and 3, he should have notified the endorsement to Trigosul and recorded it in the book
+called the Registered Securities Ledger. Article 305 explicitly provides that “[t]he transfer
+of registered shares ... shall be enforceable against the corporation and third parties from
+the time of said registration.”
+
+212. Considering the facts described and the content of the Commercial Companies Act, the
+Tribunal concludes that, in Trigosul’s case, the legal requirements applicable to the
+endorsement of Trigosul’s share certificates number 1, 2 and 3 carried out by Ms. Caravetta
+in favor of Dr. Alberelli, in May 2002, were not respected. For this reason, the endorsement
+
+fails to produce effects concerning Trigosul or third parties.
+
+‘54 Commercial Companies Act of 4 September 1989, Article 305, C-222 and EXM-006.
+
+57
+
+213.
+
+214.
+
+215.
+
+216.
+
+The Tribunal now turns to the endorsement of certificate number 4, representing 9,125
+registered shares out of an aggregate amount of 182,500 of Trigosul’s shares, carried out
+on 15 August 2002 by Dr. Alberelli. In that endorsement, there is no indication whatsoever
+concerning the place where it was carried out; it was only stated, between parenthesis, the
+registered address of Italba Corporation, which, as per its Articles of Incorporation, is:
+“8540 S.W. 132th Court, Miami, Florida, 33183.”!°° The Tribunal considers that there is
+no sufficient evidential basis to assert that the endorsement was actually made in Florida,
+and that, as a consequence, the applicable law is that of the endorser’s domicile. The only
+evidence on record on this matter are the statements made by Dr. Alberelli and his wife.
+There being no reliable proof of the place in which that endorsement was carried out, the
+laws of Uruguay, the country in which Trigosul was established and registered and where
+it operates should apply to the validity of the endorsement. Nonetheless, the Tribunal will
+also assess the validity of the endorsement by reference to the law of Florida, which is the
+
+law that the Claimant maintained is applicable.'*°
+
+As previously stated, Article 3 of the Trigosul Bylaws reads as follows: “Share transfers
+shall be notified to the company and documented as provided in Law No. 16,060 ” '*7 (it
+refers to Article 305 of the Commercial Companies Act transcribed at paragraph 210
+
+above).
+
+Under Article 316 of the Commercial Companies Act, the same rules applicable to
+
+securities apply to share certificates (as Trigosul’s certificates), “...to the extent not
+
+amended herein.”!°8
+
+Law No. 14,701, which governs securities (“titulos valores”) in Uruguay (the “Securities
+
+Law”), sets forth in Article 1 that “titulos valores” are “the documents necessary to
+
+exercise the literal and autonomous right contained in them.” [Tribunal’s Translation]!*°
+
+'55 Articles of Incorporation of Italba Corporation, 10 May 1982, C-002.
+
+'56 Claimant’s Reply, § 80.
+
+'57 Trigosul’s Bylaws, C-226.
+
+'58 Commercial Companies Act, of 4 September 1989, Article 316, EXM-006.
+
+'59 Decree-Law No. 14701 on Securities, enacted on 12 September 1977, EXM-007.
+
+58
+
+217.
+
+218.
+
+219.
+
+220.
+
+In addition, Article 32 of the aforementioned law provides the following for registered
+
+securities:
+
+“Registered securities shall be issued in the name of an ascertained
+person, whose name shall be stated both in the body of the document
+and in the entry made in the name of the securities issuer. Only a
+person whose name appears both in the document and in the
+register shall be recognized as a lawful holder.
+
+The obligation to keep a non-bearer securities register shall not
+apply in the case of bills of exchange, registered promissory notes
+and checks.
+
+The securities shall be presumed transferable unless the certificate
+
+itself or the law provides that they must be recorded in the register
+
+entry of issuance.” (Emphasis added)
+The quoted rule is very clear: the legitimate holder of a registered certificate is the person
+whose name appears in the certificate (principle of literalness) and on the records. The
+register of shares is required to be kept by Article 305 of the Commercial Companies Act,
+
+Article 32 of the Securities Law, and Article 3 of Trigosul’s Bylaws cited hereinabove.
+
+As stated in paragraph 216 above, Article 1 of the Securities Law establishes that “titulos
+
+valores” are “the documents necessary to exercise the literal and autonomous right
+contained in them”. [Tribunal’s Translation] “Literalness” refers to the securities’
+characteristic, according to which the content, scope and rules applicable to the exercise of
+
+the right incorporated in the document are governed by what the document states.
+
+On the basis of this principle, the Tribunal considers that the only endorsement Dr.
+Alberelli made to Italba was that of Trigosul’s share certificate number 4. The other
+certificates contain no endorsement whatsoever; consequently, the exercise of the rights
+
+alleged by Italba is contrary to the principle of literalness and, therefore non-existent.
+
+The Claimant’s assertion that endorsement of a certificate implicitly entails endorsement
+of the remaining share certificates cannot be accepted. It is evident that each certificate
+
+may be transferred individually; Dr. Alberelli himself understood as much when in May
+
+59
+
+221.
+
+222.
+
+223.
+
+224.
+
+2002 he asked his mother, Ms. Caravetta, to endorse in favor of Dr. Alberelli each of the
+
+three certificates issued in her name.!°
+
+The Claimant stated that there was a transfer of Trigosul’s bundle of shares to Italba. That
+statement is contrary to the provisions in the Uruguayan laws on securities and to the basic
+
+principles regarding “titulos valores”.
+
+The Tribunal also notes that, on the basis of the aforementioned rules, under Uruguayan
+law, the endorsement in favor of Italba made by Dr. Gustavo Alberelli on 15 August 2002
+of Trigosul’s share certificate number 4 was not perfected, since it was not recorded in the
+book of Records of Registered Securities belonging to Trigosul. Therefore, it is not possible
+to assert that Italba is the “lawful holder” of Trigosul share certificate number 4, either.
+Much less is it the legitimate holder of Trigosul’s remaining share certificates, none of
+
+which was endorsed in favor of Italba.
+
+The Claimant sought to substantiate its position in the following terms: “Under Uruguayan
+domestic corporate law, a party can demonstrate ownership in one of three ways: (a) by
+endorsing a stock certificate with a transfer note, delivering the certificates to the
+transferee, and/or registering the transfer in the company’s stock ledger; (b) in the absence
+of a formal transfer of shares, by demonstrating that, as a matter of “economic reality,” the
+party owned and acted as the owner of the company; and (c) by making capital
+contributions to the company. Here, pursuant to the ‘economic reality’ theory, Italba is the
+
+sole owner of Trigosul.”!°!
+
+The Tribunal considers that the first way to demonstrate ownership under Uruguayan law
+mentioned in the above paragraph is not applicable to this case. It is not a matter of
+endorsing “a share certificate” with a “transfer note” [Tribunal’s Translation]. As was
+stated above, Article 305 of the Commercial Companies Act is very clear: “The transfer of
+registered shares...shall be notified to the company in writing and recorded in the
+
+corresponding stock ledgers. They shall produce effects concerning the company and third
+
+160 Statement of Dr. Gustavo Alberelli, 12 May 2017, 4 17.
+‘6! Claimant’s Reply, § 80.
+
+60
+
+225.
+
+226.
+
+227.
+
+228.
+
+parties at the time when so recorded” (emphasis added). Under Uruguayan law, to transfer
+a certificate it is imperative to endorse it, hand it over to the acquirer, notify the company
+
+in writing and record the endorsement in the company’s stock ledger.
+
+When explaining its position in respect of the second criterion (see paragraph 223 above)
+Italba stated: “in the absence of a formal transfer of shares, [a party may demonstrate] that,
+as a matter of ‘economic reality,’ the party owned and acted as the owner of the company.”
+In paragraphs 226 to 235, the Tribunal considers this second criterion; in paragraph 236, it
+
+addresses the third.
+
+Italba asserted, on the basis of the opinion of its expert, Dr. Lapique, that formalities in
+closely held corporations may be more “relaxed” and, because of this, the reality should be
+considered: “... whether the parent company understood itself to be the owner of the
+subsidiary, acted in a manner consistent with ownership, and held itself out to third parties
+as the owner.”'®? According to the Claimant, Italba made all of Trigosul’s business
+decisions, developed its business plan, commissioned studies on potential negotiations,
+sought out partners, “contributed the overwhelming majority of Trigosul’s share capital,”
+funded Trigosul’s operations, issued checks on a regular basis to cover Trigosul’s expenses
+
+and, in addition, routinely represented to third parties that it owned Trigosul.'®
+Italba’s expert, Dr. Lapique further asserted:
+
+“Application of the predominance of reality over form is expressly
+provided for in corporate matters in Article 189 of the LSC, which
+enshrines the theory of disregard. Although that theory is for
+piercing the corporate veil to reach the shareholders behind it in
+cases of fraudulent evasion of the law, violation of public order, etc.
+which would not be applicable in this case, it establishes that reality
+prevails over form.”'*
+
+Uruguay’s expert, Professor de Mello, stated: “... this principle [referring to the theory of
+
+disregard mentioned by Dr. Lapique] governs in commercial law, Lapique cites the
+
+12 Claimant’s Reply, § 81; Dr. Luis Lapique’s Report, 12 May 2017, pages 4, 14, 17 and 18.
+63 Claimant’s Reply, {ff 82-85.
+6 Dr, Luis Lapique’s Report, 12 May 2017, page 18.
+
+61
+
+provisions of the [Commercial Companies Act] on the principle of the ‘disregard of the
+legal personality’ of commercial companies, without taking into account that it is applied
+only to reject the legal personality of corporations (not to recognize the status of
+shareholder), in cases of fraud committed through said personality, and that it has limited
+
+scope.”!6
+
+229. Article 189 of the Commercial Companies Act, found in section XV entitled “On the
+
+Unenforceability of the Legal Personality”, sets forth the following:
+
+“(Admissibility). A company’s status as a legal person may be
+rendered unenforceable where it is used in evasion of the law to
+violate public order, or to defraud and to the detriment of the rights
+of members, shareholders or third parties.
+
+Reliable proof of the actual use of the business company as a legal
+instrument to achieve said purposes shall be required.
+
+Where the unenforceability of the company’s legal status is sought
+
+through a legal action, ordinary proceedings shall be followed.”'°°
+230. It is obvious that Article 189 regulates situations that are completely different from those
+discussed in connection with the ownership of Trigosul’s shares. None of the assumptions
+of fact contained therein arises in this case, which is why this Article may not be relied
+upon in support of Italba’s position that, as Trigosul’s shares were neither endorsed nor
+delivered, the “predominance of reality” over form should apply in order to conclude that
+
+Italba is the owner of those shares.
+
+231. Italba adduced judgment 90/2009'® issued by the “7ribunal de Apelaciones en lo Civil,
+Primer Turno” into the record of the case. In the explanation in footnote 289 of its Reply,
+it asserted that the Tribunal de Apelaciones “appl[{ies] economic reality doctrine to find
+standing to sue in plaintiffs’ favor, because minutes of meetings established that plaintiffs
+
+had participated in shareholders’ meetings, despite the fact that plaintiffs were not
+
+165 Professor Eugenio Xavier de Mello’s Report, 31 July 2017, 4/48.
+66 Commercial Companies Act of 4 September 1989, Article 189, EXM-006.
+
+167 Decision 90/2009 of the “Tribunal de Apelaciones en lo Civil, Primer Turno”, available at Base de
+Jurisprudencia Nacional, C-225.
+
+62
+
+232.
+
+233.
+
+234.
+
+235.
+
+registered as shareholders in the bank’s books and records.”'®* The Tribunal disagrees with
+
+this commentary on the judgment.
+
+The judgment analyses neither Article 189 nor the “disregard” or “economic reality”
+theory. It includes none of the criteria upon which Italba purports to rely as a basis for its
+
+position in the instant case.
+
+Article 319 of the Commercial Companies Act sets out the “fundamental” and “essential”
+
+rights of shareholders:
+“(1) To participate in and vote at shareholders’ meetings.
+
+(2) To share in corporate profits and the balance of liquidation, in
+the event of dissolution of the company.
+
+(3) To oversee the management of corporate business.
+
+(4) To have a preemptive right to subscribe for shares of stock,
+convertible profit shares, and convertible debentures.
+
+(5) To reassign as provided by law.
+
+These rights may only be qualified, limited or rendered of no effect
+when expressly authorized by law.” [Tribunal’s Translation]
+
+Italba participated in none of the shareholders’ meetings held, and, thus, did not exercise
+its right to vote, as recorded in Trigosul’s corporate documents. There is no evidence that
+
+it shared in Trigosul’s profits or losses. There is no reference to Italba somehow overseeing
+
+the management of Trigosul’s business.
+
+Therefore, the Tribunal finds that there is no evidence that Italba exercised the rights that
+would have been available to it if it had actually been a shareholder of Trigosul. Nor can
+
+the Tribunal apply the principle of disregard of the legal personality set forth in Article 189
+
+168 Claimant’s Reply, § 82, footnote 289.
+
+63
+
+236.
+
+237.
+
+238.
+
+239.
+
+of the Commercial Companies Act to completely different situations such as to support
+
+Italba’s alleged ownership of Trigosul’s shares.
+
+The third criterion mentioned by the Claimant (at paragraph 223 above) is the capital
+contribution it claims to have made to Trigosul. As evidence of such contribution, Italba
+submitted that, in early 2001, it contributed to Trigosul the amount of 632,674 Uruguayan
+pesos.'® Italba stated: “In recognition of Italba’s capital contribution, an extraordinary
+meeting of Trigosul’s shareholders later that year accordingly increased the authorized
+capital of the company from 182,500 to 690,000 Uruguayan pesos. Thus, Italba contributed
+92.04% of Trigosul’s share capital.”!”° In its Post-Hearing Brief, Italba relied upon the
+opinion of Dr. Lapique, who also “found that Italba contributed 92.04% of Trigosul’s share
+
+capital.”!7!
+
+There is no evidence on the record that such contribution was made by Italba. The only
+conclusion available to the Tribunal is that the capital contribution mentioned in the Book
+of Shareholders and Directors Meetings was made by Dr. Alberelli and his mother, Ms.
+Caravetta, as recorded in the books. Nor does the company’s accounting book referred to
+
+as a “Diary” indicate that Italba made capital contributions to Trigosul.
+
+At the Hearing, Uruguay asserted: “...the answer to the question who contributed
+significant capital to Trigosul is no one. Further, these payments to Trigosul were recorded,
+all of them, as having been made in cash. Thus, there is no documentary record of the
+source of the funds.”!”? Uruguay also stated that Dr. Lapique had admitted that he had acted
+
+on Italba’s instructions in connection with its alleged contribution to Trigosul.'?
+
+Indeed, Dr. Lapique admitted acting on the basis of the information provided by Italba
+
+relating to the contributions it claimed to have made to Trigosul. He stated:
+
+169 Claimant’s Reply, {| 80 and 83. Trigosul’s Book of Shareholders and Directors Meetings, pages 5-6, C-164;
+Trigosul’s Diary, pp. 8, 10, C-167; Report of Dr. Lapique, 12 May 2017, pages 7, 11, 12, 14 to 18.
+
+170 Claimant’s Reply, § 83.
+
+171 Claimant’s Post-Hearing Brief, 36.
+
+'2 Transcript of the Hearing of 13 November 2017 (Day 1), 274: 10-13.
+
+"3 Transcript of the Hearing of 13 November 2017 (Day 1), 281: 11-18.
+
+64
+
+240.
+
+241.
+
+242.
+
+243.
+
+244.
+
+“According to the instructions received:
+a) All funds received by Trigosul were contributed by Italba Corp.
+
+b) Italba Corp. delivered funds to Trigosul’s directors so that the
+directors would deliver them to Trigosul.
+
+c) The Company and its directors recognize Italba Corp. as
+shareholder.
+
+According to the instructions received, the Contributions for future
+paid-in capital were made by Italba Corp., who is the one that has
+financed Trigosul’s operations from its inception to date.”'™
+(Emphasis added)
+
+The foregoing was confirmed by the Claimant itself in its Post-Hearing Brief. When
+commenting on Uruguay’s criticism of Dr. Lapique’s report, it stated that “[t]his is a bizarre
+
+criticism to make of an expert witness who, by definition, ought not to have firsthand
+
+knowledge of the facts” (italics in the original).!75
+
+Nor is there any evidence on record (a check, a wire transfer or another commercial
+instrument) in support of the assertion that Italba contributed the “overwhelming majority”
+of Trigosul’s share capital. The truth is that there is no record of any capital contribution
+
+from Italba to Trigosul.
+
+The Tribunal finds that, on the basis of the capital contribution criterion, Italba cannot be
+
+said to be a shareholder of Trigosul.
+
+As indicated in paragraph 213, the Tribunal shall now proceed to analyze Italba’s
+arguments on the ownership of the share certificates of Trigosul, in accordance with the
+
+laws of the State of Florida.
+
+The Claimant alleged that, since Dr. Alberelli was in Florida when he endorsed Trigosul’s
+
+shares on 15 August 2002, such transfer is governed by Florida law.'’® As stated in
+
+"4 Report of Dr. Luis Lapique, 12 May 2017, pages 2 and 7.
+75 Claimant’s Post-Hearing Brief, page 16, footnote 60.
+76 Claimant’s Reply, | 75; Claimant’s Post-Hearing Brief, | 27.
+
+65
+
+245.
+
+246.
+
+247.
+
+paragraph 213, the Tribunal considers that there is no sufficient evidential basis to assert
+that the endorsement was actually made in Florida, and that, as a consequence, the
+applicable law is that of the endorser’s domicile. The only evidence on record on this matter
+
+are the statements made by Dr. Alberelli and his wife.!””
+
+The second criterion put forward by the Claimant in support of its argument that Florida
+law should apply to this case is based on Article 30 of the Treaty, which refers to the
+applicable rules of international law. In relation to this criterion, Italba cited Article 2398
+of the Civil Code of Uruguay, which provides that “[a]ssets, whatever their nature, are
+exclusively governed by the law of the place where they are, in terms of their quality, their
+possession, their absolute or relative transfer, and all in rem relationships to which they
+
+may be subject.”!”8 [Tribunal’s Translation]
+
+The Claimant submitted: “Here, the share certificates of Trigosul were located in Florida
+and the act that transferred ownership of those shares from Dr. Alberelli to Italba occurred
+in Florida. Thus, Florida law governs Trigosul’s ownership.”!”? In addition, based on the
+law of that State, Italba reiterated that Dr. Alberelli endorsed the bundle of all of Trigosul’s
+stock certificates and deposited them in a safety deposit box, where he typically kept key
+documents belonging to Italba, in his and his wife’s name;!*° according to Italba and Dr.
+
+Alberelli, the certificates were delivered to Italba, and, thus, the transfer was completed.
+
+Italba concluded that, “[u]nder Florida law, a transfer of shares is complete when shares
+are ‘delivered’ to the transferee, i.e., the transferee acquires possession of the stock
+certificates.” In the footnote, it cited “Fla. Stat. § 678.3011(1)(a) (1997) (C-220) (“Delivery
+of a certificated security to a purchaser occurs when . . . the purchaser acquires possession
+
+of the security certificate.”); see also, e.g., Tanner v. Robinson, 411 So. 2d 240, 242 (Fla.
+
+"77 Statement of Dr. Gustavo Alberelli, 12 May 2017, 17; Statement of Ms. Beatriz Alberelli, 12 May 2017, 4 6.
+178 Claimant’s Reply, §§ 76-78.
+
+179 Claimant’s Reply, 4 78.
+
+'80 Claimant’s Reply, 79; Claimant’s Post-Hearing Brief, | 27.
+
+66
+
+248.
+
+249.
+
+250.
+
+Dist. Ct. App. 1982) (C-221) (“transfer of a gift of stock effective upon actual or
+
+constructive delivery of the shares).”!*!
+
+In Tanner v. Robinson, the District Court of Appeal of Florida stated: “As such, we hold
+that an inter vivos transfer by gift of any interest in securities is accomplished by either
+actual or constructive delivery of the same, where donative intent is also present, and where
+
+acceptance by the donee may be presumed or is proven directly....”!°?
+
+Mr. Conti, expert for Uruguay, also made reference in his report to the requirements laid
+down by Tanner v. Robinson (delivery, intent and acceptance) although, to him, that case
+is governed by Florida case law rather than by Florida statute law'*?; furthermore,
+
+according to Mr. Conti, the requirements are “simultaneous.”!**
+
+In the Tribunal’s opinion, no intent to endorse all the share certificates from Trigosul to
+Italba has been shown. Clearly, the existence of such intent may not be assumed, as the
+only certificate allegedly endorsed is number 4. Such intent is not recorded in the
+company’s books either. There is, furthermore, no evidence of the delivery of the shares
+and Italba’s subsequent exercise of rights as a shareholder on the record; there is also
+nothing that shows Italba’s exercise of its purported rights as a shareholder and owner of
+the shares represented by certificate 4, let alone those represented by the other certificates.
+As stated above, Italba was not shown to have participated in any Shareholders’ Meeting
+or to have shared in Trigosul’s profits or losses. Nor was the purported acceptance recorded
+in Trigosul’s and Italba’s books, it being merely supported by the statements made by Dr.
+Alberelli.
+
+'S! Claimant’s Reply, 4 79 and footnote 283.
+'82 Tanner v. Robinson, 411 So. 2d 240, 242, Fla. Dist. Ct. App. 1982, page 2, C-221.
+
+183 «A Iberelli’s purported transfer of the Trigosul stock certificates by gift should not be governed under Chapter 678,
+
+which is
+
+intended to apply to purchases of stock. In my opinion, Florida common law should govern the validity of
+
+Alberelli’s purported gift of Trigosul stock certificates to Italba”, Report of Mr. Louis T.M. Conti, 9 August 2017,
+
+page 12.
+ieThe
+
+requirements for an inter vivos gift of corporate stock are simultaneous intent, delivery, and acceptance”,
+
+Report of Mr. Louis T.M. Conti, 9 August 2017, page 10-12. Transcript of the Hearing of 17 November 2017 (Day
+
+5), 1283: 1-8,
+
+67
+
+251.
+
+252.
+
+253.
+
+254.
+
+In its Post-Hearing Brief, Italba referred to a case appended to Mr. Conti’s Report (Estate
+of Maxcy v. Commissioner of Internal Revenue), and assert that the U.S. Court of Appeals
+for the Fifth Circuit “... upheld the validity under Florida law of a gift of shares in a close
+corporation notwithstanding the U.S. Internal Revenue Service’s argument that the gift had
+not been perfected by physical delivery... Where the government could raise no alternative
+theory of the donor’s intent, the Court dismissed insistence on physical delivery as
+‘tokenism in which we do not think the courts of Florida would indulge’ and found
+
+‘constructive’ delivery sufficient.”!*>
+
+In the Tribunal’s view, the case cited by Italba refers to circumstances that are totally
+different from those of the present case. In Estate of Maxcy, the donor of the company’s
+shares entered the donation of shares in the corporate records and reported it in its income
+tax returns; it also issued new share certificates and asked the company secretary to issue
+such certificates in the name of the donees. One of the certificates was not personally
+delivered to the donee but kept in a safety deposit box of the company; however, it was
+shown that the donee had access to the box, both in law and in fact. For these reasons, the
+Court in that case was able to establish, by reference to cogent evidence, the donor’s intent
+and the acts it performed in order to express it. This Tribunal concludes that there is no
+
+such evidence in the present case.
+
+As stated above (paragraph 213), the Tribunal is certain that this matter should be resolved
+in accordance with the laws of Uruguay, the only law applicable to this case. Nonetheless,
+in order to consider the entirety of the Claimant’s arguments the Tribunal also analyzed the
+laws of the State of Florida and concluded that Italba was not the owner of Trigosul under
+either system of law. The Tribunal thus analyses in the following section Italba’s allegation
+
+that it controls Trigosul.
+
+b. Does Italba Corporation control Trigosul?
+
+The definition of “investment” in Article 1 of the Treaty refers to “every asset that an
+
+investor owns or controls, directly or indirectly, that has the characteristics of an
+
+'85 Claimant's Post-Hearing Brief, | 34; Estate of Maxcy v. Commissioner of Internal Revenue, 441 F.2d 192, 194 (5!
+Cir. 1971), LC-14.
+
+68
+
+255.
+
+256.
+
+investment”. (emphasis added) The term “control” is not defined in the Treaty. The
+omission of a definition for “control” accords with long-standing U.S. practice, reflecting
+the fact that determinations as to whether an investor controls an enterprise will involve
+
+factual situations that must be evaluated on a case-by-case basis.
+
+Italba argued, for the purposes of Article 1 of the Treaty, that it controls Trigosul and
+asserted, based on Messrs. Alberelli’s and Herbon’s statements and the documents to be
+cited below, that: (a) it made business decisions for Trigosul; (b) “contributed the vast
+majority of Trigosul’s share capital”; (c) funded Trigosul’s operations; and (d) represented
+
+to third parties that it was the owner of Trigosul.'*°
+
+The Claimant submitted several documents in support of its assertion that it made business
+decisions for Trigosul. The Tribunal addresses each of them and states its conclusion once
+
+it has reviewed them all:
+
+(a) Proposal for a Banking Communication Network of 6 January 1999.'87 This
+document makes no reference to Trigosul; moreover, it is a proposal made by
+
+ETS and Italba Telecom S.A., and not by Italba Corporation.
+
+(b) “Site Survey Report: Uruguay, Prime Wave Communication” of 15 October
+
+2001.'** The Report makes no reference to Trigosul or Italba.
+
+(c) Agreement with WorldStar Communications Corp. for the purpose of creating
+a Joint Venture for a Telecommunications Project in Uruguay of July 2009.!8°
+This document makes no reference to Trigosul; it concerns a company referred
+
+to as Sumitel, which appears to have licenses in Uruguay.
+
+'86 Claimant’s Reply, §¥] 34-37; Statement of Dr. Gustavo Alberelli, 12 May 2017, | 8; Statement of Ms. Beatriz
+Alberelli, 12 May 2017, 4 5; Statement of Mr. Luis Herbén, 12 May 2017, § 10.
+
+'§7 Claimant’s Reply, {| 34; Proposal for a Banking Communication Network, 6 January 1999, C-006; Statement of
+Dr. Gustavo Alberelli, 12 May 2017, 11.
+
+'88 Claimant’s Reply, 34; Site Survey Report: Uruguay, 15 October 2001, C-165; Statement of Dr. Gustavo Alberelli,
+12 May 2017, 411.
+
+'89 Claimant’s Reply, 4 34; Joint Venture Agreement for Telecommunications Project in Uruguay, July 2009, C-007;
+Statement of Dr. Gustavo Alberelli, 12 May 2017, 4 11.
+
+69
+
+(d) Co-Investment Agreement Among Eastern Pacific Trust and Italba
+Corporation of 14 June 2002.'% It refers to Trigosul as a “strategic partner,”
+not as Italba’s subsidiary; in addition, it makes reference to a project in
+
+Ecuador.
+
+(e) Joint Venture Terms Sheet between Phinder Technologies Inc. and Italba
+Corporation of 14 February 2007.'*! It is a document concerning Latin
+America, Europe (Spain and Portugal) and Africa. It makes no reference to
+
+Trigosul or Uruguay.
+
+257. Italba also claimed to have sought out potential joint ventures “...that would allow it to
+realize the full value of its investment in Trigosul”; Italba “... acted as the negotiating and
+contracting party, and its contribution to the joint venture partnerships included the use of
+Trigosul’s license—which Italba was able to contribute because it owned Trigosul.”!°? To
+
+such effect, Italba made reference to the following businesses:
+
+(a) Negotiations with Eastern Pacific Trust: letter of intent of 3 February 2002 and
+Co-Investment Agreement of 14 June 2002 (cited in paragraph 256 (d)
+above).'> Regarding the letter of intent, the Tribunal notes that it is not signed
+and mentions Trigosul only once. Furthermore, it is addressed to Italba
+Telecommunications Group, not Italba Corporation. The Claimant also
+submitted the statement of Mr. Alan Cherp, director of InterAmerican Telco
+Systems. He told the Tribunal that he had met Dr. Alberelli in 2002, at a
+telecommunications event where they discussed business in Uruguay through
+
+Trigosul, Italba’s subsidiary.!°*
+
+9 Claimant’s Reply, {| 34; Co-Investment Agreement Among Eastern Pacific Trust and Italba Corporation, 14 June
+2002, C-015.
+
+‘1 Claimant's Reply, 34; Joint Venture Terms Sheet Between Phinder Technologies Inc. and Italba Corporation, 14
+February 2007, C-030; Statement of Dr. Gustavo Alberelli, 12 May 2017, 20.
+
+2 Claimant’s Reply, 34; Statement of Dr. Gustavo Alberelli, 12 May 2017, {fj 11-20.
+3 Claimant’s Memorial, {| 22-29; Letter from de A. Cherp to A. Jansenson and G. Alberelli, 3 February 2002, C-
+014.
+
+4 Statement of Mr. Alan Cherp, 9 May 2017, 4 8.
+
+70
+
+(b) Negotiations with a representative of Brasil Telecom on the possibility of
+creating a joint venture involving a U.S.-based investment group named
+
+Starborn.'*> There is no evidence of this negotiation in the case record.
+
+(c
+
+2
+
+Potential deal with ANTEL (Uruguay’s state-owned telecommunications
+company). The only evidence of this “potential deal” is to be found in the
+statements of Messrs. Alberelli and Herbon.'°° The Tribunal cannot, based on
+these statements alone, deem the alleged control of Italba over Trigosul to be
+
+proven.
+
+(d) Negotiations with Phinder Technologies Inc. (a Canadian telecommunications
+company), in order to execute a Joint Venture for the creation of Zupintra
+Panama S.A.!°” Italba submitted several documents: (i) Italba Corporation’s
+“Project Structure” of 21 January 2007,' whereby the scope of the project
+includes Central America, South America, and parts of Europe and Africa. The
+Tribunal finds no reference to Trigosul’s license in Uruguay there; (ii) “Joint
+Venture Terms Sheet between Phinder Technologies Inc. and Italba
+Corporation” of February 2007.' The document indicates that Italba shall
+contribute the telecom licenses in the target countries (located in Latin
+America, Europe (Spain and Portugal) and Africa); based on the contents of
+the document, the Tribunal cannot conclude that it would include Trigosul’s
+license; (iii) “Shareholders’ Agreement” between Phinder Technologies Inc.
+and Italba Corporation of March 2007.7 The document is a draft with
+
+handwritten notes, which is not signed and makes no reference to Trigosul; (iv)
+
+5 Claimant’s Memorial, § 33; Statement of Dr. Gustavo Alberelli, 16 September 2016, {| 36; Statement of Mr. Luis
+Herbén, 16 September 2016, 4 19.
+
+'% Claimant's Memorial, {| 38-40; Statement of Dr. Gustavo Alberelli, 16 September 2016, f] 40-41 and 43;
+Statement of Mr. Luis Herbén, 16 September 2016, 4 23-24.
+
+"7 Claimant’s Memorial, §f] 42-47.
+'98 Project Structure, 21 January 2017, C-027.
+
+199 Joint Venture Terms Sheet Between Phinder Technologies Inc. and Italba Corporation, 14 February 2007, C-028
+(also submitted as C-030).
+200 Shareholders’ Agreement, March 2007, C-029.
+
+71
+
+“Joint Venture Terms Sheet between Phinder Technologies Inc. and Italba
+Corporation” dated 14 February 20077! (discussed in paragraph 256 (e)
+above); (v) Certificate of Incorporation of Zupintra dated 8 March 2007.7
+This document indicates that Dr. Alberelli appeared before a public notary in
+order to constitute such corporation in his individual capacity; the document
+makes no reference to Italba or Trigosul; (vi) Press release entitled “Zupintra
+Communications Inc. forms Joint Venture with Italba Corporation” of 19
+March (year not specified).?°? It refers to telecommunications opportunities in
+Latin America and the Caribbean, but says nothing about Trigosul; (vii) News
+report entitled “Zupintra, Italba create telecoms JV” of 19 March 2007.2" This
+news report deals with the association of the two companies mentioned to do
+business in Latin America and the Caribbean; it makes no reference to
+Trigosul; (viii) E-mails of 3, 4, 5, 8, 9 and 10 May 2007, and 6, 7, 11 and 12
+June 2007.7 Such communications mostly refer to business in Argentina,
+while some of them deal with the expansion to Uruguay; nonetheless, they
+make no reference to Trigosul. In their statements, Mr. Christopher G. Hall,
+Chief Operating Officer of Phinder Technologies Inc., and Mr. John Alexander
+van Arem, President and Chief Executive Officer thereof, asserted that
+Trigosul was Italba’s subsidiary.2° The Tribunal considers that such
+statements do not correspond to the contents of the documents submitted and
+
+analyzed in this paragraph.
+
+201 Joint Venture Terms Sheet Between Phinder Technologies Inc. and Italba Corporation, 14 February 2007, C-030
+(also submitted as C-028).
+
+22 Public document 3,320 for the constitution of Zupintra Panama S.A., C-032.
+
+283 Zupintra Communications Inc. forms Joint Venture with Italba Corporation, 19 March (year unknown), C-033.
+204 Zupintra, Italba create telecoms JV, 19 March 2007, C-034.
+
+205 Juan Pedro Tomas, Zupintra Panama completes first phase of LatAm network, 8 May 2007, C-036; Emails from
+R. Miranda to A. Goldstein et al., 4 May 2007, C-037; Email from G. Alberelli to M. Kisiel et al., 8 May 2007, C-
+038; Email from C. Hall to G. Alberelli, 12 June 2007, C-039 and Email from M. Kisiel to C. Hall et al., 10 May 2007,
+C-040.
+
+206 Statement of Mr. Christopher G. Hall, 12 May 2017, 4] 3. Statement of Mr. John Alexander van Arem, 10 May
+2017, 43.
+
+72
+
+(ce) Negotiations with Telmex Uruguay (Telstar S.A.).?°’ Italba submitted the
+following documents: Intention and Confidentiality Agreement of 21 June
+2007;7% and five e-mails exchanged in December 2007, March 2008, and
+March and November 2009.” Both the Agreement and the communications
+refer to Trigosul only; none of them mentions Italba, which is why it cannot be
+
+inferred that Italba was negotiating for Trigosul.
+
+(f) Negotiations with Dr. Fernando Garcia:?!° Italba submitted a letter from Dr.
+Garcia to Dr. Alberelli of 4 October 2010, and the Data Transmission and
+Computer Equipment Trial Loan Contract of December 2010.7!! Regardless of
+the authenticity of Dr. Garcia’s signature, which was questioned, neither of the
+documents indicates that the negotiation was conducted by Italba or that Italba
+
+acted for Trigosul.
+
+(g) Negotiations with DirecTV: The Claimant submitted two e-mails exchanged
+by Mr. Martin Colombo and Dr. Alberelli on 17 March 2011.7!? These
+communications make no reference to Italba such that it would permit an
+inference to be drawn that Dr. Alberelli was acting for Italba or that Italba was
+
+owned or controlled Trigosul.
+
+(h) Negotiation with Grupo Afinidad Mary in order to offer various services to the
+community of 2,100 retirees: The Claimant submitted a document entitled
+“Projection of Income, Investments, and Costs” (undated and unsigned),”'* and
+
+a letter from Mr. Richard G. Weber to Dr. Alberelli of 1 May 2012.?'* These
+
+207 Claimant’s Memorial, 4 48-52.
+
+208 Intention and Confidentiality Agreement, 21 June 2007, C-042.
+
+20 Email from G. Alberelli to Luis Herbén (inquiring as to whether Trigosul would sell its license to Telmex), 19
+December 2007, C-043; Email from L. Herbén to G. Alberelli, 4 April 2008, C044; Email from M. Hublitz to G.
+Alberelli 28 March 2009, C-050; Email from G. Alberelli to M. Hublitz, 25 March 2009, C-051 and Email from M.
+Hublitz to G. Alberelli (attaching Uruguay Mobile WiMAX Network Presentation), 12 November 2009, C-052.
+
+20 Claimant’s Memorial, 4 55 and 56.
+
+21! Letter from Dr. Garcia to Dr. Alberelli dated 4 October 2010, C-056; and Data Transmission and Computer
+Equipment Trial Loan Contract of 1 December 2010, C-057.
+
+212 Claimant’s Memorial, 4] 59 and 60; E-mails of 17 March 2011, C-061.
+213 Project of Income, Investments, and Costs (undated) C-064.
+?!4 Letter from Mr. Richard G. Weber to Dr. Gustavo Alberelli, | May 2012, C-065.
+
+73
+
+258.
+
+259.
+
+260.
+
+215 Claimant’s Reply, § 35; Italba’s Commercial Checking Bank Account Statement, 1 February - 28 February 2001,
+C-166; Statement of Dr. Gustavo Alberelli, 12 May 2017, | 16; Statement of Mr. Luis Herbén, 12 May 2017, § 14;
+
+The documents and statements mentioned above cannot support a conclusion that Italba
+communicated or represented to the interested parties that it was negotiating contracts for
+its purported subsidiary, Trigosul, or that it controlled it. Moreover, the Tribunal notes that
+
+some of the witness statements submitted by Italba are inconsistent with the contents of the
+
+documents only make reference to Trigosul, not Italba, so that it is impossible
+
+to determine who started the alleged negotiation.
+
+documentary evidence filed by that Party.
+
+By virtue of the foregoing reasons, the Tribunal finds that the Claimant has failed to prove
+
+that it made business decisions for Trigosul.
+
+As to Italba’s alleged capital contributions to Trigosul, the Claimant submitted the
+
+following documents:
+
+(a)
+
+(b)
+
+Italba’s Commercial Checking Bank Account Statement (from 1 to 28
+February 2001).7!> By means of this document, Italba purported to prove that
+it wired USD 35,000 to Trigosul as a reimbursement of expenses. The Tribunal
+notes that the transfer was made by the Claimant to Mr. Luis Herbon, and that,
+in footnote 159 of its Reply Memorial, Italba stated: “The wire transfer was
+made to Luis Herbon’s account at Indumex, a Uruguayan financial services
+company that facilitates international money transfers.” The purpose of such
+transfer is not mentioned in the case record, and the Claimant has submitted no
+
+evidence that it was actually a capital contribution from Italba to Trigosul.
+
+Contribution of 632,674 Uruguayan pesos that Trigosul paid to DNC as an
+advance on the first two years of fees for Trigosul’s operation in the
+spectrum.?!® The Tribunal has confirmed that Trigosul’s accounting book
+
+called “Diary” makes reference to such amount, but there is no record
+
+Trigosul’s Diary, C-167.
+
+216 Claimant’s Reply, {| 35; Trigosul’s Diary, C-167, and Trigosul’s Book of Shareholders and Directors Meetings, C-
+164; Statement of Dr. Gustavo Alberelli, 12 May 2017, | 16; Statement of Mr. Luis Herbon, 12 May 2017, { 14.
+
+14
+
+whatsoever of the source of the contribution necessary to enable Trigosul to
+
+make the relevant payment to DNC.
+
+261. The Tribunal finds that Italba has submitted no evidence that it made capital contributions
+
+to Trigosul.
+
+262. Italba’s third argument is that it funded Trigosul’s operations. Accordingly, Italba
+submitted the following documents on three issues: purchase of equipment, drawing
+
+checks, and purchase of bonds:
+
+(a) Equipment: fax to Italba Group (to the attention of Mr. Albert Jansenson) from
+Mr. Daniel V. de los Santos of L-3 Communications of 8 May 2001; Quotation
+No. 2501 from Wavelynx International Inc. of 11 January 2000; “Seller’s
+Agreement” between Italba Corporation and Wavelynx International Inc. of 27
+February 2000; and Invoice No. 107 from StarMesh Technologies to Italba of
+12 June 20077!’ (according to Italba, the equipment was approved by
+URSEC).?!® The fax includes a Memorandum of Understanding (MOU) which
+mentions Trigosul as a subsidiary of Italba, but neither the fax nor the MOU
+were signed. The quotation refers to equipment for Italba, but it was not shown
+that Italba purchased such equipment for Trigosul. The “Seller’s Agreement”
+makes no reference to Trigosul. Invoice No. 107 indicates that the equipment
+would be shipped to Miami; there is no evidence of its subsequent shipping to
+Trigosul. Although Italba stated that such equipment was later approved by
+URSEC, the Tribunal reviewed the approval submitted, which includes neither
+a list, nor a description of the equipment, and, thus, does not confirm that it is
+the same equipment as that mentioned by the Claimant. Italba also cited
+UMDN-URSEC Resolution of 10 September 2002, which approved the
+
+payment for Trigosul’s equipment, purchased by Italba.?!? Such resolution
+
+217 Claimant’s Reply, § 36; Fax from D. Los Santos to A. Jansenson, 8 May 2001, C-168; Quotation No. 2501 from
+Wavelynx International, Inc., 11 January 2000, C-159; Seller’s Agreement between Italba Corporation and
+Wavelynx International Inc., 27 February 2000, C-160; and Invoice No. 107 from StarMesh Technologies, 12 June
+2007, C-169.
+
+218 Certificate of Approval, 29 June 2007, C-170.
+
+219 Claimant’s Reply, 36; UMDN-URSEC Resolution, 10 September 2002, C-171.
+
+75
+
+concerns a settlement agreement reached before the “Juzgado de Conciliacién
+del 2do Turno”, between Trigosul, the Uruguay Ministry of Defense and
+URSEC (due to the change of frequencies by means of Decree 282/2000 (see
+paragraphs 85 and 88 above)). As explained above, Trigosul alleged that, in
+view of the frequencies it had been allocated prior to such Decree, it purchased
+equipment it would not be able to use with the new frequencies. A line of the
+Resolution reads “ITALBA invoice for the purchase of radios: US $25,964.”
+The Tribunal cannot interpret this mere reference to Italba as evidence of a
+
+contribution from Italba to Trigosul through delivery of equipment.
+
+(b) Writing of checks: Italba alleges that it regularly drew checks to cover
+Trigosul’s expenses; in support of such assertion, it submitted two checks
+(dated 7 June 2005 and 13 May 2006 respectively).?”° It also made reference
+to the accounting books of Trigosul where the cash allegedly contributed by
+Italba would be recorded as “contribution by directors.”??! One of the checks
+mentioned by Italba was drawn to “Cash”, while the other was drawn in favor
+of Dr. Alberelli. No relationship between Italba and Trigosul may be derived
+from such evidence. As to accounting records, the Tribunal cannot construe the
+expression “contribution by directors” as a contribution made by Italba; that
+
+would be an unfounded and forced interpretation of the text.
+
+(c
+
+2
+
+Bonds: Italba contends that, in April 2004, it gave Mr. Herb6n approximately
+
+222
+
+USD 25,000 to purchase Uruguayan bonds,*** and that, two years later, on
+Italba’s instructions, Mr. Herbon sold those bonds and used the money to cover
+Trigosul’s expenses. The Tribunal notes that the two checks mentioned by
+Italba were written in favor of persons other than Trigosul, and that the only
+
+relevant note in Trigosul’s Breakdown of Transactions reads “contribution by
+
+220 Claimant’s Reply, § 36; Check of 7 June 2005, C-173, and Check of 13 May 2006, C-174.
+
+21 Trigosul’s Breakdown of Transactions, froml December 2001 to 30 November 2006, C-175; and Diary of
+Accounting Records from 1 December 2007 to 30 November 2015, C-176.
+
+222 Claimant’s Reply, 36; Check of 27 April 2004, C-177; Check of 27 April 2004, C-178, Receipt for Purchase of
+Bonds, 29 April 2004, C-179, Receipts for Sale of Bonds, 18 August 2016 and 30 November 2016, C-180, and
+Trigosul’s Breakdown of Transactions from 1 December 2001 to 30 November 2006, C-175; Statement of Mr. Luis
+Herbén, 12 May 2017, {| 15; Statement of Dr. Gustavo Alberelli, 12 May 2017, 19.
+
+76
+
+263.
+
+264.
+
+265.
+
+266.
+
+267.
+
+directors” but does not state that the contributions were made by Italba.
+Therefore, the Tribunal cannot accept that the Claimant has proven that the
+money related to the checks and bonds was a contribution from Italba to
+Trigosul. Rather, the evidence mentioned in this paragraph establishes that Dr.
+
+Alberelli covered Trigosul’s expenses.
+
+The evidence submitted by the Claimant having been carefully examined, the Tribunal
+finds that there is no evidence on the record to conclude that Italba was actually controlling
+
+Trigosul.
+
+The Claimant cited several ICSID awards in support of its argument that, in order to
+analyze the jurisdiction of the Tribunal, the notion of control over a company is flexible
+and broad, rather than strict. The Tribunal considers that, given that there is no evidence of
+Italba’s control over Trigosul in any of the areas mentioned by Italba (negotiation of
+contracts, capital contributions, and funding of transactions), the discussion and analysis
+
+of such awards, though very interesting, would be futile for the purposes of this Award.
+
+The Tribunal having thoroughly analyzed the Parties’ positions and the evidence on which
+they relied in support thereof, on the basis of the statements made by the Parties and the
+
+evidence on record, the next section contains a summary of the Tribunal’s findings.
+
+(3) The Tribunal’s Findings
+
+In preparation for the investment to be made in Uruguay, Dr. Alberelli acquired a company
+which had already been incorporated and which was then named Trigosul (according to
+Dr. Alberelli, although the first six certificates are dated 1996, he actually acquired
+Trigosul in 1999). Trigosul’s new shareholders (Dr. Alberelli and his mother, Ms. Carmela
+Caravetta) appointed Mr. Luis Herbon as Chairman of the Board of Directors (see
+paragraphs 76, 78 and 79 of this Award; Book of Shareholders and Directors Meetings,
+page 3, C-164).
+
+In January 1997, the MDN authorized Dr. Alberelli to provide wireless services in Uruguay
+(see paragraph 81 above).
+
+77
+
+268.
+
+269.
+
+270.
+
+271.
+
+272.
+
+273.
+
+274.
+
+In August 1997, the DNC allocated to Dr. Alberelli the radio channels of some frequencies
+
+(see paragraph 82 above).
+
+In February 2000, and in response to Dr. Alberelli’s request to the DNC, the MDN
+
+transferred to Trigosul the authorization granted to Dr. Alberelli (paragraph 84 above).
+
+The Treaty between the United States of America and the Oriental Republic of Uruguay
+Concerning the Encouragement and Reciprocal Protection of Investment was entered into
+
+on 4 November 2005 and came into force on 1 November 2006 (see paragraph 94 above).
+
+On account of Trigosul’s various problems with the Uruguayan telecommunications
+authorities, in February 2016, Italba filed this claim for arbitration against Uruguay before
+
+ICSID (see paragraph 6 above).
+
+Dr. Alberelli cannot be considered as an investor under the ICSID Convention or this
+Treaty as he is a national of Italy, not the United States, which is a fundamental requirement
+to enjoy the protection of the Treaty. Trigosul being a Uruguayan company, could not
+qualify as an investor either in the circumstances of this case (see paragraphs 75 and 76
+
+above).
+
+The Claimant has asserted that Italba Corporation, a company incorporated under the laws
+of the State of Florida, United States of America, is a qualified investor under the ICSID
+Convention and the Treaty. However, Trigosul’s corporate documents contain no
+
+indication that Italba was a shareholder of Trigosul.
+
+Italba retained Dr. Luis Lapique, who issued a report admitting that “... a detailed analysis
+of Trigosul’s different corporate books and the content of their records, as well as the shares
+issued by Trigosul,” evidenced that “...[s]ome records have not been kept and certain
+shares have not been issued,” and “...[rJecords have been kept incorrectly and shares have
+been issued incorrectly.” Nevertheless, Dr. Lapique, in support of the hypothesis that Italba
+
+owned Trigosul, contended that, in “...closely held corporations, there are cases in which
+
+78
+
+275.
+
+276.
+
+277.
+
+278.
+
+279.
+
+280.
+
+the corporate books and records are relegated to second place and formalities are not
+
+observed.”?3
+
+Unable to find support in Trigosul’s accounting books and records, the Claimant purported
+
+to show that Italba was the owner of Trigosul by means of Trigosul’s share certificates.
+
+Given that only one of Trigosul’s share certificates (number 4) was endorsed in favor of
+Italba, the Claimant asserted the theory that the endorsement of one certificate entailed the
+
+endorsement of all others (see paragraph 169 above).
+
+In order to show that he had delivered the share certificates to Italba, Dr. Alberelli asserted
+that the transfer occurred when he placed all the certificates of Trigosul in a safety deposit
+box where, in his own words, he and his wife would keep Italba’s documents (see
+paragraph 169 above). The Claimant thus purported to meet the second fundamental
+
+requirement to complete the transfer of Trigosul’s share certificates.
+
+As the Tribunal has noted at paragraph 226 above, the Claimant sought to explain the
+failure to record the share transfer on the basis of Dr. Lapique’s opinion that, in closely
+held corporations, corporate records were often relegated to second place, and that, in this
+particular case, such defects were due to “the lack of knowledge of the legal or accounting
+
+advisors of the company.”?*4
+
+This assertion is difficult to accept, as Dr. Alberelli was an experienced businessman, who,
+moreover, relied on the services of Mr. Herbon, a national of Uruguay, who was a Certified
+
+Public Accountant with experience in running his own and third-party businesses.??°
+
+The transfer of Trigosul’s shares (by means of certificate number 4) from Dr. Alberelli to
+
+Italba was never made as it did not satisfy the requirements set forth in Article 305 of the
+
+23 Dr, Luis Lapique’ Report, 12 May 2017, page 5.
+
+24 Td.
+
+25 Statement of Mr. Luis Herbén, 16 September 2016, 45.
+
+79
+
+281.
+
+282.
+
+283.
+
+284.
+
+Commercial Companies Act.??° It follows that this could not have resulted in the transfer
+
+of the other share certificates of Trigosul either, which were not even endorsed to Italba.
+
+Italba asserted (based on the report of its expert, Dr. Lapique) that what matters is not form
+(notwithstanding the express provisions of the laws of Uruguay), but “economic reality.”
+In support of this theory, it relied upon Article 189 of the Commercial Companies Act (see
+paragraph 227 above), which, in cases of fraud and violation of public order (e.g., tax
+evasion), provides that legal personality may be disregarded (known as “piercing the
+corporate veil” in other legal systems) so as to determine who actually owns the shares.
+Pursuant to this Article, the Claimant contended that Italba was the true owner of Trigosul’s
+shares. The Claimant’s argument cannot be accepted, as the legal basis on which it relies
+(Article 189 of the Commercial Companies Act) regulates legal situations other than those
+of this case, and, thus, does not apply here. Furthermore, this argument is contrary to the
+Claimant’s contention in paragraph 97 of its Reply Memorial that the corporate veil should
+
+not be pierced (see paragraph 179 above).
+
+No matter how much the corporate veil could be pierced or Trigosul’s legal personality be
+disregarded, the truth is that Dr. Alberelli and his family still appeared as the sole owners
+
+of Trigosul’s shares.
+
+The Claimant then purported to assert that Italba had provided Trigosul with the funds
+necessary for its operation (see paragraph 226 above). This argument failed because it was
+unsupported by any cogent evidence. Instead, the evidence submitted by Italba rather
+confirmed that it was Dr. Alberelli who had made the capital contributions necessary for
+
+Trigosul’s operation.
+
+In the alternative, the Claimant argued that it controlled Trigosul even if the Tribunal were
+to find that it did not own it. For such purposes, Italba submitted letters and other
+documents, most of which were inapposite or concerned different situations. This evidence
+
+simply confirmed that it was Dr. Alberelli who controlled Trigosul and not Italba.
+
+226 Commercial Companies Act of 4 September 1989, Article 305, C-222 and EXM-006.
+
+80
+
+285.
+
+286.
+
+VIL.
+
+287.
+
+288.
+
+Given its finding that Italba neither owns, nor controls Trigosul, for the purposes of Articles
+1 and 24 of the Treaty and Article 25 of the ICSID Convention, the Tribunal declares that
+it has no jurisdiction to settle the dispute between Italba Corporation and the Oriental
+
+Republic of Uruguay and it so states in the dispositif.
+
+As the Tribunal has upheld the Respondent’s first objection on jurisdiction, the Tribunal
+does not deem it necessary to rule upon the other jurisdictional objections raised by the
+
+Respondent.
+
+COSTS
+Claimant’s Cost Submissions
+
+In its submissions on costs, the Claimant argues that the Respondent should bear all the
+costs and expenses of these proceedings. The Claimant’s total costs and expenses incurred
+in connection with this arbitration amount to USD 8,923,882.28 22” and are broken down
+as follows: (a) USD 7,424,562.89 in respect of Italba’s counsel fees and expenses, (b)
+USD 1,022,151.67 in respect of experts’ fees and expenses, (c) USD 2,167.72 in respect
+of representatives’ and witnesses’ expenses, (d) the ICSID lodging fee of USD 25,000, and
+(e) USD 450,000 in respect of advances towards the Tribunal’s fees and expenses and
+ICSID’s administrative fees. In addition, the Claimant seeks compound interest on any
+damages and costs calculated annually at a commercial rate from the date of the Award
+
+until the date of payment by Uruguay.”
+
+The Claimant argues that an award on costs to the Claimant is “uniquely appropriate” in
+this case because Italba was forced to assert its rights under the Treaty only as a result of
+Uruguay’s failure to comply with the “Tribunal de lo Contencioso Administrativo”
+
+229
+
+judgment, destroying the value of Italba’s investment in breach of the Treaty.*”
+
+Furthermore, Uruguay’s abusive conduct in the context of this dispute “greatly aggravated
+
+727 Italba’s Submission on Costs.
+
+8 Italba’s Submission on Costs, § 31.
+
+9 Italba’s Submission on Costs, § 18.
+
+81
+
+289.
+
+290.
+
+291.
+
+the harm inflicted by Uruguay’s breaches of the Treaty as well as the costs of this
+
+arbitration.”?°°
+
+Respondent’s Cost Submissions
+
+In its submissions on costs, the Respondent submits that the Claimant should bear all the
+costs and expenses of these proceedings. The Respondent’s total costs and expenses
+
+231 and are broken
+
+incurred in connection with this arbitration amount to USD 6,002,836.75,
+down as follows: (a) USD 4,151,031.90 in respect of Uruguay’s counsel’s fees, (b) USD
+1,401,804.85 in respect of experts’ fees and expenses, and administrative expenses, and (d)
+USD 450,000 in respect of advances toward the Tribunal’s fees and expenses, and ICSID’s
+administrative fees. In addition, the Respondent seeks the Tribunal to order the Claimant
+to pay interest at the LIBOR rate applicable to one-year deposits in U.S. dollars in effect
+on the date on which the Award is issued, plus 4%, accruing 60 days after the Parties are
+
+served notice of the Award, compounded semi-annually.?*?
+
+The Respondent argues that an award on costs to Uruguay is justified in this case because
+(a) Italba claimed the existence of jurisdiction without having legal standing to do so,?*
+(b) Italba presented frivolous claims as to jurisdiction, merits and damages,”** and (c)
+throughout these proceedings, Italba has acted in bad faith to interfere with the arbitral
+process, using “forged and suspect documents as supposed evidence in support of its
+
+arguments” in a “deliberate attempt to obscure the facts and mislead the Tribunal.”?*>
+The Tribunal’s Decision on Costs
+
+Both Parties to this arbitration agree that the “loser pays” principle (referred to also as
+
+“costs follow the event”) should guide the allocation of costs in this arbitration. Each
+
+230 Htalba’s Submission on Costs, § 20. Italba’s letter dated 10 August 2018.
+231 Uruguay’s Letter dated 7 November 2018.
+
+232
+
+233,
+
+24 Uruguay’s Subm
+
+235
+
+Uruguay’s Subm
+Uruguay’s Subm
+
+n on Costs, {fj 21, 49; and Uruguay’s Letter dated 7 November 2018.
+ion on Costs, $f 21, 26.
+ion on Costs, {fj 28-36.
+
+ 
+  
+ 
+
+Uruguay’s Submission on Costs, 40.
+
+82
+
+Party has requested the Tribunal to order that the unsuccessful party reimburse to the
+successful party its costs in connection with these proceedings, including the advances
+
+made to ICSID for the Centre’s charges and the fees and expenses of the arbitrators. °°
+
+292. The costs of the arbitration, including the fees and expenses of the Tribunal, ICSID’s
+
+administrative fees and direct expenses, amount to (in USD):?5”
+
+Arbitrators’ fees and expenses
+
+Mr. Rodrigo Oreamuno USD 227,392.65
+Mr. John Beechey USD 84,515.74
+Prof. Zachary Douglas USD 73,090.67
+ICSID’s administrative fees USD 106,000.00
+Direct expenses USD 174,015.77
+Total USD 665,014.83
+
+293. The above costs have been paid out of the advances made by the Parties in equal parts.?**
+
+As a result, each Party’s share of the costs of the arbitration amounts to USD 332,507.42.
+
+294. Article 61(2) of the ICSID Convention provides:
+
+In the case of arbitration proceedings the Tribunal shall, except as
+the parties otherwise agree, assess the expenses incurred by the
+parties in connection with the proceedings, and shall decide how
+and by whom those expenses, the fees and expenses of the members
+of the Tribunal and the charges for the use of the facilities of the
+Centre shall be paid. Such decision shall form part of the award.
+
+295. This provision gives the Tribunal discretion to allocate all costs of the arbitration between
+
+the Parties, including by ordering the losing Party to bear in full the costs of the arbitration
+
+and the legal fees and expenses incurred by both Parties.
+
+236 Uruguay’s Submission on Costs | 3.
+
+37 The ICSID Secretariat will provide the Parties with a detailed Financial Statement of the case account.
+
+238 The remaining balance will be reimbursed to the Parties in proportion to the payments that they advanced to ICSID.
+
+83
+
+296.
+
+297.
+
+298.
+
+299.
+
+The Tribunal has concluded that it has no jurisdiction over Italba’s claims because the
+Claimant has failed to prove that Italba owns or controls Trigosul.”? As explained above,
+Dr. Alberelli’s endorsement of Trigosul’s share certificates in favor of Italba was not in
+conformity with the applicable legal requirements and, therefore, failed to produce effects
+concerning Trigosul or third parties.“° Moreover, no evidence was adduced that Italba
+shared in Trigosul’s profits or losses, that Italba was overseeing the management of
+Trigosul’s business, or that Italba exercised the rights that would have been available to it
+if it had actually been a shareholder of Trigosul.”*! Finally, the Claimant failed to prove
+that Italba communicated or represented to interested parties that it was negotiating
+
+contracts for Trigosul or that it controlled it.24”
+
+In view of the above, the Tribunal finds that the application of the ‘loser pays’ principle is
+appropriate. Accordingly, the Tribunal concludes that the Claimant shall bear its legal fees
+and expenses in full, as well as the costs of the arbitration. The Claimant shall also
+reimburse the Respondent’s legal and expert fees and expenses in the amounts requested,”
+which the Tribunal finds to be reasonable in view of the Claimant’s costs, the duration of
+the proceeding and the complexity of the issues addressed, regarding not only jurisdiction
+
+but also merits and quantum.
+
+Accordingly, the Tribunal orders the Claimant to pay the Respondent the amount of USD
+332,507.42 for the expended portion of Uruguay’s advances to ICSID and USD
+
+5,552,836.75 to cover Uruguay’s legal and expert fees and administrative expenses.
+
+The Tribunal notes that the Respondent has requested that it be granted interest on any
+costs awarded to it. Having considered the circumstances of this arbitration proceeding
+
+and the evidence adduced by the Parties, the Tribunal has not found sufficient basis to grant
+
+239 See supra 4 285.
+
+240 See supra $] 212-222.
+241 See supra $f] 234-235.
+22 See supra fff 241, 257.
+
+243
+
+Uruguay’s Submission on Costs.
+
+84
+
+Vil.
+
+300.
+
+interest on the costs awarded to the Respondent. Accordingly, the Respondent’s request
+
+for interest on costs is denied.
+
+DECISION
+For the foregoing reasons, the Tribunal decides:
+
+(a) To uphold the objection to the Tribunal’s jurisdiction raised by the Oriental Republic
+of Uruguay on the grounds that Italba Corporation neither owns nor controls Trigosul
+S.A., such that Italba Corporation is not an investor for the purposes of Articles 1 and
+24 of the Treaty between the United States of America and the Oriental Republic of
+Uruguay Concerning the Encouragement and Reciprocal Protection of Investment and
+
+Article 25 of the ICSID Convention.
+(b) To declare that the Tribunal has no jurisdiction to settle the dispute.
+
+(c) To reject the Claimant’s request that the Tribunal disregard the expert report of
+
+Professor Eugenio Xavier de Mello Ferrand.
+
+(d) To order the Claimant to pay to the Respondent the entirety of the costs of this
+arbitration, including the fees and expenses of the Tribunal, ICSID’s administrative
+fees and direct expenses, as well as the Respondent’s legal and expert fees and expenses
+incurred in connection with this arbitration, assessed in the amount of
+
+USD 5,885,344.17.
+
+(e) All other requests for relief are dismissed.
+
+85
+
+[Signed] [Signed]
+
+ 
+
+Mr. John Beechey CBE Prof. Zachary Douglas, Q.C.
+Arbitrator Arbitrator
+Date: 14 February 2019 Date: 28 February 2019
+[Signed]
+
+Mr. Rodrigo Oreamuno
+President of the Tribunal
+
+Date: 4 March 2019
+
+86
+

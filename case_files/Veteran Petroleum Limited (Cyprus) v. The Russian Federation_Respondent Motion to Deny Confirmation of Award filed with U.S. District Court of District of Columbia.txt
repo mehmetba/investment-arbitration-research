@@ -1,0 +1,1700 @@
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 1 of 47
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF COLUMBIA
+
+HULLEY ENTERPRISES LTD.,
+YUKOS UNIVERSAL LTD., and
+VETERAN PETROLEUM LTD.,
+
+Petitioners,
+Case No. 1:14-cv-01996-ABJ
+v.
+
+THE RUSSIAN FEDERATION
+
+Respondent.
+
+RESPONDENT’S MOTION TO DENY CONFIRMATION OF
+ARBITRATION AWARDS PURSUANT TO NEW YORK CONVENTION
+
+Pursuant to 9 U.S.C. § 207 and the Court’s August 4, 2015 Minute Order, Respondent,
+the Russian Federation, respectfully submits this motion requesting that the Court dismiss the
+Petitioners’ Petition to Confirm Arbitration Awards and refuse to recognize and enforce the
+awards pursuant to the Convention for the Recognition and Enforcement of Foreign Arbitral
+Awards (“New York Convention’), codified at 9 U.S.C. §§ 201-208 (2000).
+
+Pursuant to Rule 7(a) of the Civil Rules of the United States District Court for the District
+of Columbia, Respondent submits herewith a Memorandum of Points and Authorities in Support
+of its Motion. Respondent has also submitted documents with exhibits in further support of this
+Motion, with its companion Motion to Dismiss the Petition to Confirm Arbitration Awards for
+Lack of Subject Matter Jurisdiction.
+
+Finally, Respondent submits herewith a Proposed Order pursuant to Rule 7(c) of the Civil
+
+Rules of the United States District Court for the District of Columbia.
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 2 of 47
+
+Dated: Washington, D.C.
+October 20, 2015
+
+Respectfully submitted,
+
+WHITE & CASEup
+
+/s/ Carolyn B. Lamm.
+
+Carolyn B. Lamm (D.C. Bar No. 221325)
+Francis A. Vasquez, Jr. (D.C. Bar No. 442161)
+Frank Panopoulos (D.C. Bar No. 459365)
+Eckhard Robert Hellbeck (D.C. Bar No. 437619)
+Chauncey Bratt (D.C. Bar No. 1018133)
+
+701 Thirteenth Street, N.W.
+
+Washington, D.C. 20005
+
+Phone: (202) 626-3600
+
+Fax: (202) 639-9355
+
+Counsel for the Russian Federation
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 3 of 47
+
+CERTIFICATE OF SERVICE
+Thereby certify that on October 20, 2015, I filed a true and correct copy of the foregoing
+Motion to Refuse Recognition of Arbitration Awards Pursuant to New York Convention with the
+Clerk of Court using the CM/ECF system, which will send notification of such filing to the
+
+following:
+
+Christopher M. Ryan
+
+SHEARMAN & STERLING LLP
+
+801 Pennsylvania Avenue, NW
+
+Suite 900
+
+Washington, DC 20004-2604
+
+Phone: (202) 508-8098
+
+Fax: (202) 508-8100
+
+Email: christopher.ryan@shearman.com
+
+Henry S. Weisburg
+
+Richard F. Schwed
+
+SHEARMAN & STERLING LLP
+
+599 Lexington Avenue
+
+New York, NY 10022-6069
+
+Phone: (212) 848-4193
+
+Fax: (646) 848-4193
+
+Email: hweisburg @shearman.com
+rschwed @shearman.com
+
+Counsel for Hulley Enters. Ltd., Yukos Universal Ltd.,
+and Veteran Petroleum Ltd.
+
+/s/ Carolyn B. Lamm.
+Carolyn B. Lamm (D.C. Bar No. 221325)
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 4 of 47
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF COLUMBIA
+
+HULLEY ENTERPRISES LTD.,
+YUKOS UNIVERSAL LTD., and
+VETERAN PETROLEUM LTD.,
+
+Petitioners, Case No. 1:14-CV-01996-ABJ
+
+THE RUSSIAN FEDERATION,
+
+Respondent.
+
+THE RUSSIAN FEDERATION’S MEMORANDUM OF LAW
+IN SUPPORT OF ITS MOTION TO DENY CONFIRMATION OF ARBITRATION
+AWARDS PURSUANT TO NEW YORK CONVENTION
+
+WHITE & CASEur
+
+Carolyn B. Lamm (D.C. Bar No. 221325)
+Francis A. Vasquez, Jr. (D.C. Bar No. 442161)
+Frank Panopoulos (D.C. Bar No. 459365)
+Eckhard Robert Hellbeck (D.C. Bar No. 437619)
+701 Thirteenth Street, N.W.
+
+Washington, D.C. 20005
+
+(202) 626-3600
+
+Counsel for Respondent
+
+October 20, 2015
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 5 of 47
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+INTRODUCTION 1
+BACKGROUND 3
+I The Arbitrations 4
+A. The Tribunal Followed A Faulty Process ......0...ccccccsese eee eseeeeeeneeeieeeeteeseeeeeeeeees 4
+B. The Tribunal’s Faulty Process Led To Egregiously Erroneous Resullts............. 7
+Il. The Russian Federation Has Challenged The Awards In Multiple Jurisdictions ................. 9
+ARGUMENT 12
+L The Awards Are A Nullity Because The Russian Federation Never Agreed To Arbitrate
+With Petitioners (New York Convention, Article V(1)(a)) ....:.cecececeeeseseeeeeteeeeseteteeeeeeeeee 13
+Il. Confirmation Of The Awards Would Be Contrary To The Public Policy Of The United
+States (New York Convention, Article V(2)(D))......cccececsseseseeeeseseeeeseseeeeseseneeseeeeereeeeeereas 13
+A. Petitioners Violated Their Duty Of Candor To The Tribunal... 14
+B. The Awards Condone Serious Fraud And Illegality By Petitioners And Their
+Affiliates 16
+Cc. The Awards Evince The Tribunal’s Bias And Prejudice Against The Russian
+Federation 21
+D. The Awards Purport To Punish The Russian Federation For Its Exercise Of Police
+Powers Within Its Territory 25
+Ill. Confirmation Of The Awards Should Be Refused Because The Russian Federation Was
+Denied A Meaningful Opportunity To Be Heard (New York Convention, Articles
+V(1)(b), V(1)(d) And V(2)(b)) 26
+IV. Confirmation Of The Awards Should Be Refused Because The Tribunal’s Composition
+Violated The Agreement Of The Parties (New York Convention, Articles V(1)(d) And
+V(1)©)) 33
+V. Confirmation Of The Awards Should Be Refused Because The Tribunal’s Procedure Was
+
+Not In Accordance With The Agreement Of The Parties (New York Convention, Article
+V(1)@d)) 39
+
+CONCLUSION 40
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 6 of 47
+
+ 
+
+TABLE OF AUTHORITIES
+CASES
+
+Bonar v. Dean Witter Reynolds, Inc., 835 F.2d 1378 (11th Cir. 1988) wc cece eens 15
+Changzhou AMEC E. Tools & Equip. Co. v. E. Tools & Equip., Inc., Civ. No. 11-00354, 2012
+
+WL 3106620 (C.D. Cal. July 30, 2012), aff'd 571 F. App’x 609 (9th Cir. 2014) oo. ceeeeeee 17
+China Minmetals Materials Import and Export Co., Ltd. v. Chi Mei Corporation, 334 F.3d 274
+
+(3d. Cir. 2003) 13
+Commercial Union Ins. Co. v. Lines, 378 F. 3d 204 (2d Cir. 2004).....cccecececeseeeteceeeeeteeeeseteeeeseeee 17
+Commonwealth Coatings Corp. v. Continental Casualty Co., 393 U.S. 145 (1968) oo... 21
+
+Encyclopaedia Universalis SA v. Encyclopaedia Britannica, Inc., 403 F.3d 85 (2d Cir. 2005)......33
+
+Europcar Italia, S.p.A. v. Maiellano Tours, Inc., 156 F.3d 310 (2d Cir. 1998) oo... eee 15
+
+ 
+
+First State Ins. Co. v. Banco de Seguros Del Estado, 254 F.3d 354 (1st Cir. 2001)..
+
+ 
+
+ 
+
+ 
+
+Iran Aircraft v. Avco Corp., 980 F.2d 141 (2d Cir. 1992) ..ccccccccccceecteseeteseeteseeteseeeseeseseeeseeneaeenes 26
+Karaha Bodas Co. v. Perusahaan Pertambangan Minyak Dan Gas Bumi Negara, 364 F.3d 274
+
+(Sth Cir. 2004) 15, 26
+Kitchen v. Rayburn, 86 U.S. 254 (1873) 16, 21
+Laminoires-Trefileries-Cableries de Lens, S.A. v. Southwire Co., 484 F. Supp. 1063 (D. Ga.
+
+1980) 24
+Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth Inc., 473 U.S. 614 (1985) w.cccscccccsseseeteeees 17
+National Oil Corp. v. Libyan Sun Oil Co., 733 Fed. Supp. 800 (D. Del 1990) ......c.cecccecesteseeteeees 15
+Nicaragua v. United States, 1986 1.C.J. 14 (June 27, 1986) ....ccecececceeee ees es tees eeseneseneeeeeeeeteeees 14
+
+Paklito Investment Ltd. v. Klockner East Asia, Ltd., Supreme Court of Hong Kong (Jan. 15,
+1993), XIX Y.B. Comm. Arb. 664 27
+
+Perma Life Mufflers, Inc. v. Int'l Parts Corp., 392 U.S. 134 (1968) (Marshall, J., concurring in
+the result) 16
+
+Quiborax S.A. et al. v. Plurinational State of Bolivia, \CSID Case No. Arb/06/2, Partially
+Dissenting Opinion of Professor Brigitte Stern (Sep. 16, 2015)... cece cette 26
+
+-ii-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 7 of 47
+
+Safeway Stores, Inc. v. United Food and Commercial Workers Union, Local 400, 621 F. Supp.
+1233 (D.D.C. 1985) 22, 23
+
+ 
+
+Scherk v. Alberto-Culver Co., 417 U.S. 506 (1974) .
+
+ 
+
+Stolt-Nielsen S.A. et al. v. AnimalFeeds Int’l Corp., 559 U.S. 662 (2010)... ccceeeeeeeeeeseeeeeeeee 21
+Storer Broadcasting Co. v. Am. Fed'n of Television & Radio Artists
+
+600 F.2d 45 (6th Cir. 1979) 22
+TermoRio S.A. v. Electranta S.P., 487 F.3d 928 (D.C. Cir. 2007) ...ccceeeeceeee eects ceeeeeneneeeeeee 12
+
+Transmarine Seaways Corp. of Monrovia v. Marc Rich & Co., A.G., 480 F. Supp. 352 (S.D.N.Y.
+1991) 17, 21
+
+STATUTES, RULES AND INTERNATIONAL CONVENTIONS
+
+ 
+
+ 
+
+28 U.S.C. §§ 1602-1611 1,25
+1976 UNCITRAL Arbitration Rules 34, 39
+Civil Procedure Rules pt. 11 11
+
+ 
+
+Convention for the Recognition and Enforcement of Foreign Arbitral Awards, June 10, 1958, 21
+U.S.T. 2517, 330, U.N.T.S. 38, codified at 9 U.S.C. §§ 201-208 (2000), passim
+
+ 
+
+Energy Charter Treaty, 17 December 1994, 2080 U.N.T.S. 95, Reg. No. 36116... 4, 38, 39
+COMMENTARIES
+
+ALBERT JAN VAN DEN BERG, THE NEW YORK CONVENTION OF 1958: TOWARDS A UNIFORM
+JUDICIAL INTERPRETATION (1981) 13
+
+P. Bienvenu & M. Valasek, Compensation for Unlawful Expropriation, and Other Recent
+Manifestation of the Principle of Full Reparation in International Investment Law, in van den
+Berg (ed.),
+
+50 Years of the New York Convention (ICCA Congress Series vol. 14) (2009)............ 32, 37
+
+Sophie Nappert, Mammoth Arbitrations: the Yukos Awards of 18 July 2014, TRANSNATIONAL
+DISPUTE MANAGEMENT (TDM), Vol. 12, Issue 5 (Aug. 2015) ....c.scescessesseesesseeseesnesneseeneeseees 9, 24
+
+~ ili -
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 8 of 47
+
+INTRODUCTION
+
+In the separate, companion motion and supporting memorandum, the Russian Federation
+addresses why the Petition to Confirm Arbitration Awards (“Petition”) filed by Hulley
+Enterprises Ltd. (“Hulley”), Veteran Petroleum Ltd. (“Veteran”), and Yukos Universal Ltd.
+(“Universal”) should be dismissed for lack of subject-matter jurisdiction under the U.S. Foreign
+Sovereign Immunities Act (“FSIA”), 28 U.S.C. §§ 1602-1611, and Section 202 of Federal
+Arbitration Act (“FAA”), 9 U.S.C. § 202. In this motion and memorandum, the Russian
+Federation addresses why the three Interim Awards on Jurisdiction and Admissibility dated
+November 30, 2009 (the “Interim Awards”) and the three Final Awards dated July 18, 2014 (the
+“Final Awards” and, together with the Interim Awards, the “Awards”) issued by the arbitral
+tribunal in The Hague (the “Tribunal’”’) should be refused recognition and enforcement under
+Section 207 of the FAA, 9 U.S.C. § 207, pursuant to the Convention on the Recognition and
+Enforcement of Foreign Arbitral Awards (the “New York Convention”).!
+
+The Court need not reach the New York Convention issues herein until it decides the
+jurisdictional issues raised in the companion motion. Should the Court decide that subject-matter
+jurisdiction exists, it nonetheless should deny confirming the Awards for the following reasons.
+
+First, confirmation of the Awards should be denied pursuant to New York Convention
+Art. V(1)(A) because there was no agreement to arbitrate. As discussed fully in the
+memorandum of law supporting the Jurisdictional Motion (“Jurisdictional Brief” or “Jur’] Br.”),
+
+the Russian Federation did not offer or consent to arbitrate with Petitioners. Therefore, the
+
+" Convention for the Recognition and Enforcement of Foreign Arbitral Awards, June 10, 1958, 21 U.S.T. 2517, 330, U.N.TS. 38,
+codified at 9 U.S.C. §§ 201-208 (2000). Copies of the Interim Awards are included at Gaillard Decl., Ex. D (Dkt. #
+(Dkt. #2-5), Ex. F (Dkt.#2-6). Copies of the Final Awards are included at Gaillard Decl., Ex. A (Dkt. #2-1); Ex. B
+(Dkt. # 2-2), Ex. C (Dkt. # 2-3).
+
+ 
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 9 of 47
+
+Tribunal had no jurisdiction, and its Awards are a nullity. There is therefore nothing for this
+Court to confirm, recognize or enforce.
+
+Second, confirmation of the Awards should be denied pursuant to New York Convention
+Art. V(2)(b) because confirmation of the Awards would be repugnant to the public policy of the
+United States in several ways. First, the Petitioners violated their duty of candor to the Tribunal
+by not revealing their true identities, the fraud which they perpetrated to obtain their investment
+and their deceit concerning operation in violation of law. That lack of candor continues before
+this Court. Deceived as to Petitioners’ true relationship with a handful of Russian oligarchs, the
+arbitrators condoned Petitioners’ fraud and illegal conduct and rewarded the oligarchs with a $50
+billion dollar award for an investment that they obtained fully financed and spent years
+exploiting to extract hundreds of millions of dollars out of the sale of Russia’s natural resources.
+
+In finding the Russian Federation liable, the arbitrators also exhibited bias and prejudice
+and openly sought to punish the Russian Federation for exercising its police powers to enforce its
+tax laws and prosecute Petitioners’ tax evasion and other unlawful schemes.
+
+Third, confirmation of the Awards should be denied pursuant to New York Convention
+Arts. V(1)(b), V(1)(d), and V(2)(b) because the awards were rendered in utter disregard of the
+Russian Federation’s most basic due process right, its right to be heard and present its defense.
+Despite repeated requests by the Russian Federation, the Tribunal did not provide the parties the
+opportunity to comment on the arbitrary valuation methodology it used to arrive at the $50
+billion damages Awards — the largest arbitration awards in modern times.
+
+Fourth, confirmation of the Awards should be denied pursuant to New York Convention
+Arts. V(1)(d) and V(1)(c) because the arbitral authority was irregularly composed and the
+
+arbitrators disregarded their mandate to decide the dispute personally. In violation of the
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 10 of 47
+
+agreement of the parties, and their legitimate expectations as to the process, the Tribunal allowed
+a third party — presented as an administrative assistant — to act as a de facto fourth arbitrator and
+play a critical role in substantive aspects of the proceedings.
+
+Finally, confirmation of the Awards should be denied pursuant to New York Convention
+Art. V(1)(d) because the arbitral procedure was not in accordance with the agreement of the
+parties. In disregard of that agreement, the Tribunal declined to refer the question of whether
+Yukos’s tax assessments were expropriatory and discriminatory to the tax authorities of Cyprus,
+England and Russia, brushing aside its clear obligation to make such a referral as an “exercise in
+
+futility”.
+
+BACKGROUND
+
+The background to this case is described at length in the companion Jurisdictional Brief.
+It establishes, among other things, that (1) the Petitioners are shell companies; (2) the Russian
+oligarchs that own and control Petitioners (“Oligarchs”) fraudulently obtained the shares and
+assets of OAO Yukos Oil Company (“Yukos”) in the 1995 “Loans for Shares” program; (3)
+between 1995 and 2004 the Oligarchs continued to conceal their ownership of those shares by
+transferring them to on- and off-shore shells, including ultimately to Petitioners, in furtherance of
+their fraud, tax evasion, and other unlawful schemes; (4) by December 2003, Russia issued a
+series of tax assessments to Petitioners that were authorized under Russian law; and (5)
+Petitioners’ contention that the Russian Federation’s enforcement of its own laws was
+“politically motivated” was firmly rejected by the European Court of Human Rights (“ECHR”).
+The Jurisdictional Brief also describes the Petitioners’ lack of candor to the Tribunal about their
+connections to the Oligarchs’ fraud. This memorandum describes the underlying arbitration
+
+proceedings that led to the Awards and the pending post-arbitration proceedings in various
+
+-3-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 11 of 47
+
+jurisdictions. In short, the staggering Awards were the product of a flawed process, rendered in
+violation of fundamental rules of procedure and not enforceable under the New York
+Convention.
+L The Arbitrations
+
+A. The Tribunal Followed A Faulty Process
+
+The arbitral proceedings at issue were unusual and flawed in many respects. First, they
+were commenced under a treaty that was never ratified by the Russian Federation and only
+provisionally applied by the treaty’s own terms. Second, they involved numerous findings of
+fraudulent schemes by Petitioners and the Oligarchs that were given no legal effect. Third, the
+Tribunal was clearly influenced by claims of “political motivation” that were irrelevant to the
+issues before the Tribunal, as recognized by the ECHR. Fourth, the Tribunal failed to allow the
+parties to be heard when it calculated $50 billion in damages by means of an arbitrary, mix-and-
+match method that none of the parties put forth and that was bound to be inaccurate by design.
+
+Petitioners initiated three arbitrations against the Russian Federation in The Hague in the
+Netherlands (the “Arbitrations”) in November 2004, alleging that the Russian Federation had
+expropriated their investments in Yukos. See Ex. R-443, Ex. R-444, Ex. R-445 (Petitioners’
+Notices of Arbitration). The three proceedings, which were conducted in parallel, were brought
+under the Energy Charter Treaty (the “ECT”), a treaty that the Russian Federation signed,
+provisionally applied pursuant to its Article 45(1), but never ratified. See Interim Awards, {| 37.
+
+A three-member Tribunal was appointed to hear the dispute. On October 31, 2005, a
+preliminary procedural conference was convened in The Hague. The parties and the Tribunal
+executed the Tribunal’s Terms of Appointment, agreeing that the Arbitrations would be
+governed by the 1976 UNCITRAL Arbitration Rules. See Ex. R-320 (Terms of Appointment), {[
+
+? Energy Charter Treaty, 17 December 1994, 2080 U.N.T.S. 95, Reg. No. 36116.
+
+-4-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 12 of 47
+
+A(a). The parties and the Tribunal also agreed that the International Bureau of the Permanent
+Court of Arbitration (the “PCA”) in The Hague would act as the Registry. Jd. [ 7. The Terms of
+Appointment provided that “[t]he Tribunal may appoint a member of the Registry to act as
+Administrative Secretary” and specified that “[t]he Administrative Secretary and other members
+of the International Bureau [of the PCA] shall carry out administrative tasks on behalf of the
+Tribunal.” Jd. { 7(c). Mr. Brooks Daly of the PCA was appointed Administrative Secretary. Ex.
+R-321 (Transcript of October 31, 2005 Hearing), at 9:21-10:8.
+
+At the end of the procedural conference, the Chairman of the Tribunal advised the parties
+that “I have asked one of my colleagues in my office in Montreal to assist me in the conduct
+of this case.” Ex. R-321 (Transcript of October 31, 2005 Hearing), at 92:21-93:8. The Chairman
+explained that “[b]ecause, like all of us, I travel a lot, if at any time I am unreachable,
+you could always contact him. ... It may come to pass that you wish to find out something
+with respect to the tribunal that Brooks Daly might not be aware of. Martin [Valasek] at my
+office in Montreal could be reached and hopefully will have the answer for you.” Id. The role of
+Mr. Valasek was not specified further, but was to prove of critical importance later.
+
+The Russian Federation challenged the Tribunal’s jurisdiction, notably on the basis that it
+had never ratified the ECT. In three Interim Awards on Jurisdiction and Admissibility (the
+“Interim Awards”) dated November 30, 2009, the Tribunal rejected all but one of the Russian
+Federation’s objections and deferred consideration of the remaining objection. See Interim
+Awards. The case then proceeded to the merits phase with the remaining jurisdictional question
+
+outstanding.
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 13 of 47
+
+During the merits phase, the Tribunal considered and found that Petitioners and their
+owners had engaged in fraudulent and unlawful activities. In particular, the Tribunal recognized,
+among other things:
+
+e The Petitioners are mere shell entities beneficially owned by the Oligarchs. See
+Final Awards, p. xv;
+
+¢ There were irregularities and possible illegalities in connection with the Loans for
+Shares auction in 1995, whereby the Oligarchs acquired their interests in Yukos;
+
+¢ The Petitioners had made fraudulent tax filings. See id. { 1620;
+
+¢ The Petitioners and Yukos engaged in “sham-like” transactions in low tax regions
+of Russia and “material and significant mis-conduct.” See id. [[ 1404, 1637;
+
+e Yukos had failed to file proper VAT returns. See id. {| 596, 694.
+
+Because the issues pertaining to damages were complex, the Russian Federation early-on
+requested that the arbitration be bifurcated into liability and damages phases. The Tribunal
+declined to do so, even though the parties noted that the analysis would be complicated. See Ex.
+R-441 (Procedural Order No. 10), {{ 4-5 (deferring decision on bifurcation), Ex. R-442
+(Procedural Order No. 11) (rejecting bifurcation).
+
+Petitioners put forth their damages calculation in the form of a report and analysis
+supplied by their valuation expert, Mr. Brent Kaczmarek. The Russian Federation countered
+with critiques of Mr. Kaczmarek’s analysis by Professor James Dow. The Tribunal rejected Mr.
+Kaczmarek’s valuations and Petitioners’ request for $114 billion. See Final Awards, {| 1760-62;
+1777-1812; Expert Report of Professor James Dow dated October 20, 2015 (“Dow Op.”), {[ 40-
+
+59.
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 14 of 47
+
+Despite rejecting the available methodologies, the Tribunal did not return to the parties or
+their experts for further briefing and analysis. Instead, the Tribunal, without consulting any
+valuation expert, embarked on its own analysis that was not guided by any known or accepted
+method of valuation and was never revealed to the parties for comment. The Tribunal never
+once allowed the parties to be heard on the lengthy and complex analysis it performed. The
+results were — predictably — grossly erroneous. Dow Op., {I{[ 22-25.
+
+Finally, it became clear in the end that the Tribunal’s decision was unduly influenced by
+Mr. Valasek, who the parties did not appoint as an arbitrator and had assumed was performing
+only ministerial tasks. It emerged after the Final Awards were rendered that Mr. Valasek had
+billed in excess of $1 million (€970,562.50) to the case. See Final Awards, { 1863. After the
+Russian Federation made inquiries, the PCA disclosed that Mr. Valasek had billed over 3,000
+hours, considerably more than any of the arbitrators. See Ex. R-438 (Respondent’s Letter to
+PCA dated September 9, 2014); Ex. R-316 (PCA’s Letter to Respondent dated October 6, 2014).
+A detailed linguistic and statistical analysis of the Final Awards has now established that
+Mr. Valasek had a significant hand in the drafting of the Final Awards. See Ex. R-251 (Report
+of Dr. Carole Chaski dated September 11, 2015).
+
+B. The Tribunal’s Faulty Process Led To Egregiously Erroneous Results
+
+The Tribunal issued its Final Awards on July 18, 2014. Despite finding, consistent with
+the ruling of the ECHR, that Petitioners had engaged in tax evasion on a massive scale, the
+Tribunal nonetheless turned a blind eye and held that Petitioners’ claims were not barred
+because, according to the Tribunal, the doctrine of “‘unclean hands’ does not exist as a general
+principle of international law. . .” See Final Awards, { 1363. The Tribunal further declined even
+to consider the fraud and illegalities connected to the acquisition of Yukos because these
+
+“involved Bank Menatep and the Oligarchs, an entity and persons separate from Claimants, one
+
+-7-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 15 of 47
+
+of which—Veteran—had not even come into existence.” Jd. J 1369-70. The Tribunal so
+concluded even though Petitioners did not contest in the Arbitrations, and the Tribunal confirmed
+elsewhere, that the “Oligarchs” — Mr. Khodorkovsky and his group, are the ultimate beneficial
+owners of Petitioners. Jd. p. xv (defining “Oligarchs” as “the individuals who have or had a
+beneficial interest in the trusts behind Claimants, namely Messrs. Khodorkovsky, Lebedev,
+Nevzlin, Dubov, Brudno, Shakhnovsky, and Golubovitch”). Petitioners’ deception as to their
+corporate structure that commenced against the Russian Federation in 1995 continued and
+deceived the Tribunal. The evidence now indicates to the contrary. Their continued omission of
+the relevant facts deprived the Tribunal of the key links in the record as to Petitioners real
+identity. The very oligarchs who illegally obtained their investment appear before the Court as
+Petitioners, as the witness statements of Messrs. Anilionis and Zakharov describe and Mr.
+Kothari demonstrates in his expert statement. See Jur’] Br. at Introduction, and Background §
+VI.
+
+On damages, the Tribunal ordered the Russian Federation to pay Petitioners in excess of
+$50 billion as damages and an additional $60 million in legal costs. See Final Awards, J 1888.
+As Counsel for Petitioners have acknowledged, the Awards were “by far the largest award ever
+rendered by an arbitral tribunal.” Ex. R-440 (Press Release dated July 28, 2014). The Tribunal
+effectively imposed a punitive amount of damages against a sovereign State for enforcing its
+own tax laws—a category of dispute the State specifically did not offer or consent to arbitrate
+under the ECT. The Tribunal awarded that unprecedented amount on the basis of its own
+arbitrary valuation method, without even purporting to hear the parties in this respect. The
+
+Tribunal’s method, which “mixes and matches” disparate and incompatible parts of the parties’
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 16 of 47
+
+valuation models, is non-standard and not one that had been discussed by the parties’ valuation
+experts or that could otherwise have been anticipated. See Dow Op., {ff 12-16.
+
+The Tribunal’s decision was clearly influenced by considerations beyond the evidence
+presented. Independent commentators have found the Tribunal’s liability findings “troubling”
+and many aspects of the Awards “surprising.” Sophie Nappert, Mammoth Arbitrations: the
+Yukos Awards of 18 July 2014, TRANSNATIONAL DISPUTE MANAGEMENT (TDM), Vol. 12, Issue
+5 (Aug. 2015), Ex. RLA-54, at 2-3. From the start of its analysis, the Tribunal proceeded on the
+basis of an “unwavering conviction that Russia’s actions towards Yukos were politically
+motivated and concerted to bring about Yukos’ destruction.” Jd. The Tribunal’s preconception
+in this respect stands in stark contrast with the ECHR’s findings that there was no evidence of
+such improper motivation and that court’s words of caution that “[iJ]t is often much easier for a
+politician to take a stand than for a judge, since the judge must base his decision only on
+evidence in the legal sense.” Case of Khodorkovskiy v. Russia, App. No. 5829/04, Judgment, {|
+257-59 (Eur. Ct. H.R. Nov. 28, 2011), Ex. R-434.
+
+IL. The Russian Federation Has Challenged The Awards In Multiple Jurisdictions
+
+The Russian Federation considers the Awards to be illegitimate and has commenced
+proceedings in the District Court of The Hague in the Netherlands, the seat of the Arbitrations, to
+have them set aside, because it never agreed to arbitrate with Petitioners and on account of other
+fundamental defects in the proceedings (the “Dutch Proceedings”). The Tribunal failed to
+uphold the rule of law: it allowed an arbitration to be brought by parties who are Russian
+nationals, obtained their alleged investment through fraudulent and illegal acts, and with whom
+Russia never consented to arbitrate. The Awards also were rendered with disregard to the
+legitimate exercise of the Russian Federation’s police power to enforce tax laws, which the
+
+Russian Federation had never consented to arbitrate. The Awards result in large part from the
+
+-9-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 17 of 47
+
+Petitioners’ continued deception of the Tribunal as to their nationality and the illegality of the
+means by which the ownership of Yukos was obtained.
+
+On November 10, 2014, the Russian Federation filed a 220-page Writ of Summons
+setting forth its arguments. See Ex. R-328. Petitioners filed their 309-page Statement of Defense
+on May 20, 2015. See Ex. R-331. The Russian Federation filed a 382-page Reply on September
+16, 2015. See Ex. R-319. The Dutch Proceedings are now approaching completion in the first
+instance: Petitioners are due to file a Rejoinder on December 16, 2015, a hearing is scheduled for
+February 9, 2016, and a judgment is expected in April 2016. See van den Berg Decl., {| 6.
+
+Notwithstanding the pendency of the Dutch Proceedings and the fundamental flaws in the
+Awards, Petitioners have commenced an aggressive campaign to enforce the Awards the world
+over, presumably with a view of straining the Russian Federation’s relationship with other
+sovereign nations. In Belgium, Petitioners caused the President of the Court of First Instance to
+deliver an ex parte enforcement (exequatur) order on June 24, 2015. The Russian Federation
+filed a “tierce opposition” on July 31, 2015 requesting that the exequatur order (i) be declared
+null and void and (ii), as a provisional measure, be suspended pending the determination of the
+Russian Federation’s opposition. Hearings on the requests for provisional measures and for a
+declaration that the exequatur order is null and void are expected in March and October or
+November 2016, respectively.
+
+In France, Petitioners obtain a similar ex parte enforcement order on December 1, 2014,
+which was served on the Russian Federation in March 2015. The Russian Federation filed an
+interim measures motion on August 13, 2015 to stay enforcement pending a hearing on the
+merits of the ex parte order. The Russian Federation’s first brief on the merits of the ex parte
+
+order is due to be filed on November 3, 2015; Petitioners’ response is due on March 3, 2016.
+
+-10-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 18 of 47
+
+The dates for submission of the parties’ second briefs have not yet been set. A hearing on the
+motion to stay is scheduled for December 3, 2015. In the interim, Petitioners have initiated a
+wide-ranging and vigorous campaign to seize assets purported to be those of the Russian
+Federation in France. Between June and July 2015, about 150 seizures were made in France.
+
+In the United Kingdom, Petitioners submitted an application to the English courts on
+January 30, 2015 for recognition of the Final Awards against the Russian Federation in England
+(the “Claim’”). On February 4, 2015 the English Court made an order permitting Petitioners to
+serve the Claim on the Russian Federation outside of the Jurisdiction of England and Wales. The
+Claim was then served on the Russian Federation through diplomatic channels on April 24, 2015.
+The deadline for the Russian Federation to serve either a challenge to the jurisdiction of the
+English courts or its defence was initially August 10, 2015. Following negotiations with the
+solicitors acting for the Petitioners, the parties agreed a revised timetable and, in accordance with
+that timetable, the Russian Federation filed and served an application under the Civil Procedure
+Rules Part 11 (“CPR Part 11 Application”) on September 25, 2015. The CPR Part 11
+Application is a challenge to the jurisdiction of the English courts to hear the Claim. This
+application is based on the Russian Federation’s sovereign immunity under the State Immunity
+Act 1978. The English Court has scheduled a procedural hearing, which is called a ‘Case
+Management Conference’ or ‘CMC’ for December 9, 2015, at which a timetable for procedural
+steps, like document disclosure, for the determination of the CPR Part 11 Application will be set.
+The substantive hearing of the CPR Part 11 Application is scheduled to take place not earlier
+than November 28, 2016, with a time estimate of 12 days.
+
+Tf, following the CPR Part 11 Application, the English Court determines that it does have
+
+jurisdiction, it will only then proceed to consider whether or not Petitioners should be granted an
+
+-1ll-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 19 of 47
+
+order for the enforcement of the Awards in England. That, in turn, would require further
+submissions by the parties on the relevant grounds for refusing enforcement pursuant to section
+103 of the Arbitration Act (which is based on the relevant provisions of the New York
+Convention).
+
+ARGUM
+
+  
+
+Petitioners seek confirmation of the Awards under the New York Convention. Petition {]
+3. Pursuant to Section 207 of the FAA, an application to the Court to confirm “an arbitral award
+falling under the [N.Y.] Convention” should be denied if the Court “finds one of the grounds for
+refusal or deferral of recognition or enforcement of the award specified in the Convention.” 9
+U.S.C. § 207; TermoRio S.A. v. Electranta S.P., 487 F.3d 928, 934 (D.C. Cir. 2007) (“[T]he New
+York Convention enumerates specific grounds upon which a court may refuse recognition and
+enforcement of an arbitration award.”).
+
+Article V of the New York Convention lists the grounds for refusal of recognition and
+enforcement of a foreign award. Those grounds include, inter alia, where (i) the agreement to
+arbitrate “is not valid under the law to which the parties have subjected it or, failing any
+indication thereon, under the law of the country where the award was made” (Article V(1)(a));
+(ii) “[t]he party against whom the award is invoked was not given proper notice of the
+appointment of the arbitrator or of the arbitration proceedings or was otherwise unable to present
+his case” (Article V(1)(b)); (ii) “[t]he composition of the arbitral authority or the arbitral
+procedure was not in accordance with the agreement of the parties, or, failing such agreement,
+was not in accordance with the law of the country where the arbitration took place” (Article
+V(1)(d)); or (iii) “[t]he recognition or enforcement of the award would be contrary to the public
+
+policy of that country” (Article V(2)(b)).
+
+-12-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 20 of 47
+
+As noted in the Introduction and discussed below, confirmation should be denied on
+several grounds under Article V.
+
+L The Awards Are A Nullity Because The Russian Federation Never Agreed To
+Arbitrate With Petitioners (New York Convention, Article V(1)(a))
+
+Article V(1)(a) of the New York Convention provides that a court may decline to
+recognize or enforce a foreign award when the agreement to arbitrate “is not valid under the law
+to which the parties have subjected it or, failing any indication thereon, under the law of the
+country where the award was made.” The phrase “‘is not valid” is interpreted by U.S. and foreign
+courts to include the existence of an agreement to arbitrate. E.g., China Minmetals Materials
+Import and Export Co., Ltd. v. Chi Mei Corporation, 334 F.3d 274, 286-87 (3d. Cir. 2003)
+(holding that forgery of the contract including the arbitration clause is a ground for denying
+enforcement under the New York Convention and explaining that “[rJead as a whole, therefore,
+the Convention contemplates that a court should enforce only valid agreements to arbitrate and
+only awards based on those agreements.”); see also ALBERT JAN VAN DEN BERG, THE NEW YORK
+CONVENTION OF 1958: TOWARDS A UNIFORM JUDICIAL INTERPRETATION 287 (1981) (noting that
+“one of the matters of invalidity of the arbitration agreement under the law applicable to it could
+be the lack of consent. . .”) (emphasis in original).
+
+For the reasons discussed in the Jurisdictional Brief, there was no agreement to Arbitrate
+between the Russian Federation and Petitioners. Jur’] Br. Argument § I.B.2._ The lack of an
+agreement to arbitrate, let alone a valid agreement, means the Court can refuse recognizing and
+enforcing the Awards under Article V(1)(a) of the New York Convention.
+
+IL. Confirmation Of The Awards Would Be Contrary To The Public Policy Of The
+United States (New York Convention, Article V(2)(b))
+
+Pursuant to Article V(2)(b) of the New York Convention, a court of the country where
+
+recognition or enforcement of a foreign award is sought may decline to do so if “recognition or
+
+-13-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 21 of 47
+
+enforcement of the award would be contrary to the public policy of that country.” Confirmation
+of the Awards would violate the public policy of the United States for at least four separate
+reasons.
+
+A. Petitioners Violated Their Duty Of Candor To The Tribunal
+
+As detailed in Background Section VI of the Jurisdictional Brief, the Petitioners omitted
+any reference in the arbitration to the series of prior transactions through various corporate shell
+entities by which the Oligarchs deceptively “laundered” their original fraud. Petitioners thereby
+hid from the Tribunal that the Oligarchs, who remained in continuous ownership and control of
+the Yukos shares, had illegally obtained them. Petitioners’ shares in fact were obtained through
+systematic rigging of the Loan-for-Shares auctions, concealment of the true identity of the
+bidders, and deceit as to the legitimacy of the competition. Petitioners failed to disclose that the
+owners and investors at all times were Russian nationals, and that the Oligarchs created
+multitudes of shell companies between themselves and Petitioners to obscure their collusive
+activity. This lack of candor directly led to key findings by the Tribunal, including that
+Petitioners’ alleged investment was insufficiently linked to the Oligarchs’ fraud to exclude it
+from protection of the treaty. See Final Awards, {| 1370.
+
+It is firmly established that parties to international legal proceedings and_ their
+representatives are under a duty of candor to the court or tribunal. See Expert Opinion of
+Professor Rudolph Dolzer (“Dolzer Op.”), {J 313-21; see also Nicaragua v. United States, 1986
+LC.J. 14 (June 27, 1986) (dissenting opinion of Judge Schwebel), Ex. RLA-52, {| 27 (“Deliberate
+misrepresentations by the representatives of a government party to a case before this Court
+cannot be accepted because they undermine the essence of the judicial function.”); International
+
+Bar Association, IBA Guidelines on Party Representation in International Arbitration (May 25,
+
+-14-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 22 of 47
+
+2013), Ex. RLA-51, Guideline § 9 (“A Party Representative should not make any knowingly
+false submission of fact to the Arbitral Tribunal.”).
+
+U.S. courts have recognized that “[e]nforcement of an arbitration award may be refused
+[under the New York Convention] if the prevailing party furnished perjured evidence to the
+tribunal or if the award was procured by fraud.” Karaha Bodas Co. v. Perusahaan
+Pertambangan Minyak Dan Gas Bumi Negara, 364 F.3d 274, 306 (Sth Cir. 2004); Europcar
+Italia, S.p.A. v. Maiellano Tours, Inc., 156 F.3d 310, 315 (2d Cir. 1998) (observing that “the
+issue of a fraudulently obtained arbitration ... award” is one “which might violate public policy
+and therefore preclude enforcement”). Willful non-disclosure of material evidence constitutes
+fraud justifying non-enforcement. See National Oil Corp. v. Libyan Sun Oil Co., 733 Fed. Supp.
+800, 814 (D. Del 1990) (“Intentionally giving false testimony in an arbitration proceeding would
+constitute fraud.”); Bonar v. Dean Witter Reynolds, Inc., 835 F.2d 1378, 1383-85 (11th Cir.
+1988) (vacating award affected by claimant’s expert perjury as to his credentials).
+
+In this case, the fraud was manifest. For example, during the arbitration, Petitioners
+nebulously represented to the Tribunal that they had “first purchased Yukos Shares in 1999,”
+and that the shares had originated with “a variety of companies (‘the original sellers’).” Ex. R-
+437, { 296 (Hulley Rejoinder on Jurisdiction) (emphasis added). Petitioners failed to disclose
+that all of these supposed “original sellers,” i.e., Hawksmoor, Avimore, Ebon Crown, Medusa
+Shipping, and Kandall, were “shelf” companies owned by RTT and controlled by its employees,
+who had been directed to purchase them on behalf of the Oligarchs. See Zakharov Decl. ff 12-
+13; Anilionis Decl. {| 29-30; Kothari Op. {| 18-21 and Table 2. Petitioners also asserted that,
+when Mr. Gulin signed contracts on behalf Hulley Enterprises Ltd., “Mr. Gulin was acting
+
+pursuant to a Power of Attorney issued to him by [Hulley Enterprises Ltd.] (and executed by
+
+-15-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 23 of 47
+
+[Hulley Enterprises Ltd.’s] two Cypriot directors).” Ex. R-437, J 365 n. 553 (Hulley Rejoinder
+on Jurisdiction). Petitioners failed to reveal that Mr. Gulin, like all other RTT employees, in fact
+acted as an agent of the Oligarchs. Mr. Anilionis, who took secret instructions exclusively from
+the Oligarchs and implemented them, was at all times required to keep confidential the
+Oligarch’s control of RTT and its related companies. See Anilionis, {J 9-15.
+
+These omissions were critical. The Tribunal acknowledged that Petitioners could have
+been “barred from seeking relief under the ECT” if their investment was made “in bad faith or in
+violation of the laws of the [Russian Federation].” Final Awards, { 1364. The Tribunal
+moreover agreed that if Petitioners’ investment was the culmination of a “series of transactions”
+that was “sufficiently connected” to the illegal acquisition of the Yukos shares in 1995 and 1996,
+their claims might be barred.
+
+The Tribunal agrees with Respondent that an examination of the
+legality of an investment should not be limited to verifying
+whether the last in a series of transactions leading up to the
+investment was in conformity with the law. The making of the
+investment will often consist of several consecutive acts and all of
+these must be legal and bona fide. Final Awards, {[ 1369.
+
+The Tribunal, however, declined to reach any conclusions regarding the allegations of
+illegality, reasoning that the illegal transactions “connected to the acquisition of Yukos” in 1995
+and 1996 “involved Bank Menatep and the Oligarchs, an entity and persons separate from
+[Petitioners].”_ Final Awards, { 1370 (emphasis added). As explained in detail in the
+Jurisdictional Brief, the Tribunal was misled in reaching this conclusion. Jur’] Br. Background §
+
+VI.
+
+B. The Awards Condone Serious Fraud And Illegality By Petitioners And Their
+Affiliates
+
+In the United States, “a court will not lend its power to assist or protect a fraud.” Kitchen
+
+v. Rayburn, 86 U.S. 254, 263 (1873). “The principle that a wrongdoer shall not be permitted to
+
+-16-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 24 of 47
+
+profit through his own wrongdoing is fundamental in our jurisprudence.” Perma Life Mufflers,
+Inc. v. Int'l Parts Corp., 392 U.S. 134, 151 (1968) (Marshall, J., concurring in the result).
+
+This “judicial policy of refusing to ‘lend [the court’s] power to assist or protect a fraud”
+requires a court to refuse to confirm an arbitral award where “the arbitrators have found fraud” or
+“deceit” explicitly, and yet nonetheless “allowed [the fraudulent party] to benefit from this
+fraud.” Commercial Union Ins. Co. v. Lines, 378 F. 3d 204, 208-09 (2d Cir. 2004) (reversing
+confirmation of the awards and remanding to the district court to consider if confirmation would
+“violate the court’s equitable principles”). Likewise, courts refuse to confirm as against public
+policy foreign awards enforcing agreements obtained through irregular means such as duress or
+coercion. See Changzhou AMEC E. Tools & Equip. Co. v. E. Tools & Equip., Inc., Civ. No. 11-
+00354, 2012 WL 3106620, at *19 (C.D. Cal. July 30, 2012) (refusing to confirm under Article
+V(2)(b) a foreign award based on an agreement exacted under duress), aff'd 571 F. App’x 609
+(9th Cir. 2014); Transmarine Seaways Corp. of Monrovia v. Marc Rich & Co., A.G., 480 F.
+Supp. 352, 358 (S.D.N.Y. 1991) (“Agreements exacted by duress contravene the public policy of
+the nation, and accordingly duress, if established, furnishes a basis for refusing enforcement of
+an award under Article V(b)(2) of the Convention.”) (citation omitted).
+
+The Supreme Court has made clear that, although arbitrators may hear cases involving
+allegations of serious fraud and illegality, an enforcing court may always consider under Article
+V(2)(b) whether the public interest has been appropriately addressed by the arbitrators. See
+Scherk v. Alberto-Culver Co., 417 U.S. 506, 519 n. 14 (1974) (“presumably the type of fraud
+alleged here [securities fraud] could be raised, under Art. V of the Convention on the
+Recognition and Enforcement of Foreign Arbitral Awards . . . in challenging the enforcement of
+
+whatever arbitral award is produced through arbitration.”); Mitsubishi Motors Corp. v. Soler
+
+-17-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 25 of 47
+
+Chrysler-Plymouth Inc., 473 U.S. 614, 638 (1985) (“Having permitted the arbitration to go
+forward [on matters involving allegations of antitrust violations], the national courts of the
+United States will have the opportunity at the award-enforcement stage to ensure [under Article
+V(2)(b)] that the legitimate interest in the enforcement of antitrust laws has been addressed’).
+
+Likewise, in international practice, “arbitral tribunals are not free to disregard allegations
+and evidence of fraud and illegality.” Expert Opinion of Professor George A. Bermann dated
+October 20, 2015 (“Bermann Op.”), { 140. To the contrary, “there is considerable authority for
+the proposition that an arbitral tribunal should, on its own motion, investigate suspicions of
+serious illegality.” Jd. “Fraud and illegality are considered to be such violations of public policy
+that international arbitral tribunals are expected to act upon any serious indications that fraud or
+illegality may have occurred .. .” Jd. A tribunal’s failure to do so justifies non-enforcement
+under Article V(2)(b) of the New York Convention. See id. See also Dolzer Op., { 321 (“To
+enforce awards resulting from a party’s deceit would run counter to the international principle of
+good faith and trans-national public policy because it would condone abusive conduct that is
+seriously prejudicial to the integrity of the international arbitral system.”).
+
+In the present case, this Court should refuse confirmation of the Awards because the
+Tribunal condoned Petitioners’ and their principals’ fraud in the acquisition and operation of
+Yukos, allowing them to benefit from their wrongdoing.
+
+The Oligarchs behind Petitioners — Mr. Khordorkovsky and his group — acquired control
+of Yukos — then a state-owned company — in the mid-1990s through a series of rigged auctions,
+collusive acts and other abuses of the “Loans-for-Shares” program. See Jur’] Br. Background
+§ II. Their activities were deliberately deceptive and hidden from the Russian Federation. Jur’]
+
+Br. Background § III. At the behest of its new owners, Yukos then engaged in fraud on a
+
+- 18 -
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 26 of 47
+
+massive scale, depriving the Russian Federation of billions of dollars in tax revenues. Jur’] Br.
+Background § IV. On that basis, because Petitioners were only a front for a criminal enterprise
+and the acquisition and operation of Yukos had from the outset been infected by widespread
+fraud and illegality, the Russian Federation argued in the Arbitrations that the claim should be
+barred and dismissed. See Final Awards, {[ 1283.
+
+The Tribunal agreed that the fraud and illegality in the acquisition of Yukos, if proven,
+would bar the claim. Jd. { 1352 (“An investor who has obtained an investment in the host State
+only by acting in bad faith or in violation of the laws of the host state, has brought itself within
+the scope of application of the ECT through wrongful acts. Such an investor should not be
+allowed to benefit from the Treaty.”). The Tribunal nonetheless declined to entertain the Russian
+Federation’s allegations on the basis that “the alleged illegalities connected to the acquisition of
+Yukos through the loans-for-shares program occurred in 1995 and 1996, at the time of Yukos’
+privatization. They involved Bank Menatep and the Oligarchs, an entity and persons separate
+from Claimants, one of which—Veteran—had not even come into existence.” Jd. {| 1369-70.
+The Tribunal made this finding while acknowledging elsewhere that Petitioners are mere shell
+entities beneficially owned by the “Oligarchs.” Jd. p. xv (defining “Oligarchs” as “the individuals
+who have or had a beneficial interest in the trusts behind Claimants, namely Messrs.
+Khodorkovsky, Lebedev, Nevzlin, Dubov, Brudno, Shakhnovsky, and Golubovitch”).> The
+evidence now submitted by the Russian Federation demonstrates that petitioners were actually
+owned from 1995 until the present by the Oligarchs. See Kothari Op. {| 22-44, Figures 1-3 &
+Tables 2-3; Zakharov Decl. {[ 12-15; Anilionis Decl. {{] 22-33.
+
+> The Tribunal also explicitly linked its finding that Petitioners had been unlawfully expropriated to the alleged expectations and
+treatment of these Oligarchs. Jd. {1578 (finding that, while Petitioners should have expected that “Yukos’ tax avoidance
+operations risked adverse reaction from the Russian authorities,” “not only did Mikhail Khodorkovsky not appear to expect to be
+arrested even after the arrest of Platon Lebedev, he and his colleagues surely could not have been expected to anticipate the
+rationale and immensity of the tax assessments and fines”), {| 1583 (finding that the expropriation of Yukos had not been “carried
+out under due process of law” in part because of “[t]he harsh treatment accorded to Messrs. Khodorkovsky and Lebedev”).
+
+ 
+
+-19-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 27 of 47
+
+Petitioners did not contest in the arbitrations, and the Tribunal confirmed, that Messrs.
+Khodorkovsky, Nevzlin, Lebedev, Dubov, Brudno and Shaknovsky — the “Oligarchs” — were, at
+all relevant times, the ultimate beneficial owners of Petitioners and that these individuals stand to
+receive any recovery on the Awards. See Ex. R-439 (Petitioners’ Letter to the Tribunal dated
+November 3, 2006); Final Awards, p. xv. By elevating form over substance, the Tribunal turned
+a blind eye to these individuals’ fraud, allowing them to benefit from their criminal activities by
+giving them $50 billion in arbitral awards.
+
+The Tribunal’s handling of Petitioners’ fraud in the operation of Yukos is equally
+troubling. In this respect, the Tribunal clearly recognized that Petitioners had engaged in
+widespread fraud and tax evasion. The Tribunal found that Petitioner Hulley Enterprises Limited
+appeared to have “falsely declared on Cypriot withholding tax forms that ‘income’—dividends
+from Yukos—‘was not connected with activities carried on in the Russian Federation’” — a prima
+facie abuse of the Cyprus-Russia Double Taxation Agreement — and in that manner avoided
+“hundreds of millions of dollars in Russian taxes.” See Final Awards, {| 1620-21. The Tribunal
+also acknowledged the “sham-like nature of some elements of [Yukos’s] operations in at least
+some of the low-tax regions notably in the ZATOs of Lesnoy and Trekhgorny.” Jd. { 1611. The
+Tribunal further found that “Yukos’ abuse of the low-tax regions by some of its trading entities,
+including its questionable use of the Cyprus-Russia [Double Taxation Agreement]” constituted
+“material and significant mis-conduct by Claimants and by Yukos (which they controlled).” Jd.
+{| 1634-37. The Tribunal’s findings in this respect echoed those of the European Court which,
+in two separate unanimous judgments, found that Yukos had engaged in tax evasion on a
+
+massive scale. See OAO Neftyanaya Kompaniya Yukos v. Russia, App. No. 14902/04, Judgment,
+
+- 20 -
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 28 of 47
+
+q 593 (Eur. Ct. H.R. Sept. 20, 2011), Ex. R-260; Khodorkovskiy and Lebedev v. Russia, Apps.
+Nos. 11082/06, 13772/05, Judgment, {| 786 (Eur. Ct. H.R. July 25, 2013), Ex. R-65.
+
+Despite these findings, the Tribunal again allowed Petitioners (and the individuals behind
+them) to get away scot-free. The Tribunal held that, notwithstanding their fraud, Petitioners’
+claim was not barred because, according to the Tribunal, the doctrine of “‘unclean hands’ does
+not exist as a general principle of international law. . .” See Final Awards, { 1363. The Tribunal
+decreased the damages awarded by 25% (supposedly for “contributory negligence”, but
+reflecting the contrived nature of the damages calculation itself), but nonetheless still awarded
+Petitioners the staggering sum of $50 billion. Jd. { 1637. The Tribunal’s elucidation of
+international law as ignoring the unclean hands doctrine was wrong. See Dolzer Op., {| 292-
+312. But, even if it were not, the doctrine of “unclean hands” and the principle that “‘a court will
+not lend its power to assist or protect a fraud” are firmly established in the public policy of this
+country. Kitchen v. Rayburn, 86 U.S. 254, 263 (1873). In these circumstances, confirmation of
+the Awards would violate this Court’s equitable principles.
+
+Cc. The Awards Evince The Tribunal’s Bias And Prejudice Against The Russian
+Federation
+
+“[A]ny tribunal permitted by law to try cases and controversies not only must be
+unbiased but also must avoid even the appearance of bias.” Commonwealth Coatings Corp. v.
+Continental Casualty Co., 393 U.S. 145, 150 (1968). It was not “the purpose of Congress to
+authorize litigants to submit their cases and controversies to arbitration boards that might
+reasonably be thought biased against one litigant and favorable to another.” Jd. For the purposes
+of Article V(2)(b) of the New York Convention, “[t]he Supreme Court’s elucidation of arbitral
+propriety in Commonwealth Coatings is a declaration of public policy.” Transmarine Seaways
+
+Corp. of Monrovia v. Marc Rich & Co. A.G., 480 F.Supp. 352, 357 (S.D.N.Y. 1979).
+
+-21-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 29 of 47
+
+Further, in the United States, the powers of arbitrators are not unfettered. A decision by
+arbitrators who ignore the record and “dispense their own brand of industrial justice” may be
+refused enforcement. See Stolt-Nielsen S.A. et al. v. AnimalFeeds Int’l Corp., 559 U.S. 662, 671
+(2010) (quoting Major League Baseball Players Ass'n v. Garvey, 532 U.S. 504, 509 (2001));
+Storer Broadcasting Co. v. Am. Fed'n of Television & Radio Artists, 600 F.2d 45, 48 (6th Cir.
+1979) (“It is apparent that rather than base his award on evidence in the record, the arbitrator
+‘dispense(d) his own brand of industrial justice.’ This he cannot do.”); Safeway Stores, Inc. v.
+United Food and Commercial Workers Union, Local 400, 621 F. Supp. 1233, 1241 (D.D.C.
+1985) (citing Storer Broadcasting Co. and holding that “if no support whatsoever exists” in the
+record, a court may vacate the award.).
+
+Here, the Awards are the product of systematic bias and prejudice against the Russian
+Federation. The bias and prejudice of the arbitrators are transparent in their result-oriented fact-
+finding, based not on record evidence of what the Russian Federation did, but on the arbitrators’
+own speculations as to what the Russian Federation might have done.
+
+For example, the Tribunal acknowledged that Yukos failed to file proper VAT returns,
+but nonetheless dismissed the Russian Federation’s contention that Yukos could have avoided
+the bulk of its WAT liability had it filed the required returns, on the basis that “the Russian
+Federation was determined to impose the VAT liability on Yukos, and would have done
+whatever was necessary to ensure that the VAT liability was imposed on Yukos” and that “it was
+Respondent’s intent to impose VAT liability on Yukos no matter what Yukos did.” See Final
+Awards, { 694. The Tribunal likewise brushed aside the Russian Federation’s observation that
+Yukos could have avoided being charged fines and penalties by paying, albeit under protest, the
+
+tax assessments on the basis that, “[a]s with the issue of VAT liability, the Tribunal is convinced
+
+-22-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 30 of 47
+
+that had Yukos done so, the Russian Federation would still have found a way or a reason to
+impose the fines on Yukos.” Id. { 750.
+
+The Tribunal again resorted to speculations to dismiss the Russian Federation’s
+contention that it was Yukos that had caused its own bankruptcy by failing to repay certain loans
+due to a syndicate of banks. The Tribunal accepted the Russian Federation’s evidence that
+“Yukos was in a position to pay off the balance of the A Loan and that its willful failure to do so
+contributed to the circumstances of its bankruptcy by leading SocGen to petition for it” (id. J
+1630), but nonetheless speculated that “[i]n view of the larger circumstances, it is difficult to
+conclude that, even if the A Loan had been paid, another ground for pushing Yukos into
+bankruptcy would not have been found.” Jd. {| 1625.
+
+The Tribunal likewise dismissed the argument that Yukos had caused its own demise by
+seeking to ward off prospective buyers of its production unit, Yuganskneftgaz (YNG), when it
+was auctioned to satisfy Yukos’s unpaid tax liabilities. While the Tribunal conceded that
+Yukos’s promise of a “lifetime of litigation” and its obtaining a TRO from a Texas court “may
+have resulted in a low winning bid” (id. { 1023), the Tribunal nevertheless again speculated that
+“Yukos’ ultimate fate would have been no different” and that “[i]ts demise may have been
+postponed, or the path to its demise altered in some minor way, but it would not have been
+avoided.” Id. J 1631.
+
+Finally, the Tribunal again resorted to speculations to conclude that the actions of
+Russian oil company Rosneft, including its bidding at the bankruptcy auction of Yukos, could be
+attributed to the Russian Federation. The Tribunal observed that “it may well be that in taking
+those actions, Rosneft did so at the sub rosa direction of the Russian State,” but acknowledged
+
+that “proving that admittedly is elusive, in the absence of an inculpatory admission on behalf of
+
+-23-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 31 of 47
+
+the Russian State . . .” Jd. { 1474. The Tribunal nonetheless concluded that “while proof of
+specific State direction is lacking, it may reasonably be held that the highest officers of Rosneft
+who at the same time served as officials of the Russian Federation in close association with
+President Putin acted in implementation of the policy of the Russian Federation.” Jd. { 1480.
+For all of these conclusions—the premises for a $50 billion award—one searches in vain for a
+cite to real evidence.
+
+As commentators have noted, the arbitrators’ findings are “troubling.” Sophie Nappert,
+Mammoth Arbitrations: the Yukos Awards of 18 July 2014, TRANSNATIONAL DISPUTE
+MANAGEMENT (TDM), Vol. 12, Issue 5 (Aug. 2015), Ex. RLA-54, at 2-3. From the start of their
+analysis, the arbitrators proceeded on the basis of an “unwavering conviction that Russia’s
+actions towards Yukos were politically motivated and concerted to bring about Yukos’
+destruction.” Jd. at 2-3. | That preconception stands in stark contrast with the findings of the
+European Court of Human Rights, which rejected both Yukos’s claim that its tax assessments
+were politically motivated and Mr. Khodorkovsky’s claim that the charges brought against him
+were likewise politically motivated. See OAO Neftyanaya Kompaniya Yukos v. Russia, App. No.
+14902/04, Judgment { 665 (Eur. Ct. H.R. Sept. 20, 2011), Ex. R-260; Khodorkovskiy and
+Lebedev v. Russia, Apps. Nos. 11082/06, 13772/05, Judgment {| 908 (Eur. Ct. H.R. July 25,
+2013), Ex. R-65.
+
+By ignoring the record and basing their decisions on speculations as to what the Russian
+Federation might have done, not what it did, the arbitrators displayed bias and partiality against
+the Russian Federation and “dispensed [their] own brand of industrial justice.” Confirmation of
+the Awards would be contrary to the public policy of this country and should be denied under
+
+Article V(2)(b) of the New York Convention.
+
+-24-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 32 of 47
+
+D. The Awards Purport To Punish The Russian Federation For Its Exercise Of
+Police Powers Within Its Territory
+
+Enforcement of a foreign award that is “penal rather than compensatory” is contrary to
+USS. public policy and must be refused under Article V(2)(b) of the New York Convention. See
+Laminoires-Trefileries-Cableries de Lens, S.A. v. Southwire Co., 484 F. Supp. 1063, 1069 (D.
+Ga. 1980) (declining confirmation under Article V(2)(b) of the New York Convention of a
+foreign award incorporating interest at a punitive rate). For that purpose, an award is penal, not
+compensatory, where it imposes “a sum of money which the law exacts by way of punishment
+for doing something that is prohibited or omitting to do something that is required to be done.”
+Id. This U.S. public policy applies even more emphatically with respect to sovereign States.
+The Foreign Sovereign Immunities Act thus expressly prohibits subjecting sovereign States to
+punitive damages. That statute, which is the sole basis on which a United States court may
+exercise jurisdiction over a foreign sovereign, provides that “a foreign state ... shall not be liable
+for punitive damages.” 28 U.S.C. § 1606.
+
+Here, for the most part, the Tribunal’s award of damages sought not to compensate
+Petitioners for the loss of their interest in Yukos, but to punish the Russian Federation. The
+Tribunal’s intent to punish the Russian Federation is clear in its award of costs. Based on the
+purported “egregious nature of many measures of Respondent which the Tribunal has found
+were in breach of the ECT,” the Tribunal awarded costs of $60 million against the Russian
+Federation. See Final Awards, {| 1886-87. That intent to punish is also transparent in the
+Tribunal’s calculations of damages. The Tribunal held that “in the case of an unlawful
+expropriation, as in the present case, Claimants are entitled to select either the date of
+expropriation or the date of the award as date of valuation.” Jd. { 1763. This holding had a
+
+dramatic impact — several dozens of billions of dollars — on the damages awarded to Petitioners.
+
+-~25-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 33 of 47
+
+The Tribunal found that the “total amount of Claimants’ damages,” calculated as of 19
+December 2004 (date of the expropriation), was $21.988 billion while the same loss, calculated
+as of 2014 (date of the awards), amounted to $66.694 billion. Jd. { 1826. The Tribunal based its
+award on that latter higher amount. /d.
+
+An approach which, on the sole basis that an expropriation was “unlawful” and “illegal,”
+results in awarding dozens of billions of dollars of additional damages is not remedial, but penal
+in nature. The Tribunal’s approach has recently been thoroughly criticized as a “solution which
+systematically applies the harshest damages on the Respondent State,” which is “biased in favor
+of the investors” and “resembles punitive damages, which are excluded in international law.”
+Quiborax S.A. et al. vy. Plurinational State of Bolivia, ICSID Case No. Arb/06/2, Partially
+Dissenting Opinion of Professor Brigitte Stern (Sep. 16, 2015), | 56, Ex. RLA-53. To that
+extent, confirmation of the Awards must be denied as contrary to public policy.
+
+Ill. Confirmation Of The Awards Should Be Refused Because The Russian Federation
+Was Denied A Meaningful Opportunity To Be Heard (New York Convention,
+Articles V(1)(b), V(1)(d) And V(2)(b))
+
+Pursuant to Article V(1)(b) of the New York Convention, a court may decline to
+recognize and enforce a foreign arbitral award if “[t]he party against whom the award is invoked
+. .. was otherwise unable to present his case.”
+
+In the United States, “[t]he defense provided for in Article V(1)(b) ‘essentially sanctions
+the application of the forum state’s standards of due process,’ and these due process rights are
+‘entitled to full force under the Convention as defenses to enforcement.’” Jran Aircraft v. Avco
+Corp., 980 F.2d 141, 145-46 (2d Cir. 1992). See also Karaha Bodas Co., L.L.C. v. Perusahaan
+Pertambangan Minyak Dan Gas Bumi Negara, 364 F.3d 274, 298-299 (Sth Cir. 2004); First
+State Ins. Co. v. Banco de Seguros Del Estado, 254 F.3d 354, 357 (1st Cir. 2001). In this
+
+respect, “[t]he fundamental requirement of due process is the opportunity to be heard ‘at a
+
+- 26 -
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 34 of 47
+
+meaningful time and in a meaningful manner.’” Avco Corp., at 146. (quoting Mathews v.
+Eldridge, 424 U.S. 319, 333 (1976)). On that basis, courts in the United States and elsewhere
+decline to enforce under the New York Convention awards that were rendered in disregard of the
+parties’ right to be heard. Avco Corp., at 146 (declining confirmation on the basis that the
+arbitral tribunal had “denied Avco the opportunity to present its claim in a meaningful manner”);
+Paklito Investment Ltd. v. Klockner East Asia, Ltd., Supreme Court of Hong Kong (Jan. 15,
+1993), XIX Y.B. Comm. Arb. 664, Ex. RLA-34 (declining confirmation of award based on
+findings of experts on which the respondent had had no opportunity to comment).
+
+Pursuant to Article V(1)(d) of the New York Convention, a court may further decline to
+recognize and enforce a foreign arbitral award if “the arbitral procedure was not in accordance
+with the agreement of the parties...” The 1976 UNCITRAL Arbitration Rules, which the
+parties agreed would govern the Arbitrations, provide in their Article 15(1) that, “[s]ubject to
+these Rules, the arbitral tribunal may conduct the arbitration in such manner as it considers
+appropriate, provided that the parties are treated with equality and that at any stage of the
+proceedings each party is given a full opportunity of presenting his case.” (Emphasis added.)
+
+The right to be heard, enshrined in Article V(1)(b) of the New York Convention and the
+1976 UNCITRAL Rules, is “a fundamental procedural principle applicable to international
+arbitral proceedings generally.” Bermann Op., { 48. “The requirements of due process, and
+notably the right to be heard, apply with as much force to questions of damages as to questions
+of liability.” Id. { 58. “The right to be heard in international arbitration is deemed so
+fundamental that its violation justifies declining recognition and enforcement not only under
+Article V(1)(b) of the New York Convention, but also as a matter of public policy under Article
+
+V(2)(b) of the Convention.” Jd. { 46. “A special preoccupation in international practice is the
+
+-27-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 35 of 47
+
+requirement that arbitral tribunals refrain from rendering a decision that comes as a ‘surprise’ to
+the parties because it is based upon considerations that were extraneous to their submissions and
+debate or on reasoning that they could not reasonably have anticipated.” Jd. { 51. In this
+context, “the right to be heard takes on special importance in international arbitration because
+parties enjoy little or no judicial review of an arbitral tribunal’s legal and factual
+determinations.” Id.
+
+Here, the Tribunal violated the Russian Federation’s right to be heard and rendered a
+surprise decision when it awarded over $50 billion on the basis of a nearly invented and
+hopelessly flawed valuation methodology that departed dramatically from the submissions and
+that could not have been reasonably anticipated by the parties.
+
+Petitioners sought compensation in excess of $114 billion for the value of their shares in
+Yukos and the dividends that they would have received but for the expropriation (plus pre-award
+interest). See Final Awards, {| 1694-1729. Petitioners asserted that their investment had
+effectively been expropriated on November 21, 2007, when Yukos was struck off the Russian
+register of legal entities, and valued their claim as of that date. Id. {| 1696.
+
+The date as of which a valuation is conducted — the valuation date — is the key factual
+premise of any damages calculation. See Dow Op. 39. Both sides informed the Tribunal that
+calculating damages as of a date other than November 21, 2007 would require further expert
+analysis. See Ex. R-446 (Respondent’s Submission on Bifurcation dated April 29, 2011), at {[ 22
+(noting that “[t]he Kaczmarek Report’s conclusion would be useless if the Tribunal were to
+conclude that a different valuation date (or dates) should apply.”), Ex. R-448 (Transcript of May
+9, 2011 Hearing), at 147:18-22 (Claimants’ counsel) (noting that “it is a lot more difficult to play
+
+with the dates . . . It is not something you can do in five minutes live but experts can do that.
+
+- 28 -
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 36 of 47
+
+They certainly can give you the right answer if you modify this and that parameter.”) and
+151:16-25 (Respondents’ counsel) (noting that “[a]ll the calculations that have been presented
+are forward looking as of a particular date ... If you change that date, . . . you have to go back
+in time and look at what were the expectations of the parties at that time, and without giving us
+the opportunity to do so in relation to particular liability determinations at a particular time, we
+would be significantly prejudiced.”). In his first report in the arbitrations, the Russian
+Federation’s expert, Professor Dow, thus explained that “the Tribunal’s ruling on what is or is
+not a treaty violation is a necessary prerequisite to a damages calculation.” Ex. R-324 (First
+Report of James Dow dated April 1, 2011), { 21. For that reason, the Russian Federation
+requested early in the proceedings that the Tribunal bifurcate the proceedings into successive
+liability and damages phases. See Ex. R-446 (Respondent’s Submission on Bifurcation dated
+April 29, 2011). The Tribunal declined to do so — twice. Ex. R-441 (Procedural Order No. 10),
+Ql 4-5, Ex. R-442 (Procedural Order No. 11).
+
+Ultimately, the Tribunal rejected the date of November 21, 2007 that Petitioners had used
+in their valuations and instead held that Yukos had been effectively expropriated as of December
+19, 2004, when its main production unit, YNG, was auctioned off. See Final Awards, {{] 1760-
+62. The Tribunal held that Yukos had to be valued as of that date (December 19, 2004) or as of
+the date of the awards (which, for that purpose, the Tribunal fixed as of June 30, 2014),
+whichever yielded the higher amount. Id. {| 1763-69; 1777. The Tribunal also rejected the
+entire valuation exercise propounded by Petitioners. In particular, the Tribunal found that the
+discounted cash flow (DCF) model proffered by Petitioners had been “influenced by [their
+expert]’s own pre-determined notions as to what would be an appropriate result.” Jd. { 1785. In
+
+other words, the model had been reverse engineered.
+
+29 -
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 37 of 47
+
+As a result of these determinations, the Tribunal was left without any reliable valuation of
+Petitioners’ interest in Yukos. Where key premises of the parties’ valuations, such as the
+valuation date, are modified, “it is standard practice for an arbitral tribunal to require further
+submissions.” Bermann Op., { 69. This is especially so where substantial claims are presented
+against a sovereign State. See id. { 50 (observing that “the right to be heard takes on even
+greater importance in investor-State arbitrations, since such cases implicate the sovereign State’s
+duty to protect the public interest”). The Tribunal did not do so, even though it faced a claim of
+$114 billion, the largest claim ever submitted to international arbitration (by far).
+
+Instead of requesting further submissions, and despite the parties’ warning that “‘it is a lot
+more difficult to play with the dates” than with any other variable, the Tribunal developed its
+own method to value Petitioners’ interest in Yukos as of the two valuation dates it had selected
+(December 19, 2004 or June 30, 2014). That method “mixes and matches disparate and
+incompatible parts of [Petitioners’] models, and [the Russian Federation’s] corrections to them,
+in ways that neither side proposed, endorsed or could have anticipated.” Dow Op., { 12. First, to
+calculate Yukos’s hypothetical equity value, the Tribunal purported to move an estimate of that
+value as of November 2007 backward and forward in time to the two valuation dates (2004 and
+2014). Dow Op., 13. The Tribunal did so by reference to an industry price index, the RTS Oil
+& Gas index (the “RTS Index”). Jd. Second, to calculate Yukos’s hypothetical dividends, the
+Tribunal did not base itself on the RTS Index. Jd. The Tribunal instead purported to calculate
+dividends from an unrelated source, namely, certain cash flows derived from Petitioners’ DCF
+models (which the Tribunal had earlier found were reverse engineered). Id.
+
+As summarized by Professor Dow in his expert statement submitted herewith:
+
+[T]he Tribunal developed a valuation method that was materially
+different from anything proposed by the parties, and could not
+
+-30-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 38 of 47
+
+have been foreseen by them. I did not have an opportunity to
+consider that valuation method. The Tribunal’s new method was
+seriously flawed, which led to serious and obvious defects in the
+Tribunal’s ultimate conclusions. After rejecting Claimants’
+valuations, the Tribunal did not return to the parties or the experts
+for assistance in developing an appropriate alternative damages
+analysis. Instead, without seeking any advice from any expert or
+party, the Tribunal invented its own alternative models and
+damages analysis. The results were substantively incoherent,
+inconsistent with any accepted valuation approaches and yielded a
+damages figure that was inflated by at least $20 billion due to
+double counting and other obvious errors.
+
+  
+
+Dow Op., 4. The Tribunal’s valuation method was not part of the methods used by the parties’
+valuation experts in their reports. /d., {| 12-16; Ex. R-326 (First Report of Brent Kaczmarek
+dated September 15, 2010); Ex. R-327 (Second Report of Brent Kaczmarek dated March 15,
+2012); Ex. R-324 (First Report of James Dow dated April 1, 2011) and Ex. R-325 (Second
+Report of James Dow dated August 15, 2012). Nor could that novel method have been
+reasonably anticipated by the Russian Federation. The three main valuation methods that
+Petitioners’ expert had used — discounted cash flow, comparable companies and comparable
+transactions — are standard and common valuation methods. Dow Op., 7. The disagreement
+between the experts in the Arbitrations “was not over the choice of valuation method but over the
+implementation of these valuation methods.” Jd. In contrast, the Tribunal’s method is not part
+of “standard valuation practice” taught in used by valuation practitioners. Dow Op., { 16.
+Professor Dow does not believe that “Tribunal’s method has ever been used or proposed in a
+valuation or damages context.” Id’
+
+Tellingly, the Tribunal itself acknowledged that the Russian Federation had not been
+
+afforded a sufficient opportunity to be heard. This use of the “RTS Index” was first suggested by
+
+* Several other aspects of the Tribunal’s valuation method departed materially from the parties” submissions and could not have
+been reasonably anticipated. These points have been discussed at length by the parties in the Dutch proceedings, and will not be
+repeated here. See Ex. R-328 (Writ of Summons), {{ 386-467, Ex. R-331 (Statement of Defense), {ff 491-596, and Ex. R-319
+(Statement of Reply), {{{ 380-476.
+
+ 
+
+-31-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 39 of 47
+
+Petitioners in a demonstrative exhibit submitted during closing arguments at the hearing. Dow
+Op., {| 58; Ex. R-436 (Transcript of Day 17 of Merits Hearing), at 18:16-25; Ex. R-433
+(Arbitration Exhibit C-1785). The Tribunal rejected the Petitioners’ calculations on the basis
+that “these figures were only introduced by Claimants at a very late stage of the proceedings
+(through demonstrative exhibits at the Hearing and in Claimants’ Post-Hearing Brief) and could
+therefore not be properly addressed by Respondent.” Final Awards, {| 1786 (emphasis added).
+The Tribunal nonetheless proceeded to use the RTS Index in part of its determination of Yukos’s
+equity value.
+
+Compounding the Tribunal’s disregard for the parties’ right to be heard is the fact that,
+unbeknownst to them, the Tribunal appears to have largely delegated to a third party the task of
+determining damages in this case. A linguistic analysis of the Final Awards produced in the
+Dutch Proceedings concludes that it is “extremely likely” (with a statistical degree of certainty
+above 98%) that the Tribunal’s assistant, Martin Valasek, wrote 71% of the damages section of
+the Final Awards (Section XII — The Quantification of Claimants’ Damages). See Ex. R-251
+(Report of Dr. Carole Chaski dated September 11, 2015). As explained further in the next
+section, Mr. Valasek was an associate (and then a partner) at the Tribunal Chairman’s law firm
+who had expressed distinctive views in publications on certain issues related to damages
+valuation that were squarely before the Tribunal in the Arbitrations. See P. Bienvenu & M.
+Valasek, Compensation for Unlawful Expropriation, and Other Recent Manifestation of the
+Principle of Full Reparation in International Investment Law, in van den Berg (ed.), 50 Years of
+the New York Convention (ICCA Congress Series vol. 14) (2009), Ex. RLA-S0, at 231. These
+
+same views are reflected in the Final Awards.
+
+-32-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 40 of 47
+
+The Tribunal’s failure to hear the parties on its valuation method had a dramatic impact
+on the amount of damages awarded. This is so because the Tribunal’s valuation method is
+flawed as a matter of economics (and for that further reason could not have been reasonably
+anticipated by the parties), and necessarily leads to under or over counting damages. See Dow
+Op., {| 17-19. In this case, the Tribunal’s method led it to assume, on the one hand, that
+Yukos’s equity value would have increased in line with the market (as reflected by the RTS
+Index) and, on the other hand, that Yukos’s dividends would have been far above the market. As
+a result, the Tribunal overstated damages by at least $20 billion. See id. {J 22-25.
+
+Because the Tribunal rendered a surprise decision on damages and did not afford the
+Russian Federation a meaningful opportunity to be heard on its damages methodology resulting
+in the largest damages award in history, confirmation of the Awards should be denied under
+Articles V(1)(b), V(1)(d) and V(2)(b) of the New York Convention.
+
+IV. Confirmation Of The Awards Should Be Refused Because The Tribunal’s
+Composition Violated The Agreement Of The Parties (New York Convention,
+Articles V(1)(d) And V(1)(c))
+
+Pursuant to Article V(1)(d) of the New York Convention, a court may decline to
+recognize and enforce a foreign arbitral award if the “composition of the arbitral authority . . .
+was not in accordance with the agreement of the parties.”
+
+USS. courts will not confirm a foreign award rendered by an arbitral authority that did not
+comport with the agreement of the parties. See Encyclopaedia Universalis SA v. Encyclopaedia
+Britannica, Inc., 403 F.3d 85, 91 (2d Cir. 2005) (refusing to confirm award because the tribunal
+did not “comport with [the] agreement’s requirements for how arbitrators are selected”).
+“Article V(1)(d) of the New York Convention itself suggests the importance of arbitral
+
+composition...” Id.
+
+- 33 -
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 41 of 47
+
+For similar reasons, the composition of the arbitral authority did not comport with the
+agreement of the parties because, without the parties’ consent, the Tribunal allowed Mr. Valasek,
+to act essentially as a fourth arbitrator and play a substantial and substantive role in the
+proceedings. Accordingly, the delegation to Mr. Valasek also justifies refusal to recognize and
+enforce the Awards under Article V(1)(d) of the New York Convention.
+
+Under Article 5 of the 1976 UNCITRAL Arbitration Rules, which the parties agreed
+would govern the Arbitrations, the Tribunal was to be composed of three arbitrators: “If the
+parties have not previously agreed on the number of arbitrators (i.e., one or three), and if within
+fifteen days after the receipt of the respondent of the notice of arbitration the parties have not
+agreed that there shall be only one arbitrator, three arbitrators shall be appointed.”
+
+In accordance with the UNCITRAL Rules, Petitioners appointed one arbitrator
+(Mr. Daniel Price, subsequently replaced by Mr. Charles Poncet) in their Notices of Arbitration
+on February 14, 2005, the Russian Federation appointed one arbitrator (Judge Stephen M.
+Schwebel) on April 8, 2005 and, the parties having failed to agree on the third arbitrator, the
+Secretary General of the PCA appointed the Chairman (Mr. Yves Fortier) on July 21, 2005. See
+Interim Awards, {I 6-16.
+
+At the initial procedural conference on October 31, 2005, the Chairman advised the
+parties that “I have asked one of my colleagues in my office in Montreal to assist me in the
+conduct of this case.” Ex. R-321 (Transcript of October 31, 2005 Hearing), at 92:21-93:8. The
+Chairman did not seek the parties’ consent and instead described the role of that then-associate
+attorney, Mr. Valasek, as merely one of liaison with the parties: “Because, like all of us, I
+travel a lot, if at any time I am unreachable, you could always contact him. ... It may
+
+come to pass that you wish to find out something with respect to the tribunal that Brooks
+
+-34-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 42 of 47
+
+Daly might not be aware of. Martin [Valasek] at my office in Montreal could be reached and
+hopefully will have the answer for you.” Jd. The role of Mr. Valasek was not specified further.
+The Tribunal’s Terms of Appointment executed that same day do not even mention Mr. Valasek.
+See Ex. R-320 (Terms of Appointment).
+
+Based on accepted practice, the Russian Federation had reasonable expectations that
+Mr. Valasek’s role would be strictly limited. Although it is not uncommon for arbitral tribunals
+to be assisted by arbitral secretaries and assistants (who have even less of a role than secretaries),
+there is “a powerful consensus within the international arbitral community” that arbitral
+secretaries must be assigned “a drastically circumscribed role in the arbitral proceedings.”
+Bermann Op., {| 88. Arbitral secretaries and assistants discharge mostly administrative and
+logistical tasks. See id. { 86. They may assist with legal research and, although this latter point
+is subject to considerable debate, draft discrete, non-substantive parts of an award. See id. {| 87-
+93 (discussing typical roles). However, it is clear that “secretaries should neither participate in
+nor influence the arbitral tribunal’s core functions, and thus not participate at all in evaluating the
+parties’ submissions and evidence or deciding the legal and factual issues in the case.” Jd. { 86.
+Drafting substantive portions of the awards is also “off limits.” Jd. | 95. A recent large scale
+survey of international arbitrators and practitioners shows an overwhelming consensus in this
+respect: over 87% of respondents opposed having arbitral secretaries prepare drafts of
+substantive parts of the awards or discuss the merits of the dispute with the arbitrators. See Ex.
+R-366, at 43 (2015 Queen Mary University of London/White & Case LLP International
+Arbitration Survey). And assistants bear an even lesser role than secretaries.
+
+As the Russian Federation discovered after the Final Awards were rendered,
+
+Mr. Valasek’s involvement went far beyond accepted practice and to what the parties may be
+
+-35-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 43 of 47
+
+said to have consented. See Ex. R-328 (Writ of Summons in Dutch Proceedings), {| 486-509,
+Ex. R-331 (Statement of Defense), {{] 601-630, and Ex. R-319 (Statement of Reply), {J 503-588.
+
+The Final Awards revealed that Mr. Valasek billed in excess of $1 million (€970,562.50)
+to the case. See Final Awards, J 1863. This was in addition to the €866,522.60 that was billed
+by the PCA for secretaries and administration of the case. Jd. { 1864. After the Russian
+Federation made inquiries, the PCA disclosed that Mr. Valasek had billed over 3,006 hours,
+considerably more than any of the arbitrators. See Ex. R-438 (Respondent’s Letter to the PCA
+dated September 9, 2014); Ex. R-316 (PCA’s Letter to Respondent dated October 6, 2014). In
+particular, from January 1, 2009 through the Final Awards, Mr. Valasek billed over 2,625 hours,
+that is, 1,033 hours more than the Chairman, 1,085 hours more than Arbitrator Poncet and 773
+hours more than Arbitrator Schwebel. Compare id. with Ex. R-315 (PCA Statement dated
+January 29, 2008); Ex. R-314 (PCA Statement dated February 4, 2009).
+
+To date, the PCA has refused to disclose further details regarding the hours worked by
+Mr. Valasek on the basis that such disclosure would invade “the confidentiality of the Tribunal’s
+deliberations.” Ex. R-316 (PCA’s Letter to Respondent dated October 6, 2014). The magnitude
+of Mr. Valasek’s involvement, especially during the post January 1, 2009 period, and the
+discrepancy with the arbitrators’ own hours confirms his playing a significant, substantive role in
+the proceedings. That period, which followed the Hearing on Jurisdiction and Admissibility in
+December 2008, was the more substantive phase of the proceedings during which the Interim
+Awards were drafted, the parties’ arguments and evidence on the merits were assessed, and the
+Final Awards were drafted. See Bermann Op., {| 114. It is implausible that Mr. Valasek devoted
+over 65 full work weeks (5 days x 8 effective hours) during that period merely dealing with
+
+logistical, administrative and other menial tasks. This is all the more so where logistical support
+
+- 36 -
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 44 of 47
+
+through the proceedings was provided by the PCA, which billed €866,552.60. See Final Awards,
+q 1863.
+
+A linguistic analysis of the authorship of the Final Awards, conducted by a leading expert
+in the field, Dr. Carole Chaski, further demonstrates Mr. Valasek’s substantive involvement in
+the proceedings. In a report submitted in the Dutch Proceedings, Dr. Carole Chaski concludes
+that it is “extremely likely” (with a statistical degree of certainty of 95% or more) that Mr.
+Valasek wrote the majority of the key substantive sections of the Final Awards, including the
+Preliminary Objections, Liability and Damages sections. See Ex. R-251 (Report of Dr. Carole
+Chaski dated September 11, 2015). Dr. Chaski’s methodology is tested and reliable, and her
+authorship opinions, based on the same method, were accepted without limitations by this Court
+in Greene v. Dalton, No. 96-2161 TPJ (D.D.C. Sept. 18, 1996). Id. 1.7.
+
+Mr. Valasek’s hand is especially transparent in the Tribunal’s handling of damages. Mr.
+Valasek, who publishes in the field of international arbitration, has expressed distinctive views
+on issues that were squarely before the Tribunal. For example, during the course of the
+proceedings, Mr. Valasek published an article that endorsed the position that, where an
+expropriation is found to be “unlawful,” the claimant should be entitled to compensation
+calculated as of the date of the expropriation or as of the date of the award, whichever was
+greater. See P. Bienvenu & M. Valasek, Compensation for Unlawful Expropriation, and Other
+Recent Manifestation of the Principle of Full Reparation in International Investment Law, in van
+den Berg (ed.), 50 Years of the New York Convention (ICCA Congress Series vol. 14) (2009),
+Ex. RLA-SO, at 231. In the Final Awards, the Tribunal adopted Mr. Valasek’s position, holding
+
+that because the expropriation was “unlawful,” the Claimants were entitled to the greater of
+
+-37-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 45 of 47
+
+compensation calculated as of the date of the expropriation or as of the date of the Awards. See
+Final Awards, {{] 1763-69.
+
+The unavoidable conclusion from the above record is that, in violation of the agreement
+of the parties, Mr. Valasek was critically involved in substantive aspects of the proceedings and
+acted as a de facto fourth arbitrator. The role that Mr. Valasek played went far beyond accepted
+international practice and “greatly exceeded the legitimate expectations of the parties.” Bermann
+Op., { 123. As a result, the “composition of the arbitral authority” was not in accordance with
+the agreement of the parties and confirmation should therefore be denied under Article V(1)(d)
+of the New York Convention.
+
+For the same reasons, confirmation should be further denied under Article V(1)(c) of the
+New York Convention. Under that provision, which relates to the mandate of the arbitrators, a
+court may decline to recognize and enforce a foreign arbitral award if “[t]he award deals with a
+difference not contemplated by or not falling within the terms of the submission to arbitration, or
+it contains decisions on matters beyond the scope of the submission to arbitration,” in other
+words, if the arbitrators disregarded their mandate. Here, the parties granted the arbitrators a
+mandate to decide their dispute and perform their duties personally, to the exclusion of anyone
+else, and the delegation of critical aspects of the proceedings, including apparently the valuation
+analysis and damages calculation, to Mr. Valasek was not contemplated by the parties and not
+part of that mandate. Such breach of their mandate by the arbitrators justifies refusal to confirm
+
+the Awards under Article V(1)(c) of the New York Convention.
+
+- 38 -
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 46 of 47
+
+Vv. Confirmation Of The Awards Should Be Refused Because The Tribunal’s
+Procedure Was Not In Accordance With The Agreement Of The Parties (New York
+Convention, Article V(1)(d))
+
+Pursuant to Article V(1)(d) of the New York Convention, a court may decline to
+recognize and enforce a foreign arbitral award if the “the arbitral procedure was not in
+accordance with the agreement of the parties.”
+
+In disregard of their obligations under Article 21(5) of the ECT, Petitioners failed to refer
+to the tax authorities of England, Cyprus, and Russia the question of whether the tax assessments
+of Yukos by the Russian Federation in 2003 and 2003 were expropriatory or discriminatory. See
+Jur’] Br. Argument § I.B.4. In these circumstances, the ECT obliged the Arbitral Tribunal to
+make itself the referral to the tax authorities: “Failing such referral by the Investor or the
+Contracting Party, bodies called upon to settle disputes pursuant to Article 26(2)(c) or 27(2) shall
+make a referral to the relevant Competent Tax Authorities.” ECT Art. 21(5)(b)(i) (emphasis
+added). The Tribunal did not do so and brushed aside the referral mechanism under Article
+21(S) as “an exercise in futility.” See Final Awards, {| 1421-27.
+
+Further, in disregard of its procedural obligation under Article 32(3) of the 1976
+UNCITRAL Rules, which the parties agreed would govern the Arbitrations, the Tribunal failed
+to “state the reasons upon which the award is based” to the extent that, as explained above, the
+Tribunal based many of its findings on speculations.”
+
+As a result of the Tribunal’s disregard for its obligations under Article 21(5) of the ECT
+and its obligation to provide reasons, the arbitral procedure was not in accordance with the
+agreement of the parties and confirmation of the Awards should be refused under Article V(1)(d)
+
+of the New York Convention.
+
+5 The Awards are also lacking reasons in several other respects. These points have been discussed at length by the parties in the
+Dutch proceedings, and will not be repeated here. See Ex. R-328 (Writ of Summons), {ff 516-535, Ex. R-331 (Statement of
+Defense), {{f 631-663, and Ex. R-319 (Statement of Reply), 49] 633-777.
+
+-39-
+
+Case 1:14-cv-01996-ABJ Document 23 Filed 10/20/15 Page 47 of 47
+
+CONCLUSION
+
+For the foregoing reasons, the Court should deny confirmation of the Awards and dismiss
+
+the Petition.
+
+Dated: October 20, 2015
+
+Respectfully submitted,
+
+WHITE & CASEup
+
+/s/_ Carolyn B. Lamm
+
+Carolyn B. Lamm (D.C. Bar No. 221325)
+
+Francis A. Vasquez, Jr. (D.C. Bar No. 442161)
+Frank Panopoulos (D.C. Bar No. 459365)
+Eckhard Robert Hellbeck (D.C. Bar No. 437619)
+701 Thirteenth Street, N.W.
+
+Washington, D.C. 20005
+
+Phone: (202) 626-3600
+
+Fax: (202) 639-9355
+
+Counsel for Respondent
+
+- 40 -
+
+Case 1:14-cv-01996-ABJ Document 24-12 Filed 10/20/15 Page 1 of 2
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF COLUMBIA
+
+HULLEY ENTERPRISES LTD.,
+YUKOS UNIVERSAL LTD., and
+VETERAN PETROLEUM LTD.,
+
+Petitioners,
+Case No. 1:14-cv-01996-ABJ
+v.
+
+THE RUSSIAN FEDERATION
+
+Respondent.
+
+ORDER
+
+Having reviewed and considered Respondent the Russian Federation’s Motion to Dismiss
+Petitioners’ Petition to Confirm Arbitration Awards for Lack of Subject Matter Jurisdiction, the
+papers accompanying the motion, Petitioner’s Opposition papers, and Respondent’s Reply
+papers, it is hereby
+
+ORDERED, that Respondent’s motion is GRANTED; it is further
+
+ORDERED, that the Petition is DISMISSED; it is further
+
+ORDERED, that Petitioners are ordered to pay Respondent’s costs pursuant to Fed. R.
+
+Civ. P. 54(d) in an amount to be assessed.
+
+SO ORDERED this ____ day of » 2015.
+
+ 
+
+Amy Berman Jackson
+United States District Judge
+
+Case 1:14-cv-01996-ABJ Document 24-12 Filed 10/20/15 Page 2 of 2
+
+Attorneys to be notified:
+
+Carolyn B. Lamm (D.C. Bar No. 221325)
+Francis A. Vasquez, Jr. (D.C. Bar No. 442161)
+Frank Panopoulos (D.C. Bar No. 459365)
+Eckhard Robert Hellbeck (D.C. Bar No. 437619)
+Chauncey Bratt (D.C. Bar No. 1018133)
+WHITE & CASE LLP
+
+701 Thirteenth Street, N.W.
+
+Washington, D.C. 20005
+
+Phone: (202) 626-3600
+
+Fax: (202) 639-9355
+
+Counsel for the Russian Federation
+
+Christopher M. Ryan
+
+SHEARMAN & STERLING LLP
+
+801 Pennsylvania Avenue, NW
+
+Suite 900
+
+Washington, DC 20004-2604
+
+Phone: (202) 508-8098
+
+Fax: (202) 508-8100
+
+Email: christopher.ryan@shearman.com
+
+Henry S. Weisburg
+
+Richard F. Schwed
+
+SHEARMAN & STERLING LLP
+
+599 Lexington Avenue
+
+New York, NY 10022-6069
+
+Phone: (212) 848-4193
+
+Fax: (646) 848-4193
+
+Email: hweisburg@shearman.com
+rschwed @shearman.com
+
+Counsel for Hulley Enters. Ltd., Yukos
+Universal Ltd., and Veteran Petroleum Ltd.
+

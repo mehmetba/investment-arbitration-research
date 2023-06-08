@@ -1,0 +1,2810 @@
+INTERNATIONAL CENTRE FOR SETTLEMENT
+OF INVESTMENT DISPUTES
+WASHINGTON, D.C.
+
+IN THE PROCEEDING BETWEEN
+
+SIEMENS A.G.
+(CLAIMANT)
+
+and
+THE ARGENTINE REPUBLIC
+(RESPONDENT)
+
+(ICSID Case No. ARB/02/8)
+
+DECISION ON JURISDICTION
+
+Members of the Tribunal
+Dr. Andrés Rigo Sureda, President
+Judge Charles N. Brower, Arbitrator
+Professor Domingo Bello Janeiro, Arbitrator
+
+Secretary of the Tribunal
+Ms. Claudia Frutos-Peterson
+
+Washington D.C., August 3, 2004
+
+Il.
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Page
+PROCEDURE 1
+THE FACTS 6
+OBJECTIONS TO JURISDICTION o.oo eseeee es cseseseeeseeeseeeeneseseseneaeseaeaeesenenseeees 7
+1. Applicable Law 9
+(a) Position of the Respondent. 9
+(b) Position of the Claimant...........ccsscesseesseeseeseeseeeseesesseeessestseneseeaeeneaeenees 9
+(c) Considerations of the Tribunal 00... cceeceeeeseeseeeeeseeeeeeeeseeneseeeseeeeeeees 10
+2. First Objection: Siemens Has Breached Factual and Temporal
+Requirements of the Treaty.
+(a) Position of the Respondent. 10
+(b) Position of the Claimant............csccseeeseeseseeseseeeseeeseeseseeeseeeseeaeeeeeeeeees 21
+(c) Considerations of the Tribunal 00... cceeceeeeseeseeeeeseeeeeeeeseeneseeeseeeeeeees 29
+@ Interpretation of the Treaty... ccecseeceseesesseseseeeseeeseeeseeneeeeeees 30
+(ii) General or Specific Character of the MFN Clauses in
+Article 3 31
+(iii) Rationale of the MFN Clause in Article 4.0.0.0. 33
+(iv) Protection of Investments or Investors.........ccseeseeteseeeeeeeeeeeees 35
+(v) Effect of Reference to National Treatment on the Scope of
+the MEN Clause .........ceseeseessessessessesseeseeseeseesesnesseenssseeaeeseeneeneneese 36
+(vi) | Treatment of Investors and Dispute Settlement... eee 37
+(vii) Exhaustion of Local Remedie: 41
+(viii) Significance of Negotiated Changes in the Model Form of
+German BIT.......eccececceesseseseseeseseeseseeseseeseseesesesnesesnenssnessseensaenees 42
+(ix) Effect on the Scope of the MFN Clause of the Right of the
+State to Bring the Dispute Before its Courts... 43
+(x) Claim of a Benefit under a Treaty by the Operation of an
+MEN Clause as Triggering the Application of All the
+Provisions of that Treaty . 44
+3. Second Objection: The Dispute Was Submitted to the Local Jurisdiction .. 45
+(a) Position of the Respondent. 45
+(b) Position of the Claimant............csccseeeseeseseeseseeeseeeseeseseeeseeeseeaeeeeeeeeees 47
+(c) Considerations of the Tribunal 00... cceeceeeeseeseeeeeseeeeeeeeseeneseeeseeeeeeees 48
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(continued)
+Page
+Third and Fourth Objections: Siemens Lacks ius StaNdi ........csccsseseseesseeneeeeees 49
+(a) Position of the Respondent. 50
+(b) Position of the Claimant............csccseeeseeseseeseseeeseeeseeseseeeseeeseeaeeeeeeeeees 52
+(c) Considerations of the Tribunal
+Fifth Objection: The Dispute Does Not Arise Directly of an Investment........... 59
+(a) Position of the Respondent. 59
+(b) Position of the Claimant............csccseeeseeseseeseseeeseeeseeseseeeseeeseeaeeeeeeeeees 60
+(c) Considerations of the Tribunal 00... cceeceeeeseeseeeeeseeeeeeeeseeneseeeseeeeeeees 61
+Sixth Objection: The Dispute is Hypothetical.........cccceeeeeeeseeeeseeeseeneeeeeeeeees 62
+(a) Position of the Respondent. 62
+(b) Position of Claimant 63
+(c) Considerations of the Tribunal 00... cceeceeeeseeseeeeeseeeeeeeeseeneseeeseeeeeeees 65
+Seventh Objection: Dispute Has Never Been Notified .0....... cee 67
+(a) Position of the Respondent. 67
+(b) Position of the Claimant............csccseeeseeseseeseseeeseeeseeseseeeseeeseeaeeeeeeeeees 68
+(c) Considerations of the Tribunal we
+Eighth Objection: The Contract Contains a Specific Jurisdictional Clause........ 71
+(a) Position of the Respondent. 71
+(b) Position of the Claimant ..........cceeseeseseeeseeeseeseseeseseeeseeaeseeasseeneeeeneeneee 72
+(c) Considerations of the Tribunal 00... cceeceeeeseeseeeeeseeeeeeeeseeneseeeseeeeeeees B
+DECISION 76
+
+ 
+
+-ii-
+
+I. PROCEDURE
+
+1. On May 23, 2002, the International Centre for Settlement of Investment Disputes
+(hereinafter “ICSID” or “the Centre”) received from Siemens A.G. (hereinafter “Siemens” or
+“the Claimant”) a request for arbitration against the Argentine Republic (hereinafter “the
+Respondent” or “Argentina”). On June 7, 2002, the Centre acknowledged receipt of the request
+in accordance with Rule 5 of the ICSID Rules of Procedure for the Institution of Conciliation and
+Arbitration Proceedings (hereinafter the “Institution Rules”) and informed the Claimant that it
+would not take further action until it has received the prescribed lodging fee as provided by
+Institution Rule 5(1)(b). On June 13, 2002, the Centre acknowledged receipt of the prescribed
+lodging fee by the Claimant and transmitted a copy of the request to Argentina and to the
+
+Argentine Embassy in Washington, D.C. in accordance with Institution Rule 5(2).
+
+2. According to Article 36(3) of the Convention on the Settlement of Investment
+Disputes between States and Nationals of other States (“the ICSID Convention”), the Secretary-
+General of the Centre registered the request for arbitration on July 17, 2002. In accordance with
+Institution Rule 7, the Secretary-General notified the parties on the same date of the registration
+
+of the request and invited them to proceed to constitute an Arbitral Tribunal as soon as possible.
+
+3. On August 7, 2002, the parties agreed that the Arbitral Tribunal would consist of
+three arbitrators, one arbitrator to be appointed by each party and the third, who shall serve as the
+President of the Tribunal, to be appointed by agreement of the parties. The Claimant appointed
+Judge Charles N. Brower, a U.S. national, and the Respondent appointed Professor Domingo
+Bello Janeiro, a Spanish national. However, the parties failed to agree on the appointment of the
+third, presiding arbitrator. On October 21, 2002, the Claimant requested that the third, presiding
+
+arbitrator be appointed by the Chairman of the ICSID Administrative Council in accordance with
+
+-I-
+
+Article 38 of the ICSID Convention and Rule 4 of the ICSID Rules of Procedure for Arbitration
+
+Proceedings (hereinafter “the Arbitration Rules”).
+
+4. After consulting the parties, Dr. Andrés Rigo Sureda, a national of Spain, was
+appointed by the Centre as the third, presiding arbitrator. In accordance with Rule 6(1) of the
+Arbitration Rules, on December 19, 2002, the Secretary-General notified the parties that all three
+arbitrators accepted their appointment and that the Arbitral Tribunal was deemed to be
+constituted and the proceedings deemed to began on that date. On the same date, pursuant to
+ICSID Administrative and Financial Regulation 25, the parties were informed that Mr. Gonzalo
+Flores, Senior Counsel, ICSID, would serve as Secretary of the Arbitral Tribunal. The Tribunal
+
+held its first session in Washington, D.C. on February 13, 2003.
+
+5. Mr. Guido Santiago Tawil of M. & M. Bomchil and Dr. Peter Gnam of Siemens,
+A.G. represent the Claimant. Messrs. Tawil and Gnam represented the Claimant at the first
+session. Dr. Horacio Daniel Rosatti, Procurador del Tesoro de la Nacién Argentina, represents
+the Respondent. Messrs. Ignacio Suarez Anzorena and Carlos Lo Turco, acting on instructions
+from the Procurador del Tesoro de la Nacion Argentina, and Mr. Osvaldo Siseles, from the
+Ministerio de Economia de la Republica Argentina, represented the Respondent at the first
+
+session.
+
+6. During the first session, the parties agreed that the Tribunal had been properly
+constituted in accordance with the ICSID Convention and the ICSID Arbitration Rules and that
+they did not have any objections to any members of the Tribunal. It was also noted that the
+proceedings would be conducted under the ICSID Arbitration Rules in force since September 26,
+
+1984.
+
+7. During the first session, the parties also agreed on several other procedural
+matters, which were later reproduced in the written minutes signed by the President and the
+Secretary of the Tribunal. Regarding the written submissions, the Tribunal, after consulting with
+the parties in this respect, fixed the following time limits for the presentation of the parties’
+pleadings: The Claimant would file a memorial within 90 (ninety) days from the date of the first
+session; the Respondent would file a counter-memorial within 90 (ninety) days from its receipt
+of the Claimant’s memorial; the Claimant would file a reply within 60 (sixty) days from its
+receipt of the Respondent’s counter-memorial, and the Respondent would file a rejoinder within
+
+60 (sixty) days from its receipt of the Claimant’s reply.
+
+8. The Tribunal further noted that, according to the ICSID Arbitration Rules, the
+Respondent has the right to raise any objections to jurisdiction no later than the expiration of the
+time limit fixed for the filing of its counter-memorial, but that in the event that the Respondent
+raises objections to jurisdiction, the following schedule would apply: The Claimant would file a
+counter-memorial on jurisdiction within the same number of days used by Argentina to file its
+objections to jurisdiction, but in any event, the Claimant would have a minimum of 60 (sixty)
+days to file its counter-memorial on jurisdiction; the Respondent would file a reply on
+jurisdiction within 30 (thirty) days from its receipt of the Claimant’s counter-memorial on
+jurisdiction; the Claimant would file a rejoinder on jurisdiction within 30 (thirty) days from its
+receipt of the Respondent’s reply on jurisdiction. It was also agreed that, if the Respondent
+would raise any objections to jurisdiction and proceedings would be resumed following the filing
+of such objections (because the Tribunal dismisses the objections or because it decides to join
+
+them to the merits of the dispute), the calendar agreed for the merits would recommence, and the
+
+Respondent would have the remaining number of days at the date of the filing of its objections to
+
+jurisdiction, for the filing of its counter-memorial on the merits.
+
+9. On March 13, 2003, the Claimant filed its memorial on the merits and
+
+accompanying documentation.
+
+10. On March 24, 2003, Ms. Claudia Frutos-Peterson, ICSID, Counsel, assumed her
+
+position as Secretary of the Tribunal.
+
+11. On April 8, 2003, the parties agreed that the hearing on jurisdiction would take
+
+place on January 20-22, 2004, in Washington, D.C.
+
+12. By letter of June 10, 2003, the Argentine Republic requested an extension of time
+due to the institutional succession in the Argentine Government to file its counter-memorial on
+the merits and/or to raise any objections to the jurisdiction of the Centre until August 4, 2003.
+
+By letter of June 18, 2003, the Claimant objected to the extension requested by the Respondent.
+
+13. On June 23, 2003, due to the particular circumstances, the Tribunal granted the
+extension sought by Argentina and informed the parties that if the Argentine Republic filed its
+counter-memorial without objecting to jurisdiction, the Claimant, if requested, would be granted
+a similar extension of time to file its reply on the merits. The Tribunal further noted that if the
+Argentine Republic filed any objections to jurisdiction, the Claimant would have the same
+number of days used by the Argentine Republic to file such objections for the filing of its
+
+counter-memorial on jurisdiction.
+
+14. On July 1, 2003, Dr. Horacio Daniel Rosatti informed the Tribunal that he had
+
+been appointed Procurador del Tesoro de la Nacién Argentina.
+
+15. In accordance with ICSID Arbitration Rule 41(1), on August 4, 2003, the
+Respondent filed a memorial raising objections to the jurisdiction of the Centre and the
+competence of the Tribunal. In its memorial on jurisdiction, Argentina requested the Tribunal
+for a 45 (forty-five) day extension of the time limit to file its counter-memorial on the merits in
+
+the event that the Tribunal would declare that it has competence over this matter.
+
+16. Pursuant to ICSID Arbitration Rule 41(3), on August 7, 2003, the Tribunal
+
+suspended the proceedings on the merits.
+
+17. On August 8, 2003, the Tribunal invited the Claimant to provide its observations
+regarding the Respondent’s request concerning the extension of the time limit to file its counter-
+memorial on the merits. The Claimant presented its observations on August 11, 2003. On
+August 21, 2003, the Tribunal informed the parties that they considered it premature to decide
+
+this issue at this stage of the proceedings.
+
+18. On October 16, 2003, the Claimant filed its counter-memorial on jurisdiction.
+
+Thereafter, on November 17, 2003, the Respondent filed its reply on jurisdiction.
+
+19. On December 10, 2004, the Respondent requested to postpone the hearing on
+jurisdiction scheduled for January 20-22, 2004, until February 15, 2004. On December 11, 2004,
+the Tribunal invited the Claimant to present any observations to the Respondent’s request. On
+the same date, the Claimant presented its observations, asking the Tribunal to reject the
+Respondent’s request and to maintain the previous agreed schedule for the hearing on
+jurisdiction.
+
+20. By letter of December 19, 2003, the Tribunal informed the parties of its decision
+
+to schedule the hearing on jurisdiction on February 3 and 4, 2004.
+
+21. On December 24, 2003, the Claimant filed its rejoinder on jurisdiction.
+
+22. As previously decided by the Tribunal, the hearing on jurisdiction took place in
+Washington, D.C. on February 3 and 4, 2004. At the hearing, the Claimant was represented by
+Mr. Guido Santiago Tawil, Dr. Peter Gnam and Mr. Stephan Signer and Ms. Maria Inés Corra.
+Mr. Tawil and Dr. Gnam addressed the Tribunal on behalf of the Claimant. The Respondent was
+represented by Ms. Andrea Gualde, Ms. Ana Badillos, and Mr. Jorge Barraguirre from the
+Procuracién del Tesoro de la Nacién Argentina, as well as by Messrs. Osvaldo Siseles, from the
+Ministerio de Economia de la Republica Argentina, and Roberto Hermida, from the Embassy of
+Argentina in Washington, D.C. Ms. Gualde and Mr. Barraguirre addressed the Tribunal on
+behalf of the Respondent. During the hearing, the Tribunal also put questions to the parties in
+
+accordance with ICSID Arbitration Rule 32(3).
+
+Il. THE FACTS
+
+23. In August 1996, the Respondent invited bids for a contract to establish a system
+of migration control and personal identification (“the System”). The bidding terms required that
+a local company be established by bidders in order to participate in the bidding process. The
+Claimant established, through its wholly-owned affiliate Siemens Nixdorf Informationssysteme
+
+AG (“SNI”), a local corporation, Siemens IT Services S.A. (“SITS”).
+
+24. As required by the bidding terms, SITS took part as a bidder and its offer showed
+evidence — as requested by the Respondent - that SNI was wholly integrated into Siemens, the
+sole owner of its shares, that SNI was managed by Siemens and “by virtue of law is jointly liable
+
+for the obligations that SNI assumes before third parties.”
+
+' Request for Arbitration, para. 13
+
+25. SITS’ bid won the contract, which was signed on October 6, 1998 and approved
+by Decree No. 1342/98 (“the Contract”). The Contract had a term of six years with the
+possibility of two extensions of three years each. Siemens proceeded to make the required
+investments through capital contributions to SITS and funds provided to SITS to enable it to
+
+carry out its obligations under the Contract.
+
+26. On December 10, 1999, a new Government came to power in Argentina and in
+February 2000 it suspended the contract allegedly because of technical problems. In March
+2000, a commission was established to review the Contract. SITS agreed to a proposal
+(propuesta de reformulacion contractual) made by this commission in November 2000 within
+the scope of Emergency Law 25.344. A new and different proposal was received by SITS on
+May 3, 2001. On May 18, 2001, the Respondent terminated the Contract by Decree No. 669,
+issued under Emergency Law 25.344. SITS filed three administrative appeals against Decree No.
+669 on June 5, June 19, and July 5, 2001. The appeals were rejected by Decree No. 1205/01,
+
+dated September 24, 2001.
+
+27. On July 23, 2001, Siemens had notified the Respondent of a breach of the Treaty
+between the Federal Republic of Germany and the Argentine Republic concerning the Reciprocal
+Encouragement and Protection of Investments, signed on April 9, 1991 (“the Treaty”), triggering
+a six-month negotiation period under the Treaty. Representatives of the parties met on several
+occasions but could not resolve the dispute. On March 18, 2002, Siemens confirmed its
+
+agreement to ICSID arbitration under Article 10 of the Treaty.
+
+Ill. OBJECTIONS TO JURISDICTION
+
+The Respondent filed eight objections to jurisdiction:
+
+qd)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+28.
+
+Siemens has breached factual and temporal requirements of the Treaty.
+The dispute was submitted to the local jurisdiction.
+
+Siemens lacks ius standi: the Treaty requires a direct relationship between the
+
+company of the other Contracting Party and the investment.
+
+Siemens lacks ius standi: the Treaty allows indirect claims only in the context of
+
+Article 4.
+The dispute does not arise directly out of an investment.
+The dispute is hypothetical.
+
+Siemens has included new claims which had not been notified to the Respondent
+
+under the terms of the Treaty.
+The Contract includes a specific and exclusive jurisdictional clause.
+
+In addition, the Respondent made “Some Preliminary Considerations” regarding
+
+the concept of “Investment and Investor’, “Breaches of the Treaty”, “Development of the
+
+Investment Dispute”, “Some Preliminary Aspects of the Context and Legal Basis of Siemens’
+
+Claims” and “Applicable Law”. The Tribunal will consider first applicable law, and to the
+
+extent that other preliminary considerations have a bearing on the jurisdiction of the Centre or
+
+the competence of the Tribunal, they will be considered as part of the objections to jurisdiction.
+
+The Tribunal will consider the objections to jurisdiction in the sequence presented in the
+
+Respondent’s Memorial on Jurisdiction.
+
+1. Applicable Law
+(a) Position of the Respondent
+29. The Respondent refers to the Treaty clause on applicable law which provides that
+the dispute shall be decided “on the basis of the present treaty, and if applicable, on the basis of
+other treaties in force between the Parties, the local law of the Contracting Party in which
+territory the investment was made, including its rules on conflict of laws and on the general
+
+principles of international law.”?
+
+Based on this provision, the Respondent argues that “the
+dispute is governed mainly by Argentine law, which in turn is the law applicable to contractual
+
+issues and those issues concerning the status of investor in an Argentine corporation underlying
+
+Siemens’ claim.”
+
+(b) Position of the Claimant
+30. The Claimant argues that “It is a well established principle that jurisdictional
+questions should be decided on the basis of the Treaty and international law only. Decisions on
+jurisdiction are governed solely by Article 25 of the ICSID Convention and the pertinent
+
+od
+
+provisions of the Treaty, as /ex specialis””. None of these provisions is affected by any provision
+
+of Argentine law to the contrary. Furthermore, the Treaty is an international law instrument and
+international law applies alongside the Treaty.» The Claimant also notes that the law applicable
+
+to the dispute is a matter to be considered in the merits phase of the proceedings.°
+
+? Memorial on Jurisdiction, para. 93.
+
+* Tid. para. 94.
+
+4 Counter-Memorial on Jurisdiction, para. 40.
+* Ibid. para. 48.
+
+© Ibid. para. 44.
+
+( Considerations of the Tribunal
+31. Argentina in its allegations has not distinguished between the law applicable to
+the merits of the dispute and the law applicable to determine the Tribunal’s jurisdiction. This
+being an ICSID Tribunal, its jurisdiction is governed by Article 25 of the ICSID Convention and
+the terms of the instrument expressing the parties’ consent to ICSID arbitration, namely, Article
+10 of the Treaty. Therefore, the Tribunal needs to assess whether the Request for Arbitration
+
+meets the requirements of Article 25 of the ICSID Convention and of Article 10 of the Treaty.
+
+2. First Objection: Siemens Has Breached Factual and Temporal
+Requirements of the Treaty
+
+(a) Position of the Respondent
+
+32. The Claimant has invoked the most-favored-nation (“MFN”) clause of the Treaty
+to avoid, as is permitted under the Treaty between Argentina and Chile concerning the
+Reciprocal Encouragement and Protection of Investments of October 2, 1991 (“the Chile BIT”),
+a prior submission of the dispute to the local courts. Alternatively, Siemens submits that the 18-
+month period provided by the Treaty to allow a decision of the local courts to the satisfaction of
+the parties is a mere rule of procedure and not an obstacle to the jurisdiction of the Tribunal, and
+that it would be futile to pursue this dispute in the local courts because it is impossible to obtain a
+
+decision of the courts within the 18-month period.
+
+33. Argentina considers that the scope of the MFN clause can be determined only
+through interpretation of the specific treaty in which it appears: “[I]t cannot be said that there is
+only one way to interpret the extent of the MFN clause, as this could change according to the
+
+provisions in which it is included.” In support of this argument, the Respondent refers to Rights
+
+7 Memorial on Jurisdiction, para. 112.
+
+-10-
+
+of Nationals of the United States of America in Morocco, Anglo-Iranian Oil, AAPL, and
+Maffezini and concludes that it is not possible “to determine a priori whether a certain clause of
+an international treaty is subject or not to the application of the MFNC of another convention of
+
+equal nature. That shall depend on what the Parties had agreed upon in each case.”*
+
+34. Argentina argues that the Claimant has based its case in particular on Maffezini,
+ignoring that the MFN clause included in the Treaty between Argentina and Spain concerning
+the Reciprocal Encouragement and Protection of Investments of October 3, 1991 (“the Spain
+BIT”) is “substantially different from that included in the Treaty and must be object of a specific
+analysis of this Tribunal.” Argentina affirms that MFN clauses “constitute a sort of legal
+
+anomaly” '°
+
+since they create a framework that “extraordinarily conditions a basic principle of
+international law regarding bilateral obligations: the principle of res inter alios acta.”'' Then
+Argentina refers to the application of the principle of ejusdem generis and quotes from the Draft
+Articles of the International Law Commission (“ILC”) on the MFN Clauses: “The beneficiary
+State acquires the rights. ..only in respect of persons or things which are specified in the clause or
+
+implied from its subject-matter.”"”
+
+35. Argentina argues that the MFN clause in the Treaty precludes an investor from
+invoking the Chile BIT. This argument is based on a textual and contextual interpretation
+
+“including arguments relative to the international law applicable to the relationship between the
+
+* Ibid. paras. 114-118.
+
+° Ibid. para. 119.
+
+!° Ibid. para. 120.
+
+"Ibid.
+
+”? Ibid. para. 121, Article 2(2).
+
+-ll-
+
+parties at the moment when the Treaty was celebrated, and to the general and particular practice
+
+regarding investment treaties.”">
+
+36. It is the contention of Argentina that the text of Article 3(1) of the Treaty refers
+only to investments and the treatment of investments. It does not cover treatment to be accorded
+to holders of investments. The lack of the “subjective” element is in contrast to the text of
+Article 10 of the Treaty that refers to the possibility for the parties (State/investor) to submit their
+differences to the competent courts and arbitration. There is no basis in Article 3(1) to construe
+the term investments in such manner as to include “the modalities established for a dispute
+settlement system”. In any case, a dispute settlement procedure cannot be deemed an asset —an
+
+investment- in plain English.'*
+
+37. Argentina equally maintains that the text of Article 3(2) of the Treaty does not
+allow one to infer that the parties thereto intended to include the dispute settlement system within
+the scope of the application of the MFN clause because it is not an activity in connection with an
+investment. This is confirmed by the definition of “activities” in Ad Article 3 of the Protocol.
+This definition relates to transactions of a commercial and economic nature in relation to
+exploitation and management of investments. There is no expression in the definition that would
+allow the reader tacitly to include dispute settlement in the definition used. According to
+Argentina, “the ratio legis of the Protocol is precisely that of limiting that concept to the
+
+management of assets in a commercial sense.”
+
+'3 Thid. para. 125.
+'4 Ibid. paras. 129-132.
+'S Tbid. para. 137.
+
+-12-
+
+38. Argentina considers that the plain meaning of the word “activities” within the
+context of an investment treaty does not support an interpretation compatible with the Claimant’s
+position. The Respondent considers that, in this context, “Activity refers to the group of actions
+related to operation and management, and could be understood to mean enterprise, as expressed
+by modern commercial scholars.”'® This meaning is confirmed by the definition of “company”
+in Article 1(4) of the Treaty: “any juridical person [...] irrespective of whether or not its
+
+activities are directed at profit.”
+
+39. Argentina further supports its position by analyzing provisions of the laws of
+Italy, Germany and Argentina and concludes that “both [S]tates Parties to this Treaty give to the
+term activity an equivalent scope, confirming that the Parties were referring to technical and
+economic operations linked to the exploitation of investments and not to the dispute settlement
+
+system.”!”
+
+40. According to the Respondent, this conclusion is reinforced by Article 10 of the
+Treaty. This Article allows “both investors and the [S]tate alike to resort to dispute settlement
+mechanisms. However, only investors engage in the activities referred to by the Protocol, since
+only they carry investment-related activities. Had the Convention [Treaty] wanted also to refer
+to the latter, the article should have been worded in more general terms.”'* Furthermore, dispute
+settlement cannot be considered an activity of nationals or companies because they do not carry
+
+it out.”
+
+'© Ibid. para. 140.
+"" Thid. paras. 142-145.
+'8 Thid. para. 147.
+'° Ibid. para. 148.
+
+-13-
+
+41. Another argument put forward by the Respondent is that the matters covered by
+Article 3(1) and (2) of the Treaty are based on treatment that is national treatment. The Treaty
+ensures the same treatment to foreign and national investors and, therefore, “the matters
+regulated by said provisions must be those enabling said identical treatment.””? The rules
+regarding dispute settlement are exceptional and exclusive to foreign investors, “Consequently, it
+cannot be argued — at least, logically — that the dispute settlement system is comprised within the
+
+treatment obligations contained in Article 3(1) and (2)”7!
+
+42. According to the Respondent, a harmonious interpretation of these Treaty
+provisions inevitably leads to exclusion of the dispute settlement provisions from the MFN
+clause. The exceptions in Article 3(3) and (4) and in the Protocol concerning tax advantages also
+show that these provisions refer to competitiveness of the investment as it is specifically
+
+mentioned in the Protocol Ad to Article 3(2).”
+
+43. The Respondent affirms that the Treaty structure also shows that, when the parties
+wanted to give the MFN clause a broader effect, they did so. In this respect, Argentina refers to
+the fact that there is an MFN clause in Article 4 but it does not refer to national treatment.
+Argentina explains that it would not make sense to include such treatment because the provisions
+of Article 4 are not in line with the rights enjoyed by national investors. On the other hand, the
+provisions of the Treaty on capital transfers (Article 5) or dispute settlement (Article 10) do not
+include either national treatment or MFN clauses. Neither of these provisions would apply to
+nationals, as is the case of Article 4, but this notwithstanding, there is no MFN clause in either of
+
+these articles.
+
+°° Ibid. para. 153.
+
+-14-
+
+44. According to Argentina, the interpretation of the Treaty presented by the Claimant
+violates the principle of effective interpretation, namely, ut res magis valeat quam pereat, against
+Article 31(1) of the Vienna Convention on the Law of the Treaties (“the Vienna Convention”).
+Article 4(4) would be superfluous, since it would be covered by Article 3(1) and (2) of the
+
+Treaty.
+
+45. The Respondent affirms that the rights conferred by Article 3 are different from
+those conferred under Article 10 and recalls that both parties to a dispute may, under Article 10,
+submit it to the local courts six months after its notification. In this context, Siemens confers on
+the MFN clause in Article 3 “an exorbitant effect contrary to the most fundamental general
+principles of law: the effect of an implied and implicit waiver of a right expressly conferred by
+
+923
+
+the Treaty. Argentina then states that “at all events, the Argentine Republic requests that
+
+pursuant to the powers granted by article 10(2) of the Treaty, the dispute be submitted to
+
+competent federal courts.”
+
+46. Argentina then turns to a contextual interpretation of the MFN clause in Article 3.
+The Respondent first points out that conceptually the agreement to arbitrate is separable from the
+substantive provisions, and Article 3 deals with substantive provisions. Second, Argentina finds
+a similarity between the MFN clause and assignment and manifests that it is unquestionable that
+if the object of the assignment is the arbitration agreement per se, the party’s consent is
+indispensable. Third, it argues that the principle ejusdem generis is even more restrictive
+
+regarding procedural and jurisdictional matters. Based on French case law, the Respondent
+
+ 
+
+2! Ibid. para. 154.
+Ibid. paras. 155-160.
+3 Thid. para. 172.
+4 Ibid. para. 174.
+
+-15-
+
+concludes that, unless expressly provided for, the MFN clause does not implicitly extend to
+
+procedural matters.”°
+
+47. Argentina then examines the understanding of the MFN clause under international
+law at the time the Treaty was executed. Argentina argues that in the two cases in which the ICJ
+has dealt with an MFN clause (Anglo-Iranian Oil and U.S. Nationals in Morocco), the ICJ
+“opposed the application of the clause to extend the benefit_of most-favored-nation to the
+jurisdictional scope.””° The Respondent also refers to the decision of the arbitration commission
+in Ambatielos and affirms that this commission decided on substantive standards of treatment
+and not jurisdictional commitments. Based on these three cases, the Respondent concludes that
+“in light of the evolution of the international law at the time the Treaty was executed, not only
+can it be said that there were no elements to presume that the jurisdictional commitments under
+the Treaty belonged to the operating scope of the MFNC but that there were concrete elements to
+
+reach in the opposite direction.”””
+
+48. Argentina maintains that the practice of the parties as regards investment treaties
+shows that, if the parties intended to include the dispute settlement system within the scope of
+application of the MFN clause, they expressly did so. This was the case of the Treaty between
+Argentina and Korea concerning the Mutual Encouragement and Protection of Investments,
+dated May 17, 1994. The United Kingdom has included a specific reference to dispute settlement
+in the MFN clause in some of its treaties but not in the Treaty for the Promotion and Protection
+
+of Investments entered into with Argentina on December 11, 1990. The Respondent also refers to
+
+°5 Ibid. paras. 175-187.
+°6 Ibid. para. 188. Underlined in the original.
+27 Ibid. para. 202.
+
+-16-
+
+the broad language of “the Spain BIT” but limits its importance because Spain does not accept
+that that agreement includes jurisdictional clauses in its MFN clause and therefore neither does
+
+Argentina.”*
+
+49. Argentina emphasizes that the Treaty provision on settlement of disputes diverges
+from the alternatives provided by the German model investment treaty. From this fact, the
+Respondent draws two conclusions: “The first is that the parties expressly adopted said dispute
+settlement mechanism. The second is that the parties considered said mechanism specially
+important and, albeit contrary to the policy favored in the German model treaty, they did not
+agree on a MFNC that may allow [to] surmount said situation in the future, in the event the
+
+Argentine Republic modifies its policy on the issue.”””
+
+50. Argentina expounds further on its BIT practice to show that not all the MFN
+clauses and dispute settlement clauses are the same and that they are specifically negotiated case
+by case, and “in no case shall it be presumed that the issues concerning the way the Argentine
+Republic submit to international jurisdictions are not a part of its main public policies.”
+
+According to the Respondent, the matters specifically considered by the contracting parties, and
+
+as decided in TECMED v. Mexico, cannot be included in the sphere of the MFN clause.*!
+
+51. Argentina maintains that Article 10 of the Treaty reflects a “moderation” of the
+exhaustion of local remedies rule, and that the Treaty requires Siemens to use these remedies
+
+“diligently- for at least 18 months, as a previous requisite before attempting to compromise the
+
+°8 Ibid. paras. 206-208.
+? Ibid. para. 211.
+* Ibid. para. 217.
+*! Ibid. para. 212.
+
+-17-
+
+responsibility of the Argentine Republic under the Treaty before an international court.”*”
+
+Siemens’ interpretation arrives at “the absurd situation whereby a supposed application of the
+tule that internal remedies are to be exhausted first would be tacitly waived. That, of course, is in
+contradiction with legal literature, case law and generally accepted international practice.”
+Argentina refers to ELSI, in which the ICJ held that it finds itself “unable to accept that an
+important principle of customary international law should be held to have been tacitly dispensed
+with, in the absence of any words making clear an intention to do so.”** Argentina also points
+out that limitations to a State’s sovereignty should be treated restrictively and that it had warned
+
+Siemens on two occasions that the Chile BIT was not a valid basis for bringing this claim to
+
+ICSID without first pursuing it in the local courts.**
+
+52. Argentina then turns to Maffezini, and points out that notwithstanding the
+generality of the MFN clause, Spain considered that it did not cover matters of procedure. The
+tribunal recognized that it was necessary “to determine whether the omission stems from the
+parties’ intention, or whether the extension of the clause can be reasonably inferred from the
+parties’ practice in their treatment of foreign investors and of their own investors.”*° Argentina
+finds questionable the reasoning leading to the conclusion that the MFN clause in the Spain BIT
+covers the settlement of controversies, and that the Tribunal should bear in mind “the specific
+framework of the tribunal’s analysis, the non-binding nature of the case law precedents on third
+
+parties, and, if applicable, the distinction between the points meriting the tribunal’s attention in
+
+» Ibid. para. 218.
+
+° Ibid. para. 219.
+
+* Case concerning Elettronica Sicula S.p.A. 1989 ICJ Reports, p. 50.
+* Ibid. paras. 221-227.
+
+%6 Maffezini, para. 53.
+
+-18-
+
+order to arrive at the decision which of them were to be held and which of them were
+
+overabundant.”*”
+
+53. Argentina finds incorrect the analysis of Ambatielos by the tribunal in Maffezini.
+Argentina considers that the decision in Ambatielos regarding administration of justice had a
+substantive content because what was disputed was whether, on the basis of the MFN clause,
+“Mr. Ambatielos was entitled to receive a just treatment, an equitable treatment, and a treatment
+according to law from the English courts.”** Argentina also considers that that tribunal “did not
+take adequate note of the significant differences between the substantive issues raised in that case
+and the issues of a jurisdictional nature that had to be decided in the Maffezini v. Spain case.””
+Furthermore, the tribunal in Maffezini ignores Anglo-Iranian Oil, in which the ICJ “conclusively
+
+affirmed the inapplicability of a MFNC to jurisdictional matters.”“°
+
+54. Argentina affirms that the conclusion reached by the tribunal in Maffezini is based
+on the description of situations such as the convenience of traders and investors and the
+relationship of substantive rights and dispute settlement mechanisms. It is not based, as it should
+be, on the source of relevant law: the intention of the parties. There is no specific analysis of the
+ejusdem generis principle. The only relevant reference is to the generality of the MFN clause. If
+this is the basis of the tribunal’s conclusion, then the other statements regarding convenience of
+investors and the relationship of substantive and jurisdictional rights are in the nature of obiter
+
+dicta."
+
+>? Memorial on Jurisdiction, para. 232.
+
+** Ibid. para. 235. Emphasis in the original.
+* Ibid. para. 237.
+
+4 Ibid. para. 241.
+
+4" Thid. paras. 242-249.
+
+-19-
+
+55. Argentina is concerned that with its reasoning the tribunal in Maffezini “inverted
+the order in the analysis and, by transforming the exception into a rule and vice versa, it grants
+priority to the access to mechanisms for the settlement of disputes which are special over
+
+essential international law principles”.
+
+56. Argentina maintains that Siemens cannot refuse to comply with the provisions of
+the Treaty because they are of a procedural nature or because resort to local courts is useless or
+expensive. Argentina points out that Siemens switches from one treaty to another, which is not
+consistent with the prohibition of contradiction to the prejudice of a third party, a fact that the
+Respondent requests the Tribunal to take into account.*? In any case, the treaties referred to by
+Siemens in support of its argument are not applicable since they have dispute settlement
+mechanisms that do not require “‘a previous, effective and diligent use of national jurisdiction”.
+
+They all require simply a waiting period related to negotiations.
+
+57. Argentina recalls that its consent to international arbitration is subject to the
+requirement of bringing the dispute to the local courts in a first stage. This “not only implies
+aspects related to the legal source of the consent to arbitration jurisdiction, but it is also related to
+sensitive economic policy and foreign policy issues. In short, such term constitutes an essential
+
+element of the exceptional jurisdictional offer made in investment treaties.”**
+
+58. It cannot be argued, maintains Argentina, that the situation has changed regarding
+legal costs in Argentina or that the judiciary in Argentina is more inefficient than it was when the
+Treaty was signed. On both counts the situation remains the same. The Tribunal cannot redefine
+® Ibid. para. 249.
+
+4 Thid. para. 260.
+
+Ibid. para. 262. Emphasis in the original.
+4 Thid. para. 263.
+
+-20-
+
+the Treaty without incurring in “a serious and clear excess of powers which would not only
+invalidate the whole proceeding, but would seriously cause the new system for international
+
+protection of investment to lose prestige.”*°
+
+59. Asa final point, Argentina finds that the Tribunal should not consider as purely
+temporal the requisite that investors bring an investment dispute before a local court. In this
+respect, Argentina recalls that the tribunal in Maffezini held “the courts of the Contracting Parties
+
+are given an opportunity to vindicate the international obligations guaranteed in the BIT. Given
+
+ 
+
+the language of the treaty, this is a role which the Contracting Parties can be presumed to have
+wished to retain for their courts, albeit within a prescribed time limit. Second, Claimant’s
+interpretation of Article X(2) would deprive this provision of any meaning, a result that would
+
+not be compatible with generally accepted principles of treaty interpretation, particularly those of
+
+the Vienna Convention on the Law of the Treaties.”*”
+
+(b) Position of the Claimant
+60. Siemens contests the restrictive interpretation of the Treaty on which Argentina
+bases its case. The Vienna Convention requires that the provisions of a treaty be interpreted in
+good faith. Applying this principle to a reading of the Treaty and the MFN clause leads Siemens
+to the conclusion that this clause comprises all matters covered by the Treaty, except those
+expressly excluded in Article 3(3) and (4) and Ad Article 3(b) of the Protocol and the Reversal
+Note dated April 9, 1991. Siemens considers that “The mechanisms for the settlement of
+
+disputes are part of the guarantees for the promotion and protection of foreign investments
+
+4 Ibid. para. 268.
+47 Ibid. para. 270. Emphasis in the original.
+
+-21-
+
+granted to the investors, being international arbitration for the settlement of investment disputes
+
+before ICSID one of the most relevant of them.’”“*
+
+61. Siemens argues that it has a right to invoke relevant case law in support of its
+claim without it being a violation of Article 53 of the Convention. Argentina misconceives
+Siemens’ reliance on the legal authority arising from Mafezzini. It is clear to Siemens that the
+
+principle of res inter alios acta has no relevance in the operation of an MEN clause.”
+
+62. According to Siemens, Article 3 of the Treaty relates to the treatment granted to
+investments and investors. It is not logical to protect the investment and deny this protection to
+its owner. The treatment under the Treaty is not restricted to any particular substantive standards
+of treatment: “The MFN treatment is contained in a separate clause without any distinction
+
+concerning a specific matter which could limit the scope of application of the clause.”*°
+
+63. Siemens finds that Article 3(2) extends rather than limits the application of the
+MEN clause. The term “activity” is broad and inclusive and the list of activities enumerated in
+the Protocol is preceded by the words “especially but not exclusively”. According to Siemens,
+“The settlement of an investment dispute falls within this term; particularly, the exercise by an
+investor of its right of action to solve an investment claim under the Treaty is a clear example of
+
+>! Even if it would be
+
+an activity in connection with investments pursuant to this Article.
+possible to interpret the term “activity” restrictively under the Treaty, “the management,
+maintenance, use and enjoyment of an investment” described in the Protocol are terms that
+encompass activities in the context of dispute settlement. It is a normal feature of the
+48 Counter-Memorial on Jurisdiction, para. 69.
+
+* Tid. paras. 72-73.
+
+* Ibid. paras. 77 and 79.
+*! Ibid. paras. 83 and 85.
+
+-22-
+
+management and operation of an enterprise to participate in litigation. The power to bring legal
+
+sonia F 9952
+action is a classical part of management.”®
+
+64. Siemens argues that it is irrelevant to the jurisdiction of the Tribunal whether the
+State may also resort to the dispute settlement provided for in the Treaty. This should not be a
+reason “to deny an investor’s right to institute arbitration under conditions not-less favourable
+
+than the third State’s investors.” Siemens’ right is independent of the State’s right .©*
+
+65. The Claimant rebuts the link established by Argentina between national treatment
+and MEN treatment. The Claimant finds that there is no basis in the Treaty for such reading. In
+fact, the Treaty provides MFN treatment and national treatment as alternative standards of
+protection; they are independent and can be invoked by the foreign investor independently of
+each other. This understanding of Article 3 of the Treaty is confirmed by the ILC’s Commentary
+
+to draft Article 19(1):
+
+“[I]n the presence of the most-favored-nation treatment, national treatment
+and any other treatment accorded by the granting State with respect to the
+same subject-matter, the beneficiary State not only ha[s] an ‘either/or’
+choice, but might also be in a position to opt for the cumulative enjoyment
+of all, some, or parts of the various treatments concerned. [...] [W]henever
+the beneficiary State is accorded different types of treatment with respect
+to the same subject-matter, it shall be entitled to whichever treatment or
+combination of treatments it prefers in any particular case.”*
+
+66. Siemens reaches the opposite conclusion as the Respondent regarding the
+exceptions included in Article 3 and the inclusion of an additional MFN clause in Article 4. The
+
+MEN clause in Article 3 applies “to the ‘agreed sphere of relations’ covered by the Treaty as a
+
+* Ibid. para. 87.
+* Ibid. paras. 91-92.
+* Ibid. para. 103, citation.
+
+-23-
+
+whole, except where the contracting parties negotiated its exclusion, which is not the case with
+
+dispute settlement.”
+
+67. _ As regards Article 4, the existence of a specialized provision does not negate the
+effect of an MEN clause not attached to a particular provision; if it would, it would negate the
+meaning of Article 3 altogether. The MFN clause in that article can be read differently from the
+clause in Article 3: “while the general MFNC is subject to the exceptions contained in Article
+3(3) and (4), these exceptions do not apply in the case of Article 4.”°° There are also differences
+between the two clauses as regards national treatment. National treatment in Article 4 is limited
+
+to the case covered by Article 4(3).°”
+
+68. Siemens considers irrelevant the arguments made by Argentina regarding
+severability, Kompetenz-Kompetenz and assignment. The Claimant maintains that the
+considerations that apply to severability bear no relationship to the status of the MFN clause.
+The authority of the Tribunal to decide its own competence has also no relationship to the issue
+of the MFN clause, except that the Tribunal has the power to decide on the effect of the MFN
+clause on its competence. As regards assignment, there is “neither an assignor nor an assignee in
+
+the application of an MEN clause.”**
+
+69. Siemens argues that the principle of ejusdem generis does not preclude the
+application of the MFN clause as intended by Siemens. According to Siemens, Argentina
+misconstrues this principle and its effects. Siemens disputes that the Report of the ILC on MFN
+clauses or the ILC’s commentary provide any basis for a restrictive interpretation with respect to
+* Ibid. para. 108.
+
+* Ibid. para. 114.
+
+*’ Tid. footnote 102.
+* Ibid. paras. 116-119.
+
+-24-
+
+the ejusdem generis principle or for the requirement of an express reference for an MFN clause
+to cover procedural or jurisdictional matters. The same can be said of the cases cited by the
+Respondent. The Treaty does refer to jurisdictional and procedural issues. The principle
+ejusdem generis requires only that the MFN clause and the clause relied on in the third-party
+treaty both relate to jurisdiction. The subject matters of the Treaty and the Chile BIT are
+
+identical.”
+
+70. Siemens also finds mistaken the interpretation made by Argentina of Anglo-
+Iranian Oil Co., Rights of Nationals of the United States of America in Morocco and Ambatielos.
+Anglo-Iranian Co., was decided mainly on considerations of inter-temporal law. The treaties in
+question had no relation to jurisdictional matters and therefore the claimant was, on the basis of
+the MEN clause, unable to rely on other treaties for purposes of jurisdiction. In Rights of
+Nationals the ICJ found that “a broadly worded MEN clause in a treaty that dealt with a number
+of diverse matters, including jurisdiction, entitled the beneficiary to claim jurisdictional
+privileges contained in treaties with third parties. The only reason why the jurisdictional
+privileges were ultimately denied was that they had expired since the rights arising from the third
+party treaties had come to an end.”*' As regards Ambatielos, Siemens contests that the matter at
+issue was related to substantive standards of treatment and not to procedural jurisdictional
+
+agreements. 6
+
+Siemens finds that, when the Commission referred to “the administration of
+justice”, it did not make any distinction between substantive and procedural rights relating to it.
+
+The important finding of the Commission was that “Protection of the rights of traders naturally
+
+* Ibid. paras. 123-127.
+© Ibid. para. 131.
+°' Ibid. para. 133.
+Ibid. para. 139.
+
+-25-
+
+finds a place among the matters dealt with by treaties of commerce and navigation.”** Siemens
+considers this finding particularly relevant for purposes of “activities in connection with
+
+investments” (Article 3(2) of the Treaty).
+
+71. Siemens then turns to BIT state practice in general and of Argentina in particular
+and concludes that MFN clauses conceived in broad terms are the rule rather than the exception.
+The practice of Argentina also shows that there is no consistency regarding access to
+international arbitration in terms of waiting period and prior recourse to the local courts. This
+inconsistency is such that it cannot be argued, as Argentina does, that recourse first to the local
+courts is part of Argentina’s public policy. On the contrary, “the situation described by
+Argentina with respect to provisions on dispute settlement in its recent BITs is a typical case for
+the application of an MFNC. The diverse regulations on access to international arbitration in
+different BITs, create a situation that discriminates against investors of certain nationalities.”®>
+The effect of the MFN clause is to harmonize the conditions applicable to investors irrespective
+of their nationality. Siemens considers that “the existence of treaties with diverse provisions is
+not an argument against the application of an MFNC but a necessary precondition for its
+
+application.”
+
+72. As regards the fact that the terms of Article 10 of the Treaty are at variance with
+those of the German model bilateral investment treaty and therefore show that they were
+
+specifically negotiated, Siemens argues that this cannot be considered a reason for excluding
+
+Ibid. para. 140.
+Tid. para. 142.
+ Tbid. para. 170.
+° Tbid.
+
+-26-
+
+Article 10 provisions from the application of the MFN clause: “There is no evidence that
+
+MENCs are applicable only to treaty provisions that were not subject to negotiations.”
+
+72. Siemens also disputes the consequences attributed by Argentina to TECMED. In
+that case, the arbitral tribunal found that “TECMED should be distinguished from the Maffezini
+case because of the substantial rather than procedural or jurisdictional nature of the matter in
+question [as in Maffezini]. Since the matter at issue in the present case is almost identical to the
+
+one in Maffezini, the decision in TECMED can only confirm Siemens’ claim rather than oppose
+
+it
+
+74. Siemens rebuts the arguments of Argentina on the findings of Maffezini and their
+application to this case. First, the different wording of the two MFN clauses was not significant
+to the decision in Maffezini. The tribunal based its conclusion on the inextricable linkage of the
+protection of foreign investors with dispute settlement arrangements and not on the words “all
+matters” of the MFN clause in the Chile BIT. Second, it is not necessary to have the express will
+of the parties to consider dispute settlement to be included in the MFN clause. The will of the
+
+parties can be “reasonably inferred”, and it can be inferred in the Treaty.”
+
+75. Siemens maintains that the main considerations of the tribunal in Maffezini apply
+in this case: Both treaties are in the same category and contain provisions almost identical on
+dispute settlement; the wording of the two MEN clauses does not reveal significant difference in
+its scope of application; in the Treaty this clause is self-standing, while in the Chile BIT it is in
+an article that deals with a particular aspect of treatment, hence the need to emphasize that it
+
+applies to all matters. Argentina’s BIT practice shows that “it has sought to obtain a dispute
+
+° Ibid. para. 168.
+
+-27-
+
+settlement method for its investors abroad more favorable than that granted under the Treaty to
+
+foreign investors in its territory.” None of the limitations mentioned in Mafezzini apply to this
+case: the procedural requirement is exactly the same in both cases and it does not reflect a
+
+question of fundamental public policy. Siemens concludes that Argentina has failed to
+
+distinguish this case from Maffezini.”°
+
+76. Siemens finds that the criticisms of Maffezini regarding the interpretation of
+Ambatielos are not justified. The MFN clause in Ambatielos did not have a wider range than in
+Mafezzini. The clause in Ambatielos covers administration of justice as much as Mafezzini covers
+dispute settlement. There is no basis in Ambatielos to distinguish between substantive rights
+related to the administration of justice and jurisdictional agreements. Provisions concerning both
+the administration of justice and dispute settlement refer to mechanisms for the protection of
+rights. Siemens finds equally unjustified the criticisms of Maffezini for failing to give legal
+reasons to support the application of the ejusdem generis principle in that case, for failure to
+apply logic, for confusing facts and law, for not giving priority to customary international rules
+over the BIT and the Convention, and for not taking into account that the 18-month period was a
+
+moderate conventional form of the exhaustion of remedies rule.”!
+
+77. Siemens rebuts Argentina’s arguments related to the requirement of Article 10 to
+have recourse first to the local courts. According to Argentina, this requirement is “nothing but a
+
+yo
+
+moderated form of the exhaustion of local remedies rule,”’~ and the exhaustion of local remedies
+
+cannot be tacitly waived by operation of the the MFN clause. Siemens recalls that Article 26 of
+
+ 
+
+8 Ibid. para. 162.
+© Ibid. paras. 180-183.
+7 Ibid. para. 184.
+7! Ibid. para. 194.
+
+-28-
+
+the Convention reverses the order and unless there is an explicit condition to exhaust local
+remedies, the rule does not apply. The State Parties did not limit their consent to arbitration to
+the exhaustion of local remedies when the they signed the Convention or the Treaty. In any case,
+there is a difference between the requirement to exhaust local remedies and one compelling
+resort to domestic courts for a limited period of time. The second requirement is merely a rule of
+
+procedure, the parties may pursue arbitration after the time has lapsed.”*
+
+78. Siemens considers that resort to the local courts would be a futile exercise since it
+is well known, and Siemens submitted an expert opinion in this respect, that it is impossible for
+the local courts to decide a case of this nature within the 18 months provided for in the Treaty.
+Siemens refers to the practice of the ICJ and other tribunals to show that “[they] have generally
+refused to regard non-compliance with clauses providing for waiting periods as an obstacle to
+their jurisdiction. In rejecting objections to their jurisdiction based on such clauses, they have
+emphasized the evident futility of resorting to the alternative means for dispute settlement
+presented by these clauses.””* Argentina’s insistence on Siemens resorting to the local courts
+serves only the purpose of obstructing these arbitration proceedings with meaningless delays and
+disproportionate expenses. According to Siemens, to insist upon a procedure that is incapable of
+achieving its intended result is contrary to the requirement of performing treaty obligations in
+
+good faith.’°
+
+( Considerations of the Tribunal
+
+79. The following issues emerge from the arguments exchanged by the parties:
+
+ 
+
+” Ibid. para. 197.
+* Ibid. paras. 197-203.
+™ Ibid. para. 205.
+75 Ibid. paras. 229-230.
+
+-29-
+
+@
+
+(ii)
+
+(iii)
+
+(iv)
+
+(vy)
+
+(vi)
+
+(vii)
+
+(viii)
+
+(ix)
+
+&)
+
+Interpretation of the Treaty.
+General or specific character of the MFN clauses in Article 3.
+
+If the MFN clauses in Article 3 are considered general clauses, rationale of
+
+the MFN clause in Article 4.
+
+Protection of investments or investors.
+
+Effect of reference to national treatment on the scope of the MFN clause.
+Treatment of investors and dispute settlement.
+
+Exhaustion of local remedies.
+
+Significance of negotiated changes in the model form of German BIT.
+
+Effect on the scope of the MFN clause of the right of the State to bring the
+
+dispute to its courts.
+
+Claim of a benefit under a treaty by the operation of an MFN clause as
+
+triggering application of all the provisions of that treaty.
+
+(i) Interpretation of the Treaty
+
+80. Both parties have based their arguments on the interpretation of the Treaty in
+
+accordance with Article 31(1) of the Vienna Convention. This Article provides that a treaty be
+
+“interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the
+
+treaty in their context and in the light of its object and purpose.” The Tribunal will adhere to
+
+these rules of interpretation in considering the disputed provisions of the Treaty. The first
+
+question posed by the Respondent’s allegations is whether the Treaty should be interpreted
+
+restrictively or broadly.
+
+-30-
+
+81. The Tribunal considers that the Treaty has to be interpreted neither liberally nor
+restrictively, as neither of these adverbs is part of Article 31(1) of the Vienna Convention. The
+Tribunal shall be guided by the purpose of the Treaty as expressed in its title and preamble. It is
+a treaty “to protect” and “to promote” investments. The preamble provides that the parties have
+agreed to the provisions of the Treaty for the purpose of creating favorable conditions for the
+investments of nationals or companies of one of the two States in the territory of the other State.
+Both parties recognize that the promotion and protection of these investments by a treaty may
+stimulate private economic initiative and increase the well-being of the peoples of both
+countries.”° The intention of the parties is clear. It is to create favorable conditions for
+
+investments and to stimulate private initiative.
+
+(ii) General or Specific Character of the MFN Clauses in Article 3
+82. There are three clauses in the Treaty that refer to MFN treatment: Article 3(1),
+Article 3(2) and Article 4(4). The Tribunal will consider first the MFN clauses in Article 3,
+
+which for ease of reference are reproduced here:
+
+Article 3(1): None of the Contracting Parties shall accord in its territory to
+the investments of nationals or companies of the other Contracting Party
+or to investments in which they hold shares, a less favorable treatment
+than the treatment granted to the investments of its own nationals or
+companies or to the investments of nationals or companies of third States.
+
+Article 3(2): None of the Contracting Parties shall accord in its territory to
+nationals or companies of the other Contracting Party a less favorable
+treatment of activities related to investments than granted to its own
+nationals and companies or to the nationals and companies of third
+States.
+
+© Translation of the Tribunal.
+” Translation of the Tribunal.
+
+-31-
+
+83. The exceptions in Article 3 to no less favorable treatment refer to privileges
+agreed in the context of customs or economic unions and of free trade areas (Article 3(3)), and to
+advantages granted in taxation-related agreements (Article 3(4)). The Protocol complements
+these exceptions by excluding measures dictated by internal or external security or public order
+concerns, and the fiscal advantages, exemptions or reductions granted to each Contracting
+Party’s nationals or companies (Ad Article 3 (a) and (b)). In addition, the Protocol states that
+“activities” refers “specially but not exclusively to the administration, use and benefit of an
+investment”, and that measures that affect the purchase of raw materials and other inputs and
+means of production in or outside each Contracting Party will be, “specially but not exclusively”,
+
+considered measures of less than favorable treatment (Ad Article 3 (a)).
+
+84. Based on the exceptions and the provisions of the Protocol, the Respondent has
+alleged that the treatment envisaged in Article 3 is limited to Article 3 itself and refers to
+treatment of transactions of a commercial and economic nature in relation to exploitation and
+management of investments. According to the Respondent, the treatment intended by the parties
+
+is related to the competitiveness of the investments.
+
+85. The first two clauses of Article 3 refer simply to a “not less favorable treatment” —
+“trato no menos favorable” in the Spanish version. “Treatment” in its ordinary meaning refers to
+behavior in respect of an entity or a person. The term “treatment” is neither qualified nor
+described except by the expression “not less favorable”. The term “activities” is equally general.
+The need for exceptions confirms the generality of the meaning of treatment or activities rather
+than setting limits beyond what is said in the exceptions. In clarifying in the Protocol the term
+“activities” used in Article 3(2), the drafters were careful to qualify twice that the clarification is
+
+special but not exclusive. This is a clear indication that the clarifications do not limit the
+
+-32-
+
+meaning of the term “activities”. They simply emphasize matters of particular concern to the
+parties. When the parties meant to provide an outright limitation by way of an exception they
+have done so in paragraphs (3) and (4) of Article 3 and in the Protocol in relation to security
+measures or taxation privileges of nationals or national companies. If it were the intention to
+limit the content of Article 3 beyond the limits of those exceptions, then the terms “treatment” or
+“activities” would have been qualified. The fact that this is not the case is an indication of their
+intended wide scope. Treatment in Article 3 refers to treatment under the Treaty in general and
+
+not only under that article.
+
+86. For these reasons, the Tribunal finds that a plain and contextual reading of Article
+3(1) and (2) does not limit the treatment to transactions of a commercial and economic nature in
+relation to exploitation and management of investments as alleged by Argentina. This
+understanding of Article 3(1) and (2) is reinforced by the consideration that the term
+“companies”, as defined in the Treaty, includes “companies or associations [...] independently
+from whether or not the purpose of their activity is the pursuit of profit”.”> The competitiveness
+argument advanced by Argentina would effectively exclude non-profit organizations from
+protection under the Treaty.
+
+(iii) Rationale of the MFN Clause in Article 4
+
+87. The Tribunal needs to address now the question of the relationship of Articles 3
+and 4, since the Respondent has argued that, if the MFN clause in Article 3 would cover more
+than Article 3 itself, then Article 4 would be superfluous. This result would be against treaty
+
+interpretation rules that require that a meaning be attributed to each clause.
+
+’§ Translation of the Tribunal.
+
+-33-
+
+88.
+
+89.
+consider in detail the provisions of Article 4 in comparison with Article 3. The Tribunal notes
+
+first that Article 4(4) is restricted to “matters covered in this Article”. No such limitation exists in
+
+Article 3.
+
+subjective element which is lacking in Article 3(1). Whether this is significant the Tribunal will
+discuss later in considering the differentiation between investments and investors argued by
+Argentina. There is no reference to national treatment except in Article 4(3) in relation to losses
+caused by war or disturbances. Only Article 3 refers to investments jointly owned by the foreign
+investor with nationals or national companies of the Contracting Party where the investment has
+
+been made.
+
+Article 4 provides that:
+
+“(1) The investments of nationals or companies of each Contracting Party
+shall enjoy full protection and legal security in the territory of the other
+Contracting Party.
+
+(2) [This paragraph deals with expropriation and compensation and is not
+necessary to reproduce for the present discussion]
+
+(3) The nationals or companies of one of the Contracting Parties that
+suffer losses in their investments because of war or other armed conflict,
+revolution, national state of emergency or insurrection in the territory of
+the other Contracting Party, shall not be treated by such party less
+favorably than its own nationals or companies as to restitution,
+compensation, indemnities or other. These payments will be freely
+transferable.
+
+(4) The nationals or companies of each Contracting Party shall enjoy in
+the territory of the other Contracting Party the treatment of the most
+favored nation in all matters covered in this Article.”””
+
+For purposes of considering the Respondent’s interpretation, the Tribunal needs to
+
+The Article 4 MFN clause further refers to nationals or national companies, a
+
+” Translation of the Tribunal.
+
+-34-
+
+90. The Tribunal concludes from this textual comparison that references to MFN
+treatment or to national treatment in Article 4 do not detract from the generality of Article 3 nor
+make Article 4 superfluous. To the extent that there is an overlap, it needs to be understood as
+covering areas of special interest to the parties. Compensation on account of expropriation or of
+civil war or other violent disturbances is a key issue in the treatment of foreign investment and
+foreign nationals and a specific reference to it would seem congruent with its importance. The
+Tribunal considers that the parties to a treaty are not precluded from placing emphasis on certain
+matters ex abundante cautela. The repeated provision in a particular context stresses the concern
+of the parties in respect of that particular matter rather than limiting the scope of clauses of
+
+general character.
+
+(iv) _ Protection of Investments or Investors
+
+91. Argentina has drawn a difference between the protection of investors and of
+investments and reached conclusions which affect the applicability of the MFN clause under the
+Treaty. Investment is referred to in the context of fair and equal treatment, full protection under
+the Treaty and protection against discriminatory or arbitrary measures (Article 2), MFN
+treatment (Article 3(1)), full protection and legal security, expropriation, (Article 4(1) and (2)),
+and more favorable treatment resulting from future developments in international law or general
+agreements (Article 7). The expression “in relation to investments” is found in the context of
+activities under the MFN clause (Article 3(2)), free transfer of payments (Article 5), applicability
+of the Treaty retroactively (Article 8), and dispute settlement (Article 10). Foreign investors
+appear in the provisions on privileges granted under customs or economic unions or free trade
+areas (Article 3(3)), advantages granted under taxation agreements (Article 3(4)), national
+
+treatment in case of war or civil disturbance (Article 4(3)), general treatment under Article 4,
+
+-35-
+
+free transfer of payments (Article 5), payments under guarantees (Article 6), and dispute
+
+settlement (Article 10).
+
+92. The Tribunal notes that Article 3 refers to treatment of investments in paragraph
+(1), while the exceptions refer to investors. On the other hand, there is a double reference to
+investments and investors in Article 4, paragraphs | and 4, respectively. It could be argued based
+on this use of the terms “investments” and “investors” that the exceptions in Article 3 do not
+apply to investments and that unless in each case both terms are used, as it is the case in Article
+4, then the provision concerned applies only to one or the other as the case may be. The Tribunal
+has difficulty with such argument. The Treaty is a treaty to promote and protect investments,
+investors do not figure in the title. Fair and equitable treatment would be reserved to investments,
+and denial of justice to an investor would be excluded. While these considerations may follow a
+strict logical reasoning based on the terms of the Treaty, their result does not seem to accord with
+its purpose. More consistent with it is to consider that, in Article 3, treatment of the investments
+includes treatment of the investors and hence the need to provide for exceptions that refer to
+them. In the same vein, the reference to investors and investments in Article 4 is a matter of
+emphasis, not of exclusion. In other instances, the subjective element is just a matter of plain
+common sense, e.g., in clauses dealing with the transfer of payments, dispute settlement, and
+activities in relation to investments: these actions need to be taken by a person, physical or legal.
+The Tribunal finds that, for purposes of applying the MFN clause, there is no special significance
+
+to the differential use of the terms investor or investments in the Treaty.
+
+(v) Effect of Reference to National Treatment on the Scope of the MFN Clause
+93. The reference to national treatment in Article 3(1) and (2) is provided as one
+
+alternative, the other being treatment not less favorable than the treatment granted to nationals or
+
+-36-
+
+to nationals or companies of a third State. The obligation is dual. The State has undertaken not
+to give treatment less favorable in either situation. It may happen that advantages granted to
+nationals of a third State result in more favorable treatment than that enjoyed by the nationals of
+the grantor State. In that situation, reference to national treatment does not limit the advantages
+that investors may have by operation of the MFN clause. The obligations of the State under
+Article 3 (1) and (2) refer to a minimum level of treatment, not a ceiling. If advantages granted
+to nationals of a third State would not be granted under the MFN clause simply because they
+exceed national treatment, then the State would breach the obligation to grant not less favorable
+treatment under that clause. The simple ordinary meaning of this clause is that investors should
+not be discriminated against for being foreigners and at the same time should be given the best
+treatment afforded any other foreign investor. This treatment is irrespective of whether the
+investment has been made solely by foreign investors or jointly or in association with local
+
+investors.
+
+(vi) Treatment of Investors and Dispute Settlement
+
+94. There has been extensive discussion by the parties as to whether settlement of
+disputes is or is not part of the protection given to investors. The parties have based their
+allegations on conflicting interpretations of Anglo Iranian Oil, Rights of U.S. Nationals in
+
+Morocco, and Ambatielos.
+
+95. In Anglo-Iranian Oil the United Kingdom had argued that, upon the coming into
+force of the Iranian-Danish Treaty on March 6" 1935, Iran became bound, by the operation of
+the MFN clause in the treaties of 1857 and 1903 between Iran and the United Kingdom, to treat
+British nationals in its territory in accordance with the principles and practice of international
+
+law. The ICJ stated that:
+
+-37-
+
+96.
+scope of the MFN clause”, including whether the clause would extend to settlement of disputes.
+The finding that the United Kingdom could not base its case on the MFN clauses included in the
+treaties of 1857 and 1903 was not related to these clauses as such but to the declaration of Iran
+accepting the jurisdiction of the ICJ, which excluded treaties executed prior to the date of the
+
+declaration.
+
+97.
+
+of the MFN clause in a treaty between the United States and Morocco of 1836, specifically,
+
+Without considering the meaning and the scope of the most-favored-nation
+clause, the Court confines itself to stating that this clause is contained in
+the Treaties of 1857 and 1903 between Iran and the United Kingdom,
+which are not subsequent to the ratification of the Iranian Declaration
+[accepting the Court’s jurisdiction]. While Iran is bound by her obligations
+under these Treaties as long as they are in force, the United Kingdom is
+not entitled to rely upon them for the purpose of establishing the
+jurisdiction of the Court, since they are excluded by the terms of the
+Declaration.
+
+As stated by the ICJ itself, it is clear that the ICJ did not consider the “meaning or
+
+As regards the Rights of US Nationals in Morocco, the ICJ considered the scope
+
+Articles 14 and 24. Article 14 provides:
+
+The commerce with the United States shall be on the same footing as is
+the commerce with Spain, or as that with the most favored nation for the
+time being; and their citizens shall be respected and esteemed, and have
+full liberty to pass and repass our country and sea-ports whenever they
+please, without interruption.
+
+Article 24 in part provides:
+[A]nd it is further declared, that whatever indulgence, in trade or
+
+otherwise, shall be granted to any of the Christian powers, the citizens of
+the United States shall be equally entitled to them.
+
+ICJ Reports, p. 109. Emphasis added by the Tribunal.
+
+-38-
+
+98. According to the ICJ, “These articles entitle the United States to invoke the
+provisions of other treaties relating to the capitulatory regime.”*' As described by the ICJ, “The
+most extensive privileges in the matter of consular jurisdiction granted by Morocco were those
+which were contained in the General Treaty with Great Britain of 1856 and in the Treaty of
+Commerce and Navigation with Spain of 1861. Under the provisions of Article IX of the British
+Treaty, there was a grant of consular jurisdiction in all cases, civil and criminal, when British
+nationals were defendants.” Similar protection was granted to Spanish defendants.** The ICJ
+stated: “Accordingly, the United States acquired by virtue of the most-favoured nation clauses,
+civil and criminal consular jurisdiction in all cases in which United States nationals were
+
+defendants.” ©
+
+99. It is evident that the ICJ accepted that MFN clauses may extend to provisions
+related to jurisdictional matters, but this was not really the issue between the parties. The issue in
+that case was different. Spain and the United Kingdom had renounced their capitulatory rights
+and privileges and the US contended that its rights through the MFN clause persisted beyond that
+renunciation. The ICJ found otherwise. Benefits available due to an MFN clause last as long as
+the treaty that grants them is in effect, but they do not become incorporated into the treaty
+containing the MFN clause. If Spain and the United Kingdom would not have renounced their
+capitulatory rights, the United States would have been entitled to identical rights under the MFN
+
+clause of the 1836 treaty.
+
+100. In Ambatielos, the question was whether the MFN clause - Article X of the 1886
+
+treaty between the United Kingdom and Greece - extended to the administration of justice.
+
+S'ICJ Reports 1952, p. 190.
+* Ibid.
+
+-39-
+
+Article X, provided in part: “it being their [the Contracting Parties’] intention that the trade and
+navigation of each country shall be placed, in all respects, by the other on the footing of the most
+
+favoured nation.”**
+
+101. The United Kingdom had contended that the MFN clause could attract only
+matters belonging to the same category of subject as the case itself. The arbitral Commission
+agreed but found that in that case the rule led to conclusions different from the United
+
+Kingdom’s submissions. According to the Commission:
+
+It is true that “the administration of justice”, when viewed in isolation, is a
+subject-matter other than “commerce and navigation”, but this is not
+necessarily so when it is viewed in connection with the protection of the
+rights of traders. Protection of the rights of traders naturally finds a place
+among the matters dealt with by Treaties of commerce and navigation.
+Therefore it cannot be said that the administration of justice, in so far as it
+is concerned with the protection of these rights, must necessarily be
+excluded from the field of application of the most-favoured-nation clause,
+when the latter includes “all matters relating to commerce and
+navigation.
+
+102. The Respondent has argued that, in Ambatielos, administration of justice refers to
+substantive procedural rights like just and equitable treatment and not to purely jurisdictional
+matters. The Tribunal does not find any basis in the reasoning of the Commission to justify such
+distinction. On the other hand, the Tribunal finds that the Treaty itself, together with so many
+other treaties of investment protection, has as a distinctive feature special dispute settlement
+mechanisms not normally open to investors. Access to these mechanisms is part of the
+
+protection offered under the Treaty. It is part of the treatment of foreign investors and
+
+investments and of the advantages accessible through a MFN clause.
+
+ 
+
+8 Thi
+Ibid.
+* United Nations: Reports of International Arbitral Awards, Vol. XII, p. 106.
+
+-40-
+
+103. This conclusion concurs with the findings of the arbitral tribunal in Maffezini. In
+that case, the investor claimed advantages under the Treaty between Spain and Chile for the
+Protection and Encouragement of Investments, dated October 2, 1991. The Respondent has
+emphatically stated that the MFN clause in the basic treaty in Maffezini — the Spain BIT - is
+different from the MFN clause in the Treaty and that Maffezini has to be considered in its own
+context. The Tribunal notes that the MFN clause in the Spain BIT refers to “all matters subject
+
+to this Agreement”™*
+
+, while the MEN clause in the Treaty refers only to “treatment”. The arbitral
+tribunal in Maffezini noted that Spain had used the expression “all matters subject to this
+Agreement” only in the case of its BIT with Argentina and “this treatment” in all other cases.
+The said tribunal commented that the latter was “of course a narrower formulation”.*’ The
+Tribunal concurs that the formulation is narrower but, as concluded above, it considers that the
+term “treatment” and the phrase “activities related to the investments” are sufficiently wide to
+include settlement of disputes.
+
+(vii) Exhaustion of Local Remedies
+
+104. The Respondent has argued that Article 10(2) is a “moderate” version of the
+exhaustion of local remedies rule and that that rule may not be tacitly waived. It is an essential
+element of its consent to arbitration and is related to sensitive economic and foreign policy
+issues. The Tribunal concurs with the Respondent in that the Contracting Parties had intended
+through 10(2) to give the local tribunals an opportunity to decide a dispute first before it would
+be submitted to international arbitration. However, this does not mean that this provision
+
+requires the exhaustion of local remedies as this rule has been understood under international
+
+ 
+
+85 Thi
+Ibid. p. 107.
+
+86 Emilio Agustin Maffezini v. The Kingdom of Spain (ICSID Case No. ARB/97/7), Decision on Objections to
+
+Jurisdiction of January 25, 2000, para. 60.
+
+-41-
+
+law.** Article 10(2) does not require a prior final decision of the courts of the Respondent. It
+does not even require a prior decision of a court at any level. It simply requires the passing of
+time or the persistence of the dispute after a decision by a court. Then, even if this decision is
+one subject to appeal, the requirement of Article 10(2) would have been fulfilled. For these
+reasons, the Tribunal considers that Article 10(2) is not comparable to the local remedies rule
+
+and the issue of a tacit waiver of a rule of international law does not arise.
+
+105. As to the claim that Article 10(2) reflects the policy of Argentina, the Respondent
+has not presented any evidence beyond its affirmations to this effect in the written pleadings.
+The Tribunal would consider an indication of the existence of a policy of the Respondent if a
+certain requirement has been consistently included in similar treaties executed by the
+Respondent. The Chile BIT was signed on August 2, 1991, only a few months before the Treaty.
+The Spain BIT was entered into on October 3, 1991. The US-Argentina BIT, which does not
+require institution of judicial proceedings prior to arbitration, was executed on November 14,
+1991. This lack of consistency among the BITs entered into by the Respondent during the same
+year as the Treaty was signed does not support the argument that the institution of proceedings
+before the local courts is a “sensitive” issue of economic or foreign policy or that it is an
+essential part of the consent of the Respondent to arbitration. The Respondent has sought for its
+own nationals as investors in Chile or the United States similar treatment to that sought by the
+
+Claimant in these proceedings.
+
+(viii) Significance of Negotiated Changes in the Model Form of German BIT
+
+ 
+
+* Ibid.
+*§ Ibid. para. 28.
+
+-42-
+
+106. The Respondent has stressed the fact that the dispute settlement clause departs
+from the standard bilateral investment treaty of Germany in order to support its argument that
+this was a clause specially negotiated and hence which should be differentiated from the rest.
+The acceptance of a clause from a model text does not invest this clause with either more or less
+legal force than other clauses which may had been more difficult to negotiate. The end result of
+the negotiations is an agreed text and the legal significance of each clause is not affected by how
+arduous was the negotiating path to arrive there. The Tribunal feels bound, in its interpretation
+of the Treaty, by the expressed intention of the parties to promote investments and create
+conditions favorable to them. The Tribunal finds that when the intention of the parties has been
+clearly expressed, it is not in its power to second-guess their intentions by attributing special
+meaning to phrases based on whether they were or were not part of a model draft. As already
+noted, the term “treatment” is so general that the Tribunal cannot limit its application except as
+specifically agreed by the parties. In fact, the purpose of the MFN clause is to eliminate the
+effect of specially negotiated provisions unless they have been excepted. It complements the
+undertaking of each State Party to the Treaty not to apply measures discriminatory to
+
+investments under Article 2.
+
+(ix) — Effect on the Scope of the MFN Clause of the Right of the State to Bring the
+Dispute Before its Courts
+
+107. The parties have argued whether the right of the State to submit the dispute to its
+own courts under Article 10 of the Treaty affects the MFN clause since such provision is not
+included in the Chile BIT. In terms of the facts of the case, this issue seems to be of a theoretical
+nature since the Respondent could have submitted this dispute to the local tribunals and did not
+
+before an ICSID arbitral tribunal was seized of it. Whether in the abstract such right of the State
+
+-43-
+
+precludes the application of the MFN clause to dispute settlement under the Treaty, the Tribunal
+considers it not to be such an obstacle here, for the simple reason that the State could have
+brought a dispute with the Claimant to its own courts at any time before this Tribunal became
+seized of it. The BITs do not restrict the rights of investors or the State to pursue a dispute
+
+before the local courts. They provide an additional venue normally not open to investors.*”
+
+(x) Claim of a Benefit under a Treaty by the Operation of an MFN Clause as
+Triggering the Application of All the Provisions of that Treaty
+
+108. As regards the issue of whether the claim of a benefit under an MFN clause
+triggers application of the whole treaty, it depends on the terms of the clause, but only to the
+extent that it is advantageous to the beneficiary of the clause. The MFN clause would be of
+limited use otherwise. This understanding does not mean that the investor in Argentina will
+enjoy a more favorable treatment than the investor in Chile. The MFN clause works both ways.
+
+The investor in Chile will be able to claim similar benefits under the Chile BIT.
+
+109. To conclude, the Tribunal considers that, as a general matter, claiming a benefit
+by the operation of an MFN clause does not carry with it the acceptance of all the terms of the
+treaty which provides for such benefit whether or not they are considered beneficial to the party
+making the claim; neither does it entail that the claiming party has access to all benefits under
+such treaty. This will depend on the terms of the MFN clause and other terms of the treaties
+involved. The Tribunal concurs with Maffezini that the beneficiary of the MFN clause may not
+
+override public policy considerations judged by the parties to a treaty essential to their
+
+* The Spain BIT provides for a similar right. This matter does not seem to have been discussed in Maffezini.
+
+-44-
+
+90
+
+agreement.” As already indicated, the Tribunal considers that the public policy considerations
+
+adduced by the Respondent are not applicable.”!
+110. For the above reasons, the Tribunal rejects the first objection to its jurisdiction.
+
+3. Second Objection: The Dispute Was Submitted to the Local Jurisdiction
+(a) Position of the Respondent
+
+111. Argentina argues that if Siemens may rely on the Chile BIT, then the bifurcation
+clause in that treaty applies. SITS has appealed before the administrative authorities of Argentina
+and stated that SITS reserved the right to pursue arbitration in due time. Furthermore, if the
+Tribunal would find that the MFN clause does not apply, then, Argentina argues, the Tribunal
+could not find that it has jurisdiction under the Treaty because Article 10(2) requires that 18
+months have elapsed since the initiation of the judicial process. According to Argentina, the
+Treaty refers here to the ordinary judicial process. This expression does not include the
+administrative courts. Under said Article 10(2), Argentina argues, the claim has to be pursued in
+
+a diligent and effective manner in the “competent judicial courts”. °
+
+112. A different situation prevails under the Chile BIT. There the expression “local
+jurisdiction” includes both administrative and judicial jurisdiction. Had the parties to that treaty
+intended to mean judicial jurisdiction, then the expression “ordinary judicial procedure” would
+have been used. The term jurisdiction needs to be interpreted to give full meaning to the
+different provisions of the Chile BIT where it occurs. This would not be the case if the
+
+expression “local jurisdiction” is restricted to mean “ordinary judicial procedure”.”*
+
+°° Decision on Jurisdiction, paras. 62-63.
+°! Supra, para. 105.
+
+° Ibid. para. 275.
+
+°3 Ibid. paras. 276-281.
+
+-45-
+
+Furthermore, under international law, jurisdiction denotes the legislative, judicial and
+administrative competence of the State. It is in the customary language of international law to
+
+include the administrative and judicial jurisdictions under the expression “local jurisdiction”.*
+
+113. This interpretation is also confirmed by the text of Article 10(2) of the Chile BIT.
+This article offers the option of international arbitration as opposed to the local jurisdiction. The
+investor may pursue either option. In this context, the reference to local jurisdiction necessarily
+includes the administrative courts. Argentina recalls that “the protection of the private rights of
+individuals is formally dealt with by means of administrative and judicial procedural techniques,
+and that in certain circumstances, the administrative claim is an essential requirement in order for
+
+the judicial appeal to proceed.””>
+
+114. Argentina refers also to the preparatory work for the Chile BIT. Argentina recalls
+a communication from the Chilean Foreign Office to the Argentine counterpart saying that if the
+discussions between investor and State do not succeed, then “the dispute may be submitted to the
+competent administrative or judicial jurisdiction”. The final text included a generic term, local
+jurisdiction, but the intention of the parties is clear. This understanding is confirmed when the
+structure of both documents is compared. Argentina maintains that, since one treaty is based on
+the other, “it can be presupposed that the consequence of using a broad wording (such as local
+jurisdiction) or a specific wording (such as competent courts or judicial procedure) was clear to
+
+the subscribing parties.””°
+
+115. Argentina concludes the reasoning of this objection by affirming that “Siemens
+
+refers to SITS as an alter ego and as a simple vehicle of its will in order to subscribe and perform
+
+* Ibid. para. 276.
+
+-46-
+
+the Contract. Thus, either the proceedings prosecuted by SITS are imputable to Siemens, or
+Siemens is not entitled to bring claims on behalf of SITS, that does not qualify either as an
+
+investor or as an investment pursuant to the Treaty.”””
+
+(b) Position of the Claimant
+116. Siemens denies that the MFN clause requires it to choose between two alternative
+treaties and that once an advantage under a treaty is chosen then all the provisions of that treaty
+apply. Each treaty may carry advantages and disadvantages, and the MFN clause “implies the
+right to select those aspects of provisions in different treaties that favor the MFNC’s beneficiary
+most.”’* Siemens refers in this respect to the Commentary of the ILC on the Draft Articles,
+which states that “whenever the beneficiary State is accorded different types of treatment with
+
+ion of
+
+ 
+
+respect to the same subject-matter, it shall be entitled to whichever treatment or combi
+
+treatments it prefers in any particular case.”””
+
+117. Siemens argues that, even if the position of Argentina were correct as to the effect
+of applying the MFN clause, Siemens has not triggered the fork-in-the-road provision of the
+Chile BIT. Siemens asserts that, for this provision to apply, there must be a submission to a
+national jurisdiction, the dispute so submitted must be identical to that submitted to arbitration,
+and the parties to both proceedings must also be identical. This is not the case here. First, no
+submission has been made before a “national jurisdiction”. This term, according to Siemens,
+makes “reference to bodies that are both independent and impartial, as far as the parties to the
+
+dispute are concerned, and which — pursuant to the host State legal system — are empowered to
+
+ 
+
+°S Thid. para. 286.
+
+°© Ibid. paras. 288-290.
+
+°T Ibid. para. 292.
+
+°8Counter-Memorial on Jurisdiction, para. 242.
+
+°° Ibid. para. 245. Quoted by the Claimant with emphasis added by the Claimant.
+
+-47-
+
+1 This term does not
+
+settle investment disputes between the State and foreign investors.
+include administrative proceedings before the Executive Branch, but only proceedings before
+“the internal bodies of the host state exercising judicial type functions (funciones
+jurisdiccionales), as opposed to those performing administrative or law-making ones.”'°! SITS’
+submissions were made to the Argentine President. He was asked to reconsider a decision he
+had adopted. SITS’ filings before the Argentine President were not part of a judicial proceeding.
+
+The President exercised an administrative, not a judicial, function. In deciding the administrative
+
+appeal filed by SITS, he was just exercising his administrative function.'°”
+
+( Considerations of the Tribunal
+118. The allegations of the parties raise two issues: (i) whether by claiming a benefit
+through the MEN clause all provisions of the treaty providing for that benefit then apply; and (ii)
+whether there is a difference between the terms “local jurisdiction” and “ordinary jurisdiction”
+used in the Chile BIT and the Treaty, respectively, for purposes of applying the fork-in-the-road
+clause under the Chile BIT or the requirement to submit a dispute first to the local courts under
+
+the Treaty.
+
+119. On the first issue, the argument of Argentina is prompted by the wide scope given
+by Siemens in its allegations to the MFN clause in the Treaty. If the MFN clause is interpreted
+to have such coverage, then it should cover the Chile BIT as a whole and not only the provisions
+convenient to the Claimant. The party claiming a benefit under the clause would choose between
+one treaty as a whole and the other, including the application of clauses that may be considered
+less beneficial.
+
+10 Thid. para. 251.
+101 Tid. para. 254.
+
+-48-
+
+120. This understanding of the operation of the MFN clause would defeat the intended
+result of the clause which is to harmonize benefits agreed with a party with those considered
+more favorable granted to another party. It would oblige the party claiming a benefit under a
+treaty to consider the advantages and disadvantages of that treaty as a whole rather than just the
+benefits. The Tribunal recognizes that there may be merit in the proposition that, since a treaty
+has been negotiated as a package, for other parties to benefit from it, they also should be subject
+to its disadvantages. The disadvantages may have been a trade-off for the claimed advantages.
+However, this is not the meaning of an MFN clause. As its own name indicates, it relates only to
+more favorable treatment. There is also no correlation between the generality of the application
+of a particular clause and the generality of benefits and disadvantages that the treaty concerned
+may include. Even if the MFN clause is of a general nature, its application will be related only
+to the benefits that the treaty of reference may grant and to the extent that benefits are perceived
+to be such. As already noted, there may be public policy considerations that limit the benefits
+that may be claimed by the operation of an MFN clause, but those pleaded by the Respondent
+
+have not been considered by the Tribunal to be applicable in this case.
+
+121. On the first issue, the Tribunal concludes that the Claimant may limit the
+application of the Chile BIT to direct access to international arbitration. Therefore, there is no
+further need to consider the allegations of the parties on the fork-in-the-road provision of the
+
+Chile BIT or the nature of the jurisdictions referred to in the Treaty and the Chile BIT.
+
+4. Third and Fourth Objections: Siemens Lacks ius standi
+122. The parties’ allegations on ius standi have extended in part to the issue of whether
+
+the dispute arises directly out of an investment under the Fifth Objection. To avoid repetition,
+
+ 
+
+‘© Counter-Memorial on Jurisdiction, para. 267.
+
+-49-
+
+the Tribunal will consider all issues related to ius standi under this section irrespective of the
+
+heading under which they have been raised.
+
+(a) Position of the Respondent
+123. According to Argentina, the Treaty requires a direct relationship between the
+investor and the investment. In the instant case, this direct relationship does not exist because
+SNI and not Siemens is the holder of the shares in SITS. It follows that only SNI could raise
+claims in relation to its investment and SNI is not party to these proceedings.'"? According to
+Argentina, this understanding is reaffirmed by “the application of a criterion so strong as the
+
+effective seat when assigning nationality to legal persons.”
+
+124. The Respondent recognizes that there is the possibility of indirect claims under
+Article 4 of the Treaty and the related Ad Article 4 of the Protocol.'°> This specific possibility
+under Article 4 shows the exceptional nature of indirect claims. It confirms that they cannot be
+implied but require an express provision in the agreement and the Chile BIT does not permit
+indirect claims. Therefore, if the Tribunal should find the Chile BIT applicable, Siemens could
+not bring an indirect claim at all by the operation of the MFN clause: “[I]f Siemens expects to
+make use of the treatment accorded to Chilean investments and Chilean investors for considering
+it most favorable, then Siemens should be placed in the same position as a Chilean investment or
+a Chilean investor. Otherwise, Siemens and its investment would be accorded a most favorable
+
+treatment than [sic] that accorded to Chilean investors and investments, which is contrary to the
+
+‘3 Memorial on Jurisdiction, paras. 294-295.
+
+14 Thid. para. 293.
+
+15 Ad Article 4 of the Protocol reads as follows: “A claim to compensation shall also exist when any of the
+measures defined in Article 4 is taken in respect of the company in which the investment is made and as a result the
+investment is severely impaired.” (Translation of the Tribunal).
+
+-50-
+
+operation of the MNFC.”'®* Argentina argues that investors cannot pick and choose provisions
+of each treaty and cut a new treaty to the measure of their interests. MFN clauses “do not serve
+
+to create a super investment treaty that includes the main benefits of each different treaty.”!°”
+
+125. The Respondent recognizes that “It is clear that an investor in shares has standing
+to activate dispute settlement mechanisms under bilateral investment treaties in cases of acts by
+the host state that affect it directly.” The situation is different when shareholders bring a claim
+for damages suffered by the company in which they have shares (indirect claims). The
+shareholders and the company have distinct legal personality. In these cases, the possibility for
+the shareholders to file indirect claims is always based on an express authorization. These
+principles are reflected in the judgments of the ICJ in Barcelona Traction and ELSI. ICSID
+decisions have not modified this rule since the claims were brought personally and directly
+(Maffezini v. Kingdom of Spain), the local corporation qualified as an investment (AMT v. Zaire),
+
+or the applicable treaty permitted an indirect claim (AAPL v. Sri Lanka).'*
+
+126. The Respondent contests the notion of direct claim under the Treaty advanced by
+the Claimant: “[A] claim is direct if it originates at [sic] an injury caused directly to a right of
+whoever files a claim. A claim is indirect if it relates to a measure affecting the assets or rights of
+a third party (in this case SITS) and indirectly affects the expectations of whoever claims
+
+(shareholder), who is not the holder of such assets or rights.”!”
+
+127. The Respondent criticizes the Claimant’s allegations as a “gathering of opinions
+and decisions which does not distinguish, inter alia, whether a treaty existed expressly allowing
+16 Memorial on Jurisdiction. para. 306.
+
+107 Tid. para. 308.
+
+108 Thid. paras. 297-299.
+1 Reply on Jurisdiction, para. 142.
+
+-51-
+
+a claim by the shareholder, or whether such company qualified as investment or investor in the
+
+light of the applicable treaty, or whether it was a question of direct or indirect claims.”!'°
+
+(b) Position of the Claimant
+
+128. Siemens refutes the notion that such a direct relationship is required by the Treaty.
+There is no reference in the Treaty to a direct relationship between the investor and the
+investment as a requirement to entitle it to protection. The broad formula used in Article 1 (1) to
+define investment “could only be limited by express exceptions or limitations set out in the
+Treaty itself [...] had the parties intended to exclude certain assets from the Treaty’s scope of
+application, they would have done so.”''! Siemens refers to three approaches to the definition of
+investment. The Treaty uses the most general definition, the asset-based approach, as opposed to
+the enterprise-based or transaction-based approaches. The Contracting Parties in adopting this
+approach “did not intend to require direct ownership of the assets covered by the definition; this
+conclusion is supported by the absence of any exclusion expressly set forth in the Treaty in order
+
+to limit the typical broad reference involved in the asset-based definition.”!'
+
+129. Siemens also contests the validity of Argentina’s assertion that the use of the
+effective seat of the investor to determine nationality is evidence of the requirement of a direct
+relationship between the investor and the investment. Nationality by corporate seat is one of the
+accepted criteria for determining corporate nationality. Such criterion has no effect on the status
+of Siemens as an investor. Siemens finds that “in the light of the broad definition of the terms
+[sic] ‘investment’ set out in the Treaty as well as the ICSID Convention and its interpretation as
+
+reflected in the ICSID practice and the opinion of distinguished legal authors, the only
+
+"0 Tid. para. 154.
+"! Counter-Memorial on Jurisdiction, paras. 308-309.
+
+-52-
+
+interpretation sustainable is that the Treaty does cover indirect investment as the one made by
+
+Siemens in this case.”'"
+
+130. Siemens maintains that it has standing irrespective of SNI’s right to enjoy the
+protection of the Treaty. Siemens is not precluded from pursuing its claim under the Treaty due
+to the fact that the shares in SITS are held through SNI. Siemens has submitted its claim in its
+
+own right.''4
+
+131. As regards the standing of Siemens from an international law point of view,
+Siemens alleges that Barcelona Traction has been misconstrued by the Respondent. In that case,
+the issue was not whether international law provided an independent source of rights and
+protections for shareholders; rather the question was whether a State could protect its
+shareholders in a foreign corporation affected by measures of a third State. This distinction,
+according to Siemens, is “fundamental because the international law question addressed by the
+ICJ was not whether shareholders had a cause of action under international law.”'!> In the
+present case, the Treaty grants standing to the shareholders and the ICJ held that foreign
+shareholders are protected by international law if the company is a national of the respondent
+state. In fact, this is the case of SITS. Furthermore, the ICJ in Barcelona Traction referred to
+treaty developments in foreign investment protection by which “Sometimes companies are
+themselves vested with a direct right to defend their interests against States through prescribed
+procedures. No such instrument is in force between the Parties to the present case.”!'° In ELSI
+
+“the ICJ did not even address the question of whether the substantive provisions of the treaty
+
+ 
+
+"2 Rejoinder on Jurisdiction, para.186.
+"3 Counter-Memorial, para. 322.
+
+"4 Tid, paras. 323-331.
+
+"5 Tid. para. 352.
+
+-53-
+
+[...] granted protection to the U.S. shareholders in relation to acts of the Italian authorities aimed
+at the company. By examining the merits of the claims, the ICJ clearly considered that the treaty
+
+protected the shareholders.”!!”
+
+132. Siemens reviews the practice of arbitral tribunals established under BITs and
+concludes that “[they] have consistently granted standing to foreign investors holding shares in
+locally incorporated companies. In all these cases, adverse measures by the host State that have
+affected the local company, were found as giving foreign shareholders in these companies a
+
+direct right of action.”!'*
+
+Siemens considers also that the practice of the Iran-United States
+Claims Tribunal does not support the position of Argentina, contrary to what has been alleged by
+Argentina. Article VII(2) of the Claims Settlement Declaration provides the criteria for
+determining whether a particular investment belongs to a protected investor and it does not
+“preclude a shareholder in a local company, injured by host-state measures, from bringing a
+claim in relation to its shareholding. Article VII(2) merely determines whether that shareholding
+may be said to belong to a protected investor."''? According to Siemens, the case law of the
+
+Iran-United States Claims Tribunal confirms this understanding as evidenced in American
+
+International Group, Inc. (AIG) v. Iran and Ebrahimi v. Iran.'°
+
+133. Siemens also argues that the wording of the Treaty does not support the position
+of Argentina. The Preamble is clear in that the purpose of the Treaty is to create favorable
+conditions for investments and the definition of this term is very broad and covers every kind of
+
+assets. The Ad Article 4 of the Protocol by referring to “shall also exist” indicates that it is not
+
+ 
+
+''6 Thid. para. 358, quoted by Claimant.
+"7 Tid. para. 359.
+"8 Tid. para. 381.
+"9 Tid. para. 382.
+
+we
+
+-54-
+
+exclusive and that “this provision cannot be construed to mean that rights protected by other
+Articles of the Treaty enjoyed by the investor by virtue of its investment in the local company
+are excluded.”!?! Siemens concludes that “Argentina’s attempt to deny the advantages of the
+Treaty to foreign investors in local companies by relying on the corporate personality of those
+
+companies is at odds with the Treaty.”!””
+
+134. Siemens also contests the effect attributed by the Respondent to the claim of a
+benefit under the MFN clause in respect of Ad Article 4 of the Protocol. The fact that indirect
+claims are mentioned in that Article and not in the Chile BIT does not mean that Siemens has to
+abide by all the provisions of the Chile BIT. Siemens is not bound by a less favorable provision
+
+of the Chile BIT. To argue otherwise, contradicts the intent of the MFN clause.'”*
+
+( Considerations of the Tribunal
+135. The Tribunal has already found that the claim of favorable treatment under a
+provision of the Chile BIT does not necessarily entail being subject to all provisions of the Chile
+BIT, including those that the Claimant may consider less advantageous. Therefore, for purposes
+of consideration of this objection, the question of whether the Chile BIT only covers direct
+
+investments is of no relevance.
+
+136. The arguments of the Respondent against protection of indirect investments are
+based on the extraordinary nature of such protection requiring specific coverage in the Treaty, on
+the fact that there is such specific reference only in Article 4 and on the criterion defining the
+
+nationality of a company by its seat. The arguments on indirect investments revolve around two
+
+ 
+
+207 egal Authority No. 85 submitted with Counter-Memorial on Jurisdiction.
+"21 Counter-Memorial on Jurisdiction, para. 391.
+
+!22 Thid. para. 392.
+
+"23 Thid. para. 400.
+
+-55-
+
+different meanings of indirect: indirect meaning that the shareholder of the local company
+controls it through another company, and indirect meaning that a shareholder may claim damage
+suffered by a company in which it holds shares. These two distinct situations appear intertwined
+in the parties’ arguments. The Tribunal will consider first the arguments related to indirect
+
+investment understood as an investment by an investor through interposed companies.
+
+137. The Tribunal has conducted a detailed analysis of the references in the Treaty to
+“investment” and “investor”. The Tribunal observes that there is no explicit reference to direct
+or indirect investment as such in the Treaty. The definition of “investment” is very broad. An
+investment is any kind of asset considered to be such under the law of the Contracting Party
+where the investment has been made. The specific categories of investment included in the
+definition are included as examples rather than with the purpose of excluding those not listed.
+The drafters were careful to use the words “not exclusively” before listing the categories of
+“particularly” included investments. One of the categories consists of “shares, rights of
+participation in companies and other types of participation in companies”.'** The plain meaning
+of this provision is that shares held by a German shareholder are protected under the Treaty. The
+Treaty does not require that there be no interposed companies between the investment and the
+ultimate owner of the company. Therefore, a literal reading of the Treaty does not support the
+
+allegation that the definition of investment excludes indirect investments.
+
+138. The arguments related to Ad Article 4 of the Protocol refer to indirect claims by a
+shareholder based on damage to the company in which it holds shares. It will be useful to
+reproduce this provision here. It reads as follows: “The right to be compensated also exists
+
+when measures defined in Article 4 are adopted in respect of a company where the investment
+
+-56-
+
+has been made and as a result of such measures the investment is severely prejudiced.” The term
+“measures” in Article 4 of the Treaty is used only in the context of expropriation or measures
+tantamount to expropriation. This Article and the addition in the Protocol read together indicate
+that the right to be compensated is based on damage suffered by the investment directly, or
+indirectly through “measures” taken against the company. It is not sufficient for the company in
+which the investment has been made to suffer damage. This damage has to have a detrimental
+
+effect on the investment. This effect is the cause of the State’s responsibility under the Treaty.
+
+139. Argentina considers this provision to be indicative of the special nature of indirect
+claims and that, for them to be possible, they have to be specifically authorized. Siemens reads
+the use of “also” in connection with the right of compensation to mean that this is yet another
+indication that this right is not limited to this situation. The Tribunal considers that this clause
+focuses on damage to the investment directly, or indirectly through measures taken against the
+company in which the investment has been made, rather than on who may base a claim on it.
+The provision speaks of a right to compensation, without specifying who may claim such a right,
+whether directly or indirectly. The use of “also” should be read in the same light. It is
+established in the Treaty that the right to be compensated exists in case of expropriation and
+measures having the equivalent effect, and “also” in the case of measures directed against the
+company in which the investment has been made. Therefore, in the opinion of the Tribunal, the
+arguments related to indirect claims based on these provisions are misplaced.
+
+140. It follows from this conclusion that there is no merit in the allegation that the
+provision for indirect claims in Article 4 and the corresponding provision of the Protocol are an
+
+indication that such claims are not permitted under other provisions of the Treaty. In this
+
+ 
+
+4 Article 1(1) b).
+
+-57-
+
+respect, the Tribunal also notes that Article 4 is the only article in the Treaty that deals with
+compensation in case of expropriation and of war or civil unrest. If the Treaty should be
+interpreted as alleged by Argentina - by excluding from its application every specific situation
+that has not been included -, we would be bound to reach the conclusion that, in cases of
+discrimination, arbitrary measures, or treatment short of the just and equitable standard, there
+would not be a right to compensation under the Treaty - an unlikely intended result by the
+Contracting Parties given the Treaty’s purpose. If a matter is dealt with in a provision of the
+Treaty and not specifically mentioned under other provisions, it does not necessarily follow that
+
+the other provisions should be considered to exclude the matter especially covered.
+
+141. The parties have also referred to the case law of the ICJ and ICSID tribunals
+related to indirect claims and the extent to which they are permissible. The parties have widely
+different interpretations of the significance of Barcelona Traction and ELSI regarding the extent
+of the right of a State under public international law to grant diplomatic protection to nationals
+who are shareholders in foreign companies. The Tribunal considers it unnecessary to discuss the
+relevance of these cases to the current proceedings. The issues before this Tribunal concern not
+diplomatic protection under customary international law but the rights of investors, including
+
+shareholders, as determined by the Treaty.
+
+142. As regards ICSID case law dealing with the issue of the right of shareholders to
+bring a claim before an arbitral tribunal, the decisions of arbitral tribunals have been consistent in
+deciding in favor of such right of shareholders. The Tribunal does not agree with the arguments
+advanced by Argentina to the effect that these cases do not support the Claimant’s contentions
+because the claims were brought personally and directly (Maffezini v. Kingdom of Spain), the
+
+local corporation qualified as an investment (AMT v. Zaire), or the applicable treaty permitted an
+
+-58-
+
+indirect claim (AAPL v. Sri Lanka). In all these cases, whether involving individual shareholders
+or corporate shareholders, the arbitral tribunals recognized their ius standi. The fact that the
+shareholders were individuals does not make them qualitatively different from Siemens. The
+arguments of Argentina are also based on the issue of indirect investment which the Tribunal has
+
+already rejected.
+
+143. The Tribunal considers further that the Respondent has failed to establish that the
+effective seat criterion for determining nationality of a company limits the possibility of
+advancing indirect claims under the Treaty. In the opinion of the Tribunal, the two matters are
+unrelated. If indirect claims are permitted, those would be permitted irrespective of the criterion
+
+chosen in the Treaty to determine the nationality of investors.
+
+144. For the above reasons, the Tribunal considers that Siemens has ius standi in these
+
+proceedings as an investor in SITS through SNI.
+
+5. Fifth Objection: The Dispute Does Not Arise Directly Out of an Investment
+(a) Position of the Respondent
+145. Argentina argues that, as evidenced by the preparatory works of the Convention,
+it was the intention to interpret restrictively the disputes that could be brought under the
+Convention and the term “directly” was included instead of others that would have been less
+restrictive, such as “in relation to” or “arising out of’ an investment. Siemens’ investment
+consists of shares in SNI or, if identity of SNI and Siemens is assumed, of shares in SITS, an
+
+Argentine company. The dispute is related to acts of the Federal Government in respect of the
+
+-59-
+
+Contract, it arises out of SITS’s contractual rights and obligations, and SITS is not an investor
+
+nor an investment under the terms of the Treaty.'?°
+
+146. According to the Respondent, “it can be simultaneously and concordantly stated
+that: i) the dispute brought by Siemens arises directly out of assets which do not constitute an
+investment of Siemens and ii) the dispute brought by Siemens does not arise directly out of an
+investment in shares of stock in SITS.”!”° The Respondent develops this argument further in its
+Reply on Jurisdiction. The Respondent recognizes as a possible investment only the shares held
+in SITS by SNI who, inexplicably, is not part in this proceeding. SITS itself and the Contract are
+not investments and the dispute concerns issues related to the Contract, not the shares of SITS.
+Argentina has not expropriated these shares. According to Argentina, the legal dispute does not
+arise directly from an investment in shares by Siemens since it concerns the effects of measures
+taken by the Respondent in relation to an asset that is not an investment: the legal dispute arises
+
+indirectly from an alleged investment in shares.'7”
+
+(b) Position of the Claimant
+147. Siemens recalls that SNI became fully integrated into Siemens in 1992. The
+consequence of integration under German Law is close to a merger in which the integrated
+company preserves its legal personality but loses its independence: SNI’s Managing Board has
+the obligation to implement the directives of Siemens, Siemens has access to SNI’s assets, and
+Siemens is jointly and severally liable for SNI’s liabilities incurred prior to and during the
+
+integration. In fact, SNI is just a business unit of Siemens.'”*
+
+25 Memorial on Jurisdiction, paras. 309-313.
+
+126 Thid. para. 315.
+
+"27 Reply on Jurisdiction, paras. 160-172.
+
+"8 Counter-Memorial on Jurisdiction, para. 334-335.
+
+-60-
+
+148. Siemens argues that it is not claiming SITS’ rights, but rather Siemens’ rights,
+under the Treaty. Siemens’ claim is not indirect but a direct action under the Treaty “based on
+Argentina’s multiple breaches of the guarantees and protection granted to German investors in
+
+9129
+
+the Treaty. Siemens’ direct right of action is “independent of and distinct from any
+
+contractual right of action that SITS may have under the Contract or Argentine law.”!?
+
+Argentine civil and company law are irrelevant for purposes of Siemens’ rights under the Treaty.
+
+149. Siemens points out that the objection of Argentina has nothing to do with the
+requirement of Article 25(1) that the dispute should arise directly out of an investment. Since
+Argentina denies that Siemens has made an investment in that country for purposes of the Treaty,
+then clearly there can be no dispute arising out of the investment. In fact, Argentina confuses the
+direct requirement of Article 25(1) with the issue of direct/indirect claims and persists in
+identifying Siemens’ rights and claims arising directly from the Treaty with SITS’ rights and
+
+possible claims under the Contract and Argentina law.'*!
+
+( Considerations of the Tribunal
+150. As described by Siemens, its investment consists of: “shares, rights of
+participation in companies and other types of participation”, “claims to money that has been used
+to create economic value or claims to any performance under a contract having an economic
+
+value”, “intellectual property rights”, and “business concessions conferred by public law.” There
+is no doubt that the dispute with Argentina under the Treaty is a dispute which arises directly
+
+from the investment as defined by Siemens. The quality of a direct dispute is not affected by
+
+Siemens not being the direct shareholder of the local company. This is a separate question. For
+
+29 Tid. para. 340.
+10 Tid. para. 241.
+
+-61-
+
+purposes of Article 25(1), a dispute may arise directly out of an investment made directly or
+indirectly by an investor. Whether in that situation the investor qualifies as such will depend on
+the definition of investor in the treaty or the terms of the investment contract. The direct
+requirement under the ICSID Convention is related to the investment dispute, not to whether the
+
+investor is direct or indirect.
+
+6. Sixth Objection: The Dispute is Hypothetical
+(a) Position of the Respondent
+
+151. According to Argentina, the Treaty requires that a dispute exist at the time of
+notification to it for purposes of arbitration. There must be continuity between the dispute
+brought by the investor and the dispute that was subject to negotiations during the amicable
+phase and afterwards brought before the local courts. In this case, Argentina argues Siemens
+notified the dispute while SITS filed appeals against the measures taken by the State. This is
+disconcerting for the Respondent because if SITS succeeded in its administrative appeal, “the
+
+expropriation claim made no sense”'*”,
+
+Hence, the hypothetical character of the dispute: it may
+have happened that the expropriation measure had been revoked based on SITS’ own
+
+jurisdictional activity.
+
+152. Furthermore, Argentina recalls that it has always acknowledged that SITS has a
+right to compensation due to the termination of the Contract. Therefore, it was impossible that
+the dispute had arisen when the Claimant filed its notification, July 23, 2001. The existence of
+the dispute depended on facts that might or might not occur and did not depend solely on the
+
+Respondent’s will: Argentina required the collaboration of the Claimant for purposes of the
+
+ 
+
+ 
+
+'S! Rejoinder on Juri
+
+iction, paras, 231-235.
+132
+
+Memorial on Jurisdiction, para. 324.
+
+-62-
+
+valuation. Siemens never filed a real dispute founded on a violation of Article 4 of the Treaty on
+grounds of “an unjustified delay by the Federal State to determine the compensation owed to
+SITS, or in its case, because the compensation amount offered severely impaired the
+
+investment”.'*
+
+153. Argentina also argues that an expropriation cannot be consolidated during the
+arbitration proceedings: “[T]there has to be a fundamental dispossession of the use and
+enjoyment of a definite investment without compensation at the moment the claim is placed.”!™4
+
+Argentina warns of a proliferation of “just in case” claims should claims based on immature
+
+controversies be allowed to proceed.'*°
+
+(b) Position of Claimant
+
+154. Siemens argues that the dispute is concrete in the light of Siemens’ own rights
+under the Treaty and its violation by Argentina. Argentina took a series of measures over a
+period of two years that amounted to creeping expropriation and failure to meet the obligations
+under the Treaty to accord Siemens’ investment fair and equitable treatment and guarantee its
+full protection and legal security, to avoid any arbitrary and discriminatory treatment, and to
+comply with the obligations specifically undertaken towards the investment. Siemens’ claims go
+beyond a claim of expropriation for termination of the Contract without compensation.'*
+
+Furthermore, for purposes of jurisdiction, the relevant date is the date of institution of the
+
+'33 Thid. para. 329. Emphasis in the original.
+
+'4 Reply on Jurisdiction, para. 175.
+
+135 Thid. para. 176.
+
+'86 Counter-Memorial on Jurisdiction, paras. 429-430 and Rejoinder on Jurisdiction, para. 240.
+
+ 
+
+-63-
+
+proceedings, in this case July 17, 2002, when the dispute was registered, and not July 23, 2001 as
+
+maintained by Argentina.'*’ On that date, July 17, 2002, the dispute was “real and in force”.'**
+
+155. The Claimant maintains that the real nature of the dispute under the Treaty was
+recognized by the Respondent when the parties considered the possibility of submitting the
+dispute jointly to ICSID and limiting it to the amount of damages. The conduct of Argentina
+towards Siemens confirms that a concrete and relevant dispute exists. Siemens also affirms that
+the administrative appeal of SITS did not request a declaration that the Contract was still in force
+and effect but “to establish that its termination was due to Argentina’s fault and, accordingly,
+that SITS’ compensation should be full rather than limited, as suggested by the Government.”!?
+
+The denial by Argentina that Siemens has a right to compensation under the Treaty is another
+
+instance that evidences the existence of a concrete dispute.'*°
+
+156. Another flaw in Argentina’s objection is the timing regarding the issue of
+compensation. This is premature and not valid as an exception to jurisdiction. It should be
+raised in the proceedings on the merits. The Treaty requires that compensation be paid without
+delay and Argentina does not claim to have taken any steps in this regard. Furthermore,
+Siemens’ claims cannot be reduced to compensation and the recognition of an obligation of
+
+compensation is not sufficient to terminate the dispute as recognized in AGIP v. Congo.!“!
+
+157. Siemens concludes its rebuttal of this objection by stating that “The present
+dispute —which comprises an expropriation claim, and other violations of the Treaty, has existed
+
+from the moment Argentina deprived Siemens of the economic benefits of its investments and
+'57 Counter-Memorial on Jurisdiction, para. 433.
+'3§ Rejoinder on Jurisdiction, para. 240 (i).
+
+'° Counter-Memorial on Jurisdiction, para. 443.
+'40 Thid. para. 445.
+
+-64-
+
+violated the guarantees and protections granted to Siemens and its investment under the Treaty.
+Those effects took place before notice of the dispute was delivered by Siemens to Argentina
+through its letter dated July 23, 2001.”'*? Siemens re-affirms that its claims arise directly from
+its rights under the Treaty and that “Argentina’s assertions concerning SITS’ compensation and
+the internal proceedings in relation to it are misplaced and irrelevant to jurisdiction in this
+
+case.”!43
+
+( Considerations of the Tribunal
+
+158. The Tribunal needs to consider whether a real, as opposed to a hypothetical,
+dispute exists and, for purposes of jurisdiction, which is the critical date for determining its
+existence. The exchanges between the parties in this connection also have raised issues about the
+nature of the dispute, compensation, and the lack of continuity between the dispute as described
+in the notification of the dispute and the claims made in these proceedings. The first two of these
+issues are related to the merits of the dispute and the Tribunal does not need to address them for
+purposes of determining whether it has jurisdiction in this case. The third issue is the subject of
+
+the seventh objection to jurisdiction and will be dealt with later by the Tribunal.
+
+159. For a dispute to exist, according to the ICJ, there must be “a disagreement on a
+point of law or fact, a conflict of legal views or interests between the parties.”!“4 In AAPL y. Sri
+Lanka, the arbitral tribunal considered it sufficient for a dispute to exist that there be a lack of
+
+5
+
+response to a specific demand after a reasonable period of time.'*> In the instant case, the
+
+supposed hypothetical nature of the dispute is related to the fact that SITS filed administrative
+
+ 
+
+'S! Thid. paras. 446-448.
+
+'® Ibid. para. 454.
+
+'8 Tid. para. 455.
+
+'4 Case concerning East Timor, 1995 ICJ Reports, p. 89.
+'45 Award, June 27, 1990, 4 ICSID Reports 251.
+
+-65-
+
+appeals against Decree 669/01 and Siemens notified Argentina of the dispute under the Treaty on
+July 23, 2001 before the appeals had been decided. According to Argentina, if SITS would have
+been compensated for the cancellation of the Contract, then there would have been no grounds
+for a claim before ICSID. At the time, it was premature to know what would be the result of the
+
+administrative proceedings.
+
+160. The Tribunal considers that this issue is of a historical nature. The administrative
+appeals were rejected shortly after the notification of the dispute by Decree 1205/01, which
+confirmed Decree 669/01 on September 24, 2001. As Siemens has framed its claim, the claim
+goes beyond expropriation measures and it is a claim under the Treaty by a party different from
+the party that instituted the proceedings in Argentina. There are certainly conflicting interests
+between the parties, and opposed legal views on the significance of certain facts and on whether
+the dispute is a dispute of a contractual nature or a dispute under the Treaty. The Tribunal is
+
+satisfied that a real dispute exists.
+
+161. Concerning the critical date to determine whether a dispute exists, the Tribunal
+considers that for purposes of the Treaty the dispute must exist at the time of the notice of
+arbitration. It has to exist also at the time the dispute is filed with the ICSID Secretariat and at the
+time of registration. The Tribunal has examined the correspondence between the Claimant and
+the Respondent between July 12, 2001, date of the communication of the Claimant to the
+Respondent to start amicable consultations for purposes of Article 10(1) of the Treaty, and
+March 18, 2002, date of the notice of the Claimant to the Respondent concerning its consent to
+arbitration. It is evident from this correspondence that a dispute existed at the time and that the
+
+parties even considered to submit it jointly to arbitration. Although this period of time overlaps
+
+-66-
+
+in part with the appeals made by SITS to the President, this fact was never alleged by the
+
+Respondent as an obstacle to the consultations under Article 10(1) of the Treaty.
+162. For these reasons the Tribunal rejects the sixth objection to its jurisdiction.
+
+7. Seventh Objection: Dispute Has Never Been Notified
+(a) Position of the Respondent
+163. According to Argentina, Siemens has included in its Memorial claims going
+beyond those included in the notification to Argentina about the existence of a dispute or in the
+arbitration request. The Respondent argues that “Siemens tries to allege the existence of a
+creeping expropriation and to include additional claims as part of a supposed expropriatory
+99146
+
+process. In order to increase, in this way, the calculation basis of the compensation it claims.
+
+The only admissible claim is the claim based on the rescission of the Contract.
+
+164. Argentina considers that “there was neither a controversy in connection with
+clearly identified problems, nor a precise claim — as required in re Maffezini v. Spain -, until
+Siemens filed its Memorial, at least, in relation to all those matters that are beyond the allegation
+stating that the termination of the Contract by the Federal State amounts to an expropriation
+without just compensation, in violation of section 4 of the Treaty.”'*’ It follows that the six-
+month term requirement to settle the dispute amicably before filing an arbitration request has not
+
+been met.
+
+165. Argentina also points out that there was no additional arbitration request
+
+regarding these claims and no registration of the additional issues as required by Article 36 of the
+
+'46 Memorial on Jurisdiction, para. 335.
+'7 Tid. para. 339.
+
+-67-
+
+Convention, thus depriving the ICSID Secretary-General of the opportunity to consider these
+
+claims for registration purposes. '**
+
+(b) Position of the Claimant
+
+166. Siemens argues that there is no inconsistency between the dispute notified to
+Argentina and the subject matter of the Request for Arbitration and the Claimant’s Memorial.
+The Treaty does not contain any formal notification requirement: “Under Article 10 of the
+Treaty, what matters [...] is whether the communications before the institution of proceedings
+concerned ‘the dispute’ that was subsequently submitted to arbitration.”'*” Siemens described
+the main aspects of the dispute in the note filed on July 23, 2001 and, in the Request for
+Arbitration, listed the measures that constituted multiple breaches of the Treaty. Siemens
+manifests that in both documents it is expressly stated that the claim was not exclusively limited
+
+to the factual or legal arguments set out in them.'*°
+
+167. The six-month period, even if certain matters had not been negotiated, is a
+procedural and not a jurisdictional matter: “Arbitration practice demonstrates that waiting
+periods are procedural rather than jurisdictional and need not to be observed if negotiations are
+obviously futile.”'*' Argentina never evidenced a serious effort to negotiate a settlement and the
+invitation to negotiate was always there. Siemens considers that “the fact that in its Memorial on
+Jurisdiction Argentina rejects in advance Siemens’ claims involved in this dispute evidences
+once more its lack of interest to settle the dispute. Thus, insistence on a separate waiting period
+
+for events allegedly not included in Siemens’ prior submissions could only lead to the illogical
+
+'48 Thid. para. 340.
+'° Counter-Memorial on Jurisdiction, para. 461.
+'50 Thid. para. 463.
+'S! Ibid. para. 466.
+
+-68-
+
+result of forcing the Claimant to go through a futile procedure and ultimately to re-submit to
+
+arbitration exactly the same claim.”!
+
+168. Siemens argues that all measures are part of a chain of events that ended in the
+unilateral termination of the Contract by Argentina and the expropriation of Siemens’
+investment. They form a single dispute: “There can be no doubt that all issues submitted by
+Siemens in its Memorial relate to the same dispute notified to Argentina and that was the object
+of the Request for Arbitration, and are thus properly before the Tribunal.”!** All these issues
+relate to “the same subject matter, the same factual background and the same causes of
+action.” Furthermore, Siemens affirms its right to elaborate in its Memorial on the issues in
+dispute and even to submit “additional claims” until the Reply was due to be filed, as permitted
+
+by Article 46 of the Convention and Rule 40 of the Arbitration Rules.'*
+
+169. According to Siemens, the facts described in the Memorial are “part of a one and
+the same story: the continuing spectrum of Argentina’s interference with the DNI Project and
+the investment environment originally created to secure the development of said project.”!*° The
+legal claims are also the same: “The nature of the dispute is determined not by the facts leading
+
+to it but by the legal claims they trigger.”!*”
+
+( Considerations of the Tribunal
+170. As characterized by the Claimant in its letter of July 12, 2001 (filed on July 23,
+
+2001) to the President of the Argentine Republic, the dispute concerns the breach by Argentina
+
+'22 Thid. para. 469.
+
+'53 Thid. para. 472.
+
+'4 Thid. para. 479.
+
+'S5 Thid. paras. 480-486.
+
+'S6 Rejoinder on Jurisdiction, para. 255.
+
+'57 Tid. para. 256, the quote by the Claimant is from C. Schreuer, The ICSID Convention.
+
+-69-
+
+of its obligation under the Treaty to grant Siemens’ investment just and equitable treatment, and
+full protection and legal security in Argentina, not to take arbitrary or discriminatory measures
+that affect Siemens’ administration, use and benefit of its investment, and not to expropriate or
+nationalize Siemens’ investment or take equivalent measures against it without prompt payment
+of the required compensation. These claims, according to the same letter, are based on the
+actions taken by the Argentine Government after the change of Government in December 1999
+that led to the cancellation of the contract on May 18, 2001. Specifically, the Claimant avers
+that, after the change of Government, it received indications that the new Government wished to
+modify the Contract and that in February 2000 the authorities stopped the preparation, printing
+and distribution of the new DNI, alleging without reason problems of a technical nature. Under
+pressure, Siemens had to initiate negotiations with the Argentine authorities. The negotiations
+failed because the Argentine authorities did not follow up on their commitments and because the
+incremental sacrifices requested from the contractor altered significantly the economic-financial
+
+equation of the Contract.'**
+
+171. The Request for Arbitration sets forth in more detail identical claims. The
+Request lists as acts or omissions of the Respondent the following: (i) measures to press SITS to
+renegotiate the Contract, (ii) the indefinite suspension of the preparation, printing and
+distribution of the new DNIs and the implementation of the DNM’s Immigration System, (iii)
+failure to extend the production of the new DNIs to the whole territory of Argentina, (iv) lack of
+good faith during the re-negotiation process, (v) unilateral termination of the Contract, (vi) non-
+
+payment of compensation, (vii) lack of reception of the remaining assets and of collaboration by
+
+'58 Exhibit 16 to the Request for Arbitration, pp. 2-3.
+
+-70-
+
+the Government in order to solve the economic, logistic and technical problems arising out of the
+
+suspension and unilateral termination of the Contract.'°
+
+172. The Respondent has also alleged that “particularly” the Claimant’s Memorial
+brings issues that have never been pursued in compliance with the Treaty.’ Then it proceeds to
+
+» 161
+
+list a “series of facts that substantially coincide with those listed in the Request for
+
+Arbitration and reproduced above.
+
+173. Comparing the description of facts and legal claims in the letter to the President of
+the Argentine Republic, the description of facts and legal claims in the Request for Arbitration,
+and the “series of facts” referred to by the Respondent in the Memorial on Jurisdiction, the
+Tribunal fails to perceive any new facts or claims presented by the Respondent that would not
+have been encompassed by the notice of the existence of a dispute for purposes of the Treaty.
+The documents concerned are, in this respect, substantially the same, and therefore the Tribunal
+
+finds that there is no merit to the seventh objection.
+
+8. Eighth Objection: The Contract Contains a Specific Jurisdictional Clause
+(a) Position of the Respondent
+174. The Respondent argues that the Contract provides for the submission to the
+Federal Administrative and Contentious Courts of Buenos Aires any legal dispute in connection
+with the Contract. Siemens is submitting to the Tribunal a dispute related to contractual rights of
+a third party that does not qualify as an investor or as an investment. Siemens is not entitled to
+
+bring claims in connection with the Contract to a court other than agreed upon by SITS.' In
+
+'S9 Request for Arbitration, para. 46.
+
+‘© Memorial on Jurisdiction, para. 333.
+
+16! Thid. para. 334.
+
+‘© Memorial on Jurisdiction, paras. 343-344.
+
+-71-
+
+addition, the Respondent affirms that the acts of Argentina related to SITS are acts that are based
+on its contractual rights to rescind a contract rather than on its prerogatives as a sovereign.
+Breaching the obligations under a contract, or rescinding it, are not the same as expropriating a
+contract. A State contract may be expropriated only through measures unrelated to the
+
+performance of its provisions.'*
+
+175. Argentina maintains that even if, for the sake of the argument, such jurisdictional
+clause would have no effect in a case related to a breach of a BIT, Siemens could not hold
+Argentina liable under the Treaty because the liability of the host State could only arise out of a
+denial of justice. The Claimant has not alleged that “SITS had no access to justice, or that it has
+been denied to it when attempting to make use of the remedies expressly agreed upon such
+
+purposes.” tot
+
+176. Argentina has further argued that the Treaty does not impede the investors from
+agreeing to different dispute settlement mechanisms, including the renunciation of the remedies
+offered by the Treaty. These special agreements should take priority over those available under
+the Treaty. It should be noted that Article 26 of the Convention permits the parties to contract
+otherwise in relation to the exclusive character of ICSID jurisdiction.'°*
+
+(b) Position of the Claimant
+
+177. Siemens argues that the claim brought before this Tribunal is a claim under the
+Treaty and not under the Contract: “[T]he characterization of the dispute as arising from a
+contract or from the BIT, for purposes of jurisdiction, depends on how the claims are put forward
+
+by the Claimant. Whether this characterization is correct will ultimately be determined by the
+
+‘6 Reply on Jurisdiction, para. 190.
+‘4 Memorial on Jurisdiction, para. 345.
+
+-72-
+
+tribunal when it decides in its award on the merits whether or not guarantees under the BIT have
+
+been violated.”!°°
+
+178. Siemens recalls the numerous decisions in which this matter has been decided by
+ICSID arbitral tribunals in the sense that “claims alleging a cause of action under a BIT are not
+precluded by the exclusive jurisdiction of the local courts pursuant to an underlying contract,
+regardless of whether the claims relate to a greater or lesser extent to contractual issues." In
+all cases, tribunals have upheld ICSID’s jurisdiction, and “irrespective of whether Siemens’
+claims raise questions related to the Contract, Siemens is clearly asserting a cause of action under
+
+the Treaty. The jurisdiction of the Tribunal is not affected by the forum selection clause of the
+
+Contract.”'%*
+
+179. As regards the issue of the exclusivity of remedies under Article 26 of the
+Convention, Siemens maintains that “if the parties agree on a method of dispute settlement in
+addition to ICSID, they create an exception to ICSID’s exclusivity but they do not oust ICSID’s
+
+jurisdiction in terms of Article 26.”'°
+
+( Considerations of the Tribunal
+180. The Tribunal has already found that Siemens qualifies as an investor and that the
+dispute arises directly from an investment for purposes of the jurisdiction of the Tribunal under
+the Treaty and the Convention. The Tribunal concurs with decisions of previous ICSID arbitral
+tribunals on this matter and in particular recalls the statement made by the Ad hoc Annulment
+
+Committee in Vivendi to the effect that “A treaty cause of action is not the same as a contractual
+
+ 
+
+'65 Reply on Jurisdiction, para. 189.
+
+‘66 Counter-Memorial on Jurisdiction, para. 492.
+167 Thid. para. 508.
+
+168 Thid. para. 510.
+
+-73-
+
+cause of action; it requires a clear showing of conduct which is in the circumstances contrary to
+the treaty standard. The availability of local courts ready and able to resolve specific issues [...]
+is not dispositive, and it does not preclude an international tribunal from considering the merits
+of the dispute.”'”” Arbitral tribunals have found that a dispute arising out of a contract may give
+rise to a claim under a bilateral investment treaty. The dispute as formulated by the Claimant is a
+dispute under the Treaty. At this stage of the proceedings, the Tribunal is not required to
+consider whether the claims under the Treaty made by Siemens are correct. This is a matter for
+the merits. The Tribunal simply has to be satisfied that, if the Claimant’s allegations would be
+
+proven correct, then the Tribunal has jurisdiction to consider them.
+
+181. As regards Article 26 of the Convention, the first sentence reads as follows:
+“Consent of the parties to arbitration under this Convention shall, unless otherwise stated, be
+deemed consent to such arbitration to the exclusion of any other remedy.” This provision
+presumes exclusivity of the remedies under the Convention unless the parties had agreed
+otherwise. Article 26 does not provide that what may be agreed otherwise excludes the remedies
+under Convention. In that case, the remedies under the Convention are not exclusive but neither
+are those otherwise agreed. This understanding of Article 26 is confirmed by the decision on
+jurisdiction in Southern Pacific Properties (Middle East) Limited (SPP) v. The Arab Republic of
+Egypt: “Article 26 says that consent to ICSID jurisdiction, unless otherwise stated, shall be
+deemed to exclude other remedies. Thus failure to waive other remedies does not impair consent
+
+to ICSID jurisdiction.”!7!
+
+ 
+
+‘9 Rejoinder on Jurisdiction, para. 293.
+' | egal Authorities No. 69, submitted with the Counter-Memorial on Jurisdiction, para. 513.
+"3 ICSID Reports, p. 112.
+
+ 
+
+-74-
+
+182. The Tribunal concurs with the Claimant that the issue whether the breach of the
+Contract may or may not be an act of expropriation is a matter related to the merits of the
+
+dispute.
+
+183. For the stated reasons, the Tribunal rejects the eighth objection to jurisdiction.
+
+-75-
+
+IV. DECISION
+184. The Tribunal has considered the parties’ arguments in their written and oral
+
+pleadings and for the reasons above stated the Tribunal finds that:
+
+1. The Tribunal has jurisdiction of Siemens’ claims as set forth in its Request for
+
+Arbitration and its Memorial on the Merits.
+
+2. Siemens has ius standi to present the claims referred in 1. above.
+
+The Tribunal has, accordingly, made the necessary Order under Arbitration Rule 41(4)
+
+for the continuation of the procedure.
+
+185. Each party has requested that the costs of the jurisdictional phase of the
+proceedings, including its own costs, be borne by the other. The Tribunal further decides to
+
+consider this matter as part of the merits.
+
+Done in English and Spanish, both versions being equally authoritative.
+
+Dr. Andrés Rigo Sureda
+President of the Tribunal
+
+Judge Charles N. Brower Professor Domingo Bello Janeiro
+Arbitrator Arbitrator
+
+-76-
+

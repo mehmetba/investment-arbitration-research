@@ -1,0 +1,1331 @@
+Neutral Citation Number: [2015] EWHC 361 (Comm
+Case No: 2012 Folio 284
+IN THE HIGH COURT OF JUSTICE
+QUEEN'S BENCH DIVISION
+COMMERCIAL COURT
+Royal Courts of Justice
+Strand, London, WC2A 2LL
+Date: 19/02/2015
+
+ 
+
+Before :
+THE HON MR JUSTICE WALKER
+
+IN AN ARBITRATION CLAIM BETWEEN :
+
+MALICORP LIMITED Claimant
+-and -
+(1) GOVERNMENT of the ARAB REPUBLIC OF EGYPT
+(2) EGYPTIAN HOLDING COMPANY FOR AVIATION
+(3) EGYPTIAN AIRPORTS COMPANY Defendants
+
+Mr Subir Karmakar, of Saunders Law Ltd, solicitors for the Claimant, appeared for
+the Claimant, to the extent described in section A of the judgment within.
+Mr Ali Malek QC and Mr Richard Brent, instructed by Gibson & Co, appeared for the
+Defendants.
+
+Hearing date: 16 September 2014; written submissions were received during the period 26
+September to 24 October 2014.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Judgment
+The Hon Mr Justice Walker:
+[Table of Contents]
+A. Introduction 2
+B. Background to the Cairo award 5
+C. The findings in the Cairo award 14
+D. Effects of the 2012 Cairo Court of Appeal decision ...........ccccccscesesseeeneseeteseeeseeeseeeseenes 15
+E. Egypt’s inability to present its case 17
+EL. Overview 17
+E2. Relevant legal principles 18
+E3. The tribunal’s reasoning as to reMedy.........cceccesesseseeseseeesteseseeseseeseseeseseesssneseseenesneness 18
+
+ 
+
+E4. Analysis: a basis that was neither pleaded nor argued?
+
+FE. Egypt’s other grounds for setting aside
+G. Conclusion
+
+ 
+
+ 
+
+A. Introduction
+
+1. This case concerns an arbitration (“the Cairo arbitration”) brought by Malicorp Ltd
+(“Malicorp”, a company registered in England & Wales). Malicorp had made a bid in
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+response to an Egyptian government invitation to tender for the design and
+construction of a new airport at Ras Sudr on the Red Sea coast, along with the
+operation of the airport for a period of 41 years. That bid had been successful, and in
+consequence Malicorp eventually entered into a written contract with “the
+Government of the Arab Republic of Egypt, represented by the Civil Aviation
+Authority”. I shall refer to the Government of the Arab Republic of Egypt as “the
+Republic”. The written contract was signed on 4 November 2000. I shall refer to it as
+“the concession contract”.
+
+Article 21.3 of the concession contract contained provisions for the resolution of
+disputes. It provided that initially an amicable procedure was to be followed. As
+regards disputes which could not be settled amicably it provided for arbitration under
+the auspices of the Cairo Regional Centre for International Commercial Arbitration
+(‘the Cairo Centre”). I shall refer to article 21.3 as “the arbitration clause”.
+
+In April 2004 Malicorp invoked the arbitration clause by submitting a request for
+arbitration to the Cairo Centre, and appointing as its arbitrator Dr Abdel Hamid El
+Ahdab. In due course the respondents to the arbitration appointed Dr Hatem Ali Labib
+Gabr as their arbitrator. Dr El] Ahdab and Dr Gabr nominated Professor Bernardo M
+Cremades as president of the arbitral tribunal.
+
+A purported arbitration award in favour of Malicorp was rendered in Cairo on 7
+March 2006. It had been signed in Madrid on that day by Dr El Ahdab and Professor
+Cremades. It attached a letter from Dr Gabr dated 27 February 2006 explaining his
+reasons for concluding that a 2006 Administrative Court decision, described further
+below, required him to suspend his participation as an arbitrator.
+
+For convenience only, and without any implication as to their true status, I refer below
+to the purported award as “the Cairo award”, to the two arbitrators who signed it as
+“the truncated tribunal”, and to the three appointed arbitrators as “the full tribunal”.
+The Cairo award found that the Republic was obliged to pay Malicorp a sum in
+United States dollars (“$”) of $10m for loss of profits and $4,773,497 for costs and
+expenses, together with interest thereon at the rate of 4% p.a. from 28 April 2004 to
+the date of payment.
+
+In the present proceedings Malicorp as claimant seeks to enforce the Cairo award
+against the Republic, which was the first respondent in the arbitration and is the first
+defendant in the present proceedings. Malicorp’s claim in the arbitration had also
+been made against the second and third defendants in the present enforcement
+proceedings (‘the Holding Company” and “the Airports Company” respectively).
+They were the successors to the Civil Aviation Authority, and in that capacity were
+the second and third respondents in the arbitration. However, the truncated tribunal
+found that they were not parties to the concession contract, and it dismissed the claims
+by Malicorp against them. For convenience references below to “Egypt” are, unless
+the context otherwise requires, references to the three defendants.
+
+Separately from, or linked to, the arbitration, there have been proceedings which
+include:
+
+Page 2
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+qd) a decision (“the 2006 Administrative Court decision”) on 19 February 2006 of
+the Judicial Administrative court of the Egyptian Council of State, setting
+aside the arbitration clause and suspending the Cairo arbitration;
+
+(2) a decision (“the Paris 2008 decision”) of the Paris Court of Appeal on 19 June
+2008, upheld by the Cour de Cassation on 23 June 2010, refusing to enforce
+the Cairo award in France;
+
+(3) a decision (“the ICSID 2011 decision”) of an arbitral tribunal of the
+International Centre for Settlement of Investment Disputes (“the ICSID
+Centre”) sent to the parties on 7 February 2011, rejecting a claim by Malicorp
+for expropriation and holding that Egypt’s actions could not be considered a
+form of expropriation under international law; and
+
+(4) a decision (‘the 2012 Cairo Court of Appeal decision”) of the Cairo Court of
+Appeal on 5 December 2012, currently under appeal to the Egyptian Court of
+Cassation, setting aside the Cairo award.
+
+The present application by Malicorp for permission to enforce the Cairo award in
+England & Wales pursuant to section 101(2) Arbitration Act 1996 (“the 1996 Act”)
+was made without notice in accordance with CPR 62.18. It came before Flaux J for
+consideration on the papers. By order dated 29 February 2012 (“the enforcement
+order”) he granted permission, reserving to the defendants a right to apply to set the
+enforcement order aside.
+
+The present judgment deals with Egypt’s application to set aside the grant of
+permission to enforce. That application was fixed for hearing over four days from 15
+to 18 September 2014 inclusive. Monday 15 September 2014 was a reading day. At
+the outset of Tuesday 16 September 2014 Mr Karmakar of Saunders Law Ltd
+appeared on behalf of Malicorp. He stated that his instructions to appear were limited
+to the making of oral submissions in support of an application dated 12 September
+2014 by Malicorp seeking an adjournment of the hearing.
+
+For reasons given in my ruling on 16 September 2014 I refused the adjournment
+application. In summary, the adjournment application asserted that Malicorp, which
+had already had the benefit of substantial advice from leading and junior counsel,
+needed more time in order to put in place funding needed in order to brief counsel to
+attend the hearing. I refused the application because I considered that the hearing
+could continue without injustice to Malicorp, and that in all the circumstances the
+interests of justice would be best served by allowing the hearing to continue. In
+particular, it seemed to me that, if the hearing proceeded, case management directions
+could, in the first instance, enable the court to identify issues which Mr Karmakar on
+behalf of Malicorp would be adequately qualified to deal with. The court would then
+hear argument on those issues. Further directions could then be given depending upon
+whether the court’s conclusions on those issues in themselves had the consequence
+that the Cairo award could not be enforced here. I added that it weighed with me
+strongly that Malicorp was in a position where it could have ensured that it would be
+represented by leading counsel under a conditional fee arrangement and appeared to
+have thrown that opportunity away without good reason.
+
+Page 3
+
+11.
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+After my ruling Mr Karmakar received further instructions from his client to remain
+in court. Accordingly he remained in court during the course of oral submissions by
+Mr Malek QC and by Mr Brent on behalf of Egypt, and during oral evidence by Dr
+Mohamed Badran, who was called by Mr Brent as an expert witness on Egyptian law.
+Egypt’s case was completed that afternoon and I reserved judgment. On occasion Mr
+Karmakar intervened during the course of the oral submissions, but he did not at any
+stage during the afternoon suggest that his client wished for him to make more general
+oral submissions on its behalf.
+
+On the evening of 16 September 2014 Mr Karmakar sent an email to my clerk,
+referring to a “draft incomplete version” of Malicorp’s skeleton argument which had
+been supplied the previous day. In his email Mr Karmakar said that he intended to
+serve the remaining portions of that skeleton argument the following day unless “Mr
+Justice Walker decides that it is no longer necessary”. My clerk replied that my
+preferred course would be for Malicorp to lodge written submissions in response to
+Egypt’s written and oral submissions, and that Egypt should then lodge written
+submissions in reply.
+
+The parties agreed to adopt my preferred course. They also agreed on a timetable,
+eventually revised so that Malicorp served (1) written submissions dated 26
+September 2014 (“Malicorp’s September submissions”) in reply to Egypt’s skeleton
+argument and (2) written submissions dated 17 October 2014 (“Malicorp’s October
+submissions”) in reply to Egypt’s oral submissions. Egypt lodged written submissions
+in reply dated 24 October 2014 (“Egypt’s reply”).
+
+It is common ground that the Cairo award is a New York Convention award, with the
+result that enforcement may only be refused if the case falls within s 103(2) to 103(4)
+of the 1996 Act. Egypt asserts that there are four independent grounds for holding that
+the case does indeed fall within those provisions. After reflecting on the oral and
+written submissions I consider that:
+
+qd) on each of the first two of Egypt’s grounds, Egypt is right to say that the case
+falls within s 103(2), and that in so far as I have any discretion in the matter, I
+should exercise it so as not to enforce the Cairo award;
+
+(2) as to the first of Egypt’s grounds, Egypt’s set aside application succeeds
+because the Cairo award has been set aside by the 2012 Cairo Court of Appeal
+decision (see section D below);
+
+(3) as to the second of Egypt’s grounds, Egypt’s set aside application also and
+independently succeeds because as a matter of fact the Cairo award granted
+remedies to Malicorp on a basis which was neither pleaded nor argued (see
+section E below);
+
+(4) in these circumstances I need not consider an issue estoppel argument relied on
+by Egypt as an alternative way of advancing its second ground, nor need I
+consider the third and fourth grounds relied on by Egypt, and in the
+circumstances of the present case it is undesirable that I should do so.
+
+Thus the result is that the enforcement order must be set aside. My detailed reasons
+are set out in sections D and E below. In sections B and C below I summarise the
+
+Page 4
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+background to the Cairo award and what was said in the Cairo award. In section F
+below I discuss the position in relation to other grounds advanced by Egypt in support
+of the application.
+
+B. Background to the Cairo award
+
+16. Section VI of the Cairo award, comprising paragraphs 18 to 33, dealt with the factual
+background. I set out relevant extracts below, adding sub-paragraph numbers in
+square brackets for convenience:
+
+§18.- The Claimant was incorporated pursuant to English law
+on August 6, 1997. Its share capital on incorporation was “...
+£1000 divided into 1000 shares of £1 each’, and its object was
+stated to be to “... carry on business as a general commercial
+company”. Its paid-up capital on incorporation was £2. The
+changes to its capital, and the confusion between its authorised
+and paid-up capital are a central issue in this case.
+
+§19.- [19.1] The Egyptian Civil Aviation Authority
+announced the tender for a new Airport of Ras Sudr, and made
+available the tender documents in August 1999. On October 1,
+1999 the Claimant submitted an offer in response to the tender.
+The tender was signed on behalf of the Claimant by “Staff
+Major General Mahmoud Shakir Ibrahim, General Director’. It
+was accompanied by a first demand guarantee to the amount of
+one million Egyptian pounds by MISR Bank in Cairo on behalf
+of “Mr Sayed Hanafi Mahmoud...for the construction of an
+International Airport in Ras Sudr’, and addressed to the
+Egyptian General Civil Aviation Authority ... it is not clear
+what documentation accompanied the bid, and in particular
+whether the Claimant presented an extract from the Companies
+Register in England and Wales in order to confirm its objects
+and capital.
+
+[19.2] The Claimant was invited to appear before a
+committee presided by the President of the Civil Aviation
+Sector, Mr. Mamdouh Mohamed Heshmat. The meeting took
+place on January 3, 2000 and the letter of invitation set out a
+list of six matters which the Claimant was expected to clarify.
+The Claimant was represented at this meeting by General
+Mahmoud Shakir Ibraim (or Ibrahim). The first question related
+to the details of the Claimant’s ‘issued and licensed’ capital.
+The Minutes of this meeting record the response as follows.
+
+Upon their question concerning the first point: details
+of the capital he [i.e.,General Mahmoud Shakir Ibraim]
+responded by the following: “The Original Company
+with which the contracting shall be concluded and
+
+Page 5
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+which submitted the offer is the British company
+Malicorp Ltd, a company established under the British
+law and its residence is in London with its capital of
+one hundred million Sterling pounds according to the
+attached commercial register which was reviewed by
+the Committee ‘s members.
+
+[19.3] The Respondents state that the Claimant produced at
+this meeting an extract from the register of Companies House,
+Cardiff, in respect of Malicorp Limited, dated September 15,
+1999. The object of Malicorp Limited was stated in this extract
+to be “to build, develop and operate the Ras Sudr Airport and
+to develop associated sites for industrial and tourist purposes.”
+In respect of capital this extract stated:
+
+The company’s share capital is £100 million divided
+into one million shares of £100 each.
+
+[19.4] Mr Heshmat confirmed in his oral evidence that he
+was appointed to head a committee to review the two bids, and
+that a meeting was arranged to clarify certain aspects of
+Malicorp’s bid. General Shakir Ibraim was the only person who
+attended on behalf of Malicorp, and he [i.e., General Ibraim]
+told the Committee that Malicorp’s “paid-up” capital was £100
+million, and presented a commercial register issued in the
+United Kingdom to support this statement regarding the paid-
+up capital. This document was scrutinised by the reviewing
+committee.
+
+[19.5] The Claimant’s evidence, by contrast, was quite
+explicit that the intention always was to finance the project
+from outside sources. ...
+
+§20.- [20.1] On February 8, 2000 the Chairman of the
+Egyptian Civil Aviation Authority advised the Claimant that its
+offer had been selected for the construction of the Ras Sudr
+Airport, adding that “all the previous procedure of the brochure
+of terms, the Authority’s specifications, your offer and all
+Minutes in relation to the operation shall be considered an
+integral part of the contract which shall be concluded in this
+respect.”
+
+[20.2] A preliminary contract or heads of agreement was
+signed on May 28, 2000 between the Arab Republic of Egypt,
+represented by the General Authority for Civil Aviation on one
+part, and the Claimant on the other part. This Heads of
+Agreement consisted of eight articles, and anticipated further
+investigation and negotiation between the parties of
+professional, technical, legal and scheduling matters leading to
+a detailed contract.
+
+Page 6
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+§21.- The Concession Contract was executed on November
+4, 2000 by the Government of the Republic of Egypt
+represented by the Egyptian Civil Aviation Authority, as
+Concessor, and Malicorp Limited and Ras Sudr International
+Airport Ltd (a company to be formed) as Concessionaire. ...
+
+§23.- On January 17, 2001 an application was submitted in
+Egypt to establish a company pursuant to Law N°8 of 1997 (on
+investment guarantees and incentives) “to build, manage,
+utilize and transfer Ras Sidr International Airport”. Its three
+shareholders included Malicorp Ltd, which was going to hold
+9,800,000 of the 10,000,000 shares to a value of 10,000,000
+Egyptian pounds. The same document stated that the “Sources
+of Financing” will be “Capital LE 100,000,000, Loans LE
+150,000,000” giving a total of L.E. 250,000,000.
+
+§24.- [24.1] Between the signing of the contract on
+November 4, 2000 and February 18, 2001 the Egyptian Civil
+Aviation Authority sent three notices to the Claimant regarding
+its contractual obligations to increase the bank guarantee to two
+million Egyptian pounds (clause 23.1.7) and to incorporate an
+Egyptian Company (clause 23.1.6). ...
+
+[24.3] On April 18, 2001 the Claimant wrote to the Egyptian
+Authority for Civil Aviation advising that the documents
+relating to the establishment of the Egyptian company
+according to Law N°8 of 1997 had been submitted and “we are
+expecting the approval of the Investment Authority to finalise
+the formalities.” ...
+
+§26.- On April 28, 2000 the Claimant wrote to the Egyptian
+Holding Company for Civil Aviation requesting “approval to
+commence procedures for delivering the airport site’. The
+letter went on to advise that the Claimant was “still following
+the procedures of registration of the Egyptian Company, [but]
+we cannot overcome the routine and the procedures followed
+by the Investment Authority...”. The response from the
+Egyptian Holding Company for Civil Aviation on May 5, 2001
+was that the delivery procedures for the airport site could not
+commence “unless the Concessionaire Company is published
+and notifies us with the registration and publication documents,
+according to the applicable regulations and law ...”
+
+§27.- [27.1] By letter dated May 30, 2001 the Egyptian
+Holding Company for Aviation first expressed serious concern
+
+Page 7
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+in writing regarding Claimant’s “seriousness” and the
+truthfulness of information provided to Egyptian authorities. ...
+
+[27.2] There followed correspondence as the Claimant
+sought to expedite the formation of the Egyptian Company and
+the transfer of the Airport site, writing to the Investment and
+Free Zones Authority, to the Egyptian Holding Company for
+Aviation, the Minister of Transportation, the Prime Minister
+and to the President of the Republic. The Claimant wrote to the
+Egyptian Holding Company for Civil Aviation on June 13, 201
+seeking extra time to obtain exceptional approvals of the Prime
+Minister and the Minister of Transport. It also wrote to the
+Minister of Transportation on June 28, 2001 ...
+
+[27.3] On July 21, 2001 there was a meeting of a Special
+Commission for the Ras Sudr Airport. This Special
+Commission was chaired by the Minister of Transport and was
+composed of senior Egyptian officials and legal counsel in the
+aviation and tourism sectors, as well as representatives of
+National Security and the Investment and Free Zones
+Authority. There was extensive discussion of the background
+and problems with the Concession Contract. ...
+
+[27.4] The meeting concluded with a decision to rescind the
+Concession Contract and call the letters of guarantee:
+
+Based _on_the above the Commission adopted _the
+resolution:
+
+1. To notify the Egyptian Holding Company for
+Aviation and Malicorp a letter from the Investment
+Authority informing about the non-approval on the
+formation of such company due to the rejection of the
+security on the formation.
+
+2. When the above-mentioned letter in paragraph (1)
+will be served to the Holding Company, the procedure
+of rescinding the contract and the cashing of the letter
+of guarantee will take place.
+
+3. To be prepared to face the legal consequences
+resulting from the cancellation and the seizing of the
+letter of guarantee.
+
+§28.- [28.1] On July 25, 2001 the two bank guarantees
+provided by or on behalf of the Claimant in respect of the
+Concession Contract were called in the name of the Egyptian
+Civil Aviation Authority. By letter dated July 28, 2001 the
+State Security Organism of Investigation formally advised the
+Public Authority for Investment that it did not approve the
+
+Page 8
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+Claimant for the establishment of Ras Sudr Airport. No reasons
+were given by the Security Organisation for this decision.
+
+[28.2] The Egyptian Holding Company for Aviation gave
+notice to Malicorp of the cancellation of the Concession
+Contract by letter dated August 12, 2001:
+
+To/ Malicorp Company
+Greeting,
+
+In reference to the Agreement signed with you about
+the construction and management of the Ras Sudr
+Airport on B.O.T basis, and notwithstanding the
+consecutive warnings sent on December 2000, January
+2001 and the final notice dated 18/2/2001 for not
+completing the formation documents of the Egyptian
+company according to law number 8/97 and for not
+sending a draft on the execution of the project, and for
+not amending the letters of guarantee to become
+definitive, and after granting you another extension
+until 28/2/2001; and,
+
+Whereas the Company has submitted to the
+commission documents which authenticity is dubious,
+inciting the Commission to send you a letter dated
+30/5/2001 to submit true and authentic documents and
+granting you a period of time until 30/6/2001 extended
+until 31/7/2001; and,
+
+Whereas the Company has submitted to the security
+authorities untrue documents concerning the names of
+the partners in the British company; and
+
+Whereas the Company was not able to form an
+Egyptian Company according to the Egyptian laws
+until 3/2/2001 as provided in the Agreement, in
+addition to others contraventions committed by the
+company; and,
+
+Whereas your lack of seriousness has been established
+from the signature of the Agreement on 4/11/2001 up
+to now, resulting in the non-starting of the project until
+today...
+
+Based on the above, it has been decided to cancel the
+agreement and seize the letter of guarantee, reserving
+the right to claim punitive damages for the prejudice
+incurred by the holding company and the Egyptian
+Government resulting from the non-starting with the
+execution of one of the vital and important projects
+
+Page 9
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+included in the planning of the Government for the
+development of the economy.»
+
+[28.3] The Claimant responded in a letter dated August 13,
+2001. The Claimant stated that the Egyptian Holding Company
+for Aviation was a private law entity without the power to
+unilaterally terminate the Concession Contract. The Claimant
+went on to rebut statements regarding the presentation of plans,
+the submission of dubious documents, and the alleged
+presentation of false documents concerning “the names of the
+partners on the British company”. It stated that the delay in
+forming the Egyptian Company lay with the Investment
+Authority (and therefore indirectly with the Arab Republic of
+Egypt) and not with the Claimant, and denied any lack of
+seriousness. It added further reasons why there was no right to
+cancel the Concession Contract and concluded as follows:
+
+We hereby inform you that the issuance of your
+decision to annul the Contract and is null and does not
+concern the Company nor affect it, it is an internal
+matter that concerns you solely and does not affect the
+Company concerning the Contract ratified by the
+Government of the Arab Republic of Egypt which is
+currently in force until now, and by considering your
+decision as null and void according to the contract and
+law, requesting the Government to deliver the airport
+site in order to start with the execution in the interest
+of the Company and of the Government.
+
+§29.- The cancellation of the Concession Contract by the
+Concessor was subsequently confirmed in two letters. The first
+letter, signed by Pilot Mamdouh Mohamed Heshmat as Chief
+Executive of the “Egyptian Authority for the Control of
+Aviation” was dated September 4, 2001. The second letter (in
+similar terms to the first) dated September 28, 2001 and signed
+by the Minister of Transport read as follows:
+
+«Greetings,
+
+In reference to the Agreement signed by both parties,
+relating to the construction and management of the
+Ras Sudr Airport on B.O.T basis, and despite putting
+you on notice many times through the Egyptian
+Aviation Holding Company to complete the documents
+required to the formation of the Egyptian Company
+which will receive the site of the project and start the
+execution in accordance with law number 8/1997 on
+the guarantee and protection of the investments, and
+law number 3/1997 related to granting the concession
+of public utilities for building, managing and
+exploiting the airports and runways, but that your
+
+Page 10
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+company has failed to execute the prerequisite and did
+not complete the formalities of formation of the
+Egyptian Company which should have been
+accomplished by 3/2/2001 in, accordance with the
+Agreement, which indicates your lack of seriousness in
+the execution of the entire Agreement entered into
+between the parties on 4/11/2000. We confirm the
+cancellation of the Agreement which was notified to
+you previously by the Egyptian Aviation Holding
+Company and the Egyptian Commission for the
+Control of the Civil Aviation and the seizing of the two
+letters of guarantee, reserving all and any other rights.
+>
+
+§30.- On April 20, 2004 the Claimant commenced this
+arbitration by filing its Request for Arbitration. The relief
+claimed in its Memorial of Claim dated February 19, 2005 was
+quantified in its Rejoinder on Claim dated July 26, 2005 as
+follows:
+
+Ll. Expenses in the amount of USD 12,416,574 (twelve
+million four hundred and_ sixteen thousand five
+hundred and seventy four USD).
+
+2. The value of the liquidated letters of Guarantee in
+the amount of USD 564,069 (Five hundred and sixty
+four thousand sixty nine USD).
+
+3. Loss of profits in the amount of USD 500,000,000
+(Five hundred million USD).
+
+4. Damages in the amount of 1 (one) million USD to
+compensate the claimant for the moral damages.
+
+5. Interest on the amounts claimed at the legal rate.
+
+6. All costs and expenses caused by the present
+arbitration proceedings and any consequences thereof,
+including but not limited to the Cairo Regional
+Center’s administrative expenses, fees and expenses of
+arbitrators, experts, witnesses and attorneys at an
+amount to be determined later on.
+
+§31.- [31.1] The Rejoinder of the Arab Republic of Egypt
+dated September 21, 2005 contained the following request for
+relief to the Arbitral Tribunal:
+
+Egypt respectfully requests that this Tribunal:
+
+Page 11
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+i) rule as a preliminary question that it does not
+have jurisdiction to rule on the claims made by
+Malicorp, and if this Tribunal finds that it has
+jurisdiction; Egypt respectfully requests that this
+Tribunal:
+
+rule that the claims made by Malicorp are
+entirely not admissible in opposition to the Egyptian
+Minister of Transportation and the Egyptian Minister
+of civil Aviation, and if this Tribunal finds that the
+claims made by Malicorp are admissible as regards
+both of the aforementioned Egyptian Ministers; Egypt
+respectfully requests that this Tribunal:
+
+reject the claims made by Malicorp in its
+entirety; and
+
+ii) in all events order Malicorp to reimburse all of
+the costs that Egypt has incurred in connection with
+these proceedings.
+
+[31.2] In its Post-Hearing Submission the Arab Republic of
+Egypt also requested the termination and discontinuance of this
+arbitration pursuant to Article 45 of arbitration Law N° 27 of
+1994.
+
+[31.3] The Rejoinder of the Egyptian Holding Company for
+Aviation and the Egyptian Airport Company dated September
+21, 2005 requested the Arbitral Tribunal to rule as follows:
+
+Main Principal Request:
+
+1. The Third & Fourth Respondents adhere to and hold
+the substantial pleas related to the Public Order that
+have been raised by them in their Memorandum of
+Defense of 21.5.2005 pertaining to the non jurisdiction
+and nullity in addition to all the pleas mentioned
+therein.
+
+2. After determination of all the substantial pleas
+pertaining to the Public Order, we pray the Arbitral
+Tribunal to dismiss the Claimant’s case entirely i.e. to
+reject the claim of indemnity for the absence of its
+elements of fault and damage and the causal
+relationship between them and to obligate the
+Claimant with all the expenses and fees of the present
+arbitration.
+
+Auxiliary Request:
+
+Page 12
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+1. To suspend the arbitral case in implementation of
+Article (46) of the Arbitration Law No. 27 of the year
+1994, until the determination of the Felonies Case No.
+327/2004 (Inclusive Public Funds), as “The Tribunal
+will keep the matter under review”.
+
+2. In case of non responding to the previous request by
+the Arbitral Tribunal, then the Third and Fourth
+Respondents pray the permission to start and proceed
+upon the forgery challenging of  Malicorp’s
+commercial register and other documents that had
+been submitted by the Claimant according to the
+Article No. (49) and subsequent articles of the
+Egyptian Evidence Law.»
+
+§32.- On July 15, 2004 the Minister of Civil Aviation
+complained to the Public Prosecutor of fraudulent practices by
+the Claimant and officials of the Egyptian Authority for Civil
+Aviation. On August 17, 2005 the Public Prosecutor submitted
+an Order of Referral to the Court of Felonies in Cairo,
+including a supporting Memorandum of Facts produced by the
+Public Prosecutor dated July 13, 2005. The Order of Referral
+alleges various illegal and fraudulent acts on the part of persons
+connected with the Claimant as well as certain Egyptian
+officials involved in the review of the Claimant’s bid.
+
+§33.- [33.1] The accused include various Egyptian
+officials. They also include five “partners” in Malicorp,
+accused of colluding with the accused Egyptian officials in the
+execution of their illegal acts, and of cooperating with an
+unknown person in order to forge Malicorp’s commercial
+register No. 3415415 “through simulating and changing by
+agreeing with an unknown person to prepare and forge the
+abovementioned document...and thus the unknown person has
+edited in the forged document that the capital of the company
+is one hundred million sterling pounds, and this was contrary
+to fact ...”
+
+[33.2] There is also an accusation against three of the
+accused of ‘attempting to turn a forged fact to be correct’ by
+attending before the committee of evaluation of the bid on
+January 3, 2000 “on behalf of Malicorp Limited..., and alleging
+that the capital of the said company amounts to one hundred
+million pounds sterling, and supported such allegation by
+submitting the forged commercial register.”
+
+Page 13
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+C. The findings in the Cairo award
+17. In sections VII to IX the Cairo award discussed the principal issues between the
+parties. I begin by listing, with the addition of letters in square brackets for ease of
+reference, those dealt with in section VII:
+(1) Procedural issues as to:
+[1a] the proper parties to the arbitration (paragraphs 35-38);
+
+[1b] the time period for the arbitration (paragraphs 39-42);
+
+[1c] whether Malicorp was lawfully represented before the
+arbitral tribunal (paragraphs 43-46);
+
+[1d] whether prior recourse was duly made to alternative
+means of dispute resolution (paragraph 47).
+
+(2) Issues as to jurisdiction/consent to arbitrate:
+[2a] domestic rules concerning administrative contracts;
+
+[2b] the effect of a decision of the Egyptian Administrative
+Judiciary Court; and
+
+[2c] a requirement for approval by the Council of State
+(paragraphs 48-60).
+
+(3) Jurisdiction: the significance of the United Kingdom-
+Egypt Bilateral Investment Treaty (paragraphs 61-64).
+
+(4) Breach/Annulment of the concession contract:
+[4a] whether the Republic was a party to the concession
+contract (paragraphs 65 to 67), and retention by the Republic
+of the power to cancel the concession contract (paragraph
+
+68);
+
+[4b] the reasons why the concession contract was in fact
+cancelled by the Republic (paragraphs 69 and 70);
+
+[4c] Egypt’s submissions that the concession contract was
+void as having been concluded as a result of “fraudulent
+artifices” (paragraphs 71 and 72);
+
+[4d] findings as to “essential mistake” (paragraph 73);
+
+[4e] consequences under Egyptian Civil Code art 142
+(paragraph 74);
+
+Page 14
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+[4f] principles concerning suspension of arbitral proceedings
+pending the resolution of criminal proceedings (paragraphs
+75-71);
+
+[4g] whether it was necessary to make a decision on forgery
+or other criminal acts alleged (paragraph 78);
+
+[4h] decision not to exercise discretion to suspend the
+arbitral proceedings pending the resolution of criminal
+proceedings (paragraph 79).
+
+18. Section VIII dealt with damages (paragraphs 80-87). Section IX dealt with costs
+(paragraphs 88-91).
+
+19. Section X was headed “Award”. It set out findings which included:
+
+[X.]3. The Concession Contract is an administrative contract in
+Egyptian domestic law. It is also an international contract
+involving a State party, and is subject to the principles
+applicable to such contracts;
+
+[x.]4. The Concession Contract was void for mistake. The
+Arbitral Tribunal also recognises that Arab Republic of Egypt
+had the power to cancel the Concession Contract, and did so on
+August 12, 2001;
+
+[X.]5. In lieu of reinstatement to its original position prior to
+the Concession Contract, the Arab Republic of Egypt shall pay
+to the Claimant the amount of FOURTEEN MILLION SEVEN
+HUNDRED AND SEVENTY-THREE THOUSAND AND
+FOUR HUNDRED AND NINETY SEVEN United States
+Dollars ($US14,773,497) by way of damages;
+
+D. Effects of the 2012 Cairo Court of Appeal decision
+
+20. As noted above, a challenge to the 2012 Cairo Court of Appeal decision is pending
+before the Egyptian Court of Cassation. It is elementary, and Malicorp has identified
+no ground for disputing, that under relevant principles of private international law this
+court must nevertheless treat the 2012 Cairo Court of Appeal decision judgment as
+final.
+
+21. Egypt’s primary assertion is that I should proceed on the basis that the 2012 Cairo
+Court of Appeal decision has the effect without more that there is no award. Reliance
+is placed in this regard on alleged principles expounded in van den Berg,
+“Enforcement of Arbitral Awards Annulled in Russia, (2010) Journal of International
+Arbitration vol 27(2), However, I do not need to decide whether the alleged principles
+are right. For present purposes I proceed on two assumptions. They are:
+
+Page 15,
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+qd) that the word “may” in s 103(2) of the 1996 Act confers a discretion on this
+court to enforce an award even though the award has been set aside by a
+decision (“the set aside decision’’) of a court constituting a competent authority
+within s 103(2)(f); and
+
+(2) it would not be right to exercise that discretion if, applying general principles
+of English private international law, the set aside decision was one which this
+court would give effect to.
+
+This approach, which I would describe as “the preferred approach”, is supported by
+the discussion in Dicey, Morris & Collins, 15" edition, at Rules 50-5 and paragraph
+16-148. It was adopted by Simon J in Yukos Capital S.a.r.L v OJS Oil Company
+Rosneft [2014] EWHC 2188 (Comm) at paragraph 20. On this basis I should give
+effect to the 2012 Cairo Court of Appeal decision unless it offends “basic principles
+of honesty, natural justice and domestic concepts of public policy”.
+
+Malicorp has not explicitly contended that the preferred approach is wrong. There are
+passages in the September and October submissions opposing a course under which
+this court would be “deferring to the supervisory court’. If those passages are
+intended to advocate an approach which differs from the preferred approach, then it
+seems to me that, for the reasons identified in Dicey, Morris & Collins, they go too
+far.
+
+Thus the only question becomes whether the set aside decision was one which this
+court would give effect to. In this regard Malicorp objects that the decision should not
+be given effect to because (1) it was tainted by bias, (2) it was contrary to natural
+justice and the Egyptian Court deliberately misapplied relevant Egyptian law and (3)
+the grounds on which it set aside the Cairo award were wrong and misconceived.
+
+Malicorp’s objection (3) can be dealt with shortly. As observed by Egypt, an assertion
+that a foreign judgment is “wrong” is not a sufficient basis to refuse to recognise it.
+When considering whether to recognise a foreign judgment this court acknowledges
+that the determination of foreign law is a matter for the foreign court. Thus evidence
+relied on by Malicorp that the 2012 Cairo Court of Appeal decision is wrong does not
+address the relevant issues. As Egypt points out, there is no suggestion in that
+evidence that the 2012 Cairo Court of Appeal decision is perverse. Allegations that
+there was a failure “to take account of” Malicorp’s submissions merely because those
+submissions were not repeated in the judgment, or that the judgment gave reasons
+which were “insufficient and contradictory” do not assist Malicorp in this regard.
+
+As to objections (1) and (2), the detailed matters relied on are in my view insufficient
+to make good these complaints. The central assertion made by Malicorp is that the
+judges responsible for the 2012 Cairo Court of Appeal decision were guilty of pro-
+government bias. Such a claim cannot be accepted by this court without positive and
+cogent evidence: see Altimo Holdings and Investment Ltd v Kyrgz Mobil Tel Ltd
+[2011] UKPC 7, para 97 and Yukos Capital S.a.r.L v OJS Oil Company Rosneft (No
+2) [2012] EWCA Civ 855 para 73. A report of Professor Stilt is relied on by Malicorp
+as providing the necessary evidence. While I do not criticise Professor Stilt, I have no
+doubt that the evidence she has been able to assemble does not approach the high
+level of cogency that is required. It does not go beyond generalised, anecdotal
+material. In so far as Malicorp places reliance on a newspaper report concerning the
+
+Page 16
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+team working on behalf of the government, the report does not on its face say that the
+relevant judges were part of the team, and there is no apparent basis to think that this
+was implied by the report. Reference is made by Malicorp to a letter from the
+President of the Cairo Court of Appeal to the Public Prosecutor concerning
+suspension of the Cairo arbitration while criminal proceedings were on foot, but in so
+far as complaint is made about this letter nothing in the letter is identified to support
+any such complaint.
+
+27. I add a particular comment in so far as Malicorp relies upon a claim that the Cairo
+Court of Appeal judges who handed down judgment were not on strike during a
+constitutional dispute between then President Morsi and some of the judiciary. In my
+view this claim, even if true, could not possibly warrant the serious allegation made.
+
+28. The preferred approach which I have described above applies, in the present context,
+well established principles as to the recognition of foreign judgments. It does not
+seem to me that they leave room, as a matter of discretion, to give effect to the Cairo
+award once it is established, as here, that a set aside decision of the supervisory court
+meets the tests for recognition. If, however, there were such a further discretion I
+would not exercise it in favour of Malicorp. In so far as Malicorp relies on comments
+in the ICSID 2011 decision which are said to be supportive of Malicorp’s case on the
+merits, I observe that the ICSID 2011 decision was concerned only with jurisdiction
+and whether there had been expropriation. In so far as Malicorp suggests that the
+present case should be adjourned to await the outcome of its appeal to the Court of
+Cassation, I do not consider that there is good reason to depart from the normal
+approach under which the 2012 Cairo Court of Appeal decision is, unless and until
+overturned by the Court of Cassation, treated as a final decision.
+
+E. Egypt’s inability to present its case
+
+E1. Overview
+
+29. Under the 1996 Act section 103(2)(c) will apply so as to permit a refusal to enforce
+where those against whom the award is invoked prove that they were not given proper
+notice of the appointment of the arbitrator or of the arbitration proceedings or were
+otherwise unable to present their case.
+
+30. Egypt puts its case in this regard in two alternative ways. The first is that the Paris
+2008 decision gives rise to an issue estoppel on the point. For reasons given in section
+F below I do not consider it necessary or desirable to examine this alternative in the
+present judgment. The second, which I deal with in the remainder of this section, is
+that in any event the factual material before the court demonstrates that Egypt were
+unable to present their case within the meaning of s 103(2)(c).
+
+E2. Relevant legal principles
+31. There can in my view be no doubt that a grant of remedies on a basis which was
+neither pleaded nor argued will be capable of falling with this subsection. Nor can
+
+there be any doubt that under principles of English private international law the test as
+to ability of the party to present its case involves an application of relevant English
+
+Page 17
+
+32.
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+principles as opposed to those of Egypt or anywhere else: see Cukurova Holdings AS
+v Sonera Holding BV [2014] UKPC 15, para 32.
+
+Malicorp asserts that the “character of the decision-making body, the kind of decision
+it has to make and the statutory or other framework in which it operates” have to be
+taken into account when considering if the procedure adopted was fair and in
+compliance with the requirements of natural justice. I accept that relevant English
+principles require consideration of these matters. I do not accept, however, that the
+applicable arbitration procedures in the present case called for any lessening of the
+essential need for Egypt to have notice of the basis on which the tribunal would grant
+any remedy and approach the quantification of any monetary award. Nor can I accept
+that there is anything arbitrary in requiring, before permitting enforcement here, that
+the foreign arbitral procedure respected this essential need.
+
+E3. The tribunal’s reasoning as to remedy
+
+33.
+
+It is common ground, and indeed the truncated tribunal recognised in paragraph 64 of
+the Cairo award, that Malicorp requested compensation only for breaches of the
+concession contract. The Cairo award, however, rejected that request. On the contrary,
+it accepted Egypt’s contention that the concession contract had been validly avoided.
+This appears from paragraphs 68 to 70 of the award:
+
+§68.- The Concession Contract was expressly subject to ‘revision’ by the
+Council of State (Article 24). The introduction (page 9, ‘General’) of the
+Concession Contract recognised that it was subject to a feasibility study and “may
+be cancelled if the relevant Feasibility Study shows the Airport Project and
+Annexed Projects cannot be carried out in a sound economic manner’. Further,
+the Concession Contract was expressly subject to the Laws No 3 and No 8 of
+1997, and Article 5 of Law No 3 of 1997 requires a decree from the Council of
+Ministers “upon a proposition by the competent minister concerning granting the
+concession, defining its terms and provisions, or amending them...”. The
+Claimant has not demonstrated that any such decree was ever promulgated in
+respect of the Concession Contract. Accordingly, the Arbitral Tribunal is satisfied
+that the Concession Contract, although binding on Egypt, was not unconditionally
+effective, and Egypt retained the power to cancel the Concession Contract.
+
+§69.- The evidence satisfies the Arbitral Tribunal that the Concession
+Contract was in fact cancelled by Egypt for a combination of reasons, including:
+(i) concerns regarding the delay in incorporating the mandatory Egyptian
+subsidiary, and doubts regarding the accuracy or authenticity of information
+provided for this purpose; (ii) concerns regarding the identity of the shareholders
+and associates of the Claimant and its proposed Egyptian subsidiary; (iii) a
+perceived lack of professionalism (‘seriousness’) and suitability of the Claimant
+for a project of this nature arising from delays and the problems in the provision
+of information; (iv) that the Claimant had failed to comply with its obligations
+under the Concession Contract.
+
+§70.- The Republic of Egypt also submitted that the Concession Contract
+
+could be cancelled because of the breaches of contract of the Claimant (exceptio
+non adimpleti contractus) and for breach of good faith. The Arbitral Tribunal is
+
+Page 18
+
+34.
+
+High Court Approved Judgment:
+Mr Justice Walker, 19 February 2015
+
+not required to enter into these arguments in detail in light of its other decisions in
+this award, particularly regarding mistake.
+
+The truncated tribunal then went on to state in paragraphs 71 to 74:
+
+§71.- The Respondents submit that the Concession
+Contract is void for the “fraudulent artifices which led to the
+conclusion of a contract, and [which] were of such gravity
+that, but for them, the contracting party would not have
+concluded the contract’. (Post-Hearing Submission of the
+Egyptian Holding Company for Aviation and the Egyptian
+Airports Company, paragraph 230). The allegations of fraud
+relate to the capital of the Claimant, and include a serious
+allegation that a forged ‘commercial register’ of the
+Claimant company, fraudulently misrepresenting its capital,
+was used to obtain the Concession Contract. The Arbitral
+Tribunal has reviewed exhaustive submissions of the Parties
+on this question. It notes that these allegations of fraud in
+relation to this contract were not relied upon at the time of
+the termination of the Concession Contract and were not
+raised until after this arbitration was commenced.
+
+§72.- [72.1] The importance of the capital of the
+Claimant, the incorporation of the Egyptian subsidiary and
+the approval of the Investment Authority arises from certain
+provisions of Law No 8 for 1997. Article 4 of the Law
+provides as follows:
+
+Article (4)
+
+The competent administrative department shall
+undertake revising the contract of the companies
+articles. and memoranda of association. It
+should be indicated in the contract of
+establishment and by-laws the names of the
+contracting parties, the legal form of the
+company, its name, the subject of its activity, its
+duration, its capital, the share of contribution of
+the Egyptian and non Egyptian parties, the
+means of subscription therein and the partners
+rights and obligations must be stated in the
+articles and memoranda of association. And the
+preliminary contracts and the articles of
+association of the joint stock companies and the
+limited partnerships shall be prepared
+according to the forms of which a decree from
+the council of ministers shall be promulgated.
+
+Page 19
+
+Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+The signatures on the companies contract must
+be authenticated, whatever be their legal form in
+return of an authentication fee...
+
+And the license for the association of companies
+shall be issued from the competent
+administrative department, according to the
+provisions of this law and shall have the right in
+its benefits. And these companies shall have the
+legal person from the date of their entry in the
+commercial register. And the articles of
+association of the company and its memorandum
+of association shall be published according to
+the rules and procedures which the executive
+statutes of this law shall define.
+
+And the above provisions shall apply to each
+amendment of the company’s system.
+
+[72.2] Article 4 has strict and detailed requirements
+relating to the revision of the articles and memorandum of
+the articles and memorandum of association, the corporate
+activities, its capital, the share and contribution of Egyptian
+and non-Egyptian parties, the means of subscription, and the
+authentication of signatures. However, by contrast, Law No
+3 of 1997, the law most directly connected with the
+construction and management of airports, does not contain
+any explicit requirements relating to the capital of an
+investor. In fact, Article 1 of Law No 3 of 1997, by
+providing that airport concessions may be granted to
+Egyptian or foreign investors “whether natural or juridical
+persons” suggests there is no mandatory capital
+requirements.
+
+§73.- [73.1] The issue here was the method of financing
+of the project. The Claimant considered that the capital
+requirements were satisfied, at least provisionally, by
+increasing the authorised capital to £100 million. Whether
+this capital was subscribed and issued, or finance was
+arranged from alternative sources, was an issue that might be
+addressed during the performance of the Concession
+Contract. By contrast, the Egyptian officials considered this
+to be an important substantive requirement at the outset.
+
+[73.2] The different perceptions of this issue led to
+confusion. The Claimant was casual in the presentation of its
+documentation and in response to questions, and did not
+distinguish between authorised (and not paid) and issued
+(paid-up) capital. The Egyptian officials for their part, in an
+issue of this importance, could have made further
+independent inquiries. The different importance referred to
+
+Page 20
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+above given to the capital requirements of investors in Laws
+No 3 and 8 of 1997 may have contributed to these distinct
+perceptions.
+
+[73.3] The Arbitral Tribunal is satisfied that the Arab
+Republic of Egypt committed an essential mistake in
+entering into the Concession Contract in that it believed that
+the registered and paid-up capital of the Claimant was £100
+million. Further, it is satisfied that the Claimant could have,
+and should have, detected this mistake, and that the mistake
+is of such gravity that had it not been committed the Arab
+Republic of Egypt would not have entered into the
+Concession Contract.
+
+[73.4] Article 120 and 121 of the Civil Code provide for
+essential mistake. These Articles read as follows:
+
+Art. 120 - A party to a contract may demand the
+avoidance of the contract if he committed an
+essential mistake, if the other party committed
+the same mistake or had knowledge thereof, or
+could have easily detected the mistake.
+
+Art. 121 — A mistake is an essential mistake
+when its gravity is of such a degree that if it had
+not been committed, the party who was
+mistaken, would not have concluded the
+contract.
+
+The mistake is deemed to be essential more
+particularly:
+
+(a) when it has a bearing on the quality of the
+thing, which the parties have considered
+essential or which must be deemed essential,
+taking into consideration the circumstances
+surrounding the contract and the good faith that
+should prevail in business relationships.
+
+(b) when it has a bearing on the identity or on
+one of the qualities of the person with whom the
+contract is entered into, if this identity or this
+quality was the principal factor in the conclusion
+of the contract.
+
+[73.5.] The responsibility for this mistake rests
+primarily with the Claimant for the ambiguous information it
+provided in circumstances when it should have realised the
+importance of the issue of paid up capital to the Egyptian
+officials. However, there is also some responsibility of the
+Egyptian officials in failing to clarify the importance of this
+
+Page 21
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+issue or to make independent inquiries. The Arbitral
+Tribunal assesses the respective responsibility of the Parties
+as ninety percent with the Claimant and ten percent with the
+Respondent.
+
+§74.- [74.1] The Arbitral Tribunal therefore declares the
+Concession Contract is void for mistake. The consequences
+are described in Articles 138-144 to the Egyptian Civil Code
+and particularly Article 142 which reads as follows:
+
+Art. 142 — When a contract is void or annulled,
+the parties are reinstated in their position prior
+to the contract. If such reinstatement is
+impossible, damages equivalent to the loss may
+be awarded.
+
+[74.2] The Arbitral Tribunal notes that the Concession
+Contract contains express provisions for compensation in the
+event of cancellation of the Contract by the Republic of
+Egypt (see Article 19.1.3). However, as the Arbitral Tribunal
+has found that the Concession Contract is void for mistake it
+considers that the damages should be calculated in
+accordance with Article 142 of the Civil Code on the basis of
+damages in lieu of reinstatement.
+
+E4. Analysis: a basis that was neither pleaded nor argued?
+
+35.
+
+36.
+
+37.
+
+As can be seen from section E3 above, the truncated tribunal did not rule on Egypt’s
+claim that it was entitled to avoid the concession contract for fraud. Instead it held that
+it was sufficient to rule that there had been an “essential mistake”. It was on that
+footing that the truncated tribunal then proceeded to grant damages to Malicorp — but
+not to Egypt. For this purpose the truncated tribunal relied on a power under art 142
+of the Egyptian Civil Code to award damages where a contract is void or annulled,
+and reinstatement of the parties to their position prior to the contract is impossible.
+
+On the face of the award there is no suggestion that Malicorp ever claimed damages
+under article 142. Nor has Malicorp identified anything in writing which makes such a
+claim. Nor does the transcript record any indication during the course of the hearing
+that anyone had in mind an award of damages under that article. As to what Malicorp
+sought, right up to the time of the award, the truncated tribunal made the position
+clear in paragraph 64: Malicorp’s claim was for compensation only for breaches of
+the concession contract.
+
+Malicorp has relied on a passage in the transcript as indicating that the Chairman was
+asking Egypt what their view would be if the arbitral tribunal, without seeking to
+prejudge any issue, were to find that there was no proven evidence of fraud or forgery
+and that what they simply found instead was that there had been a misrepresentation. I
+am prepared to accept that this question is similar to asking what the position would
+
+Page 22
+
+38.
+
+39.
+
+40.
+
+Al.
+
+42.
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+be if there had been an error but no fraud. What it does not show, however, is that
+Egypt had any notice of a proposal to award damages under article 142.
+
+There is also a suggestion by Malicorp that the transcript is unreliable and that they
+should be permitted to supplement it by relying on a witness statement of Mr Frederic
+Soliman, a member of Malicorp’s legal team at the hearing. In response Egypt has
+advanced a number of criticisms of the witness statement. In large part, however, I
+need not examine these criticisms, and I consider it undesirable to do so. For present
+purposes I can assume that, with an exception identified below, what is said in the
+witness statement is accurate.
+
+Mr Soliman’s statement draws attention to an opinion of Mr Yassin dated 12
+September 2005. That opinion was relied on by Malicorp in the course of the Cairo
+arbitration. It discusses entitlement under Egyptian law to annul a contract both for
+significant error and for fraud. The opinion specifically cites articles 120, 125, 138,
+139 and 140 of the Egyptian Civil Code. It does not cite any article subsequent to
+article 140, and in particular does not cite article 142. There is a suggestion by Mr
+Soliman that the opinion set out how relevant issues were covered under articles 120
+to 142 of the Egyptian Civil Code, but in stating that Mr Yassin’s opinion went
+beyond article 140 Mr Soliman is plainly mistaken.
+
+Mr Soliman adds in paragraph 17 of his statement that Malicorp’s counsel referred at
+the hearing to article 141. This takes matters no further. Nowhere in Mr Soliman’s
+statement is there any identification by him of any specific occasion when, during the
+course of the Cairo arbitration, there was a suggestion that article 142 had any
+relevance or might give rise to any award of damages against Egypt.
+
+In these circumstances I have no doubt whatsoever that the award of damages under
+article 142 must have been a complete surprise to Egypt. So, too, must have been the
+basis upon which such an award was made — apportioning to the Republic 10%
+responsibility for the relevant mistake, and allowing as the major part of the award a
+substantial sum for loss of profit. It would have been astonishing, if there had been
+any suggestion that this was in contemplation, that Egypt would fail to protest that the
+tribunal ought to make a finding on its case on fraud rather than allocate responsibility
+on the footing of a good faith mistake on the part of Malicorp. It would similarly have
+been astonishing, if there had been any suggestion that damages in place of
+reinstatement were contemplated, that Egypt would fail to protest that such damages
+could not properly incorporate an element for loss of profit. There were undoubtedly
+strong arguments for Egypt to advance in these respects among others. The notion
+that, in the absence of any mention of these matters, Egypt could and should have
+anticipated the basis of proceeding adopted in the Cairo award, is to my mind
+manifestly repugnant to elementary principles of fairness.
+
+The failure of the tribunal to ensure that Egypt had warning of these matters can only
+constitute a serious breach of natural justice. In so far as I have any discretion to
+enforce the award despite that breach, I decline to do so: the breach is too serious, and
+the consequences for Egypt are too grave. It is suggested that the hearing be
+reconvened so that Mr Soliman can give evidence and be cross-examined. I decline to
+take this course: for the reasons given above, Mr Soliman’s statement cannot assist
+Malicorp.
+
+Page 23,
+
+High Court Approved Judgment: Malicorp Ltd v Egypt [2015] EWHC 361 (Comm)
+Mr Justice Walker, 19 February 2015
+
+F. Egypt’s other grounds for setting aside
+
+43. My conclusions in each of sections D and E above have the consequence that it is not
+necessary to consider either Egypt’s alternative case based on issue estoppel in
+relation to inability to present its case, or Egypt’s third and fourth grounds for
+resisting enforcement. In my view the issues which would or might fall for
+consideration on those matters are not necessarily straightforward, and are best left to
+be dealt with in a context where they would be determinative of the outcome.
+
+G Conclusion
+
+44. For the reasons given above I grant Egypt’s application to set aside the order for
+enforcement of the Cairo award.
+
+Page 24
+

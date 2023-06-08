@@ -1,0 +1,828 @@
+Case 1:18-cv-02228 Document 1 Filed 09/26/18 Page 1 of 22
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ENTES INDUSTRIAL PLANTS
+CONSTRUCTION AND ERECTION
+CONTRACTING CO. INC.,
+
+Petitioner,
+v.
+THE KYRGYZ REPUBLIC and THE
+MINISTRY OF TRANSPORT AND
+COMMUNICATIONS OF THE KYRGYZ
+REPUBLIC,
+
+Respondents.
+
+Civ. No. 18-2228
+
+ 
+
+PETITION TO CONFIRM AND ENFORCE FOREIGN ARBITRAL AWARD
+
+Andreas A. Frischknecht
+Theodore R. Debonis (pending pro hac admission)
+
+CHAFFETZ LINDSEY LLP
+1700 Broadway, 33rd Floor
+
+New York, NY 10019
+
+Tel. (212) 257-6960
+
+Fax (212) 257-6950
+
+Attorneys for Petitioner Entes Industrial Plants
+Construction and Erection Contracting Co. Inc.
+
+Case 1:18-cv-02228 Document 1 Filed 09/26/18 Page 2 of 22
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page
+
+PRELIMINARY STATEMENT 1
+PARTIES 3
+JURISDICTION AND VENUE 5
+FACTS AND BACKGROUND 6
+A. The Parties’ Contract 6
+B. Entes’ Performance of the Contract 8
+C. The Arbitration 9
+ARGUMENT 15
+A. Entes Has Satisfied All of the Statutory Conditions for Confirmation and Enforcement............... 15
+
+ 
+
+B. None of the Limited Grounds to Refuse Confirmation and Enforcement Exist....
+
+CONCLUSION 18
+
+Case 1:18-cv-02228 Document 1 Filed 09/26/18 Page 3 of 22
+
+TABLE OF AUTHORITIES
+
+Cases
+
+Africard Co. v. Republic of Niger,
+210 F. Supp. 3d 119 (D.D.C. 2016)
+
+Argentine Republic v. National Grid PLC,
+637 F.3d 365 (D.C. Cir. 2011).
+
+BCB Holdings Ltd. v. Government of Belize,
+110 F. Supp. 3d 233 (D.D.C. 2015).
+
+Belize Bank Limited v. Government of Belize,
+191 F. Supp. 3d 26 (D.D.C. 2016)
+
+Belize Social Developmental Ltd. v. Government of Belize,
+794 F.3d 99 (D.C. Cir. 2015).
+
+Compagnie des Bauxites de Guinee v. Hammermills, Inc.,
+Civ. A. No. 90-0169 (JGP), 1992 WL 122712 (D.D.C. May 29, 1992)
+
+Compagnie Noga D’Importation et D’Exportation, S.A. v. Russian Federation,
+
+Page(s)
+
+15, 18
+
+15,17
+
+ 
+
+ 
+
+361 F.3d 676 (2d Cir. 2004)
+
+Creighton Ltd. v. Government of State of Qatar,
+181 F.3d 118 (D.C. Cir. 1999).
+
+Garb v. Republic of Poland,
+440 F.3d 579 (2d Cir. 2006)
+
+ 
+
+Ministry of Defence & Support for the Armed Forces of the Islamic Republic of Iran v. Frym,
+
+814 F.3d 1053 (9th Cir. 2016)
+
+ 
+
+Price v. Socialist People’s Libyan Arab Jamahiriya,
+294 F.3d 82 (D.C. Cir. 2002)
+
+Roeder v. Islamic Republic of Iran,
+333 F.3d 228 (D.C. Cir. 2003).
+
+Stati v. Republic of Kazakhstan,
+199 F. Supp. 3d 179 (D.D.C. 2016).
+
+Transaero, Inc. v. La Fuerza Aerea Boliviana,
+30 F.3d 148 (D.C. Cir. 1994).
+
+iii
+
+Case 1:18-cv-02228 Document 1 Filed 09/26/18 Page 4 of 22
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Statutes
+
+9US.C. § 201 5,18
+9US.C. § 202 18
+9US.C. § 203 5,17
+9US.C. § 204 6
+9 U.S.C. § 207 17, 18
+28 U.S.C. § 1330 5,6, 16, 17
+28 U.S.C. § 1391 6,17
+28 U.S.C. § 1603 6
+28 U.S.C. § 1605 6, 16, 17
+28 U.S.C. § 1606 6,17
+28 U.S.C. § 1607 6,17
+
+ 
+
+28 U.S.C. § 1608 6,17
+
+Case 1:18-cv-02228 Document 1 Filed 09/26/18 Page 5 of 22
+
+Petitioner Entes Industrial Plants Construction and Erection Contracting Co. Inc. (“Entes”
+or “Petitioner”), by and through its attorneys, alleges as follows in support of its petition (the
+“Petition”) for entry of an order confirming and recognizing, pursuant to the United Nations
+Convention on the Recognition and Enforcement of Foreign Arbitral Awards, 21 U.S.T. 2517
+(the “New York Convention” or the “Convention’”) and Chapter 2 of the Federal Arbitration Act,
+9 US.C. § 201 et seg. (the “FAA”), the final arbitral award (the “Award”) dated September 29,
+2015 in the arbitration (the “Arbitration”) between Petitioner on the one hand and Respondent
+The Ministry of Transport and Communications of the Kyrgyz Republic (the “Ministry”) on the
+other hand. The Arbitration was captioned Entes Industrial Plants Construction and Erection
+Contracting Co. Inc. v. The Ministry of Transport and Communications of the Kyrgyz Republic,
+and was conducted in Bishkek, Kyrgyz Republic under the 1976 version of the UNCITRAL
+Arbitration Rules. Petitioner Entes respectfully seeks an order: (1) entering judgment in
+Petitioner’s favor against the Kyrgyz Republic (the “Republic”) in the amount of the Award,
+with interest and costs as provided therein; (2) awarding Petitioner post-judgment interest at the
+applicable statutory rate; and (3) awarding Petitioner such further relief as the Court deems just
+and proper.
+
+PRELIMINARY STATEMENT
+
+Petitioner brings this proceeding under the FAA and the New York Convention to
+confirm and recognize the Award rendered by an international arbitral tribunal against the
+Ministry and to enter judgment against the Republic in the aggregate principal amount of
+approximately $16.6 million, plus interest. The Ministry is treated as the Republic itself under
+the Foreign Sovereign Immunities Act, 28 U.S.C. §§ 1602-1611 (the “FSIA”). See Roeder v.
+
+Islamic Republic of Iran, 333 F.3d 228, 234-35 (D.C. Cir. 2003) (holding that Iran’s “Ministry
+
+Case 1:18-cv-02228 Document 1 Filed 09/26/18 Page 6 of 22
+
+of Foreign Affairs must be treated as the state of Iran itself’ because this Circuit has “adopted a
+categorical approach: if the core functions of the entity are governmental, it is considered the
+foreign state itself”).
+
+The underlying dispute that gave rise to the Award arose out of a contract between
+Petitioner and the Ministry executed in August 1999 (the “Contract”). Under the Contract, Entes
+agreed to act as contractor for a road construction project called the Second Road Rehabilitation
+Project Bishkek-Osh Road Civil Works (the “Works”), a job that required Entes to rehabilitate
+two sections of the 620-kilometer road connecting the cities of Bishkek and Osh in the Republic.
+In the Contract, the location of the Works was described as follows:
+
+The Works are located roughly south-west of Bishkek in a mountainous area of
+
+the Tien Shan range with elevations ranging from about 1000 m to 2200 m. The
+
+terrain is mountainous and much of the road alignment is tortuous having
+
+numerous tight curves and steep gradients.
+
+The Works required construction or repair to the carriageway, shoulders, slope stability, drainage
+system, structures and road furniture, and road alignments. The scope of work also required
+repairing existing bridges and tunnels, and broadening those structures to accommodate the full
+width of the new road.
+
+Entes initially targeted a December 3, 2002 completion date. Following extensive delay,
+and corresponding requests to prolong the timeframe for completion, Entes finished the project
+on October 12, 2005. The causes of delay included design changes, late instructions, additional
+work added to the project, material shortages, inclement weather, and political unrest, in
+particular the Tulip Revolution of March-April 2005. On completion of the project, on March
+17, 2006, Entes submitted a Statement of Completion to the engineering consultants overseeing
+
+the Works that claimed an additional $22,982,039.25, primarily in compensation for costs for the
+
+Case 1:18-cv-02228 Document 1 Filed 09/26/18 Page 7 of 22
+
+extended period of construction. However, the engineering consultants granted Entes only an
+additional $1,161,870.19. Entes appealed the decision, but was rejected.
+
+On January 15, 2009, Entes commenced arbitration seeking to recover the amounts
+rightfully owed by the Ministry, including the costs associated with the extended period of
+completion for the Works. The total amount sought by Entes was $25,359,472.27, plus interest
+and Arbitration costs. The Ministry counterclaimed, seeking $487,238 primarily for its legal
+fees.
+
+A three-member tribunal was constituted and initial instructions provided to Entes and
+the Ministry in December 2009. The Arbitration subsequently suffered serious delays. Entes
+submitted its Statement of Claim on March 15, 2010; the Ministry submitted its Statement of
+Defence on March 31, 2011; and the tribunal held a procedural hearing on April 27, 2011 to
+provide further instruction regarding written submissions and an evidentiary hearing. An
+evidentiary hearing was finally held in October 2011 in Bishkek, and the parties submitted
+additional expert reports, correspondence, and claims for costs from 2012 through 2015. On
+September 29, 2015, the tribunal unanimously awarded Entes $16,388.631.59 for costs related to
+the Works and $225,000 representing the Ministry’s share of the costs and fees of the
+Arbitration, plus interest at one month LIBOR plus 2%.
+
+PARTIES
+
+1. Petitioner Entes Industrial Plants Construction and Erection Contracting Co. Inc.
+
+is a company organized under the laws of Turkey, with its principal place of business at
+
+Biiyiikdere Cad. No. 107, Kat 5 Bengiin Han Gayrettepe — Istanbul, Turkey.
+
+Case 1:18-cv-02228 Document 1 Filed 09/26/18 Page 8 of 22
+
+2. Respondent The Ministry of Transport and Communications of the Kyrgyz
+Republic is part of the Government of the Kyrgyz Republic with its headquarters at 42 Isanov
+Street, Conference hall, 6/F, MOTC Bishkek City 720017, Kyrgyz Republic.
+
+3. Respondent The Kyrgyz Republic is a foreign state located in Central Asia,
+bordering Kazakhstan, Uzbekistan, Tajikistan and China.
+
+4. For all purposes in this action, including jurisdiction under the FSIA, the Ministry
+and the Republic should be treated as one and the same. The D.C. Circuit has held that a foreign
+state’s Ministry of Foreign Affairs must be treated as the foreign state itself under the FSIA. See
+Roeder vy. Islamic Republic of Iran, 333 F.3d 228, 234-35 (D.C. Cir. 2003) (holding that Iran’s
+Ministry of Foreign Affairs must be “treated as the state of Iran itself’ because “[t]he conduct of
+foreign affairs is an important and ‘indispensable’ governmental function”). The same holds true
+for a foreign state’s other ministries that perform governmental functions (such as the Ministry
+here). See, e.g., Ministry of Def. & Support for the Armed Forces of the Islamic Republic of Iran
+v. Frym, 814 F.3d 1053, 1055 n.3 (9th Cir. 2016) (noting that Iran’s “Ministry of Defense is an
+inseparable part of the Republic of Iran, and it therefore qualifies as a ‘foreign state’ within the
+meaning of the FSIA”); Garb v. Republic of Poland, 440 F.3d 579, 595 (2d Cir. 2006) (treating
+Poland’s Ministry of the Treasury as part of the Polish state itself for purposes of determining the
+Ministry’s immunity from suit under the FSIA); see also Transaero, Inc. v. La Fuerza Aerea
+Boliviana, 30 F.3d 148, 153 (D.C. Cir. 1994) (holding that a foreign state’s “armed forces are as
+atrule so closely bound up with the structure of the state that they must in all cases be considered
+as the ‘foreign state’ itself, rather than a separate ‘agency or instrumentality’ of the state”).
+
+5. This Court has personal jurisdiction over the Ministry and the Republic in this
+
+proceeding regardless of the nature or extent of the Ministry’s contacts with Washington, D.C. or
+
+Case 1:18-cv-02228 Document 1 Filed 09/26/18 Page 9 of 22
+
+the United States because the Republic, as a foreign state, is not entitled to due process
+protections. See Price v. Socialist People’s Libyan Arab Jamahiriya, 294 F.3d 82, 96 (D.C. Cir.
+2002) (“[F]oreign states are not ‘persons’ protected by the Fifth Amendment.”).
+
+6. Accordingly, the Ministry should, for all purposes, be treated as the Republic
+itself and thus indistinguishable, jurisdictionally and for purposes of confirmation and
+enforcement, from the Republic. See Compagnie Noga D’Importation et D’Exportation, S.A. v.
+Russian Fed’n, 361 F.3d 676, 677 (2d Cir. 2004) (holding that “a foreign arbitration award can
+be confirmed and enforced against a sovereign nation where the arbitration agreement was
+signed by an organ of that nation’s central government and where that organ—and not the nation
+itself—participated in the underlying arbitration proceedings”). Notably, the Superior Court of
+Justice of Ontario, Canada has already entered judgment against the Republic itself on the very
+same Award that is the subject of this Petition. See Entes v. Kyrgyz Republic, 2016 ONSC
+7221.!
+
+JURISDICTION AND VENUE
+
+7. This Court has subject matter jurisdiction over this proceeding pursuant to 9
+US.C. §§ 201 and 203, which provide that the United States District Courts shall have original
+subject matter jurisdiction over a proceeding governed by the New York Convention. Both the
+Republic and the United States are signatories to the New York Convention, which calls for the
+recognition and confirmation of the Award in favor of Petitioner.
+
+8. This Court also has subject matter jurisdiction pursuant to 28 U.S.C. § 1330(a),
+which provides that the United States District Courts shall have original subject matter
+
+jurisdiction over any nonjury civil action against a foreign state, as defined in 28 U.S.C. §
+
+' Available at https://www.canlii.org/en/on/onsc/doc/2016/20160nsc7221/20160nsc7221.html.
+
+ 
+
+Case 1:18-cv-02228 Document1 Filed 09/26/18 Page 10 of 22
+
+1603(a), unless the foreign state is entitled to immunity under 28 U.S.C. §§ 1605-1607 or an
+applicable international agreement. The Ministry and the Republic are the same “foreign state”
+within the meaning of 28 U.S.C. § 1603(a). The FSIA denies immunity to a foreign state in an
+action to enforce an international commercial arbitral award. 28 U.S.C. § 1605(a)(6); see
+Creighton Ltd. v. Gov’t of State of Qatar, 181 F.3d 118, 123 (D.C. Cir. 1999) (section 1605(a)(6)
+“applies by its terms” to the “enforcement of any arbitral award rendered within the jurisdiction
+of a signatory country” to the New York Convention). Therefore, Respondents are not immune
+from suit in this action, and this Court has subject matter jurisdiction.
+
+9. The Court has personal jurisdiction over Respondents pursuant to 28 U.S.C. §
+1330(b), which provides that a United States District Court shall have personal jurisdiction over
+a foreign state that is not immune from suit, provided that service of process is effected in
+accordance with 28 U.S.C. § 1608(a). Petitioner will serve Respondents according to 28 U.S.C.
+§ 1608(a), which governs service on foreign states.
+
+10. Venue is proper pursuant to 9 U.S.C. § 204 and 28 U.S.C. § 1391(f).
+
+FACTS AND BACKGROUND
+A. The Parties’ Contract
+
+11. In the beginning of the 1990s, the Government of Kyrgyzstan decided to
+rehabilitate the 620-kilometer road that connects the country’s two largest cities, Bishkek and
+Osh. Akinci Decl. Ex. A, at J 24.2 The Bishkek-Osh Road traverses the Tien Chan Mountains in
+
+central Kyrgyzstan. Id.
+
+2
+
+Citations to the “Akinci Decl.” refer to the Declaration of Professor Doctor Ziya Akinci in
+Support of Petitioner’s Petition to Confirm and Enforce a Foreign Arbitral Award, dated
+September 24, 2018.
+
+Case 1:18-cv-02228 Document1 Filed 09/26/18 Page 11 of 22
+
+12. After reviewing public bids, the Ministry awarded the project to Entes. /d., at J
+26. On August 30, 1999, Claimant and Respondent executed the Contract detailing the scope of
+work required, timeframe for completion, and other terms of agreement. Jd.
+
+13. The Contract consists of a number of individual documents; the most important
+
+for purposes of the Arbitration and this Petition are the following:
+
+e The Letter of Acceptance and Minutes of Contract Negotiations;
+e The bid by the Contractor;
+
+e Conditions of Particular Application (CPA);
+
+e General Conditions of Contract (GCC);
+
+e Special Specifications;
+
+e General Specifications;
+
+e Special Requirements; and
+
+e The Priced Bill of Quantities.
+
+Id., at J 27.
+
+14. The Special Specifications described the location of the project as follows:
+The Works are located roughly south-west of Bishkek in a mountainous
+area of the Tien Shan range with elevations ranging from about 1000 m to
+2200 m. The terrain is mountainous and much of the road alignment is
+tortuous having numerous tight curves and gradients.
+
+Id., at J 28.
+
+15. The scope of work included rehabilitation and improvement work of the
+
+carriageway, shoulders, slope stability, drainage system, structures and road furniture, as well as
+the construction of new alignments in some sections of the road. Additionally, existing bridges
+required repair and broadening to accommodate the full width of the road, and two short tunnels
+required repair. Id., at (29.
+
+16. The Contract provides for settlement of disputes by UNCITRAL arbitration in
+
+Bishkek in accordance with the law in force in the Republic. /d., at { 31. The civil engineering
+
+Case 1:18-cv-02228 Document1 Filed 09/26/18 Page 12 of 22
+
+consultancy Japan Overseas Consultants Co. Ltd. was appointed as the Engineer, with the duties
+and authority defined in Clause 2.1 of the Conditions of Particular Application. Jd., at J 32.
+B. Entes’ Performance of the Contract
+
+17. Entes began work on the Works in January 2000 (id. at { 38) but soon
+experienced a variety of problems that caused delay and additional costs including design
+changes, late instructions and additions to the project, material shortages, inclement weather, and
+political unrest. Jd., at { 35.
+
+18. Although the original contractual Time for Completion was December 3, 2002,
+Entes completed its work on October 12, 2005. Id., at [J 39, 40.
+
+19. Between July 2002 and June 2005, Entes applied for five extensions of the time
+for completion and was granted extensions totaling 637 days out of the total 1,043-day delay.
+Id., at J] 40-45.
+
+20. In May and December 2003, the parties executed four addenda to the Contract
+that included extensions of the timeframe for completion. /d., at { 33. Entes submitted claims
+for additional compensation for the delays and increased costs. Id., at { 34. Some of Entes’
+submissions were accepted by the Ministry and Engineer and some were rejected. Id.
+
+21. Following completion of the Works, Entes submitted its Statement of Completion
+to the Engineer on March 17, 2006. /d., at { 47. In its Statement of Completion, Entes claimed
+compensation in the amount of $24,532,304.24 for additional, unpaid costs related to project
+delays. Id., at { 48. On May 18, 2005, the Engineer awarded Entes $1,187,035.20 in additional
+compensation. Jd, at { 49. The Engineer subsequently rejected Entes’ appeal of the
+
+$1,187,035.20 amount. /d., at f{[ 50, 51.
+
+Case 1:18-cv-02228 Document1 Filed 09/26/18 Page 13 of 22
+
+C. The Arbitration
+22. On January 15, 2009, Entes initiated arbitration proceedings pursuant to Clause
+67.3 of the General Conditions of Contract (“GCC”) by Notice of Arbitration to Respondent.
+Id., at 52. Clause 67.3 of the GCC provides:
+Any dispute in respect of which:
+
+(a) the decision, if any, of the Engineer has not become final and binding
+pursuant to sub-clause 67.1, and
+
+(b) amicable settlement has not been reached within the period stated in
+Sub-clause 67.2,
+
+shall be finally settled, unless otherwise specified in the Contract, under
+the Rules of Conciliation of Commerce by one or more arbitrators
+appointed under such Rules. The said arbitrator/s shall have full power to
+open up, review and revise any decision, opinion, instruction,
+determination, certification or valuation of the Engineer related to the
+dispute.
+
+Neither party shall be limited in the proceedings before such arbitrator/s to
+the evidence or arguments put before the Engineer for the purpose of
+obtaining his said decision pursuant to Sub-Clause 67.1. No such decision
+shall disqualify the Engineer from being called as a witness and giving
+evidence before the arbitrator/s on any matter whatsoever relevant to the
+dispute.
+
+Arbitration may be commenced prior to or after completion of the Works,
+provided that the obligations of the Employer, the Engineer and the
+Contractor shall not be altered by reason of the arbitration being
+conducted during the progress of the Works.
+Akinci Decl. Ex. A, at J 139.
+23. Clause 67.3 of the Conditions of Particular Application (“CPA”) modified Clause
+67.3 of the GCC by replacing the reference to “the Rules of Conciliation and Arbitration of the
+
+International Chamber of Commerce” with “the UNCITRAL arbitration rules” and adding that
+
+“the arbitration shall take place in Bishkek.” /d., at { 140.
+
+Case 1:18-cv-02228 Document1 Filed 09/26/18 Page 14 of 22
+
+24. An arbitral tribunal (the “Tribunal”) consisting of Professor Turgut Oz (appointed
+by Entes), Professor Sergei Lebedev (appointed by the Ministry), and Michael E. Schneider
+(chosen by the two party-appointed arbitrators as Presiding Arbitrator) was duly established to
+adjudicate the parties’ claims. Id., at {J 19-23.
+
+25. The Tribunal issued several procedural orders and established dates for the
+exchange of documents and a final hearing. The full procedural history of the Arbitration is set
+forth in the Award. See id., at J] 52-131.
+
+26. Entes filed a Statement of Claim on March 15, 2010. /d., at (57.
+
+27. On April 14, 2010, the Ministry’s arbitration counsel wrote to the Tribunal and,
+with reference to then-existing civil unrest in the Republic, asked “to postpone the proceedings
+for a period not less than 6 months, at least until the formation of new Government and obtaining
+of authorities (power of attorney) on representation of interests of the [Ministry].” /d., at 1 58.
+
+28. Over the ensuing six months, the Tribunal granted extensions of the period of
+time within which the Ministry’s counsel was to confirm its continued authority to represent the
+Ministry in the Arbitration. Jd., at {{[ 59-67.
+
+29. On December 30, 2010, the law firm representing the Ministry confirmed that its
+authority had been restored. /d., at { 68.
+
+30. The Tribunal thereafter extended the Ministry’s deadline for filing a Statement of
+Defence until March 31, 2011, and the Ministry submitted its Statement on that date. Jd., at {| 69.
+
+31. The Tribunal held a four-day hearing beginning October 18, 2011. /d., at { 95.
+Following the hearing, the Tribunal accepted additional expert reports, supporting
+
+documentation, and final written submissions from the parties. /d., at [| 103-105.
+
+Case 1:18-cv-02228 Document1 Filed 09/26/18 Page 15 of 22
+
+32. In its Post-Hearing Submission dated February 20, 2012, Entes detailed its request
+for relief as follows:
+
+(1) An award from the Tribunal of additional payment in the amount of
+$24,195,975.18 or such other amount corresponding to the Extension of
+Time that the Tribunal considers is reasonably and properly due to [Entes];
+
+(2) An award from the Tribunal that the [Ministry] pays an amount of
+$151,889.38 corresponding to the interest on late payments;
+
+(3) An award from the Tribunal that the [Ministry] pays an amount of
+$202,304.20 for the claim corresponding to guardrails and the end
+terminals/sloping sections of guardrails;
+
+(4) An award from the Tribunal that the [Ministry] pays an amount of
+$185,748.62 corresponding to the claim for the Value Added Tax;
+
+(5) An award from the Tribunal that the [Ministry] pays an amount of
+$39,969.47 corresponding to the claim for the Road and Emergency Tax;
+
+(6) An award from the Tribunal that the [Ministry] pays an amount of
+$39,490.00 corresponding to the claim for damages to [Entes]’s equipment
+during the political unrest;
+
+(7) An award from the Tribunal that the [Ministry] pays an amount of
+$123,936.54 corresponding to the claim for the Road Grader Case;
+
+(8) An award from the Tribunal that the [Ministry] pays an amount of
+$379,519.65 corresponding to the claim for damages arising out of the
+sub-contract with Interakt;
+
+(9) An award from the Tribunal that the [Ministry] pays an amount of
+$40,639.23 corresponding to the claim for the debts of the Nominated
+Subcontractor JASU;
+
+(10) An award from the Tribunal that the [Ministry] pays to [Entes] such
+other relief as the Arbitral Tribunal deems appropriate under the
+circumstances, or such other amount that the Tribunal considers is
+reasonably and properly due to [Entes];
+
+(11) An award from the Tribunal that the [Ministry] pays interest to
+[Entes] in the amount representing the interest for the period between the
+outstanding date and the date of the payment to the amounts claimed, and
+a fine; and
+
+(12) An award from the Tribunal ordering the [Ministry] to pay: (i) the full
+costs of the arbitration (that is to say all monies paid to the Tribunal in
+
+11
+
+Case 1:18-cv-02228 Document1 Filed 09/26/18 Page 16 of 22
+
+respect of the Tribunal's fees and other costs); and (ii) all of [Entes]’s costs
+reasonably and properly incurred in the arbitration.
+
+Akinci Decl. Ex. A, at { 133. Entes also sought $1,335,068.37 for its costs and fees related to
+the Arbitration. /d., at { 134.
+
+33. For its part, the Ministry in its Final Submission requested that Entes’ claims be
+dismissed and that the Ministry be awarded “the arbitration costs, legal and other costs incurred
+in the course of the present arbitral proceedings, including also the following expenses of the
+[Ministry]”:
+
+(1) $225,000.00 for Arbitration costs;
+
+(2) $130,000.00 for legal services of the [Ministry] Law Firm Partner;
+
+(3) $357,150.00 for preparation of expert reports;
+
+(4) $2,358.00 other miscellaneous expenses of the [Ministry];
+
+(5) and other expenses connected with this Arbitration.
+Id., at { 137. In a separate claim for Arbitration costs, the Ministry sought an additional
+$487,238 for legal advisors, expert reports, hearing expenses, and taxes. Jd., at J] 138, 769.
+
+34, On September 29, 2015, the Tribunal rendered its Award, unanimously finding
+that Entes was owed compensation for the extended timeframe of the Works project plus other
+associated costs (the “Awarded Amounts”), and further ordering as follows:
+
+(i) The [Ministry] must pay to [Entes]:
+(a) $16,275,156.88 on account of the claim for Prolongation Costs;
+(b) $59,506 on account of the claim for interest on late payment;
+(c) $53,968.71 on account of the claim for Guardrails;
+
+(ii) The claims on account of (a) Value Added Tax, (b) Road and
+
+Emergency Tax, (c) Equipment Damaged During Political Unrest, (d) the
+
+Interakt case, (e) the Road Grader Case and (f) debts of the Nominated
+Subcontractor JASU are dismissed;
+
+Case 1:18-cv-02228 Document1 Filed 09/26/18 Page 17 of 22
+
+(iii) The amounts awarded bear interest at one month LIBOR plus 2%
+from 13 May 2006 until full settlement;
+
+(iv) The [Ministry] shall pay US$225’000 to [Entes] on account of the
+share of the Tribunal’s costs and fees advanced by [Entes] plus interest as
+per above (iii) from the date of this award;
+(v) A party that pays the share of the other Party in the additional amount
+ordered by the Tribunal in the Procedural Order on Cost shall be entitled
+to reimbursement of this payment.
+(vi) Each Party shall bear its own costs of the arbitration.
+
+Akinci Decl. Ex. A, at { 779.
+
+35. With regard to its award of interest, the Tribunal explained that it had evaluated
+Entes’ and the Ministry’s positions articulated in their Final Submissions. /d., at {| 747-752.
+Entes argued that “the contractual interest shall be applied to the interest on [Entes]’s claim in
+this arbitration” and that the applicable rate should be “the interest rate pursuant to contract or
+the legal interest rate under Kyrgyz Law (whichever is higher).” Id., at [ 748 (emphasis added).
+For its part, the Ministry “did not consider the case in which the Tribunal would find that some
+amounts were due to [Entes]; nor did it address the contractual basis of the interest claim.” Jd.,
+at] 751.
+
+36. The Tribunal took note of the Ministry’s confirmation that the applicable legal
+interest rate under Kyrgyz Law includes “an additional penalty of 5%” but found that “the parties
+to a contract may make different arrangements for the payment of interest and under the
+principle of freedom to contract the contractual rates should be applied.” /d., at {| 750, 753.
+
+37. The controlling provision of the parties’ agreement concerning the interest due on
+unpaid amounts, Clause 60.8 of the CPA, provides in relevant part:
+
+In the event of the failure of the [Ministry] to make payment within the
+
+times stated, the [Ministry] shall pay to [Entes] interest compounded
+monthly at the rates stated in the Appendix to Tender upon all sums
+
+Case 1:18-cv-02228 Document1 Filed 09/26/18 Page 18 of 22
+
+unpaid from the date at which the same should have been paid, in the
+currencies in which the payments are due.
+
+Id., at [ 570; see also id., at { 755 (emphasis added).
+
+38. As the Tribunal further found, the Appendix to Tender referenced in Clause 60.8
+identified the interest rate to be applied as “LIBOR + 2%.” Id., at { 757. The Tribunal noted
+that Clause 60.8 “does not specify which LIBOR rate is applicable.” Jd. But “[s]ince Clause
+60.8 provides for monthly compounding, the Tribunal conclude[d] that the appropriate interest
+rate is the monthly LIBOR rate plus 2%.” Id.
+
+39. Accordingly, while the dispositive portion of the Award provides only that “[t]he
+amounts awarded bear interest at one month LIBOR plus 2% from 13 May 2006 until full
+settlement” (id., at {| 779(iii)), the Tribunal explicitly stated that it was awarding interest at this
+rate “[o]n the basis of the considerations set out above.” Jd., at { 779. And as demonstrated in
+the immediately preceding paragraphs 35-38 of this Petition, the “considerations set out above”
+in the Award, including Clause 60.8 of the CPA on which the Tribunal based its award of
+interest, make clear that Entes is entitled to interest compounded monthly at one month LIBOR
+plus 2%. As of the date of the Award, compound interest accruing monthly from May 13, 2006
+to September 29, 2015 at one month LIBOR plus 2% resulted in a total monetary award to Entes
+(including interest) of over $600 million. In the nearly three years since the Award was issued,
+compound interest has continued to accrue, such that the aggregate amount due and owing to
+Entes, as of the date of this filing, now totals nearly $2 billion.
+
+40. Despite numerous demands by Entes for payment of the amounts due under the
+
+Award, the Ministry has failed to pay any of the Awarded Amounts to Entes.
+
+Case 1:18-cv-02228 Document1 Filed 09/26/18 Page 19 of 22
+
+ARGUMENT
+
+Al. “Confirmation proceedings under the [New York] Convention are summary in
+nature, and the court must grant the confirmation unless it finds that the arbitration suffers from
+one of the defects listed in the Convention.” Argentine Republic v. National Grid PLC, 637 F.3d
+365, 369 (D.C. Cir. 2011). “[G]iven the strong public policy in favor of international arbitration,
+a party challenging an award under the New York Convention bears a heavy burden.” Belize
+Bank Limited v. Government of Belize, 191 F. Supp. 3d 26, 37 (D.D.C. 2016). Review of arbitral
+awards under the New York Convention is limited “to avoid undermining the twin goals of
+arbitration, namely, settling disputes efficiently and avoiding long and expensive litigation.” Jd.;
+see also BCB Holdings Ltd. v. Government of Belize, 110 F. Supp. 3d 233, 247 (D.D.C. 2015)
+(“Because the New York Convention provides only several narrow circumstances when a court
+may deny confirmation of an arbitral award, confirmation proceedings are generally summary in
+nature.”). Consistent with its purpose “to remove obstacles to confirmation,” the Convention
+manifests a “general pro-enforcement bias.” Compagnie des Bauxites de Guinee v.
+Hammermills, Inc., Civ. A. No. 90-0169 (JGP), 1992 WL 122712, at *5 (D.D.C. May 29, 1992).
+
+42. The Petition should be granted because, as demonstrated below, (1) all statutory
+conditions for confirmation and enforcement are satisfied; and (2) none of the limited grounds
+
+for refusal to confirm exist.
+
+A. Entes_Has_Satisfied_All_of the Statutory Conditions for Confirmation and
+Enforcement
+
+43. This Petition falls within the confirmation and enforcement regime of the
+Convention and satisfies the statutory requirements for confirmation and enforcement.
+44. Chapter 2 of the FAA, 9 U.S.C. § 201 ef seq., authorizes federal courts to enforce
+
+foreign arbitral awards that are governed by the New York Convention. Article I(1) of the
+
+15
+
+Case 1:18-cv-02228 Document1 Filed 09/26/18 Page 20 of 22
+
+Convention states that it “shall apply to the recognition and enforcement of arbitral awards . . .
+not considered as domestic awards in the State where their recognition or enforcement is
+sought.” Section 202 of the FAA provides that an award is considered non-domestic if it arises
+out of a legal relationship that is “not entirely between citizens of the United States” or that
+“involves property located abroad, envisages performance or enforcement abroad, or has some
+other reasonable relation with one or more foreign states.” 9 U.S.C. § 202; see Africard Co. v.
+Republic of Niger, 210 F. Supp. 3d 119, 123 (D.D.C. 2016). Here, the Award arose from a legal
+relationship between Entes (an entity organized under the laws of Turkey) on the one hand and
+the Ministry (a foreign state) on the other hand. Therefore, the Award is not “entirely between
+citizens of the United States.” Moreover, the legal relationship involved performance abroad in
+the Republic. See Africard Co. Ltd., 210 F. Supp. 3d at 123 (finding an award non-domestic
+“because it involves a dispute originating in Niger, and none of the parties are citizens of the
+United States”). Consequently, the Award is non-domestic and falls within the Convention.
+
+45. Articles II and IV of the Convention further require that a petition for
+enforcement be accompanied by a duly certified copy of the award and of the parties’ written
+agreement to arbitrate. A duly certified copy of the Award is appended to the Akinci Declaration
+as Exhibit A, and a true and correct copy of the GCC, which contains the parties’ written
+agreement to arbitrate in Clause 67.3, is appended to the Akinci Declaration as Exhibit B.
+Accordingly, these Convention requirements for confirmation and enforcement are satisfied.
+
+46. Moreover, this Court has jurisdiction to grant the Petition, and venue in this
+District is proper. This Court has subject matter jurisdiction under 28 U.S.C. §§ 1330(a) and
+1605(a)(6). See, e.g., Belize Social Developmental Ltd. v. Government of Belize, 794 F.3d 99,
+
+101-02 (D.C. Cir. 2015) (quoting § 1605(a)(6)’s statutory language). Additionally, this Court
+
+Case 1:18-cv-02228 Document1 Filed 09/26/18 Page 21 of 22
+
+has subject matter jurisdiction under 9 U.S.C. § 203, which confers federal jurisdiction in actions
+arising under the New York Convention. See, e.g., Stati v. Republic of Kazakhstan, 199 F. Supp.
+3d 179, 184 (D.D.C. 2016) (“The district courts of the United States ... shall have original
+jurisdiction over an action or proceeding falling under the Convention, regardless of the amount
+in controversy.”). This Court has personal jurisdiction over the Ministry under 28 U.S.C. §
+1330(b), which provides for personal jurisdiction over foreign states as long as service is effected
+pursuant to 28 U.S.C § 1608(a). See Price, 294 F.3d at 96 (‘“[FJoreign states are not ‘persons’
+protected by the Fifth Amendment.”). Venue is proper in this Court pursuant to 28 U.S.C. §
+1391(f).
+
+47. Finally, the Petition is brought within the three-year statute of limitations
+provided for by 9 U.S.C. § 207. See id. (“Within three years after an arbitral award falling under
+the Convention is made, any party to the arbitration may apply to any court having jurisdiction
+under this chapter for an order confirming the award as against any other party to the
+arbitration.”). The Award was rendered on September 29, 2015, and the Petition is therefore
+within the three-year period.
+
+B. None of the Limited Grounds to Refuse Confirmation and Enforcement Exist
+
+48. The FAA mandates that a court “shall confirm the award” unless one of the
+grounds for refusal specified in the Convention applies. 9 U.S.C. § 207 (emphasis added); see
+Belize Bank Ltd., 191 F. Supp. 3d at 27. “[A] party challenging an award under the New York
+Convention bears a heavy burden.” Jd. “[T]he burden of establishing the requisite factual
+predicate to deny confirmation of an arbitral award rests with the party resisting confirmation,
+and the showing required to avoid summary confirmation is high.” BCB Holdings Ltd., 110 F.
+
+Supp. 3d at 247 (internal quotations and citations omitted).
+
+Case 1:18-cv-02228 Document1 Filed 09/26/18 Page 22 of 22
+
+49. None of the grounds for refusing enforcement of an award set forth in Article
+V(1) of the Convention applies here. Nor do either of the grounds set forth in Article V(2) of the
+Convention apply.
+CONCLUSION
+For the foregoing reasons, Petitioner respectfully petitions this Court pursuant to Article
+
+IV of the Convention and 9 U.S.C. §§ 201, 202, and 207, to:
+
+a. enter an order confirming and enforcing the Award against Respondents;
+
+b. enter judgment that Respondent The Kyrgyz Republic is liable to Petitioner in the
+amount of $16,388,631.59 for costs associated with the Works, plus interest at one
+month LIBOR plus 2%, from May 13, 2006 as awarded in the Award, and $225,000
+for Petitioner’s share of the Tribunal’s costs and fees, plus interest at one month
+LIBOR plus 2%, from September 29, 2015 as awarded in the Award;
+
+c. enter judgment that Respondent The Kyrgyz Republic is liable to Petitioner for post-
+judgment interest at the applicable statutory rate;
+
+d. enter an order requiring Respondent The Kyrgyz Republic to pay the costs incurred
+by Petitioner in connection with this proceeding; and
+
+e. award such further relief as may be just and proper.
+
+Dated: New York, New York Respectfully submitted,
+September 26, 2018
+CHAFFETZ LINDSEY LLP
+
+By: /s/ Andreas A. Frischknecht
+Andreas A. Frischknecht
+DC Bar No. NY0213
+Theodore R. Debonis (pending pro hac
+admission)
+
+1700 Broadway, 33rd Floor
+
+New York, NY 10019
+
+Tel. (212) 257-6960
+
+Fax. (212) 257-6950
+a.frischknecht @ chaffetzlindsey.com
+
+Attorneys for Petitioner Entes Industrial
+Plants Construction and Erection
+Contracting Co. Inc.
+
